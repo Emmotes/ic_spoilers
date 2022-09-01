@@ -12,43 +12,28 @@ Tiefling Rogue of the Rivals of Waterdeep
 #### Abilities
 
 Rapier (Base Attack)
-```
-Kent strikes the closest enemy with his rapier.
-```
+> Kent strikes the closest enemy with his rapier.
 
 Ultimate: Wails from the Grave
-```
-The weather changes to fog. For 30 seconds, whenever Kent attacks, a ghostly spirit is summoned and attacks an additional enemy if possible dealing BUD damage.
-```
+> The weather changes to fog. For 30 seconds, whenever Kent attacks, a ghostly spirit is summoned and attacks an additional enemy if possible dealing BUD damage.
 
 Soul Trinket (Guess)
-```
-$(source_hero) keeps a soul trinket of the highest level boss defeated in each campaign (and the highest level boss defeated in all events) where he was present. $(source_hero) increases the damage of all Champions in his column by $(amount)% for each Soul Trinket level.
-```
+> Kent keeps a soul trinket of the highest level boss defeated in each campaign (and the highest level boss defeated in all events) where he was present. Kent increases the damage of all Champions in his column by $(amount)% for each Soul Trinket level.
 
 Nostalgia (Guess)
-```
-Each time $(source_hero) or the ghostly spirit from his ultimate attacks, he gains a Nostalgia stack that lasts until entering a new area. $(source_hero) increases his damage by $(not_buffed amount)% for each Nostalgia stack, stacking multiplicatively and then applied multiplicatively. Buffs are applied to the post stack value, and Nostalgia stacks are capped at $(max_stacks) stacks.
-```
+> Each time Kent or the ghostly spirit from his ultimate attacks, he gains a Nostalgia stack that lasts until entering a new area. Kent increases his damage by $(not_buffed amount)% for each Nostalgia stack, stacking multiplicatively and then applied multiplicatively. Buffs are applied to the post stack value, and Nostalgia stacks are capped at $(max_stacks) stacks.
 
 Name Unknown
-```$(source_hero)'s force of personality emboldens his companions. $(source_hero) increases the damage of all Champions by your current Achievement bonus.
-```
+> Kent's force of personality emboldens his companions. Kent increases the damage of all Champions by your current Achievement bonus.
 
 Name Unknown
-```
-If Virgil qualifies for an adventure restriction based on his tags, age, ability scores, etc., $(source_hero) may be used as well.
-```
+> If Virgil qualifies for an adventure restriction based on his tags, age, ability scores, etc., Kent may be used as well.
 
 Name Unknown
-```
-$(source_hero) increases the attack bonus of $(upgrade_name id) by $(amount)% for each Rivals of Waterdeep Champion, stacking multiplicatively and applied multiplicatively.
-```
+> Kent increases the attack bonus of $(upgrade_name id) by $(amount)% for each Rivals of Waterdeep Champion, stacking multiplicatively and applied multiplicatively.
 
 Name Unknown
-```
-Whenever $(source_hero) attacks an enemy and doesn't kill it, it is affected by a virulent poison. The poison deals $(seconds_of_bud) seconds worth of BUD to the enemy each second for $(total_seconds) seconds.
-```
+> Whenever Kent attacks an enemy and doesn't kill it, it is affected by a virulent poison. The poison deals $(seconds_of_bud) seconds worth of BUD to the enemy each second for $(total_seconds) seconds.
   
 #### Specialisations
 Unknown.
