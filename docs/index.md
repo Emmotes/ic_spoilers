@@ -13,7 +13,7 @@ Feats that are upcoming.
 * Evenlyn:
   * `Prodigal Leader` (50% all champ dmg) on 11 October 2022 20:00
 * Strix:
-  * `Trash Witch (80% Poor Hygiene) on `11 October 2022 20:00`
+  * `Trash Witch` (80% Poor Hygiene) on `11 October 2022 20:00`
 * Selise:
   * `Tough` (15% health) on `19 October 2022 20:00`
   * `Resilient` (30% health) on `19 October 2022 20:00`
