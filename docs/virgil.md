@@ -2,20 +2,20 @@
 # Virgil
 Aasimar Sorcerer of the Rivals of Waterdeep.
 
-#### Basic Information
+## Basic Information
 
 * Race: Aasimar
 * Class: Sorcerer
 * Seat: Unknown
 * Stats: Unknown
 
-#### Abilities
+## Abilities
 Unknown.
 
-#### Specialisations
+## Specialisations
 Unknown.
 
-#### Formation
+## Formation
 Unknown.
 <!-- Uncomment once formation is available. -->
 <!-- ![Formation Layout](images/formation_virgil.png) -->

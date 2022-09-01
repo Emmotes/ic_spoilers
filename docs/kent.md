@@ -2,14 +2,14 @@
 # Kent
 Tiefling Rogue of the Rivals of Waterdeep
 
-#### Basic Information
+## Basic Information
 
 * Race: Tiefling
 * Class: Rogue
 * Seat: Unknown
 * Stats: Unknown
 
-#### Abilities
+## Abilities
 
 Rapier (Base Attack)
 > Kent strikes the closest enemy with his rapier.
@@ -35,8 +35,8 @@ Name Unknown
 Name Unknown
 > Whenever Kent attacks an enemy and doesn't kill it, it is affected by a virulent poison. The poison deals $(seconds_of_bud) seconds worth of BUD to the enemy each second for $(total_seconds) seconds.
   
-#### Specialisations
+## Specialisations
 Unknown.
 
-#### Formation
+## Formation
 ![Formation Layout](images/formation_kent.png)

@@ -2,14 +2,14 @@
 # Egbert
 Dragonborn Paladin from the Oxventurers Guild.
 
-#### Basic Information
+## Basic Information
 
 * Race: Dragonborn
 * Class: Paladin
 * Seat: Unknown
 * Stats: Unknown
 
-#### Abilities
+## Abilities
 Homemade Bombs (Base Attack)
 > Egbert throws a bomb at the nearest enemy, dealing damage and knocking back enemies in a small area.
 
@@ -28,7 +28,7 @@ Gold Find (Name unknown)
 Health Share
 > Egbert increases the health of all other Champions by $(amount)% of his max health multiplied by the absolute value of the number of Atonement points he has.
 
-#### Specialisations
+## Specialisations
 Smoky Bombs:
 > Egbert's bombs now also create smoke clouds that last for $(duration) seconds. Enemies in one or more smoke clouds take an additional $(amount)% damage from attacks, and have a $(miss_chance)% chance to miss with their attack.
 
@@ -39,5 +39,5 @@ Unknown name (Multiple choice?):
 > The number of Neutral (Lawful/Chaotic axis) Champions in the formation is added to Egbert's Atonement points.
 > The number of Neutral (Lawful/Chaotic axis) Champions in the formation is subtracted from Egbert's Atonement points.
 
-#### Formation
+## Formation
 ![Formation Layout](images/formation_egbert.png)
