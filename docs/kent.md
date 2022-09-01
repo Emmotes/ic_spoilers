@@ -1,13 +1,18 @@
 ![Profile Picture](images/profile_kent.png)
 # Kent
-Tiefling Rogue of the Rivals of Waterdeep
+Tall, brown skinned with hints of blue, shoulder-length black hair, ice blue eyes, two horns with stylized metallic inlays. Kent wears primarily black and dark clothing and armor, but the inside of his cloak is famously quite showy.
+[https://rowdnd.fandom.com/wiki/Kent](https://rowdnd.fandom.com/wiki/Kent)
 
 ## Basic Information
 
 * Race: Tiefling
 * Class: Rogue
+* Affiliation: Rivals of Waterdeep
 * Seat: Unknown
 * Stats: Unknown
+
+## Formation
+![Formation Layout](images/formation_kent.png)
 
 ## Abilities
 
@@ -38,5 +43,14 @@ Name Unknown
 ## Specialisations
 Unknown.
 
-## Formation
-![Formation Layout](images/formation_kent.png)
+## Items
+
+1. Boots - ?
+2. Clothing - ?
+3. Luggage - ?
+4. Rapier - ?
+5. Soul Trinket - ?
+6. Virgil Connection - ?
+
+## Legendaries
+Unknown.

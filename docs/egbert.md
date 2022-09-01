@@ -1,6 +1,7 @@
 ![Profile Picture](images/profile_egbert.png)
 # Egbert
-Dragonborn Paladin from the Oxventurers Guild.
+Egbert is a dragonborn paladin who is seeking atonement and absolution from an unknown event in his past that barred him from his paladin sect.
+[https://the-oxventure-guild.fandom.com/wiki/Egbert](https://the-oxventure-guild.fandom.com/wiki/Egbert)
 
 ## Basic Information
 
@@ -8,6 +9,10 @@ Dragonborn Paladin from the Oxventurers Guild.
 * Class: Paladin
 * Seat: Unknown
 * Stats: Unknown
+* Affiliation: Oxventurers Guild
+
+## Formation
+![Formation Layout](images/formation_egbert.png)
 
 ## Abilities
 Homemade Bombs (Base Attack)
@@ -39,5 +44,14 @@ Unknown name (Multiple choice?):
 > The number of Neutral (Lawful/Chaotic axis) Champions in the formation is added to Egbert's Atonement points.
 > The number of Neutral (Lawful/Chaotic axis) Champions in the formation is subtracted from Egbert's Atonement points.
 
-## Formation
-![Formation Layout](images/formation_egbert.png)
+## Items
+
+1. Bomb - ?
+2. Find Steed - ?
+3. Food - ?
+4. Mace - ?
+5. Pamphlet - ?
+6. Shield - ?
+
+## Legendaries
+Unknown.

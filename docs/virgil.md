@@ -1,13 +1,20 @@
 ![Profile Picture](images/profile_virgil.png)
 # Virgil
-Aasimar Sorcerer of the Rivals of Waterdeep.
+Tall, with dark brown skin, medium length black dreadlocks with silver colored tips (locs with an undercut) and the odd silver and blue hair cuffs sweep to the left over his head. His eyes are a pupil-less pale blue-gray. He wears a dark blue hooded coat over a gray vest and black suspender harness.
+[https://rowdnd.fandom.com/wiki/Virgil](https://rowdnd.fandom.com/wiki/Virgil)
 
 ## Basic Information
 
 * Race: Aasimar
 * Class: Sorcerer
+* Affiliation: Rivals of Waterdeep
 * Seat: Unknown
 * Stats: Unknown
+
+## Formation
+Unknown.
+<!-- Uncomment once formation is available. -->
+<!-- ![Formation Layout](images/formation_virgil.png) -->
 
 ## Abilities
 Unknown.
@@ -15,7 +22,8 @@ Unknown.
 ## Specialisations
 Unknown.
 
-## Formation
+## Items
 Unknown.
-<!-- Uncomment once formation is available. -->
-<!-- ![Formation Layout](images/formation_virgil.png) -->
+
+## Legendaries
+Unknown.
