@@ -22,11 +22,11 @@ Feats that are upcoming.
   * Selise - `Resilient` - 30% Health
   * Selise - `Defensive Duelist` - 5 Overwhelm
   * Selise - `Calm Under Pressure` - 10 Overwhelm
-*  2 November 2022:
+* 2 November 2022:
   * Asharra - `Prodigal Leader` - 50% All Champion Damage
   * Deekin - `Heavy Lifter` - Stat: +2 Strength
   * Evelyn - `Scholar` - Stat: +2 Intelligence
-*  9 November 2022:
+* 9 November 2022:
   * Strix - `Prodigal Leader` - 50% All Champion Damage
 * 23 November 2022:
   * Blooshi - `Tragic Demise` - 80% Soul Gatherer
