@@ -1,11 +1,14 @@
 # Idle Champions Spoilers
 
 ## Champions
-These are the champions that are upcoming - in the order they'll be released.
+These are the champions that are upcoming and all the information we know about them.
 
-* [Egbert](egbert.md) - The Dragonborn Paladin of Oxventurers Guild
-* [Kent](kent.md) - Tiefling Rogue of Rivals of Waterdeep
-* [Virgil](virgil.md) - Aasimar Sorcerer of Rivals of Waterdeep
+* High Harvestide - 28 September 2022
+  * [Egbert](egbert.md) - The Dragonborn Paladin of Oxventurers Guild
+* Liar's Night - 19 October 2022?
+  * [Kent](kent.md) - Tiefling Rogue of Rivals of Waterdeep
+* Feast of the Moon - 9 November 2022?
+  * [Virgil](virgil.md) - Aasimar Sorcerer of Rivals of Waterdeep
 
 ## Feats
 Feats that are upcoming.

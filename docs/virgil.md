@@ -4,6 +4,7 @@ Tall, with dark brown skin, medium length black dreadlocks with silver colored t
 [https://rowdnd.fandom.com/wiki/Virgil](https://rowdnd.fandom.com/wiki/Virgil)
 
 ## Basic Information
+Virgil will be the new champion in the Feast of the Moon event on 9 November 2022.
 
 * Race: Aasimar
 * Class: Sorcerer

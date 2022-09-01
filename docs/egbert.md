@@ -4,6 +4,7 @@ Egbert is a dragonborn paladin who is seeking atonement and absolution from an u
 [https://the-oxventure-guild.fandom.com/wiki/Egbert](https://the-oxventure-guild.fandom.com/wiki/Egbert)
 
 ## Basic Information
+Egbert will be the new champion in the High Harvestide event on 28 September 2022.
 
 * Race: Dragonborn
 * Class: Paladin
