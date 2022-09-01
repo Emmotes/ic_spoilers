@@ -13,6 +13,14 @@ These are the champions that are upcoming and all the information we know about 
 ## Feats
 Feats that are upcoming.
 
+* 07 September 2022:
+  * Donaar - `Wound Master` - 60% Aura of Vitality
+  * Viconia - `Prodigal Leader` - 50% All Champion Damage
+* 14 September 2022:
+  * Gromma - `Weapon Master` - 120% Self DPS
+  * Lucius - `Elemental Tutors` - effect_def,762
+* 28 September 2022:
+  * Merilwen - `Cutest Oxventurer` - Stat: 2 Charisma
 * 11 October 2022:
   * Evelyn - `Prodigal Leader` - 50% All Champion Damage
   * Strix - `Trash Witch` - 80% Poor Hygiene
@@ -20,22 +28,25 @@ Feats that are upcoming.
 * 12 October 2022:
   * Sisaspia - `Fungal Cloud` - 80% Halo of Spores
 * 19 October 2022:
-  * D'hani - `Scholar` - Stat: +2 Intelligence
-  * Selise - `Tough` - 15% Health
-  * Selise - `Resilient` - 30% Health
-  * Selise - `Defensive Duelist` - 5 Overwhelm
+  * D'hani - `Scholar` - Stat: 2 Intelligence
   * Selise - `Calm Under Pressure` - 10 Overwhelm
-* 2 November 2022:
+  * Selise - `Defensive Duelist` - 5 Overwhelm
+  * Selise - `Resilient` - 30% Health
+  * Selise - `Tough` - 15% Health
+* 02 November 2022:
   * Asharra - `Prodigal Leader` - 50% All Champion Damage
-  * Deekin - `Heavy Lifter` - Stat: +2 Strength
-  * Evelyn - `Scholar` - Stat: +2 Intelligence
-* 9 November 2022:
+  * Deekin - `Heavy Lifter` - Stat: 2 Strength
+  * Evelyn - `Scholar` - Stat: 2 Intelligence
+* 09 November 2022:
+  * Shaka - `Puzzle Master` - UNKNOWN
   * Strix - `Prodigal Leader` - 50% All Champion Damage
+* 21 November 2022:
+  * Walnut - `Prodigal Leader` - 50% All Champion Damage
 * 23 November 2022:
   * Blooshi - `Tragic Demise` - 80% Soul Gatherer
-  * Yorven - `Dramatic Monalogue` - 80% Danger Sense
+  * Yorven - `Dramatic Monologue` - 80% Danger Sense
 * 25 November 2022:
-  * Warden - `Tenacious` - Stat: +2 Constitution
+  * Warden - `Tenacious` - Stat: 2 Constitution
 
 ## Misc
 Miscellaneous spoilers.
