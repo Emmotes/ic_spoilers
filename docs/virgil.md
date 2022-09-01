@@ -10,6 +10,7 @@ Aasimar Sorcerer of the Rivals of Waterdeep.
 * Stats: Unknown
 
 #### Abilities
+None known at this time.
 
 #### Formation
 Unknown at this time.
