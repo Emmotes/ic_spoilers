@@ -12,4 +12,6 @@ Aasimar Sorcerer of the Rivals of Waterdeep.
 #### Abilities
 
 #### Formation
-![Formation Layout](images/formation_virgil.png)
+Unknown at this time.
+<!-- Uncomment once formation is available. -->
+<!-- ![Formation Layout](images/formation_virgil.png) -->
