@@ -1,6 +1,7 @@
 ![Profile Picture](images/profile_kent.png)
 # Kent
 Tall, brown skinned with hints of blue, shoulder-length black hair, ice blue eyes, two horns with stylized metallic inlays. Kent wears primarily black and dark clothing and armor, but the inside of his cloak is famously quite showy.
+
 [https://rowdnd.fandom.com/wiki/Kent](https://rowdnd.fandom.com/wiki/Kent)
 
 ## Basic Information
@@ -8,6 +9,7 @@ Kent will be the new champion in the Liar's Night event on 19 October 2022.
 
 * Race: Tiefling
 * Class: Rogue
+* Gender: Male
 * Affiliation: Rivals of Waterdeep
 * Seat: Unknown
 * Stats: Unknown

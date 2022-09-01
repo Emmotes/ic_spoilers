@@ -1,6 +1,7 @@
 ![Profile Picture](images/profile_egbert.png)
 # Egbert
 Egbert is a dragonborn paladin who is seeking atonement and absolution from an unknown event in his past that barred him from his paladin sect.
+
 [https://the-oxventure-guild.fandom.com/wiki/Egbert](https://the-oxventure-guild.fandom.com/wiki/Egbert)
 
 ## Basic Information
@@ -8,6 +9,7 @@ Egbert will be the new champion in the High Harvestide event on 28 September 202
 
 * Race: Dragonborn
 * Class: Paladin
+* Gender: Male
 * Seat: Unknown
 * Stats: Unknown
 * Affiliation: Oxventurers Guild
@@ -43,6 +45,7 @@ Unknown name:
 
 Unknown name (Multiple choice?):
 > The number of Neutral (Lawful/Chaotic axis) Champions in the formation is added to Egbert's Atonement points.
+
 > The number of Neutral (Lawful/Chaotic axis) Champions in the formation is subtracted from Egbert's Atonement points.
 
 ## Items
