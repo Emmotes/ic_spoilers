@@ -4,10 +4,7 @@
 These are the champions that are upcoming - in the order they'll be released.
 
 ### Egbert
-* Race: Dragonborn
-* Class: Paladin
-* Seat: Unknown.
-* Stats: Unknown.
+[The Dragonborn Paladin](egbert.md)
 
 ### Kent
 * Race: Tiefling
