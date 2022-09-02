@@ -43,6 +43,16 @@ There are only two good things I can think of about this modron core.
 Anyway - here is the general layout of the core.
 ![Aerois Modron Core](images/modron_aerois.png)
 
+As you can see - it's coming with some of it's own unique nodes too.
+* Lucis: Increase the damage of Lucius
+* Aerois: Buff the effect of all Aerois Synergy abilities
+* The Crew: Buff the effect of Nova's The Crew ability
+* Storm Soul: Buff the effect of Aila's Storm Soul ability
+* Bless: Buff the effect of Qillek's Bless ability
+* Guardian of Solwyn: Buff the effect of Sentry's Guardian of Solwyn ability
+
+It also suffers from the same problem the Magic core does. It has no HP nodes.
+
 ## FAQ
 
 ### What are Seasons?
