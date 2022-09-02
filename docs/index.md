@@ -1,5 +1,5 @@
 # Idle Champions Spoilers
-Just a collection of most of the currently known spoilers.
+Just a collection of most of the currently known spoilers. It is by no means exhaustive.
 
 ## Champions
 These are the champions that are upcoming and all the information we know about them.
