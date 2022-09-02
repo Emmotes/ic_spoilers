@@ -53,3 +53,4 @@ Feats that are upcoming.
 Miscellaneous spoilers.
 
 * [Seasons](seasons.md)
+* [Spelljammer Campaign](spelljammer.md) - The Light of Xaryxis
