@@ -20,37 +20,28 @@ Miscellaneous spoilers.
 ## Feats
 Feats that are upcoming.
 
-* 07 September 2022:
-  * Donaar - `Wound Master` - 60% Aura of Vitality
-  * Viconia - `Prodigal Leader` - 50% All Champion Damage
-* 14 September 2022:
-  * Gromma - `Weapon Master` - 120% Self DPS
-  * Lucius - `Elemental Tutors` - effect_def,762
-* 28 September 2022:
-  * Merilwen - `Cutest Oxventurer` - Stat: 2 Charisma
-* 11 October 2022:
-  * Evelyn - `Prodigal Leader` - 50% All Champion Damage
-  * Strix - `Trash Witch` - 80% Poor Hygiene
-  * Walnut - `Dire Wolfnut` - 80% Wolfnut
-* 12 October 2022:
-  * Sisaspia - `Fungal Cloud` - 80% Halo of Spores
-* 19 October 2022:
-  * D'hani - `Scholar` - Stat: 2 Intelligence
-  * Selise - `Calm Under Pressure` - 10 Overwhelm
-  * Selise - `Defensive Duelist` - 5 Overwhelm
-  * Selise - `Resilient` - 30% Health
-  * Selise - `Tough` - 15% Health
-* 02 November 2022:
-  * Asharra - `Prodigal Leader` - 50% All Champion Damage
-  * Deekin - `Heavy Lifter` - Stat: 2 Strength
-  * Evelyn - `Scholar` - Stat: 2 Intelligence
-* 09 November 2022:
-  * Shaka - `Puzzle Master` - UNKNOWN
-  * Strix - `Prodigal Leader` - 50% All Champion Damage
-* 21 November 2022:
-  * Walnut - `Prodigal Leader` - 50% All Champion Damage
-* 23 November 2022:
-  * Blooshi - `Tragic Demise` - 80% Soul Gatherer
-  * Yorven - `Dramatic Monologue` - 80% Danger Sense
-* 25 November 2022:
-  * Warden - `Tenacious` - Stat: 2 Constitution
+| Champion | Feat Name | Effect | Date |
+|---|---|---|---|
+| Donaar | `Wound Master` | 60% Aura of Vitality | 07 Sept 2022 |
+| Viconia | `Prodigal Leader` | 50% All Champion Damage | 07 Sept 2022 |
+| Gromma | `Weapon Master` | 120% Self DPS | 14 Sept 2022 |
+| Lucius | `Elemental Tutors` | effect_def,762 | 14 Sept 2022 |
+| Merilwen | `Cutest Oxventurer` | Stat: +2 Charisma | 28 Sept 2022 |
+| Evelyn | `Prodigal Leader` | 50% All Champion Damage | 11 Oct 2022 |
+| Strix | `Trash Witch` | 80% Poor Hygiene | 11 Oct 2022 |
+| Walnut | `Dire Wolfnut` | 80% Wolfnut | 11 Oct 2022 |
+| Sisaspia | `Fungal Cloud` | 80% Halo of Spores | 12 Oct 2022 |
+| D'hani | `Scholar` | Stat: +2 Intelligence | 19 Oct 2022 |
+| Selise | `Calm Under Pressure` | 10 Overwhelm | 19 Oct 2022 |
+| Selise | `Defensive Duelist` | 5 Overwhelm | 19 Oct 2022 |
+| Selise | `Resilient` | 30% Health | 19 Oct 2022 |
+| Selise | `Tough` | 15% Health | 19 Oct 2022 |
+| Asharra | `Prodigal Leader` | 50% All Champion Damage | 02 Nov 2022 |
+| Deekin | `Heavy Lifter` | Stat: +2 Strength | 02 Nov 2022 |
+| Evelyn | `Scholar` | Stat: +2 Intelligence | 02 Nov 2022 |
+| Shaka | `Puzzle Master` | UNKNOWN | 09 Nov 2022 |
+| Strix | `Prodigal Leader` | 50% All Champion Damage | 09 Nov 2022 |
+| Walnut | `Prodigal Leader` | 50% All Champion Damage | 21 Nov 2022 |
+| Blooshi | `Tragic Demise` | 80% Soul Gatherer | 23 Nov 2022 |
+| Yorven | `Dramatic Monologue` | 80% Danger Sense | 23 Nov 2022 |
+| Warden | `Tenacious` | Stat: +2 Constitution | 25 Nov 2022 |
