@@ -11,6 +11,12 @@ These are the champions that are upcoming and all the information we know about 
 * Feast of the Moon - 9 November 2022?
   * [Virgil](virgil.md) - Aasimar Sorcerer of Rivals of Waterdeep
 
+## Misc
+Miscellaneous spoilers.
+
+* [Seasons](seasons.md)
+* [Spelljammer Campaign](spelljammer.md) - The Light of Xaryxis
+
 ## Feats
 Feats that are upcoming.
 
@@ -48,9 +54,3 @@ Feats that are upcoming.
   * Yorven - `Dramatic Monologue` - 80% Danger Sense
 * 25 November 2022:
   * Warden - `Tenacious` - Stat: 2 Constitution
-
-## Misc
-Miscellaneous spoilers.
-
-* [Seasons](seasons.md)
-* [Spelljammer Campaign](spelljammer.md) - The Light of Xaryxis
