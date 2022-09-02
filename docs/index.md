@@ -1,4 +1,5 @@
 # Idle Champions Spoilers
+Just a collection of most of the currently known spoilers.
 
 ## Champions
 These are the champions that are upcoming and all the information we know about them.
@@ -50,3 +51,5 @@ Feats that are upcoming.
 
 ## Misc
 Miscellaneous spoilers.
+
+* [Seasons](seasons.md)
