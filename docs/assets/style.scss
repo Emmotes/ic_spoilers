@@ -1,8 +1,8 @@
 ---
 ---
 
-@import "jekyll-theme-midnight"
+@import "{{ site.theme }}";
 
 .inner {
-	max-width: 75%
+	max-width: 75%;
 }
