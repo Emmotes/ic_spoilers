@@ -20,6 +20,8 @@ Miscellaneous spoilers.
 ## Feats
 Feats that are upcoming.
 
+Feats that are listed as Free will be available immediately the moment they release. Feats with a cost of 50,000 Gems will usually also be available via real money through DLC packs or weekend chest sales. Gold chest feats of course can only come from regular Gold Chests.
+
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---|
 | Donaar | `Wound Master` | 60% Aura of Vitality | 50,000 Gems | 07 Sept 2022 |
