@@ -14,6 +14,7 @@ These are the champions that are upcoming and all the information we know about 
 ## Misc
 Miscellaneous spoilers.
 
+* [Premium Packs and DLC](premium.md)
 * [Seasons](seasons.md)
 * [Spelljammer Campaign](spelljammer.md) - The Light of Xaryxis
 
