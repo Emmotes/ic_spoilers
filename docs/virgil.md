@@ -9,11 +9,12 @@ Tall, with dark brown skin, medium length black dreadlocks with silver colored t
 ## Basic Information
 Virgil will be the new champion in the Feast of the Moon event on 9 November 2022.
 
+* Seat: Unknown
 * Race: Aasimar
 * Class: Sorcerer
+* Roles: Unknown
 * Gender: Male
 * Affiliation: Rivals of Waterdeep
-* Seat: Unknown
 * Stats: Unknown
 
 ## Formation
@@ -34,3 +35,5 @@ Unknown.
 Unknown.
 
 [Back to Top](#top)
+
+*Last Updated: 3 Sept 2022*

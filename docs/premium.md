@@ -9,7 +9,7 @@ Date of release: 07 Sept 2022
 Contents:
 * Skin: `Spelljammer Bruenor`
 * Familiar: `Space Mollymawk`
-* Chests: `rare_chests` x42 (Shinies x5) (I don't know what "rare_chests" are.)
+* Chests: `Gold Chest (Guess)` x42 (Shinies x5)
 * Buff: `Epic Golden Potion` x1
 * Buff: `Potion of the Gem Hunter` x1
 * Buff: `Huge Potion of Fire Breath` x2
@@ -173,3 +173,7 @@ Contents:
 * Buff: `Potion of Polish` x1
 
 [Back to Top](#top)
+
+{{ site.time }}
+
+*Last Updated: 3 Sept 2022*

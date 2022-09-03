@@ -9,11 +9,12 @@ Tall, brown skinned with hints of blue, shoulder-length black hair, ice blue eye
 ## Basic Information
 Kent will be the new champion in the Liar's Night event on 19 October 2022.
 
+* Seat: Unknown
 * Race: Tiefling
 * Class: Rogue
+* Roles: Support (Guess) (Maybe also DPS)
 * Gender: Male
 * Affiliation: Rivals of Waterdeep
-* Seat: Unknown
 * Stats: Unknown
 
 ## Formation
@@ -61,3 +62,5 @@ Unknown.
 Unknown.
 
 [Back to Top](#top)
+
+*Last Updated: 3 Sept 2022*

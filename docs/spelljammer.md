@@ -31,3 +31,5 @@ Spelljammin' Across The Universe - Global
 > Applies to all Campaigns
 
 [Back to Top](#top)
+
+*Last Updated: 3 Sept 2022*

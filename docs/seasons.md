@@ -102,3 +102,5 @@ It also suffers from the same problem the Magic core does. It has no HP nodes.
 > Our current plan is to run four Seasons per year, using them as an opportunity to highlight and potentially majorly rework up to twenty Champions per year.
 
 [Back to Top](#top)
+
+*Last Updated: 3 Sept 2022*

@@ -21,3 +21,5 @@ Miscellaneous spoilers.
 * [Spelljammer Campaign](spelljammer.md) - The Light of Xaryxis
 
 [Back to Top](#top)
+
+*Last Updated: 3 Sept 2022*

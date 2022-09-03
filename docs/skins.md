@@ -30,3 +30,5 @@ Most skins are real money purchases only.
 | Deekin | `Dino Rider Deekin` | Dino Rider Deekin Skin & Feat Pack | $9.99 | 02 Nov 2022 |
 
 [Back to Top](#top)
+
+*Last Updated: 3 Sept 2022*
