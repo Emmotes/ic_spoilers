@@ -1,7 +1,9 @@
-# Premium Packs
+[Back to Main](index.md)
+
+# Premium Packs and DLC
 Upcoming real-money shop items.
 
-### Founder's Pack V
+## Founder's Pack V
 Date of release: 07 Sept 2022
 
 Contents:
@@ -17,7 +19,7 @@ Contents:
 * Buff: `Large Bounty Contract` x2
 * Gems: `5,000`
 
-### Vertex Donaar Theme Pack
+## Vertex Donaar Theme Pack
 Date of release: 07 Sept 2022
 
 Contents:
@@ -28,7 +30,7 @@ Contents:
 * Chests: `Gold Donaar Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 
-### Astral Blight Familiar Pack
+## Astral Blight Familiar Pack
 Date of release: 14 Sept 2022
 
 Contents:
@@ -38,7 +40,7 @@ Contents:
 * Buff: `Huge Potion of Clairvoyance` x4
 * Buff: `Potion of Polish` x1
 
-### Blight Hunter Gromma Skin & Feat Pack
+## Blight Hunter Gromma Skin & Feat Pack
 Date of release: 14 Sept 2022
 
 Contents:
@@ -47,7 +49,7 @@ Contents:
 * Feat: `Weapon Master (Gromma)`
 * Chests: `Gold Gromma Chest` x7 (Shinies x1)
 
-### Scotty the Rescue Pup Familiar Pack
+## Scotty the Rescue Pup Familiar Pack
 Date of release: 21 Sept 2022
 
 Contents:
@@ -57,7 +59,7 @@ Contents:
 * Buff: `Huge Potion of Clairvoyance` x4
 * Buff: `Potion of Polish` x1
 
-### Elf Hazard Merilwen Skin & Feat Pack
+## Elf Hazard Merilwen Skin & Feat Pack
 Date of release: 28 Sept 2022
 
 Contents:
@@ -66,7 +68,7 @@ Contents:
 * Feat: `Cutest Oxventurer (Merilwen)`
 * Chests: `Gold Merilwen Chest` x7 (Shinies x1)
 
-### High Society Egbert Skin & Feat Pack
+## High Society Egbert Skin & Feat Pack
 Date of release: 28 Sept 2022
 
 Contents:
@@ -75,7 +77,7 @@ Contents:
 * Feat: `???`
 * Chests: `Gold Egbert Chest` x7 (Shinies x1)
 
-### Spelljammer Evelyn Skin & Feat Pack
+## Spelljammer Evelyn Skin & Feat Pack
 Date of release: 11 Oct 2022
 
 Contents:
@@ -84,7 +86,7 @@ Contents:
 * Feat: `Prodigal Leader (Evelyn)`
 * Chests: `Gold Evelyn Chest` x7 (Shinies x1)
 
-### Spelljammer Strix Theme Pack
+## Spelljammer Strix Theme Pack
 Date of release: 11 Oct 2022
 
 Contents:
@@ -95,7 +97,7 @@ Contents:
 * Chests: `Gold Strix Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 
-### Spelljammer Walnut Skin & Feat Pack
+## Spelljammer Walnut Skin & Feat Pack
 Date of release: 11 Oct 2022
 
 Contents:
@@ -104,7 +106,7 @@ Contents:
 * Feat: `Dire Wolfnut (Walnut)`
 * Chests: `Gold Walnut Chest` x7 (Shinies x1)
 
-### Space Clown Sisaspia Skin & Feat Pack
+## Space Clown Sisaspia Skin & Feat Pack
 Date of release: 12 Oct 2022
 
 Contents:
@@ -113,7 +115,7 @@ Contents:
 * Feat: `Fungal Cloud (Sisaspia)`
 * Chests: `Gold Sisaspia Chest` x7 (Shinies x1)
 
-### Wave the Space Eel Familiar Pack
+## Wave the Space Eel Familiar Pack
 Date of release: 12 Oct 2022
 
 Contents:
@@ -122,7 +124,7 @@ Contents:
 * Buff: `Huge Potion of Giant's Strength` x2
 * Buff: `Huge Potion of Clairvoyance` x2
 
-### Spelljammer D'hani Skin & Feat Pack
+## Spelljammer D'hani Skin & Feat Pack
 Date of release: 19 Oct 2022
 
 Contents:
@@ -131,7 +133,7 @@ Contents:
 * Feat: `Scholar (D'hani)`
 * Chests: `Gold D'hani Chest` x7 (Shinies x1)
 
-### Spelljammer Kent Theme Pack
+## Spelljammer Kent Theme Pack
 Date of release: 19 Oct 2022
 
 Contents:
@@ -142,7 +144,7 @@ Contents:
 * Chests: `Gold Kent Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 
-### Dino Rider Asharra Skin & Feat Pack
+## Dino Rider Asharra Skin & Feat Pack
 Date of release: 02 Nov 2022
 
 Contents:
@@ -151,7 +153,7 @@ Contents:
 * Chests: `Gold Supply Chest` x7
 * Buff: `Potion of Polish` x1
 
-### Dino Rider Deekin Skin & Feat Pack
+## Dino Rider Deekin Skin & Feat Pack
 Date of release: 02 Nov 2022
 
 Contents:
@@ -160,7 +162,7 @@ Contents:
 * Feat: `Heavy Lifter (Deekin)`
 * Chests: `Gold Deekin Chest` x7 (Shinies x1)
 
-### Flapjack the Pirate Flumph Familiar Pack
+## Flapjack the Pirate Flumph Familiar Pack
 Date of release: 16 Nov 2022
 
 Contents:
