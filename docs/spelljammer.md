@@ -1,3 +1,5 @@
+[Back to Main](index.md)
+
 # Spelljammer Campaign
 We don't know a whole lot about this campaign - and it's coming out very soon - probably 7 September 2022 - so I'm not going to put a lot of effort into this page. We do know that it will be called `Light of Xaryxis` - and that its biggest curiosity is its formation.
 
@@ -27,3 +29,5 @@ Spelljammin' Across The Universe - Global
 > Increases the damage of all Champions by 200%
 >
 > Applies to all Campaigns
+
+[Back to Top](#top)

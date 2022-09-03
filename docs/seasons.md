@@ -1,3 +1,5 @@
+[Back to Main](index.md)
+
 # Seasons
 Seasons are a thing that was apparently in their previous game - the name of which escapes me at the moment. I personally know very little about this feature other than it comes with a few other things. Though we do have the Seasons FAQ for you to browse through.
 
@@ -98,3 +100,5 @@ It also suffers from the same problem the Magic core does. It has no HP nodes.
 
 ### Will there be more Seasons in the future?
 > Our current plan is to run four Seasons per year, using them as an opportunity to highlight and potentially majorly rework up to twenty Champions per year.
+
+[Back to Top](#top)

@@ -1,3 +1,5 @@
+[Back to Main](index.md)
+
 ![Profile Picture](images/profile_egbert.png)
 # Egbert
 Egbert is a dragonborn paladin who is seeking atonement and absolution from an unknown event in his past that barred him from his paladin sect.
@@ -59,3 +61,5 @@ Unknown name (Multiple choice?):
 
 ## Legendaries
 Unknown.
+
+[Back to Top](#top)

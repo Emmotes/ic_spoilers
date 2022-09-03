@@ -45,3 +45,5 @@ Feats that are upcoming.
 | Blooshi | `Tragic Demise` | 80% Soul Gatherer | 23 Nov 2022 |
 | Yorven | `Dramatic Monologue` | 80% Danger Sense | 23 Nov 2022 |
 | Warden | `Tenacious` | Stat: +2 Constitution | 25 Nov 2022 |
+
+[Back to Top](#top)

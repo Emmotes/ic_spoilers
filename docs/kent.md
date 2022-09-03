@@ -1,3 +1,5 @@
+[Back to Main](index.md)
+
 ![Profile Picture](images/profile_kent.png)
 # Kent
 Tall, brown skinned with hints of blue, shoulder-length black hair, ice blue eyes, two horns with stylized metallic inlays. Kent wears primarily black and dark clothing and armor, but the inside of his cloak is famously quite showy.
@@ -57,3 +59,5 @@ Unknown.
 
 ## Legendaries
 Unknown.
+
+[Back to Top](#top)
