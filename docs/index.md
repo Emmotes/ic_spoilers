@@ -41,7 +41,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Asharra | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 02 Nov 2022 |
 | Deekin | `Heavy Lifter` | Stat: +2 Strength | 50,000 Gems | 02 Nov 2022 |
 | Evelyn | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 02 Nov 2022 |
-| Shaka | `Puzzle Master` | UNKNOWN | 50,000 Gems | 09 Nov 2022 |
+| Shaka | `Puzzle Master` | ??? | 50,000 Gems | 09 Nov 2022 |
 | Strix | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 09 Nov 2022 |
 | Walnut | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 21 Nov 2022 |
 | Blooshi | `Tragic Demise` | 80% Soul Gatherer | 50,000 Gems | 23 Nov 2022 |
@@ -57,15 +57,15 @@ Most skins are real money purchases only.
 |---|---|---|---:|---:|
 | Bruenor | `Spelljammer Bruenor` | Founder's Pack V | $19.99 | 07 Sept 2022 |
 | Donaar | `Vertex Donaar` | Vertex Donaar Theme Pack | $24.99 | 07 Sept 2022 |
-| Korth | `Vecna Cultist Korth` | UNKNOWN | UNKNOWN | 07 Sept 2022 |
-| Viconia | `Vecna Cultist Viconia` | UNKNOWN | UNKNOWN | 07 Sept 2022 |
-| Aila | `Champion of Aerois Aila` | Season 1 (Guess) | UNKNOWN | 14 Sept 2022 |
+| Korth | `Vecna Cultist Korth` | ??? | ??? | 07 Sept 2022 |
+| Viconia | `Vecna Cultist Viconia` | ??? | ??? | 07 Sept 2022 |
+| Aila | `Champion of Aerois Aila` | Season 1 (Guess) | ??? | 14 Sept 2022 |
 | Gromma | `Blight Hunter Gromma` | Blight Hunter Gromma Skin & Feat Pack | $9.99 | 14 Sept 2022 |
-| Lucius | `Birdie Lucius` | Season 1 (Guess) | UNKNOWN | 14 Sept 2022 |
-| Lucius | `Prism Lucius` | Season 1 (Guess) | UNKNOWN | 14 Sept 2022 |
-| Nova | `Tiangong Nova` | Season 1 (Guess) | UNKNOWN | 14 Sept 2022 |
-| Qillek | `H'esper's Avatar Qillek` | Season 1 (Guess) | UNKNOWN | 14 Sept 2022 |
-| Sentry | `Prime's Hope Sentry` | Season 1 (Guess) | UNKNOWN | 14 Sept 2022 |
+| Lucius | `Birdie Lucius` | Season 1 (Guess) | ??? | 14 Sept 2022 |
+| Lucius | `Prism Lucius` | Season 1 (Guess) | ??? | 14 Sept 2022 |
+| Nova | `Tiangong Nova` | Season 1 (Guess) | ??? | 14 Sept 2022 |
+| Qillek | `H'esper's Avatar Qillek` | Season 1 (Guess) | ??? | 14 Sept 2022 |
+| Sentry | `Prime's Hope Sentry` | Season 1 (Guess) | ??? | 14 Sept 2022 |
 | Egbert | `High Society Egbert` | High Society Egbert Skin & Feat Pack | $9.99 | 28 Sept 2022 |
 | Merilwen | `Elf Hazard Merilwen` | Elf Hazard Merilwen Skin & Feat Pack | $9.99 | 28 Sept 2022 |
 | Evelyn | `Spelljammer Evelyn` | Spelljammer Evelyn Skin & Feat Pack | $9.99 | 11 Oct 2022 |
