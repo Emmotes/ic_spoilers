@@ -31,4 +31,4 @@ Most skins are real money purchases only.
 
 [Back to Top](#top)
 
-*Last Updated: 3 Sept 2022*
+*Last Modified: {{ site.time }}*

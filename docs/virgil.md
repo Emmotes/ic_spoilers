@@ -36,4 +36,4 @@ Unknown.
 
 [Back to Top](#top)
 
-*Last Updated: 3 Sept 2022*
+*Last Modified: {{ site.time }}*

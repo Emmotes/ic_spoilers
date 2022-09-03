@@ -33,4 +33,4 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 [Back to Top](#top)
 
-*Last Updated: 3 Sept 2022*
+*Last Modified: {{ site.time }}*

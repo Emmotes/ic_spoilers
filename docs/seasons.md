@@ -103,4 +103,4 @@ It also suffers from the same problem the Magic core does. It has no HP nodes.
 
 [Back to Top](#top)
 
-*Last Updated: 3 Sept 2022*
+*Last Modified: {{ site.time }}*
