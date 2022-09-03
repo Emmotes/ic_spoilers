@@ -1,5 +1,3 @@
-![Banner](images/banner.png)
-
 # Idle Champions Spoilers
 Just a collection of most of the currently known spoilers. It is by no means exhaustive.
 
