@@ -11,7 +11,9 @@ The Divine Favour for Spelljammer will be `Celestian` - and it's already in-game
 
 The devs say this is an 11 slot formation - and while *technically* it is - one of the slots is taken up by a permanent escort - so it's a 10 slot formation.
 
-It's possible that the escort may only be in certain adventures or variants - and not all of them for this campaign - but I don't know enough about the format of the data to say for certain.
+It's quite likely that the escort will only be in certain adventures or variants - and not for the entirety of the campaign - but I don't know enough about the format of the data to say for certain.
+
+I've kept the escort in the diagram because I have an over-abundance of pessimism.
 
 ## Blessings
 The blessings helpfully leaked for a few minutes the other day - so here they are.
