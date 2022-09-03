@@ -9,9 +9,9 @@ The Divine Favour for Spelljammer will be `Celestian` - and it's already in-game
 ## Formation
 ![Campaign: Light of Xaryxis Formation](images/formation_xaryxis.png)
 
-The devs claim this is an 11 slot formation - and while *technically* it is - one of the slots is taken up by a permanent escort - so it's a 10 slot formation.
+The devs say this is an 11 slot formation - and while *technically* it is - one of the slots is taken up by a permanent escort - so it's a 10 slot formation.
 
-It's possible that adventures or variants may move or remove the escort - so it may be 11 slots at some point? Only the devs can answer that.
+It's possible that the escort may only be in certain adventures or variants - and not all of them for this campaign - but I don't know enough about the format of the data to say for certain.
 
 ## Blessings
 The blessings helpfully leaked for a few minutes the other day - so here they are.
