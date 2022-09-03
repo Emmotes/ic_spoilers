@@ -20,7 +20,7 @@ A Motley Crew - Local - 10 levels
 > Increase the damage of all Champions for each unique race, class, and alignment in the formation by 10%, stacking additively.
 
 Captain's Log - Local - 25 levels
-> Increase the damage of Champions in the rare two columns of the formation by 100%
+> Increase the damage of Champions in the rear two columns of the formation by 100%
 
 Chaos Theory - Local - 10 levels
 > Increase the damage of Chaotic Champions by 250%
