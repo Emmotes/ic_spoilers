@@ -174,6 +174,4 @@ Contents:
 
 [Back to Top](#top)
 
-{{ site.time }}
-
 *Last Modified: {{ site.time }}*
