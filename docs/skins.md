@@ -7,10 +7,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|---:|---:|
-| Bruenor | `Spelljammer Bruenor` | Founder's Pack V | $19.99 | 07 Sept 2022 |
-| Donaar | `Vertex Donaar` | Vertex Donaar Theme Pack | $24.99 | 07 Sept 2022 |
-| Korth | `Vecna Cultist Korth` | ??? | ??? | 07 Sept 2022 |
-| Viconia | `Vecna Cultist Viconia` | ??? | ??? | 07 Sept 2022 |
 | Aila | `Champion of Aerois Aila` | Season 1 (Guess) | ??? | 14 Sept 2022 |
 | Gromma | `Blight Hunter Gromma` | Blight Hunter Gromma Skin & Feat Pack | $9.99 | 14 Sept 2022 |
 | Lucius | `Birdie Lucius` | Season 1 (Guess) | ??? | 14 Sept 2022 |

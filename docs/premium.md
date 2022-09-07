@@ -3,33 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Founder's Pack V - $19.99
-Date of release: 07 Sept 2022
-
-Contents:
-* Skin: `Spelljammer Bruenor`
-* Familiar: `Space Mollymawk`
-* Chests: `Gold Chest (Guess)` x42 (Shinies x5)
-* Buff: `Epic Golden Potion` x1
-* Buff: `Potion of the Gem Hunter` x1
-* Buff: `Huge Potion of Fire Breath` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Large Blacksmithing Contract` x2
-* Buff: `Large Bounty Contract` x2
-* Gems: `5,000`
-
-## Vertex Donaar Theme Pack - $24.99
-Date of release: 07 Sept 2022
-
-Contents:
-* Champion: `Donaar`
-* Skin: `Vertex Donaar`
-* Feat: `Wound Master (Donaar)`
-* Familiar: `Baby Clarkmoore`
-* Chests: `Gold Donaar Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
 ## Astral Blight Familiar Pack - $9.99
 Date of release: 14 Sept 2022
 
