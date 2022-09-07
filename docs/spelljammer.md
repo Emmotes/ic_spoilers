@@ -13,6 +13,8 @@ The devs say this is an 11 slot formation - and it certainly looks like it. That
 
 I don't really know how the defines work in that regard - so the escort could be there for more adventures than that - or even there permanently. We'll have to wait and see.
 
+![Campaign: Light of Xaryxis Formation with Escort](images/formation_xaryxis_escort.png)
+
 ## Blessings
 The blessings helpfully leaked for a few minutes the other day - so here they are.
 
