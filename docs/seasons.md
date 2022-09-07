@@ -11,7 +11,7 @@ Because this game is run by a business - of course they've implemented some mone
 Season Pass: (Cost: $9.99)
 > Unlock exclusive rewards in the current Season by purchasing the Season Pass!
 
-Season Boost: (Cost: $4.99)
+Season Reward Tier: (Cost: $4.99)
 > Grants enough XP to unlock the next rewards tier in the current Season, along with the appropriate favor and 10,000 Season currency!
 
 ## Aerois Changes and Modron Core
@@ -46,7 +46,7 @@ Anyway - here is the general layout of the core.
 ![Aerois Modron Core](images/modron_aerois.png)
 
 As you can see - it's coming with some of it's own unique nodes too.
-* Lucis: Increase the damage of Lucius
+* Lucis: Increase the damage of Lucius (Superchargeable)
 * Aerois: Buff the effect of all Aerois Synergy abilities
 * The Crew: Buff the effect of Nova's The Crew ability
 * Storm Soul: Buff the effect of Aila's Storm Soul ability
