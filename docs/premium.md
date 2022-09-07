@@ -163,7 +163,7 @@ Contents:
 * Chests: `Gold Deekin Chest` x7 (Shinies x1)
 
 ## Flapjack the Pirate Flumph Familiar Pack - $9.99
-Date of release: 16 Nov 2022
+Date of release: 14 Nov 2022
 
 Contents:
 * Familiar: `Flapjack the Pirate Flumph`
