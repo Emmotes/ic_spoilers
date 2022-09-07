@@ -19,8 +19,6 @@ Miscellaneous spoilers.
 * [Premium Packs and DLC](premium.md)
 * [Seasons](seasons.md)
 * [Spelljammer Campaign](spelljammer.md) - The Light of Xaryxis
-* New race tag added: `celestial`
-  * Possibly prep for a new evergreen. Or red herring.
 
 [Back to Top](#top)
 
