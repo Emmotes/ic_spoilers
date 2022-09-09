@@ -27,7 +27,7 @@ This is the primary source for the reworks in most of the Aerois champions. It's
 Nova's `Discovery` ability - the one that makes her as good as she is (because it's multiplicative) - is getting replaced by a new ability `The Crew` - that is entirely additive. So she will very likely be considerably worse than she is now. Probably even Dismantle worthy.
 
 The Crew
-> Nova increases the damage of Champions within two slots by 0.1% for each Champion level on the affected Champions, stacking additively. Each Champion's contribution caps at 1000 levels after their last available upgrade.
+> Nova increases the damage of Champions within two slots by `$(not_buffed amount)%` for each Champion level on the affected Champions, stacking additively. Each Champion's contribution caps at `$(max_level_contribution_after_last_upgrade)` levels after their last available upgrade.
 
 And there will be a specialisation for it.
 > The Crew now applies to all Champions within 3 slots, but the extra Champions are only counted towards its levels total at 50% effectiveness.
