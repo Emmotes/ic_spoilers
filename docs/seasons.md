@@ -32,7 +32,7 @@ The Crew
 And there will be a specialisation for it.
 > The Crew now applies to all Champions within 3 slots, but the extra Champions are only counted towards its levels total at 50% effectiveness.
 
-*Please take into account that those numbers are pre-upgrade numbers and like all spoilers are subject to change at any time. So while the ability being additive makes it likely to be a nerf - they could give the ability upgrades that make the final amount equivalent to Discovery's numbers for higher areas. Or of course add a multiplicative component before release.*
+*Please take into account that all spoilers are subject to change at any time. So while the ability being additive makes it likely to be a nerf - they could give the ability upgrades that make the final amount equivalent to Discovery's numbers for higher areas. Or of course add a multiplicative component before release.*
 
 *I have an over-abundance of pessimism about either of those outcomes - but it's possible.*
 
