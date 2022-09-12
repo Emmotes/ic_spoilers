@@ -24,7 +24,7 @@ There are more changes here than I care to go into - but here are the key points
 This is the primary source for the reworks in most of the Aerois champions. It's getting modified to be easier to buff for each Aerois champion.
 
 #### Nova (Possibly-Not-Now) Nerf
-**UPDATE: Additive -> Multiplicative. See below.**
+**UPDATE 2022-09-12 18:00:00 +0000: Additive -> Multiplicative. See below.**
 
 Nova's `Discovery` ability - the one that makes her as good as she is (because it's multiplicative) - is getting replaced by a new ability `The Crew`. That was going to be additive and portended a pretty big nerf. It has since been changed to be multiplicative.
 
