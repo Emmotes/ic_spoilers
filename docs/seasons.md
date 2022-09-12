@@ -23,18 +23,18 @@ There are more changes here than I care to go into - but here are the key points
 #### Aerois Synergy Buff
 This is the primary source for the reworks in most of the Aerois champions. It's getting modified to be easier to buff for each Aerois champion.
 
-#### Nova Nerf
-Nova's `Discovery` ability - the one that makes her as good as she is (because it's multiplicative) - is getting replaced by a new ability `The Crew` - that is entirely additive. So she will very likely be considerably worse than she is now. Probably even Dismantle worthy.
+#### Nova (Possibly-Not-Now) Nerf
+**UPDATE: Additive -> Multiplicative. See below.**
+
+Nova's `Discovery` ability - the one that makes her as good as she is (because it's multiplicative) - is getting replaced by a new ability `The Crew`. That was going to be additive and portended a pretty big nerf. It has since been changed to be multiplicative.
+
+Whether this will be enough to make her as good as she was before remains to be seen - but at least it won't be as big a nerf as it would have been had it remained additive.
 
 The Crew
-> Nova increases the damage of Champions within two slots by `$(not_buffed amount)%` for each Champion level on the affected Champions, stacking additively. Each Champion's contribution caps at `$(max_level_contribution_after_last_upgrade)` levels after their last available upgrade.
+> Nova increases the damage of Champions within two slots by `$(not_buffed amount)%` for each Champion level on the affected Champions, stacking multiplicatively. Each Champion's contribution caps at `$(max_level_contribution_after_last_upgrade)` levels after their last available upgrade.
 
 And there will be a specialisation for it.
 > The Crew now applies to all Champions within 3 slots, but the extra Champions are only counted towards its levels total at 50% effectiveness.
-
-*Please take into account that all spoilers are subject to change at any time. So while the ability being additive makes it likely to be a nerf - they could give the ability upgrades that make the final amount equivalent to Discovery's numbers for higher areas. Or of course add a multiplicative component before release.*
-
-*I have an over-abundance of pessimism about either of those outcomes - but it's possible.*
 
 #### Misc
 The rest of the Aerois champions will be getting some minor tweaks that shouldn't impact them *too* much. Though Aila's shielding may be seeing a nerf too.
