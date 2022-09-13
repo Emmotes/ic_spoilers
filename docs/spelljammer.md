@@ -1,7 +1,7 @@
 [Back to Main](index.md)
 
 # Spelljammer Campaign
-We don't know a whole lot about this campaign - and it's coming out very soon - probably 21 September 2022 - so I'm not going to put a lot of effort into this page. We do know that it will be called `Light of Xaryxis` - and that its biggest curiosity is its formation.
+We don't know a whole lot about this campaign - and it's coming out very soon - 14 September 2022 - so I'm not going to put a lot of effort into this page. We do know that it will be called `Light of Xaryxis` - and that its biggest curiosity is its formation.
 
 ## Divine Favour
 The Divine Favour for Spelljammer will be `Celestian` - and it's already in-game.
