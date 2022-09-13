@@ -1,0 +1,97 @@
+# 1 Modest
+# 2 Strong
+# 3 Fast
+# 4 Magic
+# 5 Aerois
+
+# link,coreId,dps,champs,comment
+
+TX1H0Y2nx173iCfTXGn6r,4,3.83e45,Artemis|Drizzt|Zorbu|Rosie,Non-Magic Variant
+k1kO3iodCSO1SPmo5_bCS,2,3.43e45,Artemis,Less Health Variant
+PD8TBbyvczFm-YqKKnouW,2,3.09e45,Artemis|Nrakk,
+uTZfFAg-gxxwsNNpV9Gms,1,2.18e44,Artemis,
+
+8euk6u6PKHy_mmNX4S7ek,4,2.83e53,Delina|Farideh|Gromma|Orisha|Asharra,
+PeN0p0XS5uJFdmt13f3Df,2,2.13e43,Drizzt,
+I_8g095yWaHD-a-z3QeAJ,1,2.18e42,Delina|Drizzt|Farideh|Zorbu,
+BWH_vGti_95lolMdhK_i0,2,1.90e41,Delina|Farideh|Zorbu,
+
+UBppioFeMIfJ4fE90nPYp,1,1.50e42,Gromma,
+QnAlmdSi9mdxSpGwOwwTt,2,1.90e41,Gromma,Non-Melee Variant
+
+75kFYrZg54zfPCKHD18MX,1,2.62e42,Orisha,
+evhoT2FG-YXhOWbhbGgKx,2,1.99e41,Orisha,Non-Melee Variant
+
+Zb59XU8wppjC7Tg7__CIS,4,3.01e49,Lucius|Nahara,
+CUDvqppKGLcOkL5h7o2_-,2,2.13e43,Jaheira|Jamilah|Yorven,
+6Yv_YlUxFfujj05FwG9ed,1,1.50e42,Jaheira|Jamilah|Lucius|Yorven,
+BshqNhsKgfEyLYymBa3hY,2,1.90e41,Lucius,Non-Melee Variant
+NEggb8lahcTbI2t9l8CmO,4,1.51e41,Ishi|Jaheira|Jamilah|Yorven,Non-Magic Variant
+CPsUZyBluqIEn96nwVj0C,5,1.27e33,Lucius,
+
+v5E14nXk-NFS7LpAvZPUt,2,2.43e43,Krydle,
+lxl77lg_2zUFrv6SLU6-E,1,4.43e42,Catti-brie|Krydle,
+5qQI-zlqFfl1V2U9JUKC4,4,2.19e41,Catti-brie|Krydle|Black Viper|Jarlaxle,Non-Magic Variant
+39cNPbw9lEVepnBMjPMsY,2,1.99e41,Catti-brie,Non-Melee Variant
+
+lgluJB7PHNndbkoL-5rdi,1,1.71e42,Nrakk,
+jpce9yH6d9a22WGA5K4xo,4,1.51e41,Nrakk,Non-Magic Variant
+
+10MJn_z_TTp9vMuRKkQTQ,2,1.47e41,Rosie,
+uaxwwiADbr1-LgADkbgay,1,2.32e40,Rosie
+
+JviTatDeLsTZCzprw4aeI,2,1.47e41,Ishi|D'hani,
+G6VezXEgRas4EsTfbUfw0,1,1.50e40,Ishi|Nahara,
+XmRxopxAffaYPeQqpRM5Q,2,1.31e39,Nahara,Non-Melee Variant
+
+VVTl25HWmLKGbixC5ByY5,2,1.68e41,Black Viper|Jarlaxle,
+6vhkki07vEPRP0_cXMKHc,1,3.58e40,Black Viper|Jarlaxle,
+
+1QAVPgKXTPpv6QyZmNM3l,4,1.71e49,Prudence|Makos|Strix|Jim,
+yWqFzHx5bvXJe990YOTjT,1,3.05e40,Prudence,
+HfbrF335PzInM837v4JvE,2,1.37e39,Prudence,Non-Melee Variant
+
+qeHJee7Hou-VGAQzaOonE,4,1.35e49,Krond,
+7uFKh3zsMCoPLADZ1sQdq,2,2.13e43,Krond,
+LqCb1S8NMJP8HZ_omgw5-,1,1.18e40,Krond,
+
+O0-Mh0hWCXE-YX5-zpRfH,2,1.68e41,Arkhan|Azaka|Torogar|Warden,
+Z3dqepoGNtSI25cJzrPbj,1,3.05e40,Arkhan|Azaka|Torogar|Warden,
+
+gst8woyENk7-Nwnobs0FK,1,1.60e38,Asharra,
+O83ZZZ_WYCbiIGPDh1WpR,2,9.45e36,Asharra,Non-Melee Variant
+
+UEhxP3gFZsiL9wuJdxJUp,1,2.47e38,Makos|Strix,
+PI7HLEOc03VblCs-V8qG9,2,9.45e36,Makos|Strix,Non-Melee Variant
+
+9ivs4Sv4GYIRSSOOHP53j,4,1.83e41,Birdsong,Non-Magic Variant
+kSKZ6NzS-rvKVWxvDstuT,2,1.16e39,Birdsong,
+v8jvYSX5LMS65htm8BWNI,1,3.18e38,Birdsong|Jim,
+TQa68fL7X2cJKJMxZ1IRA,2,9.45e36,Jim,Non-Melee Variant
+
+HjJ-t7wdpihNAoMpLSaqg,1,1.08e38,D'hani,
+
+VHq6p4u6_NiViLkKL0Xlw,2,1.16e39,Binwin|Grimm|Minsc,
+8z5iuN2u8G544H6M8XcwL,1,2.11e38,Binwin|Grimm,
+
+j3JuHVefg7DnKYc9OuwAi,1,1.58e36,Minsc,
+
+VWE8AGgjNEWfILkyr-Nfs,4,8.16e44,Dhadius,
+8gl43tSIMnpkHDR9AAxZn,2,6.52e34,Dhadius,Non-Melee Variant
+O8s0S3l02jKrxfbzGFo6h,1,1.51e34,Dhadius,
+
+EdMqmTlpV9h_fYXvI4Dp6,4,3.88e40,NERDS,
+YN9lgqcCRjPb_US-nXasM,2,7.97e36,NERDS,
+OBmLhyuS_WAl-Y03TmHC6,2,6.52e34,NERDS,Non-Melee Variant
+oTmOpNMC9b4vWqo-F0mhG,1,1.22e34,NERDS,
+
+ozwp3wQr7O3VHUmKffQtv,3,1.03e39,,
+T-TfCsTNdXfLHOULzOfHr,3,0,,Minimal (No Damage)
+
+iyChfx2296evcJfrAadzT,1,0,,Achievement: Now We're Flowing (1)
+LbtIyA7gF3TVqJlGv-j7o,2,0,,Achievement: Now We're Flowing (1)
+5wV-LkarzUs19rX5uSdfh,4,0,,Achievement: Now We're Flowing (1)
+VpXiPUQcapFGVtdmEvw6K,5,0,,Achievement: Now We're Flowing (1)
+LI4aVDOyYdOreT-GsbNWF,4,0,,Achievement: Flow Shui (2)
+UZyXpoTAZi_pkDzpBLMoB,5,0,,Achievement: Flow Shui (2)
+6wLVbtCcPNTUDfSiJ21wN,5,0,,Achievement: Infinite Cosmic Power (3)
