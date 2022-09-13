@@ -148,6 +148,12 @@
         "layoutId": "NEggb8lahcTbI2t9l8CmO"
     },
     {
+        "championIds": [72],
+        "dps": 1.27E+33,
+        "coreId": 5,
+        "layoutId": "CPsUZyBluqIEn96nwVj0C"
+    },
+    {
         "championIds": [60],
         "dps": 2.43E+43,
         "coreId": 2,
