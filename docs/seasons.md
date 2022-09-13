@@ -1,6 +1,9 @@
 [Back to Main](index.md)
 
 # Seasons
+```
+UPDATE: Seasons release has been announced as 14 Sept 2022.
+```
 Seasons are a thing that was apparently in their previous game - the name of which escapes me at the moment. I personally know very little about this feature other than it comes with a few other things. Though we do have the Seasons FAQ for you to browse through.
 
 ## General Information
@@ -25,8 +28,7 @@ This is the primary source for the reworks in most of the Aerois champions. It's
 
 #### Nova (Possibly-Not-Now) Nerf
 ```
-UPDATE 2022-09-12 18:00:00 +0000:
-Additive -> Multiplicative. See below.
+UPDATE: Additive -> Multiplicative. See below.
 ```
 
 Nova's `Discovery` ability - the one that makes her as good as she is (because it's multiplicative) - is getting replaced by a new ability `The Crew`. That was going to be additive and portended a pretty big nerf. It has since been changed to be multiplicative.
