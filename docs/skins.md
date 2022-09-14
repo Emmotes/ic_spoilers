@@ -7,13 +7,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|---:|---:|
-| Aila | `Champion of Aerois Aila` | Season 1 (Guess) | ??? | 14 Sept 2022 |
-| Gromma | `Blight Hunter Gromma` | Blight Hunter Gromma Skin & Feat Pack | $9.99 | 14 Sept 2022 |
-| Lucius | `Birdie Lucius` | Season 1 (Guess) | ??? | 14 Sept 2022 |
-| Lucius | `Prism Lucius` | Season 1 (Guess) | ??? | 14 Sept 2022 |
-| Nova | `Tiangong Nova` | Season 1 (Guess) | ??? | 14 Sept 2022 |
-| Qillek | `H'esper's Avatar Qillek` | Season 1 (Guess) | ??? | 14 Sept 2022 |
-| Sentry | `Prime's Hope Sentry` | Season 1 (Guess) | ??? | 14 Sept 2022 |
 | Egbert | `High Society Egbert` | High Society Egbert Skin & Feat Pack | $9.99 | 28 Sept 2022 |
 | Merilwen | `Elf Hazard Merilwen` | Elf Hazard Merilwen Skin & Feat Pack | $9.99 | 28 Sept 2022 |
 | Evelyn | `Spelljammer Evelyn` | Spelljammer Evelyn Skin & Feat Pack | $9.99 | 11 Oct 2022 |

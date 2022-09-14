@@ -3,25 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Astral Blight Familiar Pack - $9.99
-Date of release: 14 Sept 2022
-
-Contents:
-* Familiar: `Astral Blight`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-
-## Blight Hunter Gromma Skin & Feat Pack - $9.99
-Date of release: 14 Sept 2022
-
-Contents:
-* Champion: `Gromma`
-* Skin: `Blight Hunter Gromma`
-* Feat: `Weapon Master (Gromma)`
-* Chests: `Gold Gromma Chest` x7 (Shinies x1)
-
 ## Scotty the Rescue Pup Familiar Pack - $9.99
 Date of release: 21 Sept 2022
 

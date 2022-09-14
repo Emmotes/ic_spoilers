@@ -7,8 +7,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
-| Gromma | `Weapon Master` | 120% Self DPS | 50,000 Gems | 14 Sept 2022 |
-| Lucius | `Elemental Tutors` | +5s Elemental Adept Stun Duration | Gold Chest | 14 Sept 2022 |
 | Merilwen | `Cutest Oxventurer` | Stat: +2 Charisma | 50,000 Gems | 28 Sept 2022 |
 | Evelyn | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 11 Oct 2022 |
 | Strix | `Trash Witch` | 80% Poor Hygiene | 50,000 Gems | 11 Oct 2022 |
