@@ -19,8 +19,6 @@ Miscellaneous spoilers.
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
-* [Seasons](seasons.md)
-* [Spelljammer Campaign](spelljammer.md) - The Light of Xaryxis
 
 [Back to Top](#top)
 
