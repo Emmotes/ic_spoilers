@@ -27,7 +27,7 @@ Magic Missile (Base Attack)
 > Virgil summons 3 magic missiles and fires them at random targets.
 
 Unknown (I don't even know if this *is* for Virgil or someone else)
-> `$(source_hero)` increases the damage of all adjacent Champions by $(amount)%, and decreases their normal attack speed cooldown by `$(amount___2)` `$(seconds_plural)`.
+> `$(source_hero)` increases the damage of all adjacent Champions by `$(amount)%`, and decreases their normal attack speed cooldown by `$(amount___2)` `$(seconds_plural)`.
 
 ## Specialisations
 Unknown (changes Base Attack):
