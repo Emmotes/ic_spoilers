@@ -40,18 +40,12 @@ Name Unknown
 Name Unknown
 > If Virgil qualifies for an adventure restriction based on his tags, age, ability scores, etc., Kent may be used as well.
 
-Name Unknown
-> Kent increases the attack bonus of `$(upgrade_name id)` by `$(amount)%` for each Rivals of Waterdeep Champion, stacking multiplicatively and applied multiplicatively.
-
-Name Unknown
-> Whenever Kent attacks an enemy and doesn't kill it, it is affected by a virulent poison. The poison deals `$(seconds_of_bud)` seconds worth of BUD to the enemy each second for `$(total_seconds)` seconds.
-  
 ## Specialisations
 Potent Poison
-> Unknown effect.
+> Whenever Kent attacks an enemy and doesn't kill it, it is affected by a virulent poison. The poison deals `$(seconds_of_bud)` seconds worth of BUD to the enemy each second for `$(total_seconds)` seconds.
 
 Robust Rivals
-> Unknown effect.
+> Kent increases the attack bonus of `$(upgrade_name id)` by `$(amount)%` for each Rivals of Waterdeep Champion, stacking multiplicatively and applied multiplicatively.
 
 ## Items
 
