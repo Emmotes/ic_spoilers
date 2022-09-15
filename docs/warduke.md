@@ -8,7 +8,7 @@ I've absolutely no idea who this is. Please DM me if you do.
 <!-- []() -->
 
 ## Basic Information
-Unknown will be the new champion in the Simril event on 30 November 2022.
+Warduke will be the new champion in the Simril event on 30 November 2022.
 
 * Seat: Unknown
 * Race: Unknown
