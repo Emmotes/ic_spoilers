@@ -14,6 +14,7 @@ Kent will be the new champion in the Liar's Night event on 19 October 2022.
 * Class: Rogue
 * Roles: Support (Guess) (Maybe also DPS)
 * Gender: Male
+* Alignment: Unknown
 * Affiliation: Rivals of Waterdeep
 * Stats: Unknown
 

@@ -3,19 +3,22 @@
 <!-- Uncomment once profile picture is available. -->
 <!-- ![Profile Picture](images/profile_warduke.png) -->
 # Warduke
-I've absolutely no idea who this is. Please DM me if you do.
+Warduke's services as a remorseless killer-for-hire can be easily bought. The evil swordsman serves Kelek as a cohort and adventuring companion from time to time. He isn't terribly bright, which is why he leaves the plotting and scheming to others.
 
-<!-- []() -->
+What does Warduke look like under his dread helm? No one knows. He never removes his helmet to reveal his face to others, but the visage beneath is that of a grim, hideously scarred gladiator.
+
+[D&DBeyond Monster Statblock](https://www.dndbeyond.com/monsters/1979813-warduke)
 
 ## Basic Information
 Warduke will be the new champion in the Simril event on 30 November 2022.
 
 * Seat: Unknown
-* Race: Unknown
-* Class: Unknown
+* Race: Human
+* Class: Fighter (Guess)
 * Roles: Unknown
-* Gender: Unknown
-* Affiliation: Unknown
+* Gender: Male
+* Alignment: Chaotic Evil
+* Affiliation: League of Malevolence
 * Stats: Unknown
 
 ## Formation

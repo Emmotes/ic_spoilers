@@ -14,6 +14,7 @@ Egbert will be the new champion in the High Harvestide event on 28 September 202
 * Class: Paladin
 * Roles: All except DPS (Guess)
 * Gender: Male
+* Alignment: Neutral Good (Guess)
 * Affiliation: Oxventurers Guild
 * Stats: Unknown
 

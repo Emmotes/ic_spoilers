@@ -14,6 +14,7 @@ Virgil will be the new champion in the Feast of the Moon event on 9 November 202
 * Class: Sorcerer
 * Roles: Unknown
 * Gender: Male
+* Alignment: Unknown
 * Affiliation: Rivals of Waterdeep
 * Stats: Unknown
 
