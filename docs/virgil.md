@@ -39,7 +39,8 @@ Unknown Name
 > If Kent qualifies for an adventure restriction based on his tags, age, ability scores, etc., Virgil may be used as well.
 
 ## Specialisations
-Unknown (changes Base Attack):
+Mood Anxious / Mood Determined / Mood Relaxed  
+I don't know which is for which.
 > Virgil's magic missile and chain lightning attacks turn green, and he further increases Storm Sorcerer's damage boost by 100% and increases the attack cooldown reduction by a further 1 second.
 
 >Virgil's magic missile and chain lightning attacks turn amber, he increases the number of magic missiles he fires by one, and there is a 25% chance he stuns an enemy struck by a magic missile for 5 seconds.
