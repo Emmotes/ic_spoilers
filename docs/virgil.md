@@ -26,12 +26,25 @@ Unknown.
 Magic Missile (Base Attack)
 > Virgil summons 3 magic missiles and fires them at random targets.
 
-Unknown (I don't even know if this *is* for Virgil or someone else)
-> `$(source_hero)` increases the damage of all adjacent Champions by `$(amount)%`, and decreases their normal attack speed cooldown by `$(amount___2)` `$(seconds_plural)`.
+Chain Lightning
+> Unknown effect.
+
+Storm Sorcerer
+> Unknown effect.
+
+Unknown Name
+> Virgil increases the damage of all adjacent Champions by `$(amount)%`, and decreases their normal attack speed cooldown by `$(amount___2)` `$(seconds_plural)`.
+
+Unknown Name
+> If Kent qualifies for an adventure restriction based on his tags, age, ability scores, etc., Virgil may be used as well.
 
 ## Specialisations
 Unknown (changes Base Attack):
-> Virgil fires 4 magic missiles at random targets. Enemies struck by a magic missile have a chance to get stunned.
+> Virgil's magic missile and chain lightning attacks turn green, and he further increases Storm Sorcerer's damage boost by 100% and increases the attack cooldown reduction by a further 1 second.
+
+>Virgil's magic missile and chain lightning attacks turn amber, he increases the number of magic missiles he fires by one, and there is a 25% chance he stuns an enemy struck by a magic missile for 5 seconds.
+
+> Virgil's magic missile and chain lightning attacks turn violet, and Virgil increases Weather Control's damage boost by 33% for each Rivals of Waterdeep Champion in the formation, stacking multiplicatively.
 
 ## Items
 Unknown.

@@ -47,7 +47,11 @@ Name Unknown
 > Whenever Kent attacks an enemy and doesn't kill it, it is affected by a virulent poison. The poison deals `$(seconds_of_bud)` seconds worth of BUD to the enemy each second for `$(total_seconds)` seconds.
   
 ## Specialisations
-Unknown.
+Potent Poison
+> Unknown effect.
+
+Robust Rivals
+> Unknown effect.
 
 ## Items
 

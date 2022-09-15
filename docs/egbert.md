@@ -43,13 +43,17 @@ Health Share
 Smoky Bombs:
 > Egbert's bombs now also create smoke clouds that last for `$(duration)` seconds. Enemies in one or more smoke clouds take an additional `$(amount)%` damage from attacks, and have a `$(miss_chance)%` chance to miss with their attack.
 
-Unknown name:
+Health Kick:
 > Egbert's Lay on Hands targets the two most damaged Champions and the amount of healing is increased by `$(amount)%`.
 
-Unknown name (Multiple choice?):
+Atonement Begins with an Apology / Team Chaos Team:  
+I'm not sure which is for which.
 > The number of Neutral (Lawful/Chaotic axis) Champions in the formation is added to Egbert's Atonement points.
 
 > The number of Neutral (Lawful/Chaotic axis) Champions in the formation is subtracted from Egbert's Atonement points.
+
+Oxventure Capitalism
+> Unknown effect.
 
 ## Items
 
