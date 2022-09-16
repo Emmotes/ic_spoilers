@@ -31,10 +31,10 @@ Chain Lightning
 > Unknown effect.
 
 Storm Sorcerer
-> Unknown effect.
-
-Unknown Name
 > Virgil increases the damage of all adjacent Champions by `$(amount)%`, and decreases their normal attack speed cooldown by `$(amount___2)` `$(seconds_plural)`.
+
+Weather Control
+> Unknown effect.
 
 Unknown Name
 > If Kent qualifies for an adventure restriction based on his tags, age, ability scores, etc., Virgil may be used as well.
