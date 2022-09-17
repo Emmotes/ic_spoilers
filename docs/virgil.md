@@ -6,7 +6,7 @@ Tall, with dark brown skin, medium length black dreadlocks with silver colored t
 
 [https://rowdnd.fandom.com/wiki/Virgil](https://rowdnd.fandom.com/wiki/Virgil)
 
-## Basic Information
+# Basic Information
 Virgil will be the new champion in the Feast of the Moon event on 9 November 2022.
 
 * Seat: Unknown
@@ -18,12 +18,12 @@ Virgil will be the new champion in the Feast of the Moon event on 9 November 202
 * Affiliation: Rivals of Waterdeep
 * Stats: Unknown
 
-## Formation
+# Formation
 Unknown.
 <!-- Uncomment once formation is available. -->
 <!-- ![Formation Layout](images/formation_virgil.png) -->
 
-## Abilities
+# Abilities
 Magic Missile (Base Attack)
 > Virgil summons 3 magic missiles and fires them at random targets.
 
@@ -39,7 +39,7 @@ Weather Control
 Unknown Name
 > If Kent qualifies for an adventure restriction based on his tags, age, ability scores, etc., Virgil may be used as well.
 
-## Specialisations
+# Specialisations
 Mood Anxious / Mood Determined / Mood Relaxed  
 I don't know which is for which.
 > Virgil's magic missile and chain lightning attacks turn green, and he further increases Storm Sorcerer's damage boost by 100% and increases the attack cooldown reduction by a further 1 second.
@@ -48,10 +48,10 @@ I don't know which is for which.
 
 > Virgil's magic missile and chain lightning attacks turn violet, and Virgil increases Weather Control's damage boost by 33% for each Rivals of Waterdeep Champion in the formation, stacking multiplicatively.
 
-## Items
+# Items
 Unknown.
 
-## Legendaries
+# Legendaries
 Unknown.
 
 [Back to Top](#top)

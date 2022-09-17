@@ -3,7 +3,7 @@ Just a collection of most of the currently known spoilers. It is by no means exh
 
 Of course - spoilers are subject to change at any time. Don't plan any major life events around them.
 
-## Champions
+# Champions
 These are the champions that are upcoming and all the information we know about them.
 
 * High Harvestide - 28 September 2022
@@ -15,7 +15,7 @@ These are the champions that are upcoming and all the information we know about 
 * Simril - 30 November 2022?
   * [Warduke](warduke.md) - Human Unknown of League of Malevolence
 
-## Misc
+# Misc
 Miscellaneous spoilers.
 
 * [Feats](feats.md)

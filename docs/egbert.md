@@ -4,7 +4,7 @@
 # Egbert
 Clumsy but well-meaning, Egbert the Dragonborn Paladin was summarily booted out of his Paladin order after a terrible incident he doesn't like to talk about. Setting out on his quest for atonement with a new deity in tow, La Vache Mauve, he falls in with the Oxventurers Guild and, by his reckoning, questing with them offers as good a chance as any of guiding him towards absolution. Often impulsive, he very rarely plans beyond his initial moment of 'inspiration' but his heart's in the right place. Well, at least until he next rushes into battle, trips into a spike pit and ends up kebabbed on a skewer...
 
-## Basic Information
+# Basic Information
 Egbert will be the new champion in the High Harvestide event on 28 September 2022.
 
 * Seat: 7
@@ -26,10 +26,10 @@ Egbert will be the new champion in the High Harvestide event on 28 September 202
   * Vajra
   * Zariel
 
-## Formation
+# Formation
 ![Formation Layout](images/formation_egbert.png)
 
-## Abilities
+# Abilities
 
 Homemade Bombs (Base Attack)
 > Egbert throws a bomb at the nearest enemy, dealing damage and knocking back enemies in a small area.
@@ -52,7 +52,7 @@ More the Merrier
 Golden Scales
 > Egbert increases the global gold find by `$(not_buffed amount)%` multiplied by the absolute value of the number of Atonement points he has.
 
-## Specialisations
+# Specialisations
 
 Atonement Begins with an Apology (First Spec)
 > The number of Neutral (Lawful/Chaotic axis) Champions in the formation is added to Egbert's Atonement points.
@@ -69,7 +69,7 @@ Health Kick (Second Spec)
 Oxventure Capitalism (Second Spec)
 > Egbert increases the effect of Golden Scales by `$(not_buffed amount)%` for each Oxventures affiliation member in the formation, stacking multiplicatively.
 
-## Items
+# Items
 
 1. Bomb - All Champion Damage
 2. Find Steed - Gold Find
@@ -78,7 +78,7 @@ Oxventure Capitalism (Second Spec)
 5. Pamphlet - Buffs All Second Specialisations
 6. Shield - Reduce Ultimate Cooldown
 
-## Feats
+# Feats
 
 | Name | Effect |
 |---|---|
@@ -91,11 +91,11 @@ Oxventure Capitalism (Second Spec)
 | Holy Touch | Buff Atone for the Past 80% |
 | Unnecessary Apology | Buff Lay on Hands 20% |
 | Let's Do This Thing | Buff Lay on Hands 40% |
-| Gainful Employment | Buff 2nd Specs 40% |
+| Gainful Employment | Buff Second Specialisations 40% |
 | Defensive Duellist | Overwhelm +5 |
 | Calm Under Pressure | Overwhelm +10 |
 
-## Legendaries
+# Legendaries
 Unknown.
 
 [Back to Top](#top)

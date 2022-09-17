@@ -9,7 +9,7 @@ What does Warduke look like under his dread helm? No one knows. He never removes
 
 [D&DBeyond Monster Statblock](https://www.dndbeyond.com/monsters/1979813-warduke)
 
-## Basic Information
+# Basic Information
 Warduke will be the new champion in the Simril event on 30 November 2022.
 
 * Seat: Unknown
@@ -27,15 +27,15 @@ Warduke will be the new champion in the Simril event on 30 November 2022.
   * Wis: 11
   * Cha: 11
 
-## Formation
+# Formation
 Unknown.
 <!-- Uncomment once formation is available. -->
 <!-- ![Formation Layout](images/formation_warduke.png) -->
 
-## Abilities
+# Abilities
 Unknown.
 
-## Specialisations
+# Specialisations
 
 League of Malevolence
 > Unknown effect.
@@ -43,10 +43,10 @@ League of Malevolence
 Mercenary for Hire
 > Unknown effect.
 
-## Items
+# Items
 Unknown.
 
-## Legendaries
+# Legendaries
 Unknown.
 
 [Back to Top](#top)

@@ -6,7 +6,7 @@ Tall, brown skinned with hints of blue, shoulder-length black hair, ice blue eye
 
 [https://rowdnd.fandom.com/wiki/Kent](https://rowdnd.fandom.com/wiki/Kent)
 
-## Basic Information
+# Basic Information
 Kent will be the new champion in the Liar's Night event on 19 October 2022.
 
 * Seat: Unknown
@@ -18,10 +18,10 @@ Kent will be the new champion in the Liar's Night event on 19 October 2022.
 * Affiliation: Rivals of Waterdeep
 * Stats: Unknown
 
-## Formation
+# Formation
 ![Formation Layout](images/formation_kent.png)
 
-## Abilities
+# Abilities
 
 Rapier (Base Attack)
 > Kent strikes the closest enemy with his rapier.
@@ -41,14 +41,14 @@ Name Unknown
 Name Unknown
 > If Virgil qualifies for an adventure restriction based on his tags, age, ability scores, etc., Kent may be used as well.
 
-## Specialisations
+# Specialisations
 Potent Poison
 > Whenever Kent attacks an enemy and doesn't kill it, it is affected by a virulent poison. The poison deals `$(seconds_of_bud)` seconds worth of BUD to the enemy each second for `$(total_seconds)` seconds.
 
 Robust Rivals
 > Kent increases the attack bonus of `$(upgrade_name id)` by `$(amount)%` for each Rivals of Waterdeep Champion, stacking multiplicatively and applied multiplicatively.
 
-## Items
+# Items
 
 1. Boots - ?
 2. Clothing - ?
@@ -57,7 +57,7 @@ Robust Rivals
 5. Soul Trinket - ?
 6. Virgil Connection - ?
 
-## Legendaries
+# Legendaries
 Unknown.
 
 [Back to Top](#top)
