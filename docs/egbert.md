@@ -38,16 +38,16 @@ La Vache Mauve (Ultimate)
 > Clouds come down from the top of the screen and part, revealing the head of La Vache Mauve. Radiant light shines out from behind La Vache Mauve's head and illuminates the area. Enemies take ultimate damage, and the Champions deal 1000% more damage for 20 seconds.
 
 Atone for the Past
-> Egbert buffs Champion damage based on the number of Lawful or Chatoic Champions in the formation, focus on one end of the axis to maximize this bonus.
+> Egbert has a number of Atonement points equal to the number of Lawful Champions in the formation minus the number of Chaotic Champions in the formation, not including Egbert himself. Egbert increases the damage of all Champions behind him by $(not_buffed amount___2)% multiplied by  the number of Atonement points he has squared.
 
 Lay on Hands
-> Egbert heals the most damage Champion after each attack based on the absolute value of Atonement Points
+> After Egbert makes a base attack, if there is a Champion below `$(health_precent_threshold)%` hit points (including himself), he heals the most damaged Champion for `$(base_heal)` multiplied by the absolute value of the number of Atonement points he has.
 
 Friendly Protection
 > Egbert increases the health of all other Champions by `$(amount)%` of his max health multiplied by the absolute value of the number of Atonement points he has.
 
 More the Merrier
-> Egbert increases the effect of Atone for the Past by `$(amount)%` for each enemy on the screen and each point of enemy/boss enrage, stacking additively and then applying multiplicatively.
+> Egbert increases the effect of 8872 by `$(amount)%` for each enemy on the screen and each point of enemy/boss enrage, stacking additively and then applying multiplicatively.
 
 Golden Scales
 > Egbert increases the global gold find by `$(not_buffed amount)%` multiplied by the absolute value of the number of Atonement points he has.
