@@ -21,6 +21,10 @@ Egbert will be the new champion in the High Harvestide event on 28 September 202
   * Int: 10
   * Wis:  8
   * Cha: 18
+* Patrons:
+  * Mirt
+  * Vajra
+  * Zariel
 
 ## Formation
 ![Formation Layout](images/formation_egbert.png)
