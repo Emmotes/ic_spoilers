@@ -38,7 +38,7 @@ La Vache Mauve (Ultimate)
 > Clouds come down from the top of the screen and part, revealing the head of La Vache Mauve. Radiant light shines out from behind La Vache Mauve's head and illuminates the area. Enemies take ultimate damage, and the Champions deal 1000% more damage for 20 seconds.
 
 Atone for the Past
-> Egbert has a number of Atonement points equal to the number of Lawful Champions in the formation minus the number of Chaotic Champions in the formation, not including Egbert himself. Egbert increases the damage of all Champions behind him by $(not_buffed amount___2)% multiplied by  the number of Atonement points he has squared.
+> Egbert has a number of Atonement points equal to the number of Lawful Champions in the formation minus the number of Chaotic Champions in the formation, not including Egbert himself. Egbert increases the damage of all Champions behind him by `$(not_buffed amount___2)%` multiplied by  the number of Atonement points he has squared.
 
 Lay on Hands
 > After Egbert makes a base attack, if there is a Champion below `$(health_precent_threshold)%` hit points (including himself), he heals the most damaged Champion for `$(base_heal)` multiplied by the absolute value of the number of Atonement points he has.
