@@ -76,16 +76,17 @@ Oxventure Capitalism (Second Spec)
 
 ## Feats
 
+| Name | Effect |
 |---|---|
 | Selflessness | All Champion Damage 10% |
 | Inspiring Leader | All Champion Damage 25% |
 | Tough | Health 15% |
 | Resilient | Health 30% |
 | Lucky | Gold 25% |
-| Mauve Blessings | Buff 8872 40% |
-| Holy Touch | Buff 8872 80% |
-| Unnecessary Apology | Buff 8873 20% |
-| Let's Do This Thing | Buff 8873 40% |
+| Mauve Blessings | Buff Atone for the Past 40% |
+| Holy Touch | Buff Atone for the Past 80% |
+| Unnecessary Apology | Buff Lay on Hands 20% |
+| Let's Do This Thing | Buff Lay on Hands 40% |
 | Gainful Employment | Buff 2nd Specs 40% |
 | Defensive Duellist | Overwhelm +5 |
 | Calm Under Pressure | Overwhelm +10 |
