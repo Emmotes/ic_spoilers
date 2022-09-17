@@ -96,7 +96,13 @@ Oxventure Capitalism (Second Spec)
 | Calm Under Pressure | Overwhelm +10 |
 
 # Legendaries
-Unknown.
+
+* Increases the damage of all Champions by 10.0% for each Champion in the formation.
+* Increases the damage of all Male Champions by 125.0%.
+* Increases the damage of all Dragonborn Champions by 150.0%.
+* Increases the damage of all Champions by 40.0% for each Champion with a STR score of 15 or higher in the formation.
+* Increases the damage of all Champions with a CON score of 13 or higher by 150.0%.
+* Increases the damage of all Good Champions by 150.0%.
 
 [Back to Top](#top)
 
