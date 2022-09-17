@@ -47,7 +47,7 @@ Friendly Protection
 > Egbert increases the health of all other Champions by `$(amount)%` of his max health multiplied by the absolute value of the number of Atonement points he has.
 
 More the Merrier
-> Egbert increases the effect of 8872 by `$(amount)%` for each enemy on the screen and each point of enemy/boss enrage, stacking additively and then applying multiplicatively.
+> Egbert increases the effect of Atone for the Past by `$(amount)%` for each enemy on the screen and each point of enemy/boss enrage, stacking additively and then applying multiplicatively.
 
 Golden Scales
 > Egbert increases the global gold find by `$(not_buffed amount)%` multiplied by the absolute value of the number of Atonement points he has.
