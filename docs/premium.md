@@ -28,7 +28,7 @@ Date of release: 28 Sept 2022
 Contents:
 * Champion: `Egbert`
 * Skin: `High Society Egbert`
-* Feat: `???`
+* Feat: `Holy Touch (Egbert)`
 * Chests: `Gold Egbert Chest` x7 (Shinies x1)
 
 ## Spelljammer Evelyn Skin & Feat Pack - $9.99
