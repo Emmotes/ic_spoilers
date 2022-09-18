@@ -74,26 +74,26 @@ Oxventure Capitalism (Second Spec)
 1. Bomb - All Champion Damage
 2. Find Steed - Gold Find
 3. Food - Health
-4. Mace - Buffs Atone for the Past
-5. Pamphlet - Buffs All Second Specialisations
-6. Shield - Reduce Ultimate Cooldown
+4. Mace - Atone for the Past
+5. Pamphlet - All Second Specialisations
+6. Shield - Ultimate Cooldown Reduction
 
 # Feats
 
-| Name | Effect |
-|---|---|
-| Selflessness | All Champion Damage 10% |
-| Inspiring Leader | All Champion Damage 25% |
-| Tough | Health 15% |
-| Resilient | Health 30% |
-| Lucky | Gold 25% |
-| Mauve Blessings | Buff Atone for the Past 40% |
-| Holy Touch | Buff Atone for the Past 80% |
-| Unnecessary Apology | Buff Lay on Hands 20% |
-| Let's Do This Thing | Buff Lay on Hands 40% |
-| Gainful Employment | Buff Second Specialisations 40% |
-| Defensive Duellist | Overwhelm +5 |
-| Calm Under Pressure | Overwhelm +10 |
+| Feat | Effect | Source |
+|---|---|---|
+| `Selflessness` | 10% All Champion Damage | Free |
+| `Inspiring Leader` | 25% All Champion Damage | 12,500 Gems |
+| `Tough` | 15% Health | Free |
+| `Resilient` | 30% Health | Gold Chest |
+| `Lucky` | 25% Gold | 12,500 Gems |
+| `Mauve Blessings` | 40% Atone for the Past | Gold Chest |
+| `Holy Touch` | 80% Atone for the Past | 50,000 Gems |
+| `Unnecessary Apology` | 20% Lay On Hands | Free |
+| `Let's Do This Thing` | 40% Lay On Hands | Gold Chest |
+| `Gainful Employment` | 40% All Second Specialisations | Gold Chest |
+| `Defensive Duelist` | 5 Overwhelm | Free |
+| `Calm Under Pressure` | 10 Overwhelm | 12,500 Gems |
 
 # Legendaries
 
