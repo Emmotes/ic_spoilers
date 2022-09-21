@@ -55,7 +55,13 @@ I don't know which is for which.
 > Virgil's magic missile and chain lightning attacks turn violet, and Virgil increases Weather Control's damage boost by 33% for each Rivals of Waterdeep Champion in the formation, stacking multiplicatively.
 
 # Items
-Unknown.
+
+1. Bladed Fan
+2. Journal
+3. Kent Connection
+4. Magic Bracers
+5. Shirt
+6. Waders
 
 # Legendaries
 Unknown.
