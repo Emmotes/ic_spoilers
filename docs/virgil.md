@@ -12,7 +12,7 @@ Virgil will be the new champion in the Feast of the Moon event on 9 November 202
 * Seat: Unknown
 * Race: Aasimar
 * Class: Sorcerer
-* Roles: Unknown
+* Roles: Unknown (+Speed?)
 * Gender: Male
 * Alignment: Unknown
 * Affiliation: Rivals of Waterdeep
@@ -34,10 +34,16 @@ Storm Sorcerer
 > Virgil increases the damage of all adjacent Champions by `$(amount)%`, and decreases their normal attack speed cooldown by `$(amount___2)` `$(seconds_plural)`.
 
 Weather Control
-> Unknown effect.
+> Virgil gains a Weather stack each time the weather changes when advancing to a new area or when it's changed by an ultimate attack or other ability. Virgil tracks each type of weather in a separate stack. Each stack is multiplied by `$(stack_mult_percent)%` and then all stacks are multiplied together to get a total value which increases the damage of all Champions. Each stack caps at `$(max_stacks_per_weather_type)`.
 
 Unknown Name
 > If Kent qualifies for an adventure restriction based on his tags, age, ability scores, etc., Virgil may be used as well.
+
+Unknown Name (Guessing this is Virgil's.)
+> Enemies that are defeated within `$(seconds_plural optional_within_time)` of being on screen have a `$(not_buffed amount)%` chance to drop double quest items or count for double quest progress for each Rivals of Waterdeep Champion in the formation, stacking additively.
+
+Unknown Name
+> While a Champion in the formation is knocked out, Virgil's magic missile and chain lightning attacks turn red and any enemy he hits with his base attack takes an additional `$(amount)%` damage for the next `$(total_seconds)` seconds. If an enemy is hit again, the timer is reset but doesn't otherwise stack.
 
 # Specialisations
 Mood Anxious / Mood Determined / Mood Relaxed  

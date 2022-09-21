@@ -44,7 +44,13 @@ Mercenary for Hire
 > Unknown effect.
 
 # Items
-Unknown.
+
+1. Amulet
+2. Armor
+3. Dagger
+4. Helm
+5. Shield
+6. Sword
 
 # Legendaries
 Unknown.
