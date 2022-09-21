@@ -3,16 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Scotty the Rescue Pup Familiar Pack - $9.99
-Date of release: 21 Sept 2022
-
-Contents:
-* Familiar: `Scotty the Rescue Pup`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-
 ## Elf Hazard Merilwen Skin & Feat Pack - $9.99
 Date of release: 28 Sept 2022
 
