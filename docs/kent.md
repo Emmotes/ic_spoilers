@@ -29,13 +29,13 @@ Rapier (Base Attack)
 Ultimate: Wails from the Grave
 > The weather changes to fog. For 30 seconds, whenever Kent attacks, a ghostly spirit is summoned and attacks an additional enemy if possible dealing BUD damage.
 
-Soul Trinket (Guess)
+Tokens of the Departed (Guess)
 > Kent keeps a soul trinket of the highest level boss defeated in each campaign (and the highest level boss defeated in all events) where he was present. Kent increases the damage of all Champions in his column by `$(amount)%` for each Soul Trinket level.
 
-Nostalgia (Guess)
+Remembering the Old Days (Guess)
 > Each time Kent or the ghostly spirit from his ultimate attacks, he gains a Nostalgia stack that lasts until entering a new area. Kent increases his damage by $(not_buffed amount)% for each Nostalgia stack, stacking multiplicatively and then applied multiplicatively. Buffs are applied to the post stack value, and Nostalgia stacks are capped at `$(max_stacks)` stacks.
 
-Name Unknown
+Extra (Guess)
 > Kent's force of personality emboldens his companions. Kent increases the damage of all Champions by your current Achievement bonus.
 
 Inseparable (Guess)
