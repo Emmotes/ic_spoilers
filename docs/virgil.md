@@ -36,7 +36,7 @@ Storm Sorcerer
 Weather Control
 > Virgil gains a Weather stack each time the weather changes when advancing to a new area or when it's changed by an ultimate attack or other ability. Virgil tracks each type of weather in a separate stack. Each stack is multiplied by `$(stack_mult_percent)%` and then all stacks are multiplied together to get a total value which increases the damage of all Champions. Each stack caps at `$(max_stacks_per_weather_type)`.
 
-Unknown Name
+Inseparable Bond (Guess)
 > If Kent qualifies for an adventure restriction based on his tags, age, ability scores, etc., Virgil may be used as well.
 
 Unknown Name (Guessing this is Virgil's.)

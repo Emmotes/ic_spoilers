@@ -38,7 +38,7 @@ Nostalgia (Guess)
 Name Unknown
 > Kent's force of personality emboldens his companions. Kent increases the damage of all Champions by your current Achievement bonus.
 
-Name Unknown
+Inseparable (Guess)
 > If Virgil qualifies for an adventure restriction based on his tags, age, ability scores, etc., Kent may be used as well.
 
 # Specialisations
