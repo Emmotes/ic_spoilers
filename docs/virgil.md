@@ -27,8 +27,8 @@ Unknown.
 Magic Missile (Base Attack)
 > Virgil summons 3 magic missiles and fires them at random targets.
 
-Chain Lightning
-> Unknown effect.
+Chain Lightning (Ultimate)
+> Virgil attacks a random enemy with a bolt of lightning dealing ultimate damage. Every 0.10 seconds, the lightning bolt attacks another random enemy until 20 enemies are struck or no enemies remain. In addition, the area's weather changes to thunder.
 
 Storm Sorcerer
 > Virgil increases the damage of all adjacent Champions by `$(amount)%`, and decreases their normal attack speed cooldown by `$(amount___2)` `$(seconds_plural)`.
