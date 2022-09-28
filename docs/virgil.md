@@ -19,9 +19,7 @@ Virgil will be the new champion in the Feast of the Moon event on 9 November 202
 * Stats: Unknown
 
 # Formation
-Unknown.
-<!-- Uncomment once formation is available. -->
-<!-- ![Formation Layout](images/formation_virgil.png) -->
+![Formation Layout](images/formation_virgil.png)
 
 # Abilities
 Magic Missile (Base Attack)
