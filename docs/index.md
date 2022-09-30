@@ -16,6 +16,7 @@ These are the champions that are upcoming and all the information we know about 
 # Misc
 Miscellaneous spoilers.
 
+* [Season 2](season_2.md)
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)

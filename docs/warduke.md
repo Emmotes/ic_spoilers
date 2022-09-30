@@ -40,27 +40,27 @@ Flame Tongue Sword (Ultimate)
 > Unknown effect.
 
 Unknown Name (Stacks Title: Remorseless)
-> Each time `Warduke` attacks or is damaged, he gains a Remorseless stack. `Warduke` increases his damage by `$(amount)%` for each Remorseless stack he has, stacking additively. Stacks are reset when traveling to a new area.
+> Each time Warduke attacks or is damaged, he gains a Remorseless stack. Warduke increases his damage by `$(amount)%` for each Remorseless stack he has, stacking additively. Stacks are reset when traveling to a new area.
 
 Unknown Name (Health Share)
-> Increase the health of all Champions by `$(amount)%` of `Warduke`'s max health.
+> Increase the health of all Champions by `$(amount)%` of Warduke's max health.
 
 Unknown Name
 > `"effect_string": "invert_formation_ability_targets"`
 
 Unknown Name (Stack Title: Drawn to Power)
-> `Warduke's` damage is increased by `$(amount)%` for each positional formation ability affecting him, stacking multiplicatively. Buffs apply to the pre-stack multiplier.
+> Warduke's damage is increased by `$(amount)%` for each positional formation ability affecting him, stacking multiplicatively. Buffs apply to the pre-stack multiplier.
 
 # Specialisations
 
 League of Malevolence
-> `Warduke`'s damage is increased by `$(not_buffed amount)%` for each Evil Champion in the formation, stacking multiplicatively.
+> Warduke's damage is increased by `$(not_buffed amount)%` for each Evil Champion in the formation, stacking multiplicatively.
 
 Mercenary for Hire
-> `Warduke`'s damage is increased by `$(not_buffed amount)%` for each Gold Find Champion in the formation, stacking multiplicatively.
+> Warduke's damage is increased by `$(not_buffed amount)%` for each Gold Find Champion in the formation, stacking multiplicatively.
 
 Chaos Reigns
-> `Warduke`'s damage is increased by `$(not_buffed amount)%` for each Chaotic Champion in the formation, stacking multiplicatively.
+> Warduke's damage is increased by `$(not_buffed amount)%` for each Chaotic Champion in the formation, stacking multiplicatively.
 
 # Items
 
