@@ -10,7 +10,7 @@ Given the changes that have been popping up in the defines - it seems Season 2's
 So far all we have are new ability descriptions that were added.
 > Increase the damage of all Champions in the back two columns of the formation by `$amount%`.
 
-> Krydle increases the effect of From The Shadows by $amount% for each Champion with the Heroes of Baldur's Gate affiliation or a CHA score of 15 or higher, stacking multiplicatively.
+> Krydle increases the effect of From The Shadows by `$amount%` for each Champion with the Heroes of Baldur's Gate affiliation or a CHA score of 15 or higher, stacking multiplicatively.
 
 > Krydle begins every area with stacks of Evasion equal to his Overwhelm. When Krydle gets attacked, as long as he has at least one stack of Evasion left, he dodges the attack completely and uses up one stack of Evasion. Krydle restores 2 stacks of Evasion every second for each Healing Champion in the formation. Number of stacks can not surpass his Overwhelm. If a boss or enemies are enraged, max stacks are divided by the enrage multiplier, rounded down.
 
