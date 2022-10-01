@@ -78,12 +78,12 @@ Robust Rivals
 
 # Legendaries
 
-* Increases the damage of all Champions by 100.0%.
-* Increases the damage of all Male Champions by 125.0%.
-* Increases the damage of all Tiefling Champions by 150.0%.
-* Increases the damage of all Champions with a CHA score of 13 or higher by 150.0%.
-* Increases the damage of all Champions by 30.0% for each Champion with a CON score of 13 or higher in the formation.
-* Increases the damage of all Champions by 20.0% for each Champion in the formation with a NEUTRAL alignment.
+* Increases the damage of all Champions by 100%.
+* Increases the damage of all Male Champions by 125%.
+* Increases the damage of all Tiefling Champions by 150%.
+* Increases the damage of all Champions with a CHA score of 13 or higher by 150%.
+* Increases the damage of all Champions by 30% for each Champion with a CON score of 13 or higher in the formation.
+* Increases the damage of all Champions by 20% for each Champion in the formation with a NEUTRAL alignment.
 
 [Back to Top](#top)
 
