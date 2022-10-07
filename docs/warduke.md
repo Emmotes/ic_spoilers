@@ -49,6 +49,10 @@ Unknown Name
 Unknown Name (Stack Title: Drawn to Power)
 > Warduke's damage is increased by `$(amount)%` for each positional formation ability affecting him, stacking multiplicatively. Buffs apply to the pre-stack multiplier.
 
+A Figure of Action
+> "effect_string": "reduce_attack_cooldown,1",  
+> "effect_string": "increase_attack_cooldown,3",
+
 # Specialisations
 
 League of Malevolence

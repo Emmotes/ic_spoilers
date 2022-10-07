@@ -8,19 +8,20 @@ Given the changes that have been popping up in the defines - it seems Season 2's
 
 ## Krydle
 So far all we have are new ability descriptions that were added.
-> Increase the damage of all Champions in the back two columns of the formation by `$amount%`.
 
-> Krydle increases the effect of From The Shadows by `$amount%` for each Champion with the Heroes of Baldur's Gate affiliation or a CHA score of 15 or higher, stacking multiplicatively.
+> Increase the damage of all Champions in the back two columns of the formation by `$(amount)%`.
+
+> Krydle increases the effect of From The Shadows by `$(amount)%` for each Champion with the Heroes of Baldur's Gate affiliation or a CHA score of 15 or higher, stacking multiplicatively.
 
 > Krydle begins every area with stacks of Evasion equal to his Overwhelm. When Krydle gets attacked, as long as he has at least one stack of Evasion left, he dodges the attack completely and uses up one stack of Evasion. Krydle restores 2 stacks of Evasion every second for each Healing Champion in the formation. Number of stacks can not surpass his Overwhelm. If a boss or enemies are enraged, max stacks are divided by the enrage multiplier, rounded down.
 
-> Krydle gains 5 Overwhelm for each Heroes of Baldur's Gate Champion in the formation.
+> Krydle gains `$(amount)` Overwhelm for each Heroes of Baldur's Gate Champion in the formation.
 
-> Krydle reduces the damage taken by other Champions in the formation by 75%, assuming he has at least one stack of Evasion and is in the front-most column of the formation.
+> Krydle reduces the damage taken by other Champions in the formation by `$(amount)%`, assuming he has at least one stack of Evasion and is in the front-most column of the formation.
 
-> Increase the effect of Charismatic Leader by 200%.
+> Increase the effect of Charismatic Leader by `$(amount)%`.
 
-> Krydle's base max health is increased by 75% for every 50 areas completed, up to area 600.
+> KKrydle's base max health is increased by `$(amount)%` for every 50 areas completed, up to area 600.
 
 Reverse Pickpocket
 > Krydle attacks a random enemy with his daggers. While doing so, he reverse pick-pockets a smokepowder bomb onto their person, which explodes for which deals 3 seconds of BUD damage in a small radius after 3 seconds if the enemy is not killed in the meantime.

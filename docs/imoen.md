@@ -28,9 +28,6 @@ Unknown.
 Short Bow (Base Attack)
 > Unknown effect.
 
-A Figure of Action
-> Unknown effect.
-
 Unknown Name (Stack Title: Perseverance Stacks)
 > Any time any Champion's Favored Foe appears or is defeated, Imoen increases the effect of `$(upgrade_name id)` by `$(amount)%`, stacking multiplicatively and then applying multiplicatively. Stacks up to `$(max_stacks)` times. Stacks are reset each time the Champions change areas.
 
