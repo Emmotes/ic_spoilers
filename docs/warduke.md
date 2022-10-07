@@ -14,7 +14,7 @@ Warduke will be the new champion in the Simril event on 30 November 2022.
 * Seat: Unknown
 * Race: Human
 * Class: Fighter (Guess)
-* Roles: DPS (Guess)
+* Roles: DPS / Tank (Guess)
 * Gender: Male
 * Alignment: Chaotic Evil
 * Affiliation: League of Malevolence
@@ -27,9 +27,7 @@ Warduke will be the new champion in the Simril event on 30 November 2022.
   * Cha: 11
 
 # Formation
-Unknown.
-<!-- Uncomment once formation is available. -->
-<!-- ![Formation Layout](images/formation_warduke.png) -->
+![Formation Layout](images/formation_warduke.png)
 
 # Abilities
 
@@ -37,7 +35,7 @@ Nightwind (Base Attack)
 > Warduke moves up to the closest enemy and swings his sword, dealing one hit to all nearby enemies with a melee attack.
 
 Flame Tongue Sword (Ultimate)
-> Unknown effect.
+> Warduke's sword Nightwind ignites in flames for 30 seconds. For the duration, Warduke deals an additional 1000% damage with his normal attacks and he takes half damage from all sources. If Warduke activates his ultimate again before its effect expires the duration is refreshed.
 
 Unknown Name (Stacks Title: Remorseless)
 > Each time Warduke attacks or is damaged, he gains a Remorseless stack. Warduke increases his damage by `$(amount)%` for each Remorseless stack he has, stacking additively. Stacks are reset when traveling to a new area.
@@ -46,7 +44,7 @@ Unknown Name (Health Share)
 > Increase the health of all Champions by `$(amount)%` of Warduke's max health.
 
 Unknown Name
-> `"effect_string": "invert_formation_ability_targets"`
+> Most positional formation abilities' targets are inverted.
 
 Unknown Name (Stack Title: Drawn to Power)
 > Warduke's damage is increased by `$(amount)%` for each positional formation ability affecting him, stacking multiplicatively. Buffs apply to the pre-stack multiplier.

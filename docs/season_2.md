@@ -1,7 +1,7 @@
 [Back to Main](index.md)
 
 # Season 2
-This is what I believe we know about Season 2. What's here might not end up in season 2 - this might be something else entirely - but from what the developers have said - we think this is a fairly safe bet.
+This is what I believe we know about Season 2.
 
 # Theme
 Given the changes that have been popping up in the defines - it seems Season 2's theme and rebalances will be around the Heroes of Baldur's Gate. We don't know as yet which 5 will be chosen for the reworks - but the developers have said no Evergreens will be likely to see balances.
@@ -21,6 +21,35 @@ So far all we have are new ability descriptions that were added.
 > Increase the effect of Charismatic Leader by 200%.
 
 > Krydle's base max health is increased by 75% for every 50 areas completed, up to area 600.
+
+Reverse Pickpocket
+> Krydle attacks a random enemy with his daggers. While doing so, he reverse pick-pockets a smokepowder bomb onto their person, which explodes for which deals 3 seconds of BUD damage in a small radius after 3 seconds if the enemy is not killed in the meantime.
+
+## Jaheira
+Tangling Scimitar
+> Jaheira attacks the nearest enemy with her scimitar, briefly rooting them in place with some vines.
+
+> Beast enemies are Jaheira's Favored Foe. When an enemy of her Favored Foe type is attacked (by any Champion), Jaheira gains a Hunter stack. This increases her damage by 200% per stack and increases the effect of Class Act by 100% per stack, stacking additively. Maximum 20 stacks. Stacks are reset when you change areas.
+
+> After 20 of Jaheira's Favored Foes have been killed, this ability activates and she becomes more focused, increasing the effects of Fierce Hunter by `$(amount)%` until you change areas. Once Persistent Focus is unlocked, she gains one stack of Persistent Focus every 30 seconds while Battle Focus is active, and one stack when it expires.
+
+> Jaheira increases the damage of all Champions, including herself, by `$(amount)%` for each stack of Persistent Focus she has, stacking additively.
+
+> Increase the effect of Class Act by `$(amount)%` for each Champion affected by it, stacking multiplicatively.
+
+> Jaheira increases the damage of Clerics, Wizards, Sorcerers, and Warlocks by `$(amount)%`.
+
+> Jaheira increases the damage of Barbarians, Fighters, Rogues and Monks by `$(amount)%`.
+
+> Jaheira increases the damage of Paladins, Rangers, Druids, and Bards by `$(amount)%`.
+
+> Jaheira increases the damage of Champions from the Heroes of Baldur's Gate affiliation by `$(amount)%`.
+
+> Jaheira continues to be a Fierce Hunter of Beast creatures.
+
+> Humanoids are Jaheira's new Favored Foe. Jaheira's Fierce Hunter and Battle Focus ability now trigger off of Humanoid creatures instead of Beasts.
+
+> Undead are Jaheira's new Favored Foe. Jaheira's Fierce Hunter and Battle Focus ability now trigger off of Undead creatures instead of Beasts.
 
 [Back to Top](#top)
 

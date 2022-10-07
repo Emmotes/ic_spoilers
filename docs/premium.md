@@ -3,16 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Baby Guenhwyvar Familiar Pack - $0.0
-Date of release: 07 Oct 2022
-
-Contents:
-* Familiar: `Baby Guenhwyvar`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-
 ## Spelljammer Evelyn Skin & Feat Pack - $9.99
 Date of release: 11 Oct 2022
 

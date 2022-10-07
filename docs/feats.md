@@ -20,7 +20,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Asharra | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 02 Nov 2022 |
 | Deekin | `Heavy Lifter` | Stat: +2 Strength | 50,000 Gems | 02 Nov 2022 |
 | Evelyn | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 02 Nov 2022 |
-| Shaka | `Puzzle Master` | ??? | 50,000 Gems | 09 Nov 2022 |
+| Shaka | `Puzzle Master` | +1 Additional Easy Puzzle Slot | 50,000 Gems | 09 Nov 2022 |
 | Strix | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 09 Nov 2022 |
 | Kent | `Quintessence Essence` | 80% Tokens of the Departed | 50,000 Gems | 21 Nov 2022 |
 | Walnut | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 21 Nov 2022 |
