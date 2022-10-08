@@ -21,6 +21,10 @@ Kent will be the new champion in the Liar's Night event on 19 October 2022.
   * Int: 14
   * Wis: 10
   * Cha: 14
+* Patrons:
+  * Mirt
+  * Vajra
+  * Strahd
 
 # Formation
 ![Formation Layout](images/formation_kent.png)
