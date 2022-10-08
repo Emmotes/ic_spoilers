@@ -28,6 +28,9 @@ Unknown.
 Short Bow (Base Attack)
 > Unknown effect.
 
+Disarm Traps (Ultimate)
+> Unknown effect.
+
 Unknown Name (Stack Title: Perseverance Stacks)
 > Any time any Champion's Favored Foe appears or is defeated, Imoen increases the effect of `$(upgrade_name id)` by `$(amount)%`, stacking multiplicatively and then applying multiplicatively. Stacks up to `$(max_stacks)` times. Stacks are reset each time the Champions change areas.
 
@@ -43,7 +46,17 @@ Favored Foe
 
 # Specialisations
 
-Unknown.
+Aberration Slaying Arrow
+> Sets Favored Foe to Aberration. (Guess)
+
+Beast Slaying Arrow
+> Sets Favored Foe to Beast. (Guess)
+
+Dragon Slaying Arrow
+> Sets Favored Foe to Dragon. (Guess)
+
+Monstrosity Slaying Arrow
+> Sets Favored Foe to Monstrosity. (Guess)
 
 # Items
 
