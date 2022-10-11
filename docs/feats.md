@@ -7,9 +7,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
-| Evelyn | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 11 Oct 2022 |
-| Strix | `Trash Witch` | 80% Poor Hygiene | 50,000 Gems | 11 Oct 2022 |
-| Walnut | `Dire Wolfnut` | 80% Wolfnut | 50,000 Gems | 11 Oct 2022 |
 | Sisaspia | `Fungal Cloud` | 80% Halo of Spores | 50,000 Gems | 12 Oct 2022 |
 | D'hani | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 19 Oct 2022 |
 | Kent | `Raucous Achievement` | 80% EXTRA! | 50,000 Gems | 19 Oct 2022 |

@@ -3,35 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Spelljammer Evelyn Skin & Feat Pack - $9.99
-Date of release: 11 Oct 2022
-
-Contents:
-* Champion: `Evelyn`
-* Skin: `Spelljammer Evelyn`
-* Feat: `Prodigal Leader (Evelyn)`
-* Chests: `Gold Evelyn Chest` x7 (Shinies x1)
-
-## Spelljammer Strix Theme Pack - $24.99
-Date of release: 11 Oct 2022
-
-Contents:
-* Champion: `Strix`
-* Skin: `Spelljammer Strix`
-* Feat: `Trash Witch (Strix)`
-* Familiar: `Kuba the Baby Space Swine`
-* Chests: `Gold Strix Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-## Spelljammer Walnut Skin & Feat Pack - $9.99
-Date of release: 11 Oct 2022
-
-Contents:
-* Champion: `Walnut`
-* Skin: `Spelljammer Walnut`
-* Feat: `Dire Wolfnut (Walnut)`
-* Chests: `Gold Walnut Chest` x7 (Shinies x1)
-
 ## Space Clown Sisaspia Skin & Feat Pack - $9.99
 Date of release: 12 Oct 2022
 

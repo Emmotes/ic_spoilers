@@ -7,9 +7,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|---:|---:|
-| Evelyn | `Spelljammer Evelyn` | Spelljammer Evelyn Skin & Feat Pack | $9.99 | 11 Oct 2022 |
-| Strix | `Spelljammer Strix` | Spelljammer Strix Theme Pack | $24.99 | 11 Oct 2022 |
-| Walnut | `Spelljammer Walnut` | Spelljammer Walnut Skin & Feat Pack | $9.99 | 11 Oct 2022 |
 | Sisaspia | `Space Clown Sisaspia` | Space Clown Sisaspia Skin & Feat Pack | $9.99 | 12 Oct 2022 |
 | D'hani | `Spelljammer D'hani` | Spelljammer D'hani Skin & Feat Pack | $9.99 | 19 Oct 2022 |
 | Kent | `Spelljammer Kent` | Spelljammer Kent Theme Pack | $24.99 | 19 Oct 2022 |
