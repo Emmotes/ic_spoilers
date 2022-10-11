@@ -12,6 +12,15 @@ Contents:
 * Feat: `Fungal Cloud (Sisaspia)`
 * Chests: `Gold Sisaspia Chest` x7 (Shinies x1)
 
+## Spelljammer D'hani Skin & Feat Pack - $9.99
+Date of release: 12 Oct 2022
+
+Contents:
+* Champion: `D'hani`
+* Skin: `Spelljammer D'hani`
+* Feat: `Scholar (D'hani)`
+* Chests: `Gold D'hani Chest` x7 (Shinies x1)
+
 ## Wave the Space Eel Familiar Pack - $4.99
 Date of release: 12 Oct 2022
 
@@ -20,15 +29,6 @@ Contents:
 * Buff: `Huge Potion of Speed` x2
 * Buff: `Huge Potion of Giant's Strength` x2
 * Buff: `Huge Potion of Clairvoyance` x2
-
-## Spelljammer D'hani Skin & Feat Pack - $9.99
-Date of release: 19 Oct 2022
-
-Contents:
-* Champion: `D'hani`
-* Skin: `Spelljammer D'hani`
-* Feat: `Scholar (D'hani)`
-* Chests: `Gold D'hani Chest` x7 (Shinies x1)
 
 ## Spelljammer Kent Theme Pack - $24.99
 Date of release: 19 Oct 2022
