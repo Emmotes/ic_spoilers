@@ -7,7 +7,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
-| Sisaspia | `Fungal Cloud` | 80% Halo of Spores | 50,000 Gems | 12 Oct 2022 |
 | D'hani | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 19 Oct 2022 |
 | Kent | `Raucous Achievement` | 80% EXTRA! | 50,000 Gems | 19 Oct 2022 |
 | Selise | `Calm Under Pressure` | 10 Overwhelm | Gold Chest | 19 Oct 2022 |
