@@ -22,6 +22,11 @@ Virgil will be the new champion in the Feast of the Moon event on 9 November 202
   * Int: 13
   * Wis: 12
   * Cha: 18
+* Patrons:
+  * Mirt
+  * Vajra
+  * Strahd
+  * Zariel (with Feat)
 
 # Formation
 ![Formation Layout](images/formation_virgil.png)
