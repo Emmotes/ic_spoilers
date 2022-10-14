@@ -26,17 +26,17 @@ Unknown.
 # Abilities
 
 Short Bow (Base Attack)
-> Unknown effect.
+> Imoen shoots a random enemy with her bow. Once her specialization is unlocked, she does an additional 5 seconds worth of BUD based damage.
 
 Disarm Traps (Ultimate)
-> Unknown effect.
+> Imoen leaps out into the fray, attacking five enemies in sequence with her short sword in one hand and her lockpicks in the other. She prioritizes enemies with hits-based health and deals 5 hits per attack; if no hits-based enemies are available she deals normal ultimate damage to enemies she attacks.
 
 Unknown Name (Stack Title: Perseverance Stacks)
 > Any time any Champion's Favored Foe appears or is defeated, Imoen increases the effect of `$(upgrade_name id)` by `$(amount)%`, stacking multiplicatively and then applying multiplicatively. Stacks up to `$(max_stacks)` times. Stacks are reset each time the Champions change areas.
 
 Polymorph (Guess)
 > Before every third attack, Imoen polymorphs a random non-boss non-static enemy into a monster with the same type as her Favored Foe, but only 10% of its original health. She can not polymorph enemies that are already polymorphed by this ability a second time.  
-> Animals: Polymorphed Rabbit / Pseudodragon / Gremishka / Gazer
+> Animals: Polymorphed Rabbit / Faerie Dragon / Gremishka / Gazer
 
 Stoneskin
 > Unknown effect.
@@ -47,16 +47,16 @@ Favored Foe
 # Specialisations
 
 Aberration Slaying Arrow
-> Sets Favored Foe to Aberration. (Guess)
+> Aberration enemies become Imoen's Favored Foe. Her Short Bow attacks against Beast enemies deal an additional BUD-based damage with each hit.
 
 Beast Slaying Arrow
-> Sets Favored Foe to Beast. (Guess)
+> Beast enemies become Imoen's Favored Foe. Her Short Bow attacks against Beast enemies deal an additional BUD-based damage with each hit.
 
 Dragon Slaying Arrow
-> Sets Favored Foe to Dragon. (Guess)
+> Dragon enemies become Imoen's Favored Foe. Her Short Bow attacks against Beast enemies deal an additional BUD-based damage with each hit.
 
 Monstrosity Slaying Arrow
-> Sets Favored Foe to Monstrosity. (Guess)
+> Monstrosity enemies become Imoen's Favored Foe. Her Short Bow attacks against Beast enemies deal an additional BUD-based damage with each hit.
 
 # Items
 
