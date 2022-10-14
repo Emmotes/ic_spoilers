@@ -1,34 +1,39 @@
 [Back to Main](index.md)
 
+
 ![Profile Picture](images/profile_imoen.png)
+
 # Imoen
+
 Imoen was an adventurer and mage that traveled across Faerûn during the mid–14th century DR. She was one of the mortal children spawned by the deity Bhaal a decade before the Time of Troubles.
 
 [https://forgottenrealms.fandom.com/wiki/Imoen](https://forgottenrealms.fandom.com/wiki/Imoen)
 
 # Basic Information
-Imoen will be the new champion in the Wintershield event on 30 November 2022.
+
+Imoen will be the new champion in the Wintershield event on 21 December 2022.
 
 * Seat: Unknown
 * Race: Human
 * Class: Rogue / Wizard (Guess)
 * Roles: Unknown
 * Gender: Female
-* Alignment: Neutral Good
+* Alignment: Neutral Good (Guess)
 * Affiliation: Unknown
 * Stats: Unknown
 
 # Formation
+
 Unknown.
 <!-- Uncomment once formation is available. -->
 <!-- ![Formation Layout](images/formation_imoen.png) -->
 
 # Abilities
 
-Short Bow (Base Attack)
+Base Attack: Short Bow
 > Imoen shoots a random enemy with her bow. Once her specialization is unlocked, she does an additional 5 seconds worth of BUD based damage.
 
-Disarm Traps (Ultimate)
+Ultimate Attack: Disarm Traps
 > Imoen leaps out into the fray, attacking five enemies in sequence with her short sword in one hand and her lockpicks in the other. She prioritizes enemies with hits-based health and deals 5 hits per attack; if no hits-based enemies are available she deals normal ultimate damage to enemies she attacks.
 
 Unknown Name (Stack Title: Perseverance Stacks)
@@ -66,6 +71,9 @@ Monstrosity Slaying Arrow
 4. Short Bow
 5. Spellcaster Material
 6. Sword
+
+# Feats
+Unknown.
 
 # Legendaries
 Unknown.

@@ -1,7 +1,10 @@
 [Back to Main](index.md)
 
+
 ![Profile Picture](images/profile_warduke.png)
+
 # Warduke
+
 Warduke's services as a remorseless killer-for-hire can be easily bought. The evil swordsman serves Kelek as a cohort and adventuring companion from time to time. He isn't terribly bright, which is why he leaves the plotting and scheming to others.
 
 What does Warduke look like under his dread helm? No one knows. He never removes his helmet to reveal his face to others, but the visage beneath is that of a grim, hideously scarred gladiator.
@@ -9,6 +12,7 @@ What does Warduke look like under his dread helm? No one knows. He never removes
 [D&DBeyond Monster Statblock](https://www.dndbeyond.com/monsters/1979813-warduke)
 
 # Basic Information
+
 Warduke will be the new champion in the Simril event on 30 November 2022.
 
 * Seat: Unknown
@@ -16,7 +20,7 @@ Warduke will be the new champion in the Simril event on 30 November 2022.
 * Class: Fighter (Guess)
 * Roles: DPS / Tank (Guess)
 * Gender: Male
-* Alignment: Chaotic Evil
+* Alignment: Chaotic Evil (Guess)
 * Affiliation: League of Malevolence
 * Stats: (from D&DBeyond - NOT game files)
   * Str: 16
@@ -27,14 +31,15 @@ Warduke will be the new champion in the Simril event on 30 November 2022.
   * Cha: 11
 
 # Formation
+
 ![Formation Layout](images/formation_warduke.png)
 
 # Abilities
 
-Nightwind (Base Attack)
+Base Attack: Nightwind
 > Warduke moves up to the closest enemy and swings his sword, dealing one hit to all nearby enemies with a melee attack.
 
-Flame Tongue Sword (Ultimate)
+Ultimate Attack: Flame Tongue Sword
 > Warduke's sword Nightwind ignites in flames for 30 seconds. For the duration, Warduke deals an additional 1000% damage with his normal attacks and he takes half damage from all sources. If Warduke activates his ultimate again before its effect expires the duration is refreshed.
 
 Unknown Name (Stacks Title: Remorseless)
@@ -72,6 +77,9 @@ Chaos Reigns
 4. Helm
 5. Shield
 6. Sword
+
+# Feats
+Unknown.
 
 # Legendaries
 Unknown.
