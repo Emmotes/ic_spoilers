@@ -47,10 +47,10 @@ Weather Control
 Inseparable Bond (Guess)
 > If Kent qualifies for an adventure restriction based on his tags, age, ability scores, etc., Virgil may be used as well.
 
-Unknown Name (Guessing this is Virgil's.)
+Rapid Fire
 > Enemies that are defeated within `$(seconds_plural optional_within_time)` of being on screen have a `$(not_buffed amount)%` chance to drop double quest items or count for double quest progress for each Rivals of Waterdeep Champion in the formation, stacking additively.
 
-Unknown Name
+Surprise Mood: Angry
 > While a Champion in the formation is knocked out, Virgil's magic missile and chain lightning attacks turn red and any enemy he hits with his base attack takes an additional `$(amount)%` damage for the next `$(total_seconds)` seconds. If an enemy is hit again, the timer is reset but doesn't otherwise stack.
 
 # Specialisations
