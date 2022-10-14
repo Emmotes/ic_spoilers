@@ -21,6 +21,13 @@ Most skins are real money purchases only.
 | Blooshi | `Thespian Blooshi` | Thespian Blooshi Skin & Feat Pack | $9.99 | 23 Nov 2022 |
 | Yorven | `Thespian Yorven` | Thespian Yorven Skin & Feat Pack | $9.99 | 23 Nov 2022 |
 | Warden | `Eldritch Lich Warden` | ??? | ??? | 25 Nov 2022 |
+| Warduke | `Action Figure Warduke` | Action Figure Warduke Theme Pack | $24.99 | 30 Nov 2022 |
+| Widdle | `A Widdle Darklord` | ??? | ??? | 14 Dec 2022 |
+| Jaheira | `Flayer Hunter Jaheira` | ??? | ??? | 21 Dec 2022 |
+| Krydle | `Flayer Hunter Krydle` | ??? | ??? | 21 Dec 2022 |
+| Nerys | `Flayer Hunter Nerys` | ??? | ??? | 21 Dec 2022 |
+| Shandie | `Flayer Hunter Shandie` | ??? | ??? | 21 Dec 2022 |
+| Viconia | `Flayer Hunter Viconia` | ??? | ??? | 21 Dec 2022 |
 
 [Back to Top](#top)
 
