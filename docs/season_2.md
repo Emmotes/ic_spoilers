@@ -1,10 +1,10 @@
 [Back to Main](index.md)
 
 # Season 2
-This is what I believe we know about Season 2.
+Season 2's speculative release date will be 21 December 2022.
 
 # Theme
-Given the changes that have been popping up in the defines - it seems Season 2's theme and rebalances will be around the Heroes of Baldur's Gate. We don't know as yet which 5 will be chosen for the reworks - but the developers have said no Evergreens will be likely to see balances.
+The theme for Season 2 will be Baldur's Gate - with Jaheira Krydle Nerys Shandie and Viconia being the target champions.
 
 ## Krydle
 So far all we have are new ability descriptions that were added.
@@ -52,6 +52,15 @@ Reverse Pickpocket
 
 Tangling Scimitar
 > Jaheira attacks the nearest enemy with her scimitar and then summons roots to hold them in place for 3 seconds. The roots also damage and root other nearby enemies.
+
+## Nerys
+No changes yet.
+
+## Shandie
+No changes yet.
+
+## Viconia
+No changes yet.
 
 [Back to Top](#top)
 
