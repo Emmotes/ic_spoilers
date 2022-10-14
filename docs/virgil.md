@@ -37,10 +37,10 @@ Virgil will be the new champion in the Feast of the Moon event on 9 November 202
 
 # Abilities
 
-Magic Missile (Base Attack)
+Base Attack: Magic Missile
 > Virgil fires 3 magic missiles at random targets.
 
-Chain Lightning (Ultimate Attack)
+Ultimate Attack: Chain Lightning (Level: 250)
 > Virgil attacks a random enemy with a bolt of lightning dealing ultimate damage. Every 0.2 seconds, the lightning bolt attacks another random enemy until 20 enemies are struck or no enemies remain. In addition, the area's weather changes to thunder.
 
 Inseparable (Level: 0)

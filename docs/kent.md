@@ -36,10 +36,10 @@ Kent will be the new champion in the Liar's Night event on 19 October 2022.
 
 # Abilities
 
-Rapier (Base Attack)
+Base Attack: Rapier
 > Kent strikes the closest enemy with his rapier.
 
-Wails from the Grave (Ultimate Attack)
+Ultimate Attack: Wails from the Grave (Level: 200)
 > The weather changes to fog. For 30 seconds, whenever Kent attacks, a ghostly spirit is summoned and attacks an additional enemy if possible dealing BUD damage.
 
 Inseparable (Level: 0)
