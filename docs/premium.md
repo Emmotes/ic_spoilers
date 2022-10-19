@@ -3,26 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Spelljammer D'hani Skin & Feat Pack - $9.99
-Date of release: 19 Oct 2022
-
-Contents:
-* Champion: `D'hani`
-* Skin: `Spelljammer D'hani`
-* Feat: `Scholar (D'hani)`
-* Chests: `Gold D'hani Chest` x7 (Shinies x1)
-
-## Spelljammer Kent Theme Pack - $24.99
-Date of release: 19 Oct 2022
-
-Contents:
-* Champion: `Kent`
-* Skin: `Spelljammer Kent`
-* Feat: `Raucous Achievement (Kent)`
-* Familiar: `Photos the Baby Solar Dragon`
-* Chests: `Gold Kent Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
 ## Dino Rider Asharra Skin & Feat Pack - $9.99
 Date of release: 02 Nov 2022
 

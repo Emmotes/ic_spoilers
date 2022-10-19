@@ -7,12 +7,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
-| D'hani | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 19 Oct 2022 |
-| Kent | `Raucous Achievement` | 80% EXTRA! | 50,000 Gems | 19 Oct 2022 |
-| Selise | `Calm Under Pressure` | 10 Overwhelm | Gold Chest | 19 Oct 2022 |
-| Selise | `Defensive Duelist` | 5 Overwhelm | Free | 19 Oct 2022 |
-| Selise | `Resilient` | 30% Health | Gold Chest | 19 Oct 2022 |
-| Selise | `Tough` | 15% Health | Free | 19 Oct 2022 |
 | Asharra | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 02 Nov 2022 |
 | Deekin | `Heavy Lifter` | Stat: +2 Strength | 50,000 Gems | 02 Nov 2022 |
 | Evelyn | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 02 Nov 2022 |
