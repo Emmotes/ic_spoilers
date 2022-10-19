@@ -52,16 +52,16 @@ Favored Foe
 # Specialisations
 
 Aberration Slaying Arrow
-> Aberration enemies become Imoen's Favored Foe. Her Short Bow attacks against Beast enemies deal an additional BUD-based damage with each hit.
+> Aberration enemies become Imoen's Favored Foe. Her Short Bow attacks against Aberration enemies deal an additional BUD-based damage with each hit.
 
 Beast Slaying Arrow
 > Beast enemies become Imoen's Favored Foe. Her Short Bow attacks against Beast enemies deal an additional BUD-based damage with each hit.
 
 Dragon Slaying Arrow
-> Dragon enemies become Imoen's Favored Foe. Her Short Bow attacks against Beast enemies deal an additional BUD-based damage with each hit.
+> Dragon enemies become Imoen's Favored Foe. Her Short Bow attacks against Dragon enemies deal an additional BUD-based damage with each hit.
 
 Monstrosity Slaying Arrow
-> Monstrosity enemies become Imoen's Favored Foe. Her Short Bow attacks against Beast enemies deal an additional BUD-based damage with each hit.
+> Monstrosity enemies become Imoen's Favored Foe. Her Short Bow attacks against Monstrosity enemies deal an additional BUD-based damage with each hit.
 
 # Items
 
