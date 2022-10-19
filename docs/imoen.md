@@ -24,9 +24,9 @@ Imoen will be the new champion in the Wintershield event on 21 December 2022.
 
 # Formation
 
-Unknown.
 <!-- Uncomment once formation is available. -->
 <!-- ![Formation Layout](images/formation_imoen.png) -->
+![Formation Layout](images/formation_imoen.png)
 
 # Abilities
 
