@@ -7,7 +7,6 @@ Season 2's speculative release date will be 21 December 2022.
 The theme for Season 2 will be Baldur's Gate - with Jaheira Krydle Nerys Shandie and Viconia being the target champions.
 
 ## Krydle
-So far all we have are new ability descriptions that were added.
 
 > Increase the damage of all Champions in the back two columns of the formation by `$(amount)%`.
 
@@ -54,10 +53,28 @@ Tangling Scimitar
 > Jaheira attacks the nearest enemy with her scimitar and then summons roots to hold them in place for 3 seconds. The roots also damage and root other nearby enemies.
 
 ## Nerys
-No changes yet.
+
+Dash and Slash
+> Nerys cleaves all targets near the closest enemy.
+> Undead enemies take an additional 5 seconds worth of BUD damage.
+
+> Nerys calls her Spiritual Weapon to her side. It attacks on her attack timer, dealing `$(amount)%` of Nerys' damage. Spiritual Weapon attacks can set BUD (crediting Nerys).  
+
+> Nerys' Spiritual Weapon follows the Champion with the highest damage instead of her. It attacks on that Champions attack timer, dealing damage based on their damage instead of Nerys'. If those attacks are BUD-setting, then the Champion it is following gets credit for setting the BUD.
+
+> When Nerys' Spiritual Weapon attacks, Nerys targets the column with the most damaged Champion and heals all the Champions in it for $(amount) health.
+
+> Increase the damage of Spiritual Weapon against all Favored Foes by `$(amount)%`.
 
 ## Shandie
-No changes yet.
+
+> When the formation is under attack, Shandie attacks with explosive arrows. The damage of all Champions is increased by the `$(amount)%` times the largest number of enemies Shandie has hit with a single Explosive Arrow in the current area.
+
+> Increases the damage of Champions within 2 slots of Shandie by $(amount)% for each Champion adjacent to Shandie with a DEX of 15 or higher.
+
+> The base effect of Agile Allies is additively increased by $(amount)% for each Heroes' of Baldur's Gate affiliated Champion in the formation.
+
+> The base effect of Agile Allies is additively increased by 100% for each Neutral/Evil Champion adjacent to Shandie.
 
 ## Viconia
 No changes yet.
