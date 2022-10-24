@@ -70,9 +70,9 @@ Dash and Slash
 
 > When the formation is under attack, Shandie attacks with explosive arrows. The damage of all Champions is increased by the `$(amount)%` times the largest number of enemies Shandie has hit with a single Explosive Arrow in the current area.
 
-> Increases the damage of Champions within 2 slots of Shandie by $(amount)% for each Champion adjacent to Shandie with a DEX of 15 or higher.
+> Increases the damage of Champions within 2 slots of Shandie by `$(amount)%` for each Champion adjacent to Shandie with a DEX of 15 or higher.
 
-> The base effect of Agile Allies is additively increased by $(amount)% for each Heroes' of Baldur's Gate affiliated Champion in the formation.
+> The base effect of Agile Allies is additively increased by `$(amount)%` for each Heroes' of Baldur's Gate affiliated Champion in the formation.
 
 > The base effect of Agile Allies is additively increased by 100% for each Neutral/Evil Champion adjacent to Shandie.
 

@@ -6,11 +6,11 @@ Of course - spoilers are subject to change at any time. Don't plan any major lif
 # Champions
 These are the champions that are upcoming and all the information we know about them.
 
-* Feast of the Moon - 9 November 2022 (?)
+* Feast of the Moon - 9 November 2022
   * [Virgil](virgil.md) - Aasimar Sorcerer of Rivals of Waterdeep
-* Simril - 30 November 2022 (?)
+* Simril - 30 November 2022
   * [Warduke](warduke.md) - Human Unknown of League of Malevolence
-* Wintershield - 21 December 2022 (?)
+* Wintershield - 21 December 2022
   * [Imoen](imoen.md) - Human Unknown of Unknown
 
 # Misc
