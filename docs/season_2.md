@@ -79,7 +79,7 @@ Dash and Slash
 
 ## Viconia
 
-> Whenever a non-boss, non-static, non-undead enemy spawns there is a `$(amount)%` chance that it spawns as an undead version of itself while also retaining its original tags."},
+> Whenever a non-boss, non-static, non-undead enemy spawns there is a `$(amount)%` chance that it spawns as an undead version of itself while also retaining its original tags.
 
 [Back to Top](#top)
 
