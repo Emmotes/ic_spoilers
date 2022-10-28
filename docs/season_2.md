@@ -55,8 +55,7 @@ Tangling Scimitar
 ## Nerys
 
 Dash and Slash
-> Nerys cleaves all targets near the closest enemy.
-> Undead enemies take an additional 5 seconds worth of BUD damage.
+> Nerys cleaves all targets near the closest enemy. Undead enemies take an additional 5 seconds worth of BUD damage.
 
 > Nerys calls her Spiritual Weapon to her side. It attacks on her attack timer, dealing `$(amount)%` of Nerys' damage. Spiritual Weapon attacks can set BUD (crediting Nerys).  
 
@@ -64,11 +63,11 @@ Dash and Slash
 
 > When Nerys' Spiritual Weapon attacks, Nerys targets the column with the most damaged Champion and heals all the Champions in it for $(amount) health.
 
-> Increase the damage of Spiritual Weapon against all Favored Foes by `$(amount)%`.
+> Increases the damage of Spiritual Weapon against all Favored Foes by `$(amount)%`
 
 ## Shandie
 
-> When the formation is under attack, Shandie attacks with explosive arrows. The damage of all Champions is increased by the `$(amount)%` times the largest number of enemies Shandie has hit with a single Explosive Arrow in the current area.
+> When the formation is under attack, Shandie attacks with explosive arrows. The damage of all Champions is increased by `$(amount)%` times the largest number of enemies Shandie has hit with a single Explosive Arrow in the current area.
 
 > Increases the damage of Champions within 2 slots of Shandie by `$(amount)%` for each Champion adjacent to Shandie with a DEX of 15 or higher.
 
@@ -76,8 +75,11 @@ Dash and Slash
 
 > The base effect of Agile Allies is additively increased by 100% for each Neutral/Evil Champion adjacent to Shandie.
 
+> Increases the game speed by `$(amount)%` when the formation hasn't been under attack for `$(delay seconds)`.
+
 ## Viconia
-No changes yet.
+
+> Whenever a non-boss, non-static, non-undead enemy spawns there is a `$(amount)%` chance that it spawns as an undead version of itself while also retaining its original tags."},
 
 [Back to Top](#top)
 
