@@ -182,7 +182,7 @@ Contents:
 * Buff: `Huge Potion of Clairvoyance` x6
 * Buff: `Huge Potion of Fire Breath` x6
 * Buff: `Potion of the Gold Hunter` x1
-* Modron Upgrade Components: x2,000
+* Modron: `Upgrade Components` x2,000
 * Buff: `Potion of Polish` x1
 
 ## Spelljammer Delina Skin & Feat Pack - $9.99
