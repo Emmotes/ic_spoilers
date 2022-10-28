@@ -10,7 +10,7 @@ Fen is a Drow, with her father contributing her Dhampir ancestry. As she grew up
 
 # Basic Information
 
-Fen will be the new champion in the Midwinter event on 11 January 2022.
+Fen will be the new champion in the Midwinter event on 11 January 2023.
 
 * Seat: Unknown
 * Race: Drow Dhampir (Guess)
