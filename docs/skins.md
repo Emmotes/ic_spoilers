@@ -33,8 +33,8 @@ Most skins are real money purchases only.
 | Shandie | `Flayer Hunter Shandie` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
 | Viconia | `Flayer Hunter Viconia` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
 | Zorbu | `Dragonlance Zorbu` | ??? | ??? | 04 Jan 2023 |
+| B&G | `Vampire Hunter B&G` | ??? | ??? | 11 Jan 2023 |
 | Fen | `Vampiric Darklord Fen` | ??? | ??? | 11 Jan 2023 |
-| Grimm | `Vampire Hunter Beadle & Grimm` | ??? | ??? | 11 Jan 2023 |
 | Voronika | `Barovia Visitor Voronika` | ??? | ??? | 11 Jan 2023 |
 
 [Back to Top](#top)
