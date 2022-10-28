@@ -6,7 +6,7 @@
 
 Fen is a Drow, with her father contributing her Dhampir ancestry. As she grew up and showed signs of her bitey nature, she left the only family she'd known, driven out by those that feared what she would turn into as she aged.  She's come to resent that side of her bloodline, and her life has been interesting since she was sent to the surface.
 
-[Fen Wiki Page](https://black-dice-society.fandom.com/wiki/Characters)
+[https://black-dice-society.fandom.com/wiki/Characters](https://black-dice-society.fandom.com/wiki/Characters)
 
 # Basic Information
 
