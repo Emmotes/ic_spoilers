@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/profile_Fen.png)
+![Profile Picture](images/profile_fen.png)
 
 # Fen
 
@@ -11,7 +11,7 @@
 Fen will be the new champion in the Midwinter event on 11 January 2022.
 
 * Seat: Unknown
-* Race: Drow Dhpampir (Guess)
+* Race: Drow Dhampir (Guess)
 * Class: Bloodhunter (Very Guess)
 * Roles: Unknown
 * Gender: Female
@@ -21,7 +21,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2022.
 
 # Formation
 
-![Formation Layout](images/formation_Fen.png)
+![Formation Layout](images/formation_fen.png)
 
 # Abilities
 
