@@ -26,14 +26,14 @@ Most skins are real money purchases only.
 | Delina | `Spelljammer Delina` | Spelljammer Delina Skin & Feat Pack | $9.99 | 14 Dec 2022 |
 | Widdle | `A Widdle Darklord` | Champions of Renown: Year 5 All-Star Pack | $54.99 | 14 Dec 2022 |
 | Jaheira | `Solstice Jaheira` | ??? | ??? | 21 Dec 2022 |
-| ???: 117 | `Mystic Trickster Imoen` | Mystic Trickster Imoen Theme Pack | $24.99 | 21 Dec 2022 |
+| Imoen | `Mystic Trickster Imoen` | Mystic Trickster Imoen Theme Pack | $24.99 | 21 Dec 2022 |
 | Jaheira | `Flayer Hunter Jaheira` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
 | Krydle | `Flayer Hunter Krydle` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
 | Nerys | `Flayer Hunter Nerys` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
 | Shandie | `Flayer Hunter Shandie` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
 | Viconia | `Flayer Hunter Viconia` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
 | Zorbu | `Dragonlance Zorbu` | ??? | ??? | 04 Jan 2023 |
-| ???: 118 | `Vampiric Darklord Fen` | ??? | ??? | 11 Jan 2023 |
+| Fen | `Vampiric Darklord Fen` | ??? | ??? | 11 Jan 2023 |
 | Grimm | `Vampire Hunter Beadle & Grimm` | ??? | ??? | 11 Jan 2023 |
 | Voronika | `Barovia Visitor Voronika` | ??? | ??? | 11 Jan 2023 |
 

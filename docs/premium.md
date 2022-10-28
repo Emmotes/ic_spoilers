@@ -198,7 +198,7 @@ Contents:
 Date of release: 21 Dec 2022
 
 Contents:
-* Champion: `???: 117`
+* Champion: `Imoen`
 * Skin: `Mystic Trickster Imoen`
 * Feat: `???`
 * Familiar: `Wilson the Baby Grizzly Bear`
