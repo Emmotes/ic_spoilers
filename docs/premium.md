@@ -104,6 +104,7 @@ Contents:
 Date of release: 23 Nov 2022
 
 Contents:
+* Champion: `Blooshi`
 * Skin: `Thespian Blooshi`
 * Feat: `Tragic Demise (Blooshi)`
 * Chests: `Gold Supply Chest` x7
