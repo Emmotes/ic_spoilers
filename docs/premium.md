@@ -3,21 +3,21 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Dino Rider Asharra Skin & Feat Pack - $9.99
+## Dinosaur Asharra Skin & Feat Pack - $9.99
 Date of release: 02 Nov 2022
 
 Contents:
-* Skin: `Dino Rider Asharra`
+* Skin: `Dinosaur Asharra`
 * Feat: `Prodigal Leader (Asharra)`
 * Chests: `Gold Supply Chest` x7
 * Buff: `Potion of Polish` x1
 
-## Dino Rider Deekin Skin & Feat Pack - $9.99
+## Dinosaur Deekin Skin & Feat Pack - $9.99
 Date of release: 02 Nov 2022
 
 Contents:
 * Champion: `Deekin`
-* Skin: `Dino Rider Deekin`
+* Skin: `Dinosaur Deekin`
 * Feat: `Heavy Lifter (Deekin)`
 * Chests: `Gold Deekin Chest` x7 (Shinies x1)
 

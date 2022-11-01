@@ -7,8 +7,8 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|---:|---:|
-| Asharra | `Dino Rider Asharra` | Dino Rider Asharra Skin & Feat Pack | $9.99 | 02 Nov 2022 |
-| Deekin | `Dino Rider Deekin` | Dino Rider Deekin Skin & Feat Pack | $9.99 | 02 Nov 2022 |
+| Asharra | `Dinosaur Asharra` | Dinosaur Asharra Skin & Feat Pack | $9.99 | 02 Nov 2022 |
+| Deekin | `Dinosaur Deekin` | Dinosaur Deekin Skin & Feat Pack | $9.99 | 02 Nov 2022 |
 | Evelyn | `Far Realm Evelyn` | Far Realm Evelyn Theme Pack | $24.99 | 02 Nov 2022 |
 | Shaka | `Spelljammer Shaka` | Spelljammer Shaka Skin & Feat Pack | $9.99 | 09 Nov 2022 |
 | Strix | `Far Realm Strix` | Far Realm Strix Skin & Feat Pack | $9.99 | 09 Nov 2022 |
