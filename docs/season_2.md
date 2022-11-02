@@ -1,13 +1,18 @@
 [Back to Main](index.md)
 
-
-![Season 2 Profile](images/profile_s2.png)
-
 # Season 2
 Season 2's speculative release date will be 21 December 2022.
 
 # Theme
 The theme for Season 2 will be Baldur's Gate - with Nerys Shandie Krydle Jaheira and Viconia being the target champions.
+
+![Season 2 Profile](images/profile_s2.png)
+
+# Changes
+
+The information below is raw data on the "new" abilities that the champions will be getting. Some may be complete reworks - some may look copy-paste from old abilities that haven't seen reworks yet (and might not get reworked).
+
+Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. Making assumptions on how the champions will turn out based on this information would be premature.
 
 ## Krydle
 
