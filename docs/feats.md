@@ -7,9 +7,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
-| Asharra | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 02 Nov 2022 |
-| Deekin | `Heavy Lifter` | Stat: +2 Strength | 50,000 Gems | 02 Nov 2022 |
-| Evelyn | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 02 Nov 2022 |
 | Shaka | `Puzzle Master` | +1 Additional Hard Puzzle Slot | 50,000 Gems | 09 Nov 2022 |
 | Strix | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 09 Nov 2022 |
 | Virgil | `Tempest Reigns` | 80% Storm Sorcerer | 50,000 Gems | 09 Nov 2022 |
