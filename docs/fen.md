@@ -14,8 +14,8 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 
 * Seat: Unknown
 * Race: Drow Dhampir (Guess)
-* Class: Bloodhunter (Very Guess)
-* Roles: Unknown
+* Class: Warlock (Guess)
+* Roles: DPS / Support (Both Guess)
 * Gender: Female
 * Alignment: Unknown
 * Affiliation: Black Dice Society
@@ -37,7 +37,7 @@ Mischievous, but Dangerous (Guess)
 > Fen increases the damage of all Champions in her column by `$(amount)%`.
 
 Warlock Pact
-> Fen reduces the normal attack speed of all Warlocks in the formation by `$(seconds_plural amount)` for each point of Wisdom an adjacent Champion has above `$(subtract_from_stat___2)`.
+> Fen reduces the normal attack speed of all Warlocks in the formation by 0.1s for each point of Wisdom an adjacent Champion has above 10.
 
 I've Got You, Friends (Guess)
 > Fen increases the effect of Mischievous, but Dangerous by `$(amount)%` for each Champion in the formation that is either a Black Dice Society affiliation member or has a WIS of 15+, stacking multiplicatively.
@@ -48,7 +48,7 @@ Patron Pact (Guess)
 # Specialisations
 
 Shadows of the Underdark
-> Fen imbues her blade with eldritch energy, increasing the effect of `$(upgrade_name id)` by `$(amount)%` and causing her normal attack to deal an additional 5 seconds of BUD based damage with each hit.
+> Fen imbues her blade with eldritch energy, increasing the effect of Mischievous, but Dangerous by `$(amount)%` and causing her normal attack to deal an additional 5 seconds of BUD based damage with each hit.
 
 Curse of the Dhampir
 > Fen embraces her Dhampir heritage and increases her damage by `$(amount)%`.
