@@ -51,7 +51,11 @@ Reverse Pickpocket
 
 > Jaheira increases the damage of Champions from the Heroes of Baldur's Gate affiliation by `$(amount)%`.
 
+> Beast enemies are Jaheira's Favored Foe. When a Beast enemy dies, Jaheira gains a Hunter stack. This increases her damage by 400% and increases the effect of Class Act by 200% per stack, stacking additively. Maximum 10 stacks. Stacks are reset when you change areas.
+
 > Jaheira continues to be a Fierce Hunter of Beast creatures.
+
+> Fiends are Jaheira's new Favored Foe. Jaheira's Fierce Hunter and Battle Focus ability now trigger off of Fiend creatures instead of Beasts.
 
 > Humanoids are Jaheira's new Favored Foe. Jaheira's Fierce Hunter and Battle Focus ability now trigger off of Humanoid creatures instead of Beasts.
 
