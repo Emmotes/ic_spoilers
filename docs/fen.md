@@ -31,7 +31,7 @@ Base Attack: Pact Blade
 > Fen darts out to the closest enemy and slashes with her longsword, hitting all nearby enemies.
 
 Ultimate Attack: Form of Dread
-> Fen transforms into her dread form. She sprouts wings, leaps into the air, and charges directly across the screen, dealing one hit of ultimate damage to all enemies she passes and knocking them back a short distance.
+> Fen transforms into her dread form. She sprouts wings, leaps into the air, and charges directly across the area, dealing one hit of ultimate damage to all enemies she passes and knocking them back a short distance.
 
 Mischievous, but Dangerous (Guess)
 > Fen increases the damage of all Champions in her column by `$(amount)%`.

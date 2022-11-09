@@ -14,6 +14,8 @@ These are the champions that are upcoming and all the information we know about 
   * [Imoen](imoen.md) - Human Unknown of Unknown
 * Midwinter - 11 January 2023
   * [Fen](fen.md) - Drow Dhampir Unknown of Black Dice Society
+* Grand Revel - 1 February 2023
+  * [Uriah](uriah.md) - Human Cleric of Black Dice Society
 
 # Misc
 Miscellaneous spoilers.
