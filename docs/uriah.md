@@ -50,8 +50,8 @@ Unknown Name
 > After `$(attack_count)` normal attacks by Champions in the formation, Azalin Rex takes over Uriah for `$(seconds_plural amount)`. While controlled by Azalin Rex, Uriah increases the damage of Nahara and all evil Champions by `$(amount___2)%`.
 
 Unknown extras that I think have something to do with Uriah. I'm not certain. Just adding them here in case they are so I don't forget about them later.
-> `$(target)`'s attacks have a `$(amount)%` chance to taunt enemies
-> `$(target)`'s attacks deal an additional `$(seconds_plural amount)` of BUD damage every second for `$(seconds_plural duration)`
+> `$(target)`'s attacks have a `$(amount)%` chance to taunt enemies  
+> `$(target)`'s attacks deal an additional `$(seconds_plural amount)` of BUD damage every second for `$(seconds_plural duration)`  
 > `$(target)`'s attacks prevent the target from healing for `$(seconds_plural amount)`
 
 # Specialisations
