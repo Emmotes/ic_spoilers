@@ -35,7 +35,7 @@ Ultimate Attack: Blade Barrier
 > Unknown effect.
 
 Unknown Name
-> Uriah increases the damage of all Champions in his column and the column behind him by $(amount)%.
+> Uriah increases the damage of all Champions in his column and the column behind him by `$(amount)%`.
 
 Unknown Name
 > Uriah heals all champions within two slots for `$(not_buffed amount)` health per second. This effect is increased by `$(amount___2)%` for each formation slot containing a dead champion or an escort, stacking additively and applying multiplicatively.
@@ -55,6 +55,8 @@ Unknown extras that I think have something to do with Uriah. I'm not certain. Ju
 > `$(target)`'s attacks prevent the target from healing for `$(seconds_plural amount)`
 
 # Specialisations
+
+Unknown.
 
 # Items
 
