@@ -3,35 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Far Realm Strix Skin & Feat Pack - $9.99
-Date of release: 09 Nov 2022
-
-Contents:
-* Champion: `Strix`
-* Skin: `Far Realm Strix`
-* Feat: `Prodigal Leader (Strix)`
-* Chests: `Gold Strix Chest` x7 (Shinies x1)
-
-## Spelljammer Shaka Skin & Feat Pack - $9.99
-Date of release: 09 Nov 2022
-
-Contents:
-* Champion: `Shaka`
-* Skin: `Spelljammer Shaka`
-* Feat: `Puzzle Master (Shaka)`
-* Chests: `Gold Shaka Chest` x7 (Shinies x1)
-
-## Spelljammer Virgil Theme Pack - $24.99
-Date of release: 09 Nov 2022
-
-Contents:
-* Champion: `Virgil`
-* Skin: `Spelljammer Virgil`
-* Feat: `Tempest Reigns (Virgil)`
-* Familiar: `Tycho the Baby Lunar Dragon`
-* Chests: `Gold Virgil Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
 ## Flapjack the Pirate Flumph Familiar Pack - $9.99
 Date of release: 14 Nov 2022
 

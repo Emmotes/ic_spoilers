@@ -7,9 +7,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
-| Shaka | `Puzzle Master` | +1 Additional Hard Puzzle Slot | 50,000 Gems | 09 Nov 2022 |
-| Strix | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 09 Nov 2022 |
-| Virgil | `Tempest Reigns` | 80% Storm Sorcerer | 50,000 Gems | 09 Nov 2022 |
 | Kent | `Quintessence Essence` | 80% Tokens of the Departed | 50,000 Gems | 21 Nov 2022 |
 | Virgil | `Master of the Elements` | 80% Weather Control | 50,000 Gems | 21 Nov 2022 |
 | Walnut | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 21 Nov 2022 |

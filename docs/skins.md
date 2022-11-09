@@ -7,9 +7,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|---:|---:|
-| Shaka | `Spelljammer Shaka` | Spelljammer Shaka Skin & Feat Pack | $9.99 | 09 Nov 2022 |
-| Strix | `Far Realm Strix` | Far Realm Strix Skin & Feat Pack | $9.99 | 09 Nov 2022 |
-| Virgil | `Spelljammer Virgil` | Spelljammer Virgil Theme Pack | $24.99 | 09 Nov 2022 |
 | Kent | `Far Realm Kent` | Far Realm Kent Skin & Feat Pack | $9.99 | 21 Nov 2022 |
 | Virgil | `Far Realm Virgil` | Far Realm Virgil Skin & Feat Pack | $9.99 | 21 Nov 2022 |
 | Walnut | `Far Realm Walnut` | Far Realm Walnut Theme Pack | $24.99 | 21 Nov 2022 |
