@@ -19,10 +19,12 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Lucius | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 30 Nov 2022 |
 | Orkira | `Gift of the Phoenix` | 80% Elemental Fire | 50,000 Gems | 30 Nov 2022 |
 | Delina | `Burst of Magic` | 80% Surge of Power | 50,000 Gems | 14 Dec 2022 |
-| Viconia | `Restless Undead` | 50% Yesterday's Undead | Gold Chest | 21 Dec 2022 |
-| Viconia | `The Grave Rejects You` | 150% Yesterday's Undead | ??? | 21 Dec 2022 |
+| Viconia | `Restless Undead` | 50% ???: 9752 | Gold Chest | 21 Dec 2022 |
+| Viconia | `The Grave Rejects You` | 150% ???: 9752 | ??? | 21 Dec 2022 |
 | Zorbu | `Heavy Lifter` | Stat: +2 Strength | 50,000 Gems | 04 Jan 2023 |
-| Ulkoria | `Guardian of Waterdeep` | ??? | ??? | 01 Feb 2023 |
+| Grimm | `Power Up` | 80% Get Buff | 50,000 Gems | 11 Jan 2023 |
+| Voronika | `Dark Lady` | 80% Calculating Guidance | 50,000 Gems | 11 Jan 2023 |
+| Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 01 Feb 2023 |
 | Lazaapz | `Kneecapper` | 80% Fury of the Small | 50,000 Gems | 15 Mar 2023 |
 
 [Back to Top](#top)
