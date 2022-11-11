@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/profile_fen.png)
+![Profile Picture](images/portrait_fen.png)
 
 # Fen
 

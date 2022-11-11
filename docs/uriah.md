@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/profile_uriah.png)
+![Profile Picture](images/portrait_uriah.png)
 
 # Uriah
 

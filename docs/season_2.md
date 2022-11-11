@@ -6,7 +6,7 @@ Season 2's speculative release date will be 21 December 2022.
 # Theme
 The theme for Season 2 will be Baldur's Gate - with Nerys Shandie Krydle Jaheira and Viconia being the target champions.
 
-![Season 2 Profile](images/profile_s2.png)
+![Season 2 Profile](images/portrait_s2.png)
 
 # Changes
 

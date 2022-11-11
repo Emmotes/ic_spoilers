@@ -1,7 +1,7 @@
 [Back to Main](index.md)
 
 
-![Profile Picture](images/profile_warduke.png)
+![Profile Picture](images/portrait_warduke.png)
 
 # Warduke
 

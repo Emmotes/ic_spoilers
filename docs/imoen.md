@@ -1,7 +1,7 @@
 [Back to Main](index.md)
 
 
-![Profile Picture](images/profile_imoen.png)
+![Profile Picture](images/portrait_imoen.png)
 
 # Imoen
 
