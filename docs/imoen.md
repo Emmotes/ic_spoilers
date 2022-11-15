@@ -49,11 +49,11 @@ Optimism (Level: 10)
 Perseverance (Level: 60)
 > Any time any Champion's Favored Foe appears or is defeated, Imoen increases the effect of `$(upgrade_name id)` by `$(amount)%`, stacking multiplicatively and then applying multiplicatively. Stacks up to `$(max_stacks)` times. Stacks are reset each time the Champions change areas.
 
-Polymorph (Level: 130)
-> Before every third attack, Imoen polymorphs a random non-boss non-static enemy into a monster with the same type as her Favored Foe, but only 10% of its original health. She can not polymorph enemies that are already polymorphed by this ability a second time.
-
 Stoneskin (Level: 80)
 > Before every eighth attack, or upon entering a new area, Imoen casts Stoneskin on all Champions in the front-most column of the formation, granting them `$(not_buffed amount)` temporary hit points. The amount is increased by 5% (additively) for each Favored Foe that is alive.
+
+Polymorph (Level: 130)
+> Before every third attack, Imoen polymorphs a random non-boss non-static enemy into a monster with the same type as her Favored Foe, but only 10% of its original health. She can not polymorph enemies that are already polymorphed by this ability a second time.
 
 # Specialisations
 
