@@ -5,78 +5,101 @@
 
 # Imoen
 
-Imoen was an adventurer and mage that traveled across Faerûn during the mid–14th century DR. She was one of the mortal children spawned by the deity Bhaal a decade before the Time of Troubles.
-
-[https://forgottenrealms.fandom.com/wiki/Imoen](https://forgottenrealms.fandom.com/wiki/Imoen)
+Imoen is a surprisingly cheerful young woman considering she eventually discovered that she was the child of a deadly murder god. As an orphan, she moved to Candlekeep at the age of 10 with her adoptive father and innkeeper, Winthrop. She eventually traveled to Baldur's Gate with a childhood friend, where she joined forces with powerful Champions like Minsc and Jaheria.
 
 # Basic Information
 
 Imoen will be the new champion in the Wintershield event on 21 December 2022.
 
-* Seat: Unknown
+* Seat: 11
 * Race: Human
-* Class: Rogue / Wizard (Guess)
-* Roles: Unknown
+* Class: Rogue / Wizard
+* Roles: Support / Healing
 * Gender: Female
-* Alignment: Neutral Good (Guess)
-* Affiliation: Unknown
-* Stats: Unknown
+* Alignment: Neutral Good
+* Affiliation: Heroes of Baldur's Gate
+* Stats:
+  * Str: 9
+  * Dex: 18
+  * Con: 16
+  * Int: 17
+  * Wis: 11
+  * Cha: 16
+* Patrons:
+  * Mirt
+  * Vajra
+  * Strahd
+  * Zariel (with Feat)
 
 # Formation
 
-<!-- Uncomment once formation is available. -->
-<!-- ![Formation Layout](images/formation_imoen.png) -->
 ![Formation Layout](images/formation_imoen.png)
 
 # Abilities
 
 Base Attack: Short Bow
-> Imoen shoots a random enemy with her bow. Once her specialization is unlocked, she does an additional 5 seconds worth of BUD based damage.
+> Imoen shoots a random enemy with her bow.
 
-Ultimate Attack: Disarm Traps
+Ultimate Attack: Disarm Traps (Level: 100)
 > Imoen leaps out into the fray, attacking five enemies in sequence with her short sword in one hand and her lockpicks in the other. She prioritizes enemies with hits-based health and deals 5 hits per attack; if no hits-based enemies are available she deals normal ultimate damage to enemies she attacks.
 
-Unknown Name (Stack Title: Perseverance Stacks)
+Optimism (Level: 10)
+> Imoen increases the damage of adjacent Champions by `$(amount)%`.
+
+Perseverance (Level: 60)
 > Any time any Champion's Favored Foe appears or is defeated, Imoen increases the effect of `$(upgrade_name id)` by `$(amount)%`, stacking multiplicatively and then applying multiplicatively. Stacks up to `$(max_stacks)` times. Stacks are reset each time the Champions change areas.
 
-Polymorph (Guess)
-> Before every third attack, Imoen polymorphs a random non-boss non-static enemy into a monster with the same type as her Favored Foe, but only 10% of its original health. She can not polymorph enemies that are already polymorphed by this ability a second time.  
-> Animals: Polymorphed Rabbit / Faerie Dragon / Gremishka / Gazer
+Polymorph (Level: 130)
+> Before every third attack, Imoen polymorphs a random non-boss non-static enemy into a monster with the same type as her Favored Foe, but only 10% of its original health. She can not polymorph enemies that are already polymorphed by this ability a second time.
 
-Stoneskin
-> Before every eighth attack, or upon entering a new area, `$(source_hero)` casts Stoneskin on all Champions in the front-most column of the formation, granting them `$(not_buffed amount)` temporary hit points. The amount is increased by 5% (additively) for each Favored Foe that is alive.
-
-Favored Foe
-> Beast / Dragon / Monstrosity / Aberration
+Stoneskin (Level: 80)
+> Before every eighth attack, or upon entering a new area, Imoen casts Stoneskin on all Champions in the front-most column of the formation, granting them `$(not_buffed amount)` temporary hit points. The amount is increased by 5% (additively) for each Favored Foe that is alive.
 
 # Specialisations
 
-Aberration Slaying Arrow
-> Aberration enemies become Imoen's Favored Foe. Her Short Bow attacks against Aberration enemies deal an additional BUD-based damage with each hit.
-
-Beast Slaying Arrow
+Beast Slaying Arrows (Level: 40)
 > Beast enemies become Imoen's Favored Foe. Her Short Bow attacks against Beast enemies deal an additional BUD-based damage with each hit.
 
-Dragon Slaying Arrow
+Dragon Slaying Arrows (Level: 40)
 > Dragon enemies become Imoen's Favored Foe. Her Short Bow attacks against Dragon enemies deal an additional BUD-based damage with each hit.
 
-Monstrosity Slaying Arrow
+Monstrosity Slaying Arrows (Level: 40)
 > Monstrosity enemies become Imoen's Favored Foe. Her Short Bow attacks against Monstrosity enemies deal an additional BUD-based damage with each hit.
+
+Aberration Slaying Arrows (Level: 40)
+> Aberration enemies become Imoen's Favored Foe. Her Short Bow attacks against Aberration enemies deal an additional BUD-based damage with each hit.
 
 # Items
 
-1. Arrows
-2. Clothing
-3. Lockpicks
-4. Short Bow
-5. Spellcaster Material
-6. Sword
+1. Sword of Power - All Champion Damage
+2. Protector of the Dryads Bow - Optimism
+3. Arrows of Slaying - Perseverance
+4. Tome of Magic - Stoneskin
+5. Master Thief's Set - Ultimate Damage
+6. Trickster's Armor - Ultimate Cooldown Reduction
 
 # Feats
-Unknown.
+
+| Feat | Effect | Source |
+|---|---|---|
+| `Selflessness` | 10% All Champion Damage | Free |
+| `Inspiring Leader` | 25% All Champion Damage | Gold Chest |
+| `Lighten Up!` | 20% Optimism | Free |
+| `Happier Times` | 40% Optimism | 12,500 Gems |
+| `Tenacious` | 40% Perseverance | Gold Chest |
+| `Indefatigable` | 80% Perseverance | 50,000 Gems |
+| `Armor of Magic` | 20% Stoneskin | Free |
+| `Toughen Up!` | 40% Stoneskin | 12,500 Gems |
+| `I Lift Books` | Stat: +1 Strength | Gold Chest |
 
 # Legendaries
-Unknown.
+
+* Increases the damage of all Champions by 100%.
+* Increases the damage of all Human Champions by 150%.
+* Increases the damage of all Champions with a CON score of 13 or higher by 150%.
+* Increases the damage of all Champions with a CHA score of 11 or higher by 100%.
+* Increases the damage of all Good Champions by 150%.
+* Increases the damage of all Champions by 20% for each Male Champion in the formation.
 
 [Back to Top](#top)
 
