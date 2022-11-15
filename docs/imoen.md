@@ -47,7 +47,7 @@ Optimism (Level: 10)
 > Imoen increases the damage of adjacent Champions by `$(amount)%`.
 
 Perseverance (Level: 60)
-> Any time any Champion's Favored Foe appears or is defeated, Imoen increases the effect of `$(upgrade_name id)` by `$(amount)%`, stacking multiplicatively and then applying multiplicatively. Stacks up to `$(max_stacks)` times. Stacks are reset each time the Champions change areas.
+> Any time any Champion's Favored Foe appears or is defeated, Imoen increases the effect of Optimism by `$(amount)%`, stacking multiplicatively and then applying multiplicatively. Stacks up to `$(max_stacks)` times. Stacks are reset each time the Champions change areas.
 
 Stoneskin (Level: 80)
 > Before every eighth attack, or upon entering a new area, Imoen casts Stoneskin on all Champions in the front-most column of the formation, granting them `$(not_buffed amount)` temporary hit points. The amount is increased by 5% (additively) for each Favored Foe that is alive.
