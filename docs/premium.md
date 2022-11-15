@@ -74,7 +74,7 @@ Date of release: 30 Nov 2022
 Contents:
 * Champion: `Warduke`
 * Skin: `Action Figure Warduke`
-* Feat: `???`
+* Feat: `A New Leaf (Warduke)`
 * Familiar: `Baby Nightmare Familiar`
 * Chests: `Gold Warduke Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
@@ -132,7 +132,7 @@ Date of release: 21 Dec 2022
 Contents:
 * Champion: `Imoen`
 * Skin: `Mystic Trickster Imoen`
-* Feat: `???`
+* Feat: `Indefatigable (Imoen)`
 * Familiar: `Wilson the Baby Grizzly Bear`
 * Chests: `Gold Imoen Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
