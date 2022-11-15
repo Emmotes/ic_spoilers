@@ -1,34 +1,34 @@
 [Back to Main](index.md)
 
 
-![Profile Picture](images/portrait_warduke.png)
+![Profile Picture](images/profile_warduke.png)
 
 # Warduke
 
-Warduke's services as a remorseless killer-for-hire can be easily bought. The evil swordsman serves Kelek as a cohort and adventuring companion from time to time. He isn't terribly bright, which is why he leaves the plotting and scheming to others.
-
-What does Warduke look like under his dread helm? No one knows. He never removes his helmet to reveal his face to others, but the visage beneath is that of a grim, hideously scarred gladiator.
-
-[D&DBeyond Monster Statblock](https://www.dndbeyond.com/monsters/1979813-warduke)
+Warduke's services as a remorseless killer-for-hire can be easily bought. The evil swordsman isn't terribly bright, which is why he leaves the plotting and scheming to others. He just likes to hit things with his sword.
 
 # Basic Information
 
 Warduke will be the new champion in the Simril event on 30 November 2022.
 
-* Seat: Unknown
+* Seat: 8
 * Race: Human
-* Class: Fighter (Guess)
-* Roles: DPS / Tank (Guess)
+* Class: Fighter
+* Roles: DPS / Tanking
 * Gender: Male
-* Alignment: Chaotic Evil (Guess)
-* Affiliation: League of Malevolence
-* Stats: (from D&DBeyond - NOT game files)
-  * Str: 16
+* Alignment: Chaotic Evil
+* Affiliation: None
+* Stats:
+  * Str: 19
   * Dex: 11
-  * Con: 14
+  * Con: 17
   * Int: 9
   * Wis: 11
   * Cha: 11
+* Patrons:
+  * Mirt
+  * Vajra
+  * Zariel (with Feat)
 
 # Formation
 
@@ -39,50 +39,67 @@ Warduke will be the new champion in the Simril event on 30 November 2022.
 Base Attack: Nightwind
 > Warduke moves up to the closest enemy and swings his sword, dealing one hit to all nearby enemies with a melee attack.
 
-Ultimate Attack: Flame Tongue Sword
+Ultimate Attack: Flame Tongue Sword (Level: 110)
 > Warduke's sword Nightwind ignites in flames for 30 seconds. For the duration, Warduke deals an additional 1000% damage with his normal attacks and he takes half damage from all sources. If Warduke activates his ultimate again before its effect expires the duration is refreshed.
 
-Unknown Name (Stacks Title: Remorseless)
+A Trained Killer (Level: 50)
 > Each time Warduke attacks or is damaged, he gains a Remorseless stack. Warduke increases his damage by `$(amount)%` for each Remorseless stack he has, stacking additively. Stacks are reset when traveling to a new area.
 
-Unknown Name (Health Share)
+Bodyguard for the Highest Bidder (Level: 100)
 > Increase the health of all Champions by `$(amount)%` of Warduke's max health.
 
-Unknown Name
+Chaotic Inversion (Level: 130)
 > Most positional formation abilities' targets are inverted.
 
-Unknown Name (Stack Title: Drawn to Power)
+Drawn to Power (Level: 200)
 > Warduke's damage is increased by `$(amount)%` for each positional formation ability affecting him, stacking multiplicatively. Buffs apply to the pre-stack multiplier.
-
-A Figure of Action
-> "effect_string": "reduce_attack_cooldown,1",  
-> "effect_string": "increase_attack_cooldown,3",
 
 # Specialisations
 
-League of Malevolence
-> Warduke's damage is increased by `$(not_buffed amount)%` for each Evil Champion in the formation, stacking multiplicatively.
+Chaos Reigns (Level: 250)
+> Warduke's damage is increased by `$(not_buffed amount)%` for each Chaotic Champion in the formation, stacking multiplicatively.
 
-Mercenary for Hire
+Mercenary for Hire (Level: 250)
 > Warduke's damage is increased by `$(not_buffed amount)%` for each Gold Find Champion in the formation, stacking multiplicatively.
 
-Chaos Reigns
-> Warduke's damage is increased by `$(not_buffed amount)%` for each Chaotic Champion in the formation, stacking multiplicatively.
+League of Malevolence (Level: 250)
+> Warduke's damage is increased by `$(not_buffed amount)%` for each Evil Champion in the formation, stacking multiplicatively.
 
 # Items
 
-1. Amulet
-2. Armor
-3. Dagger
-4. Helm
-5. Shield
-6. Sword
+1. Dagger of Malevolence - Self DPS
+2. Amulet of the Heartstone - A Trained Killer
+3. Helm of the Hierarch - Drawn to Power
+4. Shield of the Unnameable - All Second Specialisations
+5. Indomitable Armor - Health
+6. Nightwind, the Flametongue - Ultimate Cooldown Reduction
 
 # Feats
-Unknown.
+
+| Feat | Effect | Source |
+|---|---|---|
+| `Tavern Brawler` | 30% Self DPS | Free |
+| `Grappler` | 60% Self DPS | 12,500 Gems |
+| `Tough` | 15% Health | Free |
+| `Resilient` | 30% Health | 12,500 Gems |
+| `Defensive Duelist` | 5 Overwhelm | Free |
+| `Calm Under Pressure` | 10 Overwhelm | Gold Chest |
+| `Never Skip Leg Day` | 40% All Second Specialisations | 12,500 Gems |
+| `A Skilled Swordsman` | 40% A Trained Killer | Gold Chest |
+| `Trusty Lieutenant` | 40% Drawn to Power | Gold Chest |
+| `A New Leaf` | Stat: +2 Charisma | 50,000 Gems |
+| `Taunt Feat` | ??? | ??? |
+| `Immolation Feat` | ??? | ??? |
+| `Vicious Damage Feat` | ??? | ??? |
 
 # Legendaries
-Unknown.
+
+* Increases the damage of all Human Champions by 150%.
+* Increases the damage of all Champions by 10% for each Champion in the formation.
+* Increases the damage of all Champions by 20% for each Male Champion in the formation.
+* Increases the damage of all Champions by 30% for each Champion with a CON score of 13 or higher in the formation.
+* Increases the damage of all Champions by 20% for each Champion with a WIS score of 11 or higher in the formation.
+* Increases the damage of all Champions by 40% for each Champion in the formation with a EVIL alignment.
 
 [Back to Top](#top)
 
