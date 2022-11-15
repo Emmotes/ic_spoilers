@@ -88,9 +88,9 @@ League of Malevolence (Level: 250)
 | `A Skilled Swordsman` | 40% A Trained Killer | Gold Chest |
 | `Trusty Lieutenant` | 40% Drawn to Power | Gold Chest |
 | `A New Leaf` | Stat: +2 Charisma | 50,000 Gems |
-| `Taunt Feat` | ??? | ??? |
-| `Immolation Feat` | ??? | ??? |
-| `Vicious Damage Feat` | ??? | ??? |
+| `Taunt Feat` | Attacks Can Taunt | ??? |
+| `Immolation Feat` | Attacks add BUD DoT | ??? |
+| `Vicious Damage Feat` | Attacks Prevent Target Healing | ??? |
 
 # Legendaries
 
