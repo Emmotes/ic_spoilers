@@ -3,16 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Flapjack the Pirate Flumph Familiar Pack - $9.99
-Date of release: 14 Nov 2022
-
-Contents:
-* Familiar: `Flapjack the Pirate Flumph`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-
 ## Far Realm Kent Skin & Feat Pack - $9.99
 Date of release: 21 Nov 2022
 
