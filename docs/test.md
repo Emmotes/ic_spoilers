@@ -5,6 +5,8 @@
 <details>
   <summary>Raw Data</summary>
 
+This is raw data. Blah blah blah.
+
 ```yaml
 "effect_define":{
     "id": 1295,
@@ -28,7 +30,8 @@
     }
 }
 ```
-<details>
+
+</details>
 
 [Back to Top](#top)
 
