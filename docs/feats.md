@@ -24,9 +24,9 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Grimm | `Power Up` | 80% Get Buff | 50,000 Gems | 11 Jan 2023 |
 | Voronika | `Dark Lady` | 80% Calculating Guidance | 50,000 Gems | 11 Jan 2023 |
 | Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 01 Feb 2023 |
-| Warduke | `Immolation Feat` | ??? | ??? | 01 Feb 2023 |
-| Warduke | `Taunt Feat` | ??? | ??? | 01 Feb 2023 |
-| Warduke | `Vicious Damage Feat` | ??? | ??? | 01 Feb 2023 |
+| Warduke | `Immolation Feat` | Attacks add BUD DoT | ??? | 01 Feb 2023 |
+| Warduke | `Taunt Feat` | Attacks Can Taunt | ??? | 01 Feb 2023 |
+| Warduke | `Vicious Damage Feat` | Attacks Prevent Target Healing | ??? | 01 Feb 2023 |
 | Lazaapz | `Kneecapper` | 80% Fury of the Small | 50,000 Gems | 15 Mar 2023 |
 
 [Back to Top](#top)

@@ -70,7 +70,7 @@ League of Malevolence (Level: 250)
 1. Dagger of Malevolence - Self DPS
 2. Amulet of the Heartstone - A Trained Killer
 3. Helm of the Hierarch - Drawn to Power
-4. Shield of the Unnameable - All Second Specialisations
+4. Shield of the Unnameable - All Specialisations
 5. Indomitable Armor - Health
 6. Nightwind, the Flametongue - Ultimate Cooldown Reduction
 
@@ -84,7 +84,7 @@ League of Malevolence (Level: 250)
 | `Resilient` | 30% Health | 12,500 Gems |
 | `Defensive Duelist` | 5 Overwhelm | Free |
 | `Calm Under Pressure` | 10 Overwhelm | Gold Chest |
-| `Never Skip Leg Day` | 40% All Second Specialisations | 12,500 Gems |
+| `Never Skip Leg Day` | 40% All Specialisations | 12,500 Gems |
 | `A Skilled Swordsman` | 40% A Trained Killer | Gold Chest |
 | `Trusty Lieutenant` | 40% Drawn to Power | Gold Chest |
 | `A New Leaf` | Stat: +2 Charisma | 50,000 Gems |
