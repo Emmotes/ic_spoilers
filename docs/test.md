@@ -3,11 +3,10 @@
 ![Profile Picture](images/portrait_fen.png)
 
 <details><summary markdown="span">Raw Data</summary>
+<p>
+This is raw data. Blah blah blah.
+
 <pre>
-
-This is raw data. Blah blah blah. Brute force time?
-
-```json
 {
     "effect_define":{
         "id": 1295,
@@ -31,9 +30,8 @@ This is raw data. Blah blah blah. Brute force time?
         }
     }
 }
-```
-
 </pre>
+</p>
 </details>
 
 [Back to Top](#top)
