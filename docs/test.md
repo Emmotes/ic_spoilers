@@ -2,6 +2,7 @@
 
 ![Profile Picture](images/portrait_fen.png)
 
+````markdown
 <details>
   <summary>Raw Data</summary>
 
@@ -29,6 +30,7 @@
 }
 ```
 <details>
+````
 
 [Back to Top](#top)
 
