@@ -2,7 +2,6 @@
 
 ![Profile Picture](images/portrait_fen.png)
 
-````markdown
 <details>
   <summary>Raw Data</summary>
 
@@ -35,7 +34,6 @@ This is raw data. Blah blah blah. Brute force time?
 ```
 
 </details>
-````
 
 [Back to Top](#top)
 
