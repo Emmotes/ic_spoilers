@@ -5,34 +5,32 @@
 <details>
   <summary>Raw Data</summary>
 
-This is raw data. Blah blah blah.
-
-```json
-{
-    "effect_define":{
-        "id": 1295,
-        "flavour_text": "",
-        "description": {
-            "desc": "$(source_hero) increases the damage of adjacent Champions by $(amount)%."
-        },
-        "effect_keys": [
-            {
-                "effect_string": "hero_dps_multiplier_mult,400",
-                "targets": [
-                    "adj"
-                ]
-            }
-        ],
-        "requirements": "",
-        "graphic_id": 17142,
-        "properties": {
-            "is_formation_ability": true,
-            "owner_use_outgoing_description": true
-        }
-    }
-}
-```
-
+This is raw data. Blah blah blah. Brute force time?<br />
+<br />
+{<br />
+    "effect_define":{<br />
+        "id": 1295,<br />
+        "flavour_text": "",<br />
+        "description": {<br />
+            "desc": "$(source_hero) increases the damage of adjacent Champions by $(amount)%."<br />
+        },<br />
+        "effect_keys": [<br />
+            {<br />
+                "effect_string": "hero_dps_multiplier_mult,400",<br />
+                "targets": [<br />
+                    "adj"<br />
+                ]<br />
+            }<br />
+        ],<br />
+        "requirements": "",<br />
+        "graphic_id": 17142,<br />
+        "properties": {<br />
+            "is_formation_ability": true,<br />
+            "owner_use_outgoing_description": true<br />
+        }<br />
+    }<br />
+}<br />
+<br />
 </details>
 
 [Back to Top](#top)
