@@ -155,7 +155,7 @@ Unknown.
 </details>
 <br />
 
-Unknown Name
+**Unknown Name**
 > Uriah heals all champions within two slots for `$(not_buffed amount)` health per second. This effect is increased by `$(amount___2)%` for each formation slot containing a dead champion or an escort, stacking additively and applying multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
