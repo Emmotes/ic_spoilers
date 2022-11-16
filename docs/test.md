@@ -38,7 +38,7 @@ Warduke will be the new champion in the Simril event on 30 November 2022.
 
 Base Attack: Nightwind
 > Warduke moves up to the closest enemy and swings his sword, dealing one hit to all nearby enemies with a melee attack.
-<details><summary>Raw Data</summary>
+<details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
@@ -68,12 +68,12 @@ Base Attack: Nightwind
 </pre>
 </p>
 </details>
-  
-  
+<br />
+<br />
 
 Ultimate Attack: Flame Tongue Sword (Level: 110)
 > Warduke's sword Nightwind ignites in flames for 30 seconds. For the duration, Warduke deals an additional 1000% damage with his normal attacks and he takes half damage from all sources. If Warduke activates his ultimate again before its effect expires the duration is refreshed.
-<details><summary>Raw Data</summary>
+<details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
@@ -100,12 +100,12 @@ Ultimate Attack: Flame Tongue Sword (Level: 110)
 </pre>
 </p>
 </details>
-  
-  
+<br />
+<br />
 
 A Trained Killer (Level: 50)
 > Each time Warduke attacks or is damaged, he gains a Remorseless stack. Warduke increases his damage by `$(amount)%` for each Remorseless stack he has, stacking additively. Stacks are reset when traveling to a new area.
-<details><summary>Raw Data</summary>
+<details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
@@ -123,12 +123,12 @@ A Trained Killer (Level: 50)
 </pre>
 </p>
 </details>
-  
-  
+<br />
+<br />
 
 Bodyguard for the Highest Bidder (Level: 100)
 > Increase the health of all Champions by `$(amount)%` of Warduke's max health.
-<details><summary>Raw Data</summary>
+<details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
@@ -145,12 +145,12 @@ Bodyguard for the Highest Bidder (Level: 100)
 </pre>
 </p>
 </details>
-  
-  
+<br />
+<br />
 
 Chaotic Inversion (Level: 130)
 > Most positional formation abilities' targets are inverted.
-<details><summary>Raw Data</summary>
+<details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
@@ -168,12 +168,12 @@ Chaotic Inversion (Level: 130)
 </pre>
 </p>
 </details>
-  
-  
+<br />
+<br />
 
 Drawn to Power (Level: 200)
 > Warduke's damage is increased by `$(amount)%` for each positional formation ability affecting him, stacking multiplicatively. Buffs apply to the pre-stack multiplier.
-<details><summary>Raw Data</summary>
+<details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
@@ -190,14 +190,14 @@ Drawn to Power (Level: 200)
 </pre>
 </p>
 </details>
-  
-  
+<br />
+<br />
 
 # Specialisations
 
 Chaos Reigns (Level: 250)
 > Warduke's damage is increased by `$(not_buffed amount)%` for each Chaotic Champion in the formation, stacking multiplicatively.
-<details><summary>Raw Data</summary>
+<details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
@@ -217,12 +217,12 @@ Chaos Reigns (Level: 250)
 </pre>
 </p>
 </details>
-  
-  
+<br />
+<br />
 
 Mercenary for Hire (Level: 250)
 > Warduke's damage is increased by `$(not_buffed amount)%` for each Gold Find Champion in the formation, stacking multiplicatively.
-<details><summary>Raw Data</summary>
+<details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
@@ -242,12 +242,12 @@ Mercenary for Hire (Level: 250)
 </pre>
 </p>
 </details>
-  
-  
+<br />
+<br />
 
 League of Malevolence (Level: 250)
 > Warduke's damage is increased by `$(not_buffed amount)%` for each Evil Champion in the formation, stacking multiplicatively.
-<details><summary>Raw Data</summary>
+<details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
@@ -267,8 +267,8 @@ League of Malevolence (Level: 250)
 </pre>
 </p>
 </details>
-  
-  
+<br />
+<br />
 
 # Items
 
