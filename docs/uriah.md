@@ -28,26 +28,302 @@ Unknown.
 
 # Abilities
 
-Base Attack: Toll the Dead
+**Base Attack: Toll the Dead**
 > Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 0,
+    "target": "damaged_random",
+    "aoe_radius": 0,
+    "tags": ["ranged"],
+    "num_targets": 1,
+    "animations": [{
+        "projectile_details": {
+            "projectile_hit_graphic_id": 681,
+            "trail": {
+                "scale_lerp": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "lifespan": 0.2,
+                "initial_velocity": {
+                    "x": "0",
+                    "y": "0"
+                },
+                "alpha_lerp": {
+                    "0": 0,
+                    "1": 0,
+                    "0.1": 0.75
+                },
+                "tint": {
+                    "a": 1,
+                    "r": 1,
+                    "b": 1,
+                    "g": 1
+                },
+                "spawn_rate": 262,
+                "particle_graphic_ids": [3846],
+                "velocity_jitter": {
+                    "x": "30",
+                    "y": "30"
+                }
+            },
+            "percent_height_offset": 3,
+            "projectile_graphic_id": 755,
+            "projectile_speed": 10000,
+            "rotation_speed": 0
+        },
+        "hit_sound": 133,
+        "shoot_offset_y": -25,
+        "shoot_offset_x": 50,
+        "shoot_sound": 149,
+        "type": "ranged_attack",
+        "projectile": "pd_generic_projectile",
+        "shoot_frame": 12
+    }],
+    "name": "Toll the Dead",
+    "cooldown": 5,
+    "id": 585
+}
+</pre>
+</p>
+</details>
+<br />
 
-Ultimate Attack: Blade Barrier
+**Ultimate Attack: Blade Barrier**
 > Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 1,
+    "target": "random",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "ultimate": "uriah",
+        "type": "ultimate_attack"
+    }],
+    "name": "Blade Barrier",
+    "cooldown": 5,
+    "id": 586
+}
+</pre>
+</p>
+</details>
+<br />
 
-Unknown Name
+**Unknown Name**
 > Uriah increases the damage of all Champions in his column and the column behind him by `$(amount)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "targets": ["col_and_prev_col"]
+    }],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) increases the damage of all Champions in his column and the column behind him by $(amount)%."},
+    "id": 1370,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
 
 Unknown Name
 > Uriah heals all champions within two slots for `$(not_buffed amount)` health per second. This effect is increased by `$(amount___2)%` for each formation slot containing a dead champion or an escort, stacking additively and applying multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "effect_string": "heal,5",
+            "targets": [{
+                "distance": 2,
+                "type": "distance"
+            }]
+        },
+        {
+            "stack_title": "Escorts and Dead Champions",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_appears_dead"
+            ],
+            "show_bonus": true,
+            "amount_func": "add",
+            "stack_func": "per_hero",
+            "use_computed_amount_for_description": true,
+            "effect_string": "buff_upgrade,25,9771,0",
+            "show_stats_on_receiver": false,
+            "stack_func_data": {
+                "dead_or_escort": true,
+                "is_owned": false
+            }
+        }
+    ],
+    "requirements": "",
+    "description": {
+        "pre": "$(source_hero) heals all champions within two slots for $(not_buffed amount) health per second. This effect is increased by $(amount___2)% for each formation slot containing a dead champion or an escort, stacking additively and applying multiplicatively.",
+        "conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^Total Heal Amount: $(amount)"
+        }]
+    },
+    "id": 1371,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
 
-Unknown Name
+**Unknown Name**
 > Uriah reads from the Book of Exalted Deeds, making Undead and Fiends his Favored Foes and all Champions deal `$(amount)%` damage to them.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "increase_monster_with_tags_damage,200,undead|fiend"},
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,undead"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,fiend"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) reads from the Book of Exalted Deeds, making Undead and Fiends his Favored Foes and all Champions deal $(amount)% damage to them."},
+    "id": 1373,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
 
-Unknown Name
+**Unknown Name**
 > Azalin reads from the Book of Vile Darkness, increasing the effect of `$(upgrade_name id)` by `$(amount)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "buff_upgrade,100,9772"}],
+    "requirements": "",
+    "description": {"desc": "Azalin reads from the Book of Vile Darkness, increasing the effect of $(upgrade_name id) by $(amount)%."},
+    "id": 1374,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
 
-Unknown Name
+**Unknown Name**
 > After `$(attack_count)` normal attacks by Champions in the formation, Azalin Rex takes over Uriah for `$(seconds_plural amount)`. While controlled by Azalin Rex, Uriah increases the damage of Nahara and all evil Champions by `$(amount___2)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "azalin_effect_key_indexes": [1],
+            "effect_string": "in_the_grip_of_azalin_rex,20,100"
+        },
+        {
+            "formation_arrows_for_effected_only": true,
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,1000",
+            "targets": [{
+                "type": "by_tags",
+                "tags": ["evil|hero_102"]
+            }],
+            "apply_manually": true
+        }
+    ],
+    "requirements": "",
+    "description": {
+        "pre": "After $(attack_count) normal attacks by Champions in the formation, Azalin Rex takes over $(source_hero) for $(seconds_plural amount). While controlled by Azalin Rex, $(source_hero) increases the damage of Nahara and all evil Champions by $(amount___2)%.",
+        "conditions": [
+            {
+                "condition": "(not static_desc)^(uriah_azalin_rex_active)",
+                "desc": "^^Time Remaining: $(uriah_azalin_duration) second(s)"
+            },
+            {
+                "condition": "(not static_desc)",
+                "desc": "^^Attack Count: $(uriah_current_attack_count) / $(attack_count)"
+            }
+        ]
+    },
+    "id": 1372,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": false,
+        "is_formation_ability": true,
+        "default_bonus_index": 1,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
 
 # Specialisations
 
