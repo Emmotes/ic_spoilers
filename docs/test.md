@@ -7,26 +7,28 @@
 
 This is raw data. Blah blah blah.
 
-```yaml
-"effect_define":{
-    "id": 1295,
-    "flavour_text": "",
-    "description": {
-        "desc": "$(source_hero) increases the damage of adjacent Champions by $(amount)%."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "hero_dps_multiplier_mult,400",
-            "targets": [
-                "adj"
-            ]
+```json
+{
+    "effect_define":{
+        "id": 1295,
+        "flavour_text": "",
+        "description": {
+            "desc": "$(source_hero) increases the damage of adjacent Champions by $(amount)%."
+        },
+        "effect_keys": [
+            {
+                "effect_string": "hero_dps_multiplier_mult,400",
+                "targets": [
+                    "adj"
+                ]
+            }
+        ],
+        "requirements": "",
+        "graphic_id": 17142,
+        "properties": {
+            "is_formation_ability": true,
+            "owner_use_outgoing_description": true
         }
-    ],
-    "requirements": "",
-    "graphic_id": 17142,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
     }
 }
 ```
