@@ -69,7 +69,6 @@ Base Attack: Nightwind
 </p>
 </details>
 <br />
-<br />
 
 Ultimate Attack: Flame Tongue Sword (Level: 110)
 > Warduke's sword Nightwind ignites in flames for 30 seconds. For the duration, Warduke deals an additional 1000% damage with his normal attacks and he takes half damage from all sources. If Warduke activates his ultimate again before its effect expires the duration is refreshed.
@@ -101,7 +100,6 @@ Ultimate Attack: Flame Tongue Sword (Level: 110)
 </p>
 </details>
 <br />
-<br />
 
 A Trained Killer (Level: 50)
 > Each time Warduke attacks or is damaged, he gains a Remorseless stack. Warduke increases his damage by `$(amount)%` for each Remorseless stack he has, stacking additively. Stacks are reset when traveling to a new area.
@@ -120,10 +118,38 @@ A Trained Killer (Level: 50)
     "default_enabled": 1,
     "required_upgrade_id": 0
 }
+{
+    "effect_keys": [{
+        "stack_title": "Remorseless Stacks",
+        "stacks_multiply": false,
+        "show_bonus": true,
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "more_triggers": [
+            {
+                "action": {"type": "add_stack"},
+                "trigger": "hero_attacked",
+                "target": "self_slot"
+            },
+            {
+                "action": {"type": "reset"},
+                "trigger": "area_changed"
+            }
+        ],
+        "stacks_on_trigger": "owner_attack"
+    }],
+    "requirements": "",
+    "description": {"desc": "Each time $(source_hero) attacks or is damaged, he gains a Remorseless stack. $(source_hero) increases his damage by $(amount)% for each Remorseless stack he has, stacking additively. Stacks are reset when traveling to a new area."},
+    "id": 1269,
+    "flavour_text": "",
+    "graphic_id": 16900,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
 </pre>
 </p>
 </details>
-<br />
 <br />
 
 Bodyguard for the Highest Bidder (Level: 100)
@@ -142,10 +168,25 @@ Bodyguard for the Highest Bidder (Level: 100)
     "default_enabled": 1,
     "required_upgrade_id": 0
 }
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "increase_health_by_source_percent,25",
+        "targets": ["other"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Increase the health of all Champions by $(amount)% of $(source_hero)'s max health."},
+    "id": 1270,
+    "flavour_text": "",
+    "graphic_id": 16901,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
 </pre>
 </p>
 </details>
-<br />
 <br />
 
 Chaotic Inversion (Level: 130)
@@ -165,10 +206,24 @@ Chaotic Inversion (Level: 130)
     "default_enabled": 1,
     "required_upgrade_id": 0
 }
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "invert_formation_ability_targets"
+    }],
+    "requirements": "",
+    "description": {"desc": "Most positional formation abilities' targets are inverted."},
+    "id": 1271,
+    "flavour_text": "",
+    "graphic_id": 16902,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
 </pre>
 </p>
 </details>
-<br />
 <br />
 
 Drawn to Power (Level: 200)
@@ -187,10 +242,40 @@ Drawn to Power (Level: 200)
     "default_enabled": 1,
     "required_upgrade_id": 0
 }
+{
+    "effect_keys": [
+        {
+            "overlay": {
+                "manual_graphic": "warduke_drawn_to_power",
+                "y": -75
+            },
+            "effect_string": "warduke_drawn_to_power,100"
+        },
+        {
+            "amount_expr": "upgrade_amount(9618,0)",
+            "stack_title": "Positional Formation Abilities",
+            "manual_stacking": true,
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "effect_string": "hero_dps_multiplier_mult,0"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "$(source_hero)'s damage is increased by $(amount)% for each positional formation ability affecting him, stacking multiplicatively. Buffs apply to the pre-stack multiplier."},
+    "id": 1272,
+    "flavour_text": "",
+    "graphic_id": 16903,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
 </pre>
 </p>
 </details>
-<br />
 <br />
 
 # Specialisations
@@ -214,10 +299,27 @@ Chaos Reigns (Level: 250)
     "required_upgrade_id": 0,
     "specialization_description": "Warduke focuses on Chaos, increasing his damage."
 }
+{
+    "effect_keys": [{
+        "stack_title": "Chaotic Champions",
+        "stacks_multiply": true,
+        "effect_string": "hero_dps_mult_per_tagged_crusader_mult,100,chaotic"
+    }],
+    "requirements": "",
+    "description": {"desc": "$(source_hero)'s damage is increased by $(not_buffed amount)% for each Chaotic Champion in the formation, stacking multiplicatively."},
+    "id": 1273,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
 </pre>
 </p>
 </details>
-<br />
 <br />
 
 Mercenary for Hire (Level: 250)
@@ -239,10 +341,27 @@ Mercenary for Hire (Level: 250)
     "required_upgrade_id": 0,
     "specialization_description": "Warduke focuses on gold, increasing his damage."
 }
+{
+    "effect_keys": [{
+        "stack_title": "Gold Find Champions",
+        "stacks_multiply": true,
+        "effect_string": "hero_dps_mult_per_tagged_crusader_mult,300,gold"
+    }],
+    "requirements": "",
+    "description": {"desc": "$(source_hero)'s damage is increased by $(not_buffed amount)% for each Gold Find Champion in the formation, stacking multiplicatively."},
+    "id": 1274,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
 </pre>
 </p>
 </details>
-<br />
 <br />
 
 League of Malevolence (Level: 250)
@@ -264,10 +383,27 @@ League of Malevolence (Level: 250)
     "required_upgrade_id": 0,
     "specialization_description": "Warduke focuses on evil, increasing his damage."
 }
+{
+    "effect_keys": [{
+        "stack_title": "Evil Champions",
+        "stacks_multiply": true,
+        "effect_string": "hero_dps_mult_per_tagged_crusader_mult,500,evil"
+    }],
+    "requirements": "",
+    "description": {"desc": "$(source_hero)'s damage is increased by $(not_buffed amount)% for each Evil Champion in the formation, stacking multiplicatively."},
+    "id": 1275,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
 </pre>
 </p>
 </details>
-<br />
 <br />
 
 # Items
@@ -275,7 +411,7 @@ League of Malevolence (Level: 250)
 1. Dagger of Malevolence - Self DPS
 2. Amulet of the Heartstone - A Trained Killer
 3. Helm of the Hierarch - Drawn to Power
-4. Shield of the Unnameable - ???: buff_upgrades,275,9619,9620,9621
+4. Shield of the Unnameable - All Specialisations
 5. Indomitable Armor - Health
 6. Nightwind, the Flametongue - Ultimate Cooldown Reduction
 
@@ -289,7 +425,7 @@ League of Malevolence (Level: 250)
 | `Resilient` | 30% Health | 12,500 Gems |
 | `Defensive Duelist` | 5 Overwhelm | Free |
 | `Calm Under Pressure` | 10 Overwhelm | Gold Chest |
-| `Never Skip Leg Day` | ???: buff_upgrades,40,9619,9620,9621 | 12,500 Gems |
+| `Never Skip Leg Day` | 40% All Specialisations | 12,500 Gems |
 | `A Skilled Swordsman` | 40% A Trained Killer | Gold Chest |
 | `Trusty Lieutenant` | 40% Drawn to Power | Gold Chest |
 | `A New Leaf` | Stat: +2 Charisma | 50,000 Gems |
