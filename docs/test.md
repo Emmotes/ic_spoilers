@@ -6,7 +6,6 @@
   <summary>Raw Data</summary>
 
 This is raw data. Blah blah blah. Brute force time?
-
 ```json
 {
     "effect_define":{
