@@ -23,6 +23,10 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Zorbu | `Heavy Lifter` | Stat: +2 Strength | 50,000 Gems | 04 Jan 2023 |
 | Grimm | `Power Up` | 80% Get Buff | 50,000 Gems | 11 Jan 2023 |
 | Voronika | `Dark Lady` | 80% Calculating Guidance | 50,000 Gems | 11 Jan 2023 |
+| Arkhan | `Weapon Master` | 120% Self DPS | 50,000 Gems | 25 Jan 2023 |
+| Artemis | `Weapon Master` | 120% Self DPS | 50,000 Gems | 25 Jan 2023 |
+| Krull | `Sworn to Service` | 80% Dark Order Synergy | 50,000 Gems | 25 Jan 2023 |
+| Torogar | `Devoted Shield` | 80% Markings of a Zealot | 50,000 Gems | 25 Jan 2023 |
 | Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 01 Feb 2023 |
 | Lazaapz | `Kneecapper` | 80% Fury of the Small | 50,000 Gems | 15 Mar 2023 |
 

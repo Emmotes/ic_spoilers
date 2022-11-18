@@ -26,9 +26,9 @@ Most skins are real money purchases only.
 | Nerys | `Flayer Hunter Nerys` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
 | Shandie | `Flayer Hunter Shandie` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
 | Viconia | `Flayer Hunter Viconia` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
-| Zorbu | `Dragonlance Zorbu` | ??? | ??? | 04 Jan 2023 |
+| Zorbu | `Dragonlance Zorbu` | Dragonlance Zorbu Theme Pack | $24.99 | 04 Jan 2023 |
 | B&G | `Vampire Hunter B&G` | ??? | ??? | 11 Jan 2023 |
-| Fen | `Vampiric Darklord Fen` | ??? | ??? | 11 Jan 2023 |
+| Fen | `Vampiric Darklord Fen` | Vampiric Darklord Fen Theme Pack | $24.99 | 11 Jan 2023 |
 | Voronika | `Barovia Visitor Voronika` | ??? | ??? | 11 Jan 2023 |
 
 [Back to Top](#top)
