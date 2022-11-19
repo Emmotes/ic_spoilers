@@ -322,48 +322,6 @@ Warduke will be the new champion in the Simril event on 30 November 2022.
 </details>
 <br />
 
-**Mercenary for Hire (Level: 250)**
-> Warduke's damage is increased by `$(not_buffed amount)%` for each Gold Find Champion in the formation, stacking multiplicatively.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "static_dps_mult": null,
-    "specialization_name": "Mercenary for Hire",
-    "required_level": 250,
-    "effect": "effect_def,1274",
-    "name": "Mercenary for Hire",
-    "specialization_graphic_id": 16905,
-    "id": 9620,
-    "hero_id": 116,
-    "upgrade_type": "unlock_ability",
-    "default_enabled": 1,
-    "required_upgrade_id": 0,
-    "specialization_description": "Warduke focuses on gold, increasing his damage."
-}
-{
-    "effect_keys": [{
-        "stack_title": "Gold Find Champions",
-        "stacks_multiply": true,
-        "effect_string": "hero_dps_mult_per_tagged_crusader_mult,300,gold"
-    }],
-    "requirements": "",
-    "description": {"desc": "$(source_hero)'s damage is increased by $(not_buffed amount)% for each Gold Find Champion in the formation, stacking multiplicatively."},
-    "id": 1274,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "type": "upgrade",
-        "formation_circle_icon": false
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
 **League of Malevolence (Level: 250)**
 > Warduke's damage is increased by `$(not_buffed amount)%` for each Evil Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
@@ -392,6 +350,48 @@ Warduke will be the new champion in the Simril event on 30 November 2022.
     "requirements": "",
     "description": {"desc": "$(source_hero)'s damage is increased by $(not_buffed amount)% for each Evil Champion in the formation, stacking multiplicatively."},
     "id": 1275,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Mercenary for Hire (Level: 250)**
+> Warduke's damage is increased by `$(not_buffed amount)%` for each Gold Find Champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Mercenary for Hire",
+    "required_level": 250,
+    "effect": "effect_def,1274",
+    "name": "Mercenary for Hire",
+    "specialization_graphic_id": 16905,
+    "id": 9620,
+    "hero_id": 116,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Warduke focuses on gold, increasing his damage."
+}
+{
+    "effect_keys": [{
+        "stack_title": "Gold Find Champions",
+        "stacks_multiply": true,
+        "effect_string": "hero_dps_mult_per_tagged_crusader_mult,300,gold"
+    }],
+    "requirements": "",
+    "description": {"desc": "$(source_hero)'s damage is increased by $(not_buffed amount)% for each Gold Find Champion in the formation, stacking multiplicatively."},
+    "id": 1274,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
