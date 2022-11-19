@@ -337,6 +337,47 @@ Imoen will be the new champion in the Wintershield event on 21 December 2022.
 
 # Specialisations
 
+**Aberration Slaying Arrows (Level: 40)**
+> Aberration enemies become Imoen's Favored Foe. Her Short Bow attacks against Aberration enemies deal an additional BUD-based damage with each hit.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Aberration Slaying Arrows",
+    "required_level": 40,
+    "effect": "effect_def,1302",
+    "name": "Aberration Slaying Arrows",
+    "specialization_graphic_id": 17146,
+    "id": 9646,
+    "hero_id": 117,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Imoen favors slaying aberrations, increasing her damage against them."
+}
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "favored_foe,aberration"
+    }],
+    "requirements": "",
+    "description": {"desc": "Aberration enemies become Imoen's Favored Foe. Her Short Bow attacks against Aberration enemies deal an additional BUD-based damage with each hit."},
+    "id": 1302,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
 **Beast Slaying Arrows (Level: 40)**
 > Beast enemies become Imoen's Favored Foe. Her Short Bow attacks against Beast enemies deal an additional BUD-based damage with each hit.
 <details><summary><em>Raw Data</em></summary>
@@ -446,47 +487,6 @@ Imoen will be the new champion in the Wintershield event on 21 December 2022.
     "requirements": "",
     "description": {"desc": "Monstrosity enemies become Imoen's Favored Foe. Her Short Bow attacks against Monstrosity enemies deal an additional BUD-based damage with each hit."},
     "id": 1301,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "type": "upgrade",
-        "formation_circle_icon": false
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Aberration Slaying Arrows (Level: 40)**
-> Aberration enemies become Imoen's Favored Foe. Her Short Bow attacks against Aberration enemies deal an additional BUD-based damage with each hit.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "static_dps_mult": null,
-    "specialization_name": "Aberration Slaying Arrows",
-    "required_level": 40,
-    "effect": "effect_def,1302",
-    "name": "Aberration Slaying Arrows",
-    "specialization_graphic_id": 17146,
-    "id": 9646,
-    "hero_id": 117,
-    "upgrade_type": "unlock_ability",
-    "default_enabled": 1,
-    "required_upgrade_id": 0,
-    "specialization_description": "Imoen favors slaying aberrations, increasing her damage against them."
-}
-{
-    "effect_keys": [{
-        "off_when_benched": true,
-        "effect_string": "favored_foe,aberration"
-    }],
-    "requirements": "",
-    "description": {"desc": "Aberration enemies become Imoen's Favored Foe. Her Short Bow attacks against Aberration enemies deal an additional BUD-based damage with each hit."},
-    "id": 1302,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
