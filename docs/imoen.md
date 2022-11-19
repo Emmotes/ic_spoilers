@@ -236,49 +236,6 @@ Imoen will be the new champion in the Wintershield event on 21 December 2022.
 </details>
 <br />
 
-**Polymorph (Level: 130)**
-> Before every third attack, Imoen polymorphs a random non-boss non-static enemy into a monster with the same type as her Favored Foe, but only 10% of its original health. She can not polymorph enemies that are already polymorphed by this ability a second time.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "static_dps_mult": null,
-    "required_level": 130,
-    "effect": "effect_def,1297",
-    "name": "Polymorph",
-    "id": 9641,
-    "hero_id": 117,
-    "upgrade_type": "unlock_ability",
-    "default_enabled": 1,
-    "required_upgrade_id": 0
-}
-{
-    "effect_keys": [{
-        "filter_targets_by_tags": "!imoen_polymorphed^!boss^!static",
-        "attacks_per_cast": 3,
-        "effect_string": "imoen_polymorph",
-        "polymorphed_monsters": {
-            "monstrosity": 1870,
-            "aberration": 1871,
-            "beast": 1868,
-            "dragon": 1869
-        }
-    }],
-    "requirements": "",
-    "description": {"desc": "Before every third attack, $(source_hero) polymorphs a random non-boss non-static enemy into a monster with the same type as her Favored Foe, but only 10% of its original health. She can not polymorph enemies that are already polymorphed by this ability a second time."},
-    "id": 1297,
-    "flavour_text": "",
-    "graphic_id": 17144,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
 **Stoneskin (Level: 80)**
 > Before every eighth attack, or upon entering a new area, Imoen casts Stoneskin on all Champions in the front-most column of the formation, granting them `$(not_buffed amount)` temporary hit points. The amount is increased by 5% (additively) for each Favored Foe that is alive.
 <details><summary><em>Raw Data</em></summary>
@@ -328,6 +285,49 @@ Imoen will be the new champion in the Wintershield event on 21 December 2022.
         "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Polymorph (Level: 130)**
+> Before every third attack, Imoen polymorphs a random non-boss non-static enemy into a monster with the same type as her Favored Foe, but only 10% of its original health. She can not polymorph enemies that are already polymorphed by this ability a second time.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 130,
+    "effect": "effect_def,1297",
+    "name": "Polymorph",
+    "id": 9641,
+    "hero_id": 117,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [{
+        "filter_targets_by_tags": "!imoen_polymorphed^!boss^!static",
+        "attacks_per_cast": 3,
+        "effect_string": "imoen_polymorph",
+        "polymorphed_monsters": {
+            "monstrosity": 1870,
+            "aberration": 1871,
+            "beast": 1868,
+            "dragon": 1869
+        }
+    }],
+    "requirements": "",
+    "description": {"desc": "Before every third attack, $(source_hero) polymorphs a random non-boss non-static enemy into a monster with the same type as her Favored Foe, but only 10% of its original health. She can not polymorph enemies that are already polymorphed by this ability a second time."},
+    "id": 1297,
+    "flavour_text": "",
+    "graphic_id": 17144,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>

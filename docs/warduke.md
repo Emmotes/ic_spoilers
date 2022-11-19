@@ -14,7 +14,7 @@ Warduke will be the new champion in the Simril event on 30 November 2022.
 * Seat: 8
 * Race: Human
 * Class: Fighter
-* Roles: Dps / Tanking
+* Roles: DPS / Tanking
 * Gender: Male
 * Alignment: Chaotic Evil
 * Affiliation: None
