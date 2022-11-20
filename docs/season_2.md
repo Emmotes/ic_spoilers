@@ -166,8 +166,6 @@ Some of the other HoBG champions are also receiving very tiny reworks to make th
 
 Some other champions - with favored-foe-like abilities - are also getting reworks to give them actual favored foe abilities - so they'll work more nicely with Imoen.
 
-Most of these abilities that make enemies become favored foes make those enemies take 300% more damage - with current numbers.
-
 ## Ezmerelda
 
 **Specialisation: Fiendish Stature**
