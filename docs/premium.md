@@ -3,35 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Far Realm Kent Skin & Feat Pack - $9.99
-Date of release: 21 Nov 2022
-
-Contents:
-* Champion: `Kent`
-* Skin: `Far Realm Kent`
-* Feat: `Quintessence Essence (Kent)`
-* Chests: `Gold Kent Chest` x7 (Shinies x1)
-
-## Far Realm Virgil Skin & Feat Pack - $9.99
-Date of release: 21 Nov 2022
-
-Contents:
-* Champion: `Virgil`
-* Skin: `Far Realm Virgil`
-* Feat: `Master of the Elements (Virgil)`
-* Chests: `Gold Virgil Chest` x7 (Shinies x1)
-
-## Far Realm Walnut Theme Pack - $24.99
-Date of release: 21 Nov 2022
-
-Contents:
-* Champion: `Walnut`
-* Skin: `Far Realm Walnut`
-* Feat: `Prodigal Leader (Walnut)`
-* Familiar: `Bala the Baby Kindori`
-* Chests: `Gold Walnut Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
 ## Thespian Blooshi Skin & Feat Pack - $9.99
 Date of release: 23 Nov 2022
 

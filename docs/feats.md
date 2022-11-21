@@ -7,9 +7,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
-| Kent | `Quintessence Essence` | 80% Tokens of the Departed | 50,000 Gems | 21 Nov 2022 |
-| Virgil | `Master of the Elements` | 80% Weather Control | 50,000 Gems | 21 Nov 2022 |
-| Walnut | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 21 Nov 2022 |
 | Blooshi | `Tragic Demise` | 80% Soul Gatherer | 50,000 Gems | 23 Nov 2022 |
 | Yorven | `Dramatic Monologue` | 80% Danger Sense | 50,000 Gems | 23 Nov 2022 |
 | Warden | `Tenacious` | Stat: +2 Constitution | 50,000 Gems | 25 Nov 2022 |
