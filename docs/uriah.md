@@ -69,9 +69,9 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 <p>
 <pre>
 {
-    "description": "Brother Uriah creates a wall of magical blades near the right side of the screen for 10 seconds. Enemies that pass through it take are damaged.",
-    "long_description": "Brother Uriah creates a wall of whirling, razor-sharp blades of magical energy to appear in front of the formation, quickly slides across the screen, ending close to where enemies are spawned. Each enemy that passes through the barrier takes one hit of ultimate damage. The barrier lasts for 10 seconds after it reaches its final location. If an enemy passes through it a second time they take another hit.",
-    "damage_modifier": 1,
+    "description": "Brother Uriah creates a wall of magical blades that damages enemies for 10 seconds. ",
+    "long_description": "Brother Uriah creates a wall of whirling, razor-sharp blades of magical energy to appear in front of the formation, quickly slide across the area stopping at the edge of the area. Each enemy that passes through the barrier takes one hit of ultimate damage. The barrier lasts for 10 seconds after it reaches its final location. If an enemy passes through it a second time they take another hit.",
+    "damage_modifier": 0.03,
     "damage_types": ["melee"],
     "graphic_id": 17761,
     "target": "random",
