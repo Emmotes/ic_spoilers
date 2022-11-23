@@ -7,8 +7,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|---:|---:|
-| Blooshi | `Thespian Blooshi` | Thespian Blooshi Skin & Feat Pack | $9.99 | 23 Nov 2022 |
-| Yorven | `Thespian Yorven` | Thespian Yorven Skin & Feat Pack | $9.99 | 23 Nov 2022 |
 | Warden | `Eldritch Lich Warden` | ??? | ??? | 25 Nov 2022 |
 | Lucius | `Action Figure Lucius` | Action Figure Lucius Skin & Feat Pack | $9.99 | 30 Nov 2022 |
 | Orkira | `Action Figure Orkira` | Action Figure Orkira Skin & Feat Pack | $9.99 | 30 Nov 2022 |

@@ -7,8 +7,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
-| Blooshi | `Tragic Demise` | 80% Soul Gatherer | 50,000 Gems | 23 Nov 2022 |
-| Yorven | `Dramatic Monologue` | 80% Danger Sense | 50,000 Gems | 23 Nov 2022 |
 | Warden | `Tenacious` | Stat: +2 Constitution | 50,000 Gems | 25 Nov 2022 |
 | Lucius | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 30 Nov 2022 |
 | Orkira | `Gift of the Phoenix` | 80% Elemental Fire | 50,000 Gems | 30 Nov 2022 |

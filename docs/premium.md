@@ -3,24 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Thespian Blooshi Skin & Feat Pack - $9.99
-Date of release: 23 Nov 2022
-
-Contents:
-* Skin: `Thespian Blooshi`
-* Feat: `Tragic Demise (Blooshi)`
-* Chests: `Gold Supply Chest` x7
-* Buff: `Potion of Polish` x1
-
-## Thespian Yorven Skin & Feat Pack - $9.99
-Date of release: 23 Nov 2022
-
-Contents:
-* Champion: `Yorven`
-* Skin: `Thespian Yorven`
-* Feat: `Dramatic Monologue (Yorven)`
-* Chests: `Gold Yorven Chest` x7 (Shinies x1)
-
 ## Action Figure Lucius Skin & Feat Pack - $9.99
 Date of release: 30 Nov 2022
 
