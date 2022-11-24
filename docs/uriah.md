@@ -28,12 +28,12 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 # Abilities
 
 **Base Attack: Toll the Dead**
-> Uriah points at a random enemy and deals damage. Prefers enemies that are already damaged.
+> Uriah points at a random enemy and deals damage, preferring enemies that are already damaged.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "Uriah points at a random enemy and deals damage. Prefers enemies that are already damaged.",
+    "description": "Uriah points at a random enemy and deals damage, preferring enemies that are already damaged.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["magic"],
@@ -64,13 +64,13 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 <br />
 
 **Ultimate Attack: Blade Barrier**
-> Brother Uriah creates a wall of whirling, razor-sharp blades of magical energy to appear in front of the formation, quickly slides across the screen, ending close to where enemies are spawned. Each enemy that passes through the barrier takes one hit of ultimate damage. The barrier lasts for 10 seconds after it reaches its final location. If an enemy passes through it a second time they take another hit.
+> Brother Uriah creates a wall of whirling, razor-sharp blades of magical energy and sends them flying across the area. The blades come to a stop a short distance in front of the formation forming a barrier that lasts for 10 seconds. Each time an enemy passes through the barrier, they take ultimate damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "description": "Brother Uriah creates a wall of magical blades that damages enemies for 10 seconds. ",
-    "long_description": "Brother Uriah creates a wall of whirling, razor-sharp blades of magical energy to appear in front of the formation, quickly slide across the area stopping at the edge of the area. Each enemy that passes through the barrier takes one hit of ultimate damage. The barrier lasts for 10 seconds after it reaches its final location. If an enemy passes through it a second time they take another hit.",
+    "long_description": "Brother Uriah creates a wall of whirling, razor-sharp blades of magical energy and sends them flying across the area. The blades come to a stop a short distance in front of the formation forming a barrier that lasts for 10 seconds. Each time an enemy passes through the barrier, they take ultimate damage.",
     "damage_modifier": 0.03,
     "damage_types": ["melee"],
     "graphic_id": 17761,
@@ -230,7 +230,7 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 # Specialisations
 
 **Book of Exalted Deeds**
-> Uriah reads from the Book of Exalted Deeds, making Undead and Fiends his Favored Foes and all Champions deal `$(amount)%` damage to them.
+> Uriah reads from the Book of Exalted Deeds, making Undead and Fiends his Favored Foes and all Champions deal an additional `$(amount)%` damage to them.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -244,10 +244,15 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
         {
             "off_when_benched": true,
             "effect_string": "favored_foe,fiend"
+        },
+        {
+            "skin_property_prefix": "spec_1_overlay",
+            "effect_string": "animation_synced_overlay,17719",
+            "sort_bottom": true
         }
     ],
     "requirements": "",
-    "description": {"desc": "$(source_hero) reads from the Book of Exalted Deeds, making Undead and Fiends his Favored Foes and all Champions deal $(amount)% damage to them."},
+    "description": {"desc": "$(source_hero) reads from the Book of Exalted Deeds, making Undead and Fiends his Favored Foes and all Champions deal an additional $(amount)% damage to them."},
     "id": 1373,
     "flavour_text": "",
     "graphic_id": 0,
