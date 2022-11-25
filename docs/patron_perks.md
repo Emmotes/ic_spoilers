@@ -2,7 +2,11 @@
 
 # Patron Perks Tier 8+9
 
-Some of the tier 8 and 9 patron perks leaked recently and interest was shown for me to add them here. So - here they are.
+Some of the tier 8 and 9 patron perks leaked recently and interest was shown for me to add them here. So here they are.
+
+Justin Stocks (on Developer Insights) has stated that these will be arriving "early in January" along with some changes to the patron chores to make them "just a little bit less homeworky - a little bit less chorsey". No specifics on what those changes will be though.
+
+*Note: The buff amounts are per-level (not totals).*
 
 ## Mirt
 
@@ -16,7 +20,7 @@ Some of the tier 8 and 9 patron perks leaked recently and interest was shown for
 > Beast Enemies take 50% more damage.
 
 **Expert Adventurer** - Tier 9 Global - 25 levels
-> Increases the damage of all champions by 10%.
+> Increases the damage of all Champions by 10%.
 
 ## Vajra
 
@@ -42,7 +46,7 @@ Unknown.
 > Unknown.
 
 **Holy Redemption** - Tier 8 Global - 50 levels
-> Increases the effect of healing by 5% on Good champions.
+> Increases the effect of healing by 5% on Good Champions.
 
 **Endless Descent** - Tier 9 Local - 50 levels
 > Increases the damage of all Champions by 50%.
