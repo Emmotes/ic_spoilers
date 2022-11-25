@@ -2,7 +2,7 @@
 
 # Patron Perks Tier 8+9
 
-Some of the tier 8 and 9 patron perks leaked recently and interest was shown for me to add them here. So here they are.
+Some of the tier 8 and 9 patron perks leaked recently and interest was shown for me to add them here. So - here they are.
 
 ## Mirt
 
