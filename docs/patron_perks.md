@@ -10,17 +10,12 @@ Justin Stocks (on Developer Insights) has stated that these will be arriving "ea
 
 ## Mirt
 
-**High Interest Loan** - Tier 8 Local - 25 levels
-> Increases all Gold found by 4%.
-
-**Rich Friends** - Tier 8 Global - 25 levels
-> Unknown.
-
-**The Old Wolf** - Tier 9 Local - 25 levels
-> Beast Enemies take 50% more damage.
-
-**Expert Adventurer** - Tier 9 Global - 25 levels
-> Increases the damage of all Champions by 10%.
+| Name | Tier | Type | Levels | Effect|
+|---|---|---|---|---|
+| `High Interest Loan` | 8 | Local | 25 | Increases all Gold found by 4% |
+| `Rich Friends` | 8 | Global | 25 | Unknown |
+| `The Old Wolf` | 9 | Local | 25 | Beast Enemies take 50% more damage |
+| `Expert Adventurer` | 9 | Global | 25 | Increases the damage of all Champions by 10% |
 
 ## Vajra
 
@@ -28,31 +23,21 @@ Unknown.
 
 ## Strahd
 
-**The Flesh Strengthens** - Tier 8 Local - 25 levels
-> Increases the effect of healing by 2.5% on Tanking Champions.
-
-**Strahd's Chosen** - Tier 8 Global - 25 levels
-> Unknown.
-
-**Fellow Conquerers** - Tier 9 Local - 25 levels
-> Increases the damage of all Champions by 25%.
-
-**Glory of Ravenloft** - Tier 9 Global - 25 levels
-> Increases the damage of all Champions by 10%.
+| Name | Tier | Type | Levels | Effect|
+|---|---|---|---|---|
+| `The Flesh Strengthens` | 8 | Local | 25 | Increases the effect of healing by 2.5% on Tanking Champions |
+| `Strahd's Chosen` | 8 | Global | 25 | Unknown |
+| `Fellow Conquerers` | 9 | Local | 25 | Increases the damage of all Champions by 25% |
+| `Glory of Ravenloft` | 9 | Global | 25 | Increases the damage of all Champions by 10% |
 
 ## Zariel
 
-**Friends of my Enemy** - Tier 8 Local - 20 levels
-> Unknown.
-
-**Holy Redemption** - Tier 8 Global - 50 levels
-> Increases the effect of healing by 5% on Good Champions.
-
-**Endless Descent** - Tier 9 Local - 50 levels
-> Increases the damage of all Champions by 50%.
-
-**Veteran of Avernus** - Tier 9 Global - 20 levels
-> Increases the damage of all Champions by 10%.
+| Name | Tier | Type | Levels | Effect|
+|---|---|---|---|---|
+| `Friends of my Enemy` | 8 | Local | 20 | Unknown |
+| `Holy Redemption` | 8 | Global | 50 | Increases the effect of healing by 5% on Good Champions |
+| `Endless Descent` | 9 | Local | 50 | Increases the damage of all Champions by 50% |
+| `Veteran of Avernus` | 9 | Global | 20 | Increases the damage of all Champions by 10% |
 
 [Back to Top](#top)
 
