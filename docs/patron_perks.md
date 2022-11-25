@@ -6,7 +6,7 @@ Some of the tier 8 and 9 patron perks leaked recently and interest was shown for
 
 Justin Stocks (on Developer Insights) has stated that these will be arriving "early in January" along with some changes to the patron chores to make them "just a little bit less homeworky - a little bit less chorsey". No specifics on what those changes will be though.
 
-*Note: The buff amounts are per-level (not totals).*
+*Note: The effect amounts are per-level (not totals).*
 
 ## Mirt
 
