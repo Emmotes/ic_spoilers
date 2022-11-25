@@ -10,7 +10,7 @@ Some of the tier 8 and 9 patron perks leaked recently and interest was shown for
 > Increases all Gold found by 4%.
 
 **Rich Friends** - Tier 8 Global - 25 levels
-> Unknown effect.
+> Unknown.
 
 **The Old Wolf** - Tier 9 Local - 25 levels
 > Beast Enemies take 50% more damage.
