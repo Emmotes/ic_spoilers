@@ -28,7 +28,7 @@ Contents:
 * Champion: `Warduke`
 * Skin: `Action Figure Warduke`
 * Feat: `A New Leaf (Warduke)`
-* Familiar: `Baby Nightmare Familiar`
+* Familiar: `Baby Nightmare`
 * Chests: `Gold Warduke Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 
