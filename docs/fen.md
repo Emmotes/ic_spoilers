@@ -417,10 +417,11 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 # Legendaries
 
 * Increases the damage of all Champions by 100%.
+* Increases the damage of all Champions by 20% for each Female Champion in the formation.
+* Increases the damage of all Champions by 100%.
+* Increases the damage of all Champions by 20% for each Champion with a WIS score of 11 or higher in the formation.
 * Increases the damage of all Champions with a STR score of 11 or higher by 100%.
 * Increases the damage of all Evil Champions by 150%.
-* Increases the damage of all Champions by 20% for each Female Champion in the formation.
-* Increases the damage of all Champions by 20% for each Champion with a WIS score of 11 or higher in the formation.
 
 [Back to Top](#top)
 
