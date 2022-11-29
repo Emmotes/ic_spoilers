@@ -11,7 +11,7 @@ These are the champions that are upcoming and all the information we know about 
 * Wintershield - 21 December 2022
   * [Imoen](imoen.md) - Human Rogue/Wizard of Heroes of Baldur's Gate
 * Midwinter - 11 January 2023
-  * [Fen](fen.md) - Drow Dhampir Unknown of Black Dice Society
+  * [Fen](fen.md) - Dhampir Drow Warlock/Rogue of Black Dice Society
 * Grand Revel - 1 February 2023
   * [Uriah](uriah.md) - Human Cleric of Black Dice Society
 
