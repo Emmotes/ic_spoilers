@@ -1,25 +1,35 @@
 [Back to Main](index.md)
 
+
 ![Profile Picture](images/portrait_fen.png)
 
 # Fen
 
-Fen is a Drow, with her father contributing her Dhampir ancestry. As she grew up and showed signs of her bitey nature, she left the only family she'd known, driven out by those that feared what she would turn into as she aged.  She's come to resent that side of her bloodline, and her life has been interesting since she was sent to the surface.
-
-[https://black-dice-society.fandom.com/wiki/Characters](https://black-dice-society.fandom.com/wiki/Characters)
+Fen is a Drow Dhampir Warlock with a touch of mischief and sneakiness. She's loyal to those she cares for, a fearsome opponent for those who have earned her hate. Above all else, everything she's done has been for Isolde's freedom. Now she needs a new purpose to fight for, and maybe she can find it among the Society.
 
 # Basic Information
 
 Fen will be the new champion in the Midwinter event on 11 January 2023.
 
-* Seat: Unknown
-* Race: Drow Dhampir (Guess)
-* Class: Warlock (Guess)
-* Roles: DPS / Support (Both Guess)
+* Seat: 6
+* Race: Dhampir Drow
+* Class: Warlock / Rogue
+* Roles: DPS / Support
 * Gender: Female
-* Alignment: Unknown
+* Alignment: Chaotic Evil
 * Affiliation: Black Dice Society
-* Stats: Unknown
+* Stats:
+  * Str: 14
+  * Dex: 14
+  * Con: 16
+  * Int: 13
+  * Wis: 12
+  * Cha: 14
+* Patrons:
+  * Mirt
+  * Vajra
+  * Strahd
+  * Zariel
 
 # Formation
 
@@ -61,7 +71,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**Ultimate Attack: Form of Dread**
+**Ultimate Attack: Form of Dread (Level: 0)**
 > Fen transforms into her dread form. She sprouts wings, leaps into the air, and charges directly across the area, dealing one hit of ultimate damage to all enemies she passes and knocking them back a short distance.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -69,7 +79,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 {
     "description": "Fen sprouts wings and charges, dealing damage to all enemies and knocking them back.",
     "long_description": "Fen transforms into her dread form. She sprouts wings, leaps into the air, and charges directly across the area, dealing one hit of ultimate damage to all enemies she passes and knocking them back a short distance.",
-    "damage_modifier": 0.03,
+    "damage_modifier": 0.029999999999999999,
     "damage_types": ["melee"],
     "graphic_id": 17463,
     "target": "all",
@@ -98,11 +108,23 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**Mischievous, but Dangerous** (Guess)
+**Mischievous, but Dangerous (Level: 40)**
 > Fen increases the damage of all Champions in her column by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 40,
+    "effect": "effect_def,1363",
+    "tip_text": "Fen increases the damage of Champions in her column.",
+    "name": "Mischievous, but Dangerous",
+    "id": 9757,
+    "hero_id": 118,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [{
         "effect_string": "hero_dps_multiplier_mult,100",
@@ -123,11 +145,59 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**Warlock Pact**
-> Fen reduces the normal attack speed of all Warlocks in the formation by 0.1s for each point of Wisdom an adjacent Champion has above 10.
+**Patron's Oath (Level: 60)**
+> While Fen is in the formation and you are in a patron variant or free play, patron challenge progress made by her party is increased by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 60,
+    "effect": "effect_def,1366",
+    "tip_text": "Fen increases the amount of progress credited in Patron Challenges in the party she is in.",
+    "name": "Patron's Oath",
+    "id": 9760,
+    "hero_id": 118,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "buff_patron_challenge_progress,100"
+    }],
+    "requirements": "",
+    "description": {"desc": "While $(source_hero) is in the formation and you are in a patron variant or free play, patron challenge progress made by her party is increased by $(amount)%."},
+    "id": 1366,
+    "flavour_text": "",
+    "graphic_id": 17459,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Warlock Pact (Level: 80)**
+> Fen reduces the normal attack speed of all Warlocks in the formation by `$(seconds_plural amount)` for each point of Wisdom an adjacent Champion has above `$(subtract_from_stat___2)`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 80,
+    "effect": "effect_def,1364",
+    "name": "Warlock Pact",
+    "id": 9758,
+    "hero_id": 118,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -172,11 +242,22 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**I've Got You, Friends** (Guess)
+**I've Got You, Friends (Level: 160)**
 > Fen increases the effect of Mischievous, but Dangerous by `$(amount)%` for each Champion in the formation that is either a Black Dice Society affiliation member or has a WIS of 15+, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 160,
+    "effect": "effect_def,1365",
+    "name": "I've Got You, Friends",
+    "id": 9759,
+    "hero_id": 118,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [{
         "stack_title": "Relevant Champions",
@@ -214,24 +295,48 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**Patron Pact** (Guess)
-> While Fen is in the formation and you are in a patron variant or free play, patron challenge progress made by her party is increased by `$(amount)%`.
+# Specialisations
+
+**Curse of the Dhampir (Level: 140)**
+> Fen embraces her Dhampir heritage and increases her damage by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "off_when_benched": true,
-        "effect_string": "buff_patron_challenge_progress,100"
-    }],
+    "static_dps_mult": null,
+    "specialization_name": "Curse of the Dhampir",
+    "required_level": 140,
+    "effect": "effect_def,1368",
+    "name": "Curse of the Dhampir",
+    "specialization_graphic_id": 17461,
+    "id": 9762,
+    "hero_id": 118,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Fen focuses on her Dhampir heritage, dealing much more damage."
+}
+{
+    "effect_keys": [
+        {"effect_string": "hero_dps_multiplier_mult,1000"},
+        {
+            "skin_property_prefix": "spec_2_overlay",
+            "effect_string": "animation_synced_overlay,17498"
+        }
+    ],
     "requirements": "",
-    "description": {"desc": "While $(source_hero) is in the formation and you are in a patron variant or free play, patron challenge progress made by her party is increased by $(amount)%."},
-    "id": 1366,
+    "description": {"desc": "$(source_hero) embraces her Dhampir heritage and increases her damage by $(amount)%."},
+    "id": 1368,
     "flavour_text": "",
-    "graphic_id": 17459,
+    "graphic_id": 0,
     "properties": {
+        "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -239,13 +344,25 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-# Specialisations
-
-**Shadows of the Underdark**
-> Fen imbues her blade with eldritch energy, increasing the effect of Mischievous, but Dangerous by `$(amount)%` and causing her normal attack to deal an additional 5 seconds of BUD based damage with each hit.
+**Shadows of the Underdark (Level: 140)**
+> Fen imbues her blade with eldritch energy, increasing the effect of `$(upgrade_name id)` by `$(amount)%` and causing her normal attack to deal an additional 5 seconds of BUD based damage with each hit.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Shadows of the Underdark",
+    "required_level": 140,
+    "effect": "effect_def,1367",
+    "name": "Shadows of the Underdark",
+    "specialization_graphic_id": 17462,
+    "id": 9761,
+    "hero_id": 118,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Fen focuses on her eldritch blade, increasing her support and dealing additional damage."
+}
 {
     "effect_keys": [
         {"effect_string": "buff_upgrade,100,9757"},
@@ -275,55 +392,35 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**Curse of the Dhampir**
-> Fen embraces her Dhampir heritage and increases her damage by `$(amount)%`.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [
-        {"effect_string": "hero_dps_multiplier_mult,1000"},
-        {
-            "skin_property_prefix": "spec_2_overlay",
-            "effect_string": "animation_synced_overlay,17498"
-        }
-    ],
-    "requirements": "",
-    "description": {"desc": "$(source_hero) embraces her Dhampir heritage and increases her damage by $(amount)%."},
-    "id": 1368,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "indexed_effect_properties": true,
-        "is_formation_ability": true,
-        "default_bonus_index": 0,
-        "owner_use_outgoing_description": true,
-        "type": "upgrade",
-        "formation_circle_icon": false,
-        "per_effect_index_bonuses": true
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
 # Items
 
-1. Armor Pieces
-2. Coat
-3. Isolde Items
-4. Snacks
-5. Sword
-6. Thieves' Tools
+1. Shared Tattoo - Self DPS
+2. Feywild Duster - All Champion Damage
+3. Armored Layer - Mischievous, but Dangerous
+4. Dire Devices - I've Got You, Friends
+5. Nepenthe - All Specialisations
+6. Feywild Candy - Ultimate Cooldown Reduction
 
 # Feats
 
-Unknown.
+| Feat | Effect | Source |
+|---|---|---|
+| `Selflessness` | 10% All Champion Damage | Free |
+| `Inspiring Leader` | 25% All Champion Damage | Gold Chest |
+| `Tavern Brawler` | 30% Self DPS | Free |
+| `Grappler` | 60% Self DPS | 12,500 Gems |
+| `Never See it Coming` | 20% Mischievous, but Dangerous | Free |
+| `I Know What I Am` | 40% I've Got You, Friends | Gold Chest |
+| `Loyal Friend` | 40% All Specialisations | 12,500 Gems |
+| `I Don't Trust This` | 200% Patron's Oath | 50,000 Gems |
 
 # Legendaries
 
-Unknown.
+* Increases the damage of all Champions by 100%.
+* Increases the damage of all Champions with a STR score of 11 or higher by 100%.
+* Increases the damage of all Evil Champions by 150%.
+* Increases the damage of all Champions by 20% for each Female Champion in the formation.
+* Increases the damage of all Champions by 20% for each Champion with a WIS score of 11 or higher in the formation.
 
 [Back to Top](#top)
 
