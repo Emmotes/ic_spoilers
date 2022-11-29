@@ -117,7 +117,7 @@ Date of release: 11 Jan 2023
 Contents:
 * Champion: `Fen`
 * Skin: `Vampiric Darklord Fen`
-* Feat: `???`
+* Feat: `I Don't Trust This (Fen)`
 * Familiar: `Izzy the Vampire Bat`
 * Chests: `Gold Fen Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
