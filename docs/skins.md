@@ -25,10 +25,10 @@ Most skins are real money purchases only.
 | Artemis | `Champion of Tovag Artemis` | Champion of Tovag Artemis Skin & Feat Pack | $9.99 | 25 Jan 2023 |
 | Krull | `Knight of Takhisis Krull` | Knight of Takhisis Krull Skin & Feat Pack | $9.99 | 25 Jan 2023 |
 | Torogar | `Knight of Takhisis Torogar` | Knight of Takhisis Torogar Skin & Feat Pack | $9.99 | 25 Jan 2023 |
-| Baeloth | `Flayer Hunter Baeloth` | Season 2 Reward (Guess) | ??? | 01 Feb 2023 |
-| Delina | `Flayer Hunter Delina` | Season 2 Reward (Guess) | ??? | 01 Feb 2023 |
-| Imoen | `Flayer Hunter Imoen` | Season 2 Reward (Guess) | ??? | 01 Feb 2023 |
-| Minsc | `Flayer Hunter Minsc` | Season 2 Reward (Guess) | ??? | 01 Feb 2023 |
+| Baeloth | `Flayer Hunter Baeloth` | Gem Shop (Guess (Leak)) | ??? | 01 Feb 2023 |
+| Delina | `Flayer Hunter Delina` | Gem Shop (Guess (Leak)) | ??? | 01 Feb 2023 |
+| Imoen | `Flayer Hunter Imoen` | Gem Shop (Guess (Leak)) | ??? | 01 Feb 2023 |
+| Minsc | `Flayer Hunter Minsc` | Gem Shop (Guess (Leak)) | ??? | 01 Feb 2023 |
 | Nahara | `Blushing Bride Nahara` | Blushing Bride Nahara Skin & Feat Pack | $9.99 | 01 Feb 2023 |
 | Uriah | `Blushing Groom Uriah` | Blushing Groom Uriah Theme Pack | $24.99 | 01 Feb 2023 |
 | Aila | `Dragonlance Aila` | Dragonlance Aila Skin & Feat Pack | $9.99 | 10 Feb 2023 |
