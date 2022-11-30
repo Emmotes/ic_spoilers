@@ -8,7 +8,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
 | Lucius | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 30 Nov 2022 |
-| Orkira | `Gift of the Phoenix` | 80% Elemental Fire | 50,000 Gems | 30 Nov 2022 |
+| Orkira | `Gift of the Phoenix` | 80% Healing Flame | 50,000 Gems | 30 Nov 2022 |
 | Warduke | `A New Leaf` | Stat: +2 Charisma | 50,000 Gems | 30 Nov 2022 |
 | Delina | `Burst of Magic` | 80% Surge of Power | 50,000 Gems | 14 Dec 2022 |
 | Imoen | `Indefatigable` | 80% Perseverance | 50,000 Gems | 21 Dec 2022 |
@@ -22,9 +22,14 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Artemis | `Weapon Master` | 120% Self DPS | 50,000 Gems | 25 Jan 2023 |
 | Krull | `Sworn to Service` | 80% Dark Order Synergy | 50,000 Gems | 25 Jan 2023 |
 | Torogar | `Devoted Shield` | 80% Markings of a Zealot | 50,000 Gems | 25 Jan 2023 |
-| Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 01 Feb 2023 |
+| Nahara | `A Sense of Self` | 80% Who Am I? | 50,000 Gems | 01 Feb 2023 |
+| Aila | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
+| Lucius | `Spell Master` | 120% Self DPS | 50,000 Gems | 10 Feb 2023 |
+| Nova | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
 | Qillek | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
+| Sentry | `Vicious Damage` | 400% Self DPS | 50,000 Gems | 10 Feb 2023 |
 | Lazaapz | `Kneecapper` | 80% Fury of the Small | 50,000 Gems | 15 Mar 2023 |
+| Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 29 Mar 2023 |
 
 [Back to Top](#top)
 

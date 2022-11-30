@@ -21,9 +21,24 @@ Most skins are real money purchases only.
 | Shandie | `Flayer Hunter Shandie` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
 | Viconia | `Flayer Hunter Viconia` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
 | Zorbu | `Dragonlance Zorbu` | Dragonlance Zorbu Theme Pack | $24.99 | 04 Jan 2023 |
-| B&G | `Vampire Hunter B&G` | ??? | ??? | 11 Jan 2023 |
+| B&G | `Vampire Hunter B&G` | Vampire Hunter Beadle & Grimm Skin & Feat Pack | $9.99 | 11 Jan 2023 |
 | Fen | `Vampiric Darklord Fen` | Vampiric Darklord Fen Theme Pack | $24.99 | 11 Jan 2023 |
-| Voronika | `Barovia Visitor Voronika` | ??? | ??? | 11 Jan 2023 |
+| Voronika | `Barovia Visitor Voronika` | Barovia Visitor Voronika Skin & Feat Pack | $9.99 | 11 Jan 2023 |
+| Arkhan | `Knight of Takhisis Arkhan` | Knight of Takhisis Arkhan Skin & Feat Pack | $9.99 | 25 Jan 2023 |
+| Artemis | `Champion of Tovag Artemis` | Champion of Tovag Artemis Skin & Feat Pack | $9.99 | 25 Jan 2023 |
+| Krull | `Knight of Takhisis Krull` | Knight of Takhisis Krull Skin & Feat Pack | $9.99 | 25 Jan 2023 |
+| Torogar | `Knight of Takhisis Torogar` | Knight of Takhisis Torogar Skin & Feat Pack | $9.99 | 25 Jan 2023 |
+| Baeloth | `Flayer Hunter Baeloth` | Season 2 Reward (Guess) | ??? | 01 Feb 2023 |
+| Delina | `Flayer Hunter Delina` | Season 2 Reward (Guess) | ??? | 01 Feb 2023 |
+| Imoen | `Flayer Hunter Imoen` | Season 2 Reward (Guess) | ??? | 01 Feb 2023 |
+| Minsc | `Flayer Hunter Minsc` | Season 2 Reward (Guess) | ??? | 01 Feb 2023 |
+| Nahara | `Blushing Bride Nahara` | Blushing Bride Nahara Skin & Feat Pack | $9.99 | 01 Feb 2023 |
+| Uriah | `Blushing Groom Uriah` | Blushing Groom Uriah Theme Pack | $24.99 | 01 Feb 2023 |
+| Aila | `Dragonlance Aila` | Dragonlance Aila Skin & Feat Pack | $9.99 | 10 Feb 2023 |
+| Lucius | `Dragonlance Lucius` | Dragonlance Lucius Skin & Feat Pack | $9.99 | 10 Feb 2023 |
+| Nova | `Dragonlance Nova` | Dragonlance Nova Skin & Feat Pack | $9.99 | 10 Feb 2023 |
+| Qillek | `Dragonlance Qillek` | Dragonlance Qillek Skin & Feat Pack | $9.99 | 10 Feb 2023 |
+| Sentry | `Dragonlance Sentry` | Dragonlance Sentry Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 
 [Back to Top](#top)
 
