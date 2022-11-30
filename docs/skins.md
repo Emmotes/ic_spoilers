@@ -7,9 +7,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|---:|---:|
-| Lucius | `Action Figure Lucius` | Action Figure Lucius Skin & Feat Pack | $9.99 | 30 Nov 2022 |
-| Orkira | `Action Figure Orkira` | Action Figure Orkira Skin & Feat Pack | $9.99 | 30 Nov 2022 |
-| Warduke | `Action Figure Warduke` | Action Figure Warduke Theme Pack | $24.99 | 30 Nov 2022 |
 | Lazaapz | `Spelljammer Lazaapz` | ??? | ??? | 14 Dec 2022 |
 | Delina | `Spelljammer Delina` | Spelljammer Delina Skin & Feat Pack | $9.99 | 14 Dec 2022 |
 | Widdle | `A Widdle Darklord` | Champions of Renown: Year 5 All-Star Pack | $54.99 | 14 Dec 2022 |

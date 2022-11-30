@@ -3,44 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Action Figure Lucius Skin & Feat Pack - $9.99
-Date of release: 30 Nov 2022
-
-Contents:
-* Champion: `Lucius`
-* Skin: `Action Figure Lucius`
-* Feat: `Scholar (Lucius)`
-* Chests: `Gold Lucius Chest` x7 (Shinies x1)
-
-## Action Figure Orkira Skin & Feat Pack - $9.99
-Date of release: 30 Nov 2022
-
-Contents:
-* Champion: `Orkira`
-* Skin: `Action Figure Orkira`
-* Feat: `Gift of the Phoenix (Orkira)`
-* Chests: `Gold Orkira Chest` x7 (Shinies x1)
-
-## Action Figure Warduke Theme Pack - $24.99
-Date of release: 30 Nov 2022
-
-Contents:
-* Champion: `Warduke`
-* Skin: `Action Figure Warduke`
-* Feat: `A New Leaf (Warduke)`
-* Familiar: `Baby Nightmare`
-* Chests: `Gold Warduke Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-## Blaze the Fire Elemental Familiar Pack - $4.99
-Date of release: 30 Nov 2022
-
-Contents:
-* Familiar: `Blaze the Fire Elemental`
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-
 ## Champions of Renown: Year 5 All-Star Pack - $54.99
 Date of release: 14 Dec 2022
 
@@ -231,24 +193,24 @@ Date of release: 01 Feb 2023
 
 Contents:
 * Chests: `Gold Chest (Guess)` x5 (Shinies x1)
-* ??? {"gild_level":2,"type":"loot","loot_id":28}
-* ??? {"type":"loot","loot_id":31}
-* ??? {"type":"loot","loot_id":35}
-* ??? {"type":"loot","loot_id":39}
-* ??? {"type":"loot","loot_id":43}
-* ??? {"type":"loot","loot_id":47}
+* Loot: `Celeste Item (Slot 1)` (GE)
+* Loot: `Celeste Item (Slot 2)` (Rare)
+* Loot: `Celeste Item (Slot 3)` (Rare)
+* Loot: `Celeste Item (Slot 4)` (Rare)
+* Loot: `Celeste Item (Slot 5)` (Rare)
+* Loot: `Celeste Item (Slot 6)` (Rare)
 
 ## Nayeli Starter Pack - $9.99
 Date of release: 01 Feb 2023
 
 Contents:
 * Chests: `Gold Chest (Guess)` x5 (Shinies x1)
-* ??? {"gild_level":2,"type":"loot","loot_id":52}
-* ??? {"type":"loot","loot_id":55}
-* ??? {"type":"loot","loot_id":59}
-* ??? {"type":"loot","loot_id":63}
-* ??? {"type":"loot","loot_id":67}
-* ??? {"type":"loot","loot_id":71}
+* Loot: `Nayeli Item (Slot 1)` (GE)
+* Loot: `Nayeli Item (Slot 2)` (Rare)
+* Loot: `Nayeli Item (Slot 3)` (Rare)
+* Loot: `Nayeli Item (Slot 4)` (Rare)
+* Loot: `Nayeli Item (Slot 5)` (Rare)
+* Loot: `Nayeli Item (Slot 6)` (Rare)
 
 ## Dragonlance Aila Skin & Feat Pack - $9.99
 Date of release: 10 Feb 2023

@@ -7,9 +7,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
-| Lucius | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 30 Nov 2022 |
-| Orkira | `Gift of the Phoenix` | 80% Healing Flame | 50,000 Gems | 30 Nov 2022 |
-| Warduke | `A New Leaf` | Stat: +2 Charisma | 50,000 Gems | 30 Nov 2022 |
 | Delina | `Burst of Magic` | 80% Surge of Power | 50,000 Gems | 14 Dec 2022 |
 | Imoen | `Indefatigable` | 80% Perseverance | 50,000 Gems | 21 Dec 2022 |
 | Viconia | `Restless Undead` | 50% ???: 9752 | Gold Chest | 21 Dec 2022 |
