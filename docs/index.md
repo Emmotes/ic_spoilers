@@ -6,8 +6,6 @@ Of course - spoilers are subject to change at any time. Don't plan any major lif
 # Champions
 These are the champions that are upcoming and all the information we know about them.
 
-* Simril - 30 November 2022
-  * [Warduke](warduke.md) - Human Fighter
 * Wintershield - 21 December 2022
   * [Imoen](imoen.md) - Human Rogue/Wizard of Heroes of Baldur's Gate
 * Midwinter - 11 January 2023
