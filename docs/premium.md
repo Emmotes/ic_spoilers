@@ -193,24 +193,24 @@ Date of release: 01 Feb 2023
 
 Contents:
 * Chests: `Gold Chest (Guess)` x5 (Shinies x1)
-* Loot: `Celeste Item (Slot 1)` (GE)
-* Loot: `Celeste Item (Slot 2)` (Rare)
-* Loot: `Celeste Item (Slot 3)` (Rare)
-* Loot: `Celeste Item (Slot 4)` (Rare)
-* Loot: `Celeste Item (Slot 5)` (Rare)
-* Loot: `Celeste Item (Slot 6)` (Rare)
+* Loot: `Celeste Item (Slot 1 Golden Epic)`
+* Loot: `Celeste Item (Slot 2 Rare)`
+* Loot: `Celeste Item (Slot 3 Rare)`
+* Loot: `Celeste Item (Slot 4 Rare)`
+* Loot: `Celeste Item (Slot 5 Rare)`
+* Loot: `Celeste Item (Slot 6 Rare)`
 
 ## Nayeli Starter Pack - $9.99
 Date of release: 01 Feb 2023
 
 Contents:
 * Chests: `Gold Chest (Guess)` x5 (Shinies x1)
-* Loot: `Nayeli Item (Slot 1)` (GE)
-* Loot: `Nayeli Item (Slot 2)` (Rare)
-* Loot: `Nayeli Item (Slot 3)` (Rare)
-* Loot: `Nayeli Item (Slot 4)` (Rare)
-* Loot: `Nayeli Item (Slot 5)` (Rare)
-* Loot: `Nayeli Item (Slot 6)` (Rare)
+* Loot: `Nayeli Item (Slot 1 Golden Epic)`
+* Loot: `Nayeli Item (Slot 2 Rare)`
+* Loot: `Nayeli Item (Slot 3 Rare)`
+* Loot: `Nayeli Item (Slot 4 Rare)`
+* Loot: `Nayeli Item (Slot 5 Rare)`
+* Loot: `Nayeli Item (Slot 6 Rare)`
 
 ## Dragonlance Aila Skin & Feat Pack - $9.99
 Date of release: 10 Feb 2023
