@@ -133,7 +133,7 @@ For those worried about the lack of Ranger Training specialisation here. Don't. 
 
 ## Viconia
 
-**Yesterday's Undead** (Guess)
+**Yesterday's Dead** (Guess)
 > Whenever a non-boss, non-static, non-undead enemy spawns there is a `$(amount)%` chance that it spawns as an undead version of itself while also retaining its original tags.
 
 # Other Heroes of Baldur's Gate
