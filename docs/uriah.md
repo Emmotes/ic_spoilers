@@ -308,12 +308,14 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 
 # Items
 
-1. Books
-2. Mace
-3. Nahara Links
-4. NPC Links
-5. Shield
-6. Tricorn
+| Slot | Name | Type |
+|---|---|---|
+| 1 | `Books` | Unknown |
+| 2 | `Mace` | Unknown |
+| 3 | `Nahara Links` | Unknown |
+| 4 | `NPC Links` | Unknown |
+| 5 | `Shield` | Unknown |
+| 6 | `Tricorn` | Unknown |
 
 # Feats
 

@@ -500,12 +500,14 @@ Imoen will be the new champion in the Wintershield event on 21 December 2022.
 
 # Items
 
-1. Sword of Power - All Champion Damage
-2. Protector of the Dryads Bow - Optimism
-3. Arrows of Slaying - Perseverance
-4. Tome of Magic - Stoneskin
-5. Master Thief's Set - Ultimate Damage
-6. Trickster's Armor - Ultimate Cooldown Reduction
+| Slot | Epic Name | Type |
+|---|---|---|
+| 1 | `Sword of Power` | All Champion Damage |
+| 2 | `Protector of the Dryads Bow` | Optimism |
+| 3 | `Arrows of Slaying` | Perseverance |
+| 4 | `Tome of Magic` | Stoneskin |
+| 5 | `Master Thief's Set` | Ultimate Damage |
+| 6 | `Trickster's Armor` | Ultimate Cooldown Reduction |
 
 # Feats
 

@@ -391,12 +391,14 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 
 # Items
 
-1. Shared Tattoo - Self DPS
-2. Feywild Duster - All Champion Damage
-3. Armored Layer - Mischievous, but Dangerous
-4. Dire Devices - I've Got You, Friends
-5. Nepenthe - All Specialisations
-6. Feywild Candy - Ultimate Cooldown Reduction
+| Slot | Epic Name | Type |
+|---|---|---|
+| 1 | `Shared Tattoo` | Self DPS |
+| 2 | `Feywild Duster` | All Champion Damage |
+| 3 | `Armored Layer` | Mischievous, but Dangerous |
+| 4 | `Dire Devices` | I've Got You, Friends |
+| 5 | `Nepenthe` | All Specialisations |
+| 6 | `Feywild Candy` | Ultimate Cooldown Reduction |
 
 # Feats
 
