@@ -19,7 +19,7 @@ Warduke will be the new champion in the Simril event on 29 November 2023.
 * Alignment: Chaotic Evil
 * Affiliation: None
 
-| Stat | Value | Day 1 Trials | Patrons |
+| Stat | Value | Day 1 Trials |
 |---|---|---|
 | Strength | 19 | Yes |
 | Dexterity | 11 | - |
