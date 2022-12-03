@@ -18,18 +18,15 @@ Imoen will be the new champion in the Wintershield event on 21 December 2022.
 * Gender: Female
 * Alignment: Neutral Good
 * Affiliation: Heroes of Baldur's Gate
-* Stats:
-  * Str: 9
-  * Dex: 18
-  * Con: 16
-  * Int: 17
-  * Wis: 11
-  * Cha: 16
-* Patrons:
-  * Mirt
-  * Vajra
-  * Strahd
-  * Zariel (with Feat)
+
+| Stat | Value | Day 1 Trials | Patrons |
+|---|---|---|---|
+| Strength | 9 | Yes | Mirt |
+| Dexterity | 18 | Yes | Vajra |
+| Constitution | 16 | Yes | Strahd |
+| Intelligence | 17 | Yes | Zariel (with Feat) |
+| Wisdom | 11 | Yes | |
+| Charisma | 16 | Yes | |
 
 # Formation
 
@@ -527,11 +524,11 @@ Imoen will be the new champion in the Wintershield event on 21 December 2022.
 # Legendaries
 
 * Increases the damage of all Champions by 100%.
-* Increases the damage of all Human Champions by 150%.
-* Increases the damage of all Champions with a CON score of 13 or higher by 150%.
-* Increases the damage of all Champions with a CHA score of 11 or higher by 100%.
-* Increases the damage of all Good Champions by 150%.
 * Increases the damage of all Champions by 20% for each Male Champion in the formation.
+* Increases the damage of all Human Champions by 150%.
+* Increases the damage of all Champions with a CHA score of 11 or higher by 100%.
+* Increases the damage of all Champions with a CON score of 13 or higher by 150%.
+* Increases the damage of all Good Champions by 150%.
 
 [Back to Top](#top)
 
