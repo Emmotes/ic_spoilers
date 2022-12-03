@@ -342,7 +342,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 <br />
 
 **Shadows of the Underdark (Level: 140)**
-> Fen imbues her blade with eldritch energy, increasing the effect of `$(upgrade_name id)` by `$(amount)%` and causing her normal attack to deal an additional 5 seconds of BUD based damage with each hit.
+> Fen imbues her blade with eldritch energy, increasing the effect of Mischievous, but Dangerous by `$(amount)%` and causing her normal attack to deal an additional 5 seconds of BUD based damage with each hit.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
