@@ -19,14 +19,14 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 * Alignment: Chaotic Evil
 * Affiliation: Black Dice Society
 
-| Stats | Day 1 Trials | Patrons |
+| Stat | Value | Day 1 Trials | Patrons |
 |---|---|---|
-| Str: 14 | Yes | Mirt |
-| Dex: 14 | Yes | Vajra |
-| Con: 16 | Yes | Strahd |
-| Int: 13 | Yes | Zariel |
-| Wis: 12 | Yes | |
-| Cha: 14 | Yes | |
+| Strength | 14 | Yes | Mirt |
+| Dexterity | 14 | Yes | Vajra |
+| Constitution | 16 | Yes | Strahd |
+| Intelligence | 13 | Yes | Zariel |
+| Wisdom | 12 | Yes | |
+| Charisma | 14 | Yes | |
 
 # Formation
 
