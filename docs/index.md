@@ -21,6 +21,7 @@ Miscellaneous spoilers.
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
+* [Weekends](weekends.md)
 
 [Back to Top](#top)
 
