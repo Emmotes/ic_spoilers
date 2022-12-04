@@ -1,9 +1,9 @@
 [Back to Main](index.md)
 
 # Upcoming Weekends
-Here are the upcoming weekends with their *estimated* dates and current champions.
+Here are the upcoming weekends with their *estimated* dates - the *estimated* purchase reward - and the current champions.
 
-*Note: Champions in the first champion column (in bold) are the most likely to receive the purchase reward.*
+*Note: The first champion column (in bold) are the ones most likely to receive the purchase reward.*
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|---|---|---|---|---|---|---|
@@ -20,7 +20,7 @@ Here are the upcoming weekends with their *estimated* dates and current champion
 | Sword of Koshmarr | 17 Feb 2023 | ??? | ??? | ??? | ??? | ??? | ??? |
 | Savage Paladin | ??? | **Briv** | Jarlaxle | Delina | Dob | Gromma | ??? |
 
-*This page is produced by Shikao the Returned.*
+*This page is made with the help of Shikao the Returned.*
 
 [Back to Top](#top)
 
