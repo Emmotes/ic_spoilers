@@ -1,7 +1,7 @@
 [Back to Main](index.md)
 
 # Upcoming Weekends
-Here are the upcoming weekends with their *estimated* dates - the *estimated* purchase reward - and the current champions.
+Here are the upcoming weekends with their *estimated* dates - the *estimated* purchase reward - and the current expected champions.
 
 *Note: The first champion column (in bold) are the ones most likely to receive the purchase reward.*
 
