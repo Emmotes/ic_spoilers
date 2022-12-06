@@ -12,6 +12,8 @@ These are the champions that are upcoming and all the information we know about 
   * [Fen](fen.md) - Dhampir Drow Warlock/Rogue of Black Dice Society
 * Grand Revel - 1 February 2023
   * [Uriah](uriah.md) - Human Cleric of Black Dice Society
+* Fleetswake - 22 February 2023
+  * [Solaak](solaak.md) - Unknown Unknown of Unknown
 
 # Misc
 Miscellaneous spoilers.
