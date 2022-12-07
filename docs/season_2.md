@@ -1,10 +1,10 @@
 [Back to Main](index.md)
 
 # Season 2
-Season 2's speculative release date will be 21 December 2022.
+The champion changes and time gate cost reduction will all be going live on 14 December 2022 - while the actual Season 2 start date will be 21 December 2022.
 
 # Theme
-The theme for Season 2 will be Baldur's Gate - with Nerys Shandie Krydle Jaheira and Viconia being the target champions.
+The theme for Season 2 will be Baldur's Gate - with Nerys Shandie Krydle Jaheira and Viconia being the target champions. These are the ones that will get the time gate cost reduction - and also likely a 3-week window for Dismantling.
 
 ![Season 2 Profile](images/portrait_s2.png)
 
