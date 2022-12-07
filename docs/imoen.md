@@ -183,7 +183,7 @@ Imoen will be the new champion in the Wintershield event on 21 December 2022.
 <br />
 
 **Perseverance (Level: 60)**
-> Any time any Champion's Favored Foe appears or is defeated, Imoen increases the effect of Optimism by `$(amount)%`, stacking multiplicatively and then applying multiplicatively. Stacks up to `$(max_stacks)` times. Stacks are reset each time the Champions change areas.
+> Any time any Champion's Favored Foe appears or is defeated, Imoen increases the effect of Optimism by `$(not_buffed amount)%`, stacking multiplicatively and then applying multiplicatively. Stacks up to `$(max_stacks)` times. Stacks are reset each time the Champions change areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -219,7 +219,7 @@ Imoen will be the new champion in the Wintershield event on 21 December 2022.
         "stacks_on_trigger": "favored_foe_spawned"
     }],
     "requirements": "",
-    "description": {"desc": "Any time any Champion's Favored Foe appears or is defeated, $(source_hero) increases the effect of $(upgrade_name id) by $(amount)%, stacking multiplicatively and then applying multiplicatively. Stacks up to $(max_stacks) times. Stacks are reset each time the Champions change areas."},
+    "description": {"desc": "Any time any Champion's Favored Foe appears or is defeated, $(source_hero) increases the effect of $(upgrade_name id) by $(not_buffed amount)%, stacking multiplicatively and then applying multiplicatively. Stacks up to $(max_stacks) times. Stacks are reset each time the Champions change areas."},
     "id": 1296,
     "flavour_text": "",
     "graphic_id": 17143,
