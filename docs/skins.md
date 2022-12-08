@@ -36,6 +36,21 @@ Most skins are real money purchases only.
 | Nova | `Dragonlance` | Dragonlance Nova Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Qillek | `Dragonlance` | Dragonlance Qillek Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Sentry | `Dragonlance` | Dragonlance Sentry Skin & Feat Pack | $9.99 | 10 Feb 2023 |
+| Corazon | `Dragonlance Corazón` | ??? | ??? | 20 Feb 2023 |
+| Dob | `Dragonlance` | ??? | ??? | 20 Feb 2023 |
+| Egbert | `Dragonlance` | ??? | ??? | 20 Feb 2023 |
+| Merilwen | `Dragonlance` | ??? | ??? | 20 Feb 2023 |
+| Prudence | `Dragonlance` | ??? | ??? | 20 Feb 2023 |
+| Rust | `Dragonlance` | ??? | ??? | 20 Feb 2023 |
+| Jaheira | `Dragonlance` | ??? | ??? | 22 Feb 2023 |
+| Krydle | `Dragonlance` | ??? | ??? | 22 Feb 2023 |
+| Nerys | `Dragonlance` | ??? | ??? | 22 Feb 2023 |
+| Solaak | `Dragonlance` | ??? | ??? | 22 Feb 2023 |
+| Baeloth | `Dragonlance` | ??? | ??? | 01 Mar 2023 |
+| Imoen | `Dragonlance` | ??? | ??? | 01 Mar 2023 |
+| Viconia | `Dragonlance` | ??? | ??? | 01 Mar 2023 |
+| Hew Maan | `Vecna Maan` | ??? | ??? | 08 Mar 2023 |
+| Miria | `Dragonlance` | ??? | ??? | 15 Mar 2023 |
 
 [Back to Top](#top)
 

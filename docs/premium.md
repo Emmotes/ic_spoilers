@@ -282,6 +282,16 @@ Contents:
 * Feat: `Vicious Damage (Sentry)`
 * Chests: `Gold Sentry Chest` x7 (Shinies x1)
 
+## Misty the Will-o'-Wisp Familiar Pack - $9.99
+Date of release: 15 Feb 2023
+
+Contents:
+* Familiar: `Misty the Will-o'-Wisp`
+* Buff: `Huge Potion of Speed` x4
+* Buff: `Huge Potion of Giant's Strength` x4
+* Buff: `Huge Potion of Clairvoyance` x4
+* Buff: `Potion of Polish` x1
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*

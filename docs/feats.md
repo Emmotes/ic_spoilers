@@ -25,7 +25,13 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Nova | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
 | Qillek | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
 | Sentry | `Vicious Damage` | 400% Self DPS | 50,000 Gems | 10 Feb 2023 |
-| Lazaapz | `Kneecapper` | 80% Fury of the Small | 50,000 Gems | 15 Mar 2023 |
+| Corazon | `Notorious` | 80% G.O.A.T. Pirate | 50,000 Gems | 20 Feb 2023 |
+| Dob | `With the Band` | 80% Traveling Entertainer | 50,000 Gems | 20 Feb 2023 |
+| Egbert | `Gifts of La Vache Mauve` | 80% Golden Scales | 50,000 Gems | 20 Feb 2023 |
+| Merilwen | `Nest Egg` | 80% Liquidity | 50,000 Gems | 20 Feb 2023 |
+| Prudence | `Gloat` | 80% Glee | 50,000 Gems | 20 Feb 2023 |
+| Rust | `Big Spender` | 80% One Gold Piece | 50,000 Gems | 20 Feb 2023 |
+| Lazaapz | `Kneecapper` | 80% Fury of the Small | ??? | 15 Mar 2023 |
 | Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 29 Mar 2023 |
 
 [Back to Top](#top)
