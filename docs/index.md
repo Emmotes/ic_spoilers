@@ -14,6 +14,8 @@ These are the champions that are upcoming and all the information we know about 
   * [Uriah](uriah.md) - Human Cleric of Black Dice Society
 * Fleetswake - 22 February 2023
   * [Solaak](solaak.md) - Unknown Unknown of Unknown
+* Festival of Fools - 15 March 2023 (Guess)
+  * [Miria](miria.md) - Unknown Unknown of Unknown
 
 # Misc
 Miscellaneous spoilers.
