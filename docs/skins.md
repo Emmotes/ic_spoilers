@@ -7,7 +7,7 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|---:|---:|
-| Lazaapz | `Spelljammer` | ??? | ??? | 14 Dec 2022 |
+| Lazaapz | `Spelljammer` | Winterfest (Season Celebration) | 4 Days | 14 Dec 2022 |
 | Delina | `Spelljammer` | Spelljammer Delina Skin & Feat Pack | $9.99 | 14 Dec 2022 |
 | Widdle | `A Darklord` | Champions of Renown: Year 5 All-Star Pack | $54.99 | 14 Dec 2022 |
 | Jaheira | `Solstice` | ??? | ??? | 21 Dec 2022 |
