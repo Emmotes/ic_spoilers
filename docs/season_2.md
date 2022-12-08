@@ -190,8 +190,14 @@ Some other champions - with favored-foe-like abilities - are also getting rework
 
 ## Turiel
 
+**Embodiment of the Law**
+> Turiel increases the damage of all Champions by `$(amount)%` for each column they are behind him, stacking multiplicatively.
+
+**Order's Demand**
+> When an enemy attempts to attack Turiel, they instead attack a different valid target, if one is available. When this occurs, Turiel increases the effect of Embodiment of the Law by `$amount%`, stacking multiplicatively up to 30 times and resetting stacks when changing areas.
+
 **Unflinching Hatred**
-> Fiends are Turiel's Favored Foe. After attacking a fiend-type enemy, Embodiment of the Law is increased by `$amount%` for 30 seconds. When Order's Demand redirects the attack of a fiend-type enemy, its effect is increased by `$amount%` for 30 seconds.
+> Fiends are Turiel's Favored Foe. After attacking a fiend-type enemy, Embodiment of the Law is increased by `$amount%`. When Order's Demand redirects the attack of a fiend-type enemy, its effect is increased by `$amount%` as well. Both effects last until you change areas.
 
 ## Zorbu
 
