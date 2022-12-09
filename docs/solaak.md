@@ -497,7 +497,7 @@ Unknown.
 <br />
 
 **Unwavering** (Guess)
-> Solaak's base attack speed is reduced by 2. Additionally, the effect of 10612 is increased to `$(new_amount___2)%` per stack.
+> Solaak's base attack speed is reduced by 2. Additionally, the effect of `$(upgrade_name id___2)` is increased to `$(new_amount___2)%` per stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
