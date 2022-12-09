@@ -14,9 +14,9 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 
 * Seat: Unknown
 * Race: Unknown
-* Class: Unknown
-* Roles: Unknown
-* Gender: Unknown
+* Class: Ranger (Guess)
+* Roles: Support (Guess)
+* Gender: Male (Guess)
 * Alignment: Unknown
 * Affiliation: Unknown
 * Stats: Unknown
