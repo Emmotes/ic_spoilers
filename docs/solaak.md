@@ -378,7 +378,7 @@ Unknown.
 <br />
 
 **Emboldened**
-> Solaak's normal attack deals damage to all enemies in a small radius and all enemies hit take an additional 400% damage for 5 seconds.
+> Solaak's normal attack deals damage to all enemies in a small radius and all enemies hit take an additional `$(debuff_amount)%` damage for `$(debuff_duration)` seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -391,10 +391,11 @@ Unknown.
                 "stack_across_effects": true,
                 "for_time": "$debuff_duration",
                 "time_stack_type": "time_reset",
-                "active_graphic_id": 10110,
+                "active_graphic_y": -70,
+                "active_graphic_id": 18188,
                 "effect_string": "increase_monster_damage,$debuff_amount"
             }],
-            "effect_string": "solaak_emboldened",
+            "effect_string": "solaak_emboldened_debuff",
             "debuff_amount": 400,
             "debuffing_attack_ids": [597]
         },
@@ -404,7 +405,7 @@ Unknown.
         }
     ],
     "requirements": "",
-    "description": {"desc": "$(source_hero)'s normal attack deals damage to all enemies in a small radius and all enemies hit take an additional 400% damage for 5 seconds."},
+    "description": {"desc": "$(source_hero)'s normal attack deals damage to all enemies in a small radius and all enemies hit take an additional $(debuff_amount)% damage for $(debuff_duration) seconds."},
     "id": 1395,
     "flavour_text": "",
     "graphic_id": 0,
