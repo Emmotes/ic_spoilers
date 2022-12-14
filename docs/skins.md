@@ -7,9 +7,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|---:|---:|
-| Lazaapz | `Spelljammer` | Winterfest (Season Celebration) | 4 Days | 14 Dec 2022 |
-| Delina | `Spelljammer` | Spelljammer Delina Skin & Feat Pack | $9.99 | 14 Dec 2022 |
-| Widdle | `A Darklord` | Champions of Renown: Year 5 All-Star Pack | $54.99 | 14 Dec 2022 |
 | Jaheira | `Solstice` | Newsletter Code | Free | 21 Dec 2022 |
 | Imoen | `Mystic Trickster` | Mystic Trickster Imoen Theme Pack | $24.99 | 21 Dec 2022 |
 | Jaheira | `Flayer Hunter` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
@@ -36,12 +33,12 @@ Most skins are real money purchases only.
 | Nova | `Dragonlance` | Dragonlance Nova Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Qillek | `Dragonlance` | Dragonlance Qillek Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Sentry | `Dragonlance` | Dragonlance Sentry Skin & Feat Pack | $9.99 | 10 Feb 2023 |
-| Corazon | `Dragonlance` | ??? | ??? | 20 Feb 2023 |
-| Dob | `Dragonlance` | ??? | ??? | 20 Feb 2023 |
-| Egbert | `Dragonlance` | ??? | ??? | 20 Feb 2023 |
-| Merilwen | `Dragonlance` | ??? | ??? | 20 Feb 2023 |
-| Prudence | `Dragonlance` | ??? | ??? | 20 Feb 2023 |
-| Rust | `Dragonlance` | ??? | ??? | 20 Feb 2023 |
+| Corazon | `Dragonlance` | Dragonlance Corazón Skin & Feat Pack | $9.99 | 20 Feb 2023 |
+| Dob | `Dragonlance` | Dragonlance Dob Skin & Feat Pack | $9.99 | 20 Feb 2023 |
+| Egbert | `Dragonlance` | Dragonlance Egbert Skin & Feat Pack | $9.99 | 20 Feb 2023 |
+| Merilwen | `Dragonlance` | Dragonlance Merilwen Skin & Feat Pack | $9.99 | 20 Feb 2023 |
+| Prudence | `Dragonlance` | Dragonlance Prudence Skin & Feat Pack | $9.99 | 20 Feb 2023 |
+| Rust | `Dragonlance` | Dragonlance Rust Skin & Feat Pack | $9.99 | 20 Feb 2023 |
 | Jaheira | `Dragonlance` | ??? | ??? | 22 Feb 2023 |
 | Krydle | `Dragonlance` | ??? | ??? | 22 Feb 2023 |
 | Nerys | `Dragonlance` | ??? | ??? | 22 Feb 2023 |

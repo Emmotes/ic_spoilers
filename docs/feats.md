@@ -7,10 +7,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
-| Delina | `Burst of Magic` | 80% Surge of Power | 50,000 Gems | 14 Dec 2022 |
 | Imoen | `Indefatigable` | 80% Perseverance | 50,000 Gems | 21 Dec 2022 |
-| Viconia | `Restless Undead` | 50% ???: 9752 | Gold Chest | 21 Dec 2022 |
-| Viconia | `The Grave Rejects You` | 150% ???: 9752 | ??? | 21 Dec 2022 |
 | Zorbu | `Heavy Lifter` | Stat: +2 Strength | 50,000 Gems | 04 Jan 2023 |
 | Fen | `I Don't Trust This` | 200% Patron's Oath | 50,000 Gems | 11 Jan 2023 |
 | Grimm | `Power Up` | 80% Get Buff | 50,000 Gems | 11 Jan 2023 |
@@ -31,7 +28,11 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Merilwen | `Nest Egg` | 80% Liquidity | 50,000 Gems | 20 Feb 2023 |
 | Prudence | `Gloat` | 80% Glee | 50,000 Gems | 20 Feb 2023 |
 | Rust | `Big Spender` | 80% One Gold Piece | 50,000 Gems | 20 Feb 2023 |
-| Lazaapz | `Kneecapper` | 80% Fury of the Small | ??? | 15 Mar 2023 |
+| Krydle | `Taunt` | 400% Self DPS | 50,000 Gems | 22 Feb 2023 |
+| Nerys | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 22 Feb 2023 |
+| Baeloth | `Spectacle of Slaughter` | 80% Morbid Excitement Stacks | 50,000 Gems | 01 Mar 2023 |
+| Imoen | `Silver Linings` | 80% Optimism | 50,000 Gems | 01 Mar 2023 |
+| Viconia | `Singer of Eternal Night` | 80% Cleric of Shar | 50,000 Gems | 01 Mar 2023 |
 | Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 29 Mar 2023 |
 
 [Back to Top](#top)

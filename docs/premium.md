@@ -3,44 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Champions of Renown: Year 5 All-Star Pack - $54.99
-Date of release: 14 Dec 2022
-
-Contents:
-* Champion: `Dob`
-* Skin: `A Widdle Darklord`
-* Chests: `Gold Dob Chest` x16 (Shinies x2)
-* Champion: `Dungeon Master`
-* Chests: `Gold Dungeon Master Chest` x16 (Shinies x2)
-* Champion: `Widdle`
-* Chests: `Gold Widdle Chest` x16 (Shinies x2)
-* Champion: `Nordom`
-* Chests: `Gold Nordom Chest` x16 (Shinies x2)
-* Champion: `Valentine`
-* Chests: `Gold Valentine Chest` x16 (Shinies x2)
-
-## Scribbles the Candlekeep Mimic Familiar Pack - $14.99
-Date of release: 14 Dec 2022
-
-Contents:
-* Familiar: `Scribbles the Candlekeep Mimic`
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-
-## Spelljammer Delina Skin & Feat Pack - $9.99
-Date of release: 14 Dec 2022
-
-Contents:
-* Skin: `Spelljammer Delina`
-* Feat: `Burst of Magic (Delina)`
-* Chests: `Gold Supply Chest` x7
-* Buff: `Potion of Polish` x1
-
 ## Mystic Trickster Imoen Theme Pack - $24.99
 Date of release: 21 Dec 2022
 
@@ -291,6 +253,89 @@ Contents:
 * Buff: `Huge Potion of Giant's Strength` x4
 * Buff: `Huge Potion of Clairvoyance` x4
 * Buff: `Potion of Polish` x1
+
+## Dragonlance Corazón Skin & Feat Pack - $9.99
+Date of release: 20 Feb 2023
+
+Contents:
+* Champion: `Corazon`
+* Skin: `Dragonlance Corazón`
+* Feat: `Notorious (Corazon)`
+* Chests: `Gold Corazón Chest` x7 (Shinies x1)
+
+## Dragonlance Dob Skin & Feat Pack - $9.99
+Date of release: 20 Feb 2023
+
+Contents:
+* Champion: `Dob`
+* Skin: `Dragonlance Dob`
+* Feat: `With the Band (Dob)`
+* Chests: `Gold Dob Chest` x7 (Shinies x1)
+
+## Dragonlance Egbert Skin & Feat Pack - $9.99
+Date of release: 20 Feb 2023
+
+Contents:
+* Champion: `Egbert`
+* Skin: `Dragonlance Egbert`
+* Feat: `Gifts of La Vache Mauve (Egbert)`
+* Chests: `Gold Egbert Chest` x7 (Shinies x1)
+
+## Dragonlance Merilwen Skin & Feat Pack - $9.99
+Date of release: 20 Feb 2023
+
+Contents:
+* Champion: `Merilwen`
+* Skin: `Dragonlance Merilwen`
+* Feat: `Nest Egg (Merilwen)`
+* Chests: `Gold Merilwen Chest` x7 (Shinies x1)
+
+## Dragonlance Prudence Skin & Feat Pack - $9.99
+Date of release: 20 Feb 2023
+
+Contents:
+* Champion: `Prudence`
+* Skin: `Dragonlance Prudence`
+* Feat: `Gloat (Prudence)`
+* Chests: `Gold Prudence Chest` x7 (Shinies x1)
+
+## Dragonlance Rust Skin & Feat Pack - $9.99
+Date of release: 20 Feb 2023
+
+Contents:
+* Champion: `Rust`
+* Skin: `Dragonlance Rust`
+* Feat: `Big Spender (Rust)`
+* Chests: `Gold Rust Chest` x7 (Shinies x1)
+
+## Oxventurers' Dragonlance Bundle Pack - $44.95
+Date of release: 20 Feb 2023
+
+Contents:
+* Champion: `Corazon`
+* Skin: `Dragonlance Corazón`
+* Feat: `Notorious (Corazon)`
+* Chests: `Gold Corazón Chest` x7 (Shinies x1)
+* Champion: `Dob`
+* Skin: `Dragonlance Dob`
+* Feat: `With the Band (Dob)`
+* Chests: `Gold Dob Chest` x7 (Shinies x1)
+* Champion: `Egbert`
+* Skin: `Dragonlance Egbert`
+* Feat: `Gifts of La Vache Mauve (Egbert)`
+* Chests: `Gold Egbert Chest` x7 (Shinies x1)
+* Champion: `Merilwen`
+* Skin: `Dragonlance Merilwen`
+* Feat: `Nest Egg (Merilwen)`
+* Chests: `Gold Merilwen Chest` x7 (Shinies x1)
+* Champion: `Prudence`
+* Skin: `Dragonlance Prudence`
+* Feat: `Gloat (Prudence)`
+* Chests: `Gold Prudence Chest` x7 (Shinies x1)
+* Champion: `Rust`
+* Skin: `Dragonlance Rust`
+* Feat: `Big Spender (Rust)`
+* Chests: `Gold Rust Chest` x7 (Shinies x1)
 
 [Back to Top](#top)
 
