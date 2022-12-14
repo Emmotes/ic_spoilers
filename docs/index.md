@@ -20,7 +20,7 @@ These are the champions that are upcoming and all the information we know about 
 # Misc
 Miscellaneous spoilers.
 
-* [Season 2](season_2.md) - 21 December 2022
+* Season 3 - TBD
 * [Patron Perks](patron_perks.md) - "Early January"
 * [Feats](feats.md)
 * [Skins](skins.md)
