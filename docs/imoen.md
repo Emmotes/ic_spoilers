@@ -522,6 +522,7 @@ Imoen will be the new champion in the Wintershield event on 21 December 2022.
 | `Armor of Magic` | 20% Stoneskin | Free |
 | `Toughen Up!` | 40% Stoneskin | 12,500 Gems |
 | `I Lift Books` | Stat: +1 Strength | Gold Chest |
+| `Silver Linings` | 80% Optimism | 50,000 Gems |
 
 # Legendaries
 
