@@ -337,6 +337,73 @@ Contents:
 * Feat: `Big Spender (Rust)`
 * Chests: `Gold Rust Chest` x7 (Shinies x1)
 
+## Dragonlance Jaheira Theme Pack - $24.99
+Date of release: 22 Feb 2023
+
+Contents:
+* Champion: `Jaheira`
+* Skin: `Dragonlance Jaheira`
+* Feat: `Clear the Field (Jaheira)`
+* Familiar: `Baby Anhkolox`
+* Chests: `Gold Jaheira Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+
+## Dragonlance Krydle Skin & Feat Pack - $9.99
+Date of release: 22 Feb 2023
+
+Contents:
+* Champion: `Krydle`
+* Skin: `Dragonlance Krydle`
+* Feat: `Taunt (Krydle)`
+* Chests: `Gold Krydle Chest` x7 (Shinies x1)
+
+## Dragonlance Nerys Skin & Feat Pack - $9.99
+Date of release: 22 Feb 2023
+
+Contents:
+* Champion: `Nerys`
+* Skin: `Dragonlance Nerys`
+* Feat: `Prodigal Leader (Nerys)`
+* Chests: `Gold Nerys Chest` x7 (Shinies x1)
+
+## Dragonlance Solaak Theme Pack - $24.99
+Date of release: 22 Feb 2023
+
+Contents:
+* Champion: `Solaak`
+* Skin: `Dragonlance Solaak`
+* Feat: `Selflessness (Bruenor)`
+* Familiar: `Blue Dragonnel`
+* Chests: `Gold E8Y6 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+
+## Dragonlance Baeloth Skin & Feat Pack - $9.99
+Date of release: 01 Mar 2023
+
+Contents:
+* Champion: `Baeloth`
+* Skin: `Dragonlance Baeloth`
+* Feat: `Spectacle of Slaughter (Baeloth)`
+* Chests: `Gold Baeloth Chest` x7 (Shinies x1)
+
+## Dragonlance Imoen Skin & Feat Pack - $9.99
+Date of release: 01 Mar 2023
+
+Contents:
+* Champion: `Imoen`
+* Skin: `Dragonlance Imoen`
+* Feat: `Silver Linings (Imoen)`
+* Chests: `Gold Imoen Chest` x7 (Shinies x1)
+
+## Dragonlance Viconia Skin & Feat Pack - $9.99
+Date of release: 01 Mar 2023
+
+Contents:
+* Champion: `Viconia`
+* Skin: `Dragonlance Viconia`
+* Feat: `Singer of Eternal Night (Viconia)`
+* Chests: `Gold Viconia Chest` x7 (Shinies x1)
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*

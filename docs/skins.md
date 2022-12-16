@@ -39,13 +39,13 @@ Most skins are real money purchases only.
 | Merilwen | `Dragonlance` | Dragonlance Merilwen Skin & Feat Pack | $9.99 | 20 Feb 2023 |
 | Prudence | `Dragonlance` | Dragonlance Prudence Skin & Feat Pack | $9.99 | 20 Feb 2023 |
 | Rust | `Dragonlance` | Dragonlance Rust Skin & Feat Pack | $9.99 | 20 Feb 2023 |
-| Jaheira | `Dragonlance` | ??? | ??? | 22 Feb 2023 |
-| Krydle | `Dragonlance` | ??? | ??? | 22 Feb 2023 |
-| Nerys | `Dragonlance` | ??? | ??? | 22 Feb 2023 |
-| Solaak | `Dragonlance` | ??? | ??? | 22 Feb 2023 |
-| Baeloth | `Dragonlance` | ??? | ??? | 01 Mar 2023 |
-| Imoen | `Dragonlance` | ??? | ??? | 01 Mar 2023 |
-| Viconia | `Dragonlance` | ??? | ??? | 01 Mar 2023 |
+| Jaheira | `Dragonlance` | Dragonlance Jaheira Theme Pack | $24.99 | 22 Feb 2023 |
+| Krydle | `Dragonlance` | Dragonlance Krydle Skin & Feat Pack | $9.99 | 22 Feb 2023 |
+| Nerys | `Dragonlance` | Dragonlance Nerys Skin & Feat Pack | $9.99 | 22 Feb 2023 |
+| Solaak | `Dragonlance` | Dragonlance Solaak Theme Pack | $24.99 | 22 Feb 2023 |
+| Baeloth | `Dragonlance` | Dragonlance Baeloth Skin & Feat Pack | $9.99 | 01 Mar 2023 |
+| Imoen | `Dragonlance` | Dragonlance Imoen Skin & Feat Pack | $9.99 | 01 Mar 2023 |
+| Viconia | `Dragonlance` | Dragonlance Viconia Skin & Feat Pack | $9.99 | 01 Mar 2023 |
 | Hew Maan | `Vecna Maan` | ??? | ??? | 08 Mar 2023 |
 | Miria | `Dragonlance` | ??? | ??? | 15 Mar 2023 |
 
