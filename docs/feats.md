@@ -28,6 +28,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Merilwen | `Nest Egg` | 80% Liquidity | 50,000 Gems | 20 Feb 2023 |
 | Prudence | `Gloat` | 80% Glee | 50,000 Gems | 20 Feb 2023 |
 | Rust | `Big Spender` | 80% One Gold Piece | 50,000 Gems | 20 Feb 2023 |
+| Jaheira | `Clear the Field` | -10s stack time Persistent Focus | 50,000 Gems | 22 Feb 2023 |
 | Krydle | `Taunt` | 400% Self DPS | 50,000 Gems | 22 Feb 2023 |
 | Nerys | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 22 Feb 2023 |
 | Baeloth | `Spectacle of Slaughter` | 80% Morbid Excitement Stacks | 50,000 Gems | 01 Mar 2023 |
