@@ -20,7 +20,7 @@ These are the champions that are upcoming and all the information we know about 
 # Misc
 Miscellaneous spoilers.
 
-* Season 3 - TBD
+* [Season 3](season_3.md) - TBD
 * [Patron Perks](patron_perks.md) - "Early January"
 * [Feats](feats.md)
 * [Skins](skins.md)
