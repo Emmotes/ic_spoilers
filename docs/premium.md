@@ -3,17 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Mystic Trickster Imoen Theme Pack - $24.99
-Date of release: 21 Dec 2022
-
-Contents:
-* Champion: `Imoen`
-* Skin: `Mystic Trickster Imoen`
-* Feat: `Indefatigable (Imoen)`
-* Familiar: `Wilson the Baby Grizzly Bear`
-* Chests: `Gold Imoen Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
 ## Dragonlance Zorbu Theme Pack - $24.99
 Date of release: 04 Jan 2023
 

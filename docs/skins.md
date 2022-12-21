@@ -7,14 +7,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|---:|---:|
-| Baeloth | `Black Pits` | Gem Shop | 20000 | 21 Dec 2022 |
-| Imoen | `Mystic Trickster` | Mystic Trickster Imoen Theme Pack | $24.99 | 21 Dec 2022 |
-| Jaheira | `Flayer Hunter` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
-| Krydle | `Flayer Hunter` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
-| Nerys | `Flayer Hunter` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
-| Shandie | `Flayer Hunter` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
-| Viconia | `Flayer Hunter` | Season 2 Reward (Guess) | ??? | 21 Dec 2022 |
-| Viconia | `Vecna Cultist` | Gem Shop | 20000 | 21 Dec 2022 |
 | Zorbu | `Dragonlance` | Dragonlance Zorbu Theme Pack | $24.99 | 04 Jan 2023 |
 | B&G | `Vampire Hunter` | Vampire Hunter Beadle & Grimm Skin & Feat Pack | $9.99 | 11 Jan 2023 |
 | Fen | `Vampiric Darklord` | Vampiric Darklord Fen Theme Pack | $24.99 | 11 Jan 2023 |
