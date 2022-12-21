@@ -29,12 +29,12 @@ Unknown.
 # Abilities
 
 **Base Attack: Knockback Strike** (Guess)
-> Unknown effect.
+> Solaak fires an arrow at the closest enemy, dealing damage and knocking it back a short distance.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
+    "description": "Solaak fires an arrow at the closest enemy, dealing damage and knocking it back a short distance.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["ranged"],
@@ -44,6 +44,7 @@ Unknown.
     "tags": ["ranged"],
     "num_targets": 1,
     "animations": [{
+        "hit_effects_only_on_direct_hit": true,
         "projectile_details": {
             "projectile_hit_graphic_id": 844,
             "percent_height_offset": 15,
@@ -75,23 +76,24 @@ Unknown.
 <br />
 
 **Ultimate Attack: Tempest** (Guess)
-> Unknown effect.
+> Solaak flies over the enemies on Tempest's back while Tempest breaths lightning breath on the enemies below dealing damage, stunning, and knocking them back.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
-    "long_description": "",
+    "description": "Solaak flies over the enemies on Tempest's back while Tempest breaths lightning breath on the enemies below dealing damage, stunning, and knocking them back. ",
+    "long_description": "Solaak flies over the enemies on Tempest's back while Tempest breaths lightning breath on the enemies below dealing damage, stunning, and knocking them back. ",
     "damage_modifier": 1,
     "damage_types": ["ranged"],
     "graphic_id": 18028,
-    "target": "random",
+    "target": "all",
     "aoe_radius": 0,
     "tags": ["ranged"],
     "num_targets": 1,
     "animations": [{
         "character": "companion",
         "ultimate": "solaak",
+        "stun_on_hit": 5,
         "type": "ultimate_attack"
     }],
     "name": "Tempest",
@@ -420,21 +422,22 @@ Unknown.
     }
 }
 {
-    "description": "",
+    "description": "Solaak fires an arrow at the closest enemy, dealing damage and knocking it back a short distance. Emboldened - The arrow creates an electric burst that also deals damage to enemies near the target. Everyone hit also takes 400% more damage for 5 seconds.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["ranged"],
     "graphic_id": 0,
     "target": "front",
-    "aoe_radius": 100,
+    "aoe_radius": 150,
     "tags": [
         "ranged",
         "aoe"
     ],
     "num_targets": 1,
     "animations": [{
+        "hit_effects_only_on_direct_hit": true,
         "projectile_details": {
-            "projectile_hit_graphic_id": 844,
+            "projectile_hit_graphic_id": 18187,
             "trail": {
                 "scale_lerp": [
                     {
