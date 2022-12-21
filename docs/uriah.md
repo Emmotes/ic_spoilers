@@ -22,7 +22,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 | Stat | Value | Day 1 Trials | Patrons |
 |---|---|---|---|
 | Strength | 10 | Yes | Mirt |
-| Dexterity | 10 | - | Vajra (with Feat) |
+| Dexterity | 10 | - | - |
 | Constitution | 12 | Yes | - |
 | Intelligence | 12 | Yes | Zariel |
 | Wisdom | 22 | Yes | |
@@ -400,10 +400,8 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 | `Guardian in the Mists` | 15% Ezra's Embrace | Free |
 | `Shadow of the Raven` | 30% Ezra's Embrace | 12,500 Gems |
 | `Dire Fate` | 40% In the Grip of Azalin Rex | Gold Chest |
-| `Faithful Reward` | Ezra's Embrace Heals Within 3 Slots | ??? |
 | `Soul's Purpose` | 50% In the Grip of Azalin Rex | 12,500 Gems |
 | `The Hour of Ascension` | 100% In the Grip of Azalin Rex | 50,000 Gems |
-| `A Vow Unbroken` | Stat: +2 Constitution | ??? |
 
 # Legendaries
 
