@@ -1,25 +1,32 @@
 [Back to Main](index.md)
 
+
 ![Profile Picture](images/portrait_uriah.png)
 
-# Uriah
+# Brother Uriah
 
-Brother Uriah Macawber is a native of Ravenloft, born in in the domain of Darkon under the iron rule of the wizard-king Azalin Rex. Like many benighted residents of the Domains of Dread, he and his family sought succor in the arms of the Church of Ezra. He joined the priesthood of the Lady of the Mists upon coming of age, seeking to offer Her divine grace and protection to those in need.
-
-[https://black-dice-society.fandom.com/wiki/Characters](https://black-dice-society.fandom.com/wiki/Characters)
+Brother Uriah Macawber is a native of Ravenloft, born in the dread domain of Darkon under the iron rule of Azalin Rex. After a horrifying childhood encounter at the Carnival with the demonic entity known as The Caller, Uriah would embrace the worship of the goddess Ezra, Lady of the Mists, offering protection from the forces of darkness to all those in need. Upon joining with the other future members of The Black Dice Society at the infamous House of Lament, Uriah would go on to find true love with his teammate, the undead Aasimar, Nahara... and would eventually discover the dark truth of both the nature of his deity and his mysterious connection to his former liege, the lich-king Azalin Rex.
 
 # Basic Information
 
-Uriah will be the new champion in the Grand Revel event on 1 February 2023.
+Brother Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 
-* Seat: Unknown
+* Seat: 9
 * Race: Human
 * Class: Cleric
-* Roles: Support / Healing (Guess)
+* Roles: Support / Healing
 * Gender: Male
-* Alignment: Unknown
+* Alignment: Lawful Good
 * Affiliation: Black Dice Society
-* Stats: Unknown
+
+| Stat | Value | Day 1 Trials | Patrons |
+|---|---|---|---|
+| Strength | 10 | Yes | Mirt |
+| Dexterity | 10 | - | Vajra (with Feat) |
+| Constitution | 12 | Yes | - |
+| Intelligence | 12 | Yes | Zariel |
+| Wisdom | 22 | Yes | |
+| Charisma | 15 | Yes | |
 
 # Formation
 
@@ -63,7 +70,7 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 </details>
 <br />
 
-**Ultimate Attack: Blade Barrier**
+**Ultimate Attack: Blade Barrier (Level: 0)**
 > Brother Uriah creates a wall of whirling, razor-sharp blades of magical energy and sends them flying across the area. The blades come to a stop a short distance in front of the formation forming a barrier that lasts for 10 seconds. Each time an enemy passes through the barrier, they take ultimate damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -71,7 +78,7 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 {
     "description": "Brother Uriah creates a wall of magical blades that damages enemies for 10 seconds.",
     "long_description": "Brother Uriah creates a wall of whirling, razor-sharp blades of magical energy and sends them flying across the area. The blades come to a stop a short distance in front of the formation forming a barrier that lasts for 10 seconds. Each time an enemy passes through the barrier, they take ultimate damage.",
-    "damage_modifier": 0.03,
+    "damage_modifier": 0.029999999999999999,
     "damage_types": ["melee"],
     "graphic_id": 17761,
     "target": "random",
@@ -93,14 +100,26 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 </details>
 <br />
 
-**Unknown Name**
-> Uriah increases the damage of all Champions in his column and the column behind him by `$(amount)%`.
+**Doomed in Darkon (Level: 20)**
+> Brother Uriah increases the damage of all Champions in his column and the column behind him by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
+    "static_dps_mult": null,
+    "required_level": 20,
+    "effect": "effect_def,1370",
+    "tip_text": "Brother Uriah increases the damage of Champons in his column and the column behind.",
+    "name": "Doomed in Darkon",
+    "id": 9770,
+    "hero_id": 119,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
     "effect_keys": [{
-        "effect_string": "hero_dps_multiplier_mult,100",
+        "effect_string": "hero_dps_multiplier_mult,400",
         "targets": ["col_and_prev_col"]
     }],
     "requirements": "",
@@ -118,11 +137,23 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 </details>
 <br />
 
-**Unknown Name**
-> Uriah heals all champions within two slots for `$(not_buffed amount)` health per second. This effect is increased by `$(amount___2)%` for each formation slot containing a dead champion or an escort, stacking additively and applying multiplicatively.
+**Ezra's Embrace (Level: 40)**
+> Brother Uriah heals all champions within two slots for `$(not_buffed amount)` health per second. This effect is increased by `$(amount___2)%` for each formation slot containing a dead champion or an escort, stacking additively and applying multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 40,
+    "effect": "effect_def,1371",
+    "tip_text": "Brother Uriah heals all Champions within 2 slots of him.",
+    "name": "Ezra's Embrace",
+    "id": 9771,
+    "hero_id": 119,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -137,7 +168,9 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
             "stack_title": "Escorts and Dead Champions",
             "amount_updated_listeners": [
                 "slot_changed",
-                "hero_appears_dead"
+                "hero_appears_dead",
+                "hero_killed",
+                "area_changed"
             ],
             "show_bonus": true,
             "amount_func": "add",
@@ -175,11 +208,22 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 </details>
 <br />
 
-**Unknown Name**
-> After `$(attack_count)` normal attacks by Champions in the formation, Azalin Rex takes over Uriah for `$(seconds_plural amount)`. While controlled by Azalin Rex, Uriah increases the damage of Nahara and all evil Champions by `$(amount___2)%`.
+**In the Grip of Azalin Rex (Level: 100)**
+> After `$(attack_count)` normal attacks by Champions in the formation, Azalin Rex takes over Brother Uriah for `$(seconds_plural amount)`. While controlled by Azalin Rex, Brother Uriah increases the damage of Nahara and all evil Champions by `$(amount___2)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 100,
+    "effect": "effect_def,1372",
+    "name": "In the Grip of Azalin Rex",
+    "id": 9772,
+    "hero_id": 119,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -213,10 +257,10 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
     },
     "id": 1372,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 17758,
     "properties": {
         "indexed_effect_properties": true,
-        "retain_on_slot_changed": false,
+        "retain_on_slot_changed": true,
         "is_formation_ability": true,
         "default_bonus_index": 1,
         "owner_use_outgoing_description": true,
@@ -230,11 +274,25 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 
 # Specialisations
 
-**Book of Exalted Deeds**
-> Uriah reads from the Book of Exalted Deeds, making Undead and Fiends his Favored Foes and all Champions deal an additional `$(amount)%` damage to them.
+**Book of Exalted Deeds (Level: 150)**
+> Brother Uriah reads from the Book of Exalted Deeds, making Undead and Fiends his Favored Foes and all Champions deal an additional `$(amount)%` damage to them.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Book of Exalted Deeds",
+    "required_level": 150,
+    "effect": "effect_def,1373",
+    "name": "Book of Exalted Deeds",
+    "specialization_graphic_id": 17759,
+    "id": 9773,
+    "hero_id": 119,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Brother Uriah fights his evil connection, helping champions defeat the Undead and Fiends."
+}
 {
     "effect_keys": [
         {"effect_string": "increase_monster_with_tags_damage,200,undead|fiend"},
@@ -272,11 +330,25 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 </details>
 <br />
 
-**Book of Vile Darkness**
-> Azalin reads from the Book of Vile Darkness, increasing the effect of `$(upgrade_name id)` by `$(amount)%`.
+**Book of Vile Darkness (Level: 150)**
+> Azalin reads from the Book of Vile Darkness, increasing the effect of In the Grip of Azalin Rex by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Book of Vile Darkness",
+    "required_level": 150,
+    "effect": "effect_def,1374",
+    "name": "Book of Vile Darkness",
+    "specialization_graphic_id": 17760,
+    "id": 9774,
+    "hero_id": 119,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Brother Uriah embraces his evil connection, helping evil champions deal even more damage."
+}
 {
     "effect_keys": [
         {"effect_string": "buff_upgrade,100,9772"},
@@ -308,22 +380,39 @@ Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 
 # Items
 
-| Slot | Name | Type |
+| Slot | Epic Name | Type |
 |---|---|---|
-| 1 | `Books` | Unknown |
-| 2 | `Mace` | Unknown |
-| 3 | `Nahara Links` | Unknown |
-| 4 | `NPC Links` | Unknown |
-| 5 | `Shield` | Unknown |
-| 6 | `Tricorn` | Unknown |
+| 1 | `Uriah's Really Nice Hat` | All Champion Damage |
+| 2 | `Weapon of Faith` | Doomed in Darkon |
+| 3 | `Dual Goddess Protector` | Ezra's Embrace |
+| 4 | `Wedding Ring` | In the Grip of Azalin Rex |
+| 5 | `Book of Exalted Deeds` | All Specialisations |
+| 6 | `Uriah and Van Richten: BFFs!` | Ultimate Cooldown Reduction |
 
 # Feats
 
-Unknown.
+| Feat | Effect | Source |
+|---|---|---|
+| `Selflessness` | 10% All Champion Damage | Free |
+| `Inspiring Leader` | 25% All Champion Damage | Gold Chest |
+| `Dread Realm Traveler` | 20% Doomed in Darkon | Free |
+| `Into the Mistlands` | 40% Doomed in Darkon | Gold Chest |
+| `Guardian in the Mists` | 15% Ezra's Embrace | Free |
+| `Shadow of the Raven` | 30% Ezra's Embrace | 12,500 Gems |
+| `Dire Fate` | 40% In the Grip of Azalin Rex | Gold Chest |
+| `Faithful Reward` | Ezra's Embrace Heals Within 3 Slots | ??? |
+| `Soul's Purpose` | 50% In the Grip of Azalin Rex | 12,500 Gems |
+| `The Hour of Ascension` | 100% In the Grip of Azalin Rex | 50,000 Gems |
+| `A Vow Unbroken` | Stat: +2 Constitution | ??? |
 
 # Legendaries
 
-Unknown.
+* Increases the damage of all Champions by 100%.
+* Increases the damage of all Female Champions by 125%.
+* Increases the damage of all Champions by 30% for each Human Champion in the formation.
+* Increases the damage of all Champions by 40% for each Champion with a WIS score of 15 or higher in the formation.
+* Increases the damage of all Champions with a INT score of 11 or higher by 100%.
+* Increases the damage of all Good Champions by 150%.
 
 [Back to Top](#top)
 
