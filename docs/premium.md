@@ -132,9 +132,9 @@ Contents:
 Date of release: 01 Feb 2023
 
 Contents:
-* Champion: `Uriah`
+* Champion: `Brother Uriah`
 * Skin: `Blushing Groom Uriah`
-* Feat: `???`
+* Feat: `The Hour of Ascension (Brother Uriah)`
 * Familiar: `Mangata the Moonstone Dragon`
 * Chests: `Gold Brother Uriah Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
