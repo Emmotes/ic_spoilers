@@ -216,12 +216,12 @@ Unknown.
 
 | Slot | Name | Type |
 |---|---|---|
-| 1 | `Unknown` | Unknown |
-| 2 | `Unknown` | Unknown |
-| 3 | `Unknown` | Unknown |
-| 4 | `Unknown` | Unknown |
-| 5 | `Unknown` | Unknown |
-| 6 | `Unknown` | Unknown |
+| 1 | `Black Robes` | Unknown |
+| 2 | `Cube of Force` | Unknown |
+| 3 | `Fashionable Jewellery` | Unknown |
+| 4 | `Necromancy Fashion` | Unknown |
+| 5 | `Soul Cage` | Unknown |
+| 6 | `Star Jewel` | Unknown |
 
 # Feats
 
