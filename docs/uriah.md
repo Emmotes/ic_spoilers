@@ -391,6 +391,8 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 
 # Feats
 
+This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
+
 | Feat | Effect | Source |
 |---|---|---|
 | `Selflessness` | 10% All Champion Damage | Free |

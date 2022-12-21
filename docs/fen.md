@@ -402,6 +402,8 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 
 # Feats
 
+This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
+
 | Feat | Effect | Source |
 |---|---|---|
 | `Selflessness` | 10% All Champion Damage | Free |
