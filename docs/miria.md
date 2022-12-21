@@ -63,6 +63,15 @@ Unknown.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 18260,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y6/Icon_Formation_MiriaClone",
+    "fs": 0
+}
 </pre>
 </p>
 </details>
