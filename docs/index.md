@@ -24,6 +24,7 @@ Miscellaneous spoilers.
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
 * [Weekends](weekends.md)
+* [Archive of Old Spoilers]({{ site.github.owner_url }}/ic_spoilers/tree/main/docs/archive)
 
 [Back to Top](#top)
 
