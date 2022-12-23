@@ -70,7 +70,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 </details>
 <br />
 
-**Ultimate Attack: Blade Barrier (Level: 0)**
+**Ultimate Attack: Blade Barrier (Level: 200)**
 > Brother Uriah creates a wall of whirling, razor-sharp blades of magical energy and sends them flying across the area. The blades come to a stop a short distance in front of the formation forming a barrier that lasts for 10 seconds. Each time an enemy passes through the barrier, they take ultimate damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -100,7 +100,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 </details>
 <br />
 
-**Doomed in Darkon (Level: 20)**
+**Doomed in Darkon** (Level: 20)
 > Brother Uriah increases the damage of all Champions in his column and the column behind him by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -137,7 +137,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 </details>
 <br />
 
-**Ezra's Embrace (Level: 40)**
+**Ezra's Embrace** (Level: 40)
 > Brother Uriah heals all champions within two slots for `$(not_buffed amount)` health per second. This effect is increased by `$(amount___2)%` for each formation slot containing a dead champion or an escort, stacking additively and applying multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -208,7 +208,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 </details>
 <br />
 
-**In the Grip of Azalin Rex (Level: 100)**
+**In the Grip of Azalin Rex** (Level: 100)
 > After `$(attack_count)` normal attacks by Champions in the formation, Azalin Rex takes over Brother Uriah for `$(seconds_plural amount)`. While controlled by Azalin Rex, Brother Uriah increases the damage of Nahara and all evil Champions by `$(amount___2)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -274,7 +274,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 
 # Specialisations
 
-**Book of Exalted Deeds (Level: 150)**
+**Book of Exalted Deeds** (Level: 150)
 > Brother Uriah reads from the Book of Exalted Deeds, making Undead and Fiends his Favored Foes and all Champions deal an additional `$(amount)%` damage to them.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -330,7 +330,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 </details>
 <br />
 
-**Book of Vile Darkness (Level: 150)**
+**Book of Vile Darkness** (Level: 150)
 > Azalin reads from the Book of Vile Darkness, increasing the effect of In the Grip of Azalin Rex by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>

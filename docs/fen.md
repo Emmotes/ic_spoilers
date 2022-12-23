@@ -68,7 +68,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**Ultimate Attack: Form of Dread (Level: 0)**
+**Ultimate Attack: Form of Dread (Level: 200)**
 > Fen transforms into her dread form. She sprouts wings, leaps into the air, and charges directly across the area, dealing one hit of ultimate damage to all enemies she passes and knocking them back a short distance.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -105,7 +105,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**Mischievous, but Dangerous (Level: 40)**
+**Mischievous, but Dangerous** (Level: 40)
 > Fen increases the damage of all Champions in her column by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -142,7 +142,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**Patron's Oath (Level: 60)**
+**Patron's Oath** (Level: 60)
 > While Fen is in the formation and you are in a patron variant or free play, patron challenge progress made by her party is increased by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -179,7 +179,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**Warlock Pact (Level: 80)**
+**Warlock Pact** (Level: 80)
 > Fen reduces the normal attack speed of all Warlocks in the formation by `$(seconds_plural amount)` for each point of Wisdom an adjacent Champion has above `$(subtract_from_stat___2)`.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -239,7 +239,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**I've Got You, Friends (Level: 160)**
+**I've Got You, Friends** (Level: 160)
 > Fen increases the effect of Mischievous, but Dangerous by `$(amount)%` for each Champion in the formation that is either a Black Dice Society affiliation member or has a WIS of 15+, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -294,7 +294,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 
 # Specialisations
 
-**Curse of the Dhampir (Level: 140)**
+**Curse of the Dhampir** (Level: 140)
 > Fen embraces her Dhampir heritage and increases her damage by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -341,7 +341,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 </details>
 <br />
 
-**Shadows of the Underdark (Level: 140)**
+**Shadows of the Underdark** (Level: 140)
 > Fen imbues her blade with eldritch energy, increasing the effect of Mischievous, but Dangerous by `$(amount)%` and causing her normal attack to deal an additional 5 seconds of BUD based damage with each hit.
 <details><summary><em>Raw Data</em></summary>
 <p>
