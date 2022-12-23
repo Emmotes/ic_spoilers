@@ -34,7 +34,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 
 # Abilities
 
-**Base Attack: Toll the Dead**
+**Base Attack: Toll the Dead** (Magic)
 > Uriah points at a random enemy and deals damage, preferring enemies that are already damaged.
 <details><summary><em>Raw Data</em></summary>
 <p>

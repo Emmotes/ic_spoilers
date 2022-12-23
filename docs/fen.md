@@ -34,7 +34,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 
 # Abilities
 
-**Base Attack: Pact Blade**
+**Base Attack: Pact Blade** (Melee)
 > Fen darts out to the closest enemy and slashes with her longsword, hitting all nearby enemies.
 <details><summary><em>Raw Data</em></summary>
 <p>

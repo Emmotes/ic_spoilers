@@ -28,7 +28,7 @@ Unknown.
 
 # Abilities
 
-**Base Attack: Knockback Strike** (Guess)
+**Base Attack: Knockback Strike** (Ranged)
 > Solaak fires an arrow at the closest enemy, dealing damage and knocking it back a short distance.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -75,7 +75,7 @@ Unknown.
 </details>
 <br />
 
-**Ultimate Attack: Tempest** (Guess)
+**Ultimate Attack: Tempest**
 > Solaak flies over the enemies on Tempest's back while Tempest breaths lightning breath on the enemies below dealing damage, stunning, and knocking them back.
 <details><summary><em>Raw Data</em></summary>
 <p>
