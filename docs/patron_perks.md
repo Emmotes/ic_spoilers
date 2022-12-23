@@ -10,31 +10,36 @@ Justin Stocks (on Developer Insights) has stated that these will be arriving "ea
 
 ## Mirt
 
-| Name | Tier | Type | Levels | Effect|
+| Name | Tier | Type | Levels | Effect |
 |---|---|---|---|---|
 | `High Interest Loan` | 8 | Local | 25 | Increases all Gold found by 4% |
-| `Rich Friends` | 8 | Global | 25 | Unknown |
+| `Rich Friends` | 8 | Global | 25 | Increases the damage of all Champions by 15% for each Gold Find Champion in the formation |
 | `The Old Wolf` | 9 | Local | 25 | Beast Enemies take 50% more damage |
 | `Expert Adventurer` | 9 | Global | 25 | Increases the damage of all Champions by 10% |
 
 ## Vajra
 
-Unknown.
+| Name | Tier | Type | Levels | Effect |
+|---|---|---|---|---|
+| `Irresistable` | 8 | Local | 20 | Increases the damage of all Champions with a magic base attack by 50% |
+| `Ley Lines` | 8 | Global | 50 | Increase the damage of all Champions by 5% for each Champion with a magic base attack in the formation |
+| `We're All Aligned` | 9 | Local | 50 | Increase the damage of all Champions with an affiliation by 25% |
+| `Champion of Splendors` | 9 | Global | 20 | Increases the damage of all Champions by 10% |
 
 ## Strahd
 
-| Name | Tier | Type | Levels | Effect|
+| Name | Tier | Type | Levels | Effect |
 |---|---|---|---|---|
 | `The Flesh Strengthens` | 8 | Local | 25 | Increases the effect of healing by 2.5% on Tanking Champions |
-| `Strahd's Chosen` | 8 | Global | 25 | Unknown |
+| `Strahd's Chosen` | 8 | Global | 25 | Increases the damage of all evil Champions by 25% |
 | `Fellow Conquerers` | 9 | Local | 25 | Increases the damage of all Champions by 25% |
 | `Glory of Ravenloft` | 9 | Global | 25 | Increases the damage of all Champions by 10% |
 
 ## Zariel
 
-| Name | Tier | Type | Levels | Effect|
+| Name | Tier | Type | Levels | Effect |
 |---|---|---|---|---|
-| `Friends of my Enemy` | 8 | Local | 20 | Unknown |
+| `Friends of my Enemy` | 8 | Local | 20 | Increase the damage of all Champions by 100% if there is a fiend in the area |
 | `Holy Redemption` | 8 | Global | 50 | Increases the effect of healing by 5% on Good Champions |
 | `Endless Descent` | 9 | Local | 50 | Increases the damage of all Champions by 50% |
 | `Veteran of Avernus` | 9 | Global | 20 | Increases the damage of all Champions by 10% |
