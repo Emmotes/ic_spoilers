@@ -70,7 +70,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 </details>
 <br />
 
-**Ultimate Attack: Blade Barrier (Level: 200)**
+**Ultimate Attack: Blade Barrier** (Level: 200)
 > Brother Uriah creates a wall of whirling, razor-sharp blades of magical energy and sends them flying across the area. The blades come to a stop a short distance in front of the formation forming a barrier that lasts for 10 seconds. Each time an enemy passes through the barrier, they take ultimate damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
