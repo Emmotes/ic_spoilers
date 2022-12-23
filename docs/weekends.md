@@ -7,7 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|---|---|---|---|---|---|---|
-| Sidekick | 23 Dec 2022 | **Jaheira** | Hitch | Jarlaxle | Spurt | Havilar | Golden Epic |
 | Carefully Balanced | 30 Dec 2022 | **Hew Maan** | Nayeli | Celeste | Shandie | Gromma | Golden Epic |
 | Mind the Traps | 6 Jan 2023 | **Imoen** | Asharra | Minsc | Valentine | Baeloth | Golden Epic |
 | Dread Helm | 13 Jan 2023 | **Warduke** | Bruenor | Calliope | Sentry | Nerys | Golden Epic |
