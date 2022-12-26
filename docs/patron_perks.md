@@ -4,7 +4,7 @@
 
 Some of the tier 8 and 9 patron perks leaked recently and interest was shown for me to add them here. So here they are.
 
-Justin Stocks (on Developer Insights) has stated that these will be arriving "early in January". At roughly the same time (maybe) there'll also be some changes to the patron chores to make them "just a little bit less homeworky - a little bit less chorsey". No specifics on what those changes will be though. The leaked date for the patron chores changes is 09 Jan 2022.
+Justin Stocks (on Developer Insights) has stated that these will be arriving "early in January". At roughly the same time (maybe) there'll also be some changes to the patron chores to make them "just a little bit less homeworky - a little bit less chorsey". No specifics on what those changes will be though. The leaked date for the patron chores changes is 09 Jan 2023.
 
 *Note: The effect amounts are per-level (not totals).*
 
