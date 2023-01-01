@@ -15,10 +15,10 @@ Most skins are real money purchases only.
 | Artemis | `Champion of Tovag` | Champion of Tovag Artemis Skin & Feat Pack | $9.99 | 25 Jan 2023 |
 | Krull | `Knight of Takhisis` | Knight of Takhisis Krull Skin & Feat Pack | $9.99 | 25 Jan 2023 |
 | Torogar | `Knight of Takhisis` | Knight of Takhisis Torogar Skin & Feat Pack | $9.99 | 25 Jan 2023 |
-| Baeloth | `Flayer Hunter` | Gem Shop | 20000 | 01 Feb 2023 |
-| Delina | `Flayer Hunter` | Gem Shop | 20000 | 01 Feb 2023 |
-| Imoen | `Flayer Hunter` | Gem Shop | 20000 | 01 Feb 2023 |
-| Minsc | `Flayer Hunter` | Gem Shop | 20000 | 01 Feb 2023 |
+| Baeloth | `Flayer Hunter` | Gem Shop | 20,000 | 01 Feb 2023 |
+| Delina | `Flayer Hunter` | Gem Shop | 20,000 | 01 Feb 2023 |
+| Imoen | `Flayer Hunter` | Gem Shop | 20,000 | 01 Feb 2023 |
+| Minsc | `Flayer Hunter` | Gem Shop | 20,000 | 01 Feb 2023 |
 | Nahara | `Blushing Bride` | Blushing Bride Nahara Skin & Feat Pack | $9.99 | 01 Feb 2023 |
 | Uriah | `Blushing Groom` | Blushing Groom Uriah Theme Pack | $24.99 | 01 Feb 2023 |
 | Aila | `Dragonlance` | Dragonlance Aila Skin & Feat Pack | $9.99 | 10 Feb 2023 |
