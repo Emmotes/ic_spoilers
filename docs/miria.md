@@ -1,6 +1,7 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/portrait_miria.png)
+|:--|--:|
+| ![PC Portrait](images/portrait_miria.png) | ![Console Portrait](images/console_miria.png) |
 
 # Miria
 
