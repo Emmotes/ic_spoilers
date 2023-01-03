@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Miria Portraits](images/portraits_miria.png)
+![PC Portrait](images/portrait_miria.png)
 
 # Miria
 
@@ -230,6 +230,10 @@ Unknown.
 # Legendaries
 
 Unknown.
+
+# Console Portrait
+
+![Console Portrait](images/console_miria.png)
 
 [Back to Top](#top)
 

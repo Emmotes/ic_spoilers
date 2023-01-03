@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Profile Picture](images/portrait_solaak.png)
+![PC Portrait](images/portrait_solaak.png)
 
 # Solaak
 
@@ -556,6 +556,10 @@ Unknown.
 # Legendaries
 
 Unknown.
+
+# Console Portrait
+
+![Console Portrait](images/console_solaak.png)
 
 [Back to Top](#top)
 

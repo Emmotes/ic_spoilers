@@ -1,7 +1,6 @@
 [Back to Main](index.md)
 
-
-![Profile Picture](images/portrait_uriah.png)
+![PC Portrait](images/portrait_uriah.png)
 
 # Brother Uriah
 
@@ -413,6 +412,10 @@ This list will only show feats that are going to be available on the release of 
 * Increases the damage of all Champions by 40% for each Champion with a WIS score of 15 or higher in the formation.
 * Increases the damage of all Champions with a INT score of 11 or higher by 100%.
 * Increases the damage of all Good Champions by 150%.
+
+# Console Portrait
+
+![Console Portrait](images/console_uriah.png)
 
 [Back to Top](#top)
 

@@ -1,7 +1,6 @@
 [Back to Main](index.md)
 
-
-![Profile Picture](images/portrait_fen.png)
+![PC Portrait](images/portrait_fen.png)
 
 # Fen
 
@@ -423,6 +422,10 @@ This list will only show feats that are going to be available on the release of 
 * Increases the damage of all Champions by 20% for each Champion with a WIS score of 11 or higher in the formation.
 * Increases the damage of all Champions with a STR score of 11 or higher by 100%.
 * Increases the damage of all Evil Champions by 150%.
+
+# Console Portrait
+
+![Console Portrait](images/console_fen.png)
 
 [Back to Top](#top)
 
