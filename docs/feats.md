@@ -7,7 +7,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|---:|
-| Zorbu | `Heavy Lifter` | Stat: +2 Strength | 50,000 Gems | 04 Jan 2023 |
 | B&G | `Power Up` | 80% Get Buff | 50,000 Gems | 11 Jan 2023 |
 | Fen | `I Don't Trust This` | 200% Patron's Oath | 50,000 Gems | 11 Jan 2023 |
 | Voronika | `Dark Lady` | 80% Calculating Guidance | 50,000 Gems | 11 Jan 2023 |

@@ -7,7 +7,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|---:|---:|
-| Zorbu | `Dragonlance` | Dragonlance Zorbu Theme Pack | $24.99 | 04 Jan 2023 |
 | B&G | `Vampire Hunter` | Vampire Hunter Beadle & Grimm Skin & Feat Pack | $9.99 | 11 Jan 2023 |
 | Fen | `Vampiric Darklord` | Vampiric Darklord Fen Theme Pack | $24.99 | 11 Jan 2023 |
 | Voronika | `Barovia Visitor` | Barovia Visitor Voronika Skin & Feat Pack | $9.99 | 11 Jan 2023 |

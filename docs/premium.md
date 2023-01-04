@@ -3,27 +3,6 @@
 # Premium Packs and DLC
 Upcoming real-money shop items.
 
-## Dragonlance Zorbu Theme Pack - $24.99
-Date of release: 04 Jan 2023
-
-Contents:
-* Champion: `Zorbu`
-* Skin: `Dragonlance Zorbu`
-* Feat: `Heavy Lifter (Zorbu)`
-* Familiar: `Clockwork Squirrel`
-* Chests: `Gold Zorbu Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-## Hiss the Prismeer Crocodile Familiar Pack - $9.99
-Date of release: 04 Jan 2023
-
-Contents:
-* Familiar: `Hiss the Prismeer Crocodile`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-
 ## Barovia Visitor Voronika Skin & Feat Pack - $9.99
 Date of release: 11 Jan 2023
 
