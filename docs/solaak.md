@@ -23,8 +23,7 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 
 # Formation
 
-Unknown.
-<!-- ![Formation Layout](images/formation_solaak.png) -->
+![Formation Layout](images/formation_solaak.png)
 
 # Abilities
 
@@ -254,7 +253,7 @@ Unknown.
 <br />
 
 **Maneuvers** (Guess)
-> Solaak gains a Reach stack for each Champion with a ranged base attack in the formation. Each stack increases the damage of these Champions by `$(amount)%`, stacking multiplicatively.
+> Solaak gains a Reach stack for each Champion with a ranged base attack in the formation. Each stack increases the damage of these Champions by `$(not_buffed amount)%`, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -289,7 +288,7 @@ Unknown.
             "show_description": false,
             "active_graphic_max_stacks": 10,
             "active_graphic_id": 8529,
-            "effect_string": "some_extras",
+            "effect_string": "some_extras_solaak",
             "active_graphic_alpha_from_stacks": true,
             "target_filters": [{
                 "attack": "ranged",
@@ -300,7 +299,7 @@ Unknown.
         }
     ],
     "requirements": "",
-    "description": {"desc": "$(source_hero) gains a Reach stack for each Champion with a ranged base attack in the formation. Each stack increases the damage of these Champions by $(amount)%, stacking multiplicatively."},
+    "description": {"desc": "$(source_hero) gains a Reach stack for each Champion with a ranged base attack in the formation. Each stack increases the damage of these Champions by $(not_buffed amount)%, stacking multiplicatively."},
     "id": 1390,
     "flavour_text": "",
     "graphic_id": 18022,
@@ -308,7 +307,7 @@ Unknown.
         "indexed_effect_properties": true,
         "is_formation_ability": true,
         "default_bonus_index": 0,
-        "owner_use_outgoing_description": true,
+											   
         "per_effect_index_bonuses": true
     }
 }

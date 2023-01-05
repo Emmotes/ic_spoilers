@@ -26,33 +26,67 @@ Unknown.
 
 # Abilities
 
-**Base Attack: Ray of Sickness** (Guess)
+**Base Attack: Ray of Sickness** (Magic)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 18242,
-    "export_params": {
-        "uses": ["effect"],
-        "export_animation": true
-    },
-    "type": 1,
-    "graphic": "Effects/Effect_MiriaRayofSickness",
-    "fs": 0
-}
+            "description": "",
+            "long_description": "",
+            "damage_modifier": 1,
+            "damage_types": ["magic"],
+            "graphic_id": 0,
+            "target": "front",
+            "aoe_radius": 0,
+            "tags": ["ranged"],
+            "num_targets": 1,
+            "animations": [{
+                "sound_frames": {"1": 184},
+                "hit_sound": -1,
+                "shoot_offset_y": 0,
+                "shoot_offset_x": 0,
+                "always_new_targets": true,
+                "projectile_graphic_id": 1,
+                "type": "ranged_attack",
+                "projectile": "ray_of_sickness",
+                "shoot_frame": 12
+            }],
+            "name": "Ray of Sickness",
+            "cooldown": 6,
+            "id": 601
+        }
 </pre>
 </p>
 </details>
 <br />
 
-**Ultimate Attack: Unknown**
+**Ultimate Attack: Danse Macabre**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 0,
+    "target": "none",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "aoe"
+    ],
+    "num_targets": 0,
+    "animations": [{
+        "ultimate": "miria",
+        "type": "ultimate_attack"
+    }],
+    "name": "Danse Macabre",
+    "cooldown": 5,
+    "id": 602
+}
 </pre>
 </p>
 </details>
