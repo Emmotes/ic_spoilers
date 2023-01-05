@@ -342,7 +342,7 @@ Contents:
 * Skin: `Dragonlance Solaak`
 * Feat: `Selflessness (Bruenor)`
 * Familiar: `Blue Dragonnel`
-* Chests: `Gold E8Y6 Chest` x16 (Shinies x2)
+* Chests: `Gold Solaak Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 
 ## Dragonlance Baeloth Skin & Feat Pack - $9.99
