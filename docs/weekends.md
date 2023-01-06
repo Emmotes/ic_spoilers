@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Mind the Traps | 06 Jan 2023 | **Imoen** | Asharra | Minsc | Valentine | Baeloth | Golden Epic |
 | Dread Helm | 13 Jan 2023 | **Warduke** | Bruenor | Calliope | Sentry | Nerys | Golden Epic |
 | Iridescent Pearl | 20 Jan 2023 | **Valentine** | Jarlaxle | Hitch | Virgil | Jaheira | Golden Epic |
 | Dhampiric | 27 Jan 2023 | **Fen** | Tyril | Arkhan | Voronika | Widdle | Golden Epic |
