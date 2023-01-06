@@ -1,12 +1,13 @@
 [Back to Main](index.md)
 
 # Skins
+
 Skins that are upcoming.
 
 Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
-|---|---|---|---:|---:|
+|---|---|---|--:|--:|
 | B&G | `Vampire Hunter` | Vampire Hunter Beadle & Grimm Skin & Feat Pack | $9.99 | 11 Jan 2023 |
 | Fen | `Vampiric Darklord` | Vampiric Darklord Fen Theme Pack | $24.99 | 11 Jan 2023 |
 | Voronika | `Barovia Visitor` | Barovia Visitor Voronika Skin & Feat Pack | $9.99 | 11 Jan 2023 |
@@ -25,7 +26,7 @@ Most skins are real money purchases only.
 | Nova | `Dragonlance` | Dragonlance Nova Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Qillek | `Dragonlance` | Dragonlance Qillek Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Sentry | `Dragonlance` | Dragonlance Sentry Skin & Feat Pack | $9.99 | 10 Feb 2023 |
-| Corazon | `Dragonlance` | Dragonlance Corazón Skin & Feat Pack | $9.99 | 20 Feb 2023 |
+| Corazón | `Dragonlance` | Dragonlance Corazón Skin & Feat Pack | $9.99 | 20 Feb 2023 |
 | Dob | `Dragonlance` | Dragonlance Dob Skin & Feat Pack | $9.99 | 20 Feb 2023 |
 | Egbert | `Dragonlance` | Dragonlance Egbert Skin & Feat Pack | $9.99 | 20 Feb 2023 |
 | Merilwen | `Dragonlance` | Dragonlance Merilwen Skin & Feat Pack | $9.99 | 20 Feb 2023 |

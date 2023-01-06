@@ -1,12 +1,13 @@
 [Back to Main](index.md)
 
 # Feats
+
 Feats that are upcoming.
 
 Feats that are listed as Free will be available immediately the moment they release. Feats with a cost of 50,000 Gems will usually also be available via real money through DLC packs or weekend chest sales. Gold chest feats of course can only come from regular Gold Chests.
 
 | Champion | Feat Name | Effect | Source | Date |
-|---|---|---|---|---:|
+|---|---|---|---|--:|
 | B&G | `Power Up` | 80% Get Buff | 50,000 Gems | 11 Jan 2023 |
 | Fen | `I Don't Trust This` | 200% Patron's Oath | 50,000 Gems | 11 Jan 2023 |
 | Voronika | `Dark Lady` | 80% Calculating Guidance | 50,000 Gems | 11 Jan 2023 |
@@ -21,7 +22,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Nova | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
 | Qillek | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
 | Sentry | `Vicious Damage` | 400% Self DPS & 10% Vicious Damage | 50,000 Gems | 10 Feb 2023 |
-| Corazon | `Notorious` | 80% G.O.A.T. Pirate | 50,000 Gems | 20 Feb 2023 |
+| Corazón | `Notorious` | 80% G.O.A.T. Pirate | 50,000 Gems | 20 Feb 2023 |
 | Dob | `With the Band` | 80% Traveling Entertainer | 50,000 Gems | 20 Feb 2023 |
 | Egbert | `Gifts of La Vache Mauve` | 80% Golden Scales | 50,000 Gems | 20 Feb 2023 |
 | Merilwen | `Nest Egg` | 80% Liquidity | 50,000 Gems | 20 Feb 2023 |
