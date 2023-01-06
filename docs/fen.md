@@ -75,7 +75,7 @@ Fen will be the new champion in the Midwinter event on 11 January 2023.
 {
     "description": "Fen sprouts wings and charges, dealing damage to all enemies and knocking them back.",
     "long_description": "Fen transforms into her dread form. She sprouts wings, leaps into the air, and charges directly across the area, dealing one hit of ultimate damage to all enemies she passes and knocking them back a short distance.",
-    "damage_modifier": 0.029999999999999999,
+    "damage_modifier": 0.03,
     "damage_types": ["melee"],
     "graphic_id": 17463,
     "target": "all",

@@ -8,7 +8,7 @@ Brother Uriah Macawber is a native of Ravenloft, born in the dread domain of Dar
 
 # Basic Information
 
-Brother Uriah will be the new champion in the Grand Revel event on 1 February 2023.
+Uriah will be the new champion in the Grand Revel event on 1 February 2023.
 
 * Seat: 9
 * Race: Human
@@ -77,7 +77,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 {
     "description": "Brother Uriah creates a wall of magical blades that damages enemies for 10 seconds.",
     "long_description": "Brother Uriah creates a wall of whirling, razor-sharp blades of magical energy and sends them flying across the area. The blades come to a stop a short distance in front of the formation forming a barrier that lasts for 10 seconds. Each time an enemy passes through the barrier, they take ultimate damage.",
-    "damage_modifier": 0.029999999999999999,
+    "damage_modifier": 0.03,
     "damage_types": ["melee"],
     "graphic_id": 17761,
     "target": "random",
@@ -100,7 +100,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 <br />
 
 **Doomed in Darkon** (Level: 20)
-> Brother Uriah increases the damage of all Champions in his column and the column behind him by `$(amount)%`.
+> Uriah increases the damage of all Champions in his column and the column behind him by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -137,7 +137,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 <br />
 
 **Ezra's Embrace** (Level: 40)
-> Brother Uriah heals all champions within two slots for `$(not_buffed amount)` health per second. This effect is increased by `$(amount___2)%` for each formation slot containing a dead champion or an escort, stacking additively and applying multiplicatively.
+> Uriah heals all champions within two slots for `$(not_buffed amount)` health per second. This effect is increased by `$(amount___2)%` for each formation slot containing a dead champion or an escort, stacking additively and applying multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -208,7 +208,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 <br />
 
 **In the Grip of Azalin Rex** (Level: 100)
-> After `$(attack_count)` normal attacks by Champions in the formation, Azalin Rex takes over Brother Uriah for `$(seconds_plural amount)`. While controlled by Azalin Rex, Brother Uriah increases the damage of Nahara and all evil Champions by `$(amount___2)%`.
+> After `$(attack_count)` normal attacks by Champions in the formation, Azalin Rex takes over Uriah for `$(seconds_plural amount)`. While controlled by Azalin Rex, Uriah increases the damage of Nahara and all evil Champions by `$(amount___2)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -274,7 +274,7 @@ Brother Uriah will be the new champion in the Grand Revel event on 1 February 20
 # Specialisations
 
 **Book of Exalted Deeds** (Level: 150)
-> Brother Uriah reads from the Book of Exalted Deeds, making Undead and Fiends his Favored Foes and all Champions deal an additional `$(amount)%` damage to them.
+> Uriah reads from the Book of Exalted Deeds, making Undead and Fiends his Favored Foes and all Champions deal an additional `$(amount)%` damage to them.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -401,8 +401,8 @@ This list will only show feats that are going to be available on the release of 
 | `Guardian in the Mists` | 15% Ezra's Embrace | Free |
 | `Shadow of the Raven` | 30% Ezra's Embrace | 12,500 Gems |
 | `Dire Fate` | 40% In the Grip of Azalin Rex | Gold Chest |
-| `Soul's Purpose` | 50% In the Grip of Azalin Rex | 12,500 Gems |
-| `The Hour of Ascension` | 100% In the Grip of Azalin Rex | 50,000 Gems |
+| `Soul's Purpose` | 50% Duration In the Grip of Azalin Rex | 12,500 Gems |
+| `The Hour of Ascension` | 100% Duration In the Grip of Azalin Rex | 50,000 Gems |
 
 # Legendaries
 
