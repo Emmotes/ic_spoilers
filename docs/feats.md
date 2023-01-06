@@ -16,7 +16,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Krull | `Sworn to Service` | 80% Dark Order Synergy | 50,000 Gems | 25 Jan 2023 |
 | Torogar | `Devoted Shield` | 80% Markings of a Zealot | 50,000 Gems | 25 Jan 2023 |
 | Nahara | `A Sense of Self` | 80% Who Am I? | 50,000 Gems | 01 Feb 2023 |
-| Uriah | `The Hour of Ascension` | 100% In the Grip of Azalin Rex | 50,000 Gems | 01 Feb 2023 |
+| Uriah | `The Hour of Ascension` | 100% Duration In the Grip of Azalin Rex | 50,000 Gems | 01 Feb 2023 |
 | Aila | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
 | Lucius | `Spell Master` | 120% Self DPS | 50,000 Gems | 10 Feb 2023 |
 | Nova | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
