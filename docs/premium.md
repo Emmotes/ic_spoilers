@@ -432,7 +432,7 @@ Contents:
 
 * Champion: `Solaak`
 * Skin: `Dragonlance Solaak`
-* Feat: `Selflessness` (Bruenor)
+* Feat: ???
 * Familiar: `Blue Dragonnel`
 * Chests: `Gold Solaak Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
@@ -497,6 +497,18 @@ Contents:
 * Buff: `Huge Potion of Giant's Strength` x4
 * Buff: `Huge Potion of Clairvoyance` x4
 * Buff: `Potion of Polish` x1
+
+<br />
+
+### Vecna Maan Skin & Feat Pack - $9.99  
+Date of release: 08 Mar 2023
+
+Contents:
+
+* Champion: `Hew Maan`
+* Skin: `Vecna Maan`
+* Feat: ???
+* Chests: `Gold Hew Maan Chest` x7 (Shinies x1)
 
 <br />
 

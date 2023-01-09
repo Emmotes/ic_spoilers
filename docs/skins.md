@@ -39,7 +39,7 @@ Most skins are real money purchases only.
 | Baeloth | `Dragonlance` | Dragonlance Baeloth Skin & Feat Pack | $9.99 | 01 Mar 2023 |
 | Imoen | `Dragonlance` | Dragonlance Imoen Skin & Feat Pack | $9.99 | 01 Mar 2023 |
 | Viconia | `Dragonlance` | Dragonlance Viconia Skin & Feat Pack | $9.99 | 01 Mar 2023 |
-| Hew Maan | `Vecna Maan` | ??? | ??? | 08 Mar 2023 |
+| Hew Maan | `Vecna Maan` | Vecna Maan Skin & Feat Pack | $9.99 | 08 Mar 2023 |
 | Miria | `Dragonlance` | ??? | ??? | 15 Mar 2023 |
 
 [Back to Top](#top)
