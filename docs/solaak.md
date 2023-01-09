@@ -80,14 +80,17 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 <p>
 <pre>
 {
-    "description": "Solaak flies over the enemies on Tempest's back while Tempest breaths lightning breath on the enemies below dealing damage, stunning, and knocking them back. ",
-    "long_description": "Solaak flies over the enemies on Tempest's back while Tempest breaths lightning breath on the enemies below dealing damage, stunning, and knocking them back. ",
-    "damage_modifier": 1,
+    "description": "Solaak and Tempest fly over the enemies, while Tempest breaths lightning breath dealing damage, stunning, and knocking the enemies back.",
+    "long_description": "Solaak flies over the enemies on Tempest's back while Tempest breaths lightning breath on the enemies below dealing damage, stunning, and knocking them back.",
+    "damage_modifier": 0.03,
     "damage_types": ["ranged"],
     "graphic_id": 18028,
     "target": "all",
     "aoe_radius": 0,
-    "tags": ["ranged"],
+    "tags": [
+        "ultimate",
+        "ranged"
+    ],
     "num_targets": 1,
     "animations": [{
         "character": "companion",

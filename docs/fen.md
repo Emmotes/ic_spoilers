@@ -418,7 +418,7 @@ This list will only show feats that are going to be available on the release of 
 
 * Increases the damage of all Champions by 100%.
 * Increases the damage of all Champions by 20% for each Female Champion in the formation.
-* Increases the damage of all Champions by 100%.
+* Increases the damage of all Elf Champions by 150%.
 * Increases the damage of all Champions by 20% for each Champion with a WIS score of 11 or higher in the formation.
 * Increases the damage of all Champions with a STR score of 11 or higher by 100%.
 * Increases the damage of all Evil Champions by 150%.

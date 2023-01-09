@@ -169,18 +169,33 @@ Unknown.
 <br />
 
 **Zombie Bodyguards**
-> Unknown effect.
+> While Miria is alive, a Zombie Bodyguard that shares hit points with Miria appears in front of each Champion in the front-most column of the formation. When a Champion in that column takes damage, the Zombie Bodyguard takes 90% of the damage instead, while the original target takes the remaining 10%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 18264,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y6/Icon_Formation_MiriaZombieBodyguards",
-    "fs": 0
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "miria_zombie_bodyguards,90",
+        "targets": ["front_column"],
+        "zombie_sequences": {
+            "koed": 2,
+            "idle": 0,
+            "gethit": 3,
+            "ultimate": 2,
+            "walk": 1
+        }
+    }],
+    "requirements": "",
+    "description": {"desc": "While $(source_hero) is alive, a Zombie Bodyguard that shares hit points with $(source_hero) appears in front of each Champion in the front-most column of the formation. When a Champion in that column takes damage, the Zombie Bodyguard takes $(amount)% of the damage instead, while the original target takes the remaining $(remaining_amount)%."},
+    "id": 1420,
+    "flavour_text": "",
+    "graphic_id": 18264,
+    "properties": {
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
