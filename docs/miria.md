@@ -187,7 +187,7 @@ Unknown.
         }
     }],
     "requirements": "",
-    "description": {"desc": "While $(source_hero) is alive, a Zombie Bodyguard that shares hit points with $(source_hero) appears in front of each Champion in the front-most column of the formation. When a Champion in that column takes damage, the Zombie Bodyguard takes $(amount)% of the damage instead, while the original target takes the remaining $(remaining_amount)%."},
+    "description": {"desc": "While $(source_hero) is alive, a Zombie Bodyguard that shares hit points with $(source_hero) appears in front of each Champion in the front-most column of the formation. When a Champion in that column takes damage, the Zombie Bodyguard takes $(amount)% of the damage instead, while the original target takes the remaining $(miria_zombie_bodyguards_remaining_amount)%."},
     "id": 1420,
     "flavour_text": "",
     "graphic_id": 18264,
