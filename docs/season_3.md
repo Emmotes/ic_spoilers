@@ -235,8 +235,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown**
-> Increases the effect of `$(upgrade_name id)` by $amount% for ever other Kobold in the formation.
+**Kobold Family** (Guess)
+> Increases the effect of `$(upgrade_name id)` by `$amount%` for ever other Kobold in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
