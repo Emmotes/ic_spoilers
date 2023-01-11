@@ -203,7 +203,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Pack Tactics** (Guess)
-> Unknown effect.
+> Increases the damage of all Champions by `$(not_buffed amount)%` for every Kobold in the formation, including Spurt.
+> Base multiplier increased by 100% while Spurt is a spirit.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
