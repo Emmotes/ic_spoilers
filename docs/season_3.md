@@ -16,6 +16,8 @@ The champion changes and time gate cost reduction will all be going live on #DAT
 
 Spurt recently saw some changes in the data that could suggest he'll be in Season 3. This is just speculation at this point.
 
+Hew Maan also saw some changes. I'm even less sure that these changes mean Hew will be in season 3 than I am of Spurt - but felt I should add them any way - just-in-case.
+
 # Changes
 
 The information below is raw data on the "new" abilities that the champions might be getting. Some may be complete reworks - some may look copy-paste from old abilities that haven't seen reworks yet (and might not get reworked).
@@ -394,7 +396,103 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
+# Hew Maan
+
+**Unknown**
+> The Hello, Fellow Humans ability now uses the number of Lawful Champions in the formation instead of Humans.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "hewmaan_law_maan,0"
+    }],
+    "requirements": "",
+    "description": {
+        "pre": "The Hello, Fellow Humans ability now uses the number of Lawful Champions in the formation instead of Humans.",
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$(hewmaan_lawful_champions_count)"
+        }]}
+    },
+    "id": 1404,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown**
+> The Hello, Fellow Humans ability now uses the most populous race in your formation instead of Humans.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "hewmaan_did_we_say_humans,0"
+    }],
+    "requirements": "",
+    "description": {
+        "pre": "The Hello, Fellow Humans ability now uses the most populous race in your formation instead of Humans.",
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$(hewmaan_most_populous_race_and_count)"
+        }]}
+    },
+    "id": 1403,
+    "flavour_text": "",
+    "graphic_id": 9768,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown**
+> The Hello, Fellow Humans ability now uses the number of unaffiliated Champions in the formation instead of Humans.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "hewmaan_hello_fellow_mercenaries,0"
+    }],
+    "requirements": "",
+    "description": {
+        "pre": "The Hello, Fellow Humans ability now uses the number of unaffiliated Champions in the formation instead of Humans",
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$(hewmaan_unaffiliated_champions_count)"
+        }]}
+    },
+    "id": 1405,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
 {% comment %}
+
 # Champion
 
 **Unknown**
