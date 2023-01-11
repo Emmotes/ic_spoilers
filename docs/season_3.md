@@ -81,7 +81,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Centipede Net** (Guess)
-> Spurt increases the damage of adjacent Champions by 100%.
+> - Spurt increases the damage of adjacent Champions by 100%.
+> - Spurt Increases the damage of Champions within two slots by 100%.
 > While Spurt is a spirit, this effect is increased by 2% for each second of Ultimate cooldown that Spurt has, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -203,7 +204,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Pack Tactics** (Guess)
-> Increases the damage of all Champions by `$(not_buffed amount)%` for every Kobold in the formation, including Spurt.
+> Increases the damage of all Champions by 100% for every Kobold in the formation, including Spurt.
 > Base multiplier increased by 100% while Spurt is a spirit.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -236,7 +237,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Kobold Family** (Guess)
-> Increases the effect of `$(upgrade_name id)` by `$amount%` for ever other Kobold in the formation.
+> Increases the effect of `$(upgrade_name id)` by 100% for ever other Kobold in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -255,7 +256,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Wa-spiration: Stingy** (Guess)
-> Champions that attack with melee attacks deal `$amount%` additional damage.
+> Champions that attack with melee attacks deal 200% additional damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -301,7 +302,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Wa-spiration: Skunky** (Guess)
-> Enemies that approach the party take an extra `$amount%` damage.
+> Enemies that approach the party take an extra 200% damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -348,7 +349,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Wa-spiration: Grubby** (Guess)
-> All Champions' base attack cooldowns are reduced by `$amount` seconds.
+> All Champions' base attack cooldowns are reduced by 0.1 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
