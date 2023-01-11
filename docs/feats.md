@@ -8,9 +8,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| B&G | `Power Up` | 80% Get Buff | 50,000 Gems | 11 Jan 2023 |
-| Fen | `I Don't Trust This` | 200% Patron's Oath | 50,000 Gems | 11 Jan 2023 |
-| Voronika | `Dark Lady` | 80% Calculating Guidance | 50,000 Gems | 11 Jan 2023 |
 | Arkhan | `Weapon Master` | 120% Self DPS | 50,000 Gems | 25 Jan 2023 |
 | Artemis | `Weapon Master` | 120% Self DPS | 50,000 Gems | 25 Jan 2023 |
 | Krull | `Sworn to Service` | 80% Dark Order Synergy | 50,000 Gems | 25 Jan 2023 |

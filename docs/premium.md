@@ -4,44 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Barovia Visitor Voronika Skin & Feat Pack - $9.99  
-Date of release: 11 Jan 2023
-
-Contents:
-
-* Champion: `Voronika`
-* Skin: `Barovia Visitor Voronika`
-* Feat: `Dark Lady` (Voronika)
-* Chests: `Gold Voronika Chest` x7 (Shinies x1)
-
-<br />
-
-### Vampire Hunter Beadle & Grimm Skin & Feat Pack - $9.99  
-Date of release: 11 Jan 2023
-
-Contents:
-
-* Champion: `Beadle & Grimm`
-* Skin: `Vampire Hunter Beadle & Grimm`
-* Feat: `Power Up` (B&G)
-* Chests: `Gold Beadle & Grimm Chest` x7 (Shinies x1)
-
-<br />
-
-### Vampiric Darklord Fen Theme Pack - $24.99  
-Date of release: 11 Jan 2023
-
-Contents:
-
-* Champion: `Fen`
-* Skin: `Vampiric Darklord Fen`
-* Feat: `I Don't Trust This` (Fen)
-* Familiar: `Izzy the Vampire Bat`
-* Chests: `Gold Fen Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
 ### Champion of Tovag Artemis Skin & Feat Pack - $9.99  
 Date of release: 25 Jan 2023
 
@@ -525,6 +487,20 @@ Contents:
 * Buff: `Potion of the Gold Hunter` x1
 * Modron: `Upgrade Components` x2,000
 * Buff: `Potion of Polish` x1
+
+<br />
+
+### Dragonlance Miria Theme Pack - $24.99  
+Date of release: 15 Mar 2023
+
+Contents:
+
+* Champion: `Miria`
+* Skin: `Dragonlance Miria`
+* Feat: `Selflessness` (Bruenor)
+* Familiar: `Malleus the Baby Death Dragon`
+* Chests: `Gold E9Y6 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
 
 <br />
 
