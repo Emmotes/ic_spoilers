@@ -10,9 +10,7 @@ The champion changes and time gate cost reduction will all be going live on #DAT
 
 # Theme
 
-{% comment %}
-![Season 3 Profile](images/portrait_s3.png)
-{% endcomment %}
+![Season 3 Portrait](images/portrait_s3.png)
 
 Spurt recently saw some changes in the data that could suggest he'll be in Season 3. This is just speculation at this point.
 
@@ -25,6 +23,8 @@ The information below is raw data on the "new" abilities that the champions migh
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. Making assumptions on how the champions will turn out based on this information would be premature.
 
 # Spurt
+
+![Spurt Portrait](images/season_spurt.png)
 
 **You Dead!**
 > Spurt tosses a wasp nest at a stalking giant, and then is immediately killed by a giant hammer, which damages all Enemies on screen. Spurt then comes back as a spirit, increasing the effects of his abilities until he revives.
@@ -397,6 +397,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 # Hew Maan
+
+![Hew Maan Portrait](images/season_hewmaan.png)
 
 **Unknown**
 > The Hello, Fellow Humans ability now uses the number of Lawful Champions in the formation instead of Humans.
