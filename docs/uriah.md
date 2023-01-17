@@ -457,7 +457,6 @@ Black Viper: 5 / 6
 </pre>
 </p>
 </details>
-<br />
 
 # Console Portrait
 
