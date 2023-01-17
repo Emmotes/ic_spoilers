@@ -413,7 +413,7 @@ This list will only show feats that are going to be available on the release of 
 * Increases the damage of all Champions with a INT score of 11 or higher by 100%.
 * Increases the damage of all Good Champions by 150%.
 
-<details><summary><em>Applicable</em></summary>
+<details><summary><em>DPS Applicable</em></summary>
 <p>
 <pre>
      Arkhan: 3 / 6
@@ -457,6 +457,7 @@ Black Viper: 5 / 6
 </pre>
 </p>
 </details>
+<br />
 
 # Console Portrait
 
