@@ -92,8 +92,34 @@ Unknown.
 </details>
 <br />
 
+**Mage of High Society** (Guess)
+> Miria increases the damage of all adjacent Champions by $(amount)%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+            "effect_keys": [{
+                "off_when_benched": true,
+                "effect_string": "hero_dps_multiplier_mult,100",
+                "targets": ["adj"]
+            }],
+            "requirements": "",
+            "description": {"desc": "$(source_hero) increases the damage of all adjacent Champions by $(amount)%."},
+            "id": 1418,
+            "flavour_text": "",
+            "graphic_id": 18262,
+            "properties": {
+                "is_formation_ability": true,
+                "owner_use_outgoing_description": true
+            }
+        }
+</pre>
+</p>
+</details>
+<br />
+
 **Soul Cage**
-> > When an enemy is defeated, Miria can capture its soul and gain a Soul Cage stack. Her maximum number of Soul Cage stacks is 1 for every 20 areas completed in the current adventure, rounded up. Miria increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Soul Cage stack she has, stacking multiplicatively.
+> When an enemy is defeated, Miria can capture its soul and gain a Soul Cage stack. Her maximum number of Soul Cage stacks is 1 for every 20 areas completed in the current adventure, rounded up. Miria increases the damage bonus of Mage of High Society by `$(not_buffed amount)%` for each Soul Cage stack she has, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -259,29 +285,10 @@ Unknown.
 </details>
 <br />
 
-**Mage of High Society**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 18262,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y6/Icon_Formation_MiriaMageofHighSociety",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-<br />
-
 # Specialisations
 
 **Methodical**
-> Miria increases the attack bonus of `$(upgrade_name id___2)` by `$(amount)%` for each Lawful Champion in the formation, stacking multiplicatively.
+> Miria increases the attack bonus of Mage of High Society by `$(amount)%` for each Lawful Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -317,7 +324,7 @@ Unknown.
 <br />
 
 **Intellectual**
-> Miria increases the attack bonus of `$(upgrade_name id___2)` by `$(amount)%` for each Champion with an INT score of 15+ in the formation, stacking multiplicatively.
+> Miria increases the attack bonus of Mage of High Society by `$(amount)%` for each Champion with an INT score of 15+ in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -353,7 +360,7 @@ Unknown.
 <br />
 
 **Independent**
-> Miria increases the attack bonus of `$(upgrade_name id___2)` by `$(amount)%` for each Unaffiliated Champion in the formation, stacking multiplicatively.
+> Miria increases the attack bonus of Mage of High Society by `$(amount)%` for each Unaffiliated Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
