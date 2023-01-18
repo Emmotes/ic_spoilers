@@ -8,10 +8,7 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Arkhan | `Knight of Takhisis` | Knight of Takhisis Arkhan Skin & Feat Pack | $9.99 | 25 Jan 2023 |
 | Artemis | `Champion of Tovag` | Champion of Tovag Artemis Skin & Feat Pack | $9.99 | 25 Jan 2023 |
-| Krull | `Knight of Takhisis` | Knight of Takhisis Krull Skin & Feat Pack | $9.99 | 25 Jan 2023 |
-| Torogar | `Knight of Takhisis` | Knight of Takhisis Torogar Skin & Feat Pack | $9.99 | 25 Jan 2023 |
 | Baeloth | `Flayer Hunter` | Gem Shop | 20,000 | 01 Feb 2023 |
 | Delina | `Flayer Hunter` | Gem Shop | 20,000 | 01 Feb 2023 |
 | Imoen | `Flayer Hunter` | Gem Shop | 20,000 | 01 Feb 2023 |
@@ -23,6 +20,9 @@ Most skins are real money purchases only.
 | Nova | `Dragonlance` | Dragonlance Nova Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Qillek | `Dragonlance` | Dragonlance Qillek Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Sentry | `Dragonlance` | Dragonlance Sentry Skin & Feat Pack | $9.99 | 10 Feb 2023 |
+| Arkhan | `Knight of Takhisis` | Knight of Takhisis Arkhan Skin & Feat Pack | $9.99 | 17 Feb 2023 |
+| Krull | `Knight of Takhisis` | Knight of Takhisis Krull Skin & Feat Pack | $9.99 | 17 Feb 2023 |
+| Torogar | `Knight of Takhisis` | Knight of Takhisis Torogar Skin & Feat Pack | $9.99 | 17 Feb 2023 |
 | Corazón | `Dragonlance` | Dragonlance Corazón Skin & Feat Pack | $9.99 | 20 Feb 2023 |
 | Dob | `Dragonlance` | Dragonlance Dob Skin & Feat Pack | $9.99 | 20 Feb 2023 |
 | Egbert | `Dragonlance` | Dragonlance Egbert Skin & Feat Pack | $9.99 | 20 Feb 2023 |
@@ -36,8 +36,15 @@ Most skins are real money purchases only.
 | Baeloth | `Dragonlance` | Dragonlance Baeloth Skin & Feat Pack | $9.99 | 01 Mar 2023 |
 | Imoen | `Dragonlance` | Dragonlance Imoen Skin & Feat Pack | $9.99 | 01 Mar 2023 |
 | Viconia | `Dragonlance` | Dragonlance Viconia Skin & Feat Pack | $9.99 | 01 Mar 2023 |
+| Barrowin | `Ancient` | ??? | ??? | 08 Mar 2023 |
+| Birdsong | `Lawbringer` | ??? | ??? | 08 Mar 2023 |
+| Hew Maan | `Law Maan` | ??? | ??? | 08 Mar 2023 |
 | Hew Maan | `Vecna Maan` | Vecna Maan Skin & Feat Pack | $9.99 | 08 Mar 2023 |
+| Spurt | `Lawbringer` | ??? | ??? | 08 Mar 2023 |
+| Turiel | `Ancient` | ??? | ??? | 08 Mar 2023 |
 | Miria | `Dragonlance` | Dragonlance Miria Theme Pack | $24.99 | 15 Mar 2023 |
+| Calliope | `Red Wizard` | ??? | ??? | 29 Mar 2023 |
+| Widdle | `Red Wizard` | ??? | ??? | 29 Mar 2023 |
 
 [Back to Top](#top)
 

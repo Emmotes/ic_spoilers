@@ -32,62 +32,6 @@ Contents:
 
 <br />
 
-### Knight of Takhisis Arkhan Skin & Feat Pack - $9.99  
-Date of release: 25 Jan 2023
-
-Contents:
-
-* Skin: `Knight of Takhisis Arkhan`
-* Feat: `Weapon Master` (Arkhan)
-* Chests: `Gold Supply Chest` x7
-* Buff: `Potion of Polish` x1
-
-<br />
-
-### Knight of Takhisis Krull Skin & Feat Pack - $9.99  
-Date of release: 25 Jan 2023
-
-Contents:
-
-* Champion: `Krull`
-* Skin: `Knight of Takhisis Krull`
-* Feat: `Sworn to Service` (Krull)
-* Chests: `Gold Krull Chest` x7 (Shinies x1)
-
-<br />
-
-### Knight of Takhisis Torogar Skin & Feat Pack - $9.99  
-Date of release: 25 Jan 2023
-
-Contents:
-
-* Champion: `Torogar`
-* Skin: `Knight of Takhisis Torogar`
-* Feat: `Devoted Shield` (Torogar)
-* Chests: `Gold Torogar Chest` x7 (Shinies x1)
-
-<br />
-
-### Knights of Takhisis Bundle Pack - $24.99  
-Date of release: 25 Jan 2023
-
-Contents:
-
-* Skin: `Knight of Takhisis Arkhan`
-* Feat: `Weapon Master` (Arkhan)
-* Chests: `Gold Supply Chest` x7
-* Buff: `Potion of Polish` x1
-* Champion: `Krull`
-* Skin: `Knight of Takhisis Krull`
-* Feat: `Sworn to Service` (Krull)
-* Chests: `Gold Krull Chest` x7 (Shinies x1)
-* Champion: `Torogar`
-* Skin: `Knight of Takhisis Torogar`
-* Feat: `Devoted Shield` (Torogar)
-* Chests: `Gold Torogar Chest` x7 (Shinies x1)
-
-<br />
-
 ### Blushing Bride Nahara Skin & Feat Pack - $9.99  
 Date of release: 01 Feb 2023
 
@@ -242,6 +186,62 @@ Contents:
 * Buff: `Huge Potion of Giant's Strength` x4
 * Buff: `Huge Potion of Clairvoyance` x4
 * Buff: `Potion of Polish` x1
+
+<br />
+
+### Knight of Takhisis Arkhan Skin & Feat Pack - $9.99  
+Date of release: 17 Feb 2023
+
+Contents:
+
+* Skin: `Knight of Takhisis Arkhan`
+* Feat: `Weapon Master` (Arkhan)
+* Chests: `Gold Supply Chest` x7
+* Buff: `Potion of Polish` x1
+
+<br />
+
+### Knight of Takhisis Krull Skin & Feat Pack - $9.99  
+Date of release: 17 Feb 2023
+
+Contents:
+
+* Champion: `Krull`
+* Skin: `Knight of Takhisis Krull`
+* Feat: `Sworn to Service` (Krull)
+* Chests: `Gold Krull Chest` x7 (Shinies x1)
+
+<br />
+
+### Knight of Takhisis Torogar Skin & Feat Pack - $9.99  
+Date of release: 17 Feb 2023
+
+Contents:
+
+* Champion: `Torogar`
+* Skin: `Knight of Takhisis Torogar`
+* Feat: `Devoted Shield` (Torogar)
+* Chests: `Gold Torogar Chest` x7 (Shinies x1)
+
+<br />
+
+### Knights of Takhisis Bundle Pack - $24.99  
+Date of release: 17 Feb 2023
+
+Contents:
+
+* Skin: `Knight of Takhisis Arkhan`
+* Feat: `Weapon Master` (Arkhan)
+* Chests: `Gold Supply Chest` x7
+* Buff: `Potion of Polish` x1
+* Champion: `Krull`
+* Skin: `Knight of Takhisis Krull`
+* Feat: `Sworn to Service` (Krull)
+* Chests: `Gold Krull Chest` x7 (Shinies x1)
+* Champion: `Torogar`
+* Skin: `Knight of Takhisis Torogar`
+* Feat: `Devoted Shield` (Torogar)
+* Chests: `Gold Torogar Chest` x7 (Shinies x1)
 
 <br />
 
