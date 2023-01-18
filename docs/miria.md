@@ -199,7 +199,7 @@ Unknown.
 <br />
 
 **Clone**
-> Miria maintains a stash of clones in her Inner Sanctum with a count equal to her Soul Cage stacks. If Miria is defeated, a clone immediately appears and takes her place at full health. This does not reduce the number of Soul Cage stacks she has. Her stash of clones are regenerated when the party changes areas. For each clone summoned in the current area, the effect of `$(upgrade_name id)` is increased by `$(not_buffed amount)%`, stacking multiplicatively.
+> Miria maintains a stash of clones in her Inner Sanctum with a count equal to her Soul Cage stacks. If Miria is defeated, a clone immediately appears and takes her place at full health. This does not reduce the number of Soul Cage stacks she has. Her stash of clones are regenerated when the party changes areas. For each clone summoned in the current area, the effect of Mage of High Society is increased by `$(not_buffed amount)%`, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
