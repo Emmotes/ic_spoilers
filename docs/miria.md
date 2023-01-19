@@ -93,7 +93,7 @@ Unknown.
 <br />
 
 **Mage of High Society** (Guess)
-> Miria increases the damage of all adjacent Champions by $(amount)%.
+> Miria increases the damage of all adjacent Champions by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
