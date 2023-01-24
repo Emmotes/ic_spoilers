@@ -83,10 +83,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Centipede Net** (Guess)
-> - Spurt increases the damage of adjacent Champions by 100%.
-> - Spurt Increases the damage of Champions within two slots by 100%.
+> Spurt increases the damage of adjacent Champions by `$amount%`.
 > 
-> While Spurt is a spirit, this effect is increased by 2% for each second of Ultimate cooldown that Spurt has, stacking multiplicatively.
+> While in Spirit form:  
+> - This effect is increased by 2% for each second of Ultimate cooldown that Spurt has, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -121,8 +121,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Wa-spiration** (Guess)
-> Spurt gains a stack of Wa-aspiration every time he attacks. Every 2 Wa-aspiration stacks, Spurt invents a random effect. Effects can stack up to 5 times each and persist until the area changes.  
-> While Spurt is a spirit, he gains a Wa-spiration stack when an adjacent Champion attacks and the base multipliers of the invented effects are increased by 100%.
+> Spurt gains a stack of Wa-aspiration every time he attacks. Every 2 Wa-aspiration stacks, Spurt invents a random effect. Effects can stack up to 5 times each and persist until the area changes.
+> 
+> While in Spirit form:  
+> - Wa-spiration stacks are gained when an adjacent Champion attacks and the base multipliers of the invented effects are increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -185,8 +187,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Spurt's Spirit** (Guess)
-> Increases the damage of all Champions by $amount%.  
-> While in Spirit form:
+> Increases the damage of all Champions by `$amount%`.
+> 
+> While in Spirit form:  
 > - Centipede Net: Buffed by 2% for each second of ultimate cooldown that Spurt has.
 > - Wa-spiration: Stacks are gained every time an adjacent Champion attacks and the base multipliers of the invented effects are increased by 100%.
 > - Pack Tactics: The base multiplier is increased by 100%
@@ -229,10 +232,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Pack Tactics** (Guess)
-> - Increases the damage of all Champions by 100% for every Kobold in the formation, including Spurt.
-> - Increases the damage of all Champions by 100% for every Kobold and Unaffiliated Non-Kobold in the formation, including Spurt.
+> Increases the damage of all Champions by 100% for every Kobold in the formation, including Spurt.
 > 
-> Base multiplier increased by 100% while Spurt is a spirit.
+> While in Spirit form:  
+> - Base multiplier increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
