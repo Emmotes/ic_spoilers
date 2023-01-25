@@ -83,10 +83,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Centipede Net** (Guess)
-> Spurt increases the damage of adjacent Champions by `$amount%`.
+> Spurt increases the damage of adjacent Champions by 100%.
 > 
 > While in Spirit form:  
-> - This effect is increased by 2% for each second of Ultimate cooldown that Spurt has, stacking multiplicatively.
+> - This effect is increased by 2% for each second of Spurt's maximum Ultimate cooldown, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -101,13 +101,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "pre": {"conditions": [
             {
                 "condition": "upgrade_purchased 10682",
-                "desc": "Spurt Increases the damage of Champions within two slots by $amount%"
+                "desc": "Spurt Increases the damage of Champions two slots away by $amount%"
             },
             {"desc": "Spurt increases the damage of adjacent Champions by $amount%"}
         ]},
         "post": {"conditions": [{
             "condition": "spurt_is_spirit_v2",
-            "desc": "^^({Spirit:}#99C7F7 This effect is increased by 2% for each second of Ultimate cooldown that Spurt has, stacking multiplicatively)"
+            "desc": "^^({Spirit:}#99C7F7 This effect is increased by 2% for each second of Spurt's maximum Ultimate cooldown, stacking multiplicatively)"
         }]}
     },
     "id": 1426,
@@ -121,7 +121,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Wa-spiration** (Guess)
-> Spurt gains a stack of Wa-aspiration every time he attacks. Every 2 Wa-aspiration stacks, Spurt invents a random effect. Effects can stack up to 5 times each and persist until the area changes.
+> Spurt gains a stack of Wa-spiration every time he attacks. Every 2 Wa-spiration stacks, Spurt invents a random effect. Effects can stack up to 5 times each and persist until the area changes.
 > 
 > While in Spirit form:  
 > - Wa-spiration stacks are gained when an adjacent Champion attacks and the base multipliers of the invented effects are increased by 100%.
@@ -151,18 +151,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "buffed_amount": 400
             },
             {
-                "base_amount": 0.1,
+                "base_amount": 0.10000000000000001,
                 "effect_id": 1435,
-                "buffed_amount": 0.2
+                "buffed_amount": 0.20000000000000001
             }
         ],
+        "wasp_default_graphic": 18378,
         "max_wasp_speed": 6,
-        "wasp_graphic": 18378,
         "wasp_max_float_radius": 20
     }],
     "requirements": [],
     "description": {
-        "pre": "Spurt gains a stack of Wa-aspiration every time he attacks. Every $(stacks_until_effect) Wa-aspiration stacks, Spurt invents a random effect. Effects can stack up to $(max_effect_stacks) times each and persist until the area changes.",
+        "pre": "Spurt gains a stack of Wa-spiration every time he attacks. Every $(stacks_until_effect) Wa-spiration stacks, Spurt invents a random effect. Effects can stack up to $(max_effect_stacks) times each and persist until the area changes.",
         "post": {"conditions": [{
             "condition": "not static_desc",
             "desc": "^^$(spurt_waspiration_v2_desc)"
@@ -302,40 +302,49 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-	"effect_keys": [
-		{
-			"stacks_multiply": true,
-			"effect_string": "increase_monster_damage_from,200,melee",
-			"max_stacks": 5,
-			"stacks_on_trigger": "will_manually_stack"
-		},
-		{
-			"amount": 200,
-			"stacks_multiply": true,
-			"show_bonus": true,
-			"effect_string": "show_in_spurt_outgoing",
-			"max_stacks": 5,
-			"stacks_on_trigger": "will_manually_stack",
-			"targets": [{
-				"hero_ids": [
-					43,
-					132
-				],
-				"type": "heroes"
-			}]
-		}
-	],
-	"requirements": [],
-	"description": {"desc": "Champions that attack with melee attacks deal $amount% additional damage"},
-	"id": 1433,
-	"flavour_text": "",
-	"graphic_id": 5451,
-	"properties": {
-		"use_outgoing_description": true,
-		"is_formation_ability": true,
-		"show_in_owner_outgoing": true,
-		"effect_name": "Wa-spiration: Stingy"
-	}
+    "effect_keys": [
+        {
+            "stacks_multiply": true,
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,200",
+            "clear_stacks_on_deactivate": false,
+            "max_stacks": 5,
+            "targets": [{
+                "attack": "melee",
+                "type": "attack_type"
+            }],
+            "stacks_on_trigger": "will_manually_stack"
+        },
+        {
+            "amount": 200,
+            "stacks_multiply": true,
+            "off_when_benched": true,
+            "show_bonus": true,
+            "effect_string": "show_in_spurt_outgoing",
+            "clear_stacks_on_deactivate": false,
+            "max_stacks": 5,
+            "stacks_on_trigger": "will_manually_stack",
+            "targets": [{
+                "hero_ids": [
+                    43,
+                    132
+                ],
+                "type": "heroes"
+            }]
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Champions that attack with melee attacks deal $amount% additional damage"},
+    "id": 1433,
+    "flavour_text": "",
+    "graphic_id": 5451,
+    "properties": {
+        "use_outgoing_description": false,
+        "is_formation_ability": true,
+        "show_in_owner_outgoing": true,
+        "effect_name": "Wa-spiration: Stingy",
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -348,41 +357,45 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-	"effect_keys": [
-		{
-			"stacks_multiply": true,
-			"active_graphic_id": 2654,
-			"effect_string": "increase_monster_damage_percent_to_party,200,80",
-			"max_stacks": 5,
-			"stacks_on_trigger": "will_manually_stack"
-		},
-		{
-			"amount": 200,
-			"stacks_multiply": true,
-			"show_bonus": true,
-			"effect_string": "show_in_spurt_outgoing",
-			"max_stacks": 5,
-			"stacks_on_trigger": "will_manually_stack",
-			"targets": [{
-				"hero_ids": [
-					43,
-					132
-				],
-				"type": "heroes"
-			}]
-		}
-	],
-	"requirements": [],
-	"description": {"desc": "Enemies that approach the party take an extra $amount% damage"},
-	"id": 1434,
-	"flavour_text": "",
-	"graphic_id": 5451,
-	"properties": {
-		"use_outgoing_description": true,
-		"is_formation_ability": true,
-		"show_in_owner_outgoing": true,
-		"effect_name": "Wa-spiration: Skunky"
-	}
+    "effect_keys": [
+        {
+            "stacks_multiply": true,
+            "off_when_benched": true,
+            "active_graphic_id": 2654,
+            "effect_string": "increase_monster_damage_percent_to_party,200,80",
+            "clear_stacks_on_deactivate": false,
+            "max_stacks": 5,
+            "stacks_on_trigger": "will_manually_stack"
+        },
+        {
+            "amount": 200,
+            "stacks_multiply": true,
+            "off_when_benched": true,
+            "show_bonus": true,
+            "effect_string": "show_in_spurt_outgoing",
+            "clear_stacks_on_deactivate": false,
+            "max_stacks": 5,
+            "stacks_on_trigger": "will_manually_stack",
+            "targets": [{
+                "hero_ids": [
+                    43,
+                    132
+                ],
+                "type": "heroes"
+            }]
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Enemies that approach the party take an extra $amount% damage"},
+    "id": 1434,
+    "flavour_text": "",
+    "graphic_id": 5451,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "show_in_owner_outgoing": true,
+        "effect_name": "Wa-spiration: Skunky"
+    }
 }
 </pre>
 </p>
@@ -395,39 +408,44 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-	"effect_keys": [
-		{
-			"effect_string": "reduce_attack_cooldown,0.1",
-			"max_stacks": 5,
-			"stacks_on_trigger": "will_manually_stack"
-		},
-		{
-			"amount": 0.1,
-			"bonus_is_seconds": true,
-			"show_bonus": true,
-			"effect_string": "show_in_spurt_outgoing",
-			"max_stacks": 5,
-			"stacks_on_trigger": "will_manually_stack",
-			"targets": [{
-				"hero_ids": [
-					43,
-					132
-				],
-				"type": "heroes"
-			}]
-		}
-	],
-	"requirements": [],
-	"description": {"desc": "All Champions' base attack cooldowns are reduced by $amount seconds"},
-	"id": 1435,
-	"flavour_text": "",
-	"graphic_id": 5451,
-	"properties": {
-		"use_outgoing_description": true,
-		"is_formation_ability": true,
-		"show_in_owner_outgoing": true,
-		"effect_name": "Wa-spiration: Grubby"
-	}
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "reduce_attack_cooldown,0.1",
+            "clear_stacks_on_deactivate": false,
+            "max_stacks": 5,
+            "stacks_on_trigger": "will_manually_stack"
+        },
+        {
+            "amount": 0.10000000000000001,
+            "bonus_is_seconds": true,
+            "off_when_benched": true,
+            "show_bonus": true,
+            "effect_string": "show_in_spurt_outgoing",
+            "clear_stacks_on_deactivate": false,
+            "max_stacks": 5,
+            "stacks_on_trigger": "will_manually_stack",
+            "total_bonus_amount_prefix": "-",
+            "targets": [{
+                "hero_ids": [
+                    43,
+                    132
+                ],
+                "type": "heroes"
+            }]
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "All Champions' base attack cooldowns are reduced by $amount seconds"},
+    "id": 1435,
+    "flavour_text": "",
+    "graphic_id": 5451,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "show_in_owner_outgoing": true,
+        "effect_name": "Wa-spiration: Grubby"
+    }
 }
 </pre>
 </p>
@@ -446,7 +464,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1436,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -462,9 +480,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "data": {"targets": [{
-                "comparison": "<=",
+                "comparison": "=",
                 "distance": 2,
-                "self": false,
                 "type": "distance"
             }]},
             "effect_string": "change_upgrade_data,10678"
@@ -476,7 +493,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1437,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -511,6 +528,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "properties": {
         "indexed_effect_properties": true,
+        "is_formation_ability": true,
         "spec_option_post_apply_info": "Unaffiliated Non-Kobold Champions: $num_stacks___2",
         "default_bonus_index": 0,
         "per_effect_index_bonuses": true
@@ -526,15 +544,84 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 ![Hew Maan Portrait](images/season_hewmaan.png)
 
 **Unknown**
-> The Hello, Fellow Humans ability now uses the number of Lawful Champions in the formation instead of Humans.
+> The effect of all Teamwork abilities are increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [{
         "off_when_benched": true,
-        "effect_string": "hewmaan_law_maan,0"
+        "effect_string": "buff_upgrade,100,10648"
     }],
+    "requirements": "",
+    "description": {"desc": "The effect of all Teamwork abilities are increased by $(amount)%"},
+    "id": 1447,
+    "flavour_text": "",
+    "graphic_id": 9769,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown**
+> Increases the effect of Zrang's Teamwork ability by `$(amount)%` for each Champion adjacent to the kobolds (stacks additively and then applied to Teamwork multiplicatively).
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hewmaan_carefully_balanced,5"
+        },
+        {
+            "manual_stacking": true,
+            "stacks_are_bonus": false,
+            "show_bonus": true,
+            "effect_string": "buff_upgrade,0,10648,1"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Increases the effect of {Zrang's}#955d81 Teamwork ability by $(amount)% for each Champion adjacent to the kobolds (stacks additively and then applied to Teamwork multiplicatively)."},
+    "id": 1446,
+    "flavour_text": "",
+    "graphic_id": 9764,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown** (Guess)
+> The Hello, Fellow Humans ability now uses the number of Lawful Champions in the formation instead of Humans.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hewmaan_law_maan,0"
+        },
+        {
+            "stack_func": "per_hero",
+            "dev_note": "this effect key is just for getting the number of champions targetted in the formation for the spec option post apply info",
+            "effect_string": "do_nothing,0",
+            "tag": "lawful"
+        }
+    ],
     "requirements": "",
     "description": {
         "pre": "The Hello, Fellow Humans ability now uses the number of Lawful Champions in the formation instead of Humans.",
@@ -547,8 +634,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
+        "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "spec_option_post_apply_info": "Lawful Champions: $num_stacks___2",
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -556,16 +647,19 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown**
+**Specialisation: Unknown** (Guess)
 > The Hello, Fellow Humans ability now uses the most populous race in your formation instead of Humans.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "off_when_benched": true,
-        "effect_string": "hewmaan_did_we_say_humans,0"
-    }],
+    "effect_keys": [
+        {"effect_string": "hew_maan_did_we_say_humans_spec_post_apply_info"},
+        {
+            "off_when_benched": true,
+            "effect_string": "hewmaan_did_we_say_humans,0"
+        }
+    ],
     "requirements": "",
     "description": {
         "pre": "The Hello, Fellow Humans ability now uses the most populous race in your formation instead of Humans.",
@@ -579,6 +673,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 9768,
     "properties": {
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "$active_effect_key_handler_custom_spec_hint",
         "owner_use_outgoing_description": true
     }
 }
@@ -587,16 +682,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown**
+**Specialisation: Unknown** (Guess)
 > The Hello, Fellow Humans ability now uses the number of unaffiliated Champions in the formation instead of Humans.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "off_when_benched": true,
-        "effect_string": "hewmaan_hello_fellow_mercenaries,0"
-    }],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hewmaan_hello_fellow_mercenaries,0"
+        },
+        {
+            "stack_func": "per_hero",
+            "dev_note": "this effect key is just for getting the number of champions targetted in the formation for the spec option post apply info",
+            "effect_string": "do_nothing,0",
+            "tag": "unaffiliated"
+        }
+    ],
     "requirements": "",
     "description": {
         "pre": "The Hello, Fellow Humans ability now uses the number of unaffiliated Champions in the formation instead of Humans",
@@ -609,8 +712,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
+        "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "spec_option_post_apply_info": "Unaffiliated Champions: $num_stacks___2",
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -658,33 +765,34 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-	"description": "Barrowin infuses her hammer with holy energy, stunning a random enemy and buffing Blessed Hammer.",
-	"long_description": "Barrowin infuses her hammer with holy energy and throws it at a random enemy, stunning it for 5 seconds. For the next 15 seconds, the base effect of Blessed Hammer is increased by 100%.",
-	"damage_modifier": 0.03,
-	"damage_types": ["ranged"],
-	"graphic_id": 1872,
-	"target": "random",
-	"aoe_radius": 0,
-	"tags": [
-		"melee",
-		"ultimate"
-	],
-	"num_targets": 1,
-	"animations": [{
-		"barrowin_bonus_effect": 1445,
-		"effect_frames": {"projectile": {"effect_string": "barrowin_ultimate_action_v2"}},
-		"hit_sound": 133,
-		"shoot_sound": 149,
-		"stun_on_hit": 5,
-		"projectile_graphic_id": 1,
-		"type": "ranged_attack",
-		"projectile": "holy_weapon",
-		"hold_shoot_frame": true,
-		"shoot_frame": 28
-	}],
-	"name": "Holy Weapon",
-	"cooldown": 360,
-	"id": 607
+    "description": "Barrowin infuses her hammer with holy energy, stunning a random enemy and buffing Blessed Hammer.",
+    "long_description": "Barrowin infuses her hammer with holy energy and throws it at a random enemy, stunning it for 5 seconds. For the next 15 seconds, the base effect of Blessed Hammer is increased by 100%.",
+    "damage_modifier": 0.029999999999999999,
+    "damage_types": ["ranged"],
+    "graphic_id": 1872,
+    "target": "random",
+    "aoe_radius": 0,
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "effect_frames": {"projectile": {"effect_string": "barrowin_ultimate_action_v2"}},
+        "hit_sound": 133,
+        "blessed_hammer_buff_time": 15,
+        "shoot_sound": 149,
+        "stun_on_hit": 5,
+        "projectile_graphic_id": 1,
+        "blessed_hammer_bonus_amount": 100,
+        "type": "ranged_attack",
+        "projectile": "holy_weapon",
+        "hold_shoot_frame": true,
+        "shoot_frame": 28
+    }],
+    "name": "Holy Weapon",
+    "cooldown": 360,
+    "id": 607
 }
 </pre>
 </p>
@@ -692,37 +800,48 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Blessed Hammer** (Guess)
-> Barrowin increases the damage of Champions behind her by 400% for each Champion in the formation who has an equal or higher base attack cooldown, stacking multiplicatively.
+> Barrowin increases the damage of Champions behind her by `$(not_buffed amount)%` for each Champion in the formation who has an equal or higher base attack cooldown, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-	"effect_keys": [{
-		"amount_updated_listeners": [
-			"slot_changed",
-			"attack_changed",
-			"base_attack_cooldown_changed"
-		],
-		"stacks_multiply": true,
-		"off_when_benched": true,
-		"show_bonus": true,
-		"amount_func": "mult",
-		"stack_func": "per_hero",
-		"use_computed_amount_for_description": true,
-		"effect_string": "hero_dps_multiplier_mult,400",
-		"stack_func_data": {"target_filters": [{
-			"comparison": ">=",
-			"type": "attack_cooldown",
-			"value": {"base_attack_cooldown_from_hero_id": 130}
-		}]},
-		"targets": ["behind"]
-	}],
-	"requirements": [],
-	"description": {"desc": "Barrowin increases the damage of Champions behind her by $(not_buffed amount)% for each Champion in the formation who has an equal or higher base attack cooldown, stacking multiplicatively."},
-	"id": 1439,
-	"flavour_text": "",
-	"graphic_id": 1867,
-	"properties": {"is_formation_ability": true}
+    "effect_keys": [
+        {
+            "amount_updated_listeners": [
+                "slot_changed",
+                "attack_changed",
+                "base_attack_cooldown_changed"
+            ],
+            "stacks_multiply": true,
+            "off_when_benched": true,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero",
+            "use_computed_amount_for_description": true,
+            "effect_string": "hero_dps_multiplier_mult,400",
+            "stack_func_data": {"target_filters": [{
+                "comparison": ">=",
+                "type": "attack_cooldown",
+                "value": {"base_attack_cooldown_from_hero_id": 130}
+            }]},
+            "targets": ["behind"]
+        },
+        {
+            "base_dps_buff_amount": 400,
+            "dps_buff_effect_key_index": 0,
+            "effect_string": "barrowin_blessed_hammer",
+            "hammer_of_the_law_upg_id": 10691
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Barrowin increases the damage of Champions behind her by $(not_buffed amount)% for each Champion in the formation who has an equal or higher base attack cooldown, stacking multiplicatively."},
+    "id": 1439,
+    "flavour_text": "",
+    "graphic_id": 1867,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -730,39 +849,41 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Unknown**
-> Barrowin has a number of Vigilance stacks equal to the number of Champions in the formation that are either lawful or dwarves. Increase the health of other Champions in the formation by 5% of Barrowin's max health for each Vigilance stack.
+> Barrowin has a number of Vigilance stacks equal to the number of Champions in the formation that are either lawful or dwarves. She increases the health of other Champions in the formation by 5% of her max health for each Vigilance stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-	"effect_keys": [{
-		"amount_updated_listeners": [
-			"max_health_changed",
-			"slot_changed"
-		],
-		"stacks_multiply": false,
-		"total_title": "Bonus Health",
-		"amount_func": "add",
-		"stack_func": "per_hero",
-		"use_computed_amount_for_description": true,
-		"effect_string": "increase_health_by_source_percent,5",
-		"targets": ["other"],
-		"stack_title": "Vigilance Stacks",
-		"show_bonus": true,
-		"percent_values": false,
-		"stack_func_data": {"target_filters": [{
-			"type": "tags",
-			"tags": "lawful|dwarf"
-		}]},
-		"show_current_value_bonus_desc": false,
-		"round_bonus_value": true
-	}],
-	"requirements": [],
-	"description": {"desc": "Barrowin has a number of Vigilance stacks equal to the number of Champions in the formation that are either lawful or dwarves. Increase the health of other Champions in the formation by $amount% of Barrowin's max health for each Vigilance stack."},
-	"id": 1440,
-	"flavour_text": "",
-	"graphic_id": 0,
-	"properties": {"is_formation_ability": true}
+    "effect_keys": [{
+        "amount_updated_listeners": [
+            "max_health_changed",
+            "slot_changed",
+            "stacks_changed"
+        ],
+        "stacks_multiply": false,
+        "total_title": "Bonus Health",
+        "amount_func": "source_percent_health_add",
+        "stack_func": "per_hero",
+        "use_computed_amount_for_description": true,
+        "effect_string": "increase_health_by_source_percent,5",
+        "targets": ["other"],
+        "stack_title": "Vigilance Stacks",
+        "show_bonus": true,
+        "percent_values": false,
+        "stack_func_data": {"target_filters": [{
+            "type": "tags",
+            "tags": "lawful|dwarf"
+        }]},
+        "show_current_value_bonus_desc": false,
+        "override_key_desc": "Increases the Health of $target by $amount",
+        "round_bonus_value": true
+    }],
+    "requirements": [],
+    "description": {"desc": "Barrowin has a number of Vigilance stacks equal to the number of Champions in the formation that are either lawful or dwarves. She increases the health of other Champions in the formation by $amount% of her max health for each Vigilance stack."},
+    "id": 1440,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -775,44 +896,47 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-	"effect_keys": [
-		{
-			"amount_updated_listeners": ["slot_changed"],
-			"stacks_multiply": false,
-			"total_title": "Healing Per Second",
-			"amount_func": "add",
-			"stack_func": "per_hero",
-			"use_computed_amount_for_description": true,
-			"effect_string": "heal,2",
-			"targets": ["col"],
-			"stack_title": "Vigilance Stacks",
-			"off_when_benched": true,
-			"show_bonus": true,
-			"percent_values": false,
-			"stack_func_data": {"target_filters": [{
-				"type": "tags",
-				"tags": "lawful|dwarf"
-			}]},
-			"show_current_value_bonus_desc": false
-		},
-		{
-			"heal_effect_key_index": 0,
-			"off_when_benched": true,
-			"effect_string": "barrowin_healing_word"
-		}
-	],
-	"requirements": [],
-	"description": {"desc": "Barrowin heals Champions in her column, including herself, for $(not_buffed amount) health per second for each stack of Vigilance she has. After Barrowin attacks, her next Healing Word also applies a temporary health bonus of the same amount."},
-	"id": 1441,
-	"flavour_text": "",
-	"graphic_id": 1868,
-	"properties": {
-		"indexed_effect_properties": true,
-		"is_formation_ability": true,
-		"default_bonus_index": 0,
-		"owner_use_outgoing_description": true,
-		"per_effect_index_bonuses": true
-	}
+    "effect_keys": [
+        {
+            "amount_updated_listeners": [
+                "slot_changed",
+                "stacks_changed"
+            ],
+            "stacks_multiply": false,
+            "total_title": "Healing Per Second",
+            "amount_func": "add",
+            "stack_func": "per_hero",
+            "use_computed_amount_for_description": true,
+            "effect_string": "heal,2",
+            "targets": ["col"],
+            "stack_title": "Vigilance Stacks",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "percent_values": false,
+            "stack_func_data": {"target_filters": [{
+                "type": "tags",
+                "tags": "lawful|dwarf"
+            }]},
+            "show_current_value_bonus_desc": false
+        },
+        {
+            "heal_effect_key_index": 0,
+            "off_when_benched": true,
+            "effect_string": "barrowin_healing_word"
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Barrowin heals Champions in her column, including herself, for $(not_buffed amount) health per second for each stack of Vigilance she has. After Barrowin attacks, her next Healing Word also applies a temporary health bonus of the same amount."},
+    "id": 1441,
+    "flavour_text": "",
+    "graphic_id": 1868,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
 }
 </pre>
 </p>
@@ -825,41 +949,43 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-	"effect_keys": [
-		{
-			"amount_updated_listeners": ["slot_changed"],
-			"stacks_multiply": false,
-			"bonus_is_seconds": true,
-			"amount_func": "add",
-			"stack_func": "per_hero",
-			"effect_string": "reduce_attack_cooldown,0.25",
-			"targets": ["col"],
-			"stack_title": "Vigilance Stacks",
-			"off_when_benched": true,
-			"show_bonus": true,
-			"percent_values": false,
-			"stack_func_data": {"target_filters": [{
-				"type": "tags",
-				"tags": "lawful|dwarf"
-			}]},
-			"show_current_value_bonus_desc": false,
-			"total_bonus_amount_prefix": "-"
-		},
-		{
-			"buff_attack_count": 2,
-			"effect_string": "barrowin_even_temper",
-			"buff_effect_string": "reduce_attack_cooldown,1"
-		}
-	],
-	"requirements": [],
-	"description": {"desc": "Barrowin attacks $amount seconds faster for each stack of Vigilance she has. Additionally, when a Champion that is eligible for Healing Word is hit by an Enemy, Barrowin attacks 1 second faster for her next two attacks."},
-	"id": 1442,
-	"flavour_text": "",
-	"graphic_id": 4437,
-	"properties": {
-		"is_formation_ability": true,
-		"owner_use_outgoing_description": true
-	}
+    "effect_keys": [
+        {
+            "amount_updated_listeners": [
+                "slot_changed",
+                "stacks_changed"
+            ],
+            "stacks_multiply": false,
+            "bonus_is_seconds": true,
+            "amount_func": "add",
+            "stack_func": "per_hero",
+            "effect_string": "reduce_attack_cooldown,0.25",
+            "stack_title": "Vigilance Stacks",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "percent_values": false,
+            "stack_func_data": {"target_filters": [{
+                "type": "tags",
+                "tags": "lawful|dwarf"
+            }]},
+            "show_current_value_bonus_desc": false,
+            "total_bonus_amount_prefix": "-"
+        },
+        {
+            "buff_attack_count": 2,
+            "effect_string": "barrowin_even_temper",
+            "buff_effect_string": "reduce_attack_cooldown,1"
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Barrowin attacks $amount seconds faster for each stack of Vigilance she has. Additionally, when a Champion that is eligible for Healing Word is hit by an Enemy, Barrowin attacks 1 second faster for her next two attacks."},
+    "id": 1442,
+    "flavour_text": "",
+    "graphic_id": 4437,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -867,37 +993,37 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Barrowin remembers the largest number of enemies she's had to tank at once in the current area. Blessed Hammer is increased by 100% times that number.
+> BBarrowin remembers the largest number of enemies she's had to tank at once in the current area. Blessed Hammer is increased by 100% multiplied by that number.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-	"effect_keys": [
-		{
-			"stacks_multiply": false,
-			"effect_string": "buff_upgrade,100,10684",
-			"stacks_on_trigger": "will_manually_stack"
-		},
-		{
-			"effect_string": "barrowin_hammer_time",
-			"buff_effect_key_index": 0
-		}
-	],
-	"requirements": [],
-	"description": {
-		"post": {"conditions": [{
-			"condition": "not static_desc",
-			"desc": "^^$(barrowin_hammer_time_desc)"
-		}]},
-		"desc": "Barrowin remembers the largest number of enemies she's had to tank at once in the current area. Blessed Hammer is increased by $amount% times that number."
-	},
-	"id": 1443,
-	"flavour_text": "",
-	"graphic_id": 0,
-	"properties": {
-		"is_formation_ability": true,
-		"owner_use_outgoing_description": true
-	}
+    "effect_keys": [
+        {
+            "stacks_multiply": false,
+            "effect_string": "buff_upgrade,100,10684",
+            "stacks_on_trigger": "will_manually_stack"
+        },
+        {
+            "effect_string": "barrowin_hammer_time",
+            "buff_effect_key_index": 0
+        }
+    ],
+    "requirements": [],
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$(barrowin_hammer_time_desc)"
+        }]},
+        "desc": "Barrowin remembers the largest number of enemies she's had to tank at once in the current area. Blessed Hammer is increased by $amount% multiplied by that number."
+    },
+    "id": 1443,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -910,20 +1036,78 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-	"effect_keys": [{
-		"off_when_benched": true,
-		"amount_per_stack": 20,
-		"effect_string": "barrowin_hammer_of_the_law",
-		"blessed_hammer_upg_id": 10684,
-		"count_hero_tag_expr": "lawful|dwarf",
-		"base_effect_amount": 400
-	}],
-	"requirements": [],
-	"description": {"desc": "Barrowin's Blessed Hammer base effect is additively increased by 20% for each Vigilance stack she has."},
-	"id": 1444,
-	"flavour_text": "",
-	"graphic_id": 0,
-	"properties": {"owner_use_outgoing_description": true}
+    "effect_keys": [{
+        "off_when_benched": true,
+        "amount_per_stack": 20,
+        "effect_string": "barrowin_hammer_of_the_law",
+        "count_hero_tag_expr": "lawful|dwarf"
+    }],
+    "requirements": [],
+    "description": {"desc": "Barrowin's Blessed Hammer base effect is additively increased by $(amount_per_stack)% for each Vigilance stack she has."},
+    "id": 1444,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"owner_use_outgoing_description": true}
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown** (Guess)
+> Barrowin's Blessed Hammer is buffed by 400%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "buff_upgrade,400,10684"}],
+    "requirements": [],
+    "description": {"desc": "Barrowin's Blessed Hammer is buffed by $amount%"},
+    "id": 1450,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"is_formation_ability": true}
+},
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown** (Guess)
+> Barrowin's Healing Word is buffed by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "buff_upgrade,100,10686"}],
+    "requirements": [],
+    "description": {"desc": "Barrowin's Healing Word is buffed by $amount%"},
+    "id": 1451,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -934,13 +1118,411 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 ![Birdsong Portrait](images/season_birdsong.png)
 
-No changes observed yet.
+**Flashing Blades**
+> Birdsong leaps out with a cat's grace and attacks the nearest enemies with her sword.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Birdsong leaps out with a cat's grace and attacks the nearest enemies with her sword.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "chain_attack_id": 610,
+        "type": "melee_attack",
+        "sequences": [{
+            "damage_frame": 2,
+            "hit_frames": [2],
+            "sound_frames": {"2": 199},
+            "target_offset_x": -60,
+            "end_frame": 25,
+            "start_frame": 0
+        }],
+        "animation": "split_sequence_multi_target"
+    }],
+    "name": "Flashing Blades",
+    "cooldown": 3.75,
+    "id": 609
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Song of Battle** (Guess)
+> Increase the damage of Champions within two slots of Birdsong by 100%, including Birdsong herself.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "targets": [{
+            "comparison": "<=",
+            "distance": 2,
+            "type": "distance"
+        }]
+    }],
+    "requirements": "",
+    "description": {"desc": "Increase the damage of Champions within two slots of $(source_hero) by $(amount)%, including Birdsong herself."},
+    "id": 1452,
+    "flavour_text": "",
+    "graphic_id": 2119,
+    "properties": {"owner_use_outgoing_description": true}
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown**
+> Increase the effect of `$(upgrade_name id)` by 100% for each positional formation ability affecting Birdsong that comes from a Champion who has no affiliation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stack_title": "Positional Formation Abilities",
+        "amount_updated_listeners": [
+            "slot_changed",
+            "positional_formation_ability_changed"
+        ],
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_positional_formation_ability",
+        "effect_string": "buff_upgrade,100,10774",
+        "stack_func_data": {
+            "exclude_self": true,
+            "tag": "unaffiliated"
+        }
+    }],
+    "requirements": "",
+    "description": {"desc": "Increase the effect of $(upgrade_name id) by $(amount)% for each positional formation ability affecting $(source_hero) that comes from a Champion who has no affiliation, stacking multiplicatively."},
+    "id": 1453,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown**
+> Increase the effect of `$(upgrade_name id___2)` by 100% whenever any Champion affected by `$(upgrade_name id___2)` gets the killing blow on an enemy. This effect can stack up to 10 times, once for each kill. Stacks multiplicatively. Stacks are reset when changing areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,100"},
+        {
+            "amount_expr": "upgrade_amount(10776,0)",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "effect_string": "buff_upgrade,0,10774",
+            "more_triggers": [
+                {
+                    "action": {"type": "reset"},
+                    "trigger": "area_changed"
+                },
+                {"trigger": "on_broadcast_stacks,crescendo_trigger"}
+            ],
+            "max_stacks": 10,
+            "stacks_on_trigger": "killed_by_hero_affected_by_upgrade,10774"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Increase the effect of $(upgrade_name id___2) by $(amount)% whenever any Champion affected by $(upgrade_name id___2) gets the killing blow on an enemy. This effect can stack up to $(max_stacks___2) times, once for each kill. Stacks multiplicatively. Stacks are reset when changing areas."},
+    "id": 1454,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Impressive Bladework** (Guess)
+> When Birdsong attacks she makes one bonus attack against a random boss enemy, dealing `$(amount)` seconds of BUD-based damage.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "birdsong_impressive_bladework"}],
+    "requirements": "",
+    "description": {"desc": "When $(source_hero) attacks she makes one bonus attack against a random boss enemy, dealing $(amount) seconds of BUD-based damage."},
+    "id": 1455,
+    "flavour_text": "",
+    "graphic_id": 2118,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Theme of Valor** (Guess)
+> Increase the effect of `$(upgrade_name upgrade_id)` on Good Champions by 400%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "effect_string": "buff_effects_from_upgrade_fa,400,10774",
+        "targets": [{
+            "type": "by_tags",
+            "tags": "good"
+        }]
+    }],
+    "requirements": "",
+    "description": {"desc": "Increase the effect of $(upgrade_name upgrade_id) on Good Champions by $(amount)%."},
+    "id": 1456,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Theme of Consideration** (Guess)
+> Increase the effect of `$(upgrade_name upgrade_id)` on Neutral (Good/Evil axis) Champions by 400%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "effect_string": "buff_effects_from_upgrade_fa,400,10774",
+        "targets": [{
+            "type": "by_tags",
+            "tags": "geneutral"
+        }]
+    }],
+    "requirements": "",
+    "description": {"desc": "Increase the effect of $(upgrade_name upgrade_id) on Neutral (Good/Evil axis) Champions by $(amount)%."},
+    "id": 1457,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Theme of Deception** (Guess)
+> Increase the effect of `$(upgrade_name upgrade_id)` on Evil Champions by 400%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "effect_string": "buff_effects_from_upgrade_fa,400,10774",
+        "targets": [{
+            "type": "by_tags",
+            "tags": "evil"
+        }]
+    }],
+    "requirements": "",
+    "description": {"desc": "Increase the effect of $(upgrade_name upgrade_id) on Evil Champions by $(amount)%."},
+    "id": 1458,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown**
+> Birdsong starts each area with Crescendo stacks equal to the number of Lawful Champions in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "stack_func": "per_hero",
+            "effect_string": "counter",
+            "show_stacks": true,
+            "tag": "lawful"
+        },
+        {"effect_string": "broadcast_stacks_trigger,0,crescendo_trigger,post_area_changed"}
+    ],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) starts each area with Crescendo stacks equal to the number of Lawful Champions in the formation."},
+    "id": 1459,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Lawful Champions: $num_stacks",
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown**
+> Birdsong starts each area with Crescendo stacks equal to the number of Female Champions in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "stack_func": "per_hero",
+            "effect_string": "counter",
+            "show_stacks": true,
+            "tag": "female"
+        },
+        {"effect_string": "broadcast_stacks_trigger,0,crescendo_trigger,post_area_changed"}
+    ],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) starts each area with Crescendo stacks equal to the number of Female Champions in the formation."},
+    "id": 1460,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Female Champions: $num_stacks",
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown**
+> Birdsong starts each area with Crescendo stacks equal to the number of Bard Champions in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "stack_func": "per_hero",
+            "effect_string": "counter",
+            "show_stacks": true,
+            "tag": "bard"
+        },
+        {"effect_string": "broadcast_stacks_trigger,0,crescendo_trigger,post_area_changed"}
+    ],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) starts each area with Crescendo stacks equal to the number of Bard Champions in the formation."},
+    "id": 1461,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Bard Champions: $num_stacks",
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
 
 # Turiel
 
 ![Turiel Portrait](images/season_turiel.png)
 
-No changes observed yet.
+**March of the Rakshasa** (Guess)
+> Turiel has a keen eye for deception; 20% of non-boss enemies that spawn are actually duplicitous Rakshasa, fiend enemies who have shape-shifted into other forms. These enemies count as fiends (in addition to their original enemy type) for the purpose of Favored Foe mechanics and Turiel's Unflinching Hatred.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "rakshasa_monster_graphics": [
+            18375,
+            18376,
+            18377
+        ],
+        "rakshasa_graphic_offset": {
+            "x": 80,
+            "y": 0
+        },
+        "filter_targets_by_tags": "!boss^!static",
+        "debuff_effects": [{
+            "active_graphic_y": -60,
+            "active_graphic_id": 18402,
+            "effect_string": "turiel_march_of_the_rakshasa_debuff",
+            "tags": ["fiend"]
+        }],
+        "off_when_benched": true,
+        "effect_string": "turiel_march_of_the_rakshasa",
+        "trigger_chance": 20,
+        "rakshasa_get_hit_seq": 3,
+        "rakshasa_fade_time": 0.5
+    }],
+    "requirements": [],
+    "description": {"desc": "Turiel has a keen eye for deception; 20% of non-boss enemies that spawn are actually duplicitous Rakshasa, fiend enemies who have shape-shifted into other forms. These enemies count as fiends (in addition to their original enemy type) for the purpose of Favored Foe mechanics and Turiel's Unflinching Hatred."},
+    "id": 1413,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
 
 {% comment %}
 
