@@ -4,34 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Champion of Tovag Artemis Skin & Feat Pack - $9.99  
-Date of release: 25 Jan 2023
-
-Contents:
-
-* Champion: `Artemis Entreri`
-* Skin: `Champion of Tovag Artemis`
-* Feat: `Weapon Master` (Artemis)
-* Chests: `Gold Artemis Chest` x7 (Shinies x1)
-
-<br />
-
-### Eye of Vecna Familiar Pack - $14.99  
-Date of release: 25 Jan 2023
-
-Contents:
-
-* Familiar: `Eye of Vecna`
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-
-<br />
-
 ### Blushing Bride Nahara Skin & Feat Pack - $9.99  
 Date of release: 01 Feb 2023
 
@@ -499,7 +471,7 @@ Contents:
 * Skin: `Dragonlance Miria`
 * Feat: `Selflessness` (Bruenor)
 * Familiar: `Malleus the Baby Death Dragon`
-* Chests: `Gold E9Y6 Chest` x16 (Shinies x2)
+* Chests: `Gold Miria Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 
 <br />

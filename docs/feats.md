@@ -6,12 +6,10 @@ Feats that are upcoming.
 
 Feats that are listed as Free will be available immediately the moment they release. Feats with a cost of 50,000 Gems will usually also be available via real money through DLC packs or weekend chest sales. Gold chest feats of course can only come from regular Gold Chests.
 
+*Note: I filter out all feats that are obviously tests or unfinished - such as having a prohibitively high gem cost or excessive too-far-future release date.*
+
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| Arkhan | `Weapon Master` | 120% Self DPS | 50,000 Gems | 25 Jan 2023 |
-| Artemis | `Weapon Master` | 120% Self DPS | 50,000 Gems | 25 Jan 2023 |
-| Krull | `Sworn to Service` | 80% Dark Order Synergy | 50,000 Gems | 25 Jan 2023 |
-| Torogar | `Devoted Shield` | 80% Markings of a Zealot | 50,000 Gems | 25 Jan 2023 |
 | Nahara | `A Sense of Self` | 80% Who Am I? | 50,000 Gems | 01 Feb 2023 |
 | Uriah | `The Hour of Ascension` | 100% Duration In the Grip of Azalin Rex | 50,000 Gems | 01 Feb 2023 |
 | Aila | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
