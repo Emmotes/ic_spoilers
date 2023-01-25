@@ -1055,28 +1055,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-
-</pre>
-</p>
-</details>
-<br />
-
-**Specialisation: Unknown** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-
-</pre>
-</p>
-</details>
-<br />
-
-**Specialisation: Unknown** (Guess)
 > Barrowin's Blessed Hammer is buffed by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
