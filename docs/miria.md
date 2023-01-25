@@ -21,70 +21,96 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 
 # Formation
 
-Unknown.
-<!-- ![Formation Layout](images/formation_miria.png) -->
+![Formation Layout](images/formation_miria.png)
 
 # Abilities
 
 **Base Attack: Ray of Sickness** (Magic)
-> Unknown effect.
+> Miria fires an enegy ray at the nearest enemy, dealing one hit of damage, and reducing it's damage by 50% for 6 seconds. Does not stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-            "description": "",
-            "long_description": "",
-            "damage_modifier": 1,
-            "damage_types": ["magic"],
-            "graphic_id": 0,
-            "target": "front",
-            "aoe_radius": 0,
-            "tags": ["ranged"],
-            "num_targets": 1,
-            "animations": [{
-                "sound_frames": {"1": 184},
-                "hit_sound": -1,
-                "shoot_offset_y": 0,
-                "shoot_offset_x": 0,
-                "always_new_targets": true,
-                "projectile_graphic_id": 1,
-                "type": "ranged_attack",
-                "projectile": "ray_of_sickness",
-                "shoot_frame": 12
-            }],
-            "name": "Ray of Sickness",
-            "cooldown": 6,
-            "id": 601
-        }
+    "description": "Miria fires an enegy ray at the nearest enemy, dealing one hit of damage, and reducing it's damage by 50% for 6 seconds. Does not stack.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": ["ranged"],
+    "num_targets": 1,
+    "animations": [{
+        "effect_frames": {"projectile": {
+            "effect_string": "effect_def,1448",
+            "apply_to_hit_monsters": true
+        }},
+        "sound_frames": {"1": 184},
+        "hit_sound": -1,
+        "shoot_offset_y": -20,
+        "shoot_offset_x": 70,
+        "always_new_targets": true,
+        "projectile_graphic_id": 1,
+        "type": "ranged_attack",
+        "projectile": "ray_of_sickness",
+        "shoot_frame": 12
+    }],
+    "name": "Ray of Sickness",
+    "cooldown": 6,
+    "id": 601
+}
 </pre>
 </p>
 </details>
 <br />
 
 **Ultimate Attack: Danse Macabre**
-> Unknown effect.
+> Miria summons 5 skeletons to the battlefield. The skeletons deal 15 attacks to the enemies before vanishing. All enemies are slowed by 50% for the duration due to the confusion on the battlefield.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
-    "long_description": "",
-    "damage_modifier": 1,
-    "damage_types": ["magic"],
-    "graphic_id": 0,
+    "description": "Miria summons skeletons to fight for her. All enemies are slowed due to the confusion on the battlefield.",
+    "long_description": "Miria summons 5 skeletons to the battlefield. The skeletons deal 15 attacks to the enemies before vanishing. All enemies are slowed by 50% for the duration due to the confusion on the battlefield.",
+    "damage_modifier": 0.03,
+    "damage_types": ["melee"],
+    "graphic_id": 18268,
     "target": "none",
     "aoe_radius": 0,
     "tags": [
-        "ranged",
-        "aoe"
+        "ultimate",
+        "ranged"
     ],
     "num_targets": 0,
     "animations": [{
+        "skeletons": [
+            {
+                "damage_frame": 7,
+                "graphic_id": 1443
+            },
+            {
+                "damage_frame": 7,
+                "graphic_id": 1283
+            },
+            {
+                "damage_frame": 7,
+                "graphic_id": 1284
+            },
+            {
+                "damage_frame": 7,
+                "graphic_id": 1285
+            },
+            {
+                "damage_frame": 7,
+                "graphic_id": 7342
+            }
+        ],
+        "confusion_of_battle_effects": [{"effect_string": "monster_speed_reduce,50"}],
         "ultimate": "miria",
         "type": "ultimate_attack"
     }],
     "name": "Danse Macabre",
-    "cooldown": 5,
+    "cooldown": 240,
     "id": 602
 }
 </pre>
