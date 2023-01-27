@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Dhampiric | 27 Jan 2023 | **Fen** | Tyril | Arkhan | Voronika | Widdle | Golden Epic |
 | Wedding Bells | 03 Feb 2023 | **Nahara** | Celeste | Minsc | Avren | Shandie | Golden Epic |
 | Sword of Koshmarr | 10 Feb 2023 | **Desmond** | Nayeli | Bruenor | Nova | Viconia | Golden Epic |
 | Calamity Company | 17 Feb 2023 | **Uriah** | Jarlaxle | Prudence | Artemis | Warden | Golden Epic |
