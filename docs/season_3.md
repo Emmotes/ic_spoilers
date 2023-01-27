@@ -1297,7 +1297,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Impressive Bladework** (Guess)
-> When Birdsong attacks she makes one bonus attack against a random boss enemy, dealing 5 of BUD-based damage.
+> When Birdsong attacks she makes one bonus attack against a random boss enemy, dealing 5s of BUD-based damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
