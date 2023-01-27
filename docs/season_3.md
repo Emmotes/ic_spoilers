@@ -101,7 +101,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "pre": {"conditions": [
             {
                 "condition": "upgrade_purchased 10682",
-                "desc": "Spurt Increases the damage of Champions two slots away by $amount%"
+                "desc": "Spurt increases the damage of Champions two slots away by $amount%"
             },
             {"desc": "Spurt increases the damage of adjacent Champions by $amount%"}
         ]},
@@ -973,8 +973,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "buff_attack_count": 2,
+            "healing_word_heal_handler_index": 0,
             "effect_string": "barrowin_even_temper",
-            "buff_effect_string": "reduce_attack_cooldown,1"
+            "buff_effect_string": "reduce_attack_cooldown,1",
+            "healing_word_upg_id": 10686
         }
     ],
     "requirements": [],
@@ -993,7 +995,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Unknown** (Guess)
-> BBarrowin remembers the largest number of enemies she's had to tank at once in the current area. Blessed Hammer is increased by 100% multiplied by that number.
+> Barrowin remembers the largest number of enemies she's had to tank at once in the current area. Blessed Hammer is increased by 100% multiplied by that number.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1096,7 +1098,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 ![Birdsong Portrait](images/season_birdsong.png)
 
-**Flashing Blades**
+**Base Attack: Flashing Blades**
 > Birdsong leaps out with a cat's grace and attacks the nearest enemies with her sword.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1108,11 +1110,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "damage_types": ["melee"],
     "graphic_id": 0,
     "target": "front",
-    "aoe_radius": 0,
-    "tags": ["melee"],
+    "aoe_radius": 100,
+    "tags": [
+        "melee",
+        "aoe"
+    ],
     "num_targets": 1,
     "animations": [{
-        "chain_attack_id": 610,
         "type": "melee_attack",
         "sequences": [{
             "damage_frame": 2,
@@ -1125,8 +1129,63 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "animation": "split_sequence_multi_target"
     }],
     "name": "Flashing Blades",
-    "cooldown": 3.75,
+    "cooldown": 4.6,
     "id": 609
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Ultimate: Cat's Agility**
+> Birdsong leaps from enemy to enemy 5 times, dealing damage and stunning them for 5 seconds. Enemies she attacks during her ultimate take 200% extra damage from all Champions for 15 seconds.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Birdsong leaps from enemy to enemy, dealing damage and stunning them.",
+    "long_description": "Birdsong leaps from enemy to enemy 5 times, dealing damage and stunning them for 5 seconds. Enemies she attacks during her ultimate take 200% extra damage from all Champions for 15 seconds.",
+    "damage_modifier": 0.0325,
+    "damage_types": ["melee"],
+    "graphic_id": 2125,
+    "target": "random",
+    "aoe_radius": 0,
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "num_targets": 5,
+    "animations": [{
+        "shake_on_hit": 0.1,
+        "target_offset_x": -80,
+        "stun_on_hit": 5,
+        "type": "melee_attack",
+        "sequences": [{
+            "damage_frame": 20,
+            "hit_frames": [
+                2,
+                20
+            ],
+            "sound_frames": {
+                "2": 199,
+                "20": 199
+            },
+            "target_offset_x": -60,
+            "end_frame": 27,
+            "start_frame": 0,
+            "effects_on_monsters": [{
+                "for_time": 15,
+                "active_graphic_y": -90,
+                "active_graphic_id": 1,
+                "effect_string": "increase_monster_damage,200"
+            }]
+        }],
+        "stun_graphic": 1509,
+        "animation": "split_sequence_multi_target"
+    }],
+    "name": "Cat's Agility",
+    "cooldown": 180,
+    "id": 611
 }
 </pre>
 </p>
@@ -1238,14 +1297,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Impressive Bladework** (Guess)
-> When Birdsong attacks she makes one bonus attack against a random boss enemy, dealing `$(amount)` seconds of BUD-based damage.
+> When Birdsong attacks she makes one bonus attack against a random boss enemy, dealing 5 of BUD-based damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "birdsong_impressive_bladework"}],
+    "effect_keys": [{
+        "attack_id": 610,
+        "effect_string": "birdsong_impressive_bladework,5"
+    }],
     "requirements": "",
-    "description": {"desc": "When $(source_hero) attacks she makes one bonus attack against a random boss enemy, dealing $(amount) seconds of BUD-based damage."},
+    "description": {"desc": "When $(source_hero) attacks she makes one bonus attack against a random boss enemy, dealing $(seconds_plural amount) of BUD-based damage."},
     "id": 1455,
     "flavour_text": "",
     "graphic_id": 2118,
@@ -1458,6 +1520,125 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 ![Turiel Portrait](images/season_turiel.png)
 
+**Embodiment of the Law**
+> Turiel increases the damage of all Champions by 100% for each column they are behind him, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "hero_dps_mult_per_col_behind,100",
+        "targets": ["behind"]
+    }],
+    "requirements": [],
+    "description": {"desc": "Turiel increases the damage of all Champions by 100% for each column they are behind him, stacking multiplicatively."},
+    "id": 1407,
+    "flavour_text": "",
+    "graphic_id": 6274,
+    "properties": {
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Order's Demand**
+> When an enemy attempts to attack Turiel, they instead attack a different valid target, if one is available. When this occurs, Turiel increases the effect of Embodiment of the Law by 30%, stacking multiplicatively up to 30 times and resetting stacks when changing areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "effect_string": "buff_upgrade,30,10657",
+            "max_stacks": 30,
+            "stacks_on_trigger": "will_stack_manually"
+        },
+        {
+            "overlay_lower_id": 6236,
+            "overlay_upper_id": 6235,
+            "effect_string": "orders_demand_v2",
+            "embodiment_buff_effect_key_index": 0,
+            "overlay_offset": -80
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "When an enemy attempts to attack Turiel, they instead attack a different valid target, if one is available. When this occurs, Turiel increases the effect of Embodiment of the Law by $amount%, stacking multiplicatively up to 30 times and resetting stacks when changing areas."},
+    "id": 1408,
+    "flavour_text": "",
+    "graphic_id": 6275,
+    "properties": {
+        "indexed_effect_properties": true,
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unflinching Hatred**
+> Fiends are Turiel's Favored Foe. After attacking a fiend-type enemy, Embodiment of the Law is increased by `$amount%`. When Order's Demand redirects the attack of a fiend-type enemy, its effect is increased by `$amount%` as well. Both effects last until you change areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "embodiment_buff_key_index": 1,
+            "orders_demand_buff_key_index": 2,
+            "effect_string": "unflinching_hatred_v2,400",
+            "tag": "fiend"
+        },
+        {
+            "amount_expr": "upgrade_amount(10660,0)",
+            "effect_string": "buff_upgrade,0,10657",
+            "apply_manually": true
+        },
+        {
+            "amount_expr": "upgrade_amount(10660,0)",
+            "effect_string": "buff_upgrade,0,10659",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "favored_foe,fiend",
+            "apply_manually": true
+        }
+    ],
+    "requirements": [],
+    "description": {
+        "pre": "Fiends are Turiel's Favored Foe. After attacking a fiend-type enemy, Embodiment of the Law is increased by $amount%. When Order's Demand redirects the attack of a fiend-type enemy, its effect is increased by $amount% as well. Both effects last until you change areas.",
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$(unflinching_hatred_v2_desc)"
+        }]}
+    },
+    "id": 1409,
+    "flavour_text": "",
+    "graphic_id": 6276,
+    "properties": {
+        "indexed_effect_properties": true,
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
 **March of the Rakshasa** (Guess)
 > Turiel has a keen eye for deception; 20% of non-boss enemies that spawn are actually duplicitous Rakshasa, fiend enemies who have shape-shifted into other forms. These enemies count as fiends (in addition to their original enemy type) for the purpose of Favored Foe mechanics and Turiel's Unflinching Hatred.
 <details><summary><em>Raw Data</em></summary>
@@ -1471,7 +1652,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             18377
         ],
         "rakshasa_graphic_offset": {
-            "x": 80,
+            "x": 0,
             "y": 0
         },
         "filter_targets_by_tags": "!boss^!static",
@@ -1495,6 +1676,89 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: A Lawful Mission** (Guess)
+> Increases the effect of Embodiment of the Law by 200% for each Lawful Champion in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "buff_upgrade_per_any_tagged_crusader_mult,200,10657,lawful"}],
+    "requirements": [],
+    "description": {"desc": "Increases the effect of Embodiment of the Law by $amount% for each Lawful Champion in the formation"},
+    "id": 1410,
+    "flavour_text": "",
+    "graphic_id": 6274,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks",
+        "show_incoming": false,
+        "use_outgoing_multiplier": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Hearty Constitution** (Guess)
+> All Champions deal bonus damage based on their individual CON scores (400% per point of CON above 10, stacking multiplicatively).
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "use_computed_amount_for_description": true,
+        "effect_string": "hero_dps_multiplier_by_stat_diff,400,con,10",
+        "zero_if_diff_is_less_than_or_equal_to_0": true,
+        "targets": ["all"],
+        "override_key_desc": "Increases the damage of $target by $amount%"
+    }],
+    "requirements": [],
+    "description": {"desc": "All Champions deal bonus damage based on their individual CON scores ($amount% per point of CON above $optional_min_stat, stacking multiplicatively)."},
+    "id": 1415,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "effect_name": "Voice of Resilience"
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown** (Guess)
+> All Champions deal bonus damage based on their individual CHA scores (400% per point of CHA above 10, stacking multiplicatively).
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "use_computed_amount_for_description": true,
+        "effect_string": "hero_dps_multiplier_by_stat_diff,400,cha,10",
+        "zero_if_diff_is_less_than_or_equal_to_0": true,
+        "targets": ["all"],
+        "override_key_desc": "Increases the damage of $target by $amount%"
+    }],
+    "requirements": [],
+    "description": {"desc": "All Champions deal bonus damage based on their individual CHA scores ($amount% per point of CHA above $optional_min_stat, stacking multiplicatively)."},
+    "id": 1416,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "effect_name": "Voice of Authority"
     }
 }
 </pre>
