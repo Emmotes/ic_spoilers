@@ -26,12 +26,12 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 # Abilities
 
 **Base Attack: Ray of Sickness** (Magic)
-> Miria fires an enegy ray at the nearest enemy, dealing one hit of damage, and reducing it's damage by 50% for 6 seconds. Does not stack.
+> Miria fires an energy ray at the nearest enemy, dealing one hit of damage, and reducing its damage by 50% for 6 seconds. Does not stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "Miria fires an enegy ray at the nearest enemy, dealing one hit of damage, and reducing it's damage by 50% for 6 seconds. Does not stack.",
+    "description": "Miria fires an energy ray at the nearest enemy, dealing one hit of damage, and reducing its damage by 50% for 6 seconds. Does not stack.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["magic"],
