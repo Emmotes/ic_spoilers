@@ -30,36 +30,6 @@ Contents:
 
 <br />
 
-### Celeste Starter Pack - $9.99  
-Date of release: 01 Feb 2023
-
-Contents:
-
-* Chests: `Gold Chest (Guess)` x5 (Shinies x1)
-* Loot: `Ornate Headband of Faith` (Celeste Slot 1  Golden Epic)
-* Loot: `Golden Gauntlets` (Celeste Slot 2  Rare)
-* Loot: `Thick Scalemail Belt` (Celeste Slot 3  Rare)
-* Loot: `Copper Amulet` (Celeste Slot 4  Rare)
-* Loot: `Chainmail Boots` (Celeste Slot 5  Rare)
-* Loot: `Ornate Holy Symbol` (Celeste Slot 6  Rare)
-
-<br />
-
-### Nayeli Starter Pack - $9.99  
-Date of release: 01 Feb 2023
-
-Contents:
-
-* Chests: `Gold Chest (Guess)` x5 (Shinies x1)
-* Loot: `Figurine Of Wondrous Power` (Nayeli Slot 1  Golden Epic)
-* Loot: `Ornate Breastplate` (Nayeli Slot 2  Rare)
-* Loot: `Dwarven Mithral Shirt` (Nayeli Slot 3  Rare)
-* Loot: `Paladin's Gauntlets` (Nayeli Slot 4  Rare)
-* Loot: `Devoted Holy Symbol` (Nayeli Slot 5  Rare)
-* Loot: `Strong Magical Greatsword` (Nayeli Slot 6  Rare)
-
-<br />
-
 ### Dragonlance Aila Skin & Feat Pack - $9.99  
 Date of release: 10 Feb 2023
 
@@ -373,6 +343,21 @@ Contents:
 
 <br />
 
+### Celeste Starter Pack - $9.99  
+Date of release: 01 Mar 2023
+
+Contents:
+
+* Chests: `Gold Chest (Guess)` x5 (Shinies x1)
+* Loot: `Ornate Headband of Faith` (Celeste Slot 1  Golden Epic)
+* Loot: `Golden Gauntlets` (Celeste Slot 2  Rare)
+* Loot: `Thick Scalemail Belt` (Celeste Slot 3  Rare)
+* Loot: `Copper Amulet` (Celeste Slot 4  Rare)
+* Loot: `Chainmail Boots` (Celeste Slot 5  Rare)
+* Loot: `Ornate Holy Symbol` (Celeste Slot 6  Rare)
+
+<br />
+
 ### Dragonlance Baeloth Skin & Feat Pack - $9.99  
 Date of release: 01 Mar 2023
 
@@ -406,6 +391,21 @@ Contents:
 * Skin: `Dragonlance Viconia`
 * Feat: `Singer of Eternal Night` (Viconia)
 * Chests: `Gold Viconia Chest` x7 (Shinies x1)
+
+<br />
+
+### Nayeli Starter Pack - $9.99  
+Date of release: 01 Mar 2023
+
+Contents:
+
+* Chests: `Gold Chest (Guess)` x5 (Shinies x1)
+* Loot: `Figurine Of Wondrous Power` (Nayeli Slot 1  Golden Epic)
+* Loot: `Ornate Breastplate` (Nayeli Slot 2  Rare)
+* Loot: `Dwarven Mithral Shirt` (Nayeli Slot 3  Rare)
+* Loot: `Paladin's Gauntlets` (Nayeli Slot 4  Rare)
+* Loot: `Devoted Holy Symbol` (Nayeli Slot 5  Rare)
+* Loot: `Strong Magical Greatsword` (Nayeli Slot 6  Rare)
 
 <br />
 
@@ -469,7 +469,7 @@ Contents:
 
 * Champion: `Miria`
 * Skin: `Dragonlance Miria`
-* Feat: `Selflessness` (Bruenor)
+* Feat: ???
 * Familiar: `Malleus the Baby Death Dragon`
 * Chests: `Gold Miria Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
