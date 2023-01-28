@@ -4,7 +4,7 @@
 
 Season 2 will be ending on 1 March 2023 - and Season 3 is likely to start around 2-4 weeks later depending on CNE's schedule. Mid-to-late March is a safe guess.
 
-The season 3 skins are currently dated 8 March 2023 - which means the season 3 preview could start at the same time the season 2 'cooling off' week ends. If that's the case then the *speculative* Season 3 start date will be 15 March 2023.
+The season 3 skins are currently dated 8 March 2023 - which means the season 3 preview could start at the same time the season 2 'cooling off' week ends. If that's the case then the ***speculative*** Season 3 start date will be 15 March 2023.
 
 {% comment %}
 The champion changes and time gate cost reduction will all be going live on #DATEPREVIEW - while the actual Season 2 start date will be #DATEACTUAL.
@@ -14,7 +14,9 @@ The champion changes and time gate cost reduction will all be going live on #DAT
 
 ![Season 3 Portrait](images/portrait_s3.png)
 
-Spurt Hew Maan and Barrowin have all received "new" abilities in the data that suggest they are all part of season 3. Given that they are getting `Lawbringer` and `Ancient` skins at the same time as Birdsong and Turiel - it seems to be that this new season will be a "Lawful" themed season. This tracks with some of the "new" abilities and specialisations these champions are getting.
+All five of Spurt Hew Maan Barrowin Birdsong and Turiel have now received "new" abilities in the data that suggest they are all part of season 3. Given that they are also all getting `Lawbringer` and `Ancient` skins on the same date just make that far more likely.
+
+It seems to be that this new season will be a "Lawful" themed season. This tracks with some of the "new" abilities and specialisations these champions are getting.
 
 # Changes
 
@@ -151,9 +153,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "buffed_amount": 400
             },
             {
-                "base_amount": 0.10000000000000001,
+                "base_amount": 0.1,
                 "effect_id": 1435,
-                "buffed_amount": 0.20000000000000001
+                "buffed_amount": 0.2
             }
         ],
         "wasp_default_graphic": 18378,
@@ -417,7 +419,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stacks_on_trigger": "will_manually_stack"
         },
         {
-            "amount": 0.10000000000000001,
+            "amount": 0.1,
             "bonus_is_seconds": true,
             "off_when_benched": true,
             "show_bonus": true,
@@ -543,7 +545,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 ![Hew Maan Portrait](images/season_hewmaan.png)
 
-**Unknown**
+**Impressive Coatwork** (Guess)
 > The effect of all Teamwork abilities are increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -568,8 +570,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown**
-> Increases the effect of Zrang's Teamwork ability by `$(amount)%` for each Champion adjacent to the kobolds (stacks additively and then applied to Teamwork multiplicatively).
+**Carefully Balanced**
+> Increases the effect of Zrang's Teamwork ability by 5% for each Champion adjacent to the kobolds (stacks additively and then applied to Teamwork multiplicatively).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -767,7 +769,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "description": "Barrowin infuses her hammer with holy energy, stunning a random enemy and buffing Blessed Hammer.",
     "long_description": "Barrowin infuses her hammer with holy energy and throws it at a random enemy, stunning it for 5 seconds. For the next 15 seconds, the base effect of Blessed Hammer is increased by 100%.",
-    "damage_modifier": 0.029999999999999999,
+    "damage_modifier": 0.03,
     "damage_types": ["ranged"],
     "graphic_id": 1872,
     "target": "random",
