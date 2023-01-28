@@ -14,7 +14,7 @@ The champion changes and time gate cost reduction will all be going live on #DAT
 
 ![Season 3 Portrait](images/portrait_s3.png)
 
-All five of Spurt Hew Maan Barrowin Birdsong and Turiel have now received "new" abilities in the data that suggest they are all part of season 3. Given that they are also all getting `Lawbringer` and `Ancient` skins on the same date just make that far more likely.
+All five of Spurt Hew Maan Barrowin Birdsong and Turiel have now received "new" abilities in the data that suggest they are all part of season 3. Given that they are also all getting `Lawbringer` and `Ancient` skins on the same date just makes that far more likely.
 
 It seems to be that this new season will be a "Lawful" themed season. This tracks with some of the "new" abilities and specialisations these champions are getting.
 
