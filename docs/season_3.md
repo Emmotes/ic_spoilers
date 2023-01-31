@@ -1195,7 +1195,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Song of Battle** (Guess)
-> Increase the damage of Champions within two slots of Birdsong by 100%, including Birdsong herself.
+> Increases the damage of Champions within two slots of Birdsong by 100%, including Birdsong herself.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1209,11 +1209,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }]
     }],
     "requirements": "",
-    "description": {"desc": "Increase the damage of Champions within two slots of $(source_hero) by $(amount)%, including Birdsong herself."},
+    "description": {"desc": "Increases the damage of Champions within two slots of $(source_hero) by $(amount)%, including Birdsong herself."},
     "id": 1452,
     "flavour_text": "",
     "graphic_id": 2119,
-    "properties": {"owner_use_outgoing_description": true}
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -1221,7 +1221,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Unknown**
-> Increase the effect of `$(upgrade_name id)` by 100% for each positional formation ability affecting Birdsong that comes from a Champion who has no affiliation, stacking multiplicatively.
+> Increases the effect of `$(upgrade_name id)` by 100% for each positional formation ability affecting Birdsong that comes from a Champion who has no affiliation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1242,7 +1242,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     }],
     "requirements": "",
-    "description": {"desc": "Increase the effect of $(upgrade_name id) by $(amount)% for each positional formation ability affecting $(source_hero) that comes from a Champion who has no affiliation, stacking multiplicatively."},
+    "description": {"desc": "Increases the effect of $(upgrade_name id) by $(amount)% for each positional formation ability affecting $(source_hero) that comes from a Champion who has no affiliation, stacking multiplicatively."},
     "id": 1453,
     "flavour_text": "",
     "graphic_id": 0,
@@ -1257,7 +1257,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Unknown**
-> Increase the effect of `$(upgrade_name id___2)` by 100% whenever any Champion affected by `$(upgrade_name id___2)` gets the killing blow on an enemy. This effect can stack up to 10 times, once for each kill. Stacks multiplicatively. Stacks are reset when changing areas.
+> Increases the effect of `$(upgrade_name id___2)` by 100% whenever any Champion affected by `$(upgrade_name id___2)` gets the killing blow on an enemy. This effect can stack up to 10 times, once for each kill. Stacks multiplicatively. Stacks are reset when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1281,7 +1281,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "description": {"desc": "Increase the effect of $(upgrade_name id___2) by $(amount)% whenever any Champion affected by $(upgrade_name id___2) gets the killing blow on an enemy. This effect can stack up to $(max_stacks___2) times, once for each kill. Stacks multiplicatively. Stacks are reset when changing areas."},
+    "description": {"desc": "Increases the effect of $(upgrade_name id___2) by $(amount)% whenever any Champion affected by $(upgrade_name id___2) gets the killing blow on an enemy. This effect can stack up to $(max_stacks___2) times, once for each kill. Stacks multiplicatively. Stacks are reset when changing areas."},
     "id": 1454,
     "flavour_text": "",
     "graphic_id": 0,
@@ -1324,7 +1324,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Theme of Valor** (Guess)
-> Increase the effect of `$(upgrade_name upgrade_id)` on Good Champions by 400%.
+> Increases the effect of `$(upgrade_name upgrade_id)` on Good Champions by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1337,7 +1337,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }]
     }],
     "requirements": "",
-    "description": {"desc": "Increase the effect of $(upgrade_name upgrade_id) on Good Champions by $(amount)%."},
+    "description": {"desc": "Increases the effect of $(upgrade_name upgrade_id) on Good Champions by $(amount)%."},
     "id": 1456,
     "flavour_text": "",
     "graphic_id": 0,
@@ -1354,7 +1354,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Theme of Consideration** (Guess)
-> Increase the effect of `$(upgrade_name upgrade_id)` on Neutral (Good/Evil axis) Champions by 400%.
+> Increases the effect of `$(upgrade_name upgrade_id)` on Neutral (Good/Evil axis) Champions by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1367,7 +1367,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }]
     }],
     "requirements": "",
-    "description": {"desc": "Increase the effect of $(upgrade_name upgrade_id) on Neutral (Good/Evil axis) Champions by $(amount)%."},
+    "description": {"desc": "Increases the effect of $(upgrade_name upgrade_id) on Neutral (Good/Evil axis) Champions by $(amount)%."},
     "id": 1457,
     "flavour_text": "",
     "graphic_id": 0,
@@ -1384,7 +1384,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Theme of Deception** (Guess)
-> Increase the effect of `$(upgrade_name upgrade_id)` on Evil Champions by 400%.
+> Increases the effect of `$(upgrade_name upgrade_id)` on Evil Champions by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1397,7 +1397,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }]
     }],
     "requirements": "",
-    "description": {"desc": "Increase the effect of $(upgrade_name upgrade_id) on Evil Champions by $(amount)%."},
+    "description": {"desc": "Increases the effect of $(upgrade_name upgrade_id) on Evil Champions by $(amount)%."},
     "id": 1458,
     "flavour_text": "",
     "graphic_id": 0,
