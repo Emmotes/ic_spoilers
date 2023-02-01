@@ -8,9 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Minsc | `Flayer Hunter` | Gem Shop | 20,000 | 01 Feb 2023 |
-| Nahara | `Blushing Bride` | Blushing Bride Nahara Skin & Feat Pack | $9.99 | 01 Feb 2023 |
-| Uriah | `Blushing Groom` | Blushing Groom Uriah Theme Pack | $24.99 | 01 Feb 2023 |
 | Imoen | `Flayer Hunter` | Gem Shop | 20,000 | 08 Feb 2023 |
 | Aila | `Dragonlance` | Dragonlance Aila Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Lucius | `Dragonlance` | Dragonlance Lucius Skin & Feat Pack | $9.99 | 10 Feb 2023 |

@@ -4,32 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Blushing Bride Nahara Skin & Feat Pack - $9.99  
-Date of release: 01 Feb 2023
-
-Contents:
-
-* Champion: `Nahara`
-* Skin: `Blushing Bride Nahara`
-* Feat: `A Sense of Self` (Nahara)
-* Chests: `Gold Nahara Chest` x7 (Shinies x1)
-
-<br />
-
-### Blushing Groom Uriah Theme Pack - $24.99  
-Date of release: 01 Feb 2023
-
-Contents:
-
-* Champion: `Brother Uriah`
-* Skin: `Blushing Groom Uriah`
-* Feat: `The Hour of Ascension` (Uriah)
-* Familiar: `Mangata the Moonstone Dragon`
-* Chests: `Gold Brother Uriah Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
 ### Dragonlance Aila Skin & Feat Pack - $9.99  
 Date of release: 10 Feb 2023
 
