@@ -14,7 +14,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Lucius | `Spell Master` | 120% Self DPS | 50,000 Gems | 10 Feb 2023 |
 | Nova | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
 | Qillek | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
-| Sentry | `Vicious Damage` | 400% Self DPS & 10% Vicious Damage | 50,000 Gems | 10 Feb 2023 |
+| Sentry | `Vicious Damage` | 400% Self DPS & Prevent Healing for 10s | 50,000 Gems | 10 Feb 2023 |
 | Corazón | `Notorious` | 80% G.O.A.T. Pirate | 50,000 Gems | 20 Feb 2023 |
 | Dob | `With the Band` | 80% Traveling Entertainer | 50,000 Gems | 20 Feb 2023 |
 | Egbert | `Gifts of La Vache Mauve` | 80% Golden Scales | 50,000 Gems | 20 Feb 2023 |
