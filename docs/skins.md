@@ -35,7 +35,6 @@ Most skins are real money purchases only.
 | Barrowin | `Ancient` | ??? | ??? | 08 Mar 2023 |
 | Birdsong | `Lawbringer` | ??? | ??? | 08 Mar 2023 |
 | Hew Maan | `Law Maan` | ??? | ??? | 08 Mar 2023 |
-| Hew Maan | `Vecna Maan` | Vecna Maan Skin & Feat Pack | $9.99 | 08 Mar 2023 |
 | Spurt | `Lawbringer` | ??? | ??? | 08 Mar 2023 |
 | Turiel | `Ancient` | ??? | ??? | 08 Mar 2023 |
 | Miria | `Dragonlance` | Dragonlance Miria Theme Pack | $24.99 | 15 Mar 2023 |

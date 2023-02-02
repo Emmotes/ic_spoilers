@@ -408,18 +408,6 @@ Contents:
 
 <br />
 
-### Vecna Maan Skin & Feat Pack - $9.99  
-Date of release: 08 Mar 2023
-
-Contents:
-
-* Champion: `Hew Maan`
-* Skin: `Vecna Maan`
-* Feat: ???
-* Chests: `Gold Hew Maan Chest` x7 (Shinies x1)
-
-<br />
-
 ### White Dragonnel Familiar Pack - $14.99  
 Date of release: 08 Mar 2023
 
