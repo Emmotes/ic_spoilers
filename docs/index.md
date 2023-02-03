@@ -14,6 +14,8 @@ These are the champions that are upcoming and all the information we know about 
   * [Solaak](solaak.md) - Unknown
 * Festival of Fools - 15 March 2023
   * [Miria](miria.md) - Unknown
+* Greengrass - 5 April 2023
+  * [Antrius](antrius.md) - Unknown
 
 # Misc
 
