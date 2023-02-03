@@ -15,6 +15,9 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Nova | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
 | Qillek | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
 | Sentry | `Vicious Damage` | 400% Self DPS & Prevent Healing for 10s | 50,000 Gems | 10 Feb 2023 |
+| Arkhan | `Weapon Master` | 120% Self DPS | 50,000 Gems | 17 Feb 2023 |
+| Krull | `Sworn to Service` | 80% Dark Order Synergy | 50,000 Gems | 17 Feb 2023 |
+| Torogar | `Devoted Shield` | 80% Markings of a Zealot | 50,000 Gems | 17 Feb 2023 |
 | Corazón | `Notorious` | 80% G.O.A.T. Pirate | 50,000 Gems | 20 Feb 2023 |
 | Dob | `With the Band` | 80% Traveling Entertainer | 50,000 Gems | 20 Feb 2023 |
 | Egbert | `Gifts of La Vache Mauve` | 80% Golden Scales | 50,000 Gems | 20 Feb 2023 |
