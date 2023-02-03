@@ -495,7 +495,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1437,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -533,6 +536,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "is_formation_ability": true,
         "spec_option_post_apply_info": "Unaffiliated Non-Kobold Champions: $num_stacks___2",
         "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
     }
 }
@@ -1274,7 +1278,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "action": {"type": "reset"},
                     "trigger": "area_changed"
                 },
-                {"trigger": "on_broadcast_stacks,crescendo_trigger"}
+                {
+                    "action": {"type": "add_stacks"},
+                    "trigger": "on_broadcast_stacks,crescendo_trigger"
+                }
             ],
             "max_stacks": 10,
             "stacks_on_trigger": "killed_by_hero_affected_by_upgrade,10774"
@@ -1665,13 +1672,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "tags": ["fiend"]
         }],
         "off_when_benched": true,
-        "effect_string": "turiel_march_of_the_rakshasa",
-        "trigger_chance": 20,
+        "effect_string": "turiel_march_of_the_rakshasa,20",
         "rakshasa_get_hit_seq": 3,
         "rakshasa_fade_time": 0.5
     }],
     "requirements": [],
-    "description": {"desc": "Turiel has a keen eye for deception; 20% of non-boss enemies that spawn are actually duplicitous Rakshasa, fiend enemies who have shape-shifted into other forms. These enemies count as fiends (in addition to their original enemy type) for the purpose of Favored Foe mechanics and Turiel's Unflinching Hatred."},
+    "description": {"desc": "Turiel has a keen eye for deception; $amount% of non-boss enemies that spawn are actually duplicitous Rakshasa, fiend enemies who have shape-shifted into other forms. These enemies count as fiends (in addition to their original enemy type) for the purpose of Favored Foe mechanics and Turiel's Unflinching Hatred."},
     "id": 1413,
     "flavour_text": "",
     "graphic_id": 0,
@@ -1711,7 +1717,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Hearty Constitution** (Guess)
-> All Champions deal bonus damage based on their individual CON scores (400% per point of CON above 10, stacking multiplicatively).
+> All Champions deal bonus damage based on their individual CON scores (+400% per point of CON above 10, stacking multiplicatively).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1740,7 +1746,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Unknown** (Guess)
-> All Champions deal bonus damage based on their individual CHA scores (400% per point of CHA above 10, stacking multiplicatively).
+> All Champions deal bonus damage based on their individual CHA scores (+400% per point of CHA above 10, stacking multiplicatively).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
