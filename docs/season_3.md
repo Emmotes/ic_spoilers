@@ -16,13 +16,17 @@ The champion changes and time gate cost reduction will all be going live on #DAT
 
 All five of Spurt Hew Maan Barrowin Birdsong and Turiel have now received "new" abilities in the data that suggest they are all part of season 3. Given that they are also all getting `Lawbringer` and `Ancient` skins on the same date just makes that far more likely.
 
-It seems to be that this new season will be a "Lawful" themed season. This tracks with some of the "new" abilities and specialisations these champions are getting.
+It seems to be that this new season will be an Unaffiliated / Lawful themed season. This tracks with some of the "new" abilities and specialisations these champions are getting.
 
 # Changes
 
 The information below is raw data on the "new" abilities that the champions might be getting. Some may be complete reworks - some may look copy-paste from old abilities that haven't seen reworks yet (and might not get reworked).
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. Making assumptions on how the champions will turn out based on this information would be premature.
+
+# Modron: Unaffiliated Core
+
+![Unaffiliated Core](images/modron_s3.png)
 
 # Spurt
 
