@@ -50,11 +50,64 @@ Unknown.
 </details>
 <br />
 
-**Unknown**
+**Cloud of Daggers**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 18551,
+    "export_params": {
+        "uses": ["effect"],
+        "export_animation": true
+    },
+    "type": 1,
+    "graphic": "Effects/Effect_AntriusCloudofDaggers",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Music Note**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 18552,
+    "export_params": {"uses": ["overlay"]},
+    "type": 1,
+    "graphic": "Effects/Overlay_AntriusMusicNote",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Inspiring Song** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 18553,
+    "export_params": {
+        "uses": ["effect"],
+        "export_animation": true
+    },
+    "type": 1,
+    "graphic": "Effects/Underlay_InspiringSong",
+    "fs": 0
+}
 </pre>
 </p>
 </details>
