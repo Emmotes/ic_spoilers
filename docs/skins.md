@@ -8,7 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Imoen | `Flayer Hunter` | Gem Shop | 20,000 | 08 Feb 2023 |
 | Aila | `Dragonlance` | Dragonlance Aila Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Lucius | `Dragonlance` | Dragonlance Lucius Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Nova | `Dragonlance` | Dragonlance Nova Skin & Feat Pack | $9.99 | 10 Feb 2023 |
