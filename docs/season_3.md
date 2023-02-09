@@ -26,7 +26,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Modron: Unaffiliated Core
 
-![Unaffiliated Core](images/modron_s3.png)
+This core is currently bugged - with nodes pointing the wrong way - and having the wrong numbers. It also appears to be missing some tiles and a node. Because of this it's not possible to tell how much damage it will be doing yet. I will update the pictures and data when/if they're fixed.
+
+### Level 1
+![Unaffiliated Core](images/modron_1_s3.png)
+
+### Level 15
+![Unaffiliated Core](images/modron_15_s3.png)
 
 # Spurt
 
