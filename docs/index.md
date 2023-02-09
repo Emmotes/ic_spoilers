@@ -21,6 +21,7 @@ These are the champions that are upcoming and all the information we know about 
 
 Miscellaneous spoilers.
 
+* [Thayan Enclave](thayan_enclave.md)
 * [Season 3](season_3.md) - TBD
 * [Feats](feats.md)
 * [Skins](skins.md)
