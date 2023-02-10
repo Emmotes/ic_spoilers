@@ -8,6 +8,21 @@ From the text it seems that Corrupted Gems will be collectible by killing "Red W
 
 Beyond that - there's nothing else to go on yet. Certainly no date.
 
+## Corrupted Gem Shop Items
+
+* Golden Epic: Krydle (Slot 3)
+* Feat: Second Wind (Shandie)
+* Feat: Second Wind (Shandie)
+* Feat: Second Wind (Shandie) (Yes 3 times)
+* Skin: Red Wizard Widdle
+* Skin: Red Wizard Calliope
+* Red Wizard Emergence Chest (x1)
+* Supply Chest (x1)
+* Modron Component Chest (x1)
+* Marvelous Support Pigment (x1)
+
+## FAQ and Text Defines
+
 **Message 1**
 > Welcome to the Thayan Enclave! I hear you're having some problems with Red Wizards? I might be able to help you with that. If you collect the Corrupted Gems they're carrying, I can offer you some exclusive items in exchange!
 <details><summary><em>Raw Data</em></summary>
@@ -128,6 +143,21 @@ Beyond that - there's nothing else to go on yet. Certainly no date.
     "contents": "NEXT EMERGENCE EVENT",
     "id": 4966,
     "key": "next_emergence_event"
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Emergence Event Dialogue Description**
+> The Red Wizards are invading the Sword Coast! During this emergence, you'll find Red Wizards popping up on Free Play adventures. For the duration of the emergence, you can collect a new in-game currency: Corrupted Gems! You can spend your Corrupted Gems in the new Thayan Enclave Gem Shop. Good luck adventurers!
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "contents": "The Red Wizards are invading the Sword Coast! During this emergence, you'll find Red Wizards popping up on Free Play adventures. For the duration of the emergence, you can collect a new in-game currency: Corrupted Gems! You can spend your Corrupted Gems in the new Thayan Enclave Gem Shop. Good luck adventurers!",
+    "id": 4979,
+    "key": "emergence_event_dialog_description"
 }
 </pre>
 </p>
