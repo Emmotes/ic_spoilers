@@ -10,11 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| Aila | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
-| Lucius | `Spell Master` | 120% Self DPS | 50,000 Gems | 10 Feb 2023 |
-| Nova | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
-| Qillek | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 10 Feb 2023 |
-| Sentry | `Vicious Damage` | 400% Self DPS & Prevent Healing for 10s | 50,000 Gems | 10 Feb 2023 |
 | Arkhan | `Weapon Master` | 120% Self DPS | 50,000 Gems | 17 Feb 2023 |
 | Krull | `Sworn to Service` | 80% Dark Order Synergy | 50,000 Gems | 17 Feb 2023 |
 | Torogar | `Devoted Shield` | 80% Markings of a Zealot | 50,000 Gems | 17 Feb 2023 |
@@ -31,6 +26,14 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Imoen | `Silver Linings` | 80% Optimism | 50,000 Gems | 01 Mar 2023 |
 | Viconia | `Singer of Eternal Night` | 80% Cleric of Shar | 50,000 Gems | 01 Mar 2023 |
 | Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 29 Mar 2023 |
+| Gazrick | `Cold Snap` | 80% Frosty Friendship | 50,000 Gems | 12 Apr 2023 |
+| Orkira | `Breath of the Phoenix` | 80% Lesser Restoration | 50,000 Gems | 12 Apr 2023 |
+| Jim | `For My Next Illusion` | 80% Magic Magic Magic Magic | 50,000 Gems | 26 Apr 2023 |
+| Dungeon Master | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
+| Omin | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
+| Bruenor | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 17 May 2023 |
+| Krond | `Warrior's Grace` | 120% Self DPS | 50,000 Gems | 17 May 2023 |
+| Nordom | `Modron Sensibilities` | 80% Rule of Law | 50,000 Gems | 24 May 2023 |
 
 [Back to Top](#top)
 

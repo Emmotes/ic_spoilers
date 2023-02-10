@@ -8,11 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Aila | `Dragonlance` | Dragonlance Aila Skin & Feat Pack | $9.99 | 10 Feb 2023 |
-| Lucius | `Dragonlance` | Dragonlance Lucius Skin & Feat Pack | $9.99 | 10 Feb 2023 |
-| Nova | `Dragonlance` | Dragonlance Nova Skin & Feat Pack | $9.99 | 10 Feb 2023 |
-| Qillek | `Dragonlance` | Dragonlance Qillek Skin & Feat Pack | $9.99 | 10 Feb 2023 |
-| Sentry | `Dragonlance` | Dragonlance Sentry Skin & Feat Pack | $9.99 | 10 Feb 2023 |
 | Baeloth | `Flayer Hunter` | Gem Shop | 20,000 | 15 Feb 2023 |
 | Arkhan | `Knight of Takhisis` | Knight of Takhisis Arkhan Skin & Feat Pack | $9.99 | 17 Feb 2023 |
 | Krull | `Knight of Takhisis` | Knight of Takhisis Krull Skin & Feat Pack | $9.99 | 17 Feb 2023 |
@@ -39,6 +34,8 @@ Most skins are real money purchases only.
 | Miria | `Dragonlance` | Dragonlance Miria Theme Pack | $24.99 | 15 Mar 2023 |
 | Calliope | `Red Wizard` | ??? | ??? | 29 Mar 2023 |
 | Widdle | `Red Wizard` | ??? | ??? | 29 Mar 2023 |
+| Barrowin | `Lawbringer` | ??? | ??? | 26 Apr 2023 |
+| Strongheart | `Action Figure` | ??? | ??? | 24 May 2023 |
 
 [Back to Top](#top)
 
