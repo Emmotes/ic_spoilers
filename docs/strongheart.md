@@ -13,7 +13,7 @@ Info from a wiki.
 
 # Basic Information
 
-Strongheart will be the new champion in the The Running event on 26 April 2023.
+Strongheart will be the new champion in the The Great Modron March event on 17 May 2023.
 
 * Seat: Unknown
 * Race: Human (Guess)

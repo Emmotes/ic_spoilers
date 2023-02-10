@@ -16,7 +16,7 @@ These are the champions that are upcoming and all the information we know about 
   * [Miria](miria.md) - Unknown
 * Greengrass - 5 April 2023
   * [Antrius](antrius.md) - Unknown
-* The Running - 26 April 2023
+* The Great Modron March - 17 May 2023
   * [Strongheart](strongheart.md) - Unknown
 
 # Misc
