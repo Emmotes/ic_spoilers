@@ -745,7 +745,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 
 ![Barrowin Portrait](images/season_barrowin.png)
 
-**Might Hammer**
+**Mighty Hammer**
 > Barrowin smashes the nearest enemy with her mighty warhammer.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -766,7 +766,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 		"target_offset_x": -60,
 		"type": "melee_attack"
 	}],
-	"name": "Might Hammer",
+	"name": "Mighty Hammer",
 	"cooldown": 4.6,
 	"id": 606
 }
@@ -898,7 +898,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
     "description": {"desc": "Barrowin has a number of Vigilance stacks equal to the number of Champions in the formation that are either lawful or dwarves. She increases the health of other Champions in the formation by $amount% of her max health for each Vigilance stack."},
     "id": 1440,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 18593,
     "properties": {"is_formation_ability": true}
 }
 </pre>
@@ -960,7 +960,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Unknown**
-> Barrowin attacks 0.25 seconds faster for each stack of Vigilance she has. Additionally, when a Champion that is eligible for Healing Word is hit by an Enemy, Barrowin attacks 1 second faster for her next two attacks.
+> Barrowin attacks 0.25 seconds faster for each stack of Vigilance she has. Additionally, when a Champion that is eligible for Healing Word is hit by an enemy, Barrowin attacks 1 second faster for her next two attacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -996,7 +996,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
         }
     ],
     "requirements": [],
-    "description": {"desc": "Barrowin attacks $amount seconds faster for each stack of Vigilance she has. Additionally, when a Champion that is eligible for Healing Word is hit by an Enemy, Barrowin attacks 1 second faster for her next two attacks."},
+    "description": {"desc": "Barrowin attacks $amount seconds faster for each stack of Vigilance she has. Additionally, when a Champion that is eligible for Healing Word is hit by an enemy, Barrowin attacks 1 second faster for her next two attacks."},
     "id": 1442,
     "flavour_text": "",
     "graphic_id": 4437,
@@ -1037,7 +1037,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
     },
     "id": 1443,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 18592,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -1192,7 +1192,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
             "effects_on_monsters": [{
                 "for_time": 15,
                 "active_graphic_y": -90,
-                "active_graphic_id": 1,
+                "active_graphic_id": 18603,
                 "effect_string": "increase_monster_damage,200"
             }]
         }],
@@ -1259,7 +1259,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
     "description": {"desc": "Increases the effect of $(upgrade_name id) by $(amount)% for each positional formation ability affecting $(source_hero) that comes from a Champion who has no affiliation, stacking multiplicatively."},
     "id": 1453,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 18594,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -1690,7 +1690,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
     "description": {"desc": "Turiel has a keen eye for deception; $amount% of non-boss enemies that spawn are actually duplicitous Rakshasa, fiend enemies who have shape-shifted into other forms. These enemies count as fiends (in addition to their original enemy type) for the purpose of Favored Foe mechanics and Turiel's Unflinching Hatred."},
     "id": 1413,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 18596,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -1707,18 +1707,22 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "buff_upgrade_per_any_tagged_crusader_mult,200,10657,lawful"}],
+    "effect_keys": [{
+        "off_when_benched": true,
+        "use_computed_amount_for_description": true,
+        "effect_string": "hero_dps_multiplier_by_stat_diff,400,con,10",
+        "zero_if_diff_is_less_than_or_equal_to_0": true,
+        "targets": ["all"],
+        "override_key_desc": "Increases the damage of $target by $amount%"
+    }],
     "requirements": [],
-    "description": {"desc": "Increases the effect of Embodiment of the Law by $amount% for each Lawful Champion in the formation"},
-    "id": 1410,
+    "description": {"desc": "All Champions deal bonus damage based on their individual CON scores (+$(not_buffed amount)% per point of CON above $optional_min_stat, stacking multiplicatively)."},
+    "id": 1415,
     "flavour_text": "",
-    "graphic_id": 6274,
+    "graphic_id": 0,
     "properties": {
-        "use_outgoing_description": true,
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks",
-        "show_incoming": false,
-        "use_outgoing_multiplier": false
+        "effect_name": "Voice of Resilience"
     }
 }
 </pre>
@@ -1735,19 +1739,19 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
     "effect_keys": [{
         "off_when_benched": true,
         "use_computed_amount_for_description": true,
-        "effect_string": "hero_dps_multiplier_by_stat_diff,400,con,10",
+        "effect_string": "hero_dps_multiplier_by_stat_diff,400,cha,10",
         "zero_if_diff_is_less_than_or_equal_to_0": true,
         "targets": ["all"],
         "override_key_desc": "Increases the damage of $target by $amount%"
     }],
     "requirements": [],
-    "description": {"desc": "All Champions deal bonus damage based on their individual CON scores ($amount% per point of CON above $optional_min_stat, stacking multiplicatively)."},
-    "id": 1415,
+    "description": {"desc": "All Champions deal bonus damage based on their individual CHA scores (+$(not_buffed amount)% per point of CHA above $optional_min_stat, stacking multiplicatively)."},
+    "id": 1416,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "effect_name": "Voice of Resilience"
+        "effect_name": "Voice of Authority"
     }
 }
 </pre>
