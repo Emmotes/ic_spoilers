@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![PC Portrait](images/portrait_antrius.png)
-{% endcomment %}
 
 # Antrius
 
@@ -72,7 +70,7 @@ Unknown.
 </details>
 <br />
 
-**Music Note**
+**Can't Be DeFeated**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -80,10 +78,10 @@ Unknown.
 {
     "p": 0,
     "v": 2,
-    "id": 18552,
-    "export_params": {"uses": ["overlay"]},
+    "id": 18678,
+    "export_params": {"uses": ["icon"]},
     "type": 1,
-    "graphic": "Effects/Overlay_AntriusMusicNote",
+    "graphic": "Icons/Events/2018Greengrass/Y6/Icon_FormationLarge_AntriusCantBeDeFeated",
     "fs": 0
 }
 </pre>
@@ -99,13 +97,48 @@ Unknown.
 {
     "p": 0,
     "v": 2,
-    "id": 18553,
-    "export_params": {
-        "uses": ["effect"],
-        "export_animation": true
-    },
+    "id": 18679,
+    "export_params": {"uses": ["icon"]},
     "type": 1,
-    "graphic": "Effects/Underlay_InspiringSong",
+    "graphic": "Icons/Events/2018Greengrass/Y6/Icon_FormationLarge_AntriusInspiringSong",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Suave and Sophisticated**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 18680,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Greengrass/Y6/Icon_FormationLarge_AntriusSuaveandSophisticated",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**The Hardest Bardiest Bard**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 18681,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Greengrass/Y6/Icon_FormationLarge_AntriusTheHardestBardiestBard",
     "fs": 0
 }
 </pre>
@@ -115,18 +148,49 @@ Unknown.
 
 # Specialisations
 
-Unknown.
+**Bard College**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+
+</pre>
+</p>
+</details>
+<br />
+
+**The A in Chaotic is for Antrius**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+
+</pre>
+</p>
+</details>
+<br />
+
+**Truly Awful Stats**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+
+</pre>
+</p>
+</details>
+<br />
 
 # Items
 
 | Slot | Name | Type |
 |---|---|---|
-| 1 | `Unknown` | Unknown |
-| 2 | `Unknown` | Unknown |
-| 3 | `Unknown` | Unknown |
-| 4 | `Unknown` | Unknown |
-| 5 | `Unknown` | Unknown |
-| 6 | `Unknown` | Unknown |
+| 1 | `Bracers` | Unknown |
+| 2 | `Headshot` | Unknown |
+| 3 | `Instrument` | Unknown |
+| 4 | `Mirror` | Unknown |
+| 5 | `Sword` | Unknown |
+| 6 | `Vest` | Unknown |
 
 # Feats
 
@@ -136,12 +200,10 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Console Portrait
 
 ![Console Portrait](images/console_antrius.png)
 
-{% endcomment %}
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
