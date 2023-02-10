@@ -13,10 +13,10 @@ Note: I've tried to pair ability effects with ability names and might not have t
 Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 
 * Seat: Unknown
-* Race: Unknown
-* Class: Ranger (Guess)
+* Race: Kalashtar
+* Class: Ranger
 * Roles: Support (Guess)
-* Gender: Male (Guess)
+* Gender: Male
 * Alignment: Unknown
 * Affiliation: Unknown
 * Stats: Unknown

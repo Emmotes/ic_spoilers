@@ -11,10 +11,10 @@ I know even less about this champion than I do about Solaak.
 Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 
 * Seat: Unknown
-* Race: Unknown
-* Class: Wizard (Guess)
+* Race: Shadar-kai (Elf)
+* Class: Wizard
 * Roles: Support / Tank (Guesses)
-* Gender: Female (Guess)
+* Gender: Female
 * Alignment: Unknown
 * Affiliation: Unknown
 * Stats: Unknown
