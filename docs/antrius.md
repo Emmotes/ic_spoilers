@@ -37,18 +37,19 @@ Unknown.
     "description": "Antrius attacks the enemy with the most health, dealing 1 hit and causing it to take +100% damage until he attacks again.",
     "long_description": "",
     "damage_modifier": 1,
-    "damage_types": ["melee"],
+    "damage_types": ["magic"],
     "graphic_id": 0,
     "target": "highest_health",
     "aoe_radius": 0,
-    "tags": ["melee"],
+    "tags": ["ranged"],
     "num_targets": 1,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
-        "type": "melee_attack"
+        "hit_sound": 133,
+        "shoot_sound": 159,
+        "projectile_graphic_id": 1,
+        "type": "ranged_attack",
+        "projectile": "song_of_pain",
+        "shoot_frame": 9
     }],
     "name": "Vicious Mockery",
     "cooldown": 6,
@@ -69,7 +70,7 @@ Unknown.
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["melee"],
-    "graphic_id": 0,
+    "graphic_id": 18689,
     "target": "highest_health",
     "aoe_radius": 0,
     "tags": [
@@ -78,11 +79,9 @@ Unknown.
     ],
     "num_targets": 1,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
-        "type": "melee_attack"
+        "character": "companion",
+        "ultimate": "antrius",
+        "type": "ultimate_attack"
     }],
     "name": "Cloud of Daggers",
     "cooldown": 10,
