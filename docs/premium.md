@@ -222,7 +222,7 @@ Contents:
 
 * Champion: `Solaak`
 * Skin: `Dragonlance Solaak`
-* Feat: ???
+* Feat: `Shocking Development` (Solaak)
 * Familiar: `Blue Dragonnel`
 * Chests: `Gold Solaak Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
