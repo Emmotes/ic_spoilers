@@ -4,7 +4,7 @@
 
 This is a new feature that we currently know very little about. All we really have are a few text key defines.
 
-From the text it seems that Corrupted Gems will be collectible by killing "Red Wizards" during "Emergence" Events. These will be able to be spent on "Marvelous Support Pigment" (dyes?) which increase damage when placed on epic equipment.
+From the text it seems that Corrupted Gems will be collectible by killing "Red Wizards" during "Emergence" Events. These will be able to be spent on "Marvelous Support Pigment" (dyes?) which increase damage when placed on epic / legendary equipment.
 
 Beyond that - there's nothing else to go on yet. Certainly no date.
 
@@ -20,6 +20,26 @@ Beyond that - there's nothing else to go on yet. Certainly no date.
 * Supply Chest (x1)
 * Modron Component Chest (x1)
 * Marvelous Support Pigment (x1)
+
+## Real Money Corrupted Gems
+
+| Amount | Cost |
+|--:|--:|
+| 10,000 | $4.99 |
+| 21,000 | $9.99 |
+| 44,000 | $19.99 |
+| 120,000 | $49.99 |
+
+## Pigments
+
+Pigments can be applied to epic / legendary items and currently have 4 different effects.
+
+| Name | Effect |
+|---|---|
+| Marvelous Support Pigment | +100% All Champion Damage |
+| Marvelous DPS Pigment | +400% Self DPS |
+| Marvelous Healing Pigment | +200% All Champion Damage |
+| Marvelous Tanking Pigment | +100% Health |
 
 ## FAQ and Text Defines
 
