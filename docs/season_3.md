@@ -2,19 +2,15 @@
 
 # Season 3
 
-Season 2 will be ending on 1 March 2023 - and Season 3 is likely to start around 2-4 weeks later depending on CNE's schedule. Mid-to-late March is a safe guess.
+Season 2 will be ending on 1 March 2023 - and Season 3 is likely to start around 2-4 weeks later depending on CNE’s schedule. Mid-to-late March is a safe guess.
 
-The season 3 skins are currently dated 8 March 2023 - which means the season 3 preview could start at the same time the season 2 'cooling off' week ends. If that's the case then the ***speculative*** Season 3 start date will be 15 March 2023.
-
-{% comment %}
-The champion changes and time gate cost reduction will all be going live on #DATEPREVIEW - while the actual Season 2 start date will be #DATEACTUAL.
-{% endcomment %}
+The season 3 skins are currently dated 8 March 2023 - which means the season 3 preview could start at the same time the season 2 ‘cooling off’ week ends. If that’s the case then the speculative Season 3 start date will be 15 March 2023.
 
 # Theme
 
 ![Season 3 Portrait](images/portrait_s3.png)
 
-All five of Spurt Hew Maan Barrowin Birdsong and Turiel have now received "new" abilities in the data that suggest they are all part of season 3. Given that they are also all getting `Lawbringer` and `Ancient` skins on the same date just makes that far more likely.
+The Season 3 chests (`Gold Ancient Lawbringer Chests`) have been added to the data and they confirm that Spurt Hew Maan Barrowin Birdsong and Turiel are all season 3 champions.
 
 It seems to be that this new season will be an Unaffiliated / Lawful themed season. This tracks with some of the "new" abilities and specialisations these champions are getting.
 
@@ -26,68 +22,68 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Modron: Unaffiliated Core
 
-This core is currently bugged - with nodes pointing the wrong way - and having the wrong numbers. It also appears to be missing some tiles and a node. Because of this it's not possible to tell how much damage it will be doing yet. I will update the pictures and data when/if they're fixed.
-
 ### Level 1
-![Unaffiliated Core](images/modron_1_s3.png)
+
+![Unaffiliated Core Level 1](images/modron_1_s3.png)
 
 ### Level 15
-![Unaffiliated Core](images/modron_15_s3.png)
+
+![Unaffiliated Core Level 15](images/modron_15_s3.png)
 
 # Spurt
 
 ![Spurt Portrait](images/season_spurt.png)
 
-**You Dead!**
+**Ultimate: You Dead!**
 > Spurt tosses a wasp nest at a stalking giant, and then is immediately killed by a giant hammer, which damages all Enemies on screen. Spurt then comes back as a spirit, increasing the effects of his abilities until he revives.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-	"description": "Spurt tosses a wasp nest at a stalking giant, and then is immediately killed.",
-	"long_description": "Spurt tosses a wasp nest at a stalking giant, and then is immediately killed by a giant hammer, which damages all Enemies on screen. Spurt then comes back as a spirit, increasing the effects of his abilities until he revives.",
-	"damage_modifier": 0.03,
-	"damage_types": ["ranged"],
-	"graphic_id": 5454,
-	"target": "all",
-	"aoe_radius": 0,
-	"tags": [
-		"ranged",
-		"ultimate"
-	],
-	"num_targets": 1,
-	"animations": [{
-		"powerup_after_jump": true,
-		"damage_frame": 80,
-		"effect_frames": {"jump_back": {
-			"activate_on_animation_cancelled": true,
-			"apply_to_hero": true,
-			"effect_string": "effect_def,1429"
-		}},
-		"fade_back_in": true,
-		"visual_effect_frames": {"-22": {
-			"effect": "animated_clip",
-			"scale": 1.15,
-			"graphic_id": 5490
-		}},
-		"power_up_sequence": {
-			"visual_effect_frames": {"19": {
-				"projectile_details": {"projectile_graphic_id": 5476},
-				"effect": "projectile",
-				"offset_x": 1600,
-				"projectile": "wasp_bag",
-				"offset_y": -200
-			}},
-			"animation_sequence_name": "attack"
-		},
-		"jump_center": true,
-		"require_targets_to_start": false,
-		"refresh_damage_targets_at_hit": true,
-		"type": "melee_attack"
-	}],
-	"name": "You Dead!",
-	"cooldown": 120,
-	"id": 605
+    "description": "Spurt tosses a wasp nest at a stalking giant, and then is immediately killed.",
+    "long_description": "Spurt tosses a wasp nest at a stalking giant, and then is immediately killed by a giant hammer, which damages all Enemies on screen. Spurt then comes back as a spirit, increasing the effects of his abilities until he revives.",
+    "damage_modifier": 0.03,
+    "damage_types": ["ranged"],
+    "graphic_id": 5454,
+    "target": "all",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "powerup_after_jump": true,
+        "damage_frame": 80,
+        "effect_frames": {"jump_back": {
+            "activate_on_animation_cancelled": true,
+            "apply_to_hero": true,
+            "effect_string": "effect_def,1429"
+        }},
+        "fade_back_in": true,
+        "visual_effect_frames": {"-22": {
+            "effect": "animated_clip",
+            "scale": 1.15,
+            "graphic_id": 5490
+        }},
+        "power_up_sequence": {
+            "visual_effect_frames": {"19": {
+                "projectile_details": {"projectile_graphic_id": 5476},
+                "effect": "projectile",
+                "offset_x": 1600,
+                "projectile": "wasp_bag",
+                "offset_y": -200
+            }},
+            "animation_sequence_name": "attack"
+        },
+        "jump_center": true,
+        "require_targets_to_start": false,
+        "refresh_damage_targets_at_hit": true,
+        "type": "melee_attack"
+    }],
+    "name": "You Dead!",
+    "cooldown": 120,
+    "id": 605
 }
 </pre>
 </p>
@@ -95,10 +91,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Centipede Net** (Guess)
-> Spurt increases the damage of adjacent Champions by 100%.
-> 
-> While in Spirit form:  
-> - This effect is increased by 2% for each second of Spurt's maximum Ultimate cooldown, stacking multiplicatively.
+> Spurt increases the damage of adjacent Champions by `$amount%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -133,10 +126,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Wa-spiration** (Guess)
-> Spurt gains a stack of Wa-spiration every time he attacks. Every 2 Wa-spiration stacks, Spurt invents a random effect. Effects can stack up to 5 times each and persist until the area changes.
-> 
-> While in Spirit form:  
-> - Wa-spiration stacks are gained when an adjacent Champion attacks and the base multipliers of the invented effects are increased by 100%.
+> Spurt gains a stack of Wa-spiration every time he attacks. Every `$(stacks_until_effect)` Wa-spiration stacks, Spurt invents a random effect. Effects can stack up to `$(max_effect_stacks)` times each and persist until the area changes.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -199,44 +189,44 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Spurt's Spirit** (Guess)
-> Increases the damage of all Champions by `$amount%`.
-> 
+> Increases the damage of all Champions by `$amount%`  
+>   
 > While in Spirit form:  
-> - Centipede Net: Buffed by 2% for each second of ultimate cooldown that Spurt has.
-> - Wa-spiration: Stacks are gained every time an adjacent Champion attacks and the base multipliers of the invented effects are increased by 100%.
-> - Pack Tactics: The base multiplier is increased by 100%
+> Centipede Net: Buffed by 2% for each second of ultimate cooldown that Spurt has  
+> Wa-spiration: Stacks are gained every time an adjacent Champion attacks and the base multipliers of the invented effects are increased by 100%  
+> Pack Tactics: The base multiplier is increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-	"effect_keys": [
-		{
-			"spurt_ult_attack_id": 605,
-			"pack_tactics_buff_effect_id": 1431,
-			"centipede_net_buff_effect_id": 1432,
-			"effect_string": "spurt_spirit_v2",
-			"centipede_net_upgrade_id": 10678,
-			"seconds_left_on_ult_to_remove_spirit": 10,
-			"spirit_graphic_id": 5477,
-			"pack_tactics_upgrade_id": 10680
-		},
-		{"effect_string": "global_dps_multiplier_mult,400"},
-		{
-			"effect_string": "change_base_attack,201",
-			"targets": ["self"]
-		}
-	],
-	"requirements": [],
-	"description": {"desc": "Increases the damage of all Champions by $amount%^^While in Spirit form:^Centipede Net: Buffed by 2% for each second of ultimate cooldown that Spurt has^Wa-spiration: Stacks are gained every time an adjacent Champion attacks and the base multipliers of the invented effects are increased by 100%^Pack Tactics: The base multiplier is increased by 100%"},
-	"id": 1429,
-	"flavour_text": "",
-	"graphic_id": 0,
-	"properties": {
-		"use_outgoing_description": true,
-		"is_formation_ability": true,
-		"effect_name": "Spurt's Spirit",
-		"show_incoming": false
-	}
+    "effect_keys": [
+        {
+            "spurt_ult_attack_id": 605,
+            "pack_tactics_buff_effect_id": 1431,
+            "centipede_net_buff_effect_id": 1432,
+            "effect_string": "spurt_spirit_v2",
+            "centipede_net_upgrade_id": 10678,
+            "seconds_left_on_ult_to_remove_spirit": 10,
+            "spirit_graphic_id": 5477,
+            "pack_tactics_upgrade_id": 10680
+        },
+        {"effect_string": "global_dps_multiplier_mult,400"},
+        {
+            "effect_string": "change_base_attack,201",
+            "targets": ["self"]
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Increases the damage of all Champions by $amount%^^While in Spirit form:^Centipede Net: Buffed by 2% for each second of ultimate cooldown that Spurt has^Wa-spiration: Stacks are gained every time an adjacent Champion attacks and the base multipliers of the invented effects are increased by 100%^Pack Tactics: The base multiplier is increased by 100%"},
+    "id": 1429,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "effect_name": "Spurt's Spirit",
+        "show_incoming": false
+    }
 }
 </pre>
 </p>
@@ -244,10 +234,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Pack Tactics** (Guess)
-> Increases the damage of all Champions by 100% for every Kobold in the formation, including Spurt.
-> 
-> While in Spirit form:  
-> - Base multiplier increased by 100%.
+> Increases the damage of all Champions by `$(not_buffed amount)%` for every Kobold in the formation, including Spurt.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -309,7 +296,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Wa-spiration: Stingy** (Guess)
-> Champions that attack with melee attacks deal 200% additional damage.
+> Champions that attack with melee attacks deal `$amount%` additional damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -364,7 +351,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Wa-spiration: Skunky** (Guess)
-> Enemies that approach the party take an extra 200% damage.
+> Enemies that approach the party take an extra `$amount%` damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -415,7 +402,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Wa-spiration: Grubby** (Guess)
-> All Champions' base attack cooldowns are reduced by 0.1 seconds.
+> All Champions' base attack cooldowns are reduced by `$amount seconds`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -465,7 +452,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Increases the effect of Pack Tactics by 400%.
+> Increases the effect of Pack Tactics by `$amount%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -484,7 +471,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Centipede Net instead affects champions who are 2 formation slots away from Spurt and its effect is increased by 600%.
+> Centipede Net instead affects champions who are 2 formation slots away from Spurt and its effect is increased by `$amount%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -559,33 +546,8 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 
 ![Hew Maan Portrait](images/season_hewmaan.png)
 
-**Impressive Coatwork** (Guess)
-> The effect of all Teamwork abilities are increased by 100%.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{
-        "off_when_benched": true,
-        "effect_string": "buff_upgrade,100,10648"
-    }],
-    "requirements": "",
-    "description": {"desc": "The effect of all Teamwork abilities are increased by $(amount)%"},
-    "id": 1447,
-    "flavour_text": "",
-    "graphic_id": 9769,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Carefully Balanced**
-> Increases the effect of Zrang's Teamwork ability by 5% for each Champion adjacent to the kobolds (stacks additively and then applied to Teamwork multiplicatively).
+**Carefully Balanced** (Guess)
+> Increases the effect of {Zrang's}#955d81 Teamwork ability by `$(amount)%` for each Champion adjacent to the kobolds (stacks additively and then applied to Teamwork multiplicatively).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -613,6 +575,66 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
         "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Impressive Coatwork** (Guess)
+> The effect of all Teamwork abilities are increased by `$(amount)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "buff_upgrade,100,10648"
+    }],
+    "requirements": "",
+    "description": {"desc": "The effect of all Teamwork abilities are increased by $(amount)%"},
+    "id": 1447,
+    "flavour_text": "",
+    "graphic_id": 9769,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown** (Guess)
+> The Hello, Fellow Humans ability now uses the most populous race in your formation instead of Humans.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "hew_maan_did_we_say_humans_spec_post_apply_info"},
+        {
+            "off_when_benched": true,
+            "effect_string": "hewmaan_did_we_say_humans,0"
+        }
+    ],
+    "requirements": "",
+    "description": {
+        "pre": "The Hello, Fellow Humans ability now uses the most populous race in your formation instead of Humans.",
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$(hewmaan_most_populous_race_and_count)"
+        }]}
+    },
+    "id": 1403,
+    "flavour_text": "",
+    "graphic_id": 9768,
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "$active_effect_key_handler_custom_spec_hint",
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -656,41 +678,6 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
         "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Specialisation: Unknown** (Guess)
-> The Hello, Fellow Humans ability now uses the most populous race in your formation instead of Humans.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [
-        {"effect_string": "hew_maan_did_we_say_humans_spec_post_apply_info"},
-        {
-            "off_when_benched": true,
-            "effect_string": "hewmaan_did_we_say_humans,0"
-        }
-    ],
-    "requirements": "",
-    "description": {
-        "pre": "The Hello, Fellow Humans ability now uses the most populous race in your formation instead of Humans.",
-        "post": {"conditions": [{
-            "condition": "not static_desc",
-            "desc": "^^$(hewmaan_most_populous_race_and_count)"
-        }]}
-    },
-    "id": 1403,
-    "flavour_text": "",
-    "graphic_id": 9768,
-    "properties": {
-        "is_formation_ability": true,
-        "spec_option_post_apply_info": "$active_effect_key_handler_custom_spec_hint",
-        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -745,37 +732,37 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 
 ![Barrowin Portrait](images/season_barrowin.png)
 
-**Mighty Hammer**
+**Base Attack: Mighty Hammer**
 > Barrowin smashes the nearest enemy with her mighty warhammer.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-	"description": "Barrowin smashes the nearest enemy with her mighty warhammer.",
-	"long_description": "",
-	"damage_modifier": 1,
-	"damage_types": ["melee"],
-	"graphic_id": 0,
-	"target": "front",
-	"aoe_radius": 0,
-	"tags": ["melee"],
-	"num_targets": 1,
-	"animations": [{
-		"damage_frame": 6,
-		"sound_frames": {"2": 199},
-		"target_offset_x": -60,
-		"type": "melee_attack"
-	}],
-	"name": "Mighty Hammer",
-	"cooldown": 4.6,
-	"id": 606
+    "description": "Barrowin smashes the nearest enemy with her mighty warhammer.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 6,
+        "sound_frames": {"2": 199},
+        "target_offset_x": -60,
+        "type": "melee_attack"
+    }],
+    "name": "Mighty Hammer",
+    "cooldown": 4.6,
+    "id": 606
 }
 </pre>
 </p>
 </details>
 <br />
 
-**Holy Weapon**
+**Ultimate: Holy Weapon**
 > Barrowin infuses her hammer with holy energy and throws it at a random enemy, stunning it for 5 seconds. For the next 15 seconds, the base effect of Blessed Hammer is increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -865,7 +852,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Unknown**
-> Barrowin has a number of Vigilance stacks equal to the number of Champions in the formation that are either lawful or dwarves. She increases the health of other Champions in the formation by 5% of her max health for each Vigilance stack.
+> Barrowin has a number of Vigilance stacks equal to the number of Champions in the formation that are either lawful or dwarves. She increases the health of other Champions in the formation by `$amount%` of her max health for each Vigilance stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -959,8 +946,8 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 </details>
 <br />
 
-**Unknown**
-> Barrowin attacks 0.25 seconds faster for each stack of Vigilance she has. Additionally, when a Champion that is eligible for Healing Word is hit by an enemy, Barrowin attacks 1 second faster for her next two attacks.
+**Specialisation: Unknown** (Guess)
+> Barrowin attacks `$amount seconds faster for each stack of Vigilance she has`. Additionally, when a Champion that is eligible for Healing Word is hit by an enemy, Barrowin attacks 1 second faster for her next two attacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1011,7 +998,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Barrowin remembers the largest number of enemies she's had to tank at once in the current area. Blessed Hammer is increased by 100% multiplied by that number.
+> Barrowin remembers the largest number of enemies she's had to tank at once in the current area. Blessed Hammer is increased by `$amount%` multiplied by that number.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1049,7 +1036,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Barrowin's Blessed Hammer base effect is additively increased by 20% for each Vigilance stack she has.
+> Barrowin's Blessed Hammer base effect is additively increased by `$(amount_per_stack)%` for each Vigilance stack she has.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1073,7 +1060,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Barrowin's Blessed Hammer is buffed by 400%.
+> Barrowin's Blessed Hammer is buffed by `$amount%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1085,14 +1072,14 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {"is_formation_ability": true}
-},
+}
 </pre>
 </p>
 </details>
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Barrowin's Healing Word is buffed by 100%.
+> Barrowin's Healing Word is buffed by `$amount%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1209,7 +1196,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Song of Battle** (Guess)
-> Increases the damage of Champions within two slots of Birdsong by 100%, including Birdsong herself.
+> Increases the damage of Champions within two slots of Birdsong by `$(amount)%`, including Birdsong herself.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1235,7 +1222,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Unknown**
-> Increases the effect of `$(upgrade_name id)` by 100% for each positional formation ability affecting Birdsong that comes from a Champion who has no affiliation, stacking multiplicatively.
+> Increases the effect of `$(upgrade_name id)` by `$(amount)%` for each positional formation ability affecting Birdsong that comes from a Champion who has no affiliation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1271,7 +1258,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Unknown**
-> Increases the effect of `$(upgrade_name id___2)` by 100% whenever any Champion affected by `$(upgrade_name id___2)` gets the killing blow on an enemy. This effect can stack up to 10 times, once for each kill. Stacks multiplicatively. Stacks are reset when changing areas.
+> Increases the effect of `$(upgrade_name id___2)` by `$(amount)%` whenever any Champion affected by `$(upgrade_name id___2)` gets the killing blow on an enemy. This effect can stack up to `$(max_stacks___2)` times, once for each kill. Stacks multiplicatively. Stacks are reset when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1307,6 +1294,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
         "is_formation_ability": true,
         "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
         "per_effect_index_bonuses": true
     }
 }
@@ -1316,7 +1304,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Impressive Bladework** (Guess)
-> When Birdsong attacks she makes one bonus attack against a random boss enemy, dealing 5s of BUD-based damage.
+> When Birdsong attacks she makes one bonus attack against a random boss enemy, dealing `$(seconds_plural amount)` of BUD-based damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1341,7 +1329,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Specialisation: Theme of Valor** (Guess)
-> Increases the effect of `$(upgrade_name upgrade_id)` on Good Champions by 400%.
+> Increases the effect of `$(upgrade_name upgrade_id)` on Good Champions by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1371,7 +1359,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Specialisation: Theme of Consideration** (Guess)
-> Increases the effect of `$(upgrade_name upgrade_id)` on Neutral (Good/Evil axis) Champions by 400%.
+> Increases the effect of `$(upgrade_name upgrade_id)` on Neutral (Good/Evil axis) Champions by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1401,7 +1389,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Specialisation: Theme of Deception** (Guess)
-> Increases the effect of `$(upgrade_name upgrade_id)` on Evil Champions by 400%.
+> Increases the effect of `$(upgrade_name upgrade_id)` on Evil Champions by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1430,7 +1418,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 </details>
 <br />
 
-**Specialisation: Unknown**
+**Specialisation: Crescendo** (Guess)
 > Birdsong starts each area with Crescendo stacks equal to the number of Lawful Champions in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1465,7 +1453,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 </details>
 <br />
 
-**Specialisation: Unknown**
+**Specialisation: One Woman Show** (Guess)
 > Birdsong starts each area with Crescendo stacks equal to the number of Female Champions in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1500,7 +1488,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 </details>
 <br />
 
-**Specialisation: Unknown**
+**Specialisation: Concertino** (Guess)
 > Birdsong starts each area with Crescendo stacks equal to the number of Bard Champions in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1547,6 +1535,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 {
     "effect_keys": [{
         "off_when_benched": true,
+        "use_computed_amount_for_description": true,
         "effect_string": "hero_dps_mult_per_col_behind,100",
         "targets": ["behind"]
     }],
@@ -1567,7 +1556,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Order's Demand**
-> When an enemy attempts to attack Turiel, they instead attack a different valid target, if one is available. When this occurs, Turiel increases the effect of Embodiment of the Law by 30%, stacking multiplicatively up to 30 times and resetting stacks when changing areas.
+> When an enemy attempts to attack Turiel, they instead attack a different valid target, if one is available. When this occurs, Turiel increases the effect of Embodiment of the Law by `$amount%`, stacking multiplicatively up to 30 times and resetting stacks when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1659,7 +1648,7 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **March of the Rakshasa** (Guess)
-> Turiel has a keen eye for deception; 20% of non-boss enemies that spawn are actually duplicitous Rakshasa, fiend enemies who have shape-shifted into other forms. These enemies count as fiends (in addition to their original enemy type) for the purpose of Favored Foe mechanics and Turiel's Unflinching Hatred.
+> Turiel has a keen eye for deception; `$amount%` of non-boss enemies that spawn are actually duplicitous Rakshasa, fiend enemies who have shape-shifted into other forms. These enemies count as fiends (in addition to their original enemy type) for the purpose of Favored Foe mechanics and Turiel's Unflinching Hatred.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1702,7 +1691,32 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 <br />
 
 **Specialisation: A Lawful Mission** (Guess)
-> Increases the effect of Embodiment of the Law by 200% for each Lawful Champion in the formation.
+> Increases the effect of Embodiment of the Law by `$amount%` for each Lawful Champion in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "buff_upgrade_per_any_tagged_crusader_mult,200,10657,lawful"}],
+    "requirements": [],
+    "description": {"desc": "Increases the effect of Embodiment of the Law by $amount% for each Lawful Champion in the formation"},
+    "id": 1410,
+    "flavour_text": "",
+    "graphic_id": 6274,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks",
+        "show_incoming": false,
+        "use_outgoing_multiplier": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Hearty Constitution** (Guess)
+> All Champions deal bonus damage based on their individual CON scores (+`$(not_buffed amount)%` per point of CON above `$optional_min_stat`, stacking multiplicatively).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1730,8 +1744,8 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 </details>
 <br />
 
-**Specialisation: Hearty Constitution** (Guess)
-> All Champions deal bonus damage based on their individual CON scores (+400% per point of CON above 10, stacking multiplicatively).
+**Specialisation: Unknown** (Guess)
+> All Champions deal bonus damage based on their individual CHA scores (+`$(not_buffed amount)%` per point of CHA above `$optional_min_stat`, stacking multiplicatively).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1758,52 +1772,6 @@ This core is currently bugged - with nodes pointing the wrong way - and having t
 </p>
 </details>
 <br />
-
-**Specialisation: Unknown** (Guess)
-> All Champions deal bonus damage based on their individual CHA scores (+400% per point of CHA above 10, stacking multiplicatively).
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{
-        "off_when_benched": true,
-        "use_computed_amount_for_description": true,
-        "effect_string": "hero_dps_multiplier_by_stat_diff,400,cha,10",
-        "zero_if_diff_is_less_than_or_equal_to_0": true,
-        "targets": ["all"],
-        "override_key_desc": "Increases the damage of $target by $amount%"
-    }],
-    "requirements": [],
-    "description": {"desc": "All Champions deal bonus damage based on their individual CHA scores ($amount% per point of CHA above $optional_min_stat, stacking multiplicatively)."},
-    "id": 1416,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "effect_name": "Voice of Authority"
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
-{% comment %}
-
-# Champion
-
-![Champion Portrait](images/season_champion.png)
-
-**Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-<br />
-{% endcomment %}
 
 [Back to Top](#top)
 
