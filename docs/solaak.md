@@ -4,22 +4,27 @@
 
 # Solaak
 
-I have no idea who this is.
-
-Note: I've tried to pair ability effects with ability names and might not have them correct. I know the ability names are correct - and I know the effects are correct - I just might not have paired them together correctly.
+Being telepathic means Solaak knows who to trust–and that's not many people. But when the kalashtar finds the soul of a dragon trapped in a chasm, he forms a bond of trust like no other. Solaak rides his dragon mentor, Tempest, into battle, unstoppable together.
 
 # Basic Information
 
 Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 
-* Seat: Unknown
+* Seat: 2
 * Race: Kalashtar
 * Class: Ranger
-* Roles: Support (Guess)
+* Roles: Support
 * Gender: Male
-* Alignment: Unknown
-* Affiliation: Unknown
-* Stats: Unknown
+* Alignment: Neutral Good
+
+| Stat | Value | Day 1 Trials | Patrons |
+|---|---|---|---|
+| Strength | 14 | Yes | Mirt |
+| Dexterity | 18 | Yes | Vajra |
+| Constitution | 14 | Yes | Strahd |
+| Intelligence | 13 | Yes | Zariel |
+| Wisdom | 15 | Yes | |
+| Charisma | 13 | Yes | |
 
 # Formation
 
@@ -74,7 +79,7 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 </details>
 <br />
 
-**Ultimate Attack: Tempest**
+**Ultimate Attack: Tempest** (Level: 150)
 > Solaak flies over the enemies on Tempest's back while Tempest breaths lightning breath on the enemies below dealing damage, stunning, and knocking them back.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -107,137 +112,22 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 </details>
 <br />
 
-**Blitzing Barrage** (Stack Title: Knock-Back Stacks) (Guess)
-> The effect of `$(upgrade_name id)` is increased by `$(not_buffed amount)%` each time an enemy is knocked back, stacking multiplicatively to a max of 50 stacks. Stacks reset when changing areas.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{
-        "stack_title": "Knock-Back Stacks",
-        "stacks_multiply": true,
-        "off_when_benched": true,
-        "show_bonus": true,
-        "effect_string": "buff_upgrade,25,10611",
-        "max_stacks": 50,
-        "more_triggers": [{
-            "action": {"type": "reset"},
-            "trigger": "area_changed"
-        }],
-        "stacks_on_trigger": "monster_pushed_back"
-    }],
-    "requirements": "",
-    "description": {"desc": "The effect of $(upgrade_name id) is increased by $(not_buffed amount)% each time an enemy is knocked back, stacking multiplicatively to a max of $(max_stacks) stacks. Stacks reset when changing areas."},
-    "id": 1391,
-    "flavour_text": "",
-    "graphic_id": 18020,
-    "properties": {
-        "retain_on_slot_changed": true,
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Compatriots** (Guess)
-> Solaak increases the effect of the outgoing positional formation abilities of all Champions with a ranged base attack by `$(not_buffed amount)%` for each Reach stack he has, stacking additively.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{
-        "amount_updated_listeners": [
-            "slot_changed",
-            "attack_changed"
-        ],
-        "stacks_multiply": false,
-        "amount_func": "add",
-        "include_escorts": true,
-        "stack_func": "per_crusader",
-        "use_computed_amount_for_description": true,
-        "effect_string": "buff_positional_formation_abilities,25",
-        "target_filters_or": [{
-            "attack": "ranged",
-            "type": "attack_type"
-        }],
-        "targets": [{
-            "attack": "ranged",
-            "type": "attack_type"
-        }],
-        "stack_title": "Reach Stacks",
-        "off_when_benched": true,
-        "show_bonus": true,
-        "override_key_desc": "Increases the effect of $target's outgoing Positional Formation Abilities by $amount%"
-    }],
-    "requirements": "",
-    "description": {"desc": "$(source_hero) increases the effect of the outgoing positional formation abilities of all Champions with a ranged base attack by $(not_buffed amount)% for each Reach stack he has, stacking additively."},
-    "id": 1392,
-    "flavour_text": "",
-    "graphic_id": 18023,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Critical Mass** (Guess)
-> Each time a Champion with a ranged base attack attacks there is a 5% chance per stack of Reach that their base attack cooldown is instantly reset.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{
-        "amount_updated_listeners": [
-            "slot_changed",
-            "attack_changed"
-        ],
-        "stacks_multiply": false,
-        "attack_type": "base_attack",
-        "amount_func": "add",
-        "include_escorts": true,
-        "stack_func": "per_crusader",
-        "use_computed_amount_for_description": true,
-        "effect_string": "chance_on_attack_to_reset_attack_cooldown,5",
-        "target_filters_or": [{
-            "attack": "ranged",
-            "type": "attack_type"
-        }],
-        "targets": [{
-            "attack": "ranged",
-            "type": "attack_type"
-        }],
-        "stack_title": "Reach Stacks",
-        "off_when_benched": true,
-        "show_bonus": true,
-        "override_key_desc": "Gives a $(amount)% chance to instantly reset $target's attack cooldown right after using it"
-    }],
-    "requirements": "",
-    "description": {"desc": "Each time a Champion with a ranged base attack attacks there is a 5% chance per stack of Reach that their base attack cooldown is instantly reset."},
-    "id": 1393,
-    "flavour_text": "",
-    "graphic_id": 18021,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Drakewarden** (Guess)
+**Drakewarden** (Level: 0)
 > Solaak's pet pseudodragon Levits takes Solaak's slot in the formation while Solaak rides his drake companion, Tempest, into battle. He attacks from Tempest. If Levits is knocked out by enemies, Solaak and Tempest retreat from the battlefield until you change areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 0,
+    "effect": "effect_def,1389",
+    "name": "Drakewarden",
+    "id": 10610,
+    "hero_id": 120,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [{"effect_string": "do_nothing"}],
     "requirements": "",
@@ -255,11 +145,23 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 </details>
 <br />
 
-**Maneuvers** (Guess)
+**Compatriots** (Level: 50)
 > Solaak gains a Reach stack for each Champion with a ranged base attack in the formation. Each stack increases the damage of these Champions by `$(not_buffed amount)%`, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 50,
+    "effect": "effect_def,1390",
+    "tip_text": "Solaak increases the damage of ranged Champions based on the number of ranged Champions in the formation.",
+    "name": "Compatriots",
+    "id": 10611,
+    "hero_id": 120,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -310,8 +212,167 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
         "indexed_effect_properties": true,
         "is_formation_ability": true,
         "default_bonus_index": 0,
-											   
         "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Maneuvers** (Level: 90)
+> The effect of Compatriots is increased by `$(not_buffed amount)%` each time an enemy is knocked back, stacking multiplicatively to a max of `$(max_stacks)` stacks. Stacks reset when changing areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 90,
+    "effect": "effect_def,1391",
+    "name": "Maneuvers",
+    "id": 10612,
+    "hero_id": 120,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [{
+        "stack_title": "Knock-Back Stacks",
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "effect_string": "buff_upgrade,25,10611",
+        "max_stacks": 50,
+        "more_triggers": [{
+            "action": {"type": "reset"},
+            "trigger": "area_changed"
+        }],
+        "stacks_on_trigger": "monster_pushed_back"
+    }],
+    "requirements": "",
+    "description": {"desc": "The effect of $(upgrade_name id) is increased by $(not_buffed amount)% each time an enemy is knocked back, stacking multiplicatively to a max of $(max_stacks) stacks. Stacks reset when changing areas."},
+    "id": 1391,
+    "flavour_text": "",
+    "graphic_id": 18020,
+    "properties": {
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Critical Mass** (Level: 200)
+> Solaak increases the effect of the outgoing positional formation abilities of all Champions with a ranged base attack by `$(not_buffed amount)%` for each Reach stack he has, stacking additively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 200,
+    "effect": "effect_def,1392",
+    "tip_text": "Solaak increases the effect of outgoing positional formation abilities of ranged champions.",
+    "name": "Critical Mass",
+    "id": 10613,
+    "hero_id": 120,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [{
+        "amount_updated_listeners": [
+            "slot_changed",
+            "attack_changed"
+        ],
+        "stacks_multiply": false,
+        "amount_func": "add",
+        "include_escorts": true,
+        "stack_func": "per_crusader",
+        "use_computed_amount_for_description": true,
+        "effect_string": "buff_positional_formation_abilities,25",
+        "target_filters_or": [{
+            "attack": "ranged",
+            "type": "attack_type"
+        }],
+        "targets": [{
+            "attack": "ranged",
+            "type": "attack_type"
+        }],
+        "stack_title": "Reach Stacks",
+        "off_when_benched": true,
+        "show_bonus": true,
+        "override_key_desc": "Increases the effect of $target's outgoing Positional Formation Abilities by $amount%"
+    }],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) increases the effect of the outgoing positional formation abilities of all Champions with a ranged base attack by $(not_buffed amount)% for each Reach stack he has, stacking additively."},
+    "id": 1392,
+    "flavour_text": "",
+    "graphic_id": 18023,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Blitzing Barrage** (Level: 250)
+> Each time a Champion with a ranged base attack attacks there is a 5% chance per stack of Reach that their base attack cooldown is instantly reset.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 250,
+    "effect": "effect_def,1393",
+    "name": "Blitzing Barrage",
+    "id": 10614,
+    "hero_id": 120,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [{
+        "amount_updated_listeners": [
+            "slot_changed",
+            "attack_changed"
+        ],
+        "stacks_multiply": false,
+        "attack_type": "base_attack",
+        "amount_func": "add",
+        "include_escorts": true,
+        "stack_func": "per_crusader",
+        "use_computed_amount_for_description": true,
+        "effect_string": "chance_on_attack_to_reset_attack_cooldown,5",
+        "target_filters_or": [{
+            "attack": "ranged",
+            "type": "attack_type"
+        }],
+        "targets": [{
+            "attack": "ranged",
+            "type": "attack_type"
+        }],
+        "stack_title": "Reach Stacks",
+        "off_when_benched": true,
+        "show_bonus": true,
+        "override_key_desc": "Gives a $(amount)% chance to instantly reset $target's attack cooldown right after using it"
+    }],
+    "requirements": "",
+    "description": {"desc": "Each time a Champion with a ranged base attack attacks there is a 5% chance per stack of Reach that their base attack cooldown is instantly reset."},
+    "id": 1393,
+    "flavour_text": "",
+    "graphic_id": 18021,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -321,11 +382,25 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 
 # Specialisations
 
-**Confidant** (Guess)
+**Confidant** (Level: 280)
 > Each formation slot occupied by an escort adds 1 Reach stack for `$(upgrade_name id)`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Confidant",
+    "required_level": 280,
+    "effect": "effect_def,1396",
+    "name": "Confidant",
+    "specialization_graphic_id": 18025,
+    "id": 10617,
+    "hero_id": 120,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Solaak trusts those escorted like his ranged bretheren"
+}
 {
     "effect_keys": [
         {
@@ -381,11 +456,25 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 </details>
 <br />
 
-**Emboldened**
+**Emboldened** (Level: 280)
 > Solaak's normal attack deals damage to all enemies in a small radius and all enemies hit take an additional `$(debuff_amount)%` damage for `$(debuff_duration)` seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Emboldened",
+    "required_level": 280,
+    "effect": "effect_def,1395",
+    "name": "Emboldened",
+    "specialization_graphic_id": 18026,
+    "id": 10616,
+    "hero_id": 120,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Solaak imbues his attacks with Tempest's Lightning magic, adding AOE damage"
+}
 {
     "effect_keys": [
         {
@@ -423,90 +512,30 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
         "per_effect_index_bonuses": true
     }
 }
-{
-    "description": "Solaak fires an arrow at the closest enemy, dealing damage and knocking it back a short distance. Emboldened - The arrow creates an electric burst that also deals damage to enemies near the target. Everyone hit also takes 400% more damage for 5 seconds.",
-    "long_description": "",
-    "damage_modifier": 1,
-    "damage_types": ["ranged"],
-    "graphic_id": 0,
-    "target": "front",
-    "aoe_radius": 150,
-    "tags": [
-        "ranged",
-        "aoe"
-    ],
-    "num_targets": 1,
-    "animations": [{
-        "hit_effects_only_on_direct_hit": true,
-        "projectile_details": {
-            "projectile_hit_graphic_id": 18187,
-            "trail": {
-                "scale_lerp": [
-                    {
-                        "x": 1,
-                        "y": 1
-                    },
-                    {
-                        "x": 0,
-                        "y": 0
-                    }
-                ],
-                "lifespan": 0.25,
-                "initial_velocity": {
-                    "x": "0",
-                    "y": "0"
-                },
-                "alpha_lerp": {
-                    "0": 0,
-                    "1": 0,
-                    "0.1": 0.25
-                },
-                "tint": {
-                    "a": 1,
-                    "r": 1,
-                    "b": 1,
-                    "g": 1
-                },
-                "spawn_rate": 50,
-                "particle_graphic_ids": [10110],
-                "velocity_jitter": {
-                    "x": "0",
-                    "y": "0"
-                }
-            },
-            "percent_height_offset": 15,
-            "use_auto_rotation": true,
-            "projectile_graphic_id": 18030,
-            "projectile_speed": 1600
-        },
-        "character": "companion",
-        "hit_sound": 133,
-        "shoot_offset_y": -155,
-        "shoot_offset_x": 50,
-        "shoot_sound": 149,
-        "effects_on_monsters": [{
-            "after_damage": true,
-            "effect_string": "push_back_monster,10",
-            "animation": "hit"
-        }],
-        "type": "ranged_attack",
-        "projectile": "pd_generic_projectile",
-        "shoot_frame": 13
-    }],
-    "name": "Knockback Strike - Emboldened",
-    "cooldown": 4.2,
-    "id": 597
-}
 </pre>
 </p>
 </details>
 <br />
 
-**Unwavering** (Guess)
-> Solaak's base attack speed is reduced by 2. Additionally, the effect of `$(upgrade_name id___2)` is increased to `$(new_amount___2)%` per stack.
+**Unwavering** (Level: 280)
+> Solaak's base attack speed is reduced by `$(seconds_plural amount)`. Additionally, the effect of `$(upgrade_name id___2)` is increased to `$(new_amount___2)%` per stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Unwavering",
+    "required_level": 280,
+    "effect": "effect_def,1394",
+    "name": "Unwavering",
+    "specialization_graphic_id": 18027,
+    "id": 10615,
+    "hero_id": 120,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Solaak focuses on knockbacks and the speed of his attacks"
+}
 {
     "effect_keys": [
         {
@@ -542,22 +571,85 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 
 # Items
 
-| Slot | Name | Type |
+| Slot | Epic Name | Type |
 |---|---|---|
-| 1 | `Boots` | Unknown |
-| 2 | `Chest Armor` | Unknown |
-| 3 | `Longbow` | Unknown |
-| 4 | `Short Sword` | Unknown |
-| 5 | `Tempest` | Unknown |
-| 6 | `Tristan Connection` | Unknown |
+| 1 | `Blade of the Storm` | All Champion Damage |
+| 2 | `Dragonrider's Sabatons` | All Champion Damage |
+| 3 | `Enchanted Longbow` | Compatriots |
+| 4 | `Drakewarden's Armor` | Maneuvers |
+| 5 | `Soul of the Tempest` | Ultimate Damage |
+| 6 | `Signet Ring` | Ultimate Cooldown Reduction |
 
 # Feats
 
-Unknown.
+This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
+
+| Feat | Effect | Source |
+|---|---|---|
+| `Selflessness` | 10% All Champion Damage | Free |
+| `Inspiring Leader` | 25% All Champion Damage | Gold Chest |
+| `Interconnected` | 20% Compatriots | Free |
+| `Compassionate` | 40% Compatriots | Gold Chest |
+| `Mounted Fighter` | 20% Maneuvers | Free |
+| `Area of Effect` | 40% Maneuvers | 12,500 Gems |
+| `Bolt from the Blue` | 10% Stun Chance (4s) | Free |
+| `Electrifying Attack` | 20% Stun Chance (4s) | 12,500 Gems |
+| `Shocking Development` | 40% Stun Chance (4s) | 50,000 Gems |
 
 # Legendaries
 
-Unknown.
+* Increases the damage of all Champions by 10% for each Champion in the formation.
+* Increases the damage of all Male Champions by 125%.
+* Increases the damage of all Champions by 10% for each Champion in the formation.
+* Increases the damage of all Champions with a WIS score of 13 or higher by 150%.
+* Increases the damage of all Champions with a INT score of 11 or higher by 100%.
+* Increases the damage of all Neutral Champions by 150%.
+
+<details><summary><em>DPS Applicable</em></summary>
+<p>
+<pre>
+     Arkhan: 4 / 6
+    Artemis: 5 / 6
+    Asharra: 5 / 6
+      Azaka: 4 / 6
+     Binwin: 3 / 6
+   Birdsong: 4 / 6
+Black Viper: 4 / 6
+ Catti-brie: 3 / 6
+     D'hani: 4 / 6
+     Delina: 4 / 6
+    Dhadius: 5 / 6
+     Drizzt: 5 / 6
+    Farideh: 5 / 6
+        Fen: 3 / 6
+      Grimm: 4 / 6
+     Gromma: 5 / 6
+       Ishi: 4 / 6
+    Jaheira: 4 / 6
+    Jamilah: 4 / 6
+   Jarlaxle: 5 / 6
+        Jim: 5 / 6
+       Kent: 5 / 6
+      Krond: 5 / 6
+     Lucius: 6 / 6
+      Makos: 5 / 6
+      Minsc: 3 / 6
+      NERDS: 4 / 6
+     Nahara: 4 / 6
+      Nrakk: 6 / 6
+     Orisha: 5 / 6
+   Prudence: 3 / 6
+      Rosie: 4 / 6
+      Strix: 3 / 6
+    Torogar: 3 / 6
+     Warden: 2 / 6
+    Warduke: 3 / 6
+     Yorven: 5 / 6
+      Zorbu: 5 / 6
+</pre>
+</p>
+</details>
+<br />
 
 # Console Portrait
 
