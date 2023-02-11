@@ -22,6 +22,25 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Modron: Unaffiliated Core
 
+With the current numbers - this core is looking really very good for unaffiliated dps champions. It also gets automation at level 1 - which will be handy for people who run background parties.
+
+### Bonus Breakdown
+
+These tables are assuming that every node that can be supercharged is fully supercharged at 500% (which is possible). The left group are based on using an unaffiliated DPS champion - the right group are using a dps champion that has an affiliation.
+
+| With Unaffiliated DPS<br />Num Unaffiliated in Formation | Bonus |   | With Affiliated DPS<br />Num Unaffiliated in Formation | Bonus |
+|--:|--:|---|--:|--:|
+| 1 | 1.15e49% |   | 0 | 8.01e28% |
+| 2 | 1.74e50% |   | 1 | 1.39e35% |
+| 3 | 8.63e50% |   | 2 | 2.10e36% |
+| 4 | 2.70e51% |   | 3 | 1.04e37% |
+| 5 | 6.56e51% |   | 4 | 3.27e37% |
+| 6 | 1.35e52% |   | 5 | 7.93e37% |
+| 7 | 2.50e52% |   | 6 | 1.64e38% |
+| 8 | 4.26e52% |   | 7 | 3.03e38% |
+| 9 | 6.81e52% |   | 8 | 5.15e38% |
+| 10 | 1.04e53% |   | 9 | 8.24e38% |
+
 ### Level 1
 
 ![Unaffiliated Core Level 1](images/modron_1_s3.png)
