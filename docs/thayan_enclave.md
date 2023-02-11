@@ -128,6 +128,36 @@ Beyond that - there's nothing else to go on yet. Certainly no date.
 </details>
 <br />
 
+**Pigment Select Champion Description**
+> Choose a Champion with a piece of Epic or Legendary equipment to apply $pigment_name to. Only Champions with the $tag tag may be chosen.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "contents": "Choose a Champion with a piece of Epic or Legendary equipment to apply $pigment_name to. Only Champions with the $tag tag may be chosen.",
+    "id": 4981,
+    "key": "pigment_select_champion_description"
+}
+{
+    "contents": "DPS",
+    "id": 4982,
+    "key": "tag_dps"
+}
+{
+    "contents": "Tanking",
+    "id": 4983,
+    "key": "tag_tanking"
+}
+{
+    "contents": "You have no eligible equipment to apply this Marvelous Pigment to!",
+    "id": 4985,
+    "key": "no_legendary_for_pigment"
+}
+</pre>
+</p>
+</details>
+<br />
+
 **Emergence Event**
 > EMERGENCE EVENT ENDS  
 > NEXT EMERGENCE EVENT
