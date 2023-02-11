@@ -146,7 +146,7 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 <br />
 
 **Compatriots** (Level: 50)
-> Solaak gains a Reach stack for each Champion with a ranged base attack in the formation. Each stack increases the damage of these Champions by `$(not_buffed amount)%`, stacking multiplicatively.
+> Solaak gains a Reach stack for each Champion with a ranged base attack in the formation. Each stack increases the damage of these Champions by 400%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -221,7 +221,7 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 <br />
 
 **Maneuvers** (Level: 90)
-> The effect of Compatriots is increased by `$(not_buffed amount)%` each time an enemy is knocked back, stacking multiplicatively to a max of `$(max_stacks)` stacks. Stacks reset when changing areas.
+> The effect of Compatriots is increased by 25% each time an enemy is knocked back, stacking multiplicatively to a max of 50 stacks. Stacks reset when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -267,7 +267,7 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 <br />
 
 **Critical Mass** (Level: 200)
-> Solaak increases the effect of the outgoing positional formation abilities of all Champions with a ranged base attack by `$(not_buffed amount)%` for each Reach stack he has, stacking additively.
+> Solaak increases the effect of the outgoing positional formation abilities of all Champions with a ranged base attack by 25% for each Reach stack he has, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -383,7 +383,7 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 # Specialisations
 
 **Confidant** (Level: 280)
-> Each formation slot occupied by an escort adds 1 Reach stack for `$(upgrade_name id)`.
+> Each formation slot occupied by an escort adds 1 Reach stack for Compatriots.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -457,7 +457,7 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 <br />
 
 **Emboldened** (Level: 280)
-> Solaak's normal attack deals damage to all enemies in a small radius and all enemies hit take an additional `$(debuff_amount)%` damage for `$(debuff_duration)` seconds.
+> Solaak's normal attack deals damage to all enemies in a small radius and all enemies hit take an additional 400% damage for 5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -518,7 +518,7 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 <br />
 
 **Unwavering** (Level: 280)
-> Solaak's base attack speed is reduced by `$(seconds_plural amount)`. Additionally, the effect of `$(upgrade_name id___2)` is increased to `$(new_amount___2)%` per stack.
+> Solaak's base attack speed is reduced by 2. Additionally, the effect of Maneuvers is increased to 30% per stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
