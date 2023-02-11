@@ -32,7 +32,7 @@ Beyond that - there's nothing else to go on yet. Certainly no date.
 
 ## Pigments
 
-Pigments can be applied to epic / legendary items and currently have 4 different effects.
+Pigments can be applied to epic / legendary items and currently have 4 different effects and different colours.
 
 | Name | Effect |
 |---|---|
@@ -40,6 +40,8 @@ Pigments can be applied to epic / legendary items and currently have 4 different
 | Marvelous DPS Pigment | +400% Self DPS |
 | Marvelous Healing Pigment | +200% All Champion Damage |
 | Marvelous Tanking Pigment | +100% Health |
+
+The current list of colours include Blue Green Red or White.
 
 ## FAQ and Text Defines
 
