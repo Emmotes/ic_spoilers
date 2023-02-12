@@ -26,11 +26,11 @@ Most skins are real money purchases only.
 | Baeloth | `Dragonlance` | Dragonlance Baeloth Skin & Feat Pack | $9.99 | 01 Mar 2023 |
 | Imoen | `Dragonlance` | Dragonlance Imoen Skin & Feat Pack | $9.99 | 01 Mar 2023 |
 | Viconia | `Dragonlance` | Dragonlance Viconia Skin & Feat Pack | $9.99 | 01 Mar 2023 |
-| Barrowin | `Ancient` | ??? | ??? | 08 Mar 2023 |
-| Birdsong | `Lawbringer` | ??? | ??? | 08 Mar 2023 |
-| Hew Maan | `Law Maan` | ??? | ??? | 08 Mar 2023 |
-| Spurt | `Lawbringer` | ??? | ??? | 08 Mar 2023 |
-| Turiel | `Ancient` | ??? | ??? | 08 Mar 2023 |
+| Barrowin | `Ancient` | Season 3 (Guess) | ??? | 08 Mar 2023 |
+| Birdsong | `Lawbringer` | Season 3 (Guess) | ??? | 08 Mar 2023 |
+| Hew Maan | `Law Maan` | Season 3 (Guess) | ??? | 08 Mar 2023 |
+| Spurt | `Lawbringer` | Season 3 (Guess) | ??? | 08 Mar 2023 |
+| Turiel | `Ancient` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Miria | `Dragonlance` | Dragonlance Miria Theme Pack | $24.99 | 15 Mar 2023 |
 | Calliope | `Red Wizard` | ??? | ??? | 29 Mar 2023 |
 | Widdle | `Red Wizard` | ??? | ??? | 29 Mar 2023 |
