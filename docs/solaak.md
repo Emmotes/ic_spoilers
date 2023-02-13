@@ -4,7 +4,7 @@
 
 # Solaak
 
-Being telepathic means Solaak knows who to trust–and that's not many people. But when the kalashtar finds the soul of a dragon trapped in a chasm, he forms a bond of trust like no other. Solaak rides his dragon mentor, Tempest, into battle, unstoppable together.
+Being telepathic means Solaak knows who to trust–and that’s not many people. But when the kalashtar finds the soul of a dragon trapped in a chasm, they form a bond of trust like no other. Solaak rides their dragon mentor, Tempest, into battle, unstoppable together.
 
 # Basic Information
 
