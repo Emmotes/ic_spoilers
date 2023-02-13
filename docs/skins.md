@@ -32,8 +32,8 @@ Most skins are real money purchases only.
 | Spurt | `Lawbringer` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Turiel | `Ancient` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Miria | `Dragonlance` | Dragonlance Miria Theme Pack | $24.99 | 15 Mar 2023 |
-| Calliope | `Red Wizard` | ??? | ??? | 29 Mar 2023 |
-| Widdle | `Red Wizard` | ??? | ??? | 29 Mar 2023 |
+| Calliope | `Red Wizard` | Thayan Enclave (Guess) | ??? | 29 Mar 2023 |
+| Widdle | `Red Wizard` | Thayan Enclave (Guess) | ??? | 29 Mar 2023 |
 | Barrowin | `Lawbringer` | ??? | ??? | 26 Apr 2023 |
 | Strongheart | `Action Figure` | ??? | ??? | 24 May 2023 |
 
