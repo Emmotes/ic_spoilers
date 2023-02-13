@@ -4,9 +4,11 @@
 
 This is a new feature that we currently know very little about. All we really have are a few text key defines.
 
-From the text it seems that Corrupted Gems will be collectible by killing "Red Wizards" during "Emergence" Events. These will be able to be spent on "Marvelous Support Pigment" (dyes?) which increase damage when placed on epic / legendary equipment.
+From the text it seems that Corrupted Gems will be collectible by killing "Red Wizards" during "Emergence" Events. These will be able to be spent on "Marvelous Pigment"s (dyes?) which have various effects when placed on epic / legendary equipment depending on the type of pigment.
 
-Beyond that - there's nothing else to go on yet. Certainly no date.
+Beyond that - there's not much else to go on yet.
+
+Speculative date for the Thayan Enclave is 29 March 2023 - as that is the date for when the Corrupt Gems will be purchasable in the in-game shop for real money.
 
 ## Corrupted Gem Shop Items
 
