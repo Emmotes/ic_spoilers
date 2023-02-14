@@ -22,6 +22,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Modron: Unaffiliated Core
 
+![Modron Icon](images/modron_icon_s3.png)
+
 With the current numbers - this core is looking really very good for unaffiliated dps champions. It also gets automation at level 1 - which will be handy for people who run background parties.
 
 ### Bonus Breakdown
