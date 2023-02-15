@@ -4,20 +4,27 @@
 
 # Miria
 
-Miria was made by/for Mark Hulmes for the Idle Champions Presents: Fury of the Black Rose streams and is considered to be a CNE original.
+Miria Elithren is a Shadar Kai Silvanesti Elf from the world of Krynn. Born under an ill-omen of the Dark Moon, Nuitari, she had an unhappy childhood that caused her to flee her homeland and seek tutelage in advanced magical arts beyond Elven lands. After passing the Test of High Sorcery, she briefly allied with Lord Soth until he tried to turn Miria into an undead creature subservient to his will. Miria escaped Soth's trap at the cost of the flesh and muscle of her right arm. Pursued by Soth for her arcane knowledge, Miria seeks to escape Krynn.
 
 # Basic Information
 
 Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 
-* Seat: Unknown
-* Race: Shadar-kai (Elf)
+* Seat: 12
+* Race: Elf (Shadar-kai)
 * Class: Wizard
-* Roles: Support / Tank (Guesses)
+* Roles: Support / Tanking
 * Gender: Female
-* Alignment: Unknown
-* Affiliation: Unknown
-* Stats: Unknown
+* Alignment: Lawful Evil
+
+| Stat | Value | Day 1 Trials | Patrons |
+|---|---|---|---|
+| Strength | 10 | Yes | Mirt |
+| Dexterity | 16 | Yes | Vajra |
+| Constitution | 14 | Yes | Strahd |
+| Intelligence | 20 | Yes | Zariel (with Feat) |
+| Wisdom | 13 | Yes | |
+| Charisma | 12 | Yes | |
 
 # Formation
 
@@ -64,7 +71,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Ultimate Attack: Danse Macabre**
+**Ultimate Attack: Danse Macabre** (Level: 35)
 > Miria summons 5 skeletons to the battlefield. The skeletons deal 15 attacks to the enemies before vanishing. All enemies are slowed by 50% for the duration due to the confusion on the battlefield.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -118,37 +125,60 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Mage of High Society** (Guess)
-> Miria increases the damage of all adjacent Champions by `$(amount)%`.
+**Mage of High Sorcery** (Level: 5)
+> Miria increases the damage of all adjacent Champions by `$(amount)`%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-            "effect_keys": [{
-                "off_when_benched": true,
-                "effect_string": "hero_dps_multiplier_mult,100",
-                "targets": ["adj"]
-            }],
-            "requirements": "",
-            "description": {"desc": "$(source_hero) increases the damage of all adjacent Champions by $(amount)%."},
-            "id": 1418,
-            "flavour_text": "",
-            "graphic_id": 18262,
-            "properties": {
-                "is_formation_ability": true,
-                "owner_use_outgoing_description": true
-            }
-        }
+    "static_dps_mult": null,
+    "required_level": 5,
+    "effect": "effect_def,1418",
+    "tip_text": "Miria increases the damage of Champions adjacent to her, keep her next to your highest damage dealing champions.",
+    "name": "Mage of High Sorcery",
+    "id": 10665,
+    "hero_id": 121,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "targets": ["adj"]
+    }],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) increases the damage of all adjacent Champions by $(amount)%."},
+    "id": 1418,
+    "flavour_text": "",
+    "graphic_id": 18262,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
 </pre>
 </p>
 </details>
 <br />
 
-**Soul Cage**
-> When an enemy is defeated, Miria can capture its soul and gain a Soul Cage stack. Her maximum number of Soul Cage stacks is 1 for every 20 areas completed in the current adventure, rounded up. Miria increases the damage bonus of Mage of High Society by `$(not_buffed amount)%` for each Soul Cage stack she has, stacking multiplicatively.
+**Soul Cage** (Level: 10)
+> When an enemy is defeated, Miria can capture its soul and gain a Soul Cage stack. Her maximum number of Soul Cage stacks is 1 for every 20 areas completed in the current adventure, rounded up. Miria increases the damage bonus of Mage of High Sorcery by 100% for each Soul Cage stack she has, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 10,
+    "effect": "effect_def,1419",
+    "name": "Soul Cage",
+    "id": 10666,
+    "hero_id": 121,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -189,13 +219,30 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Zombie Bodyguards**
-> While Miria is alive, a Zombie Bodyguard that shares hit points with Miria appears in front of each Champion in the front-most column of the formation. When a Champion in that column takes damage, the Zombie Bodyguard takes 90% of the damage instead, while the original target takes the remaining 10%.
+**Zombie Bodyguards** (Level: 15)
+> While Miria is alive, a Zombie Bodyguard that shares hit points with Miria appears in front of each Champion in the front-most column of the formation. When a Champion in that column takes damage, the Zombie Bodyguard takes `$(amount)`% of the damage instead, while the original target takes the remaining 10%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
+    "static_dps_mult": null,
+    "required_level": 15,
+    "effect": "effect_def,1420",
+    "tip_text": "Miria protects the formation by summoning Zombie Bodyguards to protect the frontmost Champions. She does not need to be in the front column to be effective.",
+    "name": "Zombie Bodyguards",
+    "id": 10667,
+    "hero_id": 121,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
     "effect_keys": [{
+        "zombie_graphic_ids": [
+            18233,
+            18234,
+            18235
+        ],
         "off_when_benched": true,
         "effect_string": "miria_zombie_bodyguards,90",
         "targets": ["front_column"],
@@ -224,11 +271,22 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Clone**
-> Miria maintains a stash of clones in her Inner Sanctum with a count equal to her Soul Cage stacks. If Miria is defeated, a clone immediately appears and takes her place at full health. This does not reduce the number of Soul Cage stacks she has. Her stash of clones are regenerated when the party changes areas. For each clone summoned in the current area, the effect of Mage of High Society is increased by `$(not_buffed amount)%`, stacking multiplicatively.
+**Clone** (Level: 20)
+> Miria maintains a stash of clones in her Inner Sanctum with a count equal to her Soul Cage stacks. If Miria is defeated, a clone immediately appears and takes her place at full health. This does not reduce the number of Soul Cage stacks she has. Her stash of clones are regenerated when the party changes areas. For each clone summoned in the current area, the effect of Mage of High Sorcery is increased by 100%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 20,
+    "effect": "effect_def,1421",
+    "name": "Clone",
+    "id": 10668,
+    "hero_id": 121,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -267,11 +325,22 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Life Transference** (Guess)
-> Miria increases the health of all other Champions by `$(amount)%` of her max health for each Soul Cage stack she has, stacking additively.
+**Life Transference** (Level: 25)
+> Miria increases the health of all other Champions by `$(amount)`% of her max health for each Soul Cage stack she has, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 25,
+    "effect": "effect_def,1422",
+    "name": "Life Transference",
+    "id": 10669,
+    "hero_id": 121,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [{
         "amount_updated_listeners": [
@@ -313,83 +382,25 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 
 # Specialisations
 
-**Methodical**
-> Miria increases the attack bonus of Mage of High Society by `$(amount)%` for each Lawful Champion in the formation, stacking multiplicatively.
+**Independent** (Level: 30)
+> Miria increases the attack bonus of Mage of High Sorcery by `$(amount)`% for each Unaffiliated Champion in the formation, stacking multiplicatively. 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [
-        {"effect_string": "pre_stack_amount,25"},
-        {
-            "amount_expr": "upgrade_amount(10670,0)",
-            "stacks_multiply": true,
-            "off_when_benched": true,
-            "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,0,10665,lawful"
-        }
-    ],
-    "requirements": "",
-    "description": {"desc": "$(source_hero) increases the attack bonus of $(upgrade_name id___2) by $(amount)% for each Lawful Champion in the formation, stacking multiplicatively."},
-    "id": 1423,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "indexed_effect_properties": true,
-        "is_formation_ability": true,
-        "spec_option_post_apply_info": "Lawful Champions: $num_stacks___2",
-        "default_bonus_index": 0,
-        "owner_use_outgoing_description": true,
-        "type": "upgrade",
-        "formation_circle_icon": false,
-        "per_effect_index_bonuses": true
-    }
+    "static_dps_mult": null,
+    "specialization_name": "Independent",
+    "required_level": 30,
+    "effect": "effect_def,1425",
+    "name": "Independent",
+    "specialization_graphic_id": 18265,
+    "id": 10672,
+    "hero_id": 121,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Miria prefers the lone wolves."
 }
-</pre>
-</p>
-</details>
-<br />
-
-**Intellectual**
-> Miria increases the attack bonus of Mage of High Society by `$(amount)%` for each Champion with an INT score of 15+ in the formation, stacking multiplicatively.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [
-        {"effect_string": "pre_stack_amount,25"},
-        {
-            "amount_expr": "upgrade_amount(10671,0)",
-            "stacks_multiply": true,
-            "off_when_benched": true,
-            "effect_string": "buff_upgrade_per_any_crusader_where_mult,0,10665,int,>=,15"
-        }
-    ],
-    "requirements": "",
-    "description": {"desc": "$(source_hero) increases the attack bonus of $(upgrade_name id___2) by $(amount)% for each Champion with an INT score of 15+ in the formation, stacking multiplicatively."},
-    "id": 1424,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "indexed_effect_properties": true,
-        "is_formation_ability": true,
-        "spec_option_post_apply_info": "INT 15+ Champions: $num_stacks___2",
-        "default_bonus_index": 0,
-        "owner_use_outgoing_description": true,
-        "type": "upgrade",
-        "formation_circle_icon": false,
-        "per_effect_index_bonuses": true
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Independent**
-> Miria increases the attack bonus of Mage of High Society by `$(amount)%` for each Unaffiliated Champion in the formation, stacking multiplicatively.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
 {
     "effect_keys": [
         {"effect_string": "pre_stack_amount,25"},
@@ -421,24 +432,187 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
+**Intellectual** (Level: 30)
+> Miria increases the attack bonus of Mage of High Sorcery by `$(amount)`% for each Champion with an INT score of 15+ in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Intellectual",
+    "required_level": 30,
+    "effect": "effect_def,1424",
+    "name": "Intellectual",
+    "specialization_graphic_id": 18266,
+    "id": 10671,
+    "hero_id": 121,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Miria prefers the smarter crowd."
+}
+{
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,25"},
+        {
+            "amount_expr": "upgrade_amount(10671,0)",
+            "stacks_multiply": true,
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade_per_any_crusader_where_mult,0,10665,int,>=,15"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) increases the attack bonus of $(upgrade_name id___2) by $(amount)% for each Champion with an INT score of 15+ in the formation, stacking multiplicatively."},
+    "id": 1424,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "INT 15+ Champions: $num_stacks___2",
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Methodical** (Level: 30)
+> Miria increases the attack bonus of Mage of High Sorcery by `$(amount)`% for each Lawful Champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Methodical",
+    "required_level": 30,
+    "effect": "effect_def,1423",
+    "name": "Methodical",
+    "specialization_graphic_id": 18267,
+    "id": 10670,
+    "hero_id": 121,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Miria prefers those who follow the rules."
+}
+{
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,25"},
+        {
+            "amount_expr": "upgrade_amount(10670,0)",
+            "stacks_multiply": true,
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,0,10665,lawful"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) increases the attack bonus of $(upgrade_name id___2) by $(amount)% for each Lawful Champion in the formation, stacking multiplicatively."},
+    "id": 1423,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Lawful Champions: $num_stacks___2",
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
 # Items
 
-| Slot | Name | Type |
+| Slot | Epic Name | Type |
 |---|---|---|
-| 1 | `Black Robes` | Unknown |
-| 2 | `Cube of Force` | Unknown |
-| 3 | `Fashionable Jewellery` | Unknown |
-| 4 | `Necromancy Fashion` | Unknown |
-| 5 | `Soul Cage` | Unknown |
-| 6 | `Star Jewel` | Unknown |
+| 1 | `Enhanced Force Cube` | All Champion Damage |
+| 2 | `High Sorcery Robes` | Mage of High Sorcery |
+| 3 | `Ancient Soul Cage` | Soul Cage |
+| 4 | `Star of Another World` | All Specialisations |
+| 5 | `Krynn Hoard` | Ultimate Damage |
+| 6 | `Encrusted Jewelry` | Ultimate Cooldown Reduction |
 
 # Feats
 
-Unknown.
+This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
+
+| Feat | Effect | Source |
+|---|---|---|
+| `Selflessness` | 10% All Champion Damage | Free |
+| `Inspiring Leader` | 25% All Champion Damage | Gold Chest |
+| `Tough` | 15% Health | Free |
+| `Resilient` | 30% Health | 12,500 Gems |
+| `Adept of the Black Robes` | 20% Mage of High Sorcery | Free |
+| `Test of High Sorcery` | 40% Mage of High Sorcery | 12,500 Gems |
+| `Soth's Right Hand` | 80% Mage of High Sorcery | 50,000 Gems |
+| `Soul Flame` | 40% Soul Cage | Gold Chest |
+| `The Black Rose's Influence` | Stat: +1 Charisma | Gold Chest |
 
 # Legendaries
 
-Unknown.
+* Increases the damage of all Champions by 100%.
+* Increases the damage of all Female Champions by 125%.
+* Increases the damage of all Elf Champions by 150%.
+* Increases the damage of all Champions by 20% for each Champion with a WIS score of 11 or higher in the formation.
+* Increases the damage of all Champions with a DEX score of 15 or higher by 200%.
+* Increases the damage of all Champions by 30% for each Magic Champion in the formation.
+
+<details><summary><em>DPS Applicable</em></summary>
+<p>
+<pre>
+     Arkhan: 3 / 6
+    Artemis: 4 / 6
+    Asharra: 4 / 6
+      Azaka: 4 / 6
+     Binwin: 3 / 6
+   Birdsong: 5 / 6
+Black Viper: 5 / 6
+ Catti-brie: 5 / 6
+     D'hani: 5 / 6
+     Delina: 6 / 6
+    Dhadius: 3 / 6
+     Drizzt: 5 / 6
+    Farideh: 4 / 6
+        Fen: 5 / 6
+      Grimm: 3 / 6
+     Gromma: 4 / 6
+       Ishi: 5 / 6
+    Jaheira: 4 / 6
+    Jamilah: 4 / 6
+   Jarlaxle: 5 / 6
+        Jim: 3 / 6
+       Kent: 4 / 6
+      Krond: 3 / 6
+     Lucius: 4 / 6
+      Makos: 3 / 6
+      Minsc: 3 / 6
+      NERDS: 3 / 6
+     Nahara: 5 / 6
+      Nrakk: 4 / 6
+     Orisha: 4 / 6
+   Prudence: 4 / 6
+      Rosie: 5 / 6
+      Strix: 4 / 6
+    Torogar: 4 / 6
+     Warden: 4 / 6
+    Warduke: 3 / 6
+     Yorven: 3 / 6
+      Zorbu: 4 / 6
+</pre>
+</p>
+</details>
+<br />
 
 # Console Portrait
 
