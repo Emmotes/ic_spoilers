@@ -12,7 +12,7 @@ Speculative date for the Thayan Enclave is 29 March 2023 - as that is the date f
 
 ## Corrupted Gem Shop Items
 
-It should be obvious to everyone that the purchases from Corrupted Gems are currently all placeholders.
+It should be obvious to everyone that the purchases from Corrupted Gems are currently mostly placeholders.
 
 | Name | Reward |
 |---|---|
@@ -26,6 +26,8 @@ It should be obvious to everyone that the purchases from Corrupted Gems are curr
 | Supply Chests | Chest x1: Gold Supply Chest |
 | Modron Component Chests | Chest x1: Modron Component Chest |
 | Marvelous Support Pigment | x1 Small Potion of Giant's Strength |
+
+The actual `Gold Red Wizard Emergence Chest` contains gear for Barrowin Birdsong Turiel Spurt and Hew Maan. These are currently placeholders as they are copy-paste from the season 3 chests.
 
 ### Corrupted Gem Icons
 
