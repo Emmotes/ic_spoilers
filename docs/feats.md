@@ -26,6 +26,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Baeloth | `Spectacle of Slaughter` | 80% Morbid Excitement Stacks | 50,000 Gems | 01 Mar 2023 |
 | Imoen | `Silver Linings` | 80% Optimism | 50,000 Gems | 01 Mar 2023 |
 | Viconia | `Singer of Eternal Night` | 80% Cleric of Shar | 50,000 Gems | 01 Mar 2023 |
+| Miria | `Soth's Right Hand` | 80% Mage of High Sorcery | 50,000 Gems | 15 Mar 2023 |
 | Fen | `Wisened Friends` | 80% I've Got You, Friends | ??? | 29 Mar 2023 |
 | Hitch | `Stable Targets` | 80% Ricochet | ??? | 29 Mar 2023 |
 | Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 29 Mar 2023 |

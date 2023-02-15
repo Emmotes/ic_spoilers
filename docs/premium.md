@@ -4,19 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Misty the Will-o'-Wisp Familiar Pack - $9.99  
-Date of release: 15 Feb 2023
-
-Contents:
-
-* Familiar: `Misty the Will-o'-Wisp`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-
-<br />
-
 ### Knight of Takhisis Arkhan Skin & Feat Pack - $9.99  
 Date of release: 17 Feb 2023
 
@@ -313,7 +300,7 @@ Contents:
 
 * Champion: `Miria`
 * Skin: `Dragonlance Miria`
-* Feat: ???
+* Feat: `Soth's Right Hand` (Miria)
 * Familiar: `Malleus the Baby Death Dragon`
 * Chests: `Gold Miria Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1

@@ -8,7 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Baeloth | `Flayer Hunter` | Gem Shop | 20,000 | 15 Feb 2023 |
 | Arkhan | `Knight of Takhisis` | Knight of Takhisis Arkhan Skin & Feat Pack | $9.99 | 17 Feb 2023 |
 | Krull | `Knight of Takhisis` | Knight of Takhisis Krull Skin & Feat Pack | $9.99 | 17 Feb 2023 |
 | Torogar | `Knight of Takhisis` | Knight of Takhisis Torogar Skin & Feat Pack | $9.99 | 17 Feb 2023 |
