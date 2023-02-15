@@ -2,9 +2,11 @@
 
 # Season 3
 
-Season 2 will be ending on 1 March 2023 - and Season 3 is likely to start around 2-4 weeks later depending on CNE’s schedule. Mid-to-late March is a safe guess.
+Season 2 will be ending on 1 March 2023 - and Season 3 is likely to start around 2-4 weeks later depending on CNE's schedule. Mid-to-late March is a safe guess.
 
-The season 3 skins are currently dated 8 March 2023 - which means the season 3 preview could start at the same time the season 2 ‘cooling off’ week ends. If that’s the case then the ***speculative*** Season 3 start date will be 15 March 2023.
+The season 3 skins are currently dated 8 March 2023 - which means the season 3 preview could start at the same time the season 2 'cooling off' week ends. If that's the case then the ***speculative*** Season 3 start date will be 15 March 2023.
+
+Of course they could also overlap the season 2 'cooling off' week and the season 3 preview week. If they do that then the season 3 start date will be 8 March 2023.
 
 # Theme
 
