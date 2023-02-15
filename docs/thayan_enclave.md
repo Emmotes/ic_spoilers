@@ -27,11 +27,17 @@ It should be obvious to everyone that the purchases from Corrupted Gems are curr
 | Modron Component Chests | Chest x1: Modron Component Chest |
 | Marvelous Support Pigment | Small Potion of Giant's Strength |
 
-Corrupted gem icons:
+### Corrupted Gem Icons
 
 | General | Pile | Inventory |
 |---|---|---|
 | ![Corrupted Gem Icon](images/thayan_cg.png) | ![Corrupted Gem Pile Icon](images/thayan_cg_pile.png) | ![Corrupted Gem Inventory Icon](images/thayan_cg_inv.png) |
+
+### Red Wizard Emergence Chest Icons
+
+| General | Inventory |
+|---|---|
+| ![Red Wizard Emergence Chest Icon](images/thayan_chest.png) | ![Red Wizard Emergence Chest Inventory Icon](images/thayan_chest_inv.png) |
 
 ## Real Money Corrupted Gems
 
