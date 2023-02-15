@@ -25,7 +25,7 @@ It should be obvious to everyone that the purchases from Corrupted Gems are curr
 | Red Wizard Emergence Chest | Chest x1: Silver Chest |
 | Supply Chests | Chest x1: Gold Supply Chest |
 | Modron Component Chests | Chest x1: Modron Component Chest |
-| Marvelous Support Pigment | Small Potion of Giant's Strength |
+| Marvelous Support Pigment | x1 Small Potion of Giant's Strength |
 
 ### Corrupted Gem Icons
 
