@@ -27,6 +27,12 @@ It should be obvious to everyone that the purchases from Corrupted Gems are curr
 | Modron Component Chests | Chest x1: Modron Component Chest |
 | Marvelous Support Pigment | Small Potion of Giant's Strength |
 
+Corrupted gem icons:
+
+| General | Pile | Inventory |
+|---|---|---|
+| ![Corrupted Gem Icon](images/thayan_cg.png) | ![Corrupted Gem Pile Icon](images/thayan_cg_pile.png) | ![Corrupted Gem Inventory Icon](images/thayan_cg_inv.png) |
+
 ## Real Money Corrupted Gems
 
 | Amount | Cost |
@@ -48,6 +54,11 @@ Pigments can be applied to epic / legendary items and currently have 4 different
 | Marvelous Tanking Pigment | +100% Health |
 
 The current list of colours include Blue Green Red or White.
+
+| Icon Type | Blue | Green | Red | White |
+|---|---|---|---|---|
+| General | ![Blue Icon](images/thayan_blue.png) | ![Green Icon](images/thayan_green.png) | ![Red Icon](images/thayan_red.png) | ![White Icon](images/thayan_white.png) |
+| Inventory | ![Blue Inventory Icon](images/thayan_blue_inv.png) | ![Green Inventory Icon](images/thayan_green_inv.png) | ![Red Inventory Icon](images/thayan_red_inv.png) | ![White Inventory Icon](images/thayan_white_inv.png) |
 
 ## FAQ and Text Defines
 
@@ -221,6 +232,10 @@ The current list of colours include Blue Green Red or White.
 </p>
 </details>
 <br />
+
+# Corrupted Gem Shopkeeper Portrait
+
+![Corrupt Gem Shopkeeper](images/thayan_shopkeeper.png)
 
 [Back to Top](#top)
 
