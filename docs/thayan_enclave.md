@@ -12,16 +12,20 @@ Speculative date for the Thayan Enclave is 29 March 2023 - as that is the date f
 
 ## Corrupted Gem Shop Items
 
-* Golden Epic: Krydle (Slot 3)
-* Feat: Second Wind (Shandie)
-* Feat: Second Wind (Shandie)
-* Feat: Second Wind (Shandie) (Yes 3 times)
-* Skin: Red Wizard Widdle
-* Skin: Red Wizard Calliope
-* Red Wizard Emergence Chest (x1)
-* Supply Chest (x1)
-* Modron Component Chest (x1)
-* Marvelous Support Pigment (x1)
+It should be obvious to anyone with eyes that the purchases from Corrupted Gems are currently all placeholders.
+
+| Name | Reward |
+|---|---|
+| Golden Epic Equipment | Golden Epic: Krydle (Slot 3) |
+| Feat 1 | Second Wind (Shandie) |
+| Feat 2 | Second Wind (Shandie) |
+| Feat 3 | Second Wind (Shandie) |
+| Red Wizard Widdle | Skin: Red Wizard Widdle |
+| Red Wizard Calliope | Skin: Red Wizard Calliope |
+| Red Wizard Emergence Chest | Chest x1: Silver Chest |
+| Supply Chests | Chest x1: Gold Supply Chest |
+| Modron Component Chests | Chest x1: Modron Component Chest |
+| Marvelous Support Pigment | Small Potion of Giant's Strength |
 
 ## Real Money Corrupted Gems
 
