@@ -4,7 +4,7 @@
 
 # Miria
 
-I know even less about this champion than I do about Solaak.
+Miria was made by/for Mark Hulmes for the Idle Champions Presents: Fury of the Black Rose streams and is considered to be a CNE original.
 
 # Basic Information
 
