@@ -12,7 +12,7 @@ Speculative date for the Thayan Enclave is 29 March 2023 - as that is the date f
 
 ## Corrupted Gem Shop Items
 
-It should be obvious to anyone with eyes that the purchases from Corrupted Gems are currently all placeholders.
+It should be obvious to everyone that the purchases from Corrupted Gems are currently all placeholders.
 
 | Name | Reward |
 |---|---|
