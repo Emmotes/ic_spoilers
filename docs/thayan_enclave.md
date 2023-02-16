@@ -68,7 +68,51 @@ The current list of colours include Blue Green Red or White.
 | General | ![Blue Icon](images/thayan_blue.png) | ![Green Icon](images/thayan_green.png) | ![Red Icon](images/thayan_red.png) | ![White Icon](images/thayan_white.png) |
 | Inventory | ![Blue Inventory Icon](images/thayan_blue_inv.png) | ![Green Inventory Icon](images/thayan_green_inv.png) | ![Red Inventory Icon](images/thayan_red_inv.png) | ![White Inventory Icon](images/thayan_white_inv.png) |
 
-## FAQ and Text Defines
+## FAQ
+
+Welcome to the first Idle Champions Emergence Event! Red Wizards of Thay have emerged throughout the Sword Coast, and it's up to you to stop them!
+
+#### What is an Emergence Event?
+
+Emergence Events are limited-time events where specific monsters begin to appear in all Free Play adventures. These additional monsters (and any previous use of them) will drop Corrupted Gems during the Emergence Event.
+
+#### What are Corrupted Gems?
+
+Corrupted Gems are a new currency collected only during Emergence Events. You can spend them in the new Thayan Enclave gem shop.
+
+#### How do I collect Corrupted Gems?
+
+During Emergence Events, Corrupted Gems can be collected from the designated monsters (Red Wizards for the Red Wizard Emergence) and by completing a daily quest visible in the Emergence Event dialog. Additionally, some variants can reward Corrupted Gems. The 10 variants releasing on both March 29 and April 5 each reward an additional 1,250 Corrupted Gems upon completion.
+
+#### How many Corrupted Gems can I collect through the Emergence Event?
+
+The number of Corrupted Gems available in each Emergence Event varies. During the inaugural Red Wizard Emergence Event you can collect up to 18,000 Corrupted Gems by killing Red Wizards in adventures and an additional 18,000 by completing all of the daily quests. Finally, by completing the variants being released on March 29th and April 5th, you can collect another 25,000 Corrupted Gems.
+
+#### Where can I find Red Wizards?
+
+Extra Red Wizards can be found by playing any Free Play adventures. You can also find Red Wizards in multiple adventures and variants within the Tomb of Annihilation campaign.
+
+#### What can I purchase with Corrupted Gems?
+
+The new Thayan Enclave gem shop has a variety of items that are newly available with this emergence event! Notably: a GE for Miria, Feats for Fen, Hew Maan, and Hitch, and Red Wizard Skins for Widdle and Calliope. There is also a limited supply of Modron Chests and Supply Chests, and a new chest that provides gear for Calliope, Fen, Hew Maan, Hitch, Miria, and Widdle. Finally, the Thayan Enclave is currently the exclusive home of Marvelous Pigments.
+
+#### What are Marvelous Pigments?
+
+Marvelous Pigments are specialized items you can use to upgrade certain equipment items. The Thayan Enclave is currently featuring the Marvelous Support Pigment, which can be used to upgrade any epic or better equipment items on a support Champion to provide a +200% Global Damage buff in addition to their normal effects!
+
+#### What happens when the Emergence Event ends?
+
+When the Red Wizard Emergence Event ends on April 7th you will no longer be able to collect Corrupted Gems from Red Wizards and the daily quest. However, the Corrupted Gems available as variant rewards will remain available for anyone who has yet to complete them. Items in the Thayan Enclave gem shop will remain available through the next Emergence Event.
+
+#### When is the next Emergence Event?
+
+The next Emergence Event will begin on May 31.
+
+#### How long will the items remain in the Thayan Enclave gem shop?
+
+Items added to the Thayan Enclave gem shop for an Emergence Event will remain available in that shop through the end of the following Emergence Event. So the items we've just added will remain in the shop until the next Emergence Event (scheduled to start May 31st) ends.
+
+## Text Defines
 
 **Message 1**
 > Welcome to the Thayan Enclave! I hear you're having some problems with Red Wizards? I might be able to help you with that. If you collect the Corrupted Gems they're carrying, I can offer you some exclusive items in exchange!
