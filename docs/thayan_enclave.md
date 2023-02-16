@@ -12,22 +12,18 @@ Speculative date for the Thayan Enclave is 29 March 2023 - as that is the date f
 
 ## Corrupted Gem Shop Items
 
-It should be obvious to everyone that the purchases from Corrupted Gems are currently mostly placeholders.
+* Golden Epic: `Miria` (Slot Unknown)
+* Feat: `Unknown` (Fen)
+* Feat: `Unknown` (Hew Maan)
+* Feat: `Unknown` (Hitch)
+* Skin: `Red Wizard Calliope`
+* Skin: `Red Wizard Widdle`
+* Chest x1: `Modron Component Chest` (Limited)
+* Chest x1: `Gold Supply Chest` (Limited)
+* Chest x1: `Gold Red Wizard Emergence Chest`
+* Buff x1: `Marvellous Support Pigment`
 
-| Name | Reward |
-|---|---|
-| Golden Epic Equipment | Golden Epic: Krydle (Slot 3) |
-| Feat 1 | Second Wind (Shandie) |
-| Feat 2 | Second Wind (Shandie) |
-| Feat 3 | Second Wind (Shandie) |
-| Red Wizard Widdle | Skin: Red Wizard Widdle |
-| Red Wizard Calliope | Skin: Red Wizard Calliope |
-| Red Wizard Emergence Chest | Chest x1: Silver Chest |
-| Supply Chests | Chest x1: Gold Supply Chest |
-| Modron Component Chests | Chest x1: Modron Component Chest |
-| Marvelous Support Pigment | x1 Small Potion of Giant's Strength |
-
-The actual `Gold Red Wizard Emergence Chest` contains gear for Barrowin Birdsong Turiel Spurt and Hew Maan. These are currently placeholders as they are copy-paste from the season 3 chests.
+The `Gold Red Wizard Emergence Chest` contains gear for Calliope Fen Hew Maan Hitch Miria and Widdle.
 
 ### Corrupted Gem Icons
 
@@ -56,7 +52,7 @@ Pigments can be applied to epic / legendary items and currently have 4 different
 
 | Name | Effect |
 |---|---|
-| Marvelous Support Pigment | +100% All Champion Damage |
+| Marvelous Support Pigment | +200% All Champion Damage |
 | Marvelous DPS Pigment | +400% Self DPS |
 | Marvelous Healing Pigment | +200% All Champion Damage |
 | Marvelous Tanking Pigment | +100% Health |
