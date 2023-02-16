@@ -13,9 +13,9 @@ Speculative date for the Thayan Enclave is 29 March 2023 - as that is the date f
 ## Corrupted Gem Shop Items
 
 * Golden Epic: `Miria` (Slot Unknown)
-* Feat: `Unknown` (Fen)
-* Feat: `Unknown` (Hew Maan)
-* Feat: `Unknown` (Hitch)
+* Feat: `Wisened Friends` (Fen - 80% I've Got You, Friends)
+* Feat: `Unknown` (Hew Maan - Unknown)
+* Feat: `Stable Targets` (Hitch - 80% Ricochet)
 * Skin: `Red Wizard Calliope`
 * Skin: `Red Wizard Widdle`
 * Chest x1: `Modron Component Chest` (Limited)
