@@ -2,13 +2,15 @@
 
 # Thayan Enclave
 
-This is a new feature that we currently know very little about. All we really have are a few text key defines.
+This is a new feature that we currently know bits of pieces about.
 
-From the text it seems that Corrupted Gems will be collectible by killing "Red Wizards" during "Emergence" Events. These will be able to be spent on "Marvelous Pigment"s (dyes?) which have various effects when placed on epic / legendary equipment depending on the type of pigment.
+From the text it seems that Corrupted Gems will be collectible during `Emergence` events. The first one being the `Red Wizard Emergence Event`. The Corrupted gems will be earned by killing Red Wizards found in various adventures during emergence events as well as from daily quests and from variants released during the event. The gems will then be used purchase items from the `Thayan Enclave` shop.
 
-Beyond that - there's not much else to go on yet.
+This system seems designed to be essentially patron 5 without being patron 5. It's got all the trappings of a patron - chores and an exclusive currency/shop that has limited items.
 
-Speculative date for the Thayan Enclave is 29 March 2023 - as that is the date for when the Corrupt Gems will be purchasable in the in-game shop for real money.
+The main point of the Thayan Enclave system seems to be the Marvellous Pigments - which will provide buffs when placed onto items - much the same as Legendaries. The pigments will be Role restricted though - so Support pigments will only be able to put on Support champions' items.
+
+The expected date for release of the Thayan Enclave and first Emergence Event is 29 March 2023.
 
 ## Corrupted Gem Shop Items
 
@@ -24,6 +26,8 @@ Speculative date for the Thayan Enclave is 29 March 2023 - as that is the date f
 * Buff x1: `Marvellous Support Pigment`
 
 The `Gold Red Wizard Emergence Chest` contains gear for Calliope Fen Hew Maan Hitch Miria and Widdle.
+
+The costs for the items above are currently unknown.
 
 ### Corrupted Gem Icons
 
