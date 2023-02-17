@@ -58,7 +58,7 @@ Pigments can be applied to epic / legendary items and currently have 4 different
 |---|---|
 | Marvelous Support Pigment | +200% All Champion Damage |
 | Marvelous DPS Pigment | +400% Self DPS |
-| Marvelous Healing Pigment | +200% All Champion Damage |
+| Marvelous Healing Pigment | +100% Healing |
 | Marvelous Tanking Pigment | +100% Health |
 
 The current list of colours include Blue Green Red or White.
