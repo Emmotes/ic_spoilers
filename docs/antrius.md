@@ -29,7 +29,7 @@ Unknown.
 # Abilities
 
 **Base Attack: Vicious Mockery** (Melee)
-> Unknown effect.
+> Antrius attacks the enemy with the most health, dealing 1 hit and causing it to take +100% damage until he attacks again.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -61,13 +61,13 @@ Unknown.
 <br />
 
 **Ultimate Attack: Cloud of Daggers**
-> Unknown effect.
+> Antrius takes a hand mirror out and smiles into it, causing it to shatter. Shards of glass fly out towards the enemy with the most health forming a cloud upon reaching the target. The cloud deals ongoing damage for 10 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
-    "long_description": "",
+    "description": "Antrius smiles into a mirror causing it to shatter. The shards create a cloud dealing damage to all enemies within it.",
+    "long_description": "Antrius takes a hand mirror out and smiles into it, causing it to shatter. Shards of glass fly out towards the enemy with the most health forming a cloud upon reaching the target. The cloud deals ongoing damage for 10 seconds.",
     "damage_modifier": 1,
     "damage_types": ["melee"],
     "graphic_id": 18689,
@@ -79,9 +79,63 @@ Unknown.
     ],
     "num_targets": 1,
     "animations": [{
-        "character": "companion",
+        "duration": 10,
+        "projectile_data": {
+            "projectile_details": {
+                "trail": {
+                    "scale_lerp": [
+                        {
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "x": 0,
+                            "y": 0
+                        }
+                    ],
+                    "lifespan": 0.3,
+                    "initial_velocity": {
+                        "x": "250",
+                        "y": "0"
+                    },
+                    "alpha_lerp": {
+                        "0": 0,
+                        "1": 0,
+                        "0.1": 0.75
+                    },
+                    "tint": {
+                        "a": 1,
+                        "r": 1,
+                        "b": 1,
+                        "g": 1
+                    },
+                    "spawn_rate": 160,
+                    "particle_graphic_ids": [
+                        7693,
+                        18554
+                    ],
+                    "velocity_jitter": {
+                        "x": "100",
+                        "y": "100"
+                    }
+                },
+                "percent_height_offset": 0,
+                "projectile_graphic_id": 18554,
+                "projectile_speed": 1511,
+                "rotation_speed": 0
+            },
+            "hit_sound": 133,
+            "shoot_offset_y": -62.5,
+            "shoot_offset_x": 90,
+            "shoot_sound": 149,
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 55
+        },
         "ultimate": "antrius",
-        "type": "ultimate_attack"
+        "type": "ultimate_attack",
+        "num_damage_ticks": 20,
+        "aoe_radius": 160
     }],
     "name": "Cloud of Daggers",
     "cooldown": 10,
