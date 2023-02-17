@@ -71,7 +71,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Ultimate Attack: Danse Macabre** (Level: 35)
+**Ultimate Attack: Danse Macabre** (Level: 190)
 > Miria summons 5 skeletons to the battlefield. The skeletons deal 15 attacks to the enemies before vanishing. All enemies are slowed by 50% for the duration due to the confusion on the battlefield.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -125,14 +125,14 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Mage of High Sorcery** (Level: 5)
+**Mage of High Sorcery** (Level: 10)
 > Miria increases the damage of all adjacent Champions by `$(amount)`%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 5,
+    "required_level": 10,
     "effect": "effect_def,1418",
     "tip_text": "Miria increases the damage of Champions adjacent to her, keep her next to your highest damage dealing champions.",
     "name": "Mage of High Sorcery",
@@ -145,7 +145,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 {
     "effect_keys": [{
         "off_when_benched": true,
-        "effect_string": "hero_dps_multiplier_mult,100",
+        "effect_string": "hero_dps_multiplier_mult,400",
         "targets": ["adj"]
     }],
     "requirements": "",
@@ -163,14 +163,66 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Soul Cage** (Level: 10)
+**Zombie Bodyguards** (Level: 30)
+> While Miria is alive, a Zombie Bodyguard that shares hit points with Miria appears in front of each Champion in the front-most column of the formation. When a Champion in that column takes damage, the Zombie Bodyguard takes `$(amount)`% of the damage instead, while the original target takes the remaining 10%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 30,
+    "effect": "effect_def,1420",
+    "tip_text": "Miria protects the formation by summoning Zombie Bodyguards to protect the frontmost Champions. She does not need to be in the front column to be effective.",
+    "name": "Zombie Bodyguards",
+    "id": 10667,
+    "hero_id": 121,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [{
+        "zombie_graphic_ids": [
+            18233,
+            18234,
+            18235
+        ],
+        "off_when_benched": true,
+        "effect_string": "miria_zombie_bodyguards,90",
+        "targets": ["front_column"],
+        "zombie_sequences": {
+            "koed": 2,
+            "idle": 0,
+            "gethit": 3,
+            "ultimate": 2,
+            "walk": 1
+        },
+        "override_key_desc": "A Zombie Bodyguard defends $target by redirecting $amount% of incoming damage to $(source_hero) instead"
+    }],
+    "requirements": "",
+    "description": {"desc": "While $(source_hero) is alive, a Zombie Bodyguard that shares hit points with $(source_hero) appears in front of each Champion in the front-most column of the formation. When a Champion in that column takes damage, the Zombie Bodyguard takes $(amount)% of the damage instead, while the original target takes the remaining $(miria_zombie_bodyguards_remaining_amount)%."},
+    "id": 1420,
+    "flavour_text": "",
+    "graphic_id": 18264,
+    "properties": {
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Soul Cage** (Level: 60)
 > When an enemy is defeated, Miria can capture its soul and gain a Soul Cage stack. Her maximum number of Soul Cage stacks is 1 for every 20 areas completed in the current adventure, rounded up. Miria increases the damage bonus of Mage of High Sorcery by 100% for each Soul Cage stack she has, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 10,
+    "required_level": 60,
     "effect": "effect_def,1419",
     "name": "Soul Cage",
     "id": 10666,
@@ -219,66 +271,14 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Zombie Bodyguards** (Level: 15)
-> While Miria is alive, a Zombie Bodyguard that shares hit points with Miria appears in front of each Champion in the front-most column of the formation. When a Champion in that column takes damage, the Zombie Bodyguard takes `$(amount)`% of the damage instead, while the original target takes the remaining 10%.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "static_dps_mult": null,
-    "required_level": 15,
-    "effect": "effect_def,1420",
-    "tip_text": "Miria protects the formation by summoning Zombie Bodyguards to protect the frontmost Champions. She does not need to be in the front column to be effective.",
-    "name": "Zombie Bodyguards",
-    "id": 10667,
-    "hero_id": 121,
-    "upgrade_type": "unlock_ability",
-    "default_enabled": 1,
-    "required_upgrade_id": 0
-}
-{
-    "effect_keys": [{
-        "zombie_graphic_ids": [
-            18233,
-            18234,
-            18235
-        ],
-        "off_when_benched": true,
-        "effect_string": "miria_zombie_bodyguards,90",
-        "targets": ["front_column"],
-        "zombie_sequences": {
-            "koed": 2,
-            "idle": 0,
-            "gethit": 3,
-            "ultimate": 2,
-            "walk": 1
-        },
-        "override_key_desc": "A Zombie Bodyguard defends $target by redirecting $amount% of incoming damage to $(source_hero) instead"
-    }],
-    "requirements": "",
-    "description": {"desc": "While $(source_hero) is alive, a Zombie Bodyguard that shares hit points with $(source_hero) appears in front of each Champion in the front-most column of the formation. When a Champion in that column takes damage, the Zombie Bodyguard takes $(amount)% of the damage instead, while the original target takes the remaining $(miria_zombie_bodyguards_remaining_amount)%."},
-    "id": 1420,
-    "flavour_text": "",
-    "graphic_id": 18264,
-    "properties": {
-        "retain_on_slot_changed": true,
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Clone** (Level: 20)
+**Clone** (Level: 100)
 > Miria maintains a stash of clones in her Inner Sanctum with a count equal to her Soul Cage stacks. If Miria is defeated, a clone immediately appears and takes her place at full health. This does not reduce the number of Soul Cage stacks she has. Her stash of clones are regenerated when the party changes areas. For each clone summoned in the current area, the effect of Mage of High Sorcery is increased by 100%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 20,
+    "required_level": 100,
     "effect": "effect_def,1421",
     "name": "Clone",
     "id": 10668,
@@ -325,14 +325,14 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Life Transference** (Level: 25)
+**Life Transference** (Level: 130)
 > Miria increases the health of all other Champions by `$(amount)`% of her max health for each Soul Cage stack she has, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 25,
+    "required_level": 130,
     "effect": "effect_def,1422",
     "name": "Life Transference",
     "id": 10669,
@@ -382,15 +382,15 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 
 # Specialisations
 
-**Independent** (Level: 30)
-> Miria increases the attack bonus of Mage of High Sorcery by `$(amount)`% for each Unaffiliated Champion in the formation, stacking multiplicatively. 
+**Independent** (Level: 80)
+> Miria increases the attack bonus of Mage of High Sorcery by `$(amount)`% for each Unaffiliated Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Independent",
-    "required_level": 30,
+    "required_level": 80,
     "effect": "effect_def,1425",
     "name": "Independent",
     "specialization_graphic_id": 18265,
@@ -412,7 +412,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
         }
     ],
     "requirements": "",
-    "description": {"desc": "$(source_hero) increases the attack bonus of $(upgrade_name id___2) by $(amount)% for each Unaffiliated Champion in the formation, stacking multiplicatively. "},
+    "description": {"desc": "$(source_hero) increases the attack bonus of $(upgrade_name id___2) by $(amount)% for each Unaffiliated Champion in the formation, stacking multiplicatively."},
     "id": 1425,
     "flavour_text": "",
     "graphic_id": 0,
@@ -432,7 +432,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Intellectual** (Level: 30)
+**Intellectual** (Level: 80)
 > Miria increases the attack bonus of Mage of High Sorcery by `$(amount)`% for each Champion with an INT score of 15+ in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -440,7 +440,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 {
     "static_dps_mult": null,
     "specialization_name": "Intellectual",
-    "required_level": 30,
+    "required_level": 80,
     "effect": "effect_def,1424",
     "name": "Intellectual",
     "specialization_graphic_id": 18266,
@@ -482,7 +482,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 </details>
 <br />
 
-**Methodical** (Level: 30)
+**Methodical** (Level: 80)
 > Miria increases the attack bonus of Mage of High Sorcery by `$(amount)`% for each Lawful Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -490,7 +490,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 {
     "static_dps_mult": null,
     "specialization_name": "Methodical",
-    "required_level": 30,
+    "required_level": 80,
     "effect": "effect_def,1423",
     "name": "Methodical",
     "specialization_graphic_id": 18267,
