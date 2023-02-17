@@ -10,9 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| Arkhan | `Weapon Master` | 120% Self DPS | 50,000 Gems | 17 Feb 2023 |
-| Krull | `Sworn to Service` | 80% Dark Order Synergy | 50,000 Gems | 17 Feb 2023 |
-| Torogar | `Devoted Shield` | 80% Markings of a Zealot | 50,000 Gems | 17 Feb 2023 |
 | Corazón | `Notorious` | 80% G.O.A.T. Pirate | 50,000 Gems | 20 Feb 2023 |
 | Dob | `With the Band` | 80% Traveling Entertainer | 50,000 Gems | 20 Feb 2023 |
 | Egbert | `Gifts of La Vache Mauve` | 80% Golden Scales | 50,000 Gems | 20 Feb 2023 |
@@ -32,6 +29,8 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 29 Mar 2023 |
 | Gazrick | `Cold Snap` | 80% Frosty Friendship | 50,000 Gems | 12 Apr 2023 |
 | Orkira | `Breath of the Phoenix` | 80% Lesser Restoration | 50,000 Gems | 12 Apr 2023 |
+| Jaheira | `Swift` | Stat: +2 Dexterity | ??? | 14 Apr 2023 |
+| Valentine | `Swift` | Stat: +2 Dexterity | ??? | 14 Apr 2023 |
 | Jim | `For My Next Illusion` | 80% Magic Magic Magic Magic | 50,000 Gems | 26 Apr 2023 |
 | Dungeon Master | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
 | Omin | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |

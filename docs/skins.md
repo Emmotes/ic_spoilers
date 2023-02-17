@@ -8,9 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Arkhan | `Knight of Takhisis` | Knight of Takhisis Arkhan Skin & Feat Pack | $9.99 | 17 Feb 2023 |
-| Krull | `Knight of Takhisis` | Knight of Takhisis Krull Skin & Feat Pack | $9.99 | 17 Feb 2023 |
-| Torogar | `Knight of Takhisis` | Knight of Takhisis Torogar Skin & Feat Pack | $9.99 | 17 Feb 2023 |
 | Corazón | `Dragonlance` | Dragonlance Corazón Skin & Feat Pack | $9.99 | 20 Feb 2023 |
 | Dob | `Dragonlance` | Dragonlance Dob Skin & Feat Pack | $9.99 | 20 Feb 2023 |
 | Egbert | `Dragonlance` | Dragonlance Egbert Skin & Feat Pack | $9.99 | 20 Feb 2023 |
