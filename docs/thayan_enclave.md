@@ -2,7 +2,7 @@
 
 # Thayan Enclave
 
-This is a new feature that we currently know bits of pieces about.
+This is a new feature that we currently know bits and pieces about.
 
 From the text it seems that Corrupted Gems will be collectible during `Emergence` events. The first one being the `Red Wizard Emergence Event`. The Corrupted gems will be earned by killing Red Wizards found in various adventures during emergence events as well as from daily quests and from variants released during the event. The gems will then be used purchase items from the `Thayan Enclave` shop.
 
