@@ -21,10 +21,7 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
 
 # Formation
 
-Unknown.
-{% comment %}
 ![Formation Layout](images/formation_antrius.png)
-{% endcomment %}
 
 # Abilities
 
