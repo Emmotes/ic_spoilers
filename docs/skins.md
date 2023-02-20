@@ -8,12 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Corazón | `Dragonlance` | Dragonlance Corazón Skin & Feat Pack | $9.99 | 20 Feb 2023 |
-| Dob | `Dragonlance` | Dragonlance Dob Skin & Feat Pack | $9.99 | 20 Feb 2023 |
-| Egbert | `Dragonlance` | Dragonlance Egbert Skin & Feat Pack | $9.99 | 20 Feb 2023 |
-| Merilwen | `Dragonlance` | Dragonlance Merilwen Skin & Feat Pack | $9.99 | 20 Feb 2023 |
-| Prudence | `Dragonlance` | Dragonlance Prudence Skin & Feat Pack | $9.99 | 20 Feb 2023 |
-| Rust | `Dragonlance` | Dragonlance Rust Skin & Feat Pack | $9.99 | 20 Feb 2023 |
 | Delina | `Flayer Hunter` | Gem Shop | 20,000 | 22 Feb 2023 |
 | Jaheira | `Dragonlance` | Dragonlance Jaheira Theme Pack | $24.99 | 22 Feb 2023 |
 | Krydle | `Dragonlance` | Dragonlance Krydle Skin & Feat Pack | $9.99 | 22 Feb 2023 |

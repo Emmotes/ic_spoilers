@@ -10,12 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| Corazón | `Notorious` | 80% G.O.A.T. Pirate | 50,000 Gems | 20 Feb 2023 |
-| Dob | `With the Band` | 80% Traveling Entertainer | 50,000 Gems | 20 Feb 2023 |
-| Egbert | `Gifts of La Vache Mauve` | 80% Golden Scales | 50,000 Gems | 20 Feb 2023 |
-| Merilwen | `Nest Egg` | 80% Liquidity | 50,000 Gems | 20 Feb 2023 |
-| Prudence | `Gloat` | 80% Glee | 50,000 Gems | 20 Feb 2023 |
-| Rust | `Big Spender` | 80% One Gold Piece | 50,000 Gems | 20 Feb 2023 |
 | Jaheira | `Clear the Field` | -10s stack time Persistent Focus | 50,000 Gems | 22 Feb 2023 |
 | Krydle | `Taunt` | 400% Self DPS & 50% Taunt | 50,000 Gems | 22 Feb 2023 |
 | Nerys | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 22 Feb 2023 |
@@ -25,7 +19,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Viconia | `Singer of Eternal Night` | 80% Cleric of Shar | 50,000 Gems | 01 Mar 2023 |
 | Miria | `Soth's Right Hand` | 80% Mage of High Sorcery | 50,000 Gems | 15 Mar 2023 |
 | Fen | `Wisened Friends` | 80% I've Got You, Friends | ??? | 29 Mar 2023 |
-| Hitch | `Stable Targets` | 80% Ricochet | ??? | 29 Mar 2023 |
+| Hitch | `Five Questions` | 80% Ricochet | ??? | 29 Mar 2023 |
 | Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 29 Mar 2023 |
 | Gazrick | `Cold Snap` | 80% Frosty Friendship | 50,000 Gems | 12 Apr 2023 |
 | Orkira | `Breath of the Phoenix` | 80% Lesser Restoration | 50,000 Gems | 12 Apr 2023 |
