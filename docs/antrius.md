@@ -8,7 +8,7 @@ Antrius is a "a vain and charming human Bard" from the 1 for All sketch show. Ac
 
 # Basic Information
 
-Antrius will be the new champion in the Greengrass event on 5 April 2023.
+Antrius will be the new champion in the Greengrass event on 12 April 2023.
 
 * Seat: Unknown
 * Race: Human (Guess)
@@ -16,7 +16,7 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
 * Roles: Unknown
 * Gender: Male (Guess)
 * Alignment: Unknown
-* Affiliation: Unknown
+* Affiliation: Awful Ones (Guess)
 * Stats: Unknown
 
 # Formation
@@ -25,7 +25,7 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
 
 # Abilities
 
-**Base Attack: Vicious Mockery** (Melee)
+**Base Attack: Vicious Mockery**
 > Antrius attacks the enemy with the most health, dealing 1 hit and causing it to take +100% damage until he attacks again.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -143,35 +143,6 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
 </details>
 <br />
 
-**Can't Be DeFeated** (Guess)
-> Antrius increases `$(upgrade_name id)`'s damage bonus by `$(amount)%` for each feat your Champions have unlocked, stacking additively.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{
-        "stack_title": "Unlocked Feats",
-        "amount_updated_listeners": ["feat_changed"],
-        "show_bonus": true,
-        "amount_func": "add",
-        "stack_func": "per_feat",
-        "effect_string": "buff_upgrade,100,10794,0"
-    }],
-    "requirements": "",
-    "description": {"desc": "$(source_hero) increases $(upgrade_name id)'s damage bonus by $(amount)% for each feat your Champions have unlocked, stacking additively."},
-    "id": 1465,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
 **Inspiring Song** (Guess)
 > Antrius inspires each adjacent Champion giving them `$(amount___2)` temporary hit points every `$(interval___2)` seconds and increasing their damage by `$(amount)%`. Any Champion with a Charisma score of 17 or higher further inspires all unaffected adjacent Champions, and this continues to cascade. Antrius' song is so inspiring that he also inspires himself. The total shield amount on each Champion is limited to 10 times the Champion's max health.
 <details><summary><em>Raw Data</em></summary>
@@ -197,6 +168,7 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
             }]
         },
         {
+            "target_self": true,
             "effect_string": "grant_temporary_hp_with_cooldown,10,5,0,1000",
             "override_key_desc": "$target is granted $amount temporary HP every $(interval) seconds. The total temporary HP can only grant up to $optional_percent_limit% of $target's max HP",
             "targets": [{
@@ -239,7 +211,7 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
     "description": {"desc": "$(source_hero) inspires each adjacent Champion giving them $(amount___2) temporary hit points every $(interval___2) seconds and increasing their damage by $(amount)%. Any Champion with a Charisma score of 17 or higher further inspires all unaffected adjacent Champions, and this continues to cascade. $(source_hero)' song is so inspiring that he also inspires himself. The total shield amount on each Champion is limited to 10 times the Champion's max health."},
     "id": 1462,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 18683,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
@@ -252,45 +224,7 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
 </details>
 <br />
 
-**Suave and Sophisticated**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 18680,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018Greengrass/Y6/Icon_FormationLarge_AntriusSuaveandSophisticated",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-<br />
-
-**The Hardest Bardiest Bard**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 18681,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018Greengrass/Y6/Icon_FormationLarge_AntriusTheHardestBardiestBard",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Unknown**
+**The Hardest Bardiest Bard** (Guess)
 > Antrius increases `$(upgrade_name id)`'s temporary hit point bonus by `$(amount)%` for each Champion affected by it, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -312,7 +246,7 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
     "description": {"desc": "$(source_hero) increases $(upgrade_name id)'s temporary hit point bonus by $(amount)% for each Champion affected by it, stacking additively."},
     "id": 1463,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 18685,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -323,7 +257,7 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
 </details>
 <br />
 
-**Unknown**
+**Suave and Sophisticated** (Guess)
 > Antrius increases `$(upgrade_name id___2)`'s damage bonus by `$(amount)%` for each Champion affected by it, stacking multiplicatively. Buffs apply to the pre-stack value.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -349,7 +283,7 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
     "description": {"desc": "$(source_hero) increases $(upgrade_name id___2)'s damage bonus by $(amount)% for each Champion affected by it, stacking multiplicatively. Buffs apply to the pre-stack value."},
     "id": 1464,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 18684,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
@@ -363,9 +297,38 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
 </details>
 <br />
 
+**Can't Be DeFeated** (Guess)
+> Antrius increases `$(upgrade_name id)`'s damage bonus by `$(amount)%` for each feat your Champions have unlocked, stacking additively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stack_title": "Unlocked Feats",
+        "amount_updated_listeners": ["feat_changed"],
+        "show_bonus": true,
+        "amount_func": "add",
+        "stack_func": "per_feat",
+        "effect_string": "buff_upgrade,100,10794,0"
+    }],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) increases $(upgrade_name id)'s damage bonus by $(amount)% for each feat your Champions have unlocked, stacking additively."},
+    "id": 1465,
+    "flavour_text": "",
+    "graphic_id": 18682,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
 # Specialisations
 
-**Bard College** (Guess)
+**Specialisation: Bard College** (Guess)
 > Antrius increases `$(upgrade_name id)`'s damage bonus by `$(amount)%` for each Bard in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -394,8 +357,8 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
 </details>
 <br />
 
-**Truly Awful Stats** (Guess)
-> Antrius increases `$(upgrade_name id)`'s damage bonus by `$(amount)`% for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively.
+**Specialisation: Truly Awful Stats** (Guess)
+> Antrius increases `$(upgrade_name id)`'s damage bonus by `$(amount)%` for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -435,7 +398,7 @@ Antrius will be the new champion in the Greengrass event on 5 April 2023.
 </details>
 <br />
 
-**The A in Chaotic is for Antrius** (Guess)
+**Specialisation: The A in Chaotic is for Antrius** (Guess)
 > Antrius increases `$(upgrade_name id)`'s damage bonus by `$(amount)%` for each chaotic Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>

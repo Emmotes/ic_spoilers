@@ -13,7 +13,7 @@ Info from a wiki.
 
 # Basic Information
 
-Strongheart will be the new champion in the The Great Modron March event on 17 May 2023.
+Strongheart will be the new champion in the The Great Modron March event on 24 May 2023.
 
 * Seat: Unknown
 * Race: Human (Guess)
@@ -90,8 +90,8 @@ Unknown.
 # Console Portrait
 
 ![Console Portrait](images/console_strongheart.png)
-
 {% endcomment %}
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
