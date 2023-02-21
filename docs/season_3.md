@@ -2,6 +2,8 @@
 
 # Season 3
 
+![Season Icon](images/s3_icon.png)
+
 Season 2 will be ending on 1 March 2023 - and Season 3 is likely to start around 2-4 weeks later depending on CNE's schedule. Mid-to-late March is a safe guess.
 
 The season 3 skins are currently dated 8 March 2023 - which means the season 3 preview could start at the same time the season 2 'cooling off' week ends. If that's the case then the ***speculative*** Season 3 start date will be 15 March 2023.
@@ -24,7 +26,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Modron: Unaffiliated Core
 
-![Modron Icon](images/modron_icon_s3.png)
+![Modron Icon](images/s3_modron_icon.png)
 
 With the current numbers - this core is looking really very good for unaffiliated dps champions. It also gets automation at level 1 - which will be handy for people who run background parties.
 
@@ -47,11 +49,11 @@ These tables are assuming that every node that can be supercharged is fully supe
 
 ### Level 1
 
-![Unaffiliated Core Level 1](images/modron_1_s3.png)
+![Unaffiliated Core Level 1](images/s3_modron_1.png)
 
 ### Level 15
 
-![Unaffiliated Core Level 15](images/modron_15_s3.png)
+![Unaffiliated Core Level 15](images/s3_modron_15.png)
 
 # Spurt
 
