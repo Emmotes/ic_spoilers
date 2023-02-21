@@ -19,6 +19,7 @@ Strongheart will be the new champion in the The Great Modron March event on 24 M
 * Race: Human (Guess)
 * Class: Paladin (Guess)
 * Roles: Unknown
+* Age: Unknown
 * Gender: Male (Guess)
 * Alignment: Unknown Good (Guess)
 * Affiliation: Unknown

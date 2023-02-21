@@ -14,6 +14,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 * Race: Human (Guess)
 * Class: Bard (Guess)
 * Roles: Unknown
+* Age: Unknown
 * Gender: Male (Guess)
 * Alignment: Unknown
 * Affiliation: Awful Ones (Guess)

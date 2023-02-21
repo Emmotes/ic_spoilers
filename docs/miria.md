@@ -14,6 +14,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 * Race: Elf (Shadar-kai)
 * Class: Wizard
 * Roles: Support / Tanking
+* Age: 347
 * Gender: Female
 * Alignment: Lawful Evil
 

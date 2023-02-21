@@ -14,6 +14,7 @@ Solaak will be the new champion in the Fleetswake event on 22 February 2023.
 * Race: Kalashtar
 * Class: Ranger
 * Roles: Support
+* Age: 22
 * Gender: Male
 * Alignment: Neutral Good
 
