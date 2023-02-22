@@ -601,7 +601,7 @@ This list will only show feats that are going to be available on the release of 
 
 * Increases the damage of all Champions by 10% for each Champion in the formation.
 * Increases the damage of all Male Champions by 125%.
-* Increases the damage of all Champions by 10% for each Champion in the formation.
+* Increases the damage of all Champions by 20% for each Male Champion in the formation.
 * Increases the damage of all Champions with a WIS score of 13 or higher by 150%.
 * Increases the damage of all Champions with a INT score of 11 or higher by 100%.
 * Increases the damage of all Neutral Champions by 150%.
