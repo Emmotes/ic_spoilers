@@ -10,8 +10,6 @@ Of course - spoilers are subject to change at any time. Don't plan any major lif
 
 These are the champions that are upcoming and all the information we know about them. Dates are guesstimates based on the normal event schedule.
 
-* Fleetswake - 22 February 2023
-  * [Solaak](solaak.md) - Kalashtar Ranger
 * Festival of Fools - 15 March 2023
   * [Miria](miria.md) - Elf (Shadar-kai) Wizard
 * Greengrass - 12 April 2023
