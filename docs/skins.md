@@ -8,11 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Delina | `Flayer Hunter` | Gem Shop | 20,000 | 22 Feb 2023 |
-| Jaheira | `Dragonlance` | Dragonlance Jaheira Theme Pack | $24.99 | 22 Feb 2023 |
-| Krydle | `Dragonlance` | Dragonlance Krydle Skin & Feat Pack | $9.99 | 22 Feb 2023 |
-| Nerys | `Dragonlance` | Dragonlance Nerys Skin & Feat Pack | $9.99 | 22 Feb 2023 |
-| Solaak | `Dragonlance` | Dragonlance Solaak Theme Pack | $24.99 | 22 Feb 2023 |
 | Baeloth | `Dragonlance` | Dragonlance Baeloth Skin & Feat Pack | $9.99 | 01 Mar 2023 |
 | Imoen | `Dragonlance` | Dragonlance Imoen Skin & Feat Pack | $9.99 | 01 Mar 2023 |
 | Viconia | `Dragonlance` | Dragonlance Viconia Skin & Feat Pack | $9.99 | 01 Mar 2023 |

@@ -4,62 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Dragonlance Jaheira Theme Pack - $24.99  
-Date of release: 22 Feb 2023
-
-Contents:
-
-* Champion: `Jaheira`
-* Skin: `Dragonlance Jaheira`
-* Feat: `Clear the Field` (Jaheira)
-* Familiar: `Baby Anhkolox`
-* Chests: `Gold Jaheira Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
-### Dragonlance Krydle Skin & Feat Pack - $9.99  
-Date of release: 22 Feb 2023
-
-Contents:
-
-* Champion: `Krydle`
-* Skin: `Dragonlance Krydle`
-* Feat: `Taunt` (Krydle)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Krydle Chest` x7 (Shinies x1)
-
-<br />
-
-### Dragonlance Nerys Skin & Feat Pack - $9.99  
-Date of release: 22 Feb 2023
-
-Contents:
-
-* Champion: `Nerys Kathon`
-* Skin: `Dragonlance Nerys`
-* Feat: `Prodigal Leader` (Nerys)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Nerys Chest` x7 (Shinies x1)
-
-<br />
-
-### Dragonlance Solaak Theme Pack - $24.99  
-Date of release: 22 Feb 2023
-
-Contents:
-
-* Champion: `Solaak`
-* Skin: `Dragonlance Solaak`
-* Feat: `Shocking Development` (Solaak)
-* Familiar: `Blue Dragonnel`
-* Chests: `Gold Solaak Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
 ### Dragonlance Baeloth Skin & Feat Pack - $9.99  
 Date of release: 01 Mar 2023
 

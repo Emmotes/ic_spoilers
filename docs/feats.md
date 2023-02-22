@@ -10,10 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| Jaheira | `Clear the Field` | -10s stack time Persistent Focus | 50,000 Gems | 22 Feb 2023 |
-| Krydle | `Taunt` | 400% Self DPS & 50% Taunt | 50,000 Gems | 22 Feb 2023 |
-| Nerys | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 22 Feb 2023 |
-| Solaak | `Shocking Development` | 40% Stun Chance (4s) | 50,000 Gems | 22 Feb 2023 |
 | Baeloth | `Spectacle of Slaughter` | 80% Morbid Excitement Stacks | 50,000 Gems | 01 Mar 2023 |
 | Imoen | `Silver Linings` | 80% Optimism | 50,000 Gems | 01 Mar 2023 |
 | Viconia | `Singer of Eternal Night` | 80% Cleric of Shar | 50,000 Gems | 01 Mar 2023 |
