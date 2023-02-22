@@ -26,6 +26,8 @@ Contents:
 * Champion: `Krydle`
 * Skin: `Dragonlance Krydle`
 * Feat: `Taunt` (Krydle)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
 * Chests: `Gold Krydle Chest` x7 (Shinies x1)
 
 <br />
@@ -38,6 +40,8 @@ Contents:
 * Champion: `Nerys Kathon`
 * Skin: `Dragonlance Nerys`
 * Feat: `Prodigal Leader` (Nerys)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
 * Chests: `Gold Nerys Chest` x7 (Shinies x1)
 
 <br />

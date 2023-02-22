@@ -18,6 +18,7 @@ Most skins are real money purchases only.
 | Viconia | `Dragonlance` | Dragonlance Viconia Skin & Feat Pack | $9.99 | 01 Mar 2023 |
 | Barrowin | `Ancient` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Birdsong | `Lawbringer` | Season 3 (Guess) | ??? | 08 Mar 2023 |
+| Donaar | `Green Flame` | ??? | ??? | 08 Mar 2023 |
 | Hew Maan | `Law Maan` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Spurt | `Lawbringer` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Turiel | `Ancient` | Season 3 (Guess) | ??? | 08 Mar 2023 |
