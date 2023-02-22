@@ -4,7 +4,9 @@
 
 # Antrius
 
-Antrius is a "a vain and charming human Bard" from the 1 for All sketch show. According to Google.
+Antrius is a "a vain and charming human Bard" from the All For 1 sketch show. According to Google.
+
+[Wiki](https://tvtropes.org/pmwiki/pmwiki.php/Characters/OneForAll)
 
 # Basic Information
 
