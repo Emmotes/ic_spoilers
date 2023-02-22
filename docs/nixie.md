@@ -6,9 +6,9 @@
 
 # Nixie
 
-Nixie is a tiefling sorcerer and pyromaniac from the All For 1 sketch show.
+Nixie is a "tiefling sorcerer and pyromaniac" from the 1 For All sketch show.
 
-[Wiki](https://tvtropes.org/pmwiki/pmwiki.php/Characters/OneForAll)
+[https://tvtropes.org/pmwiki/pmwiki.php/Characters/OneForAll](https://tvtropes.org/pmwiki/pmwiki.php/Characters/OneForAll)
 
 # Basic Information
 
