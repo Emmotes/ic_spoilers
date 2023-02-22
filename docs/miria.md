@@ -217,7 +217,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 <br />
 
 **Soul Cage** (Level: 60)
-> When an enemy is defeated, Miria can capture its soul and gain a Soul Cage stack. Her maximum number of Soul Cage stacks is 1 for every 20 areas completed in the current adventure, rounded up. Miria increases the damage bonus of Mage of High Sorcery by 100% for each Soul Cage stack she has, stacking multiplicatively.
+> When an enemy is defeated, Miria can capture its soul and gain a Soul Cage stack. Her maximum number of Soul Cage stacks is 1 for every 20 areas completed in the current adventure, rounded up. Miria increases the damage bonus of Mage of High Sorcery by 25% for each Soul Cage stack she has, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -238,7 +238,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
             "stack_title": "Soul Cage Stacks",
             "stacks_multiply": true,
             "show_bonus": true,
-            "effect_string": "buff_upgrade,100,10665",
+            "effect_string": "buff_upgrade,25,10665",
             "max_stacks": 0,
             "stacks_on_trigger": "monster_killed"
         },
@@ -273,7 +273,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 <br />
 
 **Clone** (Level: 100)
-> Miria maintains a stash of clones in her Inner Sanctum with a count equal to her Soul Cage stacks. If Miria is defeated, a clone immediately appears and takes her place at full health. This does not reduce the number of Soul Cage stacks she has. Her stash of clones are regenerated when the party changes areas. For each clone summoned in the current area, the effect of Mage of High Sorcery is increased by 100%, stacking multiplicatively.
+> Miria maintains a stash of clones in her Inner Sanctum with a count equal to her Soul Cage stacks. If Miria is defeated, a clone immediately appears and takes her place at full health. This does not reduce the number of Soul Cage stacks she has. Her stash of clones are regenerated when the party changes areas. For each clone summoned in the current area, the effect of Mage of High Sorcery is increased by 25%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -294,7 +294,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
             "stack_title": "Summoned Clones",
             "stacks_multiply": true,
             "show_bonus": true,
-            "effect_string": "buff_upgrade,100,10665",
+            "effect_string": "buff_upgrade,25,10665",
             "desc_forced_order": 1,
             "stacks_on_trigger": "will_manually_stack"
         },
