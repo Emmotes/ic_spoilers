@@ -9,7 +9,7 @@
 Info from a wiki.
 > Strongheart was a good paladin in Dungeons & Dragons, best known as an enemy and former friend of the evil Warduke. He first appeared as an action figure in the line of Advanced Dungeons & Dragons poseable player characters, and later in the game supplements Quest for the Heartstone and The Shady Dragon Inn. He wields a +2 magic sword called Purlblade.
 
-[Wiki](https://rpgmuseum.fandom.com/wiki/Strongheart)
+[https://rpgmuseum.fandom.com/wiki/Strongheart](https://rpgmuseum.fandom.com/wiki/Strongheart)
 
 # Basic Information
 
