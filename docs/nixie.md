@@ -17,7 +17,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 * Seat: Unknown
 * Race: Tiefling (Guess)
 * Class: Sorcerer (Guess)
-* Roles: DPS (Guess)
+* Roles: DPS / Support (Guess)
 * Age: Unknown
 * Gender: Female (Guess)
 * Alignment: Unknown
