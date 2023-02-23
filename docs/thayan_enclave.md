@@ -4,9 +4,9 @@
 
 This is a new feature that we currently know bits and pieces about.
 
-From the text it seems that `Corrupted Gems` will be collectible during `Emergence` events. The first one being the `Red Wizard Emergence Event`. The Corrupted gems will be earned by killing Red Wizards found in various adventures during emergence events as well as from daily quests and from variants released during the event. The gems will then be used purchase items from the `Thayan Enclave` shop.
+From the text it seems that `Corrupted Gems` will be collectible during `Emergence` events. The first one being the `Red Wizard Emergence Event`. The Corrupted gems will be earned by killing Red Wizards found in various adventures during emergence events as well as from daily quests and from variants released during the event. The gems will then be used to purchase items from the `Thayan Enclave` shop.
 
-This system seems designed to be essentially patron 5 without being patron 5. It's got all the trappings of a patron - chores and an exclusive currency/shop that has limited items.
+This system seems designed to be essentially patron 5 without being patron 5. It's got all the trappings of a patron; chores and an exclusive currency/shop that has limited items.
 
 The main point of the Thayan Enclave system seems to be the Marvellous Pigments - which will provide buffs when placed onto items - much the same as Legendaries. The pigments will be Role restricted though - so Support pigments will only be able to put on Support champions' items.
 
