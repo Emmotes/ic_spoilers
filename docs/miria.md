@@ -548,35 +548,35 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 <p>
 <pre>
 Slot 1:
-	  Common -          Trinket Cube: Oh this? It's merely a play thing, pay it no heed.
-	Uncommon -          Warding Cube: Don't worry, darling, this isn't my first undead incursion.
-	    Rare -         Cube of Force: I decide what's going to happen next, not you.
-	    Epic -   Enhanced Force Cube: You might not want to tou -- well, I warned you, didn't I?
+         Trinket Cube: Oh this? It's merely a play thing, pay it no heed.
+         Warding Cube: Don't worry, darling, this isn't my first undead incursion.
+        Cube of Force: I decide what's going to happen next, not you.
+  Enhanced Force Cube: You might not want to tou -- well, I warned you, didn't I?
 Slot 2:
-	  Common -     Frumpled Clothing: I'm not above a little undercover work.
-	Uncommon -        Initiate Robes: They thought they could break me by treating me like dirt, but it only made my ambition stronger.
-	    Rare -           Black Robes: I have been guided by Nuitari since my birth.
-	    Epic -    High Sorcery Robes: A mark of the respect and station I deserve.
+    Frumpled Clothing: I'm not above a little undercover work.
+       Initiate Robes: They thought they could break me by treating me like dirt, but it only made my ambition stronger.
+          Black Robes: I have been guided by Nuitari since my birth.
+   High Sorcery Robes: A mark of the respect and station I deserve.
 Slot 3:
-	  Common -            Chain Ball: Something I kept from a former employer, I'll turn it to my own needs.
-	Uncommon -            Metal Cage: What could it hold? Come closer and find out, darling.
-	    Rare -             Soul Cage: This one owes me some answers.
-	    Epic -     Ancient Soul Cage: I prefer not to meddle with the soul of others, but if you really make me mad... I might make an exception.
+           Chain Ball: Something I kept from a former employer, I'll turn it to my own needs.
+           Metal Cage: What could it hold? Come closer and find out, darling.
+            Soul Cage: This one owes me some answers.
+    Ancient Soul Cage: I prefer not to meddle with the soul of others, but if you really make me mad... I might make an exception.
 Slot 4:
-	  Common -            Ornate Box: It will eventually house a Starjewel.
-	Uncommon -         Starjewel Box: Starjewels? Oh, they are quite important to my people.
-	    Rare -  Silvanesti Starjewel: It creates a bond with my betrothed, whom I've only met in a dream.
-	    Epic - Star of Another World: My betrothed is not of this world. I need to travel to another world to find them.
+           Ornate Box: It will eventually house a Starjewel.
+        Starjewel Box: Starjewels? Oh, they are quite important to my people.
+ Silvanesti Starjewel: It creates a bond with my betrothed, whom I've only met in a dream.
+Star of Another World: My betrothed is not of this world. I need to travel to another world to find them.
 Slot 5:
-	  Common -        Azure Gemstone: It's not grave robbing if they asked me to keep it.
-	Uncommon -     Blue Maw Necklace: Stare at it long enough and it might SNAP!
-	    Rare -           Battle Gear: You wield armor, I wield prestige. We'll see who survives the day.
-	    Epic -           Krynn Hoard: My collection will help me gain influence once I reach my next world.
+       Azure Gemstone: It's not grave robbing if they asked me to keep it.
+    Blue Maw Necklace: Stare at it long enough and it might SNAP!
+          Battle Gear: You wield armor, I wield prestige. We'll see who survives the day.
+          Krynn Hoard: My collection will help me gain influence once I reach my next world.
 Slot 6:
-	  Common -       Skeleton Chique: Sprinkle these around the edge of our camp. That should warn the bandits away.
-	Uncommon -     Makeshift Servant: Oh, do sit darling. I'll have my servant get us some tea.
-	    Rare -         Fear Ensemble: Death is nothing to fear, it is inevitible after all. One day you too shall be nothing but unwanted bones in the ground.
-	    Epic -     Encrusted Jewelry: Fit for a queen, I think. Or an Empress perhaps? Very fitting.
+      Skeleton Chique: Sprinkle these around the edge of our camp. That should warn the bandits away.
+    Makeshift Servant: Oh, do sit darling. I'll have my servant get us some tea.
+        Fear Ensemble: Death is nothing to fear, it is inevitible after all. One day you too shall be nothing but unwanted bones in the ground.
+    Encrusted Jewelry: Fit for a queen, I think. Or an Empress perhaps? Very fitting.
 </pre>
 </p>
 </details>
