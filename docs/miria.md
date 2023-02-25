@@ -555,7 +555,8 @@ Slot 1:
 
 Slot 2:
     Frumpled Clothing: I'm not above a little undercover work.
-       Initiate Robes: They thought they could break me by treating me like dirt, but it only made my ambition stronger.
+       Initiate Robes: They thought they could break me by treating me like dirt, but it only made
+                       made my ambition stronger.
           Black Robes: I have been guided by Nuitari since my birth.
    High Sorcery Robes: A mark of the respect and station I deserve.
 
@@ -563,13 +564,15 @@ Slot 3:
            Chain Ball: Something I kept from a former employer, I'll turn it to my own needs.
            Metal Cage: What could it hold? Come closer and find out, darling.
             Soul Cage: This one owes me some answers.
-    Ancient Soul Cage: I prefer not to meddle with the soul of others, but if you really make me mad... I might make an exception.
+    Ancient Soul Cage: I prefer not to meddle with the soul of others, but if you really make me
+                       me mad... I might make an exception.
 
 Slot 4:
            Ornate Box: It will eventually house a Starjewel.
         Starjewel Box: Starjewels? Oh, they are quite important to my people.
  Silvanesti Starjewel: It creates a bond with my betrothed, whom I've only met in a dream.
-Star of Another World: My betrothed is not of this world. I need to travel to another world to find them.
+Star of Another World: My betrothed is not of this world. I need to travel to another world to find
+                       find them.
 
 Slot 5:
        Azure Gemstone: It's not grave robbing if they asked me to keep it.
@@ -579,8 +582,10 @@ Slot 5:
 
 Slot 6:
       Skeleton Chique: Sprinkle these around the edge of our camp. That should warn the bandits away.
+                       away.
     Makeshift Servant: Oh, do sit darling. I'll have my servant get us some tea.
-        Fear Ensemble: Death is nothing to fear, it is inevitible after all. One day you too shall be nothing but unwanted bones in the ground.
+        Fear Ensemble: Death is nothing to fear, it is inevitible after all. One day you too shall
+                       shall be nothing but unwanted bones in the ground.
     Encrusted Jewelry: Fit for a queen, I think. Or an Empress perhaps? Very fitting.
 </pre>
 </p>
