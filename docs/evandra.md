@@ -17,7 +17,7 @@ Evandra is a "half-elf fighter" from the 1 For All sketch show.
 Evandra will be the new champion in the Dragondown event on 14 June 2023.
 
 * Seat: Unknown
-* Race: Human (Guess)
+* Race: Half-Elf (Guess)
 * Class: Fighter (Guess)
 * Roles: Unknown
 * Age: Unknown
