@@ -13,13 +13,13 @@ These are the champions that are upcoming and all the information we know about 
 * Festival of Fools - 15 March 2023
   * [Miria](miria.md) - Elf (Shadar-kai) Wizard
 * Greengrass - 12 April 2023
-  * [Antrius](antrius.md) - Unknown
+  * [Antrius](antrius.md) - Human Bard of Awful Ones (Guess)
 * The Running - 3 May 2023
-  * [Nixie](nixie.md) - Unknown
+  * [Nixie](nixie.md) - Tiefling Sorcerer of Awful Ones (Guess)
 * The Great Modron March - 24 May 2023
-  * [Strongheart](strongheart.md) - Unknown
+  * [Strongheart](strongheart.md) - Human Paladin (Guess)
 * Dragondown - 14 June 2023
-  * [Evandra](evandra.md) - Unknown
+  * [Evandra](evandra.md) - Half-Elf Fighter of Awful Ones (Guess)
 
 # Misc
 
