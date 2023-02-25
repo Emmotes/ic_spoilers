@@ -544,7 +544,7 @@ Miria will be the new champion in the Festival of Fools event on 15 March 2023.
 | 5 | `Krynn Hoard` | Ultimate Damage |
 | 6 | `Encrusted Jewelry` | Ultimate Cooldown Reduction |
 
-<details><summary><em>DPS Applicable</em></summary>
+<details><summary><em>Item Names and Descriptions</em></summary>
 <p>
 <pre>
 Slot 1:
