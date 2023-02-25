@@ -18,6 +18,8 @@ These are the champions that are upcoming and all the information we know about 
   * [Nixie](nixie.md) - Unknown
 * The Great Modron March - 24 May 2023
   * [Strongheart](strongheart.md) - Unknown
+* Dragondown - 14 June 2023
+  * [Evandra](evandra.md) - Unknown
 
 # Misc
 
