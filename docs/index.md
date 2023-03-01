@@ -26,7 +26,7 @@ These are the champions that are upcoming and all the information we know about 
 Miscellaneous spoilers.
 
 * [Thayan Enclave](thayan_enclave.md) - 29 March 2023
-* [Season 3](season_3.md) - 15 March 2023 (Guess)
+* [Season 3](season_3.md) - 15 March 2023
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
