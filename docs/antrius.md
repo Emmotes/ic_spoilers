@@ -68,7 +68,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 {
     "description": "Antrius smiles into a mirror causing it to shatter. The shards create a cloud dealing damage to all enemies within it.",
     "long_description": "Antrius takes a hand mirror out and smiles into it, causing it to shatter. Shards of glass fly out towards the enemy with the most health forming a cloud upon reaching the target. The cloud deals ongoing damage for 10 seconds.",
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "damage_types": ["melee"],
     "graphic_id": 18689,
     "target": "highest_health",
@@ -138,7 +138,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
         "aoe_radius": 160
     }],
     "name": "Cloud of Daggers",
-    "cooldown": 10,
+    "cooldown": 120,
     "id": 615
 }
 </pre>
