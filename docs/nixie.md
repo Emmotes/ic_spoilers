@@ -33,11 +33,80 @@ Unknown.
 
 # Abilities
 
-**Base Attack: Unknown**
-> Unknown effect.
+**Base Attack: Fireball**
+> Nixie attacks with a ball of fire centered on a random target dealing 1 hit of damage to all enemies in a small radius.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "Nixie attacks with a ball of fire centered on a random target dealing 1 hit of damage to all enemies in a small radius.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": "",
+    "graphic_id": 0,
+    "target": "random",
+    "aoe_radius": 150,
+    "tags": "",
+    "num_targets": 1,
+    "animations": [{
+        "projectile_details": {
+            "projectile_hit_graphic_id": 750,
+            "trail": {
+                "scale_lerp": [
+                    {
+                        "x": 1,
+                        "y": 1
+                    },
+                    {
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "lifespan": 0.2,
+                "initial_velocity": {
+                    "x": 0,
+                    "y": 0
+                },
+                "alpha_lerp": {
+                    "0": 0,
+                    "1": 0,
+                    "0.1": 0.75
+                },
+                "tint": {
+                    "a": 1,
+                    "r": 1,
+                    "b": 1,
+                    "g": 1
+                },
+                "particle_graphic_ids": [
+                    19009,
+                    6093,
+                    749
+                ],
+                "spawn_rate": 100,
+                "velocity_jitter": {
+                    "x": 50,
+                    "y": 50
+                }
+            },
+            "percent_height_offset": 10,
+            "use_auto_rotation": true,
+            "projectile_graphic_id": 19009,
+            "projectile_speed": 1500,
+            "rotation_speed": 0
+        },
+        "hit_sound": 133,
+        "shoot_offset_y": -20,
+        "shoot_offset_x": 40,
+        "shoot_sound": 149,
+        "type": "ranged_attack",
+        "projectile": "pd_generic_projectile",
+        "shoot_frame": 9
+    }],
+    "name": "Fireball",
+    "cooldown": 6,
+    "id": 620
+}
 </pre>
 </p>
 </details>
@@ -88,45 +157,128 @@ Unknown.
 <pre>
 {
     "effect_keys": [
-        {"effect_string": "nixie_wild_magic_surge"},
         {
-            "probability": 20,
-            "effect_string": "nixie_no_effect",
-            "apply_manually": true
+            "wild_magic_effects": [
+                {
+                    "effects": [],
+                    "probability": 20
+                },
+                {
+                    "effects": [{
+                        "duration": 20,
+                        "index": 1
+                    }],
+                    "probability": 2000
+                },
+                {
+                    "effects": [
+                        {
+                            "duration": 5,
+                            "index": 2
+                        },
+                        {
+                            "duration": 15,
+                            "index": 3
+                        }
+                    ],
+                    "probability": 10
+                },
+                {
+                    "effects": [{
+                        "duration": 0,
+                        "index": 4
+                    }],
+                    "probability": 10
+                },
+                {
+                    "effects": [{
+                        "duration": 0,
+                        "index": 5
+                    }],
+                    "probability": 10
+                },
+                {
+                    "effects": [{
+                        "duration": 10,
+                        "index": 6
+                    }],
+                    "probability": 10
+                },
+                {
+                    "effects": [{
+                        "duration": 0,
+                        "index": 7
+                    }],
+                    "probability": 10
+                },
+                {
+                    "effects": [
+                        {
+                            "duration": 20,
+                            "index": 8
+                        },
+                        {
+                            "duration": 20,
+                            "index": 9
+                        }
+                    ],
+                    "probability": 10
+                }
+            ],
+            "effect_string": "nixie_wild_magic_surge"
         },
         {
-            "probability": 20,
+            "projectile_details": {
+                "trail": {
+                    "scale_lerp": {
+                        "0.0": {
+                            "x": 1,
+                            "y": 1
+                        },
+                        "1.0": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "lifespan": 0.5,
+                    "initial_velocity": {
+                        "x": 0,
+                        "y": -30
+                    },
+                    "alpha_lerp": {
+                        "0": 0,
+                        "1": 0,
+                        "0.1": 0.75
+                    },
+                    "tint": "#FFFFFFFF",
+                    "particle_graphic_ids": [6093],
+                    "spawn_rate": 50,
+                    "velocity_jitter": {
+                        "x": 30,
+                        "y": 50
+                    }
+                },
+                "percent_height_offset": 50,
+                "use_auto_rotation": true,
+                "projectile_graphic_id": 6093,
+                "projectile_speed": 500,
+                "rotation_speed": 0
+            },
             "effect_string": "nixie_engulfing_flames",
+            "radius": 100
+        },
+        {"effect_string": "nixie_potted_punch"},
+        {
+            "effect_string": "buff_upgrade,100,10887",
             "apply_manually": true
         },
+        {"effect_string": "nixie_coin_cascade"},
+        {"effect_string": "nixie_shockwave"},
+        {"effect_string": "nixie_feeling_blue"},
+        {"effect_string": "nixie_eldritch_entourage"},
+        {"effect_string": "nixie_enlarge"},
         {
-            "probability": 10,
-            "effect_string": "nixie_potted_punch",
-            "apply_manually": true
-        },
-        {
-            "probability": 10,
-            "effect_string": "nixie_coin_cascade",
-            "apply_manually": true
-        },
-        {
-            "probability": 10,
-            "effect_string": "nixie_shockwave",
-            "apply_manually": true
-        },
-        {
-            "probability": 10,
-            "effect_string": "nixie_feeling_blue",
-            "apply_manually": true
-        },
-        {
-            "probability": 10,
-            "effect_string": "nixie_eldritch_entourage",
-            "apply_manually": true
-        },
-        {
-            "probability": 10,
-            "effect_string": "nixie_enlarge",
+            "effect_string": "hero_dps_multiplier_mult,100",
             "apply_manually": true
         }
     ],
