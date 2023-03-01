@@ -1961,6 +1961,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 | 9 | 16 | 300 |
 | 10 | 23 | 300 |
 | Total | 70 | 3,000 |
+
 <br />
 
 # Seasonals
