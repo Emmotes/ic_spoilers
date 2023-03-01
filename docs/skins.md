@@ -30,6 +30,7 @@ Most skins are real money purchases only.
 | Nixie | `Witchlight` | ??? | ??? | 03 May 2023 |
 | Omin | `Lord of Waterdeep` | ??? | ??? | 03 May 2023 |
 | Krond | `Scholar` | ??? | ??? | 17 May 2023 |
+| Evandra | `Witchlight` | ??? | ??? | 24 May 2023 |
 | Nordom | `Nature` | ??? | ??? | 24 May 2023 |
 | Strongheart | `Action Figure` | ??? | ??? | 24 May 2023 |
 | Tatyana | `Fighting Pits` | ??? | ??? | 24 May 2023 |

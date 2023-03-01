@@ -12,6 +12,8 @@ Contents:
 * Champion: `Baeloth Barrityl`
 * Skin: `Dragonlance Baeloth`
 * Feat: `Spectacle of Slaughter` (Baeloth)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
 * Chests: `Gold Baeloth Chest` x7 (Shinies x1)
 
 <br />
@@ -24,6 +26,8 @@ Contents:
 * Champion: `Imoen`
 * Skin: `Dragonlance Imoen`
 * Feat: `Silver Linings` (Imoen)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
 * Chests: `Gold Imoen Chest` x7 (Shinies x1)
 
 <br />
@@ -36,6 +40,8 @@ Contents:
 * Champion: `Viconia DeVir`
 * Skin: `Dragonlance Viconia`
 * Feat: `Singer of Eternal Night` (Viconia)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
 * Chests: `Gold Viconia Chest` x7 (Shinies x1)
 
 <br />
