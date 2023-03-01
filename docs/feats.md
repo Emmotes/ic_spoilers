@@ -14,8 +14,8 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Imoen | `Silver Linings` | 80% Optimism | 50,000 Gems | 01 Mar 2023 |
 | Viconia | `Singer of Eternal Night` | 80% Cleric of Shar | 50,000 Gems | 01 Mar 2023 |
 | Miria | `Soth's Right Hand` | 80% Mage of High Sorcery | 50,000 Gems | 15 Mar 2023 |
-| Fen | `Wisened Friends` | 80% I've Got You, Friends | Corrupted Gems | 29 Mar 2023 |
-| Hitch | `Five Questions` | 80% Ricochet | Corrupted Gems | 29 Mar 2023 |
+| Fen | `Wisened Friends` | 80% I've Got You, Friends | Corrupt Gems | 29 Mar 2023 |
+| Hitch | `Five Questions` | 80% Ricochet | Corrupt Gems | 29 Mar 2023 |
 | Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 29 Mar 2023 |
 | Gazrick | `Cold Snap` | 80% Frosty Friendship | 50,000 Gems | 12 Apr 2023 |
 | Orkira | `Breath of the Phoenix` | 80% Lesser Restoration | 50,000 Gems | 12 Apr 2023 |
