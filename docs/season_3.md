@@ -18,6 +18,8 @@ The Season 3 chests (`Gold Ancient Lawbringer Chests`) have been added to the da
 
 It seems to be that this new season will be an Unaffiliated / Lawful themed season. This tracks with some of the "new" abilities and specialisations these champions are getting.
 
+![Season 3 Ad Panel](images/s3_adpanel.png)
+
 # Changes
 
 The information below is raw data on the "new" abilities that the champions might be getting. Some may be complete reworks - some may look copy-paste from old abilities that haven't seen reworks yet (and might not get reworked).
