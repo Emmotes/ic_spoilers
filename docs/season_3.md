@@ -1800,6 +1800,234 @@ These tables are assuming that every node that can be supercharged is fully supe
 </details>
 <br />
 
+# Milestones Quests
+
+### Defeat X Boss enemies
+
+| Tier | Amount | Points |
+|--:|--:|--:|
+| 1 | 56,000 | 300 |
+| 2 | 84,000 | 300 |
+| 3 | 112,000 | 300 |
+| 4 | 182,000 | 300 |
+| 5 | 266,000 | 300 |
+| 6 | 392,000 | 300 |
+| 7 | 574,000 | 300 |
+| 8 | 840,000 | 300 |
+| 9 | 1,246,000 | 300 |
+| 10 | 1,848,000 | 300 |
+
+### Complete X areas in free play adventures
+
+| Tier | Amount | Points |
+|--:|--:|--:|
+| 1 | 1,400 | 300 |
+| 2 | 2,100 | 300 |
+| 3 | 280 | 300 |
+| 4 | 4,550 | 300 |
+| 5 | 6,650 | 300 |
+| 6 | 9,800 | 300 |
+| 7 | 14,350 | 300 |
+| 8 | 21,000 | 300 |
+| 9 | 31,150 | 300 |
+| 10 | 46,200 | 300 |
+
+### Complete X areas with Birdsong as your BUD-setting Champion
+
+| Tier | Amount | Points |
+|--:|--:|--:|
+| 1 | 350 | 300 |
+| 2 | 525 | 300 |
+| 3 | 700 | 300 |
+| 4 | 1,138 | 300 |
+| 5 | 1,663 | 300 |
+| 6 | 2,450 | 300 |
+| 7 | 3,588 | 300 |
+| 8 | 5,250 | 300 |
+| 9 | 7,788 | 300 |
+| 10 | 11,550 | 300 |
+
+### Defeat X enemies with at least three Lawful Champions in your formation
+
+| Tier | Amount | Points |
+|--:|--:|--:|
+| 1 | 14,000 | 300 |
+| 2 | 21,000 | 300 |
+| 3 | 27,000 | 300 |
+| 4 | 45,500 | 300 |
+| 5 | 66,500 | 300 |
+| 6 | 98,000 | 300 |
+| 7 | 143,500 | 300 |
+| 8 | 210,000 | 300 |
+| 9 | 311,500 | 300 |
+| 10 | 462,000 | 300 |
+
+### Complete X adventures, variants, or free plays after completing area 50 or higher
+
+| Tier | Amount | Points |
+|--:|--:|--:|
+| 1 | 3 | 300 |
+| 2 | 4 | 300 |
+| 3 | 6 | 300 |
+| 4 | 9 | 300 |
+| 5 | 13 | 300 |
+| 6 | 20 | 300 |
+| 7 | 29 | 300 |
+| 8 | 42 | 300 |
+| 9 | 62 | 300 |
+| 10 | 92 | 300 |
+
+### Use the ultimate ability of any Unaffiliated Champion X times
+
+| Tier | Amount | Points |
+|--:|--:|--:|
+| 1 | 350 | 300 |
+| 2 | 525 | 300 |
+| 3 | 700 | 300 |
+| 4 | 1,138 | 300 |
+| 5 | 1,663 | 300 |
+| 6 | 2,450 | 300 |
+| 7 | 3,588 | 300 |
+| 8 | 5,250 | 300 |
+| 9 | 7,788 | 300 |
+| 10 | 11,550 | 300 |
+
+### Level up an Unaffiliated Lawful Champion X times
+
+| Tier | Amount | Points |
+|--:|--:|--:|
+| 1 | 5,600 | 300 |
+| 2 | 8,400 | 300 |
+| 3 | 11,200 | 300 |
+| 4 | 18,200 | 300 |
+| 5 | 26,600 | 300 |
+| 6 | 39,200 | 300 |
+| 7 | 57,400 | 300 |
+| 8 | 84,000 | 300 |
+| 9 | 124,600 | 300 |
+| 10 | 184,800 | 300 |
+
+### Invent X effects with Spurt's Wa-spiration ability
+
+| Tier | Amount | Points |
+|--:|--:|--:|
+| 1 | 350 | 300 |
+| 2 | 525 | 300 |
+| 3 | 700 | 300 |
+| 4 | 1,138 | 300 |
+| 5 | 1,663 | 300 |
+| 6 | 2,450 | 300 |
+| 7 | 3,588 | 300 |
+| 8 | 5,250 | 300 |
+| 9 | 7,788 | 300 |
+| 10 | 11,550 | 300 |
+
+### Trigger Zrang (Hew Maan)'s Teamwork ability X times
+
+| Tier | Amount | Points |
+|--:|--:|--:|
+| 1 | 350 | 300 |
+| 2 | 525 | 300 |
+| 3 | 700 | 300 |
+| 4 | 1,138 | 300 |
+| 5 | 1,663 | 300 |
+| 6 | 2,450 | 300 |
+| 7 | 3,588 | 300 |
+| 8 | 5,250 | 300 |
+| 9 | 7,788 | 300 |
+| 10 | 11,550 | 300 |
+
+### Complete X patron variants or free play after completing area 100 or higher
+
+| Tier | Amount | Points |
+|--:|--:|--:|
+| 1 | 1 | 300 |
+| 2 | 1 | 300 |
+| 3 | 1 | 300 |
+| 4 | 2 | 300 |
+| 5 | 3 | 300 |
+| 6 | 5 | 300 |
+| 7 | 7 | 300 |
+| 8 | 11 | 300 |
+| 9 | 16 | 300 |
+| 10 | 23 | 300 |
+<br />
+
+# Seasonals
+
+| Week | Goal | Points |
+|---|---|--:|
+| 1 | Complete 2,000 areas with at least three Lawful members in the formation | 600 |
+| 1 | Complete 4 adventures or variants (not free plays) in an Event or Time Gate | 600 |
+| 1 | Complete 5,000 areas while Birdsong is your BUD-setting Champion | 600 |
+| 1 | Defeat 5,000 Boss enemies | 600 |
+| 1 | Defeat a Frost Giant 100 times | 600 |
+| 1 | Kill Spurt using his Ultimate ability 50 times | 600 |
+| 1 | Unlock a new Champion | 600 |
+| 2 | Complete 3,000 areas with at least three unaffiliated members in the formation | 600 |
+| 2 | Complete 500 areas with Turiel and Barrowin in the front-most column of the formation | 600 |
+| 2 | Complete 6 Daily Quests | 600 |
+| 2 | Defeat 10,000 enemies that attack with ranged or magic attacks | 600 |
+| 2 | Defeat 175,000 Undead enemies | 600 |
+| 2 | Defeat 4,500 Boss enemies | 600 |
+| 2 | Trigger Zrang (Hew Maan)'s Teamwork ability 500 times | 600 |
+| 3 | Complete 1,000 areas with Barrowin at 5 or more Vigilance stacks | 600 |
+| 3 | Complete 5 Time Gate adventures. | 600 |
+| 3 | Complete 5,000 areas in free play adventures | 600 |
+| 3 | Defeat 100 Fiend-type boss | 600 |
+| 3 | Defeat 150,000 Humanoid enemies | 600 |
+| 3 | Defeat 4,000 Boss enemies | 600 |
+| 3 | Kill 100 bosses with the extra attack from Birdsong's Impressive Bladework ability | 600 |
+| 4 | Complete 2,000 areas with at least five Lawful Champions in your formation | 600 |
+| 4 | Defeat 125,000 Beast enemies | 600 |
+| 4 | Defeat 3,500 Boss enemies | 600 |
+| 4 | Defeat an Owlbear 100 times. | 600 |
+| 4 | Deflect the attacks of 1,000 enemies using Turiel's Order's Demand | 600 |
+| 4 | Earn 5 Champion specific chests (for any Champion) of any type (silver or gold). | 600 |
+| 4 | Invent 500 effects with Spurt's Wa-spiration ability | 600 |
+| 5 | Complete 1,000 areas with Hew Maan's Law Maan specialization chosen | 600 |
+| 5 | Complete 3,000 areas with at least seven Lawful or unaffiliated Champions in your formation | 600 |
+| 5 | Complete 5,000 areas with Birdsong at 10 Crescendo stacks | 600 |
+| 5 | Complete 6 Daily Quests | 600 |
+| 5 | Defeat 100,000 Humanoid enemies | 600 |
+| 5 | Defeat 3,000 Boss enemies. | 600 |
+| 5 | Defeat the Elder Brain 100 times | 600 |
+| 6 | Complete 20 Patron Challenges | 600 |
+| 6 | Complete 5 Free Plays at level 201 or beyond. | 600 |
+| 6 | Complete 500 areas with Spurt and Turiel buffing Birdsong with positional formation abilities at the same time | 600 |
+| 6 | Defeat 2,500 Boss enemies | 600 |
+| 6 | Defeat 75,000 Fiend enemies. | 600 |
+| 6 | Earn 5 Champion specific chests (for any Champion) of any type (silver or gold) | 600 |
+| 6 | Have Barrowin attack 5,000 times while her base attack cooldown is lower than 1.5 seconds | 600 |
+| 7 | Break 2,000 segmented health. (armored or hit-based) | 600 |
+| 7 | Complete 25 free plays at area 51 or higher. | 600 |
+| 7 | Complete 5 Time Gate adventures. | 600 |
+| 7 | Complete 5,000 areas with only Lawful or unaffiliated Champions in your formation | 600 |
+| 7 | Defeat 2,000 Boss enemies | 600 |
+| 7 | Defeat 50,000 Humanoid enemies | 600 |
+| 7 | Spot 5,000 Rakshasa enemies in disguise with Turiel's March of the Rakshasa ability | 600 |
+| 8 | Complete 1,000 areas while Hew Maan's Hello, Fellow Humans ability is at maximum effectiveness | 600 |
+| 8 | Complete 2,500 areas with Birdsong buffing your BUD-setting Champion with Song of Battle (could be herself) | 600 |
+| 8 | Defeat 1,500 Boss enemies | 600 |
+| 8 | Defeat 25,000 Monstrosity enemies | 600 |
+| 8 | Defeat Bailiearyl Tavebent 100 times. | 600 |
+| 8 | Earn 5 Champion specific chests (for any Champion) of any type (silver or gold) | 600 |
+| 8 | Use the ultimate ability of any Unaffiliated Champion 500 times | 600 |
+| 9 | Break 5,000 armor chunks | 600 |
+| 9 | Complete 2,000 areas with at least five Lawful Champions in your formation | 600 |
+| 9 | Complete 2,000 areas with at least five Unaffiliated Champions in your formation | 600 |
+| 9 | Complete 2,500 areas in free play adventures | 600 |
+| 9 | Defeat 1,000 Boss enemies. | 600 |
+| 9 | Defeat 10,000 Humanoid enemies | 600 |
+| 9 | Kill Spurt using his Ultimate ability 100 times | 600 |
+| 10 | Complete 1,000 areas while Barrowin is in the front-most column with 2 other Champions | 600 |
+| 10 | Complete 2,000 areas with Spurt's Centipede Net buffing your BUD-setting Champion | 600 |
+| 10 | Complete 3,000 areas with Birdsong in the back-most column of the formation | 600 |
+| 10 | Complete 4,000 areas with all five season Champions in the formation | 600 |
+| 10 | Complete 6 Daily Quests. | 600 |
+| 10 | Defeat 500 Boss enemies | 600 |
+| 10 | Kill 5,000 Fiends while Turiel is in the formation | 600 |
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
