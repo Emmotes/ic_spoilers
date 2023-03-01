@@ -1816,6 +1816,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 | 8 | 840,000 | 300 |
 | 9 | 1,246,000 | 300 |
 | 10 | 1,848,000 | 300 |
+| Total | 5,600,000 | 3,000 |
 
 ### Complete X areas in free play adventures
 
@@ -1831,6 +1832,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 | 8 | 21,000 | 300 |
 | 9 | 31,150 | 300 |
 | 10 | 46,200 | 300 |
+| Total | 140,000 | 3,000 |
 
 ### Complete X areas with Birdsong as your BUD-setting Champion
 
@@ -1846,6 +1848,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 | 8 | 5,250 | 300 |
 | 9 | 7,788 | 300 |
 | 10 | 11,550 | 300 |
+| Total | 35,002 | 3,000 |
 
 ### Defeat X enemies with at least three Lawful Champions in your formation
 
@@ -1861,6 +1864,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 | 8 | 210,000 | 300 |
 | 9 | 311,500 | 300 |
 | 10 | 462,000 | 300 |
+| Total | 1,399,000 | 3,000 |
 
 ### Complete X adventures, variants, or free plays after completing area 50 or higher
 
@@ -1876,6 +1880,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 | 8 | 42 | 300 |
 | 9 | 62 | 300 |
 | 10 | 92 | 300 |
+| Total | 280 | 3,000 |
 
 ### Use the ultimate ability of any Unaffiliated Champion X times
 
@@ -1891,6 +1896,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 | 8 | 5,250 | 300 |
 | 9 | 7,788 | 300 |
 | 10 | 11,550 | 300 |
+| Total | 35,002 | 3,000 |
 
 ### Level up an Unaffiliated Lawful Champion X times
 
@@ -1906,6 +1912,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 | 8 | 84,000 | 300 |
 | 9 | 124,600 | 300 |
 | 10 | 184,800 | 300 |
+| Total | 560,000 | 3,000 |
 
 ### Invent X effects with Spurt's Wa-spiration ability
 
@@ -1921,6 +1928,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 | 8 | 5,250 | 300 |
 | 9 | 7,788 | 300 |
 | 10 | 11,550 | 300 |
+| Total | 35,002 | 3,000 |
 
 ### Trigger Zrang (Hew Maan)'s Teamwork ability X times
 
@@ -1936,6 +1944,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 | 8 | 5,250 | 300 |
 | 9 | 7,788 | 300 |
 | 10 | 11,550 | 300 |
+| Total | 35,002 | 3,000 |
 
 ### Complete X patron variants or free play after completing area 100 or higher
 
@@ -1951,7 +1960,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 | 8 | 11 | 300 |
 | 9 | 16 | 300 |
 | 10 | 23 | 300 |
-
+| Total | 70 | 3,000 |
 <br />
 
 # Seasonals
