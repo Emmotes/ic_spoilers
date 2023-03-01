@@ -1823,7 +1823,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 |--:|--:|--:|
 | 1 | 1,400 | 300 |
 | 2 | 2,100 | 300 |
-| 3 | 280 | 300 |
+| 3 | 2,800 | 300 |
 | 4 | 4,550 | 300 |
 | 5 | 6,650 | 300 |
 | 6 | 9,800 | 300 |
