@@ -6,7 +6,7 @@ This page has gotten so long I decided to add an index.
 
 * [Season](#season)
 * [Theme](#theme)
-* [Modron: Unaffiliated Core](#modron-unaffiliated-core
+* [Modron: Unaffiliated Core](#modron-unaffiliated-core)
 * [Champion: Spurt](#spurt)
 * [Champion: Hew Maan](#hew-maan)
 * [Champion: Barrowin](#barrowin)
@@ -14,8 +14,6 @@ This page has gotten so long I decided to add an index.
 * [Champion: Turiel](#turiel)
 * [Milestone Quests](#milestone-quests)
 * [Seasonal Quests](#seasonal-quests)
-
-<br />
 
 # Season 3
 
