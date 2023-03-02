@@ -4,7 +4,7 @@
 
 This page has gotten so long I decided to add an index.
 
-* [Season](#season)
+* [Season 3](#season-3)
 * [Theme](#theme)
 * [Modron: Unaffiliated Core](#modron-unaffiliated-core)
 * [Champion: Spurt](#spurt)
