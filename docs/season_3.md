@@ -46,7 +46,7 @@ With the current numbers - this core is looking really very good for unaffiliate
 As you'll be able to see in the picture - it comes with some new nodes.
 
 **Unaffiliated Support**: (unaffSupp in picture)
-> Increase the damage of all Champions unaffiliated champions by X% for each Unaffiliated Champion in the formation.
+> Increase the damage of all Champions by X% for each Unaffiliated Champion in the formation.
 
 **Unaffiliated DPS**: (unaffDPS in picture)
 > Increase the damage of all unaffiliated champions by X%.
