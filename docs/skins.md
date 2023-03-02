@@ -8,9 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Baeloth | `Dragonlance` | Dragonlance Baeloth Skin & Feat Pack | $9.99 | 01 Mar 2023 |
-| Imoen | `Dragonlance` | Dragonlance Imoen Skin & Feat Pack | $9.99 | 01 Mar 2023 |
-| Viconia | `Dragonlance` | Dragonlance Viconia Skin & Feat Pack | $9.99 | 01 Mar 2023 |
 | Barrowin | `Ancient` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Birdsong | `Lawbringer` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Donaar | `Green Flame` | ??? | ??? | 08 Mar 2023 |
