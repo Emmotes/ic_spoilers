@@ -1796,7 +1796,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 </details>
 <br />
 
-# Milestones Quests
+# Milestone Quests
 
 ### Defeat X Boss enemies
 
@@ -1960,7 +1960,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 
 <br />
 
-# Seasonals
+# Seasonal Quests
 
 | Week | Goal | Points |
 |---|---|--:|
