@@ -43,6 +43,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 With the current numbers - this core is looking really very good for unaffiliated dps champions. It also gets automation at level 1 - which will be handy for people who run background parties.
 
+As you'll be able to see in the picture - it comes with some new nodes.
+
+**Unaffiliated Support**: (unaffSupp in picture)
+> Increase the damage of all Champions unaffiliated champions by X% for each Unaffiliated Champion in the formation.
+
+**Unaffiliated DPS**: (unaffDPS in picture)
+> Increase the damage of all unaffiliated champions by X%.
+
 ### Bonus Breakdown
 
 These tables are assuming that every node that can be supercharged is fully supercharged at 500% (which is possible). The left group are based on using an unaffiliated DPS champion - the right group are using a dps champion that has an affiliation.
