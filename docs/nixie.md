@@ -91,6 +91,7 @@ Unknown.
             },
             "percent_height_offset": 10,
             "use_auto_rotation": true,
+            "name": "nixie_fireball",
             "projectile_graphic_id": 19009,
             "projectile_speed": 1500,
             "rotation_speed": 0
@@ -104,7 +105,7 @@ Unknown.
         "shoot_frame": 9
     }],
     "name": "Fireball",
-    "cooldown": 6,
+    "cooldown": 1,
     "id": 620
 }
 </pre>
@@ -168,7 +169,7 @@ Unknown.
                         "duration": 20,
                         "index": 1
                     }],
-                    "probability": 2000
+                    "probability": 20
                 },
                 {
                     "effects": [
@@ -184,30 +185,36 @@ Unknown.
                     "probability": 10
                 },
                 {
-                    "effects": [{
-                        "duration": 0,
-                        "index": 4
-                    }],
+                    "effects": [
+                        {
+                            "duration": 0,
+                            "index": 4
+                        },
+                        {
+                            "duration": 0.5,
+                            "index": 5
+                        }
+                    ],
                     "probability": 10
                 },
                 {
                     "effects": [{
                         "duration": 0,
-                        "index": 5
-                    }],
-                    "probability": 10
-                },
-                {
-                    "effects": [{
-                        "duration": 10,
                         "index": 6
                     }],
                     "probability": 10
                 },
                 {
                     "effects": [{
-                        "duration": 0,
+                        "duration": 10,
                         "index": 7
+                    }],
+                    "probability": 10
+                },
+                {
+                    "effects": [{
+                        "duration": 0,
+                        "index": 8
                     }],
                     "probability": 10
                 },
@@ -215,11 +222,11 @@ Unknown.
                     "effects": [
                         {
                             "duration": 20,
-                            "index": 8
+                            "index": 9
                         },
                         {
                             "duration": 20,
-                            "index": 9
+                            "index": 10
                         }
                     ],
                     "probability": 10
@@ -250,7 +257,6 @@ Unknown.
                         "1": 0,
                         "0.1": 0.75
                     },
-                    "tint": "#FFFFFFFF",
                     "particle_graphic_ids": [6093],
                     "spawn_rate": 50,
                     "velocity_jitter": {
@@ -261,22 +267,72 @@ Unknown.
                 "percent_height_offset": 50,
                 "use_auto_rotation": true,
                 "projectile_graphic_id": 6093,
-                "projectile_speed": 500,
-                "rotation_speed": 0
+                "projectile_speed": 500
             },
-            "effect_string": "nixie_engulfing_flames",
-            "radius": 100
+            "effect_string": "nixie_engulfing_flames,1",
+            "radius": 150
         },
         {"effect_string": "nixie_potted_punch"},
         {
             "effect_string": "buff_upgrade,100,10887",
             "apply_manually": true
         },
-        {"effect_string": "nixie_coin_cascade"},
-        {"effect_string": "nixie_shockwave"},
+        {
+            "projectile_details": {
+                "projectile_hit_graphic_id": 16442,
+                "trail": {
+                    "scale_lerp": {
+                        "0.0": {
+                            "x": 1,
+                            "y": 1
+                        },
+                        "1.0": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "lifespan": 0.25,
+                    "initial_velocity": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "alpha_lerp": {
+                        "0.0": 1,
+                        "1.0": 0
+                    },
+                    "particle_graphic_ids": [189],
+                    "spawn_rate": 50,
+                    "velocity_jitter": {
+                        "x": 30,
+                        "y": 30
+                    }
+                },
+                "percent_height_offset": 50,
+                "projectile_speed": 250
+            },
+            "effect_string": "nixie_coin_cascade"
+        },
+        {
+            "effect_string": "owner_killing_blow_gold_bonus,10",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "nixie_shockwave,5",
+            "radius": 150
+        },
         {"effect_string": "nixie_feeling_blue"},
-        {"effect_string": "nixie_eldritch_entourage"},
-        {"effect_string": "nixie_enlarge"},
+        {
+            "monster_ids": [
+                39,
+                635,
+                1966
+            ],
+            "effect_string": "nixie_eldritch_entourage"
+        },
+        {
+            "effect_string": "increase_hero_scale,25",
+            "apply_manually": true
+        },
         {
             "effect_string": "hero_dps_multiplier_mult,100",
             "apply_manually": true
@@ -404,12 +460,12 @@ Unknown.
 
 | Slot | Name | Type |
 |---|---|---|
-| 1 | `Unknown` | Unknown |
-| 2 | `Unknown` | Unknown |
-| 3 | `Unknown` | Unknown |
-| 4 | `Unknown` | Unknown |
-| 5 | `Unknown` | Unknown |
-| 6 | `Unknown` | Unknown |
+| 1 | `Arm Coverings` | Unknown |
+| 2 | `Capes` | Unknown |
+| 3 | `Jewelery Collection` | Unknown |
+| 4 | `Silver Talisman` | Unknown |
+| 5 | `Spell Components` | Unknown |
+| 6 | `Tail Ribbon` | Unknown |
 
 # Feats
 
