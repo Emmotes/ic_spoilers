@@ -8,6 +8,8 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
+| Jaheira | `Solstice` | Gem Shop | 20,000 | 08 Mar 2023 |
+| Lazaapz | `Spelljammer` | Gem Shop | 20,000 | 08 Mar 2023 |
 | Barrowin | `Ancient` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Birdsong | `Lawbringer` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Donaar | `Green Flame` | ??? | ??? | 08 Mar 2023 |
@@ -28,9 +30,10 @@ Most skins are real money purchases only.
 | Omin | `Lord of Waterdeep` | ??? | ??? | 03 May 2023 |
 | Krond | `Scholar` | ??? | ??? | 17 May 2023 |
 | Evandra | `Witchlight` | ??? | ??? | 24 May 2023 |
+| Mehen | `Proud Papa` | ??? | ??? | 24 May 2023 |
 | Nordom | `Nature` | ??? | ??? | 24 May 2023 |
 | Strongheart | `Action Figure` | ??? | ??? | 24 May 2023 |
-| Tatyana | `Fighting Pits` | ??? | ??? | 24 May 2023 |
+| Tatyana | `Fighting Pits` | ??? | ??? | 26 Jul 2023 |
 
 [Back to Top](#top)
 
