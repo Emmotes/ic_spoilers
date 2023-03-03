@@ -23,7 +23,7 @@ Most skins are real money purchases only.
 | Birdsong | `Ancient` | ??? | ??? | 19 Apr 2023 |
 | Barrowin | `Lawbringer` | ??? | ??? | 26 Apr 2023 |
 | Jim | `Clone Lich` | ??? | ??? | 26 Apr 2023 |
-| Dungeon Master | `Vacation` | ??? | ??? | 03 May 2023 |
+| DM | `Vacation` | ??? | ??? | 03 May 2023 |
 | Nixie | `Witchlight` | ??? | ??? | 03 May 2023 |
 | Omin | `Lord of Waterdeep` | ??? | ??? | 03 May 2023 |
 | Krond | `Scholar` | ??? | ??? | 17 May 2023 |

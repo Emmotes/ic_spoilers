@@ -19,7 +19,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Jaheira | `Swift` | Stat: +2 Dexterity | ??? | 14 Apr 2023 |
 | Valentine | `Swift` | Stat: +2 Dexterity | ??? | 14 Apr 2023 |
 | Jim | `For My Next Illusion` | 80% Magic Magic Magic Magic | 50,000 Gems | 26 Apr 2023 |
-| Dungeon Master | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
+| DM | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
 | Omin | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
 | Bruenor | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 17 May 2023 |
 | Krond | `Warrior's Grace` | 120% Self DPS | 50,000 Gems | 17 May 2023 |
