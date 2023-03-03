@@ -828,6 +828,7 @@ These tables are assuming that every node that can be supercharged is fully supe
     "num_targets": 1,
     "animations": [{
         "effect_frames": {"projectile": {"effect_string": "barrowin_ultimate_action_v2"}},
+        "projectile_details": {"projectile_graphic_id": 1984},
         "hit_sound": 133,
         "blessed_hammer_buff_time": 15,
         "shoot_sound": 149,
