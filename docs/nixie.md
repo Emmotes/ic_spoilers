@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![PC Portrait](images/portrait_nixie.png)
-{% endcomment %}
 
 # Nixie
 
@@ -33,7 +31,7 @@ Unknown.
 
 # Abilities
 
-**Base Attack: Fireball**
+**Base Attack: Fireball?** (Magic)
 > Nixie attacks with a ball of fire centered on a random target dealing 1 hit of damage to all enemies in a small radius.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -42,11 +40,14 @@ Unknown.
     "description": "Nixie attacks with a ball of fire centered on a random target dealing 1 hit of damage to all enemies in a small radius.",
     "long_description": "",
     "damage_modifier": 1,
-    "damage_types": "",
+    "damage_types": ["magic"],
     "graphic_id": 0,
     "target": "random",
     "aoe_radius": 150,
-    "tags": "",
+    "tags": [
+        "ranged",
+        "aoe"
+    ],
     "num_targets": 1,
     "animations": [{
         "projectile_details": {
@@ -98,32 +99,133 @@ Unknown.
         },
         "hit_sound": 133,
         "shoot_offset_y": -20,
-        "shoot_offset_x": 40,
+        "shoot_offset_x": 50,
         "shoot_sound": 149,
         "type": "ranged_attack",
         "projectile": "pd_generic_projectile",
         "shoot_frame": 9
     }],
-    "name": "Fireball",
-    "cooldown": 1,
+    "name": "Fireball?",
+    "cooldown": 6,
     "id": 620
 }
 </pre>
 </p>
 </details>
 <br />
-
-**Ultimate Attack: Unknown**
-> Unknown effect.
+**Base Attack: Potted Plant** (Magic)
+> Nixie is currently a plant and cannot attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "Nixie is currently a plant and cannot attack.",
+    "long_description": "",
+    "damage_modifier": 0,
+    "damage_types": ["magic"],
+    "graphic_id": 0,
+    "target": "none",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "aoe"
+    ],
+    "num_targets": 0,
+    "animations": [{
+        "no_cooldown_display": true,
+        "no_jump": true,
+        "animation_sequence_name": "special",
+        "type": "melee_attack",
+        "no_damage_display": true
+    }],
+    "name": "Potted Plant",
+    "cooldown": 6,
+    "id": 622
+}
 </pre>
 </p>
 </details>
 <br />
 
-**Unknown**
+**Ultimate Attack: FIREBALL!!!**
+> Nixie casts a gigantic fireball that engulfs the entire enemy's side of the screen, dealing 1 ultimate hit to all enemies. In addition, there is a 10% chance for each monster hit by this attack to be surrounded by Engulfing Flames.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Nixie casts a gigantic fireball that engulfs the entire enemy's side of the screen, dealing 1 ultimate hit to all enemies. In addition, there is a 10% chance for each monster hit by this attack to be surrounded by Engulfing Flames.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 19069,
+    "target": "all",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "aoe",
+        "ultimate"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "duration": 20,
+        "projectile_data": {
+            "projectile_details": {
+                "trail": {
+                    "scale_lerp": {
+                        "0.0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "1.0": {
+                            "x": 0.75,
+                            "y": 0.75
+                        }
+                    },
+                    "lifespan": 0.3,
+                    "initial_velocity": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "alpha_lerp": {
+                        "0.0": 0.75,
+                        "1.0": 0
+                    },
+                    "particle_graphic_ids": [
+                        11739,
+                        11740
+                    ],
+                    "spawn_rate": 50,
+                    "velocity_jitter": {
+                        "x": 30,
+                        "y": 100
+                    }
+                },
+                "percent_height_offset": 75,
+                "use_auto_rotation": true,
+                "projectile_graphic_id": 749,
+                "projectile_speed": 500
+            },
+            "hit_sound": 133,
+            "shoot_offset_y": -90,
+            "shoot_offset_x": 100,
+            "shoot_sound": 149,
+            "type": "ranged_attack",
+            "shoot_frame": 19
+        },
+        "ultimate": "nixie",
+        "type": "ultimate_attack",
+        "engulfing_flames_chance": 10
+    }],
+    "name": "FIREBALL!!!",
+    "cooldown": 320,
+    "id": 621
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Blazing Charisma**
 > Nixie increases the damage of all Champions with a Charisma of 17+ by `$(amount)%`, including herself.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -143,7 +245,7 @@ Unknown.
     "description": {"desc": "$(source_hero) increases the damage of all Champions with a Charisma of 17+ by $(amount)%, including herself."},
     "id": 1473,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 19063,
     "properties": {"is_formation_ability": true}
 }
 </pre>
@@ -151,8 +253,8 @@ Unknown.
 </details>
 <br />
 
-**Wild Magic Surge** (Guess)
-> Unknown effect.
+**Wild Magic Surge**
+> Each time Nixie makes a normal attack, there is a high chance that a random wild magic event happens.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -178,23 +280,21 @@ Unknown.
                             "index": 2
                         },
                         {
-                            "duration": 15,
+                            "duration": 5,
                             "index": 3
+                        },
+                        {
+                            "duration": 20,
+                            "index": 4
                         }
                     ],
                     "probability": 10
                 },
                 {
-                    "effects": [
-                        {
-                            "duration": 0,
-                            "index": 4
-                        },
-                        {
-                            "duration": 0.5,
-                            "index": 5
-                        }
-                    ],
+                    "effects": [{
+                        "duration": 0,
+                        "index": 5
+                    }],
                     "probability": 10
                 },
                 {
@@ -274,31 +374,35 @@ Unknown.
         },
         {"effect_string": "nixie_potted_punch"},
         {
+            "effect_string": "change_base_attack,622",
+            "apply_manually": true
+        },
+        {
             "effect_string": "buff_upgrade,100,10887",
             "apply_manually": true
         },
         {
             "projectile_details": {
-                "projectile_hit_graphic_id": 16442,
                 "trail": {
-                    "scale_lerp": {
-                        "0.0": {
+                    "scale_lerp": [
+                        {
                             "x": 1,
                             "y": 1
                         },
-                        "1.0": {
+                        {
                             "x": 0,
                             "y": 0
                         }
-                    },
+                    ],
                     "lifespan": 0.25,
                     "initial_velocity": {
                         "x": 0,
                         "y": 0
                     },
                     "alpha_lerp": {
-                        "0.0": 1,
-                        "1.0": 0
+                        "0": 0,
+                        "1": 0,
+                        "0.1": 0.75
                     },
                     "particle_graphic_ids": [189],
                     "spawn_rate": 50,
@@ -308,19 +412,21 @@ Unknown.
                     }
                 },
                 "percent_height_offset": 50,
+                "use_auto_rotation": true,
+                "projectile_graphic_id": 189,
                 "projectile_speed": 250
             },
-            "effect_string": "nixie_coin_cascade"
-        },
-        {
-            "effect_string": "owner_killing_blow_gold_bonus,10",
-            "apply_manually": true
+            "effect_string": "nixie_coin_cascade,10",
+            "radius": 100
         },
         {
             "effect_string": "nixie_shockwave,5",
             "radius": 150
         },
-        {"effect_string": "nixie_feeling_blue"},
+        {
+            "blue_graphic_id": 19008,
+            "effect_string": "nixie_feeling_blue"
+        },
         {
             "monster_ids": [
                 39,
@@ -339,11 +445,18 @@ Unknown.
         }
     ],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^Engulfing Flames - $(source_hero) lights the area of her attack on fire for 20 seconds. While lit, it deals $(seconds_plural amount___2) of BUD  to enemies in the effect each second.^Potted Punch - $(source_hero) turns into a potted plant for 5 seconds and can't attack, increasing the damage bonus of $(upgrade_name id___5) by $(amount___5)% while in that form, and for 15 additional seconds afterwards.^Coin Cascade - Gold coins also fly out from her attack's explosion, worth $(amount___6)% of a normal monster kill.^Shockwave - $(source_hero)'s attack also sends out a shockwave that stuns Monsters in the attack's area for $(seconds_plural amount___7).^Feeling Blue - $(source_hero)'s skin turns blue for 10 seconds.^Eldritch Entourage - A random monster is summoned.^Enlarge - $(source_hero)'s size increases. Her damage also increases by $(amount___11)% for 20 seconds."
+        }]},
+        "desc": "Each time $(source_hero) makes a normal attack, there is a high chance that a random wild magic event happens."
+    },
     "id": 1474,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 19065,
     "properties": {
+        "indexed_effect_properties": true,
         "is_formation_ability": true,
         "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
@@ -355,9 +468,36 @@ Unknown.
 </details>
 <br />
 
+**Gigantic Growth**
+> Increase the damage bonus of  `$(upgrade_name id)`: Enlarge and  `$(upgrade_name id)`: Potted Plant by `$(amount)%`, and  `$(amount___2)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "buff_upgrade,100,10888,4"},
+        {"effect_string": "buff_upgrade,100,10888,10"}
+    ],
+    "requirements": "",
+    "description": {"desc": "Increase the damage bonus of  $(upgrade_name id): Enlarge and  $(upgrade_name id): Potted Plant by $(amount)%, and  $(amount___2)%"},
+    "id": 1475,
+    "flavour_text": "",
+    "graphic_id": 19064,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
 # Specialisations
 
-**Specialisation: Unknown**
+**Specialisation: Infernal Impact** (Guess)
 > Nixie increases the damage bonus of `$(upgrade_name id)` by `$(amount)%` for each Tiefling champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -386,7 +526,7 @@ Unknown.
 </details>
 <br />
 
-**Specialisation: Unknown**
+**Specialisation: Flawed Force** (Guess)
 > Nixie increases the damage bonus of `$(upgrade_name id)` by `$(amount)%` for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -427,7 +567,7 @@ Unknown.
 </details>
 <br />
 
-**Specialisation: Unknown**
+**Specialisation: Anarchy Amplified** (Guess)
 > Nixie increases the damage bonus of `$(upgrade_name id)` by `$(amount)%` for each Chaotic champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -475,11 +615,9 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Console Portrait
 
 ![Console Portrait](images/console_nixie.png)
-{% endcomment %}
 
 [Back to Top](#top)
 
