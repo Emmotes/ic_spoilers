@@ -197,6 +197,216 @@ Contents:
 
 <br />
 
+### Ancient Orkira Skin & Feat Pack - $9.99  
+Date of release: 12 Apr 2023
+
+Contents:
+
+* Champion: `Orkira Illdrex`
+* Skin: `Ancient Orkira`
+* Feat: `Breath of the Phoenix` (Orkira)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Orkira Chest` x7 (Shinies x1)
+
+<br />
+
+### Head Chef Gazrick Skin & Feat Pack - $9.99  
+Date of release: 12 Apr 2023
+
+Contents:
+
+* Champion: `Gazrick Nomrad`
+* Skin: `Head Chef Gazrick`
+* Feat: `Cold Snap` (Gazrick)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Gazrick Chest` x7 (Shinies x1)
+
+<br />
+
+### Witchlight Antrius Theme Pack - $24.99  
+Date of release: 12 Apr 2023
+
+Contents:
+
+* Champion: `Antrius`
+* Skin: `Witchlight Antrius`
+* Feat: ???
+* Familiar: `Cymbals the Monkey`
+* Chests: `Gold Antrius Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+
+<br />
+
+### Ancient Birdsong Skin & Feat Pack - $9.99  
+Date of release: 19 Apr 2023
+
+Contents:
+
+* Champion: `Birdsong`
+* Skin: `Ancient Birdsong`
+* Feat: `Cat Lord's Blessing` (Birdsong)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Birdsong Chest` x7 (Shinies x1)
+
+<br />
+
+### Twiggy the Twig Blessing Familiar Pack - $9.99  
+Date of release: 19 Apr 2023
+
+Contents:
+
+* Familiar: `Twiggy the Blight Blessing`
+* Buff: `Huge Potion of Speed` x4
+* Buff: `Huge Potion of Giant's Strength` x4
+* Buff: `Huge Potion of Clairvoyance` x4
+* Buff: `Potion of Polish` x1
+
+<br />
+
+### Clone Lich Jim Skin & Feat Pack - $9.99  
+Date of release: 26 Apr 2023
+
+Contents:
+
+* Champion: `James (Jim) Winifred Darkmagic III`
+* Skin: `Clone Lich Jim`
+* Feat: `For My Next Illusion` (Jim)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Jim Chest` x7 (Shinies x1)
+
+<br />
+
+### Lawbringer Barrowin Skin & Feat Pack - $9.99  
+Date of release: 26 Apr 2023
+
+Contents:
+
+* Champion: `Barrowin Undurr`
+* Skin: `Lawbringer Barrowin`
+* Feat: `Scholar` (Barrowin)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Barrowin Chest` x7 (Shinies x1)
+
+<br />
+
+### Sword of Kas Familiar Pack - $4.99  
+Date of release: 26 Apr 2023
+
+Contents:
+
+* Familiar: `Sword of Kas`
+* Buff: `Huge Potion of Speed` x2
+* Buff: `Huge Potion of Giant's Strength` x2
+* Buff: `Huge Potion of Clairvoyance` x2
+
+<br />
+
+### Lord of Waterdeep Omin Skin & Feat Pack - $9.99  
+Date of release: 03 May 2023
+
+Contents:
+
+* Champion: `Omin Dran`
+* Skin: `Lord of Waterdeep Omin`
+* Feat: `Prodigal Leader` (Omin)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Omin Chest` x7 (Shinies x1)
+
+<br />
+
+### Vacation Dungeon Master Skin & Feat Pack - $9.99  
+Date of release: 03 May 2023
+
+Contents:
+
+* Champion: `Dungeon Master`
+* Skin: `Vacation Dungeon Master`
+* Feat: `Prodigal Leader` (DM)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Dungeon Master Chest` x7 (Shinies x1)
+
+<br />
+
+### Witchlight Nixie Theme Pack - $24.99  
+Date of release: 03 May 2023
+
+Contents:
+
+* Champion: `Nixie`
+* Skin: `Witchlight Nixie`
+* Feat: `Selflessness` (Bruenor)
+* Familiar: `Dargle-bark the Bearowl`
+* Chests: `Gold E11Y6 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+
+<br />
+
+### A Familiar Quest: The Villains Bundle Pack - $23.99  
+Date of release: 08 May 2023
+
+Contents:
+
+* Familiar: `Pest the Carrionette`
+* Familiar: `Baby Themberchaud`
+* Familiar: `Baby Demogorgon`
+* Buff: `Huge Potion of Speed` x12
+* Buff: `Huge Potion of Giant's Strength` x12
+* Buff: `Huge Potion of Clairvoyance` x12
+* Buff: `Huge Potion of Fire Breath` x6
+* Buff: `Potion of the Gold Hunter` x1
+* Modron: `Upgrade Components` x2,000
+* Buff: `Potion of Polish` x2
+
+<br />
+
+### Baby Demogorgon Familiar Pack - $14.99  
+Date of release: 08 May 2023
+
+Contents:
+
+* Familiar: `Baby Demogorgon`
+* Buff: `Huge Potion of Speed` x6
+* Buff: `Huge Potion of Giant's Strength` x6
+* Buff: `Huge Potion of Clairvoyance` x6
+* Buff: `Huge Potion of Fire Breath` x6
+* Buff: `Potion of the Gold Hunter` x1
+* Modron: `Upgrade Components` x2,000
+* Buff: `Potion of Polish` x1
+
+<br />
+
+### Baby Themberchaud Familiar Pack - $9.99  
+Date of release: 08 May 2023
+
+Contents:
+
+* Familiar: `Baby Themberchaud`
+* Buff: `Huge Potion of Speed` x4
+* Buff: `Huge Potion of Giant's Strength` x4
+* Buff: `Huge Potion of Clairvoyance` x4
+* Buff: `Potion of Polish` x1
+
+<br />
+
+### Pest the Carrionette Familiar Pack - $4.99  
+Date of release: 08 May 2023
+
+Contents:
+
+* Familiar: `Pest the Carrionette`
+* Buff: `Huge Potion of Speed` x2
+* Buff: `Huge Potion of Giant's Strength` x2
+* Buff: `Huge Potion of Clairvoyance` x2
+
+<br />
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
