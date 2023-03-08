@@ -8,8 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Jaheira | `Solstice` | Gem Shop | 20,000 | 08 Mar 2023 |
-| Lazaapz | `Spelljammer` | Gem Shop | 20,000 | 08 Mar 2023 |
 | Barrowin | `Ancient` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Birdsong | `Lawbringer` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Donaar | `Green Flame` | ??? | ??? | 08 Mar 2023 |

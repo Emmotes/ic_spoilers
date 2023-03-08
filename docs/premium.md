@@ -4,47 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Green Dragonnel Familiar Pack - $4.99  
-Date of release: 08 Mar 2023
-
-Contents:
-
-* Familiar: `Green Dragonnel`
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-
-<br />
-
-### Red Dragonnel Familiar Pack - $9.99  
-Date of release: 08 Mar 2023
-
-Contents:
-
-* Familiar: `Red Dragonnel`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-
-<br />
-
-### White Dragonnel Familiar Pack - $14.99  
-Date of release: 08 Mar 2023
-
-Contents:
-
-* Familiar: `White Dragonnel`
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-
-<br />
-
 ### Dragonlance Miria Theme Pack - $24.99  
 Date of release: 15 Mar 2023
 
