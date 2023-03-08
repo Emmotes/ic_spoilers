@@ -10,7 +10,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| Turiel | `Scent of the Lower Planes` | ???: [buff_upgrade_add_then_mult,150,10662] | ??? | 08 Mar 2023 |
+| Turiel | `Scent of the Lower Planes` | Additive 150% March of the Rakshasa | ??? | 08 Mar 2023 |
 | Barrowin | `Calm Under Pressure` | +10 Overwhelm | Season 3 | 15 Mar 2023 |
 | Barrowin | `Dwarven Runes` | 20% Blessed Hammer | Free | 15 Mar 2023 |
 | Barrowin | `Dwarven Tradition` | 80% Blessed Hammer | Season 3 | 15 Mar 2023 |
@@ -18,10 +18,10 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Birdsong | `Harmony` | 80% Crescendo | Season 3 | 15 Mar 2023 |
 | Birdsong | `Keeping the Beat` | 20% Song of Battle | Free | 15 Mar 2023 |
 | Birdsong | `Littermates` | 40% Chorus of the Lost | Gold Chest | 15 Mar 2023 |
-| Hew Maan | `Immolation` | ???: [immolation,1,5] | Season 3 | 15 Mar 2023 |
-| Hew Maan | `The Path Is Clear` | ???: [time_scale_when_not_attacked,10,2] | Season 3 | 15 Mar 2023 |
+| Hew Maan | `Immolation` | 1s BUD per sec for 5s | Season 3 | 15 Mar 2023 |
+| Hew Maan | `The Path Is Clear` | 10% Speed Not Attacked for 2s | Season 3 | 15 Mar 2023 |
 | Miria | `Soth's Right Hand` | 80% Mage of High Sorcery | 50,000 Gems | 15 Mar 2023 |
-| Spurt | `Extra Wasps` | ???: [increase_ultimate_cooldown,30] | Season 3 | 15 Mar 2023 |
+| Spurt | `Extra Wasps` | +30% Ultimate Cooldown | Season 3 | 15 Mar 2023 |
 | Spurt | `Kobold Brethren` | 80% Pack Tactics | Season 3 | 15 Mar 2023 |
 | Turiel | `Athlete` | Stat: +1 Strength | Season 3 | 15 Mar 2023 |
 | Turiel | `Fiendish Resolve` | 40% Unflinching Hatred | Gold Chest | 15 Mar 2023 |
@@ -29,10 +29,10 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Turiel | `Raised Voices` | 40% All Specialisations | Gold Chest | 15 Mar 2023 |
 | Turiel | `Shout Above The Din` | 80% All Specialisations | Season 3 | 15 Mar 2023 |
 | Turiel | `Speaking Up` | 20% All Specialisations | Free | 15 Mar 2023 |
-| Turiel | `Unnatural Gait` | ???: [buff_upgrade_add_then_mult,50,10662] | Gold Chest | 15 Mar 2023 |
+| Turiel | `Unnatural Gait` | Additive 50% March of the Rakshasa | Gold Chest | 15 Mar 2023 |
 | Turiel | `Veiled Encounter` | 40% Order's Demand | Gold Chest | 15 Mar 2023 |
 | Fen | `Wisened Friends` | 80% I've Got You, Friends | Corrupt Gems | 29 Mar 2023 |
-| Hew Maan | `Neverwinter Diversity` | ???: [additional_fellow_humans,3] | Corrupt Gems | 29 Mar 2023 |
+| Hew Maan | `Neverwinter Diversity` | +3 to Hello, Fellow Humans | Corrupt Gems | 29 Mar 2023 |
 | Hitch | `Five Questions` | 80% Ricochet | Corrupt Gems | 29 Mar 2023 |
 | Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 29 Mar 2023 |
 | Gazrick | `Cold Snap` | 80% Frosty Friendship | 50,000 Gems | 12 Apr 2023 |
