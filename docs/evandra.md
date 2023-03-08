@@ -6,8 +6,6 @@
 
 # Evandra
 
-This is PURELY A GUESS. I don't know if Evandra will be directly after Strongheart - but she will be close. There is a "Witchlight Evandra" skin dated for 2032 (placeholder date) and she'll be the 3rd member of Awful Ones (Guess) affiliation.
-
 Evandra is a "half-elf fighter" from the 1 For All sketch show.
 
 [https://tvtropes.org/pmwiki/pmwiki.php/Characters/OneForAll](https://tvtropes.org/pmwiki/pmwiki.php/Characters/OneForAll)
