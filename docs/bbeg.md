@@ -6,7 +6,7 @@
 
 # BBEG
 
-No idea who this will be.
+No idea who this will be. It's likely they'll be "BBEG" from an episode of the 1 for All sketch show but it's too soon to know for sure.
 
 # Basic Information
 
