@@ -17,16 +17,18 @@ These are the champions that are upcoming and all the information we know about 
 * The Running - 3 May 2023
   * [Nixie](nixie.md) - Tiefling Sorcerer of Awful Ones (Guess)
 * The Great Modron March - 24 May 2023
-  * [Strongheart](strongheart.md) - Human Paladin (Guess)
-* Dragondown - 14 June 2023
   * [Evandra](evandra.md) - Half-Elf Fighter of Awful Ones (Guess)
+* Dragondown - 14 June 2023
+  * [BBEG](bbeg.md) - Unknown Unknown
+* Founder's Day - 5 July 2023
+  * [Strongheart](strongheart.md) - Human Paladin (Guess)
 
 # Misc
 
 Miscellaneous spoilers.
 
 * [Thayan Enclave](thayan_enclave.md) - 29 March 2023
-* [Season 3](season_3.md) - 15 March 2023
+* [Season 4](season_4.md) - TBD
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
