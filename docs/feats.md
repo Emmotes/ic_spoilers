@@ -10,7 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| Turiel | `Scent of the Lower Planes` | Additive 150% March of the Rakshasa | ??? | 08 Mar 2023 |
 | Barrowin | `Calm Under Pressure` | +10 Overwhelm | Season 3 | 15 Mar 2023 |
 | Barrowin | `Dwarven Tradition` | 80% Blessed Hammer | Season 3 | 15 Mar 2023 |
 | Birdsong | `Athlete` | Stat: +1 Strength | Season 3 | 15 Mar 2023 |

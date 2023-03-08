@@ -8,12 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Barrowin | `Ancient` | Season 3 (Guess) | ??? | 08 Mar 2023 |
-| Birdsong | `Lawbringer` | Season 3 (Guess) | ??? | 08 Mar 2023 |
-| Donaar | `Green Flame` | ??? | ??? | 08 Mar 2023 |
-| Hew Maan | `Law Maan` | Season 3 (Guess) | ??? | 08 Mar 2023 |
-| Spurt | `Lawbringer` | Season 3 (Guess) | ??? | 08 Mar 2023 |
-| Turiel | `Ancient` | Season 3 (Guess) | ??? | 08 Mar 2023 |
 | Miria | `Dragonlance` | Dragonlance Miria Theme Pack | $24.99 | 15 Mar 2023 |
 | Calliope | `Red Wizard` | Thayan Enclave (Guess) | ??? | 29 Mar 2023 |
 | Widdle | `Red Wizard` | Thayan Enclave (Guess) | ??? | 29 Mar 2023 |
