@@ -23,9 +23,9 @@ Most skins are real money purchases only.
 | Krond | `Scholar` | ??? | ??? | 17 May 2023 |
 | Evandra | `Witchlight` | ??? | ??? | 24 May 2023 |
 | Mehen | `Proud Papa` | ??? | ??? | 24 May 2023 |
-| Nixie | `QA  Skin` | ??? | ??? | 24 May 2023 |
 | Nordom | `Nature` | ??? | ??? | 24 May 2023 |
 | Strongheart | `Action Figure` | ??? | ??? | 24 May 2023 |
+| BBEG | `Witchlight` | ??? | ??? | 07 Jun 2023 |
 | Tatyana | `Fighting Pits` | ??? | ??? | 26 Jul 2023 |
 
 [Back to Top](#top)
