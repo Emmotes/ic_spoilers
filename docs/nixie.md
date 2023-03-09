@@ -24,10 +24,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 
 # Formation
 
-Unknown.
-{% comment %}
 ![Formation Layout](images/formation_nixie.png)
-{% endcomment %}
 
 # Abilities
 
