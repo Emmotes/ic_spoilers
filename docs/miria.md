@@ -620,10 +620,8 @@ This list will only show feats that are going to be available on the release of 
 <details><summary><em>DPS Applicable</em></summary>
 <p>
 <pre>
-     Arkhan: 3 / 6
     Artemis: 4 / 6
     Asharra: 4 / 6
-      Azaka: 4 / 6
      Binwin: 3 / 6
    Birdsong: 5 / 6
 Black Viper: 5 / 6
@@ -657,7 +655,6 @@ Black Viper: 5 / 6
      Warden: 4 / 6
     Warduke: 3 / 6
      Yorven: 3 / 6
-      Zorbu: 4 / 6
 </pre>
 </p>
 </details>
