@@ -18,7 +18,7 @@ The expected date for release of the Thayan Enclave and first Emergence Event is
 
 * Golden Epic: `Miria` (Slot Unknown)
 * Feat: `Wisened Friends` (Fen - 80% I've Got You, Friends)
-* Feat: `Unknown` (Hew Maan - Unknown)
+* Feat: `Neverwinter Diversity` (Hew Maan - +3 to Hello, Fellow Humans)
 * Feat: `Stable Targets` (Hitch - 80% Ricochet)
 * Skin: `Red Wizard Calliope`
 * Skin: `Red Wizard Widdle`
