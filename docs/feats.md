@@ -27,8 +27,8 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 29 Mar 2023 |
 | Gazrick | `Cold Snap` | 80% Frosty Friendship | 50,000 Gems | 12 Apr 2023 |
 | Orkira | `Breath of the Phoenix` | 80% Lesser Restoration | 50,000 Gems | 12 Apr 2023 |
-| Jaheira | `Swift` | Stat: +2 Dexterity | ??? | 14 Apr 2023 |
-| Valentine | `Swift` | Stat: +2 Dexterity | ??? | 14 Apr 2023 |
+| Jaheira | `Swift` | Stat: +2 Dexterity | Weekend (Guess) | 14 Apr 2023 |
+| Valentine | `Swift` | Stat: +2 Dexterity | Weekend (Guess) | 14 Apr 2023 |
 | Birdsong | `Cat Lord's Blessing` | 80% Chorus of the Lost | 50,000 Gems | 19 Apr 2023 |
 | Barrowin | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 26 Apr 2023 |
 | Jim | `For My Next Illusion` | 80% Magic Magic Magic Magic | 50,000 Gems | 26 Apr 2023 |
