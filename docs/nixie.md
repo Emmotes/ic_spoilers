@@ -252,6 +252,14 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 
 **Wild Magic Surge**
 > Each time Nixie makes a normal attack, there is a high chance that a random wild magic event happens.
+>  
+> - Engulfing Flames - Nixie lights the area of her attack on fire for 20 seconds. While lit, it deals `$(seconds_plural amount___2)` of BUD  to enemies in the effect each second.
+> - Potted Punch - Nixie turns into a potted plant for 5 seconds and can't attack, increasing the damage bonus of `$(upgrade_name id___5)` by `$(amount___5)%` while in that form, and for 15 additional seconds afterwards.
+> - Coin Cascade - Gold coins also fly out from her attack's explosion, worth `$(amount___6)%` of a normal monster kill.
+> - Shockwave - Nixie's attack also sends out a shockwave that stuns Monsters in the attack's area for `$(seconds_plural amount___7)`.
+> - Feeling Blue - Nixie's skin turns blue for 10 seconds.
+> - Eldritch Entourage - A random monster is summoned.
+> - Enlarge - Nixie's size increases. Her damage also increases by `$(amount___11)%` for 20 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
