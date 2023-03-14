@@ -16,11 +16,11 @@ These are the champions that are upcoming and all the information we know about 
   * [Antrius](antrius.md) - Human Bard of Awful Ones (Guess)
 * The Running - 3 May 2023
   * [Nixie](nixie.md) - Tiefling Sorcerer of Awful Ones (Guess)
-* The Great Modron March - 24 May 2023
+* The Great Modron March - 17 May 2023
   * [Evandra](evandra.md) - Half-Elf Fighter of Awful Ones (Guess)
-* Dragondown - 14 June 2023
+* Dragondown - 7 June 2023
   * [BBEG](bbeg.md) - Unknown
-* Founder's Day - 5 July 2023
+* Founder's Day - 28 June 2023
   * [Strongheart](strongheart.md) - Human Paladin (Guess)
 
 # Misc
