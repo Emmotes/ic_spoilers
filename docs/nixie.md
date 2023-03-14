@@ -150,9 +150,9 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 <p>
 <pre>
 {
-    "description": "Nixie casts a gigantic fireball that engulfs the entire enemy's side of the screen, dealing 1 ultimate hit to all enemies. In addition, there is a 10% chance for each monster hit by this attack to be surrounded by Engulfing Flames.",
-    "long_description": "",
-    "damage_modifier": 1,
+    "description": "Nixie casts a fireball that engulfs the battlefield, hitting all enemies.  Each monster hit may be surrounded by Engulfing Flames.",
+    "long_description": "Nixie casts a gigantic fireball that engulfs the entire enemy's side of the screen, dealing 1 ultimate hit to all enemies. In addition, there is a 10% chance for each monster hit by this attack to be surrounded by Engulfing Flames.",
+    "damage_modifier": 0.03,
     "damage_types": ["magic"],
     "graphic_id": 19069,
     "target": "all",
@@ -253,7 +253,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 **Wild Magic Surge**
 > Each time Nixie makes a normal attack, there is a high chance that a random wild magic event happens.
 >  
-> - Engulfing Flames - Nixie lights the area of her attack on fire for 20 seconds. While lit, it deals `$(seconds_plural amount___2)` of BUD  to enemies in the effect each second.
+> - Engulfing Flames - Nixie lights the area of her attack on fire for 20 seconds. While lit, it deals `$(seconds_plural amount___2)` of BUD to enemies in the effect each second.
 > - Potted Punch - Nixie turns into a potted plant for 5 seconds and can't attack, increasing the damage bonus of `$(upgrade_name id___5)` by `$(amount___5)%` while in that form, and for 15 additional seconds afterwards.
 > - Coin Cascade - Gold coins also fly out from her attack's explosion, worth `$(amount___6)%` of a normal monster kill.
 > - Shockwave - Nixie's attack also sends out a shockwave that stuns Monsters in the attack's area for `$(seconds_plural amount___7)`.
@@ -453,7 +453,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
     "description": {
         "post": {"conditions": [{
             "condition": "not static_desc",
-            "desc": "^^Engulfing Flames - $(source_hero) lights the area of her attack on fire for 20 seconds. While lit, it deals $(seconds_plural amount___2) of BUD  to enemies in the effect each second.^Potted Punch - $(source_hero) turns into a potted plant for 5 seconds and can't attack, increasing the damage bonus of $(upgrade_name id___5) by $(amount___5)% while in that form, and for 15 additional seconds afterwards.^Coin Cascade - Gold coins also fly out from her attack's explosion, worth $(amount___6)% of a normal monster kill.^Shockwave - $(source_hero)'s attack also sends out a shockwave that stuns Monsters in the attack's area for $(seconds_plural amount___7).^Feeling Blue - $(source_hero)'s skin turns blue for 10 seconds.^Eldritch Entourage - A random monster is summoned.^Enlarge - $(source_hero)'s size increases. Her damage also increases by $(amount___11)% for 20 seconds."
+            "desc": "^^Engulfing Flames - $(source_hero) lights the area of her attack on fire for 20 seconds. While lit, it deals $(seconds_plural amount___2) of BUD to enemies in the effect each second.^Potted Punch - $(source_hero) turns into a potted plant for 5 seconds and can't attack, increasing the damage bonus of $(upgrade_name id___5) by $(amount___5)% while in that form, and for 15 additional seconds afterwards.^Coin Cascade - Gold coins also fly out from her attack's explosion, worth $(amount___6)% of a normal monster kill.^Shockwave - $(source_hero)'s attack also sends out a shockwave that stuns Monsters in the attack's area for $(seconds_plural amount___7).^Feeling Blue - $(source_hero)'s skin turns blue for 10 seconds.^Eldritch Entourage - A random monster is summoned.^Enlarge - $(source_hero)'s size increases. Her damage also increases by $(amount___11)% for 20 seconds."
         }]},
         "desc": "Each time $(source_hero) makes a normal attack, there is a high chance that a random wild magic event happens."
     },
@@ -474,7 +474,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 <br />
 
 **Gigantic Growth**
-> Increase the damage bonus of  `$(upgrade_name id)`: Enlarge and  `$(upgrade_name id)`: Potted Plant by `$(amount)%`, and  `$(amount___2)%`.
+> Increases the damage bonus of `$(upgrade_name id)`: Potted Punch by `$(amount)%` and `$(upgrade_name id)`: Enlarge by `$(amount___2)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -484,7 +484,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
         {"effect_string": "buff_upgrade,100,10888,10"}
     ],
     "requirements": "",
-    "description": {"desc": "Increase the damage bonus of  $(upgrade_name id): Enlarge and  $(upgrade_name id): Potted Plant by $(amount)%, and  $(amount___2)%"},
+    "description": {"desc": "Increases the damage bonus of $(upgrade_name id): Potted Punch by $(amount)% and $(upgrade_name id): Enlarge by $(amount___2)%"},
     "id": 1475,
     "flavour_text": "",
     "graphic_id": 19064,
