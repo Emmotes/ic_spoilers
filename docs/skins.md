@@ -20,7 +20,7 @@ Most skins are real money purchases only.
 | DM | `Vacation` | Vacation Dungeon Master Skin & Feat Pack | $9.99 | 03 May 2023 |
 | Nixie | `Witchlight` | Witchlight Nixie Theme Pack | $24.99 | 03 May 2023 |
 | Omin | `Lord of Waterdeep` | Lord of Waterdeep Omin Skin & Feat Pack | $9.99 | 03 May 2023 |
-| Krond | `Scholar` | ??? | ??? | 17 May 2023 |
+| Krond | `Scholar` | Scholar Krond Skin & Feat Pack | $9.99 | 17 May 2023 |
 | Evandra | `Witchlight` | ??? | ??? | 24 May 2023 |
 | Mehen | `Proud Papa` | ??? | ??? | 24 May 2023 |
 | Nordom | `Nature` | ??? | ??? | 24 May 2023 |
