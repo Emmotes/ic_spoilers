@@ -332,7 +332,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 # Specialisations
 
 **Specialisation: Bard College** (Guess)
-> Antrius increases `$(upgrade_name id)`'s damage bonus by `$(amount)%` for each Bard in the formation, stacking multiplicatively.
+> Antrius increases `$(upgrade_name id)`'s damage bonus by `$(not_buffed amount)%` for each Bard in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -343,7 +343,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
         "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,200,10794,bard"
     }],
     "requirements": "",
-    "description": {"desc": "$(source_hero) increases $(upgrade_name id)'s damage bonus by $(amount)% for each Bard in the formation, stacking multiplicatively."},
+    "description": {"desc": "$(source_hero) increases $(upgrade_name id)'s damage bonus by $(not_buffed amount)% for each Bard in the formation, stacking multiplicatively."},
     "id": 1466,
     "flavour_text": "",
     "graphic_id": 0,
@@ -361,7 +361,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 <br />
 
 **Specialisation: Truly Awful Stats** (Guess)
-> Antrius increases `$(upgrade_name id)`'s damage bonus by `$(amount)%` for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively.
+> Antrius increases `$(upgrade_name id)`'s damage bonus by `$(not_buffed amount)%` for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -384,7 +384,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
         }]}
     }],
     "requirements": "",
-    "description": {"desc": "$(source_hero) increases $(upgrade_name id)'s damage bonus by $(amount)% for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively."},
+    "description": {"desc": "$(source_hero) increases $(upgrade_name id)'s damage bonus by $(not_buffed amount)% for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively."},
     "id": 1467,
     "flavour_text": "",
     "graphic_id": 0,
@@ -402,7 +402,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 <br />
 
 **Specialisation: The A in Chaotic is for Antrius** (Guess)
-> Antrius increases `$(upgrade_name id)`'s damage bonus by `$(amount)%` for each chaotic Champion in the formation, stacking multiplicatively.
+> Antrius increases `$(upgrade_name id)`'s damage bonus by `$(not_buffed amount)%` for each Chaotic Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -413,7 +413,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
         "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,10794,chaotic"
     }],
     "requirements": "",
-    "description": {"desc": "$(source_hero) increases $(upgrade_name id)'s damage bonus by $(amount)% for each chaotic Champion in the formation, stacking multiplicatively."},
+    "description": {"desc": "$(source_hero) increases $(upgrade_name id)'s damage bonus by $(not_buffed amount)% for each Chaotic Champion in the formation, stacking multiplicatively."},
     "id": 1468,
     "flavour_text": "",
     "graphic_id": 0,
