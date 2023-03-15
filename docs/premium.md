@@ -4,20 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Dragonlance Miria Theme Pack - $24.99  
-Date of release: 15 Mar 2023
-
-Contents:
-
-* Champion: `Miria`
-* Skin: `Dragonlance Miria`
-* Feat: `Soth's Right Hand` (Miria)
-* Familiar: `Malleus the Baby Death Dragon`
-* Chests: `Gold Miria Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
 ### Isra the Infernal Horned Toad Familiar Pack - $9.99  
 Date of release: 22 Mar 2023
 
