@@ -29,12 +29,12 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 # Abilities
 
 **Base Attack: Vicious Mockery** (Magic)
-> Antrius attacks the enemy with the most health, dealing 1 hit and causing it to take +100% damage until he attacks again.
+> Antrius attacks the enemy with the most health, causing it to take +100% damage until he attacks again.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "Antrius attacks the enemy with the most health, dealing 1 hit and causing it to take +100% damage until he attacks again.",
+    "description": "Antrius attacks the enemy with the most health, causing it to take +100% damage until he attacks again.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["magic"],
