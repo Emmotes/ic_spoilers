@@ -11,7 +11,7 @@ Of course - spoilers are subject to change at any time. Don't plan any major lif
 These are the champions that are upcoming and all the information we know about them. Dates are guesstimates based on the normal event schedule.
 
 * Greengrass - 12 April 2023
-  * [Antrius](antrius.md) - Human Bard of Awful Ones (Guess)
+  * [Antrius](antrius.md) - Human Bard of Awful Ones
 * The Running - 3 May 2023
   * [Nixie](nixie.md) - Tiefling Sorcerer of Awful Ones (Guess)
 * The Great Modron March - 17 May 2023
