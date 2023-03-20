@@ -177,7 +177,7 @@ Contents:
 
 * Champion: `Antrius`
 * Skin: `Witchlight Antrius`
-* Feat: ???
+* Feat: `Charming and in Charge` (Antrius)
 * Familiar: `Cymbals the Monkey`
 * Chests: `Gold Antrius Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
