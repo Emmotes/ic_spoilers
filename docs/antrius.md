@@ -153,7 +153,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 <br />
 
 **Inspiring Song** (Level: 5)
-> Antrius inspires each adjacent Champion giving them `$(amount___2)` temporary hit points every 5 seconds and increasing their damage by `$(amount)`%. Any Champion with a Charisma score of 17 or higher further inspires all unaffected adjacent Champions, and this continues to cascade. Antrius' song is so inspiring that he also inspires himself. The total shield amount on each Champion is limited to 10 times the Champion's max health.
+> Antrius inspires each adjacent Champion giving them 10 temporary hit points every 5 seconds and increasing their damage by 100%. Any Champion with a Charisma score of 17 or higher further inspires all unaffected adjacent Champions, and this continues to cascade. Antrius' song is so inspiring that he also inspires himself. The total shield amount on each Champion is limited to 10 times the Champion's max health.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -246,7 +246,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 <br />
 
 **The Hardiest, Bardiest Bard** (Level: 10)
-> Antrius increases Inspiring Song's temporary hit point bonus by `$(amount)`% for each Champion affected by it, stacking additively.
+> Antrius increases Inspiring Song's temporary hit point bonus by 100% for each Champion affected by it, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -291,7 +291,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 <br />
 
 **Suave and Sophisticated** (Level: 15)
-> Antrius increases Inspiring Song's damage bonus by `$(amount)`% for each Champion affected by it, stacking multiplicatively. Buffs apply to the pre-stack value.
+> Antrius increases Inspiring Song's damage bonus by 100% for each Champion affected by it, stacking multiplicatively. Buffs apply to the pre-stack value.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -342,7 +342,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 <br />
 
 **Can't be De-Feat-ed** (Level: 20)
-> Antrius increases Inspiring Song's damage bonus by `$(amount)`% for each feat your Champions have unlocked, stacking additively.
+> Antrius increases Inspiring Song's damage bonus by 100% for each feat your Champions have unlocked, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
