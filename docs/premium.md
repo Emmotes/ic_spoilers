@@ -4,19 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Isra the Infernal Horned Toad Familiar Pack - $9.99  
-Date of release: 22 Mar 2023
-
-Contents:
-
-* Familiar: `Isra the Infernal Horned Toad`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-
-<br />
-
 ### Corrupted Gems - Tier 1 - $4.99  
 Date of release: 29 Mar 2023
 
