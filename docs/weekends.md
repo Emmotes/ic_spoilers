@@ -8,7 +8,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Feral Moon | 24 March | **Nahara** | Calliope | Desmond | Bruenor | Birdsong | Golden Epic |
+| Feral Moon | 24 March | **Desmond** | Calliope | Nahara | Bruenor | Birdsong | Golden Epic |
 | Dazzling | 31 March | **Hew Maan** | Turiel | Makos | Celeste | DM | Golden Epic |
 | Starjewel | 07 April | **Miria** | Jarlaxle | Jamilah | Barrowin | Spurt | Golden Epic |
 | Swift & Agile | 14 April | **Jaheira** | Hitch | Valentine | Shandie | Tyril | [Feats](feats.md) |
