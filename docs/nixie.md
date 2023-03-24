@@ -503,7 +503,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 # Specialisations
 
 **Specialisation: Infernal Impact** (Guess)
-> Nixie increases the damage bonus of `$(upgrade_name id)` by `$(amount)%` for each Tiefling champion in the formation, stacking multiplicatively.
+> Nixie increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Tiefling champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -514,7 +514,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
         "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,200,10887,tiefling"
     }],
     "requirements": "",
-    "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(amount)% for each Tiefling champion in the formation, stacking multiplicatively."},
+    "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Tiefling champion in the formation, stacking multiplicatively."},
     "id": 1476,
     "flavour_text": "",
     "graphic_id": 0,
@@ -532,7 +532,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 <br />
 
 **Specialisation: Flawed Force** (Guess)
-> Nixie increases the damage bonus of `$(upgrade_name id)` by `$(amount)%` for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively.
+> Nixie increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -555,7 +555,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
         }]}
     }],
     "requirements": "",
-    "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(amount)% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively."},
+    "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively."},
     "id": 1477,
     "flavour_text": "",
     "graphic_id": 0,
@@ -573,7 +573,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 <br />
 
 **Specialisation: Anarchy Amplified** (Guess)
-> Nixie increases the damage bonus of `$(upgrade_name id)` by `$(amount)%` for each Chaotic champion in the formation, stacking multiplicatively.
+> Nixie increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Chaotic champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -584,7 +584,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
         "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,10887,chaotic"
     }],
     "requirements": "",
-    "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(amount)% for each Chaotic champion in the formation, stacking multiplicatively."},
+    "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Chaotic champion in the formation, stacking multiplicatively."},
     "id": 1478,
     "flavour_text": "",
     "graphic_id": 0,
