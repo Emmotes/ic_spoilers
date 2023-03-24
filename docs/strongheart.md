@@ -13,7 +13,7 @@ Info from a wiki.
 
 # Basic Information
 
-Strongheart will be the new champion in the Founder's Day event on 28 June 2023.
+Strongheart will be the new champion in the Founder's Day event on 5 July 2023.
 
 * Seat: Unknown
 * Race: Human (Guess)

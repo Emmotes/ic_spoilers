@@ -10,7 +10,7 @@ This will likely be "BBEG" from an episode of the 1 for All sketch show but it's
 
 # Basic Information
 
-BBEG will be the new champion in the Dragondown event on 7 June 2023.
+BBEG will be the new champion in the Dragondown event on 14 June 2023.
 
 * Seat: Unknown
 * Race: Unknown
