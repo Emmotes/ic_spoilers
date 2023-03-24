@@ -249,24 +249,43 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 # Specialisations
 
 **Specialisation: Carnival Crew** (Guess)
-> Evandra increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Female or Nonbinary Champion in the formation, stacking multiplicatively and applied multiplicatively.
+> Evandra increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively. In addition, all Awful Ones Champions are available to be used if Wild beyond the Witchlight is the current campaign, even if they do not currently qualify based on variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "stacks_multiply": true,
-        "off_when_benched": true,
-        "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,11295,female|(!female^!male)"
-    }],
+    "effect_keys": [
+        {
+            "stack_title": "Affected Champions",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ],
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_crusader",
+            "effect_string": "buff_upgrade,150,11295",
+            "stack_func_data": {"target_filters": [{
+                "stat": "total_ability_score",
+                "comparison": "<=",
+                "type": "stat",
+                "value": 78
+            }]}
+        },
+        {
+            "off_when_benched": true,
+            "valid_for_campaign_ids": [27],
+            "effect_string": "force_allow_hero_by_tag,awfulones"
+        }
+    ],
     "requirements": "",
-    "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Female or Nonbinary Champion in the formation, stacking multiplicatively and applied multiplicatively."},
-    "id": 1486,
+    "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively. In addition, all Awful Ones Champions are available to be used if Wild beyond the Witchlight is the current campaign, even if they do not currently qualify based on variant or patron restrictions."},
+    "id": 1488,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Female or Nonbinary Champions: $num_stacks",
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks",
         "owner_use_outgoing_description": true,
         "type": "upgrade",
         "formation_circle_icon": false
@@ -307,33 +326,27 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <br />
 
 **Specialisation: Powerful Allies** (Guess)
-> Evandra increases the health of all other Champions by `$(amount)%` of her max health, and any healing effect on those Champions is increased by `$(amount___2)%`.
+> Evandra increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Female or Nonbinary Champion in the formation, stacking multiplicatively and applied multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [
-        {
-            "off_when_benched": true,
-            "effect_string": "increase_health_by_source_percent,25",
-            "targets": ["other"]
-        },
-        {
-            "off_when_benched": true,
-            "effect_string": "healing_add_mult,25",
-            "targets": ["other"]
-        }
-    ],
+    "effect_keys": [{
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,11295,female|(!female^!male)"
+    }],
     "requirements": "",
-    "description": {"desc": "$(source_hero) increases the health of all other Champions by $(amount)% of her max health, and any healing effect on those Champions is increased by $(amount___2)%."},
-    "id": 1485,
+    "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Female or Nonbinary Champion in the formation, stacking multiplicatively and applied multiplicatively."},
+    "id": 1486,
     "flavour_text": "",
-    "graphic_id": 19314,
+    "graphic_id": 0,
     "properties": {
-        "indexed_effect_properties": true,
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Female or Nonbinary Champions: $num_stacks",
         "owner_use_outgoing_description": true,
-        "per_effect_index_bonuses": true
+        "type": "upgrade",
+        "formation_circle_icon": false
     }
 }
 </pre>
