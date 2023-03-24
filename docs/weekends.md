@@ -8,10 +8,16 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Feral Moon | 24 March | **Desmond** | Calliope | Nahara | Bruenor | Birdsong | Golden Epic |
+| Feral Moon | 24 March | **Desmond** | Calliope | Nahara | Bruenor | Nova | Golden Epic |
 | Dazzling | 31 March | **DM** | Turiel | Makos | Celeste | Hew Maan | Golden Epic |
 | Starjewel | 07 April | **Miria** | Jarlaxle | Jamilah | Barrowin | Spurt | Golden Epic |
 | Swift & Agile | 14 April | **Jaheira** | Hitch | Valentine | Shandie | Tyril | [Feats](feats.md) |
+| Tenacious Lifter | 21 April | **Birdsong** | Nayeli | Arkhan | Widdle | Gazrick | [Feats](feats.md) |
+| Archmage Darkmagic | 28 April | **Jim** | Bruenor | Makos | Spurt | Barrowin | Golden Epic |
+| Brave & Bold | 05 May | **Antrius** | Calliope | Minsc | Briv | Krydle | Golden Epic |
+| Magical Blades | 12 May | **Shaka** | Celeste | Asharra | Melf | Sentry | Golden Epic |
+| FIREBALL | 19 May | **Nixie** | Jarlaxle | Jamilah | Viconia | Krond | Golden Epic |
+| Magical Transport | 26 May | **DM** | Tyril | Delina | Freely | Deekin | Golden Epic |
 
 [Back to Top](#top)
 

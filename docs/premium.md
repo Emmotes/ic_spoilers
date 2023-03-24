@@ -369,6 +369,48 @@ Contents:
 
 <br />
 
+### Nature Nordom Skin & Feat Pack - $9.99  
+Date of release: 24 May 2023
+
+Contents:
+
+* Champion: `Nordom Whistleklik`
+* Skin: `Nature Nordom`
+* Feat: `Modron Sensibilities` (Nordom)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Nordom Chest` x7 (Shinies x1)
+
+<br />
+
+### Action Figure Strongheart Theme Pack - $24.99  
+Date of release: 28 Jun 2023
+
+Contents:
+
+* Champion: `Strongheart`
+* Skin: `Action Figure Strongheart`
+* Feat: `Selflessness` (Bruenor)
+* Familiar: `Baby Destrier`
+* Chests: `Gold E14Y6 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+
+<br />
+
+### Fighting Pits Tatyana Skin & Feat Pack - $9.99  
+Date of release: 26 Jul 2023
+
+Contents:
+
+* Champion: `Tatyana`
+* Skin: `Fighting Pits Tatyana`
+* Feat: `Prodigal Leader` (Tatyana)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Tatyana Chest` x7 (Shinies x1)
+
+<br />
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*

@@ -22,10 +22,10 @@ Most skins are real money purchases only.
 | Krond | `Scholar` | Scholar Krond Skin & Feat Pack | $9.99 | 17 May 2023 |
 | Evandra | `Witchlight` | ??? | ??? | 24 May 2023 |
 | Mehen | `Proud Papa` | ??? | ??? | 24 May 2023 |
-| Nordom | `Nature` | ??? | ??? | 24 May 2023 |
-| Strongheart | `Action Figure` | ??? | ??? | 24 May 2023 |
+| Nordom | `Nature` | Nature Nordom Skin & Feat Pack | $9.99 | 24 May 2023 |
+| Strongheart | `Action Figure` | Action Figure Strongheart Theme Pack | $24.99 | 24 May 2023 |
 | BBEG | `Witchlight` | ??? | ??? | 07 Jun 2023 |
-| Tatyana | `Fighting Pits` | ??? | ??? | 26 Jul 2023 |
+| Tatyana | `Fighting Pits` | Fighting Pits Tatyana Skin & Feat Pack | $9.99 | 26 Jul 2023 |
 
 [Back to Top](#top)
 

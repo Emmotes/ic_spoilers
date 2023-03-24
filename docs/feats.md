@@ -21,15 +21,15 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Valentine | `Swift` | Stat: +2 Dexterity | Weekend (Guess) | 14 Apr 2023 |
 | Birdsong | `Cat Lord's Blessing` | 80% Chorus of the Lost | 50,000 Gems | 19 Apr 2023 |
 | Birdsong | `Tenacious` | Stat: +2 Constitution | ??? | 21 Apr 2023 |
-| Gazrick | `Heavy Lifter` | Stat: +2 Strength | ??? | 21 Apr 2023 |
+| Gazrick | `Frozen Treat` | 80% Control Weather | ??? | 21 Apr 2023 |
 | Barrowin | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 26 Apr 2023 |
-| Blooshi | `Prodigal Leader` | 50% All Champion Damage | ??? | 26 Apr 2023 |
 | Jim | `For My Next Illusion` | 80% Magic Magic Magic Magic | 50,000 Gems | 26 Apr 2023 |
 | DM | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
 | Omin | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
-| Bruenor | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 17 May 2023 |
 | Krond | `Warrior's Grace` | 120% Self DPS | 50,000 Gems | 17 May 2023 |
+| Mehen | `Proud Papa` | 80% Brimstone Angels | 50,000 Gems | 24 May 2023 |
 | Nordom | `Modron Sensibilities` | 80% Rule of Law | 50,000 Gems | 24 May 2023 |
+| Tatyana | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
 
 [Back to Top](#top)
 
