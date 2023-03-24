@@ -108,11 +108,11 @@ When the Red Wizard Emergence Event ends on April 7th you will no longer be able
 
 #### When is the next Emergence Event?
 
-The next Emergence Event will begin on May 31.
+The next Emergence Event will begin on May 24.
 
 #### How long will the items remain in the Thayan Enclave gem shop?
 
-Items added to the Thayan Enclave gem shop for an Emergence Event will remain available in that shop through the end of the following Emergence Event. So the items we've just added will remain in the shop until the next Emergence Event (scheduled to start May 31st) ends.
+Items added to the Thayan Enclave gem shop for an Emergence Event will remain available in that shop through the end of the following Emergence Event. So the items we've just added will remain in the shop until the next Emergence Event (scheduled to start May 24th) ends.
 
 ## Text Defines
 
