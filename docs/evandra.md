@@ -128,7 +128,10 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <pre>
 {
     "effect_keys": [
-        {"effect_string": "evandra_never_completely_armless"},
+        {
+            "pre_kill_priority": 1000,
+            "effect_string": "evandra_never_completely_armless"
+        },
         {
             "stack_title": "Seconds Armed",
             "manual_stacking": true,
@@ -161,7 +164,7 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <br />
 
 **Find the Secret Stash** (Guess)
-> Increase the formation's gold find by `$(not_buffed amount)%`. Every time a Champion attacks but does not defeat an enemy, increase this bonus by `$(not_buffed amount___2)%`, stacking additively up to `$(max_stacks___2)` times and applying multiplicatively. Bonus resets when an enemy is defeated.
+> Increases the formation's gold find by `$(not_buffed amount)%`. Every time a Champion attacks but does not defeat an enemy, increase this bonus by `$(not_buffed amount___2)%`, stacking additively up to `$(max_stacks___2)` times and applying multiplicatively. This bonus resets when an enemy is defeated.
 >  
 > - Total Gold Find Bonus: `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
@@ -193,7 +196,7 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
             "condition": "not static_desc",
             "desc": "^^Total Gold Find Bonus: $(amount)%"
         }]},
-        "desc": "Increase the formation's gold find by $(not_buffed amount)%. Every time a Champion attacks but does not defeat an enemy, increase this bonus by $(not_buffed amount___2)%, stacking additively up to $(max_stacks___2) times and applying multiplicatively. Bonus resets when an enemy is defeated."
+        "desc": "Increases the formation's gold find by $(not_buffed amount)%. Every time a Champion attacks but does not defeat an enemy, increase this bonus by $(not_buffed amount___2)%, stacking additively up to $(max_stacks___2) times and applying multiplicatively. This bonus resets when an enemy is defeated."
     },
     "id": 1484,
     "flavour_text": "",
@@ -212,7 +215,7 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <br />
 
 **Inspiring Fortitude** (Guess)
-> Evandra increases the health of all other Champions by `$(amount)%` of her max health, and any healing effect on those Champions is increased by `$(amount___2)%`.
+> Evandra increases the health of all other Champions by `$(amount)%` of her max health, and healing effects on all Champions is increased by `$(amount___2)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -226,18 +229,17 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
         {
             "off_when_benched": true,
             "effect_string": "healing_add_mult,25",
-            "targets": ["other"]
+            "targets": ["all"]
         }
     ],
     "requirements": "",
-    "description": {"desc": "$(source_hero) increases the health of all other Champions by $(amount)% of her max health, and any healing effect on those Champions is increased by $(amount___2)%."},
+    "description": {"desc": "$(source_hero) increases the health of all other Champions by $(amount)% of her max health, and healing effects on all Champions is increased by $(amount___2)%."},
     "id": 1485,
     "flavour_text": "",
     "graphic_id": 19314,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
     }
 }
