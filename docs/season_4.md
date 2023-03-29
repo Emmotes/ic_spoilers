@@ -14,11 +14,17 @@ Given the appearance of skins for Companions of the Hall - all called `Mythic` o
 
 ![Season 4 Portrait](images/portrait_s4.png)
 
-No changes worth talking about have been seen in the defines yet - so this is just an educated guess at this point.
+It appears the season will be based around the Companions of the Hall - and peripherally related champions.
 
 {% comment %}
 ![Season 4 Ad Panel](images/s4_adpanel.png)
 {% endcomment %}
+
+# Changes
+
+No changes worth talking about have been seen in the defines yet - so this is just an educated guess at this point.
+
+Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. Making assumptions on how the champions will turn out based on this information would be premature.
 
 [Back to Top](#top)
 
