@@ -8,8 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Calliope | `Red Wizard` | Thayan Enclave (Guess) | ??? | 29 Mar 2023 |
-| Widdle | `Red Wizard` | Thayan Enclave (Guess) | ??? | 29 Mar 2023 |
 | Antrius | `Witchlight` | Witchlight Antrius Theme Pack | $24.99 | 12 Apr 2023 |
 | Gazrick | `Head Chef` | Head Chef Gazrick Skin & Feat Pack | $9.99 | 12 Apr 2023 |
 | Orkira | `Ancient` | Ancient Orkira Skin & Feat Pack | $9.99 | 12 Apr 2023 |

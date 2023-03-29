@@ -10,10 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| Fen | `Wisened Friends` | 80% I've Got You, Friends | Corrupt Gems | 29 Mar 2023 |
-| Hew Maan | `Neverwinter Diversity` | +3 to Hello, Fellow Humans | Corrupt Gems | 29 Mar 2023 |
-| Hitch | `Five Questions` | 80% Ricochet | Corrupt Gems | 29 Mar 2023 |
-| Ulkoria | `Guardian of Waterdeep` | Allowed in all Waterdeep Patrons | ??? | 29 Mar 2023 |
 | Antrius | `Charming and in Charge` | 80% Suave and Sophisticated | 50,000 Gems | 12 Apr 2023 |
 | Gazrick | `Cold Snap` | 80% Frosty Friendship | 50,000 Gems | 12 Apr 2023 |
 | Orkira | `Breath of the Phoenix` | 80% Lesser Restoration | 50,000 Gems | 12 Apr 2023 |

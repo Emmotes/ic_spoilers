@@ -4,42 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Corrupted Gems - Tier 1 - $4.99  
-Date of release: 29 Mar 2023
-
-Contents:
-
-* Corrupted Gems x10,000
-
-<br />
-
-### Corrupted Gems - Tier 2 - $9.99  
-Date of release: 29 Mar 2023
-
-Contents:
-
-* Corrupted Gems x21,000
-
-<br />
-
-### Corrupted Gems - Tier 3 - $19.99  
-Date of release: 29 Mar 2023
-
-Contents:
-
-* Corrupted Gems x44,000
-
-<br />
-
-### Corrupted Gems - Tier 4 - $49.99  
-Date of release: 29 Mar 2023
-
-Contents:
-
-* Corrupted Gems x120,000
-
-<br />
-
 ### A Familiar Quest: The Heroes Bundle Pack - $23.99  
 Date of release: 03 Apr 2023
 
