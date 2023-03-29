@@ -20,11 +20,25 @@ Most skins are real money purchases only.
 | Nixie | `Witchlight` | Witchlight Nixie Theme Pack | $24.99 | 03 May 2023 |
 | Omin | `Lord of Waterdeep` | Lord of Waterdeep Omin Skin & Feat Pack | $9.99 | 03 May 2023 |
 | Krond | `Scholar` | Scholar Krond Skin & Feat Pack | $9.99 | 17 May 2023 |
-| Evandra | `Witchlight` | ??? | ??? | 24 May 2023 |
-| Mehen | `Proud Papa` | ??? | ??? | 24 May 2023 |
+| Antrius | `Modron` | ??? | ??? | 24 May 2023 |
+| Evandra | `Witchlight` | Witchlight Evandra Theme Pack | $24.99 | 24 May 2023 |
+| Mehen | `Proud Papa` | Proud Papa Mehen Skin & Feat Pack | $9.99 | 24 May 2023 |
+| Nixie | `Modron` | ??? | ??? | 24 May 2023 |
 | Nordom | `Nature` | Nature Nordom Skin & Feat Pack | $9.99 | 24 May 2023 |
 | Strongheart | `Action Figure` | Action Figure Strongheart Theme Pack | $24.99 | 24 May 2023 |
+| Kent | `Pride Marshal` | ??? | ??? | 05 Jun 2023 |
+| Virgil | `Pride Marshal` | ??? | ??? | 05 Jun 2023 |
 | BBEG | `Witchlight` | ??? | ??? | 07 Jun 2023 |
+| Artemis | `Mythic` | ??? | ??? | 14 Jun 2023 |
+| Bruenor | `King` | ??? | ??? | 14 Jun 2023 |
+| Pwent | `Mythic` | ??? | ??? | 14 Jun 2023 |
+| Regis | `Mythic` | ??? | ??? | 14 Jun 2023 |
+| Wulfgar | `Mythic` | ??? | ??? | 14 Jun 2023 |
+| Jarlaxle | `Mythic` | ??? | ??? | 22 Jun 2023 |
+| Sgt. Knox | `Mythic` | ??? | ??? | 28 Jun 2023 |
+| Drizzt | `Mythic` | ??? | ??? | 19 Jul 2023 |
+| Pwent | `Vampire` | ??? | ??? | 19 Jul 2023 |
+| Wulfgar | `Frost Reaver` | ??? | ??? | 19 Jul 2023 |
 | Tatyana | `Fighting Pits` | Fighting Pits Tatyana Skin & Feat Pack | $9.99 | 26 Jul 2023 |
 
 [Back to Top](#top)

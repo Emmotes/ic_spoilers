@@ -190,7 +190,7 @@ Date of release: 19 Apr 2023
 
 Contents:
 
-* Familiar: `Twiggy the Blight Blessing`
+* Familiar: `Twiggy the Twig Blessing`
 * Buff: `Huge Potion of Speed` x4
 * Buff: `Huge Potion of Giant's Strength` x4
 * Buff: `Huge Potion of Clairvoyance` x4
@@ -273,7 +273,7 @@ Contents:
 
 * Champion: `Nixie`
 * Skin: `Witchlight Nixie`
-* Feat: `Selflessness` (Bruenor)
+* Feat: ???
 * Familiar: `Dargle-bark the Bearowl`
 * Chests: `Gold Nixie Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
@@ -380,6 +380,34 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Nordom Chest` x7 (Shinies x1)
+
+<br />
+
+### Proud Papa Mehen Skin & Feat Pack - $9.99  
+Date of release: 24 May 2023
+
+Contents:
+
+* Champion: `Verthisathurgiesh Mehen`
+* Skin: `Proud Papa Mehen`
+* Feat: `Proud Papa` (Mehen)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Mehen Chest` x7 (Shinies x1)
+
+<br />
+
+### Witchlight Evandra Theme Pack - $24.99  
+Date of release: 24 May 2023
+
+Contents:
+
+* Champion: `Evandra`
+* Skin: `Witchlight Evandra`
+* Feat: ???
+* Familiar: `Meatshield the Fey Lion`
+* Chests: `Gold Evandra Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
 
 <br />
 
