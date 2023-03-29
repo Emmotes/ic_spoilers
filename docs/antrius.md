@@ -66,7 +66,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 </details>
 <br />
 
-**Ultimate Attack: Cloud of Daggers** (Level: 30)
+**Ultimate Attack: Cloud of Daggers** (Level: 350)
 > Antrius takes a hand mirror out and smiles into it, causing it to shatter. Shards of glass fly out towards the enemy with the most health forming a cloud upon reaching the target. The cloud deals ongoing damage for 10 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -152,14 +152,14 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 </details>
 <br />
 
-**Inspiring Song** (Level: 5)
+**Inspiring Song** (Level: 40)
 > Antrius inspires each adjacent Champion giving them 10 temporary hit points every 5 seconds and increasing their damage by 100%. Any Champion with a Charisma score of 17 or higher further inspires all unaffected adjacent Champions, and this continues to cascade. Antrius' song is so inspiring that he also inspires himself. The total shield amount on each Champion is limited to 10 times the Champion's max health.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 5,
+    "required_level": 40,
     "effect": "effect_def,1462",
     "tip_text": "Antrius protects and buffs adjacent Champions.",
     "name": "Inspiring Song",
@@ -245,14 +245,14 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 </details>
 <br />
 
-**The Hardiest, Bardiest Bard** (Level: 10)
+**The Hardiest, Bardiest Bard** (Level: 110)
 > Antrius increases Inspiring Song's temporary hit point bonus by 100% for each Champion affected by it, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 10,
+    "required_level": 110,
     "effect": "effect_def,1463",
     "tip_text": "Inspiring Song is buffed based on the number of Champions affected by it. Use Charismatic champions to spread and buff it.",
     "name": "The Hardiest, Bardiest Bard",
@@ -290,14 +290,14 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 </details>
 <br />
 
-**Suave and Sophisticated** (Level: 15)
+**Suave and Sophisticated** (Level: 160)
 > Antrius increases Inspiring Song's damage bonus by 100% for each Champion affected by it, stacking multiplicatively. Buffs apply to the pre-stack value.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 15,
+    "required_level": 160,
     "effect": "effect_def,1464",
     "name": "Suave and Sophisticated",
     "id": 10796,
@@ -341,14 +341,14 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 </details>
 <br />
 
-**Can't be De-Feat-ed** (Level: 20)
-> Antrius increases Inspiring Song's damage bonus by 100% for each feat your Champions have unlocked, stacking additively.
+**Can't be De-Feat-ed** (Level: 200)
+> Antrius increases Inspiring Song's damage bonus by 10% for each feat your Champions have unlocked, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 20,
+    "required_level": 200,
     "effect": "effect_def,1465",
     "name": "Can't be De-Feat-ed",
     "id": 10797,
@@ -364,7 +364,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
         "show_bonus": true,
         "amount_func": "add",
         "stack_func": "per_feat",
-        "effect_string": "buff_upgrade,100,10794,0"
+        "effect_string": "buff_upgrade,10,10794,0"
     }],
     "requirements": "",
     "description": {"desc": "$(source_hero) increases $(upgrade_name id)'s damage bonus by $(amount)% for each feat your Champions have unlocked, stacking additively."},
@@ -383,7 +383,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 
 # Specialisations
 
-**Bard College** (Level: 25)
+**Bard College** (Level: 300)
 > Antrius increases Inspiring Song's damage bonus by 200% for each Bard in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -391,7 +391,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 {
     "static_dps_mult": null,
     "specialization_name": "Bard College",
-    "required_level": 25,
+    "required_level": 300,
     "effect": "effect_def,1466",
     "name": "Bard College",
     "specialization_graphic_id": 18686,
@@ -426,7 +426,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 </details>
 <br />
 
-**The "A" In Chaotic Is For Antrius** (Level: 25)
+**The "A" In Chaotic Is For Antrius** (Level: 300)
 > Antrius increases Inspiring Song's damage bonus by 100% for each Chaotic Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -434,7 +434,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 {
     "static_dps_mult": null,
     "specialization_name": "The \"A\" In Chaotic Is For Antrius",
-    "required_level": 25,
+    "required_level": 300,
     "effect": "effect_def,1468",
     "name": "The \"A\" In Chaotic Is For Antrius",
     "specialization_graphic_id": 18687,
@@ -469,7 +469,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 </details>
 <br />
 
-**Truly Awful Stats** (Level: 25)
+**Truly Awful Stats** (Level: 300)
 > Antrius increases Inspiring Song's damage bonus by 150% for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -477,7 +477,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 {
     "static_dps_mult": null,
     "specialization_name": "Truly Awful Stats",
-    "required_level": 25,
+    "required_level": 300,
     "effect": "effect_def,1467",
     "name": "Truly Awful Stats",
     "specialization_graphic_id": 18688,
