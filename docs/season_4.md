@@ -14,7 +14,7 @@ Given the appearance of skins for Companions of the Hall - all called `Mythic` o
 
 ![Season 4 Portrait](images/portrait_s4.png)
 
-It appears the season will be based around the Companions of the Hall - and peripherally related champions.
+It appears the season will be based around the Companions of the Hall - and peripherally related champions. Specifically Regis Artemis Pwent Catti-brie and Wulfgar.
 
 {% comment %}
 ![Season 4 Ad Panel](images/s4_adpanel.png)
