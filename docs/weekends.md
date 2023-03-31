@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Dazzling | 31 March | **DM** | Turiel | Makos | Celeste | Hew Maan | Golden Epic |
 | Starjewel | 07 April | **Miria** | Jarlaxle | Jamilah | Barrowin | Spurt | Golden Epic |
 | Swift & Agile | 14 April | **Jaheira** | Hitch | Valentine | Shandie | Tyril | [Feats](feats.md) |
 | Tenacious Lifter | 21 April | **Birdsong** | Nayeli | Arkhan | Widdle | Gazrick | [Feats](feats.md) |
