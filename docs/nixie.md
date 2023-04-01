@@ -110,6 +110,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </p>
 </details>
 <br />
+
 **Base Attack: Potted Plant** (Magic)
 > Nixie is currently a plant and cannot attack.
 <details><summary><em>Raw Data</em></summary>
