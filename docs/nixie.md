@@ -624,6 +624,12 @@ Unknown.
 
 ![Console Portrait](images/console_nixie.png)
 
+# Chests
+
+| Gold | Silver |
+|---|---|
+| ![Gold Chest](images/chest_nixie_gold.png) | ![Silver Chest](images/chest_nixie_silver.png) |
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*

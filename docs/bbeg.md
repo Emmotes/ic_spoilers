@@ -90,6 +90,14 @@ Unknown.
 ![Console Portrait](images/console_bbeg.png)
 {% endcomment %}
 
+{% comment %}
+# Chests
+
+| Gold | Silver |
+|---|---|
+| ![Gold Chest](images/chest_bbeg_gold.png) | ![Silver Chest](images/chest_bbeg_silver.png) |
+{% endcomment %}
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*

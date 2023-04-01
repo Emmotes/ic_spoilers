@@ -379,6 +379,12 @@ Unknown.
 
 ![Console Portrait](images/console_evandra.png)
 
+# Chests
+
+| Gold | Silver |
+|---|---|
+| ![Gold Chest](images/chest_evandra_gold.png) | ![Silver Chest](images/chest_evandra_silver.png) |
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*

@@ -650,6 +650,12 @@ Black Viper: 6 / 6
 
 ![Console Portrait](images/console_antrius.png)
 
+# Chests
+
+| Gold | Silver |
+|---|---|
+| ![Gold Chest](images/chest_antrius_gold.png) | ![Silver Chest](images/chest_antrius_silver.png) |
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
