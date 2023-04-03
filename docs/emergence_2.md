@@ -2,7 +2,7 @@
 
 # Emergence 2
 
-Very little is known about the next emergence event so far. All we know is that it will start on 24 May 2023 and that the enemies needed to farm will likely be Modrons.
+Very little is known about the next emergence event so far. All we know is that it will probably start on 24 May 2023 and that the enemies needed to farm will likely be Modrons.
 
 ### Modron Emergence Chest Icons
 
