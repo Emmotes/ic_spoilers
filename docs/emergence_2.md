@@ -8,7 +8,7 @@ Very little is known about the next emergence event so far. All we know is that 
 
 | Shop | Inventory |
 |---|---|
-| ![Shop Modron Emergence Chest Icon](images/emergence_2chest.png) | ![Inventory Modron Emergence Chest Icon](images/emergence_2chestInv.png) |
+| ![Shop Modron Emergence Chest Icon](images/emergence_2_chest.png) | ![Inventory Modron Emergence Chest Icon](images/emergence_2_chestInv.png) |
 
 [Back to Top](#top)
 
