@@ -4,65 +4,6 @@
 
 Upcoming real-money shop items.
 
-### A Familiar Quest: The Heroes Bundle Pack - $23.99  
-Date of release: 03 Apr 2023
-
-Contents:
-
-* Familiar: `Disco the Fractal Mascot`
-* Familiar: `Scotty the Blink Dog`
-* Familiar: `Squiddle the Elder Godling`
-* Buff: `Huge Potion of Speed` x12
-* Buff: `Huge Potion of Giant's Strength` x12
-* Buff: `Huge Potion of Clairvoyance` x12
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x2
-
-<br />
-
-### Disco the Fractal Mascot Familiar Pack - $4.99  
-Date of release: 03 Apr 2023
-
-Contents:
-
-* Familiar: `Disco the Fractal Mascot`
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-
-<br />
-
-### Scotty the Blink Dog Familiar Pack - $9.99  
-Date of release: 03 Apr 2023
-
-Contents:
-
-* Familiar: `Scotty the Blink Dog`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-
-<br />
-
-### Squiddle the Elder Godling Familiar Pack - $14.99  
-Date of release: 03 Apr 2023
-
-Contents:
-
-* Familiar: `Squiddle the Elder Godling`
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-
-<br />
-
 ### Celeste Starter Pack - $9.99  
 Date of release: 05 Apr 2023
 
