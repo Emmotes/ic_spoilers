@@ -16,6 +16,8 @@ Very little is known about the next emergence event so far. All we know is that 
 * Chest: Modron Emergence Chest (Guess)
 * Chest: (Extras Unknown)
 
+The contents of the `Modron Emergence Chest` are as yet unknown.
+
 ### Modron Emergence Chest Icons
 
 | Shop | Inventory |
