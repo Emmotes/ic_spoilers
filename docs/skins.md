@@ -18,10 +18,10 @@ Most skins are real money purchases only.
 | Nixie | `Witchlight` | Witchlight Nixie Theme Pack | $24.99 | 03 May 2023 |
 | Omin | `Lord of Waterdeep` | Lord of Waterdeep Omin Skin & Feat Pack | $9.99 | 03 May 2023 |
 | Krond | `Scholar` | Scholar Krond Skin & Feat Pack | $9.99 | 17 May 2023 |
-| Antrius | `Modron` | ??? | ??? | 24 May 2023 |
+| Antrius | `Modron` | Emergence 2 (Guess) | ??? | 24 May 2023 |
 | Evandra | `Witchlight` | Witchlight Evandra Theme Pack | $24.99 | 24 May 2023 |
 | Mehen | `Proud Papa` | Proud Papa Mehen Skin & Feat Pack | $9.99 | 24 May 2023 |
-| Nixie | `Modron` | ??? | ??? | 24 May 2023 |
+| Nixie | `Modron` | Emergence 2 (Guess) | ??? | 24 May 2023 |
 | Nordom | `Nature` | Nature Nordom Skin & Feat Pack | $9.99 | 24 May 2023 |
 | Strongheart | `Action Figure` | Action Figure Strongheart Theme Pack | $24.99 | 24 May 2023 |
 | Kent | `Pride Marshal` | ??? | ??? | 05 Jun 2023 |
