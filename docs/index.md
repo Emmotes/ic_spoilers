@@ -26,6 +26,7 @@ These are the champions that are upcoming and all the information we know about 
 Miscellaneous spoilers.
 
 * [Season 4](season_4.md) - 21 June 2023 (Guess)
+* [Emergence 2](emergence_2.md) - 24 May 2023 (Guess)
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
