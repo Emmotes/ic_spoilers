@@ -179,6 +179,7 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
         {
             "stack_title": "Stacks",
             "stacks_multiply": false,
+            "total_title": "Stack Bonus",
             "off_when_benched": true,
             "show_bonus": true,
             "effect_string": "buff_upgrade,50,11297,0",
