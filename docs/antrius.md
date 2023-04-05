@@ -631,6 +631,7 @@ Black Viper: 6 / 6
       Minsc: 4 / 6
       NERDS: 4 / 6
      Nahara: 6 / 6
+      Nixie: 6 / 6
       Nrakk: 3 / 6
      Orisha: 5 / 6
    Prudence: 6 / 6
