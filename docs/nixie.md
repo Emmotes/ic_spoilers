@@ -27,6 +27,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 | Intelligence | 3 | - | Zariel (with Feat) |
 | Wisdom | 8 | - | |
 | Charisma | 20 | Yes | |
+| Total | 70 | |
 
 # Formation
 
@@ -759,7 +760,7 @@ This list will only show feats that are going to be available on the release of 
 | `Charismatic Devastation` | 40% Blazing Charisma | 12,500 Gems |
 | `Enlarge` | 40% Gigantic Growth | 12,500 Gems |
 | `Immolation` | 1s BUD per sec for 5s | 50,000 Gems |
-| `Fired Up` | 20% Infernal Impact, Flawed Force and Anarchy Amplified | Gold Chest |
+| `Fired Up` | 20% All Specialisations | Gold Chest |
 
 # Legendaries
 

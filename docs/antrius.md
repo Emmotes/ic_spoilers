@@ -27,6 +27,7 @@ Antrius will be the new champion in the Greengrass event on 12 April 2023.
 | Intelligence | 10 | Yes | Zariel |
 | Wisdom | 12 | Yes | |
 | Charisma | 18 | Yes | |
+| Total | 77 | |
 
 # Formation
 
