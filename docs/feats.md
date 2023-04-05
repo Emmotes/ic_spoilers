@@ -21,6 +21,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Barrowin | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 26 Apr 2023 |
 | Jim | `For My Next Illusion` | 80% Magic Magic Magic Magic | 50,000 Gems | 26 Apr 2023 |
 | DM | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
+| Nixie | `Immolation` | 1s BUD per sec for 5s | 50,000 Gems | 03 May 2023 |
 | Omin | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
 | Krond | `Warrior's Grace` | 120% Self DPS | 50,000 Gems | 17 May 2023 |
 | Mehen | `Proud Papa` | 80% Brimstone Angels | 50,000 Gems | 24 May 2023 |
@@ -28,6 +29,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Tatyana | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
 | Antrius | `The Bard Spittin' Bars` | 40% Can't be De-Feat-ed | 12,500 Gems | 13 Sep 2023 |
 | Nayeli | `Taunt` | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
+| Nixie | `Heavy Lifter` | Stat: +2 Strength | 50,000 Gems | 13 Sep 2023 |
 | Selise | `Sentinel` | +20 Overwhelm | 50,000 Gems | 13 Sep 2023 |
 
 [Back to Top](#top)

@@ -178,7 +178,7 @@ Contents:
 
 * Champion: `Nixie`
 * Skin: `Witchlight Nixie`
-* Feat: ???
+* Feat: `Immolation` (Nixie)
 * Familiar: `Dargle-bark the Bearowl`
 * Chests: `Gold Nixie Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
