@@ -28,8 +28,10 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Nordom | `Modron Sensibilities` | 80% Rule of Law | 50,000 Gems | 24 May 2023 |
 | Tatyana | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
 | Antrius | `The Bard Spittin' Bars` | 40% Can't be De-Feat-ed | 12,500 Gems | 13 Sep 2023 |
+| Merilwen | `Puntastic` | 40% Punishing Puns | 12,500 Gems | 13 Sep 2023 |
 | Nayeli | `Taunt` | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
 | Nixie | `Heavy Lifter` | Stat: +2 Strength | 50,000 Gems | 13 Sep 2023 |
+| Nordom | `New Speech Pattern` | 40% Modron Core Toolbox | 12,500 Gems | 13 Sep 2023 |
 | Selise | `Sentinel` | +20 Overwhelm | 50,000 Gems | 13 Sep 2023 |
 
 [Back to Top](#top)
