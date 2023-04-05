@@ -4,36 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Celeste Starter Pack - $9.99  
-Date of release: 05 Apr 2023
-
-Contents:
-
-* Chests: `Gold Chest (Guess)` x5 (Shinies x1)
-* Loot: `Ornate Headband of Faith` (Celeste Slot 1  Golden Epic)
-* Loot: `Golden Gauntlets` (Celeste Slot 2  Rare)
-* Loot: `Thick Scalemail Belt` (Celeste Slot 3  Rare)
-* Loot: `Copper Amulet` (Celeste Slot 4  Rare)
-* Loot: `Chainmail Boots` (Celeste Slot 5  Rare)
-* Loot: `Ornate Holy Symbol` (Celeste Slot 6  Rare)
-
-<br />
-
-### Nayeli Starter Pack - $9.99  
-Date of release: 05 Apr 2023
-
-Contents:
-
-* Chests: `Gold Chest (Guess)` x5 (Shinies x1)
-* Loot: `Figurine Of Wondrous Power` (Nayeli Slot 1  Golden Epic)
-* Loot: `Ornate Breastplate` (Nayeli Slot 2  Rare)
-* Loot: `Dwarven Mithral Shirt` (Nayeli Slot 3  Rare)
-* Loot: `Paladin's Gauntlets` (Nayeli Slot 4  Rare)
-* Loot: `Devoted Holy Symbol` (Nayeli Slot 5  Rare)
-* Loot: `Strong Magical Greatsword` (Nayeli Slot 6  Rare)
-
-<br />
-
 ### Ancient Orkira Skin & Feat Pack - $9.99  
 Date of release: 12 Apr 2023
 
