@@ -155,16 +155,6 @@ Unknown.
 </details>
 <br />
 
-**Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-<br />
-
 # Specialisations
 
 **Specialisation: Min Maxing**
