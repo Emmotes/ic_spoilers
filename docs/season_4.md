@@ -171,7 +171,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Mark for Death** (Guess)
-> Enemies hit by `$source`'s arrows are Marked and take additional damage equal to `$source`'s critical hit damage bonus until the enemy is defeated.
+> Enemies hit by Catti-brie's arrows are Marked and take additional damage equal to Catti-brie's critical hit damage bonus until the enemy is defeated.
 >  
 > - Base Damage Bonus: `$(cattibrie_mark_for_death_debuff_amount)%`.
 <details><summary><em>Raw Data</em></summary>
@@ -235,7 +235,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Death March** (Guess)
-> `$source increases the damage of herself and all Champions in front of her in the formation by ``$(not_buffed amount)%` each time she gets a critical hit, stacking multiplicatively up to `$(max_stacks)` times and resetting when she changes areas.
+> Catti-brie increases the damage of herself and all Champions in front of her in the formation by `$(not_buffed amount)%` each time she gets a critical hit, stacking multiplicatively up to `$(max_stacks)` times and resetting when she changes areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -265,7 +265,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Mithral Hall** (Guess)
-> Your formation gains one Mithral Hall stack. `$source increases the damage bonus of ``$(upgrade_name id)` by `$(not_buffed amount)%` for each Mithral Hall stack you have, stacking multiplicatively.
+> Your formation gains one Mithral Hall stack. Catti-brie increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Mithral Hall stack you have, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -311,7 +311,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Piercing Arrow** (Guess)
-> `$source`'s damage is increased by `$(amount)%` and her arrows hit all enemies on their way to their target. Each enemy hit has a separate chance of being a critical hit.
+> Catti-brie's damage is increased by `$(amount)%` and her arrows hit all enemies on their way to their target. Each enemy hit has a separate chance of being a critical hit.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
