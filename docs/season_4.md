@@ -14,9 +14,7 @@ Given the appearance of skins for Companions of the Hall - most called `Mythic` 
 
 ![Season 4 Portrait](images/portrait_s4.png)
 
-It appears the season will be based around the Companions of the Hall - and peripherally related champions - as evidenced by the `Gold Mithral Hall Chest` in the defines. These chests will give items for Bruenor Regis Catti-brie Drizzt and Wulfgar - meaning they will likely be the seasonal champions.
-
-*Note: Do **NOT** expect Bruenor or Drizzt to get a full dismantle.*
+It appears the season will be based around the Companions of the Hall - and peripherally related champions. Specifically Regis Artemis Pwent Catti-brie and Wulfgar.
 
 {% comment %}
 ![Season 4 Ad Panel](images/s4_adpanel.png)
