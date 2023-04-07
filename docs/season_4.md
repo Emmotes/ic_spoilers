@@ -170,7 +170,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Marked for Death** (Guess)
+**Mark for Death** (Guess)
 > Enemies hit by `$source`'s arrows are Marked and take additional damage equal to `$source`'s critical hit damage bonus until the enemy is defeated.
 >  
 > - Base Damage Bonus: `$(cattibrie_mark_for_death_debuff_amount)%`.
@@ -310,7 +310,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Piercing Arrow** (Guess)
+**Specialisation: Piercing Arrow** (Guess)
 > `$source`'s damage is increased by `$(amount)%` and her arrows hit all enemies on their way to their target. Each enemy hit has a separate chance of being a critical hit.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -341,7 +341,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > Increase the base effect of `$(upgrade_name id)` to `$(amt)%` per stack and you only lose half of your existing stacks when changing areas instead of all of them.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -378,7 +378,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > Additively increase the critical hit chance of all Companions of the Hall Champions by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
