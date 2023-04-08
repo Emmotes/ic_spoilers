@@ -21,10 +21,10 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 
 | Stat | Value | Day 1 Trials | Patrons |
 |---|---|---|---|
-| Strength | 8 | Yes (with Feat) | - |
+| Strength | 8 | - | - |
 | Dexterity | 14 | Yes | Vajra |
 | Constitution | 17 | Yes | - |
-| Intelligence | 3 | - | Zariel (with Feat) |
+| Intelligence | 3 | - | - |
 | Wisdom | 8 | - | |
 | Charisma | 20 | Yes | |
 | Total | 70 | |
