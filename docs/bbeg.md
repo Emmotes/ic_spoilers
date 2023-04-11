@@ -1,25 +1,23 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![PC Portrait](images/portrait_bbeg.png)
-{% endcomment %}
 
 # BBEG
 
-This will likely be "BBEG" from an episode of the 1 for All sketch show but it's too soon to know for sure.
+This is Big Bad Evil Guy from the 1 for All sketch show of the same name.
 
 # Basic Information
 
 BBEG will be the new champion in the Dragondown event on 7 June 2023.
 
 * Seat: Unknown
-* Race: Unknown
-* Class: Unknown
+* Race: Drow Elf (Guess)
+* Class: Wizard (Guess)
 * Roles: Unknown
 * Age: Unknown
-* Gender: Unknown
+* Gender: Male (Guess)
 * Alignment: Unknown
-* Affiliation: Unknown
+* Affiliation: Awful Ones (Guess)
 * Stats: Unknown
 
 # Formation
@@ -233,11 +231,9 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Console Portrait
 
 ![Console Portrait](images/console_bbeg.png)
-{% endcomment %}
 
 {% comment %}
 # Chests
