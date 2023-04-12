@@ -8,9 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Antrius | `Witchlight` | Witchlight Antrius Theme Pack | $24.99 | 12 Apr 2023 |
-| Gazrick | `Head Chef` | Head Chef Gazrick Skin & Feat Pack | $9.99 | 12 Apr 2023 |
-| Orkira | `Ancient` | Ancient Orkira Skin & Feat Pack | $9.99 | 12 Apr 2023 |
 | Birdsong | `Ancient` | Ancient Birdsong Skin & Feat Pack | $9.99 | 19 Apr 2023 |
 | Barrowin | `Lawbringer` | Lawbringer Barrowin Skin & Feat Pack | $9.99 | 26 Apr 2023 |
 | Jim | `Clone Lich` | Clone Lich Jim Skin & Feat Pack | $9.99 | 26 Apr 2023 |

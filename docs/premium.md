@@ -4,48 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Ancient Orkira Skin & Feat Pack - $9.99  
-Date of release: 12 Apr 2023
-
-Contents:
-
-* Champion: `Orkira Illdrex`
-* Skin: `Ancient Orkira`
-* Feat: `Breath of the Phoenix` (Orkira)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Orkira Chest` x7 (Shinies x1)
-
-<br />
-
-### Head Chef Gazrick Skin & Feat Pack - $9.99  
-Date of release: 12 Apr 2023
-
-Contents:
-
-* Champion: `Gazrick Nomrad`
-* Skin: `Head Chef Gazrick`
-* Feat: `Cold Snap` (Gazrick)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Gazrick Chest` x7 (Shinies x1)
-
-<br />
-
-### Witchlight Antrius Theme Pack - $24.99  
-Date of release: 12 Apr 2023
-
-Contents:
-
-* Champion: `Antrius`
-* Skin: `Witchlight Antrius`
-* Feat: `Charming and in Charge` (Antrius)
-* Familiar: `Cymbals the Monkey`
-* Chests: `Gold Antrius Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
 ### Ancient Birdsong Skin & Feat Pack - $9.99  
 Date of release: 19 Apr 2023
 
