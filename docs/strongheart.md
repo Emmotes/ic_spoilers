@@ -1,7 +1,7 @@
 [Back to Main](index.md)
 
 {% comment %}
-![PC Portrait](images/portrait_strongheart.png)
+![PC Portrait](images/strongheart_portrait.png)
 {% endcomment %}
 
 # Strongheart
@@ -29,7 +29,7 @@ Strongheart will be the new champion in the Founder's Day event on 28 June 2023.
 
 Unknown.
 {% comment %}
-![Formation Layout](images/formation_strongheart.png)
+![Formation Layout](images/strongheart_formation.png)
 {% endcomment %}
 
 # Abilities
@@ -90,7 +90,7 @@ Unknown.
 {% comment %}
 # Console Portrait
 
-![Console Portrait](images/console_strongheart.png)
+![Console Portrait](images/strongheart_console.png)
 {% endcomment %}
 
 {% comment %}
@@ -98,7 +98,7 @@ Unknown.
 
 | Gold | Silver |
 |---|---|
-| ![Gold Chest](images/chest_strongheart_gold.png) | ![Silver Chest](images/chest_strongheart_silver.png) |
+| ![Gold Chest](images/strongheart_chest_gold.png) | ![Silver Chest](images/strongheart_chest_silver.png) |
 {% endcomment %}
 
 [Back to Top](#top)

@@ -10,7 +10,7 @@ The expected start date for season 4 is 21 June 2023.
 
 # Theme
 
-![Season 4 Portrait](images/portrait_s4.png)
+![Season 4 Portrait](images/season_s4_portrait.png)
 
 With the presence of the `Season 4 Chests` in the defines - giving gear for Regis Catti-brie Wulfgar Pwent and Artemis - it's clear season 4 will be for Companions of the Hall and peripherally related champions. Given that there are also a bunch of `Mythic` skins for most of them - it's as certain as a spoiler can be that they'll be the season champions.
 
@@ -26,7 +26,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Catti-brie
 
-![Catti-brie Portrait](images/season_catti-brie.png)
+![Catti-brie Portrait](images/season_s4_catti-brie.png)
 
 **Base Attack: Long Shot**
 > Catti-brie shoots the farthest enemy with her bow.

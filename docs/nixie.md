@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![PC Portrait](images/portrait_nixie.png)
+![PC Portrait](images/nixie_portrait.png)
 
 # Nixie
 
@@ -31,7 +31,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 
 # Formation
 
-![Formation Layout](images/formation_nixie.png)
+![Formation Layout](images/nixie_formation.png)
 
 # Abilities
 
@@ -817,13 +817,13 @@ Black Viper: 6 / 6
 
 # Console Portrait
 
-![Console Portrait](images/console_nixie.png)
+![Console Portrait](images/nixie_console.png)
 
 # Chests
 
 | Gold | Silver |
 |---|---|
-| ![Gold Chest](images/chest_nixie_gold.png) | ![Silver Chest](images/chest_nixie_silver.png) |
+| ![Gold Chest](images/nixie_chest_gold.png) | ![Silver Chest](images/nixie_chest_silver.png) |
 
 [Back to Top](#top)
 
