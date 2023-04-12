@@ -35,7 +35,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 
 # Abilities
 
-**Base Attack: Fireball?** (Magic)
+![Magic Icon](images/icon_magic.png) **Base Attack: Fireball?** (Magic)
 > Nixie attacks with a ball of fire centered on a random target dealing 1 hit of damage to all enemies in a small radius.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -118,7 +118,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-**Base Attack: Potted Plant** (Magic)
+![Magic Icon](images/icon_magic.png) **Base Attack: Potted Plant** (Magic)
 > Nixie is currently a plant and cannot attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -152,7 +152,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-**Ultimate Attack: FIREBALL!!!** (Level: 150)
+![FIREBALL!!! Icon](images/nixie_fireball.png) **Ultimate Attack: FIREBALL!!!** (Level: 150)
 > Nixie casts a gigantic fireball that engulfs the entire enemy's side of the screen, dealing 1 ultimate hit to all enemies. In addition, there is a 10% chance for each monster hit by this attack to be surrounded by Engulfing Flames.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -230,7 +230,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-**Blazing Charisma** (Level: 30)
+![Blazing Charisma Icon](images/nixie_blazingcharisma.png) **Blazing Charisma** (Level: 30)
 > Nixie increases the damage of all Champions with a Charisma of 17+ by 100%, including herself.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -270,7 +270,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-**Wild Magic Surge** (Level: 100)
+![Wild Magic Surge Icon](images/nixie_wildmagicsurge.png) **Wild Magic Surge** (Level: 100)
 > Each time Nixie makes a normal attack, there is a high chance that a random wild magic event happens.
 >  
 > - Engulfing Flames - Nixie lights the area of her attack on fire for 20 seconds. While lit, it deals 1s of BUD to enemies in the effect each second.
@@ -505,7 +505,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-**Gigantic Growth** (Level: 200)
+![Gigantic Growth Icon](images/nixie_giganticgrowth.png) **Gigantic Growth** (Level: 200)
 > Increases the damage bonus of Wild Magic Surge: Potted Punch by 100% and Wild Magic Surge: Enlarge by 100%
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -545,7 +545,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 
 # Specialisations
 
-**Anarchy Amplified** (Level: 130)
+![Anarchy Amplified Icon](images/nixie_anarchyamplified.png) **Anarchy Amplified** (Level: 130)
 > Nixie increases the damage bonus of Blazing Charisma by 100% for each Chaotic champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -588,7 +588,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-**Flawed Force** (Level: 130)
+![Flawed Force Icon](images/nixie_flawedforce.png) **Flawed Force** (Level: 130)
 > Nixie increases the damage bonus of Blazing Charisma by 150% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -643,7 +643,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-**Infernal Impact** (Level: 130)
+![Infernal Impact Icon](images/nixie_infernalimpact.png) **Infernal Impact** (Level: 130)
 > Nixie increases the damage bonus of Blazing Charisma by 200% for each Tiefling champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
