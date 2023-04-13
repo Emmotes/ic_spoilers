@@ -688,14 +688,14 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 
 # Items
 
-| Slot | Epic Name | Type |
-|---|---|---|
-| 1 | `Fireproof Arm Coverings` | All Champion Damage |
-| 2 | `Magic Cloak` | All Champion Damage |
-| 3 | `Scorching Brooch` | Blazing Charisma |
-| 4 | `Fancy Noisemaker` | Gigantic Growth |
-| 5 | `Talisman of Fireball` | All Specialisations |
-| 6 | `Pyromancer's Holster` | Ultimate Cooldown Reduction |
+| Icon | Slot | Epic Name | Type |
+|:-:|---|---|---|
+| ![Fireproof Arm Coverings Icon](images/nixie_item_1.png) | 1 | `Fireproof Arm Coverings` | All Champion Damage |
+| ![Magic Cloak Icon](images/nixie_item_2.png) | 2 | `Magic Cloak` | All Champion Damage |
+| ![Scorching Brooch Icon](images/nixie_item_3.png) | 3 | `Scorching Brooch` | Blazing Charisma |
+| ![Fancy Noisemaker Icon](images/nixie_item_4.png) | 4 | `Fancy Noisemaker` | Gigantic Growth |
+| ![Talisman of Fireball Icon](images/nixie_item_5.png) | 5 | `Talisman of Fireball` | All Specialisations |
+| ![Pyromancer's Holster Icon](images/nixie_item_6.png) | 6 | `Pyromancer's Holster` | Ultimate Cooldown Reduction |
 
 <details><summary><em>Item Names and Descriptions</em></summary>
 <p>
