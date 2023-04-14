@@ -10,8 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| Jaheira | `Swift` | Stat: +2 Dexterity | Weekend (Guess) | 14 Apr 2023 |
-| Valentine | `Swift` | Stat: +2 Dexterity | Weekend (Guess) | 14 Apr 2023 |
 | Birdsong | `Cat Lord's Blessing` | 80% Chorus of the Lost | 50,000 Gems | 19 Apr 2023 |
 | Birdsong | `Tenacious` | Stat: +2 Constitution | Weekend (Guess) | 21 Apr 2023 |
 | Gazrick | `Frozen Treat` | 80% Control Weather | Weekend (Guess) | 21 Apr 2023 |
@@ -23,6 +21,14 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Krond | `Warrior's Grace` | 120% Self DPS | 50,000 Gems | 17 May 2023 |
 | Mehen | `Proud Papa` | 80% Brimstone Angels | 50,000 Gems | 24 May 2023 |
 | Nordom | `Modron Sensibilities` | 80% Rule of Law | 50,000 Gems | 24 May 2023 |
+| Nrakk | `Entertainer` | Stat: +2 Charisma | ??? | 24 May 2023 |
+| Kent | `Ghosts of the Past` | 80% Remembering the Old Days | 50,000 Gems | 05 Jun 2023 |
+| Virgil | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 05 Jun 2023 |
+| Selise | `Shield Throw` | 80% Shield of Psychomancy | 50,000 Gems | 07 Jun 2023 |
+| Ishi | `Creature Squad` | 80% Monsters are People Too! | 50,000 Gems | 21 Jun 2023 |
+| Sgt. Knox | `Rally of the Protectors` | 80% Rallying Cry | 50,000 Gems | 28 Jun 2023 |
+| Freely | `Fortune's Favor` | 50% Gold | 50,000 Gems | 12 Jul 2023 |
+| Drizzt | `Guardian of the Hall` | +2 Mithral Hall Stacks | 50,000 Gems | 19 Jul 2023 |
 | Tatyana | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
 | Antrius | `The Bard Spittin' Bars` | 40% Can't be De-Feat-ed | 12,500 Gems | 13 Sep 2023 |
 | Merilwen | `Puntastic` | 40% Punishing Puns | 12,500 Gems | 13 Sep 2023 |
