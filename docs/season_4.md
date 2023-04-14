@@ -2,7 +2,7 @@
 
 # Index
 
-* [Season 4](#season-4
+* [Season 4](#season-4)
 * [Theme](#theme)
 * [Changes](#changes)
 * [Catti-Brie](#catti-brie)
