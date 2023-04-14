@@ -1,5 +1,17 @@
 [Back to Main](index.md)
 
+# Index
+
+* [Season 4](#season-4
+* [Theme](#theme)
+* [Changes](#changes)
+* [Catti-Brie](#catti-brie)
+* [Pwent](#pwent)
+* [Regis](#regis)
+* [Wulfgar](#wulfgar)
+* [Bruenor](#bruenor)
+* [Drizzt](#drizzt)
+
 # Season 4
 
 {% comment %}
