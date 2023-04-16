@@ -278,7 +278,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Mithral Hall** (Guess)
+**Mark of the Hall** (Guess)
 > Your formation gains one Mithral Hall stack. Catti-brie increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Mithral Hall stack you have, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -355,7 +355,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Specialisation: Unknown** (Guess)
+**Specialisation: Big Push** (Guess)
 > Increase the base effect of `$(upgrade_name id)` to `$(amt)%` per stack and you only lose half of your existing stacks when changing areas instead of all of them.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -392,7 +392,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Specialisation: Unknown** (Guess)
+**Specialisation: Critical Family** (Guess)
 > Additively increase the critical hit chance of all Companions of the Hall Champions by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -660,7 +660,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Specialisation: Unknown** (Guess)
+**Specialisation: Recruiting Drive** (Guess)
 > `$(upgrade_name id)` now triggers when non-adjacent Champions score critical hits, instead of adjacent Champions.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -688,7 +688,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Specialisation: Unknown** (Guess)
+**Specialisation: Scents of Mithral Hall** (Guess)
 > Increase the effect of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Dwarf Champion in the formation, stacking multiplicatively and including himself.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -715,7 +715,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Specialisation: Unknown** (Guess)
+**Specialisation: Critical Wounds** (Guess)
 > Attacks targeting enemies that Pwent has caused to Bleed have a `$(total_bonus_crit_chance)%` additive chance to be a critical hit, up from `$(base_crit_chance)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -845,7 +845,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown**
+**Bounty of the Hall**
 > Your formation gains `$(amount___2)` Mithral Hall stack. Regis increases your gold find bonus by `$(not_buffed amount)%` for each Mithral Hall stack you have, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1039,7 +1039,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown**
+**Hammer of the Hall**
 > Your formation gains `$(amount___2)` Mithral Hall stack. Wulfgar increases the damage bonus of Clangeddin's Will by `$(not_buffed amount)%` for each Mithral Hall stack you have, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
