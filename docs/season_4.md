@@ -18,7 +18,7 @@
 ![Season Icon](images/s4_icon.png)
 {% endcomment %}
 
-The expected start date for season 4 is 21 June 2023.
+Season 4 - `Legends of the Mithral Hall` - is expected to start on 21 June 2023.
 
 # Theme
 
