@@ -1000,7 +1000,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown**
+**Clangeddin's Will** (Guess)
 > Anytime an enemy is stunned, Wulfgar increases the damage of all Champions in the formation by `$(not_buffed amount)%`, stacking multiplicatively, capping at `$max_stacks stacks`, and lasting until the area is changed.
 <details><summary><em>Raw Data</em></summary>
 <p>
