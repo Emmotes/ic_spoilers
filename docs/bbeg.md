@@ -29,11 +29,20 @@ Unknown.
 
 # Abilities
 
-**Base Attack: Unknown**
+**Base Attack: Chill Touch** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19596,
+    "export_params": {"uses": ["effect"]},
+    "type": 1,
+    "graphic": "Effects/Effect_ChillTouch_BBEG",
+    "fs": 0
+}
 </pre>
 </p>
 </details>
