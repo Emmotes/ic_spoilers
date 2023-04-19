@@ -4,33 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Ancient Birdsong Skin & Feat Pack - $9.99  
-Date of release: 19 Apr 2023
-
-Contents:
-
-* Champion: `Birdsong`
-* Skin: `Ancient Birdsong`
-* Feat: `Cat Lord's Blessing` (Birdsong)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Birdsong Chest` x7 (Shinies x1)
-
-<br />
-
-### Twiggy the Twig Blessing Familiar Pack - $9.99  
-Date of release: 19 Apr 2023
-
-Contents:
-
-* Familiar: `Twiggy the Twig Blessing`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-
-<br />
-
 ### Clone Lich Jim Skin & Feat Pack - $9.99  
 Date of release: 26 Apr 2023
 

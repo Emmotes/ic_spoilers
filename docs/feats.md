@@ -10,7 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| Birdsong | `Cat Lord's Blessing` | 80% Chorus of the Lost | 50,000 Gems | 19 Apr 2023 |
 | Birdsong | `Tenacious` | Stat: +2 Constitution | Weekend (Guess) | 21 Apr 2023 |
 | Gazrick | `Frozen Treat` | 80% Control Weather | Weekend (Guess) | 21 Apr 2023 |
 | Barrowin | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 26 Apr 2023 |

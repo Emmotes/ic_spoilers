@@ -8,7 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Birdsong | `Ancient` | Ancient Birdsong Skin & Feat Pack | $9.99 | 19 Apr 2023 |
 | Barrowin | `Lawbringer` | Lawbringer Barrowin Skin & Feat Pack | $9.99 | 26 Apr 2023 |
 | Jim | `Clone Lich` | Clone Lich Jim Skin & Feat Pack | $9.99 | 26 Apr 2023 |
 | DM | `Vacation` | Vacation Dungeon Master Skin & Feat Pack | $9.99 | 03 May 2023 |
