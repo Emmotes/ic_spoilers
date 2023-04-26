@@ -24,11 +24,11 @@ Most skins are real money purchases only.
 | Virgil | `Pride Marshal` | ??? | ??? | 05 Jun 2023 |
 | BBEG | `Witchlight` | ??? | ??? | 07 Jun 2023 |
 | Selise | `Spelljammer` | ??? | ??? | 07 Jun 2023 |
-| Artemis | `Mythic` | ??? | ??? | 14 Jun 2023 |
+| Artemis | `Mythic` | Season 4 | ??? | 14 Jun 2023 |
 | Bruenor | `King` | ??? | ??? | 14 Jun 2023 |
-| Pwent | `Mythic` | ??? | ??? | 14 Jun 2023 |
-| Regis | `Mythic` | ??? | ??? | 14 Jun 2023 |
-| Wulfgar | `Mythic` | ??? | ??? | 14 Jun 2023 |
+| Pwent | `Mythic` | Season 4 | ??? | 14 Jun 2023 |
+| Regis | `Mythic` | Season 4 | ??? | 14 Jun 2023 |
+| Wulfgar | `Mythic` | Season 4 | ??? | 14 Jun 2023 |
 | Ishi | `Mythic` | ??? | ??? | 21 Jun 2023 |
 | Jarlaxle | `Mythic` | ??? | ??? | 22 Jun 2023 |
 | Sgt. Knox | `Mythic` | ??? | ??? | 28 Jun 2023 |
