@@ -180,6 +180,31 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
+**Powerful Draw** (Guess)
+> Catti-brie deals additional damage to enemies the farther they are from the formation. From 0% bonus at `$start_percent%` away from the formation to `$amount%` bonus at the spawn point.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "effect_string": "bonus_damage_monster_percent_from_party_range,1000,20,100",
+        "separate_popup": false
+    }],
+    "requirements": "",
+    "description": {"desc": "$source deals additional damage to enemies the farther they are from the formation. From 0% bonus at $start_percent% away from the formation to $amount% bonus at the spawn point."},
+    "id": 1497,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
 **Mark for Death** (Guess)
 > Enemies hit by Catti-brie's arrows are Marked and take additional damage equal to Catti-brie's critical hit damage bonus until the enemy is defeated.
 >  
