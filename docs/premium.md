@@ -4,46 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Clone Lich Jim Skin & Feat Pack - $9.99  
-Date of release: 26 Apr 2023
-
-Contents:
-
-* Champion: `James (Jim) Winifred Darkmagic III`
-* Skin: `Clone Lich Jim`
-* Feat: `For My Next Illusion` (Jim)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Jim Chest` x7 (Shinies x1)
-
-<br />
-
-### Lawbringer Barrowin Skin & Feat Pack - $9.99  
-Date of release: 26 Apr 2023
-
-Contents:
-
-* Champion: `Barrowin Undurr`
-* Skin: `Lawbringer Barrowin`
-* Feat: `Scholar` (Barrowin)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Barrowin Chest` x7 (Shinies x1)
-
-<br />
-
-### Sword of Kas Familiar Pack - $4.99  
-Date of release: 26 Apr 2023
-
-Contents:
-
-* Familiar: `Sword of Kas`
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-
-<br />
-
 ### Lord of Waterdeep Omin Skin & Feat Pack - $9.99  
 Date of release: 03 May 2023
 

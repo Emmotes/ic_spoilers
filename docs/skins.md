@@ -8,8 +8,6 @@ Most skins are real money purchases only.
 
 | Champion | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| Barrowin | `Lawbringer` | Lawbringer Barrowin Skin & Feat Pack | $9.99 | 26 Apr 2023 |
-| Jim | `Clone Lich` | Clone Lich Jim Skin & Feat Pack | $9.99 | 26 Apr 2023 |
 | DM | `Vacation` | Vacation Dungeon Master Skin & Feat Pack | $9.99 | 03 May 2023 |
 | Nixie | `Witchlight` | Witchlight Nixie Theme Pack | $24.99 | 03 May 2023 |
 | Omin | `Lord of Waterdeep` | Lord of Waterdeep Omin Skin & Feat Pack | $9.99 | 03 May 2023 |

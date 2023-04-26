@@ -10,8 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Champion | Feat Name | Effect | Source | Date |
 |---|---|---|---|--:|
-| Barrowin | `Scholar` | Stat: +2 Intelligence | 50,000 Gems | 26 Apr 2023 |
-| Jim | `For My Next Illusion` | 80% Magic Magic Magic Magic | 50,000 Gems | 26 Apr 2023 |
 | DM | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
 | Nixie | `Immolation` | 1s BUD per sec for 5s | 50,000 Gems | 03 May 2023 |
 | Omin | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
