@@ -4,7 +4,9 @@
 
 # Emergence 2
 
-Very little is known about the next emergence event so far. All we know is that it will probably start on 24 May 2023 and that the enemies needed to farm will likely be Modrons.
+We know the next Emergence will be Modrons and will start on 24 May 2023. This is certainly timed to run concurrently with the Great Modron March event.
+
+Thanks to recent image files being added (like the banner above) - we can guess at some of the items being sold in the shop.
 
 ### Shop Contents
 
