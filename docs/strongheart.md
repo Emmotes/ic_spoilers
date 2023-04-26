@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![PC Portrait](images/strongheart_portrait.png)
-{% endcomment %}
 
 # Strongheart
 
@@ -54,11 +52,77 @@ Unknown.
 </details>
 <br />
 
-**Unknown**
+**Courage to Stand**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19774,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_FormationLarge_StrongheartCouragetoStand",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Justice Needs Champions**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19775,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_FormationLarge_StrongheartJusticeNeedsChampions",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Righteous Might**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19776,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_FormationLarge_StrongheartRighteousMight",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Seasoned Knight**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19777,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_FormationLarge_StrongheartSeasonedKnight",
+    "fs": 0
+}
 </pre>
 </p>
 </details>
@@ -66,18 +130,73 @@ Unknown.
 
 # Specialisations
 
-Unknown.
+**Specialisation: A Just Quest**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19782,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_Specialization_StrongheartAJustQuest",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Honorary Member**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19783,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_Specialization_StrongheartHonoraryMember",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Valor's Call**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19784,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_Specialization_StrongheartValorsCall",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
 
 # Items
 
 | Slot | Name | Type |
 |---|---|---|
-| 1 | `Unknown` | Unknown |
-| 2 | `Unknown` | Unknown |
-| 3 | `Unknown` | Unknown |
-| 4 | `Unknown` | Unknown |
-| 5 | `Unknown` | Unknown |
-| 6 | `Unknown` | Unknown |
+| 1 | `Adventuring Equipment` | Unknown |
+| 2 | `Armor` | Unknown |
+| 3 | `Helmet` | Unknown |
+| 4 | `Horse Stuff` | Unknown |
+| 5 | `Lookin Good Stuff` | Unknown |
+| 6 | `Weapons` | Unknown |
 
 # Feats
 
@@ -87,11 +206,9 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Console Portrait
 
 ![Console Portrait](images/strongheart_console.png)
-{% endcomment %}
 
 {% comment %}
 # Chests
