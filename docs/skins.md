@@ -2,9 +2,9 @@
 
 # Skins
 
-Skins that are upcoming.
+Skins that are upcoming. Most skins are real money purchases only.
 
-Most skins are real money purchases only.
+*Note: Skins with missing portraits simply don't have that data available yet.*
 
 | Portrait | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
