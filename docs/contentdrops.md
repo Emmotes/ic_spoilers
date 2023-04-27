@@ -4,7 +4,7 @@
 
 Guesstimations of upcoming content drops - so don't take these as fact.
 
-### Witchlight 9 - 17 May 2023
+## Witchlight 9 - 17 May 2023
 
 This content drop will likely be joined by new blessings.
 
@@ -15,7 +15,7 @@ This content drop will likely be joined by new blessings.
 | Witchlight | The Court of Storms | Adventure |
 | Witchlight | The Court of Storms | Variant #1 |
 
-### Mixed 10 - 21 June 2023
+## Mixed 10 - 21 June 2023
 
 | Campaign | Name | Type |
 |---|---|---|
@@ -30,7 +30,7 @@ This content drop will likely be joined by new blessings.
 | Xaryxis | Who Lurks Below | Variant #2 |
 | Xaryxis | Xanathar | Variant #2 |
 
-### Xaryxis 4 - 12 July 2023
+## Xaryxis 4 - 12 July 2023
 
 | Campaign | Name | Type |
 |---|---|---|
