@@ -21,10 +21,10 @@ This content drop will likely be joined by new blessings.
 |---|---|---|
 | Sword  Coast | Lost in the Goblin Halls | Variant #3 |
 | Sword  Coast | Meepos Quest | Variant #3 |
-| Descent | The Wandering Imporium | Variant #3 |
-| Descent | Tiamats Army | Variant #3 |
-| Icewind | Cold As Ice | Variant #2 |
-| Icewind | Friends and Foes | Variant #2 |
+| Descent into Avernus | The Wandering Imporium | Variant #3 |
+| Descent into Avernus | Tiamats Army | Variant #3 |
+| Icewind Dale | Cold As Ice | Variant #2 |
+| Icewind Dale | Friends and Foes | Variant #2 |
 | Witchlight | Love Unsoiled | Variant #2 |
 | Witchlight | Minions of Endelyn | Variant #2 |
 | Xaryxis | Who Lurks Below | Variant #2 |
