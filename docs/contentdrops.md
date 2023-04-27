@@ -15,7 +15,7 @@ This content drop will likely be joined by new blessings.
 | Witchlight | The Court of Storms | Adventure |
 | Witchlight | The Court of Storms | Variant #1 |
 
-## Mixed 10 - 21 June 2023
+## Mixed 10 Variants - 21 June 2023
 
 | Campaign | Name | Type |
 |---|---|---|

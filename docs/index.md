@@ -35,6 +35,7 @@ Miscellaneous spoilers.
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
+* [Content Drops](contentdrops.md)
 * [Weekends](weekends.md)
 * [Archive of Old Spoilers]({{ site.github.owner_url }}/ic_spoilers/tree/main/docs/archive)
 
