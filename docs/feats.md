@@ -20,8 +20,15 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Kent | `Ghosts of the Past` | 80% Remembering the Old Days | 50,000 Gems | 05 Jun 2023 |
 | Virgil | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 05 Jun 2023 |
 | Selise | `Shield Throw` | 80% Shield of Psychomancy | 50,000 Gems | 07 Jun 2023 |
-| Ishi | `Creature Squad` | 80% Monsters are People Too! | 50,000 Gems | 21 Jun 2023 |
-| Sgt. Knox | `Rally of the Protectors` | 80% Rallying Cry | 50,000 Gems | 28 Jun 2023 |
+| Artemis | `Shadow Strike` | +10% Crit Chance | Season 4 | 14 Jun 2023 |
+| Artemis | `Vicious Damage` | 400% Self DPS & Prevent Healing for 10s | Season 4 | 14 Jun 2023 |
+| Bruenor | `To Your King!` | 20% Rally | ??? | 14 Jun 2023 |
+| Ishi | `Creature Squad` | 80% Monsters are People Too! | 50,000 Gems | 14 Jun 2023 |
+| Jarlaxle | `Get the Point?` | +5% Crit Chance | ??? | 14 Jun 2023 |
+| Sgt. Knox | `Rally of the Protectors` | 80% Rallying Cry | 50,000 Gems | 14 Jun 2023 |
+| Drizzt | `Frost Strike` | 20% Icingdeath | ??? | 21 Jun 2023 |
+| Jarlaxle | `Dazzling Flourish` | +60% Crit Damage | ??? | 21 Jun 2023 |
+| Jarlaxle | `Hidden Strike` | +10% Crit Chance | ??? | 21 Jun 2023 |
 | Freely | `Fortune's Favor` | 50% Gold | 50,000 Gems | 12 Jul 2023 |
 | Drizzt | `Guardian of the Hall` | +2 Mithral Hall Stacks | 50,000 Gems | 19 Jul 2023 |
 | Tatyana | `Prodigal Leader` | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
@@ -31,6 +38,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Nixie | `Heavy Lifter` | Stat: +2 Strength | 50,000 Gems | 13 Sep 2023 |
 | Nordom | `New Speech Pattern` | 40% Modron Core Toolbox | 12,500 Gems | 13 Sep 2023 |
 | Selise | `Sentinel` | +20 Overwhelm | 50,000 Gems | 13 Sep 2023 |
+| Bruenor | `King of the Hall` | +2 Mithral Hall Stacks | 50,000 Gems | 21 Sep 2023 |
 
 [Back to Top](#top)
 
