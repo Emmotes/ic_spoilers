@@ -181,7 +181,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Powerful Draw** (Guess)
-> Catti-brie deals additional damage to enemies the farther they are from the formation. From 0% bonus at `$start_percent%` away from the formation to `$amount%` bonus at the spawn point.
+> Catti-brie deals additional damage to enemies the farther they are from the formation, from 0% bonus at `$start_percent%` away from the formation to `$amount%` bonus at the spawn point.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -191,13 +191,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "separate_popup": false
     }],
     "requirements": "",
-    "description": {"desc": "$source deals additional damage to enemies the farther they are from the formation. From 0% bonus at $start_percent% away from the formation to $amount% bonus at the spawn point."},
+    "description": {"desc": "$source deals additional damage to enemies the farther they are from the formation, from 0% bonus at $start_percent% away from the formation to $amount% bonus at the spawn point."},
     "id": 1497,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -221,6 +222,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "effect_string": "cattibrie_mark_for_death_v2",
         "debuffing_attack_ids": [
             629,
+            630,
             631,
             632
         ]
@@ -238,7 +240,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -265,7 +268,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -295,7 +299,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "$source increases the damage of herself and all Champions in front of her in the formation by $(not_buffed amount)% each time she gets a critical hit, stacking multiplicatively up to $(max_stacks) times and resetting when she changes areas."},
     "id": 1500,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 5854,
     "properties": {"is_formation_ability": true}
 }
 </pre>
@@ -335,7 +339,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Your formation gains one Mithral Hall stack. $source increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Mithral Hall stack you have, stacking multiplicatively."},
     "id": 1501,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 19581,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
@@ -381,7 +385,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Big Push** (Guess)
-> Increase the base effect of `$(upgrade_name id)` to `$(amt)%` per stack and you only lose half of your existing stacks when changing areas instead of all of them.
+> Increases the base effect of `$(upgrade_name id)` to `$(amt)%` per stack and Catti-brie only loses half of her existing stacks when changing areas instead of all of them.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -401,7 +405,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "amt": 60
     }],
     "requirements": "",
-    "description": {"desc": "Increase the base effect of $(upgrade_name id) to $(amt)% per stack and you only lose half of your existing stacks when changing areas instead of all of them."},
+    "description": {"desc": "Increases the base effect of $(upgrade_name id) to $(amt)% per stack and $source only loses half of her existing stacks when changing areas instead of all of them."},
     "id": 1503,
     "flavour_text": "",
     "graphic_id": 0,
@@ -418,7 +422,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Critical Family** (Guess)
-> Additively increase the critical hit chance of all Companions of the Hall Champions by `$(amount)%`.
+> Additively increases the critical hit chance of all Companions of the Hall Champions by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -433,7 +437,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "targets": ["all"]
     }],
     "requirements": "",
-    "description": {"desc": "Additively increase the critical hit chance of all Companions of the Hall Champions by $(amount)%."},
+    "description": {"desc": "Additively increases the critical hit chance of all Companions of the Hall Champions by $(amount)%."},
     "id": 1504,
     "flavour_text": "",
     "graphic_id": 0,
@@ -483,7 +487,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Unknown**
-> When Pwent attacks he causes all enemies he damages to Bleed, taking `$(amount)` second worth of BUD damage every second for the next `$(total_seconds)` seconds. While an enemy is bleeding, attacks that target them have a `$(amount___2)%` higher chance to critical hit (additively). If Pwent attacks an enemy that is already bleeding the duration is reset.
+> When Pwent attacks he causes all enemies he damages to Bleed, taking `$(amount)` seconds worth of BUD damage every second for the next `$(total_seconds)` seconds. While an enemy is bleeding, attacks that target them have a `$(amount___2)%` higher chance to critical hit (additively). If Pwent attacks an enemy that is already bleeding the duration is reset.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -529,7 +533,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "description": {"desc": "When $source attacks he causes all enemies he damages to Bleed, taking $(amount) second worth of BUD damage every second for the next $(total_seconds) seconds. While an enemy is bleeding, attacks that target them have a $(amount___2)% higher chance to critical hit (additively). If $source attacks an enemy that is already bleeding the duration is reset."},
+    "description": {"pre": {"conditions": [
+        {
+            "condition": "not static_desc",
+            "desc": "When $source attacks he causes all enemies he damages to Bleed, taking $(amount) seconds worth of BUD damage every second for the next $(total_seconds) seconds. While an enemy is bleeding, attacks that target them have a $(pwent_bleed_crit_amount)% higher chance to critical hit (additively). If $source attacks an enemy that is already bleeding the duration is reset."
+        },
+        {"desc": "When $source attacks he causes all enemies he damages to Bleed, taking $(amount) seconds worth of BUD damage every second for the next $(total_seconds) seconds. While an enemy is bleeding, attacks that target them have a $(amount___2)% higher chance to critical hit (additively). If $source attacks an enemy that is already bleeding the duration is reset."}
+    ]}},
     "id": 1511,
     "flavour_text": "",
     "graphic_id": 0,
@@ -538,6 +548,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "is_formation_ability": true,
         "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
         "per_effect_index_bonuses": true
     }
 }
@@ -547,7 +558,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Unknown** (Guess)
-> Increase the damage of Champions not adjacent to Pwent by `$(amount)%`.
+> Increases the damage of Champions not adjacent to Pwent by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -557,10 +568,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "targets": ["non_adj"]
     }],
     "requirements": "",
-    "description": {"desc": "Increase the damage of Champions not adjacent to $source by $(amount)%."},
+    "description": {"desc": "Increases the damage of Champions not adjacent to $source by $(amount)%."},
     "id": 1512,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 6357,
     "properties": {"is_formation_ability": true}
 }
 </pre>
@@ -582,7 +593,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -591,7 +603,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Gutbuster** (Guess)
-> When a Champion adjacent to Pwent scores a critical hit, increase the effect of `$(upgrade_name id)` by `$(amount)%`. This can multiplicatively stack up to `$(max_stacks)` times, with the stacks being reset when you change areas.
+> When a Champion adjacent to Pwent scores a critical hit, Pwent increases the effect of `$(upgrade_name id)` by `$(amount)%`. This can multiplicatively stack up to `$(max_stacks)` times, with the stacks being reset on area change.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -619,9 +631,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"conditions": [
         {
             "condition": "upgrade_purchased 11496",
-            "desc": "When a Champion not adjacent to $source scores a critical hit, increase the effect of $(upgrade_name id) by $(amount)%. This can multiplicatively stack up to $(max_stacks) times, with the stacks being reset when you change areas."
+            "desc": "When a Champion not adjacent to $source scores a critical hit, $source increases the effect of $(upgrade_name id) by $(amount)%. This can multiplicatively stack up to $(max_stacks) times, with the stacks being reset on area change."
         },
-        {"desc": "When a Champion adjacent to $source scores a critical hit, increase the effect of $(upgrade_name id) by $(amount)%. This can multiplicatively stack up to $(max_stacks) times, with the stacks being reset when you change areas."}
+        {"desc": "When a Champion adjacent to $source scores a critical hit, $source increases the effect of $(upgrade_name id) by $(amount)%. This can multiplicatively stack up to $(max_stacks) times, with the stacks being reset on area change."}
     ]},
     "id": 1514,
     "flavour_text": "",
@@ -631,6 +643,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "is_formation_ability": true,
         "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
         "per_effect_index_bonuses": true
     }
 }
@@ -671,7 +684,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "While not a member of the Companions of the Hall, $source fully supports them in their quests. Your formation gains one Mithral Hall stack. $source increases the damage bonus of $(upgrade_name id) by $(amount)% for each Mithral Hall stack you have, stacking multiplicatively."},
     "id": 1515,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 19580,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
@@ -714,7 +727,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Scents of Mithral Hall** (Guess)
-> Increase the effect of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Dwarf Champion in the formation, stacking multiplicatively and including himself.
+> Increases the effect of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Dwarf Champion in the formation, stacking multiplicatively and including himself.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -724,12 +737,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,200,11492,dwarf"
     }],
     "requirements": "",
-    "description": {"desc": "Increase the effect of $(upgrade_name id) by $(not_buffed amount)% for each Dwarf Champion in the formation, stacking multiplicatively and including himself."},
+    "description": {"desc": "Increases the effect of $(upgrade_name id) by $(not_buffed amount)% for each Dwarf Champion in the formation, stacking multiplicatively and including himself."},
     "id": 1517,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 19581,
     "properties": {
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Dwarf Champions: $num_stacks",
         "owner_use_outgoing_description": true,
         "type": "upgrade",
         "formation_circle_icon": false
@@ -836,8 +850,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "num_targets": 1,
     "animations": [{
+        "effect_frames": {"projectile": {
+            "for_time": 15,
+            "effect_string": "buff_upgrades,200,11530,11531"
+        }},
         "sound_frames": {"39": 174},
-        "effect_on_monsters": {"effect_string": "effect_def,400"},
+        "effect_on_monsters": {"effect_string": "monster_stun,5,1509"},
         "type": "ranged_attack",
         "projectile": "empty",
         "shoot_frame": 31
@@ -852,18 +870,21 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Unknown**
-> Regis's base chance to Critical Hit is `$amount%`.
+> Regis' base chance to Critical Hit is `$amount%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [{"effect_string": "set_base_crit_chance,20"}],
     "requirements": [],
-    "description": {"desc": "Regis's base chance to Critical Hit is $amount%."},
+    "description": {"desc": "Regis' base chance to Critical Hit is $amount%."},
     "id": 1532,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -909,6 +930,114 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown**
+> When Regis scores a Critical Hit, his Ruby Pendant pulses and heals all Champions in the formation for `$(not_buffed amount)` for each Mithral Hall stack the formation has.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "crit_effect": {
+            "target_global": true,
+            "effect_string": "heal_targets_by_amount,$amount",
+            "targets": ["all"]
+        },
+        "stack_title": "Mithral Hall Stacks",
+        "stacks_multiply": false,
+        "total_title": "Total Healing",
+        "off_when_benched": true,
+        "show_bonus": true,
+        "amount_func": "add",
+        "stack_func": "per_mithral_hall_stacks",
+        "effect_string": "add_crit_effect,10",
+        "percent_values": false,
+        "show_stack_type": false
+    }],
+    "requirements": [],
+    "description": {"desc": "When Regis scores a Critical Hit, his Ruby Pendant pulses and heals all Champions in the formation for $(not_buffed amount) for each Mithral Hall stack the formation has."},
+    "id": 1535,
+    "flavour_text": "",
+    "graphic_id": 19646,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown**
+> Increases the effect of Ruby Encouragement by `$(not_buffed amount)%` when Regis scores a Critical Hit. This effect can stack up to `$max_stacks times `(multiplicatively). Stacks reset when changing areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "effect_string": "buff_upgrades,400,11530,11531",
+        "max_stacks": 10,
+        "more_triggers": [{
+            "action": {"type": "reset"},
+            "trigger": "area_changed"
+        }],
+        "stacks_on_trigger": "pre_owner_attack_crit"
+    }],
+    "requirements": [],
+    "description": {"desc": "Increases the effect of Ruby Encouragement by $(not_buffed amount)% when Regis scores a Critical Hit. This effect can stack up to $max_stacks times (multiplicatively). Stacks reset when changing areas."},
+    "id": 1536,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown**
+> Whenever a Champion in the formation is critically hit by an enemy, Regis stores up one charge of Ruby Invigoration. While he has at least one charge, his chance to Critical Hit is increased by `$(amount___2)%`, and whenever he scores a Critical Hit a charge is consumed. He can store up to `$max_charges charges`.
+>  
+> - `$(ruby_invigoration_desc)`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "max_charges": 5,
+            "effect_string": "ruby_invigoration"
+        },
+        {
+            "effect_string": "buff_base_crit_chance_mult,250",
+            "apply_manually": true
+        }
+    ],
+    "requirements": [],
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$(ruby_invigoration_desc)"
+        }]},
+        "desc": "Whenever a Champion in the formation is critically hit by an enemy, Regis stores up one charge of Ruby Invigoration. While he has at least one charge, his chance to Critical Hit is increased by $(amount___2)%, and whenever he scores a Critical Hit a charge is consumed. He can store up to $max_charges charges."
+    },
+    "id": 1537,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -1018,7 +1147,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1520,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": {"indexed_effect_properties": true}
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -1111,7 +1244,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Unknown**
-> If Wulfgar attacks an armor-based enemy but doesn't remove a piece of the armor, increase the damage of all champions in the formation by `$(not_buffed amount)%` until you change areas, stacking multiplicatively up to `$max_stacks times`.
+> If Wulfgar attacks an armor-based enemy but doesn't remove a piece of the armor, he increases the damage of all champions in the formation by `$(not_buffed amount)%` stacking multiplicatively up to `$max_stacks times`. Stacks reset on area change.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1129,10 +1262,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "stacks_on_trigger": "owner_attack_failed_break_armor"
     }],
     "requirements": [],
-    "description": {"desc": "If Wulfgar attacks an armor-based enemy but doesn't remove a piece of the armor, increase the damage of all champions in the formation by $(not_buffed amount)% until you change areas, stacking multiplicatively up to $max_stacks times."},
+    "description": {"desc": "If Wulfgar attacks an armor-based enemy but doesn't remove a piece of the armor, he increases the damage of all champions in the formation by $(not_buffed amount)% stacking multiplicatively up to $max_stacks times. Stacks reset on area change."},
     "id": 1523,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 5886,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -1144,7 +1277,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Unknown**
-> Increases the Health of all Champions by `$amount%` of Wulfgar's Max Health.
+> Increases the Health of all other Champions by `$amount%` of Wulfgar's Max Health.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1155,7 +1288,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "targets": ["all"]
     }],
     "requirements": [],
-    "description": {"desc": "Increases the Health of all Champions by $amount% of Wulfgar's Max Health"},
+    "description": {"desc": "Increases the Health of all other Champions by $amount% of Wulfgar's Max Health"},
     "id": 1524,
     "flavour_text": "",
     "graphic_id": 0,
@@ -1170,7 +1303,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Additively increase all Champion's critical hit chances by `$amount%`.
+> Additively increases all Champions' critical hit chances by `$amount%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1181,10 +1314,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "targets": ["all"]
     }],
     "requirements": [],
-    "description": {"desc": "Additively increase all Champion's critical hit chances by $amount%."},
+    "description": {"desc": "Additively increases all Champions' critical hit chances by $amount%."},
     "id": 1525,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 5886,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -1196,7 +1329,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Increase the effect of Clangeddin's Will by `$amount%` and when you change areas only 50% of the stacks are lost.
+> Increases the effect of Clangeddin's Will by `$amount%` and only 50% of the stacks are lost on area change.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1219,10 +1352,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": [],
-    "description": {"desc": "Increase the effect of Clangeddin's Will by $amount% and when you change areas only 50% of the stacks are lost."},
+    "description": {"desc": "Increases the effect of Clangeddin's Will by $amount% and only 50% of the stacks are lost on area change."},
     "id": 1526,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 3932,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -1234,7 +1367,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Increase the damage of the Companions of the Hall Champions by `$amount%`, and all of the Companions of the Hall Champions are available to be used if Icewind Dale is the current campaign, even if they do not currently qualify based on variant or patron restrictions.
+> Increases the damage of the Companions of the Hall Champions by `$amount%`, and all of the Companions of the Hall Champions are available to be used if Icewind Dale is the current campaign, even if they do not currently qualify based on variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1243,11 +1376,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "off_when_benched": true,
             "effect_string": "hero_dps_multiplier_mult,100",
-            "filter_targets": [{
-                "type": "by_tags",
+            "targets": [{
+                "type": "tags",
                 "tags": "companion"
-            }],
-            "targets": ["all"]
+            }]
         },
         {
             "off_when_benched": true,
@@ -1256,12 +1388,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": [],
-    "description": {"desc": "Increase the damage of the Companions of the Hall Champions by $amount%, and all of the Companions of the Hall Champions are available to be used if Icewind Dale is the current campaign, even if they do not currently qualify based on variant or patron restrictions."},
+    "description": {"desc": "Increases the damage of the Companions of the Hall Champions by $amount%, and all of the Companions of the Hall Champions are available to be used if Icewind Dale is the current campaign, even if they do not currently qualify based on variant or patron restrictions."},
     "id": 1527,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 5888,
     "properties": {
+        "retain_on_slot_changed": true,
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_targets",
         "owner_use_outgoing_description": true
     }
 }
@@ -1309,6 +1443,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "properties": {
         "indexed_effect_properties": true,
+        "is_formation_ability": true,
         "default_bonus_index": 0,
         "per_effect_index_bonuses": true
     }
@@ -1334,7 +1469,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1530,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Companions of the Hall: $num_stacks",
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
@@ -1398,7 +1539,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1531,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Drow Champions: $num_stacks",
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
