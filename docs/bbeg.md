@@ -13,11 +13,11 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 * Seat: Unknown
 * Race: Drow Elf (Guess)
 * Class: Warlock (Guess)
-* Roles: Unknown
+* Roles: Support / Speed (Guess)
 * Age: Unknown
 * Gender: Male (Guess)
-* Alignment: Unknown
-* Affiliation: Awful Ones (Guess)
+* Alignment: Lawful Evil (Guess)
+* Affiliation: Awful Ones
 * Stats: Unknown
 
 # Formation
