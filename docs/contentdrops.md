@@ -8,7 +8,7 @@ Guesstimations of upcoming content drops - so don't take these as fact.
 
 This content drop will likely be joined by new blessings.
 
-| Icon | Campaign | Name | Type |
+| Icon | Campaign | Adventure Name | Type |
 |---|---|---|---|
 | ![Witchlight: Beware the Jabberwock (Adventure)](images/contentdrop_portraits/witchlight_bewarethejabberwock_0.png) | Witchlight | Beware the Jabberwock | Adventure |
 | ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Witchlight: Beware the Jabberwock (Variant 1)](images/contentdrop_portraits/witchlight_bewarethejabberwock_1.png) | Witchlight | Beware the Jabberwock | Variant #1 |
@@ -17,7 +17,7 @@ This content drop will likely be joined by new blessings.
 
 ## Mixed 10 Variants - 21 June 2023
 
-| Icon | Campaign | Name | Type |
+| Icon | Campaign | Adventure Name | Type |
 |---|---|---|---|
 | ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Sword  Coast: Lost in the Goblin Halls (Variant 3)](images/contentdrop_portraits/swordcoast_lostinthegoblinhalls_3.png) | Sword  Coast | Lost in the Goblin Halls | Variant #3 |
 | ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Sword  Coast: Meepos Quest (Variant 3)](images/contentdrop_portraits/swordcoast_meeposquest_3.png) | Sword  Coast | Meepos Quest | Variant #3 |
@@ -32,7 +32,7 @@ This content drop will likely be joined by new blessings.
 
 ## Xaryxis 4 - 12 July 2023
 
-| Icon | Campaign | Name | Type |
+| Icon | Campaign | Adventure Name | Type |
 |---|---|---|---|
 | ![Xaryxis: Rock and Roll (Adventure)](images/contentdrop_portraits/xaryxis_rockandroll_0.png) | Xaryxis | Rock and Roll | Adventure |
 | ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Rock and Roll (Variant 1)](images/contentdrop_portraits/xaryxis_rockandroll_1.png) | Xaryxis | Rock and Roll | Variant #1 |
