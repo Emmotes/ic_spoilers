@@ -99,6 +99,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
             "name": "nixie_fireball",
             "projectile_graphic_id": 19009,
             "projectile_speed": 1500,
+            "hash": "nixie_fireball?",
             "rotation_speed": 0
         },
         "hit_sound": 133,
@@ -208,7 +209,8 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
                 "percent_height_offset": 75,
                 "use_auto_rotation": true,
                 "projectile_graphic_id": 749,
-                "projectile_speed": 500
+                "projectile_speed": 500,
+                "hash": "nixie_fireball!!!"
             },
             "hit_sound": 133,
             "shoot_offset_y": -90,
@@ -249,6 +251,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 }
 {
     "effect_keys": [{
+        "off_when_benched": true,
         "effect_string": "hero_dps_multiplier_mult,100",
         "filter_targets": [{
             "score": 17,
@@ -404,7 +407,8 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
                 "percent_height_offset": 50,
                 "use_auto_rotation": true,
                 "projectile_graphic_id": 6093,
-                "projectile_speed": 500
+                "projectile_speed": 500,
+                "hash": "nixie_engulfing_flames"
             },
             "effect_string": "nixie_engulfing_flames,1",
             "radius": 150
@@ -451,7 +455,8 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
                 "percent_height_offset": 50,
                 "use_auto_rotation": true,
                 "projectile_graphic_id": 189,
-                "projectile_speed": 250
+                "projectile_speed": 250,
+                "hash": "nixie_coin_cascade"
             },
             "effect_string": "nixie_coin_cascade,10",
             "radius": 100
