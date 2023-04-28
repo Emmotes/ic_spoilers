@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Archmage Darkmagic | 28 April | **Jim** | Bruenor | Makos | Spurt | Barrowin | Golden Epic |
 | Brave & Bold | 05 May | **Antrius** | Calliope | Minsc | Briv | Krydle | Golden Epic |
 | Magical Blades | 12 May | **Shaka** | Celeste | Asharra | Melf | Sentry | Golden Epic |
 | FIREBALL | 19 May | **Nixie** | Jarlaxle | Jamilah | Viconia | Krond | Golden Epic |
