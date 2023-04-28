@@ -11,15 +11,15 @@ Thanks to recent image files being added (like the banner above) - we can guess 
 ### Shop Contents
 
 * Pigment: Support (Guess)
-* Golden Epic: Evandra (Slot Unknown) (Guess)
-* Golden Epic: Dragonbait (Slot 1) (Guess)
-* Skin 1: Modron Antrius (Guess)
-* Skin 2: Modron Nixie (Guess)
-* Feat 1: Entertainer (Nrakk +2 Cha) (Guess)
-* Chest: Modron Emergence Chest (Guess)
+* Golden Epic: Evandra (Slot 2)
+* Golden Epic: Dragonbait (Slot 1)
+* Skin 1: Modron Antrius
+* Skin 2: Modron Nixie
+* Feat 1: Entertainer (Nrakk +2 Cha)
+* Chest: Modron Emergence Chest
 * Chest: (Extras Unknown)
 
-The contents of the `Modron Emergence Chest` are as yet unknown.
+The contents of the `Modron Emergence Chest` will be loot for Nrakk Dragonbait Antrius Nixie and Evandra.
 
 ### Modron Emergence Chest Icons
 
