@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![PC Portrait](images/evandra_portrait.png)
+![PC Portrait](images/evandra/portrait.png)
 
 # Evandra
 
@@ -24,7 +24,7 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 
 # Formation
 
-![Formation Layout](images/evandra_formation.png)
+![Formation Layout](images/evandra/formation.png)
 
 # Abilities
 
@@ -378,13 +378,13 @@ Unknown.
 
 # Console Portrait
 
-![Console Portrait](images/evandra_console.png)
+![Console Portrait](images/evandra/console.png)
 
 # Chests
 
 | Gold | Silver |
 |---|---|
-| ![Gold Chest](images/evandra_chest_gold.png) | ![Silver Chest](images/evandra_chest_silver.png) |
+| ![Gold Chest](images/evandra/chest_gold.png) | ![Silver Chest](images/evandra/chest_silver.png) |
 
 [Back to Top](#top)
 

@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![PC Portrait](images/bbeg_portrait.png)
+![PC Portrait](images/bbeg/portrait.png)
 
 # BBEG
 
@@ -22,7 +22,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 
 # Formation
 
-![Formation Layout](images/bbeg_formation.png)
+![Formation Layout](images/bbeg/formation.png)
 
 # Abilities
 
@@ -441,13 +441,13 @@ Unknown.
 
 # Console Portrait
 
-![Console Portrait](images/bbeg_console.png)
+![Console Portrait](images/bbeg/console.png)
 
 # Chests
 
 | Gold | Silver |
 |---|---|
-| ![Gold Chest](images/bbeg_chest_gold.png) | ![Silver Chest](images/bbeg_chest_silver.png) |
+| ![Gold Chest](images/bbeg/chest_gold.png) | ![Silver Chest](images/bbeg/chest_silver.png) |
 
 [Back to Top](#top)
 

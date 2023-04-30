@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![PC Portrait](images/nixie_portrait.png)
+![PC Portrait](images/nixie/portrait.png)
 
 # Nixie
 
@@ -31,7 +31,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 
 # Formation
 
-![Formation Layout](images/nixie_formation.png)
+![Formation Layout](images/nixie/formation.png)
 
 # Abilities
 
@@ -153,7 +153,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-![FIREBALL!!! Icon](images/nixie_fireball.png) **Ultimate Attack: FIREBALL!!!** (Level: 150)
+![FIREBALL!!! Icon](images/nixie/icon_fireball.png) **Ultimate Attack: FIREBALL!!!** (Level: 150)
 > Nixie casts a gigantic fireball that engulfs the entire enemy's side of the screen, dealing 1 ultimate hit to all enemies. In addition, there is a 10% chance for each monster hit by this attack to be surrounded by Engulfing Flames.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -232,7 +232,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-![Blazing Charisma Icon](images/nixie_blazingcharisma.png) **Blazing Charisma** (Level: 30)
+![Blazing Charisma Icon](images/nixie/icon_blazingcharisma.png) **Blazing Charisma** (Level: 30)
 > Nixie increases the damage of all Champions with a Charisma of 17+ by 100%, including herself.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -273,7 +273,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-![Wild Magic Surge Icon](images/nixie_wildmagicsurge.png) **Wild Magic Surge** (Level: 100)
+![Wild Magic Surge Icon](images/nixie/icon_wildmagicsurge.png) **Wild Magic Surge** (Level: 100)
 > Each time Nixie makes a normal attack, there is a high chance that a random wild magic event happens.
 >  
 > - Engulfing Flames - Nixie lights the area of her attack on fire for 20 seconds. While lit, it deals 1s of BUD to enemies in the effect each second.
@@ -510,7 +510,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-![Gigantic Growth Icon](images/nixie_giganticgrowth.png) **Gigantic Growth** (Level: 200)
+![Gigantic Growth Icon](images/nixie/icon_giganticgrowth.png) **Gigantic Growth** (Level: 200)
 > Increases the damage bonus of Wild Magic Surge: Potted Punch by 100% and Wild Magic Surge: Enlarge by 100%
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -550,7 +550,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 
 # Specialisations
 
-![Anarchy Amplified Icon](images/nixie_anarchyamplified.png) **Anarchy Amplified** (Level: 130)
+![Anarchy Amplified Icon](images/nixie/icon_anarchyamplified.png) **Anarchy Amplified** (Level: 130)
 > Nixie increases the damage bonus of Blazing Charisma by 100% for each Chaotic champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -593,7 +593,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-![Flawed Force Icon](images/nixie_flawedforce.png) **Flawed Force** (Level: 130)
+![Flawed Force Icon](images/nixie/icon_flawedforce.png) **Flawed Force** (Level: 130)
 > Nixie increases the damage bonus of Blazing Charisma by 150% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -648,7 +648,7 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 </details>
 <br />
 
-![Infernal Impact Icon](images/nixie_infernalimpact.png) **Infernal Impact** (Level: 130)
+![Infernal Impact Icon](images/nixie/icon_infernalimpact.png) **Infernal Impact** (Level: 130)
 > Nixie increases the damage bonus of Blazing Charisma by 200% for each Tiefling champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -695,12 +695,12 @@ Nixie will be the new champion in the The Running event on 3 May 2023.
 
 | Icon | Slot | Epic Name | Type |
 |:-:|---|---|---|
-| ![Fireproof Arm Coverings Icon](images/nixie_item_1.png) | 1 | `Fireproof Arm Coverings` | All Champion Damage |
-| ![Magic Cloak Icon](images/nixie_item_2.png) | 2 | `Magic Cloak` | All Champion Damage |
-| ![Scorching Brooch Icon](images/nixie_item_3.png) | 3 | `Scorching Brooch` | Blazing Charisma |
-| ![Fancy Noisemaker Icon](images/nixie_item_4.png) | 4 | `Fancy Noisemaker` | Gigantic Growth |
-| ![Talisman of Fireball Icon](images/nixie_item_5.png) | 5 | `Talisman of Fireball` | All Specialisations |
-| ![Pyromancer's Holster Icon](images/nixie_item_6.png) | 6 | `Pyromancer's Holster` | Ultimate Cooldown Reduction |
+| ![Fireproof Arm Coverings Icon](images/nixie/item_1.png) | 1 | `Fireproof Arm Coverings` | All Champion Damage |
+| ![Magic Cloak Icon](images/nixie/item_2.png) | 2 | `Magic Cloak` | All Champion Damage |
+| ![Scorching Brooch Icon](images/nixie/item_3.png) | 3 | `Scorching Brooch` | Blazing Charisma |
+| ![Fancy Noisemaker Icon](images/nixie/item_4.png) | 4 | `Fancy Noisemaker` | Gigantic Growth |
+| ![Talisman of Fireball Icon](images/nixie/item_5.png) | 5 | `Talisman of Fireball` | All Specialisations |
+| ![Pyromancer's Holster Icon](images/nixie/item_6.png) | 6 | `Pyromancer's Holster` | Ultimate Cooldown Reduction |
 
 <details><summary><em>Item Names and Descriptions</em></summary>
 <p>
@@ -822,13 +822,13 @@ Black Viper: 6 / 6
 
 # Console Portrait
 
-![Console Portrait](images/nixie_console.png)
+![Console Portrait](images/nixie/console.png)
 
 # Chests
 
 | Gold | Silver |
 |---|---|
-| ![Gold Chest](images/nixie_chest_gold.png) | ![Silver Chest](images/nixie_chest_silver.png) |
+| ![Gold Chest](images/nixie/chest_gold.png) | ![Silver Chest](images/nixie/chest_silver.png) |
 
 [Back to Top](#top)
 
