@@ -755,17 +755,17 @@ Slot 6:
 
 This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
 
-| Feat | Effect | Source |
-|---|---|---|
-| `Tavern Brawler` | 30% Self DPS | Free |
-| `Grappler` | 60% Self DPS | Gold Chest |
-| `Selflessness` | 10% All Champion Damage | Free |
-| `Inspiring Leader` | 25% All Champion Damage | Gold Chest |
-| `Blazing Destruction` | 20% Blazing Charisma | Free |
-| `Charismatic Devastation` | 40% Blazing Charisma | 12,500 Gems |
-| `Enlarge` | 40% Gigantic Growth | 12,500 Gems |
-| `Immolation` | 1s BUD per sec for 5s | 50,000 Gems |
-| `Fired Up` | 20% All Specialisations | Gold Chest |
+| Icon | Feat | Effect | Source |
+|---|---|---|---|
+| ![Tavern Brawler Icon](images/featicons/selfdps.png) | `Tavern Brawler` | 30% Self DPS | Free |
+| ![Grappler Icon](images/featicons/selfdps.png) | `Grappler` | 60% Self DPS | Gold Chest |
+| ![Selflessness Icon](images/featicons/globaldps.png) | `Selflessness` | 10% All Champion Damage | Free |
+| ![Inspiring Leader Icon](images/featicons/globaldps.png) | `Inspiring Leader` | 25% All Champion Damage | Gold Chest |
+| ![Blazing Destruction Icon](images/featicons/upgradefa.png) | `Blazing Destruction` | 20% Blazing Charisma | Free |
+| ![Charismatic Devastation Icon](images/featicons/upgradefa.png) | `Charismatic Devastation` | 40% Blazing Charisma | 12,500 Gems |
+| ![Enlarge Icon](images/featicons/upgradefa.png) | `Enlarge` | 40% Gigantic Growth | 12,500 Gems |
+| ![Immolation Icon](images/featicons/immolation.png) | `Immolation` | 1s BUD per sec for 5s | 50,000 Gems |
+| ![Fired Up Icon](images/featicons/upgradefa.png) | `Fired Up` | 20% All Specialisations | Gold Chest |
 
 # Legendaries
 
