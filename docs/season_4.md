@@ -14,21 +14,21 @@
 * [Season Chest Icons](#season-chest-icons)
 <br />
 
-![Season 4 Icon](images/season_s4/icon.png)
+![Season 4 Icon](images/season_4/icon.png)
 
 # Season 4
 
-![Season 4 Banner](images/season_s4/banner.png)
+![Season 4 Banner](images/season_4/banner.png)
 
 Season 4 - `Legends of the Mithral Hall` - is expected to start on 21 June 2023.
 
 # Theme
 
-![Season 4 Portrait](images/season_s4/portrait.png)
+![Season 4 Portrait](images/season_4/portrait.png)
 
 With the presence of the `Season 4 Chests` in the defines - giving gear for Regis Catti-brie Wulfgar Pwent and Artemis - it's clear season 4 will be for Companions of the Hall and peripherally related champions. Given that there are also a bunch of `Mythic` skins for most of them - it's as certain as a spoiler can be that they'll be the season champions.
 
-![Season 4 Ad Panel](images/season_s4/adpanel.png)
+![Season 4 Ad Panel](images/season_4/adpanel.png)
 
 # Changes
 
@@ -38,7 +38,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Catti-brie
 
-![Catti-brie Portrait](images/season_s4/catti-brie.png)
+![Catti-brie Portrait](images/season_4/catti-brie.png)
 
 **Base Attack: Long Shot**
 > Catti-brie shoots the farthest enemy with her bow.
@@ -455,7 +455,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Pwent
 
-![Pwent Portrait](images/season_s4/pwent.png)
+![Pwent Portrait](images/season_4/pwent.png)
 
 **Base Attack: Spiked Hug**
 > Pwent lowers his head and rushes to a random enemy, using his armor as a weapon to cut & injure the enemy.
@@ -797,7 +797,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Regis
 
-![Regis Portrait](images/season_s4/regis.png)
+![Regis Portrait](images/season_4/regis.png)
 
 **Base Attack: Reluctant Stab**
 > Regis reluctantly stabs the nearest enemy with his dagger.
@@ -1047,7 +1047,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Wulfgar
 
-![Wulfgar Portrait](images/season_s4/wulfgar.png)
+![Wulfgar Portrait](images/season_4/wulfgar.png)
 
 **Base Attack: Tempus Strike**
 > Wulfgar smashes the nearest group of enemies with his warhammer.
@@ -1406,7 +1406,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Bruenor
 
-![Bruenor Portrait](images/season_s4/bruenor.png)
+![Bruenor Portrait](images/season_4/bruenor.png)
 
 **King of the Hall**
 > Your formation gains one Mithral Hall stack. Bruenor increases the effect of Rally by `$(not_buffed amount)%` for each Mithral Hall stack you have, stacking multiplicatively.
@@ -1455,7 +1455,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Drizzt
 
-![Drizzt Portrait](images/season_s4/drizzt.png)
+![Drizzt Portrait](images/season_4/drizzt.png)
 
 **Leader of the Companions**
 > Increase Drizzt's damage by `$amount%` for each Companions of the Hall Champion in the formation.
@@ -1556,7 +1556,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 | Shop | Inventory |
 |---|---|
-| ![Shop Season Chest Icon](images/season_s4/chest.png) | ![Inventory Season Chest Icon](images/season_s4/chestInv.png) |
+| ![Shop Season Chest Icon](images/season_4/chest.png) | ![Inventory Season Chest Icon](images/season_4/chestInv.png) |
 
 [Back to Top](#top)
 
