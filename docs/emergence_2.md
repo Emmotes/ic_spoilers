@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![Emergence 2 Banner](images/emergence_2_banner.png)
+![Emergence 2 Banner](images/emergence_2/banner.png)
 
 # Emergence 2
 
@@ -25,7 +25,7 @@ The contents of the `Modron Emergence Chest` will be loot for Nrakk Dragonbait A
 
 | Shop | Inventory |
 |---|---|
-| ![Shop Modron Emergence Chest Icon](images/emergence_2_chest.png) | ![Inventory Modron Emergence Chest Icon](images/emergence_2_chestInv.png) |
+| ![Shop Modron Emergence Chest Icon](images/emergence_2/chest.png) | ![Inventory Modron Emergence Chest Icon](images/emergence_2/chestInv.png) |
 
 [Back to Top](#top)
 
