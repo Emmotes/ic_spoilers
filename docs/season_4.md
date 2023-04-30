@@ -26,7 +26,7 @@ Season 4 - `Legends of the Mithral Hall` - is expected to start on 21 June 2023.
 
 ![Season 4 Portrait](images/season_4/portrait.png)
 
-With the presence of the `Season 4 Chests` in the defines - giving gear for Regis Catti-brie Wulfgar Pwent and Artemis - it's clear season 4 will be for Companions of the Hall and peripherally related champions. Given that there are also a bunch of `Mythic` skins for most of them - it's as certain as a spoiler can be that they'll be the season champions.
+With the presence of the `Legends of Mithral Hall Chests` in the defines - giving gear for Regis Catti-brie Wulfgar Pwent and Artemis - it's clear season 4 will be for Companions of the Hall and peripherally related champions. Given that there are also a bunch of `Mythic` skins for most of them - it's as certain as a spoiler can be that they'll be the season champions.
 
 ![Season 4 Ad Panel](images/season_4/adpanel.png)
 
