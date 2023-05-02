@@ -18,7 +18,7 @@ These are the champions that are upcoming and all the information we know about 
   * [BBEG](bbeg.md) - Drow Elf Warlock of Awful Ones (Guess)
 * Founder's Day - 28 June 2023
   * [Strongheart](strongheart.md) - Human Paladin (Guess)
-* Evergreen - ??? (Guess)
+* Evergreen - ???
   * [Commodore Krux](commodore krux.md) - Giff (Guess)
 
 # Recurring Events
