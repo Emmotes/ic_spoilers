@@ -14,11 +14,11 @@ Commodore Krux will be an upcoming Evergreen champion.
 
 * Seat: Unknown
 * Race: Giff (Guess)
-* Class: Unknown.
+* Class: Unknown
 * Roles: Unknown
 * Age: Unknown
 * Gender: Male (Guess)
-* Alignment: Unknown.
+* Alignment: Unknown
 * Affiliation: Unknown
 * Stats: Unknown
 

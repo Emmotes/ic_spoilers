@@ -19,7 +19,7 @@ These are the champions that are upcoming and all the information we know about 
 * Founder's Day - 28 June 2023
   * [Strongheart](strongheart.md) - Human Paladin (Guess)
 * Evergreen - ??? (Guess)
-  * [Commodore Krux](commodore krux.md) - Giff Unknown. (Guess)
+  * [Commodore Krux](commodore krux.md) - Giff (Guess)
 
 # Recurring Events
 
