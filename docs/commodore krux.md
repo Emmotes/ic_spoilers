@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![PC Portrait](images/commodore krux/portrait.png)
-{% endcomment %}
 
 # Commodore Krux
 
