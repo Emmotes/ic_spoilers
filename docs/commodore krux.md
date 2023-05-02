@@ -86,19 +86,15 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Console Portrait
 
 ![Console Portrait](images/commodore krux/console.png)
-{% endcomment %}
 
-{% comment %}
 # Chests
 
 | Gold | Silver |
 |---|---|
-| ![Gold Chest](images/commodore krux/chest_gold.png) | ![Silver Chest](images/commodore krux/chest_silver.png) |
-{% endcomment %}
+| ![Gold Chest](images/commodore krux/chest_gold.png) |   |
 
 [Back to Top](#top)
 
