@@ -92,9 +92,9 @@ Unknown.
 
 # Chests
 
-| Gold | Silver |
-|---|---|
-| ![Gold Chest](images/commodore krux/chest_gold.png) |   |
+| Gold |
+|---|
+| ![Gold Chest](images/commodore krux/chest_gold.png) |
 
 [Back to Top](#top)
 
