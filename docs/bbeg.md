@@ -64,7 +64,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <p>
 <pre>
 {
-    "description": "Balgronuuth's symbol appears in the air for 30 seconds; causing Rise, my Minions! to summon two zombies instead of one.",
+    "description": "Balgronuuth's symbol appears in the air for 30 seconds, causing Rise, My Minions! to summon two zombies instead of one.",
     "long_description": "Balgronuuth's symbol appears in the air for 30 seconds. While the symbol is in the air, every time Rise, My Minions! summons a zombie, it summons two instead of one.",
     "damage_modifier": 0,
     "damage_types": ["magic"],
