@@ -1106,11 +1106,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "num_targets": 1,
     "animations": [{
         "line_damage_distance": 100,
+        "projectile_details": {"projectile_graphic_id": 3908},
         "shoot_offset_y": -30,
         "shoot_offset_x": 20,
         "damage_tanked_monsters": true,
         "stun_on_hit": 10,
-        "projectile_graphic_id": 1,
         "hold_for_projectiles_frame": 35,
         "type": "ranged_attack",
         "projectile": "wulfgar_hammer",
