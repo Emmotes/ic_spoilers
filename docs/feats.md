@@ -10,9 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
-| ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | DM | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
-| ![Immolation Icon](images/featicons/immolation.png) | Immolation | Nixie | 1s BUD per sec for 5s | 50,000 Gems | 03 May 2023 |
-| ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | Omin | 50% All Champion Damage | 50,000 Gems | 03 May 2023 |
 | ![Warrior's Grace Icon](images/featicons/selfdps.png) | Warrior's Grace | Krond | 120% Self DPS | 50,000 Gems | 17 May 2023 |
 | ![Proud Papa Icon](images/featicons/upgradefa.png) | Proud Papa | Mehen | 80% Brimstone Angels | 50,000 Gems | 24 May 2023 |
 | ![Modron Sensibilities Icon](images/featicons/upgradefa.png) | Modron Sensibilities | Nordom | 80% Rule of Law | 50,000 Gems | 24 May 2023 |

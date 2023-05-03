@@ -4,48 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Lord of Waterdeep Omin Skin & Feat Pack - $9.99  
-Date of release: 03 May 2023
-
-Contents:
-
-* Champion: `Omin Dran`
-* Skin: `Lord of Waterdeep Omin`
-* Feat: `Prodigal Leader` (Omin)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Omin Chest` x7 (Shinies x1)
-
-<br />
-
-### Vacation Dungeon Master Skin & Feat Pack - $9.99  
-Date of release: 03 May 2023
-
-Contents:
-
-* Champion: `Dungeon Master`
-* Skin: `Vacation Dungeon Master`
-* Feat: `Prodigal Leader` (DM)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Dungeon Master Chest` x7 (Shinies x1)
-
-<br />
-
-### Witchlight Nixie Theme Pack - $24.99  
-Date of release: 03 May 2023
-
-Contents:
-
-* Champion: `Nixie`
-* Skin: `Witchlight Nixie`
-* Feat: `Immolation` (Nixie)
-* Familiar: `Dargle-bark the Bearowl`
-* Chests: `Gold Nixie Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
 ### A Familiar Quest: The Villains Bundle Pack - $23.99  
 Date of release: 08 May 2023
 

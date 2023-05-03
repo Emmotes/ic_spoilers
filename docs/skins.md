@@ -8,9 +8,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 
 | Portrait | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| ![Vacation Dungeon Master Portrait](images/skin_portraits/vacationdungeonmaster.png) | Vacation Dungeon Master | Vacation Dungeon Master Skin & Feat Pack | $9.99 | 03 May 2023 |
-| ![Witchlight Nixie Portrait](images/skin_portraits/witchlightnixie.png) | Witchlight Nixie | Witchlight Nixie Theme Pack | $24.99 | 03 May 2023 |
-| ![Lord of Waterdeep Omin Portrait](images/skin_portraits/lordofwaterdeepomin.png) | Lord of Waterdeep Omin | Lord of Waterdeep Omin Skin & Feat Pack | $9.99 | 03 May 2023 |
 | ![Scholar Krond Portrait](images/skin_portraits/scholarkrond.png) | Scholar Krond | Scholar Krond Skin & Feat Pack | $9.99 | 17 May 2023 |
 | ![Modron Antrius Portrait](images/skin_portraits/modronantrius.png) | Modron Antrius | Emergence 2 (Guess) | ??? | 24 May 2023 |
 | ![Witchlight Evandra Portrait](images/skin_portraits/witchlightevandra.png) | Witchlight Evandra | Witchlight Evandra Theme Pack | $24.99 | 24 May 2023 |
