@@ -18,7 +18,7 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 * Roles: Support / Tank (Guess)
 * Age: Unknown
 * Gender: Female (Guess)
-* Alignment: Unknown
+* Alignment: Neutral (Guess)
 * Affiliation: Awful Ones (Guess)
 * Stats: Unknown
 
