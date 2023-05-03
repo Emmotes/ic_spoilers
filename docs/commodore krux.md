@@ -4,6 +4,8 @@
 
 # Commodore Krux
 
+This evergreen champion is almost certainly going to release with a Xaryxis content drop. We just don't know which yet.
+
 > The giff Commodore Krux of the Second Wind met a group of adventurers in the Happy Beholder to recruit them to fight against the astral elves of the Xaryxian Empire.
 
 [Wiki](https://forgottenrealms.fandom.com/wiki/Happy_Beholder)
