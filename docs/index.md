@@ -10,8 +10,6 @@ Of course - spoilers are subject to change at any time. Don't plan any major lif
 
 These are the champions that are upcoming and all the information we know about them. Dates are guesstimates based on the normal event schedule.
 
-* The Running - 3 May 2023
-  * [Nixie](nixie.md) - Tiefling Sorcerer of Awful Ones
 * The Great Modron March - 24 May 2023
   * [Evandra](evandra.md) - Half-Elf Fighter of Awful Ones (Guess)
 * Dragondown - 7 June 2023
