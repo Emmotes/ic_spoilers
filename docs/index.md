@@ -27,7 +27,7 @@ Not events events - but events. You know? Seasons and Emergences.
 
 * [Emergence 2](emergence_2.md) - 24 May 2023
 * [Season 4](season_4.md) - 21 June 2023 (Guess)
-* Emergence 3 - 12 July 2023 (Guess)
+* Emergence 3 - 30 August 2023
 * Season 5 - 13 September 2023 (Guess)
 
 # Misc
