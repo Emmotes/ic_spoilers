@@ -6,7 +6,7 @@
 
 # Vin Ursa
 
-I know absolutely nothing about this champion. The only data I have to suggest they're even a champion is the `Astral Vin Ursa` skin in the defines.
+I know absolutely nothing about this champion. The only data I have to suggest they're even a champion is the `Astral Vin Ursa` [skin](skins.md) in the defines.
 
 # Basic Information
 
