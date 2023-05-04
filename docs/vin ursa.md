@@ -1,0 +1,103 @@
+[Back to Main](index.md)
+
+{% comment %}
+![PC Portrait](images/vin ursa/portrait.png)
+{% endcomment %}
+
+# Vin Ursa
+
+I know absolutely nothing about this champion. The only data I have to suggest they're even a champion is the `Astral Vin Ursa` skin in the defines.
+
+# Basic Information
+
+Vin Ursa will be the new champion in the Midsummer event on 19 July 2023.
+
+* Seat: Unknown
+* Race: Unknown
+* Class: Unknown
+* Roles: Unknown
+* Age: Unknown
+* Gender: Unknown
+* Alignment: Unknown
+* Affiliation: Unknown
+* Stats: Unknown
+
+# Formation
+
+Unknown.
+{% comment %}
+![Formation Layout](images/vinursa/formation.png)
+{% endcomment %}
+
+# Abilities
+
+**Base Attack: Unknown**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+</pre>
+</p>
+</details>
+<br />
+
+**Ultimate Attack: Unknown**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+</pre>
+</p>
+</details>
+<br />
+
+# Specialisations
+
+Unknown.
+
+# Items
+
+| Slot | Name | Type |
+|---|---|---|
+| 1 | `Unknown` | Unknown |
+| 2 | `Unknown` | Unknown |
+| 3 | `Unknown` | Unknown |
+| 4 | `Unknown` | Unknown |
+| 5 | `Unknown` | Unknown |
+| 6 | `Unknown` | Unknown |
+
+# Feats
+
+Unknown.
+
+# Legendaries
+
+Unknown.
+
+{% comment %}
+# Console Portrait
+
+![Console Portrait](images/vin ursa/console.png)
+{% endcomment %}
+
+{% comment %}
+# Chests
+
+| Gold | Silver |
+|---|---|
+| ![Gold Chest](images/vin ursa/chest_gold.png) | ![Silver Chest](images/vin ursa/chest_silver.png) |
+{% endcomment %}
+
+[Back to Top](#top)
+
+*Last Modified: {{ site.time }}*

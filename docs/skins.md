@@ -32,6 +32,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Vampire Pwent | ??? | ??? | 19 Jul 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Frost Reaver Wulfgar | ??? | ??? | 19 Jul 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Fighting Pits Tatyana | Fighting Pits Tatyana Skin & Feat Pack | $9.99 | 26 Jul 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Astral Vin Ursa | ??? | ??? | 26 Jul 2023 |
 
 [Back to Top](#top)
 
