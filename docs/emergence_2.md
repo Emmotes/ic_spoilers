@@ -29,6 +29,8 @@ The contents of the `Modron Emergence Chest` will be loot for Nrakk Dragonbait A
 
 # Emergence FAQ
 
+The FAQ was recently updated to reflect emergence 2. It was reverted fairly quickly - but I was able to snapshot it first. This is it.
+
 ### What is an Emergence Event?
 
 Emergence Events are limited-time events where designated monsters begin to appear in all Free Play adventures. These additional monsters (and any existing versions of them) will drop Corrupted Gems during the Emergence Event.
