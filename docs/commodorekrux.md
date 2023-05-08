@@ -53,11 +53,96 @@ Unknown.
 </details>
 <br />
 
-**Unknown**
+**All Hands on Deck**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19883,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Champions/Icon_Formation_KruxAllHandsOnDeck",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Batten Hatches**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19884,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Champions/Icon_Formation_KruxBattenHatches",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Battle Stations**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19885,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Champions/Icon_Formation_KruxBattleStations",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Experienced Sailor**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19886,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Champions/Icon_Formation_KruxExperiencedSailor",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Starfarers Spyglass**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19887,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Champions/Icon_Formation_KruxStarfarersSpyglass",
+    "fs": 0
+}
 </pre>
 </p>
 </details>
@@ -65,7 +150,62 @@ Unknown.
 
 # Specialisations
 
-Unknown.
+**Specialisation: Foe of Xaryxis**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19888,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Champions/Icon_Specialization_KruxFoeofXaryxis",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Nautical Knockback**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19889,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Champions/Icon_Specialization_KruxNauticalKnockback",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Take the Helm**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 19890,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Champions/Icon_Specialization_KruxTaketheHelm",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
 
 # Items
 
