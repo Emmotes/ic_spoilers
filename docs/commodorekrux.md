@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![PC Portrait](images/commodore krux/portrait.png)
+![PC Portrait](images/commodorekrux/portrait.png)
 
 # Commodore Krux
 
@@ -88,13 +88,13 @@ Unknown.
 
 # Console Portrait
 
-![Console Portrait](images/commodore krux/console.png)
+![Console Portrait](images/commodorekrux/console.png)
 
 # Chests
 
 | Gold |
 |---|
-| ![Gold Chest](images/commodore krux/chest_gold.png) |
+| ![Gold Chest](images/commodorekrux/chest_gold.png) |
 
 [Back to Top](#top)
 

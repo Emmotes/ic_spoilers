@@ -1,7 +1,7 @@
 [Back to Main](index.md)
 
 {% comment %}
-![PC Portrait](images/vin ursa/portrait.png)
+![PC Portrait](images/vinursa/portrait.png)
 {% endcomment %}
 
 # Vin Ursa
@@ -87,7 +87,7 @@ Unknown.
 {% comment %}
 # Console Portrait
 
-![Console Portrait](images/vin ursa/console.png)
+![Console Portrait](images/vinursa/console.png)
 {% endcomment %}
 
 {% comment %}
@@ -95,7 +95,7 @@ Unknown.
 
 | Gold | Silver |
 |---|---|
-| ![Gold Chest](images/vin ursa/chest_gold.png) | ![Silver Chest](images/vin ursa/chest_silver.png) |
+| ![Gold Chest](images/vinursa/chest_gold.png) | ![Silver Chest](images/vinursa/chest_silver.png) |
 {% endcomment %}
 
 [Back to Top](#top)

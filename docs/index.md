@@ -17,9 +17,9 @@ These are the champions that are upcoming and all the information we know about 
 * Founder's Day - 28 June 2023
   * [Strongheart](strongheart.md) - Human Paladin (Guess)
 * Midsummer - 19 July 2023
-  * [Vin Ursa](vin ursa.md) - Unknown
+  * [Vin Ursa](vinursa.md) - Unknown
 * Evergreen - ???
-  * [Commodore Krux](commodore krux.md) - Giff (Guess)
+  * [Commodore Krux](commodorekrux.md) - Giff (Guess)
 
 # Recurring Events
 
