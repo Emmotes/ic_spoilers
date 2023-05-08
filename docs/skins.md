@@ -25,12 +25,12 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Mythic Regis Portrait](images/skin_portraits/mythicregis.png) | Mythic Regis | Season 4 | ??? | 14 Jun 2023 |
 | ![Mythic Wulfgar Portrait](images/skin_portraits/mythicwulfgar.png) | Mythic Wulfgar | Season 4 | ??? | 14 Jun 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mythic Ishi | Mythic Ishi Skin & Feat Pack | $9.99 | 21 Jun 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mythic Jarlaxle | ??? | ??? | 22 Jun 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mythic Sgt. Knox | ??? | ??? | 28 Jun 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mythic Freely | ??? | ??? | 12 Jul 2023 |
-| ![Mythic Drizzt Portrait](images/skin_portraits/mythicdrizzt.png) | Mythic Drizzt | ??? | ??? | 19 Jul 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Vampire Pwent | ??? | ??? | 19 Jul 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Frost Reaver Wulfgar | ??? | ??? | 19 Jul 2023 |
+| ![Mythic Jarlaxle Portrait](images/skin_portraits/mythicjarlaxle.png) | Mythic Jarlaxle | ??? | ??? | 22 Jun 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mythic Sgt. Knox | Mythic Sgt. Knox Skin & Feat Pack | $9.99 | 28 Jun 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mythic Freely | Mythic Freely Skin & Feat Pack | $9.99 | 12 Jul 2023 |
+| ![Mythic Drizzt Portrait](images/skin_portraits/mythicdrizzt.png) | Mythic Drizzt | Mythic Drizzt Skin & Feat Pack | $9.99 | 19 Jul 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Vampire Pwent | Vampire Pwent Skin & Feat Pack | $9.99 | 19 Jul 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Frost Reaver Wulfgar | Frost Reaver Wulfgar Theme Pack | $24.99 | 19 Jul 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Fighting Pits Tatyana | Fighting Pits Tatyana Skin & Feat Pack | $9.99 | 26 Jul 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Astral Vin Ursa | ??? | ??? | 26 Jul 2023 |
 

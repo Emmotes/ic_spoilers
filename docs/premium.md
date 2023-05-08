@@ -248,6 +248,86 @@ Contents:
 
 <br />
 
+### Mythic Sgt. Knox Skin & Feat Pack - $9.99  
+Date of release: 28 Jun 2023
+
+Contents:
+
+* Champion: `Sergeant Knox`
+* Skin: `Mythic Sgt. Knox`
+* Feat: `Rally of the Protectors` (Sgt. Knox)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Sergeant Knox Chest` x7 (Shinies x1)
+
+<br />
+
+### Little Luigi the Parrot Familiar Pack - $4.99  
+Date of release: 12 Jul 2023
+
+Contents:
+
+* Familiar: `Little Luigi the Parrot`
+* Buff: `Huge Potion of Speed` x2
+* Buff: `Huge Potion of Giant's Strength` x2
+* Buff: `Huge Potion of Clairvoyance` x2
+
+<br />
+
+### Mythic Freely Skin & Feat Pack - $9.99  
+Date of release: 12 Jul 2023
+
+Contents:
+
+* Champion: `Freely`
+* Skin: `Mythic Freely`
+* Feat: `Fortune's Favor` (Freely)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Freely Chest` x7 (Shinies x1)
+
+<br />
+
+### Frost Reaver Wulfgar Theme Pack - $24.99  
+Date of release: 19 Jul 2023
+
+Contents:
+
+* Champion: `Wulfgar, son of Beornegar`
+* Skin: `Frost Reaver Wulfgar`
+* Feat: ???
+* Familiar: `Ice Mephit`
+* Chests: `Gold Wulfgar Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+
+<br />
+
+### Mythic Drizzt Skin & Feat Pack - $9.99  
+Date of release: 19 Jul 2023
+
+Contents:
+
+* Skin: `Mythic Drizzt`
+* Feat: `Guardian of the Hall` (Drizzt)
+* Chests: `Gold Drizzt Chest` x7
+* Buff: `Potion of Polish` x1
+
+<br />
+
+### Vampire Pwent Skin & Feat Pack - $9.99  
+Date of release: 19 Jul 2023
+
+Contents:
+
+* Champion: `Thibbledorf Pwent`
+* Skin: `Vampire Pwent`
+* Feat: ???
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Pwent Chest` x7 (Shinies x1)
+
+<br />
+
 ### Fighting Pits Tatyana Skin & Feat Pack - $9.99  
 Date of release: 26 Jul 2023
 
