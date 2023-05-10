@@ -4,7 +4,7 @@
 
 # Evandra
 
-Rough and tumble, and ready for action, half-elven Fighter Evandra brings the muscle. Evandra ran away from home when her father discovered that she had been training in strength and combat. He tried to force her into an arranged marriage with an elven nobleman, but Evandra rejected this on both principle and taste. She decided instead to become an adventurer, free from her father's judgement.
+Rough and tumble, and ready for action, half-elven Fighter Evandra brings the muscle. Evandra ran away from home when her father discovered that she had been training in strength and combat. He tried to force her into an arranged marriage with an elven nobleman, but Evandra rejected this on both principle and taste. She decided instead to become an adventurer, free from her father's judgment.
 
 # Basic Information
 
