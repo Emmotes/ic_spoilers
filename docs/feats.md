@@ -11,6 +11,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
 | ![Warrior's Grace Icon](images/featicons/selfdps.png) | Warrior's Grace | Krond | 120% Self DPS | 50,000 Gems | 17 May 2023 |
+| ![Ringmaster Icon](images/featicons/upgradefa.png) | Ringmaster | Evandra | 80% Freedom's Fury | 50,000 Gems | 24 May 2023 |
 | ![Proud Papa Icon](images/featicons/upgradefa.png) | Proud Papa | Mehen | 80% Brimstone Angels | 50,000 Gems | 24 May 2023 |
 | ![Modron Sensibilities Icon](images/featicons/upgradefa.png) | Modron Sensibilities | Nordom | 80% Rule of Law | 50,000 Gems | 24 May 2023 |
 | ![Entertainer Icon](images/featicons/attributeboostx2.png) | Entertainer | Nrakk | Stat: +2 Charisma | Emergence 2 | 24 May 2023 |
@@ -30,6 +31,8 @@ Feats that are listed as Free will be available immediately the moment they rele
 | ![Guardian of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Guardian of the Hall | Drizzt | +2 Mithral Hall Stacks | 50,000 Gems | 19 Jul 2023 |
 | ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | Tatyana | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
 | ![The Bard Spittin' Bars Icon](images/featicons/upgradefa.png) | The Bard Spittin' Bars | Antrius | 40% Can't be De-Feat-ed | 12,500 Gems | 13 Sep 2023 |
+| ![Entertainer Icon](images/featicons/attributeboostx2.png) | Entertainer | Evandra | Stat: +2 Charisma | 50,000 Gems | 13 Sep 2023 |
+| ![Taunt Icon](images/featicons/taunt.png) | Taunt | Evandra | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
 | ![Puntastic Icon](images/featicons/upgradefa.png) | Puntastic | Merilwen | 40% Punishing Puns | 12,500 Gems | 13 Sep 2023 |
 | ![Taunt Icon](images/featicons/taunt.png) | Taunt | Nayeli | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
 | ![Heavy Lifter Icon](images/featicons/attributeboost.png) | Heavy Lifter | Nixie | Stat: +2 Strength | 50,000 Gems | 13 Sep 2023 |

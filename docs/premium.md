@@ -69,7 +69,7 @@ Contents:
 
 * Champion: `Evandra`
 * Skin: `Witchlight Evandra`
-* Feat: ???
+* Feat: `Ringmaster` (Evandra)
 * Familiar: `Meatshield the Fey Lion`
 * Chests: `Gold Evandra Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
