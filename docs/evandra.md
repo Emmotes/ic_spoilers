@@ -4,23 +4,30 @@
 
 # Evandra
 
-Evandra is a "half-elf fighter" from the 1 For All sketch show.
-
-[https://tvtropes.org/pmwiki/pmwiki.php/Characters/OneForAll](https://tvtropes.org/pmwiki/pmwiki.php/Characters/OneForAll)
+Rough and tumble, and ready for action, half-elven Fighter Evandra brings the muscle. Evandra ran away from home when her father discovered that she had been training in strength and combat. He tried to force her into an arranged marriage with an elven nobleman, but Evandra rejected this on both principle and taste. She decided instead to become an adventurer, free from her father's judgment.
 
 # Basic Information
 
 Evandra will be the new champion in the The Great Modron March event on 24 May 2023.
 
-* Seat: Unknown
-* Race: Half-Elf (Guess)
-* Class: Fighter (Guess)
-* Roles: Support / Tank (Guess)
-* Age: Unknown
-* Gender: Female (Guess)
-* Alignment: Neutral (Guess)
-* Affiliation: Awful Ones (Guess)
-* Stats: Unknown
+* Seat: 5
+* Race: Half-Elf
+* Class: Fighter
+* Roles: Support / Tanking / Gold
+* Age: 27
+* Gender: Female
+* Alignment: Chaotic Neutral
+* Affiliation: Awful Ones
+
+| Stat | Value | Day 1 Trials | Patrons |
+|---|---|---|---|
+| Strength | 17 | Yes | - |
+| Dexterity | 12 | Yes | Vajra |
+| Constitution | 16 | Yes | Strahd (with Feat) |
+| Intelligence | 12 | Yes | - |
+| Wisdom | 9 | - | |
+| Charisma | 11 | Yes | |
+| Total | 77 | |
 
 # Formation
 
@@ -28,7 +35,7 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 
 # Abilities
 
-**Base Attack: Trusty Sword** (Melee)
+![Melee Icon](images/icon_melee.png) **Base Attack: Trusty Sword** (Melee)
 > Evandra moves up next to the closest enemy and swings her sword, dealing 1 hit to all nearby enemies.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -62,7 +69,7 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 </details>
 <br />
 
-**Ultimate Attack: Improvised Arms**
+![Improvised Arms Icon](images/evandra/icon_improvisedarms.png) **Ultimate Attack: Improvised Arms** (Level: 0)
 > A mechanical guard charges toward the party. Evandra moves up, attacks the guard, and instantly "disarms" it and defeats it. Evandra uses the guard's arm as a weapon for the next 15 seconds instead of her sword. For the duration, Evandra's attack deals an additional 3 seconds of BUD damage, her normal attack speed cooldown is faster by 2 seconds, and Freedom's Fury is increased by 100% for the duration.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -94,11 +101,57 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 </details>
 <br />
 
-**Freedoms Fury** (Guess)
-> Evandra increases the damage of all Neutral (Good/Evil axis) Champions by `$(amount)%`.
+**Evandra, the Magnificent** (Level: 0)
+> Evandra can be used in any Wild Beyond the Witchlight campaign adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 0,
+    "effect": "effect_def,1481",
+    "name": "Evandra, the Magnificent",
+    "id": 11294,
+    "hero_id": 124,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [{"effect_string": "do_nothing"}],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) can be used in any Wild Beyond the Witchlight campaign adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions."},
+    "id": 1481,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+![Freedom's Fury Icon](images/evandra/icon_freedom'sfury.png) **Freedom's Fury** (Level: 20)
+> Evandra increases the damage of all Neutral (Good/Evil axis) Champions by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 20,
+    "effect": "effect_def,1482",
+    "tip_text": "Evandra buffs Neutral Champions on the Good / Evil axis. Try using Lawful and Chaotic Neutral Champions with her.",
+    "name": "Freedom's Fury",
+    "id": 11295,
+    "hero_id": 124,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [{
         "off_when_benched": true,
@@ -121,11 +174,23 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 </details>
 <br />
 
-**Never Completely Armless** (Guess)
-> When Evandra's health is brought to zero, she loses her left arm but returns to full health. Her arm regrows after moving to a new area. While missing her arm, she increases the damage bonus of `$(upgrade_name id___3)` by `$(not_buffed amount___2)%` for each second she had her arm in the current area, stacking additively and being applied multiplicatively.
+![Never Completely 'Armless Icon](images/evandra/icon_nevercompletely'armless.png) **Never Completely 'Armless** (Level: 80)
+> When Evandra's health is brought to zero, she loses her left arm but returns to full health. Her arm regrows after moving to a new area. While missing her arm, she increases the damage bonus of Freedom's Fury by 100% for each second she had her arm in the current area, stacking additively and being applied multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 80,
+    "effect": "effect_def,1483",
+    "tip_text": "The first time Evandra would otherwise die in an area, she merely loses and arm and returns to full health.",
+    "name": "Never Completely 'Armless",
+    "id": 11296,
+    "hero_id": 124,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -163,13 +228,24 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 </details>
 <br />
 
-**Find the Secret Stash** (Guess)
-> Increases the formation's gold find by `$(not_buffed amount)%`. Every time a Champion attacks but does not defeat an enemy, increase this bonus by `$(not_buffed amount___2)%`, stacking additively up to `$(max_stacks___2)` times and applying multiplicatively. This bonus resets when an enemy is defeated.
+![Find the Secret Stash Icon](images/evandra/icon_findthesecretstash.png) **Find the Secret Stash** (Level: 120)
+> Increases the formation's gold find by 100%. Every time a Champion attacks but does not defeat an enemy, increase this bonus by 50%, stacking additively up to 120 times and applying multiplicatively. This bonus resets when an enemy is defeated.
 >  
-> - Total Gold Find Bonus: `$(amount)%`.
+> - Total Gold Find Bonus: 100%
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 120,
+    "effect": "effect_def,1484",
+    "name": "Find the Secret Stash",
+    "id": 11297,
+    "hero_id": 124,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -215,11 +291,22 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 </details>
 <br />
 
-**Inspiring Fortitude** (Guess)
-> Evandra increases the health of all other Champions by `$(amount)%` of her max health, and healing effects on all Champions is increased by `$(amount___2)%`.
+![Inspiring Fortitude Icon](images/evandra/icon_inspiringfortitude.png) **Inspiring Fortitude** (Level: 160)
+> Evandra increases the health of all other Champions by 25% of her max health, and healing effects on all Champions is increased by 25%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 160,
+    "effect": "effect_def,1485",
+    "name": "Inspiring Fortitude",
+    "id": 11298,
+    "hero_id": 124,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -251,11 +338,25 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 
 # Specialisations
 
-**Specialisation: Carnival Crew** (Guess)
-> Evandra increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively, and all Awful Ones Champions can be used in Witchlight adventures, even if they do not meet the base restrictions.
+![Carnival Crew Icon](images/evandra/icon_carnivalcrew.png) **Carnival Crew** (Level: 200)
+> Evandra increases the damage bonus of Freedom's Fury by 150% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively, and all Awful Ones Champions can be used in Witchlight adventures, even if they do not meet the base restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Carnival Crew",
+    "required_level": 200,
+    "effect": "effect_def,1488",
+    "name": "Carnival Crew",
+    "specialization_graphic_id": 19316,
+    "id": 11301,
+    "hero_id": 124,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Evandra focuses on her connection with her Awful Ones affiliation"
+}
 {
     "effect_keys": [
         {
@@ -299,11 +400,25 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 </details>
 <br />
 
-**Specialisation: Fighting Force** (Guess)
-> Evandra increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Fighter, Barbarian, Ranger, or Paladin Champion in the formation, stacking multiplicatively and applied multiplicatively.
+![Fighting Force Icon](images/evandra/icon_fightingforce.png) **Fighting Force** (Level: 200)
+> Evandra increases the damage bonus of Freedom's Fury by 125% for each Fighter, Barbarian, Ranger, or Paladin Champion in the formation, stacking multiplicatively and applied multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Fighting Force",
+    "required_level": 200,
+    "effect": "effect_def,1487",
+    "name": "Fighting Force",
+    "specialization_graphic_id": 19317,
+    "id": 11300,
+    "hero_id": 124,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Evandra focuses on her connection with battle-hardened Champions"
+}
 {
     "effect_keys": [{
         "stacks_multiply": true,
@@ -328,11 +443,25 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 </details>
 <br />
 
-**Specialisation: Powerful Allies** (Guess)
-> Evandra increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Female or Nonbinary Champion in the formation, stacking multiplicatively and applied multiplicatively.
+![Powerful Allies Icon](images/evandra/icon_powerfulallies.png) **Powerful Allies** (Level: 200)
+> Evandra increases the damage bonus of Freedom's Fury by 100% for each Female or Nonbinary Champion in the formation, stacking multiplicatively and applied multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Powerful Allies",
+    "required_level": 200,
+    "effect": "effect_def,1486",
+    "name": "Powerful Allies",
+    "specialization_graphic_id": 19318,
+    "id": 11299,
+    "hero_id": 124,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Evandra focuses on her connection with Female and Nonbinary Champions"
+}
 {
     "effect_keys": [{
         "stacks_multiply": true,
@@ -359,22 +488,143 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 
 # Items
 
-| Slot | Name | Type |
-|---|---|---|
-| 1 | `Armor` | Unknown |
-| 2 | `Drinking Horn` | Unknown |
-| 3 | `Fox Fur` | Unknown |
-| 4 | `Severed Limb` | Unknown |
-| 5 | `Sword` | Unknown |
-| 6 | `Trophy` | Unknown |
+| Icon | Slot | Epic Name | Type |
+|:-:|---|---|---|
+| ![Living Collar Icon](images/evandra/item_1.png) | 1 | `Living Collar` | All Champion Damage |
+| ![Armor of Victory Icon](images/evandra/item_2.png) | 2 | `Armor of Victory` | Health |
+| ![Blade of Vengeance Icon](images/evandra/item_3.png) | 3 | `Blade of Vengeance` | Freedom's Fury |
+| ![Necklace of Fury Icon](images/evandra/item_4.png) | 4 | `Necklace of Fury` | Find the Secret Stash |
+| ![Horn of the Infinite Icon](images/evandra/item_5.png) | 5 | `Horn of the Infinite` | All Specialisations |
+| ![Head of the Gnoll King Icon](images/evandra/item_6.png) | 6 | `Head of the Gnoll King` | Ultimate Cooldown Reduction |
+
+<details><summary><em>Item Names and Descriptions</em></summary>
+<p>
+<pre>
+Slot 1:
+       Faux Fur Collar: Of course it's fake - do you know how much stuff like this costs?
+Low-Quality Fur Collar: Made this one myself. There are only a few holes and burn marks on it.
+         Dire Fox Skin: It may look like it was adorable, but it nearly took my arm off!
+                        ...again.
+         Living Collar: Bandits are very surprised when this comes to life and bites their
+                        throats.
+
+Slot 2:
+        Borrowed Armor: Those guys were already dead when we found them in the alley.
+        Improved Armor: Can you believe this was just lying around in a house we broke into?
+         Heroic Outfit: Oh, I could totally strangle someone with this cape!
+      Armor of Victory: Won this at a jousting tourney. No thanks to Dargle-bark.
+
+Slot 3:
+          Rented Blade: I checked this out in Stormwood. They didn't even ask for collateral!
+          Bandit Sword: These bandits were strange. 'No, we're guards!' Barely fought back.
+     Trusty Long Sword: I've cut off SO many heads with this baby.
+    Blade of Vengeance: This sword was forged to kill me, but I killed them first! Easy fight,
+                        really.
+
+Slot 4:
+          Unknown Fang: Nixie stole this at some point. No idea what it is, but it looks kinda
+                        cool.
+             Orc Tooth: Got this off Mogdar during a battle of strength. He says he didn't
+                        agree to it.
+        Bearowl Trophy: Dargle-bark as a bearowl is really annoying - so I took this to shut
+                        him up.
+      Necklace of Fury: Pulled this off an eldritch beast after I fell through a portal. No big
+                        deal.
+
+Slot 5:
+            Dirty Horn: Found this on a dead guard. Don't ask what else I found...
+          Travel Qanci: Got this on discount after threatening the merchant's family.
+   Rejuvenating Kantsi: Lorienne blessed this horn to heal me in battle! But it only heals 1
+                        hp...
+  Horn of the Infinite: This horn never runs out of ale! I don't remember two tendays after
+                        getting it!
+
+Slot 6:
+    Evandra's Left Arm: No big deal. I'll just get Vlithryn to fix it.
+        Preserved Limb: Vlithryn didn't fix it... She just screeched and walked away. Very
+                        rude.
+        Mechanical Arm: I've beaten so many guards with this. Really gets the anger out.
+Head of the Gnoll King: Got a wizard to make it stop decaying because it looks cool on my belt.
+</pre>
+</p>
+</details>
+<br />
 
 # Feats
 
-Unknown.
+This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
+
+| Icon | Feat | Effect | Source |
+|---|---|---|---|
+| ![Selflessness Icon](images/featicons/globaldps.png) | `Selflessness` | 10% All Champion Damage | Free |
+| ![Inspiring Leader Icon](images/featicons/globaldps.png) | `Inspiring Leader` | 25% All Champion Damage | 12,500 Gems |
+| ![Tough Icon](images/featicons/health.png) | `Tough` | 15% Health | Free |
+| ![Resilient Icon](images/featicons/health.png) | `Resilient` | 30% Health | Gold Chest |
+| ![Defensive Duelist Icon](images/featicons/overhelm.png) | `Defensive Duelist` | +5 Overwhelm | Free |
+| ![Calm Under Pressure Icon](images/featicons/overhelm.png) | `Calm Under Pressure` | +10 Overwhelm | 12,500 Gems |
+| ![Frugal Icon](images/featicons/goldfind.png) | `Frugal` | 10% Gold | Free |
+| ![Lucky Icon](images/featicons/goldfind.png) | `Lucky` | 25% Gold | Gold Chest |
+| ![Improvised Weapon Icon](images/featicons/upgradefa.png) | `Improvised Weapon` | 20% Freedom's Fury | Free |
+| ![Neutral Ground Icon](images/featicons/upgradefa.png) | `Neutral Ground` | 40% Freedom's Fury | Gold Chest |
+| ![Ringmaster Icon](images/featicons/upgradefa.png) | `Ringmaster` | 80% Freedom's Fury | 50,000 Gems |
+| ![I've Had Worse Icon](images/featicons/upgradefa.png) | `I've Had Worse` | 40% Never Completely 'Armless | Gold Chest |
+| ![Look Harder! Icon](images/featicons/goldfind.png) | `Look Harder!` | 40% Find the Secret Stash | Gold Chest |
+| ![Best of the Awful Icon](images/featicons/upgradefa.png) | `Best of the Awful` | 40% All Specialisations | Gold Chest |
+| ![Keen Mind Icon](images/featicons/attributeboost.png) | `Keen Mind` | Stat: +1 Intelligence | 12,500 Gems |
 
 # Legendaries
 
-Unknown.
+* Increases the damage of all Champions by 10% for each Champion in the formation.
+* Increases the damage of all Champions by 20% for each Male Champion in the formation.
+* Increases the damage of all Champions by 70% for each Half-Elf Champion in the formation.
+* Increases the damage of all Champions with a CON score of 11 or higher by 100%.
+* Increases the damage of all Champions by 40% for each Champion with a STR score of 15 or higher in the formation.
+* Increases the damage of all Neutral Champions by 150%.
+
+<details><summary><em>DPS Applicable</em></summary>
+<p>
+<pre>
+     Arkhan: 6 / 6
+    Artemis: 5 / 6
+    Asharra: 4 / 6
+      Azaka: 5 / 6
+     Binwin: 5 / 6
+   Birdsong: 5 / 6
+Black Viper: 5 / 6
+ Catti-brie: 4 / 6
+     D'hani: 4 / 6
+     Delina: 4 / 6
+     Drizzt: 5 / 6
+    Farideh: 5 / 6
+        Fen: 4 / 6
+      Grimm: 5 / 6
+     Gromma: 5 / 6
+       Ishi: 4 / 6
+    Jaheira: 5 / 6
+    Jamilah: 5 / 6
+   Jarlaxle: 6 / 6
+        Jim: 5 / 6
+       Kent: 6 / 6
+      Krond: 5 / 6
+     Lucius: 6 / 6
+      Makos: 6 / 6
+      Minsc: 5 / 6
+      NERDS: 5 / 6
+     Nahara: 5 / 6
+      Nixie: 5 / 6
+      Nrakk: 6 / 6
+     Orisha: 4 / 6
+      Rosie: 4 / 6
+      Strix: 4 / 6
+    Torogar: 5 / 6
+     Warden: 4 / 6
+    Warduke: 5 / 6
+     Yorven: 6 / 6
+      Zorbu: 5 / 6
+</pre>
+</p>
+</details>
+<br />
 
 # Console Portrait
 
