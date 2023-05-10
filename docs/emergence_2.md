@@ -11,7 +11,7 @@ Thanks to recent image files being added (like the banner above) - we can guess 
 ### Shop Contents
 
 * Pigment: Support (Guess)
-* Golden Epic: Evandra (Slot 2 - Unknown Effect)
+* Golden Epic: Evandra (Slot 2 - Health)
 * Golden Epic: Dragonbait (Slot 1 - All Champion Damage)
 * Skin 1: Modron Antrius
 * Skin 2: Modron Nixie
