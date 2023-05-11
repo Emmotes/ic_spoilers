@@ -15,8 +15,10 @@ Feats that are listed as Free will be available immediately the moment they rele
 | ![Proud Papa Icon](images/featicons/upgradefa.png) | Proud Papa | Mehen | 80% Brimstone Angels | 50,000 Gems | 24 May 2023 |
 | ![Modron Sensibilities Icon](images/featicons/upgradefa.png) | Modron Sensibilities | Nordom | 80% Rule of Law | 50,000 Gems | 24 May 2023 |
 | ![Entertainer Icon](images/featicons/attributeboostx2.png) | Entertainer | Nrakk | Stat: +2 Charisma | Emergence 2 | 24 May 2023 |
+| ![Vicious Damage Icon](images/featicons/viciousdamage.png) | Vicious Damage | BBEG | 400% Self DPS & Prevent Healing for 10s | ??? | 01 Jun 2023 |
 | ![Ghosts of the Past Icon](images/featicons/upgradefa.png) | Ghosts of the Past | Kent | 80% Remembering the Old Days | 50,000 Gems | 05 Jun 2023 |
 | ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | Virgil | 50% All Champion Damage | 50,000 Gems | 05 Jun 2023 |
+| ![Skipping Ahead Icon](images/featicons/upgradefa.png) | Skipping Ahead | BBEG | 100% Railroad | 50,000 Gems | 07 Jun 2023 |
 | ![Shield Throw Icon](images/featicons/upgradefa.png) | Shield Throw | Selise | 80% Shield of Psychomancy | 50,000 Gems | 07 Jun 2023 |
 | ![Shadow Strike Icon](images/featicons/critchanceincrease.png) | Shadow Strike | Artemis | +10% Crit Chance | Season 4 | 14 Jun 2023 |
 | ![Vicious Damage Icon](images/featicons/viciousdamage.png) | Vicious Damage | Artemis | 400% Self DPS & Prevent Healing for 10s | Season 4 | 14 Jun 2023 |
@@ -31,6 +33,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | ![Guardian of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Guardian of the Hall | Drizzt | +2 Mithral Hall Stacks | 50,000 Gems | 19 Jul 2023 |
 | ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | Tatyana | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
 | ![The Bard Spittin' Bars Icon](images/featicons/upgradefa.png) | The Bard Spittin' Bars | Antrius | 40% Can't be De-Feat-ed | 12,500 Gems | 13 Sep 2023 |
+| ![Stronger Sources Icon](images/featicons/upgradefa.png) | Stronger Sources | BBEG | 40% Sources of Corpses | 12,500 Gems | 13 Sep 2023 |
 | ![Entertainer Icon](images/featicons/attributeboostx2.png) | Entertainer | Evandra | Stat: +2 Charisma | 50,000 Gems | 13 Sep 2023 |
 | ![Taunt Icon](images/featicons/taunt.png) | Taunt | Evandra | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
 | ![Puntastic Icon](images/featicons/upgradefa.png) | Puntastic | Merilwen | 40% Punishing Puns | 12,500 Gems | 13 Sep 2023 |

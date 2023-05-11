@@ -141,7 +141,7 @@ Contents:
 
 * Champion: `BBEG`
 * Skin: `Witchlight BBEG`
-* Feat: ???
+* Feat: `Skipping Ahead` (BBEG)
 * Familiar: `Grim Elliptical the Baby Beholder`
 * Chests: `Gold BBEG Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
