@@ -13,7 +13,7 @@ These are the champions that are upcoming and all the information we know about 
 * The Great Modron March - 24 May 2023
   * [Evandra](evandra.md) - Half-Elf Fighter of Awful Ones
 * Dragondown - 7 June 2023
-  * [BBEG](bbeg.md) - Drow Elf Warlock of Awful Ones (Guess)
+  * [BBEG](bbeg.md) - Drow Elf Warlock (Guess)
 * Founder's Day - 28 June 2023
   * [Strongheart](strongheart.md) - Human Paladin (Guess)
 * Midsummer - 19 July 2023
