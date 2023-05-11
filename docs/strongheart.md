@@ -241,7 +241,7 @@ Unknown.
 
 # Specialisations
 
-**Specialisation: A Just Quest** (Guess)
+**Specialisation: Valor's Call** (Guess)
 > Strongheart increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each good Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -268,7 +268,7 @@ Unknown.
 </details>
 <br />
 
-**Specialisation: Valor's Call** (Guess)
+**Specialisation: A Just Quest** (Guess)
 > Strongheart increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each Season Level you have gained in the current Season, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
