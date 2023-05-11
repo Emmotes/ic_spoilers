@@ -100,7 +100,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <br />
 
 **Awful Nemesis** (Level: 0)
-> As the sworn enemy of the Awful Ones, BBEG. However, they still don't remember who he is.
+> As the sworn enemy of the Awful Ones, BBEG is eligible for any adventure that any of them are eligible for. However, they still don't remember who he is.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -134,7 +134,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <br />
 
 ![Evil Overlord Icon](images/bbeg/icon_eviloverlord.png) **Evil Overlord** (Level: 20)
-> BBEG100%.
+> BBEG increases the damage of all Champions with an Intelligence of 12 or less by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -175,7 +175,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <br />
 
 ![Homebrew Icon](images/bbeg/icon_homebrew.png) **Homebrew** (Level: 100)
-> BBEGEvil Overlord by 100% for each active potion, stacking multiplicatively.
+> BBEG increases the damage bonus of Evil Overlord by 100% for each active potion, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -219,7 +219,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <br />
 
 ![Rise, My Minions Icon](images/bbeg/icon_rise,myminions.png) **Rise, My Minions!** (Level: 200)
-> Every 10 seconds BBEG. Zombies persist with area changes. Enemies near the zombie take 0.2 seconds worth of BUD damage per second.
+> Every 10 seconds BBEG creates a plodding zombie that appears in front of the party and slowly plods forward. Zombies persist with area changes. Enemies near the zombie take 0.2 seconds worth of BUD damage per second.
 >  
 > - Current Summon Speed: 10 seconds
 <details><summary><em>Raw Data</em></summary>
@@ -340,7 +340,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <br />
 
 ![Railroad Icon](images/bbeg/icon_railroad.png) **Railroad** (Level: 370)
-> If the current area is completed in 5s or less, BBEG's quest requirements by 25%.
+> If the current area is completed in 5s or less, BBEG reduces the next area's quest requirements by 25%.
 >  
 > - Time Remaining: 5
 <details><summary><em>Raw Data</em></summary>
@@ -398,7 +398,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 # Specialisations
 
 ![Min-Maxing Icon](images/bbeg/icon_min-maxing.png) **Min-Maxing** (Level: 150)
-> BBEGEvil Overlord by 150% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively and applied multiplicatively.
+> BBEG increases the damage bonus of Evil Overlord by 150% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively and applied multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -453,7 +453,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <br />
 
 ![Powergaming Icon](images/bbeg/icon_powergaming.png) **Powergaming** (Level: 150)
-> BBEGEvil Overlord by 200% for each Evil Champion in the formation, stacking multiplicatively and applied multiplicatively.
+> BBEG increases the damage bonus of Evil Overlord by 200% for each Evil Champion in the formation, stacking multiplicatively and applied multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -496,7 +496,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <br />
 
 ![Rules Lawyering Icon](images/bbeg/icon_ruleslawyering.png) **Rules Lawyering** (Level: 150)
-> BBEGEvil Overlord by 100% for each Lawful Champion in the formation, stacking multiplicatively and applied multiplicatively.
+> BBEG increases the damage bonus of Evil Overlord by 100% for each Lawful Champion in the formation, stacking multiplicatively and applied multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
