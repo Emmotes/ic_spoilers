@@ -47,17 +47,17 @@ These icons entered the defines recently. They clearly suggest that there will b
 | Icon | Icon Name | Raw |
 |---|---|---|
 | ![Swap Seat 1 Icon](images/featicons/swapseat1.png) | Swap Seat 1 | `Icons/Feats/Icon_Feat_SwapSeat1` |
-| ![Swap Seat 2 Icon](images/featicons/swapseat12.png) | Swap Seat 2 | `Icons/Feats/Icon_Feat_SwapSeat12` |
-| ![Swap Seat 3 Icon](images/featicons/swapseat2.png) | Swap Seat 3 | `Icons/Feats/Icon_Feat_SwapSeat2` |
-| ![Swap Seat 4 Icon](images/featicons/swapseat3.png) | Swap Seat 4 | `Icons/Feats/Icon_Feat_SwapSeat3` |
-| ![Swap Seat 5 Icon](images/featicons/swapseat4.png) | Swap Seat 5 | `Icons/Feats/Icon_Feat_SwapSeat4` |
-| ![Swap Seat 6 Icon](images/featicons/swapseat5.png) | Swap Seat 6 | `Icons/Feats/Icon_Feat_SwapSeat5` |
-| ![Swap Seat 7 Icon](images/featicons/swapseat6.png) | Swap Seat 7 | `Icons/Feats/Icon_Feat_SwapSeat6` |
-| ![Swap Seat 8 Icon](images/featicons/swapseat7.png) | Swap Seat 8 | `Icons/Feats/Icon_Feat_SwapSeat7` |
-| ![Swap Seat 9 Icon](images/featicons/swapseat8.png) | Swap Seat 9 | `Icons/Feats/Icon_Feat_SwapSeat8` |
-| ![Swap Seat 10 Icon](images/featicons/swapseat9.png) | Swap Seat 10 | `Icons/Feats/Icon_Feat_SwapSeat9` |
-| ![Swap Seat 11 Icon](images/featicons/swapseat10.png) | Swap Seat 11 | `Icons/Feats/Icon_Feat_SwapSeat10` |
-| ![Swap Seat 12 Icon](images/featicons/swapseat11.png) | Swap Seat 12 | `Icons/Feats/Icon_Feat_SwapSeat11` |
+| ![Swap Seat 2 Icon](images/featicons/swapseat2.png) | Swap Seat 2 | `Icons/Feats/Icon_Feat_SwapSeat2` |
+| ![Swap Seat 3 Icon](images/featicons/swapseat3.png) | Swap Seat 3 | `Icons/Feats/Icon_Feat_SwapSeat3` |
+| ![Swap Seat 4 Icon](images/featicons/swapseat4.png) | Swap Seat 4 | `Icons/Feats/Icon_Feat_SwapSeat4` |
+| ![Swap Seat 5 Icon](images/featicons/swapseat5.png) | Swap Seat 5 | `Icons/Feats/Icon_Feat_SwapSeat5` |
+| ![Swap Seat 6 Icon](images/featicons/swapseat6.png) | Swap Seat 6 | `Icons/Feats/Icon_Feat_SwapSeat6` |
+| ![Swap Seat 7 Icon](images/featicons/swapseat7.png) | Swap Seat 7 | `Icons/Feats/Icon_Feat_SwapSeat7` |
+| ![Swap Seat 8 Icon](images/featicons/swapseat8.png) | Swap Seat 8 | `Icons/Feats/Icon_Feat_SwapSeat8` |
+| ![Swap Seat 9 Icon](images/featicons/swapseat9.png) | Swap Seat 9 | `Icons/Feats/Icon_Feat_SwapSeat9` |
+| ![Swap Seat 10 Icon](images/featicons/swapseat10.png) | Swap Seat 10 | `Icons/Feats/Icon_Feat_SwapSeat10` |
+| ![Swap Seat 11 Icon](images/featicons/swapseat11.png) | Swap Seat 11 | `Icons/Feats/Icon_Feat_SwapSeat11` |
+| ![Swap Seat 12 Icon](images/featicons/swapseat12.png) | Swap Seat 12 | `Icons/Feats/Icon_Feat_SwapSeat12` |
 
 # Feat Week
 
