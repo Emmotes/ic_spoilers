@@ -32,39 +32,59 @@ Unknown.
 
 # Abilities
 
-**Base Attack: Unknown**
-> Unknown effect.
+**Base Attack: Steel** (Melee)
+> Strongheart attacks the closest enemy with his sword, Steel, dealing one hit.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "Strongheart attacks the closest enemy with his sword, Steel, dealing one hit.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 2,
+        "jump_sound": 30,
+        "sound_frames": {"2": 154},
+        "target_offset_x": -34,
+        "type": "melee_attack"
+    }],
+    "name": "Steel",
+    "cooldown": 4.5,
+    "id": 641
+}
 </pre>
 </p>
 </details>
 <br />
 
-**Ultimate Attack: Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-<br />
-
-**Courage to Stand**
+**Ultimate Attack: Command: Yield!**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 19774,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_FormationLarge_StrongheartCouragetoStand",
-    "fs": 0
+    "description": "",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 19785,
+    "target": "highest_health",
+    "aoe_radius": 0,
+    "tags": ["ultimate"],
+    "num_targets": 1,
+    "animations": [{
+        "ultimate": "strongheart",
+        "type": "ultimate_attack"
+    }],
+    "name": "Command: Yield!",
+    "cooldown": 150,
+    "id": 642
 }
 </pre>
 </p>
@@ -72,37 +92,21 @@ Unknown.
 <br />
 
 **Justice Needs Champions**
-> Unknown effect.
+> Strongheart increases the damage of all adjacent Champions by `$amount%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 19775,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_FormationLarge_StrongheartJusticeNeedsChampions",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Righteous Might**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 19776,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_FormationLarge_StrongheartRighteousMight",
-    "fs": 0
+    "effect_keys": [{
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "targets": ["adj"]
+    }],
+    "requirements": "",
+    "description": {"desc": "$source increases the damage of all adjacent Champions by $amount%."},
+    "id": 1569,
+    "flavour_text": "",
+    "graphic_id": 19779,
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -110,18 +114,125 @@ Unknown.
 <br />
 
 **Seasoned Knight**
-> Unknown effect.
+> Season Quest progress made by Strongheart's party is increased by `$amount%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 19777,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_FormationLarge_StrongheartSeasonedKnight",
-    "fs": 0
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "buff_season_challenge_progress,100"
+    }],
+    "requirements": "",
+    "description": {"desc": "Season Quest progress made by $source's party is increased by $amount%."},
+    "id": 1570,
+    "flavour_text": "",
+    "graphic_id": 19781,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Courage to Stand**
+> Heal champions affected by Justice Needs Champions for `$amount health per second`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "formation_arrows_for_effected_only": true,
+        "off_when_benched": true,
+        "slot_change_updates_targets": true,
+        "effect_string": "heal,2",
+        "filter_targets": [{
+            "upgrade_id": 11736,
+            "type": "affected_by_upgrade"
+        }],
+        "targets": ["all"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Heal champions affected by Justice Needs Champions for $amount health per second."},
+    "id": 1571,
+    "flavour_text": "",
+    "graphic_id": 19778,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Righteous Might**
+> Whenever Strongheart lands a critical hit, for the next 20 seconds he increases the damage of `$(upgrade_name id)` by `$(amount)%`, increases the healing amount of `$(upgrade_name id___2)` by `$(amount___2)%`, and reduces the base attack speed cooldown of himself and Champions affected by Justice Needs Champions by `$(amount___3)` seconds. This ability can trigger multiple times, with the damage bonus and healing stacking multiplicatively and the cooldown stacking additively. Each stack tracks its own cooldown.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "effect_string": "buff_upgrade,400,11736",
+            "stacks_on_trigger": "will_stack_manually"
+        },
+        {
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "effect_string": "buff_upgrade,100,11738",
+            "stacks_on_trigger": "will_stack_manually"
+        },
+        {
+            "stacks_multiply": false,
+            "show_bonus": true,
+            "effect_string": "reduce_attack_cooldown,0.5",
+            "filter_targets": [{
+                "upgrade_id": 11736,
+                "type": "affected_by_upgrade"
+            }],
+            "stacks_on_trigger": "will_stack_manually",
+            "targets": ["all"]
+        },
+        {
+            "duration": 20,
+            "effect_string": "strongheart_righteous_might"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Whenever $source lands a critical hit, for the next 20 seconds he increases the damage of $(upgrade_name id) by $(amount)%, increases the healing amount of $(upgrade_name id___2) by $(amount___2)%, and reduces the base attack speed cooldown of himself and Champions affected by Justice Needs Champions by $(amount___3) seconds. This ability can trigger multiple times, with the damage bonus and healing stacking multiplicatively and the cooldown stacking additively. Each stack tracks its own cooldown."},
+    "id": 1572,
+    "flavour_text": "",
+    "graphic_id": 19780,
+    "properties": {
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown**
+> Strongheart's base chance to Critical Hit is `$amount%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "set_base_crit_chance,20"}],
+    "requirements": "",
+    "description": {"desc": "$source's base chance to Critical Hit is $amount%."},
+    "id": 1568,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
@@ -130,57 +241,104 @@ Unknown.
 
 # Specialisations
 
-**Specialisation: A Just Quest**
-> Unknown effect.
+**Specialisation: A Just Quest** (Guess)
+> Strongheart increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each good Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 19782,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_Specialization_StrongheartAJustQuest",
-    "fs": 0
+    "effect_keys": [{
+        "stacks_multiply": true,
+        "show_bonus": true,
+        "effect_string": "buff_upgrade_by_tag_mult,100,good,11736",
+        "max_stacks": 10
+    }],
+    "requirements": "",
+    "description": {"desc": "$source increases the damage bonus of $(upgrade_name id) by $amount% for each good Champion in the formation, stacking multiplicatively."},
+    "id": 1573,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
 </details>
 <br />
 
-**Specialisation: Honorary Member**
-> Unknown effect.
+**Specialisation: Valor's Call** (Guess)
+> Strongheart increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each Season Level you have gained in the current Season, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 19783,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_Specialization_StrongheartHonoraryMember",
-    "fs": 0
+    "effect_keys": [
+        {
+            "stack_title": "Season Levels",
+            "amount_updated_listeners": ["season_level_changed"],
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_season_level",
+            "effect_string": "buff_upgrade,12.5,11736"
+        },
+        {"effect_string": "strongheart_a_just_quest"}
+    ],
+    "requirements": "",
+    "description": {"desc": "$source increases the damage bonus of $(upgrade_name id) by $amount% for each Season Level you have gained in the current Season, stacking multiplicatively."},
+    "id": 1574,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
+    }
 }
 </pre>
 </p>
 </details>
 <br />
 
-**Specialisation: Valor's Call**
-> Unknown effect.
+**Specialisation: Honorary Member** (Guess)
+> Strongheart gains the affiliation(s) of the most populous affiliation(s) in the formation, and increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each Champion from the affiliation(s), stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 19784,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018FoundersDay/Y6/Icon_Specialization_StrongheartValorsCall",
-    "fs": 0
+    "effect_keys": [
+        {
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "effect_string": "buff_upgrade,150,11736",
+            "stacks_on_trigger": "will_stack_manually"
+        },
+        {"effect_string": "strongheart_gain_affiliation"}
+    ],
+    "requirements": "",
+    "description": {
+        "pre": "$(source_hero) gains the affiliation(s) of the most populous affiliation(s) in the formation, and increases the damage bonus of $(upgrade_name id) by $amount% for each Champion from the affiliation(s), stacking multiplicatively.",
+        "conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$(strongheart_honorary_member_tag_desc)"
+        }]
+    },
+    "id": 1575,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
+    }
 }
 </pre>
 </p>
