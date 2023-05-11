@@ -39,6 +39,18 @@ This content drop will likely be joined by new blessings.
 | ![Xaryxis: Rocky Reception (Adventure)](images/contentdrop_portraits/xaryxis_rockyreception_0.png) | Xaryxis | Rocky Reception | Adventure |
 | ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Rocky Reception (Variant 1)](images/contentdrop_portraits/xaryxis_rockyreception_1.png) | Xaryxis | Rocky Reception | Variant #1 |
 
+## Xaryxis 5 - 2 August 2023
+
+This content drop will likely be joined by new blessings.
+
+| Icon | Campaign | Adventure Name | Type |
+|---|---|---|---|
+| ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | Flightof the Kindori Pod | Adventure |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | Flightof the Kindori Pod | Variant #1 |
+| ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | Topolahs Tower | Adventure |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | Topolahs Tower | Variant #1 |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | Topolahs Tower | Variant #2 |
+
 <br />
 This page was made with the help of Randramb.
 
