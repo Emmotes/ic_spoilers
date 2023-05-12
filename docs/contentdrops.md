@@ -45,8 +45,8 @@ This content drop will likely be joined by new blessings.
 
 | Icon | Campaign | Adventure Name | Type |
 |---|---|---|---|
-| ![Xaryxis: Flightof the Kindori Pod (Adventure)](images/contentdrop_portraits/xaryxis_flightofthekindoripod_0.png) | Xaryxis | Flightof the Kindori Pod | Adventure |
-| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Flightof the Kindori Pod (Variant 1)](images/contentdrop_portraits/xaryxis_flightofthekindoripod_1.png) | Xaryxis | Flightof the Kindori Pod | Variant #1 |
+| ![Xaryxis: Flight of the Kindori Pod (Adventure)](images/contentdrop_portraits/xaryxis_flightofthekindoripod_0.png) | Xaryxis | Flight of the Kindori Pod | Adventure |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Flight of the Kindori Pod (Variant 1)](images/contentdrop_portraits/xaryxis_flightofthekindoripod_1.png) | Xaryxis | Flight of the Kindori Pod | Variant #1 |
 | ![Xaryxis: Topolahs Tower (Adventure)](images/contentdrop_portraits/xaryxis_topolahstower_0.png) | Xaryxis | Topolahs Tower | Adventure |
 | ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Topolahs Tower (Variant 1)](images/contentdrop_portraits/xaryxis_topolahstower_1.png) | Xaryxis | Topolahs Tower | Variant #1 |
 | ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Topolahs Tower (Variant 2)](images/contentdrop_portraits/xaryxis_topolahstower_2.png) | Xaryxis | Topolahs Tower | Variant #2 |
