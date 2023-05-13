@@ -6,9 +6,9 @@ Just a collection of most of the currently-known spoilers. It is by no means exh
 
 Of course - spoilers are subject to change at any time. Don't plan any major life events around them.
 
-# Champions
+# Event Champions
 
-These are the champions that are upcoming and all the information we know about them. Dates are guesstimates based on the normal event schedule.
+These are the event champions that are upcoming and all the information we know about them. Dates are guesstimates based on the normal event schedule.
 
 * The Great Modron March - 24 May 2023
   * [Evandra](evandra.md) - Half-Elf Fighter of Awful Ones
