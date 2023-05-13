@@ -28,7 +28,7 @@ The upcoming Evergreen champion we're aware of.
 
 # Recurring Events
 
-Not events events - but events. You know? Seasons and Emergences.
+Not events events - but events. You know?
 
 * [Emergence 2](emergence_2.md) - 24 May 2023
 * [Season 4](season_4.md) - 21 June 2023 (Guess)
