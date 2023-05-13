@@ -18,7 +18,7 @@ These are the champions that are upcoming and all the information we know about 
   * [Strongheart](strongheart.md) - Human Paladin (Guess)
 * Midsummer - 19 July 2023
   * [Vin Ursa](vinursa.md) - Unknown
-* Evergreen - 2 August 2023 (Guess)
+* Xaryxis 5 - 2 August 2023 (Guess)
   * [Commodore Krux](commodorekrux.md) - Giff (Guess)
 
 # Recurring Events

@@ -4,15 +4,13 @@
 
 # Commodore Krux
 
-This evergreen champion is going to release with a Xaryxis content drop. It is assumed he'll arrive with the [2 August 2023 content drop](contentdrops.md#xaryxis-5---2-august-2023) (assuming that date is correct for that content drop which it might not be).
-
 > The giff Commodore Krux of the Second Wind met a group of adventurers in the Happy Beholder to recruit them to fight against the astral elves of the Xaryxian Empire.
 
 [Wiki](https://forgottenrealms.fandom.com/wiki/Happy_Beholder)
 
 # Basic Information
 
-Commodore Krux will be an upcoming Evergreen champion.
+Commodore Krux will be an upcoming Evergreen champion guesstimated to release on 2 August 2023 with the [Xaryxis 5 content drop](contentdrops.md#xaryxis-5---2-august-2023).
 
 * Seat: Unknown
 * Race: Giff (Guess)
