@@ -10,7 +10,7 @@ She's been confirmed on the Server Maintenance Stream by Chris Dupuis to be a CN
 
 # Basic Information
 
-Vin Ursa will be the new champion in the Midsummer event on 19 July 2023.
+Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 
 * Seat: Unknown
 * Race: Plasmoid
