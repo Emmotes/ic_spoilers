@@ -6,18 +6,18 @@
 
 # Vin Ursa
 
-I know absolutely nothing about this champion. The only data I have to suggest they're even a champion is the `Astral Vin Ursa` [skin](skins.md) in the defines.
+She's been confirmed on the Server Maintenance Stream by Chris Dupuis to be a CNE Original Female Plasmoid champion. Beyond that - we know nothing.
 
 # Basic Information
 
 Vin Ursa will be the new champion in the Midsummer event on 19 July 2023.
 
 * Seat: Unknown
-* Race: Unknown
+* Race: Plasmoid
 * Class: Unknown
 * Roles: Unknown
 * Age: Unknown
-* Gender: Unknown
+* Gender: Female
 * Alignment: Unknown
 * Affiliation: Unknown
 * Stats: Unknown
