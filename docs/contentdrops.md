@@ -39,7 +39,7 @@ This content drop will likely be joined by new blessings.
 | ![Xaryxis: Rocky Reception (Adventure)](images/contentdrop_portraits/xaryxis_rockyreception_0.png) | Xaryxis | Rocky Reception | Adventure |
 | ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Rocky Reception (Variant 1)](images/contentdrop_portraits/xaryxis_rockyreception_1.png) | Xaryxis | Rocky Reception | Variant #1 |
 
-## Xaryxis 5 - 2 August 2023
+## Xaryxis 5 - 19 July 2023
 
 This content drop will likely be joined by new blessings.
 

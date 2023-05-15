@@ -25,7 +25,7 @@ These are the event champions that are upcoming and all the information we know 
 
 The upcoming Evergreen champion we're aware of.
 
-* Xaryxis 5 - 2 August 2023 (Guess)
+* Xaryxis 5 - 19 July 2023 (Guess)
   * [Commodore Krux](commodorekrux.md) - Giff (Guess)
 
 # Recurring Events

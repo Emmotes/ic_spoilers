@@ -10,7 +10,7 @@
 
 # Basic Information
 
-Commodore Krux will be an upcoming Evergreen champion guesstimated to release on 2 August 2023 with the [Xaryxis 5 content drop](contentdrops.md#xaryxis-5---2-august-2023).
+Commodore Krux will be an upcoming Evergreen champion guesstimated to release on 19 July 2023 with the [Xaryxis 5 content drop](contentdrops.md#xaryxis-5---19-july-2023).
 
 * Seat: Unknown
 * Race: Giff (Guess)
