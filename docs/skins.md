@@ -14,7 +14,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Proud Papa Mehen Portrait](images/skin_portraits/proudpapamehen.png) | Proud Papa Mehen | Proud Papa Mehen Skin & Feat Pack | $9.99 | 24 May 2023 |
 | ![Modron Nixie Portrait](images/skin_portraits/modronnixie.png) | Modron Nixie | Emergence 2 (Guess) | ??? | 24 May 2023 |
 | ![Nature Nordom Portrait](images/skin_portraits/naturenordom.png) | Nature Nordom | Nature Nordom Skin & Feat Pack | $9.99 | 24 May 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Action Figure Strongheart | Action Figure Strongheart Theme Pack | $24.99 | 24 May 2023 |
+| ![Action Figure Strongheart Portrait](images/skin_portraits/actionfigurestrongheart.png) | Action Figure Strongheart | Action Figure Strongheart Theme Pack | $24.99 | 24 May 2023 |
 | ![Pride Marshal Kent Portrait](images/skin_portraits/pridemarshalkent.png) | Pride Marshal Kent | Pride Marshal Kent Skin & Feat Pack | $9.99 | 05 Jun 2023 |
 | ![Pride Marshal Virgil Portrait](images/skin_portraits/pridemarshalvirgil.png) | Pride Marshal Virgil | Pride Marshal Virgil Skin & Feat Pack | $9.99 | 05 Jun 2023 |
 | ![Witchlight BBEG Portrait](images/skin_portraits/witchlightbbeg.png) | Witchlight BBEG | Witchlight BBEG Theme Pack | $24.99 | 07 Jun 2023 |
@@ -24,7 +24,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Mythic Pwent Portrait](images/skin_portraits/mythicpwent.png) | Mythic Pwent | Season 4 | ??? | 14 Jun 2023 |
 | ![Mythic Regis Portrait](images/skin_portraits/mythicregis.png) | Mythic Regis | Season 4 | ??? | 14 Jun 2023 |
 | ![Mythic Wulfgar Portrait](images/skin_portraits/mythicwulfgar.png) | Mythic Wulfgar | Season 4 | ??? | 14 Jun 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mythic Ishi | Mythic Ishi Skin & Feat Pack | $9.99 | 21 Jun 2023 |
+| ![Mythic Ishi Portrait](images/skin_portraits/mythicishi.png) | Mythic Ishi | Mythic Ishi Skin & Feat Pack | $9.99 | 21 Jun 2023 |
 | ![Mythic Jarlaxle Portrait](images/skin_portraits/mythicjarlaxle.png) | Mythic Jarlaxle | ??? | ??? | 22 Jun 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mythic Sgt. Knox | Mythic Sgt. Knox Skin & Feat Pack | $9.99 | 28 Jun 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mythic Freely | Mythic Freely Skin & Feat Pack | $9.99 | 12 Jul 2023 |
