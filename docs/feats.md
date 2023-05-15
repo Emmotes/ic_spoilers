@@ -66,6 +66,8 @@ These icons entered the defines recently. They clearly suggest that there will b
 
 There will also be an upcoming celebration week called `Feat Week`. Thanks to one of the promotional graphics containing Nayeli and a Taunt feat - we know that Feat Week will begin on 13 September 2023.
 
+*Update: Executive Producer of CNE Chris Dupuis stated on the 2023 Roadmap stream that Feat Week would be happening between season 3 and season 4 - but current dates in the data conflict with this.*
+
 You will likely have seen all the feats available above listed for that date - and we will likely see more before it goes live.
 
 ![Feat Week Banner](images/featweek.png)
