@@ -339,7 +339,7 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 # Specialisations
 
 ![Carnival Crew Icon](images/evandra/icon_carnivalcrew.png) **Carnival Crew** (Level: 200)
-> Evandra increases the damage bonus of Freedom's Fury by 150% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively, and all Awful Ones Champions can be used in Witchlight adventures, even if they do not meet the base restrictions.
+> Evandra increases the damage bonus of Freedom's Fury by 150% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively, and all Awful Ones Champions can be used in Witchlight adventures.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -383,7 +383,7 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
         }
     ],
     "requirements": "",
-    "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively, and all Awful Ones Champions can be used in Witchlight adventures, even if they do not meet the base restrictions."},
+    "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively, and all Awful Ones Champions can be used in Witchlight adventures."},
     "id": 1488,
     "flavour_text": "",
     "graphic_id": 0,
