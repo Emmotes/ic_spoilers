@@ -387,6 +387,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
         "is_formation_ability": true,
         "default_bonus_index": 1,
         "owner_use_outgoing_description": true,
+        "type": "not_buffable_by_nrakk",
         "per_effect_index_bonuses": true
     }
 }
