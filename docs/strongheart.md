@@ -71,7 +71,7 @@ Unknown.
 {
     "description": "",
     "long_description": "",
-    "damage_modifier": 1,
+    "damage_modifier": 0,
     "damage_types": ["magic"],
     "graphic_id": 19785,
     "target": "highest_health",
@@ -79,8 +79,19 @@ Unknown.
     "tags": ["ultimate"],
     "num_targets": 1,
     "animations": [{
-        "ultimate": "strongheart",
-        "type": "ultimate_attack"
+        "damage_frame": 8,
+        "effect_frames": {"hit": {
+            "duration": 6,
+            "overlay_graphic_offset_y": -60,
+            "effect_string": "monster_bud_damage,15",
+            "apply_to_hit_monsters": true,
+            "overlay_graphic_id": 19796
+        }},
+        "target_offset_x": -200,
+        "stun_on_hit": 6,
+        "animation_sequence_name": "ultimate",
+        "type": "melee_attack",
+        "no_damage_display": true
     }],
     "name": "Command: Yield!",
     "cooldown": 150,
@@ -128,7 +139,10 @@ Unknown.
     "id": 1570,
     "flavour_text": "",
     "graphic_id": 19781,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -165,16 +179,17 @@ Unknown.
 <br />
 
 **Righteous Might**
-> Whenever Strongheart lands a critical hit, for the next 20 seconds he increases the damage of `$(upgrade_name id)` by `$(amount)%`, increases the healing amount of `$(upgrade_name id___2)` by `$(amount___2)%`, and reduces the base attack speed cooldown of himself and Champions affected by Justice Needs Champions by `$(amount___3)` seconds. This ability can trigger multiple times, with the damage bonus and healing stacking multiplicatively and the cooldown stacking additively. Each stack tracks its own cooldown.
+> Whenever Strongheart lands a critical hit, for the next 20 seconds he increases the damage of `$(upgrade_name id)` by `$(amount___4)%`, increases the healing amount of `$(upgrade_name id___2)` by `$(amount___2)%`, and reduces the base attack speed cooldown of himself and Champions affected by Justice Needs Champions by `$(amount___3)` seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [
         {
+            "amount_expr": "upgrade_amount(11739,3)",
             "stacks_multiply": true,
             "show_bonus": true,
-            "effect_string": "buff_upgrade,400,11736",
+            "effect_string": "buff_upgrade,0,11736",
             "stacks_on_trigger": "will_stack_manually"
         },
         {
@@ -194,13 +209,22 @@ Unknown.
             "stacks_on_trigger": "will_stack_manually",
             "targets": ["all"]
         },
+        {"effect_string": "pre_stack_amount,400"},
         {
             "duration": 20,
-            "effect_string": "strongheart_righteous_might"
+            "effect_string": "strongheart_righteous_might",
+            "underlay_graphic": 19795,
+            "underlay_state_max": 10
         }
     ],
     "requirements": "",
-    "description": {"desc": "Whenever $source lands a critical hit, for the next 20 seconds he increases the damage of $(upgrade_name id) by $(amount)%, increases the healing amount of $(upgrade_name id___2) by $(amount___2)%, and reduces the base attack speed cooldown of himself and Champions affected by Justice Needs Champions by $(amount___3) seconds. This ability can trigger multiple times, with the damage bonus and healing stacking multiplicatively and the cooldown stacking additively. Each stack tracks its own cooldown."},
+    "description": {
+        "pre": "Whenever $source lands a critical hit, for the next 20 seconds he increases the damage of $(upgrade_name id) by $(amount___4)%, increases the healing amount of $(upgrade_name id___2) by $(amount___2)%, and reduces the base attack speed cooldown of himself and Champions affected by Justice Needs Champions by $(amount___3) seconds.",
+        "conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$(strongheart_rightous_might_cooldown_desc)"
+        }]
+    },
     "id": 1572,
     "flavour_text": "",
     "graphic_id": 19780,
@@ -208,7 +232,7 @@ Unknown.
         "indexed_effect_properties": true,
         "retain_on_slot_changed": true,
         "is_formation_ability": true,
-        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
     }
 }
@@ -242,19 +266,20 @@ Unknown.
 # Specialisations
 
 **Specialisation: Valor's Call** (Guess)
-> Strongheart increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each good Champion in the formation, stacking multiplicatively.
+> Strongheart increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each good Champion in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [{
+        "stack_title": "Good Champions",
         "stacks_multiply": true,
         "show_bonus": true,
         "effect_string": "buff_upgrade_by_tag_mult,100,good,11736",
         "max_stacks": 10
     }],
     "requirements": "",
-    "description": {"desc": "$source increases the damage bonus of $(upgrade_name id) by $amount% for each good Champion in the formation, stacking multiplicatively."},
+    "description": {"desc": "$source increases the damage bonus of $(upgrade_name id) by $amount% for each good Champion in the formation."},
     "id": 1573,
     "flavour_text": "",
     "graphic_id": 0,
@@ -269,7 +294,7 @@ Unknown.
 <br />
 
 **Specialisation: A Just Quest** (Guess)
-> Strongheart increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each Season Level you have gained in the current Season, stacking multiplicatively.
+> Strongheart increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each Season Level you have gained in the current Season.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -287,7 +312,7 @@ Unknown.
         {"effect_string": "strongheart_a_just_quest"}
     ],
     "requirements": "",
-    "description": {"desc": "$source increases the damage bonus of $(upgrade_name id) by $amount% for each Season Level you have gained in the current Season, stacking multiplicatively."},
+    "description": {"desc": "$source increases the damage bonus of $(upgrade_name id) by $amount% for each Season Level you have gained in the current Season."},
     "id": 1574,
     "flavour_text": "",
     "graphic_id": 0,
