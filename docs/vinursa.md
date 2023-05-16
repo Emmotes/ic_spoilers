@@ -84,11 +84,9 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Console Portrait
 
 ![Console Portrait](images/vinursa/console.png)
-{% endcomment %}
 
 {% comment %}
 # Chests
