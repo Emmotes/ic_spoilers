@@ -26,7 +26,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Mythic Wulfgar Portrait](images/skin_portraits/mythicwulfgar.png) | Mythic Wulfgar | Season 4 | ??? | 14 Jun 2023 |
 | ![Mythic Ishi Portrait](images/skin_portraits/mythicishi.png) | Mythic Ishi | Mythic Ishi Skin & Feat Pack | $9.99 | 21 Jun 2023 |
 | ![Mythic Jarlaxle Portrait](images/skin_portraits/mythicjarlaxle.png) | Mythic Jarlaxle | ??? | ??? | 22 Jun 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mythic Sgt. Knox | Mythic Sgt. Knox Skin & Feat Pack | $9.99 | 28 Jun 2023 |
+| ![Mythic Sgt. Knox Portrait](images/skin_portraits/mythicsgt.knox.png) | Mythic Sgt. Knox | Mythic Sgt. Knox Skin & Feat Pack | $9.99 | 28 Jun 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mythic Freely | Mythic Freely Skin & Feat Pack | $9.99 | 12 Jul 2023 |
 | ![Mythic Drizzt Portrait](images/skin_portraits/mythicdrizzt.png) | Mythic Drizzt | Mythic Drizzt Skin & Feat Pack | $9.99 | 19 Jul 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Vampire Pwent | Vampire Pwent Skin & Feat Pack | $9.99 | 19 Jul 2023 |
