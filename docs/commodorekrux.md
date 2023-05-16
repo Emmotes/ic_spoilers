@@ -57,10 +57,7 @@ Unknown.
         "shoot_offset_y": -53,
         "shoot_offset_x": 80,
         "animation_sequence_name": "attack",
-        "effects_on_monsters": [{
-            "after_damage": true,
-            "effect_string": "effect_def,1576"
-        }],
+        "effects_on_monsters": [{"effect_string": "effect_def,1576"}],
         "type": "ranged_attack",
         "projectile": "generic",
         "shoot_frame": 6
@@ -75,24 +72,72 @@ Unknown.
 <br />
 
 **Ultimate Attack: Force Grenade**
-> Unknown effect.
+> Commodore Krux throws a grenade at the enemy with the most health, which explodes dealing ultimate damage to all enemies in a medium radius and knocking them all back a short distance.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
-    "long_description": "",
+    "description": "Commodore Krux thows a grenade which deals damage and knocks enemies back.",
+    "long_description": "Commodore Krux throws a grenade at the enemy with the most health, which explodes dealing ultimate damage to all enemies in a medium radius and knocking them all back a short distance.",
     "damage_modifier": 1,
     "damage_types": ["ranged"],
     "graphic_id": 19891,
     "target": "highest_health",
-    "aoe_radius": 0,
+    "aoe_radius": 200,
     "tags": [
         "ultimate",
         "ranged"
     ],
-    "num_targets": 0,
-    "animations": [],
+    "num_targets": 1,
+    "animations": [{
+        "projectile_details": {
+            "projectile_hit_graphic_id": 19999,
+            "trail": {
+                "scale_lerp": [
+                    {
+                        "x": 2.5,
+                        "y": 3
+                    },
+                    {
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "lifespan": 0.25,
+                "initial_velocity": {
+                    "x": 0,
+                    "y": 0
+                },
+                "alpha_lerp": {
+                    "0": 0,
+                    "1": 0,
+                    "0.1": 0.4
+                },
+                "particle_graphic_ids": [13228],
+                "spawn_rate": 100,
+                "velocity_jitter": {
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "percent_height_offset": 18,
+            "target_offset_y": 30,
+            "impact_offset_y": 80,
+            "projectile_graphic_id": 19918,
+            "projectile_freeze_frame": 0,
+            "projectile_speed": 1200,
+            "hash": "krux_force_grenade",
+            "rotation_speed": 450
+        },
+        "hit_sound": 133,
+        "shoot_offset_y": -90,
+        "shoot_offset_x": -30,
+        "shoot_sound": 149,
+        "effects_on_monsters": [{"effect_string": "push_back_monster,20"}],
+        "type": "ranged_attack",
+        "projectile": "pd_generic_projectile",
+        "shoot_frame": 63
+    }],
     "name": "Force Grenade",
     "cooldown": 90,
     "id": 645
@@ -109,8 +154,12 @@ Unknown.
 <pre>
 {
     "effect_keys": [{
+        "off_when_benched": true,
         "effect_string": "hero_dps_multiplier_mult,100",
-        "targets": ["col_and_back"]
+        "targets": [{
+            "num_back_cols": 1,
+            "type": "col_and_back_x"
+        }]
     }],
     "requirements": [],
     "description": {"desc": "Commodore Krux increases the damage of all Champions in his column and the rear-most column of the formation by $(amount)%. This does not apply twice if that is the same column."},
@@ -135,6 +184,7 @@ Unknown.
 {
     "effect_keys": [{
         "stacks_multiply": true,
+        "off_when_benched": true,
         "show_bonus": true,
         "effect_string": "buff_upgrade,20,11653",
         "max_stacks": 100,
@@ -149,7 +199,10 @@ Unknown.
     "id": 1561,
     "flavour_text": "",
     "graphic_id": 19885,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -162,13 +215,39 @@ Unknown.
 <p>
 <pre>
 {
-    "effect_keys": [],
+    "effect_keys": [
+        {
+            "stack_title": "Xaryxis Adventures Completed",
+            "stacks_multiply": false,
+            "off_when_benched": true,
+            "show_bonus": true,
+            "amount_func": "add",
+            "override_total_bonus_sentence": "+$bonus% of Krux's Max HP",
+            "stack_func": "per_adventure_completed",
+            "effect_string": "increase_health_by_source_percent,0.1",
+            "stack_func_data": {"campaign_id": 28},
+            "show_current_value_bonus_desc": false,
+            "targets": ["other"]
+        },
+        {
+            "stacks_multiply": false,
+            "off_when_benched": true,
+            "amount_func": "add",
+            "stack_func": "per_adventure_completed",
+            "effect_string": "healing_add_mult,0.1",
+            "stack_func_data": {"campaign_id": 28},
+            "targets": ["other"]
+        }
+    ],
     "requirements": [],
     "description": {"desc": "Commodore Krux increases the health of all other Champions by $(amount)% of his max health for each adventure, variant, and Patron variant you have completed in the Light of Xaryxis campaign, stacking additively. Any healing effect on those Champions is increased by the same amount."},
     "id": 1562,
     "flavour_text": "",
     "graphic_id": 19884,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -184,6 +263,8 @@ Unknown.
 <pre>
 {
     "effect_keys": [{
+        "animation_play_time": 2.3,
+        "off_when_benched": true,
         "effect_string": "krux_starfarers_spyglass,100",
         "valid_monster_types": [
             "aberration",
@@ -213,7 +294,11 @@ Unknown.
     "id": 1563,
     "flavour_text": "",
     "graphic_id": 19887,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -227,16 +312,24 @@ Unknown.
 <pre>
 {
     "effect_keys": [{
+        "stack_title": "Xaryxis Adventures Completed",
         "stacks_multiply": true,
+        "off_when_benched": true,
         "show_bonus": true,
-        "effect_string": "buff_upgrade,20,11653"
+        "amount_func": "mult",
+        "stack_func": "per_adventure_completed",
+        "effect_string": "buff_upgrade,20,11653",
+        "stack_func_data": {"campaign_id": 28}
     }],
     "requirements": [],
     "description": {"desc": "Commodore Krux increases the effect of All Hands On Deck! by $(amount)% for each adventure, variant, and Patron variant you have completed in the Light of Xaryxis campaign, stacking multiplicatively."},
     "id": 1564,
     "flavour_text": "",
     "graphic_id": 19886,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -273,7 +366,10 @@ Unknown.
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "buff_upgrade,200,11653"}],
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "buff_upgrade,200,11653"
+    }],
     "requirements": [],
     "description": {"desc": "Commodore Krux increases the effect of All Hands On Deck! by $(amount)% and his base attack knocks back his targets a short distance."},
     "id": 1565,
@@ -296,6 +392,7 @@ Unknown.
 <pre>
 {
     "effect_keys": [{
+        "off_when_benched": true,
         "effect_string": "hero_dps_multiplier_mult,400",
         "filter_targets": [{
             "attacks": ["magic"],
@@ -308,7 +405,10 @@ Unknown.
     "id": 1566,
     "flavour_text": "",
     "graphic_id": 19890,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_targets"
+    }
 }
 </pre>
 </p>
@@ -323,6 +423,7 @@ Unknown.
 {
     "effect_keys": [{
         "stacks_multiply": false,
+        "off_when_benched": true,
         "show_bonus": true,
         "effect_string": "buff_upgrade,25,11653",
         "max_stacks": 25,
@@ -338,6 +439,7 @@ Unknown.
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
+        "retain_on_slot_changed": true,
         "is_formation_ability": true,
         "formation_circle_icon": false
     }
