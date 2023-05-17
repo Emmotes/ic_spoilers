@@ -4,36 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Pixie's Spa Day Familiar Pack - $14.99  
-Date of release: 17 May 2023
-
-Contents:
-
-* Familiar: `Pixie's Spa Day`
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-
-<br />
-
-### Scholar Krond Skin & Feat Pack - $9.99  
-Date of release: 17 May 2023
-
-Contents:
-
-* Champion: `Krond`
-* Skin: `Scholar Krond`
-* Feat: `Warrior's Grace` (Krond)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Krond Chest` x7 (Shinies x1)
-
-<br />
-
 ### Nature Nordom Skin & Feat Pack - $9.99  
 Date of release: 24 May 2023
 

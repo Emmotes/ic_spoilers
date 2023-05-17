@@ -10,7 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
-| ![Warrior's Grace Icon](images/featicons/selfdps.png) | Warrior's Grace | Krond | 120% Self DPS | 50,000 Gems | 17 May 2023 |
 | ![Ringmaster Icon](images/featicons/upgradefa.png) | Ringmaster | Evandra | 80% Freedom's Fury | 50,000 Gems | 24 May 2023 |
 | ![Proud Papa Icon](images/featicons/upgradefa.png) | Proud Papa | Mehen | 80% Brimstone Angels | 50,000 Gems | 24 May 2023 |
 | ![Modron Sensibilities Icon](images/featicons/upgradefa.png) | Modron Sensibilities | Nordom | 80% Rule of Law | 50,000 Gems | 24 May 2023 |

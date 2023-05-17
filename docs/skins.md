@@ -8,7 +8,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 
 | Portrait | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| ![Scholar Krond Portrait](images/skin_portraits/scholarkrond.png) | Scholar Krond | Scholar Krond Skin & Feat Pack | $9.99 | 17 May 2023 |
 | ![Modron Antrius Portrait](images/skin_portraits/modronantrius.png) | Modron Antrius | Emergence 2 (Guess) | ??? | 24 May 2023 |
 | ![Witchlight Evandra Portrait](images/skin_portraits/witchlightevandra.png) | Witchlight Evandra | Witchlight Evandra Theme Pack | $24.99 | 24 May 2023 |
 | ![Proud Papa Mehen Portrait](images/skin_portraits/proudpapamehen.png) | Proud Papa Mehen | Proud Papa Mehen Skin & Feat Pack | $9.99 | 24 May 2023 |
