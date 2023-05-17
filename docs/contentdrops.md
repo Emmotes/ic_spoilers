@@ -4,17 +4,6 @@
 
 Guesstimations of upcoming content drops - so don't take these as fact.
 
-## Witchlight 9 - 17 May 2023
-
-This content drop will likely be joined by new blessings.
-
-| Icon | Campaign | Adventure Name | Type |
-|---|---|---|---|
-| ![Witchlight: Beware the Jabberwock (Adventure)](images/contentdrop_portraits/witchlight_bewarethejabberwock_0.png) | Witchlight | Beware the Jabberwock | Adventure |
-| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Witchlight: Beware the Jabberwock (Variant 1)](images/contentdrop_portraits/witchlight_bewarethejabberwock_1.png) | Witchlight | Beware the Jabberwock | Variant #1 |
-| ![Witchlight: The Court of Storms (Adventure)](images/contentdrop_portraits/witchlight_thecourtofstorms_0.png) | Witchlight | The Court of Storms | Adventure |
-| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Witchlight: The Court of Storms (Variant 1)](images/contentdrop_portraits/witchlight_thecourtofstorms_1.png) | Witchlight | The Court of Storms | Variant #1 |
-
 ## Mixed 10 Variants - 21 June 2023
 
 | Icon | Campaign | Adventure Name | Type |
