@@ -533,7 +533,7 @@ Slot 4:
 
 Slot 5:
             Dirty Horn: Found this on a dead guard. Don't ask what else I found...
-          Travel Qanci: Got this on discount after threatening the merchant's family.
+      Travel Mead Horn: Got this on discount after threatening the merchant's family.
    Rejuvenating Kantsi: Lorienne blessed this horn to heal me in battle! But it only heals 1
                         hp...
   Horn of the Infinite: This horn never runs out of ale! I don't remember two tendays after
