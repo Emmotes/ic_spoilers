@@ -106,6 +106,9 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    None
+
 {
     "static_dps_mult": null,
     "required_level": 0,
@@ -141,7 +144,9 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <p>
 <pre>
 Upgrades:
-   13x 200%
+    13x 200%
+
+    Total Upgrade Bonus: 1.59e08%
 
 {
     "static_dps_mult": null,
@@ -183,7 +188,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    5x 100%
+     5x 100%
+
+    Total Upgrade Bonus: 3100%
 
 {
     "static_dps_mult": null,
@@ -242,7 +249,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    5x 100%
+     5x 100%
+
+    Total Upgrade Bonus: 3100%
 
 {
     "static_dps_mult": null,
@@ -305,6 +314,9 @@ Upgrades:
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    None
+
 {
     "static_dps_mult": null,
     "required_level": 160,
@@ -353,7 +365,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    1x 100%
+     1x 100%
+
+    Total Upgrade Bonus: 100%
 
 {
     "static_dps_mult": null,
@@ -418,7 +432,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    1x 100%
+     1x 100%
+
+    Total Upgrade Bonus: 100%
 
 {
     "static_dps_mult": null,
@@ -464,7 +480,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    1x 100%
+     1x 100%
+
+    Total Upgrade Bonus: 100%
 
 {
     "static_dps_mult": null,

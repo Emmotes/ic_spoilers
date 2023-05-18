@@ -104,6 +104,9 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    None
+
 {
     "static_dps_mult": null,
     "required_level": 0,
@@ -139,7 +142,9 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <p>
 <pre>
 Upgrades:
-   17x 100%
+    17x 100%
+
+    Total Upgrade Bonus: 1.31e07%
 
 {
     "static_dps_mult": null,
@@ -183,7 +188,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    8x 100%
+     8x 100%
+
+    Total Upgrade Bonus: 2.55e04%
 
 {
     "static_dps_mult": null,
@@ -232,7 +239,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    1x 100%
+     1x 100%
+
+    Total Upgrade Bonus: 100%
 
 {
     "static_dps_mult": null,
@@ -290,7 +299,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    1x 100%
+     1x 100%
+
+    Total Upgrade Bonus: 100%
 
 {
     "static_dps_mult": null,
@@ -359,7 +370,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    1x 100%
+     1x 100%
+
+    Total Upgrade Bonus: 100%
 
 {
     "static_dps_mult": null,
@@ -419,7 +432,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    1x 100%
+     1x 100%
+
+    Total Upgrade Bonus: 100%
 
 {
     "static_dps_mult": null,
@@ -477,7 +492,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    1x 100%
+     1x 100%
+
+    Total Upgrade Bonus: 100%
 
 {
     "static_dps_mult": null,
@@ -523,7 +540,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-    1x 100%
+     1x 100%
+
+    Total Upgrade Bonus: 100%
 
 {
     "static_dps_mult": null,
