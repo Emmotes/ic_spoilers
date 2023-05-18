@@ -138,6 +138,9 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+   17x 100%
+
 {
     "static_dps_mult": null,
     "required_level": 20,
@@ -179,6 +182,9 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    8x 100%
+
 {
     "static_dps_mult": null,
     "required_level": 100,
@@ -225,6 +231,9 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    1x 100%
+
 {
     "static_dps_mult": null,
     "required_level": 200,
@@ -280,6 +289,9 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    1x 100%
+
 {
     "static_dps_mult": null,
     "required_level": 300,
@@ -346,6 +358,9 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    1x 100%
+
 {
     "static_dps_mult": null,
     "required_level": 370,
@@ -403,6 +418,9 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    1x 100%
+
 {
     "static_dps_mult": null,
     "specialization_name": "Min-Maxing",
@@ -458,6 +476,9 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    1x 100%
+
 {
     "static_dps_mult": null,
     "specialization_name": "Powergaming",
@@ -501,6 +522,9 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    1x 100%
+
 {
     "static_dps_mult": null,
     "specialization_name": "Rules Lawyering",

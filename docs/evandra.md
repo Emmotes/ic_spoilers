@@ -140,6 +140,9 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+   13x 200%
+
 {
     "static_dps_mult": null,
     "required_level": 20,
@@ -179,6 +182,9 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    5x 100%
+
 {
     "static_dps_mult": null,
     "required_level": 80,
@@ -235,6 +241,9 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    5x 100%
+
 {
     "static_dps_mult": null,
     "required_level": 120,
@@ -343,6 +352,9 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    1x 100%
+
 {
     "static_dps_mult": null,
     "specialization_name": "Carnival Crew",
@@ -405,6 +417,9 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    1x 100%
+
 {
     "static_dps_mult": null,
     "specialization_name": "Fighting Force",
@@ -448,6 +463,9 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+Upgrades:
+    1x 100%
+
 {
     "static_dps_mult": null,
     "specialization_name": "Powerful Allies",
