@@ -103,14 +103,6 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 
 **Evandra, the Magnificent** (Level: 0)
 > Evandra can be used in any Wild Beyond the Witchlight campaign adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-    None
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -351,14 +343,6 @@ Upgrades:
 
 ![Inspiring Fortitude Icon](images/evandra/icon_inspiringfortitude.png) **Inspiring Fortitude** (Level: 160)
 > Evandra increases the health of all other Champions by 25% of her max health, and healing effects on all Champions is increased by 25%.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-    None
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -406,14 +390,6 @@ Upgrades:
 
 ![Carnival Crew Icon](images/evandra/icon_carnivalcrew.png) **Carnival Crew** (Level: 200)
 > Evandra increases the damage bonus of Freedom's Fury by 150% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively, and all Awful Ones Champions can be used in Witchlight adventures.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-    None
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -476,14 +452,6 @@ Upgrades:
 
 ![Fighting Force Icon](images/evandra/icon_fightingforce.png) **Fighting Force** (Level: 200)
 > Evandra increases the damage bonus of Freedom's Fury by 125% for each Fighter, Barbarian, Ranger, or Paladin Champion in the formation, stacking multiplicatively and applied multiplicatively.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-    None
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -527,14 +495,6 @@ Upgrades:
 
 ![Powerful Allies Icon](images/evandra/icon_powerfulallies.png) **Powerful Allies** (Level: 200)
 > Evandra increases the damage bonus of Freedom's Fury by 100% for each Female or Nonbinary Champion in the formation, stacking multiplicatively and applied multiplicatively.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-    None
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
