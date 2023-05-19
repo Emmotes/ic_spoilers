@@ -159,6 +159,7 @@ Upgrades:
 
 Expected numbers with various item levels:
 	(Does not include feats.)
+	(Possibly highly inaccurate.)
 
 	Dull Epic ilvl    100: 1.37e09%
 	Dull Epic ilvl  1,000: 4.70e09%
@@ -219,6 +220,7 @@ Upgrades:
 
 Expected numbers:
 	(Does not include feats.)
+	(Possibly highly inaccurate.)
 
 	At softcap: 6,300%
 </pre>
@@ -294,6 +296,7 @@ Upgrades:
 
 Expected numbers with various item levels:
 	(Does not include feats.)
+	(Possibly highly inaccurate.)
 
 	Dull Epic ilvl    100:
 		  0 Stacks: 2.73e04%

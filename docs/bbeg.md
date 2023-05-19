@@ -161,6 +161,7 @@ Upgrades:
 
 Expected numbers with various item levels:
 	(Does not include feats.)
+	(Possibly highly inaccurate.)
 
 	Dull Epic ilvl    100: 1.12e08%
 	Dull Epic ilvl  1,000: 3.86e08%
@@ -226,6 +227,7 @@ Upgrades:
 
 Expected numbers with various item levels:
 	(Does not include feats.)
+	(Possibly highly inaccurate.)
 
 	Dull Epic ilvl    100: 2.19e05%
 	Dull Epic ilvl  1,000: 7.55e05%
