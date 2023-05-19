@@ -103,12 +103,17 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 
 **Evandra, the Magnificent** (Level: 0)
 > Evandra can be used in any Wild Beyond the Witchlight campaign adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "required_level": 0,
@@ -140,7 +145,7 @@ Upgrades:
 
 ![Freedom's Fury Icon](images/evandra/icon_freedom'sfury.png) **Freedom's Fury** (Level: 20)
 > Evandra increases the damage of all Neutral (Good/Evil axis) Champions by 100%.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
@@ -159,7 +164,12 @@ Upgrades:
     1,600: 200%
 
     Total Upgrade Bonus: 1.59e08%
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "required_level": 20,
@@ -196,7 +206,7 @@ Upgrades:
 
 ![Never Completely 'Armless Icon](images/evandra/icon_nevercompletely'armless.png) **Never Completely 'Armless** (Level: 80)
 > When Evandra's health is brought to zero, she loses her left arm but returns to full health. Her arm regrows after moving to a new area. While missing her arm, she increases the damage bonus of Freedom's Fury by 100% for each second she had her arm in the current area, stacking additively and being applied multiplicatively.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
@@ -207,7 +217,12 @@ Upgrades:
     1,450: 100%
 
     Total Upgrade Bonus: 3,100%
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "required_level": 80,
@@ -261,7 +276,7 @@ Upgrades:
 > Increases the formation's gold find by 100%. Every time a Champion attacks but does not defeat an enemy, increase this bonus by 50%, stacking additively up to 120 times and applying multiplicatively. This bonus resets when an enemy is defeated.
 >  
 > - Total Gold Find Bonus: 100%
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
@@ -272,7 +287,12 @@ Upgrades:
     1,590: 100%
 
     Total Upgrade Bonus: 3,100%
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "required_level": 120,
@@ -331,12 +351,17 @@ Upgrades:
 
 ![Inspiring Fortitude Icon](images/evandra/icon_inspiringfortitude.png) **Inspiring Fortitude** (Level: 160)
 > Evandra increases the health of all other Champions by 25% of her max health, and healing effects on all Champions is increased by 25%.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "required_level": 160,
@@ -381,12 +406,17 @@ Upgrades:
 
 ![Carnival Crew Icon](images/evandra/icon_carnivalcrew.png) **Carnival Crew** (Level: 200)
 > Evandra increases the damage bonus of Freedom's Fury by 150% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively, and all Awful Ones Champions can be used in Witchlight adventures.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Carnival Crew",
@@ -446,12 +476,17 @@ Upgrades:
 
 ![Fighting Force Icon](images/evandra/icon_fightingforce.png) **Fighting Force** (Level: 200)
 > Evandra increases the damage bonus of Freedom's Fury by 125% for each Fighter, Barbarian, Ranger, or Paladin Champion in the formation, stacking multiplicatively and applied multiplicatively.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Fighting Force",
@@ -492,12 +527,17 @@ Upgrades:
 
 ![Powerful Allies Icon](images/evandra/icon_powerfulallies.png) **Powerful Allies** (Level: 200)
 > Evandra increases the damage bonus of Freedom's Fury by 100% for each Female or Nonbinary Champion in the formation, stacking multiplicatively and applied multiplicatively.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Powerful Allies",

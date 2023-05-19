@@ -101,12 +101,17 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 
 **Awful Nemesis** (Level: 0)
 > As the sworn enemy of the Awful Ones, BBEG is eligible for any adventure that any of them are eligible for. However, they still don't remember who he is.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "required_level": 0,
@@ -138,7 +143,7 @@ Upgrades:
 
 ![Evil Overlord Icon](images/bbeg/icon_eviloverlord.png) **Evil Overlord** (Level: 20)
 > BBEG increases the damage of all Champions with an Intelligence of 12 or less by 100%.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
@@ -161,7 +166,12 @@ Upgrades:
     3,700: 100%
 
     Total Upgrade Bonus: 1.31e07%
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "required_level": 20,
@@ -200,7 +210,7 @@ Upgrades:
 
 ![Homebrew Icon](images/bbeg/icon_homebrew.png) **Homebrew** (Level: 100)
 > BBEG increases the damage bonus of Evil Overlord by 100% for each active potion, stacking multiplicatively.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
@@ -214,7 +224,12 @@ Upgrades:
     3,800: 100%
 
     Total Upgrade Bonus: 2.55e04%
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "required_level": 100,
@@ -258,12 +273,17 @@ Upgrades:
 > Every 10 seconds BBEG creates a plodding zombie that appears in front of the party and slowly plods forward. Zombies persist with area changes. Enemies near the zombie take 0.2 seconds worth of BUD damage per second.
 >  
 > - Current Summon Speed: 10 seconds
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "required_level": 200,
@@ -316,12 +336,17 @@ Upgrades:
 
 ![Sources of Corpses Icon](images/bbeg/icon_sourcesofcorpses.png) **Sources of Corpses** (Level: 300)
 > The time it takes for Rise, My Minions! to summon a zombie is reduced by 2.5 seconds for each Awful Ones affiliation member in the formation, and the damage bonus of Evil Overlord is increased by 100% for each summoned zombie, stacking multiplicatively, with buffs applying to the pre-stack value.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "required_level": 300,
@@ -385,12 +410,17 @@ Upgrades:
 > If the current area is completed in 5s or less, BBEG reduces the next area's quest requirements by 25%.
 >  
 > - Time Remaining: 5
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "required_level": 370,
@@ -445,12 +475,17 @@ Upgrades:
 
 ![Min-Maxing Icon](images/bbeg/icon_min-maxing.png) **Min-Maxing** (Level: 150)
 > BBEG increases the damage bonus of Evil Overlord by 150% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively and applied multiplicatively.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Min-Maxing",
@@ -503,12 +538,17 @@ Upgrades:
 
 ![Powergaming Icon](images/bbeg/icon_powergaming.png) **Powergaming** (Level: 150)
 > BBEG increases the damage bonus of Evil Overlord by 200% for each Evil Champion in the formation, stacking multiplicatively and applied multiplicatively.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Powergaming",
@@ -549,12 +589,17 @@ Upgrades:
 
 ![Rules Lawyering Icon](images/bbeg/icon_ruleslawyering.png) **Rules Lawyering** (Level: 150)
 > BBEG increases the damage bonus of Evil Overlord by 100% for each Lawful Champion in the formation, stacking multiplicatively and applied multiplicatively.
-<details><summary><em>Raw Data</em></summary>
+<details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
     None
-
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Rules Lawyering",
