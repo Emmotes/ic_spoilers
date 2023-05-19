@@ -188,7 +188,7 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     8x 100%
+    8x 100%
 
     Total Upgrade Bonus: 2.55e04%
 
@@ -239,7 +239,7 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     1x 100%
+    1x 100%
 
     Total Upgrade Bonus: 100%
 
@@ -299,7 +299,7 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     1x 100%
+    1x 100%
 
     Total Upgrade Bonus: 100%
 
@@ -370,7 +370,7 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     1x 100%
+    1x 100%
 
     Total Upgrade Bonus: 100%
 
@@ -432,7 +432,7 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     1x 100%
+    1x 100%
 
     Total Upgrade Bonus: 100%
 
@@ -492,7 +492,7 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     1x 100%
+    1x 100%
 
     Total Upgrade Bonus: 100%
 
@@ -540,7 +540,7 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     1x 100%
+    1x 100%
 
     Total Upgrade Bonus: 100%
 

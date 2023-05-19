@@ -188,9 +188,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     5x 100%
+    5x 100%
 
-    Total Upgrade Bonus: 3100%
+    Total Upgrade Bonus: 3,100%
 
 {
     "static_dps_mult": null,
@@ -249,9 +249,9 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     5x 100%
+    5x 100%
 
-    Total Upgrade Bonus: 3100%
+    Total Upgrade Bonus: 3,100%
 
 {
     "static_dps_mult": null,
@@ -365,7 +365,7 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     1x 100%
+    1x 100%
 
     Total Upgrade Bonus: 100%
 
@@ -432,7 +432,7 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     1x 100%
+    1x 100%
 
     Total Upgrade Bonus: 100%
 
@@ -480,7 +480,7 @@ Upgrades:
 <p>
 <pre>
 Upgrades:
-     1x 100%
+    1x 100%
 
     Total Upgrade Bonus: 100%
 
