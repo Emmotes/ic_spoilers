@@ -205,14 +205,14 @@ Unknown.
 
 # Items
 
-| Slot | Name | Type |
-|---|---|---|
-| 1 | `Bounty Hunter Items` | Unknown |
-| 2 | `Coat` | Unknown |
-| 3 | `Hat` | Unknown |
-| 4 | `Memento` | Unknown |
-| 5 | `Tankard` | Unknown |
-| 6 | `Wrist Weapon` | Unknown |
+| Icon | Slot | Epic Name | Type |
+|:-:|---|---|---|
+| ![Bounty Hunter Items Icon](vinursa/20051.png) | 1 | `Bounty Hunter Items` | Unknown |
+| ![Coat Icon](vinursa/20054.png) | 2 | `Coat` | Unknown |
+| ![Hat Icon](vinursa/20057.png) | 3 | `Hat` | Unknown |
+| ![Memento Icon](vinursa/20060.png) | 4 | `Memento` | Unknown |
+| ![Tankard Icon](vinursa/20063.png) | 5 | `Tankard` | Unknown |
+| ![Wrist Weapon Icon](vinursa/20066.png) | 6 | `Wrist Weapon` | Unknown |
 
 # Feats
 

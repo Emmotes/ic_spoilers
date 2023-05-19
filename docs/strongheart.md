@@ -372,14 +372,14 @@ Unknown.
 
 # Items
 
-| Slot | Name | Type |
-|---|---|---|
-| 1 | `Adventuring Equipment` | Unknown |
-| 2 | `Armor` | Unknown |
-| 3 | `Helmet` | Unknown |
-| 4 | `Horse Stuff` | Unknown |
-| 5 | `Lookin Good Stuff` | Unknown |
-| 6 | `Weapons` | Unknown |
+| Icon | Slot | Epic Name | Type |
+|:-:|---|---|---|
+| ![Adventuring Equipment Icon](strongheart/19746.png) | 1 | `Adventuring Equipment` | Unknown |
+| ![Armor Icon](strongheart/19749.png) | 2 | `Armor` | Unknown |
+| ![Helmet Icon](strongheart/19752.png) | 3 | `Helmet` | Unknown |
+| ![Horse Stuff Icon](strongheart/19755.png) | 4 | `Horse Stuff` | Unknown |
+| ![Lookin Good Stuff Icon](strongheart/19758.png) | 5 | `Lookin Good Stuff` | Unknown |
+| ![Weapons Icon](strongheart/19761.png) | 6 | `Weapons` | Unknown |
 
 # Feats
 

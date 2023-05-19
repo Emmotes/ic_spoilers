@@ -602,12 +602,12 @@ Expected numbers with various item levels:
 
 | Icon | Slot | Epic Name | Type |
 |:-:|---|---|---|
-| ![Deathfrost Icon](images/bbeg/item_1.png) | 1 | `Deathfrost` | Evil Overlord |
-| ![Barrier of Meta Protection Icon](images/bbeg/item_2.png) | 2 | `Barrier of Meta Protection` | Homebrew |
-| ![Zarxox, Undead General Icon](images/bbeg/item_3.png) | 3 | `Zarxox, Undead General` | Rise, My Minions! |
-| ![Omniscient Tome Icon](images/bbeg/item_4.png) | 4 | `Omniscient Tome` | Sources of Corpses |
-| ![Die of 1 for All Icon](images/bbeg/item_5.png) | 5 | `Die of 1 for All` | All Specialisations |
-| ![Armor of the Plot Icon](images/bbeg/item_6.png) | 6 | `Armor of the Plot` | Ultimate Cooldown Reduction |
+| ![Deathfrost Icon](images/bbeg/19486.png) | 1 | `Deathfrost` | Evil Overlord |
+| ![Barrier of Meta Protection Icon](images/bbeg/19483.png) | 2 | `Barrier of Meta Protection` | Homebrew |
+| ![Zarxox, Undead General Icon](images/bbeg/19489.png) | 3 | `Zarxox, Undead General` | Rise, My Minions! |
+| ![Omniscient Tome Icon](images/bbeg/19477.png) | 4 | `Omniscient Tome` | Sources of Corpses |
+| ![Die of 1 for All Icon](images/bbeg/19480.png) | 5 | `Die of 1 for All` | All Specialisations |
+| ![Armor of the Plot Icon](images/bbeg/19474.png) | 6 | `Armor of the Plot` | Ultimate Cooldown Reduction |
 
 <details><summary><em>Item Names and Descriptions</em></summary>
 <p>

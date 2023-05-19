@@ -570,12 +570,12 @@ Expected numbers with various item levels:
 
 | Icon | Slot | Epic Name | Type |
 |:-:|---|---|---|
-| ![Living Collar Icon](images/evandra/item_1.png) | 1 | `Living Collar` | All Champion Damage |
-| ![Armor of Victory Icon](images/evandra/item_2.png) | 2 | `Armor of Victory` | Health |
-| ![Blade of Vengeance Icon](images/evandra/item_3.png) | 3 | `Blade of Vengeance` | Freedom's Fury |
-| ![Necklace of Fury Icon](images/evandra/item_4.png) | 4 | `Necklace of Fury` | Find the Secret Stash |
-| ![Horn of the Infinite Icon](images/evandra/item_5.png) | 5 | `Horn of the Infinite` | All Specialisations |
-| ![Head of the Gnoll King Icon](images/evandra/item_6.png) | 6 | `Head of the Gnoll King` | Ultimate Cooldown Reduction |
+| ![Living Collar Icon](images/evandra/19254.png) | 1 | `Living Collar` | All Champion Damage |
+| ![Armor of Victory Icon](images/evandra/19248.png) | 2 | `Armor of Victory` | Health |
+| ![Blade of Vengeance Icon](images/evandra/19260.png) | 3 | `Blade of Vengeance` | Freedom's Fury |
+| ![Necklace of Fury Icon](images/evandra/19263.png) | 4 | `Necklace of Fury` | Find the Secret Stash |
+| ![Horn of the Infinite Icon](images/evandra/19251.png) | 5 | `Horn of the Infinite` | All Specialisations |
+| ![Head of the Gnoll King Icon](images/evandra/19257.png) | 6 | `Head of the Gnoll King` | Ultimate Cooldown Reduction |
 
 <details><summary><em>Item Names and Descriptions</em></summary>
 <p>

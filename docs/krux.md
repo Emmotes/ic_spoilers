@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-![PC Portrait](images/commodorekrux/portrait.png)
+![PC Portrait](images/krux/portrait.png)
 
 # Commodore Krux
 
@@ -10,7 +10,7 @@
 
 # Basic Information
 
-Commodore Krux will be an upcoming Evergreen champion guesstimated to release on 19 July 2023 with the [Xaryxis 5 content drop](contentdrops.md#xaryxis-5---19-july-2023).
+Krux will be an upcoming Evergreen champion guesstimated to release on 19 July 2023 with the [Xaryxis 5 content drop](contentdrops.md#xaryxis-5---19-july-2023).
 
 * Seat: Unknown
 * Race: Giff (Guess)
@@ -26,7 +26,7 @@ Commodore Krux will be an upcoming Evergreen champion guesstimated to release on
 
 Unknown.
 {% comment %}
-![Formation Layout](images/commodorekrux/formation.png)
+![Formation Layout](images/krux/formation.png)
 {% endcomment %}
 
 # Abilities
@@ -457,14 +457,14 @@ Unknown.
 
 # Items
 
-| Slot | Name | Type |
-|---|---|---|
-| 1 | `Coin Pouch` | Unknown |
-| 2 | `Flintlock Pistols` | Unknown |
-| 3 | `Giff Uniform` | Unknown |
-| 4 | `Hat` | Unknown |
-| 5 | `Memento` | Unknown |
-| 6 | `Navigation Gear` | Unknown |
+| Icon | Slot | Epic Name | Type |
+|:-:|---|---|---|
+| ![Coin Pouch Icon](krux/19860.png) | 1 | `Coin Pouch` | Unknown |
+| ![Flintlock Pistols Icon](krux/19864.png) | 2 | `Flintlock Pistols` | Unknown |
+| ![Giff Uniform Icon](krux/19867.png) | 3 | `Giff Uniform` | Unknown |
+| ![Hat Icon](krux/19870.png) | 4 | `Hat` | Unknown |
+| ![Memento Icon](krux/19873.png) | 5 | `Memento` | Unknown |
+| ![Navigation Gear Icon](krux/19876.png) | 6 | `Navigation Gear` | Unknown |
 
 # Feats
 
@@ -476,13 +476,13 @@ Unknown.
 
 # Console Portrait
 
-![Console Portrait](images/commodorekrux/console.png)
+![Console Portrait](images/krux/console.png)
 
 # Chests
 
 | Gold |
 |---|
-| ![Gold Chest](images/commodorekrux/chest_gold.png) |
+| ![Gold Chest](images/krux/chest_gold.png) |
 
 [Back to Top](#top)
 

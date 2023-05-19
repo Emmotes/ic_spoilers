@@ -72,14 +72,7 @@ Unknown.
 
 # Items
 
-| Slot | Name | Type |
-|---|---|---|
-| 1 | `Unknown` | Unknown |
-| 2 | `Unknown` | Unknown |
-| 3 | `Unknown` | Unknown |
-| 4 | `Unknown` | Unknown |
-| 5 | `Unknown` | Unknown |
-| 6 | `Unknown` | Unknown |
+Unknown.
 
 # Feats
 
