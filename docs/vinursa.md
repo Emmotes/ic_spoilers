@@ -205,14 +205,14 @@ Unknown.
 
 # Items
 
-| Icon | Slot | Epic Name | Type |
-|:-:|---|---|---|
-| ![Bounty Hunter Items Icon](images/vinursa/20051.png) | 1 | `Bounty Hunter Items` | Unknown |
-| ![Coat Icon](images/vinursa/20054.png) | 2 | `Coat` | Unknown |
-| ![Hat Icon](images/vinursa/20057.png) | 3 | `Hat` | Unknown |
-| ![Memento Icon](images/vinursa/20060.png) | 4 | `Memento` | Unknown |
-| ![Tankard Icon](images/vinursa/20063.png) | 5 | `Tankard` | Unknown |
-| ![Wrist Weapon Icon](images/vinursa/20066.png) | 6 | `Wrist Weapon` | Unknown |
+| Icon | Name | Type |
+|:-:|---|---|
+| ![Bounty Hunter Items Icon](images/vinursa/20051.png) | `Bounty Hunter Items` | Unknown |
+| ![Coat Icon](images/vinursa/20054.png) | `Coat` | Unknown |
+| ![Hat Icon](images/vinursa/20057.png) | `Hat` | Unknown |
+| ![Memento Icon](images/vinursa/20060.png) | `Memento` | Unknown |
+| ![Tankard Icon](images/vinursa/20063.png) | `Tankard` | Unknown |
+| ![Wrist Weapon Icon](images/vinursa/20066.png) | `Wrist Weapon` | Unknown |
 
 # Feats
 

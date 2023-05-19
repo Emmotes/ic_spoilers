@@ -372,14 +372,14 @@ Unknown.
 
 # Items
 
-| Icon | Slot | Epic Name | Type |
-|:-:|---|---|---|
-| ![Adventuring Equipment Icon](images/strongheart/19746.png) | 1 | `Adventuring Equipment` | Unknown |
-| ![Armor Icon](images/strongheart/19749.png) | 2 | `Armor` | Unknown |
-| ![Helmet Icon](images/strongheart/19752.png) | 3 | `Helmet` | Unknown |
-| ![Horse Stuff Icon](images/strongheart/19755.png) | 4 | `Horse Stuff` | Unknown |
-| ![Lookin Good Stuff Icon](images/strongheart/19758.png) | 5 | `Lookin Good Stuff` | Unknown |
-| ![Weapons Icon](images/strongheart/19761.png) | 6 | `Weapons` | Unknown |
+| Icon | Name | Type |
+|:-:|---|---|
+| ![Adventuring Equipment Icon](images/strongheart/19746.png) | `Adventuring Equipment` | Unknown |
+| ![Armor Icon](images/strongheart/19749.png) | `Armor` | Unknown |
+| ![Helmet Icon](images/strongheart/19752.png) | `Helmet` | Unknown |
+| ![Horse Stuff Icon](images/strongheart/19755.png) | `Horse Stuff` | Unknown |
+| ![Lookin Good Stuff Icon](images/strongheart/19758.png) | `Lookin Good Stuff` | Unknown |
+| ![Weapons Icon](images/strongheart/19761.png) | `Weapons` | Unknown |
 
 # Feats
 
