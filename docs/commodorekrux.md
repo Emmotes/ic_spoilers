@@ -162,7 +162,13 @@ Unknown.
         }]
     }],
     "requirements": [],
-    "description": {"desc": "Commodore Krux increases the damage of all Champions in his column and the rear-most column of the formation by $(amount)%. This does not apply twice if that is the same column."},
+    "description": {"conditions": [
+        {
+            "condition": "feat_assigned 1369",
+            "desc": "Commodore Krux increases the damage of all Champions in his column and the two rear-most columns of the formation by $(amount)%. This does not apply twice if he's in one of the two rear-most columns."
+        },
+        {"desc": "Commodore Krux increases the damage of all Champions in his column and the rear-most column of the formation by $(amount)%. This does not apply twice if that is the same column."}
+    ]},
     "id": 1560,
     "flavour_text": "",
     "graphic_id": 19883,
