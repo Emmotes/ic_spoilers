@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![PC Portrait](images/vinursa/portrait.png)
-{% endcomment %}
 
 # Vin Ursa
 
@@ -51,11 +49,58 @@ Unknown.
 </details>
 <br />
 
-**Unknown**
+**Bounty Hunter**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20011,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Midsummer/Midsummer_Y6/Icon_Formation_VinUrsaBountyHunter",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Friends in High Places**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20012,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Midsummer/Midsummer_Y6/Icon_Formation_VinUrsaFriendsinHighPlaces",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Vicious Vantage**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20013,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Midsummer/Midsummer_Y6/Icon_Formation_VinUrsaViciousVantage",
+    "fs": 0
+}
 </pre>
 </p>
 </details>
@@ -63,18 +108,111 @@ Unknown.
 
 # Specialisations
 
-Unknown.
+**Specialisation: Friend in High Places**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20014,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Midsummer/Midsummer_Y6/Icon_Specialization_VinUrsaFriendInHighPlaces",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Friend in Low Places**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20015,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Midsummer/Midsummer_Y6/Icon_Specialization_VinUrsaFriendInLowPlaces",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Friend in Meh Places**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20016,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Midsummer/Midsummer_Y6/Icon_Specialization_VinUrsaFriendInMehPlaces",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Front Deck**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20017,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Midsummer/Midsummer_Y6/Icon_Specialization_VinUrsaFrontDeck",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Rear Deck**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20018,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Midsummer/Midsummer_Y6/Icon_Specialization_VinUrsaRearDeck",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
 
 # Items
 
 | Slot | Name | Type |
 |---|---|---|
-| 1 | `Unknown` | Unknown |
-| 2 | `Unknown` | Unknown |
-| 3 | `Unknown` | Unknown |
-| 4 | `Unknown` | Unknown |
-| 5 | `Unknown` | Unknown |
-| 6 | `Unknown` | Unknown |
+| 1 | `Bounty Hunter Items` | Unknown |
+| 2 | `Coat` | Unknown |
+| 3 | `Hat` | Unknown |
+| 4 | `Memento` | Unknown |
+| 5 | `Tankard` | Unknown |
+| 6 | `Wrist Weapon` | Unknown |
 
 # Feats
 
