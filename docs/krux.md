@@ -459,12 +459,12 @@ Unknown.
 
 | Icon | Slot | Epic Name | Type |
 |:-:|---|---|---|
-| ![Coin Pouch Icon](krux/19860.png) | 1 | `Coin Pouch` | Unknown |
-| ![Flintlock Pistols Icon](krux/19864.png) | 2 | `Flintlock Pistols` | Unknown |
-| ![Giff Uniform Icon](krux/19867.png) | 3 | `Giff Uniform` | Unknown |
-| ![Hat Icon](krux/19870.png) | 4 | `Hat` | Unknown |
-| ![Memento Icon](krux/19873.png) | 5 | `Memento` | Unknown |
-| ![Navigation Gear Icon](krux/19876.png) | 6 | `Navigation Gear` | Unknown |
+| ![Coin Pouch Icon](images/krux/19860.png) | 1 | `Coin Pouch` | Unknown |
+| ![Flintlock Pistols Icon](images/krux/19864.png) | 2 | `Flintlock Pistols` | Unknown |
+| ![Giff Uniform Icon](images/krux/19867.png) | 3 | `Giff Uniform` | Unknown |
+| ![Hat Icon](images/krux/19870.png) | 4 | `Hat` | Unknown |
+| ![Memento Icon](images/krux/19873.png) | 5 | `Memento` | Unknown |
+| ![Navigation Gear Icon](images/krux/19876.png) | 6 | `Navigation Gear` | Unknown |
 
 # Feats
 
