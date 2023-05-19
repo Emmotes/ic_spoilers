@@ -156,6 +156,13 @@ Upgrades:
     1,600: 200%
 
     Total Upgrade Bonus: 1.59e08%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+
+	Dull Epic ilvl    100: 1.37e09%
+	Dull Epic ilvl  1,000: 4.70e09%
+	Dull Epic ilvl 10,000: 3.63e10%
 </pre>
 </p>
 </details>
@@ -209,6 +216,11 @@ Upgrades:
     1,450: 100%
 
     Total Upgrade Bonus: 3,100%
+
+Expected numbers:
+	(Does not include feats.)
+
+	At softcap: 6,300%
 </pre>
 </p>
 </details>
@@ -279,6 +291,21 @@ Upgrades:
     1,590: 100%
 
     Total Upgrade Bonus: 3,100%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+
+	Dull Epic ilvl    100:
+		  0 Stacks: 2.73e04%
+		120 Stacks: 1.67e06%
+
+	Dull Epic ilvl  1,000:
+		  0 Stacks: 9.42e04%
+		120 Stacks: 5.75e06%
+
+	Dull Epic ilvl 10,000:
+		  0 Stacks: 7.28e05%
+		120 Stacks: 4.44e07%
 </pre>
 </p>
 </details>
