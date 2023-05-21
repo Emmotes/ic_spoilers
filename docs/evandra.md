@@ -224,7 +224,7 @@ Expected numbers:
 
 	At softcap:
 		  0 Stacks: 6,300%
-		120 Stacks: 1.54e06%
+		120 Stacks: 7.74e05%
 </pre>
 </p>
 </details>
