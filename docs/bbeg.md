@@ -229,9 +229,17 @@ Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	Dull Epic ilvl    100: 2.19e05%
-	Dull Epic ilvl  1,000: 7.55e05%
-	Dull Epic ilvl 10,000: 5.82e06%
+	Dull Epic ilvl    100:
+		 0 Potions: 2.19e05%
+		20 Potions: 2.30e11%
+
+	Dull Epic ilvl  1,000:
+		 0 Potions: 7.55e05%
+		20 Potions: 7.91e11%
+
+	Dull Epic ilvl 10,000:
+		 0 Potions: 5.82e06%
+		20 Potions: 6.11e12%
 </pre>
 </p>
 </details>
