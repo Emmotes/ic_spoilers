@@ -222,7 +222,9 @@ Expected numbers:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	At softcap: 6,300%
+	At softcap:
+		  0 Stacks: 6,300%
+		120 Stacks: 1.54e06%
 </pre>
 </p>
 </details>
