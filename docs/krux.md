@@ -32,12 +32,12 @@ Unknown.
 # Abilities
 
 **Base Attack: Flintlock Pistols** (Ranged)
-> Commodore Krux fires a pistol at random targets, dealing one hit.
+> Commodore Krux fires a pistol at a random target.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "Commodore Krux fires a pistol at random targets, dealing one hit.",
+    "description": "Commodore Krux fires a pistol at a random target.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["ranged"],
@@ -77,7 +77,7 @@ Unknown.
 <p>
 <pre>
 {
-    "description": "Commodore Krux thows a grenade which deals damage and knocks enemies back.",
+    "description": "Commodore Krux throws a grenade at the enemy with the most health which deals damage and knocks enemies back.",
     "long_description": "Commodore Krux throws a grenade at the enemy with the most health, which explodes dealing ultimate damage to all enemies in a medium radius and knocking them all back a short distance.",
     "damage_modifier": 1,
     "damage_types": ["ranged"],
@@ -172,10 +172,7 @@ Unknown.
     "id": 1560,
     "flavour_text": "",
     "graphic_id": 19883,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
-    }
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -183,7 +180,7 @@ Unknown.
 <br />
 
 **Battle Stations**
-> Commodore Krux increases the damage bonus of All Hands On Deck! by `$(amount)%` for each second the Champions are in the current area, stacking multiplicatively up to a maximum of `$(max_stacks)` stacks.
+> Commodore Krux increases the damage bonus of All Hands On Deck! by `$(not_buffed amount)%` for each second the Champions are in the current area, stacking multiplicatively up to a maximum of `$(max_stacks)` stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -201,7 +198,7 @@ Unknown.
         "stacks_on_trigger": "on_timer,1"
     }],
     "requirements": [],
-    "description": {"desc": "Commodore Krux increases the damage bonus of All Hands On Deck! by $(amount)% for each second the Champions are in the current area, stacking multiplicatively up to a maximum of $(max_stacks) stacks."},
+    "description": {"desc": "Commodore Krux increases the damage bonus of All Hands On Deck! by $(not_buffed amount)% for each second the Champions are in the current area, stacking multiplicatively up to a maximum of $(max_stacks) stacks."},
     "id": 1561,
     "flavour_text": "",
     "graphic_id": 19885,
@@ -230,6 +227,7 @@ Unknown.
             "amount_func": "add",
             "override_total_bonus_sentence": "+$bonus% of Krux's Max HP",
             "stack_func": "per_adventure_completed",
+            "use_computed_amount_for_description": true,
             "effect_string": "increase_health_by_source_percent,0.1",
             "stack_func_data": {"campaign_id": 28},
             "show_current_value_bonus_desc": false,
@@ -240,6 +238,7 @@ Unknown.
             "off_when_benched": true,
             "amount_func": "add",
             "stack_func": "per_adventure_completed",
+            "use_computed_amount_for_description": true,
             "effect_string": "healing_add_mult,0.1",
             "stack_func_data": {"campaign_id": 28},
             "targets": ["other"]
@@ -312,7 +311,7 @@ Unknown.
 <br />
 
 **Experienced Sailor**
-> Commodore Krux increases the effect of All Hands On Deck! by `$(amount)%` for each adventure, variant, and Patron variant you have completed in the Light of Xaryxis campaign, stacking multiplicatively.
+> Commodore Krux increases the effect of All Hands On Deck! by `$(not_buffed amount)%` for each adventure, variant, and Patron variant you have completed in the Light of Xaryxis campaign, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -328,7 +327,7 @@ Unknown.
         "stack_func_data": {"campaign_id": 28}
     }],
     "requirements": [],
-    "description": {"desc": "Commodore Krux increases the effect of All Hands On Deck! by $(amount)% for each adventure, variant, and Patron variant you have completed in the Light of Xaryxis campaign, stacking multiplicatively."},
+    "description": {"desc": "Commodore Krux increases the effect of All Hands On Deck! by $(not_buffed amount)% for each adventure, variant, and Patron variant you have completed in the Light of Xaryxis campaign, stacking multiplicatively."},
     "id": 1564,
     "flavour_text": "",
     "graphic_id": 19886,
