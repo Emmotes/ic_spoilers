@@ -44,10 +44,10 @@ This content drop will likely be joined by new blessings.
 
 | Icon | Campaign | Adventure Name | Type |
 |---|---|---|---|
-| ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | Huntfor the Last Breath | Adventure |
-| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | Huntfor the Last Breath | Variant #1 |
-| ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | To Infinitys and Beyond | Adventure |
-| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | To Infinitys and Beyond | Variant #1 |
+| ![Xaryxis: Huntfor the Last Breath (Adventure)](images/contentdrop_portraits/xaryxis_huntforthelastbreath_0.png) | Xaryxis | Huntfor the Last Breath | Adventure |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Huntfor the Last Breath (Variant 1)](images/contentdrop_portraits/xaryxis_huntforthelastbreath_1.png) | Xaryxis | Huntfor the Last Breath | Variant #1 |
+| ![Xaryxis: To Infinitys and Beyond (Adventure)](images/contentdrop_portraits/xaryxis_toinfinitysandbeyond_0.png) | Xaryxis | To Infinitys and Beyond | Adventure |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: To Infinitys and Beyond (Variant 1)](images/contentdrop_portraits/xaryxis_toinfinitysandbeyond_1.png) | Xaryxis | To Infinitys and Beyond | Variant #1 |
 
 <br />
 This page was made with the help of Randramb.
