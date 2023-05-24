@@ -142,28 +142,31 @@ Evandra will be the new champion in the The Great Modron March event on 24 May 2
 <pre>
 Upgrades:
        60: 200%
+      140: 200%
       170: 200%
       310: 200%
       450: 200%
       580: 200%
       700: 200%
+      790: 200%
       840: 200%
       970: 200%
     1,100: 200%
     1,230: 200%
+    1,290: 200%
     1,350: 200%
     1,480: 200%
     1,600: 200%
 
-    Total Upgrade Bonus: 1.59e08%
+    Total Upgrade Bonus: 4.30e09%
 
 Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	Dull Epic ilvl    100: 1.37e09%
-	Dull Epic ilvl  1,000: 4.70e09%
-	Dull Epic ilvl 10,000: 3.63e10%
+	Dull Epic ilvl    100: 3.69e10%
+	Dull Epic ilvl  1,000: 1.27e11%
+	Dull Epic ilvl 10,000: 9.79e11%
 </pre>
 </p>
 </details>
@@ -288,29 +291,33 @@ Expected numbers:
 <p>
 <pre>
 Upgrades:
-      270: 100%
+      240: 100%
+      350: 100%
       530: 100%
+      650: 100%
       890: 100%
+    1,020: 100%
     1,240: 100%
+    1,420: 100%
     1,590: 100%
 
-    Total Upgrade Bonus: 3,100%
+    Total Upgrade Bonus: 5.11e04%
 
 Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
 	Dull Epic ilvl    100:
-		  0 Stacks: 2.73e04%
-		120 Stacks: 1.67e06%
+		  0 Stacks: 4.39e05%
+		120 Stacks: 2.68e07%
 
 	Dull Epic ilvl  1,000:
-		  0 Stacks: 9.42e04%
-		120 Stacks: 5.75e06%
+		  0 Stacks: 1.51e06%
+		120 Stacks: 9.21e07%
 
 	Dull Epic ilvl 10,000:
-		  0 Stacks: 7.28e05%
-		120 Stacks: 4.44e07%
+		  0 Stacks: 1.16e07%
+		120 Stacks: 7.10e08%
 </pre>
 </p>
 </details>
@@ -421,7 +428,7 @@ Expected numbers with various item levels:
 # Specialisations
 
 ![Carnival Crew Icon](images/evandra/icon_carnivalcrew.png) **Carnival Crew** (Level: 200)
-> Evandra increases the damage bonus of Freedom's Fury by 150% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively, and all Awful Ones Champions can be used in Witchlight adventures.
+> Evandra increases the damage bonus of Freedom's Fury by 400% for each Champion with a total ability score of 78 or less in the formation, stacking multiplicatively, and all Awful Ones Champions can be used in Witchlight adventures.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -450,7 +457,7 @@ Expected numbers with various item levels:
             "show_bonus": true,
             "amount_func": "mult",
             "stack_func": "per_crusader",
-            "effect_string": "buff_upgrade,150,11295",
+            "effect_string": "buff_upgrade,400,11295",
             "stack_func_data": {"target_filters": [{
                 "stat": "total_ability_score",
                 "comparison": "<=",
@@ -483,7 +490,7 @@ Expected numbers with various item levels:
 <br />
 
 ![Fighting Force Icon](images/evandra/icon_fightingforce.png) **Fighting Force** (Level: 200)
-> Evandra increases the damage bonus of Freedom's Fury by 125% for each Fighter, Barbarian, Ranger, or Paladin Champion in the formation, stacking multiplicatively and applied multiplicatively.
+> Evandra increases the damage bonus of Freedom's Fury by 250% for each Fighter, Barbarian, Ranger, or Paladin Champion in the formation, stacking multiplicatively and applied multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -505,7 +512,7 @@ Expected numbers with various item levels:
     "effect_keys": [{
         "stacks_multiply": true,
         "off_when_benched": true,
-        "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,125,11295,fighter|barbarian|ranger|paladin"
+        "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,250,11295,fighter|barbarian|ranger|paladin"
     }],
     "requirements": "",
     "description": {"desc": "$(source_hero) increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Fighter, Barbarian, Ranger, or Paladin Champion in the formation, stacking multiplicatively and applied multiplicatively."},
