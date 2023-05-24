@@ -4,48 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Nature Nordom Skin & Feat Pack - $9.99  
-Date of release: 24 May 2023
-
-Contents:
-
-* Champion: `Nordom Whistleklik`
-* Skin: `Nature Nordom`
-* Feat: `Modron Sensibilities` (Nordom)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Nordom Chest` x7 (Shinies x1)
-
-<br />
-
-### Proud Papa Mehen Skin & Feat Pack - $9.99  
-Date of release: 24 May 2023
-
-Contents:
-
-* Champion: `Verthisathurgiesh Mehen`
-* Skin: `Proud Papa Mehen`
-* Feat: `Proud Papa` (Mehen)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Mehen Chest` x7 (Shinies x1)
-
-<br />
-
-### Witchlight Evandra Theme Pack - $24.99  
-Date of release: 24 May 2023
-
-Contents:
-
-* Champion: `Evandra`
-* Skin: `Witchlight Evandra`
-* Feat: `Ringmaster` (Evandra)
-* Familiar: `Meatshield the Fey Lion`
-* Chests: `Gold Evandra Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
 ### Pride Marshal Kent Skin & Feat Pack - $9.99  
 Date of release: 05 Jun 2023
 

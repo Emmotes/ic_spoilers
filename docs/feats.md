@@ -10,24 +10,20 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
-| ![Ringmaster Icon](images/featicons/upgradefa.png) | Ringmaster | Evandra | 80% Freedom's Fury | 50,000 Gems | 24 May 2023 |
-| ![Proud Papa Icon](images/featicons/upgradefa.png) | Proud Papa | Mehen | 80% Brimstone Angels | 50,000 Gems | 24 May 2023 |
-| ![Modron Sensibilities Icon](images/featicons/upgradefa.png) | Modron Sensibilities | Nordom | 80% Rule of Law | 50,000 Gems | 24 May 2023 |
-| ![Entertainer Icon](images/featicons/attributeboostx2.png) | Entertainer | Nrakk | Stat: +2 Charisma | Emergence 2 | 24 May 2023 |
 | ![Vicious Damage Icon](images/featicons/viciousdamage.png) | Vicious Damage | BBEG | 400% Self DPS & Prevent Healing for 10s | ??? | 01 Jun 2023 |
 | ![Ghosts of the Past Icon](images/featicons/upgradefa.png) | Ghosts of the Past | Kent | 80% Remembering the Old Days | 50,000 Gems | 05 Jun 2023 |
 | ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | Virgil | 50% All Champion Damage | 50,000 Gems | 05 Jun 2023 |
 | ![Skipping Ahead Icon](images/featicons/upgradefa.png) | Skipping Ahead | BBEG | 100% Railroad | 50,000 Gems | 07 Jun 2023 |
 | ![Shield Throw Icon](images/featicons/upgradefa.png) | Shield Throw | Selise | 80% Shield of Psychomancy | 50,000 Gems | 07 Jun 2023 |
-| ![Shadow Strike Icon](images/featicons/critchanceincrease.png) | Shadow Strike | Artemis | +10% Crit Chance | Season 4 | 14 Jun 2023 |
+| ![Battle Expertise Icon](images/featicons/critchanceincrease.png) | Battle Expertise | Artemis | +10% Crit Chance | Season 4 | 14 Jun 2023 |
 | ![Vicious Damage Icon](images/featicons/viciousdamage.png) | Vicious Damage | Artemis | 400% Self DPS & Prevent Healing for 10s | Season 4 | 14 Jun 2023 |
 | ![To Your King! Icon](images/featicons/upgradefa.png) | To Your King! | Bruenor | 20% Rally | ??? | 14 Jun 2023 |
 | ![Creature Squad Icon](images/featicons/upgradefa.png) | Creature Squad | Ishi | 80% Monsters are People Too! | 50,000 Gems | 14 Jun 2023 |
-| ![Get the Point? Icon](images/featicons/critchanceincrease.png) | Get the Point? | Jarlaxle | +5% Crit Chance | ??? | 14 Jun 2023 |
+| ![Tactical Prowess Icon](images/featicons/critchanceincrease.png) | Tactical Prowess | Jarlaxle | +5% Crit Chance | ??? | 14 Jun 2023 |
 | ![Rally of the Protectors Icon](images/featicons/upgradefa.png) | Rally of the Protectors | Sgt. Knox | 80% Rallying Cry | 50,000 Gems | 14 Jun 2023 |
 | ![Frost Strike Icon](images/featicons/upgradefa.png) | Frost Strike | Drizzt | 20% Icingdeath | ??? | 21 Jun 2023 |
-| ![Dazzling Flourish Icon](images/featicons/critdamageincrease.png) | Dazzling Flourish | Jarlaxle | +60% Crit Damage | ??? | 21 Jun 2023 |
-| ![Hidden Strike Icon](images/featicons/critchanceincrease.png) | Hidden Strike | Jarlaxle | +10% Crit Chance | ??? | 21 Jun 2023 |
+| ![Battle Expertise Icon](images/featicons/critchanceincrease.png) | Battle Expertise | Jarlaxle | +10% Crit Chance | ??? | 21 Jun 2023 |
+| ![Cataclysmic Strike Icon](images/featicons/critdamageincrease.png) | Cataclysmic Strike | Jarlaxle | +60% Crit Damage | ??? | 21 Jun 2023 |
 | ![Fortune's Favor Icon](images/featicons/goldfind.png) | Fortune's Favor | Freely | 50% Gold | 50,000 Gems | 12 Jul 2023 |
 | ![Guardian of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Guardian of the Hall | Drizzt | +2 Mithral Hall Stacks | 50,000 Gems | 19 Jul 2023 |
 | ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | Tatyana | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |

@@ -8,12 +8,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 
 | Portrait | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| ![Modron Antrius Portrait](images/skin_portraits/modronantrius.png) | Modron Antrius | Emergence 2 (Guess) | ??? | 24 May 2023 |
-| ![Witchlight Evandra Portrait](images/skin_portraits/witchlightevandra.png) | Witchlight Evandra | Witchlight Evandra Theme Pack | $24.99 | 24 May 2023 |
-| ![Proud Papa Mehen Portrait](images/skin_portraits/proudpapamehen.png) | Proud Papa Mehen | Proud Papa Mehen Skin & Feat Pack | $9.99 | 24 May 2023 |
-| ![Modron Nixie Portrait](images/skin_portraits/modronnixie.png) | Modron Nixie | Emergence 2 (Guess) | ??? | 24 May 2023 |
-| ![Nature Nordom Portrait](images/skin_portraits/naturenordom.png) | Nature Nordom | Nature Nordom Skin & Feat Pack | $9.99 | 24 May 2023 |
-| ![Action Figure Strongheart Portrait](images/skin_portraits/actionfigurestrongheart.png) | Action Figure Strongheart | Action Figure Strongheart Theme Pack | $24.99 | 24 May 2023 |
 | ![Pride Marshal Kent Portrait](images/skin_portraits/pridemarshalkent.png) | Pride Marshal Kent | Pride Marshal Kent Skin & Feat Pack | $9.99 | 05 Jun 2023 |
 | ![Pride Marshal Virgil Portrait](images/skin_portraits/pridemarshalvirgil.png) | Pride Marshal Virgil | Pride Marshal Virgil Skin & Feat Pack | $9.99 | 05 Jun 2023 |
 | ![Witchlight BBEG Portrait](images/skin_portraits/witchlightbbeg.png) | Witchlight BBEG | Witchlight BBEG Theme Pack | $24.99 | 07 Jun 2023 |
