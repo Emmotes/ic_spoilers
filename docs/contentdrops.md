@@ -40,6 +40,15 @@ This content drop will likely be joined by new blessings.
 | ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Topolahs Tower (Variant 1)](images/contentdrop_portraits/xaryxis_topolahstower_1.png) | Xaryxis | Topolahs Tower | Variant #1 |
 | ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Topolahs Tower (Variant 2)](images/contentdrop_portraits/xaryxis_topolahstower_2.png) | Xaryxis | Topolahs Tower | Variant #2 |
 
+## Xaryxis 6 - 9 August 2023
+
+| Icon | Campaign | Adventure Name | Type |
+|---|---|---|---|
+| ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | Huntfor the Last Breath | Adventure |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | Huntfor the Last Breath | Variant #1 |
+| ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | To Infinitys and Beyond | Adventure |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Xaryxis | To Infinitys and Beyond | Variant #1 |
+
 <br />
 This page was made with the help of Randramb.
 
