@@ -25,11 +25,7 @@ Season 4 will be called `Legends of Mithral Hall` and is guesstimated to start o
 
 # Theme
 
-![Regis Season Portrait](images/season_4/regis.png)
-![Catti-brie Season Portrait](images/season_4/catti-brie.png)
-![Wulfgar Season Portrait](images/season_4/wulfgar.png)
-![Pwent Season Portrait](images/season_4/pwent.png)
-![Artemis Season Portrait](images/season_4/artemis.png)
+![Regis Season Portrait](images/season_4/regis.png)![Catti-brie Season Portrait](images/season_4/catti-brie.png)![Wulfgar Season Portrait](images/season_4/wulfgar.png)![Pwent Season Portrait](images/season_4/pwent.png)![Artemis Season Portrait](images/season_4/artemis.png)
 
 The five seasonal champions this time around will be Regis Catti-brie Wulfgar Pwent and Artemis. We know this because the seasonal chest will be `Legends of Mithral Hall Chest` and it contains loot for those champions.
 
