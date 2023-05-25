@@ -5,7 +5,8 @@
 * [Season 4](#season-4)
 * [Theme](#theme)
 * [Changes](#changes)
-* [Catti-Brie](#catti-brie)
+* [Catti-brie](#catti-brie)
+* [Artemis](#artemis)
 * [Pwent](#pwent)
 * [Regis](#regis)
 * [Wulfgar](#wulfgar)
@@ -20,19 +21,21 @@
 
 ![Season 4 Banner](images/season_4/banner.png)
 
-Season 4 - `Legends of the Mithral Hall` - is expected to start on 21 June 2023 with the season preview week expected to start on 14 June 2023.
+Season 4 will be called `Legends of Mithral Hall` and is guesstimated to start on 21 June 2023 with the preview week arriving one week prior on 14 June 2023.
 
 # Theme
 
 ![Season 4 Portrait](images/season_4/portrait.png)
 
-With the presence of the `Legends of Mithral Hall Chests` in the defines - giving gear for Regis Catti-brie Wulfgar Pwent and Artemis - it's clear season 4 will be for Companions of the Hall and peripherally related champions. Given that there are also a bunch of `Mythic` skins for most of them - it's as certain as a spoiler can be that they'll be the season champions.
+The five seasonal champions this time around will be Regis Catti-brie Wulfgar Pwent and Artemis. We know this because the seasonal chest will be `Legends of Mithral Hall Chest` and it contains loot for those champions.
+
+This means the theme this season is Companions of the Hall and peripherally related champions.
 
 ![Season 4 Ad Panel](images/season_4/adpanel.png)
 
 # Changes
 
-Most of the champions have changes so far - including Bruenor and Drizzt. Haven't seen any for Artemis.
+Most of the champions have seen changes so far though we have yet to see any for Artemis.
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. Making assumptions on how the champions will turn out based on this information would be premature.
 
@@ -452,6 +455,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 <br />
+
+# Artemis
+
+![Artemis Portrait](images/season_4/artemis.png)
+
+None yet.
 
 # Pwent
 
