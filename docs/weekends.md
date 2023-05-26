@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Magical Transport | 26 May | **DM** | Tyril | Delina | Freely | Deekin | Golden Epic |
 | Vanguard | 02 June | **Miria** | Bruenor | Minsc | Antrius | Hew Maan | Golden Epic |
 | Neutral Vengeance | 09 June | **Evandra** | Asharra | Jamilah | Nixie | Birdsong | Golden Epic |
 | Law of the Land | 16 June | **Turiel** | Nayeli | Celeste | BBEG | Nordom | Golden Epic |
