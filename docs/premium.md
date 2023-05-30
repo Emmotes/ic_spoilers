@@ -112,7 +112,7 @@ Contents:
 * Skin: `Action Figure Strongheart`
 * Feat: ???
 * Familiar: `Baby Destrier`
-* Chests: `Gold E14Y6 Chest` x16 (Shinies x2)
+* Chests: `Gold Strongheart Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 
 <br />

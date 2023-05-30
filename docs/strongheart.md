@@ -393,13 +393,11 @@ Unknown.
 
 ![Console Portrait](images/strongheart/console.png)
 
-{% comment %}
 # Chests
 
 | Gold | Silver |
 |---|---|
 | ![Gold Chest](images/strongheart/chest_gold.png) | ![Silver Chest](images/strongheart/chest_silver.png) |
-{% endcomment %}
 
 [Back to Top](#top)
 
