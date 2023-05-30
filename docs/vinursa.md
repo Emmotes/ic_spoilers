@@ -226,13 +226,11 @@ Unknown.
 
 ![Console Portrait](images/vinursa/console.png)
 
-{% comment %}
 # Chests
 
 | Gold | Silver |
 |---|---|
 | ![Gold Chest](images/vinursa/chest_gold.png) | ![Silver Chest](images/vinursa/chest_silver.png) |
-{% endcomment %}
 
 [Back to Top](#top)
 
