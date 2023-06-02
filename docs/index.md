@@ -18,6 +18,8 @@ These are the event champions that are upcoming and all the information we know 
   * [Vin Ursa](vinursa.md) - Plasmoid
 * Ahghairon's Day - 16 August 2023
   * [Lae'zel](laezel.md) - Githyanki Fighter
+* Brightswords - 6 September 2023
+  * [Astarion](astarion.md) - Elf (High) Rogue (Guess)
 
 # Evergreens
 
