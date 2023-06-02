@@ -25,10 +25,7 @@ Strongheart will be the new champion in the Founder's Day event on 28 June 2023.
 
 # Formation
 
-Unknown.
-{% comment %}
 ![Formation Layout](images/strongheart/formation.png)
-{% endcomment %}
 
 # Abilities
 
@@ -64,17 +61,17 @@ Unknown.
 <br />
 
 **Ultimate Attack: Command: Yield!**
-> Unknown effect.
+> Strongheart moves forward and Commands the enemy with the most health to Yield, stunning it for 6 seconds. While it is stunned, all attacks against the enemy deal additional 15 seconds worth of BUD.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
-    "long_description": "",
+    "description": "Strongheart commands the enemy with the most health to Yield. It is stunned and all attacks deal additional BUD damage.",
+    "long_description": "Strongheart moves forward and Commands the enemy with the most health to Yield, stunning it for 6 seconds. While it is stunned, all attacks against the enemy deal additional 15 seconds worth of BUD.",
     "damage_modifier": 0,
     "damage_types": ["magic"],
     "graphic_id": 19785,
-    "target": "highest_health",
+    "target": "highest_health_exclude_blockers",
     "aoe_radius": 0,
     "tags": ["ultimate"],
     "num_targets": 1,
@@ -132,6 +129,7 @@ Unknown.
 {
     "effect_keys": [{
         "off_when_benched": true,
+        "outgoing_buffs": false,
         "effect_string": "buff_season_challenge_progress,100"
     }],
     "requirements": "",
@@ -150,7 +148,7 @@ Unknown.
 <br />
 
 **Courage to Stand**
-> Heal champions affected by Justice Needs Champions for `$amount health per second`.
+> Strongheart heals champions affected by Justice Needs Champions for `$amount health per second`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -167,7 +165,7 @@ Unknown.
         "targets": ["all"]
     }],
     "requirements": "",
-    "description": {"desc": "Heal champions affected by Justice Needs Champions for $amount health per second."},
+    "description": {"desc": "$source heals champions affected by Justice Needs Champions for $amount health per second."},
     "id": 1571,
     "flavour_text": "",
     "graphic_id": 19778,
@@ -187,34 +185,46 @@ Unknown.
     "effect_keys": [
         {
             "amount_expr": "upgrade_amount(11739,3)",
+            "current_value_bonus_desc": "Damage Buff: $(bonus)%",
             "stacks_multiply": true,
             "show_bonus": true,
+            "outgoing_buffs": false,
             "effect_string": "buff_upgrade,0,11736",
-            "stacks_on_trigger": "will_stack_manually"
+            "stacks_on_trigger": "will_stack_manually",
+            "skip_effect_key_desc": true
         },
         {
+            "current_value_bonus_desc": "Healing Buff: $(bonus)%",
             "stacks_multiply": true,
             "show_bonus": true,
             "effect_string": "buff_upgrade,100,11738",
-            "stacks_on_trigger": "will_stack_manually"
+            "stacks_on_trigger": "will_stack_manually",
+            "skip_effect_key_desc": true
         },
         {
             "stacks_multiply": false,
             "show_bonus": true,
             "effect_string": "reduce_attack_cooldown,0.5",
             "filter_targets": [{
+                "include_upgrade_owner": true,
                 "upgrade_id": 11736,
                 "type": "affected_by_upgrade"
             }],
             "stacks_on_trigger": "will_stack_manually",
             "targets": ["all"]
         },
-        {"effect_string": "pre_stack_amount,400"},
+        {
+            "effect_string": "pre_stack_amount,400",
+            "skip_effect_key_desc": true
+        },
         {
             "duration": 20,
+            "underlay_offset_y": -2,
             "effect_string": "strongheart_righteous_might",
             "underlay_graphic": 19795,
-            "underlay_state_max": 10
+            "underlay_state_max": 10,
+            "underlay_offset_x": -2,
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
@@ -222,7 +232,7 @@ Unknown.
         "pre": "Whenever $source lands a critical hit, for the next 20 seconds he increases the damage of $(upgrade_name id) by $(amount___4)%, increases the healing amount of $(upgrade_name id___2) by $(amount___2)%, and reduces the base attack speed cooldown of himself and Champions affected by Justice Needs Champions by $(amount___3) seconds.",
         "conditions": [{
             "condition": "not static_desc",
-            "desc": "^^$(strongheart_rightous_might_cooldown_desc)"
+            "desc": "^^$(strongheart_rightous_might_stack_desc)"
         }]
     },
     "id": 1572,
@@ -232,7 +242,7 @@ Unknown.
         "indexed_effect_properties": true,
         "retain_on_slot_changed": true,
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
+        "owner_use_outgoing_description": false,
         "per_effect_index_bonuses": true
     }
 }
@@ -255,6 +265,7 @@ Unknown.
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "formation_circle_icon": false
     }
 }
@@ -266,7 +277,7 @@ Unknown.
 # Specialisations
 
 **Specialisation: Valor's Call** (Guess)
-> Strongheart increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each good Champion in the formation.
+> Strongheart increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each good Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -279,12 +290,13 @@ Unknown.
         "max_stacks": 10
     }],
     "requirements": "",
-    "description": {"desc": "$source increases the damage bonus of $(upgrade_name id) by $amount% for each good Champion in the formation."},
+    "description": {"desc": "$source increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each good Champion in the formation, stacking multiplicatively."},
     "id": 1573,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Good Champions: $num_stacks",
         "formation_circle_icon": false
     }
 }
@@ -294,7 +306,7 @@ Unknown.
 <br />
 
 **Specialisation: A Just Quest** (Guess)
-> Strongheart increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each Season Level you have gained in the current Season.
+> Strongheart increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Season Level you have gained in the current Season, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -312,7 +324,7 @@ Unknown.
         {"effect_string": "strongheart_a_just_quest"}
     ],
     "requirements": "",
-    "description": {"desc": "$source increases the damage bonus of $(upgrade_name id) by $amount% for each Season Level you have gained in the current Season."},
+    "description": {"desc": "$source increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Season Level you have gained in the current Season, stacking multiplicatively."},
     "id": 1574,
     "flavour_text": "",
     "graphic_id": 0,
@@ -320,7 +332,9 @@ Unknown.
         "indexed_effect_properties": true,
         "retain_on_slot_changed": true,
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Season Level: $num_stacks",
         "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
         "per_effect_index_bonuses": true
     }
@@ -331,7 +345,7 @@ Unknown.
 <br />
 
 **Specialisation: Honorary Member** (Guess)
-> Strongheart gains the affiliation(s) of the most populous affiliation(s) in the formation, and increases the damage bonus of `$(upgrade_name id)` by `$amount%` for each Champion from the affiliation(s), stacking multiplicatively.
+> Strongheart gains the affiliation(s) of the most populous affiliation(s) in the formation, and increases the damage bonus of `$(upgrade_name id)` by `$(not_buffed amount)%` for each Champion from the affiliation(s), stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -347,7 +361,7 @@ Unknown.
     ],
     "requirements": "",
     "description": {
-        "pre": "$(source_hero) gains the affiliation(s) of the most populous affiliation(s) in the formation, and increases the damage bonus of $(upgrade_name id) by $amount% for each Champion from the affiliation(s), stacking multiplicatively.",
+        "pre": "$(source_hero) gains the affiliation(s) of the most populous affiliation(s) in the formation, and increases the damage bonus of $(upgrade_name id) by $(not_buffed amount)% for each Champion from the affiliation(s), stacking multiplicatively.",
         "conditions": [{
             "condition": "not static_desc",
             "desc": "^^$(strongheart_honorary_member_tag_desc)"
@@ -361,6 +375,7 @@ Unknown.
         "retain_on_slot_changed": true,
         "is_formation_ability": true,
         "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
         "per_effect_index_bonuses": true
     }
