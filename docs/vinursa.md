@@ -223,17 +223,7 @@ Unknown.
 </details>
 <br />
 
-**Friends in High Places**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-<br />
-
-**Unknown**
+**Friends in High Places** (Guess)
 > Whenever you use a Bounty Contract with Vin Ursa in the formation, Vin Ursa increases the effect of your Deck specialization by `$(not_buffed amount)%` until the end of the current adventure, stacking multiplicatively. Caps at 100 stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
