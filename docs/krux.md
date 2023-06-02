@@ -187,7 +187,6 @@ Unknown.
 {
     "effect_keys": [{
         "stacks_multiply": true,
-        "off_when_benched": true,
         "show_bonus": true,
         "effect_string": "buff_upgrade,20,11653",
         "max_stacks": 100,
@@ -204,7 +203,8 @@ Unknown.
     "graphic_id": 19885,
     "properties": {
         "retain_on_slot_changed": true,
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "show_outgoing_desc_when_benched": false
     }
 }
 </pre>
@@ -220,28 +220,32 @@ Unknown.
 {
     "effect_keys": [
         {
-            "stack_title": "Xaryxis Adventures Completed",
+            "amount_updated_listeners": ["stat_changed,XaryxisAdventuresCompleted"],
             "stacks_multiply": false,
-            "off_when_benched": true,
-            "show_bonus": true,
+            "stat": "XaryxisAdventuresCompleted",
             "amount_func": "add",
-            "override_total_bonus_sentence": "+$bonus% of Krux's Max HP",
-            "stack_func": "per_adventure_completed",
+            "stack_func": "get_stat",
             "use_computed_amount_for_description": true,
             "effect_string": "increase_health_by_source_percent,0.1",
-            "stack_func_data": {"campaign_id": 28},
+            "targets": ["other"],
+            "stack_title": "Xaryxis Adventures Completed",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "override_total_bonus_sentence": "+$bonus% of Krux's Max HP",
             "show_current_value_bonus_desc": false,
-            "targets": ["other"]
+            "override_key_desc": "Increases the health of $target and the effect of healing on $target by $amount% of Commodore Krux's max health."
         },
         {
+            "amount_updated_listeners": ["stat_changed,XaryxisAdventuresCompleted"],
             "stacks_multiply": false,
+            "stat": "XaryxisAdventuresCompleted",
             "off_when_benched": true,
             "amount_func": "add",
-            "stack_func": "per_adventure_completed",
+            "stack_func": "get_stat",
             "use_computed_amount_for_description": true,
             "effect_string": "healing_add_mult,0.1",
-            "stack_func_data": {"campaign_id": 28},
-            "targets": ["other"]
+            "targets": ["other"],
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": [],
@@ -318,13 +322,14 @@ Unknown.
 {
     "effect_keys": [{
         "stack_title": "Xaryxis Adventures Completed",
+        "amount_updated_listeners": ["stat_changed,XaryxisAdventuresCompleted"],
         "stacks_multiply": true,
+        "stat": "XaryxisAdventuresCompleted",
         "off_when_benched": true,
         "show_bonus": true,
         "amount_func": "mult",
-        "stack_func": "per_adventure_completed",
-        "effect_string": "buff_upgrade,20,11653",
-        "stack_func_data": {"campaign_id": 28}
+        "stack_func": "get_stat",
+        "effect_string": "buff_upgrade,20,11653"
     }],
     "requirements": [],
     "description": {"desc": "Commodore Krux increases the effect of All Hands On Deck! by $(not_buffed amount)% for each adventure, variant, and Patron variant you have completed in the Light of Xaryxis campaign, stacking multiplicatively."},
@@ -391,7 +396,7 @@ Unknown.
 <br />
 
 **Specialisation: Take the Helm** (Guess)
-> Commander Krux increases the damage of Champions with a magic base attack by `$(amount)%`.
+> Commodore Krux increases the damage of Champions with a magic base attack by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -406,7 +411,7 @@ Unknown.
         "targets": ["all"]
     }],
     "requirements": [],
-    "description": {"desc": "Commander Krux increases the damage of Champions with a magic base attack by $(amount)%."},
+    "description": {"desc": "Commodore Krux increases the damage of Champions with a magic base attack by $(amount)%."},
     "id": 1566,
     "flavour_text": "",
     "graphic_id": 19890,
@@ -436,7 +441,7 @@ Unknown.
             "action": {"type": "reset"},
             "trigger": "area_changed"
         }],
-        "stacks_on_trigger": "monster_killed_with_tag,favored_foe"
+        "stacks_on_trigger": "favored_foe_killed"
     }],
     "requirements": [],
     "description": {"desc": "Each time any favored foe is defeated, Commodore Krux increases the damage of All Hands On Deck! by $(amount)%, stacking additively up to $(max_stacks) times, until the area is changed."},
