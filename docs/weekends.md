@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Vanguard | 02 June | **Miria** | Bruenor | Minsc | Antrius | Hew Maan | Golden Epic |
 | Neutral Vengeance | 09 June | **Evandra** | Asharra | Jamilah | Nixie | Birdsong | Golden Epic |
 | Law of the Land | 16 June | **Turiel** | Nayeli | Celeste | BBEG | Nordom | Golden Epic |
 | Defend the Mountain King | 23 June | **Pwent** | Bruenor | Jarlaxle | Catti-brie | Artemis | Golden Epic |
