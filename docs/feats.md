@@ -10,7 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
-| ![Vicious Damage Icon](images/featicons/viciousdamage.png) | Vicious Damage | BBEG | 400% Self DPS & Prevent Healing for 10s | ??? | 01 Jun 2023 |
 | ![Ghosts of the Past Icon](images/featicons/upgradefa.png) | Ghosts of the Past | Kent | 80% Remembering the Old Days | 50,000 Gems | 05 Jun 2023 |
 | ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | Virgil | 50% All Champion Damage | 50,000 Gems | 05 Jun 2023 |
 | ![Skipping Ahead Icon](images/featicons/upgradefa.png) | Skipping Ahead | BBEG | 100% Railroad | 50,000 Gems | 07 Jun 2023 |
@@ -56,16 +55,6 @@ These icons entered the defines recently. They clearly suggest that there will b
 | ![Swap Seat 10 Icon](images/featicons/swapseat10.png) | Swap Seat 10 | `Icons/Feats/Icon_Feat_SwapSeat10` |
 | ![Swap Seat 11 Icon](images/featicons/swapseat11.png) | Swap Seat 11 | `Icons/Feats/Icon_Feat_SwapSeat11` |
 | ![Swap Seat 12 Icon](images/featicons/swapseat12.png) | Swap Seat 12 | `Icons/Feats/Icon_Feat_SwapSeat12` |
-
-# Feat Week
-
-There will also be an upcoming celebration week called `Feat Week`. Thanks to one of the promotional graphics containing Nayeli and a Taunt feat - we know that Feat Week will begin on 13 September 2023.
-
-*Update: Executive Producer of CNE Chris Dupuis stated on the 2023 Roadmap stream that Feat Week would be happening between season 3 and season 4 - but current dates in the data conflict with this.*
-
-You will likely have seen all the feats available above listed for that date - and we will likely see more before it goes live.
-
-![Feat Week Banner](images/featweek.png)
 
 [Back to Top](#top)
 
