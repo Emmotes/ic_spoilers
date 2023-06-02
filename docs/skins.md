@@ -13,7 +13,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Witchlight BBEG Portrait](images/skin_portraits/witchlightbbeg.png) | Witchlight BBEG | Witchlight BBEG Theme Pack | $24.99 | 07 Jun 2023 |
 | ![Spelljammer Selise Portrait](images/skin_portraits/spelljammerselise.png) | Spelljammer Selise | Spelljammer Selise Skin & Feat Pack | $9.99 | 07 Jun 2023 |
 | ![Mythic Artemis Portrait](images/skin_portraits/mythicartemis.png) | Mythic Artemis | Season 4 | ??? | 14 Jun 2023 |
-| ![King Bruenor Portrait](images/skin_portraits/kingbruenor.png) | King Bruenor | ??? | ??? | 14 Jun 2023 |
+| ![King Bruenor Portrait](images/skin_portraits/kingbruenor.png) | King Bruenor | Summer Celebration (Guess) | ??? | 14 Jun 2023 |
 | ![Mythic Pwent Portrait](images/skin_portraits/mythicpwent.png) | Mythic Pwent | Season 4 | ??? | 14 Jun 2023 |
 | ![Mythic Regis Portrait](images/skin_portraits/mythicregis.png) | Mythic Regis | Season 4 | ??? | 14 Jun 2023 |
 | ![Mythic Wulfgar Portrait](images/skin_portraits/mythicwulfgar.png) | Mythic Wulfgar | Season 4 | ??? | 14 Jun 2023 |
