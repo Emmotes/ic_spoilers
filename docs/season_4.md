@@ -158,6 +158,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "manual_stacking": true,
             "stacks_multiply": false,
             "off_when_benched": true,
+            "outgoing_buffs": false,
             "effect_string": "regis_mithral_hall_stacks,1",
             "show_stacks": true,
             "desc_forced_order": 1
@@ -583,6 +584,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "manual_stacking": true,
             "stacks_multiply": false,
             "off_when_benched": true,
+            "outgoing_buffs": false,
             "effect_string": "catti_mithral_hall_stacks,1",
             "show_stacks": true,
             "desc_forced_order": 1
@@ -881,6 +883,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "manual_stacking": true,
             "stacks_multiply": false,
             "off_when_benched": true,
+            "outgoing_buffs": false,
             "effect_string": "wulfgar_mithral_hall_stacks,1",
             "show_stacks": true,
             "desc_forced_order": 1
@@ -1287,6 +1290,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "manual_stacking": true,
             "stacks_multiply": false,
             "off_when_benched": true,
+            "outgoing_buffs": false,
             "effect_string": "pwent_mithral_hall_stacks,1",
             "show_stacks": true,
             "desc_forced_order": 1
@@ -1440,6 +1444,7 @@ No changes as of yet.
             "manual_stacking": true,
             "stacks_multiply": false,
             "off_when_benched": true,
+            "outgoing_buffs": false,
             "effect_string": "bruenor_mithral_hall_stacks,1",
             "show_stacks": true,
             "desc_forced_order": 1
@@ -1515,6 +1520,7 @@ No changes as of yet.
             "manual_stacking": true,
             "stacks_multiply": false,
             "off_when_benched": true,
+            "outgoing_buffs": false,
             "effect_string": "drizzt_mithral_hall_stacks,1",
             "show_stacks": true,
             "desc_forced_order": 1
