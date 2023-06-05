@@ -4,50 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Pride Marshal Kent Skin & Feat Pack - $9.99  
-Date of release: 05 Jun 2023
-
-Contents:
-
-* Champion: `Kent`
-* Skin: `Pride Marshal Kent`
-* Feat: `Ghosts of the Past` (Kent)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Kent Chest` x7 (Shinies x1)
-
-<br />
-
-### Pride Marshal Virgil Skin & Feat Pack - $9.99  
-Date of release: 05 Jun 2023
-
-Contents:
-
-* Champion: `Virgil Zoar`
-* Skin: `Pride Marshal Virgil`
-* Feat: `Prodigal Leader` (Virgil)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Virgil Chest` x7 (Shinies x1)
-
-<br />
-
-### Pride Parade Marshals Bundle Pack - $17.99  
-Date of release: 05 Jun 2023
-
-Contents:
-
-* Champion: `Kent`
-* Skin: `Pride Marshal Kent`
-* Feat: `Ghosts of the Past` (Kent)
-* Chests: `Gold Kent Chest` x7 (Shinies x1)
-* Champion: `Virgil Zoar`
-* Skin: `Pride Marshal Virgil`
-* Feat: `Prodigal Leader` (Virgil)
-* Chests: `Gold Virgil Chest` x7 (Shinies x1)
-
-<br />
-
 ### Spelljammer Selise Skin & Feat Pack - $9.99  
 Date of release: 07 Jun 2023
 
@@ -131,20 +87,8 @@ Contents:
 
 <br />
 
-### Little Luigi the Parrot Familiar Pack - $4.99  
-Date of release: 12 Jul 2023
-
-Contents:
-
-* Familiar: `Little Luigi the Parrot`
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-
-<br />
-
 ### Mythic Freely Skin & Feat Pack - $9.99  
-Date of release: 12 Jul 2023
+Date of release: 05 Jul 2023
 
 Contents:
 
@@ -154,6 +98,18 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Freely Chest` x7 (Shinies x1)
+
+<br />
+
+### Little Luigi the Parrot Familiar Pack - $4.99  
+Date of release: 12 Jul 2023
+
+Contents:
+
+* Familiar: `Little Luigi the Parrot`
+* Buff: `Huge Potion of Speed` x2
+* Buff: `Huge Potion of Giant's Strength` x2
+* Buff: `Huge Potion of Clairvoyance` x2
 
 <br />
 

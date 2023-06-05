@@ -8,8 +8,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 
 | Portrait | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| ![Pride Marshal Kent Portrait](images/skin_portraits/pridemarshalkent.png) | Pride Marshal Kent | Pride Marshal Kent Skin & Feat Pack | $9.99 | 05 Jun 2023 |
-| ![Pride Marshal Virgil Portrait](images/skin_portraits/pridemarshalvirgil.png) | Pride Marshal Virgil | Pride Marshal Virgil Skin & Feat Pack | $9.99 | 05 Jun 2023 |
 | ![Witchlight BBEG Portrait](images/skin_portraits/witchlightbbeg.png) | Witchlight BBEG | Witchlight BBEG Theme Pack | $24.99 | 07 Jun 2023 |
 | ![Spelljammer Selise Portrait](images/skin_portraits/spelljammerselise.png) | Spelljammer Selise | Spelljammer Selise Skin & Feat Pack | $9.99 | 07 Jun 2023 |
 | ![Mythic Artemis Portrait](images/skin_portraits/mythicartemis.png) | Mythic Artemis | Season 4 | ??? | 14 Jun 2023 |

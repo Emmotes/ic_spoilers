@@ -10,8 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
-| ![Ghosts of the Past Icon](images/featicons/upgradefa.png) | Ghosts of the Past | Kent | 80% Remembering the Old Days | 50,000 Gems | 05 Jun 2023 |
-| ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | Virgil | 50% All Champion Damage | 50,000 Gems | 05 Jun 2023 |
 | ![Skipping Ahead Icon](images/featicons/upgradefa.png) | Skipping Ahead | BBEG | 100% Railroad | 50,000 Gems | 07 Jun 2023 |
 | ![Shield Throw Icon](images/featicons/upgradefa.png) | Shield Throw | Selise | 80% Shield of Psychomancy | 50,000 Gems | 07 Jun 2023 |
 | ![Battle Expertise Icon](images/featicons/critchanceincrease.png) | Battle Expertise | Artemis | +10% Crit Chance | Season 4 | 14 Jun 2023 |
