@@ -231,7 +231,7 @@ Unknown.
             "stack_title": "Xaryxis Adventures Completed",
             "off_when_benched": true,
             "show_bonus": true,
-            "override_total_bonus_sentence": "+$bonus% of Krux's Max HP",
+            "override_total_bonus_sentence": "EFFECT_1562_EFFECT_KEYS_0_OVERRIDE_TOTAL_BONUS_SENTENCE|+$bonus% of Krux's Max HP",
             "show_current_value_bonus_desc": false,
             "override_key_desc": "Increases the health of $target and the effect of healing on $target by $amount% of Commodore Krux's max health."
         },
