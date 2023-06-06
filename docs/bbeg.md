@@ -66,7 +66,7 @@ BBEG will be the new champion in the Dragondown event on 7 June 2023.
 </details>
 <br />
 
-![Balgronuuth's Undead Horde Icon](images/bbeg/icon_balgronuuth'sundeadhorde.png) **Ultimate Attack: Balgronuuth's Undead Horde** (Level: 250)
+![Balgronuuth's Undead Horde Icon](images/bbeg/icon_balgronuuthsundeadhorde.png) **Ultimate Attack: Balgronuuth's Undead Horde** (Level: 250)
 > Balgronuuth's symbol appears in the air for 30 seconds. While the symbol is in the air, every time Rise, My Minions! summons a zombie, it summons two instead of one.
 <details><summary><em>Raw Data</em></summary>
 <p>
