@@ -66,7 +66,7 @@ Contents:
 
 * Champion: `Strongheart`
 * Skin: `Action Figure Strongheart`
-* Feat: ???
+* Feat: `Seasoned Warrior` (Strongheart)
 * Familiar: `Baby Destrier`
 * Chests: `Gold Strongheart Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1

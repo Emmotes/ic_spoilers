@@ -21,6 +21,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | ![Frost Strike Icon](images/featicons/upgradefa.png) | Frost Strike | Drizzt | 20% Icingdeath | ??? | 21 Jun 2023 |
 | ![Battle Expertise Icon](images/featicons/critchanceincrease.png) | Battle Expertise | Jarlaxle | +10% Crit Chance | ??? | 21 Jun 2023 |
 | ![Cataclysmic Strike Icon](images/featicons/critdamageincrease.png) | Cataclysmic Strike | Jarlaxle | +60% Crit Damage | ??? | 21 Jun 2023 |
+| ![Seasoned Warrior Icon](images/featicons/upgradefa.png) | Seasoned Warrior | Strongheart | 100% Seasoned Knight | 50,000 Gems | 28 Jun 2023 |
 | ![Fortune's Favor Icon](images/featicons/goldfind.png) | Fortune's Favor | Freely | 50% Gold | 50,000 Gems | 12 Jul 2023 |
 | ![Guardian of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Guardian of the Hall | Drizzt | +2 Mithral Hall Stacks | 50,000 Gems | 19 Jul 2023 |
 | ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | Tatyana | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
