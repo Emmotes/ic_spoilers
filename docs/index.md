@@ -13,7 +13,7 @@ These are the event champions that are upcoming and all the information we know 
 * Dragondown - 7 June 2023
   * [BBEG](bbeg.md) - Elf (Drow) Wizard
 * Founder's Day - 28 June 2023
-  * [Strongheart](strongheart.md) - Human Paladin (Guess)
+  * [Strongheart](strongheart.md) - Human Paladin
 * Midsummer - 26 July 2023
   * [Vin Ursa](vinursa.md) - Plasmoid
 * Ahghairon's Day - 16 August 2023
