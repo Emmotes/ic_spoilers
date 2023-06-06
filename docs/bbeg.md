@@ -343,7 +343,7 @@ Expected numbers with various item levels:
 <br />
 
 ![Sources of Corpses Icon](images/bbeg/icon_sourcesofcorpses.png) **Sources of Corpses** (Level: 300)
-> The time it takes for Rise, My Minions! to summon a zombie is reduced by 2.5 seconds for each Awful Ones affiliation member in the formation, and the damage bonus of Evil Overlord is increased by 100% for each summoned zombie, stacking multiplicatively, with buffs applying to the pre-stack value.
+> The time it takes for Rise, My Minions! to summon a zombie is reduced by 2.5 seconds for each Awful Ones affiliation member in the formation, and the damage bonus of Evil Overlord is increased by 25% for each summoned zombie, stacking multiplicatively, with buffs applying to the pre-stack value.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -360,7 +360,7 @@ Expected numbers with various item levels:
 }
 {
     "effect_keys": [
-        {"effect_string": "buff_pre_stack_amount,100"},
+        {"effect_string": "buff_pre_stack_amount,25"},
         {
             "amount_expr": "upgrade_amount(11542,0)",
             "stack_title": "Active Zombies",
