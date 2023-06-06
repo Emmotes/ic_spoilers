@@ -22,10 +22,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 
 # Formation
 
-Unknown.
-{% comment %}
 ![Formation Layout](images/vinursa/formation.png)
-{% endcomment %}
 
 # Abilities
 
@@ -253,7 +250,8 @@ Unknown.
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -273,7 +271,10 @@ Unknown.
     "id": 1584,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
