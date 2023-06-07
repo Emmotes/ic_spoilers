@@ -94,13 +94,13 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 <br />
 
 **Ultimate Attack: Target Acquisition**
-> Vin Ursa blasts an enemy, preferring to target non-Favored Foes, and, if she crits, makes that enemy type a Favored Foe.
+> Vin Ursa blasts an enemy. She has a +20% chance to score a critical hit and the enemy becomes a favored foe if she crits.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "Vin Ursa blasts an enemy and makes that enemy type a Favored Foe if she crits.",
-    "long_description": "Vin Ursa blasts an enemy, preferring to target non-Favored Foes, and, if she crits, makes that enemy type a Favored Foe.",
+    "description": "Vin Ursa blasts an enemy and has a chance to make that enemy a favored foe.",
+    "long_description": "Vin Ursa blasts an enemy. She has a +20% chance to score a critical hit and the enemy becomes a favored foe if she crits.",
     "damage_modifier": 1,
     "damage_types": ["ranged"],
     "graphic_id": 20019,
