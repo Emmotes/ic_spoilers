@@ -10,8 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
-| ![Skipping Ahead Icon](images/featicons/upgradefa.png) | Skipping Ahead | BBEG | 100% Railroad | 50,000 Gems | 07 Jun 2023 |
-| ![Shield Throw Icon](images/featicons/upgradefa.png) | Shield Throw | Selise | 80% Shield of Psychomancy | 50,000 Gems | 07 Jun 2023 |
 | ![Battle Expertise Icon](images/featicons/critchanceincrease.png) | Battle Expertise | Artemis | +10% Crit Chance | Season 4 | 14 Jun 2023 |
 | ![Vicious Damage Icon](images/featicons/viciousdamage.png) | Vicious Damage | Artemis | 400% Self DPS & Prevent Healing for 10s | Season 4 | 14 Jun 2023 |
 | ![To Your King! Icon](images/featicons/upgradefa.png) | To Your King! | Bruenor | 20% Rally | ??? | 14 Jun 2023 |

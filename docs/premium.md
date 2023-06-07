@@ -4,34 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Spelljammer Selise Skin & Feat Pack - $9.99  
-Date of release: 07 Jun 2023
-
-Contents:
-
-* Champion: `Selise Astorio`
-* Skin: `Spelljammer Selise`
-* Feat: `Shield Throw` (Selise)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Selise Chest` x7 (Shinies x1)
-
-<br />
-
-### Witchlight BBEG Theme Pack - $24.99  
-Date of release: 07 Jun 2023
-
-Contents:
-
-* Champion: `BBEG`
-* Skin: `Witchlight BBEG`
-* Feat: `Skipping Ahead` (BBEG)
-* Familiar: `Grim Elliptical the Baby Beholder`
-* Chests: `Gold BBEG Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
 ### Mythic Ishi Skin & Feat Pack - $9.99  
 Date of release: 21 Jun 2023
 
