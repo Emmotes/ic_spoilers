@@ -434,6 +434,7 @@ Expected numbers with various item levels:
 
 	Dull Epic ilvl  1,000:
 		 0 Stacks: 268.48%
+		90 Stacks: 1.48e07%
 
 	Dull Epic ilvl 10,000:
 		 0 Stacks: 2,743.48%
