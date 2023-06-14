@@ -411,12 +411,12 @@ Unknown.
 
 | Icon | Name | Type |
 |:-:|---|---|
-| ![Laezel Laezel Armor Icon](images/laezel/20251.png) | `Laezel Laezel Armor` | Unknown |
-| ![Laezel Laezel Boots Icon](images/laezel/20254.png) | `Laezel Laezel Boots` | Unknown |
-| ![Laezel Laezel Githyanki Icon](images/laezel/20257.png) | `Laezel Laezel Githyanki` | Unknown |
-| ![Laezel Laezel Magic Icon](images/laezel/20260.png) | `Laezel Laezel Magic` | Unknown |
-| ![Laezel Laezel Ranged Icon](images/laezel/20263.png) | `Laezel Laezel Ranged` | Unknown |
-| ![Laezel Laezel Sword Icon](images/laezel/20266.png) | `Laezel Laezel Sword` | Unknown |
+| ![Armor Icon](images/laezel/20251.png) | `Armor` | Unknown |
+| ![Boots Icon](images/laezel/20254.png) | `Boots` | Unknown |
+| ![Githyanki Icon](images/laezel/20257.png) | `Githyanki` | Unknown |
+| ![Magic Icon](images/laezel/20260.png) | `Magic` | Unknown |
+| ![Ranged Icon](images/laezel/20263.png) | `Ranged` | Unknown |
+| ![Sword Icon](images/laezel/20266.png) | `Sword` | Unknown |
 
 # Feats
 
