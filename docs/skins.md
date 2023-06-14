@@ -24,7 +24,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Vampire Pwent Portrait](images/skin_portraits/vampirepwent.png) | Vampire Pwent | Vampire Pwent Skin & Feat Pack | $9.99 | 19 Jul 2023 |
 | ![Frost Reaver Wulfgar Portrait](images/skin_portraits/frostreaverwulfgar.png) | Frost Reaver Wulfgar | Frost Reaver Wulfgar Theme Pack | $24.99 | 19 Jul 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Fighting Pits Tatyana | Fighting Pits Tatyana Skin & Feat Pack | $9.99 | 26 Jul 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Astral Vin Ursa | ??? | ??? | 26 Jul 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Astral Vin Ursa | Astral Vin Ursa Theme Pack | $24.99 | 26 Jul 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Spelljammer Avren | ??? | ??? | 09 Aug 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Spelljammer Widdle | ??? | ??? | 09 Aug 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Lae'zel | ??? | ??? | 16 Aug 2023 |

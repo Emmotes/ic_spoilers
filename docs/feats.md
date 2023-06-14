@@ -12,16 +12,24 @@ Feats that are listed as Free will be available immediately the moment they rele
 |---|---|---|---|---|--:|
 | ![Battle Expertise Icon](images/featicons/critchanceincrease.png) | Battle Expertise | Artemis | +10% Crit Chance | Season 4 | 14 Jun 2023 |
 | ![Vicious Damage Icon](images/featicons/viciousdamage.png) | Vicious Damage | Artemis | 400% Self DPS & Prevent Healing for 10s | Season 4 | 14 Jun 2023 |
-| ![To Your King! Icon](images/featicons/upgradefa.png) | To Your King! | Bruenor | 20% Rally | ??? | 14 Jun 2023 |
-| ![Creature Squad Icon](images/featicons/upgradefa.png) | Creature Squad | Ishi | 80% Monsters are People Too! | 50,000 Gems | 14 Jun 2023 |
-| ![Tactical Prowess Icon](images/featicons/critchanceincrease.png) | Tactical Prowess | Jarlaxle | +5% Crit Chance | ??? | 14 Jun 2023 |
-| ![Rally of the Protectors Icon](images/featicons/upgradefa.png) | Rally of the Protectors | Sgt. Knox | 80% Rallying Cry | 50,000 Gems | 14 Jun 2023 |
-| ![Frost Strike Icon](images/featicons/upgradefa.png) | Frost Strike | Drizzt | 20% Icingdeath | ??? | 21 Jun 2023 |
+| ![Aggressive Stance Icon](images/featicons/mithralhallstackbonus.png) | Aggressive Stance | Pwent | +1 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
+| ![Vanguard of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Vanguard of the Hall | Pwent | +2 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
+| ![Advisor of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Advisor of the Hall | Regis | +2 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
+| ![Rest Awhile Icon](images/featicons/mithralhallstackbonus.png) | Rest Awhile | Regis | +1 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
+| ![Aegis of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Aegis of the Hall | Wulfgar | +2 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
+| ![Imposing Build Icon](images/featicons/mithralhallstackbonus.png) | Imposing Build | Wulfgar | +1 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
+| ![Speaker of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Speaker of the Hall | Catti-brie | +2 Mithral Hall Stacks | Season 4 | 21 Jun 2023 |
+| ![Weapon Swap Icon](images/featicons/mithralhallstackbonus.png) | Weapon Swap | Catti-brie | +1 Mithral Hall Stacks | Season 4 | 21 Jun 2023 |
+| ![Frost Strike Icon](images/featicons/upgradefa.png) | Frost Strike | Drizzt | 20% Icingdeath | Free | 21 Jun 2023 |
+| ![Creature Squad Icon](images/featicons/upgradefa.png) | Creature Squad | Ishi | 80% Monsters are People Too! | 50,000 Gems | 21 Jun 2023 |
 | ![Battle Expertise Icon](images/featicons/critchanceincrease.png) | Battle Expertise | Jarlaxle | +10% Crit Chance | ??? | 21 Jun 2023 |
 | ![Cataclysmic Strike Icon](images/featicons/critdamageincrease.png) | Cataclysmic Strike | Jarlaxle | +60% Crit Damage | ??? | 21 Jun 2023 |
+| ![Rally of the Protectors Icon](images/featicons/upgradefa.png) | Rally of the Protectors | Sgt. Knox | 80% Rallying Cry | 50,000 Gems | 28 Jun 2023 |
 | ![Seasoned Warrior Icon](images/featicons/upgradefa.png) | Seasoned Warrior | Strongheart | 100% Seasoned Knight | 50,000 Gems | 28 Jun 2023 |
 | ![Fortune's Favor Icon](images/featicons/goldfind.png) | Fortune's Favor | Freely | 50% Gold | 50,000 Gems | 12 Jul 2023 |
 | ![Guardian of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Guardian of the Hall | Drizzt | +2 Mithral Hall Stacks | 50,000 Gems | 19 Jul 2023 |
+| ![Slice and Dice Icon](images/featicons/bleedbonus.png) | Slice and Dice | Pwent | 100% Bleed | 50,000 Gems | 19 Jul 2023 |
+| ![Breaking It Down Icon](images/featicons/upgradefa.png) | Breaking It Down | Wulfgar | 80% Smash 'n Grab | 50,000 Gems | 19 Jul 2023 |
 | ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | Tatyana | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
 | ![The Bard Spittin' Bars Icon](images/featicons/upgradefa.png) | The Bard Spittin' Bars | Antrius | 40% Can't be De-Feat-ed | 12,500 Gems | 13 Sep 2023 |
 | ![Stronger Sources Icon](images/featicons/upgradefa.png) | Stronger Sources | BBEG | 40% Sources of Corpses | 12,500 Gems | 13 Sep 2023 |

@@ -92,7 +92,7 @@ Contents:
 
 * Champion: `Wulfgar, son of Beornegar`
 * Skin: `Frost Reaver Wulfgar`
-* Feat: ???
+* Feat: `Breaking It Down` (Wulfgar)
 * Familiar: `Ice Mephit`
 * Chests: `Gold Wulfgar Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
@@ -118,10 +118,24 @@ Contents:
 
 * Champion: `Thibbledorf Pwent`
 * Skin: `Vampire Pwent`
-* Feat: ???
+* Feat: `Slice and Dice` (Pwent)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Pwent Chest` x7 (Shinies x1)
+
+<br />
+
+### Astral Vin Ursa Theme Pack - $24.99  
+Date of release: 26 Jul 2023
+
+Contents:
+
+* Champion: `Vin Ursa`
+* Skin: `Astral Vin Ursa`
+* Feat: ???
+* Familiar: `Clawbekka the Crab`
+* Chests: `Gold E15Y6 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
 
 <br />
 
