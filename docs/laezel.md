@@ -36,31 +36,304 @@ Unknown.
 
 # Abilities
 
-**Base Attack: Unknown**
+**Base Attack: Greatsword** (Melee)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 2,
+        "jump_sound": 30,
+        "sound_frames": {"2": 154},
+        "target_offset_x": -34,
+        "type": "melee_attack"
+    }],
+    "name": "Greatsword",
+    "cooldown": 8,
+    "id": 655
+}
+</pre>
+</p>
+</details>
+<br />
+**Base Attack: War Magic** (Melee and Magic)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": [
+        "melee",
+        "magic"
+    ],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": [
+        "melee",
+        "ranged"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 2,
+        "jump_sound": 30,
+        "sound_frames": {"2": 154},
+        "target_offset_x": -34,
+        "type": "melee_attack"
+    }],
+    "name": "War Magic",
+    "cooldown": 8,
+    "id": 656
+}
 </pre>
 </p>
 </details>
 <br />
 
-**Ultimate Attack: Unknown**
+**Ultimate Attack: Psionic Leap** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 20244,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": [
+        "ultimate",
+        "melee"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 2,
+        "jump_sound": 30,
+        "sound_frames": {"2": 154},
+        "target_offset_x": -34,
+        "type": "melee_attack"
+    }],
+    "name": "Psionic Leap",
+    "cooldown": 180,
+    "id": 657
+}
 </pre>
 </p>
 </details>
 <br />
 
-**Unknown**
+**Critical Hit** (Guess)
+> Lae'zel's base chance to Critical Hit is `$(amount)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "set_base_crit_chance,20"}],
+    "requirements": "",
+    "description": {"desc": "$source's base chance to Critical Hit is $(amount)%."},
+    "id": 1597,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Lethal Coordination**
+> Lae'zel increases the damage of all Champions in her column by `$(amount)%`, including herself.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "targets": ["col"]
+    }],
+    "requirements": "",
+    "description": {"desc": "$source increases the damage of all Champions in her column by $(amount)%, including herself."},
+    "id": 1598,
+    "flavour_text": "",
+    "graphic_id": 20239,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Ceremorphosise**
+> Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Lae'zel's brain. Lae'zel increases the effect of `$(upgrade_name id___2)` by `$(amount)%` for each Ceremorphosis stack, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,100"},
+        {
+            "amount_expr": "upgrade_amount(12114,0)",
+            "stack_title": "Total Ceremorphosis Stacks",
+            "stacks_multiply": true,
+            "total_title": "Total Bonus",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_ceremorphosis_stacks",
+            "effect_string": "buff_upgrade,0,12113",
+            "desc_forced_order": 2
+        },
+        {
+            "stack_title": "Lae'zel Ceremorphosis Stacks",
+            "manual_stacking": true,
+            "stacks_multiply": false,
+            "off_when_benched": true,
+            "outgoing_buffs": false,
+            "effect_string": "laezel_ceremorphosis_stacks,2",
+            "show_stacks": true,
+            "desc_forced_order": 1
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in $source's brain. $source increases the effect of $(upgrade_name id___2) by $(amount)% for each Ceremorphosis stack, stacking multiplicatively."},
+    "id": 1599,
+    "flavour_text": "",
+    "graphic_id": 20237,
+    "properties": {
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Straight to the Point**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "effect_keys": [{"effect_string": "do_nothing"}],
+    "requirements": "",
+    "description": {"desc": ""},
+    "id": 1600,
+    "flavour_text": "",
+    "graphic_id": 20240,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Aberration Hunter**
+> Aberrations are Lae'zel's Favored Foe. Every time an Aberration spawns, Lae'zel's `$(upgrade_name id___2)` is multiplicatively increased by `$(amount___2)%`, stacking up to `$(max_stack_mult___3)` times the Ceremorphosis stack count and resetting when changing areas. There is a 33% with each wave in a non-boss area that an extra Mind Flayer spawns.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,aberration"
+        },
+        {
+            "stack_title": "Aberration Hunter Stacks",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "effect_string": "buff_upgrade,100,12113",
+            "more_triggers": [{
+                "action": {"type": "reset"},
+                "trigger": "area_changed"
+            }],
+            "max_stacks": 0,
+            "stacks_on_trigger": {
+                "is_source_favored_foe": true,
+                "trigger": "favored_foe_spawned"
+            }
+        },
+        {
+            "max_stack_mult": 4,
+            "rounding_mode": "ceil",
+            "effect_string": "stacks_max_stack_expr,1,per_ceremorphosis_stacks*4"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Aberrations are $source's Favored Foe. Every time an Aberration spawns, $source's $(upgrade_name id___2) is multiplicatively increased by $(amount___2)%, stacking up to $(max_stack_mult___3) times the Ceremorphosis stack count and resetting when changing areas. There is a 33% with each wave in a non-boss area that an extra Mind Flayer spawns."},
+    "id": 1601,
+    "flavour_text": "",
+    "graphic_id": 20236,
+    "properties": {
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 1,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Ferocious Warrior**
+> If Lae'zel attacks and any of her targets survive, her base attack cooldown for her next attack is reduced by `$(amount)` seconds.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stack_title": "Ferocious Warrior Stacks",
+        "stacks_multiply": true,
+        "bonus_is_seconds": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "effect_string": "reduce_attack_cooldown,4",
+        "percent_values": false,
+        "more_triggers": [{
+            "action": {"type": "reset"},
+            "trigger": "owner_kill"
+        }],
+        "max_stacks": 1,
+        "stacks_on_trigger": "owner_attack_no_kill",
+        "total_bonus_amount_prefix": "-"
+    }],
+    "requirements": "",
+    "description": {"desc": "If $source attacks and any of her targets survive, her base attack cooldown for her next attack is reduced by $(amount) seconds."},
+    "id": 1602,
+    "flavour_text": "",
+    "graphic_id": 20238,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
 </pre>
 </p>
 </details>
@@ -68,11 +341,82 @@ Unknown.
 
 # Specialisations
 
-Unknown.
+**Specialisation: Battle Master**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 4,
+    "id": 1588,
+    "export_params": {"uses": ["monster"]},
+    "type": 3,
+    "graphic": "Monsters/Beasts/Monster_Beast_Velociraptor",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Champion** (Guess)
+> Increase Lae'zel's Critical Hit chance by `$(amount)%` and Critical Hit damage by `$(amount___2)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "buff_base_crit_chance_add,20"},
+        {"effect_string": "buff_base_crit_damage_mult,100"}
+    ],
+    "requirements": "",
+    "description": {"desc": "Increase $source's Critical Hit chance by $(amount)% and Critical Hit damage by $(amount___2)%."},
+    "id": 1603,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Eldritch Knight**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 4,
+    "id": 1592,
+    "export_params": {"uses": ["monster"]},
+    "type": 3,
+    "graphic": "Monsters/Undead/Monster_Undead_TriceratopsZombie",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
 
 # Items
 
-Unknown.
+| Icon | Name | Type |
+|:-:|---|---|
+| ![Laezel Laezel Armor Icon](images/laezel/20251.png) | `Laezel Laezel Armor` | Unknown |
+| ![Laezel Laezel Boots Icon](images/laezel/20254.png) | `Laezel Laezel Boots` | Unknown |
+| ![Laezel Laezel Githyanki Icon](images/laezel/20257.png) | `Laezel Laezel Githyanki` | Unknown |
+| ![Laezel Laezel Magic Icon](images/laezel/20260.png) | `Laezel Laezel Magic` | Unknown |
+| ![Laezel Laezel Ranged Icon](images/laezel/20263.png) | `Laezel Laezel Ranged` | Unknown |
+| ![Laezel Laezel Sword Icon](images/laezel/20266.png) | `Laezel Laezel Sword` | Unknown |
 
 # Feats
 
@@ -82,19 +426,15 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Console Portrait
 
 ![Console Portrait](images/laezel/console.png)
-{% endcomment %}
 
-{% comment %}
 # Chests
 
 | Gold | Silver |
 |---|---|
 | ![Gold Chest](images/laezel/chest_gold.png) | ![Silver Chest](images/laezel/chest_silver.png) |
-{% endcomment %}
 
 [Back to Top](#top)
 
