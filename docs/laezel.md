@@ -348,11 +348,11 @@ Unknown.
 <pre>
 {
     "p": 0,
-    "v": 4,
-    "id": 1588,
-    "export_params": {"uses": ["monster"]},
-    "type": 3,
-    "graphic": "Monsters/Beasts/Monster_Beast_Velociraptor",
+    "v": 2,
+    "id": 20241,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018AhghaironsDay/AhghaironsDay_Y6/Icon_Specialization_LaezelBattleMaster",
     "fs": 0
 }
 </pre>
@@ -395,11 +395,11 @@ Unknown.
 <pre>
 {
     "p": 0,
-    "v": 4,
-    "id": 1592,
-    "export_params": {"uses": ["monster"]},
-    "type": 3,
-    "graphic": "Monsters/Undead/Monster_Undead_TriceratopsZombie",
+    "v": 2,
+    "id": 20243,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018AhghaironsDay/AhghaironsDay_Y6/Icon_Specialization_LaezelEldritchKnight",
     "fs": 0
 }
 </pre>
