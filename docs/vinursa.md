@@ -145,11 +145,11 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
         },
         {
             "off_when_benched": true,
-            "effect_string": "increase_monster_damage_if_favored_foe_from_hero_id,100,128"
+            "effect_string": "increase_monster_damage_if_favored_foe_from_hero_id,100,127"
         },
         {
             "off_when_benched": true,
-            "effect_string": "increase_monster_gold_if_favored_foe_from_hero_id,100,128"
+            "effect_string": "increase_monster_gold_if_favored_foe_from_hero_id,100,127"
         }
     ],
     "requirements": "",
@@ -167,7 +167,6 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
         "indexed_effect_properties": true,
         "retain_on_slot_changed": true,
         "is_formation_ability": true,
-        "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
     }
@@ -298,7 +297,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
     "description": {"desc": "$source increases the damage of all champions in the front two columns by $(amount)%."},
     "id": 1588,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20200,
     "properties": {"is_formation_ability": true}
 }
 </pre>
@@ -321,7 +320,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
     "description": {"desc": "$source increases the damage of all champions in the read two columns by $(amount)%."},
     "id": 1589,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20201,
     "properties": {"is_formation_ability": true}
 }
 </pre>
@@ -348,7 +347,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
     "description": {"desc": "$source increases the damage of Good Champions by $(amount)%."},
     "id": 1592,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20197,
     "properties": {
         "is_formation_ability": true,
         "spec_option_post_apply_info": "Champions in Formation Targeted: $num_targets"
@@ -378,7 +377,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
     "description": {"desc": "$source increases the damage of Evil Champions by $(amount)%."},
     "id": 1590,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20198,
     "properties": {
         "is_formation_ability": true,
         "spec_option_post_apply_info": "Champions in Formation Targeted: $num_targets"
@@ -408,7 +407,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
     "description": {"desc": "$source increases the damage of Neutral (Good/Evil axis) Champions by $(amount)%."},
     "id": 1591,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20199,
     "properties": {
         "is_formation_ability": true,
         "spec_option_post_apply_info": "Champions in Formation Targeted: $num_targets"
