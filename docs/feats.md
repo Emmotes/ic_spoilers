@@ -10,14 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
-| ![Battle Expertise Icon](images/featicons/critchanceincrease.png) | Battle Expertise | Artemis | +10% Crit Chance | Season 4 | 14 Jun 2023 |
-| ![Vicious Damage Icon](images/featicons/viciousdamage.png) | Vicious Damage | Artemis | 400% Self DPS & Prevent Healing for 10s | Season 4 | 14 Jun 2023 |
-| ![Aggressive Stance Icon](images/featicons/mithralhallstackbonus.png) | Aggressive Stance | Pwent | +1 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
-| ![Vanguard of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Vanguard of the Hall | Pwent | +2 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
-| ![Advisor of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Advisor of the Hall | Regis | +2 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
-| ![Rest Awhile Icon](images/featicons/mithralhallstackbonus.png) | Rest Awhile | Regis | +1 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
-| ![Aegis of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Aegis of the Hall | Wulfgar | +2 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
-| ![Imposing Build Icon](images/featicons/mithralhallstackbonus.png) | Imposing Build | Wulfgar | +1 Mithral Hall Stacks | Season 4 | 14 Jun 2023 |
 | ![Speaker of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Speaker of the Hall | Catti-brie | +2 Mithral Hall Stacks | Season 4 | 21 Jun 2023 |
 | ![Weapon Swap Icon](images/featicons/mithralhallstackbonus.png) | Weapon Swap | Catti-brie | +1 Mithral Hall Stacks | Season 4 | 21 Jun 2023 |
 | ![Frost Strike Icon](images/featicons/upgradefa.png) | Frost Strike | Drizzt | 20% Icingdeath | Free | 21 Jun 2023 |

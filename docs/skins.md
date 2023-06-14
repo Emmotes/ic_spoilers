@@ -8,13 +8,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 
 | Portrait | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| ![Mythic Artemis Portrait](images/skin_portraits/mythicartemis.png) | Mythic Artemis | Season 4 | ??? | 14 Jun 2023 |
-| ![King Bruenor Portrait](images/skin_portraits/kingbruenor.png) | King Bruenor | Summer Celebration (Guess) | ??? | 14 Jun 2023 |
-| ![Mythic Catti-brie Portrait](images/skin_portraits/mythiccatti-brie.png) | Mythic Catti-brie | Season 4 | ??? | 14 Jun 2023 |
-| ![Mythic Pwent Portrait](images/skin_portraits/mythicpwent.png) | Mythic Pwent | Season 4 | ??? | 14 Jun 2023 |
-| ![Mythic Regis Portrait](images/skin_portraits/mythicregis.png) | Mythic Regis | Season 4 | ??? | 14 Jun 2023 |
-| ![Prismeer Turiel Portrait](images/skin_portraits/prismeerturiel.png) | Prismeer Turiel | Gem Shop | 20,000 | 14 Jun 2023 |
-| ![Mythic Wulfgar Portrait](images/skin_portraits/mythicwulfgar.png) | Mythic Wulfgar | Season 4 | ??? | 14 Jun 2023 |
 | ![Mythic Ishi Portrait](images/skin_portraits/mythicishi.png) | Mythic Ishi | Mythic Ishi Skin & Feat Pack | $9.99 | 21 Jun 2023 |
 | ![Mythic Jarlaxle Portrait](images/skin_portraits/mythicjarlaxle.png) | Mythic Jarlaxle | ??? | ??? | 22 Jun 2023 |
 | ![Mythic Sgt. Knox Portrait](images/skin_portraits/mythicsgt.knox.png) | Mythic Sgt. Knox | Mythic Sgt. Knox Skin & Feat Pack | $9.99 | 28 Jun 2023 |
