@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Law of the Land | 16 June | **Turiel** | Nayeli | Celeste | BBEG | Nordom | Golden Epic |
 | Defend the Mountain King | 23 June | **Pwent** | Bruenor | Jarlaxle | Catti-brie | Artemis | Golden Epic |
 | New Leaf | 30 June | **BBEG** | Tyril | Nixie | Evandra | Antrius | Golden Epic |
 | Hammer Time | 07 July | **Wulfgar** | Bruenor | Hitch | Baeloth | Pwent | Golden Epic |
