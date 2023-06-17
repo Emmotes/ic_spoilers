@@ -53,7 +53,7 @@ These icons entered the defines a while ago - and we recently got the first appe
 | ![Swap Seat 11 Icon](images/featicons/swapseat11.png) | Swap Seat 11 | `Icons/Feats/Icon_Feat_SwapSeat11` |
 | ![Swap Seat 12 Icon](images/featicons/swapseat12.png) | Swap Seat 12 | `Icons/Feats/Icon_Feat_SwapSeat12` |
 
-As for the feats that use these icons:
+As for the feat that uses these icons:
 
 *Note: Dates on or around 2032 are common in spoiler data and are placeholders. This just means that CNE haven't decided on a real date for them yet. It also means there's a chance they might never go live at all.*
 
