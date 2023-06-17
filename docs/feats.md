@@ -36,7 +36,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 # Seat Swap Feats
 
-These icons entered the defines recently. They clearly suggest that there will be feats at some point in the future that will allow a champion to move seat. We know nothing about how they'll be distributed - but it's likely that they'll be given out sparsely and only to one specific seat when they are given. So don't expect to be able to use whoever you want in a formation regardless of seat.
+These icons entered the defines a while ago - and we recently got the first appearance of a feat that uses them. Given that - it seems that these will be handed out sparingly to select champions that specifically allow them to move to one specific seat. I highly doubt they'll be a free-for-all.
 
 | Icon | Icon Name | Raw |
 |---|---|---|
@@ -52,6 +52,14 @@ These icons entered the defines recently. They clearly suggest that there will b
 | ![Swap Seat 10 Icon](images/featicons/swapseat10.png) | Swap Seat 10 | `Icons/Feats/Icon_Feat_SwapSeat10` |
 | ![Swap Seat 11 Icon](images/featicons/swapseat11.png) | Swap Seat 11 | `Icons/Feats/Icon_Feat_SwapSeat11` |
 | ![Swap Seat 12 Icon](images/featicons/swapseat12.png) | Swap Seat 12 | `Icons/Feats/Icon_Feat_SwapSeat12` |
+
+As for the feats that use these icons:
+
+*Note: Dates on or around 2032 are common in spoiler data and are placeholders. This just means that CNE haven't decided on a real date for them yet. It also means there's a chance they might never go live at all.*
+
+| Seat | Feat Name | Champion | Date |
+|---|---|---|---|
+| ![Swap Seat 12 Icon](images/featicons/swapseat12.png) | Seat Shift | Strongheart | 14 December 2032 |
 
 [Back to Top](#top)
 
