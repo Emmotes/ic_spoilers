@@ -182,7 +182,7 @@ Unknown.
 </details>
 <br />
 
-**Ceremorphosise**
+**Ceremorphosis**
 > Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Lae'zel's brain. Lae'zel increases the effect of `$(upgrade_name id___2)` by `$(amount)%` for each Ceremorphosis stack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
