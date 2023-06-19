@@ -306,7 +306,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 <br />
 
 **Specialisation: Rear Deck** (Guess)
-> Vin Ursa increases the damage of all champions in the read two columns by `$(amount)%`.
+> Vin Ursa increases the damage of all champions in the rear two columns by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -317,7 +317,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
         "targets": ["back_2_columns"]
     }],
     "requirements": "",
-    "description": {"desc": "$source increases the damage of all champions in the read two columns by $(amount)%."},
+    "description": {"desc": "$source increases the damage of all champions in the rear two columns by $(amount)%."},
     "id": 1589,
     "flavour_text": "",
     "graphic_id": 20201,
