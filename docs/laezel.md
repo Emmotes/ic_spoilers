@@ -252,7 +252,7 @@ Unknown.
 <br />
 
 **Aberration Hunter**
-> Aberrations are Lae'zel's Favored Foe. Every time an Aberration spawns, Lae'zel's `$(upgrade_name id___2)` is multiplicatively increased by `$(amount___2)%`, stacking up to `$(max_stack_mult___3)` times the Ceremorphosis stack count and resetting when changing areas. There is a 33% with each wave in a non-boss area that an extra Mind Flayer spawns.
+> Aberrations are Lae'zel's Favored Foe. Every time an Aberration spawns, Lae'zel's `$(upgrade_name id___2)` is multiplicatively increased by `$(amount___2)%`, stacking up to `$(max_stack_mult___3)` times the Ceremorphosis stack count and resetting when changing areas. There is a `$(amount___4)%` with each wave in a non-boss area that an extra Mind Flayer spawns.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -284,7 +284,7 @@ Unknown.
         }
     ],
     "requirements": "",
-    "description": {"desc": "Aberrations are $source's Favored Foe. Every time an Aberration spawns, $source's $(upgrade_name id___2) is multiplicatively increased by $(amount___2)%, stacking up to $(max_stack_mult___3) times the Ceremorphosis stack count and resetting when changing areas. There is a 33% with each wave in a non-boss area that an extra Mind Flayer spawns."},
+    "description": {"desc": "Aberrations are $source's Favored Foe. Every time an Aberration spawns, $source's $(upgrade_name id___2) is multiplicatively increased by $(amount___2)%, stacking up to $(max_stack_mult___3) times the Ceremorphosis stack count and resetting when changing areas. There is a $(amount___4)% with each wave in a non-boss area that an extra Mind Flayer spawns."},
     "id": 1601,
     "flavour_text": "",
     "graphic_id": 20236,
