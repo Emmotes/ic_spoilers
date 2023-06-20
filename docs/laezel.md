@@ -37,12 +37,12 @@ Unknown.
 # Abilities
 
 **Base Attack: Greatsword** (Melee)
-> Unknown effect.
+> Lae'zel attacks the closest enemies with a swing of her greatsword.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
+    "description": "Lae'zel attacks the closest enemies with a swing of her greatsword.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["melee"],
@@ -52,11 +52,15 @@ Unknown.
     "tags": ["melee"],
     "num_targets": 1,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
-        "type": "melee_attack"
+        "melee_leap_offset": [
+            -100,
+            0
+        ],
+        "melee_sequence": "attack",
+        "special_melee": "laezel",
+        "melee_hit_frame": 4,
+        "type": "melee_attack",
+        "melee_aoe_radius": 150
     }],
     "name": "Greatsword",
     "cooldown": 8,
@@ -67,12 +71,12 @@ Unknown.
 </details>
 <br />
 **Base Attack: War Magic** (Melee and Magic)
-> Unknown effect.
+> Lae'zel attacks with her greatsword and a volley of magic missiles.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
+    "description": "Lae'zel attacks with her greatsword and a volley of magic missiles.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": [
@@ -88,11 +92,25 @@ Unknown.
     ],
     "num_targets": 1,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
-        "type": "melee_attack"
+        "melee_leap_offset": [
+            -100,
+            0
+        ],
+        "magic_shoot_offset": [
+            100,
+            -105
+        ],
+        "magic_sequence": "attack_b",
+        "melee_sequence": "attack",
+        "special_melee": "laezel",
+        "melee_hit_frame": 4,
+        "magic_shoot_frames": [
+            6,
+            11,
+            16
+        ],
+        "type": "melee_attack",
+        "melee_aoe_radius": 150
     }],
     "name": "War Magic",
     "cooldown": 8,
@@ -104,13 +122,13 @@ Unknown.
 <br />
 
 **Ultimate Attack: Psionic Leap** (Guess)
-> Unknown effect.
+> Lae'zel psionically leaps into the enemies and attacks with a psionic shockwave, stunning them all for a short duration.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
-    "long_description": "",
+    "description": "Lae'zel leaps into the enemies and attacks, stunning them all for a short duration.",
+    "long_description": "Lae'zel psionically leaps into the enemies and attacks with a psionic shockwave, stunning them all for a short duration.",
     "damage_modifier": 1,
     "damage_types": ["melee"],
     "graphic_id": 20244,
@@ -122,11 +140,14 @@ Unknown.
     ],
     "num_targets": 1,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
-        "type": "melee_attack"
+        "melee_leap_offset": [
+            -100,
+            0
+        ],
+        "ultimate": "laezel",
+        "melee_hit_frame": 4,
+        "type": "ultimate_attack",
+        "melee_aoe_radius": 150
     }],
     "name": "Psionic Leap",
     "cooldown": 180,
@@ -208,7 +229,7 @@ Unknown.
             "stacks_multiply": false,
             "off_when_benched": true,
             "outgoing_buffs": false,
-            "effect_string": "laezel_ceremorphosis_stacks,2",
+            "effect_string": "laezel_ceremorphosis_stacks,1",
             "show_stacks": true,
             "desc_forced_order": 1
         }
@@ -233,18 +254,34 @@ Unknown.
 <br />
 
 **Straight to the Point**
-> Unknown effect.
+> In non-boss areas, whenever an enemy is defeated by anything OTHER than Lae'zel, she has a `$(amount)%` chance to gain an Impatience stack. When she has `$(max_stacks___2)` Impatience stacks, complete the current area and reset the Impatience stacks to the current Ceremorphosis count. Stacks persist when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
+    "effect_keys": [
+        {"effect_string": "laezel_straight_to_the_point_chance,100"},
+        {
+            "stack_title": "Impatience stacks",
+            "effect_string": "laezel_straight_to_the_point_stacks",
+            "show_stacks": true,
+            "max_stacks": 17,
+            "stacks_on_trigger": "will_manually_stack"
+        }
+    ],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "In non-boss areas, whenever an enemy is defeated by anything OTHER than $source, she has a $(amount)% chance to gain an Impatience stack. When she has $(max_stacks___2) Impatience stacks, complete the current area and reset the Impatience stacks to the current Ceremorphosis count. Stacks persist when changing areas."},
     "id": 1600,
     "flavour_text": "",
     "graphic_id": 20240,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
 }
 </pre>
 </p>
@@ -279,8 +316,12 @@ Unknown.
         },
         {
             "max_stack_mult": 4,
-            "rounding_mode": "ceil",
-            "effect_string": "stacks_max_stack_expr,1,per_ceremorphosis_stacks*4"
+            "effect_string": "stacks_max_stack_expr,1,per_ceremorphosis_stacks()*4"
+        },
+        {
+            "effect_string": "laezel_aberration_hunter_spawn,33",
+            "num_spawns": 1,
+            "spawn_ids": [2028]
         }
     ],
     "requirements": "",
@@ -341,26 +382,7 @@ Unknown.
 
 # Specialisations
 
-**Specialisation: Battle Master**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 20241,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018AhghaironsDay/AhghaironsDay_Y6/Icon_Specialization_LaezelBattleMaster",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Specialisation: Champion** (Guess)
+**Specialisation: Champion**
 > Increase Lae'zel's Critical Hit chance by `$(amount)%` and Critical Hit damage by `$(amount___2)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -388,19 +410,52 @@ Unknown.
 </details>
 <br />
 
-**Specialisation: Eldritch Knight**
-> Unknown effect.
+**Specialisation: Battle Master**
+> When Lae'zel hits an enemy and they survive, the enemy is distracted and the next Champion (other than Lae'zel that hits them deals an additional `$(amount)` seconds of BUD-based damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20243,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018AhghaironsDay/AhghaironsDay_Y6/Icon_Specialization_LaezelEldritchKnight",
-    "fs": 0
+    "effect_keys": [{
+        "distracted_graphic_offset": [
+            -50,
+            -150
+        ],
+        "effect_string": "laezel_battle_master,4"
+    }],
+    "requirements": "",
+    "description": {"desc": "When $source hits an enemy and they survive, the enemy is distracted and the next Champion (other than $source) that hits them deals an additional $(amount) seconds of BUD-based damage."},
+    "id": 1604,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Eldritch Knight**
+> Lae'zel now casts Magic Missile immediately after attacking with her greatsword, firing a missile at 3 random targets.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "change_base_attack,656"}],
+    "requirements": "",
+    "description": {"desc": "$source now casts Magic Missile immediately after attacking with her greatsword, firing a missile at 3 random targets."},
+    "id": 1605,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
