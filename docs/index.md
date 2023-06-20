@@ -31,7 +31,7 @@ The upcoming Evergreen champion we're aware of.
 Not events events - but events. You know?
 
 * [Emergence 3](emergence_3.md) - 30 August 2023
-* Season 5 - 13 September 2023 (Guess)
+* [Season 5](season_5.md) - 13 September 2023 (Guess)
 * Emergence 4 - ???
 * Season 6 - ???
 
