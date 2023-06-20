@@ -409,7 +409,7 @@ Unknown.
 <br />
 
 **Specialisation: Battle Master**
-> When Lae'zel hits an enemy and they survive, the enemy is distracted and the next Champion (other than Lae'zel that hits them deals an additional `$(amount)` seconds of BUD-based damage.
+> When Lae'zel hits an enemy and they survive, the enemy is distracted and the next Champion (other than Lae'zel) that hits them deals an additional `$(amount)` seconds of BUD-based damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
