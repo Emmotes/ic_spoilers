@@ -79,7 +79,7 @@ Unknown.
 {
     "description": "Commodore Krux throws a grenade at the enemy with the most health which deals damage and knocks enemies back.",
     "long_description": "Commodore Krux throws a grenade at the enemy with the most health, which explodes dealing ultimate damage to all enemies in a medium radius and knocking them all back a short distance.",
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "damage_types": ["ranged"],
     "graphic_id": 19891,
     "target": "highest_health",
