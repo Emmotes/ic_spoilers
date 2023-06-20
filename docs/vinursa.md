@@ -101,7 +101,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 {
     "description": "Vin Ursa blasts an enemy and has a chance to make that enemy a favored foe.",
     "long_description": "Vin Ursa blasts an enemy. She has a +20% chance to score a critical hit and the enemy becomes a favored foe if she crits.",
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "damage_types": ["ranged"],
     "graphic_id": 20019,
     "target": "vin_ursa_random_prefer_non_favored",
@@ -185,6 +185,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
     "effect_keys": [
         {
             "off_when_benched": true,
+            "outgoing_buffs": false,
             "effect_string": "pre_stack_amount,100"
         },
         {
@@ -196,7 +197,6 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
             "show_bonus": true,
             "amount_func": "mult",
             "stack_func": "per_vin_ursa_favored_foe",
-            "outgoing_buffs": false,
             "effect_string": "buff_upgrades,0,12090,12091"
         }
     ],
