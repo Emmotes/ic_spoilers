@@ -134,7 +134,7 @@ Contents:
 * Skin: `Astral Vin Ursa`
 * Feat: ???
 * Familiar: `Clawbekka the Crab`
-* Chests: `Gold E15Y6 Chest` x16 (Shinies x2)
+* Chests: `Gold Vin Ursa Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 
 <br />
