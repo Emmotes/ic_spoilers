@@ -65,7 +65,7 @@ Strongheart will be the new champion in the Founder's Day event on 28 June 2023.
 </details>
 <br />
 
-![Command: Yield! Icon](images/strongheart/icon_commandyield.png) **Ultimate Attack: Command: Yield!** (Level: 30)
+![Command: Yield! Icon](images/strongheart/icon_commandyield.png) **Ultimate Attack: Command: Yield!** (Level: 110)
 > Strongheart moves forward and Commands the enemy with the most health to Yield, stunning it for 6 seconds. While it is stunned, all attacks against the enemy deal additional 15 seconds worth of BUD.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -138,23 +138,35 @@ Strongheart will be the new champion in the Founder's Day event on 28 June 2023.
 </details>
 <br />
 
-![Justice Needs Champions Icon](images/strongheart/icon_justiceneedschampions.png) **Justice Needs Champions** (Level: 5)
+![Justice Needs Champions Icon](images/strongheart/icon_justiceneedschampions.png) **Justice Needs Champions** (Level: 10)
 > Strongheart increases the damage of all adjacent Champions by 100%.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       35: 100%
+       50: 200%
+      130: 200%
+      180: 200%
+      240: 200%
+      340: 200%
+      500: 200%
+      650: 200%
+      790: 200%
+      930: 200%
+    1,070: 200%
+    1,210: 200%
+    1,350: 200%
+    1,470: 200%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 1.59e08%
 
 Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	Dull Epic ilvl    100: 8.68e02%
-	Dull Epic ilvl  1,000: 2.85e03%
-	Dull Epic ilvl 10,000: 2.26e04%
+	Dull Epic ilvl    100: 7.71e08%
+	Dull Epic ilvl  1,000: 2.35e09%
+	Dull Epic ilvl 10,000: 1.81e10%
 </pre>
 </p>
 </details>
@@ -163,7 +175,7 @@ Expected numbers with various item levels:
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 5,
+    "required_level": 10,
     "effect": "effect_def,1569",
     "tip_text": "Strongheart buff the damage of adjacent Champions!",
     "name": "Justice Needs Champions",
@@ -190,30 +202,14 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Seasoned Knight Icon](images/strongheart/icon_seasonedknight.png) **Seasoned Knight** (Level: 10)
+![Seasoned Knight Icon](images/strongheart/icon_seasonedknight.png) **Seasoned Knight** (Level: 20)
 > Season Quest progress made by Strongheart's party is increased by 100%.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       40: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	At softcap: 100%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 10,
+    "required_level": 20,
     "effect": "effect_def,1570",
     "tip_text": "Strongheart increases your progress credited on Season quests.",
     "name": "Seasoned Knight",
@@ -244,21 +240,30 @@ Expected numbers:
 </details>
 <br />
 
-![Courage to Stand Icon](images/strongheart/icon_couragetostand.png) **Courage to Stand** (Level: 15)
-> Strongheart heals champions affected by Justice Needs Champions for 2.
+![Courage to Stand Icon](images/strongheart/icon_couragetostand.png) **Courage to Stand** (Level: 40)
+> Strongheart heals champions affected by Justice Needs Champions for 25.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       45: 100%
+      100: 70%
+      200: 70%
+      350: 70%
+      510: 70%
+      670: 70%
+      840: 70%
+    1,000: 70%
+    1,160: 70%
+    1,320: 70%
+    1,480: 70%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 2.01e04%
 
 Expected numbers:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	At softcap: -96%
+	At softcap: 4,939.98%
 </pre>
 </p>
 </details>
@@ -267,7 +272,7 @@ Expected numbers:
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 15,
+    "required_level": 40,
     "effect": "effect_def,1571",
     "name": "Courage to Stand",
     "id": 11738,
@@ -281,7 +286,7 @@ Expected numbers:
         "formation_arrows_for_effected_only": true,
         "off_when_benched": true,
         "slot_change_updates_targets": true,
-        "effect_string": "heal,2",
+        "effect_string": "heal,25",
         "filter_targets": [{
             "upgrade_id": 11736,
             "type": "affected_by_upgrade"
@@ -300,40 +305,14 @@ Expected numbers:
 </details>
 <br />
 
-![Righteous Might Icon](images/strongheart/icon_righteousmight.png) **Righteous Might** (Level: 20)
+![Righteous Might Icon](images/strongheart/icon_righteousmight.png) **Righteous Might** (Level: 60)
 > Whenever Strongheart lands a critical hit, for the next 20 seconds he increases the damage of Justice Needs Champions by 400%, increases the healing amount of Courage to Stand by 100%, and reduces the base attack speed cooldown of himself and Champions affected by Justice Needs Champions by 0.5 seconds.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       50: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers with various item levels:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	Dull Epic ilvl    100:
-		   0 Stacks: -100%
-		2000 Stacks: -100%
-
-	Dull Epic ilvl  1,000:
-		   0 Stacks: -100%
-		2000 Stacks: -100%
-
-	Dull Epic ilvl 10,000:
-		   0 Stacks: -100%
-		2000 Stacks: -100%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 20,
+    "required_level": 60,
     "effect": "effect_def,1572",
     "name": "Righteous Might",
     "id": 11739,
@@ -414,41 +393,15 @@ Expected numbers with various item levels:
 
 # Specialisations
 
-![A Just Quest Icon](images/strongheart/icon_ajustquest.png) **A Just Quest** (Level: 25)
+![A Just Quest Icon](images/strongheart/icon_ajustquest.png) **A Just Quest** (Level: 80)
 > Strongheart increases the damage bonus of Justice Needs Champions by 12.5% for each Season Level you have gained in the current Season, stacking multiplicatively.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       55: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers with various item levels:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	Dull Epic ilvl    100:
-		 0 Stacks: 20.97%
-		90 Stacks: 4.86e06%
-
-	Dull Epic ilvl  1,000:
-		 0 Stacks: 268.48%
-		90 Stacks: 1.48e07%
-
-	Dull Epic ilvl 10,000:
-		 0 Stacks: 2,743.48%
-		90 Stacks: 1.14e08%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
     "specialization_name": "A Just Quest",
-    "required_level": 25,
+    "required_level": 80,
     "effect": "effect_def,1574",
     "name": "A Just Quest",
     "specialization_graphic_id": 19782,
@@ -493,41 +446,15 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Honorary Member Icon](images/strongheart/icon_honorarymember.png) **Honorary Member** (Level: 25)
+![Honorary Member Icon](images/strongheart/icon_honorarymember.png) **Honorary Member** (Level: 80)
 > Strongheart gains the affiliation(s) of the most populous affiliation(s) in the formation, and increases the damage bonus of Justice Needs Champions by 150% for each Champion from the affiliation(s), stacking multiplicatively.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       55: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers with various item levels:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	Dull Epic ilvl    100:
-		 0 Stacks: 1,351.7%
-		10 Stacks: 2,803.4%
-
-	Dull Epic ilvl  1,000:
-		 0 Stacks: 4,321.7%
-		10 Stacks: 8,743.4%
-
-	Dull Epic ilvl 10,000:
-		 0 Stacks: 3.40e04%
-		10 Stacks: 6.81e04%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Honorary Member",
-    "required_level": 25,
+    "required_level": 80,
     "effect": "effect_def,1575",
     "name": "Honorary Member",
     "specialization_graphic_id": 19783,
@@ -574,41 +501,15 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Valor's Call Icon](images/strongheart/icon_valorscall.png) **Valor's Call** (Level: 25)
+![Valor's Call Icon](images/strongheart/icon_valorscall.png) **Valor's Call** (Level: 80)
 > Strongheart increases the damage bonus of Justice Needs Champions by 100% for each good Champion in the formation, stacking multiplicatively.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       55: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers with various item levels:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	Dull Epic ilvl    100:
-		 0 Stacks: 867.8%
-		10 Stacks: 1,835.6%
-
-	Dull Epic ilvl  1,000:
-		 0 Stacks: 2,847.8%
-		10 Stacks: 5,795.6%
-
-	Dull Epic ilvl 10,000:
-		 0 Stacks: 2.26e04%
-		10 Stacks: 4.54e04%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Valor's Call",
-    "required_level": 25,
+    "required_level": 80,
     "effect": "effect_def,1573",
     "name": "Valor's Call",
     "specialization_graphic_id": 19784,
