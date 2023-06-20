@@ -16,7 +16,7 @@ Season 5 is guesstimated to start on 13 September 2023 with the preview week arr
 
 ![Jim Season Portrait](images/season_5/jim.png)![Unknown Season Champion Portrait](images/unknown_season_champion.png)![Unknown Season Champion Portrait](images/unknown_season_champion.png)![Unknown Season Champion Portrait](images/unknown_season_champion.png)![Unknown Season Champion Portrait](images/unknown_season_champion.png)
 
-We believe the one seasonal champion this time around are likely to be and Jim.
+We believe the one seasonal champion this time around is likely to be Jim. The rest are as yet unknown.
 
 # Changes
 
