@@ -20,7 +20,7 @@ We believe the one seasonal champion this time around is likely to be Jim. The r
 
 # Changes
 
-Only one champion has seen changes so far though we have yet to see any for.
+Only one champion has seen changes so far.
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. Making assumptions on how the champions will turn out based on this information would be premature.
 
