@@ -208,6 +208,25 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
+**Unknown** (Guess)
+> Increases the effect of Jim's specializations by `$(amount)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "buff_upgrades,100,12132,12133,12134"}],
+    "requirements": [],
+    "description": {"desc": "Increases the effect of Jim's specializations by $(amount)%"},
+    "id": 1614,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+<br />
+
 **Specialisation: Darkmagic Cheer Squad** (Guess)
 > Increases the effect of Fan Club by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
@@ -305,25 +324,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "default_bonus_index": 0,
         "per_effect_index_bonuses": true
     }
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Specialisation: Unknown** (Guess)
-> Increases the effect of Jim's specializations by `$(amount)%`.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{"effect_string": "buff_upgrades,100,12132,12133,12134"}],
-    "requirements": [],
-    "description": {"desc": "Increases the effect of Jim's specializations by $(amount)%"},
-    "id": 1614,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": []
 }
 </pre>
 </p>
