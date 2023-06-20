@@ -15,7 +15,7 @@ Krux will be an upcoming Evergreen champion guesstimated to release on 19 July 2
 * Seat: Unknown
 * Race: Giff (Guess)
 * Class: Unknown
-* Roles: Unknown
+* Roles: Support / Tank (Guess)
 * Age: Unknown
 * Gender: Male (Guess)
 * Alignment: Unknown
