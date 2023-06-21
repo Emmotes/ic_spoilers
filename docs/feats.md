@@ -10,12 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
-| ![Speaker of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Speaker of the Hall | Catti-brie | +2 Mithral Hall Stacks | Season 4 | 21 Jun 2023 |
-| ![Weapon Swap Icon](images/featicons/mithralhallstackbonus.png) | Weapon Swap | Catti-brie | +1 Mithral Hall Stacks | Season 4 | 21 Jun 2023 |
-| ![Frost Strike Icon](images/featicons/upgradefa.png) | Frost Strike | Drizzt | 20% Icingdeath | Free | 21 Jun 2023 |
-| ![Creature Squad Icon](images/featicons/upgradefa.png) | Creature Squad | Ishi | 80% Monsters are People Too! | 50,000 Gems | 21 Jun 2023 |
-| ![Battle Expertise Icon](images/featicons/critchanceincrease.png) | Battle Expertise | Jarlaxle | +10% Crit Chance | ??? | 21 Jun 2023 |
-| ![Cataclysmic Strike Icon](images/featicons/critdamageincrease.png) | Cataclysmic Strike | Jarlaxle | +60% Crit Damage | ??? | 21 Jun 2023 |
 | ![Rally of the Protectors Icon](images/featicons/upgradefa.png) | Rally of the Protectors | Sgt. Knox | 80% Rallying Cry | 50,000 Gems | 28 Jun 2023 |
 | ![Seasoned Warrior Icon](images/featicons/upgradefa.png) | Seasoned Warrior | Strongheart | 100% Seasoned Knight | 50,000 Gems | 28 Jun 2023 |
 | ![Fortune's Favor Icon](images/featicons/goldfind.png) | Fortune's Favor | Freely | 50% Gold | 50,000 Gems | 12 Jul 2023 |

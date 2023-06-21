@@ -4,33 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Mythic Ishi Skin & Feat Pack - $9.99  
-Date of release: 21 Jun 2023
-
-Contents:
-
-* Champion: `Ishi Snaggletooth`
-* Skin: `Mythic Ishi`
-* Feat: `Creature Squad` (Ishi)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Ishi Chest` x7 (Shinies x1)
-
-<br />
-
-### Regulus the Valenar Hawk Familiar Pack - $9.99  
-Date of release: 21 Jun 2023
-
-Contents:
-
-* Familiar: `Regulus the Valenar Hawk`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-
-<br />
-
 ### Action Figure Strongheart Theme Pack - $24.99  
 Date of release: 28 Jun 2023
 
