@@ -162,7 +162,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "effect_keys": [{"off_when_benched": true}],
+    "effect_keys": [{
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "effect_string": "buff_upgrade,4,12128",
+        "max_stacks": 100,
+        "more_triggers": [{
+            "action": {"type": "reset"},
+            "trigger": "area_changed"
+        }],
+        "stacks_on_trigger": "things_transformed"
+    }],
     "requirements": [],
     "description": {"desc": "The effect of Fan Club is increased by $(not_buffed amount)% each time an enemy, ally, or ally's equipment is polymorphed or transformed in some way, stacking multiplicatively up to $(max_stacks) times. Stacks reset when changing areas."},
     "id": 1609,
