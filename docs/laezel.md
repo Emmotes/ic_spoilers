@@ -138,14 +138,19 @@ Unknown.
     ],
     "num_targets": 1,
     "animations": [{
+        "stun_duration": 5,
         "melee_leap_offset": [
-            -100,
+            -150,
             0
         ],
         "ultimate": "laezel",
+        "melee_aoe_offset": [
+            150,
+            -75
+        ],
         "melee_hit_frame": 4,
         "type": "ultimate_attack",
-        "melee_aoe_radius": 150
+        "melee_aoe_radius": 500
     }],
     "name": "Psionic Leap",
     "cooldown": 180,
