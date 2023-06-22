@@ -28,6 +28,50 @@ Feats that are listed as Free will be available immediately the moment they rele
 | <span class="feat4">![Sentinel Icon](images/featicons/overhelm.png)</span> | Sentinel | Selise | +20 Overwhelm | 50,000 Gems | 13 Sep 2023 |
 | <span class="feat4">![King of the Hall Icon](images/featicons/mithralhallstackbonus.png)</span> | King of the Hall | Bruenor | +2 Mithral Hall Stacks | 50,000 Gems | 21 Sep 2023 |
 
+# Placeholder Date Feats
+
+These are the feats that have been filtered out of the list above due to having placeholder dates. By this I mean they have very far future dates that will eventually change when CNE deigns to release them (*IF* they decide to release them). They've been filtered out above purely because there's a possibility some of these might never see the light of day. They're unreliable - far more so than most spoilers usually are. So take that into account when viewing them.
+
+*Note: Test feats / QA feats / TBD feats will remain filtered out. Even from this list.*
+
+| Icon | Feat Name | Champion | Effect | Source | Date |
+|---|---|---|---|---|--:|
+| <span class="feat4">![Evil Party Icon](images/featicons/upgradefa.png)</span> | Evil Party | BBEG | 400% Evil Overlord & Changes to Int <=11 | ??? | 01 Jan 2032 |
+| <span class="feat4">![Vicious Damage Icon](images/featicons/viciousdamage.png)</span> | Vicious Damage | BBEG | 400% Self DPS & Prevent Healing for 10s | ??? | 01 Jan 2032 |
+| <span class="feat3">![Hall of the Mountain King Icon](images/featicons/mithralhallstackbonus.png)</span> | Hall of the Mountain King | Bruenor | +1 Mithral Hall Stacks | ??? | 01 Jan 2032 |
+| <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Bruenor | 50% All Champion Damage | 50,000 Gems | 01 Jan 2032 |
+| <span class="feat4">![Archer's Perception Icon](images/featicons/upgradefa.png)</span> | Archer's Perception | Catti-brie | 80% Mark for Death | ??? | 01 Jan 2032 |
+| <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Catti-brie | +20% Crit Chance | ??? | 01 Jan 2032 |
+| <span class="feat4">![Obliterating Blast Icon](images/featicons/critdamageincrease.png)</span> | Obliterating Blast | Catti-brie | +120% Crit Damage | ??? | 01 Jan 2032 |
+| <span class="feat3">![Courage in Battle Icon](images/featicons/mithralhallstackbonus.png)</span> | Courage in Battle | Drizzt | +1 Mithral Hall Stacks | ??? | 01 Jan 2032 |
+| <span class="feat3">![Death on Both Sides Icon](images/featicons/upgradefa.png)</span> | Death on Both Sides | Drizzt | 40% Icingdeath | ??? | 01 Jan 2032 |
+| <span class="feat3">![Durable Icon](images/featicons/attributeboost.png)</span> | Durable | Jarlaxle | Stat: +1 Constitution | ??? | 01 Jan 2032 |
+| <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Jarlaxle | +20% Crit Chance | ??? | 01 Jan 2032 |
+| <span class="feat4">![Obliterating Blast Icon](images/featicons/critdamageincrease.png)</span> | Obliterating Blast | Jarlaxle | +120% Crit Damage | ??? | 01 Jan 2032 |
+| <span class="feat4">![Caged Dreams Icon](images/featicons/upgradefa.png)</span> | Caged Dreams | Miria | 80% Soul Cage | 50,000 Gems | 01 Jan 2032 |
+| <span class="feat4">![Vicious Damage Icon](images/featicons/viciousdamage.png)</span> | Vicious Damage | Pwent | 400% Self DPS & Prevent Healing for 10s | ??? | 01 Jan 2032 |
+| <span class="feat4">![Advisor Icon](images/featicons/globaldps.png)</span> | Advisor | Regis | 50% All Champion Damage | ??? | 01 Jan 2032 |
+| <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Regis | +20% Crit Chance | ??? | 01 Jan 2032 |
+| <span class="feat4">![A Vow Unbroken Icon](images/featicons/attributeboostx2.png)</span> | A Vow Unbroken | Uriah | Stat: +2 Constitution | ??? | 01 Jan 2032 |
+| <span class="feat4">![Faithful Reward Icon](images/featicons/upgradefa.png)</span> | Faithful Reward | Uriah | Ezra's Embrace Heals Within 3 Slots | ??? | 01 Jan 2032 |
+| <span class="feat3">![Battle Expertise Icon](images/featicons/critchanceincrease.png)</span> | Battle Expertise | Wulfgar | +10% Crit Chance | Gold Chest | 01 Jan 2032 |
+| <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Wulfgar | +20% Crit Chance | ??? | 01 Jan 2032 |
+| <span class="feat3">![Inspiring Leader Icon](images/featicons/globaldps.png)</span> | Inspiring Leader | Asharra | 25% All Champion Damage | 12,500 Gems | 01 Jan 2032 |
+| <span class="feat4">![Above the Crowd Icon](images/featicons/upgradefa.png)</span> | Above the Crowd | Binwin | 80% Tallest in Faerûn | 50,000 Gems | 01 Jan 2032 |
+| <span class="feat3">![Grappler Icon](images/featicons/selfdps.png)</span> | Grappler | Binwin | 60% Self DPS | 12,500 Gems | 01 Jan 2032 |
+| <span class="feat4">![Weapon Master Icon](images/featicons/selfdps.png)</span> | Weapon Master | Black Viper | 120% Self DPS | 50,000 Gems | 01 Jan 2032 |
+| <span class="feat4">![Prophesied Leader Icon](images/featicons/globaldps.png)</span> | Prophesied Leader | Deekin | 50% All Champion Damage | 50,000 Gems | 01 Jan 2032 |
+| <span class="feat3">![Inspiring Leader Icon](images/featicons/globaldps.png)</span> | Inspiring Leader | Donaar | 25% All Champion Damage | 12,500 Gems | 01 Jan 2032 |
+| <span class="feat3">![Grappler Icon](images/featicons/selfdps.png)</span> | Grappler | Jarlaxle | 60% Self DPS | 12,500 Gems | 01 Jan 2032 |
+| <span class="feat4">![Fortune's Favor Icon](images/featicons/goldfind.png)</span> | Fortune's Favor | Krull | 50% Gold | 50,000 Gems | 01 Jan 2032 |
+| <span class="feat4">![Richly Deserved Icon](images/featicons/upgradefa.png)</span> | Richly Deserved | Krull | 80% Draconic Plague | 50,000 Gems | 01 Jan 2032 |
+| <span class="feat4">![Superior Actor Icon](images/featicons/attributeboost.png)</span> | Superior Actor | Minsc | Stat: +2 Charisma | 12,500 Gems | 01 Jan 2032 |
+| <span class="feat3">![Resilient Icon](images/featicons/health.png)</span> | Resilient | Nayeli | 30% Health | 12,500 Gems | 01 Jan 2032 |
+| <span class="feat4">![Fortune's Favor Icon](images/featicons/goldfind.png)</span> | Fortune's Favor | Stoki | 50% Gold | 50,000 Gems | 01 Jan 2032 |
+| <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Tyril | 50% All Champion Damage | 50,000 Gems | 01 Jan 2032 |
+| <span class="feat4">![I Did My Homework Icon](images/featicons/upgradefa.png)</span> | I Did My Homework | Alyndra | 80% Brows of Judgement | 50,000 Gems | 17 Mar 2032 |
+| <span class="feat5">![Seat Shift Icon](images/featicons/swapseat12.png)</span> | Seat Shift | Strongheart |  | ??? | 14 Dec 2032 |
+
 # Seat Swap Feats
 
 These icons entered the defines a while ago - and we recently got the first appearance of a feat that uses them. Given that - it seems that these will be handed out sparingly to select champions that specifically allow them to move to one specific seat. I highly doubt they'll be a free-for-all.
@@ -46,14 +90,6 @@ These icons entered the defines a while ago - and we recently got the first appe
 | ![Swap Seat 10 Icon](images/featicons/swapseat10.png) | Swap Seat 10 | `Icons/Feats/Icon_Feat_SwapSeat10` |
 | ![Swap Seat 11 Icon](images/featicons/swapseat11.png) | Swap Seat 11 | `Icons/Feats/Icon_Feat_SwapSeat11` |
 | ![Swap Seat 12 Icon](images/featicons/swapseat12.png) | Swap Seat 12 | `Icons/Feats/Icon_Feat_SwapSeat12` |
-
-As for the feat that uses these icons:
-
-*Note: Dates on or around 2032 are common in spoiler data and are placeholders. This just means that CNE haven't decided on a real date for them yet. It also means there's a chance they might never go live at all.*
-
-| Seat | Feat Name | Champion | Date |
-|---|---|---|---|
-| <span class="feat5">![Swap Seat 12 Icon](images/featicons/swapseat12.png)</span> | Seat Shift | Strongheart | 14 December 2032 |
 
 [Back to Top](#top)
 
