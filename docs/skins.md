@@ -8,7 +8,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 
 | Portrait | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| ![Mythic Jarlaxle Portrait](images/skin_portraits/mythicjarlaxle.png) | Mythic Jarlaxle | EGS-only Giveaway | Free | 22 Jun 2023 |
 | ![Mythic Sgt. Knox Portrait](images/skin_portraits/mythicsgt.knox.png) | Mythic Sgt. Knox | Mythic Sgt. Knox Skin & Feat Pack | $9.99 | 28 Jun 2023 |
 | ![Action Figure Strongheart Portrait](images/skin_portraits/actionfigurestrongheart.png) | Action Figure Strongheart | Action Figure Strongheart Theme Pack | $24.99 | 28 Jun 2023 |
 | ![Mythic Freely Portrait](images/skin_portraits/mythicfreely.png) | Mythic Freely | Mythic Freely Skin & Feat Pack | $9.99 | 05 Jul 2023 |
