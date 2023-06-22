@@ -607,20 +607,20 @@ This list will only show feats that are going to be available on the release of 
 
 | Icon | Feat | Effect | Source |
 |---|---|---|---|
-| ![Selflessness Icon](images/featicons/globaldps.png) | `Selflessness` | 10% All Champion Damage | Free |
-| ![Inspiring Leader Icon](images/featicons/globaldps.png) | `Inspiring Leader` | 25% All Champion Damage | 12,500 Gems |
-| ![Strength in Numbers Icon](images/featicons/upgradefa.png) | `Strength in Numbers` | 20% Justice Needs Champions | Free |
-| ![All Together Now Icon](images/featicons/upgradefa.png) | `All Together Now` | 40% Justice Needs Champions | Gold Chest |
-| ![Seasoned Warrior Icon](images/featicons/upgradefa.png) | `Seasoned Warrior` | 100% Seasoned Knight | 50,000 Gems |
-| ![Together We Stand Icon](images/featicons/upgradefa.png) | `Together We Stand` | 40% Courage to Stand | 12,500 Gems |
-| ![Aura of Courage Icon](images/featicons/upgradefa.png) | `Aura of Courage` | 40% Righteous Might | Gold Chest |
-| ![Wings of Steel Icon](images/featicons/upgradefa.png) | `Wings of Steel` | 20% All Specialisations | Free |
-| ![Wings of Gold Icon](images/featicons/upgradefa.png) | `Wings of Gold` | 40% All Specialisations | Gold Chest |
-| ![Tactical Prowess Icon](images/featicons/critchanceincrease.png) | `Tactical Prowess` | +10% Crit Chance | Free |
-| ![Battle Expertise Icon](images/featicons/critchanceincrease.png) | `Battle Expertise` | +20% Crit Chance | 12,500 Gems |
-| ![Durable Icon](images/featicons/attributeboost.png) | `Durable` | Stat: +1 Constitution | Gold Chest |
-| ![Observant Icon](images/featicons/attributeboost.png) | `Observant` | Stat: +1 Wisdom | Gold Chest |
-| ![Stunning Riposte Icon](images/featicons/critrelated.png) | `Stunning Riposte` | Crits stun for 2s | 12,500 Gems |
+| <span class="feat2">![Selflessness Icon](images/featicons/globaldps.png)</span> | `Selflessness` | 10% All Champion Damage | Free |
+| <span class="feat3">![Inspiring Leader Icon](images/featicons/globaldps.png)</span> | `Inspiring Leader` | 25% All Champion Damage | 12,500 Gems |
+| <span class="feat2">![Strength in Numbers Icon](images/featicons/upgradefa.png)</span> | `Strength in Numbers` | 20% Justice Needs Champions | Free |
+| <span class="feat3">![All Together Now Icon](images/featicons/upgradefa.png)</span> | `All Together Now` | 40% Justice Needs Champions | Gold Chest |
+| <span class="feat4">![Seasoned Warrior Icon](images/featicons/upgradefa.png)</span> | `Seasoned Warrior` | 100% Seasoned Knight | 50,000 Gems |
+| <span class="feat3">![Together We Stand Icon](images/featicons/upgradefa.png)</span> | `Together We Stand` | 40% Courage to Stand | 12,500 Gems |
+| <span class="feat3">![Aura of Courage Icon](images/featicons/upgradefa.png)</span> | `Aura of Courage` | 40% Righteous Might | Gold Chest |
+| <span class="feat2">![Wings of Steel Icon](images/featicons/upgradefa.png)</span> | `Wings of Steel` | 20% All Specialisations | Free |
+| <span class="feat3">![Wings of Gold Icon](images/featicons/upgradefa.png)</span> | `Wings of Gold` | 40% All Specialisations | Gold Chest |
+| <span class="feat2">![Tactical Prowess Icon](images/featicons/critchanceincrease.png)</span> | `Tactical Prowess` | +10% Crit Chance | Free |
+| <span class="feat3">![Battle Expertise Icon](images/featicons/critchanceincrease.png)</span> | `Battle Expertise` | +20% Crit Chance | 12,500 Gems |
+| <span class="feat3">![Durable Icon](images/featicons/attributeboost.png)</span> | `Durable` | Stat: +1 Constitution | Gold Chest |
+| <span class="feat3">![Observant Icon](images/featicons/attributeboost.png)</span> | `Observant` | Stat: +1 Wisdom | Gold Chest |
+| <span class="feat3">![Stunning Riposte Icon](images/featicons/critrelated.png)</span> | `Stunning Riposte` | Crits stun for 2s | 12,500 Gems |
 
 # Legendaries
 
