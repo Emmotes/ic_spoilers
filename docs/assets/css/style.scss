@@ -34,3 +34,25 @@ code{
     padding: 0px;
     border-radius: 0px;
 }
+.feat1,.feat2,.feat3,.feat4,.feat5 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 42px;
+	width: 42px;
+}
+.feat1 {
+	border: 1px solid #DEE3DE;
+}
+.feat2 {
+	border: 1px solid #7BDF00;
+}
+.feat3 {
+	border: 1px solid #2955FF;
+}
+.feat4 {
+	border: 1px solid #8408EF;
+}
+.feat5 {
+	border: 1px solid #FBBA37;
+}

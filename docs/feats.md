@@ -10,23 +10,23 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
-| ![Rally of the Protectors Icon](images/featicons/upgradefa.png) | Rally of the Protectors | Sgt. Knox | 80% Rallying Cry | 50,000 Gems | 28 Jun 2023 |
-| ![Seasoned Warrior Icon](images/featicons/upgradefa.png) | Seasoned Warrior | Strongheart | 100% Seasoned Knight | 50,000 Gems | 28 Jun 2023 |
-| ![Fortune's Favor Icon](images/featicons/goldfind.png) | Fortune's Favor | Freely | 50% Gold | 50,000 Gems | 12 Jul 2023 |
-| ![Guardian of the Hall Icon](images/featicons/mithralhallstackbonus.png) | Guardian of the Hall | Drizzt | +2 Mithral Hall Stacks | 50,000 Gems | 19 Jul 2023 |
-| ![Slice and Dice Icon](images/featicons/bleedbonus.png) | Slice and Dice | Pwent | 100% Bleed | 50,000 Gems | 19 Jul 2023 |
-| ![Breaking It Down Icon](images/featicons/upgradefa.png) | Breaking It Down | Wulfgar | 80% Smash 'n Grab | 50,000 Gems | 19 Jul 2023 |
-| ![Prodigal Leader Icon](images/featicons/globaldps.png) | Prodigal Leader | Tatyana | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
-| ![The Bard Spittin' Bars Icon](images/featicons/upgradefa.png) | The Bard Spittin' Bars | Antrius | 40% Can't be De-Feat-ed | 12,500 Gems | 13 Sep 2023 |
-| ![Stronger Sources Icon](images/featicons/upgradefa.png) | Stronger Sources | BBEG | 40% Sources of Corpses | 12,500 Gems | 13 Sep 2023 |
-| ![Entertainer Icon](images/featicons/attributeboostx2.png) | Entertainer | Evandra | Stat: +2 Charisma | 50,000 Gems | 13 Sep 2023 |
-| ![Taunt Icon](images/featicons/taunt.png) | Taunt | Evandra | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
-| ![Puntastic Icon](images/featicons/upgradefa.png) | Puntastic | Merilwen | 40% Punishing Puns | 12,500 Gems | 13 Sep 2023 |
-| ![Taunt Icon](images/featicons/taunt.png) | Taunt | Nayeli | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
-| ![Heavy Lifter Icon](images/featicons/attributeboost.png) | Heavy Lifter | Nixie | Stat: +2 Strength | 50,000 Gems | 13 Sep 2023 |
-| ![New Speech Pattern Icon](images/featicons/upgradefa.png) | New Speech Pattern | Nordom | 40% Modron Core Toolbox | 12,500 Gems | 13 Sep 2023 |
-| ![Sentinel Icon](images/featicons/overhelm.png) | Sentinel | Selise | +20 Overwhelm | 50,000 Gems | 13 Sep 2023 |
-| ![King of the Hall Icon](images/featicons/mithralhallstackbonus.png) | King of the Hall | Bruenor | +2 Mithral Hall Stacks | 50,000 Gems | 21 Sep 2023 |
+| <span class="feat4">![Rally of the Protectors Icon](images/featicons/upgradefa.png)</span> | Rally of the Protectors | Sgt. Knox | 80% Rallying Cry | 50,000 Gems | 28 Jun 2023 |
+| <span class="feat4">![Seasoned Warrior Icon](images/featicons/upgradefa.png)</span> | Seasoned Warrior | Strongheart | 100% Seasoned Knight | 50,000 Gems | 28 Jun 2023 |
+| <span class="feat4">![Fortune's Favor Icon](images/featicons/goldfind.png)</span> | Fortune's Favor | Freely | 50% Gold | 50,000 Gems | 12 Jul 2023 |
+| <span class="feat4">![Guardian of the Hall Icon](images/featicons/mithralhallstackbonus.png)</span> | Guardian of the Hall | Drizzt | +2 Mithral Hall Stacks | 50,000 Gems | 19 Jul 2023 |
+| <span class="feat4">![Slice and Dice Icon](images/featicons/bleedbonus.png)</span> | Slice and Dice | Pwent | 100% Bleed | 50,000 Gems | 19 Jul 2023 |
+| <span class="feat4">![Breaking It Down Icon](images/featicons/upgradefa.png)</span> | Breaking It Down | Wulfgar | 80% Smash 'n Grab | 50,000 Gems | 19 Jul 2023 |
+| <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Tatyana | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
+| <span class="feat3">![The Bard Spittin' Bars Icon](images/featicons/upgradefa.png)</span> | The Bard Spittin' Bars | Antrius | 40% Can't be De-Feat-ed | 12,500 Gems | 13 Sep 2023 |
+| <span class="feat3">![Stronger Sources Icon](images/featicons/upgradefa.png)</span> | Stronger Sources | BBEG | 40% Sources of Corpses | 12,500 Gems | 13 Sep 2023 |
+| <span class="feat4">![Entertainer Icon](images/featicons/attributeboostx2.png)</span> | Entertainer | Evandra | Stat: +2 Charisma | 50,000 Gems | 13 Sep 2023 |
+| <span class="feat4">![Taunt Icon](images/featicons/taunt.png)</span> | Taunt | Evandra | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
+| <span class="feat3">![Puntastic Icon](images/featicons/upgradefa.png)</span> | Puntastic | Merilwen | 40% Punishing Puns | 12,500 Gems | 13 Sep 2023 |
+| <span class="feat4">![Taunt Icon](images/featicons/taunt.png)</span> | Taunt | Nayeli | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
+| <span class="feat4">![Heavy Lifter Icon](images/featicons/attributeboost.png)</span> | Heavy Lifter | Nixie | Stat: +2 Strength | 50,000 Gems | 13 Sep 2023 |
+| <span class="feat3">![New Speech Pattern Icon](images/featicons/upgradefa.png)</span> | New Speech Pattern | Nordom | 40% Modron Core Toolbox | 12,500 Gems | 13 Sep 2023 |
+| <span class="feat4">![Sentinel Icon](images/featicons/overhelm.png)</span> | Sentinel | Selise | +20 Overwhelm | 50,000 Gems | 13 Sep 2023 |
+| <span class="feat4">![King of the Hall Icon](images/featicons/mithralhallstackbonus.png)</span> | King of the Hall | Bruenor | +2 Mithral Hall Stacks | 50,000 Gems | 21 Sep 2023 |
 
 # Seat Swap Feats
 
@@ -53,7 +53,7 @@ As for the feat that uses these icons:
 
 | Seat | Feat Name | Champion | Date |
 |---|---|---|---|
-| ![Swap Seat 12 Icon](images/featicons/swapseat12.png) | Seat Shift | Strongheart | 14 December 2032 |
+| <span class="feat5">![Swap Seat 12 Icon](images/featicons/swapseat12.png)</span> | Seat Shift | Strongheart | 14 December 2032 |
 
 [Back to Top](#top)
 
