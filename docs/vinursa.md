@@ -133,7 +133,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 <br />
 
 **Bounty Hunter**
-> Vin Ursa picks a random monster type from a monster in the current adventure as her Favored Foe for the current adventure. Her Favored Foes drop `$(amount___2)%` extra gold and all Champions deal `$(amount___3)%` damage to them.
+> Vin Ursa picks a random monster type from a monster in the current adventure as her Favored Foe. Her Favored Foes drop `$(amount___2)%` extra gold and all Champions deal `$(amount___3)%` damage to them.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -154,7 +154,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
     ],
     "requirements": "",
     "description": {
-        "pre": "$source picks a random monster type from a monster in the current adventure as her Favored Foe for the current adventure. Her Favored Foes drop $(amount___2)% extra gold and all Champions deal $(amount___3)% damage to them.",
+        "pre": "$source picks a random monster type from a monster in the current adventure as her Favored Foe. Her Favored Foes drop $(amount___2)% extra gold and all Champions deal $(amount___3)% damage to them.",
         "conditions": [{
             "condition": "not static_desc",
             "desc": "^^Favored Foes: $(vin_ursa_bounty_hunter_discovered)^Undiscovered Foes: $(vin_ursa_bounty_hunter_undiscovered)"
