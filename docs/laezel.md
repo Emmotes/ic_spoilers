@@ -386,7 +386,7 @@ Unknown.
 # Specialisations
 
 **Specialisation: Champion**
-> Increase Lae'zel's Critical Hit chance by `$(amount)%` and Critical Hit damage by `$(amount___2)%`.
+> Increase Lae'zel's Critical Hit chance by `$(amount)%` (additively) and Critical Hit damage by `$(amount___2)%` (multiplicatively).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -396,7 +396,7 @@ Unknown.
         {"effect_string": "buff_base_crit_damage_mult,100"}
     ],
     "requirements": "",
-    "description": {"desc": "Increase $source's Critical Hit chance by $(amount)% and Critical Hit damage by $(amount___2)%."},
+    "description": {"desc": "Increase $source's Critical Hit chance by $(amount)% (additively) and Critical Hit damage by $(amount___2)% (multiplicatively)."},
     "id": 1603,
     "flavour_text": "",
     "graphic_id": 0,
