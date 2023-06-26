@@ -22,13 +22,6 @@ Krux will be an upcoming Evergreen champion guesstimated to release on 19 July 2
 * Affiliation: Unknown
 * Stats: Unknown
 
-# Formation
-
-Unknown.
-{% comment %}
-![Formation Layout](images/krux/formation.png)
-{% endcomment %}
-
 # Abilities
 
 **Base Attack: Flintlock Pistols** (Ranged)
