@@ -38,10 +38,10 @@ This content drop will likely be joined by new blessings.
 
 | Icon | Campaign | Adventure Name | Type |
 |---|---|---|---|
-| ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Witchlight | Legends and Lore | Adventure |
-| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Witchlight | Legends and Lore | Variant #1 |
-| ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Witchlight | The End | Adventure |
-| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Empty Placeholder](images/contentdrop_portraits/unknown.png) | Witchlight | The End | Variant #1 |
+| ![Witchlight: Legends and Lore (Adventure)](images/contentdrop_portraits/witchlight_legendsandlore_0.png) | Witchlight | Legends and Lore | Adventure |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Witchlight: Legends and Lore (Variant 1)](images/contentdrop_portraits/witchlight_legendsandlore_1.png) | Witchlight | Legends and Lore | Variant #1 |
+| ![Witchlight: The End (Adventure)](images/contentdrop_portraits/witchlight_theend_0.png) | Witchlight | The End | Adventure |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Witchlight: The End (Variant 1)](images/contentdrop_portraits/witchlight_theend_1.png) | Witchlight | The End | Variant #1 |
 
 <br />
 This page was made with the help of Randramb.
