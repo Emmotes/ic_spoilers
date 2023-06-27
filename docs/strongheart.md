@@ -22,7 +22,7 @@ Strongheart will be the new champion in the Founder's Day event on 28 June 2023.
 |---|---|---|---|
 | Strength | 15 | Yes | Mirt |
 | Dexterity | 12 | Yes | Vajra (with Feat) |
-| Constitution | 13 | Yes | - |
+| Constitution | 13 | Yes | Strahd (with Feat) |
 | Intelligence | 12 | Yes | Zariel |
 | Wisdom | 13 | Yes | |
 | Charisma | 17 | Yes | |
@@ -621,7 +621,7 @@ This list will only show feats that are going to be available on the release of 
 | <span class="feat2">![Tactical Prowess Icon](images/featicons/critchanceincrease.png)</span> | `Tactical Prowess` | +10% Crit Chance | Free |
 | <span class="feat3">![Battle Expertise Icon](images/featicons/critchanceincrease.png)</span> | `Battle Expertise` | +20% Crit Chance | 12,500 Gems |
 | <span class="feat3">![Durable Icon](images/featicons/attributeboost.png)</span> | `Durable` | Stat: +1 Constitution | Gold Chest |
-| <span class="feat3">![Observant Icon](images/featicons/attributeboost.png)</span> | `Observant` | Stat: +1 Wisdom | Gold Chest |
+| <span class="feat3">![Keen Mind Icon](images/featicons/attributeboost.png)</span> | `Keen Mind` | Stat: +1 Intelligence | Gold Chest |
 | <span class="feat3">![Stunning Riposte Icon](images/featicons/critrelated.png)</span> | `Stunning Riposte` | Crits stun for 2s | 12,500 Gems |
 
 # Legendaries
