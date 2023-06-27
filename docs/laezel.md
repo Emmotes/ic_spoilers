@@ -27,10 +27,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 
 # Formation
 
-Unknown.
-{% comment %}
 ![Formation Layout](images/laezel/formation.png)
-{% endcomment %}
 
 # Abilities
 
@@ -54,6 +51,10 @@ Unknown.
             -100,
             0
         ],
+        "attack_sounds": {
+            "magic": 149,
+            "melee": 158
+        },
         "melee_sequence": "attack",
         "special_melee": "laezel",
         "melee_hit_frame": 4,
@@ -99,6 +100,10 @@ Unknown.
             -105
         ],
         "magic_sequence": "attack_b",
+        "attack_sounds": {
+            "magic": 149,
+            "melee": 158
+        },
         "melee_sequence": "attack",
         "special_melee": "laezel",
         "melee_hit_frame": 4,
@@ -130,7 +135,7 @@ Unknown.
     "damage_modifier": 1,
     "damage_types": ["melee"],
     "graphic_id": 20244,
-    "target": "front",
+    "target": "all",
     "aoe_radius": 0,
     "tags": [
         "ultimate",
@@ -150,7 +155,7 @@ Unknown.
         ],
         "melee_hit_frame": 4,
         "type": "ultimate_attack",
-        "melee_aoe_radius": 500
+        "melee_aoe_radius": 750
     }],
     "name": "Psionic Leap",
     "cooldown": 180,
