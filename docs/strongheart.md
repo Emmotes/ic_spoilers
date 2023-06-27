@@ -307,6 +307,8 @@ Expected numbers:
 
 ![Righteous Might Icon](images/strongheart/icon_righteousmight.png) **Righteous Might** (Level: 60)
 > Whenever Strongheart lands a critical hit, for the next 20 seconds he increases the damage of Justice Needs Champions by 400%, increases the healing amount of Courage to Stand by 100%, and reduces the base attack speed cooldown of himself and Champions affected by Justice Needs Champions by 0.5 seconds.
+
+*Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
