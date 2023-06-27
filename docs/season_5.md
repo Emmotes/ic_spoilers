@@ -403,39 +403,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 ![Evelyn Portrait](images/season_5/evelyn.png)
 
-**Together, We Might Survive** (Guess)
-> 
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [
-        {
-            "effect_string": "disable_hero_properties,1,0,0,0",
-            "targets": ["non_col"]
-        },
-        {
-            "effect_string": "hero_dps_multiplier_reduce,100",
-            "targets": ["non_col"],
-            "skip_effect_key_desc": true
-        }
-    ],
-    "requirements": "",
-    "description": {"desc": ""},
-    "id": 1615,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "debuff": true,
-        "effect_name": "Together, We Might Survive"
-    }
-}
-</pre>
-</p>
-</details>
-<br />
-
 **Divine Prayer** (Guess)
 > Evelyn increases the damage of everyone behind her in the formation by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
