@@ -4,34 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Action Figure Strongheart Theme Pack - $24.99  
-Date of release: 28 Jun 2023
-
-Contents:
-
-* Champion: `Strongheart`
-* Skin: `Action Figure Strongheart`
-* Feat: `Seasoned Warrior` (Strongheart)
-* Familiar: `Baby Destrier`
-* Chests: `Gold Strongheart Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
-### Mythic Sgt. Knox Skin & Feat Pack - $9.99  
-Date of release: 28 Jun 2023
-
-Contents:
-
-* Champion: `Sergeant Knox`
-* Skin: `Mythic Sgt. Knox`
-* Feat: `Rally of the Protectors` (Sgt. Knox)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Sergeant Knox Chest` x7 (Shinies x1)
-
-<br />
-
 ### Mythic Freely Skin & Feat Pack - $9.99  
 Date of release: 05 Jul 2023
 

@@ -8,8 +8,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 
 | Portrait | Skin Name | Source | Cost | Date |
 |---|---|---|--:|--:|
-| ![Mythic Sgt. Knox Portrait](images/skin_portraits/mythicsgt.knox.png) | Mythic Sgt. Knox | Mythic Sgt. Knox Skin & Feat Pack | $9.99 | 28 Jun 2023 |
-| ![Action Figure Strongheart Portrait](images/skin_portraits/actionfigurestrongheart.png) | Action Figure Strongheart | Action Figure Strongheart Theme Pack | $24.99 | 28 Jun 2023 |
 | ![Mythic Freely Portrait](images/skin_portraits/mythicfreely.png) | Mythic Freely | Mythic Freely Skin & Feat Pack | $9.99 | 05 Jul 2023 |
 | ![Mythic Drizzt Portrait](images/skin_portraits/mythicdrizzt.png) | Mythic Drizzt | Mythic Drizzt Skin & Feat Pack | $9.99 | 19 Jul 2023 |
 | ![Vampire Pwent Portrait](images/skin_portraits/vampirepwent.png) | Vampire Pwent | Vampire Pwent Skin & Feat Pack | $9.99 | 19 Jul 2023 |
