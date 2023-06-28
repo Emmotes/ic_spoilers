@@ -10,8 +10,6 @@ Of course - spoilers are subject to change at any time. Don't plan any major lif
 
 These are the event champions that are upcoming and all the information we know about them. Dates are guesstimates based on the normal event schedule.
 
-* Founder's Day - 28 June 2023
-  * [Strongheart](strongheart.md) - Human Paladin
 * Midsummer - 26 July 2023
   * [Vin Ursa](vinursa.md) - Plasmoid
 * Ahghairon's Day - 16 August 2023
