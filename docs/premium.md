@@ -4,7 +4,7 @@
 
 Upcoming real-money shop items.
 
-### Mythic Freely Skin & Feat Pack - $9.99  
+### Mythic Freely Skin & Feat Pack - $7.99  
 Date of release: 05 Jul 2023
 
 Contents:
