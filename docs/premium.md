@@ -4,20 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Mythic Freely Skin & Feat Pack - $7.99  
-Date of release: 05 Jul 2023
-
-Contents:
-
-* Champion: `Freely`
-* Skin: `Mythic Freely`
-* Feat: `Fortune's Favor` (Freely)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Freely Chest` x7 (Shinies x1)
-
-<br />
-
 ### Little Luigi the Parrot Familiar Pack - $4.99  
 Date of release: 12 Jul 2023
 

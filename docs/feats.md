@@ -10,7 +10,6 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
-| <span class="feat4">![Fortune's Favor Icon](images/featicons/goldfind.png)</span> | Fortune's Favor | Freely | 50% Gold | 50,000 Gems | 12 Jul 2023 |
 | <span class="feat4">![Guardian of the Hall Icon](images/featicons/mithralhallstackbonus.png)</span> | Guardian of the Hall | Drizzt | +2 Mithral Hall Stacks | 50,000 Gems | 19 Jul 2023 |
 | <span class="feat4">![Slice and Dice Icon](images/featicons/bleedbonus.png)</span> | Slice and Dice | Pwent | 100% Bleed | 50,000 Gems | 19 Jul 2023 |
 | <span class="feat4">![Breaking It Down Icon](images/featicons/upgradefa.png)</span> | Breaking It Down | Wulfgar | 80% Smash 'n Grab | 50,000 Gems | 19 Jul 2023 |
