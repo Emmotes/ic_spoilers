@@ -226,7 +226,7 @@ Krux will be an upcoming Evergreen champion guesstimated to release on 19 July 2
             "show_bonus": true,
             "override_total_bonus_sentence": "EFFECT_1562_EFFECT_KEYS_0_OVERRIDE_TOTAL_BONUS_SENTENCE|+$bonus% of Krux's Max HP",
             "show_current_value_bonus_desc": false,
-            "override_key_desc": "Increases the health of $target and the effect of healing on $target by $amount% of Commodore Krux's max health."
+            "override_key_desc": "Increases the health of $target and the effect of healing on $target by $amount"
         },
         {
             "amount_updated_listeners": ["stat_changed,XaryxisAdventuresCompleted"],
