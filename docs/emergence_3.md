@@ -6,14 +6,14 @@
 
 # Emergence 3
 
-We currently do not know what this Emergence event will be but we do know that it will start on 30 August 2023.
+We know the next Emergence event will be Mind Flayers and we do know that it will start on 30 August 2023.
 
 ### Shop Contents
 
 Unknown.
 
 {% comment %}
-###  Emergence Chest Icons
+### Mind Flayers Emergence Chest Icons
 
 | Shop | Inventory |
 |---|---|
