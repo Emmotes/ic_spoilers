@@ -297,7 +297,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 <br />
 
 **Aberration Hunter**
-> Aberrations are Lae'zel's Favored Foe. Every time an Aberration spawns, Lae'zel's `$(upgrade_name id___2)` is multiplicatively increased by `$(amount___2)%`, stacking up to `$(max_stack_mult___3)` times the Ceremorphosis stack count and resetting when changing areas. There is a `$(amount___4)%` with each wave in a non-boss area that an extra Mind Flayer spawns.
+> Aberrations are Lae'zel's Favored Foe. Every time an Aberration spawns, Lae'zel's `$(upgrade_name id___2)` is multiplicatively increased by `$(not_buffed amount___2)%`, stacking up to `$(max_stack_mult___3)` times the Ceremorphosis stack count and resetting when changing areas. There is a `$(amount___4)%` chance with each wave in a non-boss area that an extra Mind Flayer spawns.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -333,7 +333,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
         }
     ],
     "requirements": "",
-    "description": {"desc": "Aberrations are $source's Favored Foe. Every time an Aberration spawns, $source's $(upgrade_name id___2) is multiplicatively increased by $(amount___2)%, stacking up to $(max_stack_mult___3) times the Ceremorphosis stack count and resetting when changing areas. There is a $(amount___4)% with each wave in a non-boss area that an extra Mind Flayer spawns."},
+    "description": {"desc": "Aberrations are $source's Favored Foe. Every time an Aberration spawns, $source's $(upgrade_name id___2) is multiplicatively increased by $(not_buffed amount___2)%, stacking up to $(max_stack_mult___3) times the Ceremorphosis stack count and resetting when changing areas. There is a $(amount___4)% chance with each wave in a non-boss area that an extra Mind Flayer spawns."},
     "id": 1601,
     "flavour_text": "",
     "graphic_id": 20236,
@@ -391,7 +391,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 # Specialisations
 
 **Specialisation: Champion**
-> Increase Lae'zel's Critical Hit chance by `$(amount)%` (additively) and Critical Hit damage by `$(amount___2)%` (multiplicatively).
+> Increases Lae'zel's Critical Hit chance by `$(amount)%` (additively) and Critical Hit damage by `$(amount___2)%` (multiplicatively).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -401,7 +401,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
         {"effect_string": "buff_base_crit_damage_mult,100"}
     ],
     "requirements": "",
-    "description": {"desc": "Increase $source's Critical Hit chance by $(amount)% (additively) and Critical Hit damage by $(amount___2)% (multiplicatively)."},
+    "description": {"desc": "Increases $source's Critical Hit chance by $(amount)% (additively) and Critical Hit damage by $(amount___2)% (multiplicatively)."},
     "id": 1603,
     "flavour_text": "",
     "graphic_id": 0,
