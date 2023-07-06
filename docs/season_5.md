@@ -20,7 +20,7 @@ Season 5 is guesstimated to start on 20 September 2023 with the preview week arr
 
 ![Jim Season Portrait](images/season_5/jim.png)![Evelyn Season Portrait](images/season_5/evelyn.png)![Strix Season Portrait](images/season_5/strix.png)![Omin Season Portrait](images/season_5/omin.png)![Vi Season Portrait](images/season_5/vi.png)
 
-We believe the five seasonal champions this time around are likely to be Jim Evelyn Strix Omin and Vi.
+We believe the five seasonal champions this time around are likely to be Jim, Evelyn, Strix, Omin and Vi.
 
 # Changes
 
