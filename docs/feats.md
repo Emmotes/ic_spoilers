@@ -15,6 +15,9 @@ Feats that are listed as Free will be available immediately the moment they rele
 | <span class="feat4">![Breaking It Down Icon](images/featicons/upgradefa.png)</span> | Breaking It Down | Wulfgar | 80% Smash 'n Grab | 50,000 Gems | 19 Jul 2023 |
 | <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Tatyana | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
 | <span class="feat4">![High Ground Icon](images/featicons/upgradefa.png)</span> | High Ground | Vin Ursa | 80% Vicious Vantage | 50,000 Gems | 26 Jul 2023 |
+| <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Avren | 50% All Champion Damage | 50,000 Gems | 09 Aug 2023 |
+| <span class="feat4">![Don't Fall Behind Icon](images/featicons/upgradefa.png)</span> | Don't Fall Behind | Widdle | 80% Hurry Up Now | 50,000 Gems | 09 Aug 2023 |
+| <span class="feat4">![Unlimited Potential Icon](images/featicons/upgradefa.png)</span> | Unlimited Potential | Voronika | 80% Ultimate Power | 50,000 Gems | 16 Aug 2023 |
 | <span class="feat3">![The Bard Spittin' Bars Icon](images/featicons/upgradefa.png)</span> | The Bard Spittin' Bars | Antrius | 40% Can't be De-Feat-ed | 12,500 Gems | 13 Sep 2023 |
 | <span class="feat3">![Stronger Sources Icon](images/featicons/upgradefa.png)</span> | Stronger Sources | BBEG | 40% Sources of Corpses | 12,500 Gems | 13 Sep 2023 |
 | <span class="feat4">![Entertainer Icon](images/featicons/attributeboostx2.png)</span> | Entertainer | Evandra | Stat: +2 Charisma | 50,000 Gems | 13 Sep 2023 |
@@ -52,6 +55,7 @@ These are the feats that have been filtered out of the list above due to having 
 | <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Regis | +20% Crit Chance | ??? | 01 Jan 2032 |
 | <span class="feat4">![A Vow Unbroken Icon](images/featicons/attributeboostx2.png)</span> | A Vow Unbroken | Uriah | Stat: +2 Constitution | ??? | 01 Jan 2032 |
 | <span class="feat4">![Faithful Reward Icon](images/featicons/upgradefa.png)</span> | Faithful Reward | Uriah | Ezra's Embrace Heals Within 3 Slots | ??? | 01 Jan 2032 |
+| <span class="feat4">![Very Important Person Icon](images/featicons/upgradefa.png)</span> | Very Important Person | Valentine | 80% Socialite | ??? | 01 Jan 2032 |
 | <span class="feat3">![It's Just Business Icon](images/featicons/upgradefa.png)</span> | It's Just Business | Vin Ursa | 40% All Specialisations | ??? | 01 Jan 2032 |
 | <span class="feat3">![This is the Way Icon](images/featicons/upgradefa.png)</span> | This is the Way | Vin Ursa | 40% All Specialisations | ??? | 01 Jan 2032 |
 | <span class="feat3">![Battle Expertise Icon](images/featicons/critchanceincrease.png)</span> | Battle Expertise | Wulfgar | +10% Crit Chance | Gold Chest | 01 Jan 2032 |

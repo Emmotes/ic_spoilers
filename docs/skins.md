@@ -13,11 +13,13 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Frost Reaver Wulfgar Portrait](images/skin_portraits/frostreaverwulfgar.png) | Frost Reaver Wulfgar | Frost Reaver Wulfgar Theme Pack | $24.99 | 19 Jul 2023 |
 | ![Fighting Pits Tatyana Portrait](images/skin_portraits/fightingpitstatyana.png) | Fighting Pits Tatyana | Fighting Pits Tatyana Skin & Feat Pack | $9.99 | 26 Jul 2023 |
 | ![Astral Vin Ursa Portrait](images/skin_portraits/astralvinursa.png) | Astral Vin Ursa | Astral Vin Ursa Theme Pack | $24.99 | 26 Jul 2023 |
-| ![Spelljammer Avren Portrait](images/skin_portraits/spelljammeravren.png) | Spelljammer Avren | ??? | ??? | 09 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Spelljammer Widdle | ??? | ??? | 09 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Lae'zel | ??? | ??? | 16 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Cosmic Nightmare Voronika | ??? | ??? | 16 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Spelljammer Asharra | ??? | ??? | 30 Aug 2023 |
+| ![Spelljammer Avren Portrait](images/skin_portraits/spelljammeravren.png) | Spelljammer Avren | Spelljammer Avren Skin & Feat Pack | $9.99 | 09 Aug 2023 |
+| ![Spelljammer Widdle Portrait](images/skin_portraits/spelljammerwiddle.png) | Spelljammer Widdle | Spelljammer Widdle Skin & Feat Pack | $9.99 | 09 Aug 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Lae'zel | Mind Flayer Lae'zel Theme Pack | $24.99 | 16 Aug 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Cosmic Nightmare Voronika | Cosmic Nightmare Voronika Skin & Feat Pack | $9.99 | 16 Aug 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Jamilah | ??? | ??? | 23 Aug 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Nrakk | ??? | ??? | 23 Aug 2023 |
+| ![Spelljammer Asharra Portrait](images/skin_portraits/spelljammerasharra.png) | Spelljammer Asharra | Founder's Pack VI | $19.99 | 30 Aug 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Astarion | ??? | ??? | 06 Sep 2023 |
 
 [Back to Top](#top)
