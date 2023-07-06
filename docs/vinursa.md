@@ -704,8 +704,8 @@ Expected numbers with various item levels:
 | ![Hat of Disguise Icon](images/vinursa/20057.png) | 1 | `Hat of Disguise` | All Champion Damage |
 | ![Cloak of Stars and Darkness Icon](images/vinursa/20054.png) | 2 | `Cloak of Stars and Darkness` | Bounty Hunter |
 | ![Starstrike Array Icon](images/vinursa/20066.png) | 3 | `Starstrike Array` | Vicious Vantage |
-| ![Arena of Blood Coin Icon](images/vinursa/20060.png) | 4 | `Arena of Blood Coin` | All Specialisations |
-| ![Infinity's Souvenir Icon](images/vinursa/20063.png) | 5 | `Infinity's Souvenir` | All Specialisations |
+| ![Arena of Blood Coin Icon](images/vinursa/20060.png) | 4 | `Arena of Blood Coin` | All First Specialisations |
+| ![Infinity's Souvenir Icon](images/vinursa/20063.png) | 5 | `Infinity's Souvenir` | All Second Specialisations |
 | ![Dimensional Shackles Icon](images/vinursa/20051.png) | 6 | `Dimensional Shackles` | Ultimate Cooldown Reduction |
 
 <details><summary><em>Item Names and Descriptions</em></summary>
