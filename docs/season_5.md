@@ -7,6 +7,9 @@
 * [Changes](#changes)
 * [Jim](#jim)
 * [Evelyn](#evelyn)
+* [Strix](#strix)
+* [Omin](#omin)
+* [Vi](#vi)
 <br />
 
 # Season 5
@@ -15,9 +18,9 @@ Season 5 is guesstimated to start on 20 September 2023 with the preview week arr
 
 # Theme
 
-![Jim Season Portrait](images/season_5/jim.png)![Evelyn Season Portrait](images/season_5/evelyn.png)![Unknown Season Champion Portrait](images/unknown_season_champion.png)![Unknown Season Champion Portrait](images/unknown_season_champion.png)![Unknown Season Champion Portrait](images/unknown_season_champion.png)
+![Jim Season Portrait](images/season_5/jim.png)![Evelyn Season Portrait](images/season_5/evelyn.png)![Strix Season Portrait](images/season_5/strix.png)![Omin Season Portrait](images/season_5/omin.png)![Vi Season Portrait](images/season_5/vi.png)
 
-We only have data for two seasonal champions so far. They are Jim and Evelyn. The rest are as yet unknown.
+We believe the five seasonal champions this time around are likely to be Jim Evelyn Strix Omin and Vi.
 
 # Changes
 
@@ -26,6 +29,38 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Jim
 
 ![Jim Portrait](images/season_5/jim.png)
+
+**Base Attack: Wand of Wonder**
+> Jim uses his Wand of Wonder, applying a random effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Jim uses his Wand of Wonder, applying a random effect.",
+    "long_description": "",
+    "damage_modifier": 0,
+    "damage_types": ["magic"],
+    "graphic_id": 0,
+    "target": "random_nonboss_nonstatic_normal_hp",
+    "aoe_radius": 0,
+    "tags": ["ranged"],
+    "num_targets": 1,
+    "animations": [{
+        "projectile_count": 1,
+        "hit_sound": 133,
+        "shoot_sound": 149,
+        "type": "ranged_attack",
+        "projectile": "rainbow_missile",
+        "shoot_frame": 3
+    }],
+    "name": "Wand of Wonder",
+    "cooldown": 4.75,
+    "id": 659
+}
+</pre>
+</p>
+</details>
+<br />
 
 **Base Attack: Wand of Wonder**
 > Jim uses his Wand of Wonder, applying a random effect.
@@ -47,12 +82,85 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "hit_sound": 133,
         "shoot_sound": 149,
         "type": "ranged_attack",
-        "projectile": "wand_of_wonder",
+        "projectile": "rainbow_missile",
         "shoot_frame": 3
     }],
     "name": "Wand of Wonder",
-    "cooldown": 1,
-    "id": 659
+    "cooldown": 4.75,
+    "id": 660
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Base Attack: Wand of Wonder**
+> Jim uses his Wand of Wonder, applying a random effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Jim uses his Wand of Wonder, applying a random effect.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 0,
+    "target": "random",
+    "aoe_radius": 0,
+    "tags": ["ranged"],
+    "num_targets": 1,
+    "animations": [{
+        "projectile_details": {
+            "projectile_hit_graphic_id": 5843,
+            "trail": {
+                "scale_lerp": {
+                    "0": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "1": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "0.5": {
+                        "x": 0.75,
+                        "y": 0.75
+                    }
+                },
+                "lifespan": 2,
+                "rotation_jitter": 45,
+                "initial_velocity": {
+                    "x": 0,
+                    "y": 0
+                },
+                "alpha_lerp": [
+                    1,
+                    0
+                ],
+                "particle_graphic_ids": [69],
+                "spawn_rate": 150,
+                "velocity_jitter": {
+                    "x": 20,
+                    "y": 20
+                }
+            },
+            "line_thickness": 200,
+            "projectile_speed": 2200,
+            "hit_monsters_moved_through": true,
+            "hash": "72c47553b139e5be883fcb69832db798",
+            "move_across_entire_screen": true
+        },
+        "hit_sound": 133,
+        "shoot_offset_y": -60,
+        "shoot_offset_x": -80,
+        "shoot_sound": 149,
+        "type": "ranged_attack",
+        "projectile": "wand_of_wonder_coins",
+        "shoot_frame": 1
+    }],
+    "name": "Wand of Wonder",
+    "cooldown": 4.75,
+    "id": 661
 }
 </pre>
 </p>
@@ -155,7 +263,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Increases the damage of Jim and everyone in the columns in front of and behind him by $(not_buffed amount)% for each affected Champion, stacking multiplicatively."},
     "id": 1607,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 6099,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -167,31 +275,53 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Wand of Wonder** (Guess)
-> 
+> Every `$(trigger_every)` attacks, Jim uses his Wand of Wonder. It provides one of five random effects:  
+>   
+> - Turns a random enemy into a Large Warty Toad, stunning it for 5 seconds and then slowing it for 10 seconds after the stun wears off. It maintains its pre-transformation health.  
+> - Turns a random enemy into an Abyssal Chicken, reducing its max health by 5 orders of magnitude to a minimum of 10.  
+> - Turns a random enemy into a Mimic with 5 armored hit points that drops 10x normal gold when killed.  
+> - A random ally is assigned one of their skins at random until you change areas.  
+> - Jim shoots a line of gold coins out across the field, dealing damage to all enemies in a line and dropping one enemy's worth of gold.  
+>   
+> Note: Transformations don't effect bosses or special enemies.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [
         {
-            "off_when_benched": true,
-            "effect_string": "change_base_attack_every,0,659,10"
+            "chicken_monster_id": 2030,
+            "change_to_wow_gold_line_attack": 3,
+            "toad_monster_id": 2029,
+            "change_to_wow_random_attack": 2,
+            "effect_string": "jim_wand_of_wonder",
+            "trigger_every": 10,
+            "mimic_monster_id": 1006,
+            "change_to_wow_transforming_attack": 1
         },
         {
-            "off_when_benched": true,
-            "wand_of_wonder_attack_id": 659,
-            "effect_string": "jim_wand_of_wonder"
+            "effect_string": "change_base_attack,659",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "change_base_attack,660",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "change_base_attack,661",
+            "apply_manually": true
         }
     ],
     "requirements": [],
-    "description": [],
+    "description": {"desc": "Every $(trigger_every) attacks, Jim uses his Wand of Wonder. It provides one of five random effects:^^- Turns a random enemy into a Large Warty Toad, stunning it for 5 seconds and then slowing it for 10 seconds after the stun wears off. It maintains its pre-transformation health.^- Turns a random enemy into an Abyssal Chicken, reducing its max health by 5 orders of magnitude to a minimum of 10.^- Turns a random enemy into a Mimic with 5 armored hit points that drops 10x normal gold when killed.^- A random ally is assigned one of their skins at random until you change areas.^- Jim shoots a line of gold coins out across the field, dealing damage to all enemies in a line and dropping one enemy's worth of gold.^^Note: Transformations don't effect bosses or special enemies."},
     "id": 1608,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 6100,
     "properties": {
+        "retain_on_slot_changed": true,
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "show_outgoing_desc_when_benched": false
     }
 }
 </pre>
@@ -228,11 +358,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "The effect of Fan Club is increased by $(not_buffed amount)% each time an enemy, ally, or ally's equipment is polymorphed or transformed in some way, stacking multiplicatively up to $(max_stacks) times. Stacks reset when changing areas."},
     "id": 1609,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20465,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -262,11 +391,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "The effect of Fan Club is increased by $(amount)% for each Champion with a non-base skin equipped in the formation, stacking additively."},
     "id": 1610,
     "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "formation_circle_icon": false
-    }
+    "graphic_id": 20464,
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -349,7 +475,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Increases the damage of all Champions whose base attacks are magic by $(not_buffed amount)% for each Champion whose base attacks are magic in the formation, stacking multiplicatively."},
     "id": 1612,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 6101,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -762,6 +888,538 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 <br />
+
+# Strix
+
+![Strix Portrait](images/season_5/strix.png)
+
+**Base Attack: Fireball**
+> Strix throws a fireball at a random enemy, dealing a small amount of aoe damage.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Strix throws a fireball at a random enemy, dealing a small amount of aoe damage.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 0,
+    "target": "random",
+    "aoe_radius": 150,
+    "tags": [
+        "ranged",
+        "aoe"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "sound_frames": {"1": 153},
+        "hit_sound": 142,
+        "type": "ranged_attack",
+        "projectile": "green_fireball",
+        "shoot_frame": 10
+    }],
+    "name": "Fireball (Strix S5)",
+    "cooldown": 1,
+    "id": 662
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Ultimate: Polymorph Staff**
+> Strix's staff polymorphs into a pie plate, an owlbear plushy, or a flying broom, and changes her base attack for a brief period of time.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Strix's staff polymorphs into a random object, changing the way she attacks for a brief period.",
+    "long_description": "Strix's staff polymorphs into a pie plate, an owlbear plushy, or a flying broom, and changes her base attack for a brief period of time.",
+    "damage_modifier": 0.03,
+    "damage_types": ["magic"],
+    "graphic_id": 2606,
+    "target": "none",
+    "aoe_radius": 0,
+    "tags": ["ultimate"],
+    "num_targets": 0,
+    "animations": [{
+        "type": "strix_ultimate",
+        "no_damage_display": true
+    }],
+    "name": "Polymorph Staff (Strix S5)",
+    "cooldown": 1,
+    "id": 663
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> Increases the damage of all Champions that are not adjacent to Strix by 100%. Increase damage dealt by Strix by 100% for each Champion affected, stacking additively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": ["non_adj"]
+        },
+        {
+            "effect_string": "hero_dps_mult_per_target_crusader,100,non_adj",
+            "targets": ["self"]
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Increases the damage of all Champions that are not adjacent to $source by 100%. Increase damage dealt by $source by 100% for each Champion affected, stacking additively"},
+    "id": 1628,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> If a Champion within 2 slots of Strix is about to be killed, Strix revives them at `$gain_percent%` of their max health, and takes `$lose_percent%` of her max health in damage (if she can take that much damage without dying, can only fire once every `$wait_time seconds`).
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "hide_observed_description": true,
+            "cooldown_effects": [{"effect_string": "buff_upgrade,400,12285"}],
+            "effect_string": "revive_with_health_transfer,50,50,30",
+            "targets": [{
+                "distance": 2,
+                "self": false,
+                "type": "distance"
+            }]
+        },
+        {
+            "effect_string": "strix_death_ward",
+            "effects_on_revive": [{
+                "for_time": 10,
+                "effect_string": "block_monster_damage"
+            }]
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "If a Champion within 2 slots of Strix is about to be killed, Strix revives them at $gain_percent% of their max health, and takes $lose_percent% of her max health in damage (if she can take that much damage without dying, can only fire once every $wait_time seconds)"},
+    "id": 1629,
+    "flavour_text": "",
+    "graphic_id": 2601,
+    "properties": {"use_outgoing_description": true}
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Haunted** (Guess)
+> Increases the damage of all Champions by `$(not_buffed amount)%` for every Champion death in the formation while Strix is in it, with stacks persisting until you reset.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "global_dps_multiplier_strix_haunted,100"}],
+    "requirements": [],
+    "description": {"desc": "Increases the damage of all Champions by $(not_buffed amount)% for every Champion death in the formation while Strix is in it, with stacks persisting until you reset"},
+    "id": 1630,
+    "flavour_text": "",
+    "graphic_id": 2602,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Poor Hygiene** (Guess)
+> Enemies approaching your formation take `$amount%` more damage due to Strix's unique odour.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "active_graphic_id": 2654,
+            "effect_string": "increase_incoming_monster_damage_within_range,100"
+        },
+        {"effect_string": "increase_incoming_monster_damage_range,50"}
+    ],
+    "requirements": [],
+    "description": {"desc": "Enemies approaching your formation take $amount% more damage due to $source's unique odour"},
+    "id": 1631,
+    "flavour_text": "",
+    "graphic_id": 2603,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "show_incoming": false,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "amount_updated_listeners": ["slot_changed"],
+        "exclude_self": true,
+        "amount_func": "mult",
+        "stack_func": "per_tagged_crusader_mult",
+        "effect_string": "buff_upgrade,400,12288,0",
+        "tag": "acqinc",
+        "targets": "all_slots"
+    }],
+    "requirements": "",
+    "description": {"desc": ""},
+    "id": 1632,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+# Omin
+
+![Omin Portrait](images/season_5/omin.png)
+
+**Ultimate: Spirit Guardian**
+> Omin summons 15 Spirit Guardians which explode every 2 seconds, damaging all monsters in a large area. The duration of Champion of Tymora is doubled as long as a Spirit remains.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Omin summons 15 Spirit Guardians which damage a random area every 2 seconds.",
+    "long_description": "Omin summons 15 Spirit Guardians which explode every 2 seconds, damaging all monsters in a large area. The duration of Champion of Tymora is doubled as long as a Spirit remains.",
+    "damage_modifier": 0.03,
+    "damage_types": ["magic"],
+    "graphic_id": 8390,
+    "target": "none",
+    "aoe_radius": 0,
+    "tags": ["ultimate"],
+    "num_targets": 0,
+    "animations": [{"type": "omin_ultimate_v2"}],
+    "name": "Spirit Guardian",
+    "cooldown": 360,
+    "id": 664
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Light of Tymora** (Guess)
+> Omin recruits all adjacent Champions to be Champions of Tymora. Champions of Tymora have their damage increased by `$(amount)%`. Omin himself is also a Champion of Tymora.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": ["self_and_adj"]
+        },
+        {
+            "underlay_graphic_id": 20479,
+            "off_when_benched": true,
+            "effect_string": "champion_of_tymora_v2",
+            "known_associates_upg_id": 12301,
+            "skip_effect_key_desc": true
+        }
+    ],
+    "requirements": [],
+    "description": {"conditions": [
+        {
+            "condition": "upgrade_purchased 12301",
+            "desc": "Omin recruits adjacent Champions, Champions affiliated with Acquisitions Incorporated and/or The \"C\" Team, and Champions adjacent to an Acquisitions Incorporated or \"C\" Team member to be Champions of Tymora. Champions of Tymora have their damage increased by $(amount)%. Omin himself is also a Champion of Tymora."
+        },
+        {"desc": "Omin recruits all adjacent Champions to be Champions of Tymora. Champions of Tymora have their damage increased by $(amount)%. Omin himself is also a Champion of Tymora."}
+    ]},
+    "id": 1636,
+    "flavour_text": "",
+    "graphic_id": 20466,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> Omin increases the party's gold find by `$(amount)%` each time a Champion of Tymora attacks an enemy, stacking additively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "stacks_multiply": false,
+            "off_when_benched": true,
+            "show_bonus": true,
+            "effect_string": "gold_multiplier_mult,1",
+            "stacks_on_trigger": "champion_affected_by_upg_attacked,12299"
+        },
+        {
+            "off_when_benched": true,
+            "is_instanced_stat": true,
+            "use_stat_defs": true,
+            "effect_string": "stacks_data_binder_safe,0,omin_adventuring_capital_stacks",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_index": 0,
+            "coins_graphic_id": 8365,
+            "effect_string": "omin_adventuring_capital",
+            "upgrade_id": 12300,
+            "trigger_every": 100
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Omin increases the party's gold find by $(amount)% each time a Champion of Tymora attacks an enemy, stacking additively."},
+    "id": 1637,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> Champions who are affiliated with Acquisitions Incorporated and/or The "C" Team also become Champions of Tymora, and recruit Champions adjacent to them as well.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "amount_updated_listeners": ["slot_changed"],
+        "off_when_benched": true,
+        "add_targets": [
+            {
+                "type": "by_tags",
+                "tags": "acqinc|cteam"
+            },
+            {
+                "type": "has_neighbour_with_tag",
+                "tags": "acqinc|cteam"
+            }
+        ],
+        "effect_string": "add_target_to_upgrade,,12299"
+    }],
+    "requirements": [],
+    "description": {"desc": "Champions who are affiliated with Acquisitions Incorporated and/or The \"C\" Team also become Champions of Tymora, and recruit Champions adjacent to them as well."},
+    "id": 1638,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> Champions of Tymora are healed for `$(amount)` health per second.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "formation_arrows_for_effected_only": true,
+        "off_when_benched": true,
+        "retarget_when_any_hero_slot_changed": true,
+        "effect_string": "heal,10",
+        "filter_targets": [{
+            "upgrade_id": 12299,
+            "type": "affected_by_upgrade"
+        }],
+        "targets": ["all"]
+    }],
+    "requirements": [],
+    "description": {"desc": "Champions of Tymora are healed for $(amount) health per second."},
+    "id": 1639,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Well Funded** (Guess)
+> The effect of Champion of Tymora is increased by `$(amount)%` for each order of magnitude of Gold you have collected in the current adventure, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "amount_updated_listeners": ["stat_changed,GoldGained"],
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_gold_gained",
+        "orders_of_magnitude": true,
+        "effect_string": "buff_upgrade,20,12299"
+    }],
+    "requirements": [],
+    "description": {"desc": "The effect of Champion of Tymora is increased by $(amount)% for each order of magnitude of Gold you have collected in the current adventure, stacking multiplicatively."},
+    "id": 1640,
+    "flavour_text": "",
+    "graphic_id": 20467,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> Omin increases the effect of Champion of Tymora by `$(amount)%` for each Champion of Tymora in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stack_title": "Champions of Tymora",
+        "amount_updated_listeners": ["slot_changed"],
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_hero",
+        "effect_string": "buff_upgrade,50,12299",
+        "stack_func_data": {"ekh_filter": {
+            "upgrade_id": 12299,
+            "type": "affected_by_upgrade"
+        }}
+    }],
+    "requirements": [],
+    "description": {"desc": "Omin increases the effect of Champion of Tymora by $(amount)% for each Champion of Tymora in the formation, stacking multiplicatively."},
+    "id": 1641,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> Omin increases the effect of Champion of Tymora by `$(amount)%` for each Acquisitions Incorporated and/or The "C" Team champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stack_title": "Acquisitions Inc. and \"C\" Team Champions",
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_hero",
+        "effect_string": "buff_upgrade,100,12299",
+        "stack_func_data": {"tag": "acqinc|cteam"}
+    }],
+    "requirements": [],
+    "description": {"desc": "Omin increases the effect of Champion of Tymora by $(amount)% for each Acquisitions Incorporated and/or The \"C\" Team champion in the formation, stacking multiplicatively."},
+    "id": 1642,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> Omin increases the effect of Champion of Tymora by `$(amount)%` for each Acquisitions Incorporated and/or The "C" Team champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stack_title": "Acquisitions Inc. and \"C\" Team Champions",
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_hero",
+        "effect_string": "buff_upgrade,100,12299",
+        "stack_func_data": {"tag": "acqinc|cteam"}
+    }],
+    "requirements": [],
+    "description": {"desc": "Omin increases the effect of Champion of Tymora by $(amount)% for each Acquisitions Incorporated and/or The \"C\" Team champion in the formation, stacking multiplicatively."},
+    "id": 1642,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+# Vi
+
+![Vi Portrait](images/season_5/vi.png)
+
+No changes as of yet.
 
 
 [Back to Top](#top)
