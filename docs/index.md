@@ -13,9 +13,9 @@ These are the event champions that are upcoming and all the information we know 
 * Midsummer - 26 July 2023
   * [Vin Ursa](vinursa.md) - Plasmoid Fighter/Rogue
 * Ahghairon's Day - 16 August 2023
-  * [Lae'zel](laezel.md) - Githyanki Fighter
+  * [Lae'zel](laezel.md) - Githyanki Fighter of Absolute Adversaries (Guess)
 * Brightswords - 6 September 2023
-  * [Astarion](astarion.md) - Elf (High) Rogue (Guess)
+  * [Astarion](astarion.md) - Elf (High) Rogue of Absolute Adversaries (Guess)
 
 # Evergreens
 
