@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![PC Portrait](images/astarion/portrait.png)
-{% endcomment %}
 
 # Astarion
 
@@ -56,11 +54,77 @@ Unknown.
 </details>
 <br />
 
-**Unknown**
+**Ceremorphosis**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20421,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Brightswords/Icon_Formation_AstarionCeremorphosis",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Generational Wealth**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20422,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Brightswords/Icon_Formation_AstarionGenerationalWealth",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Ultimate Outflank**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20423,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Brightswords/Icon_Formation_AstarionUltimateOutflank",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Well Fed**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20424,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Brightswords/Icon_Formation_AstarionWellFed",
+    "fs": 0
+}
 </pre>
 </p>
 </details>
@@ -68,7 +132,100 @@ Unknown.
 
 # Specialisations
 
-Unknown.
+**Specialisation: Arcane Trickster**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20425,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Brightswords/Icon_Specialization_AstarionArcaneTrickster",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Assassin**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20426,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Brightswords/Icon_Specialization_AstarionAssassin",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Thief**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20429,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Brightswords/Icon_Specialization_AstarionThief",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Outflank Bottom**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20427,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Brightswords/Icon_Specialization_AstarionOutflankBottom",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Outflank Top**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "p": 0,
+    "v": 2,
+    "id": 20428,
+    "export_params": {"uses": ["icon"]},
+    "type": 1,
+    "graphic": "Icons/Events/2018Brightswords/Icon_Specialization_AstarionOutflankTop",
+    "fs": 0
+}
+</pre>
+</p>
+</details>
+<br />
 
 # Items
 
@@ -82,19 +239,15 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Console Portrait
 
 ![Console Portrait](images/astarion/console.png)
-{% endcomment %}
 
-{% comment %}
 # Chests
 
 | Gold | Silver |
 |---|---|
 | ![Gold Chest](images/astarion/chest_gold.png) | ![Silver Chest](images/astarion/chest_silver.png) |
-{% endcomment %}
 
 [Back to Top](#top)
 
