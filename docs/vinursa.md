@@ -781,7 +781,53 @@ This list will only show feats that are going to be available on the release of 
 
 # Legendaries
 
-Unknown.
+* Increases the damage of all Champions by 100%.
+* Increases the damage of all Nonbinary Champions by 200%.
+* Increases the damage of all Champions by 10% for each Champion in the formation.
+* Increases the damage of all Champions with a CON score of 11 or higher by 100%.
+* Increases the damage of all Champions with a INT score of 13 or higher by 150%.
+* Increases the damage of all Lawful Champions by 150%.
+
+<details><summary><em>DPS Applicable</em></summary>
+<p>
+<pre>
+  Arkhan: 3 / 6
+ Artemis: 5 / 6
+ Asharra: 4 / 6
+   Azaka: 4 / 6
+  Binwin: 4 / 6
+Birdsong: 5 / 6
+  D'hani: 3 / 6
+  Delina: 4 / 6
+ Dhadius: 3 / 6
+  Drizzt: 4 / 6
+     Fen: 4 / 6
+   Grimm: 3 / 6
+  Gromma: 4 / 6
+    Ishi: 3 / 6
+ Jaheira: 3 / 6
+ Jamilah: 3 / 6
+Jarlaxle: 4 / 6
+    Kent: 4 / 6
+   Krond: 4 / 6
+   Makos: 4 / 6
+   NERDS: 4 / 6
+  Nahara: 3 / 6
+   Nixie: 3 / 6
+   Nrakk: 4 / 6
+  Orisha: 3 / 6
+Prudence: 4 / 6
+   Rosie: 3 / 6
+   Strix: 4 / 6
+ Torogar: 4 / 6
+  Warden: 4 / 6
+ Warduke: 3 / 6
+  Yorven: 3 / 6
+   Zorbu: 3 / 6
+</pre>
+</p>
+</details>
+<br />
 
 # Console Portrait
 
