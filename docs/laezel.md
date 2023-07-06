@@ -132,7 +132,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 {
     "description": "Lae'zel leaps into the enemies and attacks, stunning them all for a short duration.",
     "long_description": "Lae'zel psionically leaps into the enemies and attacks with a psionic shockwave, stunning them all for a short duration.",
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "damage_types": ["melee"],
     "graphic_id": 20244,
     "target": "all",
@@ -222,6 +222,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
         {
             "amount_expr": "upgrade_amount(12114,0)",
             "stack_title": "Total Ceremorphosis Stacks",
+            "amount_updated_listeners": ["slot_changed"],
             "stacks_multiply": true,
             "total_title": "Total Bonus",
             "off_when_benched": true,
@@ -370,7 +371,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
             "trigger": "owner_kill"
         }],
         "max_stacks": 1,
-        "stacks_on_trigger": "owner_attack_no_kill",
+        "stacks_on_trigger": "owner_attack_any_survived",
         "total_bonus_amount_prefix": "-"
     }],
     "requirements": "",
