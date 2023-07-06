@@ -63,7 +63,7 @@ Contents:
 
 * Champion: `Vin Ursa`
 * Skin: `Astral Vin Ursa`
-* Feat: ???
+* Feat: `High Ground` (Vin Ursa)
 * Familiar: `Clawbekka the Crab`
 * Chests: `Gold Vin Ursa Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1

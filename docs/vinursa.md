@@ -4,21 +4,29 @@
 
 # Vin Ursa
 
-She's been confirmed on the Server Maintenance Stream by Chris Dupuis to be a CNE Original Female Plasmoid champion. Beyond that - we know nothing.
+Vin Ursa is one of the deadliest bounty hunters in Wildspace. Raised by autognome thieves and trained by a former Xaryxian assassin, Vin has all the skills she needs to get the job done. To keep those skills honed, she spends much of her off time in the Arena of Blood. If there's one thing you should hope for in Wildspace, it's to avoid ending up on the wrong side of her L.A.S.E.R. sight. She's built her renown fighting some of the most terrifying creatures this side of the Abyss and has a long list of Favored Foes to show for it.
 
 # Basic Information
 
 Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 
-* Seat: Unknown
+* Seat: 7
 * Race: Plasmoid
-* Class: Unknown
-* Roles: Unknown
-* Age: Unknown
+* Class: Fighter / Rogue
+* Roles: Support / Gold
+* Age: 27
 * Gender: Female
-* Alignment: Unknown
-* Affiliation: Unknown
-* Stats: Unknown
+* Alignment: Lawful Evil
+
+| Stat | Value | Day 1 Trials | Patrons |
+|---|---|---|---|
+| Strength | 8 | - | Mirt |
+| Dexterity | 20 | Yes | - |
+| Constitution | 12 | Yes | Strahd |
+| Intelligence | 13 | Yes | - |
+| Wisdom | 17 | Yes | |
+| Charisma | 10 | - | |
+| Total | 80 | |
 
 # Formation
 
@@ -26,7 +34,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 
 # Abilities
 
-**Base Attack: L.A.S.E.R.** (Ranged)
+![Ranged Icon](images/icon_ranged.png) **Base Attack: L.A.S.E.R.** (Ranged)
 > Vin Ursa uses her Light Accelerating Spectral Energy Relay to attack a random enemy.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -93,7 +101,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 </details>
 <br />
 
-**Ultimate Attack: Target Acquisition**
+![Target Acquisition Icon](images/vinursa/icon_targetacquisition.png) **Ultimate Attack: Target Acquisition** (Level: 35)
 > Vin Ursa blasts an enemy. She has a +20% chance to score a critical hit and the enemy becomes a favored foe if she crits.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -132,11 +140,75 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 </details>
 <br />
 
-**Bounty Hunter**
-> Vin Ursa picks a random monster type from a monster in the current adventure as her Favored Foe. Her Favored Foes drop `$(amount___2)%` extra gold and all Champions deal `$(amount___3)%` damage to them.
+**Wildspace Lover** (Level: 0)
+> Vin Ursa can be used in any Light of Xaryxis campaign adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 0,
+    "effect": "effect_def,1584",
+    "name": "Wildspace Lover",
+    "id": 12086,
+    "hero_id": 127,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [{"effect_string": "do_nothing"}],
+    "requirements": "",
+    "description": {"desc": "$source can be used in any Light of Xaryxis campaign adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions."},
+    "id": 1584,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+![Bounty Hunter Icon](images/vinursa/icon_bountyhunter.png) **Bounty Hunter** (Level: 5)
+> Vin Ursa picks a random monster type from a monster in the current adventure as her Favored Foe. Her Favored Foes drop 100% extra gold and all Champions deal 100% damage to them.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       40: 100%
+       50: 100%
+
+    Total Upgrade Bonus: 300%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	Dull Epic ilvl    100: 1.84e03%
+	Dull Epic ilvl  1,000: 5.80e03%
+	Dull Epic ilvl 10,000: 4.54e04%
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 5,
+    "effect": "effect_def,1585",
+    "tip_text": "Vin Ursa picks a random monster type as her favored foe. She can add additional Favored Foe types by using her ultimate ability.",
+    "name": "Bounty Hunter",
+    "id": 12087,
+    "hero_id": 127,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -176,11 +248,50 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 </details>
 <br />
 
-**Vicious Vantage**
-> Vin Ursa increases the effect of your Deck specialization by `$(amount)%` for each Favored Foe she has, stacking multiplicatively. Buffs apply to the pre-stack multiplier.
+![Vicious Vantage Icon](images/vinursa/icon_viciousvantage.png) **Vicious Vantage** (Level: 15)
+> Vin Ursa increases the effect of your Deck specialization by 100% for each Favored Foe she has, stacking multiplicatively. Buffs apply to the pre-stack multiplier.
+
+*Note: This ability might be prestack.*
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       60: 100%
+
+    Total Upgrade Bonus: 100%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	Dull Epic ilvl    100:
+		  0 Stacks: 867.8%
+		100 Stacks: 1,835.6%
+
+	Dull Epic ilvl  1,000:
+		  0 Stacks: 2,847.8%
+		100 Stacks: 5,795.6%
+
+	Dull Epic ilvl 10,000:
+		  0 Stacks: 2.26e04%
+		100 Stacks: 4.54e04%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 15,
+    "effect": "effect_def,1586",
+    "name": "Vicious Vantage",
+    "id": 12088,
+    "hero_id": 127,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -219,11 +330,41 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 </details>
 <br />
 
-**Friends in High Places** (Guess)
-> Whenever you use a Bounty Contract with Vin Ursa in the formation, Vin Ursa increases the effect of your Deck specialization by `$(not_buffed amount)%` until the end of the current adventure, stacking multiplicatively. Caps at 100 stacks.
+**Contract Negotiations** (Level: 20)
+> Whenever you use a Bounty Contract with Vin Ursa in the formation, Vin Ursa increases the effect of your Deck specialization by 25% until the end of the current adventure, stacking multiplicatively. Caps at 100 stacks.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       70: 100%
+
+    Total Upgrade Bonus: 100%
+
+Expected numbers:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	At softcap:
+		  0 Stacks: -100%
+		100 Stacks: -100%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 20,
+    "effect": "effect_def,1587",
+    "tip_text": "Vin Ursa increases the effect of her buffs whenever Bounty Contracts are used with her in the formation.",
+    "name": "Contract Negotiations",
+    "id": 12089,
+    "hero_id": 127,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -258,35 +399,45 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 </details>
 <br />
 
-**Unknown**
-> Vin Ursa can be used in any Light of Xaryxis campaign adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions.
+# Specialisations
+
+![Front Deck Icon](images/vinursa/icon_frontdeck.png) **Front Deck** (Level: 10)
+> Vin Ursa increases the damage of all champions in the front two columns by 100%.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       80: 100%
+
+    Total Upgrade Bonus: 100%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	Dull Epic ilvl    100: 8.68e02%
+	Dull Epic ilvl  1,000: 2.85e03%
+	Dull Epic ilvl 10,000: 2.26e04%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
-    "requirements": "",
-    "description": {"desc": "$source can be used in any Light of Xaryxis campaign adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions."},
-    "id": 1584,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "formation_circle_icon": false
-    }
+    "static_dps_mult": null,
+    "specialization_name": "Front Deck",
+    "required_level": 10,
+    "effect": "effect_def,1588",
+    "name": "Front Deck",
+    "specialization_graphic_id": 20017,
+    "id": 12090,
+    "hero_id": 127,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Vin Ursa focuses her efforts on the front-most columns of the formation."
 }
-</pre>
-</p>
-</details>
-<br />
-
-# Specialisations
-
-**Specialisation: Front Deck** (Guess)
-> Vin Ursa increases the damage of all champions in the front two columns by `$(amount)%`.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
 {
     "effect_keys": [{
         "off_when_benched": true,
@@ -305,11 +456,43 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 </details>
 <br />
 
-**Specialisation: Rear Deck** (Guess)
-> Vin Ursa increases the damage of all champions in the rear two columns by `$(amount)%`.
+![Rear Deck Icon](images/vinursa/icon_reardeck.png) **Rear Deck** (Level: 10)
+> Vin Ursa increases the damage of all champions in the rear two columns by 100%.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       80: 100%
+
+    Total Upgrade Bonus: 100%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	Dull Epic ilvl    100: 8.68e02%
+	Dull Epic ilvl  1,000: 2.85e03%
+	Dull Epic ilvl 10,000: 2.26e04%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Rear Deck",
+    "required_level": 10,
+    "effect": "effect_def,1589",
+    "name": "Rear Deck",
+    "specialization_graphic_id": 20018,
+    "id": 12091,
+    "hero_id": 127,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Vin Ursa focuses her efforts on the rear-most columns of the formation."
+}
 {
     "effect_keys": [{
         "off_when_benched": true,
@@ -328,11 +511,43 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 </details>
 <br />
 
-**Specialisation: Friend in High Places** (Guess)
-> Vin Ursa increases the damage of Good Champions by `$(amount)%`.
+![Friends in High Places Icon](images/vinursa/icon_friendsinhighplaces.png) **Friends in High Places** (Level: 30)
+> Vin Ursa increases the damage of Good Champions by 100%.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       90: 100%
+
+    Total Upgrade Bonus: 100%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	Dull Epic ilvl    100: 8.68e02%
+	Dull Epic ilvl  1,000: 2.85e03%
+	Dull Epic ilvl 10,000: 2.26e04%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Friends in High Places",
+    "required_level": 30,
+    "effect": "effect_def,1592",
+    "name": "Friends in High Places",
+    "specialization_graphic_id": 20014,
+    "id": 12094,
+    "hero_id": 127,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Vin Ursa reluctantly hangs out with Champions that have a moral code."
+}
 {
     "effect_keys": [{
         "off_when_benched": true,
@@ -358,11 +573,43 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 </details>
 <br />
 
-**Specialisation: Friend in Low Places** (Guess)
-> Vin Ursa increases the damage of Evil Champions by `$(amount)%`.
+![Friends in Low Places Icon](images/vinursa/icon_friendsinlowplaces.png) **Friends in Low Places** (Level: 30)
+> Vin Ursa increases the damage of Evil Champions by 100%.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       90: 100%
+
+    Total Upgrade Bonus: 100%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	Dull Epic ilvl    100: 8.68e02%
+	Dull Epic ilvl  1,000: 2.85e03%
+	Dull Epic ilvl 10,000: 2.26e04%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Friends in Low Places",
+    "required_level": 30,
+    "effect": "effect_def,1590",
+    "name": "Friends in Low Places",
+    "specialization_graphic_id": 20015,
+    "id": 12092,
+    "hero_id": 127,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Vin Ursa likes to hang with a rather sadistic crowd."
+}
 {
     "effect_keys": [{
         "off_when_benched": true,
@@ -388,11 +635,43 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 </details>
 <br />
 
-**Specialisation: Friend in Meh Places** (Guess)
-> Vin Ursa increases the damage of Neutral (Good/Evil axis) Champions by `$(amount)%`.
+![Friends in Meh Places Icon](images/vinursa/icon_friendsinmehplaces.png) **Friends in Meh Places** (Level: 30)
+> Vin Ursa increases the damage of Neutral (Good/Evil axis) Champions by 100%.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       90: 100%
+
+    Total Upgrade Bonus: 100%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	Dull Epic ilvl    100: 8.68e02%
+	Dull Epic ilvl  1,000: 2.85e03%
+	Dull Epic ilvl 10,000: 2.26e04%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Friends in Meh Places",
+    "required_level": 30,
+    "effect": "effect_def,1591",
+    "name": "Friends in Meh Places",
+    "specialization_graphic_id": 20016,
+    "id": 12093,
+    "hero_id": 127,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Vin Ursa likes to hang with Champions who like to keep their options open."
+}
 {
     "effect_keys": [{
         "off_when_benched": true,
@@ -420,22 +699,129 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 
 # Items
 
-| Icon | Name | Type |
-|:-:|---|---|
-| ![Bounty Hunter Items Icon](images/vinursa/20051.png) | `Bounty Hunter Items` | Unknown |
-| ![Coat Icon](images/vinursa/20054.png) | `Coat` | Unknown |
-| ![Hat Icon](images/vinursa/20057.png) | `Hat` | Unknown |
-| ![Memento Icon](images/vinursa/20060.png) | `Memento` | Unknown |
-| ![Tankard Icon](images/vinursa/20063.png) | `Tankard` | Unknown |
-| ![Wrist Weapon Icon](images/vinursa/20066.png) | `Wrist Weapon` | Unknown |
+| Icon | Slot | Epic Name | Type |
+|:-:|---|---|---|
+| ![Hat of Disguise Icon](images/vinursa/20057.png) | 1 | `Hat of Disguise` | All Champion Damage |
+| ![Cloak of Stars and Darkness Icon](images/vinursa/20054.png) | 2 | `Cloak of Stars and Darkness` | Bounty Hunter |
+| ![Starstrike Array Icon](images/vinursa/20066.png) | 3 | `Starstrike Array` | Vicious Vantage |
+| ![Arena of Blood Coin Icon](images/vinursa/20060.png) | 4 | `Arena of Blood Coin` | All Specialisations |
+| ![Infinity's Souvenir Icon](images/vinursa/20063.png) | 5 | `Infinity's Souvenir` | All Specialisations |
+| ![Dimensional Shackles Icon](images/vinursa/20051.png) | 6 | `Dimensional Shackles` | Ultimate Cooldown Reduction |
+
+<details><summary><em>Item Names and Descriptions</em></summary>
+<p>
+<pre>
+Slot 1:
+          Traveler's Fedora: Someone told me bounty hunters wear hats. This is what I could
+                             afford.
+                  Lucky Cap: There are a few more ray gun marks than I thought on this...
+          Bounty Hunter Hat: Someone ran at the sight of my hat. It was awesome! I have a look
+                             now!
+            Hat of Disguise: For when you need a new face. Or a face at all.
+
+Slot 2:
+              Security Coat: Nicked this off a guard who wasn't looking. It's got armor inside!
+             Well Worn Coat: I genuinely cannot believe how many hits this coat has taken.
+            Plasmoid Jacket: I found a plasmoid tailor to make this for me. They knew how to
+                             keep me flowing.
+Cloak of Stars and Darkness: This lets me seep into the shadows and also watches my back for
+                             me.
+
+Slot 3:
+          Compact Wrist Bow: I can't afford anything better -- so this will have to do.
+          Dead Eye Crossbow: I'm way better with this thing than I should be.
+     L.A.S.E.R. Wrist Array: This thing is so cool! Is it too cool for me? Ah! It's so cool!
+           Starstrike Array: This was specially designed for me by my dad. It was the last
+                             thing he made.
+
+Slot 4:
+                Heist Score: This was our last score before the team was wiped out...
+            Remaining Stash: There's not much of this left. I need more contracts. Fast.
+               Family Gears: Each of these comes from a member of my autognome family.
+        Arena of Blood Coin: Old Vocath looked really annoyed when he had to present this to
+                             me.
+
+Slot 5:
+         Happy Beholder Mug: You'd be surprised how many bounties just walk into a tavern
+                             you're already in.
+            Replacement Mug: I broke the last one over a giff's head. Got this one for free
+                             from Large Luigi.
+           Goblinpunk Stein: Have you been to Eberron? That place is WILD!
+        Infinity's Souvenir: I just found this place, and I never wanted to leave. SO MANY
+                             TAVERNS!
+
+Slot 6:
+              Active Bounty: Until I'm in a guild, these will have to do for contracts.
+        First Bounty Poster: I still hang onto this all these years later.
+    Wildspace Scrying Stone: Wildspace is REALLY big. This helps me find a bounty anywhere.
+       Dimensional Shackles: Some bounties require assurance that they stay on this plane.
+</pre>
+</p>
+</details>
+<br />
 
 # Feats
 
-Unknown.
+This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
+
+| Icon | Feat | Effect | Source |
+|---|---|---|---|
+| <span class="feat2">![Selflessness Icon](images/featicons/globaldps.png)</span> | `Selflessness` | 10% All Champion Damage | Free |
+| <span class="feat3">![Inspiring Leader Icon](images/featicons/globaldps.png)</span> | `Inspiring Leader` | 25% All Champion Damage | Gold Chest |
+| <span class="feat2">![Frugal Icon](images/featicons/goldfind.png)</span> | `Frugal` | 10% Gold | Free |
+| <span class="feat3">![Lucky Icon](images/featicons/goldfind.png)</span> | `Lucky` | 25% Gold | 12,500 Gems |
+| <span class="feat2">![Tactical Prowess Icon](images/featicons/critchanceincrease.png)</span> | `Tactical Prowess` | +10% Crit Chance | Free |
+| <span class="feat3">![Battle Expertise Icon](images/featicons/critchanceincrease.png)</span> | `Battle Expertise` | +20% Crit Chance | Gold Chest |
+| <span class="feat2">![Have I Fought You Before? Icon](images/featicons/upgradefa.png)</span> | `Have I Fought You Before?` | 20% Bounty Hunter | Free |
+| <span class="feat3">![Old Faces, New Battles Icon](images/featicons/upgradefa.png)</span> | `Old Faces, New Battles` | 40% Bounty Hunter | 12,500 Gems |
+| <span class="feat3">![Muscle Memory Icon](images/featicons/goldfind.png)</span> | `Muscle Memory` | 40% Bounty Hunter | Gold Chest |
+| <span class="feat3">![Timing is Everything Icon](images/featicons/upgradefa.png)</span> | `Timing is Everything` | 40% Vicious Vantage | 12,500 Gems |
+| <span class="feat4">![High Ground Icon](images/featicons/upgradefa.png)</span> | `High Ground` | 80% Vicious Vantage | 50,000 Gems |
+| <span class="feat3">![Aggressive Negotiations Icon](images/featicons/upgradefa.png)</span> | `Aggressive Negotiations` | 40% Contract Negotiations | Gold Chest |
 
 # Legendaries
 
-Unknown.
+
+<details><summary><em>DPS Applicable</em></summary>
+<p>
+<pre>
+  Arkhan: 0 / 6
+ Artemis: 0 / 6
+ Asharra: 0 / 6
+   Azaka: 0 / 6
+  Binwin: 0 / 6
+Birdsong: 0 / 6
+  D'hani: 0 / 6
+  Delina: 0 / 6
+ Dhadius: 0 / 6
+  Drizzt: 0 / 6
+     Fen: 0 / 6
+   Grimm: 0 / 6
+  Gromma: 0 / 6
+    Ishi: 0 / 6
+ Jaheira: 0 / 6
+ Jamilah: 0 / 6
+Jarlaxle: 0 / 6
+    Kent: 0 / 6
+   Krond: 0 / 6
+   Makos: 0 / 6
+   NERDS: 0 / 6
+  Nahara: 0 / 6
+   Nixie: 0 / 6
+   Nrakk: 0 / 6
+  Orisha: 0 / 6
+Prudence: 0 / 6
+   Rosie: 0 / 6
+   Strix: 0 / 6
+ Torogar: 0 / 6
+  Warden: 0 / 6
+ Warduke: 0 / 6
+  Yorven: 0 / 6
+   Zorbu: 0 / 6
+</pre>
+</p>
+</details>
+<br />
 
 # Console Portrait
 
