@@ -781,6 +781,7 @@ This list will only show feats that are going to be available on the release of 
 
 # Legendaries
 
+Unknown.
 
 # Console Portrait
 
