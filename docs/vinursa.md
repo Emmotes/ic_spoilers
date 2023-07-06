@@ -782,47 +782,6 @@ This list will only show feats that are going to be available on the release of 
 # Legendaries
 
 
-<details><summary><em>DPS Applicable</em></summary>
-<p>
-<pre>
-  Arkhan: 0 / 6
- Artemis: 0 / 6
- Asharra: 0 / 6
-   Azaka: 0 / 6
-  Binwin: 0 / 6
-Birdsong: 0 / 6
-  D'hani: 0 / 6
-  Delina: 0 / 6
- Dhadius: 0 / 6
-  Drizzt: 0 / 6
-     Fen: 0 / 6
-   Grimm: 0 / 6
-  Gromma: 0 / 6
-    Ishi: 0 / 6
- Jaheira: 0 / 6
- Jamilah: 0 / 6
-Jarlaxle: 0 / 6
-    Kent: 0 / 6
-   Krond: 0 / 6
-   Makos: 0 / 6
-   NERDS: 0 / 6
-  Nahara: 0 / 6
-   Nixie: 0 / 6
-   Nrakk: 0 / 6
-  Orisha: 0 / 6
-Prudence: 0 / 6
-   Rosie: 0 / 6
-   Strix: 0 / 6
- Torogar: 0 / 6
-  Warden: 0 / 6
- Warduke: 0 / 6
-  Yorven: 0 / 6
-   Zorbu: 0 / 6
-</pre>
-</p>
-</details>
-<br />
-
 # Console Portrait
 
 ![Console Portrait](images/vinursa/console.png)
