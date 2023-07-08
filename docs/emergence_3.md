@@ -28,7 +28,7 @@ We know the next Emergence event will be Mind Flayers and that it will start on 
 
 # Emergence FAQ
 
-A temporary FAQ was recently add to reflect this emergence event. This is it.
+A temporary FAQ was recently added to reflect this emergence event. This is it.
 
 ### What is an Emergence Event?
 
