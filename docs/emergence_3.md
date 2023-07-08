@@ -44,7 +44,7 @@ During Emergence Events, Corrupted Gems can be collected from the designated mon
 
 ### How many Corrupted Gems can I collect through the Emergence Event?### 
 
-The number of Corrupted Gems available in each Emergence Event varies. For the current Emergence Event, you can collect 63,000 Corrupted Gems: 31,500 Corrupted Gems by defeating Mind Flayers during the event, and an additional 31,500 by completing all 9 of the daily quests during the Emergence Event. 
+The number of Corrupted Gems available in each Emergence Event varies. For the current Emergence Event, you can collect 63,000 Corrupted Gems: 31,500 Corrupted Gems by defeating Modrons during the event, and an additional 31,500 by completing all 9 of the daily quests during the Emergence Event. 
 
 The drop rate of Corrupted Gems is controlled at a rate of 1 Corrupted Gem every 30-40 seconds from the start to approximately 3 hours before the end of the event. A catch-up mechanic is built into the event, so if you have a bunch of Corrupted Gems you haven't collected yet, the designated enemies will drop more than 1 for each you destroy until you reach your threshold. Here are two scenarios as an example: 1. You've collected all the available Corrupted Gems from drops. You will see about one drop every 30-40 seconds or so, assuming you are regularly destroying the designated enemies. 2. You've collected 500 Corrupted Gems from drops, but a total of 3000 have been available since the event started. You will receive accelerated drops (more frequent drops and multiple drops per kill) until you have caught up to the maximum available number of drops.
 
