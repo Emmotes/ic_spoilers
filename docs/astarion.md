@@ -229,7 +229,14 @@ Unknown.
 
 # Items
 
-Unknown.
+| Icon | Name | Type |
+|:-:|---|---|
+| ![Baldurs Gate Things Icon](images/astarion/20438.png) | `Baldurs Gate Things` | Unknown |
+| ![Magic Items Icon](images/astarion/20441.png) | `Magic Items` | Unknown |
+| ![Melee Weapons Icon](images/astarion/20444.png) | `Melee Weapons` | Unknown |
+| ![Mind Flayer Research Icon](images/astarion/20447.png) | `Mind Flayer Research` | Unknown |
+| ![Ranged Weapons Icon](images/astarion/20450.png) | `Ranged Weapons` | Unknown |
+| ![Vampire Links Icon](images/astarion/20453.png) | `Vampire Links` | Unknown |
 
 # Feats
 
