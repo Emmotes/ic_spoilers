@@ -6,16 +6,16 @@
 
 # Emergence 3
 
-We know the next Emergence event will be Mind Flayers and that it will start on 30 August 2023.
+We know the next Emergence event will be Mind Flayers and that it will start on 30 August 2023. This is clearly timed to happen around the release of Baldur's Gate 3. It also happens to start the day season 4 ends.
 
 ### Shop Contents
 
 * Pigment: Support
 * Golden Epic: Blooshi (Slot 2 - Soul Gatherer)
 * Golden Epic: Lae'zel (Slot 3 - Unknown)
-* Skin 1: Mind Flayer Jamilah
-* Skin 2: Mind Flayer Nrakk
-* Feat 1: Very Important Person (Valentine 80% Socialite)
+* Skin: Mind Flayer Jamilah
+* Skin: Mind Flayer Nrakk
+* Feat: Very Important Person (Valentine 80% Socialite)
 * Chest: Mind Flayer Emergence Chest
 
 {% comment %}
