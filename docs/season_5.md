@@ -1106,6 +1106,55 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
+**Specialisation: Unknown** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "do_nothing"}],
+    "requirements": "",
+    "description": {"desc": ""},
+    "id": 1633,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Scent of Brimstone** (Guess)
+> Buff Aura of Unclean by `$(not_buffed amount)%` for each Tiefling in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stacks_multiply": true,
+        "exclude_self": false,
+        "show_bonus": true,
+        "effect_string": "buff_upgrade_by_tag_mult,200,tiefling,12285"
+    }],
+    "requirements": "",
+    "description": {"desc": "Buff Aura of Unclean by $(not_buffed amount)% for each Tiefling in the formation"},
+    "id": 1634,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
 # Omin
 
 ![Omin Portrait](images/season_5/omin.png)
