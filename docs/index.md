@@ -30,8 +30,8 @@ Not events events - but events. You know?
 
 * [Emergence 3](emergence_3.md) - 30 August 2023
 * [Season 5](season_5.md) - 20 September 2023 (Guess)
+* [Emergence 4](emergence_4.md) - 15 November 2023
 * Season 6 - 20 December 2023 (Guess)
-* Emergence 4 - ???
 
 # Misc
 
