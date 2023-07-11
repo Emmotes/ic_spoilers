@@ -56,8 +56,8 @@ These are the feats that have been filtered out of the list above due to having 
 | <span class="feat4">![A Vow Unbroken Icon](images/featicons/attributeboostx2.png)</span> | A Vow Unbroken | Uriah | Stat: +2 Constitution | ??? | 01 Jan 2032 |
 | <span class="feat4">![Faithful Reward Icon](images/featicons/upgradefa.png)</span> | Faithful Reward | Uriah | Ezra's Embrace Heals Within 3 Slots | ??? | 01 Jan 2032 |
 | <span class="feat4">![Very Important Person Icon](images/featicons/upgradefa.png)</span> | Very Important Person | Valentine | 80% Socialite | ??? | 01 Jan 2032 |
-| <span class="feat3">![It's Just Business Icon](images/featicons/upgradefa.png)</span> | It's Just Business | Vin Ursa | 40% All Specialisations | ??? | 01 Jan 2032 |
-| <span class="feat3">![This is the Way Icon](images/featicons/upgradefa.png)</span> | This is the Way | Vin Ursa | 40% All Specialisations | ??? | 01 Jan 2032 |
+| <span class="feat3">![It's Just Business Icon](images/featicons/upgradefa.png)</span> | It's Just Business | Vin Ursa | 40% Second Specialisations | ??? | 01 Jan 2032 |
+| <span class="feat3">![This is the Way Icon](images/featicons/upgradefa.png)</span> | This is the Way | Vin Ursa | 40% First Specialisations | ??? | 01 Jan 2032 |
 | <span class="feat3">![Battle Expertise Icon](images/featicons/critchanceincrease.png)</span> | Battle Expertise | Wulfgar | +10% Crit Chance | Gold Chest | 01 Jan 2032 |
 | <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Wulfgar | +20% Crit Chance | ??? | 01 Jan 2032 |
 | <span class="feat3">![Inspiring Leader Icon](images/featicons/globaldps.png)</span> | Inspiring Leader | Asharra | 25% All Champion Damage | 12,500 Gems | 01 Jan 2032 |
