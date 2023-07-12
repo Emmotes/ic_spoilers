@@ -4,15 +4,6 @@
 
 Guesstimations of upcoming content drops - so don't take these as fact.
 
-## Xaryxis 4 - 12 July 2023
-
-| Icon | Campaign | Adventure Name | Type |
-|---|---|---|---|
-| ![Xaryxis: Rock and Roll (Adventure)](images/contentdrop_portraits/xaryxis_rockandroll_0.png) | Xaryxis | Rock and Roll | Adventure |
-| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Rock and Roll (Variant 1)](images/contentdrop_portraits/xaryxis_rockandroll_1.png) | Xaryxis | Rock and Roll | Variant #1 |
-| ![Xaryxis: Rocky Reception (Adventure)](images/contentdrop_portraits/xaryxis_rockyreception_0.png) | Xaryxis | Rocky Reception | Adventure |
-| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Rocky Reception (Variant 1)](images/contentdrop_portraits/xaryxis_rockyreception_1.png) | Xaryxis | Rocky Reception | Variant #1 |
-
 ## Xaryxis 5 - 19 July 2023
 
 This content drop will likely be joined by new blessings.

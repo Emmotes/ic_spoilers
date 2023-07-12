@@ -4,18 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Little Luigi the Parrot Familiar Pack - $4.99  
-Date of release: 12 Jul 2023
-
-Contents:
-
-* Familiar: `Little Luigi the Parrot`
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-
-<br />
-
 ### Frost Reaver Wulfgar Theme Pack - $24.99  
 Date of release: 19 Jul 2023
 
