@@ -19,7 +19,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Cosmic Nightmare Voronika | Cosmic Nightmare Voronika Skin & Feat Pack | $9.99 | 16 Aug 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Jamilah | Emergence 3 (Guess) | ??? | 23 Aug 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Nrakk | Emergence 3 (Guess) | ??? | 23 Aug 2023 |
-| ![Spelljammer Asharra Portrait](images/skin_portraits/spelljammerasharra.png) | Spelljammer Asharra | Founder's Pack VI | $19.99 | 30 Aug 2023 |
+| ![Spelljammer Pilot Asharra Portrait](images/skin_portraits/spelljammerpilotasharra.png) | Spelljammer Pilot Asharra | Founder's Pack VI | $19.99 | 30 Aug 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Astarion | ??? | ??? | 06 Sep 2023 |
 
 [Back to Top](#top)

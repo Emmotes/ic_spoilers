@@ -175,8 +175,8 @@ Date of release: 30 Aug 2023
 
 Contents:
 
-* Skin: `Spelljammer Asharra`
-* Familiar: `TBD FP VI Familiar (Do Not Translate)`
+* Skin: `Spelljammer Pilot Asharra`
+* Familiar: `Quadrone`
 * Chests: `Gold Chest (Guess)` x42 (Shinies x5)
 * Buff: `Epic Golden Potion` x1
 * Buff: `Potion of the Gem Hunter` x1
