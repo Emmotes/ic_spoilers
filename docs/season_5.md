@@ -1121,7 +1121,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**Aura of Unclean** (Guess)
 > Increases the damage of all Champions that are not adjacent to Strix by `$(amount)%`. Increase damage dealt by Strix by `$amount%` for each Champion affected, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1152,7 +1152,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**Death Ward** (Guess)
 > If a Champion within 2 slots of Strix is about to be killed, Strix revives them at `$gain_percent%` of their max health, and takes `$lose_percent%` of her max health in damage (if she can take that much damage without dying, can only fire once every `$wait_time seconds`).
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1242,7 +1242,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**Power of Friendship** (Guess)
 > The radius of Poor Hygiene is increased by `$(amount___3)%` (stacking additively and then applying multiplicatively) and the damage bonus is increased by `$(amount)%` (stacking multiplicatively) for each other Acquisitions Incorporated, "C" - Team, or Wafflecrew Champion in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1288,7 +1288,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Specialisation: Unknown** (Guess)
+**Specialisation: Olfactory Fatigue** (Guess)
 > The base damage bonus effect of The Power of Friendship (and Nose Plugs) is increased by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1327,6 +1327,28 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1634,
     "flavour_text": "",
     "graphic_id": 20477,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Smelly Lunch** (Guess)
+> The effect of Poor Hygiene is increased by `$(amount)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "buff_upgrade,400,12288,0"}],
+    "requirements": "",
+    "description": {"desc": "The effect of Poor Hygiene is increased by $(amount)%."},
+    "id": 1635,
+    "flavour_text": "",
+    "graphic_id": 7598,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -1727,7 +1749,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**A Good Example** (Guess)
 > Neutral (Good/Evil axis) Champions' damage is increased by `$(not_buffed amount)%` for each Good, Acquisitions Incorporated, or "C" Team Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1774,7 +1796,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**Catch and Release** (Guess)
 > Instead of a base attack with her pistol, there is a `$(amount)%` chance Vi takes out her comically oversized blunderbuss and fires it at a random normal enemy. This instantaneously transforms the enemy into a small glowing crystal sphere that has 1% of a normal enemy's health and is worth an additional `$(amount___2)%` gold when defeated. When changing areas, any remaining spheres are automatically killed and the gold from them is collected.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1809,7 +1831,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**I'm Too Old For This** (Guess)
 > If there are `$(max_monsters)` or fewer enemies on screen, Vi waits impatiently instead of attacking with her base attack, and there is a `$(amount)%` chance that the second monster in each wave will spawn alongside the first one.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1847,7 +1869,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**No Sassisfaction** (Guess)
 > Vi gains `$(stacks_per_second)` Sass stack for each second she spends impatiently waiting. A Good Example is increased by `$(amount)%` for each Sass stack, stacking multiplicatively. Sass stacks are capped at `$(max_stack_mult___2)` times the highest area unlocked in the current adventure.
 <details><summary><em>Raw Data</em></summary>
 <p>
