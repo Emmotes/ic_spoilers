@@ -290,20 +290,41 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [
         {
-            "chicken_monster_id": 2030,
-            "change_to_wow_gold_line_attack": 3,
-            "toad_monster_id": 2029,
-            "change_to_wow_random_attack": 2,
+            "toad_ek_idx": 1,
+            "chicken_ek_idx": 2,
             "effect_string": "jim_wand_of_wonder",
             "trigger_every": 10,
-            "mimic_monster_id": 1006,
-            "change_to_wow_transforming_attack": 1
+            "gold_ek_idx": 5,
+            "mimic_ek_idx": 3,
+            "skin_ek_idx": 4
         },
         {
+            "monster_id": 2029,
+            "stun_time": 5,
+            "effect_string": "change_base_attack,659",
+            "slow_time": 10,
+            "slow_effect_data": {
+                "for_time": 10,
+                "active_graphic_y": -50,
+                "active_graphic_id": 6548,
+                "effect_string": "monster_speed_reduce,50"
+            },
+            "apply_manually": true
+        },
+        {
+            "monster_id": 2030,
+            "min_health": 10,
+            "effect_string": "change_base_attack,659",
+            "reduce_health_orders_of_mag": 5,
+            "apply_manually": true
+        },
+        {
+            "monster_id": 1006,
             "effect_string": "change_base_attack,659",
             "apply_manually": true
         },
         {
+            "effect_graphic_id": 6092,
             "effect_string": "change_base_attack,660",
             "apply_manually": true
         },
@@ -319,6 +340,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 6100,
     "properties": {
         "retain_on_slot_changed": true,
+        "indexed_effect_properties": true,
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "show_outgoing_desc_when_benched": false
@@ -478,6 +500,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 6101,
     "properties": {
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_targets",
         "owner_use_outgoing_description": true
     }
 }
@@ -918,8 +941,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "projectile": "green_fireball",
         "shoot_frame": 10
     }],
-    "name": "Fireball (Strix S5)",
-    "cooldown": 1,
+    "name": "Fireball",
+    "cooldown": 5,
     "id": 662
 }
 </pre>
@@ -943,11 +966,30 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "tags": ["ultimate"],
     "num_targets": 0,
     "animations": [{
+        "options": [
+            {
+                "duration": 30,
+                "character_graphic": 2612,
+                "effect_id": 1651
+            },
+            {
+                "spawn_waffles": true,
+                "num_attacks": 5,
+                "character_graphic": 2611,
+                "attack_effect": "increase_damage_monster_target_by_bud_mult,100",
+                "effect_id": 1652
+            },
+            {
+                "duration": 30,
+                "character_graphic": 2610,
+                "effect_id": 1653
+            }
+        ],
         "type": "strix_ultimate",
         "no_damage_display": true
     }],
-    "name": "Polymorph Staff (Strix S5)",
-    "cooldown": 1,
+    "name": "Polymorph Staff",
+    "cooldown": 270,
     "id": 663
 }
 </pre>
@@ -955,8 +997,132 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
+**Base Attack: Pie Plate Punch**
+> Strix attacks with her Flame Blade pie plate dealing 5x the damage of her regular attacking, and hitting a nearby enemy with that same damage as well.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Strix attacks with her Flame Blade pie plate, hitting a nearby enemy as well",
+    "long_description": "Strix attacks with her Flame Blade pie plate dealing 5x the damage of her regular attacking, and hitting a nearby enemy with that same damage as well",
+    "damage_modifier": 1,
+    "damage_types": [
+        "melee",
+        "magic"
+    ],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 2,
+        "jump_sound": 30,
+        "sound_frames": {"2": 154},
+        "target_offset_x": -34,
+        "effect_on_monsters": {
+            "damage_mult": 20,
+            "after_damage": true,
+            "effect_string": "damage_monster_target_by_bud",
+            "hit_monsters": true
+        },
+        "type": "melee_attack"
+    }],
+    "name": "Pie Plate Punch",
+    "cooldown": 6.5,
+    "id": 666
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Base Attack: Waffles Whack**
+> Strix's Owlbear companion, Waffles, attacks in her stead. Waffles starts doing 3x Strix's damage, and does 2x the damage each attack for 5 attacks.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Waffles attacks in Strix's stead, become more enraged with each attack",
+    "long_description": "Strix's Owlbear companion, Waffles, attacks in her stead. Waffles starts doing 3x Strix's damage, and does 2x the damage each attack for 5 attacks.",
+    "damage_modifier": 1,
+    "damage_types": [
+        "melee",
+        "magic"
+    ],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 2,
+        "jump_sound": 218,
+        "hit_frames": [2],
+        "sound_frames": {"2": 148},
+        "character": "companion",
+        "shake_on_hit": 0.1,
+        "target_offset_x": -100,
+        "effect_on_monsters": {
+            "damage_mult": 5,
+            "after_damage": true,
+            "effect_string": "damage_monster_target_by_bud",
+            "hit_monsters": true
+        },
+        "type": "melee_attack",
+        "both_characters_animate": true
+    }],
+    "name": "Waffles Whack",
+    "cooldown": 6,
+    "id": 667
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Base Attack: Flying Fireball**
+> Strix throws a fireball at a random enemy, dealing a small amount of aoe damage.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Strix throws a fireball at a random enemy, dealing a small amount of aoe damage.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 0,
+    "target": "random",
+    "aoe_radius": 150,
+    "tags": [
+        "ranged",
+        "aoe"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "sound_frames": {"1": 153},
+        "hit_sound": 142,
+        "effect_on_monsters": {
+            "damage_mult": 10,
+            "after_damage": true,
+            "effect_string": "damage_monster_target_by_bud",
+            "hit_monsters": true
+        },
+        "type": "ranged_attack",
+        "projectile": "green_fireball",
+        "shoot_frame": 10
+    }],
+    "name": "Flying Fireball",
+    "cooldown": 6.5,
+    "id": 668
+}
+</pre>
+</p>
+</details>
+<br />
+
 **Unknown** (Guess)
-> Increases the damage of all Champions that are not adjacent to Strix by 100%. Increase damage dealt by Strix by 100% for each Champion affected, stacking additively.
+> Increases the damage of all Champions that are not adjacent to Strix by `$(amount)%`. Increase damage dealt by Strix by `$amount%` for each Champion affected, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -972,10 +1138,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "description": {"desc": "Increases the damage of all Champions that are not adjacent to $source by 100%. Increase damage dealt by $source by 100% for each Champion affected, stacking additively"},
+    "description": {"desc": "Increases the damage of all Champions that are not adjacent to $source by $(amount)%. Increase damage dealt by $source by $amount% for each Champion affected, stacking additively"},
     "id": 1628,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20468,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -1077,28 +1243,44 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Unknown** (Guess)
-> 
+> The radius of Poor Hygiene is increased by `$(amount___3)%` (stacking additively and then applying multiplicatively) and the damage bonus is increased by `$(amount)%` (stacking multiplicatively) for each other Acquisitions Incorporated, "C" - Team, or Wafflecrew Champion in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "amount_updated_listeners": ["slot_changed"],
-        "exclude_self": true,
-        "amount_func": "mult",
-        "stack_func": "per_tagged_crusader_mult",
-        "effect_string": "buff_upgrade,400,12288,0",
-        "tag": "acqinc",
-        "targets": "all_slots"
-    }],
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,400"},
+        {
+            "amount_expr": "upgrade_amount(12289,0)",
+            "amount_updated_listeners": ["slot_changed"],
+            "exclude_self": true,
+            "amount_func": "mult",
+            "stack_func": "per_tagged_crusader_mult",
+            "effect_string": "buff_upgrade,0,12288,0",
+            "tag": "wafflecrew|cteam|acqinc",
+            "targets": "all_slots"
+        },
+        {
+            "amount_updated_listeners": ["slot_changed"],
+            "exclude_self": true,
+            "amount_func": "add",
+            "stack_func": "per_tagged_crusader_mult",
+            "effect_string": "buff_upgrade,20,12288,1",
+            "tag": "wafflecrew|cteam|acqinc",
+            "targets": "all_slots"
+        }
+    ],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "The radius of Poor Hygiene is increased by $(amount___3)% (stacking additively and then applying multiplicatively) and the damage bonus is increased by $(amount)% (stacking multiplicatively) for each other Acquisitions Incorporated, \"C\" - Team, or Wafflecrew Champion in the formation."},
     "id": 1632,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20469,
     "properties": {
+        "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "show_incoming": false,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -1107,17 +1289,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Unknown** (Guess)
-> 
+> The base damage bonus effect of The Power of Friendship (and Nose Plugs) is increased by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
+    "effect_keys": [{"effect_string": "buff_upgrade_add_flat_amount,100,12289,0"}],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "The base damage bonus effect of The Power of Friendship (and Nose Plugs) is increased by $(amount)%."},
     "id": 1633,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20476,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -1144,7 +1326,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Buff Aura of Unclean by $(not_buffed amount)% for each Tiefling in the formation"},
     "id": 1634,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20477,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -1394,6 +1576,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Champions of Tymora in Formation: $num_stacks",
         "formation_circle_icon": false
     }
 }
@@ -1425,6 +1608,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Acq. Inc. and \"C\" Team Champions in Formation: $num_stacks",
         "formation_circle_icon": false
     }
 }
@@ -1456,6 +1640,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Acq. Inc. and \"C\" Team Champions in Formation: $num_stacks",
         "formation_circle_icon": false
     }
 }
@@ -1468,7 +1653,332 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 ![Vi Portrait](images/season_5/vi.png)
 
-No changes as of yet.
+**Base Attack: Blunderbuss**
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["ranged"],
+    "graphic_id": 0,
+    "target": "random",
+    "aoe_radius": 0,
+    "tags": ["ranged"],
+    "num_targets": 1,
+    "animations": [{
+        "sound_frames": {"4": 84},
+        "projectile_details": {"speed": 1700},
+        "hit_sound": 69,
+        "shoot_offset_y": -10,
+        "shoot_offset_x": 50,
+        "animation_sequence_name": "attack_b",
+        "effects_on_monsters": [{
+            "effect_string": "transform_monster,2044",
+            "fire_thing_transformed": true
+        }],
+        "type": "ranged_attack",
+        "jump_from_target": true,
+        "projectile": "firebolt",
+        "shoot_frame": 8
+    }],
+    "name": "Blunderbuss",
+    "cooldown": 1,
+    "id": 665
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Ultimate: Arcane Cannon**
+> The first time the ultimate button is hit, a metal Cockatrice appears next to her and starts dealing ultimate damage to the closest enemy every second for 30 seconds. The second time the ultimate button is hit, the Cockatrice flies to the middle of a swarm of enemies and explodes, dealing 1000% ultimate damage to all enemies in an area attack.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Vi's Cockatrice starts attacking the nearest enemy. Trigger again to dive bomb the enemies.",
+    "long_description": "The first time the ultimate button is hit, a metal Cockatrice appears next to her and starts dealing ultimate damage to the closest enemy every second for 30 seconds. The second time the ultimate button is hit, the Cockatrice flies to the middle of a swarm of enemies and explodes, dealing 1000% ultimate damage to all enemies in an area attack.",
+    "damage_modifier": 1,
+    "damage_types": ["ranged"],
+    "graphic_id": 12907,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "timer": 30,
+        "character": "companion",
+        "explosion_dmg_mult": 1000,
+        "ultimate": "vi",
+        "type": "ultimate_attack"
+    }],
+    "name": "Arcane Cannon",
+    "cooldown": 340,
+    "id": 669
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> Neutral (Good/Evil axis) Champions' damage is increased by `$(not_buffed amount)%` for each Good, Acquisitions Incorporated, or "C" Team Champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "amount_updated_listeners": ["slot_changed"],
+        "formation_arrows_for_effected_only": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_hero",
+        "retarget_when_any_hero_slot_changed": true,
+        "effect_string": "hero_dps_multiplier_mult,400",
+        "filter_targets": [{
+            "type": "by_tags",
+            "tags": "geneutral"
+        }],
+        "stack_func_data": {"tag": "good|acqinc|cteam"},
+        "targets": ["all"]
+    }],
+    "requirements": [],
+    "description": {"conditions": [
+        {
+            "condition": "upgrade_purchased 12316",
+            "desc": "Evil and Neutral (Good/Evil axis) Champions' damage is increased by $(not_buffed amount)% for each Good, Acquisitions Incorporated, or \"C\" Team Champion in the formation, stacking multiplicatively."
+        },
+        {
+            "condition": "upgrade_purchased 12317",
+            "desc": "Good and Neutral (Good/Evil axis) Champions' damage is increased by $(not_buffed amount)% for each Good, Acquisitions Incorporated, or \"C\" Team Champion in the formation, stacking multiplicatively."
+        },
+        {"desc": "Neutral (Good/Evil axis) Champions' damage is increased by $(not_buffed amount)% for each Good, Acquisitions Incorporated, or \"C\" Team Champion in the formation, stacking multiplicatively."}
+    ]},
+    "id": 1644,
+    "flavour_text": "",
+    "graphic_id": 12899,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> Instead of a base attack with her pistol, there is a `$(amount)%` chance Vi takes out her comically oversized blunderbuss and fires it at a random normal enemy. This instantaneously transforms the enemy into a small glowing crystal sphere that has 1% of a normal enemy's health and is worth an additional `$(amount___2)%` gold when defeated. When changing areas, any remaining spheres are automatically killed and the gold from them is collected.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "filter_attack_targets_by_tags": "!vi_creation^!boss^!armor_based^!hits_based^!static",
+            "effect_string": "chance_to_change_base_attack,10,665,488",
+            "show_outgoing_desc_when_benched": false
+        },
+        {
+            "effect_string": "increase_monster_with_tags_gold,1000,vi_creation",
+            "show_outgoing_desc_when_benched": false
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Instead of a base attack with her pistol, there is a $(amount)% chance Vi takes out her comically oversized blunderbuss and fires it at a random normal enemy. This instantaneously transforms the enemy into a small glowing crystal sphere that has 1% of a normal enemy's health and is worth an additional $(amount___2)% gold when defeated. When changing areas, any remaining spheres are automatically killed and the gold from them is collected."},
+    "id": 1645,
+    "flavour_text": "",
+    "graphic_id": 12900,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 1,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> If there are `$(max_monsters)` or fewer enemies on screen, Vi waits impatiently instead of attacking with her base attack, and there is a `$(amount)%` chance that the second monster in each wave will spawn alongside the first one.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "max_monsters": 5,
+            "effect_string": "vi_im_too_old_for_this_v2,25",
+            "sassisfaction_upg_id": 12315
+        },
+        {
+            "effect_string": "change_base_attack,491",
+            "apply_manually": true
+        },
+        {
+            "amount_expr": "upgrade_amount(12314,0)",
+            "effect_string": "simultaneous_monster_spawn_chance_mult,0",
+            "apply_manually": true
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "If there are $(max_monsters) or fewer enemies on screen, Vi waits impatiently instead of attacking with her base attack, and there is a $(amount)% chance that the second monster in each wave will spawn alongside the first one."},
+    "id": 1646,
+    "flavour_text": "",
+    "graphic_id": 12901,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> Vi gains `$(stacks_per_second)` Sass stack for each second she spends impatiently waiting. A Good Example is increased by `$(amount)%` for each Sass stack, stacking multiplicatively. Sass stacks are capped at `$(max_stack_mult___2)` times the highest area unlocked in the current adventure.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "stack_title": "Sass stacks",
+            "manual_stacking": true,
+            "off_when_benched": true,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "effect_string": "buff_upgrade,0.5,12312",
+            "stacks_per_second": 1
+        },
+        {
+            "off_when_benched": true,
+            "max_stack_mult": 10,
+            "effect_string": "stacks_max_stack_expr,0,highest_available_area*10",
+            "skip_effect_key_desc": true
+        },
+        {
+            "off_when_benched": true,
+            "is_instanced_stat": true,
+            "use_stat_defs": true,
+            "effect_string": "stacks_data_binder_safe,0,vi_sassisfaction_stacks",
+            "skip_effect_key_desc": true
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Vi gains $(stacks_per_second) Sass stack for each second she spends impatiently waiting. A Good Example is increased by $(amount)% for each Sass stack, stacking multiplicatively. Sass stacks are capped at $(max_stack_mult___2) times the highest area unlocked in the current adventure."},
+    "id": 1647,
+    "flavour_text": "",
+    "graphic_id": 20470,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown** (Guess)
+> Evil Champions also benefit from A Good Example's damage increase.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "data": {"filter_targets": [{
+            "type": "by_tags",
+            "tags": "evil|geneutral"
+        }]},
+        "off_when_benched": true,
+        "effect_string": "change_upgrade_data,12312,0"
+    }],
+    "requirements": [],
+    "description": {"desc": "Evil Champions also benefit from A Good Example's damage increase."},
+    "id": 1648,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown** (Guess)
+> Good Champions also benefit from A Good Example's damage increase.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "data": {"filter_targets": [{
+            "type": "by_tags",
+            "tags": "good|geneutral"
+        }]},
+        "off_when_benched": true,
+        "effect_string": "change_upgrade_data,12312,0"
+    }],
+    "requirements": [],
+    "description": {"desc": "Good Champions also benefit from A Good Example's damage increase."},
+    "id": 1649,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Specialisation: Unknown** (Guess)
+> Increase the effect of A Good Example by `$(amount)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "buff_upgrade,200,12312"
+    }],
+    "requirements": [],
+    "description": {"desc": "Increase the effect of A Good Example by $(amount)%."},
+    "id": 1650,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
 
 
 [Back to Top](#top)
