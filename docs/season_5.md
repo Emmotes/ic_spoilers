@@ -14,7 +14,7 @@
 
 # Season 5
 
-Season 5 is guesstimated to start on 20 September 2023 with the preview week arriving one week prior on 13 September 2023.
+Season 5 is guesstimated to start on 13 September 2023 with the preview week arriving one week prior on 06 September 2023.
 
 # Theme
 
