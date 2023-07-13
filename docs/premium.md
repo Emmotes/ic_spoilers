@@ -25,8 +25,9 @@ Contents:
 
 * Skin: `Mythic Drizzt`
 * Feat: `Guardian of the Hall` (Drizzt)
-* Chests: `Gold Drizzt Chest` x7
-* Buff: `Potion of Polish` x1
+* Chests: `Gold Drizzt Chest` x7 (Shinies x1)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
 
 <br />
 

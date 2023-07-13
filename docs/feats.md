@@ -18,16 +18,22 @@ Feats that are listed as Free will be available immediately the moment they rele
 | <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Avren | 50% All Champion Damage | 50,000 Gems | 09 Aug 2023 |
 | <span class="feat4">![Don't Fall Behind Icon](images/featicons/upgradefa.png)</span> | Don't Fall Behind | Widdle | 80% Hurry Up Now | 50,000 Gems | 09 Aug 2023 |
 | <span class="feat4">![Unlimited Potential Icon](images/featicons/upgradefa.png)</span> | Unlimited Potential | Voronika | 80% Ultimate Power | 50,000 Gems | 16 Aug 2023 |
+| <span class="feat4">![Evil Party Icon](images/featicons/upgradefa.png)</span> | Evil Party | BBEG | 400% Evil Overlord & Changes to Int <=11 | 50,000 Gems | 30 Aug 2023 |
+| <span class="feat4">![Taunt Icon](images/featicons/taunt.png)</span> | Taunt | Evandra | 400% Self DPS & 50% Taunt | 50,000 Gems | 30 Aug 2023 |
+| <span class="feat4">![Taunt Icon](images/featicons/taunt.png)</span> | Taunt | Walnut | 400% Self DPS & 50% Taunt | ??? | 04 Sep 2023 |
 | <span class="feat3">![The Bard Spittin' Bars Icon](images/featicons/upgradefa.png)</span> | The Bard Spittin' Bars | Antrius | 40% Can't be De-Feat-ed | 12,500 Gems | 13 Sep 2023 |
 | <span class="feat3">![Stronger Sources Icon](images/featicons/upgradefa.png)</span> | Stronger Sources | BBEG | 40% Sources of Corpses | 12,500 Gems | 13 Sep 2023 |
 | <span class="feat4">![Entertainer Icon](images/featicons/attributeboostx2.png)</span> | Entertainer | Evandra | Stat: +2 Charisma | 50,000 Gems | 13 Sep 2023 |
-| <span class="feat4">![Taunt Icon](images/featicons/taunt.png)</span> | Taunt | Evandra | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
 | <span class="feat3">![Puntastic Icon](images/featicons/upgradefa.png)</span> | Puntastic | Merilwen | 40% Punishing Puns | 12,500 Gems | 13 Sep 2023 |
 | <span class="feat4">![Taunt Icon](images/featicons/taunt.png)</span> | Taunt | Nayeli | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
 | <span class="feat4">![Heavy Lifter Icon](images/featicons/attributeboost.png)</span> | Heavy Lifter | Nixie | Stat: +2 Strength | 50,000 Gems | 13 Sep 2023 |
 | <span class="feat3">![New Speech Pattern Icon](images/featicons/upgradefa.png)</span> | New Speech Pattern | Nordom | 40% Modron Core Toolbox | 12,500 Gems | 13 Sep 2023 |
 | <span class="feat4">![Sentinel Icon](images/featicons/overhelm.png)</span> | Sentinel | Selise | +20 Overwhelm | 50,000 Gems | 13 Sep 2023 |
+| <span class="feat4">![All Together Now Icon](images/featicons/upgradefa.png)</span> | All Together Now | Deekin | 80% Troubadour Troupe | 50,000 Gems | 20 Sep 2023 |
+| <span class="feat4">![Fiendish Flames Icon](images/featicons/immolation.png)</span> | Fiendish Flames | Farideh | 1s BUD per sec for 5s | 50,000 Gems | 20 Sep 2023 |
 | <span class="feat4">![King of the Hall Icon](images/featicons/mithralhallstackbonus.png)</span> | King of the Hall | Bruenor | +2 Mithral Hall Stacks | 50,000 Gems | 21 Sep 2023 |
+| <span class="feat4">![Heavy Lifter Icon](images/featicons/attributeboostx2.png)</span> | Heavy Lifter | K'thriss | Stat: +2 Strength | 50,000 Gems | 27 Sep 2023 |
+| <span class="feat4">![Time is Money Icon](images/featicons/upgradefa.png)</span> | Time is Money | Môrgæn | 80% Friends In Wealth | 50,000 Gems | 27 Sep 2023 |
 
 # Placeholder Date Feats
 
@@ -37,7 +43,6 @@ These are the feats that have been filtered out of the list above due to having 
 
 | Icon | Feat Name | Champion | Effect | Source | Date |
 |---|---|---|---|---|--:|
-| <span class="feat4">![Evil Party Icon](images/featicons/upgradefa.png)</span> | Evil Party | BBEG | 400% Evil Overlord & Changes to Int <=11 | ??? | 01 Jan 2032 |
 | <span class="feat4">![Vicious Damage Icon](images/featicons/viciousdamage.png)</span> | Vicious Damage | BBEG | 400% Self DPS & Prevent Healing for 10s | ??? | 01 Jan 2032 |
 | <span class="feat3">![Hall of the Mountain King Icon](images/featicons/mithralhallstackbonus.png)</span> | Hall of the Mountain King | Bruenor | +1 Mithral Hall Stacks | ??? | 01 Jan 2032 |
 | <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Bruenor | 50% All Champion Damage | 50,000 Gems | 01 Jan 2032 |
