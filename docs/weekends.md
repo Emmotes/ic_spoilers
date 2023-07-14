@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Wings of Freedom | 14 July | **Strongheart** | Nayeli | Asharra | Briv | Catti-brie | Golden Epic |
 | Shadow Dagger | 21 July | **Artemis** | Jarlaxle | Minsc | DM | Widdle | Golden Epic |
 | Forest Queen | 28 July | **Drizzt** | Celeste | Arkhan | Deekin | Shandie | Golden Epic |
 | Protector's | 04 August | **Sgt. Knox** | Nayeli | Arkhan | Regis | Turiel | Golden Epic |
