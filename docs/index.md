@@ -1,5 +1,3 @@
-[Back to Main](index.md)
-
 # Idle Champions Spoilers
 
 Just a collection of most of the currently-known spoilers. It is by no means exhaustive.
