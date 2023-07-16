@@ -33,6 +33,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual K'thriss | ??? | ??? | 27 Sep 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Môrgæn | ??? | ??? | 27 Sep 2023 |
 
-[Back to Top](#top)
+[Back to Top](#top) 
 
 *Last Modified: {{ site.time }}*
