@@ -15,8 +15,8 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Astral Vin Ursa Portrait](images/skin_portraits/astralvinursa.png) | Astral Vin Ursa | Astral Vin Ursa Theme Pack | $24.99 | 26 Jul 2023 |
 | ![Spelljammer Avren Portrait](images/skin_portraits/spelljammeravren.png) | Spelljammer Avren | Spelljammer Avren Skin & Feat Pack | $9.99 | 09 Aug 2023 |
 | ![Spelljammer Widdle Portrait](images/skin_portraits/spelljammerwiddle.png) | Spelljammer Widdle | Spelljammer Widdle Skin & Feat Pack | $9.99 | 09 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Lae'zel | Mind Flayer Lae'zel Theme Pack | $24.99 | 16 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Cosmic Nightmare Voronika | Cosmic Nightmare Voronika Skin & Feat Pack | $9.99 | 16 Aug 2023 |
+| ![Mind Flayer Lae'zel Portrait](images/skin_portraits/mindflayerlaezel.png) | Mind Flayer Lae'zel | Mind Flayer Lae'zel Theme Pack | $24.99 | 16 Aug 2023 |
+| ![Cosmic Nightmare Voronika Portrait](images/skin_portraits/cosmicnightmarevoronika.png) | Cosmic Nightmare Voronika | Cosmic Nightmare Voronika Skin & Feat Pack | $9.99 | 16 Aug 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Jamilah | Emergence 3 (Guess) | ??? | 23 Aug 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Nrakk | Emergence 3 (Guess) | ??? | 23 Aug 2023 |
 | ![Spelljammer Pilot Asharra Portrait](images/skin_portraits/spelljammerpilotasharra.png) | Spelljammer Pilot Asharra | Founder's Pack VI | $19.99 | 30 Aug 2023 |
