@@ -772,9 +772,9 @@ This list will only show feats that are going to be available on the release of 
 | <span class="feat3">![Lucky Icon](images/featicons/goldfind.png)</span> | `Lucky` | 25% Gold | 12,500 Gems |
 | <span class="feat2">![Tactical Prowess Icon](images/featicons/critchanceincrease.png)</span> | `Tactical Prowess` | +10% Crit Chance | Free |
 | <span class="feat3">![Battle Expertise Icon](images/featicons/critchanceincrease.png)</span> | `Battle Expertise` | +20% Crit Chance | Gold Chest |
-| <span class="feat2">![Have I Fought You Before? Icon](images/featicons/upgradefa.png)</span> | `Have I Fought You Before?` | 20% Bounty Hunter | Free |
-| <span class="feat3">![Old Faces, New Battles Icon](images/featicons/upgradefa.png)</span> | `Old Faces, New Battles` | 40% Bounty Hunter | 12,500 Gems |
-| <span class="feat3">![Muscle Memory Icon](images/featicons/goldfind.png)</span> | `Muscle Memory` | 40% Bounty Hunter | Gold Chest |
+| <span class="feat2">![Have I Fought You Before? Icon](images/featicons/upgradefa.png)</span> | `Have I Fought You Before?` | 20% Bounty Hunter (Damage) | Free |
+| <span class="feat3">![Old Faces, New Battles Icon](images/featicons/upgradefa.png)</span> | `Old Faces, New Battles` | 40% Bounty Hunter (Damage) | 12,500 Gems |
+| <span class="feat3">![Muscle Memory Icon](images/featicons/goldfind.png)</span> | `Muscle Memory` | 40% Bounty Hunter (Gold) | Gold Chest |
 | <span class="feat3">![Timing is Everything Icon](images/featicons/upgradefa.png)</span> | `Timing is Everything` | 40% Vicious Vantage | 12,500 Gems |
 | <span class="feat4">![High Ground Icon](images/featicons/upgradefa.png)</span> | `High Ground` | 80% Vicious Vantage | 50,000 Gems |
 | <span class="feat3">![Aggressive Negotiations Icon](images/featicons/upgradefa.png)</span> | `Aggressive Negotiations` | 40% Contract Negotiations | Gold Chest |
