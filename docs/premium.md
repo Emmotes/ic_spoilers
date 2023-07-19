@@ -4,47 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Frost Reaver Wulfgar Theme Pack - $24.99  
-Date of release: 19 Jul 2023
-
-Contents:
-
-* Champion: `Wulfgar, son of Beornegar`
-* Skin: `Frost Reaver Wulfgar`
-* Feat: `Breaking It Down` (Wulfgar)
-* Familiar: `Ice Mephit`
-* Chests: `Gold Wulfgar Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
-### Mythic Drizzt Skin & Feat Pack - $9.99  
-Date of release: 19 Jul 2023
-
-Contents:
-
-* Skin: `Mythic Drizzt`
-* Feat: `Guardian of the Hall` (Drizzt)
-* Chests: `Gold Drizzt Chest` x7 (Shinies x1)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-
-<br />
-
-### Vampire Pwent Skin & Feat Pack - $9.99  
-Date of release: 19 Jul 2023
-
-Contents:
-
-* Champion: `Thibbledorf Pwent`
-* Skin: `Vampire Pwent`
-* Feat: `Slice and Dice` (Pwent)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Pwent Chest` x7 (Shinies x1)
-
-<br />
-
 ### Astral Vin Ursa Theme Pack - $24.99  
 Date of release: 26 Jul 2023
 
