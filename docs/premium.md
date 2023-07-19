@@ -190,6 +190,34 @@ Contents:
 
 <br />
 
+### Modron BBEG Skin & Feat Pack - $9.99  
+Date of release: 30 Aug 2023
+
+Contents:
+
+* Champion: `BBEG`
+* Skin: `Modron BBEG`
+* Feat: `Evil Party` (BBEG)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold BBEG Chest` x7 (Shinies x1)
+
+<br />
+
+### Modron Evandra Skin & Feat Pack - $9.99  
+Date of release: 30 Aug 2023
+
+Contents:
+
+* Champion: `Evandra`
+* Skin: `Modron Evandra`
+* Feat: `Taunt` (Evandra)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Evandra Chest` x7 (Shinies x1)
+
+<br />
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*

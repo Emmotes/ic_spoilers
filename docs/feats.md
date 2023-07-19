@@ -18,6 +18,11 @@ Feats that are listed as Free will be available immediately the moment they rele
 | <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Avren | 50% All Champion Damage | 50,000 Gems | 09 Aug 2023 |
 | <span class="feat4">![Don't Fall Behind Icon](images/featicons/upgradefa.png)</span> | Don't Fall Behind | Widdle | 80% Hurry Up Now | 50,000 Gems | 09 Aug 2023 |
 | <span class="feat4">![Unlimited Potential Icon](images/featicons/upgradefa.png)</span> | Unlimited Potential | Voronika | 80% Ultimate Power | 50,000 Gems | 16 Aug 2023 |
+| <span class="feat2">![Frugal Icon](images/featicons/goldfind.png)</span> | Frugal | Donaar | 10% Gold | ??? | 30 Aug 2023 |
+| <span class="feat3">![Lucky Icon](images/featicons/goldfind.png)</span> | Lucky | Donaar | 25% Gold | ??? | 30 Aug 2023 |
+| <span class="feat3">![Divesting Gold Icon](images/featicons/upgradefa.png)</span> | Divesting Gold | K'thriss | 40% Hoardsperson | ??? | 30 Aug 2023 |
+| <span class="feat2">![Frugal Icon](images/featicons/goldfind.png)</span> | Frugal | K'thriss | 10% Gold | ??? | 30 Aug 2023 |
+| <span class="feat2">![Petty Cash Icon](images/featicons/upgradefa.png)</span> | Petty Cash | K'thriss | 20% Hoardsperson | ??? | 30 Aug 2023 |
 | <span class="feat4">![Evil Party Icon](images/featicons/upgradefa.png)</span> | Evil Party | BBEG | 400% Evil Overlord & Changes to Int <=11 | 50,000 Gems | 30 Aug 2023 |
 | <span class="feat4">![Taunt Icon](images/featicons/taunt.png)</span> | Taunt | Evandra | 400% Self DPS & 50% Taunt | 50,000 Gems | 30 Aug 2023 |
 | <span class="feat4">![Taunt Icon](images/featicons/taunt.png)</span> | Taunt | Walnut | 400% Self DPS & 50% Taunt | ??? | 04 Sep 2023 |
@@ -54,6 +59,24 @@ These are the feats that have been filtered out of the list above due to having 
 | <span class="feat3">![Durable Icon](images/featicons/attributeboost.png)</span> | Durable | Jarlaxle | Stat: +1 Constitution | ??? | 01 Jan 2032 |
 | <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Jarlaxle | +20% Crit Chance | ??? | 01 Jan 2032 |
 | <span class="feat4">![Obliterating Blast Icon](images/featicons/critdamageincrease.png)</span> | Obliterating Blast | Jarlaxle | +120% Crit Damage | ??? | 01 Jan 2032 |
+| <span class="feat4">![Bigger Boat Icon](images/featicons/upgradefa.png)</span> | Bigger Boat | Krux | ???: [change_upgrade_data,11653] | ??? | 01 Jan 2032 |
+| <span class="feat3">![Calm Under Pressure Icon](images/featicons/overhelm.png)</span> | Calm Under Pressure | Krux | +10 Overwhelm | Gold Chest | 01 Jan 2032 |
+| <span class="feat2">![Defensive Duelist Icon](images/featicons/overhelm.png)</span> | Defensive Duelist | Krux | +5 Overwhelm | Free | 01 Jan 2032 |
+| <span class="feat2">![Elven Accuracy Icon](images/featicons/selfdps.png)</span> | Elven Accuracy | Krux | 30% Self DPS | Free | 01 Jan 2032 |
+| <span class="feat4">![Entertainer Icon](images/featicons/attributeboostx2.png)</span> | Entertainer | Krux | Stat: +2 Charisma | ??? | 01 Jan 2032 |
+| <span class="feat3">![Experienced Crew Icon](images/featicons/upgradefa.png)</span> | Experienced Crew | Krux | 40% All Hands On Deck! | Gold Chest | 01 Jan 2032 |
+| <span class="feat3">![Inspiring Leader Icon](images/featicons/globaldps.png)</span> | Inspiring Leader | Krux | 25% All Champion Damage | Gold Chest | 01 Jan 2032 |
+| <span class="feat4">![Keen Eye Icon](images/featicons/upgradefa.png)</span> | Keen Eye | Krux | 80% Starfarer's Spyglass | ??? | 01 Jan 2032 |
+| <span class="feat3">![Man the Cannons Icon](images/featicons/upgradefa.png)</span> | Man the Cannons | Krux | 40% Battle Stations! | Gold Chest | 01 Jan 2032 |
+| <span class="feat3">![Nimble Icon](images/featicons/attributeboost.png)</span> | Nimble | Krux | Stat: +1 Dexterity | 12,500 Gems | 01 Jan 2032 |
+| <span class="feat3">![Resilient Icon](images/featicons/health.png)</span> | Resilient | Krux | 30% Health | 12,500 Gems | 01 Jan 2032 |
+| <span class="feat4">![Scholar Icon](images/featicons/attributeboostx2.png)</span> | Scholar | Krux | Stat: +2 Intelligence | ??? | 01 Jan 2032 |
+| <span class="feat4">![Seahippo Icon](images/featicons/upgradefa.png)</span> | Seahippo | Krux | 80% An Experienced Sailor | ??? | 01 Jan 2032 |
+| <span class="feat2">![Selflessness Icon](images/featicons/globaldps.png)</span> | Selflessness | Krux | 10% All Champion Damage | Free | 01 Jan 2032 |
+| <span class="feat3">![Sharpshooter Icon](images/featicons/selfdps.png)</span> | Sharpshooter | Krux | 60% Self DPS | 12,500 Gems | 01 Jan 2032 |
+| <span class="feat2">![Tough Icon](images/featicons/health.png)</span> | Tough | Krux | 15% Health | Free | 01 Jan 2032 |
+| <span class="feat2">![Trained Crew Icon](images/featicons/upgradefa.png)</span> | Trained Crew | Krux | 20% All Hands On Deck! | Free | 01 Jan 2032 |
+| <span class="feat3">![Wildspace Veteran Icon](images/featicons/upgradefa.png)</span> | Wildspace Veteran | Krux | 40% All Specialisations | Gold Chest | 01 Jan 2032 |
 | <span class="feat4">![Caged Dreams Icon](images/featicons/upgradefa.png)</span> | Caged Dreams | Miria | 80% Soul Cage | 50,000 Gems | 01 Jan 2032 |
 | <span class="feat4">![Vicious Damage Icon](images/featicons/viciousdamage.png)</span> | Vicious Damage | Pwent | 400% Self DPS & Prevent Healing for 10s | ??? | 01 Jan 2032 |
 | <span class="feat4">![Advisor Icon](images/featicons/globaldps.png)</span> | Advisor | Regis | 50% All Champion Damage | ??? | 01 Jan 2032 |

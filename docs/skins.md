@@ -20,19 +20,21 @@ Skins that are upcoming. Most skins are real money purchases only.
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Jamilah | Emergence 3 (Guess) | ??? | 23 Aug 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Nrakk | Emergence 3 (Guess) | ??? | 23 Aug 2023 |
 | ![Spelljammer Pilot Asharra Portrait](images/skin_portraits/spelljammerpilotasharra.png) | Spelljammer Pilot Asharra | Founder's Pack VI | $19.99 | 30 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Modron BBEG | ??? | ??? | 30 Aug 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Modron BBEG | Modron BBEG Skin & Feat Pack | $9.99 | 30 Aug 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Evelyn | Season 5 (Guess) | ??? | 30 Aug 2023 |
+| ![Venture Casual Jim Portrait](images/skin_portraits/venturecasualjim.png) | Venture Casual Jim | Season 5 (Guess) | ??? | 30 Aug 2023 |
+| ![Venture Casual Omin Portrait](images/skin_portraits/venturecasualomin.png) | Venture Casual Omin | Season 5 (Guess) | ??? | 30 Aug 2023 |
+| ![Venture Casual Strix Portrait](images/skin_portraits/venturecasualstrix.png) | Venture Casual Strix | Season 5 (Guess) | ??? | 30 Aug 2023 |
+| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Vi | Season 5 (Guess) | ??? | 30 Aug 2023 |
+| ![King Bruenor Portrait](images/skin_portraits/kingbruenor.png) | King Bruenor | Gem Shop | 20,000 | 04 Sep 2023 |
+| ![Mythic Jarlaxle Portrait](images/skin_portraits/mythicjarlaxle.png) | Mythic Jarlaxle | Gem Shop | 20,000 | 04 Sep 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Walnut | ??? | ??? | 04 Sep 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Astarion | ??? | ??? | 06 Sep 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Evelyn | Season 5 (Guess) | ??? | 06 Sep 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Jim | Season 5 (Guess) | ??? | 06 Sep 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Omin | Season 5 (Guess) | ??? | 06 Sep 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Strix | Season 5 (Guess) | ??? | 06 Sep 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Vi | Season 5 (Guess) | ??? | 06 Sep 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Spelljammer Deekin | ??? | ??? | 20 Sep 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Spelljammer Pilot Farideh | ??? | ??? | 20 Sep 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual K'thriss | ??? | ??? | 27 Sep 2023 |
 | ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Môrgæn | ??? | ??? | 27 Sep 2023 |
 
-[Back to Top](#top) 
+[Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
