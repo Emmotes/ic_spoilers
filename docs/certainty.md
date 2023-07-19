@@ -1,6 +1,8 @@
 [Back to Main](index.md)
 
-![PC Portrait](images/certaintydran/portrait.png)
+{% comment %}
+![PC Portrait](images/certainty/portrait.png)
+{% endcomment %}
 
 # Certainty Dran
 
@@ -13,7 +15,7 @@ Info from a wiki.
 
 # Basic Information
 
-Certainty Dran will be the new champion in the Highharvestide event on 27 September 2023.
+Certainty will be the new champion in the Highharvestide event on 27 September 2023.
 
 * Seat: Unknown
 * Race: Unknown
@@ -29,7 +31,7 @@ Certainty Dran will be the new champion in the Highharvestide event on 27 Septem
 
 Unknown.
 {% comment %}
-![Formation Layout](images/certaintydran/formation.png)
+![Formation Layout](images/certainty/formation.png)
 {% endcomment %}
 
 # Abilities
@@ -212,12 +214,12 @@ Unknown.
 
 | Icon | Name | Type |
 |:-:|---|---|
-| ![Airship Stuff Icon](images/certaintydran/20534.png) | `Airship Stuff` | Unknown |
-| ![Clothing Icon](images/certaintydran/20537.png) | `Clothing` | Unknown |
-| ![Music Instruments Icon](images/certaintydran/20540.png) | `Music Instruments` | Unknown |
-| ![School Items Icon](images/certaintydran/20543.png) | `School Items` | Unknown |
-| ![Secretarian Items Icon](images/certaintydran/20546.png) | `Secretarian Items` | Unknown |
-| ![Time Stuff Icon](images/certaintydran/20549.png) | `Time Stuff` | Unknown |
+| ![Airship Stuff Icon](images/certainty/20534.png) | `Airship Stuff` | Unknown |
+| ![Clothing Icon](images/certainty/20537.png) | `Clothing` | Unknown |
+| ![Music Instruments Icon](images/certainty/20540.png) | `Music Instruments` | Unknown |
+| ![School Items Icon](images/certainty/20543.png) | `School Items` | Unknown |
+| ![Secretarian Items Icon](images/certainty/20546.png) | `Secretarian Items` | Unknown |
+| ![Time Stuff Icon](images/certainty/20549.png) | `Time Stuff` | Unknown |
 
 # Feats
 
@@ -230,14 +232,14 @@ Unknown.
 {% comment %}
 # Console Portrait
 
-![Console Portrait](images/certaintydran/console.png)
+![Console Portrait](images/certainty/console.png)
 {% endcomment %}
 
 # Chests
 
 | Gold | Silver |
 |---|---|
-| ![Gold Chest](images/certaintydran/chest_gold.png) | ![Silver Chest](images/certaintydran/chest_silver.png) |
+| ![Gold Chest](images/certainty/chest_gold.png) | ![Silver Chest](images/certainty/chest_silver.png) |
 
 [Back to Top](#top)
 

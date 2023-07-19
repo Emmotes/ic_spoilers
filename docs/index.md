@@ -15,7 +15,7 @@ These are the event champions that are upcoming and all the information we know 
 * Brightswords - 6 September 2023
   * [Astarion](astarion.md) - Elf (High) Rogue of Absolute Adversaries (Guess)
 * Highharvestide - 27 September 2023
-  * [Certainty Dran](certaintydran.md) - Unknown Bard / Fighter of Acquisitions Incorporated (Guess)
+  * [Certainty Dran](certainty.md) - Unknown Bard / Fighter of Acquisitions Incorporated (Guess)
 
 # Recurring Events
 
