@@ -12,7 +12,7 @@ We know the next Emergence event will be Mind Flayers and that it will start on 
 
 * Pigment: Support
 * Golden Epic: Blooshi (Slot 2 - Soul Gatherer)
-* Golden Epic: Lae'zel (Slot 3 - Unknown)
+* Golden Epic: Lae'zel (Slot 3 - Ceremorphosis)
 * Skin: Mind Flayer Jamilah
 * Skin: Mind Flayer Nrakk
 * Feat: Very Important Person (Valentine 80% Socialite)
