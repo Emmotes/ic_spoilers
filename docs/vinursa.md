@@ -101,7 +101,7 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 </details>
 <br />
 
-![Target Acquisition Icon](images/vinursa/icon_targetacquisition.png) **Ultimate Attack: Target Acquisition** (Level: 35)
+![Target Acquisition Icon](images/vinursa/icon_targetacquisition.png) **Ultimate Attack: Target Acquisition** (Level: 90)
 > Vin Ursa blasts an enemy. She has a +20% chance to score a critical hit and the enemy becomes a favored foe if she crits.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -173,24 +173,29 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 </details>
 <br />
 
-![Bounty Hunter Icon](images/vinursa/icon_bountyhunter.png) **Bounty Hunter** (Level: 5)
+![Bounty Hunter Icon](images/vinursa/icon_bountyhunter.png) **Bounty Hunter** (Level: 60)
 > Vin Ursa picks a random monster type from a monster in the current adventure as her Favored Foe. Her Favored Foes drop 100% extra gold and all Champions deal 100% damage to them.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       40: 100%
-       50: 100%
+      520: 100%
+      720: 100%
+    1,000: 100%
+    1,450: 100%
+    1,490: 100%
+    2,000: 100%
+    2,100: 100%
 
-    Total Upgrade Bonus: 300%
+    Total Upgrade Bonus: 1.27e04%
 
 Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	Dull Epic ilvl    100: 1.84e03%
-	Dull Epic ilvl  1,000: 5.80e03%
-	Dull Epic ilvl 10,000: 4.54e04%
+	Dull Epic ilvl    100: 6.18e04%
+	Dull Epic ilvl  1,000: 1.89e05%
+	Dull Epic ilvl 10,000: 1.46e06%
 </pre>
 </p>
 </details>
@@ -199,7 +204,7 @@ Expected numbers with various item levels:
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 5,
+    "required_level": 60,
     "effect": "effect_def,1585",
     "tip_text": "Vin Ursa picks a random monster type as her favored foe. She can add additional Favored Foe types by using her ultimate ability.",
     "name": "Bounty Hunter",
@@ -248,42 +253,16 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Vicious Vantage Icon](images/vinursa/icon_viciousvantage.png) **Vicious Vantage** (Level: 15)
+![Vicious Vantage Icon](images/vinursa/icon_viciousvantage.png) **Vicious Vantage** (Level: 130)
 > Vin Ursa increases the effect of your Deck specialization by 100% for each Favored Foe she has, stacking multiplicatively. Buffs apply to the pre-stack multiplier.
 
 *Note: This ability might be prestack.*
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       60: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers with various item levels:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	Dull Epic ilvl    100:
-		  0 Stacks: 867.8%
-		100 Stacks: 1,835.6%
-
-	Dull Epic ilvl  1,000:
-		  0 Stacks: 2,847.8%
-		100 Stacks: 5,795.6%
-
-	Dull Epic ilvl 10,000:
-		  0 Stacks: 2.26e04%
-		100 Stacks: 4.54e04%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 15,
+    "required_level": 130,
     "effect": "effect_def,1586",
     "name": "Vicious Vantage",
     "id": 12088,
@@ -330,32 +309,14 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-**Contract Negotiations** (Level: 20)
+**Contract Negotiations** (Level: 200)
 > Whenever you use a Bounty Contract with Vin Ursa in the formation, Vin Ursa increases the effect of your Deck specialization by 25% until the end of the current adventure, stacking multiplicatively. Caps at 100 stacks.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       70: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	At softcap:
-		  0 Stacks: -100%
-		100 Stacks: -100%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 20,
+    "required_level": 200,
     "effect": "effect_def,1587",
     "tip_text": "Vin Ursa increases the effect of her buffs whenever Bounty Contracts are used with her in the formation.",
     "name": "Contract Negotiations",
@@ -401,23 +362,40 @@ Expected numbers:
 
 # Specialisations
 
-![Front Deck Icon](images/vinursa/icon_frontdeck.png) **Front Deck** (Level: 10)
+![Front Deck Icon](images/vinursa/icon_frontdeck.png) **Front Deck** (Level: 30)
 > Vin Ursa increases the damage of all champions in the front two columns by 100%.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       80: 100%
+      150: 100%
+      280: 100%
+      400: 100%
+      500: 100%
+      600: 100%
+      700: 100%
+      820: 100%
+      930: 100%
+    1,040: 100%
+    1,150: 100%
+    1,270: 100%
+    1,390: 100%
+    1,500: 100%
+    1,600: 100%
+    1,720: 100%
+    1,830: 100%
+    1,940: 100%
+    2,050: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 2.62e07%
 
 Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	Dull Epic ilvl    100: 8.68e02%
-	Dull Epic ilvl  1,000: 2.85e03%
-	Dull Epic ilvl 10,000: 2.26e04%
+	Dull Epic ilvl    100: 1.27e08%
+	Dull Epic ilvl  1,000: 3.86e08%
+	Dull Epic ilvl 10,000: 2.98e09%
 </pre>
 </p>
 </details>
@@ -427,7 +405,7 @@ Expected numbers with various item levels:
 {
     "static_dps_mult": null,
     "specialization_name": "Front Deck",
-    "required_level": 10,
+    "required_level": 30,
     "effect": "effect_def,1588",
     "name": "Front Deck",
     "specialization_graphic_id": 20017,
@@ -456,23 +434,40 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Rear Deck Icon](images/vinursa/icon_reardeck.png) **Rear Deck** (Level: 10)
+![Rear Deck Icon](images/vinursa/icon_reardeck.png) **Rear Deck** (Level: 30)
 > Vin Ursa increases the damage of all champions in the rear two columns by 100%.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       80: 100%
+      150: 100%
+      280: 100%
+      400: 100%
+      500: 100%
+      600: 100%
+      700: 100%
+      820: 100%
+      930: 100%
+    1,040: 100%
+    1,150: 100%
+    1,270: 100%
+    1,390: 100%
+    1,500: 100%
+    1,600: 100%
+    1,720: 100%
+    1,830: 100%
+    1,940: 100%
+    2,050: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 2.62e07%
 
 Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	Dull Epic ilvl    100: 8.68e02%
-	Dull Epic ilvl  1,000: 2.85e03%
-	Dull Epic ilvl 10,000: 2.26e04%
+	Dull Epic ilvl    100: 1.27e08%
+	Dull Epic ilvl  1,000: 3.86e08%
+	Dull Epic ilvl 10,000: 2.98e09%
 </pre>
 </p>
 </details>
@@ -482,7 +477,7 @@ Expected numbers with various item levels:
 {
     "static_dps_mult": null,
     "specialization_name": "Rear Deck",
-    "required_level": 10,
+    "required_level": 30,
     "effect": "effect_def,1589",
     "name": "Rear Deck",
     "specialization_graphic_id": 20018,
@@ -511,33 +506,15 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Friends in High Places Icon](images/vinursa/icon_friendsinhighplaces.png) **Friends in High Places** (Level: 30)
+![Friends in High Places Icon](images/vinursa/icon_friendsinhighplaces.png) **Friends in High Places** (Level: 250)
 > Vin Ursa increases the damage of Good Champions by 100%.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       90: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers with various item levels:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	Dull Epic ilvl    100: 8.68e02%
-	Dull Epic ilvl  1,000: 2.85e03%
-	Dull Epic ilvl 10,000: 2.26e04%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Friends in High Places",
-    "required_level": 30,
+    "required_level": 250,
     "effect": "effect_def,1592",
     "name": "Friends in High Places",
     "specialization_graphic_id": 20014,
@@ -573,33 +550,15 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Friends in Low Places Icon](images/vinursa/icon_friendsinlowplaces.png) **Friends in Low Places** (Level: 30)
+![Friends in Low Places Icon](images/vinursa/icon_friendsinlowplaces.png) **Friends in Low Places** (Level: 250)
 > Vin Ursa increases the damage of Evil Champions by 100%.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       90: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers with various item levels:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	Dull Epic ilvl    100: 8.68e02%
-	Dull Epic ilvl  1,000: 2.85e03%
-	Dull Epic ilvl 10,000: 2.26e04%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Friends in Low Places",
-    "required_level": 30,
+    "required_level": 250,
     "effect": "effect_def,1590",
     "name": "Friends in Low Places",
     "specialization_graphic_id": 20015,
@@ -635,33 +594,15 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Friends in Meh Places Icon](images/vinursa/icon_friendsinmehplaces.png) **Friends in Meh Places** (Level: 30)
+![Friends in Meh Places Icon](images/vinursa/icon_friendsinmehplaces.png) **Friends in Meh Places** (Level: 250)
 > Vin Ursa increases the damage of Neutral (Good/Evil axis) Champions by 100%.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       90: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers with various item levels:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	Dull Epic ilvl    100: 8.68e02%
-	Dull Epic ilvl  1,000: 2.85e03%
-	Dull Epic ilvl 10,000: 2.26e04%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
     "specialization_name": "Friends in Meh Places",
-    "required_level": 30,
+    "required_level": 250,
     "effect": "effect_def,1591",
     "name": "Friends in Meh Places",
     "specialization_graphic_id": 20016,
@@ -791,39 +732,40 @@ This list will only show feats that are going to be available on the release of 
 <details><summary><em>DPS Applicable</em></summary>
 <p>
 <pre>
-  Arkhan: 3 / 6
- Artemis: 5 / 6
- Asharra: 4 / 6
-   Azaka: 4 / 6
-  Binwin: 4 / 6
-Birdsong: 5 / 6
-  D'hani: 3 / 6
-  Delina: 4 / 6
- Dhadius: 3 / 6
-  Drizzt: 4 / 6
-     Fen: 4 / 6
-   Grimm: 3 / 6
-  Gromma: 4 / 6
-    Ishi: 3 / 6
- Jaheira: 3 / 6
- Jamilah: 3 / 6
-Jarlaxle: 4 / 6
-    Kent: 4 / 6
-   Krond: 4 / 6
-   Makos: 4 / 6
-   NERDS: 4 / 6
-  Nahara: 3 / 6
-   Nixie: 3 / 6
-   Nrakk: 4 / 6
-  Orisha: 3 / 6
-Prudence: 4 / 6
-   Rosie: 3 / 6
-   Strix: 4 / 6
- Torogar: 4 / 6
-  Warden: 4 / 6
- Warduke: 3 / 6
-  Yorven: 3 / 6
-   Zorbu: 3 / 6
+        Arkhan: 3 / 6
+       Artemis: 5 / 6
+       Asharra: 4 / 6
+         Azaka: 4 / 6
+        Binwin: 4 / 6
+      Birdsong: 5 / 6
+Commodore Krux: 4 / 6
+        D'hani: 3 / 6
+        Delina: 4 / 6
+       Dhadius: 3 / 6
+        Drizzt: 4 / 6
+           Fen: 4 / 6
+         Grimm: 3 / 6
+        Gromma: 4 / 6
+          Ishi: 3 / 6
+       Jaheira: 3 / 6
+       Jamilah: 3 / 6
+      Jarlaxle: 4 / 6
+          Kent: 4 / 6
+         Krond: 4 / 6
+         Makos: 4 / 6
+         NERDS: 4 / 6
+        Nahara: 3 / 6
+         Nixie: 3 / 6
+         Nrakk: 4 / 6
+        Orisha: 3 / 6
+      Prudence: 4 / 6
+         Rosie: 3 / 6
+         Strix: 4 / 6
+       Torogar: 4 / 6
+        Warden: 4 / 6
+       Warduke: 3 / 6
+        Yorven: 3 / 6
+         Zorbu: 3 / 6
 </pre>
 </p>
 </details>
