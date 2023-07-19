@@ -223,6 +223,112 @@ Krux will be an upcoming Evergreen champion guesstimated to release on 19 July 2
 </details>
 <br />
 
+![Battle Stations Icon](images/krux/icon_battlestations.png) **Battle Stations!** (Level: 100)
+> Commodore Krux increases the damage bonus of All Hands On Deck! by 25% for each second the Champions are in the current area, stacking multiplicatively up to a maximum of 100 stacks.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 100,
+    "effect": "effect_def,1561",
+    "name": "Battle Stations!",
+    "id": 11654,
+    "hero_id": 136,
+    "upgrade_type": "upgrade_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [{
+        "stacks_multiply": true,
+        "show_bonus": true,
+        "effect_string": "buff_upgrade,25,11653",
+        "max_stacks": 100,
+        "more_triggers": [{
+            "action": {"type": "reset"},
+            "trigger": "area_changed"
+        }],
+        "stacks_on_trigger": "on_timer,1"
+    }],
+    "requirements": [],
+    "description": {"desc": "Commodore Krux increases the damage bonus of All Hands On Deck! by $(not_buffed amount)% for each second the Champions are in the current area, stacking multiplicatively up to a maximum of $(max_stacks) stacks."},
+    "id": 1561,
+    "flavour_text": "",
+    "graphic_id": 19885,
+    "properties": {
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "show_outgoing_desc_when_benched": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+![Batten Down the Hatches Icon](images/krux/icon_battendownthehatches.png) **Batten Down the Hatches!** (Level: 170)
+> Commodore Krux increases the health of all other Champions by 0.1% of his max health for each adventure, variant, and Patron variant you have completed in the Light of Xaryxis campaign, stacking additively. Any healing effect on those Champions is increased by the same amount.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 170,
+    "effect": "effect_def,1562",
+    "name": "Batten Down the Hatches!",
+    "id": 11655,
+    "hero_id": 136,
+    "upgrade_type": "increase_health",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [
+        {
+            "amount_updated_listeners": ["stat_changed,XaryxisAdventuresCompleted"],
+            "stacks_multiply": false,
+            "stat": "XaryxisAdventuresCompleted",
+            "amount_func": "source_percent_health_add",
+            "stack_func": "get_stat",
+            "use_computed_amount_for_description": true,
+            "effect_string": "increase_health_by_source_percent,0.1",
+            "targets": ["other"],
+            "stack_title": "Xaryxis Adventures Completed",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "override_total_bonus_sentence": "+$bonus HP",
+            "show_current_value_bonus_desc": false,
+            "override_key_desc": "Increases the health of $target and the effect of healing on $target by $amount"
+        },
+        {
+            "amount_updated_listeners": ["stat_changed,XaryxisAdventuresCompleted"],
+            "stacks_multiply": false,
+            "stat": "XaryxisAdventuresCompleted",
+            "off_when_benched": true,
+            "amount_func": "source_percent_health_add",
+            "stack_func": "get_stat",
+            "use_computed_amount_for_description": true,
+            "effect_string": "healing_add,0.1",
+            "targets": ["other"],
+            "skip_effect_key_desc": true
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Commodore Krux increases the health of all other Champions by $(amount)% of his max health for each adventure, variant, and Patron variant you have completed in the Light of Xaryxis campaign, stacking additively. Any healing effect on those Champions is increased by the same amount."},
+    "id": 1562,
+    "flavour_text": "",
+    "graphic_id": 19884,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
 ![Starfarer's Spyglass Icon](images/krux/icon_starfarersspyglass.png) **Starfarer's Spyglass** (Level: 200)
 > Upon completing a new area, Commodore Krux raises a spyglass to his eye and spots an enemy from the next area. All enemies of that type become his Favored Foe (until another area is completed) and take 100% more damage from all sources.
 >  
@@ -277,6 +383,49 @@ Krux will be an upcoming Evergreen champion guesstimated to release on 19 July 2
     "graphic_id": 19887,
     "properties": {
         "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+![An Experienced Sailor Icon](images/krux/icon_anexperiencedsailor.png) **An Experienced Sailor** (Level: 440)
+> Commodore Krux increases the effect of All Hands On Deck! by 20% for each adventure, variant, and Patron variant you have completed in the Light of Xaryxis campaign, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 440,
+    "effect": "effect_def,1564",
+    "name": "An Experienced Sailor",
+    "id": 11657,
+    "hero_id": 136,
+    "upgrade_type": "upgrade_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
+{
+    "effect_keys": [{
+        "stack_title": "Xaryxis Adventures Completed",
+        "amount_updated_listeners": ["stat_changed,XaryxisAdventuresCompleted"],
+        "stacks_multiply": true,
+        "stat": "XaryxisAdventuresCompleted",
+        "off_when_benched": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "get_stat",
+        "effect_string": "buff_upgrade,20,11653"
+    }],
+    "requirements": [],
+    "description": {"desc": "Commodore Krux increases the effect of All Hands On Deck! by $(not_buffed amount)% for each adventure, variant, and Patron variant you have completed in the Light of Xaryxis campaign, stacking multiplicatively."},
+    "id": 1564,
+    "flavour_text": "",
+    "graphic_id": 19886,
+    "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
     }
