@@ -752,6 +752,7 @@ Jarlaxle: 4 / 6
     Kent: 4 / 6
    Krond: 4 / 6
     Krux: 4 / 6
+ Lae'zel: 4 / 6
    Makos: 4 / 6
    NERDS: 4 / 6
   Nahara: 3 / 6
