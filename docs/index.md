@@ -14,6 +14,8 @@ These are the event champions that are upcoming and all the information we know 
   * [Lae'zel](laezel.md) - Githyanki Fighter of Absolute Adversaries (Guess)
 * Brightswords - 6 September 2023
   * [Astarion](astarion.md) - Elf (High) Rogue of Absolute Adversaries (Guess)
+* Highharvestide - 27 September 2023
+  * [Certainty Dran](certaintydran.md) - Unknown Bard / Fighter of Acquisitions Incorporated (Guess)
 
 # Evergreens
 
