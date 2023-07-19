@@ -4,26 +4,30 @@
 
 # Lae'zel
 
-Was spoiled on the Server Maintenance Stream by Chris Dupuis. They are a character from the Baldur's Gate III game.
-
-Info from a wiki.
-> Lae'zel is a ferocious Githyanki warrior, mighty even by the standards of her mind flayer-hunting kin. Faced with transforming into the monster she's sworn to destroy, Lae'zel must cure herself and prove that she is worthy of wielding the silver sword of a Kith'rak.
-
-[Wiki Link](https://baldursgate3.wiki.fextralife.com/Lae%27zel)
+Lae'zel is a ferocious Githyanki warrior, mighty even by the standards of her mind flayer-hunting kind. Faced with transforming into the very monster she's sworn to destroy, Lae'zel must prove herself worthy of rejoining her people - if they don't execute her first.
 
 # Basic Information
 
 Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 
-* Seat: Unknown
+* Seat: 2
 * Race: Githyanki
-* Class: Fighter
-* Roles: DPS / Support / Speed (Guess)
-* Age: Unknown
+* Class: 
+* Roles: Support / DPS / Speed
+* Age: 22
 * Gender: Female
-* Alignment: Unknown
-* Affiliation: Absolute Adversaries (Guess)
-* Stats: Unknown
+* Alignment: Lawful Evil
+* Affiliation: Absolute Adversaries
+
+| Stat | Value | Day 1 Trials | Patrons |
+|---|---|---|---|
+| Strength | 17 | Yes | Mirt |
+| Dexterity | 13 | Yes | Vajra |
+| Constitution | 14 | Yes | - |
+| Intelligence | 11 | Yes | - |
+| Wisdom | 12 | Yes | |
+| Charisma | 8 | - | |
+| Total | 75 | |
 
 # Formation
 
@@ -31,7 +35,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 
 # Abilities
 
-**Base Attack: Greatsword** (Melee)
+![Melee Icon](images/icon_melee.png) **Base Attack: Greatsword** (Melee)
 > Lae'zel attacks the closest enemies with a swing of her greatsword.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -69,62 +73,8 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </p>
 </details>
 <br />
-**Base Attack: War Magic** (Melee and Magic)
-> Lae'zel attacks with her greatsword and a volley of magic missiles.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "description": "Lae'zel attacks with her greatsword and a volley of magic missiles.",
-    "long_description": "",
-    "damage_modifier": 1,
-    "damage_types": [
-        "melee",
-        "magic"
-    ],
-    "graphic_id": 0,
-    "target": "front",
-    "aoe_radius": 0,
-    "tags": [
-        "melee",
-        "ranged"
-    ],
-    "num_targets": 1,
-    "animations": [{
-        "melee_leap_offset": [
-            -100,
-            0
-        ],
-        "magic_shoot_offset": [
-            100,
-            -105
-        ],
-        "magic_sequence": "attack_b",
-        "attack_sounds": {
-            "magic": 149,
-            "melee": 158
-        },
-        "melee_sequence": "attack",
-        "special_melee": "laezel",
-        "melee_hit_frame": 4,
-        "magic_shoot_frames": [
-            6,
-            11,
-            16
-        ],
-        "type": "melee_attack",
-        "melee_aoe_radius": 150
-    }],
-    "name": "War Magic",
-    "cooldown": 8,
-    "id": 656
-}
-</pre>
-</p>
-</details>
-<br />
 
-**Ultimate Attack: Psionic Leap** (Guess)
+![Psionic Leap Icon](images/laezel/icon_psionicleap.png) **Ultimate Attack: Psionic Leap** (Level: 35)
 > Lae'zel psionically leaps into the enemies and attacks with a psionic shockwave, stunning them all for a short duration.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -166,11 +116,22 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
-**Critical Hit** (Guess)
-> Lae'zel's base chance to Critical Hit is `$(amount)%`.
+**Critical Hit** (Level: 0)
+> Lae'zel's base chance to Critical Hit is 20%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 0,
+    "effect": "effect_def,1597",
+    "name": "Critical Hit",
+    "id": 12112,
+    "hero_id": 128,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [{"effect_string": "set_base_crit_chance,20"}],
     "requirements": "",
@@ -189,11 +150,41 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
-**Lethal Coordination**
-> Lae'zel increases the damage of all Champions in her column by `$(amount)%`, including herself.
+![Lethal Coordination Icon](images/laezel/icon_lethalcoordination.png) **Lethal Coordination** (Level: 5)
+> Lae'zel increases the damage of all Champions in her column by 100%, including herself.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       40: 100%
+
+    Total Upgrade Bonus: 100%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	Dull Epic ilvl    100: 8.68e02%
+	Dull Epic ilvl  1,000: 2.85e03%
+	Dull Epic ilvl 10,000: 2.26e04%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 5,
+    "effect": "effect_def,1598",
+    "tip_text": "Lae'zel increases the damage of all Champions in her column, including herself.",
+    "name": "Lethal Coordination",
+    "id": 12113,
+    "hero_id": 128,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [{
         "effect_string": "hero_dps_multiplier_mult,100",
@@ -211,11 +202,50 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
-**Ceremorphosis**
-> Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Lae'zel's brain. Lae'zel increases the effect of `$(upgrade_name id___2)` by `$(amount)%` for each Ceremorphosis stack, stacking multiplicatively.
+![Ceremorphosis Icon](images/laezel/icon_ceremorphosis.png) **Ceremorphosis** (Level: 10)
+> Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Lae'zel's brain. Lae'zel increases the effect of Lethal Coordination by 100% for each Ceremorphosis stack, stacking multiplicatively.
+
+*Note: This ability might be prestack.*
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       45: 100%
+
+    Total Upgrade Bonus: 100%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	Dull Epic ilvl    100:
+		   0 Stacks: 867.8%
+		2000 Stacks: 3.87e06%
+
+	Dull Epic ilvl  1,000:
+		   0 Stacks: 2,847.8%
+		2000 Stacks: 1.18e07%
+
+	Dull Epic ilvl 10,000:
+		   0 Stacks: 2.26e04%
+		2000 Stacks: 9.10e07%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 10,
+    "effect": "effect_def,1599",
+    "name": "Ceremorphosis",
+    "id": 12114,
+    "hero_id": 128,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {"effect_string": "pre_stack_amount,100"},
@@ -262,11 +292,39 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
-**Straight to the Point**
-> In non-boss areas, whenever an enemy is defeated by anything OTHER than Lae'zel, she has a `$(amount)%` chance to gain an Impatience stack. When she has `$(max_stacks___2)` Impatience stacks, complete the current area and reset the Impatience stacks to the current Ceremorphosis count. Stacks persist when changing areas.
+![Straight to the Point Icon](images/laezel/icon_straighttothepoint.png) **Straight to the Point** (Level: 15)
+> In non-boss areas, whenever an enemy is defeated by anything OTHER than Lae'zel, she has a 100% chance to gain an Impatience stack. When she has 17 Impatience stacks, complete the current area and reset the Impatience stacks to the current Ceremorphosis count. Stacks persist when changing areas.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       50: 100%
+
+    Total Upgrade Bonus: 100%
+
+Expected numbers:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	At softcap: 100%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 15,
+    "effect": "effect_def,1600",
+    "tip_text": "Lae'zel gets impatient when other Champions defeat enemies which results in her complete areas early.",
+    "name": "Straight to the Point",
+    "id": 12115,
+    "hero_id": 128,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {"effect_string": "laezel_straight_to_the_point_chance,100"},
@@ -297,11 +355,40 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
-**Aberration Hunter**
-> Aberrations are Lae'zel's Favored Foe. Every time an Aberration spawns, Lae'zel's `$(upgrade_name id___2)` is multiplicatively increased by `$(not_buffed amount___2)%`, stacking up to `$(max_stack_mult___3)` times the Ceremorphosis stack count and resetting when changing areas. There is a `$(amount___4)%` chance with each wave in a non-boss area that an extra Mind Flayer spawns.
+![Aberration Hunter Icon](images/laezel/icon_aberrationhunter.png) **Aberration Hunter** (Level: 20)
+> Aberrations are Lae'zel's Favored Foe. Every time an Aberration spawns, Lae'zel's Lethal Coordination is multiplicatively increased by 100%, stacking up to 4 times the Ceremorphosis stack count and resetting when changing areas. There is a 33% chance with each wave in a non-boss area that an extra Mind Flayer spawns.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       55: 100%
+
+    Total Upgrade Bonus: 100%
+
+Expected numbers with various item levels:
+	(Does not include feats.)
+	(Possibly highly inaccurate.)
+
+	Dull Epic ilvl    100: -9.03e01%
+	Dull Epic ilvl  1,000: -7.05e01%
+	Dull Epic ilvl 10,000: 1.27e02%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 20,
+    "effect": "effect_def,1601",
+    "name": "Aberration Hunter",
+    "id": 12116,
+    "hero_id": 128,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [
         {
@@ -352,11 +439,22 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
-**Ferocious Warrior**
-> If Lae'zel attacks and any of her targets survive, her base attack cooldown for her next attack is reduced by `$(amount)` seconds.
+![Ferocious Warrior Icon](images/laezel/icon_ferociouswarrior.png) **Ferocious Warrior** (Level: 25)
+> If Lae'zel attacks and any of her targets survive, her base attack cooldown for her next attack is reduced by 4 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "required_level": 25,
+    "effect": "effect_def,1602",
+    "name": "Ferocious Warrior",
+    "id": 12117,
+    "hero_id": 128,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0
+}
 {
     "effect_keys": [{
         "stack_title": "Ferocious Warrior Stacks",
@@ -389,41 +487,48 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
-# Specialisations
-
-**Specialisation: Champion**
-> Increases Lae'zel's Critical Hit chance by `$(amount)%` (additively) and Critical Hit damage by `$(amount___2)%` (multiplicatively).
+**unused** (Level: 9999)
+> Unknown Effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [
-        {"effect_string": "buff_base_crit_chance_add,20"},
-        {"effect_string": "buff_base_crit_damage_mult,100"}
-    ],
-    "requirements": "",
-    "description": {"desc": "Increases $source's Critical Hit chance by $(amount)% (additively) and Critical Hit damage by $(amount___2)% (multiplicatively)."},
-    "id": 1603,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "indexed_effect_properties": true,
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "formation_circle_icon": false,
-        "per_effect_index_bonuses": true
-    }
+    "static_dps_mult": null,
+    "required_level": 9999,
+    "effect": "",
+    "name": "unused",
+    "id": 12126,
+    "hero_id": 128,
+    "upgrade_type": null,
+    "default_enabled": 1,
+    "required_upgrade_id": 9999
 }
 </pre>
 </p>
 </details>
 <br />
 
-**Specialisation: Battle Master**
-> When Lae'zel hits an enemy and they survive, the enemy is distracted and the next Champion (other than Lae'zel) that hits them deals an additional `$(amount)` seconds of BUD-based damage.
+# Specialisations
+
+![Battle Master Icon](images/laezel/icon_battlemaster.png) **Battle Master** (Level: 30)
+> When Lae'zel hits an enemy and they survive, the enemy is distracted and the next Champion (other than Lae'zel) that hits them deals an additional 4 seconds of BUD-based damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Battle Master",
+    "required_level": 30,
+    "effect": "effect_def,1604",
+    "name": "Battle Master",
+    "specialization_graphic_id": 20241,
+    "id": 12119,
+    "hero_id": 128,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Lae'zel's attacks distract enemies, causing the next attack that hits them to do massive damage."
+}
 {
     "effect_keys": [{
         "distracted_graphic_offset": [
@@ -448,11 +553,67 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
-**Specialisation: Eldritch Knight**
+![Champion Icon](images/laezel/icon_champion.png) **Champion** (Level: 30)
+> Increases Lae'zel's Critical Hit chance by 20% (additively) and Critical Hit damage by 100% (multiplicatively).
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Champion",
+    "required_level": 30,
+    "effect": "effect_def,1603",
+    "name": "Champion",
+    "specialization_graphic_id": 20242,
+    "id": 12118,
+    "hero_id": 128,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Lae'zel becomes a Champion, increasing the chance and damage of her critical hits."
+}
+{
+    "effect_keys": [
+        {"effect_string": "buff_base_crit_chance_add,20"},
+        {"effect_string": "buff_base_crit_damage_mult,100"}
+    ],
+    "requirements": "",
+    "description": {"desc": "Increases $source's Critical Hit chance by $(amount)% (additively) and Critical Hit damage by $(amount___2)% (multiplicatively)."},
+    "id": 1603,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+![Eldritch Knight Icon](images/laezel/icon_eldritchknight.png) **Eldritch Knight** (Level: 30)
 > Lae'zel now casts Magic Missile immediately after attacking with her greatsword, firing a missile at 3 random targets.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "static_dps_mult": null,
+    "specialization_name": "Eldritch Knight",
+    "required_level": 30,
+    "effect": "effect_def,1605",
+    "name": "Eldritch Knight",
+    "specialization_graphic_id": 20243,
+    "id": 12120,
+    "hero_id": 128,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 0,
+    "specialization_description": "Lae'zel becomes an Eldritch Knight, allowing her to cast Magic Missile after each of her Greatsword attacks."
+}
 {
     "effect_keys": [{"effect_string": "change_base_attack,656"}],
     "requirements": "",
@@ -473,22 +634,143 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 
 # Items
 
-| Icon | Name | Type |
-|:-:|---|---|
-| ![Armor Icon](images/laezel/20251.png) | `Armor` | Unknown |
-| ![Boots Icon](images/laezel/20254.png) | `Boots` | Unknown |
-| ![Githyanki Icon](images/laezel/20257.png) | `Githyanki` | Unknown |
-| ![Magic Icon](images/laezel/20260.png) | `Magic` | Unknown |
-| ![Ranged Icon](images/laezel/20263.png) | `Ranged` | Unknown |
-| ![Sword Icon](images/laezel/20266.png) | `Sword` | Unknown |
+| Icon | Slot | Epic Name | Type |
+|:-:|---|---|---|
+| ![Mind Seeker Icon](images/laezel/20263.png) | 1 | `Mind Seeker` | All Champion Damage |
+| ![Githyanki Silver Sword Icon](images/laezel/20266.png) | 2 | `Githyanki Silver Sword` | Lethal Coordination |
+| ![Token of Vlaakith Icon](images/laezel/20257.png) | 3 | `Token of Vlaakith` | Ceremorphosis |
+| ![Dragonrider Armour Icon](images/laezel/20251.png) | 4 | `Dragonrider Armour` | Aberration Hunter |
+| ![Astral Striders Icon](images/laezel/20254.png) | 5 | `Astral Striders` | Ultimate Damage |
+| ![Sunwalker's Gift Icon](images/laezel/20260.png) | 6 | `Sunwalker's Gift` | Ultimate Cooldown Reduction |
+
+<details><summary><em>Item Names and Descriptions</em></summary>
+<p>
+<pre>
+Slot 1:
+          Raiding Daggers: A gift from my sa'varsh. I used them to survive my first of many
+                           raids.
+          Balanced Blades: A fellow initiate called these blades 'insufficient'. The wounds
+                           they left on his forehead prove otherwise.
+             Ghaik Slayer: This will help me bring a ghaik head to my Undying Queen.
+              Mind Seeker: Each bolt is enchanted to seek out the brain of a ghaik and destroy
+                           it.
+
+Slot 2:
+          Training Weapon: The edge may be dull, but it will cleave my foes open all the same.
+     Battle Damaged Sword: Each mark on this blade is a lesson I learned on Crèche K'liir.
+               Greatsword: One day I will wield a true silver sword in Vlaakith's name.
+   Githyanki Silver Sword: Within this blade lives the whole of the empire's might!
+
+Slot 3:
+            Raiding Prize: A mere trinket.
+      Memory of the Tears: A simple memento of the crèche I once called home.
+            Aether Shards: Said to be found only in Tu'narath, the City of Death.
+        Token of Vlaakith: The engraving on the back reads: 'Vlaakith'ka sivim hrath krash'ht'
+
+Slot 4:
+              Ornate Garb: Discarded attire from Crèche K'liir - a hand-me-down from the varsh.
+        Ancient Adornment: Ceremonial garments, passed from the undead tl'a'ikith who wore them
+                           in life.
+           Githyanki Mail: The armor of a githyanki warrior is unmatched.
+       Dragonrider Armour: To wear this armour atop a red dragon steed is my duty and my
+                           destiny!
+
+Slot 5:
+          Leather Sandals: Tsk'va! I hate these things.
+        Well Used Sandals: Training on Crèche K'liir with these was close to torture.
+         Half Plate Boots: With one sturdy stomp, I could crush a ghaik's abominable skull.
+          Astral Striders: With these, I can walk amongst the stars and hunt ghaik wherever the
+                           hide.
+
+Slot 6:
+       Unidentified Crown: I snatched this from the ruins of a githyanki temple. It holds but a
+                           trace of psionic magic.
+            Ancient Crown: The magic within this crown reeks of shadow. I call upon it at my
+                           own peril.
+Gloves of Missile Snaring: The spoils of a victorious raid. They serve their purpose more than
+                           adequately.
+         Sunwalker's Gift: With this, the shadows bow to me.
+</pre>
+</p>
+</details>
+<br />
 
 # Feats
 
-Unknown.
+This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
+
+| Icon | Feat | Effect | Source |
+|---|---|---|---|
+| <span class="feat2">![Tavern Brawler Icon](images/featicons/selfdps.png)</span> | `Tavern Brawler` | 30% Self DPS | Free |
+| <span class="feat3">![Grappler Icon](images/featicons/selfdps.png)</span> | `Grappler` | 60% Self DPS | Gold Chest |
+| <span class="feat2">![Selflessness Icon](images/featicons/globaldps.png)</span> | `Selflessness` | 10% All Champion Damage | Free |
+| <span class="feat3">![Inspiring Leader Icon](images/featicons/globaldps.png)</span> | `Inspiring Leader` | 25% All Champion Damage | 12,500 Gems |
+| <span class="feat2">![Lethal Timing Icon](images/featicons/upgradefa.png)</span> | `Lethal Timing` | 20% Lethal Coordination | Free |
+| <span class="feat3">![Lethal Tactics Icon](images/featicons/upgradefa.png)</span> | `Lethal Tactics` | 40% Lethal Coordination | Gold Chest |
+| <span class="feat2">![Stygian Vigor Icon](images/featicons/upgradefa.png)</span> | `Stygian Vigor` | 20% Ceremorphosis | Free |
+| <span class="feat3">![Eldritch Empowerment Icon](images/featicons/upgradefa.png)</span> | `Eldritch Empowerment` | 40% Ceremorphosis | 12,500 Gems |
+| <span class="feat3">![No Time to Explain Icon](images/featicons/upgradefa.png)</span> | `No Time to Explain` | 40% Straight to the Point | 12,500 Gems |
+| <span class="feat4">![Hurry Up! Icon](images/featicons/upgradefa.png)</span> | `Hurry Up!` | 80% Straight to the Point | 50,000 Gems |
+| <span class="feat3">![Aberrant Slayer Icon](images/featicons/upgradefa.png)</span> | `Aberrant Slayer` | 40% Aberration Hunter | Gold Chest |
+| <span class="feat3">![Battle Expertise Icon](images/featicons/critchanceincrease.png)</span> | `Battle Expertise` | +20% Crit Chance | Gold Chest |
+| <span class="feat3">![Cataclysmic Strike Icon](images/featicons/critdamageincrease.png)</span> | `Cataclysmic Strike` | +60% Crit Damage | Gold Chest |
 
 # Legendaries
 
-Unknown.
+* Increases the damage of all Champions by 10% for each Champion in the formation.
+* Increases the damage of all Female Champions by 125%.
+* Increases the damage of all Champions by 10% for each Champion in the formation.
+* Increases the damage of all Champions by 20% for each Champion with a INT score of 11 or higher in the formation.
+* Increases the damage of all Champions by 30% for each Champion with a DEX score of 13 or higher in the formation.
+* Increases the damage of all Champions by 20% for each Melee Champion in the formation.
+
+<details><summary><em>DPS Applicable</em></summary>
+<p>
+<pre>
+     Arkhan: 5 / 6
+    Artemis: 5 / 6
+    Asharra: 6 / 6
+      Azaka: 6 / 6
+     Binwin: 5 / 6
+   Birdsong: 6 / 6
+Black Viper: 6 / 6
+ Catti-brie: 6 / 6
+     D'hani: 6 / 6
+     Delina: 6 / 6
+    Dhadius: 5 / 6
+     Drizzt: 5 / 6
+    Farideh: 6 / 6
+        Fen: 6 / 6
+      Grimm: 5 / 6
+     Gromma: 6 / 6
+       Ishi: 6 / 6
+    Jaheira: 6 / 6
+    Jamilah: 6 / 6
+   Jarlaxle: 5 / 6
+        Jim: 5 / 6
+       Kent: 5 / 6
+      Krond: 5 / 6
+       Krux: 5 / 6
+     Lucius: 5 / 6
+      Makos: 5 / 6
+      Minsc: 5 / 6
+      NERDS: 5 / 6
+     Nahara: 6 / 6
+      Nixie: 6 / 6
+      Nrakk: 5 / 6
+     Orisha: 6 / 6
+   Prudence: 6 / 6
+      Rosie: 6 / 6
+      Strix: 6 / 6
+    Torogar: 5 / 6
+     Warden: 5 / 6
+    Warduke: 5 / 6
+     Yorven: 5 / 6
+      Zorbu: 5 / 6
+</pre>
+</p>
+</details>
+<br />
 
 # Console Portrait
 
