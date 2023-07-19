@@ -24,6 +24,8 @@ We believe the five seasonal champions this time around are likely to be Jim, Ev
 
 # Changes
 
+Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - or specialisations might not be marked as such - etc..
+
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. Making assumptions on how the champions will turn out based on this information would be premature.
 
 # Jim
@@ -1571,7 +1573,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > Omin increases the effect of Champion of Tymora by `$(amount)%` for each Champion of Tymora in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1607,7 +1609,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > Omin increases the effect of Champion of Tymora by `$(amount)%` for each Acquisitions Incorporated and/or The "C" Team champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1639,7 +1641,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > Omin increases the effect of Champion of Tymora by `$(amount)%` for each Acquisitions Incorporated and/or The "C" Team champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
