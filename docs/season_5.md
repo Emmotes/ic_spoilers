@@ -1431,7 +1431,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
-**Unknown** (Guess)
+**Adventuring Capital** (Guess)
 > Omin increases the party's gold find by `$(amount)%` each time a Champion of Tymora attacks an enemy, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
