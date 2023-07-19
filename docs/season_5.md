@@ -1642,29 +1642,31 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Omin increases the effect of Champion of Tymora by `$(amount)%` for each Acquisitions Incorporated and/or The "C" Team champion in the formation, stacking multiplicatively.
+> Omin increases the effect of Champion of Tymora by `$(amount)%` for every 10 stacks of Adventuring Capital, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [{
-        "stack_title": "Acquisitions Inc. and \"C\" Team Champions",
-        "stacks_multiply": true,
+        "amount_updated_listeners": ["stacks_changed"],
+        "stacks_multiply": false,
         "off_when_benched": true,
         "show_bonus": true,
-        "amount_func": "mult",
-        "stack_func": "per_hero",
-        "effect_string": "buff_upgrade,100,12299",
-        "stack_func_data": {"tag": "acqinc|cteam"}
+        "amount_func": "add",
+        "stack_func": "upgrade_stacks",
+        "effect_string": "buff_upgrade,1,12299",
+        "stack_func_data": {
+            "multiplier": 0.1,
+            "upgrade_id": 12300
+        }
     }],
     "requirements": [],
-    "description": {"desc": "Omin increases the effect of Champion of Tymora by $(amount)% for each Acquisitions Incorporated and/or The \"C\" Team champion in the formation, stacking multiplicatively."},
-    "id": 1642,
+    "description": {"desc": "Omin increases the effect of Champion of Tymora by $(amount)% for every 10 stacks of Adventuring Capital, stacking additively."},
+    "id": 1643,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Acq. Inc. and \"C\" Team Champions in Formation: $num_stacks",
         "formation_circle_icon": false
     }
 }
