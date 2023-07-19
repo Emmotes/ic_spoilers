@@ -130,26 +130,7 @@ Unknown.
 </details>
 <br />
 
-**Secretarians Advice**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 20573,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y7/Icon_Formation_CertaintyDranSecretariansAdvice",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-<br />
-
-**Secretarians Advice**
+**Secretarian's Advice**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
