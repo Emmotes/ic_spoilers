@@ -17,13 +17,6 @@ These are the event champions that are upcoming and all the information we know 
 * Highharvestide - 27 September 2023
   * [Certainty Dran](certaintydran.md) - Unknown Bard / Fighter of Acquisitions Incorporated (Guess)
 
-# Evergreens
-
-The upcoming Evergreen champion we're aware of.
-
-* Xaryxis 5 - 19 July 2023 (Guess)
-  * [Commodore Krux](krux.md) - Giff Fighter
-
 # Recurring Events
 
 Not events events - but events. You know?
