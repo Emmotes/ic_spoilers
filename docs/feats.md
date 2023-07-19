@@ -14,6 +14,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 | <span class="feat4">![High Ground Icon](images/featicons/upgradefa.png)</span> | High Ground | Vin Ursa | 80% Vicious Vantage | 50,000 Gems | 26 Jul 2023 |
 | <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Avren | 50% All Champion Damage | 50,000 Gems | 09 Aug 2023 |
 | <span class="feat4">![Don't Fall Behind Icon](images/featicons/upgradefa.png)</span> | Don't Fall Behind | Widdle | 80% Hurry Up Now | 50,000 Gems | 09 Aug 2023 |
+| <span class="feat4">![Hurry Up! Icon](images/featicons/upgradefa.png)</span> | Hurry Up! | Lae'zel | 80% Straight to the Point | 50,000 Gems | 16 Aug 2023 |
 | <span class="feat4">![Unlimited Potential Icon](images/featicons/upgradefa.png)</span> | Unlimited Potential | Voronika | 80% Ultimate Power | 50,000 Gems | 16 Aug 2023 |
 | <span class="feat2">![Frugal Icon](images/featicons/goldfind.png)</span> | Frugal | Donaar | 10% Gold | ??? | 30 Aug 2023 |
 | <span class="feat3">![Lucky Icon](images/featicons/goldfind.png)</span> | Lucky | Donaar | 25% Gold | ??? | 30 Aug 2023 |
@@ -61,6 +62,7 @@ These are the feats that have been filtered out of the list above due to having 
 | <span class="feat4">![Keen Eye Icon](images/featicons/upgradefa.png)</span> | Keen Eye | Krux | 80% Starfarer's Spyglass | ??? | 01 Jan 2032 |
 | <span class="feat4">![Scholar Icon](images/featicons/attributeboostx2.png)</span> | Scholar | Krux | Stat: +2 Intelligence | ??? | 01 Jan 2032 |
 | <span class="feat4">![Seahippo Icon](images/featicons/upgradefa.png)</span> | Seahippo | Krux | 80% An Experienced Sailor | ??? | 01 Jan 2032 |
+| <span class="feat4">![Scholar Icon](images/featicons/attributeboostx2.png)</span> | Scholar | Lae'zel | Stat: +2 Intelligence | ??? | 01 Jan 2032 |
 | <span class="feat4">![Caged Dreams Icon](images/featicons/upgradefa.png)</span> | Caged Dreams | Miria | 80% Soul Cage | 50,000 Gems | 01 Jan 2032 |
 | <span class="feat4">![Vicious Damage Icon](images/featicons/viciousdamage.png)</span> | Vicious Damage | Pwent | 400% Self DPS & Prevent Healing for 10s | ??? | 01 Jan 2032 |
 | <span class="feat4">![Advisor Icon](images/featicons/globaldps.png)</span> | Advisor | Regis | 50% All Champion Damage | ??? | 01 Jan 2032 |

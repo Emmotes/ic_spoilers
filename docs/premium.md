@@ -97,7 +97,7 @@ Contents:
 
 * Champion: `Lae'zel`
 * Skin: `Mind Flayer Lae'zel`
-* Feat: ???
+* Feat: `Hurry Up!` (Lae'zel)
 * Familiar: `Us the Intellect Devourer`
 * Chests: `Gold Lae'zel Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
