@@ -210,7 +210,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Hidey-Box** (Guess)
-> Whenever the formation is under attack, Jim hides in a small protective box and fires twice as many Magic Missiles when he attacks.
+> Whenever the formation is under attack, Jim hides in a small protective (cardboard) box and fires twice as many Magic Missiles when he attacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -222,7 +222,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "effect_string": "transform_while_attacked,6090,225"
     }],
     "requirements": [],
-    "description": {"desc": "Whenever the formation is under attack, Jim hides in a small protective box and fires twice as many Magic Missiles when he attacks."},
+    "description": {"desc": "Whenever the formation is under attack, Jim hides in a small protective (cardboard) box and fires twice as many Magic Missiles when he attacks."},
     "id": 1606,
     "flavour_text": "",
     "graphic_id": 0,
@@ -409,7 +409,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "show_bonus": true,
         "amount_func": "add",
         "stack_func": "per_skin",
-        "effect_string": "buff_upgrade,400,12128"
+        "effect_string": "buff_upgrade,200,12128"
     }],
     "requirements": [],
     "description": {"desc": "The effect of Fan Club is increased by $(amount)% for each Champion with a non-base skin equipped in the formation, stacking additively."},
@@ -530,6 +530,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "tags": "acqinc|cteam"
             }],
             "effect_string": "add_target_to_upgrade,,12128"
+        },
+        {
+            "stack_func": "per_hero",
+            "dev_note": "this effect key is just for getting the number of champions targetted in the formation for the spec option post apply info",
+            "effect_string": "do_nothing,0",
+            "tag": "acqinc|cteam"
         }
     ],
     "requirements": [],
@@ -540,6 +546,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Acq. Inc. and \"C\" Team Champions in Formation: $num_stacks___3 ",
         "default_bonus_index": 0,
         "formation_circle_icon": false,
         "per_effect_index_bonuses": true
@@ -715,6 +722,49 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Unknown** (Guess)
+> Every Champion in the formation grants Evelyn Grace stacks for every `$num_levels_per_stack___2 levels above their last unlockable upgrade that they are leveled`. Each Grace stack increases the effect of Divine Prayer by `$(amount)%`, stacking multiplicatively. Champions can contribute at most 1 Grace stack each for every `$num_areas_per_stack___2 areas completed in the current adventure`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,100"},
+        {
+            "amount_expr": "upgrade_amount(12209,0)",
+            "amount_updated_listeners": [
+                "hero_level_changed",
+                "area_completed",
+                "slot_changed"
+            ],
+            "stacks_multiply": true,
+            "num_levels_per_stack": 100,
+            "num_areas_per_stack": 400,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_level_past_softcap",
+            "per_hero_expr": "min(floor(levels_past_softcap/num_levels_per_stack),floor(highest_available_area/num_areas_per_stack))",
+            "effect_string": "buff_upgrade,0,12205"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Every Champion in the formation grants Evelyn Grace stacks for every $num_levels_per_stack___2 levels above their last unlockable upgrade that they are leveled. Each Grace stack increases the effect of Divine Prayer by $(amount)%, stacking multiplicatively. Champions can contribute at most 1 Grace stack each for every $num_areas_per_stack___2 areas completed in the current adventure."},
+    "id": 1620,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
 > After an ally of Evelyn is attacked by an enemy, Divine Prayer is buffed by `$amount%` for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -767,6 +817,44 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "requirements": "",
     "description": {"desc": "After $source attacks an Enemy that has recently attacked them, Divine Prayer is buffed by $amount% for 15 seconds"},
     "id": 1622,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> The effect of the bonus upgrades granted by Lathander's Grace is increased by `$(amount)%` (stacking additively and then applying multiplicatively) for each Acquisitions Incorporated, The "C" Team, or Wafflecrew Champion in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "active_graphic_owner_only": true,
+        "amount_updated_listeners": ["slot_changed"],
+        "stacks_multiply": false,
+        "active_graphic_sort_offset": 6,
+        "amount_func": "add",
+        "stack_func": "per_tagged_crusader_mult",
+        "active_graphic_y": -180,
+        "active_graphic_id": 3038,
+        "effect_string": "buff_upgrade,10,12209,0",
+        "active_graphic_frame": 0,
+        "targets": "all_slots",
+        "show_bonus": true,
+        "tag": "wafflecrew|cteam|acqinc",
+        "active_graphic_unique": 0
+    }],
+    "requirements": "",
+    "description": {"desc": "The effect of the bonus upgrades granted by Lathander's Grace is increased by $(amount)% (stacking additively and then applying multiplicatively) for each Acquisitions Incorporated, The \"C\" Team, or Wafflecrew Champion in the formation."},
+    "id": 1623,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
@@ -907,6 +995,31 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "is_formation_ability": false,
         "effect_name": "Conduit of the Light",
         "individual_target_timers_desc": true
+    }
+}
+</pre>
+</p>
+</details>
+<br />
+
+**Unknown** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "amount_expr": "upgrade_amount(12209,0)",
+        "effect_string": "global_dps_multiplier_mult,0"
+    }],
+    "requirements": "",
+    "description": {"desc": ""},
+    "id": 1654,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -1405,8 +1518,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "underlay_graphic_id": 20479,
             "off_when_benched": true,
+            "update_when_purchased_upg_ids": [
+                12301,
+                11742,
+                8147
+            ],
             "effect_string": "champion_of_tymora_v2",
-            "known_associates_upg_id": 12301,
             "skip_effect_key_desc": true
         }
     ],
@@ -1527,7 +1644,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "upgrade_id": 12299,
             "type": "affected_by_upgrade"
         }],
-        "targets": ["all"]
+        "targets": ["all"],
+        "retarget_when_upgrade_purchased_ids": [8147]
     }],
     "requirements": [],
     "description": {"desc": "Champions of Tymora are healed for $(amount) health per second."},
@@ -1766,6 +1884,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "show_bonus": true,
         "amount_func": "mult",
         "stack_func": "per_hero",
+        "use_computed_amount_for_description": true,
         "retarget_when_any_hero_slot_changed": true,
         "effect_string": "hero_dps_multiplier_mult,400",
         "filter_targets": [{
@@ -1809,7 +1928,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "filter_attack_targets_by_tags": "!vi_creation^!boss^!armor_based^!hits_based^!static",
-            "effect_string": "chance_to_change_base_attack,10,665,488",
+            "effect_string": "chance_to_change_base_attack,90,665,488",
             "show_outgoing_desc_when_benched": false
         },
         {
@@ -1864,8 +1983,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "flavour_text": "",
     "graphic_id": 12901,
     "properties": {
+        "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -1882,10 +2004,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "stack_title": "Sass stacks",
+            "stacks_multiply": true,
             "manual_stacking": true,
             "off_when_benched": true,
             "show_bonus": true,
-            "amount_func": "mult",
             "effect_string": "buff_upgrade,0.5,12312",
             "stacks_per_second": 1
         },
