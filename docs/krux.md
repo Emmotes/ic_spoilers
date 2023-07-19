@@ -660,14 +660,9 @@ This list will only show feats that are going to be available on the release of 
 | <span class="feat3">![Calm Under Pressure Icon](images/featicons/overhelm.png)</span> | `Calm Under Pressure` | +10 Overwhelm | Gold Chest |
 | <span class="feat2">![Trained Crew Icon](images/featicons/upgradefa.png)</span> | `Trained Crew` | 20% All Hands On Deck! | Free |
 | <span class="feat3">![Experienced Crew Icon](images/featicons/upgradefa.png)</span> | `Experienced Crew` | 40% All Hands On Deck! | Gold Chest |
-| <span class="feat4">![Bigger Boat Icon](images/featicons/upgradefa.png)</span> | `Bigger Boat` | +Buffs 2nd Rear Column | Promotion 50 |
 | <span class="feat3">![Man the Cannons Icon](images/featicons/upgradefa.png)</span> | `Man the Cannons` | 40% Battle Stations! | Gold Chest |
-| <span class="feat4">![Keen Eye Icon](images/featicons/upgradefa.png)</span> | `Keen Eye` | 80% Starfarer's Spyglass | Promotion 50 |
-| <span class="feat4">![Seahippo Icon](images/featicons/upgradefa.png)</span> | `Seahippo` | 80% An Experienced Sailor | Promotion 50 |
 | <span class="feat3">![Wildspace Veteran Icon](images/featicons/upgradefa.png)</span> | `Wildspace Veteran` | 40% All Specialisations | Gold Chest |
 | <span class="feat3">![Nimble Icon](images/featicons/attributeboost.png)</span> | `Nimble` | Stat: +1 Dexterity | 12,500 Gems |
-| <span class="feat4">![Entertainer Icon](images/featicons/attributeboostx2.png)</span> | `Entertainer` | Stat: +2 Charisma | Promotion 50 |
-| <span class="feat4">![Scholar Icon](images/featicons/attributeboostx2.png)</span> | `Scholar` | Stat: +2 Intelligence | Promotion 50 |
 
 # Legendaries
 
