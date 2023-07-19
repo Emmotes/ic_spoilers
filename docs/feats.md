@@ -59,7 +59,7 @@ These are the feats that have been filtered out of the list above due to having 
 | <span class="feat3">![Durable Icon](images/featicons/attributeboost.png)</span> | Durable | Jarlaxle | Stat: +1 Constitution | ??? | 01 Jan 2032 |
 | <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Jarlaxle | +20% Crit Chance | ??? | 01 Jan 2032 |
 | <span class="feat4">![Obliterating Blast Icon](images/featicons/critdamageincrease.png)</span> | Obliterating Blast | Jarlaxle | +120% Crit Damage | ??? | 01 Jan 2032 |
-| <span class="feat4">![Bigger Boat Icon](images/featicons/upgradefa.png)</span> | Bigger Boat | Krux | ???: [change_upgrade_data,11653] | ??? | 01 Jan 2032 |
+| <span class="feat4">![Bigger Boat Icon](images/featicons/upgradefa.png)</span> | Bigger Boat | Krux | +Buffs 2nd Rear Column | ??? | 01 Jan 2032 |
 | <span class="feat3">![Calm Under Pressure Icon](images/featicons/overhelm.png)</span> | Calm Under Pressure | Krux | +10 Overwhelm | Gold Chest | 01 Jan 2032 |
 | <span class="feat2">![Defensive Duelist Icon](images/featicons/overhelm.png)</span> | Defensive Duelist | Krux | +5 Overwhelm | Free | 01 Jan 2032 |
 | <span class="feat2">![Elven Accuracy Icon](images/featicons/selfdps.png)</span> | Elven Accuracy | Krux | 30% Self DPS | Free | 01 Jan 2032 |
