@@ -12,7 +12,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 
 * Seat: 2
 * Race: Githyanki
-* Class: 
+* Class: Fighter
 * Roles: Support / DPS / Speed
 * Age: 22
 * Gender: Female
@@ -481,27 +481,6 @@ Expected numbers with various item levels:
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
     }
-}
-</pre>
-</p>
-</details>
-<br />
-
-**unused** (Level: 9999)
-> Unknown Effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "static_dps_mult": null,
-    "required_level": 9999,
-    "effect": "",
-    "name": "unused",
-    "id": 12126,
-    "hero_id": 128,
-    "upgrade_type": null,
-    "default_enabled": 1,
-    "required_upgrade_id": 9999
 }
 </pre>
 </p>
