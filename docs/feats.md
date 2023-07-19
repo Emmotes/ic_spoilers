@@ -56,7 +56,7 @@ These are the feats that have been filtered out of the list above due to having 
 | <span class="feat3">![Durable Icon](images/featicons/attributeboost.png)</span> | Durable | Jarlaxle | Stat: +1 Constitution | ??? | 01 Jan 2032 |
 | <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Jarlaxle | +20% Crit Chance | ??? | 01 Jan 2032 |
 | <span class="feat4">![Obliterating Blast Icon](images/featicons/critdamageincrease.png)</span> | Obliterating Blast | Jarlaxle | +120% Crit Damage | ??? | 01 Jan 2032 |
-| <span class="feat4">![Bigger Boat Icon](images/featicons/upgradefa.png)</span> | Bigger Boat | Krux | All Hands on Deck Applies to the Rear Two Columns | ??? | 01 Jan 2032 |
+| <span class="feat4">![Bigger Boat Icon](images/featicons/upgradefa.png)</span> | Bigger Boat | Krux | All Hands on Deck Now Also Applies to the Column Second from the Back | ??? | 01 Jan 2032 |
 | <span class="feat4">![Entertainer Icon](images/featicons/attributeboostx2.png)</span> | Entertainer | Krux | Stat: +2 Charisma | ??? | 01 Jan 2032 |
 | <span class="feat4">![Keen Eye Icon](images/featicons/upgradefa.png)</span> | Keen Eye | Krux | 80% Starfarer's Spyglass | ??? | 01 Jan 2032 |
 | <span class="feat4">![Scholar Icon](images/featicons/attributeboostx2.png)</span> | Scholar | Krux | Stat: +2 Intelligence | ??? | 01 Jan 2032 |
