@@ -253,27 +253,6 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Target Acquisition Icon](images/vinursa/icon_targetacquisition.png) **Target Acquisition** (Level: 90)
-> Unknown Effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "static_dps_mult": null,
-    "required_level": 90,
-    "effect": "set_ultimate_attack",
-    "name": "Target Acquisition",
-    "id": 12095,
-    "hero_id": 127,
-    "upgrade_type": "unlock_ultimate",
-    "default_enabled": 1,
-    "required_upgrade_id": 0
-}
-</pre>
-</p>
-</details>
-<br />
-
 ![Vicious Vantage Icon](images/vinursa/icon_viciousvantage.png) **Vicious Vantage** (Level: 130)
 > Vin Ursa increases the effect of your Deck specialization by 100% for each Favored Foe she has, stacking multiplicatively. Buffs apply to the pre-stack multiplier.
 
