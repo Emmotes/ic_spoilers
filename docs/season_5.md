@@ -1479,13 +1479,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 ![Omin Portrait](images/season_5/omin.png)
 
 **Ultimate: Spirit Guardian**
-> Omin summons 15 Spirit Guardians which explode every 2 seconds, damaging all monsters in a large area. The duration of Champion of Tymora is doubled as long as a Spirit remains.
+> Omin summons 15 Spirit Guardians which explode every 2 seconds, damaging all monsters in a large area. The effect of Champion of Tymora is increased as long as a Spirit remains.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "description": "Omin summons 15 Spirit Guardians which damage a random area every 2 seconds.",
-    "long_description": "Omin summons 15 Spirit Guardians which explode every 2 seconds, damaging all monsters in a large area. The duration of Champion of Tymora is doubled as long as a Spirit remains.",
+    "long_description": "Omin summons 15 Spirit Guardians which explode every 2 seconds, damaging all monsters in a large area. The effect of Champion of Tymora is increased as long as a Spirit remains.",
     "damage_modifier": 0.03,
     "damage_types": ["magic"],
     "graphic_id": 8390,
@@ -1692,7 +1692,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Omin increases the effect of Champion of Tymora by `$(amount)%` for each Champion of Tymora in the formation, stacking multiplicatively.
+> Omin increases the effect of Champion of Tymora by `$(not_buffed amount)%` for each Champion of Tymora in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1712,7 +1712,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }}
     }],
     "requirements": [],
-    "description": {"desc": "Omin increases the effect of Champion of Tymora by $(amount)% for each Champion of Tymora in the formation, stacking multiplicatively."},
+    "description": {"desc": "Omin increases the effect of Champion of Tymora by $(not_buffed amount)% for each Champion of Tymora in the formation, stacking multiplicatively."},
     "id": 1641,
     "flavour_text": "",
     "graphic_id": 0,
@@ -1728,7 +1728,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <br />
 
 **Specialisation: Unknown** (Guess)
-> Omin increases the effect of Champion of Tymora by `$(amount)%` for each Acquisitions Incorporated and/or The "C" Team champion in the formation, stacking multiplicatively.
+> Omin increases the effect of Champion of Tymora by `$(not_buffed amount)%` for each Acquisitions Incorporated and/or The "C" Team champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1744,7 +1744,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "stack_func_data": {"tag": "acqinc|cteam"}
     }],
     "requirements": [],
-    "description": {"desc": "Omin increases the effect of Champion of Tymora by $(amount)% for each Acquisitions Incorporated and/or The \"C\" Team champion in the formation, stacking multiplicatively."},
+    "description": {"desc": "Omin increases the effect of Champion of Tymora by $(not_buffed amount)% for each Acquisitions Incorporated and/or The \"C\" Team champion in the formation, stacking multiplicatively."},
     "id": 1642,
     "flavour_text": "",
     "graphic_id": 0,
