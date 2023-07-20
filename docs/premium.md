@@ -117,7 +117,7 @@ Contents:
 
 <br />
 
-### Morph the Adorable Illithid Tadpole Familiar Pack - $9.99  
+### Morph the Gnarly Illithid Tadpole Familiar Pack - $9.99  
 Date of release: 23 Aug 2023
 
 Contents:
