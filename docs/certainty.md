@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![PC Portrait](images/certainty/portrait.png)
-{% endcomment %}
 
 # Certainty Dran
 
