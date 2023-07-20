@@ -74,7 +74,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
-![Melee Icon](images/icon_melee.png) **Base Attack: War Magic** (Melee / Magic)
+![Melee Icon](images/icon_melee.png) ![Magic Icon](images/icon_magic.png) **Base Attack: War Magic** (Melee / Magic)
 > Lae'zel attacks with her greatsword and a volley of magic missiles.
 <details><summary><em>Raw Data</em></summary>
 <p>
