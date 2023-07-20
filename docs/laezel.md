@@ -74,6 +74,61 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
+![Melee Icon](images/icon_melee.png) **Base Attack: War Magic** (Melee / Magic)
+> Lae'zel attacks with her greatsword and a volley of magic missiles.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Lae'zel attacks with her greatsword and a volley of magic missiles.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": [
+        "melee",
+        "magic"
+    ],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": [
+        "melee",
+        "ranged"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "melee_leap_offset": [
+            -100,
+            0
+        ],
+        "magic_shoot_offset": [
+            100,
+            -105
+        ],
+        "magic_sequence": "attack_b",
+        "attack_sounds": {
+            "magic": 149,
+            "melee": 158
+        },
+        "melee_sequence": "attack",
+        "special_melee": "laezel",
+        "melee_hit_frame": 4,
+        "magic_shoot_frames": [
+            6,
+            11,
+            16
+        ],
+        "type": "melee_attack",
+        "melee_aoe_radius": 150
+    }],
+    "name": "War Magic",
+    "cooldown": 8,
+    "id": 656
+}
+</pre>
+</p>
+</details>
+<br />
+
 ![Psionic Leap Icon](images/laezel/icon_psionicleap.png) **Ultimate Attack: Psionic Leap** (Level: 35)
 > Lae'zel psionically leaps into the enemies and attacks with a psionic shockwave, stunning them all for a short duration.
 <details><summary><em>Raw Data</em></summary>
