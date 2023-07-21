@@ -723,6 +723,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 **Lathander's Grace** (Guess)
 > Every Champion in the formation grants Evelyn Grace stacks for every `$num_levels_per_stack___2 levels above their last unlockable upgrade that they are leveled`. Each Grace stack increases the effect of Divine Prayer by `$(amount)%`, stacking multiplicatively. Champions can contribute at most 1 Grace stack each for every `$num_areas_per_stack___2 areas completed in the current adventure`.
+
+*Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -763,8 +765,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 <br />
-
-*Note: This ability might be prestack.*
 
 **Unknown** (Guess)
 > After an ally of Evelyn is attacked by an enemy, Divine Prayer is buffed by `$amount%` for 15 seconds.
@@ -1361,6 +1361,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 **Power of Friendship** (Guess)
 > The radius of Poor Hygiene is increased by `$(amount___3)%` (stacking additively and then applying multiplicatively) and the damage bonus is increased by `$(amount)%` (stacking multiplicatively) for each other Acquisitions Incorporated, "C" - Team, or Wafflecrew Champion in the formation.
+
+*Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1404,8 +1406,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 <br />
-
-*Note: This ability might be prestack.*
 
 **Specialisation: Olfactory Fatigue** (Guess)
 > The base damage bonus effect of The Power of Friendship (and Nose Plugs) is increased by `$(amount)%`.
