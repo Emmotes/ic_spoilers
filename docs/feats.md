@@ -92,7 +92,7 @@ These are the feats that have been filtered out of the list above due to having 
 
 # Seat Swap Feats
 
-**Update**: According to Dev Insights (and remember - what they say doesn't always match what they do) - these seat swap feats have been mothballed because it was too `technically complicated` to implement. So just be aware that these might never come to fruition.  
+**Update**: According to Dev Insights (and remember - what they say doesn't always match what they do) - these seat swap feats have been mothballed because they were too `technically complicated` to implement. So just be aware that they might never come to fruition.  
 Source: [Developer Insights Ep89 07:13-09:00](https://www.youtube.com/watch?v=NwqQh1LKczM&t=433s)
 
 These icons entered the defines a while ago - and we recently got the first appearance of a feat that uses them. Given that - it seems that these will be handed out sparingly to select champions that specifically allow them to move to one specific seat. I highly doubt they'll be a free-for-all.
