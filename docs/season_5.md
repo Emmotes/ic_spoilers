@@ -25,6 +25,10 @@ Season 5 will be called `Acquisitions Incorporated` and is guesstimated to start
 
 The five seasonal champions this time around will be Strix Evelyn Omin Jim and Vi. We know this because the seasonal chest will be `Gold Acquisitions Incorporated Chest` and it contains loot for those champions.
 
+### Currency Icon
+
+![Season 5 Currency](images/season_5/currency.png)
+
 # Changes
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - or specialisations might not be marked as such - etc..
