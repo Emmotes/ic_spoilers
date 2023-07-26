@@ -28,40 +28,6 @@ Feats that are listed as Free will be available immediately the moment they rele
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Tatyana</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">26 Jul 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Vin Ursa</span>
-        </span>
-        <span class="featTableIcon4">
-            ![High Ground Icon](images/featicons/upgradefa.png)High Ground
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Vicious Vantage</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">26 Jul 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Avren</span>
         </span>
         <span class="featTableIcon4">

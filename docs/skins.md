@@ -9,34 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Fighting Pits Tatyana Portrait](images/skin_portraits/fightingpitstatyana.png)Fighting Pits Tatyana
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Fighting Pits Tatyana Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">26 Jul 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Astral Vin Ursa Portrait](images/skin_portraits/astralvinursa.png)Astral Vin Ursa
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Astral Vin Ursa Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$24.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">26 Jul 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Spelljammer Avren Portrait](images/skin_portraits/spelljammeravren.png)Spelljammer Avren
         </span>
         <span class="skinTableSource">

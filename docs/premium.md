@@ -4,34 +4,6 @@
 
 Upcoming real-money shop items.
 
-### Astral Vin Ursa Theme Pack - $24.99  
-Date of release: 26 Jul 2023
-
-Contents:
-
-* Champion: `Vin Ursa`
-* Skin: `Astral Vin Ursa`
-* Feat: `High Ground` (Vin Ursa)
-* Familiar: `Clawbekka the Crab`
-* Chests: `Gold Vin Ursa Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-
-<br />
-
-### Fighting Pits Tatyana Skin & Feat Pack - $9.99  
-Date of release: 26 Jul 2023
-
-Contents:
-
-* Champion: `Tatyana`
-* Skin: `Fighting Pits Tatyana`
-* Feat: `Prodigal Leader` (Tatyana)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Tatyana Chest` x7 (Shinies x1)
-
-<br />
-
 ### Spelljammer Avren Skin & Feat Pack - $9.99  
 Date of release: 09 Aug 2023
 
