@@ -34,13 +34,6 @@ code{
     padding: 0px;
     border-radius: 0px;
 }
-.feat1,.feat2,.feat3,.feat4,.feat5 {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 42px;
-	width: 42px;
-}
 .featTableColumn {
     display: flex;
     flex-direction: column;
@@ -48,12 +41,10 @@ code{
     justify-content: flex-start;
     align-items: flex-start;
 	margin: 1px;
+	width: 830px;
 	font-size: 0.9em;
 	margin-top: 1px;
 	margin-bottom: 1px;
-}
-.featTableColumn {
-	width: 830px;
 }
 .featTableRow,.featTableRowHeader {
     display: flex;
@@ -125,4 +116,70 @@ code{
 }
 .featTableIcon5 img {
 	border: 1px solid #FBBA37;
+}
+.skinTableColumn {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+	margin: 1px;
+	width: 830px;
+	font-size: 0.9em;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+.skinTableRow,.skinTableRowHeader {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+	height: 89px;
+	margin: 2px;
+	background-color: #141414;
+	border: 1px solid black;
+	font-size: 0.9em;
+}
+.skinTableRowHeader {
+	border-bottom: 4px ridge black;
+	font-size: 1.1em;
+}
+.skinTableRow:hover {
+	border: 1px solid #FFEB9B;
+	background-color: #000000;
+}
+.skinTableIcon {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 320px;
+	height: 100%;
+	margin: 0px;
+	font-size: 1.1em;
+}
+.skinTableIcon img {
+	margin: 5px;
+}
+.skinTableSource {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 350px;
+	height: 100%;
+	background-color: #1c1c1c;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.skinTableCost,.skinTableDate {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	width: 60px;
+	height: 100%;
+}
+.skinTableDate {
+	background-color: #1c1c1c;
+	border-left: 1px solid black;
+	width: 100px;
 }
