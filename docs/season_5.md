@@ -10,17 +10,20 @@
 * [Strix](#strix)
 * [Omin](#omin)
 * [Vi](#vi)
+* [Season Chest Icons](#season-chest-icons)
 <br />
+
+![Season 5 Icon](images/season_5/icon.png)
 
 # Season 5
 
-Season 5 is guesstimated to start on 13 September 2023 with the preview week arriving one week prior on 06 September 2023.
+Season 5 will be called `Acquisitions Incorporated` and is guesstimated to start on 13 September 2023 with the preview week arriving one week prior on 06 September 2023.
 
 # Theme
 
 ![Jim Season Portrait](images/season_5/jim.png)![Evelyn Season Portrait](images/season_5/evelyn.png)![Strix Season Portrait](images/season_5/strix.png)![Omin Season Portrait](images/season_5/omin.png)![Vi Season Portrait](images/season_5/vi.png)
 
-We believe the five seasonal champions this time around are likely to be Jim, Evelyn, Strix, Omin and Vi.
+The five seasonal champions this time around will be Strix Evelyn Omin Jim and Vi. We know this because the seasonal chest will be `Gold Acquisitions Incorporated Chest` and it contains loot for those champions.
 
 # Changes
 
@@ -374,7 +377,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "off_when_benched": true,
-            "effect_string": "jim_mmt_visual",
+            "stacks_gained_per_offline_area_completed": 5,
+            "effect_string": "jim_magical_mystery_tour",
             "graphic_id": 6092
         }
     ],
@@ -1825,6 +1829,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "animation_sequence_name": "attack_b",
         "effects_on_monsters": [{
             "effect_string": "transform_monster,2044",
+            "fire_simple_event_name": "ViCatchAndReleaseTriggered",
             "fire_thing_transformed": true
         }],
         "type": "ranged_attack",
@@ -1932,7 +1937,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "filter_attack_targets_by_tags": "!vi_creation^!boss^!armor_based^!hits_based^!static",
-            "effect_string": "chance_to_change_base_attack,90,665,488",
+            "effect_string": "chance_to_change_base_attack,10,665,488",
             "show_outgoing_desc_when_benched": false
         },
         {
@@ -2132,6 +2137,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 <br />
 
+# Season Chest Icons
+
+| Shop | Inventory |
+|---|---|
+| ![Shop Season Chest Icon](images/season_5/chest.png) | ![Inventory Season Chest Icon](images/season_5/chestInv.png) |
 
 [Back to Top](#top)
 
