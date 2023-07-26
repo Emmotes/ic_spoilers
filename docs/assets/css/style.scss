@@ -75,11 +75,11 @@ code{
 	border: 1px solid #FFEB9B;
 	background-color: #000000;
 }
-.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5,.featTableChampion,.featTableSource {
+.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5,.featTableChampion,.featTableSource,.featTableDate {
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	width: 250px;
+	width: 230px;
 	height: 100%;
 	margin: 0px;
 }
@@ -87,14 +87,19 @@ code{
 	border-right: 1px solid black;
 	background-color: #1c1c1c;
 }
-.featTableSource,.featTableChampion {
-	width: 110px;
+.featTableSource,.featTableChampion,.featTableDate {
+	width: 100px;
+}
+.featTableDate {
+	justify-content: flex-end;
+	border-left: 1px solid black;
+	background-color: #1c1c1c;
 }
 .featTableEffect {
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	width: 350px;
+	width: 310px;
 	height: 100%;
 	background-color: #1c1c1c;
 	border-left: 1px solid black;

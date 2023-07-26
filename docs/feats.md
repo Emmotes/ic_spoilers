@@ -22,6 +22,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">**Source**</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">**Date**</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -35,6 +38,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">26 Jul 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -50,6 +56,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">26 Jul 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -63,6 +72,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">09 Aug 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -78,6 +90,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">09 Aug 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -91,6 +106,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">16 Aug 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -106,6 +124,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">16 Aug 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -119,6 +140,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -134,6 +158,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -147,6 +174,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -162,6 +192,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -175,6 +208,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -190,6 +226,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -203,6 +242,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -218,6 +260,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">04 Sep 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -231,6 +276,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">13 Sep 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -246,6 +294,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">13 Sep 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -259,6 +310,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">13 Sep 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -274,6 +328,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">13 Sep 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -287,6 +344,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">13 Sep 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -302,6 +362,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">13 Sep 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -315,6 +378,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">13 Sep 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -330,6 +396,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">13 Sep 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -343,6 +412,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">20 Sep 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -358,6 +430,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">20 Sep 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -371,6 +446,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">21 Sep 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -386,6 +464,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">27 Sep 2023</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -399,6 +480,9 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">27 Sep 2023</span>
         </span>
     </span>
 </span>
@@ -423,6 +507,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">**Source**</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">**Date**</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -436,6 +523,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -451,6 +541,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -464,6 +557,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -479,6 +575,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -493,6 +592,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -506,6 +608,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -521,6 +626,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -534,6 +642,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -549,6 +660,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -562,6 +676,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -577,6 +694,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -590,6 +710,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -605,6 +728,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -619,6 +745,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -632,6 +761,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -647,6 +779,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -660,6 +795,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -675,6 +813,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -688,6 +829,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -703,6 +847,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -716,6 +863,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -731,6 +881,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -744,6 +897,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -759,6 +915,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -772,6 +931,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -787,6 +949,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -800,6 +965,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -815,6 +983,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -828,6 +999,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -843,6 +1017,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -856,6 +1033,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -871,6 +1051,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -884,6 +1067,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -899,6 +1085,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -913,6 +1102,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -926,6 +1118,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -941,6 +1136,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -954,6 +1152,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -969,6 +1170,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -982,6 +1186,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -997,6 +1204,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -1011,6 +1221,9 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">17 Mar 2032</span>
+        </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
@@ -1024,6 +1237,9 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">14 Dec 2032</span>
         </span>
     </span>
 </span>
