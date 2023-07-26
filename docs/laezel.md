@@ -129,7 +129,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
-![Psionic Leap Icon](images/laezel/icon_psionicleap.png) **Ultimate Attack: Psionic Leap** (Level: 35)
+![Psionic Leap Icon](images/laezel/icon_psionicleap.png) **Ultimate Attack: Psionic Leap** (Level: 300)
 > Lae'zel psionically leaps into the enemies and attacks with a psionic shockwave, stunning them all for a short duration.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -205,23 +205,43 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </details>
 <br />
 
-![Lethal Coordination Icon](images/laezel/icon_lethalcoordination.png) **Lethal Coordination** (Level: 5)
+![Lethal Coordination Icon](images/laezel/icon_lethalcoordination.png) **Lethal Coordination** (Level: 30)
 > Lae'zel increases the damage of all Champions in her column by 100%, including herself.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       40: 100%
+      120: 100%
+      210: 100%
+      280: 100%
+      340: 100%
+      410: 100%
+      490: 100%
+      560: 100%
+      640: 100%
+      710: 100%
+      800: 100%
+      880: 100%
+      950: 100%
+    1,020: 100%
+    1,090: 100%
+    1,180: 100%
+    1,230: 100%
+    1,300: 100%
+    1,380: 100%
+    1,460: 100%
+    1,530: 100%
+    1,620: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 2.10e08%
 
 Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	Dull Epic ilvl    100: 8.68e02%
-	Dull Epic ilvl  1,000: 2.85e03%
-	Dull Epic ilvl 10,000: 2.26e04%
+	Dull Epic ilvl    100: 1.01e09%
+	Dull Epic ilvl  1,000: 3.09e09%
+	Dull Epic ilvl 10,000: 2.39e10%
 </pre>
 </p>
 </details>
@@ -230,7 +250,7 @@ Expected numbers with various item levels:
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 5,
+    "required_level": 30,
     "effect": "effect_def,1598",
     "tip_text": "Lae'zel increases the damage of all Champions in her column, including herself.",
     "name": "Lethal Coordination",
@@ -257,42 +277,16 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Ceremorphosis Icon](images/laezel/icon_ceremorphosis.png) **Ceremorphosis** (Level: 10)
+![Ceremorphosis Icon](images/laezel/icon_ceremorphosis.png) **Ceremorphosis** (Level: 80)
 > Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Lae'zel's brain. Lae'zel increases the effect of Lethal Coordination by 100% for each Ceremorphosis stack, stacking multiplicatively.
 
 *Note: This ability might be prestack.*
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       45: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers with various item levels:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	Dull Epic ilvl    100:
-		   0 Stacks: 867.8%
-		2000 Stacks: 3.87e06%
-
-	Dull Epic ilvl  1,000:
-		   0 Stacks: 2,847.8%
-		2000 Stacks: 1.18e07%
-
-	Dull Epic ilvl 10,000:
-		   0 Stacks: 2.26e04%
-		2000 Stacks: 9.10e07%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 10,
+    "required_level": 80,
     "effect": "effect_def,1599",
     "name": "Ceremorphosis",
     "id": 12114,
@@ -347,30 +341,14 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Straight to the Point Icon](images/laezel/icon_straighttothepoint.png) **Straight to the Point** (Level: 15)
+![Straight to the Point Icon](images/laezel/icon_straighttothepoint.png) **Straight to the Point** (Level: 100)
 > In non-boss areas, whenever an enemy is defeated by anything OTHER than Lae'zel, she has a 100% chance to gain an Impatience stack. When she has 17 Impatience stacks, complete the current area and reset the Impatience stacks to the current Ceremorphosis count. Stacks persist when changing areas.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       50: 100%
-
-    Total Upgrade Bonus: 100%
-
-Expected numbers:
-	(Does not include feats.)
-	(Possibly highly inaccurate.)
-
-	At softcap: 100%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 15,
+    "required_level": 100,
     "effect": "effect_def,1600",
     "tip_text": "Lae'zel gets impatient when other Champions defeat enemies which results in her complete areas early.",
     "name": "Straight to the Point",
@@ -410,23 +388,26 @@ Expected numbers:
 </details>
 <br />
 
-![Aberration Hunter Icon](images/laezel/icon_aberrationhunter.png) **Aberration Hunter** (Level: 20)
+![Aberration Hunter Icon](images/laezel/icon_aberrationhunter.png) **Aberration Hunter** (Level: 170)
 > Aberrations are Lae'zel's Favored Foe. Every time an Aberration spawns, Lae'zel's Lethal Coordination is multiplicatively increased by 100%, stacking up to 4 times the Ceremorphosis stack count and resetting when changing areas. There is a 33% chance with each wave in a non-boss area that an extra Mind Flayer spawns.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       55: 100%
+      470: 100%
+      770: 100%
+    1,170: 100%
+    1,570: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 1,500%
 
 Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	Dull Epic ilvl    100: -9.03e01%
-	Dull Epic ilvl  1,000: -7.05e01%
-	Dull Epic ilvl 10,000: 1.27e02%
+	Dull Epic ilvl    100: -2.26e01%
+	Dull Epic ilvl  1,000: 1.36e02%
+	Dull Epic ilvl 10,000: 1.72e03%
 </pre>
 </p>
 </details>
@@ -435,7 +416,7 @@ Expected numbers with various item levels:
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 20,
+    "required_level": 170,
     "effect": "effect_def,1601",
     "name": "Aberration Hunter",
     "id": 12116,
@@ -494,14 +475,14 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Ferocious Warrior Icon](images/laezel/icon_ferociouswarrior.png) **Ferocious Warrior** (Level: 25)
+![Ferocious Warrior Icon](images/laezel/icon_ferociouswarrior.png) **Ferocious Warrior** (Level: 200)
 > If Lae'zel attacks and any of her targets survive, her base attack cooldown for her next attack is reduced by 4 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 25,
+    "required_level": 200,
     "effect": "effect_def,1602",
     "name": "Ferocious Warrior",
     "id": 12117,
@@ -544,7 +525,7 @@ Expected numbers with various item levels:
 
 # Specialisations
 
-![Battle Master Icon](images/laezel/icon_battlemaster.png) **Battle Master** (Level: 30)
+![Battle Master Icon](images/laezel/icon_battlemaster.png) **Battle Master** (Level: 230)
 > When Lae'zel hits an enemy and they survive, the enemy is distracted and the next Champion (other than Lae'zel) that hits them deals an additional 4 seconds of BUD-based damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -552,7 +533,7 @@ Expected numbers with various item levels:
 {
     "static_dps_mult": null,
     "specialization_name": "Battle Master",
-    "required_level": 30,
+    "required_level": 230,
     "effect": "effect_def,1604",
     "name": "Battle Master",
     "specialization_graphic_id": 20241,
@@ -587,7 +568,7 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Champion Icon](images/laezel/icon_champion.png) **Champion** (Level: 30)
+![Champion Icon](images/laezel/icon_champion.png) **Champion** (Level: 230)
 > Increases Lae'zel's Critical Hit chance by 20% (additively) and Critical Hit damage by 100% (multiplicatively).
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -595,7 +576,7 @@ Expected numbers with various item levels:
 {
     "static_dps_mult": null,
     "specialization_name": "Champion",
-    "required_level": 30,
+    "required_level": 230,
     "effect": "effect_def,1603",
     "name": "Champion",
     "specialization_graphic_id": 20242,
@@ -629,7 +610,7 @@ Expected numbers with various item levels:
 </details>
 <br />
 
-![Eldritch Knight Icon](images/laezel/icon_eldritchknight.png) **Eldritch Knight** (Level: 30)
+![Eldritch Knight Icon](images/laezel/icon_eldritchknight.png) **Eldritch Knight** (Level: 230)
 > Lae'zel now casts Magic Missile immediately after attacking with her greatsword, firing a missile at 3 random targets.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -637,7 +618,7 @@ Expected numbers with various item levels:
 {
     "static_dps_mult": null,
     "specialization_name": "Eldritch Knight",
-    "required_level": 30,
+    "required_level": 230,
     "effect": "effect_def,1605",
     "name": "Eldritch Knight",
     "specialization_graphic_id": 20243,
@@ -713,8 +694,8 @@ Slot 5:
           Leather Sandals: Tsk'va! I hate these things.
         Well Used Sandals: Training on Crèche K'liir with these was close to torture.
          Half Plate Boots: With one sturdy stomp, I could crush a ghaik's abominable skull.
-          Astral Striders: With these, I can walk amongst the stars and hunt ghaik wherever the
-                           hide.
+          Astral Striders: With these, I can walk amongst the stars and hunt ghaik wherever
+                           they hide.
 
 Slot 6:
        Unidentified Crown: I snatched this from the ruins of a githyanki temple. It holds but a
@@ -894,7 +875,7 @@ This list will only show feats that are going to be available on the release of 
 
 * Increases the damage of all Champions by 10% for each Champion in the formation.
 * Increases the damage of all Female Champions by 125%.
-* Increases the damage of all Champions by 10% for each Champion in the formation.
+* Increases the damage of all Githyanki Champions by 150%.
 * Increases the damage of all Champions by 20% for each Champion with a INT score of 11 or higher in the formation.
 * Increases the damage of all Champions by 30% for each Champion with a DEX score of 13 or higher in the formation.
 * Increases the damage of all Champions by 20% for each Melee Champion in the formation.
@@ -902,46 +883,46 @@ This list will only show feats that are going to be available on the release of 
 <details><summary><em>DPS Applicable</em></summary>
 <p>
 <pre>
-     Arkhan: 5 / 6
-    Artemis: 5 / 6
-    Asharra: 6 / 6
-      Azaka: 6 / 6
-     Binwin: 5 / 6
-   Birdsong: 6 / 6
-Black Viper: 6 / 6
- Catti-brie: 6 / 6
-     D'hani: 6 / 6
-     Delina: 6 / 6
-    Dhadius: 5 / 6
-     Drizzt: 5 / 6
-    Farideh: 6 / 6
-        Fen: 6 / 6
-      Grimm: 5 / 6
-     Gromma: 6 / 6
-       Ishi: 6 / 6
-    Jaheira: 6 / 6
-    Jamilah: 6 / 6
-   Jarlaxle: 5 / 6
-        Jim: 5 / 6
-       Kent: 5 / 6
-      Krond: 5 / 6
-       Krux: 5 / 6
-     Lucius: 5 / 6
-      Makos: 5 / 6
-      Minsc: 5 / 6
-      NERDS: 5 / 6
-     Nahara: 6 / 6
-      Nixie: 6 / 6
-      Nrakk: 5 / 6
-     Orisha: 6 / 6
-   Prudence: 6 / 6
-      Rosie: 6 / 6
-      Strix: 6 / 6
-    Torogar: 5 / 6
-     Warden: 5 / 6
-    Warduke: 5 / 6
-     Yorven: 5 / 6
-      Zorbu: 5 / 6
+     Arkhan: 4 / 6
+    Artemis: 4 / 6
+    Asharra: 5 / 6
+      Azaka: 5 / 6
+     Binwin: 4 / 6
+   Birdsong: 5 / 6
+Black Viper: 5 / 6
+ Catti-brie: 5 / 6
+     D'hani: 5 / 6
+     Delina: 5 / 6
+    Dhadius: 4 / 6
+     Drizzt: 4 / 6
+    Farideh: 5 / 6
+        Fen: 5 / 6
+      Grimm: 4 / 6
+     Gromma: 5 / 6
+       Ishi: 5 / 6
+    Jaheira: 5 / 6
+    Jamilah: 5 / 6
+   Jarlaxle: 4 / 6
+        Jim: 4 / 6
+       Kent: 4 / 6
+      Krond: 4 / 6
+       Krux: 4 / 6
+     Lucius: 4 / 6
+      Makos: 4 / 6
+      Minsc: 4 / 6
+      NERDS: 4 / 6
+     Nahara: 5 / 6
+      Nixie: 5 / 6
+      Nrakk: 4 / 6
+     Orisha: 5 / 6
+   Prudence: 5 / 6
+      Rosie: 5 / 6
+      Strix: 5 / 6
+    Torogar: 4 / 6
+     Warden: 4 / 6
+    Warduke: 4 / 6
+     Yorven: 4 / 6
+      Zorbu: 4 / 6
 </pre>
 </p>
 </details>
