@@ -174,28 +174,35 @@ Vin Ursa will be the new champion in the Midsummer event on 26 July 2023.
 <br />
 
 ![Bounty Hunter Icon](images/vinursa/icon_bountyhunter.png) **Bounty Hunter** (Level: 60)
-> Vin Ursa picks a random monster type from a monster in the current adventure as her Favored Foe. Her Favored Foes drop 100% extra gold and all Champions deal 100% damage to them.
+> Vin Ursa picks a random monster type from a monster in the current adventure as her Favored Foe. Her Favored Foes drop 400% extra gold and all Champions deal 400% damage to them.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
+      450: 100%
       520: 100%
       720: 100%
+      870: 100%
     1,000: 100%
+    1,240: 100%
+    1,310: 100%
     1,450: 100%
     1,490: 100%
+    1,800: 100%
+    1,810: 100%
+    1,970: 100%
     2,000: 100%
     2,100: 100%
 
-    Total Upgrade Bonus: 1.27e04%
+    Total Upgrade Bonus: 1.64e06%
 
 Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	Dull Epic ilvl    100: 6.18e04%
-	Dull Epic ilvl  1,000: 1.89e05%
-	Dull Epic ilvl 10,000: 1.46e06%
+	Dull Epic ilvl    100: 3.17e07%
+	Dull Epic ilvl  1,000: 9.66e07%
+	Dull Epic ilvl 10,000: 7.45e08%
 </pre>
 </p>
 </details>
@@ -222,11 +229,11 @@ Expected numbers with various item levels:
         },
         {
             "off_when_benched": true,
-            "effect_string": "increase_monster_damage_if_favored_foe_from_hero_id,100,127"
+            "effect_string": "increase_monster_damage_if_favored_foe_from_hero_id,400,127"
         },
         {
             "off_when_benched": true,
-            "effect_string": "increase_monster_gold_if_favored_foe_from_hero_id,100,127"
+            "effect_string": "increase_monster_gold_if_favored_foe_from_hero_id,400,127"
         }
     ],
     "requirements": "",
@@ -254,7 +261,7 @@ Expected numbers with various item levels:
 <br />
 
 ![Vicious Vantage Icon](images/vinursa/icon_viciousvantage.png) **Vicious Vantage** (Level: 130)
-> Vin Ursa increases the effect of your Deck specialization by 100% for each Favored Foe she has, stacking multiplicatively. Buffs apply to the pre-stack multiplier.
+> Vin Ursa increases the effect of your Deck specialization by 250% for each Favored Foe she has, stacking multiplicatively. Buffs apply to the pre-stack multiplier.
 
 *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -276,7 +283,7 @@ Expected numbers with various item levels:
         {
             "off_when_benched": true,
             "outgoing_buffs": false,
-            "effect_string": "pre_stack_amount,100"
+            "effect_string": "pre_stack_amount,250"
         },
         {
             "amount_expr": "upgrade_amount(12088,0)",
@@ -363,17 +370,19 @@ Expected numbers with various item levels:
 # Specialisations
 
 ![Front Deck Icon](images/vinursa/icon_frontdeck.png) **Front Deck** (Level: 30)
-> Vin Ursa increases the damage of all champions in the front two columns by 100%.
+> Vin Ursa increases the damage of all champions in the front two columns by 400%.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
       150: 100%
+      230: 100%
       280: 100%
       400: 100%
       500: 100%
       600: 100%
       700: 100%
+      770: 100%
       820: 100%
       930: 100%
     1,040: 100%
@@ -387,15 +396,15 @@ Upgrades:
     1,940: 100%
     2,050: 100%
 
-    Total Upgrade Bonus: 2.62e07%
+    Total Upgrade Bonus: 1.05e08%
 
 Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	Dull Epic ilvl    100: 1.27e08%
-	Dull Epic ilvl  1,000: 3.86e08%
-	Dull Epic ilvl 10,000: 2.98e09%
+	Dull Epic ilvl    100: 2.03e09%
+	Dull Epic ilvl  1,000: 6.18e09%
+	Dull Epic ilvl 10,000: 4.77e10%
 </pre>
 </p>
 </details>
@@ -419,7 +428,7 @@ Expected numbers with various item levels:
 {
     "effect_keys": [{
         "off_when_benched": true,
-        "effect_string": "hero_dps_multiplier_mult,100",
+        "effect_string": "hero_dps_multiplier_mult,400",
         "targets": ["front_2_columns"]
     }],
     "requirements": "",
@@ -435,17 +444,19 @@ Expected numbers with various item levels:
 <br />
 
 ![Rear Deck Icon](images/vinursa/icon_reardeck.png) **Rear Deck** (Level: 30)
-> Vin Ursa increases the damage of all champions in the rear two columns by 100%.
+> Vin Ursa increases the damage of all champions in the rear two columns by 400%.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
       150: 100%
+      230: 100%
       280: 100%
       400: 100%
       500: 100%
       600: 100%
       700: 100%
+      770: 100%
       820: 100%
       930: 100%
     1,040: 100%
@@ -459,15 +470,15 @@ Upgrades:
     1,940: 100%
     2,050: 100%
 
-    Total Upgrade Bonus: 2.62e07%
+    Total Upgrade Bonus: 1.05e08%
 
 Expected numbers with various item levels:
 	(Does not include feats.)
 	(Possibly highly inaccurate.)
 
-	Dull Epic ilvl    100: 1.27e08%
-	Dull Epic ilvl  1,000: 3.86e08%
-	Dull Epic ilvl 10,000: 2.98e09%
+	Dull Epic ilvl    100: 2.03e09%
+	Dull Epic ilvl  1,000: 6.18e09%
+	Dull Epic ilvl 10,000: 4.77e10%
 </pre>
 </p>
 </details>
@@ -491,7 +502,7 @@ Expected numbers with various item levels:
 {
     "effect_keys": [{
         "off_when_benched": true,
-        "effect_string": "hero_dps_multiplier_mult,100",
+        "effect_string": "hero_dps_multiplier_mult,400",
         "targets": ["back_2_columns"]
     }],
     "requirements": "",
@@ -507,7 +518,7 @@ Expected numbers with various item levels:
 <br />
 
 ![Friends in High Places Icon](images/vinursa/icon_friendsinhighplaces.png) **Friends in High Places** (Level: 250)
-> Vin Ursa increases the damage of Good Champions by 100%.
+> Vin Ursa increases the damage of Good Champions by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -528,7 +539,7 @@ Expected numbers with various item levels:
 {
     "effect_keys": [{
         "off_when_benched": true,
-        "effect_string": "hero_dps_multiplier_mult,100",
+        "effect_string": "hero_dps_multiplier_mult,400",
         "filter_targets": [{
             "type": "by_tags",
             "tags": "good"
@@ -551,7 +562,7 @@ Expected numbers with various item levels:
 <br />
 
 ![Friends in Low Places Icon](images/vinursa/icon_friendsinlowplaces.png) **Friends in Low Places** (Level: 250)
-> Vin Ursa increases the damage of Evil Champions by 100%.
+> Vin Ursa increases the damage of Evil Champions by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -572,7 +583,7 @@ Expected numbers with various item levels:
 {
     "effect_keys": [{
         "off_when_benched": true,
-        "effect_string": "hero_dps_multiplier_mult,100",
+        "effect_string": "hero_dps_multiplier_mult,400",
         "filter_targets": [{
             "type": "by_tags",
             "tags": "evil"
@@ -595,7 +606,7 @@ Expected numbers with various item levels:
 <br />
 
 ![Friends in Meh Places Icon](images/vinursa/icon_friendsinmehplaces.png) **Friends in Meh Places** (Level: 250)
-> Vin Ursa increases the damage of Neutral (Good/Evil axis) Champions by 100%.
+> Vin Ursa increases the damage of Neutral (Good/Evil axis) Champions by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -616,7 +627,7 @@ Expected numbers with various item levels:
 {
     "effect_keys": [{
         "off_when_benched": true,
-        "effect_string": "hero_dps_multiplier_mult,100",
+        "effect_string": "hero_dps_multiplier_mult,400",
         "filter_targets": [{
             "type": "by_tags",
             "tags": "geneutral"
