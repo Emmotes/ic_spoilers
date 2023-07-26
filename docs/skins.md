@@ -6,31 +6,330 @@ Skins that are upcoming. Most skins are real money purchases only.
 
 *Note: Skins with missing portraits simply don't have that data available yet.*
 
-| Portrait | Skin Name | Source | Cost | Date |
-|---|---|---|--:|--:|
-| ![Fighting Pits Tatyana Portrait](images/skin_portraits/fightingpitstatyana.png) | Fighting Pits Tatyana | Fighting Pits Tatyana Skin & Feat Pack | $9.99 | 26 Jul 2023 |
-| ![Astral Vin Ursa Portrait](images/skin_portraits/astralvinursa.png) | Astral Vin Ursa | Astral Vin Ursa Theme Pack | $24.99 | 26 Jul 2023 |
-| ![Spelljammer Avren Portrait](images/skin_portraits/spelljammeravren.png) | Spelljammer Avren | Spelljammer Avren Skin & Feat Pack | $9.99 | 09 Aug 2023 |
-| ![Spelljammer Widdle Portrait](images/skin_portraits/spelljammerwiddle.png) | Spelljammer Widdle | Spelljammer Widdle Skin & Feat Pack | $9.99 | 09 Aug 2023 |
-| ![Mind Flayer Lae'zel Portrait](images/skin_portraits/mindflayerlaezel.png) | Mind Flayer Lae'zel | Mind Flayer Lae'zel Theme Pack | $24.99 | 16 Aug 2023 |
-| ![Cosmic Nightmare Voronika Portrait](images/skin_portraits/cosmicnightmarevoronika.png) | Cosmic Nightmare Voronika | Cosmic Nightmare Voronika Skin & Feat Pack | $9.99 | 16 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Jamilah | Emergence 3 (Guess) | ??? | 23 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Nrakk | Emergence 3 (Guess) | ??? | 23 Aug 2023 |
-| ![Spelljammer Pilot Asharra Portrait](images/skin_portraits/spelljammerpilotasharra.png) | Spelljammer Pilot Asharra | Founder's Pack VI | $19.99 | 30 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Modron BBEG | Modron BBEG Skin & Feat Pack | $9.99 | 30 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Evelyn | Season 5 (Guess) | ??? | 30 Aug 2023 |
-| ![Venture Casual Jim Portrait](images/skin_portraits/venturecasualjim.png) | Venture Casual Jim | Season 5 (Guess) | ??? | 30 Aug 2023 |
-| ![Venture Casual Omin Portrait](images/skin_portraits/venturecasualomin.png) | Venture Casual Omin | Season 5 (Guess) | ??? | 30 Aug 2023 |
-| ![Venture Casual Strix Portrait](images/skin_portraits/venturecasualstrix.png) | Venture Casual Strix | Season 5 (Guess) | ??? | 30 Aug 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Vi | Season 5 (Guess) | ??? | 30 Aug 2023 |
-| ![King Bruenor Portrait](images/skin_portraits/kingbruenor.png) | King Bruenor | Gem Shop | 20,000 | 04 Sep 2023 |
-| ![Mythic Jarlaxle Portrait](images/skin_portraits/mythicjarlaxle.png) | Mythic Jarlaxle | Gem Shop | 20,000 | 04 Sep 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Walnut | ??? | ??? | 04 Sep 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Mind Flayer Astarion | ??? | ??? | 06 Sep 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Spelljammer Deekin | ??? | ??? | 20 Sep 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Spelljammer Pilot Farideh | ??? | ??? | 20 Sep 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual K'thriss | ??? | ??? | 27 Sep 2023 |
-| ![Empty Placeholder](images/skin_portraits/unknown.png) | Venture Casual Môrgæn | ??? | ??? | 27 Sep 2023 |
+<span class="skinTableColumn">
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Fighting Pits Tatyana Portrait](images/skin_portraits/fightingpitstatyana.png)Fighting Pits Tatyana
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Fighting Pits Tatyana Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">26 Jul 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Astral Vin Ursa Portrait](images/skin_portraits/astralvinursa.png)Astral Vin Ursa
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Astral Vin Ursa Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$24.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">26 Jul 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Spelljammer Avren Portrait](images/skin_portraits/spelljammeravren.png)Spelljammer Avren
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Spelljammer Avren Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">09 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Spelljammer Widdle Portrait](images/skin_portraits/spelljammerwiddle.png)Spelljammer Widdle
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Spelljammer Widdle Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">09 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mind Flayer Lae'zel Portrait](images/skin_portraits/mindflayerlaezel.png)Mind Flayer Lae'zel
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mind Flayer Lae'zel Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$24.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">16 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Cosmic Nightmare Voronika Portrait](images/skin_portraits/cosmicnightmarevoronika.png)Cosmic Nightmare Voronika
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Cosmic Nightmare Voronika Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">16 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/skin_portraits/unknown.png)Mind Flayer Jamilah
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Emergence 3 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">23 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/skin_portraits/unknown.png)Mind Flayer Nrakk
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Emergence 3 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">23 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Spelljammer Pilot Asharra Portrait](images/skin_portraits/spelljammerpilotasharra.png)Spelljammer Pilot Asharra
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Founder's Pack VI</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$19.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/skin_portraits/unknown.png)Modron BBEG
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Modron BBEG Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Venture Casual Evelyn Portrait](images/skin_portraits/venturecasualevelyn.png)Venture Casual Evelyn
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Season 5 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Venture Casual Jim Portrait](images/skin_portraits/venturecasualjim.png)Venture Casual Jim
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Season 5 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Venture Casual Omin Portrait](images/skin_portraits/venturecasualomin.png)Venture Casual Omin
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Season 5 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Venture Casual Strix Portrait](images/skin_portraits/venturecasualstrix.png)Venture Casual Strix
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Season 5 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/skin_portraits/unknown.png)Venture Casual Vi
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Season 5 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![King Bruenor Portrait](images/skin_portraits/kingbruenor.png)King Bruenor
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Gem Shop</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">20,000</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">04 Sep 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mythic Jarlaxle Portrait](images/skin_portraits/mythicjarlaxle.png)Mythic Jarlaxle
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Gem Shop</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">20,000</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">04 Sep 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/skin_portraits/unknown.png)Venture Casual Walnut
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">04 Sep 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/skin_portraits/unknown.png)Mind Flayer Astarion
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mind Flayer Astarion Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$24.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">06 Sep 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/skin_portraits/unknown.png)Spelljammer Deekin
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Spelljammer Deekin Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">20 Sep 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/skin_portraits/unknown.png)Spelljammer Pilot Farideh
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Spelljammer Pilot Farideh Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$24.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">20 Sep 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/skin_portraits/unknown.png)Venture Casual K'thriss
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Venture Casual K'thriss Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">27 Sep 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/skin_portraits/unknown.png)Venture Casual Môrgæn
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Venture Casual Môrgæn Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">27 Sep 2023</span>
+        </span>
+    </span>
+</span>
 
 [Back to Top](#top)
 

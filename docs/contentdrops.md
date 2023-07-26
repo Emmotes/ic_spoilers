@@ -22,6 +22,17 @@ Guesstimations of upcoming content drops - so don't take these as fact.
 | ![Witchlight: The End (Adventure)](images/contentdrop_portraits/witchlight_theend_0.png) | Witchlight | The End | Adventure |
 | ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Witchlight: The End (Variant 1)](images/contentdrop_portraits/witchlight_theend_1.png) | Witchlight | The End | Variant #1 |
 
+## Xaryxis 7 - 20 September 2023
+
+This content drop will likely be joined by new blessings.
+
+| Icon | Campaign | Adventure Name | Type |
+|---|---|---|---|
+| ![Xaryxis: The Arena of Blood (Adventure)](images/contentdrop_portraits/xaryxis_thearenaofblood_0.png) | Xaryxis | The Arena of Blood | Adventure |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: The Arena of Blood (Variant 1)](images/contentdrop_portraits/xaryxis_thearenaofblood_1.png) | Xaryxis | The Arena of Blood | Variant #1 |
+| ![Xaryxis: The Jungles of Doomspace (Adventure)](images/contentdrop_portraits/xaryxis_thejunglesofdoomspace_0.png) | Xaryxis | The Jungles of Doomspace | Adventure |
+| ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: The Jungles of Doomspace (Variant 1)](images/contentdrop_portraits/xaryxis_thejunglesofdoomspace_1.png) | Xaryxis | The Jungles of Doomspace | Variant #1 |
+
 <br />
 This page was made with the help of Randramb.
 
