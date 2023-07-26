@@ -8,35 +8,400 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 *Note: I filter out all feats that are obviously tests or unfinished - such as having a prohibitively high gem cost or excessive too-far-future release date.*
 
-| Icon | Feat Name | Champion | Effect | Source | Date |
-|---|---|---|---|---|--:|
-| <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Tatyana | 50% All Champion Damage | 50,000 Gems | 26 Jul 2023 |
-| <span class="feat4">![High Ground Icon](images/featicons/upgradefa.png)</span> | High Ground | Vin Ursa | 80% Vicious Vantage | 50,000 Gems | 26 Jul 2023 |
-| <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Avren | 50% All Champion Damage | 50,000 Gems | 09 Aug 2023 |
-| <span class="feat4">![Don't Fall Behind Icon](images/featicons/upgradefa.png)</span> | Don't Fall Behind | Widdle | 80% Hurry Up Now | 50,000 Gems | 09 Aug 2023 |
-| <span class="feat4">![Hurry Up! Icon](images/featicons/upgradefa.png)</span> | Hurry Up! | Lae'zel | 80% Straight to the Point | 50,000 Gems | 16 Aug 2023 |
-| <span class="feat4">![Unlimited Potential Icon](images/featicons/upgradefa.png)</span> | Unlimited Potential | Voronika | 80% Ultimate Power | 50,000 Gems | 16 Aug 2023 |
-| <span class="feat2">![Frugal Icon](images/featicons/goldfind.png)</span> | Frugal | Donaar | 10% Gold | ??? | 30 Aug 2023 |
-| <span class="feat3">![Lucky Icon](images/featicons/goldfind.png)</span> | Lucky | Donaar | 25% Gold | ??? | 30 Aug 2023 |
-| <span class="feat3">![Divesting Gold Icon](images/featicons/upgradefa.png)</span> | Divesting Gold | K'thriss | 40% Hoardsperson | ??? | 30 Aug 2023 |
-| <span class="feat2">![Frugal Icon](images/featicons/goldfind.png)</span> | Frugal | K'thriss | 10% Gold | ??? | 30 Aug 2023 |
-| <span class="feat2">![Petty Cash Icon](images/featicons/upgradefa.png)</span> | Petty Cash | K'thriss | 20% Hoardsperson | ??? | 30 Aug 2023 |
-| <span class="feat4">![Evil Party Icon](images/featicons/upgradefa.png)</span> | Evil Party | BBEG | 400% Evil Overlord & Changes to Int <=11 | 50,000 Gems | 30 Aug 2023 |
-| <span class="feat4">![Taunt Icon](images/featicons/taunt.png)</span> | Taunt | Evandra | 400% Self DPS & 50% Taunt | 50,000 Gems | 30 Aug 2023 |
-| <span class="feat4">![Taunt Icon](images/featicons/taunt.png)</span> | Taunt | Walnut | 400% Self DPS & 50% Taunt | ??? | 04 Sep 2023 |
-| <span class="feat3">![The Bard Spittin' Bars Icon](images/featicons/upgradefa.png)</span> | The Bard Spittin' Bars | Antrius | 40% Can't be De-Feat-ed | 12,500 Gems | 13 Sep 2023 |
-| <span class="feat3">![Stronger Sources Icon](images/featicons/upgradefa.png)</span> | Stronger Sources | BBEG | 40% Sources of Corpses | 12,500 Gems | 13 Sep 2023 |
-| <span class="feat4">![Entertainer Icon](images/featicons/attributeboostx2.png)</span> | Entertainer | Evandra | Stat: +2 Charisma | 50,000 Gems | 13 Sep 2023 |
-| <span class="feat3">![Puntastic Icon](images/featicons/upgradefa.png)</span> | Puntastic | Merilwen | 40% Punishing Puns | 12,500 Gems | 13 Sep 2023 |
-| <span class="feat4">![Taunt Icon](images/featicons/taunt.png)</span> | Taunt | Nayeli | 400% Self DPS & 50% Taunt | 50,000 Gems | 13 Sep 2023 |
-| <span class="feat4">![Heavy Lifter Icon](images/featicons/attributeboost.png)</span> | Heavy Lifter | Nixie | Stat: +2 Strength | 50,000 Gems | 13 Sep 2023 |
-| <span class="feat3">![New Speech Pattern Icon](images/featicons/upgradefa.png)</span> | New Speech Pattern | Nordom | 40% Modron Core Toolbox | 12,500 Gems | 13 Sep 2023 |
-| <span class="feat4">![Sentinel Icon](images/featicons/overhelm.png)</span> | Sentinel | Selise | +20 Overwhelm | 50,000 Gems | 13 Sep 2023 |
-| <span class="feat4">![All Together Now Icon](images/featicons/upgradefa.png)</span> | All Together Now | Deekin | 80% Troubadour Troupe | 50,000 Gems | 20 Sep 2023 |
-| <span class="feat4">![Fiendish Flames Icon](images/featicons/immolation.png)</span> | Fiendish Flames | Farideh | 1s BUD per sec for 5s | 50,000 Gems | 20 Sep 2023 |
-| <span class="feat4">![King of the Hall Icon](images/featicons/mithralhallstackbonus.png)</span> | King of the Hall | Bruenor | +2 Mithral Hall Stacks | 50,000 Gems | 21 Sep 2023 |
-| <span class="feat4">![Heavy Lifter Icon](images/featicons/attributeboostx2.png)</span> | Heavy Lifter | K'thriss | Stat: +2 Strength | 50,000 Gems | 27 Sep 2023 |
-| <span class="feat4">![Time is Money Icon](images/featicons/upgradefa.png)</span> | Time is Money | Môrgæn | 80% Friends In Wealth | 50,000 Gems | 27 Sep 2023 |
+<span class="featTableColumn">
+    <span class="featTableRowHeader">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">**Champion**</span>
+        </span>
+        <span class="featTableIcon1">
+            <span style="margin-left:8px;">**Feat**</span>
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">**Effect**</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">**Source**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Tatyana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Vin Ursa</span>
+        </span>
+        <span class="featTableIcon4">
+            ![High Ground Icon](images/featicons/upgradefa.png)High Ground
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Vicious Vantage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Avren</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Widdle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Don't Fall Behind Icon](images/featicons/upgradefa.png)Don't Fall Behind
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Hurry Up Now</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Lae'zel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Hurry Up! Icon](images/featicons/upgradefa.png)Hurry Up!
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Straight to the Point</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Voronika</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unlimited Potential Icon](images/featicons/upgradefa.png)Unlimited Potential
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Ultimate Power</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Donaar</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Frugal Icon](images/featicons/goldfind.png)Frugal
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">10% Gold</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Donaar</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Lucky Icon](images/featicons/goldfind.png)Lucky
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">25% Gold</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">K'thriss</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Divesting Gold Icon](images/featicons/upgradefa.png)Divesting Gold
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Hoardsperson</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">K'thriss</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Frugal Icon](images/featicons/goldfind.png)Frugal
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">10% Gold</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">K'thriss</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Petty Cash Icon](images/featicons/upgradefa.png)Petty Cash
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">20% Hoardsperson</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">BBEG</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Evil Party Icon](images/featicons/upgradefa.png)Evil Party
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">400% Evil Overlord & Changes to Int <=11</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Evandra</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)Taunt
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">400% Self DPS & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Walnut</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)Taunt
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">400% Self DPS & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Antrius</span>
+        </span>
+        <span class="featTableIcon3">
+            ![The Bard Spittin' Bars Icon](images/featicons/upgradefa.png)The Bard Spittin' Bars
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Can't be De-Feat-ed</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">BBEG</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Stronger Sources Icon](images/featicons/upgradefa.png)Stronger Sources
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Sources of Corpses</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Evandra</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Entertainer Icon](images/featicons/attributeboostx2.png)Entertainer
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Stat: +2 Charisma</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Merilwen</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Puntastic Icon](images/featicons/upgradefa.png)Puntastic
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Punishing Puns</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Nayeli</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)Taunt
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">400% Self DPS & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Nixie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Heavy Lifter Icon](images/featicons/attributeboost.png)Heavy Lifter
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Stat: +2 Strength</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Nordom</span>
+        </span>
+        <span class="featTableIcon3">
+            ![New Speech Pattern Icon](images/featicons/upgradefa.png)New Speech Pattern
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Modron Core Toolbox</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Selise</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Sentinel Icon](images/featicons/overhelm.png)Sentinel
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+20 Overwhelm</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![All Together Now Icon](images/featicons/upgradefa.png)All Together Now
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Troubadour Troupe</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Farideh</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fiendish Flames Icon](images/featicons/immolation.png)Fiendish Flames
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Bruenor</span>
+        </span>
+        <span class="featTableIcon4">
+            ![King of the Hall Icon](images/featicons/mithralhallstackbonus.png)King of the Hall
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+2 Mithral Hall Stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">K'thriss</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Heavy Lifter Icon](images/featicons/attributeboostx2.png)Heavy Lifter
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Stat: +2 Strength</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Môrgæn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Time is Money Icon](images/featicons/upgradefa.png)Time is Money
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Friends In Wealth</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+</span>
 
 # Placeholder Date Feats
 
@@ -44,51 +409,624 @@ These are the feats that have been filtered out of the list above due to having 
 
 *Note: Test feats / QA feats / TBD feats will remain filtered out. Even from this list.*
 
-| Icon | Feat Name | Champion | Effect | Source | Date |
-|---|---|---|---|---|--:|
-| <span class="feat4">![Vicious Damage Icon](images/featicons/viciousdamage.png)</span> | Vicious Damage | BBEG | 400% Self DPS & Prevent Healing for 10s | ??? | 01 Jan 2032 |
-| <span class="feat3">![Hall of the Mountain King Icon](images/featicons/mithralhallstackbonus.png)</span> | Hall of the Mountain King | Bruenor | +1 Mithral Hall Stacks | ??? | 01 Jan 2032 |
-| <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Bruenor | 50% All Champion Damage | 50,000 Gems | 01 Jan 2032 |
-| <span class="feat4">![Archer's Perception Icon](images/featicons/upgradefa.png)</span> | Archer's Perception | Catti-brie | 80% Mark for Death | ??? | 01 Jan 2032 |
-| <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Catti-brie | +20% Crit Chance | ??? | 01 Jan 2032 |
-| <span class="feat4">![Obliterating Blast Icon](images/featicons/critdamageincrease.png)</span> | Obliterating Blast | Catti-brie | +120% Crit Damage | ??? | 01 Jan 2032 |
-| <span class="feat3">![Courage in Battle Icon](images/featicons/mithralhallstackbonus.png)</span> | Courage in Battle | Drizzt | +1 Mithral Hall Stacks | ??? | 01 Jan 2032 |
-| <span class="feat3">![Death on Both Sides Icon](images/featicons/upgradefa.png)</span> | Death on Both Sides | Drizzt | 40% Icingdeath | ??? | 01 Jan 2032 |
-| <span class="feat3">![Durable Icon](images/featicons/attributeboost.png)</span> | Durable | Jarlaxle | Stat: +1 Constitution | ??? | 01 Jan 2032 |
-| <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Jarlaxle | +20% Crit Chance | ??? | 01 Jan 2032 |
-| <span class="feat4">![Obliterating Blast Icon](images/featicons/critdamageincrease.png)</span> | Obliterating Blast | Jarlaxle | +120% Crit Damage | ??? | 01 Jan 2032 |
-| <span class="feat4">![Bigger Boat Icon](images/featicons/upgradefa.png)</span> | Bigger Boat | Krux | All Hands on Deck +2nd Rear Column | ??? | 01 Jan 2032 |
-| <span class="feat4">![Entertainer Icon](images/featicons/attributeboostx2.png)</span> | Entertainer | Krux | Stat: +2 Charisma | ??? | 01 Jan 2032 |
-| <span class="feat4">![Keen Eye Icon](images/featicons/upgradefa.png)</span> | Keen Eye | Krux | 80% Starfarer's Spyglass | ??? | 01 Jan 2032 |
-| <span class="feat4">![Scholar Icon](images/featicons/attributeboostx2.png)</span> | Scholar | Krux | Stat: +2 Intelligence | ??? | 01 Jan 2032 |
-| <span class="feat4">![Seahippo Icon](images/featicons/upgradefa.png)</span> | Seahippo | Krux | 80% An Experienced Sailor | ??? | 01 Jan 2032 |
-| <span class="feat4">![Scholar Icon](images/featicons/attributeboostx2.png)</span> | Scholar | Lae'zel | Stat: +2 Intelligence | ??? | 01 Jan 2032 |
-| <span class="feat4">![Caged Dreams Icon](images/featicons/upgradefa.png)</span> | Caged Dreams | Miria | 80% Soul Cage | 50,000 Gems | 01 Jan 2032 |
-| <span class="feat4">![Vicious Damage Icon](images/featicons/viciousdamage.png)</span> | Vicious Damage | Pwent | 400% Self DPS & Prevent Healing for 10s | ??? | 01 Jan 2032 |
-| <span class="feat4">![Advisor Icon](images/featicons/globaldps.png)</span> | Advisor | Regis | 50% All Champion Damage | ??? | 01 Jan 2032 |
-| <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Regis | +20% Crit Chance | ??? | 01 Jan 2032 |
-| <span class="feat4">![A Vow Unbroken Icon](images/featicons/attributeboostx2.png)</span> | A Vow Unbroken | Uriah | Stat: +2 Constitution | ??? | 01 Jan 2032 |
-| <span class="feat4">![Faithful Reward Icon](images/featicons/upgradefa.png)</span> | Faithful Reward | Uriah | Ezra's Embrace Heals Within 3 Slots | ??? | 01 Jan 2032 |
-| <span class="feat4">![Very Important Person Icon](images/featicons/upgradefa.png)</span> | Very Important Person | Valentine | 80% Socialite | ??? | 01 Jan 2032 |
-| <span class="feat3">![It's Just Business Icon](images/featicons/upgradefa.png)</span> | It's Just Business | Vin Ursa | 40% All Second Specialisations | ??? | 01 Jan 2032 |
-| <span class="feat3">![This is the Way Icon](images/featicons/upgradefa.png)</span> | This is the Way | Vin Ursa | 40% All First Specialisations | ??? | 01 Jan 2032 |
-| <span class="feat3">![Battle Expertise Icon](images/featicons/critchanceincrease.png)</span> | Battle Expertise | Wulfgar | +10% Crit Chance | Gold Chest | 01 Jan 2032 |
-| <span class="feat4">![Master's Precision Icon](images/featicons/critchanceincrease.png)</span> | Master's Precision | Wulfgar | +20% Crit Chance | ??? | 01 Jan 2032 |
-| <span class="feat3">![Inspiring Leader Icon](images/featicons/globaldps.png)</span> | Inspiring Leader | Asharra | 25% All Champion Damage | 12,500 Gems | 01 Jan 2032 |
-| <span class="feat4">![Above the Crowd Icon](images/featicons/upgradefa.png)</span> | Above the Crowd | Binwin | 80% Tallest in Faerûn | 50,000 Gems | 01 Jan 2032 |
-| <span class="feat3">![Grappler Icon](images/featicons/selfdps.png)</span> | Grappler | Binwin | 60% Self DPS | 12,500 Gems | 01 Jan 2032 |
-| <span class="feat4">![Weapon Master Icon](images/featicons/selfdps.png)</span> | Weapon Master | Black Viper | 120% Self DPS | 50,000 Gems | 01 Jan 2032 |
-| <span class="feat4">![Prophesied Leader Icon](images/featicons/globaldps.png)</span> | Prophesied Leader | Deekin | 50% All Champion Damage | 50,000 Gems | 01 Jan 2032 |
-| <span class="feat3">![Inspiring Leader Icon](images/featicons/globaldps.png)</span> | Inspiring Leader | Donaar | 25% All Champion Damage | 12,500 Gems | 01 Jan 2032 |
-| <span class="feat3">![Grappler Icon](images/featicons/selfdps.png)</span> | Grappler | Jarlaxle | 60% Self DPS | 12,500 Gems | 01 Jan 2032 |
-| <span class="feat4">![Fortune's Favor Icon](images/featicons/goldfind.png)</span> | Fortune's Favor | Krull | 50% Gold | 50,000 Gems | 01 Jan 2032 |
-| <span class="feat4">![Richly Deserved Icon](images/featicons/upgradefa.png)</span> | Richly Deserved | Krull | 80% Draconic Plague | 50,000 Gems | 01 Jan 2032 |
-| <span class="feat4">![Superior Actor Icon](images/featicons/attributeboost.png)</span> | Superior Actor | Minsc | Stat: +2 Charisma | 12,500 Gems | 01 Jan 2032 |
-| <span class="feat3">![Resilient Icon](images/featicons/health.png)</span> | Resilient | Nayeli | 30% Health | 12,500 Gems | 01 Jan 2032 |
-| <span class="feat4">![Fortune's Favor Icon](images/featicons/goldfind.png)</span> | Fortune's Favor | Stoki | 50% Gold | 50,000 Gems | 01 Jan 2032 |
-| <span class="feat4">![Prodigal Leader Icon](images/featicons/globaldps.png)</span> | Prodigal Leader | Tyril | 50% All Champion Damage | 50,000 Gems | 01 Jan 2032 |
-| <span class="feat4">![I Did My Homework Icon](images/featicons/upgradefa.png)</span> | I Did My Homework | Alyndra | 80% Brows of Judgement | 50,000 Gems | 17 Mar 2032 |
-| <span class="feat5">![Seat Shift Icon](images/featicons/swapseat12.png)</span> | Seat Shift | Strongheart |  | ??? | 14 Dec 2032 |
+<span class="featTableColumn">
+    <span class="featTableRowHeader">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">**Champion**</span>
+        </span>
+        <span class="featTableIcon1">
+            <span style="margin-left:8px;">**Feat**</span>
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">**Effect**</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">**Source**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">BBEG</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vicious Damage Icon](images/featicons/viciousdamage.png)Vicious Damage
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">400% Self DPS & Prevent Healing for 10s</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Bruenor</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Hall of the Mountain King Icon](images/featicons/mithralhallstackbonus.png)Hall of the Mountain King
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+1 Mithral Hall Stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Bruenor</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Catti-brie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Archer's Perception Icon](images/featicons/upgradefa.png)Archer's Perception
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Mark for Death</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Catti-brie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Catti-brie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Obliterating Blast Icon](images/featicons/critdamageincrease.png)Obliterating Blast
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+120% Crit Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Drizzt</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Courage in Battle Icon](images/featicons/mithralhallstackbonus.png)Courage in Battle
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+1 Mithral Hall Stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Drizzt</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Death on Both Sides Icon](images/featicons/upgradefa.png)Death on Both Sides
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Icingdeath</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Jarlaxle</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Durable Icon](images/featicons/attributeboost.png)Durable
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Stat: +1 Constitution</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Jarlaxle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Jarlaxle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Obliterating Blast Icon](images/featicons/critdamageincrease.png)Obliterating Blast
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+120% Crit Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Krux</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Bigger Boat Icon](images/featicons/upgradefa.png)Bigger Boat
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">All Hands on Deck +2nd Rear Column</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Krux</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Entertainer Icon](images/featicons/attributeboostx2.png)Entertainer
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Stat: +2 Charisma</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Krux</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Keen Eye Icon](images/featicons/upgradefa.png)Keen Eye
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Starfarer's Spyglass</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Krux</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scholar Icon](images/featicons/attributeboostx2.png)Scholar
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Stat: +2 Intelligence</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Krux</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Seahippo Icon](images/featicons/upgradefa.png)Seahippo
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% An Experienced Sailor</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Lae'zel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scholar Icon](images/featicons/attributeboostx2.png)Scholar
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Stat: +2 Intelligence</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Miria</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Caged Dreams Icon](images/featicons/upgradefa.png)Caged Dreams
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Soul Cage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Pwent</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vicious Damage Icon](images/featicons/viciousdamage.png)Vicious Damage
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">400% Self DPS & Prevent Healing for 10s</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Regis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Advisor Icon](images/featicons/globaldps.png)Advisor
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Regis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Uriah</span>
+        </span>
+        <span class="featTableIcon4">
+            ![A Vow Unbroken Icon](images/featicons/attributeboostx2.png)A Vow Unbroken
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Stat: +2 Constitution</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Uriah</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Faithful Reward Icon](images/featicons/upgradefa.png)Faithful Reward
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Ezra's Embrace Heals Within 3 Slots</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Valentine</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Very Important Person Icon](images/featicons/upgradefa.png)Very Important Person
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Socialite</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Vin Ursa</span>
+        </span>
+        <span class="featTableIcon3">
+            ![It's Just Business Icon](images/featicons/upgradefa.png)It's Just Business
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% All Second Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Vin Ursa</span>
+        </span>
+        <span class="featTableIcon3">
+            ![This is the Way Icon](images/featicons/upgradefa.png)This is the Way
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Wulfgar</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Battle Expertise Icon](images/featicons/critchanceincrease.png)Battle Expertise
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+10% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Wulfgar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Asharra</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)Inspiring Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">25% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Binwin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Above the Crowd Icon](images/featicons/upgradefa.png)Above the Crowd
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Tallest in Faerûn</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Binwin</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Grappler Icon](images/featicons/selfdps.png)Grappler
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">60% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Black Viper</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Weapon Master Icon](images/featicons/selfdps.png)Weapon Master
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">120% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prophesied Leader Icon](images/featicons/globaldps.png)Prophesied Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Donaar</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)Inspiring Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">25% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Jarlaxle</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Grappler Icon](images/featicons/selfdps.png)Grappler
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">60% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Krull</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fortune's Favor Icon](images/featicons/goldfind.png)Fortune's Favor
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% Gold</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Krull</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Richly Deserved Icon](images/featicons/upgradefa.png)Richly Deserved
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Draconic Plague</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Minsc</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Superior Actor Icon](images/featicons/attributeboost.png)Superior Actor
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Stat: +2 Charisma</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Nayeli</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Resilient Icon](images/featicons/health.png)Resilient
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">30% Health</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fortune's Favor Icon](images/featicons/goldfind.png)Fortune's Favor
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% Gold</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Tyril</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Alyndra</span>
+        </span>
+        <span class="featTableIcon4">
+            ![I Did My Homework Icon](images/featicons/upgradefa.png)I Did My Homework
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Brows of Judgement</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Strongheart</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Seat Shift Icon](images/featicons/swapseat12.png)Seat Shift
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+    </span>
+</span>
 
 # Seat Swap Feats
 

@@ -705,20 +705,151 @@ Slot 6:
 
 This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
 
-| Icon | Feat | Effect | Source |
-|---|---|---|---|
-| <span class="feat2">![Selflessness Icon](images/featicons/globaldps.png)</span> | `Selflessness` | 10% All Champion Damage | Free |
-| <span class="feat3">![Inspiring Leader Icon](images/featicons/globaldps.png)</span> | `Inspiring Leader` | 25% All Champion Damage | Gold Chest |
-| <span class="feat2">![Frugal Icon](images/featicons/goldfind.png)</span> | `Frugal` | 10% Gold | Free |
-| <span class="feat3">![Lucky Icon](images/featicons/goldfind.png)</span> | `Lucky` | 25% Gold | 12,500 Gems |
-| <span class="feat2">![Tactical Prowess Icon](images/featicons/critchanceincrease.png)</span> | `Tactical Prowess` | +10% Crit Chance | Free |
-| <span class="feat3">![Battle Expertise Icon](images/featicons/critchanceincrease.png)</span> | `Battle Expertise` | +20% Crit Chance | Gold Chest |
-| <span class="feat2">![Have I Fought You Before? Icon](images/featicons/upgradefa.png)</span> | `Have I Fought You Before?` | 20% Bounty Hunter (Damage) | Free |
-| <span class="feat3">![Old Faces, New Battles Icon](images/featicons/upgradefa.png)</span> | `Old Faces, New Battles` | 40% Bounty Hunter (Damage) | 12,500 Gems |
-| <span class="feat3">![Muscle Memory Icon](images/featicons/goldfind.png)</span> | `Muscle Memory` | 40% Bounty Hunter (Gold) | Gold Chest |
-| <span class="feat3">![Timing is Everything Icon](images/featicons/upgradefa.png)</span> | `Timing is Everything` | 40% Vicious Vantage | 12,500 Gems |
-| <span class="feat4">![High Ground Icon](images/featicons/upgradefa.png)</span> | `High Ground` | 80% Vicious Vantage | 50,000 Gems |
-| <span class="feat3">![Aggressive Negotiations Icon](images/featicons/upgradefa.png)</span> | `Aggressive Negotiations` | 40% Contract Negotiations | Gold Chest |
+<span class="featTableColumn">
+    <span class="featTableRowHeader">
+        <span class="featTableIcon1">
+            <span style="margin-left:8px;">**Feat**</span>
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">**Effect**</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">**Source**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Selflessness Icon](images/featicons/globaldps.png)Selflessness
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">10% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)Inspiring Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">25% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Frugal Icon](images/featicons/goldfind.png)Frugal
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">10% Gold</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Lucky Icon](images/featicons/goldfind.png)Lucky
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">25% Gold</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Tactical Prowess Icon](images/featicons/critchanceincrease.png)Tactical Prowess
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+10% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Battle Expertise Icon](images/featicons/critchanceincrease.png)Battle Expertise
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Have I Fought You Before? Icon](images/featicons/upgradefa.png)Have I Fought You Before?
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">20% Bounty Hunter (Damage)</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Old Faces, New Battles Icon](images/featicons/upgradefa.png)Old Faces, New Battles
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Bounty Hunter (Damage)</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Muscle Memory Icon](images/featicons/goldfind.png)Muscle Memory
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Bounty Hunter (Gold)</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Timing is Everything Icon](images/featicons/upgradefa.png)Timing is Everything
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Vicious Vantage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon4">
+            ![High Ground Icon](images/featicons/upgradefa.png)High Ground
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Vicious Vantage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Aggressive Negotiations Icon](images/featicons/upgradefa.png)Aggressive Negotiations
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Contract Negotiations</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+    </span>
+</span>
 
 # Legendaries
 

@@ -733,21 +733,162 @@ Gloves of Missile Snaring: The spoils of a victorious raid. They serve their pur
 
 This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
 
-| Icon | Feat | Effect | Source |
-|---|---|---|---|
-| <span class="feat2">![Tavern Brawler Icon](images/featicons/selfdps.png)</span> | `Tavern Brawler` | 30% Self DPS | Free |
-| <span class="feat3">![Grappler Icon](images/featicons/selfdps.png)</span> | `Grappler` | 60% Self DPS | Gold Chest |
-| <span class="feat2">![Selflessness Icon](images/featicons/globaldps.png)</span> | `Selflessness` | 10% All Champion Damage | Free |
-| <span class="feat3">![Inspiring Leader Icon](images/featicons/globaldps.png)</span> | `Inspiring Leader` | 25% All Champion Damage | 12,500 Gems |
-| <span class="feat2">![Lethal Timing Icon](images/featicons/upgradefa.png)</span> | `Lethal Timing` | 20% Lethal Coordination | Free |
-| <span class="feat3">![Lethal Tactics Icon](images/featicons/upgradefa.png)</span> | `Lethal Tactics` | 40% Lethal Coordination | Gold Chest |
-| <span class="feat2">![Stygian Vigor Icon](images/featicons/upgradefa.png)</span> | `Stygian Vigor` | 20% Ceremorphosis | Free |
-| <span class="feat3">![Eldritch Empowerment Icon](images/featicons/upgradefa.png)</span> | `Eldritch Empowerment` | 40% Ceremorphosis | 12,500 Gems |
-| <span class="feat3">![No Time to Explain Icon](images/featicons/upgradefa.png)</span> | `No Time to Explain` | 40% Straight to the Point | 12,500 Gems |
-| <span class="feat4">![Hurry Up! Icon](images/featicons/upgradefa.png)</span> | `Hurry Up!` | 80% Straight to the Point | 50,000 Gems |
-| <span class="feat3">![Aberrant Slayer Icon](images/featicons/upgradefa.png)</span> | `Aberrant Slayer` | 40% Aberration Hunter | Gold Chest |
-| <span class="feat3">![Battle Expertise Icon](images/featicons/critchanceincrease.png)</span> | `Battle Expertise` | +20% Crit Chance | Gold Chest |
-| <span class="feat3">![Cataclysmic Strike Icon](images/featicons/critdamageincrease.png)</span> | `Cataclysmic Strike` | +60% Crit Damage | Gold Chest |
+<span class="featTableColumn">
+    <span class="featTableRowHeader">
+        <span class="featTableIcon1">
+            <span style="margin-left:8px;">**Feat**</span>
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">**Effect**</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">**Source**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Tavern Brawler Icon](images/featicons/selfdps.png)Tavern Brawler
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">30% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Grappler Icon](images/featicons/selfdps.png)Grappler
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">60% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Selflessness Icon](images/featicons/globaldps.png)Selflessness
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">10% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)Inspiring Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">25% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Lethal Timing Icon](images/featicons/upgradefa.png)Lethal Timing
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">20% Lethal Coordination</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Lethal Tactics Icon](images/featicons/upgradefa.png)Lethal Tactics
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Lethal Coordination</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Stygian Vigor Icon](images/featicons/upgradefa.png)Stygian Vigor
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">20% Ceremorphosis</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Eldritch Empowerment Icon](images/featicons/upgradefa.png)Eldritch Empowerment
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Ceremorphosis</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![No Time to Explain Icon](images/featicons/upgradefa.png)No Time to Explain
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Straight to the Point</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon4">
+            ![Hurry Up! Icon](images/featicons/upgradefa.png)Hurry Up!
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Straight to the Point</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Aberrant Slayer Icon](images/featicons/upgradefa.png)Aberrant Slayer
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Aberration Hunter</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Battle Expertise Icon](images/featicons/critchanceincrease.png)Battle Expertise
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Cataclysmic Strike Icon](images/featicons/critdamageincrease.png)Cataclysmic Strike
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+60% Crit Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+    </span>
+</span>
 
 # Legendaries
 

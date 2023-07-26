@@ -41,18 +41,83 @@ code{
 	height: 42px;
 	width: 42px;
 }
-.feat1 {
+.featTableColumn {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+	margin: 1px;
+	font-size: 0.9em;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+.featTableColumn {
+	width: 830px;
+}
+.featTableRow,.featTableRowHeader {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+	height: 49px;
+	margin: 2px;
+	background-color: #141414;
+	border: 1px solid black;
+	font-size: 0.9em;
+}
+.featTableRowHeader {
+	border-bottom: 4px ridge black;
+	font-size: 1.1em;
+}
+.featTableRow:hover {
+	border: 1px solid #FFEB9B;
+	background-color: #000000;
+}
+.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5,.featTableChampion,.featTableSource {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 250px;
+	height: 100%;
+	margin: 0px;
+}
+.featTableChampion {
+	border-right: 1px solid black;
+	background-color: #1c1c1c;
+}
+.featTableSource,.featTableChampion {
+	width: 110px;
+}
+.featTableEffect {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 350px;
+	height: 100%;
+	background-color: #1c1c1c;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.featTableIcon1 img,.featTableIcon2 img,.featTableIcon3 img,.featTableIcon4 img,.featTableIcon5 img {
+	margin: 5px;
+	width: 40px;
+	height: 40px;
+	object-fit: contain;
+}
+.featTableIcon1 img {
 	border: 1px solid #DEE3DE;
 }
-.feat2 {
+.featTableIcon2 img {
 	border: 1px solid #7BDF00;
 }
-.feat3 {
+.featTableIcon3 img {
 	border: 1px solid #2955FF;
 }
-.feat4 {
+.featTableIcon4 img {
 	border: 1px solid #8408EF;
 }
-.feat5 {
+.featTableIcon5 img {
 	border: 1px solid #FBBA37;
 }
