@@ -183,3 +183,119 @@ code{
 	border-left: 1px solid black;
 	width: 100px;
 }
+.abilityBorder {
+	background-color: #1a1a1a;
+	border: 1px solid black;
+	width: 850px;
+	margin: 4px;
+	margin-bottom: 20px;
+}
+.abilityBorderInner {
+	width: 100%;
+	margin: 5px;
+}
+.abilityBorder pre {
+	width: 798px;
+	margin: 5px;
+	box-shadow: none;
+	border: 1px solid black;
+	border-radius: 0px;
+	background-color: #202020;
+}
+.itemTableColumn {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+	margin: 1px;
+	width: 830px;
+	font-size: 0.9em;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+.itemTableRow,.itemTableRowHeader {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+	height: 75px;
+	margin: 2px;
+	background-color: #141414;
+	border: 1px solid black;
+	font-size: 0.9em;
+}
+.itemTableRowHeader {
+	border-bottom: 4px ridge black;
+	font-size: 1.1em;
+	height: 44px;
+}
+.itemTableRow:hover {
+	border: 1px solid #FFEB9B;
+	background-color: #000000;
+}
+.itemTableIcon {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 125px;
+	height: 100%;
+	margin: 0px;
+	font-size: 1.1em;
+}
+.itemTableIcon img {
+	margin: 5px;
+}
+.itemTableSlot {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 60px;
+	height: 100%;
+	background-color: #1c1c1c;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.itemTableName,.itemTableType,.itemTableNameSmall,.itemTableEffect {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	height: 100%;
+}
+.itemTableName,.itemTableNameSmall {
+	width: 200px;
+}
+.itemTableNameSmall {
+	background-color: #1c1c1c;
+	border-left: 1px solid black;
+}
+.itemTableEffect {
+	background-color: #1c1c1c;
+	border-left: 1px solid black;
+	width: 350px;
+	height: 100%;
+}
+/*
+.itemTableIcon1 img,.itemTableIcon2 img,.itemTableIcon3 img,.itemTableIcon4 img,.itemTableIcon5 img {
+	margin: 5px;
+	width: 65px;
+	height: 65px;
+	object-fit: contain;
+}
+.itemTableIcon1 img {
+	border: 1px solid #DEE3DE;
+}
+.itemTableIcon2 img {
+	border: 1px solid #7BDF00;
+}
+.itemTableIcon3 img {
+	border: 1px solid #2955FF;
+}
+.itemTableIcon4 img {
+	border: 1px solid #8408EF;
+}
+.itemTableIcon5 img {
+	border: 1px solid #FBBA37;
+}
+*/

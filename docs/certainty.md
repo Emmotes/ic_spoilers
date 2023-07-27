@@ -34,6 +34,7 @@ Unknown.
 
 # Abilities
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Unknown**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -42,8 +43,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Unknown**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -52,8 +54,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Dad and Uncle Jim**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -71,8 +74,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Employee Evaluations**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -90,8 +94,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Financing Rounds**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -109,8 +114,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Reboot Expert**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -128,8 +134,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Secretarian's Advice**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -147,10 +154,11 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
 # Specialisations
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Employee Evaluations**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -168,8 +176,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Best and the Brightest**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -187,8 +196,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Smooth Negotiators**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -206,18 +216,68 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
 # Items
 
-| Icon | Name | Type |
-|:-:|---|---|
-| ![Airship Stuff Icon](images/certainty/20534.png) | `Airship Stuff` | Unknown |
-| ![Clothing Icon](images/certainty/20537.png) | `Clothing` | Unknown |
-| ![Music Instruments Icon](images/certainty/20540.png) | `Music Instruments` | Unknown |
-| ![School Items Icon](images/certainty/20543.png) | `School Items` | Unknown |
-| ![Secretarian Items Icon](images/certainty/20546.png) | `Secretarian Items` | Unknown |
-| ![Time Stuff Icon](images/certainty/20549.png) | `Time Stuff` | Unknown |
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">**Name**</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Airship Stuff Icon](images/certainty/20534.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Airship Stuff</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Clothing Icon](images/certainty/20537.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Clothing</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Music Instruments Icon](images/certainty/20540.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Music Instruments</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![School Items Icon](images/certainty/20543.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">School Items</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Secretarian Items Icon](images/certainty/20546.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Secretarian Items</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Time Stuff Icon](images/certainty/20549.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Time Stuff</span>
+        </span>
+    </span>
+</span>
 
 # Feats
 

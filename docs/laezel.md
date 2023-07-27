@@ -35,6 +35,7 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 
 # Abilities
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Melee Icon](images/icon_melee.png) **Base Attack: Greatsword** (Melee)
 > Lae'zel attacks the closest enemies with a swing of her greatsword.
 <details><summary><em>Raw Data</em></summary>
@@ -72,8 +73,9 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Melee Icon](images/icon_melee.png) ![Magic Icon](images/icon_magic.png) **Base Attack: War Magic** (Melee / Magic)
 > Lae'zel attacks with her greatsword and a volley of magic missiles.
 <details><summary><em>Raw Data</em></summary>
@@ -127,8 +129,9 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Psionic Leap Icon](images/laezel/icon_psionicleap.png) **Ultimate Attack: Psionic Leap** (Level: 300)
 > Lae'zel psionically leaps into the enemies and attacks with a psionic shockwave, stunning them all for a short duration.
 <details><summary><em>Raw Data</em></summary>
@@ -169,8 +172,9 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Critical Hit** (Level: 0)
 > Lae'zel's base chance to Critical Hit is 20%.
 <details><summary><em>Raw Data</em></summary>
@@ -203,8 +207,9 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Lethal Coordination Icon](images/laezel/icon_lethalcoordination.png) **Lethal Coordination** (Level: 30)
 > Lae'zel increases the damage of all Champions in her column by 100%, including herself.
 <details><summary><em>Upgrade Data</em></summary>
@@ -275,8 +280,9 @@ Expected numbers with various item levels:
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Ceremorphosis Icon](images/laezel/icon_ceremorphosis.png) **Ceremorphosis** (Level: 80)
 > Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Lae'zel's brain. Lae'zel increases the effect of Lethal Coordination by 100% for each Ceremorphosis stack, stacking multiplicatively.
 
@@ -339,8 +345,9 @@ Expected numbers with various item levels:
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Straight to the Point Icon](images/laezel/icon_straighttothepoint.png) **Straight to the Point** (Level: 100)
 > In non-boss areas, whenever an enemy is defeated by anything OTHER than Lae'zel, she has a 100% chance to gain an Impatience stack. When she has 17 Impatience stacks, complete the current area and reset the Impatience stacks to the current Ceremorphosis count. Stacks persist when changing areas.
 <details><summary><em>Raw Data</em></summary>
@@ -386,8 +393,9 @@ Expected numbers with various item levels:
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Aberration Hunter Icon](images/laezel/icon_aberrationhunter.png) **Aberration Hunter** (Level: 170)
 > Aberrations are Lae'zel's Favored Foe. Every time an Aberration spawns, Lae'zel's Lethal Coordination is multiplicatively increased by 100%, stacking up to 4 times the Ceremorphosis stack count and resetting when changing areas. There is a 33% chance with each wave in a non-boss area that an extra Mind Flayer spawns.
 <details><summary><em>Upgrade Data</em></summary>
@@ -473,8 +481,9 @@ Expected numbers with various item levels:
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Ferocious Warrior Icon](images/laezel/icon_ferociouswarrior.png) **Ferocious Warrior** (Level: 200)
 > If Lae'zel attacks and any of her targets survive, her base attack cooldown for her next attack is reduced by 4 seconds.
 <details><summary><em>Raw Data</em></summary>
@@ -521,10 +530,11 @@ Expected numbers with various item levels:
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
 # Specialisations
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Battle Master Icon](images/laezel/icon_battlemaster.png) **Battle Master** (Level: 230)
 > When Lae'zel hits an enemy and they survive, the enemy is distracted and the next Champion (other than Lae'zel) that hits them deals an additional 4 seconds of BUD-based damage.
 <details><summary><em>Raw Data</em></summary>
@@ -566,8 +576,9 @@ Expected numbers with various item levels:
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Champion Icon](images/laezel/icon_champion.png) **Champion** (Level: 230)
 > Increases Lae'zel's Critical Hit chance by 20% (additively) and Critical Hit damage by 100% (multiplicatively).
 <details><summary><em>Raw Data</em></summary>
@@ -608,8 +619,9 @@ Expected numbers with various item levels:
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Eldritch Knight Icon](images/laezel/icon_eldritchknight.png) **Eldritch Knight** (Level: 230)
 > Lae'zel now casts Magic Missile immediately after attacking with her greatsword, firing a missile at 3 random targets.
 <details><summary><em>Raw Data</em></summary>
@@ -645,18 +657,110 @@ Expected numbers with various item levels:
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
 # Items
 
-| Icon | Slot | Epic Name | Type |
-|:-:|---|---|---|
-| ![Mind Seeker Icon](images/laezel/20263.png) | 1 | `Mind Seeker` | All Champion Damage |
-| ![Githyanki Silver Sword Icon](images/laezel/20266.png) | 2 | `Githyanki Silver Sword` | Lethal Coordination |
-| ![Token of Vlaakith Icon](images/laezel/20257.png) | 3 | `Token of Vlaakith` | Ceremorphosis |
-| ![Dragonrider Armour Icon](images/laezel/20251.png) | 4 | `Dragonrider Armour` | Aberration Hunter |
-| ![Astral Striders Icon](images/laezel/20254.png) | 5 | `Astral Striders` | Ultimate Damage |
-| ![Sunwalker's Gift Icon](images/laezel/20260.png) | 6 | `Sunwalker's Gift` | Ultimate Cooldown Reduction |
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableSlot">
+            <span>**Slot**</span>
+        </span>
+        <span class="itemTableName">
+            <span style="margin-left: 8px;">**Epic Name**</span>
+        </span>
+        <span class="itemTableEffect">
+            <span style="margin-left: 8px;">**Effect**</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Mind Seeker Icon](images/laezel/20263.png)
+        </span>
+        <span class="itemTableSlot">
+            <span>1</span>
+        </span>
+        <span class="itemTableName">
+            <span style="margin-left: 8px;">Mind Seeker</span>
+        </span>
+        <span class="itemTableEffect">
+            <span style="margin-left: 8px;">All Champion Damage</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Githyanki Silver Sword Icon](images/laezel/20266.png)
+        </span>
+        <span class="itemTableSlot">
+            <span>2</span>
+        </span>
+        <span class="itemTableName">
+            <span style="margin-left: 8px;">Githyanki Silver Sword</span>
+        </span>
+        <span class="itemTableEffect">
+            <span style="margin-left: 8px;">Lethal Coordination</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Token of Vlaakith Icon](images/laezel/20257.png)
+        </span>
+        <span class="itemTableSlot">
+            <span>3</span>
+        </span>
+        <span class="itemTableName">
+            <span style="margin-left: 8px;">Token of Vlaakith</span>
+        </span>
+        <span class="itemTableEffect">
+            <span style="margin-left: 8px;">Ceremorphosis</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Dragonrider Armour Icon](images/laezel/20251.png)
+        </span>
+        <span class="itemTableSlot">
+            <span>4</span>
+        </span>
+        <span class="itemTableName">
+            <span style="margin-left: 8px;">Dragonrider Armour</span>
+        </span>
+        <span class="itemTableEffect">
+            <span style="margin-left: 8px;">Aberration Hunter</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Astral Striders Icon](images/laezel/20254.png)
+        </span>
+        <span class="itemTableSlot">
+            <span>5</span>
+        </span>
+        <span class="itemTableName">
+            <span style="margin-left: 8px;">Astral Striders</span>
+        </span>
+        <span class="itemTableEffect">
+            <span style="margin-left: 8px;">Ultimate Damage</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Sunwalker's Gift Icon](images/laezel/20260.png)
+        </span>
+        <span class="itemTableSlot">
+            <span>6</span>
+        </span>
+        <span class="itemTableName">
+            <span style="margin-left: 8px;">Sunwalker's Gift</span>
+        </span>
+        <span class="itemTableEffect">
+            <span style="margin-left: 8px;">Ultimate Cooldown Reduction</span>
+        </span>
+    </span>
+</span>
 
 <details><summary><em>Item Names and Descriptions</em></summary>
 <p>

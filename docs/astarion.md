@@ -34,6 +34,7 @@ Unknown.
 
 # Abilities
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Unknown**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -42,8 +43,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Unknown**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -52,8 +54,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ceremorphosis**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -71,8 +74,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Generational Wealth**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -90,8 +94,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Outflank**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -109,8 +114,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Well Fed**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -128,10 +134,11 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
 # Specialisations
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Arcane Trickster**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -149,8 +156,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Assassin**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -168,8 +176,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Thief**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -187,8 +196,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Outflank Bottom**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -206,8 +216,9 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Outflank Top**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
@@ -225,18 +236,68 @@ Unknown.
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
 # Items
 
-| Icon | Name | Type |
-|:-:|---|---|
-| ![Baldurs Gate Things Icon](images/astarion/20438.png) | `Baldurs Gate Things` | Unknown |
-| ![Magic Items Icon](images/astarion/20441.png) | `Magic Items` | Unknown |
-| ![Melee Weapons Icon](images/astarion/20444.png) | `Melee Weapons` | Unknown |
-| ![Mind Flayer Research Icon](images/astarion/20447.png) | `Mind Flayer Research` | Unknown |
-| ![Ranged Weapons Icon](images/astarion/20450.png) | `Ranged Weapons` | Unknown |
-| ![Vampire Links Icon](images/astarion/20453.png) | `Vampire Links` | Unknown |
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">**Name**</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Baldurs Gate Things Icon](images/astarion/20438.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Baldurs Gate Things</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Magic Items Icon](images/astarion/20441.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Magic Items</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Melee Weapons Icon](images/astarion/20444.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Melee Weapons</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Mind Flayer Research Icon](images/astarion/20447.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Mind Flayer Research</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Ranged Weapons Icon](images/astarion/20450.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Ranged Weapons</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            ![Vampire Links Icon](images/astarion/20453.png)
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Vampire Links</span>
+        </span>
+    </span>
+</span>
 
 # Feats
 

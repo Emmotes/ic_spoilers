@@ -39,6 +39,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 ![Jim Portrait](images/season_5/jim.png)
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Wand of Wonder**
 > Jim uses his Wand of Wonder, applying a random effect.
 <details><summary><em>Raw Data</em></summary>
@@ -69,8 +70,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Wand of Wonder**
 > Jim uses his Wand of Wonder, applying a random effect.
 <details><summary><em>Raw Data</em></summary>
@@ -101,8 +103,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Wand of Wonder**
 > Jim uses his Wand of Wonder, applying a random effect.
 <details><summary><em>Raw Data</em></summary>
@@ -174,8 +177,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Jim's Magical Maelstrom**
 > Jim attacks all enemies with a showy shower of sparks and energizes his Fan Club for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
@@ -214,8 +218,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Hidey-Box** (Guess)
 > Whenever the formation is under attack, Jim hides in a small protective (cardboard) box and fires twice as many Magic Missiles when he attacks.
 <details><summary><em>Raw Data</em></summary>
@@ -242,8 +247,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Fan Club** (Guess)
 > Increases the damage of Jim and everyone in the columns in front of and behind him by `$(not_buffed amount)%` for each affected Champion, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
@@ -281,8 +287,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Wand of Wonder** (Guess)
 > Every `$(trigger_every)` attacks, Jim uses his Wand of Wonder. It provides one of five random effects:  
 >   
@@ -358,8 +365,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Magical Mystery Tour** (Guess)
 > The effect of Fan Club is increased by `$(not_buffed amount)%` each time an enemy, ally, or ally's equipment is polymorphed or transformed in some way, stacking multiplicatively up to `$(max_stacks)` times. Stacks reset when changing areas.
 <details><summary><em>Raw Data</em></summary>
@@ -399,8 +407,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Fashion Week** (Guess)
 > The effect of Fan Club is increased by `$(amount)%` for each Champion with a non-base skin equipped in the formation, stacking additively.
 <details><summary><em>Raw Data</em></summary>
@@ -429,8 +438,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > Increases the effect of Jim's specializations by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
@@ -448,8 +458,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Darkmagic Cheer Squad** (Guess)
 > Increases the effect of Fan Club by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
@@ -473,8 +484,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Magic magic magic** (Guess)
 > Increases the damage of all Champions whose base attacks are magic by `$(not_buffed amount)%` for each Champion whose base attacks are magic in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
@@ -517,8 +529,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unpaid Extras** (Guess)
 > Increases the effect of Fan Club by `$(amount)%`. All members of Acquisitions Incorporated and The "C" Team in the formation join Jim's Fan Club, regardless of their position in the formation.
 <details><summary><em>Raw Data</em></summary>
@@ -563,12 +576,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
 # Evelyn
 
 ![Evelyn Portrait](images/season_5/evelyn.png)
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Divine Prayer** (Guess)
 > Evelyn increases the damage of everyone behind her in the formation by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
@@ -595,8 +609,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Channel Divinity** (Guess)
 > After Evelyn attacks an enemy, `$(upgrade_name id)` is buffed by `$(not_buffed amount)%` for `$(buff_duration___3)` seconds. If the enemy had a debuff affecting them, the effect is increased by `$(amount___2)%`. Does not stack.
 <details><summary><em>Raw Data</em></summary>
@@ -658,8 +673,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Steadfast Might** (Guess)
 > Increases the effect of `$(upgrade_name id)` by `$(amount)%` times the highest number of enemies that Evelyn has tanked at once in the current area plus the highest enemy enrage stack in the current area.
 <details><summary><em>Raw Data</em></summary>
@@ -697,8 +713,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > After an ally effectively heals Evelyn, Divine Prayer is buffed by `$amount%` for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
@@ -727,8 +744,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Lathander's Grace** (Guess)
 > Every Champion in the formation grants Evelyn Grace stacks for every `$num_levels_per_stack___2 levels above their last unlockable upgrade that they are leveled`. Each Grace stack increases the effect of Divine Prayer by `$(amount)%`, stacking multiplicatively. Champions can contribute at most 1 Grace stack each for every `$num_areas_per_stack___2 areas completed in the current adventure`.
 
@@ -772,8 +790,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > After an ally of Evelyn is attacked by an enemy, Divine Prayer is buffed by `$amount%` for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
@@ -805,8 +824,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > After Evelyn attacks an Enemy that has recently attacked them, Divine Prayer is buffed by `$amount%` for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
@@ -838,8 +858,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > The effect of the bonus upgrades granted by Lathander's Grace is increased by `$(amount)%` (stacking additively and then applying multiplicatively) for each Acquisitions Incorporated, The "C" Team, or Wafflecrew Champion in the formation.
 <details><summary><em>Raw Data</em></summary>
@@ -876,8 +897,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Divinity** (Guess)
 > Increases the effect of `$(upgrade_name id)` by `$amount%` for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
@@ -911,8 +933,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Protection** (Guess)
 > Increases the effect of `$(upgrade_name id)` by `$amount%` for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
@@ -944,8 +967,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Duel** (Guess)
 > Increases the effect of `$(upgrade_name id)` by `$amount%` for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
@@ -977,8 +1001,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Conduit of the Light** (Guess)
 > Increases the effect of `$(upgrade_name id)` by `$amount%` for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
@@ -1010,8 +1035,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > 
 <details><summary><em>Raw Data</em></summary>
@@ -1035,12 +1061,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
 # Strix
 
 ![Strix Portrait](images/season_5/strix.png)
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Fireball**
 > Strix throws a fireball at a random enemy, dealing a small amount of aoe damage.
 <details><summary><em>Raw Data</em></summary>
@@ -1073,8 +1100,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Polymorph Staff**
 > Strix's staff polymorphs into a pie plate, an owlbear plushy, or a flying broom, and changes her base attack for a brief period of time.
 <details><summary><em>Raw Data</em></summary>
@@ -1120,8 +1148,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Pie Plate Punch**
 > Strix attacks with her Flame Blade pie plate dealing 5x the damage of her regular attacking, and hitting a nearby enemy with that same damage as well.
 <details><summary><em>Raw Data</em></summary>
@@ -1160,8 +1189,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Waffles Whack**
 > Strix's Owlbear companion, Waffles, attacks in her stead. Waffles starts doing 3x Strix's damage, and does 2x the damage each attack for 5 attacks.
 <details><summary><em>Raw Data</em></summary>
@@ -1204,8 +1234,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Flying Fireball**
 > Strix throws a fireball at a random enemy, dealing a small amount of aoe damage.
 <details><summary><em>Raw Data</em></summary>
@@ -1244,8 +1275,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Aura of Unclean** (Guess)
 > Increases the damage of all Champions that are not adjacent to Strix by `$(amount)%`. Increase damage dealt by Strix by `$amount%` for each Champion affected, stacking additively.
 <details><summary><em>Raw Data</em></summary>
@@ -1275,8 +1307,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Death Ward** (Guess)
 > If a Champion within 2 slots of Strix is about to be killed, Strix revives them at `$gain_percent%` of their max health, and takes `$lose_percent%` of her max health in damage (if she can take that much damage without dying, can only fire once every `$wait_time seconds`).
 <details><summary><em>Raw Data</em></summary>
@@ -1312,8 +1345,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Haunted** (Guess)
 > Increases the damage of all Champions by `$(not_buffed amount)%` for every Champion death in the formation while Strix is in it, with stacks persisting until you reset.
 <details><summary><em>Raw Data</em></summary>
@@ -1334,8 +1368,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Poor Hygiene** (Guess)
 > Enemies approaching your formation take `$amount%` more damage due to Strix's unique odour.
 <details><summary><em>Raw Data</em></summary>
@@ -1365,8 +1400,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Power of Friendship** (Guess)
 > The radius of Poor Hygiene is increased by `$(amount___3)%` (stacking additively and then applying multiplicatively) and the damage bonus is increased by `$(amount)%` (stacking multiplicatively) for each other Acquisitions Incorporated, "C" - Team, or Wafflecrew Champion in the formation.
 
@@ -1413,8 +1449,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Olfactory Fatigue** (Guess)
 > The base damage bonus effect of The Power of Friendship (and Nose Plugs) is increased by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
@@ -1435,8 +1472,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Scent of Brimstone** (Guess)
 > Buff Aura of Unclean by `$(not_buffed amount)%` for each Tiefling in the formation.
 <details><summary><em>Raw Data</em></summary>
@@ -1462,8 +1500,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Smelly Lunch** (Guess)
 > The effect of Poor Hygiene is increased by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
@@ -1484,12 +1523,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
 # Omin
 
 ![Omin Portrait](images/season_5/omin.png)
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Spirit Guardian**
 > Omin summons 15 Spirit Guardians which explode every 2 seconds, damaging all monsters in a large area. The effect of Champion of Tymora is increased as long as a Spirit remains.
 <details><summary><em>Raw Data</em></summary>
@@ -1513,8 +1553,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Light of Tymora** (Guess)
 > Omin recruits all adjacent Champions to be Champions of Tymora. Champions of Tymora have their damage increased by `$(amount)%`. Omin himself is also a Champion of Tymora.
 <details><summary><em>Raw Data</em></summary>
@@ -1558,8 +1599,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Adventuring Capital** (Guess)
 > Omin increases the party's gold find by `$(amount)%` each time a Champion of Tymora attacks an enemy, stacking additively.
 <details><summary><em>Raw Data</em></summary>
@@ -1603,8 +1645,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > Champions who are affiliated with Acquisitions Incorporated and/or The "C" Team also become Champions of Tymora, and recruit Champions adjacent to them as well.
 <details><summary><em>Raw Data</em></summary>
@@ -1639,8 +1682,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > Champions of Tymora are healed for `$(amount)` health per second.
 <details><summary><em>Raw Data</em></summary>
@@ -1673,8 +1717,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Well Funded** (Guess)
 > The effect of Champion of Tymora is increased by `$(amount)%` for each order of magnitude of Gold you have collected in the current adventure, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
@@ -1701,8 +1746,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
 > Omin increases the effect of Champion of Tymora by `$(not_buffed amount)%` for each Champion of Tymora in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
@@ -1737,8 +1783,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
 > Omin increases the effect of Champion of Tymora by `$(not_buffed amount)%` for each Acquisitions Incorporated and/or The "C" Team champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
@@ -1769,8 +1816,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
 > Omin increases the effect of Champion of Tymora by `$(amount)%` for every 10 stacks of Adventuring Capital, stacking additively.
 <details><summary><em>Raw Data</em></summary>
@@ -1803,12 +1851,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
 # Vi
 
 ![Vi Portrait](images/season_5/vi.png)
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Blunderbuss**
 > 
 <details><summary><em>Raw Data</em></summary>
@@ -1848,8 +1897,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Arcane Cannon**
 > The first time the ultimate button is hit, a metal Cockatrice appears next to her and starts dealing ultimate damage to the closest enemy every second for 30 seconds. The second time the ultimate button is hit, the Cockatrice flies to the middle of a swarm of enemies and explodes, dealing 1000% ultimate damage to all enemies in an area attack.
 <details><summary><em>Raw Data</em></summary>
@@ -1882,8 +1932,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **A Good Example** (Guess)
 > Neutral (Good/Evil axis) Champions' damage is increased by `$(not_buffed amount)%` for each Good, Acquisitions Incorporated, or "C" Team Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
@@ -1930,8 +1981,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Catch and Release** (Guess)
 > Instead of a base attack with her pistol, there is a `$(amount)%` chance Vi takes out her comically oversized blunderbuss and fires it at a random normal enemy. This instantaneously transforms the enemy into a small glowing crystal sphere that has 1% of a normal enemy's health and is worth an additional `$(amount___2)%` gold when defeated. When changing areas, any remaining spheres are automatically killed and the gold from them is collected.
 <details><summary><em>Raw Data</em></summary>
@@ -1965,8 +2017,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **I'm Too Old For This** (Guess)
 > If there are `$(max_monsters)` or fewer enemies on screen, Vi waits impatiently instead of attacking with her base attack, and there is a `$(amount)%` chance that the second monster in each wave will spawn alongside the first one.
 <details><summary><em>Raw Data</em></summary>
@@ -2006,8 +2059,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **No Sassisfaction** (Guess)
 > Vi gains `$(stacks_per_second)` Sass stack for each second she spends impatiently waiting. A Good Example is increased by `$(amount)%` for each Sass stack, stacking multiplicatively. Sass stacks are capped at `$(max_stack_mult___2)` times the highest area unlocked in the current adventure.
 <details><summary><em>Raw Data</em></summary>
@@ -2054,8 +2108,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
 > Evil Champions also benefit from A Good Example's damage increase.
 <details><summary><em>Raw Data</em></summary>
@@ -2084,8 +2139,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
 > Good Champions also benefit from A Good Example's damage increase.
 <details><summary><em>Raw Data</em></summary>
@@ -2114,8 +2170,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
 > Increase the effect of A Good Example by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
@@ -2139,7 +2196,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
-<br />
+</div></div>
 
 # Season Chest Icons
 

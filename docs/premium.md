@@ -4,6 +4,7 @@
 
 Upcoming real-money shop items.
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Spelljammer Avren Skin & Feat Pack - $9.99  
 Date of release: 09 Aug 2023
 
@@ -15,9 +16,10 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Avren Chest` x7 (Shinies x1)
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Spelljammer Widdle Skin & Feat Pack - $9.99  
 Date of release: 09 Aug 2023
 
@@ -29,9 +31,10 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Widdle Chest` x7 (Shinies x1)
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Cosmic Nightmare Voronika Skin & Feat Pack - $9.99  
 Date of release: 16 Aug 2023
 
@@ -43,9 +46,10 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Voronika Chest` x7 (Shinies x1)
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Fear the Feyr Familiar Pack - $14.99  
 Date of release: 16 Aug 2023
 
@@ -59,9 +63,10 @@ Contents:
 * Buff: `Potion of the Gold Hunter` x1
 * Modron: `Upgrade Components` x2,000
 * Buff: `Potion of Polish` x1
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Mind Flayer Lae'zel Theme Pack - $24.99  
 Date of release: 16 Aug 2023
 
@@ -73,9 +78,10 @@ Contents:
 * Familiar: `Us the Intellect Devourer`
 * Chests: `Gold Lae'zel Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Cera the Adorable Illithid Tadpole Familiar Pack - $9.99  
 Date of release: 23 Aug 2023
 
@@ -86,9 +92,10 @@ Contents:
 * Buff: `Huge Potion of Giant's Strength` x4
 * Buff: `Huge Potion of Clairvoyance` x4
 * Buff: `Potion of Polish` x1
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Morph the Gnarly Illithid Tadpole Familiar Pack - $9.99  
 Date of release: 23 Aug 2023
 
@@ -99,9 +106,10 @@ Contents:
 * Buff: `Huge Potion of Giant's Strength` x4
 * Buff: `Huge Potion of Clairvoyance` x4
 * Buff: `Potion of Polish` x1
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Founder's Pack VI - $19.99  
 Date of release: 30 Aug 2023
 
@@ -118,9 +126,10 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x2
 * Buff: `Large Bounty Contract` x2
 * Gems: x5,000
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Modron BBEG Skin & Feat Pack - $9.99  
 Date of release: 30 Aug 2023
 
@@ -132,9 +141,10 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold BBEG Chest` x7 (Shinies x1)
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Modron Evandra Skin & Feat Pack - $9.99  
 Date of release: 30 Aug 2023
 
@@ -146,9 +156,10 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Evandra Chest` x7 (Shinies x1)
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Mind Flayer Astarion Theme Pack - $24.99  
 Date of release: 06 Sep 2023
 
@@ -160,9 +171,10 @@ Contents:
 * Familiar: `Leech the Boar`
 * Chests: `Gold E17Y6 Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Psyche the Amethyst Pseudodragon Familiar Pack - $9.99  
 Date of release: 13 Sep 2023
 
@@ -173,9 +185,10 @@ Contents:
 * Buff: `Huge Potion of Giant's Strength` x4
 * Buff: `Huge Potion of Clairvoyance` x4
 * Buff: `Potion of Polish` x1
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Aimee the Duck Familiar Pack - $14.99  
 Date of release: 20 Sep 2023
 
@@ -189,9 +202,10 @@ Contents:
 * Buff: `Potion of the Gold Hunter` x1
 * Modron: `Upgrade Components` x2,000
 * Buff: `Potion of Polish` x1
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Spelljammer Deekin Skin & Feat Pack - $9.99  
 Date of release: 20 Sep 2023
 
@@ -203,9 +217,10 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Deekin Chest` x7 (Shinies x1)
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Spelljammer Pilot Farideh Theme Pack - $24.99  
 Date of release: 20 Sep 2023
 
@@ -217,9 +232,10 @@ Contents:
 * Familiar: `The Second Wind`
 * Chests: `Gold Farideh Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Venture Casual K'thriss Skin & Feat Pack - $9.99  
 Date of release: 27 Sep 2023
 
@@ -231,9 +247,10 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold K'thriss Chest` x7 (Shinies x1)
+</div></div>
 
-<br />
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Venture Casual Môrgæn Skin & Feat Pack - $9.99  
 Date of release: 27 Sep 2023
 
@@ -245,8 +262,8 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Môrgæn Chest` x7 (Shinies x1)
+</div></div>
 
-<br />
 
 [Back to Top](#top)
 
