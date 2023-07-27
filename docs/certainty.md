@@ -231,7 +231,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Airship Stuff Icon](images/certainty/20534.png)
+            <span class="itemTableIcon1">![Airship Stuff Icon](images/certainty/20532.png)</span><span class="itemTableIcon2">![Airship Stuff Icon](images/certainty/20532.png)</span><span class="itemTableIcon3">![Airship Stuff Icon](images/certainty/20533.png)</span><span class="itemTableIcon4">![Airship Stuff Icon](images/certainty/20534.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">Airship Stuff</span>
@@ -239,7 +239,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Clothing Icon](images/certainty/20537.png)
+            <span class="itemTableIcon1">![Clothing Icon](images/certainty/20535.png)</span><span class="itemTableIcon2">![Clothing Icon](images/certainty/20535.png)</span><span class="itemTableIcon3">![Clothing Icon](images/certainty/20536.png)</span><span class="itemTableIcon4">![Clothing Icon](images/certainty/20537.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">Clothing</span>
@@ -247,7 +247,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Music Instruments Icon](images/certainty/20540.png)
+            <span class="itemTableIcon1">![Music Instruments Icon](images/certainty/20538.png)</span><span class="itemTableIcon2">![Music Instruments Icon](images/certainty/20538.png)</span><span class="itemTableIcon3">![Music Instruments Icon](images/certainty/20539.png)</span><span class="itemTableIcon4">![Music Instruments Icon](images/certainty/20540.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">Music Instruments</span>
@@ -255,7 +255,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![School Items Icon](images/certainty/20543.png)
+            <span class="itemTableIcon1">![School Items Icon](images/certainty/20541.png)</span><span class="itemTableIcon2">![School Items Icon](images/certainty/20541.png)</span><span class="itemTableIcon3">![School Items Icon](images/certainty/20542.png)</span><span class="itemTableIcon4">![School Items Icon](images/certainty/20543.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">School Items</span>
@@ -263,7 +263,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Secretarian Items Icon](images/certainty/20546.png)
+            <span class="itemTableIcon1">![Secretarian Items Icon](images/certainty/20544.png)</span><span class="itemTableIcon2">![Secretarian Items Icon](images/certainty/20544.png)</span><span class="itemTableIcon3">![Secretarian Items Icon](images/certainty/20545.png)</span><span class="itemTableIcon4">![Secretarian Items Icon](images/certainty/20546.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">Secretarian Items</span>
@@ -271,7 +271,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Time Stuff Icon](images/certainty/20549.png)
+            <span class="itemTableIcon1">![Time Stuff Icon](images/certainty/20547.png)</span><span class="itemTableIcon2">![Time Stuff Icon](images/certainty/20547.png)</span><span class="itemTableIcon3">![Time Stuff Icon](images/certainty/20548.png)</span><span class="itemTableIcon4">![Time Stuff Icon](images/certainty/20549.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">Time Stuff</span>

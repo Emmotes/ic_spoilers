@@ -220,7 +220,7 @@ code{
     flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
-	height: 75px;
+	height: 70px;
 	margin: 2px;
 	background-color: #141414;
 	border: 1px solid black;
@@ -237,11 +237,11 @@ code{
 }
 .itemTableIcon {
 	display: flex;
-	justify-content: center;
-	align-items: center;
-	width: 125px;
+	justify-content: flex-start;
+	align-items: flex-start;
+	width: 280px;
 	height: 100%;
-	margin: 0px;
+	margin: 2px;
 	font-size: 1.1em;
 }
 .itemTableIcon img {
@@ -251,7 +251,7 @@ code{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 60px;
+	width: 40px;
 	height: 100%;
 	background-color: #1c1c1c;
 	border-left: 1px solid black;
@@ -264,7 +264,7 @@ code{
 	height: 100%;
 }
 .itemTableName,.itemTableNameSmall {
-	width: 200px;
+	width: 190px;
 }
 .itemTableNameSmall {
 	background-color: #1c1c1c;
@@ -273,14 +273,13 @@ code{
 .itemTableEffect {
 	background-color: #1c1c1c;
 	border-left: 1px solid black;
-	width: 350px;
+	width: 331px;
 	height: 100%;
 }
-/*
 .itemTableIcon1 img,.itemTableIcon2 img,.itemTableIcon3 img,.itemTableIcon4 img,.itemTableIcon5 img {
-	margin: 5px;
-	width: 65px;
-	height: 65px;
+	margin: 4px;
+	width: 60px;
+	height: 60px;
 	object-fit: contain;
 }
 .itemTableIcon1 img {
@@ -298,4 +297,3 @@ code{
 .itemTableIcon5 img {
 	border: 1px solid #FBBA37;
 }
-*/

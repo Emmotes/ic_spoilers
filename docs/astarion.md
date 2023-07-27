@@ -251,7 +251,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Baldurs Gate Things Icon](images/astarion/20438.png)
+            <span class="itemTableIcon1">![Baldurs Gate Things Icon](images/astarion/20436.png)</span><span class="itemTableIcon2">![Baldurs Gate Things Icon](images/astarion/20436.png)</span><span class="itemTableIcon3">![Baldurs Gate Things Icon](images/astarion/20437.png)</span><span class="itemTableIcon4">![Baldurs Gate Things Icon](images/astarion/20438.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">Baldurs Gate Things</span>
@@ -259,7 +259,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Magic Items Icon](images/astarion/20441.png)
+            <span class="itemTableIcon1">![Magic Items Icon](images/astarion/20439.png)</span><span class="itemTableIcon2">![Magic Items Icon](images/astarion/20439.png)</span><span class="itemTableIcon3">![Magic Items Icon](images/astarion/20440.png)</span><span class="itemTableIcon4">![Magic Items Icon](images/astarion/20441.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">Magic Items</span>
@@ -267,7 +267,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Melee Weapons Icon](images/astarion/20444.png)
+            <span class="itemTableIcon1">![Melee Weapons Icon](images/astarion/20442.png)</span><span class="itemTableIcon2">![Melee Weapons Icon](images/astarion/20442.png)</span><span class="itemTableIcon3">![Melee Weapons Icon](images/astarion/20443.png)</span><span class="itemTableIcon4">![Melee Weapons Icon](images/astarion/20444.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">Melee Weapons</span>
@@ -275,7 +275,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Mind Flayer Research Icon](images/astarion/20447.png)
+            <span class="itemTableIcon1">![Mind Flayer Research Icon](images/astarion/20445.png)</span><span class="itemTableIcon2">![Mind Flayer Research Icon](images/astarion/20445.png)</span><span class="itemTableIcon3">![Mind Flayer Research Icon](images/astarion/20446.png)</span><span class="itemTableIcon4">![Mind Flayer Research Icon](images/astarion/20447.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">Mind Flayer Research</span>
@@ -283,7 +283,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Ranged Weapons Icon](images/astarion/20450.png)
+            <span class="itemTableIcon1">![Ranged Weapons Icon](images/astarion/20448.png)</span><span class="itemTableIcon2">![Ranged Weapons Icon](images/astarion/20448.png)</span><span class="itemTableIcon3">![Ranged Weapons Icon](images/astarion/20449.png)</span><span class="itemTableIcon4">![Ranged Weapons Icon](images/astarion/20450.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">Ranged Weapons</span>
@@ -291,7 +291,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Vampire Links Icon](images/astarion/20453.png)
+            <span class="itemTableIcon1">![Vampire Links Icon](images/astarion/20451.png)</span><span class="itemTableIcon2">![Vampire Links Icon](images/astarion/20451.png)</span><span class="itemTableIcon3">![Vampire Links Icon](images/astarion/20452.png)</span><span class="itemTableIcon4">![Vampire Links Icon](images/astarion/20453.png)</span>
         </span>
         <span class="itemTableNameSmall">
             <span style="margin-left: 8px;">Vampire Links</span>

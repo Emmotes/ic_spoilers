@@ -678,7 +678,7 @@ Expected numbers with various item levels:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Mind Seeker Icon](images/laezel/20263.png)
+            <span class="itemTableIcon1">![Raiding Daggers Icon](images/laezel/20261.png)</span><span class="itemTableIcon2">![Balanced Blades Icon](images/laezel/20261.png)</span><span class="itemTableIcon3">![Ghaik Slayer Icon](images/laezel/20262.png)</span><span class="itemTableIcon4">![Mind Seeker Icon](images/laezel/20263.png)</span>
         </span>
         <span class="itemTableSlot">
             <span>1</span>
@@ -692,7 +692,7 @@ Expected numbers with various item levels:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Githyanki Silver Sword Icon](images/laezel/20266.png)
+            <span class="itemTableIcon1">![Training Weapon Icon](images/laezel/20264.png)</span><span class="itemTableIcon2">![Battle Damaged Sword Icon](images/laezel/20264.png)</span><span class="itemTableIcon3">![Greatsword Icon](images/laezel/20265.png)</span><span class="itemTableIcon4">![Githyanki Silver Sword Icon](images/laezel/20266.png)</span>
         </span>
         <span class="itemTableSlot">
             <span>2</span>
@@ -706,7 +706,7 @@ Expected numbers with various item levels:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Token of Vlaakith Icon](images/laezel/20257.png)
+            <span class="itemTableIcon1">![Raiding Prize Icon](images/laezel/20255.png)</span><span class="itemTableIcon2">![Memory of the Tears Icon](images/laezel/20255.png)</span><span class="itemTableIcon3">![Aether Shards Icon](images/laezel/20256.png)</span><span class="itemTableIcon4">![Token of Vlaakith Icon](images/laezel/20257.png)</span>
         </span>
         <span class="itemTableSlot">
             <span>3</span>
@@ -720,7 +720,7 @@ Expected numbers with various item levels:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Dragonrider Armour Icon](images/laezel/20251.png)
+            <span class="itemTableIcon1">![Ornate Garb Icon](images/laezel/20249.png)</span><span class="itemTableIcon2">![Ancient Adornment Icon](images/laezel/20249.png)</span><span class="itemTableIcon3">![Githyanki Mail Icon](images/laezel/20250.png)</span><span class="itemTableIcon4">![Dragonrider Armour Icon](images/laezel/20251.png)</span>
         </span>
         <span class="itemTableSlot">
             <span>4</span>
@@ -734,7 +734,7 @@ Expected numbers with various item levels:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Astral Striders Icon](images/laezel/20254.png)
+            <span class="itemTableIcon1">![Leather Sandals Icon](images/laezel/20252.png)</span><span class="itemTableIcon2">![Well Used Sandals Icon](images/laezel/20252.png)</span><span class="itemTableIcon3">![Half Plate Boots Icon](images/laezel/20253.png)</span><span class="itemTableIcon4">![Astral Striders Icon](images/laezel/20254.png)</span>
         </span>
         <span class="itemTableSlot">
             <span>5</span>
@@ -748,7 +748,7 @@ Expected numbers with various item levels:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            ![Sunwalker's Gift Icon](images/laezel/20260.png)
+            <span class="itemTableIcon1">![Unidentified Crown Icon](images/laezel/20258.png)</span><span class="itemTableIcon2">![Ancient Crown Icon](images/laezel/20258.png)</span><span class="itemTableIcon3">![Gloves of Missile Snaring Icon](images/laezel/20259.png)</span><span class="itemTableIcon4">![Sunwalker's Gift Icon](images/laezel/20260.png)</span>
         </span>
         <span class="itemTableSlot">
             <span>6</span>
