@@ -92,22 +92,105 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Unknown**
-> Unknown effect.
+**Base Attack: Sneak Attack** (Ranged)
+> Astarion attacks a random target, dealing massive damage if the enemy was recently attacked.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "Astarion attacks a random target, dealing massive damage if the enemy was recently attacked.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["ranged"],
+    "graphic_id": 0,
+    "target": "random",
+    "aoe_radius": 0,
+    "tags": ["ranged"],
+    "num_targets": 1,
+    "animations": [{
+        "projectile_details": {
+            "percent_height_offset": 10,
+            "projectile_graphic_id": 20375,
+            "projectile_speed": 1750,
+            "hash": "ecac999b510d089e10f4e6a0edf92483",
+            "rotation_speed": 720
+        },
+        "bonus_seconds_of_bud": 1,
+        "teleport_sequence_name": "charge",
+        "special_melee": "astarion",
+        "shoot_offset": {
+            "x": 50,
+            "y": -125
+        },
+        "bud_override_upgrade_id": 12497,
+        "type": "melee_attack",
+        "shoot_sequence_name": "attack",
+        "shoot_sound_id": 180,
+        "shoot_frame": 5,
+        "bonus_bud_threshold": 3
+    }],
+    "name": "Sneak Attack",
+    "cooldown": 6,
+    "id": 677
+}
 </pre>
 </p>
 </details>
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Unknown**
-> Unknown effect.
+**Ultimate Attack: Sanguine Hunger**
+> Astarion viciously attacks the enemy with the most health with a vampiric bite and heals to full health.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "Astarion viciously attacks the enemy with the most health and heals to full health.",
+    "long_description": "Astarion viciously attacks the enemy with the most health with a vampiric bite and heals to full health.",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 20430,
+    "target": "highest_health",
+    "aoe_radius": 0,
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "teleport_sequence_name": "charge",
+        "ultimate": "astarion",
+        "melee_sequence_name": "ultimate",
+        "type": "ultimate_attack"
+    }],
+    "name": "Sanguine Hunger",
+    "cooldown": 60,
+    "id": 678
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown**
+> Astarion counts as "dead" for the purposes of effects that care about dead Champions, but "alive" for all other purposes.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "do_nothing"}],
+    "requirements": "",
+    "description": {"desc": "Astarion counts as \"dead\" for the purposes of effects that care about dead Champions, but \"alive\" for all other purposes."},
+    "id": 1663,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
 </pre>
 </p>
 </details>
@@ -115,18 +198,50 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ceremorphosis**
-> Unknown effect.
+> Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Astarion's brain. Astarion increases the effect of Outflank by `$(amount)%` for each Ceremorphosis stack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20421,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018Brightswords/Icon_Formation_AstarionCeremorphosis",
-    "fs": 0
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,100"},
+        {
+            "amount_expr": "upgrade_amount(12489,0)",
+            "stack_title": "Total Ceremorphosis Stacks",
+            "amount_updated_listeners": ["slot_changed"],
+            "stacks_multiply": true,
+            "total_title": "Total Bonus",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_ceremorphosis_stacks",
+            "effect_string": "buff_upgrades,0,12493,12494",
+            "desc_forced_order": 2
+        },
+        {
+            "stack_title": "Astarion Ceremorphosis Stacks",
+            "manual_stacking": true,
+            "stacks_multiply": false,
+            "off_when_benched": true,
+            "outgoing_buffs": false,
+            "effect_string": "astarion_ceremorphosis_stacks,1",
+            "show_stacks": true,
+            "desc_forced_order": 1
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Astarion's brain. Astarion increases the effect of Outflank by $(amount)% for each Ceremorphosis stack, stacking multiplicatively."},
+    "id": 1664,
+    "flavour_text": "",
+    "graphic_id": 20421,
+    "properties": {
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
 }
 </pre>
 </p>
@@ -135,38 +250,30 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Generational Wealth**
-> Unknown effect.
+> Astarion increases the gold find of the formation by `$(amount)%` times the total age of all Champions in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20422,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018Brightswords/Icon_Formation_AstarionGenerationalWealth",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Outflank**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 20423,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018Brightswords/Icon_Formation_AstarionUltimateOutflank",
-    "fs": 0
+    "effect_keys": [{
+        "stack_title": "Total Age",
+        "amount_updated_listeners": ["slot_changed"],
+        "stacks_multiply": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_hero_attribute",
+        "per_hero_expr": "age",
+        "effect_string": "buff_upgrade,1,12205"
+    }],
+    "requirements": "",
+    "description": {"desc": "Astarion increases the gold find of the formation by $(amount)% times the total age of all Champions in the formation."},
+    "id": 1665,
+    "flavour_text": "",
+    "graphic_id": 20422,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -180,13 +287,39 @@ Unknown.
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20424,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018Brightswords/Icon_Formation_AstarionWellFed",
-    "fs": 0
+    "effect_keys": [{"effect_string": "do_nothing"}],
+    "requirements": "",
+    "description": {"desc": ""},
+    "id": 1666,
+    "flavour_text": "",
+    "graphic_id": 20424,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Outflank**
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "do_nothing"}],
+    "requirements": "",
+    "description": {"desc": ""},
+    "id": 1667,
+    "flavour_text": "",
+    "graphic_id": 20423,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -196,19 +329,28 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Arcane Trickster**
-> Unknown effect.
+**Specialisation: Outflank Top** (Guess)
+> Astarion increases the damage of all Champions at the top of each column by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20425,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018Brightswords/Icon_Specialization_AstarionArcaneTrickster",
-    "fs": 0
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "targets": ["top_row"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Astarion increases the damage of all Champions at the top of each column by $(amount)%."},
+    "id": 1668,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
@@ -216,19 +358,28 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Assassin**
-> Unknown effect.
+**Specialisation: Outflank Bottom** (Guess)
+> Astarion increases the damage of all Champions at the bottom of each column by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20426,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018Brightswords/Icon_Specialization_AstarionAssassin",
-    "fs": 0
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "targets": ["bottom_row"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Astarion increases the damage of all Champions at the bottom of each column by $(amount)%"},
+    "id": 1669,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
@@ -236,19 +387,24 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Thief**
-> Unknown effect.
+**Specialisation: Thief** (Guess)
+> Astarion increases the gold find of the party by `$(amount)%` for each gold find champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20429,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018Brightswords/Icon_Specialization_AstarionThief",
-    "fs": 0
+    "effect_keys": [{"effect_string": "gold_mult_per_tagged_crusader_mult,100,gold"}],
+    "requirements": "",
+    "description": {"desc": "Astarion increases the gold find of the party by $(amount)% for each gold find champion in the formation, stacking multiplicatively."},
+    "id": 1670,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
@@ -256,19 +412,35 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Outflank Bottom**
-> Unknown effect.
+**Specialisation: Arcane Trickster** (Guess)
+> Astarion increases the damage bonus of his Outflank specialization by `$(amount)%` for each Champion in the formation that is a Rogue, Wizard, or Absolute Adversaries affiliation member, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20427,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018Brightswords/Icon_Specialization_AstarionOutflankBottom",
-    "fs": 0
+    "effect_keys": [{
+        "stack_title": "Qualified Champions",
+        "amount_updated_listeners": [
+            "hero_tags_changed",
+            "slot_changed"
+        ],
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_hero",
+        "effect_string": "buff_upgrades,100,12493,12494",
+        "tag": "absoluteadversaries|rogue|wizard"
+    }],
+    "requirements": "",
+    "description": {"desc": "Astarion increases the damage bonus of his Outflank specialization by $(amount)% for each Champion in the formation that is a Rogue, Wizard, or Absolute Adversaries affiliation member, stacking multiplicatively."},
+    "id": 1671,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
@@ -276,19 +448,24 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Outflank Top**
-> Unknown effect.
+**Specialisation: Assassin** (Guess)
+> Increase the bonus BUD-based damage Astarion's Sneak Attack deals to `$(amount)` seconds worth.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20428,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2018Brightswords/Icon_Specialization_AstarionOutflankTop",
-    "fs": 0
+    "effect_keys": [{"effect_string": "do_nothing,5"}],
+    "requirements": "",
+    "description": {"desc": "Increase the bonus BUD-based damage Astarion's Sneak Attack deals to $(amount) seconds worth."},
+    "id": 1672,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
