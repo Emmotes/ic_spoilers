@@ -10,24 +10,168 @@ Lae'zel is a ferocious Githyanki warrior, mighty even by the standards of her mi
 
 Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 
-* Seat: 2
-* Race: Githyanki
-* Class: Fighter
-* Roles: Support / DPS / Speed
-* Age: 22
-* Gender: Female
-* Alignment: Lawful Evil
-* Affiliation: Absolute Adversaries
-
-| Stat | Value | Day 1 Trials | Patrons |
-|---|---|---|---|
-| Strength | 17 | Yes | Mirt |
-| Dexterity | 13 | Yes | Vajra |
-| Constitution | 14 | Yes | - |
-| Intelligence | 11 | Yes | - |
-| Wisdom | 12 | Yes | |
-| Charisma | 8 | - | |
-| Total | 75 | |
+<span class="champStatsTableColumn">
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Seat**:</span>
+        </span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">2</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Stat**</span>
+        </span>
+        <span class="champStatsTableStatsHeader">
+            <span style="margin-left:8px;">**Value**</span>
+        </span>
+        <span class="champStatsTableTrialsHeader">
+            <span style="margin-left:8px;">**Day 1 Trials**</span>
+        </span>
+        <span class="champStatsTablePatronsHeader">
+            <span style="margin-left:8px;">**Patrons**</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Race**:</span>
+        </span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Githyanki</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Strength**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">17</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">Mirt</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Class**:</span>
+        </span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Fighter</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Dexterity**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">13</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">Vajra</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Roles**:</span>
+        </span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Support / DPS / Speed</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Constitution**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">14</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">-</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Age**:</span>
+        </span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">22</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Intelligence**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">11</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">-</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Gender**:</span>
+        </span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Female</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Wisdom**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">12</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">&nbsp;</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Alignment**:</span>
+        </span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Lawful Evil</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Charisma**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:13px;">8</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">-</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">&nbsp;</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Affiliation**:</span>
+        </span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Absolute Adversaries</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Total**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">75</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">&nbsp;</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">&nbsp;</span>
+        </span>
+    </span>
+</span>
 
 # Formation
 

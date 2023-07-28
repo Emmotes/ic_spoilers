@@ -41,7 +41,7 @@ code{
     justify-content: flex-start;
     align-items: flex-start;
 	margin: 1px;
-	width: 830px;
+	width: 850px;
 	font-size: 0.9em;
 	margin-top: 1px;
 	margin-bottom: 1px;
@@ -56,7 +56,6 @@ code{
 	margin: 2px;
 	background-color: #141414;
 	border: 1px solid black;
-	font-size: 0.9em;
 }
 .featTableRowHeader {
 	border-bottom: 4px ridge black;
@@ -70,7 +69,7 @@ code{
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	width: 230px;
+	width: 234px;
 	height: 100%;
 	margin: 0px;
 }
@@ -92,6 +91,7 @@ code{
 	align-items: center;
 	width: 310px;
 	height: 100%;
+	margin: 0px;
 	background-color: #1c1c1c;
 	border-left: 1px solid black;
 	border-right: 1px solid black;
@@ -124,7 +124,7 @@ code{
     justify-content: flex-start;
     align-items: flex-start;
 	margin: 1px;
-	width: 830px;
+	width: 850px;
 	font-size: 0.9em;
 	margin-top: 1px;
 	margin-bottom: 1px;
@@ -139,7 +139,6 @@ code{
 	margin: 2px;
 	background-color: #141414;
 	border: 1px solid black;
-	font-size: 0.9em;
 }
 .skinTableRowHeader {
 	border-bottom: 4px ridge black;
@@ -153,7 +152,7 @@ code{
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	width: 320px;
+	width: 325px;
 	height: 100%;
 	margin: 0px;
 	font-size: 1.1em;
@@ -167,6 +166,7 @@ code{
 	align-items: center;
 	width: 350px;
 	height: 100%;
+	margin: 0px;
 	background-color: #1c1c1c;
 	border-left: 1px solid black;
 	border-right: 1px solid black;
@@ -175,13 +175,13 @@ code{
 	display: flex;
 	justify-content: flex-end;
 	align-items: center;
-	width: 60px;
+	width: 65px;
 	height: 100%;
 }
 .skinTableDate {
 	background-color: #1c1c1c;
 	border-left: 1px solid black;
-	width: 100px;
+	width: 105px;
 }
 .abilityBorder {
 	background-color: #1a1a1a;
@@ -209,7 +209,7 @@ code{
     justify-content: flex-start;
     align-items: flex-start;
 	margin: 1px;
-	width: 830px;
+	width: 850px;
 	font-size: 0.9em;
 	margin-top: 1px;
 	margin-bottom: 1px;
@@ -224,7 +224,6 @@ code{
 	margin: 2px;
 	background-color: #141414;
 	border: 1px solid black;
-	font-size: 0.9em;
 }
 .itemTableRowHeader {
 	border-bottom: 4px ridge black;
@@ -251,7 +250,7 @@ code{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 40px;
+	width: 45px;
 	height: 100%;
 	background-color: #1c1c1c;
 	border-left: 1px solid black;
@@ -273,7 +272,7 @@ code{
 .itemTableEffect {
 	background-color: #1c1c1c;
 	border-left: 1px solid black;
-	width: 331px;
+	width: 326px;
 	height: 100%;
 }
 .itemTableIcon1 img,.itemTableIcon2 img,.itemTableIcon3 img,.itemTableIcon4 img,.itemTableIcon5 img {
@@ -296,4 +295,78 @@ code{
 }
 .itemTableIcon5 img {
 	border: 1px solid #FBBA37;
+}
+.champStatsTableColumn {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+	margin: 1px;
+	width: 850px;
+	font-size: 0.9em;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+.champStatsTableRow {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+	height: 25px;
+	background-color: #141414;
+	border: 1px solid black;
+	margin: 2px;
+}
+.champStatsTableInfoHeader {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	width: 95px;
+	height: 100%;
+	margin: 0px;
+	font-size: 1.1em;
+}
+.champStatsTableInfo,.champStatsTableInfoSmall {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 250px;
+	height: 100%;
+	margin: 0px;
+	background-color: #1c1c1c;
+	border-left: 1px solid black;
+}
+.champStatsTableInfo {
+	border-right: 1px solid black;
+}
+.champStatsTableStatHeader,.champStatsTableStats,.champStatsTableStatsHeader,.champStatsTableTrials,.champStatsTableTrialsHeader,.champStatsTablePatrons,.champStatsTablePatronsHeader {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	height: 100%;
+	margin: 0px;
+}
+.champStatsTableStatsHeader,.champStatsTableTrialsHeader,.champStatsTablePatronsHeader {
+	font-size: 1.1em;
+}
+.champStatsTableStatHeader {
+	justify-content: flex-end;
+	width: 110px;
+	font-size: 1.1em;
+}
+.champStatsTableStats,.champStatsTableStatsHeader {
+	width: 120px;
+	background-color: #1c1c1c;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.champStatsTableTrials,.champStatsTableTrialsHeader {
+	width: 105px;
+}
+.champStatsTablePatrons,.champStatsTablePatronsHeader {
+	width: 100px;
+	background-color: #1c1c1c;
+	border-left: 1px solid black;
 }

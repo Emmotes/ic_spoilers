@@ -15,15 +15,72 @@ Info from a wiki.
 
 Certainty will be the new champion in the Highharvestide event on 27 September 2023.
 
-* Seat: Unknown
-* Race: Unknown
-* Class: Bard / Fighter (Guess)
-* Roles: Unknown
-* Age: 19 (Guess)
-* Gender: Female (Guess)
-* Alignment: Unknown
-* Affiliation: Acquisitions Incorporated (Guess)
-* Stats: Unknown
+<span class="champStatsTableColumn">
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Seat**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Unknown</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Race**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Unknown</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Class**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Bard / Fighter (Guess)</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Roles**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Unknown</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Age**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">19 (Guess)</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Gender**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Female (Guess)</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Alignment**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Unknown</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Affiliation**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Acquisitions Incorporated (Guess)</span>
+        </span>
+    </span>
+</span>
 
 # Formation
 

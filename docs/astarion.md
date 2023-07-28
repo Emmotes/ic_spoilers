@@ -15,15 +15,72 @@ Info from a wiki.
 
 Astarion will be the new champion in the Brightswords event on 6 September 2023.
 
-* Seat: Unknown
-* Race: Elf (High) (Guess)
-* Class: Rogue (Guess)
-* Roles: Unknown
-* Age: Unknown
-* Gender: Male (Guess)
-* Alignment: Unknown
-* Affiliation: Absolute Adversaries (Guess)
-* Stats: Unknown
+<span class="champStatsTableColumn">
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Seat**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">10 (Guess) (Spoiled by Justin on DI)</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Race**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Elf (High) (Guess)</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Class**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Rogue (Guess)</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Roles**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Unknown</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Age**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Unknown</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Gender**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Male (Guess)</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Alignment**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Unknown</span>
+        </span>
+    </span>
+    <span class="champStatsTableRow">
+        <span class="champStatsTableInfoHeader">
+            <span style="margin-right:4px;">**Affiliation**:</span>
+        </span>
+        <span class="champStatsTableInfoSmall">
+            <span style="margin-left:8px;">Absolute Adversaries (Guess)</span>
+        </span>
+    </span>
+</span>
 
 # Formation
 
