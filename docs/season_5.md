@@ -252,36 +252,45 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Fan Club** (Guess)
 > Increases the damage of Jim and everyone in the columns in front of and behind him by `$(not_buffed amount)%` for each affected Champion, stacking multiplicatively.
+
+*Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "amount_updated_listeners": [
-            "slot_changed",
-            "upgrade_unlocked"
-        ],
-        "stacks_multiply": true,
-        "off_when_benched": true,
-        "show_bonus": true,
-        "amount_func": "mult",
-        "use_computed_amount_for_description": true,
-        "stack_func": "per_upgrade_targets",
-        "effect_string": "hero_dps_multiplier_mult,200",
-        "stack_func_data": {
-            "only_slots_with_heroes": true,
-            "upgrade_id": 12128
-        },
-        "targets": ["self_and_behind_and_ahead"]
-    }],
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,200"},
+        {
+            "amount_expr": "upgrade_amount(12128,0)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked"
+            ],
+            "stacks_multiply": true,
+            "off_when_benched": true,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "use_computed_amount_for_description": true,
+            "stack_func": "per_upgrade_targets",
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "stack_func_data": {
+                "only_slots_with_heroes": true,
+                "upgrade_id": 12128
+            },
+            "targets": ["self_and_behind_and_ahead"]
+        }
+    ],
     "requirements": [],
     "description": {"desc": "Increases the damage of Jim and everyone in the columns in front of and behind him by $(not_buffed amount)% for each affected Champion, stacking multiplicatively."},
     "id": 1607,
     "flavour_text": "",
     "graphic_id": 6099,
     "properties": {
+        "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "default_bonus_index": 1,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -677,7 +686,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Steadfast Might** (Guess)
-> Increases the effect of `$(upgrade_name id)` by `$(amount)%` times the highest number of enemies that Evelyn has tanked at once in the current area plus the highest enemy enrage stack in the current area.
+> Increases the effect of `$(upgrade_name id)` by `$(amount)%` multiplied by the highest number of enemies that Evelyn has tanked at once in the current area plus the highest enemy enrage stack in the current area.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -697,7 +706,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {"effect_string": "evelyn_steadfast_might_stacker,0"}
     ],
     "requirements": "",
-    "description": {"desc": "Increases the effect of $(upgrade_name id) by $(amount)% times the highest number of enemies that $source has tanked at once in the current area plus the highest enemy enrage stack in the current area."},
+    "description": {"desc": "Increases the effect of $(upgrade_name id) by $(amount)% multiplied by the highest number of enemies that $source has tanked at once in the current area plus the highest enemy enrage stack in the current area."},
     "id": 1618,
     "flavour_text": "",
     "graphic_id": 0,
@@ -778,7 +787,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Every Champion in the formation grants Evelyn Grace stacks for every $num_levels_per_stack___2 levels above their last unlockable upgrade that they are leveled. Each Grace stack increases the effect of Divine Prayer by $(amount)%, stacking multiplicatively. Champions can contribute at most 1 Grace stack each for every $num_areas_per_stack___2 areas completed in the current adventure."},
     "id": 1620,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20463,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
@@ -862,7 +871,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> The effect of the bonus upgrades granted by Lathander's Grace is increased by `$(amount)%` (stacking additively and then applying multiplicatively) for each Acquisitions Incorporated, The "C" Team, or Wafflecrew Champion in the formation.
+> The effect of the bonus upgrades granted by Lathander's Grace is increased by `$(amount)%` (stacking additively and then applying multiplicatively) for each Acquisitions Incorporated, The "C" Team, or Waffle Crew Champion in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -884,7 +893,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "active_graphic_unique": 0
     }],
     "requirements": "",
-    "description": {"desc": "The effect of the bonus upgrades granted by Lathander's Grace is increased by $(amount)% (stacking additively and then applying multiplicatively) for each Acquisitions Incorporated, The \"C\" Team, or Wafflecrew Champion in the formation."},
+    "description": {"desc": "The effect of the bonus upgrades granted by Lathander's Grace is increased by $(amount)% (stacking additively and then applying multiplicatively) for each Acquisitions Incorporated, The \"C\" Team, or Waffle Crew Champion in the formation."},
     "id": 1623,
     "flavour_text": "",
     "graphic_id": 0,
@@ -2063,7 +2072,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **No Sassisfaction** (Guess)
-> Vi gains `$(stacks_per_second)` Sass stack for each second she spends impatiently waiting. A Good Example is increased by `$(amount)%` for each Sass stack, stacking multiplicatively. Sass stacks are capped at `$(max_stack_mult___2)` times the highest area unlocked in the current adventure.
+> Vi gains `$(stacks_per_second)` Sass stack for each second she spends impatiently waiting. A Good Example is increased by `$(not_buffed amount)%` for each Sass stack, stacking multiplicatively. Sass stacks are capped at `$(max_stack_mult___2)` times the highest area unlocked in the current adventure.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -2093,7 +2102,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": [],
-    "description": {"desc": "Vi gains $(stacks_per_second) Sass stack for each second she spends impatiently waiting. A Good Example is increased by $(amount)% for each Sass stack, stacking multiplicatively. Sass stacks are capped at $(max_stack_mult___2) times the highest area unlocked in the current adventure."},
+    "description": {"desc": "Vi gains $(stacks_per_second) Sass stack for each second she spends impatiently waiting. A Good Example is increased by $(not_buffed amount)% for each Sass stack, stacking multiplicatively. Sass stacks are capped at $(max_stack_mult___2) times the highest area unlocked in the current adventure."},
     "id": 1647,
     "flavour_text": "",
     "graphic_id": 20470,
@@ -2174,7 +2183,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
-> Increase the effect of A Good Example by `$(amount)%`.
+> Increases the effect of A Good Example by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -2184,7 +2193,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "effect_string": "buff_upgrade,200,12312"
     }],
     "requirements": [],
-    "description": {"desc": "Increase the effect of A Good Example by $(amount)%."},
+    "description": {"desc": "Increases the effect of A Good Example by $(amount)%."},
     "id": 1650,
     "flavour_text": "",
     "graphic_id": 0,
