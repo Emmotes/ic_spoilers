@@ -107,7 +107,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/skin_portraits/unknown.png)Modron BBEG
+            ![Modron BBEG Portrait](images/skin_portraits/modronbbeg.png)Modron BBEG
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Modron BBEG Skin & Feat Pack</span>
