@@ -199,6 +199,8 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ceremorphosis**
 > Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Astarion's brain. Astarion increases the effect of Outflank by `$(amount)%` for each Ceremorphosis stack, stacking multiplicatively.
+
+*Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
