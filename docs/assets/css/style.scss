@@ -183,16 +183,26 @@ code{
 	border-left: 1px solid black;
 	width: 105px;
 }
-.abilityBorder {
+.abilityBorder,.abilityBorderHover {
 	background-color: #1a1a1a;
 	border: 1px solid black;
-	width: 850px;
+	width: 848px;
 	margin: 4px;
 	margin-bottom: 20px;
 }
-.abilityBorderInner {
+.abilityBorderHover:hover {
+	border: 1px solid #FFEB9B;
+	background-color: #000000;
+}
+.abilityBorderInner,.abilityBorderInnerHover {
 	width: 100%;
 	margin: 5px;
+}
+.abilityBorderInnerHover {
+	margin-bottom: -13px;
+}
+.abilityBorderInnerNotLink {
+	color: #F0E7D5;
 }
 .abilityBorder pre {
 	width: 798px;

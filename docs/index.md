@@ -8,12 +8,36 @@ Of course - spoilers are subject to change at any time. Don't plan any major lif
 
 These are the event champions that are upcoming and all the information we know about them. Dates are guesstimates based on the normal event schedule.
 
-* Ahghairon's Day - 16 August 2023
-  * [Lae'zel](laezel.md) - Githyanki Fighter of Absolute Adversaries
-* Brightswords - 6 September 2023
-  * [Astarion](astarion.md) - Elf (High) Rogue of Absolute Adversaries (Guess)
-* Highharvestide - 27 September 2023
-  * [Certainty Dran](certainty.md) - Unknown Bard / Fighter of Acquisitions Incorporated (Guess)
+{::nomarkdown}
+<a href="/laezel.html">
+{:/nomarkdown}
+<div markdown="1" class="abilityBorderHover"><div markdown="1" class="abilityBorderInnerHover">
+* <span class="abilityBorderInnerNotLink">Ahghairon's Day - 16 August 2023</span>
+  * Lae'zel<span class="abilityBorderInnerNotLink"> - Githyanki Fighter of Absolute Adversaries</span>
+</div></div>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="/astarion.html">
+{:/nomarkdown}
+<div markdown="1" class="abilityBorderHover"><div markdown="1" class="abilityBorderInnerHover">
+* <span class="abilityBorderInnerNotLink">Brightswords - 6 September 2023</span>
+  * Astarion<span class="abilityBorderInnerNotLink"> - Elf (High) Rogue of Absolute Adversaries (Guess)</span>
+</div></div>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="/certainty.html">
+{:/nomarkdown}
+<div markdown="1" class="abilityBorderHover"><div markdown="1" class="abilityBorderInnerHover">
+* <span class="abilityBorderInnerNotLink">Highharvestide - 27 September 2023</span>
+  * Certainty Dran<span class="abilityBorderInnerNotLink"> - Unknown Bard / Fighter of Acquisitions Incorporated (Guess)</span>
+</div></div>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 
 # Recurring Events
 
