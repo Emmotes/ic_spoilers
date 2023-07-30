@@ -9,7 +9,7 @@ Of course - spoilers are subject to change at any time. Don't plan any major lif
 These are the event champions that are upcoming and all the information we know about them. Dates are guesstimates based on the normal event schedule.
 
 {::nomarkdown}
-<a href="/laezel.html">
+<a href="laezel.html">
 {:/nomarkdown}
 <div markdown="1" class="abilityBorderHover"><div markdown="1" class="abilityBorderInnerHover">
 * <span class="abilityBorderInnerNotLink">Ahghairon's Day - 16 August 2023</span>
@@ -19,7 +19,7 @@ These are the event champions that are upcoming and all the information we know 
 </a>
 {:/nomarkdown}
 {::nomarkdown}
-<a href="/astarion.html">
+<a href="astarion.html">
 {:/nomarkdown}
 <div markdown="1" class="abilityBorderHover"><div markdown="1" class="abilityBorderInnerHover">
 * <span class="abilityBorderInnerNotLink">Brightswords - 6 September 2023</span>
@@ -29,7 +29,7 @@ These are the event champions that are upcoming and all the information we know 
 </a>
 {:/nomarkdown}
 {::nomarkdown}
-<a href="/certainty.html">
+<a href="certainty.html">
 {:/nomarkdown}
 <div markdown="1" class="abilityBorderHover"><div markdown="1" class="abilityBorderInnerHover">
 * <span class="abilityBorderInnerNotLink">Highharvestide - 27 September 2023</span>
