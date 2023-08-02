@@ -186,7 +186,8 @@ code{
 .abilityBorder,.abilityBorderHover {
 	background-color: #1a1a1a;
 	border: 1px solid black;
-	width: 848px;
+	max-width: 848px;
+	min-width: 348px;
 	margin: 4px;
 	margin-bottom: 20px;
 }
