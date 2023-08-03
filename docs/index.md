@@ -8,36 +8,62 @@ Of course - spoilers are subject to change at any time. Don't plan any major lif
 
 These are the event champions that are upcoming and all the information we know about them. Dates are guesstimates based on the normal event schedule.
 
+<span class="indexChampionTableColumn">
 {::nomarkdown}
 <a href="laezel.html">
 {:/nomarkdown}
-<div markdown="1" class="abilityBorderHover"><div markdown="1" class="abilityBorderInnerHover">
-* <span class="abilityBorderInnerNotLink">Ahghairon's Day - 16 August 2023</span>
-  * Lae'zel<span class="abilityBorderInnerNotLink"> - Githyanki Fighter of Absolute Adversaries</span>
-</div></div>
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Lae'zel Portrait Icon](images/laezel/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Lae'zel&nbsp;<span class="indexChampionTableNoLink">- Githyanki Fighter of Absolute Adversaries</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Ahghairon's Day - 16 August 2023</span>
+            </span>
+    </span>
 {::nomarkdown}
 </a>
 {:/nomarkdown}
 {::nomarkdown}
 <a href="astarion.html">
 {:/nomarkdown}
-<div markdown="1" class="abilityBorderHover"><div markdown="1" class="abilityBorderInnerHover">
-* <span class="abilityBorderInnerNotLink">Brightswords - 6 September 2023</span>
-  * Astarion<span class="abilityBorderInnerNotLink"> - Elf (High) Rogue of Absolute Adversaries (Guess)</span>
-</div></div>
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Astarion Portrait Icon](images/astarion/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Astarion&nbsp;<span class="indexChampionTableNoLink">- Elf (High) Rogue of Absolute Adversaries (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Brightswords - 6 September 2023</span>
+            </span>
+    </span>
 {::nomarkdown}
 </a>
 {:/nomarkdown}
 {::nomarkdown}
 <a href="certainty.html">
 {:/nomarkdown}
-<div markdown="1" class="abilityBorderHover"><div markdown="1" class="abilityBorderInnerHover">
-* <span class="abilityBorderInnerNotLink">Highharvestide - 27 September 2023</span>
-  * Certainty Dran<span class="abilityBorderInnerNotLink"> - Unknown Bard / Fighter of Acquisitions Incorporated (Guess)</span>
-</div></div>
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Certainty Dran Portrait Icon](images/certainty/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Certainty Dran&nbsp;<span class="indexChampionTableNoLink">- Unknown Bard / Fighter of Acquisitions Incorporated (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Highharvestide - 27 September 2023</span>
+            </span>
+    </span>
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+</span>
 
 # Recurring Events
 

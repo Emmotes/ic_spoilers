@@ -183,7 +183,7 @@ code{
 	border-left: 1px solid black;
 	width: 105px;
 }
-.abilityBorder,.abilityBorderHover {
+.abilityBorder {
 	background-color: #1a1a1a;
 	border: 1px solid black;
 	max-width: 848px;
@@ -191,19 +191,9 @@ code{
 	margin: 4px;
 	margin-bottom: 20px;
 }
-.abilityBorderHover:hover {
-	border: 1px solid #FFEB9B;
-	background-color: #000000;
-}
-.abilityBorderInner,.abilityBorderInnerHover {
+.abilityBorderInner {
 	width: 100%;
 	margin: 5px;
-}
-.abilityBorderInnerHover {
-	margin-bottom: -13px;
-}
-.abilityBorderInnerNotLink {
-	color: #F0E7D5;
 }
 .abilityBorder pre {
 	width: 798px;
@@ -380,4 +370,59 @@ code{
 	width: 100px;
 	background-color: #1c1c1c;
 	border-left: 1px solid black;
+}
+.indexChampionTableColumn {
+	display: flex;
+	flex-direction: column;
+	max-width: 848px;
+	min-width: 498px;
+	margin-top: -10px;
+	margin-bottom: -5px;
+}
+.indexChampionTableRow {
+	margin: 8px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	border: 1px solid black;
+	height: 90px;
+	background-color: #141414;
+}
+.indexChampionTableRow:hover {
+	border: 1px solid #FFEB9B;
+	background-color: #000000;
+}
+.indexChampionTableIcon {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 95px;
+	height: 100%;
+}
+.indexChampionTableIcon img {
+	margin: 5px;
+	width: 85px;
+}
+.indexChampionTableInfo {
+	display: flex;
+	flex-direction: column;
+	max-width: 747px;
+	height: 100%;
+}
+.indexChampionTableEvent {
+	margin: 8px;
+	margin-left: 25px;
+	height: 50%;
+	width: 100%;
+}
+.indexChampionTableChampion {
+	margin: 8px;
+	height: 50%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+.indexChampionTableNoLink {
+	color: #F0E7D5;
 }
