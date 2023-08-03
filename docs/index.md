@@ -23,6 +23,7 @@ These are the event champions that are upcoming and all the information we know 
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Ahghairon's Day - 16 August 2023</span>
             </span>
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -41,6 +42,7 @@ These are the event champions that are upcoming and all the information we know 
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Brightswords - 6 September 2023</span>
             </span>
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -59,6 +61,7 @@ These are the event champions that are upcoming and all the information we know 
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Highharvestide - 27 September 2023</span>
             </span>
+        </span>
     </span>
 {::nomarkdown}
 </a>
