@@ -956,7 +956,6 @@ Gloves of Missile Snaring: The spoils of a victorious raid. They serve their pur
 </pre>
 </p>
 </details>
-<br />
 
 # Feats
 
@@ -1171,6 +1170,85 @@ Black Viper: 5 / 6
     Warduke: 4 / 6
      Yorven: 4 / 6
       Zorbu: 4 / 6
+</pre>
+</p>
+</details>
+<details><summary><em>Non-DPS Applicable</em></summary>
+<p>
+<pre>
+          Aila: 5 / 6
+       Alyndra: 5 / 6
+       Antrius: 4 / 6
+         Avren: 4 / 6
+          BBEG: 4 / 6
+       Baeloth: 4 / 6
+      Barrowin: 5 / 6
+        Beadle: 4 / 6
+          Brig: 4 / 6
+          Briv: 4 / 6
+       Bruenor: 4 / 6
+      Calliope: 5 / 6
+       Corazón: 4 / 6
+        Deekin: 4 / 6
+       Desmond: 4 / 6
+           Dob: 4 / 6
+    Dragonbait: 4 / 6
+Dungeon Master: 4 / 6
+        Egbert: 4 / 6
+      Ellywick: 5 / 6
+       Evandra: 5 / 6
+        Evelyn: 5 / 6
+     Ezmerelda: 5 / 6
+        Freely: 4 / 6
+       Gazrick: 4 / 6
+       Havilar: 5 / 6
+      Hew Maan: 5 / 6
+         Hitch: 4 / 6
+         Imoen: 5 / 6
+      K'thriss: 4 / 6
+         Krull: 4 / 6
+       Lazaapz: 5 / 6
+         Mehen: 4 / 6
+          Melf: 4 / 6
+         Miria: 5 / 6
+        Môrgæn: 5 / 6
+        Nayeli: 5 / 6
+         Nerys: 5 / 6
+        Nordom: 4 / 6
+          Nova: 5 / 6
+          Omin: 4 / 6
+        Orkira: 5 / 6
+       Paultin: 4 / 6
+      Penelope: 5 / 6
+         Pwent: 4 / 6
+        Qillek: 4 / 6
+          Reya: 5 / 6
+          Rust: 4 / 6
+        Selise: 5 / 6
+        Sentry: 5 / 6
+     Sgt. Knox: 4 / 6
+         Shaka: 4 / 6
+       Shandie: 5 / 6
+      Sisaspia: 5 / 6
+         Spurt: 4 / 6
+         Stoki: 5 / 6
+   Strongheart: 4 / 6
+       Tatyana: 5 / 6
+        Turiel: 4 / 6
+         Tyril: 4 / 6
+       Ulkoria: 5 / 6
+         Uriah: 4 / 6
+     Valentine: 5 / 6
+            Vi: 5 / 6
+       Viconia: 5 / 6
+      Vin Ursa: 5 / 6
+        Virgil: 4 / 6
+       Vlahnya: 5 / 6
+      Voronika: 5 / 6
+        Walnut: 5 / 6
+       Wulfgar: 4 / 6
+        Xander: 4 / 6
+      Xerophon: 4 / 6
 </pre>
 </p>
 </details>
