@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Protector's | 04 Aug | **Sgt. Knox** | Nayeli | Arkhan | Regis | Turiel | Golden Epic |
 | Stardream | 11 Aug | **Vin Ursa** | Bruenor | Asharra | Sentry | Widdle | Golden Epic |
 | Darkness Rises | 18 Aug | **BBEG** | Makos | Jamilah | Krull | Miria | Golden Epic |
 | Slay the Darkness | 25 Aug | **Artemis** | Jarlaxle | Drizzt | Hew Maan | Catti-brie | Golden Epic |
