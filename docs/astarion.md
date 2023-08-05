@@ -86,7 +86,9 @@ Astarion will be the new champion in the Brightswords event on 6 September 2023.
 
 Unknown.
 {% comment %}
-![Formation Layout](images/astarion/formation.png)
+<span class="formationBorder">
+    ![Formation Layout](images/astarion/formation.png)
+</span>
 {% endcomment %}
 
 # Abilities

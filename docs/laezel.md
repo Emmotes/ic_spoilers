@@ -175,7 +175,9 @@ Lae'zel will be the new champion in the Ahghairon's Day event on 16 August 2023.
 
 # Formation
 
-![Formation Layout](images/laezel/formation.png)
+<span class="formationBorder">
+    ![Formation Layout](images/laezel/formation.png)
+</span>
 
 # Abilities
 

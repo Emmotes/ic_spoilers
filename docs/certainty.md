@@ -86,7 +86,9 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 Unknown.
 {% comment %}
-![Formation Layout](images/certainty/formation.png)
+<span class="formationBorder">
+    ![Formation Layout](images/certainty/formation.png)
+</span>
 {% endcomment %}
 
 # Abilities

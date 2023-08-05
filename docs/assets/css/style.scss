@@ -426,3 +426,11 @@ code{
 .indexChampionTableNoLink {
 	color: #F0E7D5;
 }
+.formationBorder {
+	display: flex;
+	height: fit-content;
+	width: fit-content;
+	padding: 20px;
+	border: 1px solid black;
+	background-color: #1a1a1a;
+}
