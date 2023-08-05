@@ -195,9 +195,13 @@ code{
 	width: 100%;
 	margin: 5px;
 }
+.abilityBorderInner blockquote {
+	padding: 0 20px 0 20px;
+}
 .abilityBorder pre {
 	width: 798px;
 	margin: 5px;
+	padding-right: 5px;
 	box-shadow: none;
 	border: 1px solid black;
 	border-radius: 0px;
