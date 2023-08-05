@@ -545,15 +545,23 @@ Unknown.
 
 Unknown.
 
-# Console Portrait
+# Champion Images
 
-![Console Portrait](images/astarion/console.png)
-
-# Chests
-
-| Gold | Silver |
-|---|---|
-| ![Gold Chest](images/astarion/chest_gold.png) | ![Silver Chest](images/astarion/chest_silver.png) |
+<span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Astarion Console Portrait](images/astarion/console.png)Console Portait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Astarion Gold Chest Icon](images/astarion/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Astarion Silver Chest Icon](images/astarion/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
+</span>
 
 [Back to Top](#top)
 

@@ -346,17 +346,18 @@ Unknown.
 
 Unknown.
 
-{% comment %}
-# Console Portrait
+# Champion Images
 
-![Console Portrait](images/certainty/console.png)
-{% endcomment %}
-
-# Chests
-
-| Gold | Silver |
-|---|---|
-| ![Gold Chest](images/certainty/chest_gold.png) | ![Silver Chest](images/certainty/chest_silver.png) |
+<span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Certainty Dran Gold Chest Icon](images/certainty/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Certainty Dran Silver Chest Icon](images/certainty/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
+</span>
 
 [Back to Top](#top)
 

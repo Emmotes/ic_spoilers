@@ -1256,15 +1256,23 @@ Dungeon Master: 4 / 6
 </details>
 <br />
 
-# Console Portrait
+# Champion Images
 
-![Console Portrait](images/laezel/console.png)
-
-# Chests
-
-| Gold | Silver |
-|---|---|
-| ![Gold Chest](images/laezel/chest_gold.png) | ![Silver Chest](images/laezel/chest_silver.png) |
+<span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Lae'zel Console Portrait](images/laezel/console.png)Console Portait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Lae'zel Gold Chest Icon](images/laezel/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Lae'zel Silver Chest Icon](images/laezel/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
+</span>
 
 [Back to Top](#top)
 

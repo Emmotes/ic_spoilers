@@ -434,3 +434,42 @@ code{
 	border: 1px solid black;
 	background-color: #1a1a1a;
 }
+.championImagesColumn {
+	display: flex;
+	flex-direction: column;
+	width: fit-content;
+}
+.championImagesRow {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	width: 100%;
+	margin: 5px;
+	margin-bottom: -5px;
+}
+.championImagesPortrait,.championImagesChests {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: fit-content;
+	padding: 20px;
+	border: 1px solid black;
+	background-color: #1a1a1a;
+	margin: 5px;
+}
+.championImagesPortrait {
+	width: 100%;
+}
+.championImagesChests {
+	width: 50%;
+}
+.championImagesChests img {
+	width: 150px;
+	height: 150px;
+	object-fit: contain;
+}
+.championImagesPortrait img,.championImagesChests img {
+	margin-bottom: 5px;
+}
