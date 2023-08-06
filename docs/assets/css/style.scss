@@ -477,3 +477,47 @@ code{
 .championImagesPortrait img,.championImagesChests img {
 	margin-bottom: 5px;
 }
+.contentDropsTableColumn {
+	display: flex;
+	flex-direction: column;
+	max-width: 848px;
+}
+.contentDropsTableRow,.contentDropsTableRowHeader {
+	display: flex;
+	flex-direction: row;
+	width: fit-content;
+	height: 76px;
+	background-color: #141414;
+	margin: 5px;
+	border: 1px solid black;
+}
+.contentDropsTableRowHeader {
+	border-bottom: 4px ridge black;
+	height: 44px;
+}
+.contentDropsTableIcons,.contentDropsTableCampaign,.contentDropsTableAdventure,.contentDropsTableType {
+	width: 100px;
+	height: 100%;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+.contentDropsTableIcons {
+	width: 106px;
+}
+.contentDropsTableCampaign {
+	width: 150px;
+}
+.contentDropsTableAdventure {
+	width: 348px;
+	background-color: #1a1a1a;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+.contentDropsTableType {
+	width: 110px;
+}
+.contentDropsTableIcons img {
+	margin: 4px;
+	margin-left: 6px;
+}
