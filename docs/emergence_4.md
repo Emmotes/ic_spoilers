@@ -13,14 +13,6 @@ We currently do not know what this Emergence event will be but we do know that i
 Unknown.
 
 {% comment %}
-###  Emergence Chest Icons
-
-| Shop | Inventory |
-|---|---|
-| ![Shop Emergence Chest Icon](images/emergence_4/chest.png) | ![Inventory Emergence Chest Icon](images/emergence_4/chestInv.png) |
-{% endcomment %}
-
-{% comment %}
 # Emergence FAQ
 
 

@@ -79,14 +79,6 @@ We know the next Emergence event will be Mind Flayers and that it will start on 
     </span>
 </span>
 
-{% comment %}
-### Mind Flayers Emergence Chest Icons
-
-| Shop | Inventory |
-|---|---|
-| ![Shop Emergence Chest Icon](images/emergence_3/chest.png) | ![Inventory Emergence Chest Icon](images/emergence_3/chestInv.png) |
-{% endcomment %}
-
 # Emergence FAQ
 
 A temporary FAQ was recently added to reflect this emergence event. This is it.
