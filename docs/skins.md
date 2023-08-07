@@ -65,10 +65,10 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/skin_portraits/unknown.png)Mind Flayer Jamilah
+            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Jamilah
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 3 (Guess)</span>
+            <span style="margin-left: 8px;">Emergence 3</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -79,10 +79,10 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/skin_portraits/unknown.png)Mind Flayer Nrakk
+            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Nrakk
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 3 (Guess)</span>
+            <span style="margin-left: 8px;">Emergence 3</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -177,7 +177,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/skin_portraits/unknown.png)Venture Casual Vi
+            ![Empty Placeholder](images/general/unknown.png)Venture Casual Vi
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Season 5 (Guess)</span>
@@ -219,7 +219,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/skin_portraits/unknown.png)Venture Casual Walnut
+            ![Empty Placeholder](images/general/unknown.png)Venture Casual Walnut
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -233,7 +233,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/skin_portraits/unknown.png)Mind Flayer Astarion
+            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Astarion
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Mind Flayer Astarion Theme Pack</span>
@@ -247,7 +247,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/skin_portraits/unknown.png)Spelljammer Deekin
+            ![Empty Placeholder](images/general/unknown.png)Spelljammer Deekin
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Spelljammer Deekin Skin & Feat Pack</span>
@@ -261,7 +261,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/skin_portraits/unknown.png)Spelljammer Pilot Farideh
+            ![Empty Placeholder](images/general/unknown.png)Spelljammer Pilot Farideh
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Spelljammer Pilot Farideh Theme Pack</span>
@@ -275,7 +275,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/skin_portraits/unknown.png)Venture Casual K'thriss
+            ![Empty Placeholder](images/general/unknown.png)Venture Casual K'thriss
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Venture Casual K'thriss Skin & Feat Pack</span>
@@ -289,7 +289,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/skin_portraits/unknown.png)Venture Casual Môrgæn
+            ![Empty Placeholder](images/general/unknown.png)Venture Casual Môrgæn
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Venture Casual Môrgæn Skin & Feat Pack</span>

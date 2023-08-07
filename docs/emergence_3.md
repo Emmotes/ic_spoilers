@@ -10,13 +10,74 @@ We know the next Emergence event will be Mind Flayers and that it will start on 
 
 ### Shop Contents
 
-* Pigment: Support
-* Golden Epic: Blooshi (Slot 2 - Soul Gatherer)
-* Golden Epic: Lae'zel (Slot 3 - Ceremorphosis)
-* Skin: Mind Flayer Jamilah
-* Skin: Mind Flayer Nrakk
-* Feat: Very Important Person (Valentine 80% Socialite)
-* Chest: Mind Flayer Emergence Chest
+<span class="emergenceShopTableRow">
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Marvelous Support Pigment Icon](images/general/pigment_support.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Pigmint**</span>
+            <span style="margin-left:15px">Marvelous Support Pigment</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Golden Epic Icon for Blooshi Slot 2](images/emergence_3/ge_2528.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Soul Gatherer</span>
+            <span style="margin-left:15px">Blooshi (Slot 2)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Golden Epic Icon for Lae'zel Slot 3](images/emergence_3/ge_3061.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Ceremorphosis</span>
+            <span style="margin-left:15px">Lae'zel (Slot 3)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Unknown Skin Portrait](images/general/unknown.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Mind Flayer Jamilah</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Unknown Skin Portrait](images/general/unknown.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Mind Flayer Nrakk</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4">![Very Important Person Feat Icon](images/emergence_3/feat_1424.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Very Important Person</span>
+            <span style="margin-left:15px">Valentine (80% Socialite)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Unknown Chest Icon](images/general/unknown.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Mind Flayers Emergence Chest</span>
+        </span>
+    </span>
+</span>
 
 {% comment %}
 ### Mind Flayers Emergence Chest Icons
