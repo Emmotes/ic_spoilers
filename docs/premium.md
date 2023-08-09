@@ -169,7 +169,7 @@ Contents:
 * Skin: `Mind Flayer Astarion`
 * Feat: ???
 * Familiar: `Leech the Boar`
-* Chests: `Gold E17Y6 Chest` x16 (Shinies x2)
+* Chests: `Gold Astarion Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
