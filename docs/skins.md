@@ -9,34 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Spelljammer Avren Portrait](images/skin_portraits/spelljammeravren.png)Spelljammer Avren
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spelljammer Avren Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">09 Aug 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Spelljammer Widdle Portrait](images/skin_portraits/spelljammerwiddle.png)Spelljammer Widdle
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spelljammer Widdle Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">09 Aug 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Mind Flayer Lae'zel Portrait](images/skin_portraits/mindflayerlaezel.png)Mind Flayer Lae'zel
         </span>
         <span class="skinTableSource">

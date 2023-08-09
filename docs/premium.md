@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Spelljammer Avren Skin & Feat Pack - $9.99  
-Date of release: 09 Aug 2023
-
-Contents:
-
-* Champion: `Avren`
-* Skin: `Spelljammer Avren`
-* Feat: `Prodigal Leader` (Avren)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Avren Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Spelljammer Widdle Skin & Feat Pack - $9.99  
-Date of release: 09 Aug 2023
-
-Contents:
-
-* Champion: `Widdle`
-* Skin: `Spelljammer Widdle`
-* Feat: `Don't Fall Behind` (Widdle)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Widdle Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Cosmic Nightmare Voronika Skin & Feat Pack - $9.99  
 Date of release: 16 Aug 2023
 
