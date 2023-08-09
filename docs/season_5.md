@@ -253,7 +253,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Fan Club** (Guess)
-> Increases the damage of Jim and everyone in the columns in front of and behind him by `$(not_buffed amount)%` for each affected Champion, stacking multiplicatively.
+> Increases the damage of Jim and everyone in the columns in front of and behind him by `$(amount)%` for each affected Champion, stacking multiplicatively.
 
 *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -283,7 +283,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": [],
-    "description": {"desc": "Increases the damage of Jim and everyone in the columns in front of and behind him by $(not_buffed amount)% for each affected Champion, stacking multiplicatively."},
+    "description": {"desc": "Increases the damage of Jim and everyone in the columns in front of and behind him by $(amount)% for each affected Champion, stacking multiplicatively."},
     "id": 1607,
     "flavour_text": "",
     "graphic_id": 6099,
@@ -304,13 +304,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 **Wand of Wonder** (Guess)
 > Every `$(trigger_every)` attacks, Jim uses his Wand of Wonder. It provides one of five random effects:  
 >   
-> - Turns a random enemy into a Large Warty Toad, stunning it for 5 seconds and then slowing it for 10 seconds after the stun wears off. It maintains its pre-transformation health.  
-> - Turns a random enemy into an Abyssal Chicken, reducing its max health by 5 orders of magnitude to a minimum of 10.  
+> - Turns a random enemy into a Large Warty Toad, stunning it for `$(stun_time___2)` seconds and then slowing it for `$(slow_time___2)` seconds after the stun wears off. It maintains its pre-transformation health.  
+> - Turns a random enemy into an Abyssal Chicken, reducing its max health by `$(reduce_health_orders_of_mag___3)` orders of magnitude to a minimum of `$(min_health___3)`.  
 > - Turns a random enemy into a Mimic with 5 armored hit points that drops 10x normal gold when killed.  
 > - A random ally is assigned one of their skins at random until you change areas.  
 > - Jim shoots a line of gold coins out across the field, dealing damage to all enemies in a line and dropping one enemy's worth of gold.  
 >   
-> Note: Transformations don't effect bosses or special enemies.
+> Note: Transformations don't affect bosses or special enemies.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -361,7 +361,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": [],
-    "description": {"desc": "Every $(trigger_every) attacks, Jim uses his Wand of Wonder. It provides one of five random effects:^^- Turns a random enemy into a Large Warty Toad, stunning it for 5 seconds and then slowing it for 10 seconds after the stun wears off. It maintains its pre-transformation health.^- Turns a random enemy into an Abyssal Chicken, reducing its max health by 5 orders of magnitude to a minimum of 10.^- Turns a random enemy into a Mimic with 5 armored hit points that drops 10x normal gold when killed.^- A random ally is assigned one of their skins at random until you change areas.^- Jim shoots a line of gold coins out across the field, dealing damage to all enemies in a line and dropping one enemy's worth of gold.^^Note: Transformations don't effect bosses or special enemies."},
+    "description": {"desc": "Every $(trigger_every) attacks, Jim uses his Wand of Wonder. It provides one of five random effects:^^- Turns a random enemy into a Large Warty Toad, stunning it for $(stun_time___2) seconds and then slowing it for $(slow_time___2) seconds after the stun wears off. It maintains its pre-transformation health.^- Turns a random enemy into an Abyssal Chicken, reducing its max health by $(reduce_health_orders_of_mag___3) orders of magnitude to a minimum of $(min_health___3).^- Turns a random enemy into a Mimic with 5 armored hit points that drops 10x normal gold when killed.^- A random ally is assigned one of their skins at random until you change areas.^- Jim shoots a line of gold coins out across the field, dealing damage to all enemies in a line and dropping one enemy's worth of gold.^^Note: Transformations don't affect bosses or special enemies."},
     "id": 1608,
     "flavour_text": "",
     "graphic_id": 6100,
@@ -1080,12 +1080,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Fireball**
-> Strix throws a fireball at a random enemy, dealing a small amount of aoe damage.
+> Strix throws a fireball at a random enemy, dealing a small amount of area damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "Strix throws a fireball at a random enemy, dealing a small amount of aoe damage.",
+    "description": "Strix throws a fireball at a random enemy, dealing a small amount of area damage.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["magic"],
@@ -1209,7 +1209,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "description": "Waffles attacks in Strix's stead, become more enraged with each attack",
+    "description": "Waffles attacks in Strix's stead, becoming more enraged with each attack",
     "long_description": "Strix's Owlbear companion, Waffles, attacks in her stead. Waffles starts doing 3x Strix's damage, and does 2x the damage each attack for 5 attacks.",
     "damage_modifier": 1,
     "damage_types": [
@@ -1249,12 +1249,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Flying Fireball**
-> Strix throws a fireball at a random enemy, dealing a small amount of aoe damage.
+> Strix throws a fireball at a random enemy, dealing a small amount of area damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "Strix throws a fireball at a random enemy, dealing a small amount of aoe damage.",
+    "description": "Strix throws a fireball at a random enemy, dealing a small amount of area damage.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["magic"],
@@ -1322,7 +1322,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Death Ward** (Guess)
-> If a Champion within 2 slots of Strix is about to be killed, Strix revives them at `$gain_percent%` of their max health, and takes `$lose_percent%` of her max health in damage (if she can take that much damage without dying, can only fire once every `$wait_time seconds`).
+> If an ally within 2 spaces of Strix is about to be killed, Strix instead loses `$lose_percent%` of her max health and the ally regains `$gain_percent%` of their max health and is immune to all damage for 10 seconds. This effect can only trigger once every `$wait_time seconds and adds 5 stacks to Haunted`. While this ability is on cooldown, Aura of Unclean is increased by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1347,7 +1347,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": [],
-    "description": {"desc": "If a Champion within 2 slots of Strix is about to be killed, Strix revives them at $gain_percent% of their max health, and takes $lose_percent% of her max health in damage (if she can take that much damage without dying, can only fire once every $wait_time seconds)"},
+    "description": {"desc": "If an ally within 2 spaces of Strix is about to be killed, Strix instead loses $lose_percent% of her max health and the ally regains $gain_percent% of their max health and is immune to all damage for 10 seconds. This effect can only trigger once every $wait_time seconds and adds 5 stacks to Haunted. While this ability is on cooldown, Aura of Unclean is increased by 400%."},
     "id": 1629,
     "flavour_text": "",
     "graphic_id": 2601,
@@ -1383,7 +1383,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Poor Hygiene** (Guess)
-> Enemies approaching your formation take `$amount%` more damage due to Strix's unique odour.
+> Enemies that approach the party within `$(amount___2)%` of the distance from the formation to where enemies appear take `$(amount)%` more damage due to Strix's unique odor.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1396,7 +1396,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {"effect_string": "increase_incoming_monster_damage_range,50"}
     ],
     "requirements": [],
-    "description": {"desc": "Enemies approaching your formation take $amount% more damage due to $source's unique odour"},
+    "description": {"desc": "Enemies that approach the party within $(amount___2)% of the distance from the formation to where enemies appear take $(amount)% more damage due to Strix's unique odor"},
     "id": 1631,
     "flavour_text": "",
     "graphic_id": 2603,
