@@ -175,7 +175,7 @@ This content drop will likely be joined by new blessings.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Empty Placeholder](images/contentdrop_portraits/unknown.png)
+            ![Xaryxis: Foul Play (Adventure)](images/contentdrop_portraits/xaryxis_foulplay_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Xaryxis</span>
@@ -189,7 +189,7 @@ This content drop will likely be joined by new blessings.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Empty Placeholder](images/contentdrop_portraits/unknown.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Foul Play (Variant 1)](images/contentdrop_portraits/xaryxis_foulplay_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Xaryxis</span>
@@ -203,7 +203,7 @@ This content drop will likely be joined by new blessings.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Empty Placeholder](images/contentdrop_portraits/unknown.png)
+            ![Xaryxis: Spelljammers in Tra  in ing (Adventure)](images/contentdrop_portraits/xaryxis_spelljammersintraining_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Xaryxis</span>
@@ -217,7 +217,7 @@ This content drop will likely be joined by new blessings.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Empty Placeholder](images/contentdrop_portraits/unknown.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Spelljammers in Tra  in ing (Variant 1)](images/contentdrop_portraits/xaryxis_spelljammersintraining_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Xaryxis</span>
