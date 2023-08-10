@@ -203,13 +203,13 @@ This content drop will likely be joined by new blessings.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Xaryxis: Spelljammers in Tra  in ing (Adventure)](images/contentdrop_portraits/xaryxis_spelljammersintraining_0.png)
+            ![Xaryxis: Spelljammers in Training (Adventure)](images/contentdrop_portraits/xaryxis_spelljammersintraining_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Xaryxis</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Spelljammers in Tra  in ing</span>
+            <span style="margin-left: 8px;">Spelljammers in Training</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Adventure</span>
@@ -217,13 +217,13 @@ This content drop will likely be joined by new blessings.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Spelljammers in Tra  in ing (Variant 1)](images/contentdrop_portraits/xaryxis_spelljammersintraining_1.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Spelljammers in Training (Variant 1)](images/contentdrop_portraits/xaryxis_spelljammersintraining_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Xaryxis</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Spelljammers in Tra  in ing</span>
+            <span style="margin-left: 8px;">Spelljammers in Training</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #1</span>
