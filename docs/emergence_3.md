@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![Emergence 3 Banner](images/emergence_3/banner.png)
-{% endcomment %}
 
 # Emergence 3
 
@@ -42,7 +40,7 @@ We know the next Emergence event will be Mind Flayers and that it will start on 
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Skin Portrait](images/general/unknown.png)
+            ![Mind Flayer Jamilah Skin Portrait](images/emergence_3/skin_334.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -51,7 +49,7 @@ We know the next Emergence event will be Mind Flayers and that it will start on 
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Skin Portrait](images/general/unknown.png)
+            ![Mind Flayer Nrakk Skin Portrait](images/emergence_3/skin_335.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -70,14 +68,16 @@ We know the next Emergence event will be Mind Flayers and that it will start on 
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Chest Icon](images/general/unknown.png)
+            ![Mind Flayer Emergence Chest Icon](images/emergence_3/chest_581.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Mind Flayers Emergence Chest</span>
+            <span style="margin-left:15px">Mind Flayer Emergence Chest</span>
         </span>
     </span>
 </span>
+
+The Mind Flayer Emergence Chest will contain loot for Blooshi, Lae'zel, Nrakk, Jamilah and Valentine.
 
 # Emergence FAQ
 
