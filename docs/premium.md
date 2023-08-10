@@ -206,6 +206,21 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Venture Casual Certainty Theme Pack - $24.99  
+Date of release: 27 Sep 2023
+
+Contents:
+
+* Champion: `???`
+* Skin: `Venture Casual Certainty`
+* Feat: ???
+* Familiar: `Acquisitions Inc. Airship`
+* Chests: `Gold  Y7E1 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Venture Casual K'thriss Skin & Feat Pack - $9.99  
 Date of release: 27 Sep 2023
 

@@ -417,6 +417,159 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span style="margin-right: 8px;">27 Sep 2023</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Briv</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">06 Oct 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Hew Maan</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Yaaaas Icon](images/featicons/upgradefa.png)Yaaaas
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">06 Oct 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Jim</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">06 Oct 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Nahara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Eventful Night Icon](images/featicons/upgradefa.png)Eventful Night
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% To Amuse or Avenge</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">06 Oct 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Uriah</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Faithful Reward Icon](images/featicons/upgradefa.png)Faithful Reward
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Ezra's Embrace Heals Within 3 Slots</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">06 Oct 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Donaar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">11 Oct 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Widdle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">11 Oct 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Kent</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Weapon Master Icon](images/featicons/selfdps.png)Weapon Master
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">120% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">18 Oct 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Virgil</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Immolation Icon](images/featicons/immolation.png)Immolation
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">08 Nov 2023</span>
+        </span>
+    </span>
 </span>
 
 # Placeholder Date Feats
@@ -809,23 +962,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span style="margin-left: 8px;">Stat: +2 Constitution</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Uriah</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Faithful Reward Icon](images/featicons/upgradefa.png)Faithful Reward
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">Ezra's Embrace Heals Within 3 Slots</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>

@@ -37,7 +37,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Jamilah
+            ![Mind Flayer Jamilah Portrait](images/skin_portraits/mindflayerjamilah.png)Mind Flayer Jamilah
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 3</span>
@@ -51,7 +51,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Nrakk
+            ![Mind Flayer Nrakk Portrait](images/skin_portraits/mindflayernrakk.png)Mind Flayer Nrakk
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 3</span>
@@ -149,7 +149,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Venture Casual Vi
+            ![Venture Casual Vi Portrait](images/skin_portraits/venturecasualvi.png)Venture Casual Vi
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Season 5 (Guess)</span>
@@ -205,7 +205,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Astarion
+            ![Mind Flayer Astarion Portrait](images/skin_portraits/mindflayerastarion.png)Mind Flayer Astarion
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Mind Flayer Astarion Theme Pack</span>
@@ -219,7 +219,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Spelljammer Deekin
+            ![Spelljammer Deekin Portrait](images/skin_portraits/spelljammerdeekin.png)Spelljammer Deekin
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Spelljammer Deekin Skin & Feat Pack</span>
@@ -243,6 +243,20 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">20 Sep 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Venture Casual Certainty
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Venture Casual Certainty Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$24.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">27 Sep 2023</span>
         </span>
     </span>
     <span class="skinTableRow">
