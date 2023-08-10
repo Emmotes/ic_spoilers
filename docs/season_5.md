@@ -31,6 +31,8 @@ The five seasonal champions this time around will be Strix Evelyn Omin Jim and V
 
 ![Season 5 Currency](images/season_5/currency.png)
 
+![Season 5 Ad Panel](images/season_5/adpanel.png)
+
 # Changes
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - or specialisations might not be marked as such - etc..
@@ -261,7 +263,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <pre>
 {
     "effect_keys": [
-        {"effect_string": "pre_stack_amount,200"},
+        {
+            "effect_string": "pre_stack_amount,200",
+            "skip_effect_key_desc": true
+        },
         {
             "amount_expr": "upgrade_amount(12128,0)",
             "amount_updated_listeners": [
@@ -277,7 +282,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "hero_dps_multiplier_mult,0",
             "stack_func_data": {
                 "only_slots_with_heroes": true,
-                "upgrade_id": 12128
+                "upgrade_id": 12128,
+                "upgrade_index": 1
             },
             "targets": ["self_and_behind_and_ahead"]
         }
@@ -291,7 +297,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "indexed_effect_properties": true,
         "is_formation_ability": true,
         "default_bonus_index": 1,
-        "owner_use_outgoing_description": true,
+        "owner_use_outgoing_description": false,
         "per_effect_index_bonuses": true
     }
 }
@@ -578,7 +584,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Acq. Inc. and \"C\" Team Champions in Formation: $num_stacks___3 ",
+        "spec_option_post_apply_info": "Acq. Inc. and \"C\" Team Champions in Formation: $num_stacks___3",
         "default_bonus_index": 0,
         "formation_circle_icon": false,
         "per_effect_index_bonuses": true
@@ -767,7 +773,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <pre>
 {
     "effect_keys": [
-        {"effect_string": "pre_stack_amount,100"},
+        {
+            "amount_updated_listeners": [
+                "hero_tags_changed",
+                "slot_changed"
+            ],
+            "effect_string": "pre_stack_amount,100"
+        },
         {
             "amount_expr": "upgrade_amount(12209,0)",
             "amount_updated_listeners": [
@@ -880,7 +892,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [{
         "active_graphic_owner_only": true,
-        "amount_updated_listeners": ["slot_changed"],
+        "amount_updated_listeners": [
+            "hero_tags_changed",
+            "slot_changed"
+        ],
         "stacks_multiply": false,
         "active_graphic_sort_offset": 6,
         "amount_func": "add",
@@ -1170,7 +1185,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "description": "Strix attacks with her Flame Blade pie plate, hitting a nearby enemy as well",
     "long_description": "Strix attacks with her Flame Blade pie plate dealing 5x the damage of her regular attacking, and hitting a nearby enemy with that same damage as well",
-    "damage_modifier": 1,
+    "damage_modifier": 0,
     "damage_types": [
         "melee",
         "magic"
@@ -1211,7 +1226,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "description": "Waffles attacks in Strix's stead, becoming more enraged with each attack",
     "long_description": "Strix's Owlbear companion, Waffles, attacks in her stead. Waffles starts doing 3x Strix's damage, and does 2x the damage each attack for 5 attacks.",
-    "damage_modifier": 1,
+    "damage_modifier": 0,
     "damage_types": [
         "melee",
         "magic"
@@ -1256,7 +1271,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "description": "Strix throws a fireball at a random enemy, dealing a small amount of area damage.",
     "long_description": "",
-    "damage_modifier": 1,
+    "damage_modifier": 0,
     "damage_types": ["magic"],
     "graphic_id": 0,
     "target": "random",
@@ -1280,7 +1295,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "shoot_frame": 10
     }],
     "name": "Flying Fireball",
-    "cooldown": 6.5,
+    "cooldown": 5,
     "id": 668
 }
 </pre>
@@ -1290,7 +1305,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Aura of Unclean** (Guess)
-> Increases the damage of all Champions that are not adjacent to Strix by `$(amount)%`. Increase damage dealt by Strix by `$amount%` for each Champion affected, stacking additively.
+> Increases the damage of all Champions that are not adjacent to Strix by `$(amount)%`. Increases damage dealt by Strix by `$amount%` for each Champion affected, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1306,7 +1321,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "description": {"desc": "Increases the damage of all Champions that are not adjacent to $source by $(amount)%. Increase damage dealt by $source by $amount% for each Champion affected, stacking additively"},
+    "description": {"desc": "Increases the damage of all Champions that are not adjacent to $source by $(amount)%. Increases damage dealt by $source by $amount% for each Champion affected, stacking additively"},
     "id": 1628,
     "flavour_text": "",
     "graphic_id": 20468,
@@ -1330,13 +1345,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "hide_observed_description": true,
+            "pre_kill_priority": 1050,
+            "off_when_benched": false,
             "cooldown_effects": [{"effect_string": "buff_upgrade,400,12285"}],
             "effect_string": "revive_with_health_transfer,50,50,30",
-            "targets": [{
+            "custom_targets": {
                 "distance": 2,
                 "self": false,
                 "type": "distance"
-            }]
+            }
         },
         {
             "effect_string": "strix_death_ward",
@@ -1351,7 +1368,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1629,
     "flavour_text": "",
     "graphic_id": 2601,
-    "properties": {"use_outgoing_description": true}
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "show_incoming": false,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
 }
 </pre>
 </p>
@@ -1365,7 +1388,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "global_dps_multiplier_strix_haunted,100"}],
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "global_dps_multiplier_strix_haunted,100"
+    }],
     "requirements": [],
     "description": {"desc": "Increases the damage of all Champions by $(not_buffed amount)% for every Champion death in the formation while Strix is in it, with stacks persisting until you reset"},
     "id": 1630,
@@ -1390,10 +1416,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [
         {
+            "off_when_benched": true,
             "active_graphic_id": 2654,
             "effect_string": "increase_incoming_monster_damage_within_range,100"
         },
-        {"effect_string": "increase_incoming_monster_damage_range,50"}
+        {
+            "off_when_benched": true,
+            "effect_string": "increase_incoming_monster_damage_range,50"
+        }
     ],
     "requirements": [],
     "description": {"desc": "Enemies that approach the party within $(amount___2)% of the distance from the formation to where enemies appear take $(amount)% more damage due to Strix's unique odor"},
@@ -1415,7 +1445,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Power of Friendship (and Nose Plugs)** (Guess)
-> The radius of Poor Hygiene is increased by `$(amount___3)%` (stacking additively and then applying multiplicatively) and the damage bonus is increased by `$(amount)%` (stacking multiplicatively) for each other Acquisitions Incorporated, "C" - Team, or Wafflecrew Champion in the formation.
+> The radius of Poor Hygiene is increased by `$(amount___3)%` (stacking additively and then applying multiplicatively) and the damage bonus is increased by `$(amount)%` (stacking multiplicatively) for each other Acquisitions Incorporated, "C" - Team, or Waffle Crew Champion in the formation.
 
 *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -1426,8 +1456,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {"effect_string": "pre_stack_amount,400"},
         {
             "amount_expr": "upgrade_amount(12289,0)",
+            "stack_title": "Qualified Champions",
             "amount_updated_listeners": ["slot_changed"],
             "exclude_self": true,
+            "total_title": "Total Damage Bonus",
+            "show_bonus": true,
             "amount_func": "mult",
             "stack_func": "per_tagged_crusader_mult",
             "effect_string": "buff_upgrade,0,12288,0",
@@ -1445,7 +1478,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "description": {"desc": "The radius of Poor Hygiene is increased by $(amount___3)% (stacking additively and then applying multiplicatively) and the damage bonus is increased by $(amount)% (stacking multiplicatively) for each other Acquisitions Incorporated, \"C\" - Team, or Wafflecrew Champion in the formation."},
+    "description": {"desc": "The radius of Poor Hygiene is increased by $(amount___3)% (stacking additively and then applying multiplicatively) and the damage bonus is increased by $(amount)% (stacking multiplicatively) for each other Acquisitions Incorporated, \"C\" - Team, or Waffle Crew Champion in the formation."},
     "id": 1632,
     "flavour_text": "",
     "graphic_id": 20469,
