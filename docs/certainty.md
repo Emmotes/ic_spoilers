@@ -94,41 +94,39 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Dad and Uncle Jim**
-> Unknown effect.
+**Base Attack: Jim's Magic Missile** (Magic)
+> Certainty attacks random enemies with a version of Jim's patented magic missile spell.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20569,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y7/Icon_Formation_CertaintyDranDadandUncleJim",
-    "fs": 0
+    "description": "Certainty attacks random enemies with a version of Jim's patented magic missile spell.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 0,
+    "target": "random",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "multitarget"
+    ],
+    "num_targets": 2,
+    "animations": [{
+        "projectile_count": 2,
+        "hit_sound": 133,
+        "shoot_offset_y": -80,
+        "shoot_offset_x": 50,
+        "shoot_sound": 149,
+        "projectile_delay_no_pause": 0.2,
+        "type": "ranged_attack",
+        "projectile": "magic_missile",
+        "hold_shoot_frame": false,
+        "shoot_frame": 3
+    }],
+    "name": "Jim's Magic Missile",
+    "cooldown": 5,
+    "id": 682
 }
 </pre>
 </p>
@@ -136,59 +134,31 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Employee Evaluations**
-> Unknown effect.
+**Ultimate Attack: Airship Attack**
+> A barrage of fire from Certainty's enlarged toy airship flings up to 10 enemies off the screen.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20570,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y7/Icon_Formation_CertaintyDranEmployeeEvaluations",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Financing Rounds**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 20571,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y7/Icon_Formation_CertaintyDranFinancingRounds",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Reboot Expert**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 20572,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y7/Icon_Formation_CertaintyDranRebootExpert",
-    "fs": 0
+    "description": "A barrage of fire from Certainty's enlarged toy airship flings up to 10 enemies off the screen.",
+    "long_description": "A barrage of fire from Certainty's enlarged toy airship flings up to 10 enemies off the screen.",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 20577,
+    "target": "all",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "num_targets": 0,
+    "animations": [{
+        "ultimate": "certainty",
+        "type": "ultimate_attack"
+    }],
+    "name": "Airship Attack",
+    "cooldown": 1,
+    "id": 683
 }
 </pre>
 </p>
@@ -197,18 +167,211 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Secretarian's Advice**
-> Unknown effect.
+> Certainty increases the damage of Champions in the column in front of her by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20573,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y7/Icon_Formation_CertaintyDranSecretariansAdvice",
-    "fs": 0
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "targets": ["next_col"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Certainty increases the damage of Champions in the column in front of her by $(amount)%."},
+    "id": 1675,
+    "flavour_text": "",
+    "graphic_id": 20573,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Reboot Expert**
+> Certainty increases the effect of Secretarian's Advice by `$(amount)%` each time she has been in an adventure for at least `$(num_areas___2)` areas when it is reset. This stacks additively and persists through resets.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "stack_title": "Reboot Stacks",
+            "manual_stacking": true,
+            "stacks_multiply": false,
+            "show_bonus": true,
+            "effect_string": "buff_upgrade,100,12505"
+        },
+        {
+            "effect_string": "certainty_reboot_expert",
+            "buff_index": 0,
+            "num_areas": 250
+        }
+    ],
+    "requirements": "",
+    "description": {
+        "pre": "Certainty increases the effect of Secretarian's Advice by $(amount)% each time she has been in an adventure for at least $(num_areas___2) areas when it is reset. This stacks additively and persists through resets.",
+        "conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^Current Adventure:$(certainty_reboot_desc)"
+        }]
+    },
+    "id": 1676,
+    "flavour_text": "",
+    "graphic_id": 20572,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Financing Rounds**
+> Certainty increases the effect of Secretarian's Advice and your Gold Find by `$(amount)%` for each level on Acquisitions Incorporated or 'C' Team Champions in the formation, stacking additively. Each Champion's contribution caps at `$(max_levels_past_soft_cap)` levels after their last available upgrade.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "max_levels_past_soft_cap": 1000,
+            "amount_updated_listeners": [
+                "hero_level_changed",
+                "area_completed",
+                "slot_changed"
+            ],
+            "stacks_multiply": false,
+            "off_when_benched": true,
+            "show_bonus": true,
+            "amount_func": "add",
+            "stack_func": "per_hero_level_past_softcap",
+            "per_hero_expr": "floor(max(has_tag_acqinc,has_tag_cteam)*min(hero_level,hero_softcap+max_levels_past_soft_cap))",
+            "effect_string": "gold_multiplier_mult,1"
+        },
+        {
+            "max_levels_past_soft_cap": 1000,
+            "amount_updated_listeners": [
+                "hero_level_changed",
+                "area_completed",
+                "slot_changed"
+            ],
+            "stacks_multiply": false,
+            "off_when_benched": true,
+            "amount_func": "add",
+            "stack_func": "per_hero_level_past_softcap",
+            "per_hero_expr": "floor(max(has_tag_acqinc,has_tag_cteam)*min(hero_level,hero_softcap+max_levels_past_soft_cap))",
+            "effect_string": "buff_upgrade,1,12505"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Certainty increases the effect of Secretarian's Advice and your Gold Find by $(amount)% for each level on Acquisitions Incorporated or 'C' Team Champions in the formation, stacking additively. Each Champion's contribution caps at $(max_levels_past_soft_cap) levels after their last available upgrade."},
+    "id": 1677,
+    "flavour_text": "",
+    "graphic_id": 20571,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Dad and Uncle Jim**
+> Certainty helps her father Omin by recruiting all Champions adjacent to her to be Champions of Tymora, and she helps her 'uncle' Jim Darkmagic by increasing his damage by `$(amount___2)%` due to royalty payments for using his spell.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "amount_updated_listeners": ["slot_changed"],
+            "off_when_benched": true,
+            "add_targets": [{
+                "use_source_as_base_slot": true,
+                "type": "adj"
+            }],
+            "effect_string": "add_target_to_upgrade,,12299"
+        },
+        {
+            "amount_updated_listeners": ["slot_changed"],
+            "effect_string": "hero_dps_multiplier_mult,200",
+            "targets": [{
+                "hero_ids": [
+                    48,
+                    108
+                ],
+                "type": "heroes"
+            }]
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Certainty helps her father Omin by recruiting all Champions adjacent to her to be Champions of Tymora, and she helps her 'uncle' Jim Darkmagic by increasing his damage by $(amount___2)% due to royalty payments for using his spell."},
+    "id": 1678,
+    "flavour_text": "",
+    "graphic_id": 20569,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Employee Evaluations**
+> Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by `$(not_buffed amount)%` for each full point over `$(min_stat_amount)`, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "amount_updated_listeners": [
+            "slot_changed",
+            "feat_changed"
+        ],
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "per_hero_targets": ["next_col"],
+        "amount_func": "mult",
+        "stack_func": "per_hero_attribute",
+        "min_stat_amount": 13,
+        "per_hero_expr": "int",
+        "effect_string": "buff_upgrade,200,12505",
+        "post_process_expr": "max(0,input/max(1,num_targets)-min_stat_amount)"
+    }],
+    "requirements": "",
+    "description": {"desc": "Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by $(not_buffed amount)% for each full point over $(min_stat_amount), stacking multiplicatively."},
+    "id": 1679,
+    "flavour_text": "",
+    "graphic_id": 20570,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -218,19 +381,26 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Employee Evaluations**
-> Unknown effect.
+**Specialisation: Best and the Brightest** (Guess)
+> Certainty's preferred ability is Intelligence and she grants a +`$(amount)` INT bonus to all Champions in the column in front of her.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20574,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y7/Icon_SpecializationLarge_CertaintyDranEmployeeEvaluations",
-    "fs": 0
+    "effect_keys": [{
+        "effect_string": "increase_ability_score,int,1",
+        "targets": ["next_col"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Certainty's preferred ability is Intelligence and she grants a +$(amount) INT bonus to all Champions in the column in front of her."},
+    "id": 1680,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade"
+    }
 }
 </pre>
 </p>
@@ -238,19 +408,27 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Best and the Brightest**
-> Unknown effect.
+**Specialisation: Smooth Negotiators** (Guess)
+> Certainty's preferred ability is Charisma and she grants a +`$(amount)` CHA bonus to all Champions in the column in front of her.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20575,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y7/Icon_Specialization_CertaintyDranBestandtheBrightest",
-    "fs": 0
+    "effect_keys": [{
+        "effect_string": "increase_ability_score,cha,1",
+        "targets": ["next_col"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Certainty's preferred ability is Charisma and she grants a +$(amount) CHA bonus to all Champions in the column in front of her."},
+    "id": 1681,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
@@ -258,19 +436,38 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Smooth Negotiators**
-> Unknown effect.
+**Specialisation: Employee Evaluations** (Guess)
+> Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by `$(not_buffed amount)%` for each full point over `$(min_stat_amount)`, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20576,
-    "export_params": {"uses": ["icon"]},
-    "type": 1,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y7/Icon_Specialization_CertaintyDranSmoothNegotiators",
-    "fs": 0
+    "effect_keys": [{
+        "amount_updated_listeners": [
+            "slot_changed",
+            "feat_changed"
+        ],
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_hero_attribute",
+        "min_stat_amount": 13,
+        "per_hero_expr": "cha",
+        "effect_string": "buff_upgrade,200,12505",
+        "targets": ["next_col"],
+        "per_effect_target": true,
+        "post_process_expr": "max(0,input/max(1,num_targets)-min_stat_amount)"
+    }],
+    "requirements": "",
+    "description": {"desc": "Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by $(not_buffed amount)% for each full point over $(min_stat_amount), stacking multiplicatively."},
+    "id": 1682,
+    "flavour_text": "",
+    "graphic_id": 20570,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
