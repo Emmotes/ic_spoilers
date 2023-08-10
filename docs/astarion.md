@@ -200,7 +200,7 @@ Astarion will be the new champion in the Brightswords event on 6 September 2023.
 **Ceremorphosis**
 > Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Astarion's brain. Astarion increases the effect of Outflank by `$(amount)%` for each Ceremorphosis stack, stacking multiplicatively.
 
-*Note: This ability might be prestack.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -287,7 +287,7 @@ Astarion will be the new champion in the Brightswords event on 6 September 2023.
 **Well Fed**
 > After using his Sanguine Hunger ultimate, Astarion's Outflank is increased by `$(amount)%`. This effect can stack (multiplicatively) up to 5 times, with stacks resetting when changing areas.
 
-*Note: This ability might be prestack.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>

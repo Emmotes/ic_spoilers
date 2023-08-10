@@ -424,7 +424,7 @@ Upgrades:
 ![Ceremorphosis Icon](images/laezel/icon_ceremorphosis.png) **Ceremorphosis** (Level: 80)
 > Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Lae'zel's brain. Lae'zel increases the effect of Lethal Coordination by 100% for each Ceremorphosis stack, stacking multiplicatively.
 
-*Note: This ability might be prestack.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
