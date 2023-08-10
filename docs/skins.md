@@ -93,6 +93,20 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Modron Evandra Portrait](images/skin_portraits/modronevandra.png)Modron Evandra
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Modron Evandra Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Venture Casual Evelyn Portrait](images/skin_portraits/venturecasualevelyn.png)Venture Casual Evelyn
         </span>
         <span class="skinTableSource">
