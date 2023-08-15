@@ -75,7 +75,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Thellora&nbsp;<span class="indexChampionTableNoLink">- Unknown Paladin (Guess)</span>
+                Thellora&nbsp;<span class="indexChampionTableNoLink">- Centaur Paladin (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Liars' Night - 18 October 2023</span>
@@ -112,8 +112,8 @@ Not events events - but events. You know?
 
 * [Emergence 3](emergence_3.md) - 30 August 2023
 * [Season 5](season_5.md) - 13 September 2023 (Guess)
-* [Season 6](season_6.md) - 8 November 2023 (Guess)
 * [Emergence 4](emergence_4.md) - 15 November 2023
+* [Season 6](season_6.md) - 15 November 2023 (Guess)
 
 # Misc
 

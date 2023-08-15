@@ -446,7 +446,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ![Empty Placeholder](images/general/unknown.png)Elemental Korth
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Season 6 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -460,7 +460,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ![Empty Placeholder](images/general/unknown.png)Elemental Nrakk
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Season 6 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -474,7 +474,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ![Empty Placeholder](images/general/unknown.png)Elemental Sisaspia
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Season 6 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -502,7 +502,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ![Empty Placeholder](images/general/unknown.png)Elemental Warden
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Season 6 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -516,7 +516,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ![Empty Placeholder](images/general/unknown.png)Elemental Zorbu
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Season 6 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
