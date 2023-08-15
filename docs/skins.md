@@ -637,6 +637,20 @@ Skins that are upcoming. Most skins are real money purchases only.
             <span style="margin-right: 8px;">24 Nov 2023</span>
         </span>
     </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Gnome Avren
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">14 Feb 2024</span>
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
