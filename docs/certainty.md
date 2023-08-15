@@ -84,12 +84,9 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/certainty/formation.png)
 </span>
-{% endcomment %}
 
 # Abilities
 
@@ -153,6 +150,39 @@ Unknown.
     ],
     "num_targets": 0,
     "animations": [{
+        "projectile_details": {
+            "trail": {
+                "scale_lerp": [
+                    {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "lifespan": 0.5,
+                "initial_velocity": {
+                    "x": 0,
+                    "y": 0
+                },
+                "alpha_lerp": {
+                    "0": 0,
+                    "1": 0,
+                    "0.1": 0.5
+                },
+                "particle_graphic_ids": [693],
+                "spawn_rate": 150,
+                "velocity_jitter": {
+                    "x": 30,
+                    "y": 30
+                }
+            },
+            "projectile_graphic_id": 20530,
+            "projectile_speed": 2000,
+            "hash": "9ba15ca9aad1c276fcc13c07c5633f04"
+        },
         "ultimate": "certainty",
         "type": "ultimate_attack"
     }],
@@ -388,14 +418,18 @@ Unknown.
 <pre>
 {
     "effect_keys": [{
-        "effect_string": "increase_ability_score,int,1",
+        "amount_updated_listeners": [
+            "slot_changed",
+            "feat_changed"
+        ],
+        "effect_string": "increase_ability_score_not_always_on,int,1",
         "targets": ["next_col"]
     }],
     "requirements": "",
     "description": {"desc": "Certainty's preferred ability is Intelligence and she grants a +$(amount) INT bonus to all Champions in the column in front of her."},
     "id": 1680,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20842,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -415,19 +449,22 @@ Unknown.
 <pre>
 {
     "effect_keys": [{
-        "effect_string": "increase_ability_score,cha,1",
+        "amount_updated_listeners": [
+            "slot_changed",
+            "feat_changed"
+        ],
+        "effect_string": "increase_ability_score_not_always_on,cha,1",
         "targets": ["next_col"]
     }],
     "requirements": "",
     "description": {"desc": "Certainty's preferred ability is Charisma and she grants a +$(amount) CHA bonus to all Champions in the column in front of her."},
     "id": 1681,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 20843,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "type": "upgrade",
-        "formation_circle_icon": false
+        "type": "upgrade"
     }
 }
 </pre>
@@ -450,13 +487,12 @@ Unknown.
         "stacks_multiply": true,
         "off_when_benched": true,
         "show_bonus": true,
+        "per_hero_targets": ["next_col"],
         "amount_func": "mult",
         "stack_func": "per_hero_attribute",
         "min_stat_amount": 13,
         "per_hero_expr": "cha",
         "effect_string": "buff_upgrade,200,12505",
-        "targets": ["next_col"],
-        "per_effect_target": true,
         "post_process_expr": "max(0,input/max(1,num_targets)-min_stat_amount)"
     }],
     "requirements": "",
@@ -546,6 +582,11 @@ Unknown.
 # Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Certainty Dran Console Portrait](images/certainty/console.png)Console Portait
+        </span>
+    </span>
     <span class="championImagesRow">
         <span class="championImagesChests">
             ![Certainty Dran Gold Chest Icon](images/certainty/chest_gold.png)Gold Chest Icon
