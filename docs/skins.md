@@ -9,20 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Mind Flayer Lae'zel Portrait](images/skin_portraits/mindflayerlaezel.png)Mind Flayer Lae'zel
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Mind Flayer Lae'zel Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$24.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">16 Aug 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Cosmic Nightmare Voronika Portrait](images/skin_portraits/cosmicnightmarevoronika.png)Cosmic Nightmare Voronika
         </span>
         <span class="skinTableSource">
@@ -30,6 +16,20 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">16 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mind Flayer Lae'zel Portrait](images/skin_portraits/mindflayerlaezel.png)Mind Flayer Lae'zel
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mind Flayer Lae'zel Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$24.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">16 Aug 2023</span>
@@ -65,20 +65,6 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Spelljammer Pilot Asharra Portrait](images/skin_portraits/spelljammerpilotasharra.png)Spelljammer Pilot Asharra
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Founder's Pack VI</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$19.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">30 Aug 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Modron BBEG Portrait](images/skin_portraits/modronbbeg.png)Modron BBEG
         </span>
         <span class="skinTableSource">
@@ -100,6 +86,20 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Aug 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Spelljammer Pilot Asharra Portrait](images/skin_portraits/spelljammerpilotasharra.png)Spelljammer Pilot Asharra
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Founder's Pack VI</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$19.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">30 Aug 2023</span>
@@ -303,21 +303,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Transcendent Order Briv
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">06 Oct 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Society of Sensation Jim
+            ![Empty Placeholder](images/general/unknown.png)Heralds of Dust Uriah
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -345,7 +331,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Heralds of Dust Uriah
+            ![Empty Placeholder](images/general/unknown.png)Society of Sensation Jim
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -359,7 +345,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Venture Casual Donaar
+            ![Empty Placeholder](images/general/unknown.png)Transcendent Order Briv
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -368,7 +354,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             <span style="margin-right: 8px;">???</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">11 Oct 2023</span>
+            <span style="margin-right: 8px;">06 Oct 2023</span>
         </span>
     </span>
     <span class="skinTableRow">
@@ -387,7 +373,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Society of Sensation Kent
+            ![Empty Placeholder](images/general/unknown.png)Venture Casual Donaar
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -396,7 +382,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             <span style="margin-right: 8px;">???</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">18 Oct 2023</span>
+            <span style="margin-right: 8px;">11 Oct 2023</span>
         </span>
     </span>
     <span class="skinTableRow">
@@ -415,10 +401,24 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Elemental Dungeon Master
+            ![Empty Placeholder](images/general/unknown.png)Society of Sensation Kent
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Season 6 (Guess)</span>
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">18 Oct 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Athar Jang Sao
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -429,10 +429,10 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Athar Jang Sao
+            ![Empty Placeholder](images/general/unknown.png)Elemental Dungeon Master
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Season 6 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -485,20 +485,6 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Fated Virgil
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">08 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Empty Placeholder](images/general/unknown.png)Elemental Warden
         </span>
         <span class="skinTableSource">
@@ -527,7 +513,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Harengon Calliope
+            ![Empty Placeholder](images/general/unknown.png)Fated Virgil
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -536,26 +522,12 @@ Skins that are upcoming. Most skins are real money purchases only.
             <span style="margin-right: 8px;">???</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
+            <span style="margin-right: 8px;">08 Nov 2023</span>
         </span>
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
             ![Empty Placeholder](images/general/unknown.png)Aasimar Freely
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Half-Elf Havilar
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -597,6 +569,20 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Half-Elf Havilar
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Empty Placeholder](images/general/unknown.png)Half-Elf Orkira
         </span>
         <span class="skinTableSource">
@@ -612,6 +598,20 @@ Skins that are upcoming. Most skins are real money purchases only.
     <span class="skinTableRow">
         <span class="skinTableIcon">
             ![Empty Placeholder](images/general/unknown.png)Half-Elf Sentry
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Harengon Calliope
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
