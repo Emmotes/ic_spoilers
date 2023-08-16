@@ -4,7 +4,7 @@
 
 # Emergence 3
 
-We know the next Emergence event will be Mind Flayers and that it will start on 30 August 2023. This is timed to start the day season 4 ends - but it's also clearly themed around Baldur's Gate 3 and the new champions we're getting as part of its release.
+We know the next Emergence event will be Mind Flayers and that it will start on 23 August 2023. This is timed to start the day season 4 ends - but it's also clearly themed around Baldur's Gate 3 and the new champions we're getting as part of its release.
 
 ### Shop Contents
 
