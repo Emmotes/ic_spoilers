@@ -9,34 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Cosmic Nightmare Voronika Portrait](images/skin_portraits/cosmicnightmarevoronika.png)Cosmic Nightmare Voronika
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Cosmic Nightmare Voronika Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">16 Aug 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Mind Flayer Lae'zel Portrait](images/skin_portraits/mindflayerlaezel.png)Mind Flayer Lae'zel
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Mind Flayer Lae'zel Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$24.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">16 Aug 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Mind Flayer Jamilah Portrait](images/skin_portraits/mindflayerjamilah.png)Mind Flayer Jamilah
         </span>
         <span class="skinTableSource">

@@ -5,53 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Cosmic Nightmare Voronika Skin & Feat Pack - $9.99  
-Date of release: 16 Aug 2023
-
-Contents:
-
-* Champion: `Voronika`
-* Skin: `Cosmic Nightmare Voronika`
-* Feat: `Unlimited Potential` (Voronika)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Voronika Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Fear the Feyr Familiar Pack - $14.99  
-Date of release: 16 Aug 2023
-
-Contents:
-
-* Familiar: `Fear the Feyr`
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mind Flayer Lae'zel Theme Pack - $24.99  
-Date of release: 16 Aug 2023
-
-Contents:
-
-* Champion: `Lae'zel`
-* Skin: `Mind Flayer Lae'zel`
-* Feat: `Hurry Up!` (Lae'zel)
-* Familiar: `Us the Intellect Devourer`
-* Chests: `Gold Lae'zel Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Cera the Adorable Illithid Tadpole Familiar Pack - $9.99  
 Date of release: 23 Aug 2023
 

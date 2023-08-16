@@ -28,40 +28,6 @@ Feats that are listed as Free will be available immediately the moment they rele
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Lae'zel</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Hurry Up! Icon](images/featicons/upgradefa.png)Hurry Up!
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Straight to the Point</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">16 Aug 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Voronika</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Unlimited Potential Icon](images/featicons/upgradefa.png)Unlimited Potential
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Ultimate Power</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">16 Aug 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Donaar</span>
         </span>
         <span class="featTableIcon2">
