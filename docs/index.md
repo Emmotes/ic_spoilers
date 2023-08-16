@@ -10,25 +10,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="laezel.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Lae'zel Portrait Icon](images/laezel/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Lae'zel&nbsp;<span class="indexChampionTableNoLink">- Githyanki Fighter of Absolute Adversaries</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Ahghairon's Day - 16 August 2023</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="astarion.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -110,7 +91,7 @@ These are the event champions that are upcoming and all the information we know 
 
 Not events events - but events. You know?
 
-* [Emergence 3](emergence_3.md) - 30 August 2023
+* [Emergence 3](emergence_3.md) - 23 August 2023
 * [Season 5](season_5.md) - 13 September 2023 (Guess)
 * [Emergence 4](emergence_4.md) - 15 November 2023
 * [Season 6](season_6.md) - 15 November 2023 (Guess)
