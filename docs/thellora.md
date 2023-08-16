@@ -102,7 +102,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Unknown**
+**Ultimate Attack: Light of Mount Tura**
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
