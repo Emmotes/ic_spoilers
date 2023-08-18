@@ -18,7 +18,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Astarion&nbsp;<span class="indexChampionTableNoLink">- Elf (High) Rogue of Absolute Adversaries (Guess)</span>
+                Astarion&nbsp;<span class="indexChampionTableNoLink">- Elf (High) Rogue of Absolute Adversaries</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Brightswords - 6 September 2023</span>
