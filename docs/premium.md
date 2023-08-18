@@ -90,7 +90,7 @@ Contents:
 
 * Champion: `Astarion`
 * Skin: `Mind Flayer Astarion`
-* Feat: ???
+* Feat: `Shadow's Embrace` (Astarion)
 * Familiar: `Leech the Boar`
 * Chests: `Gold Astarion Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1

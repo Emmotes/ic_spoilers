@@ -164,6 +164,23 @@ Feats that are listed as Free will be available immediately the moment they rele
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span style="margin-left: 8px;">Astarion</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Shadow's Embrace Icon](images/featicons/upgradefa.png)Shadow's Embrace
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% The Ultimate Outflank</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">06 Sep 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span style="margin-left: 8px;">Antrius</span>
         </span>
         <span class="featTableIcon3">
