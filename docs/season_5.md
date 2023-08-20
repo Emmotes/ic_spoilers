@@ -19,7 +19,7 @@
 
 ![Season 5 Banner](images/season_5/banner.png)
 
-Season 5 will be called `Acquisitions Incorporated` and is guesstimated to start on 13 September 2023 with the preview week arriving one week prior on 06 September 2023.
+Season 5 will be called `Acquisitions Incorporated` and is guesstimated to start on 6 September 2023 with the preview week arriving one week prior on 30 August 2023.
 
 # Theme
 
