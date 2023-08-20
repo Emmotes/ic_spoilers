@@ -15,7 +15,7 @@
 
 # Season 6
 
-Season 6 is guesstimated to start on 15 November 2023 with the preview week arriving one week prior on 08 November 2023.
+Season 6 is guesstimated to start on 15 November 2023 with the preview week (and the data changes) arriving one week prior on 08 November 2023.
 
 # Theme
 
