@@ -2,7 +2,7 @@
 
 # Content Drops
 
-Guesstimations of upcoming content drops - so don't take these as fact.
+A list of the upcoming content drops. Just be aware that the dates and order of these content drops are educated guesses based on the current event schedule - which itself is also often guesswork. So don't take these as facts.
 
 ## Witchlight 10 - 30 August 2023
 
