@@ -6,7 +6,7 @@
 
 # Emergence 4
 
-We currently do not know what this Emergence event will be but we do know that it will start on 22 November 2023.
+We currently do not know what this Emergence event will be but we do know that it will start on 15 November 2023.
 
 ### Shop Contents
 
