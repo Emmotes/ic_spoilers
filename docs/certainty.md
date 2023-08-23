@@ -105,8 +105,8 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
     "target": "random",
     "aoe_radius": 0,
     "tags": [
-        "ranged",
-        "multitarget"
+        "monster",
+        "ranged"
     ],
     "num_targets": 2,
     "animations": [{
