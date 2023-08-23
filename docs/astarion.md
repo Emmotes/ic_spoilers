@@ -521,7 +521,7 @@ Upgrades:
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Outflank (Bottom) Icon](images/astarion/icon_outflank(bottom).png) **Outflank (Bottom)** (Level: 10)
-> Astarion increases the damage of all Champions at the bottom of each column by 100%
+> Astarion increases the damage of all Champions at the bottom of each column by 100%.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>

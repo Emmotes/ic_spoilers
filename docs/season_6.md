@@ -65,7 +65,7 @@ No changes as of yet.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Seething Hatred** (Guess)
-> Zorbu's damage is increased by an amount equal to `$(amount)%` of his base Know Your Enemy buffs.
+> Zorbu's damage is increased by an amount equal to 10% of his base Know Your Enemy buffs.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -88,7 +88,7 @@ No changes as of yet.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Hunter's Pack** (Guess)
-> Increases the damage of champions adjacent to Zorbu with a DEX score of 15 or higher by `$(amount)%`.
+> Increases the damage of champions adjacent to Zorbu with a DEX score of 15 or higher by 500%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
