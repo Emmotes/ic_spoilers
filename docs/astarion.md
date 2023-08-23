@@ -183,7 +183,8 @@ Astarion will be the new champion in the Brightswords event on 6 September 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Ranged Icon](images/icon_ranged.png) **Base Attack: Sneak Attack** (Ranged)
-> Astarion attacks a random target, dealing massive damage if the enemy was recently attacked.
+> Astarion attacks a random target, dealing massive damage if the enemy was recently attacked.  
+> Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -230,7 +231,8 @@ Astarion will be the new champion in the Brightswords event on 6 September 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Sanguine Hunger Icon](images/astarion/icon_sanguinehunger.png) **Ultimate Attack: Sanguine Hunger** (Level: 110)
-> Astarion viciously attacks the enemy with the most health with a vampiric bite and heals to full health.
+> Astarion viciously attacks the enemy with the most health with a vampiric bite and heals to full health.  
+> Cooldown: 60s (Cap 15s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>

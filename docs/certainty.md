@@ -93,6 +93,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Jim's Magic Missile** (Magic)
 > Certainty attacks random enemies with a version of Jim's patented magic missile spell.
+> Cooldown: 5s (Cap 1.25s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -133,6 +134,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Airship Attack**
 > A barrage of fire from Certainty's enlarged toy airship flings up to 10 enemies off the screen.
+> Cooldown: 1s (Cap 0.25s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
