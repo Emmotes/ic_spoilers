@@ -548,8 +548,10 @@ code{
 	justify-content: center;
 }
 .emergenceShopTableItem img {
-	width: 64px;
-	height: 64px;
+	min-width: 64px;
+	min-height: 64px;
+	max-width: 64px;
+	max-height: 64px;
 	margin: 5px;
 	object-fit: contain;
 }
