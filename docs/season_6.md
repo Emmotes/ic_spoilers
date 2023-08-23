@@ -63,7 +63,146 @@ No changes as of yet.
 
 ![Zorbu Portrait](images/season_6/zorbu.png)
 
-No changes as of yet.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Seething Hatred** (Guess)
+> Zorbu's damage is increased by an amount equal to `$(amount)%` of his base Know Your Enemy buffs.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "hero_dps_mult_percent_lifelong_enemies,10"}],
+    "requirements": "",
+    "description": {"desc": "Zorbu's damage is increased by an amount equal to $(amount)% of his base Know Your Enemy buffs."},
+    "id": 1695,
+    "flavour_text": "",
+    "graphic_id": 5892,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Hunter's Pack** (Guess)
+> Increases the damage of champions adjacent to Zorbu with a DEX score of 15 or higher by `$(amount)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "effect_string": "hero_dps_multiplier_mult,500",
+        "filter_targets": [{
+            "score": 14,
+            "stat": "dex",
+            "check": "greater_than",
+            "type": "stat_score"
+        }],
+        "targets": [{
+            "distance": 1,
+            "self": false,
+            "type": "distance"
+        }]
+    }],
+    "requirements": "",
+    "description": {"desc": "Increases the damage of champions adjacent to Zorbu with a DEX score of 15 or higher by $(amount)%."},
+    "id": 1696,
+    "flavour_text": "",
+    "graphic_id": 2422,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Focused Fury** (Guess)
+> Zorbu's damage is increased by the bonus provided by Hunter's Pack.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "amount_expr": "upgrade_amount(12991,0)",
+        "show_bonus": true,
+        "effect_string": "hero_dps_multiplier_mult,0"
+    }],
+    "requirements": "",
+    "description": {"desc": "Zorbu's damage is increased by the bonus provided by Hunter's Pack."},
+    "id": 1697,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increases Hunter's Pack by the bonus provided by Focused Fury.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "amount_expr": "upgrade_amount(12990,dps_update)",
+        "show_bonus": true,
+        "effect_string": "buff_upgrade,0,12991"
+    }],
+    "requirements": "",
+    "description": {"desc": "Increases Hunter's Pack by the bonus provided by Focused Fury."},
+    "id": 1698,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Hunter's Pack Bonus: $sample_amount%",
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> The Know Your Enemy counters additionally increment once for each Champion in the formation affected by Hunter's Pack each time a valid enemy is killed.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stacks_multiply": false,
+        "stack_func": "per_upgrade_targets",
+        "effect_string": "additional_lifelong_enemies_count,1",
+        "stack_func_data": {"upgrade_id": 12991}
+    }],
+    "requirements": "",
+    "description": {"desc": "The Know Your Enemy counters additionally increment once for each Champion in the formation affected by Hunter's Pack each time a valid enemy is killed."},
+    "id": 1699,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Hunter's Pack Champions: $num_stacks",
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 
 [Back to Top](#top)
