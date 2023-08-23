@@ -5,34 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Cera the Adorable Illithid Tadpole Familiar Pack - $9.99  
-Date of release: 23 Aug 2023
-
-Contents:
-
-* Familiar: `Cera the Adorable Illithid Tadpole`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Morph the Gnarly Illithid Tadpole Familiar Pack - $9.99  
-Date of release: 23 Aug 2023
-
-Contents:
-
-* Familiar: `Morph the Gnarly Illithid Tadpole`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Founder's Pack VI - $19.99  
 Date of release: 30 Aug 2023
 
