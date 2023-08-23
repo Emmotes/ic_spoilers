@@ -40,7 +40,7 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Tanking / Support (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -56,7 +56,7 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Female (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -125,6 +125,8 @@ Unknown.
 **Ultimate Attack: The Light of Mount Tura**
 > Thellora charges through the enemies dealing 1 massive hit to enemies in a wide path, and then increases the damage of all champions for a short while.  
 > Cooldown: 10s (Cap 2.5s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>

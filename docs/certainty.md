@@ -135,6 +135,8 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 **Ultimate Attack: Airship Attack**
 > A barrage of fire from Certainty's enlarged toy airship flings up to 10 enemies off the screen.  
 > Cooldown: 1s (Cap 0.25s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
