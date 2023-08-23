@@ -416,7 +416,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Best and the Brightest** (Guess)
-> Certainty's preferred ability is Intelligence and she grants a +int INT bonus to all Champions in the column in front of her.
+> Certainty's preferred ability is Intelligence and she grants a +1 INT bonus to all Champions in the column in front of her.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -447,7 +447,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Smooth Negotiators** (Guess)
-> Certainty's preferred ability is Charisma and she grants a +cha CHA bonus to all Champions in the column in front of her.
+> Certainty's preferred ability is Charisma and she grants a +1 CHA bonus to all Champions in the column in front of her.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
