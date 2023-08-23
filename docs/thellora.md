@@ -90,7 +90,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Windsong's Strike** (Melee)
-> Thellora strikes an enemy with her hooves, and another with her blade.
+> Thellora strikes an enemy with her hooves, and another with her blade.  
 > Cooldown: 8s (Cap 2s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -123,7 +123,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: The Light of Mount Tura**
-> Thellora charges through the enemies dealing 1 massive hit to enemies in a wide path, and then increases the damage of all champions for a short while.
+> Thellora charges through the enemies dealing 1 massive hit to enemies in a wide path, and then increases the damage of all champions for a short while.  
 > Cooldown: 10s (Cap 2.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
