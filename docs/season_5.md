@@ -630,7 +630,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Channel Divinity** (Guess)
-> After Evelyn attacks an enemy, `$(upgrade_name id)` is buffed by 100% for 15 seconds. If the enemy had a debuff affecting them, the effect is increased by 300%. Does not stack.
+> After Evelyn attacks an enemy, `$(upgrade_name id: 12205)` is buffed by 100% for 15 seconds. If the enemy had a debuff affecting them, the effect is increased by 300%. Does not stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -694,7 +694,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Steadfast Might** (Guess)
-> Increases the effect of `$(upgrade_name id)` by 100% multiplied by the highest number of enemies that Evelyn has tanked at once in the current area plus the highest enemy enrage stack in the current area.
+> Increases the effect of `$(upgrade_name id: 12205)` by 100% multiplied by the highest number of enemies that Evelyn has tanked at once in the current area plus the highest enemy enrage stack in the current area.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -927,7 +927,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Divinity** (Guess)
-> Increases the effect of `$(upgrade_name id)` by 0% for 15 seconds.
+> Increases the effect of `$(upgrade_name id: 12205)` by 0% for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -963,7 +963,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Protection** (Guess)
-> Increases the effect of `$(upgrade_name id)` by 0% for 15 seconds.
+> Increases the effect of `$(upgrade_name id: 12205)` by 0% for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -997,7 +997,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Duel** (Guess)
-> Increases the effect of `$(upgrade_name id)` by 0% for 15 seconds.
+> Increases the effect of `$(upgrade_name id: 12205)` by 0% for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1031,7 +1031,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Conduit of the Light** (Guess)
-> Increases the effect of `$(upgrade_name id)` by 0% for 15 seconds.
+> Increases the effect of `$(upgrade_name id: 12205)` by 0% for 15 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
