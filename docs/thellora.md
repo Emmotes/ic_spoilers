@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![PC Portrait](images/thellora/portrait.png)
-{% endcomment %}
 
 # Thellora
 
@@ -91,44 +89,31 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Light of Mount Tura**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Feats to Spare**
-> Unknown effect.
+**Base Attack: Windsong's Strike** (Melee)
+> Thellora strikes an enemy with her hooves, and another with her blade.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20861,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y7/Icon_Formation_ThelloraFeatstoSpare",
-    "fs": 0
+    "description": "Thellora strikes an enemy with her hooves, and another with her blade.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 2,
+        "jump_sound": 30,
+        "sound_frames": {"2": 154},
+        "target_offset_x": -34,
+        "type": "melee_attack"
+    }],
+    "name": "Windsong's Strike",
+    "cooldown": 8,
+    "id": 687
 }
 </pre>
 </p>
@@ -136,22 +121,34 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Paladin's Resolve**
-> Unknown effect.
+**Ultimate Attack: The Light of Mount Tura**
+> Thellora charges through the enemies dealing 1 massive hit to enemies in a wide path, and then increases the damage of all champions for a short while.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20862,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y7/Icon_Formation_ThelloraPaladinsResolve",
-    "fs": 0
+    "description": "Thellora charges through the enemies, and then increases the damage of all champions for a short while.",
+    "long_description": "Thellora charges through the enemies dealing 1 massive hit to enemies in a wide path, and then increases the damage of all champions for a short while.",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 20868,
+    "target": "all",
+    "aoe_radius": 0,
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "num_targets": 0,
+    "animations": [{
+        "damage_frame": 2,
+        "jump_sound": 30,
+        "sound_frames": {"2": 154},
+        "target_offset_x": -34,
+        "type": "melee_attack"
+    }],
+    "name": "The Light of Mount Tura",
+    "cooldown": 10,
+    "id": 688
 }
 </pre>
 </p>
@@ -159,22 +156,25 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Radiance of the Sky Cents**
+**Plateaus of Unicorn** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20863,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y7/Icon_Formation_ThelloraRadianceoftheSkyCents",
-    "fs": 0
+    "effect_keys": [{"effect_string": "thellora_plateaus_of_unicorn_run"}],
+    "requirements": "",
+    "description": {"desc": ""},
+    "id": 1685,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
 }
 </pre>
 </p>
@@ -183,21 +183,129 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Strength of the Luma**
-> Unknown effect.
+> Thellora increases the damage of Champions in the column behind her by `$(amount)%`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20864,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
+    "effect_keys": [{
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "targets": ["prev_col"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Thellora increases the damage of Champions in the column behind her by $(amount)%."},
+    "id": 1686,
+    "flavour_text": "",
+    "graphic_id": 20864,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Radiance of the Sky Cents**
+> Thellora increases the health of all other Champions by `$(amount)%` of her max health and any healing effect on those Champions is increased by `$(amount___2)%`.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "increase_health_by_source_percent,25",
+            "targets": ["other"]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "healing_add_mult,25",
+            "targets": ["all"]
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Thellora increases the health of all other Champions by $(amount)% of her max health and any healing effect on those Champions is increased by $(amount___2)%."},
+    "id": 1687,
+    "flavour_text": "",
+    "graphic_id": 20863,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Paladin's Resolve**
+> Each time Thellora attacks and doesn't kill an enemy, she increases the effect of Strength of the Luma by `$(not_buffed amount)%` until the area changes, stacking multiplicatively and capped at `$(max_stacks)` stacks.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stack_title": "Stacks",
+        "stacks_multiply": true,
+        "total_title": "Stack Bonus",
+        "off_when_benched": true,
+        "show_bonus": true,
+        "effect_string": "buff_upgrade,20,12978",
+        "more_triggers": [{
+            "action": {"type": "reset_stacks"},
+            "trigger": "area_changed"
+        }],
+        "max_stacks": 100,
+        "stacks_on_trigger": "hero_attack_ended_no_kill"
+    }],
+    "requirements": "",
+    "description": {"desc": "Each time Thellora attacks and doesn't kill an enemy, she increases the effect of Strength of the Luma by $(not_buffed amount)% until the area changes, stacking multiplicatively and capped at $(max_stacks) stacks."},
+    "id": 1688,
+    "flavour_text": "",
+    "graphic_id": 20862,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Feats to Spare**
+> The effects of feats assigned to Thellora also apply to all adjacent Champions. Note that feats that buff her formation abilities have no effect when applied to other Champions.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "effect_string": "apply_feats_positionally",
+        "targets": ["adj"]
+    }],
+    "requirements": "",
+    "description": {
+        "pre": "The effects of feats assigned to Thellora also apply to all adjacent Champions. Note that feats that buff her formation abilities have no effect when applied to other Champions.",
+        "conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$apply_feats_positionally"
+        }]
     },
-    "type": 1,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y7/Icon_Formation_ThelloraStrengthoftheLuma",
-    "fs": 0
+    "id": 1689,
+    "flavour_text": "",
+    "graphic_id": 20861,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -207,45 +315,54 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Callessas Blessed** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 20865,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y7/Icon_Specialization_ThelloraCallessasBlessed",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Defender of the Meek** (Guess)
-> Unknown effect.
+> Thellora increases the damage of Champions with a STR of `$(min_stat_amount___2)` or less by `$(amount)%` for each Champion in the formation with a STR of `$(min_stat_amount___2)` or less, stacking multiplicatively. Buffs apply to the pre-stack value.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20866,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y7/Icon_Specialization_ThelloraDefenderoftheMeek",
-    "fs": 0
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,60",
+            "skip_effect_key_desc": true
+        },
+        {
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ],
+            "stacks_multiply": true,
+            "formation_arrows_for_effected_only": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "use_computed_amount_for_description": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "targets": ["all_slots"],
+            "amount_expr": "upgrade_amount(12982,0)",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "min_stat_amount": 12,
+            "per_hero_expr": "clamp(min_stat_amount-str,0,1)",
+            "filter_targets": [{
+                "expr": "STR<=12",
+                "type": "stat_score"
+            }]
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Thellora increases the damage of Champions with a STR of $(min_stat_amount___2) or less by $(amount)% for each Champion in the formation with a STR of $(min_stat_amount___2) or less, stacking multiplicatively. Buffs apply to the pre-stack value."},
+    "id": 1690,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
+    }
 }
 </pre>
 </p>
@@ -254,21 +371,106 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Vanguard of the Quick** (Guess)
-> Unknown effect.
+> Thellora increases the damage of Speed Champions by `$(amount)%` for each Speed Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 20867,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y7/Icon_Specialization_ThelloraVanguardoftheQuick",
-    "fs": 0
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,50",
+            "skip_effect_key_desc": true
+        },
+        {
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ],
+            "stacks_multiply": true,
+            "formation_arrows_for_effected_only": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "use_computed_amount_for_description": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "targets": ["all_slots"],
+            "amount_expr": "upgrade_amount(12983,0)",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "per_hero_expr": "has_tag_speed",
+            "filter_targets": [{
+                "type": "by_tags",
+                "tags": "speed"
+            }]
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Thellora increases the damage of Speed Champions by $(amount)% for each Speed Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value."},
+    "id": 1691,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Callessas Blessed** (Guess)
+> Thellora increases the damage of Female and Non-Binary Champions by `$(amount)%` for each Female and Non-Binary Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,50",
+            "skip_effect_key_desc": true
+        },
+        {
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ],
+            "stacks_multiply": true,
+            "formation_arrows_for_effected_only": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "use_computed_amount_for_description": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "targets": ["all_slots"],
+            "amount_expr": "upgrade_amount(12984,0)",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "per_hero_expr": "has_tag_female||(!has_tag_female&&!has_tag_male)",
+            "filter_targets": [{
+                "type": "by_tags",
+                "tags": "female|(!female^!male)"
+            }]
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Thellora increases the damage of Female and Non-Binary Champions by $(amount)% for each Female and Non-Binary Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value."},
+    "id": 1692,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
+    }
 }
 </pre>
 </p>
