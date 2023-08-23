@@ -887,6 +887,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span style="margin-left: 8px;">Nrakk</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)Illithid Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">25% All Champion Damage & +1 Ceremorphosis Stack</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span style="margin-left: 8px;">Pwent</span>
         </span>
         <span class="featTableIcon4">

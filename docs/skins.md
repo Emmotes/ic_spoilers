@@ -219,7 +219,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Spelljammer Pilot Farideh
+            ![Spelljammer Pilot Farideh Portrait](images/skin_portraits/spelljammerpilotfarideh.png)Spelljammer Pilot Farideh
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Spelljammer Pilot Farideh Theme Pack</span>
