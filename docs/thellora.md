@@ -320,7 +320,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Defender of the Meek** (Guess)
-> Thellora increases the damage of Champions with a STR of 0 or less by 60% for each Champion in the formation with a STR of 0 or less, stacking multiplicatively. Buffs apply to the pre-stack value.
+> Thellora increases the damage of Champions with a STR of 12 or less by 60% for each Champion in the formation with a STR of 12 or less, stacking multiplicatively. Buffs apply to the pre-stack value.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
