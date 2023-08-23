@@ -68,6 +68,16 @@ We know the next Emergence event will be Mind Flayers and that it will start on 
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/emergence_3/feat_1504.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Illithid Tadpole</span>
+            <span style="margin-left:15px">Nrakk (25% All Champion Damage & +1 Ceremorphosis Stack)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
             ![Mind Flayer Emergence Chest Icon](images/emergence_3/chest_581.png)
         </span>
         <span class="emergenceShopTableTextColumn">
