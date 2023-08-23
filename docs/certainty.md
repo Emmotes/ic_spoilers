@@ -201,7 +201,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Secretarian's Advice**
-> Certainty increases the damage of Champions in the column in front of her by `$(amount)%`.
+> Certainty increases the damage of Champions in the column in front of her by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -228,7 +228,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Reboot Expert**
-> Certainty increases the effect of Secretarian's Advice by `$(amount)%` each time she has been in an adventure for at least `$(num_areas___2)` areas when it is reset. This stacks additively and persists through resets.
+> Certainty increases the effect of Secretarian's Advice by 100% each time she has been in an adventure for at least 250 areas when it is reset. This stacks additively and persists through resets.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -273,7 +273,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Financing Rounds**
-> Certainty increases the effect of Secretarian's Advice and your Gold Find by `$(amount)%` for each level on Acquisitions Incorporated or 'C' Team Champions in the formation, stacking additively. Each Champion's contribution caps at `$(max_levels_past_soft_cap)` levels after their last available upgrade.
+> Certainty increases the effect of Secretarian's Advice and your Gold Find by 1% for each level on Acquisitions Incorporated or 'C' Team Champions in the formation, stacking additively. Each Champion's contribution caps at 1000 levels after their last available upgrade.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -329,7 +329,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Dad and Uncle Jim**
-> Certainty helps her father Omin by recruiting all Champions adjacent to her to be Champions of Tymora, and she helps her 'uncle' Jim Darkmagic by increasing his damage by `$(amount___2)%` due to royalty payments for using his spell.
+> Certainty helps her father Omin by recruiting all Champions adjacent to her to be Champions of Tymora, and she helps her 'uncle' Jim Darkmagic by increasing his damage by 200% due to royalty payments for using his spell.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -376,7 +376,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Employee Evaluations**
-> Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by `$(not_buffed amount)%` for each full point over `$(min_stat_amount)`, stacking multiplicatively.
+> Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by 200% for each full point over 200, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -416,7 +416,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Best and the Brightest** (Guess)
-> Certainty's preferred ability is Intelligence and she grants a +`$(amount)` INT bonus to all Champions in the column in front of her.
+> Certainty's preferred ability is Intelligence and she grants a +int INT bonus to all Champions in the column in front of her.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -447,7 +447,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Smooth Negotiators** (Guess)
-> Certainty's preferred ability is Charisma and she grants a +`$(amount)` CHA bonus to all Champions in the column in front of her.
+> Certainty's preferred ability is Charisma and she grants a +cha CHA bonus to all Champions in the column in front of her.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -478,7 +478,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Employee Evaluations** (Guess)
-> Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by `$(not_buffed amount)%` for each full point over `$(min_stat_amount)`, stacking multiplicatively.
+> Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by 200% for each full point over 200, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
