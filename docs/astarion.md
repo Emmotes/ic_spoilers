@@ -801,7 +801,7 @@ Upgrades:
 
 <span class="itemTableColumn">
     <span class="itemTableRowHeader">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span style="margin-left:8px;">**Icons**</span>
         </span>
         <span class="itemTableSlot">
@@ -815,7 +815,7 @@ Upgrades:
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Gutter Sling Icon](images/astarion/20448.png)</span><span class="itemTableIcon2">![Handmade Sling Icon](images/astarion/20448.png)</span><span class="itemTableIcon3">![Infernal Blades Icon](images/astarion/20449.png)</span><span class="itemTableIcon4">![Nightfang Bow Icon](images/astarion/20450.png)</span>
         </span>
         <span class="itemTableSlot">
@@ -829,7 +829,7 @@ Upgrades:
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Nautiloid Schematics Icon](images/astarion/20445.png)</span><span class="itemTableIcon2">![Note-Filled Illustration Icon](images/astarion/20445.png)</span><span class="itemTableIcon3">![Tome of the Illithid Icon](images/astarion/20446.png)</span><span class="itemTableIcon4">![Eldritch Experiment Icon](images/astarion/20447.png)</span>
         </span>
         <span class="itemTableSlot">
@@ -843,7 +843,7 @@ Upgrades:
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Baldur's Gate Map Icon](images/astarion/20436.png)</span><span class="itemTableIcon2">![Outdated Diagram Icon](images/astarion/20436.png)</span><span class="itemTableIcon3">![Twisted Lock Picks Icon](images/astarion/20437.png)</span><span class="itemTableIcon4">![Forged Patents of Nobility Icon](images/astarion/20438.png)</span>
         </span>
         <span class="itemTableSlot">
@@ -857,7 +857,7 @@ Upgrades:
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![The First of Many Icon](images/astarion/20451.png)</span><span class="itemTableIcon2">![Quick Snack Icon](images/astarion/20451.png)</span><span class="itemTableIcon3">![Broken Silver Mirror Icon](images/astarion/20452.png)</span><span class="itemTableIcon4">![Cazador Szarr Portrait Icon](images/astarion/20453.png)</span>
         </span>
         <span class="itemTableSlot">
@@ -871,7 +871,7 @@ Upgrades:
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Throwing Dagger Icon](images/astarion/20442.png)</span><span class="itemTableIcon2">![Balanced Blade Icon](images/astarion/20442.png)</span><span class="itemTableIcon3">![Noble's Sword Icon](images/astarion/20443.png)</span><span class="itemTableIcon4">![Vampiric Rapier Icon](images/astarion/20444.png)</span>
         </span>
         <span class="itemTableSlot">
@@ -885,7 +885,7 @@ Upgrades:
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Ring of Protection Icon](images/astarion/20439.png)</span><span class="itemTableIcon2">![Dispelled Ring Icon](images/astarion/20439.png)</span><span class="itemTableIcon3">![Smuggler's Ring Icon](images/astarion/20440.png)</span><span class="itemTableIcon4">![Amulet of Misty Step Icon](images/astarion/20441.png)</span>
         </span>
         <span class="itemTableSlot">
@@ -975,7 +975,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Inspiring Leader Icon](images/featicons/globaldps.png)Inspiring Leader
+            ![Selflessness Icon](images/featicons/globaldps.png)Selflessness
         </span>
         <span class="featTableEffect">
             <span style="margin-left: 8px;">10% All Champion Damage</span>
@@ -986,7 +986,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)Inspiring Leader
         </span>
         <span class="featTableEffect">
             <span style="margin-left: 8px;">25% All Champion Damage</span>

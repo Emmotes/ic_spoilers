@@ -518,7 +518,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <span class="itemTableColumn">
     <span class="itemTableRowHeader">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span style="margin-left:8px;">**Icons**</span>
         </span>
         <span class="itemTableNameSmall">
@@ -526,7 +526,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Airship Stuff Icon](images/certainty/20532.png)</span><span class="itemTableIcon2">![Airship Stuff Icon](images/certainty/20532.png)</span><span class="itemTableIcon3">![Airship Stuff Icon](images/certainty/20533.png)</span><span class="itemTableIcon4">![Airship Stuff Icon](images/certainty/20534.png)</span>
         </span>
         <span class="itemTableNameSmall">
@@ -534,7 +534,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Clothing Icon](images/certainty/20535.png)</span><span class="itemTableIcon2">![Clothing Icon](images/certainty/20535.png)</span><span class="itemTableIcon3">![Clothing Icon](images/certainty/20536.png)</span><span class="itemTableIcon4">![Clothing Icon](images/certainty/20537.png)</span>
         </span>
         <span class="itemTableNameSmall">
@@ -542,7 +542,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Music Instruments Icon](images/certainty/20538.png)</span><span class="itemTableIcon2">![Music Instruments Icon](images/certainty/20538.png)</span><span class="itemTableIcon3">![Music Instruments Icon](images/certainty/20539.png)</span><span class="itemTableIcon4">![Music Instruments Icon](images/certainty/20540.png)</span>
         </span>
         <span class="itemTableNameSmall">
@@ -550,7 +550,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![School Items Icon](images/certainty/20541.png)</span><span class="itemTableIcon2">![School Items Icon](images/certainty/20541.png)</span><span class="itemTableIcon3">![School Items Icon](images/certainty/20542.png)</span><span class="itemTableIcon4">![School Items Icon](images/certainty/20543.png)</span>
         </span>
         <span class="itemTableNameSmall">
@@ -558,7 +558,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Secretarian Items Icon](images/certainty/20544.png)</span><span class="itemTableIcon2">![Secretarian Items Icon](images/certainty/20544.png)</span><span class="itemTableIcon3">![Secretarian Items Icon](images/certainty/20545.png)</span><span class="itemTableIcon4">![Secretarian Items Icon](images/certainty/20546.png)</span>
         </span>
         <span class="itemTableNameSmall">
@@ -566,7 +566,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Time Stuff Icon](images/certainty/20547.png)</span><span class="itemTableIcon2">![Time Stuff Icon](images/certainty/20547.png)</span><span class="itemTableIcon3">![Time Stuff Icon](images/certainty/20548.png)</span><span class="itemTableIcon4">![Time Stuff Icon](images/certainty/20549.png)</span>
         </span>
         <span class="itemTableNameSmall">

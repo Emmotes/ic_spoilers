@@ -485,7 +485,7 @@ Unknown.
 
 <span class="itemTableColumn">
     <span class="itemTableRowHeader">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span style="margin-left:8px;">**Icons**</span>
         </span>
         <span class="itemTableNameSmall">
@@ -493,7 +493,7 @@ Unknown.
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Armor Icon](images/thellora/20881.png)</span><span class="itemTableIcon2">![Armor Icon](images/thellora/20881.png)</span><span class="itemTableIcon3">![Armor Icon](images/thellora/20882.png)</span><span class="itemTableIcon4">![Armor Icon](images/thellora/20883.png)</span>
         </span>
         <span class="itemTableNameSmall">
@@ -501,7 +501,7 @@ Unknown.
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Helmet Icon](images/thellora/20884.png)</span><span class="itemTableIcon2">![Helmet Icon](images/thellora/20884.png)</span><span class="itemTableIcon3">![Helmet Icon](images/thellora/20885.png)</span><span class="itemTableIcon4">![Helmet Icon](images/thellora/20886.png)</span>
         </span>
         <span class="itemTableNameSmall">
@@ -509,7 +509,7 @@ Unknown.
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Shield Icon](images/thellora/20887.png)</span><span class="itemTableIcon2">![Shield Icon](images/thellora/20887.png)</span><span class="itemTableIcon3">![Shield Icon](images/thellora/20888.png)</span><span class="itemTableIcon4">![Shield Icon](images/thellora/20889.png)</span>
         </span>
         <span class="itemTableNameSmall">
@@ -517,7 +517,7 @@ Unknown.
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Spear Icon](images/thellora/20890.png)</span><span class="itemTableIcon2">![Spear Icon](images/thellora/20890.png)</span><span class="itemTableIcon3">![Spear Icon](images/thellora/20891.png)</span><span class="itemTableIcon4">![Spear Icon](images/thellora/20892.png)</span>
         </span>
         <span class="itemTableNameSmall">
@@ -525,7 +525,7 @@ Unknown.
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Sword Icon](images/thellora/20893.png)</span><span class="itemTableIcon2">![Sword Icon](images/thellora/20893.png)</span><span class="itemTableIcon3">![Sword Icon](images/thellora/20894.png)</span><span class="itemTableIcon4">![Sword Icon](images/thellora/20895.png)</span>
         </span>
         <span class="itemTableNameSmall">
@@ -533,7 +533,7 @@ Unknown.
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon">
+        <span class="itemTableIcon" style="align-items:center;">
             <span class="itemTableIcon1">![Trinket Icon](images/thellora/20896.png)</span><span class="itemTableIcon2">![Trinket Icon](images/thellora/20896.png)</span><span class="itemTableIcon3">![Trinket Icon](images/thellora/20897.png)</span><span class="itemTableIcon4">![Trinket Icon](images/thellora/20898.png)</span>
         </span>
         <span class="itemTableNameSmall">
