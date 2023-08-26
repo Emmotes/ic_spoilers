@@ -1,8 +1,8 @@
 # Idle Champions Spoilers
 
-Just a collection of most of the currently-known spoilers. It is by no means exhaustive.
+Just a collection of most of the currently-known spoilers. It is by no means exhaustive. Of course - spoilers are subject to change at any time. Don't plan any major life events around them.
 
-Of course - spoilers are subject to change at any time. Don't plan any major life events around them.
+*Note: Do **not** talk about spoilers on the Discord anywhere other than the Well of Spoilers.*
 
 # Event Champions
 
