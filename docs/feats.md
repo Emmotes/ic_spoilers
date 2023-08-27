@@ -896,7 +896,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span style="margin-left: 8px;">25% All Champion Damage & +1 Ceremorphosis Stack</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Emergence 3</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">01 Jan 2032</span>
@@ -981,7 +981,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span style="margin-left: 8px;">80% Socialite</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Emergence 3</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">01 Jan 2032</span>
