@@ -1166,6 +1166,7 @@ Black Viper: 4 / 6
           Aila: 4 / 6
        Alyndra: 5 / 6
        Antrius: 4 / 6
+      Astarion: 6 / 6
          Avren: 5 / 6
           BBEG: 5 / 6
        Baeloth: 6 / 6
