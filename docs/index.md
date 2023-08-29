@@ -91,10 +91,10 @@ These are the event champions that are upcoming and all the information we know 
 
 Not events events - but events. You know?
 
-* [Season 5](season_5.md) - 30 August 2023
 * [Season 6](season_6.md) - 15 November 2023 (Guess)
 * [Emergence 4](emergence_4.md) - 22 November 2023
 * Emergence 5 - ???
+* Season 7 - ???
 
 # Misc
 
