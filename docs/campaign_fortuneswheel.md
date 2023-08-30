@@ -4,9 +4,9 @@
 
 A new campaign was recently added to the defines: `Turn of Fortune's Wheel` or just `Fortune's Wheel` for short.
 
-![Fortune's Wheel Campaign Logo](images/campaign_fortuneswheel/logo.png)
-
-![Favour Icon](images/campaign_fortuneswheel/campaign_button.png)
+| Logo | Campaign Button |
+|---|---|
+| ![Fortune's Wheel Campaign Logo](images/campaign_fortuneswheel/logo.png) | ![Favour Icon](images/campaign_fortuneswheel/campaign_button.png) |
 
 # Theme
 
