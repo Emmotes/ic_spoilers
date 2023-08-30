@@ -6,7 +6,7 @@ Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Founder's Pack VI - $19.99  
-Date of release: 30 Aug 2023
+Date of release: 06 Sep 2023
 
 Contents:
 
@@ -21,46 +21,6 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x2
 * Buff: `Large Bounty Contract` x2
 * Gems: x5,000
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Modron BBEG Skin & Feat Pack - $9.99  
-Date of release: 30 Aug 2023
-
-Contents:
-
-* Champion: `BBEG`
-* Skin: `Modron BBEG`
-* Feat: `Evil Party` (BBEG)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold BBEG Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Modron Evandra Skin & Feat Pack - $9.99  
-Date of release: 30 Aug 2023
-
-Contents:
-
-* Champion: `Evandra`
-* Skin: `Modron Evandra`
-* Feat: `Taunt` (Evandra)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Evandra Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Season Pass Plus - $19.99  
-Date of release: 30 Aug 2023
-
-Contents:
-
-* Season Pass Plus
 </div></div>
 
 

@@ -28,40 +28,6 @@ Feats that are listed as Free will be available immediately the moment they rele
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">BBEG</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Evil Party Icon](images/featicons/upgradefa.png)Evil Party
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">400% Evil Overlord & Changes to Int <=11</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">30 Aug 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Evandra</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)Taunt
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">400% Self DPS & 50% Taunt</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">30 Aug 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Walnut</span>
         </span>
         <span class="featTableIcon4">
