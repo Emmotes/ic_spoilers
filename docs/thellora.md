@@ -79,12 +79,9 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/thellora/formation.png)
 </span>
-{% endcomment %}
 
 # Abilities
 
