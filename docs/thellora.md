@@ -106,10 +106,11 @@ Unknown.
     "tags": ["melee"],
     "num_targets": 1,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
+        "target_offset": [
+            -75,
+            0
+        ],
+        "special_melee": "thellora",
         "type": "melee_attack"
     }],
     "name": "Windsong's Strike",
@@ -123,7 +124,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: The Light of Mount Tura**
-> Thellora charges through the enemies dealing 1 massive hit to enemies in a wide path, and then increases the damage of all champions for a short while.  
+> Thellora charges through the enemies dealing 1 massive hit to enemies in a wide path, and then increases the damage of all champions by 400% for 15 seconds.  
 > Cooldown: 10s (Cap 2.5s)
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
@@ -132,7 +133,7 @@ Unknown.
 <pre>
 {
     "description": "Thellora charges through the enemies, and then increases the damage of all champions for a short while.",
-    "long_description": "Thellora charges through the enemies dealing 1 massive hit to enemies in a wide path, and then increases the damage of all champions for a short while.",
+    "long_description": "Thellora charges through the enemies dealing 1 massive hit to enemies in a wide path, and then increases the damage of all champions by 400% for 15 seconds.",
     "damage_modifier": 1,
     "damage_types": ["melee"],
     "graphic_id": 20868,
@@ -144,11 +145,12 @@ Unknown.
     ],
     "num_targets": 0,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
-        "type": "melee_attack"
+        "target_offset": [
+            -75,
+            0
+        ],
+        "ultimate": "thellora",
+        "type": "ultimate_attack"
     }],
     "name": "The Light of Mount Tura",
     "cooldown": 10,
@@ -161,14 +163,23 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Plateaus of Unicorn** (Guess)
-> Unknown effect.
+> Thellora gains a Rush stack for every 10 areas she completes in an adventure, and these stacks persist through resets. Thellora's Rush Target is equal to her number of Rush stacks or the current campaign's favor exponent, whichever is smaller. When Thellora kills her first enemy in an adventure, she spends all her Rush stacks and skips to the first area past her Rush Target. Thellora gathers all the rewards (including gold) from bosses skipped in this fashion, but nothing from normal monsters.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "thellora_plateaus_of_unicorn_run"}],
+    "effect_keys": [
+        {"effect_string": "thellora_plateaus_of_unicorn_run,10"},
+        {"effect_string": "max_exponent_mult,100"}
+    ],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {
+        "pre": "Thellora gains a Rush stack for every $(amount) areas she completes in an adventure, and these stacks persist through resets. Thellora's Rush Target is equal to her number of Rush stacks or the current campaign's favor exponent, whichever is smaller. When Thellora kills her first enemy in an adventure, she spends all her Rush stacks and skips to the first area past her Rush Target. Thellora gathers all the rewards (including gold) from bosses skipped in this fashion, but nothing from normal monsters.",
+        "conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$thellora_plateaus_of_unicorn_run_desc"
+        }]
+    },
     "id": 1685,
     "flavour_text": "",
     "graphic_id": 0,
@@ -177,6 +188,7 @@ Unknown.
         "is_formation_ability": true,
         "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
         "per_effect_index_bonuses": true
     }
 }
@@ -292,6 +304,7 @@ Unknown.
 <pre>
 {
     "effect_keys": [{
+        "off_when_benched": true,
         "effect_string": "apply_feats_positionally",
         "targets": ["adj"]
     }],
@@ -360,7 +373,7 @@ Unknown.
     "description": {"desc": "Thellora increases the damage of Champions with a STR of $(min_stat_amount___2) or less by $(amount)% for each Champion in the formation with a STR of $(min_stat_amount___2) or less, stacking multiplicatively. Buffs apply to the pre-stack value."},
     "id": 1690,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 21002,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
@@ -414,7 +427,7 @@ Unknown.
     "description": {"desc": "Thellora increases the damage of Speed Champions by $(amount)% for each Speed Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value."},
     "id": 1691,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 21003,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
@@ -468,7 +481,7 @@ Unknown.
     "description": {"desc": "Thellora increases the damage of Female and Non-Binary Champions by $(amount)% for each Female and Non-Binary Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value."},
     "id": 1692,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 21001,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
