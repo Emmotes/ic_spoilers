@@ -5,12 +5,12 @@
 * [Season 6](#season-6)
 * [Theme](#theme)
 * [Changes](#changes)
-* [Dungeon Master](#dungeon-master)
-* [Korth](#korth)
+* [Zorbu](#zorbu)
 * [Nrakk](#nrakk)
+* [Korth](#korth)
+* [Dungeon Master](#dungeon-master)
 * [Sisaspia](#sisaspia)
 * [Warden](#warden)
-* [Zorbu](#zorbu)
 <br />
 
 # Season 6
@@ -19,9 +19,9 @@ Season 6 is guesstimated to start on 15 November 2023. We're unsure as yet wheth
 
 # Theme
 
-![Dungeon Master Season Portrait](images/season_6/dm.png)![Korth Season Portrait](images/season_6/korth.png)![Nrakk Season Portrait](images/season_6/nrakk.png)![Sisaspia Season Portrait](images/season_6/sisaspia.png)![Warden Season Portrait](images/season_6/warden.png)![Zorbu Season Portrait](images/season_6/zorbu.png)
+![Zorbu Season Portrait](images/season_6/zorbu.png)![Nrakk Season Portrait](images/season_6/nrakk.png)![Korth Season Portrait](images/season_6/korth.png)![Dungeon Master Season Portrait](images/season_6/dm.png)![Sisaspia Season Portrait](images/season_6/sisaspia.png)![Warden Season Portrait](images/season_6/warden.png)
 
-We believe the six seasonal champions this time around are likely to be Dungeon Master, Korth, Nrakk, Sisaspia, Warden and Zorbu.
+We believe the six seasonal champions this time around are likely to be Zorbu, Nrakk, Korth, Dungeon Master, Sisaspia and Warden.
 
 # Changes
 
@@ -29,39 +29,95 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. Making assumptions on how the champions will turn out based on this information would be premature.
 
-# Dungeon Master
-
-![Dungeon Master Portrait](images/season_6/dm.png)
-
-No changes as of yet.
-
-# Korth
-
-![Korth Portrait](images/season_6/korth.png)
-
-No changes as of yet.
-
-# Nrakk
-
-![Nrakk Portrait](images/season_6/nrakk.png)
-
-No changes as of yet.
-
-# Sisaspia
-
-![Sisaspia Portrait](images/season_6/sisaspia.png)
-
-No changes as of yet.
-
-# Warden
-
-![Warden Portrait](images/season_6/warden.png)
-
-No changes as of yet.
-
 # Zorbu
 
 ![Zorbu Portrait](images/season_6/zorbu.png)
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Mechanical Squirrel**
+> Zorbu winds up a small mechanical squirrel and sends it skittering towards a random enemy. When it reaches them, it detonates a hidden vial of Alchemist's fire inside, dealing damage to (and stunning) all nearby enemies.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Zorbu winds up a small mechanical squirrel and sends it skittering towards a random enemy.",
+    "long_description": "Zorbu winds up a small mechanical squirrel and sends it skittering towards a random enemy. When it reaches them, it detonates a hidden vial of Alchemist's fire inside, dealing damage to (and stunning) all nearby enemies.",
+    "damage_modifier": 0.014,
+    "damage_types": ["ranged"],
+    "graphic_id": 2430,
+    "target": "random",
+    "aoe_radius": 200,
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "shoot_offset_y": 51,
+        "shoot_offset_x": 43,
+        "effect_on_monsters": {"effect_string": "monster_stun,5,1509"},
+        "type": "ranged_attack",
+        "projectile": "squirrel",
+        "shoot_frame": 35
+    }],
+    "name": "Mechanical Squirrel",
+    "cooldown": 240,
+    "id": 689
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Know your Enemy** (Guess)
+> Humanoids, beasts, undead, and aberrations are Zorbu's Favored Foes. He tracks the number of each type that he has killed and gains a 0.01% damage bonus against that type for each kill, stacking additively. If an enemy has multiple types, they count for each type and the damage bonuses stack multiplicatively. These bonuses persist through resets.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "zorbu_lifelong_enemies,0.01,humanoid,beast,undead,aberration"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,humanoid"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,beast"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,undead"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,aberration"
+        }
+    ],
+    "requirements": "",
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$zorbu_lifelong_enemies_desc"
+        }]},
+        "desc": "Humanoids, beasts, undead, and aberrations are Zorbu's Favored Foes. He tracks the number of each type that he has killed and gains a $(amount)% damage bonus against that type for each kill, stacking additively. If an enemy has multiple types, they count for each type and the damage bonuses stack multiplicatively. These bonuses persist through resets."
+    },
+    "id": 1694,
+    "flavour_text": "",
+    "graphic_id": 5890,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Seething Hatred** (Guess)
@@ -70,7 +126,10 @@ No changes as of yet.
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "hero_dps_mult_percent_lifelong_enemies,10"}],
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "hero_dps_mult_percent_lifelong_enemies,10"
+    }],
     "requirements": "",
     "description": {"desc": "Zorbu's damage is increased by an amount equal to $(amount)% of his base Know Your Enemy buffs."},
     "id": 1695,
@@ -94,6 +153,7 @@ No changes as of yet.
 <pre>
 {
     "effect_keys": [{
+        "off_when_benched": true,
         "effect_string": "hero_dps_multiplier_mult,500",
         "filter_targets": [{
             "score": 14,
@@ -128,6 +188,7 @@ No changes as of yet.
 {
     "effect_keys": [{
         "amount_expr": "upgrade_amount(12991,0)",
+        "off_when_benched": true,
         "show_bonus": true,
         "effect_string": "hero_dps_multiplier_mult,0"
     }],
@@ -156,6 +217,7 @@ No changes as of yet.
 {
     "effect_keys": [{
         "amount_expr": "upgrade_amount(12990,dps_update)",
+        "off_when_benched": true,
         "show_bonus": true,
         "effect_string": "buff_upgrade,0,12991"
     }],
@@ -166,7 +228,7 @@ No changes as of yet.
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Hunter's Pack Bonus: $sample_amount%",
+        "spec_option_post_apply_info": "Focused Fury Bonus: $sample_amount%",
         "formation_circle_icon": false
     }
 }
@@ -183,10 +245,14 @@ No changes as of yet.
 <pre>
 {
     "effect_keys": [{
-        "stacks_multiply": false,
+        "off_when_benched": true,
+        "amount_func": "set",
         "stack_func": "per_upgrade_targets",
-        "effect_string": "additional_lifelong_enemies_count,1",
-        "stack_func_data": {"upgrade_id": 12991}
+        "effect_string": "additional_lifelong_enemies_count,0",
+        "stack_func_data": {
+            "only_slots_with_heroes": true,
+            "upgrade_id": 12991
+        }
     }],
     "requirements": "",
     "description": {"desc": "The Know Your Enemy counters additionally increment once for each Champion in the formation affected by Hunter's Pack each time a valid enemy is killed."},
@@ -194,6 +260,7 @@ No changes as of yet.
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
+        "use_outgoing_description": true,
         "is_formation_ability": true,
         "spec_option_post_apply_info": "Hunter's Pack Champions: $num_stacks",
         "formation_circle_icon": false
@@ -203,6 +270,394 @@ No changes as of yet.
 </p>
 </details>
 </div></div>
+
+# Nrakk
+
+![Nrakk Portrait](images/season_6/nrakk.png)
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Ki Blast**
+> Nrakk blasts a random enemy and gains Ki Points. Reactivate this ultimate when prompted to quickly blast another enemy.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Nrakk blasts a random enemy and gains Ki Points.",
+    "long_description": "Nrakk blasts a random enemy and gains Ki Points. Reactivate this ultimate when prompted to quickly blast another enemy.",
+    "damage_modifier": 1,
+    "damage_types": ["ranged"],
+    "graphic_id": 0,
+    "target": "random",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "num_targets": 1,
+    "animations": [],
+    "name": "Ki Blast",
+    "cooldown": 260,
+    "id": 690
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Nrakk increases the damage of all Champions in the columns in front of and behind him by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "targets": ["prev_and_next_col"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Nrakk increases the damage of all Champions in the columns in front of and behind him by $(amount)%."},
+    "id": 1700,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Based on the maximum number of Ki Points Nrakk has had at one time during this adventure, Way of the Kensei is increased by 100% for each of those Ki Points, stacking multiplicatively. Nrakk can have at most 60 Ki Points at once.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,100"},
+        {
+            "amount_expr": "upgrade_amount(13001,0)",
+            "stack_title": "Max. Ki Points This Adventure",
+            "amount_updated_listeners": ["stat_changed,nrakk_maximum_ki_points"],
+            "stacks_multiply": true,
+            "stat": "nrakk_maximum_ki_points",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "instance_stat": true,
+            "stack_func": "get_stat",
+            "effect_string": "buff_upgrade,0,12999"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Based on the maximum number of Ki Points Nrakk has had at one time during this adventure, Way of the Kensei is increased by $(amount)% for each of those Ki Points, stacking multiplicatively. Nrakk can have at most 60 Ki Points at once."},
+    "id": 1701,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> When Nrakk has at least 1 Ki Point before he attacks, consume 1 Ki Point and stun all enemies Nrakk hits for 3 seconds. Affected enemies take 50% more damage for each Ki Point Nrakk currently has, stacking multiplicatively. This debuff does not stack and lasts until the affected enemy is killed or Nrakk has no Ki Points remaining.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stun_time": 3,
+        "debuff_effect": {
+            "stacks_multiply": true,
+            "amount_func": "mult",
+            "stack_func": "per_nrakk_ki_points",
+            "active_graphic_y": -60,
+            "active_graphic_id": 1,
+            "effect_string": "increase_monster_damage,0"
+        },
+        "effect_string": "nrakk_stunning_strike,50"
+    }],
+    "requirements": "",
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$nrakk_current_ki_points"
+        }]},
+        "desc": "When Nrakk has at least 1 Ki Point before he attacks, consume 1 Ki Point and stun all enemies Nrakk hits for $(stun_time) seconds. Affected enemies take $(amount)% more damage for each Ki Point Nrakk currently has, stacking multiplicatively. This debuff does not stack and lasts until the affected enemy is killed or Nrakk has no Ki Points remaining."
+    },
+    "id": 1702,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Every third attack is a wide AoE cleave.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "alternate_attack_sequence": "attack_b",
+        "off_when_benched": true,
+        "effect_string": "add_attack_aoe_targets_every,100,150,3,97"
+    }],
+    "requirements": "",
+    "description": {"desc": "Every third attack is a wide AoE cleave."},
+    "id": 1703,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> While Nrakk has no Ki Points he reduces his ultimate cooldown by 1 second each time he attacks, and an additional 4 seconds each time he hits a boss creature.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "cooldown_reduction": 1,
+        "off_when_benched": true,
+        "cooldown_reduction_boss": 4,
+        "effect_string": "nrakk_perfect_self"
+    }],
+    "requirements": "",
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$nrakk_current_ki_points"
+        }]},
+        "desc": "While Nrakk has no Ki Points he reduces his ultimate cooldown by $(cooldown_reduction) second each time he attacks, and an additional $(cooldown_reduction_boss) seconds each time he hits a boss creature."
+    },
+    "id": 1704,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increases the potency of most Positional Formations Abilities of adjacent Champions with a Wisdom (WIS) score of 14 or higher by 50%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "buff_positional_formation_abilities,50",
+        "filter_targets": [{
+            "score": 14,
+            "stat": "wis",
+            "check": ">=",
+            "type": "stat_score"
+        }],
+        "targets": ["adj"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Increases the potency of most Positional Formations Abilities of adjacent Champions with a Wisdom (WIS) score of 14 or higher by $(amount)%."},
+    "id": 1705,
+    "flavour_text": "",
+    "graphic_id": 5866,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increases the potency of most Positional Formations Abilities of adjacent Champions with a Dexterity (DEX) score of 16 or higher by 50%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "buff_positional_formation_abilities,50",
+        "filter_targets": [{
+            "score": 16,
+            "stat": "dex",
+            "check": ">=",
+            "type": "stat_score"
+        }],
+        "targets": ["adj"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Increases the potency of most Positional Formations Abilities of adjacent Champions with a Dexterity (DEX) score of 16 or higher by $(amount)%."},
+    "id": 1706,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increases the effect of Nrakk's specializations by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "buff_upgrades,100,13005,13006"}],
+    "requirements": "",
+    "description": {"desc": "Increases the effect of Nrakk's specializations by $(amount)%."},
+    "id": 1707,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+# Korth
+
+![Korth Portrait](images/season_6/korth.png)
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Korth increases the damage of all Champions with a DEX score of 16+ by 100% and reduces their normal attack cooldown by 0.5 seconds.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "formation_arrows_for_effected_only": true,
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "filter_targets": [{
+                "score": 16,
+                "stat": "dex",
+                "check": ">=",
+                "type": "stat_score"
+            }],
+            "targets": ["all"]
+        },
+        {
+            "formation_arrows_for_effected_only": true,
+            "off_when_benched": true,
+            "effect_string": "reduce_attack_cooldown,0.5",
+            "filter_targets": [{
+                "score": 16,
+                "stat": "dex",
+                "check": ">=",
+                "type": "stat_score"
+            }],
+            "targets": ["all"]
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Korth increases the damage of all Champions with a DEX score of 16+ by $(amount)% and reduces their normal attack cooldown by $(amount___2) seconds."},
+    "id": 1713,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Korth sums up the total Dexterity scores of all Champions in the formation and increases the effect of Rapid Training by 15% for each point, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stacks_multiply": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_hero_attribute",
+        "per_hero_expr": "dex",
+        "effect_string": "buff_upgrade,15,13034"
+    }],
+    "requirements": "",
+    "description": {"desc": "Korth sums up the total Dexterity scores of all Champions in the formation and increases the effect of Rapid Training by $(amount)% for each point, stacking multiplicatively."},
+    "id": 1716,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+# Dungeon Master
+
+![Dungeon Master Portrait](images/season_6/dm.png)
+
+No changes as of yet.
+
+# Sisaspia
+
+![Sisaspia Portrait](images/season_6/sisaspia.png)
+
+No changes as of yet.
+
+# Warden
+
+![Warden Portrait](images/season_6/warden.png)
+
+No changes as of yet.
 
 
 [Back to Top](#top)
