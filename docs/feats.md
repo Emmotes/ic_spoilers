@@ -28,91 +28,6 @@ Feats that are listed as Free will be available immediately the moment they rele
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Donaar</span>
-        </span>
-        <span class="featTableIcon2">
-            ![Frugal Icon](images/featicons/goldfind.png)Frugal
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">10% Gold</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">30 Aug 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Donaar</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Lucky Icon](images/featicons/goldfind.png)Lucky
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">25% Gold</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">30 Aug 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">K'thriss</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Divesting Gold Icon](images/featicons/upgradefa.png)Divesting Gold
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% Hoardsperson</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">30 Aug 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">K'thriss</span>
-        </span>
-        <span class="featTableIcon2">
-            ![Frugal Icon](images/featicons/goldfind.png)Frugal
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">10% Gold</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">30 Aug 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">K'thriss</span>
-        </span>
-        <span class="featTableIcon2">
-            ![Petty Cash Icon](images/featicons/upgradefa.png)Petty Cash
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">20% Hoardsperson</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">30 Aug 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">BBEG</span>
         </span>
         <span class="featTableIcon4">
@@ -313,6 +228,40 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">13 Sep 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Delina</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Heavy Lifter Icon](images/featicons/attributeboostx2.png)Heavy Lifter
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Stat: +2 Strength</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">15 Sep 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Evelyn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)Taunt
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">400% Self DPS & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">15 Sep 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -707,6 +656,40 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span style="margin-left: 8px;">40% Icingdeath</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Evelyn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Quick Friends Icon](images/featicons/upgradefa.png)Quick Friends
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Conduit of the Light</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Evelyn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Under Pressure Icon](images/featicons/upgradefa.png)Under Pressure
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Steadfast Might</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
