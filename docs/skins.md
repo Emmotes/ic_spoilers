@@ -40,7 +40,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ![Venture Casual Walnut Portrait](images/skin_portraits/venturecasualwalnut.png)Venture Casual Walnut
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Anniversary Celebration</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
