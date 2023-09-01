@@ -116,7 +116,7 @@ Of course - bear in mind - that's just my interpretation of the data. I've added
 		"type": "locked_slots"
 	}
 ],
-</pre></p></details>
+</pre></p></details><br/>
 
 ## Favour
 
