@@ -159,6 +159,9 @@ code{
 }
 .skinTableIcon img {
 	margin: 5px;
+	width: 85px;
+	height: 80px;
+	object-fit: contain;
 }
 .skinTableSource {
 	display: flex;
