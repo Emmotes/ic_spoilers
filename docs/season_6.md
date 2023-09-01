@@ -561,6 +561,68 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 ![Korth Portrait](images/season_6/korth.png)
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Hungry Jaws**
+> Korth leaps to the nearest enemy and ferociously bites them, causing massive damage and a bleed for 5x the base damage over 5 seconds.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Korth leaps to the nearest enemy and ferociously bites them.",
+    "long_description": "Korth leaps to the nearest enemy and ferociously bites them, causing massive damage and a bleed for 5x the base damage over 5 seconds.",
+    "damage_modifier": 0.033,
+    "damage_types": ["melee"],
+    "graphic_id": 5731,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 30,
+        "shake_on_hit": 0.1,
+        "damage_over_time": {
+            "tick_time": 0.2,
+            "pop_damage": true,
+            "damage_is_additional": true,
+            "time": 10,
+            "percent": 4
+        },
+        "target_offset_y": 30,
+        "target_offset_x": -80,
+        "start_frame": 23,
+        "jump_height": 180,
+        "jump_back_sequence": {
+            "end_frame": 53,
+            "start_frame": 46
+        },
+        "type": "melee_attack",
+        "end_frame": 45,
+        "jump_back_speed": 4000,
+        "cooldown_sequence": {
+            "end_frame": 59,
+            "start_frame": 54
+        },
+        "power_up_sequence": {
+            "end_frame": 13,
+            "start_frame": 0
+        },
+        "jump_out_sequence": {
+            "end_frame": 22,
+            "start_frame": 14
+        }
+    }],
+    "name": "Hungry Jaws",
+    "cooldown": 150,
+    "id": 695
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > Korth increases the damage of all Champions with a DEX score of 16+ by 100% and reduces their normal attack cooldown by 0.5 seconds.
 <details><summary><em>Raw Data</em></summary>
@@ -613,13 +675,76 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
+> Enemies Korth attacks become Marked until they are defeated. Marked enemies take 100% more damage from all attacks.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "marked_effect_data": {
+            "active_graphic_y": -60,
+            "active_graphic_id": 5733,
+            "effect_string": "increase_monster_damage,0"
+        },
+        "effect_string": "korth_lizardfolk_tactics_v2,100"
+    }],
+    "requirements": "",
+    "description": {"desc": "Enemies Korth attacks become Marked until they are defeated. Marked enemies take $(amount)% more damage from all attacks."},
+    "id": 1714,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Whenever a Champion attacks any enemy that is Marked, they gain 25 temporary hit points. This effect is increased by 100% on Champions with the Tanking role. This effect can only occur for each Champion once every 7.5 seconds.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "tank_bonus_percent": 100,
+        "off_when_benched": true,
+        "cooldown_seconds": 7.5,
+        "effect_string": "korth_fighting_spirit_v2,25"
+    }],
+    "requirements": "",
+    "description": {"desc": "Whenever a Champion attacks any enemy that is Marked, they gain $(amount) temporary hit points. This effect is increased by $(tank_bonus_percent)% on Champions with the Tanking role. This effect can only occur for each Champion once every $(cooldown_seconds) seconds."},
+    "id": 1715,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
 > Korth sums up the total Dexterity scores of all Champions in the formation and increases the effect of Rapid Training by 15% for each point, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [{
+        "stack_title": "Total Dexterity",
         "stacks_multiply": true,
+        "off_when_benched": true,
         "show_bonus": true,
         "amount_func": "mult",
         "stack_func": "per_hero_attribute",
@@ -627,13 +752,50 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "effect_string": "buff_upgrade,15,13034"
     }],
     "requirements": "",
-    "description": {"desc": "Korth sums up the total Dexterity scores of all Champions in the formation and increases the effect of Rapid Training by $(amount)% for each point, stacking multiplicatively."},
+    "description": {"desc": "Korth sums up the total Dexterity scores of all Champions in the formation and increases the effect of Rapid Training by $(not_buffed amount)% for each point, stacking multiplicatively."},
     "id": 1716,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Korth tracks the highest number of enemies that he has simultaneously Marked in the current area, and he increases the damage bonus of Rapid Training by 20% for each of those enemies, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "stack_title": "Max. Enemies Marked",
+            "stacks_multiply": true,
+            "manual_stacking": true,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "effect_string": "buff_upgrade,20,13034"
+        },
+        {"effect_string": "korth_group_tactics"}
+    ],
+    "requirements": "",
+    "description": {"desc": "Korth tracks the highest number of enemies that he has simultaneously Marked in the current area, and he increases the damage bonus of Rapid Training by $(not_buffed amount)% for each of those enemies, stacking multiplicatively."},
+    "id": 1717,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
