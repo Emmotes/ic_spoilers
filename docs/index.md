@@ -95,6 +95,7 @@ Not events events - but events. You know?
 * [Emergence 4](emergence_4.md) - 22 November 2023
 * Emergence 5 - ???
 * Season 7 - ???
+* [Prior Season Reward Availabilities](postseason.html)
 
 # Misc
 
