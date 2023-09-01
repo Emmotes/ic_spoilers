@@ -24,97 +24,97 @@ Of course - bear in mind - that's just my interpretation of the data - I could b
 
 <details><summary><em>Raw Data</em></summary><p><pre>
 "game_change_data": [
-	{
-		"by_area": [
-			{
-				"min_area": 1,
-				"force": false
-			},
-			{
-				"min_area": 50,
-				"force": true
-			}
-		],
-		"loop_at": 51,
-		"type": "force_cinematics"
-	},
-	{
-		"by_area": [
-			{
-				"min_area": 1,
-				"enabled": true
-			},
-			{
-				"min_area": 50,
-				"enabled": false
-			}
-		],
-		"loop_at": 51,
-		"type": "disable_hotkeys"
-	},
-	{
-		"max_area": 50,
-		"min_area": 50,
-		"type": "hide_ui"
-	},
-	{
-		"effects": [
-			{
-				"effect_string": "increase_attack_cooldown,1000000"
-			},
-			{
-				"effect_string": "disable_hero_properties,0,0,0,0,1"
-			}
-		],
-		"loop_at": 51,
-		"type": "slot_effects_by_area",
-		"area_slot_effects": [
-			{
-				"max_area": 50,
-				"slot_effects": [
-					{
-						"slots": [
-							0,
-							1,
-							2,
-							3,
-							4,
-							5,
-							6,
-							7,
-							8,
-							9
-						],
-						"effect_index": 0
-					}
-				],
-				"min_area": 50
-			}
-		]
-	},
-	{
-		"by_area": [
-			{
-				"max_area": 50,
-				"slots": [
-					0,
-					1,
-					2,
-					3,
-					4,
-					5,
-					6,
-					7,
-					8,
-					9
-				],
-				"min_area": 50,
-				"locked": true
-			}
-		],
-		"loop_at": 51,
-		"type": "locked_slots"
-	}
+    {
+        "by_area": [
+            {
+                "min_area": 1,
+                "force": false
+            },
+            {
+                "min_area": 50,
+                "force": true
+            }
+        ],
+        "loop_at": 51,
+        "type": "force_cinematics"
+    },
+    {
+        "by_area": [
+            {
+                "min_area": 1,
+                "enabled": true
+            },
+            {
+                "min_area": 50,
+                "enabled": false
+            }
+        ],
+        "loop_at": 51,
+        "type": "disable_hotkeys"
+    },
+    {
+        "max_area": 50,
+        "min_area": 50,
+        "type": "hide_ui"
+    },
+    {
+        "effects": [
+            {
+                "effect_string": "increase_attack_cooldown,1000000"
+            },
+            {
+                "effect_string": "disable_hero_properties,0,0,0,0,1"
+            }
+        ],
+        "loop_at": 51,
+        "type": "slot_effects_by_area",
+        "area_slot_effects": [
+            {
+                "max_area": 50,
+                "slot_effects": [
+                    {
+                        "slots": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9
+                        ],
+                        "effect_index": 0
+                    }
+                ],
+                "min_area": 50
+            }
+        ]
+    },
+    {
+        "by_area": [
+            {
+                "max_area": 50,
+                "slots": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ],
+                "min_area": 50,
+                "locked": true
+            }
+        ],
+        "loop_at": 51,
+        "type": "locked_slots"
+    }
 ],
 </pre></p></details><br/>
 
