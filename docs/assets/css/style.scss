@@ -570,3 +570,46 @@ code{
 .emergenceShopFeatIcon5 img {
 	border: 1px solid #FBBA37;
 }
+.postSeasonTableColumn {
+	display: flex;
+	flex-direction: column;
+	max-width: 598px;
+	font-size: 0.9em;
+}
+.postSeasonTableRow {
+	display: flex;
+	flex-direction: column;
+	margin: 5px;
+}
+.postSeasonTableRowInner {
+	display: flex;
+	flex-direction: row;
+	flex-grow: 1;
+	margin: 2px;
+}
+.postSeasonTableTitle,.postSeasonTableDateHeader,.postSeasonTableDate {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100px;
+	flex-grow: 1;
+	background-color: #141414;
+	border: 1px solid black;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+.postSeasonTableTitle {
+	justify-content: flex-start;
+	font-size: 1.4em;
+	border-bottom: 4px ridge black;
+}
+.postSeasonTableTitle strong {
+	margin-right: 4px;
+}
+.postSeasonTableTitle img {
+	margin: 5px;
+	margin-right: 10px;
+}
+.postSeasonTableDateHeader,.postSeasonTableDate {
+	background-color: #1a1a1a;
+}
