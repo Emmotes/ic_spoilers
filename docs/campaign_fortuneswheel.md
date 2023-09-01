@@ -23,6 +23,7 @@ This is all - presumably - to offer some kind of message or choice. Then when it
 Of course - bear in mind - that's just my interpretation of the data - I could be wrong. I've added it below for your own perusal.
 
 <details><summary><em>Raw Data</em></summary><p><pre>
+"campaign_name": "Turn of Fortune's Wheel",
 "game_change_data": [
     {
         "by_area": [
