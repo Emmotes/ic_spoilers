@@ -288,7 +288,6 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
             ],
             "stacks_multiply": false,
             "off_when_benched": true,
-            "show_bonus": true,
             "amount_func": "add",
             "stack_func": "per_hero_level_past_softcap",
             "per_hero_expr": "floor(max(has_tag_acqinc,has_tag_cteam)*min(hero_level,hero_softcap+max_levels_past_soft_cap))",
@@ -303,6 +302,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
             ],
             "stacks_multiply": false,
             "off_when_benched": true,
+            "show_bonus": true,
             "amount_func": "add",
             "stack_func": "per_hero_level_past_softcap",
             "per_hero_expr": "floor(max(has_tag_acqinc,has_tag_cteam)*min(hero_level,hero_softcap+max_levels_past_soft_cap))",
@@ -310,16 +310,15 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
         }
     ],
     "requirements": "",
-    "description": {"desc": "Certainty increases the effect of Secretarian's Advice and your Gold Find by $(amount)% for each level on Acquisitions Incorporated or 'C' Team Champions in the formation, stacking additively. Each Champion's contribution caps at $(max_levels_past_soft_cap) levels after their last available upgrade."},
+    "description": {"desc": "Certainty increases the effect of Secretarian's Advice and your Gold Find by $(not_buffed amount)% for each level on Acquisitions Incorporated or 'C' Team Champions in the formation, stacking additively. Each Champion's contribution caps at $(max_levels_past_soft_cap) levels after their last available upgrade."},
     "id": 1677,
     "flavour_text": "",
     "graphic_id": 20571,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
-        "per_effect_index_bonuses": true
+        "per_effect_index_bonuses": false
     }
 }
 </pre>
