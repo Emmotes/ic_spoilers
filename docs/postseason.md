@@ -61,7 +61,7 @@ Modron cores that were in the season pass are added to Wild Offers - but we stil
                 <span>24 May 2023</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>24 Nov 2023</span>
+                <span>24 Nov 2023 (Guess)</span>
             </span>
         </span>
     </span>
@@ -90,7 +90,7 @@ Modron cores that were in the season pass are added to Wild Offers - but we stil
                 <span>30 Aug 2023</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>29 Feb 2024</span>
+                <span>29 Feb 2024 (Guess)</span>
             </span>
         </span>
     </span>
@@ -119,7 +119,7 @@ Modron cores that were in the season pass are added to Wild Offers - but we stil
                 <span>08 Nov 2023</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>08 May 2024</span>
+                <span>08 May 2024 (Guess)</span>
             </span>
         </span>
     </span>
