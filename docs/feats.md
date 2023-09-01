@@ -39,7 +39,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">80% I've Got You, Friends</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Corrupt Gems</span>
+            <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">01 Sep 2023</span>
@@ -56,7 +56,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">+3 to Hello, Fellow Humans</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Corrupt Gems</span>
+            <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">01 Sep 2023</span>
@@ -73,7 +73,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">80% Ricochet</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Corrupt Gems</span>
+            <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">01 Sep 2023</span>
