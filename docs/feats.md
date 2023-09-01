@@ -30,57 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Fen</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Wisened Friends Icon](images/featicons/upgradefa.png)Wisened Friends
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% I've Got You, Friends</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">01 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Hew Maan</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Neverwinter Diversity Icon](images/featicons/upgradefa.png)Neverwinter Diversity
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">+3 to Hello, Fellow Humans</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">01 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Hitch</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Five Questions Icon](images/featicons/upgradefa.png)Five Questions
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Ricochet</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">01 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Walnut</span>
         </span>
         <span class="featTableIcon4">

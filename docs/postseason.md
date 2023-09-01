@@ -10,35 +10,6 @@ Modron cores that were in the season pass are added to Wild Offers - but we stil
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                ![Season 2 Icon](images/general/s2.png)**Season 2** - Flayer Hunter
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>21 Dec 2022</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 Mar 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 Sept 2023</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 ![Season 3 Icon](images/general/s3.png)**Season 3** - Ancients and Lawbringers
             </span>
         </span>
