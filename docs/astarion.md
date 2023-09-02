@@ -1,6 +1,13 @@
 [Back to Main](index.md)
 
-![PC Portrait](images/astarion/portrait.png)
+<span class="championPortraitsRow">
+    <span class="championPortraitsImage">
+        ![PC Portrait for Astarion](images/astarion/portrait.png)Portait
+    </span>
+    <span class="championPortraitsImage">
+        ![Model GIF of Astarion](images/astarion/model.gif)Model
+    </span>
+</span>
 
 # Astarion
 

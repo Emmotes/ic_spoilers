@@ -1,6 +1,13 @@
 [Back to Main](index.md)
 
-![PC Portrait](images/thellora/portrait.png)
+<span class="championPortraitsRow">
+    <span class="championPortraitsImage">
+        ![PC Portrait for Thellora](images/thellora/portrait.png)Portait
+    </span>
+    <span class="championPortraitsImage">
+        ![Model GIF of Thellora](images/thellora/model.gif)Model
+    </span>
+</span>
 
 # Thellora
 

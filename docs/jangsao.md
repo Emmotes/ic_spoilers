@@ -1,7 +1,8 @@
 [Back to Main](index.md)
 
 {% comment %}
-![PC Portrait](images/jangsao/portrait.png)
+<span class="championPortraitsRow">
+</span>
 {% endcomment %}
 
 # Jang Sao

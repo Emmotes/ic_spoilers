@@ -1,6 +1,13 @@
 [Back to Main](index.md)
 
-![PC Portrait](images/certainty/portrait.png)
+<span class="championPortraitsRow">
+    <span class="championPortraitsImage">
+        ![PC Portrait for Certainty Dran](images/certainty/portrait.png)Portait
+    </span>
+    <span class="championPortraitsImage">
+        ![Model GIF of Certainty Dran](images/certainty/model.gif)Model
+    </span>
+</span>
 
 # Certainty Dran
 
