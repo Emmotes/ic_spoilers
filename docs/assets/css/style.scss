@@ -639,6 +639,6 @@ code{
 .championPortraitsImage img {
 	height: 170px;
 	width: 170px;
-	object-fit: contain;
+	object-fit: scale-down;
 	margin-bottom: 5px;
 }
