@@ -623,7 +623,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Rapid Training** (Guess)
 > Korth increases the damage of all Champions with a DEX score of 16+ by 100% and reduces their normal attack cooldown by 0.5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -674,7 +674,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Lizardfolk Tactics** (Guess)
 > Enemies Korth attacks become Marked until they are defeated. Marked enemies take 100% more damage from all attacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -706,7 +706,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Fighting Spirit** (Guess)
 > Whenever a Champion attacks any enemy that is Marked, they gain 25 temporary hit points. This effect is increased by 100% on Champions with the Tanking role. This effect can only occur for each Champion once every 7.5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -767,7 +767,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Group Tactics** (Guess)
 > Korth tracks the highest number of enemies that he has simultaneously Marked in the current area, and he increases the damage bonus of Rapid Training by 20% for each of those enemies, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
