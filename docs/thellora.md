@@ -11,7 +11,7 @@
 
 # Thellora
 
-We currently know very little about this champion. We believe they will be part of the next (and sixth) Idle Champions Presents: `Fatebreaker`.
+We currently know very little about this champion. They've been confirmed to be part of the next (and sixth) Idle Champions Presents: `Fatebreaker` - and from the model we can tell that they'll be a Centaur. But that's about it.
 
 # Basic Information
 
@@ -567,7 +567,7 @@ Unknown.
 
 Unknown.
 
-# Champion Images
+# Other Champion Images
 
 <span class="championImagesColumn">
     <span class="championImagesRow">

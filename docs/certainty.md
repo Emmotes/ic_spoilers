@@ -589,7 +589,7 @@ Unknown.
 
 Unknown.
 
-# Champion Images
+# Other Champion Images
 
 <span class="championImagesColumn">
     <span class="championImagesRow">

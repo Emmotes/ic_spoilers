@@ -1252,7 +1252,7 @@ Dungeon Master: 5 / 6
 </details>
 <br />
 
-# Champion Images
+# Other Champion Images
 
 <span class="championImagesColumn">
     <span class="championImagesRow">

@@ -7,7 +7,7 @@
 
 # Jang Sao
 
-We currently know very little about this champion. We believe they will be part of the next (and sixth) Idle Champions Presents: `Fatebreaker`.
+We currently know very little about this champion. They've been confirmed to be part of the next (and sixth) Idle Champions Presents: `Fatebreaker`. But that's about it.
 
 # Basic Information
 
@@ -141,7 +141,7 @@ Unknown.
 Unknown.
 
 {% comment %}
-# Champion Images
+# Other Champion Images
 
 <span class="championImagesColumn">
     </span>
