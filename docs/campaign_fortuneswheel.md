@@ -16,7 +16,7 @@ It seems it will be Planescape / Sigil related - given the reference to the Fort
 
 A recent change to the formation data suggests that this campaign will have a very weird gimmick.
 
-It's hard to parse but it *seems* that on z50 it will forcibly turn on the story dialogue, disable hotkeys, hide the UI and make champions unable to use ultimates, as well as give them a **massively long** attack cooldown.
+It's hard to parse but it *seems* that on z50 (and maybe z100/150/200/etc.) it will forcibly turn on the story dialogue, disable hotkeys, hide the UI and make champions unable to use ultimates, as well as give them a **massively long** attack cooldown.
 
 This is all - presumably - to offer some kind of message or choice. Then when it's finished whatever that is - it will put everything back to normal and continue on its merry way.
 
