@@ -1,10 +1,12 @@
 [Back to Main](index.md)
 
-# Prior Season Reward Availabilities
+# Prior Recurring Event Reward Availabilities
 
 When a season ends - most of the items that were available in the season pass track become exclusive and unavailable for a period of six months - at which point they become available again. Usually this means everything goes into Wild Offers (including the feats) while feats also become available for gems.
 
 Modron cores that were in the season pass are added to Wild Offers - but we still don't know where modron cores that were in the free track will end up.
+
+For Emergences - the items added will remain in the Thayan Enclave until the following Emergence ends. Then it will remain exclusive for another 3 months. Because of this - I have set the `End Date` for Emergences as the date the following emergence ended.
 
 <span class="postSeasonTableColumn">
     <span class="postSeasonTableRow">
@@ -33,6 +35,35 @@ Modron cores that were in the season pass are added to Wild Offers - but we stil
             </span>
             <span class="postSeasonTableDate">
                 <span>24 Nov 2023 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                ![Emergence 2 Icon](images/general/e2.png)**Emergence 2** - Modrons
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>24 May 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>01 Sept 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>01 Dec 2023 (Guess)</span>
             </span>
         </span>
     </span>
@@ -91,6 +122,35 @@ Modron cores that were in the season pass are added to Wild Offers - but we stil
             </span>
             <span class="postSeasonTableDate">
                 <span>08 May 2024 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                ![Emergence 3 Icon](images/general/e3.png)**Emergence 3** - Mind Flayers
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>23 Aug 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>Unknown</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>Unknown</span>
             </span>
         </span>
     </span>
