@@ -6,7 +6,7 @@ When a season ends - most of the items that were available in the season pass tr
 
 Modron cores that were in the season pass are added to Wild Offers - but we still don't know where modron cores that were in the free track will end up.
 
-For Emergences - the items added will remain in the Thayan Enclave until the following Emergence ends. Then it will remain exclusive for another 3 months. Because of this - I have set the `End Date` for Emergences as the date the following emergence ended.
+For Emergences - the items added will remain in the Thayan Enclave until the following Emergence ends. Then it will remain exclusive for another 3 months. Because of this - I have set the `End Date` for Emergences as the date the items leave the shop (not the date the emergence ended).
 
 <span class="postSeasonTableColumn">
     <span class="postSeasonTableRow">
