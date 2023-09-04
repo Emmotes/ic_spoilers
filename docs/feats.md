@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Walnut</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)Taunt
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">400% Self DPS & 50% Taunt</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">04 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Astarion</span>
         </span>
         <span class="featTableIcon4">

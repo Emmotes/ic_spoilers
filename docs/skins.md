@@ -9,48 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![King Bruenor Portrait](images/skin_portraits/kingbruenor.png)King Bruenor
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Gem Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">20,000</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">04 Sep 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Mythic Jarlaxle Portrait](images/skin_portraits/mythicjarlaxle.png)Mythic Jarlaxle
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Gem Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">20,000</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">04 Sep 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Venture Casual Walnut Portrait](images/skin_portraits/venturecasualwalnut.png)Venture Casual Walnut
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Anniversary Celebration</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">04 Sep 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Mind Flayer Astarion Portrait](images/skin_portraits/mindflayerastarion.png)Mind Flayer Astarion
         </span>
         <span class="skinTableSource">

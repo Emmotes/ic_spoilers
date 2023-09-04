@@ -110,7 +110,7 @@ Contents:
 * Skin: `Venture Casual Certainty`
 * Feat: ???
 * Familiar: `Acquisitions Inc. Airship`
-* Chests: `Gold  Y7E1 Chest` x16 (Shinies x2)
+* Chests: `Gold  Certainty Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
@@ -318,7 +318,7 @@ Contents:
 * Skin: `Harmonium Thellora`
 * Feat: ???
 * Familiar: `TBD Familiar (Thellora Theme Pack)`
-* Chests: `Gold  Y7E2 Chest` x16 (Shinies x2)
+* Chests: `Gold  Thellora Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
