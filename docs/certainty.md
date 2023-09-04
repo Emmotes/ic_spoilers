@@ -52,7 +52,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Support / Gold (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
