@@ -25,7 +25,7 @@
 	<meta name="theme-color" content="#ffffff">
     {% include head-custom.html %}
   </head>
-  <body>
+  <body onload="init()">
     <div class="wrapper">
 
       <section>
@@ -38,7 +38,8 @@
 		  Report issues <a href="{{ site.github.owner_url }}/ic_spoilers/issues">here</a>
 		  <br />
 		  View the <a href="{{ site.github.owner_url }}/ic_spoilers/commits/main">Changelog</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a>
+		  <span id="modes" hidden>&nbsp;</span></span>
         </div>
 
         {{ content }}
@@ -46,5 +47,6 @@
       </section>
 
     </div>
+	<script type="text/javascript" src="scripts/main.js"></script>
   </body>
 </html>
