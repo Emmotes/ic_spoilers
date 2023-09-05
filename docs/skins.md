@@ -418,7 +418,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ![Empty Placeholder](images/general/unknown.png)Warforged Birdsong
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Weekend (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
