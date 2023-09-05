@@ -37,6 +37,7 @@ mapnnm.set("Pigment", "Pig Mint");
 mapnnm.set("pigment", "pig mint");
 mapnnm.set("egendaries", "egos");
 mapnnm.set("egendary", "ego");
+mapnnm.set("Blacksmithing Contract", "BSC");
 mapnnm.set("Blacksmith Contract", "BSC");
 mapnnm.set("Bounty Contract", "BC");
 mapnnm.set("Potion of Polish", "PoP");
