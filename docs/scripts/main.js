@@ -26,12 +26,21 @@ mapnnm.set("Binwin", "Binwho?");
 mapnnm.set("Zorbu", "Murdergnome");
 mapnnm.set("Commodore Krux", "Hippo");
 mapnnm.set("Krux", "Hippo");
+mapnnm.set("Nahara", "Nahahaha");
 mapnnm.set("Hew Maan", "Hew");
 mapnnm.set("Valentine", "Val");
 mapnnm.set("Asharra", "Ash");
 mapnnm.set("Farideh", "Fari");
 mapnnm.set("Birdsong", "BS");
 mapnnm.set("Catti-brie", "Catti");
+mapnnm.set("Pigment", "Pig Mint");
+mapnnm.set("pigment", "pig mint");
+mapnnm.set("egendaries", "egos");
+mapnnm.set("egendary", "ego");
+mapnnm.set("Blacksmith Contract", "BSC");
+mapnnm.set("Bounty Contract", "BC");
+mapnnm.set("Potion of Polish", "PoP");
+mapnnm.set("Golden Epic", "GE");
 
 function init() {
 	var modes = "";
