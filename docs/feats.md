@@ -192,7 +192,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">400% Self DPS & 50% Taunt</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">15 Sep 2023</span>
@@ -209,7 +209,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">Stat: +2 Strength</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">15 Sep 2023</span>
