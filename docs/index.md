@@ -10,25 +10,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="astarion.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Astarion Portrait Icon](images/astarion/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Astarion&nbsp;<span class="indexChampionTableNoLink">- Elf (High) Rogue of Absolute Adversaries</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Brightswords - 6 September 2023</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="certainty.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
