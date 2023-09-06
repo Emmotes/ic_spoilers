@@ -10,35 +10,6 @@ Date of release: 06 Sep 2023
 
 Contents:
 
-* Skin: `Spelljammer Pilot Asharra`
-* Familiar: `Quadrone`
-* Chests: `Gold Chest (Guess)` x42 (Shinies x5)
-* Buff: `Epic Golden Potion` x1
-* Buff: `Potion of the Gem Hunter` x1
-* Buff: `Huge Potion of Fire Breath` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Large Blacksmithing Contract` x2
-* Buff: `Large Bounty Contract` x2
-* Gems: x5,000
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mind Flayer Astarion Theme Pack - $24.99  
-Date of release: 06 Sep 2023
-
-Contents:
-
-* Champion: `Astarion`
-* Skin: `Mind Flayer Astarion`
-* Feat: `Shadow's Embrace` (Astarion)
-* Familiar: `Leech the Boar`
-* Chests: `Gold Astarion Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Psyche the Amethyst Pseudodragon Familiar Pack - $9.99  
 Date of release: 13 Sep 2023
