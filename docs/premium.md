@@ -5,12 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Founder's Pack VI - $19.99  
-Date of release: 06 Sep 2023
-
-Contents:
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Psyche the Amethyst Pseudodragon Familiar Pack - $9.99  
 Date of release: 13 Sep 2023
 
