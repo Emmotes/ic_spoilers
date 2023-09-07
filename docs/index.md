@@ -66,6 +66,45 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Baldur's Gate 3 Champion #3&nbsp;<span class="indexChampionTableNoLink">- Unknown</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Simril - 29 November 2023</span>
+            </span>
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Baldur's Gate 3 Champion #4&nbsp;<span class="indexChampionTableNoLink">- Unknown</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Wintershield - 20 December 2023</span>
+            </span>
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Baldur's Gate 3 Champion #5&nbsp;<span class="indexChampionTableNoLink">- Unknown</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Midwinter - 10 January 2024</span>
+            </span>
+        </span>
+    </span>
 </span>
 
 # Recurring Events
