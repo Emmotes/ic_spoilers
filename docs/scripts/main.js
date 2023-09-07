@@ -1,7 +1,7 @@
 const rrm = (localStorage.randrambMode==1?true:false);
 const nnm = (localStorage.nicknamesMode==1?true:false);
 const maprrm = new Map();
-maprrm.set("Prior Recurring Event Reward Availabilities","Dates and Crap");
+maprrm.set("Prior Recurring Event Exlucisivity Dates","Dates and Crap");
 maprrm.set("Premium Packs and DLC", "Shop Cash Packs");
 maprrm.set("Turn of Fortune’s Wheel", "New Main Campaign");
 
