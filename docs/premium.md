@@ -282,7 +282,7 @@ Contents:
 * Champion: `Thellora`
 * Skin: `Harmonium Thellora`
 * Feat: ???
-* Familiar: `TBD Familiar (Thellora Theme Pack)`
+* Familiar: `Lumi the Fire Elemental`
 * Chests: `Gold  Thellora Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
