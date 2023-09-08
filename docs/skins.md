@@ -4,6 +4,8 @@
 
 Skins that are upcoming. Most skins are real money purchases only.
 
+Please be aware that the developers recently removed most future skins from the defines to stop Jim from being able to select them with his Wand of Wonder. This means that getting the upcoming skins has become a lot trickier for me - and so this page might not be as accurate as it once was.
+
 *Note: Skins with missing portraits simply don't have that data available yet.*
 
 <span class="skinTableColumn">
