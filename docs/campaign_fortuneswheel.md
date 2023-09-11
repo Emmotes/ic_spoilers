@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-# Campaign
+# New Campaign
 
 A new campaign was recently added to the defines: `Turn of Fortune's Wheel`. The guesstimated date of release is 1 November 2023 as per the [Content Drops](contentdrops.md) page.
 
