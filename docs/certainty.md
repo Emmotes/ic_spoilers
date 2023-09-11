@@ -382,7 +382,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Employee Evaluations**
-> Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by 200% for each full point over 13, stacking multiplicatively.
+> Certainty assesses the average score of her preferred ability (INT) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by 200% for each full point over 13, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -404,7 +404,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
         "post_process_expr": "max(0,input/max(1,num_targets)-min_stat_amount)"
     }],
     "requirements": "",
-    "description": {"desc": "Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by $(not_buffed amount)% for each full point over $(min_stat_amount), stacking multiplicatively."},
+    "description": {"desc": "Certainty assesses the average score of her preferred ability (INT) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by $(not_buffed amount)% for each full point over $(min_stat_amount), stacking multiplicatively."},
     "id": 1679,
     "flavour_text": "",
     "graphic_id": 20570,
@@ -484,7 +484,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Employee Evaluations** (Guess)
-> Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by 200% for each full point over 13, stacking multiplicatively.
+> Certainty assesses the average score of her preferred ability (INT) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by 200% for each full point over 13, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -506,7 +506,7 @@ Certainty will be the new champion in the Highharvestide event on 27 September 2
         "post_process_expr": "max(0,input/max(1,num_targets)-min_stat_amount)"
     }],
     "requirements": "",
-    "description": {"desc": "Certainty assesses the average score of her preferred ability (INT or CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by $(not_buffed amount)% for each full point over $(min_stat_amount), stacking multiplicatively."},
+    "description": {"desc": "Certainty assesses the average score of her preferred ability (INT) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by $(not_buffed amount)% for each full point over $(min_stat_amount), stacking multiplicatively."},
     "id": 1682,
     "flavour_text": "",
     "graphic_id": 20570,
