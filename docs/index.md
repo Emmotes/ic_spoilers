@@ -2,7 +2,10 @@
 
 Just a collection of most of the currently-known spoilers. It is by no means exhaustive. Of course - spoilers are subject to change at any time. Don't plan any major life events around them.
 
-*Note: Do **not** talk about spoilers on the official Idle Champions Discord server anywhere other than in the `#well_of_spoilers` channel.*
+<br/><span class="spoilerWarningRow">
+<span class="spoilerWarningIcon">![Warning Icon](images/general/warning.png)</span>
+<span class="spoilerWarning">The only channel on the official Idle Champions Discord that you are allowed to discuss anything you find on this site is the `#well_of_spoilers`. To do so elsewhere is to incite the wrath of the moderators. You have been warned.</span>
+</span>
 
 # Event Champions
 
