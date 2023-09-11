@@ -4,7 +4,7 @@ Just a collection of most of the currently-known spoilers. It is by no means exh
 
 <br/><span class="spoilerWarningRow">
 <span class="spoilerWarningIcon">![Warning Icon](images/general/warning.png)</span>
-<span class="spoilerWarning">The only channel on the official Idle Champions Discord that you are allowed to discuss anything you find on this site is the `#well_of_spoilers`. To do so elsewhere is to incite the wrath of the moderators. You have been warned.</span>
+<span class="spoilerWarning">I'm not angry that you discuss spoilers in places you shouldn't... I'm just disappointed.<br/>They belong on the Discord in the `#well_of_spoilers` channel only.</span>
 </span>
 
 # Event Champions
