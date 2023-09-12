@@ -4,7 +4,7 @@ Just a collection of most of the currently-known spoilers. It is by no means exh
 
 <br/><span class="spoilerWarningRow">
 <span class="spoilerWarningIcon">![Warning Icon](images/general/warning.png)</span>
-<span class="spoilerWarning">I'm not angry that you discuss spoilers in places you shouldn't... I'm just disappointed.<br/>They belong on the Discord in the `#well_of_spoilers` channel only.</span>
+<span class="spoilerWarning">I'm not angry that you discuss spoilers in places you shouldn't... I'm just disappointed.<br/>They belong on the {::nomarkdown}<a href="https://discord.gg/idlechampions" target="_blank">official IC Discord</a>{:/nomarkdown} in the `#well_of_spoilers` channel only.</span>
 </span>
 
 # Event Champions
