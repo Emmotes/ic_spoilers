@@ -653,64 +653,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> Increases the damage of all Champions for each Champion with a DEX score of 15 or higher by $replace%.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{
-        "amount_updated_listeners": ["slot_changed"],
-        "amount_func": "add",
-        "stack_func": "per_crusader",
-        "effect_string": "global_dps_multiplier_mult,$replace",
-        "stack_func_data": {"target_filters": [{
-            "stat": "dex",
-            "comparison": "greater_than_or_equal",
-            "type": "stat",
-            "value": 15
-        }]}
-    }],
-    "requirements": "",
-    "description": {"desc": "Increases the damage of all Champions for each Champion with a DEX score of 15 or higher by $amount%"},
-    "id": 1710,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> Increase the damage of Fighters, Rogues, and Rangers by $replace%.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{
-        "effect_string": "hero_dps_multiplier_mult,$replace",
-        "filter_targets": [{
-            "type": "by_tags",
-            "tags": "fighter|rogue|ranger"
-        }],
-        "targets": ["all"]
-    }],
-    "requirements": "",
-    "description": {"desc": "Increase the damage of Fighters, Rogues, and Rangers by $amount%"},
-    "id": 1711,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Rapid Training** (Guess)
 > Korth increases the damage of all Champions with a DEX score of 16+ by 100% and reduces their normal attack cooldown by 0.5 seconds.
 <details><summary><em>Raw Data</em></summary>
