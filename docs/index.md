@@ -21,7 +21,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Certainty Dran&nbsp;<span class="indexChampionTableNoLink">- Unknown Bard / Fighter of Acquisitions Incorporated (Guess)</span>
+                Certainty Dran&nbsp;<span class="indexChampionTableNoLink">- Half-Elf / Aasimar Wizard/Bard of Acquisitions Incorporated</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Highharvestide - 27 September 2023</span>
@@ -69,19 +69,25 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="shadowheart.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Baldur's Gate 3 Champion #3&nbsp;<span class="indexChampionTableNoLink">- Unknown</span>
+                Shadowheart&nbsp;<span class="indexChampionTableNoLink">- Half-Elf Cleric of Absolute Adversaries (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Simril - 29 November 2023</span>
             </span>
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
     <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
             ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
