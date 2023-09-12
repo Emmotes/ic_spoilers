@@ -251,6 +251,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span style="margin-left: 8px;">Certainty</span>
+        </span>
+        <span class="featTableIcon4">
+            ![New Me Icon](images/featicons/upgradefa.png)New Me
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Best And The Brightest +2 & Smooth Negotiators +2</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">27 Sep 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span style="margin-left: 8px;">K'thriss</span>
         </span>
         <span class="featTableIcon4">
@@ -308,7 +325,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Yaaaas Icon](images/featicons/upgradefa.png)Yaaaas
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">&nbsp;</span>
+            <span style="margin-left: 8px;">80% Teamwork</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -421,6 +438,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span style="margin-left: 8px;">Celeste</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Immolation Icon](images/featicons/immolation.png)Immolation
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span style="margin-left: 8px;">Virgil</span>
         </span>
         <span class="featTableIcon4">
@@ -434,6 +468,57 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">08 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">DM</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Lucky Icon](images/featicons/goldfind.png)Lucky
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">25% Gold</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">15 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Artemis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">29 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Warduke</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)Taunt
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">400% Self DPS & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">29 Nov 2023</span>
         </span>
     </span>
 </span>
@@ -556,6 +641,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span style="margin-left: 8px;">+120% Crit Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Certainty</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tenacious Icon](images/featicons/attributeboostx2.png)Tenacious
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Stat: +2 Constitution</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>

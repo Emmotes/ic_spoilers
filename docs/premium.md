@@ -73,7 +73,7 @@ Contents:
 
 * Champion: `???`
 * Skin: `Venture Casual Certainty`
-* Feat: ???
+* Feat: `New Me` (Certainty)
 * Familiar: `Acquisitions Inc. Airship`
 * Chests: `Gold  Certainty Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
@@ -317,6 +317,65 @@ Contents:
 * Buff: `Potion of the Gold Hunter` x1
 * Modron: `Upgrade Components` x2,000
 * Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Spelljammer Celeste Skin & Feat Pack - $9.99  
+Date of release: 01 Nov 2023
+
+Contents:
+
+* Skin: `Spelljammer Celeste`
+* Feat: `Immolation` (Celeste)
+* Chests: `Gold Celeste Chest` x7 (Shinies x1)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Elemental Artemis Skin & Feat Pack - $9.99  
+Date of release: 29 Nov 2023
+
+Contents:
+
+* Champion: `Artemis Entreri`
+* Skin: `Elemental Artemis`
+* Feat: `Master's Precision` (Artemis)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Artemis Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Mind Flayer Shadowheart Theme Pack - $24.99  
+Date of release: 29 Nov 2023
+
+Contents:
+
+* Champion: `Shadowheart`
+* Skin: `Mind Flayer Shadowheart`
+* Feat: ???
+* Familiar: `TBD Familiar (Shadowheart Theme Pack) - DO NOT TRANSLATE`
+* Chests: `Gold  Y7E4 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Warduck Warduke Skin & Feat Pack - $9.99  
+Date of release: 29 Nov 2023
+
+Contents:
+
+* Champion: `Warduke`
+* Skin: `Warduck Warduke`
+* Feat: `Taunt` (Warduke)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Warduke Chest` x7 (Shinies x1)
 </div></div>
 
 
