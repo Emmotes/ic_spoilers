@@ -8,9 +8,9 @@
 * [Zorbu](#zorbu)
 * [Nrakk](#nrakk)
 * [Korth](#korth)
-* [Dungeon Master](#dungeon-master)
 * [Sisaspia](#sisaspia)
 * [Warden](#warden)
+* [Dungeon Master](#dungeon-master)
 <br />
 
 # Season 6
@@ -19,9 +19,9 @@ Season 6 is guesstimated to start on 08 November 2023.
 
 # Theme
 
-![Zorbu Season Portrait](images/season_6/zorbu.png)![Nrakk Season Portrait](images/season_6/nrakk.png)![Korth Season Portrait](images/season_6/korth.png)![Dungeon Master Season Portrait](images/season_6/dm.png)![Sisaspia Season Portrait](images/season_6/sisaspia.png)![Warden Season Portrait](images/season_6/warden.png)
+![Zorbu Season Portrait](images/season_6/zorbu.png)![Nrakk Season Portrait](images/season_6/nrakk.png)![Korth Season Portrait](images/season_6/korth.png)![Sisaspia Season Portrait](images/season_6/sisaspia.png)![Warden Season Portrait](images/season_6/warden.png)![Dungeon Master Season Portrait](images/season_6/dm.png)
 
-We believe the six seasonal champions this time around are likely to be Zorbu, Nrakk, Korth, Dungeon Master, Sisaspia and Warden.
+We believe the six seasonal champions this time around are likely to be Zorbu, Nrakk, Korth, Sisaspia, Warden and Dungeon Master.
 
 # Changes
 
@@ -561,6 +561,36 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 ![Korth Portrait](images/season_6/korth.png)
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Samurai Slice**
+> Korth charges out and attacks the nearest non-marked enemy with his samurai sword.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Korth charges out and attacks the nearest non-marked enemy with his samurai sword.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 0,
+    "target": "korth_front_prefer_non_marked",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 3,
+        "target_offset_x": -50,
+        "type": "melee_attack"
+    }],
+    "name": "Samurai Slice",
+    "cooldown": 5.5,
+    "id": 696
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Hungry Jaws**
 > Korth leaps to the nearest enemy and ferociously bites them, causing massive damage and a bleed for 5x the base damage over 5 seconds.
 <details><summary><em>Raw Data</em></summary>
@@ -569,7 +599,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "description": "Korth leaps to the nearest enemy and ferociously bites them.",
     "long_description": "Korth leaps to the nearest enemy and ferociously bites them, causing massive damage and a bleed for 5x the base damage over 5 seconds.",
-    "damage_modifier": 0.033,
+    "damage_modifier": 1,
     "damage_types": ["melee"],
     "graphic_id": 5731,
     "target": "front",
@@ -586,8 +616,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "tick_time": 0.2,
             "pop_damage": true,
             "damage_is_additional": true,
-            "time": 10,
-            "percent": 4
+            "time": 5,
+            "percent": 5
         },
         "target_offset_y": 30,
         "target_offset_x": -80,
@@ -614,8 +644,66 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     }],
     "name": "Hungry Jaws",
-    "cooldown": 150,
+    "cooldown": 160,
     "id": 695
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increases the damage of all Champions for each Champion with a DEX score of 15 or higher by $replace%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "amount_updated_listeners": ["slot_changed"],
+        "amount_func": "add",
+        "stack_func": "per_crusader",
+        "effect_string": "global_dps_multiplier_mult,$replace",
+        "stack_func_data": {"target_filters": [{
+            "stat": "dex",
+            "comparison": "greater_than_or_equal",
+            "type": "stat",
+            "value": 15
+        }]}
+    }],
+    "requirements": "",
+    "description": {"desc": "Increases the damage of all Champions for each Champion with a DEX score of 15 or higher by $amount%"},
+    "id": 1710,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increase the damage of Fighters, Rogues, and Rangers by $replace%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "effect_string": "hero_dps_multiplier_mult,$replace",
+        "filter_targets": [{
+            "type": "by_tags",
+            "tags": "fighter|rogue|ranger"
+        }],
+        "targets": ["all"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Increase the damage of Fighters, Rogues, and Rangers by $amount%"},
+    "id": 1711,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -633,6 +721,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "formation_arrows_for_effected_only": true,
             "off_when_benched": true,
+            "slot_change_updates_targets": true,
             "effect_string": "hero_dps_multiplier_mult,100",
             "filter_targets": [{
                 "score": 16,
@@ -645,6 +734,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "formation_arrows_for_effected_only": true,
             "off_when_benched": true,
+            "slot_change_updates_targets": true,
             "effect_string": "reduce_attack_cooldown,0.5",
             "filter_targets": [{
                 "score": 16,
@@ -743,6 +833,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [{
         "stack_title": "Total Dexterity",
+        "amount_updated_listeners": [
+            "ability_score_changed",
+            "slot_changed"
+        ],
         "stacks_multiply": true,
         "off_when_benched": true,
         "show_bonus": true,
@@ -778,11 +872,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_title": "Max. Enemies Marked",
             "stacks_multiply": true,
             "manual_stacking": true,
+            "off_when_benched": true,
             "show_bonus": true,
             "amount_func": "mult",
             "effect_string": "buff_upgrade,20,13034"
         },
-        {"effect_string": "korth_group_tactics"}
+        {
+            "off_when_benched": true,
+            "effect_string": "korth_group_tactics"
+        }
     ],
     "requirements": "",
     "description": {"desc": "Korth tracks the highest number of enemies that he has simultaneously Marked in the current area, and he increases the damage bonus of Rapid Training by $(not_buffed amount)% for each of those enemies, stacking multiplicatively."},
@@ -803,11 +901,123 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
-# Dungeon Master
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Strength Before Death** (Guess)
+> Whenever any Champion is about to be killed and this ability is available, Korth prevents the death. The Champion stays at 1HP, gains the Fighting Spirit shield, and is invulnerable for 5 seconds. Then, Korth immediately makes an ultimate attack against the enemy that tried to kill the Champion. This ability has up to 3 charges and regenerates 1 charge every 1 minute.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "max_charges": 3,
+        "resurrection_priority": 500,
+        "recharge_time": 60,
+        "off_when_benched": true,
+        "effect_string": "korth_strength_before_death",
+        "invulnerable_effect_data": {
+            "for_time": 5,
+            "active_graphic_id": 873,
+            "effect_string": "damage_reduction,100"
+        },
+        "overlay_graphic_id": 5702,
+        "invulnerable_time": 5
+    }],
+    "requirements": "",
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$korth_sbd_charges"
+        }]},
+        "desc": "Whenever any Champion is about to be killed and this ability is available, Korth prevents the death. The Champion stays at 1HP, gains the Fighting Spirit shield, and is invulnerable for $(invulnerable_time) seconds. Then, Korth immediately makes an ultimate attack against the enemy that tried to kill the Champion. This ability has up to $(max_charges) charges and regenerates 1 charge every 1 minute."
+    },
+    "id": 1718,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
-![Dungeon Master Portrait](images/season_6/dm.png)
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Korth increases the base Dexterity scores of the Champions in the two slots directly behind him to 16, if they weren't already 16 or higher.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "retarget_when_any_hero_slot_changed": true,
+        "effect_string": "increase_base_ability_score,dex,16",
+        "targets": ["adj_behind"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Korth increases the base Dexterity scores of the Champions in the two slots directly behind him to $(amount), if they weren't already $(amount) or higher."},
+    "id": 1719,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+</div></div>
 
-No changes as of yet.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Korth increases the base Dexterity scores of the Champions in the two slots directly in front of him to 16, if they weren't already 16 or higher.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "retarget_when_any_hero_slot_changed": true,
+        "effect_string": "increase_base_ability_score,dex,16",
+        "targets": ["adj_ahead"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Korth increases the base Dexterity scores of the Champions in the two slots directly in front of him to $(amount), if they weren't already $(amount) or higher."},
+    "id": 1720,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Korth increases the base Dexterity scores of the Champions in the two slots directly above and below him to 16, if they weren't already 16 or higher.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "retarget_when_any_hero_slot_changed": true,
+        "effect_string": "increase_base_ability_score,dex,16",
+        "targets": ["adj_above_and_below"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Korth increases the base Dexterity scores of the Champions in the two slots directly above and below him to $(amount), if they weren't already $(amount) or higher."},
+    "id": 1721,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"is_formation_ability": true}
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Sisaspia
 
@@ -818,6 +1028,12 @@ No changes as of yet.
 # Warden
 
 ![Warden Portrait](images/season_6/warden.png)
+
+No changes as of yet.
+
+# Dungeon Master
+
+![Dungeon Master Portrait](images/season_6/dm.png)
 
 No changes as of yet.
 
