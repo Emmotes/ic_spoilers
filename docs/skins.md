@@ -207,6 +207,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Spelljammer Celeste
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Spelljammer Celeste Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">01 Nov 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Empty Placeholder](images/general/unknown.png)Elemental Dungeon Master
         </span>
         <span class="skinTableSource">
@@ -427,6 +441,48 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">24 Nov 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Elemental Artemis
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Elemental Artemis Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">29 Nov 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Shadowheart
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mind Flayer Shadowheart Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$24.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">29 Nov 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Warduck Warduke
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Warduck Warduke Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">29 Nov 2023</span>
         </span>
     </span>
     <span class="skinTableRow">
