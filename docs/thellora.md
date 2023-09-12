@@ -128,17 +128,15 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: The Light of Mount Tura**
-> Thellora charges through the enemies dealing 1 massive hit to enemies in a wide path, and then increases the damage of all champions by 400% for 15 seconds.  
-> Cooldown: 10s (Cap 2.5s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Thellora charges through the enemies, dealing 1 massive hit to them in a wide path. She then increases the damage of all champions by 400% for 15 seconds.  
+> Cooldown: 350s (Cap 87.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "description": "Thellora charges through the enemies, and then increases the damage of all champions for a short while.",
-    "long_description": "Thellora charges through the enemies dealing 1 massive hit to enemies in a wide path, and then increases the damage of all champions by 400% for 15 seconds.",
-    "damage_modifier": 1,
+    "long_description": "Thellora charges through the enemies, dealing 1 massive hit to them in a wide path. She then increases the damage of all champions by 400% for 15 seconds.",
+    "damage_modifier": 0.03,
     "damage_types": ["melee"],
     "graphic_id": 20868,
     "target": "all",
@@ -157,7 +155,7 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
         "type": "ultimate_attack"
     }],
     "name": "The Light of Mount Tura",
-    "cooldown": 10,
+    "cooldown": 350,
     "id": 688
 }
 </pre>
@@ -366,7 +364,7 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
             "off_when_benched": true,
             "show_bonus": true,
             "min_stat_amount": 12,
-            "per_hero_expr": "clamp(min_stat_amount-str,0,1)",
+            "per_hero_expr": "clamp(min_stat_amount+1-str,0,1)",
             "filter_targets": [{
                 "expr": "STR<=12",
                 "type": "stat_score"
@@ -381,7 +379,9 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Qualified Champions: $num_targets___2",
         "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
     }
 }
@@ -435,7 +435,9 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Qualified Champions: $num_targets___2",
         "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
     }
 }
@@ -489,7 +491,9 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Qualified Champions: $num_targets___2",
         "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
     }
 }
