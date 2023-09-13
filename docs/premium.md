@@ -5,20 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Psyche the Amethyst Pseudodragon Familiar Pack - $9.99  
-Date of release: 13 Sep 2023
-
-Contents:
-
-* Familiar: `Psyche the Amethyst Pseudodragon`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Aimee the Duck Familiar Pack - $14.99  
 Date of release: 20 Sep 2023
 
