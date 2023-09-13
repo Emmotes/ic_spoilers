@@ -121,7 +121,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![New Me Icon](images/featicons/upgradefa.png)New Me
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">Best And The Brightest +2 & Smooth Negotiators +2</span>
+            <span style="margin-left: 8px;">Specialisations +2 (Instead of +1)</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>

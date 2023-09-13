@@ -831,7 +831,7 @@ Upgrades:
             <span style="margin-left: 8px;">Cloak of the Secretarian</span>
         </span>
         <span class="itemTableEffect">
-            <span style="margin-left: 8px;">Employee Evaluations and Employee Evaluations</span>
+            <span style="margin-left: 8px;">Employee Evaluations</span>
         </span>
     </span>
     <span class="itemTableRow">
@@ -993,7 +993,7 @@ This list will only show feats that are going to be available on the release of 
             ![New Me Icon](images/featicons/upgradefa.png)New Me
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">Best And The Brightest +2 & Smooth Negotiators +2</span>
+            <span style="margin-left: 8px;">Specialisations +2 (Instead of +1)</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
