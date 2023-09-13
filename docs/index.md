@@ -21,7 +21,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Certainty Dran&nbsp;<span class="indexChampionTableNoLink">- Half-Elf / Aasimar Wizard/Bard of Acquisitions Incorporated</span>
+                Certainty Dran&nbsp;<span class="indexChampionTableNoLink">- Half-Elf / Aasimar Wizard / Bard of Acquisitions Incorporated</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Highharvestide - 27 September 2023</span>
