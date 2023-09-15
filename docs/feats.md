@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Evelyn</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)Taunt
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">400% Self DPS & 50% Taunt</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">15 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Jim</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Heavy Lifter Icon](images/featicons/attributeboostx2.png)Heavy Lifter
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">Stat: +2 Strength</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">15 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Deekin</span>
         </span>
         <span class="featTableIcon4">
