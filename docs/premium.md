@@ -57,7 +57,7 @@ Date of release: 27 Sep 2023
 
 Contents:
 
-* Champion: `???`
+* Champion: `Certainty Dran`
 * Skin: `Venture Casual Certainty`
 * Feat: `New Me` (Certainty)
 * Familiar: `Acquisitions Inc. Airship`
@@ -357,7 +357,7 @@ Date of release: 29 Nov 2023
 Contents:
 
 * Champion: `Warduke`
-* Skin: `Warduck Warduke`
+* Skin: `Warduck`
 * Feat: `Taunt` (Warduke)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
