@@ -200,6 +200,7 @@ code{
 .abilityBorderInner {
 	width: 100%;
 	margin: 5px;
+	padding-left: 6px;
 }
 .abilityBorderInner blockquote {
 	padding: 0 20px 0 20px;
@@ -248,11 +249,13 @@ code{
 .itemTableIcon {
 	display: flex;
 	justify-content: flex-start;
-	align-items: flex-start;
+	align-items: center;
 	width: 280px;
 	height: 100%;
 	margin: 2px;
+	padding-top: 4px;
 	font-size: 1.1em;
+	margin-right: 2px;
 }
 .itemTableIcon img {
 	margin: 5px;
@@ -306,6 +309,12 @@ code{
 }
 .itemTableIcon5 img {
 	border: 1px solid #FBBA37;
+}
+.itemTableGE {
+	width: 3px;
+	height: 80%;
+	background-color: #FBBA37;
+	margin-top: -4px;
 }
 .champStatsTableColumn {
     display: flex;

@@ -766,7 +766,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon" style="align-items:center;">
-            <span class="itemTableIcon1">![Starter Chimes Icon](images/certainty/20538.png)</span><span class="itemTableIcon2">![Expert Cymbals Icon](images/certainty/20538.png)</span><span class="itemTableIcon3">![Standard Issue Gong Icon](images/certainty/20539.png)</span><span class="itemTableIcon4">![Gong of Activation Icon](images/certainty/20540.png)</span>
+            <span class="itemTableIcon1">![Starter Chimes Icon](images/certainty/20538.png)</span><span class="itemTableIcon2">![Expert Cymbals Icon](images/certainty/20538.png)</span><span class="itemTableIcon3">![Standard Issue Gong Icon](images/certainty/20539.png)</span><span class="itemTableIcon4">![Gong of Activation Icon](images/certainty/20540.png)</span><span class="itemTableGE">&nbsp;</span>
         </span>
         <span class="itemTableSlot">
             <span>1</span>
