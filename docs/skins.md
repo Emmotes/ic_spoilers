@@ -11,7 +11,7 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Spelljammer Deekin Portrait](images/skin_portraits/20755.png)Spelljammer Deekin
+            ![Spelljammer Deekin Portrait](images/skin_portraits/spelljammerdeekin.png)Spelljammer Deekin
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Spelljammer Deekin Skin & Feat Pack</span>
@@ -25,7 +25,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Spelljammer Pilot Farideh Portrait](images/skin_portraits/20809.png)Spelljammer Pilot Farideh
+            ![Spelljammer Pilot Farideh Portrait](images/skin_portraits/spelljammerpilotfarideh.png)Spelljammer Pilot Farideh
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Spelljammer Pilot Farideh Theme Pack</span>
@@ -39,7 +39,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Venture Casual Certainty Portrait](images/skin_portraits/21013.png)Venture Casual Certainty
+            ![Venture Casual Certainty Portrait](images/skin_portraits/venturecasualcertainty.png)Venture Casual Certainty
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Venture Casual Certainty Theme Pack</span>
@@ -53,7 +53,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Venture Casual K'thriss Portrait](images/skin_portraits/21009.png)Venture Casual K'thriss
+            ![Venture Casual K'thriss Portrait](images/skin_portraits/venturecasualkthriss.png)Venture Casual K'thriss
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Venture Casual K'thriss Skin & Feat Pack</span>
@@ -81,7 +81,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Fated Hew Maan Portrait](images/skin_portraits/20925.png)Fated Hew Maan
+            ![Fated Hew Maan Portrait](images/skin_portraits/fatedhewmaan.png)Fated Hew Maan
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Fated Hew Maan Skin & Feat Pack</span>
@@ -95,7 +95,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Heralds of Dust Uriah Portrait](images/skin_portraits/21021.png)Heralds of Dust Uriah
+            ![Heralds of Dust Uriah Portrait](images/skin_portraits/heraldsofdusturiah.png)Heralds of Dust Uriah
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Heralds of Dust Uriah Skin & Feat Pack</span>
@@ -123,7 +123,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Society of Sensation Jim Portrait](images/skin_portraits/20931.png)Society of Sensation Jim
+            ![Society of Sensation Jim Portrait](images/skin_portraits/societyofsensationjim.png)Society of Sensation Jim
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Society of Sensation Jim Skin & Feat Pack</span>
@@ -151,7 +151,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Hands of Havoc Widdle Portrait](images/skin_portraits/21028.png)Hands of Havoc Widdle
+            ![Hands of Havoc Widdle Portrait](images/skin_portraits/handsofhavocwiddle.png)Hands of Havoc Widdle
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Hands of Havoc Widdle Skin & Feat Pack</span>
@@ -375,7 +375,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Githyanki Nayeli
+            ![Githyanki Nayeli Portrait](images/skin_portraits/githyankinayeli.png)Githyanki Nayeli
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -403,7 +403,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Half-Elf Orkira
+            ![Half-Elf Orkira Portrait](images/skin_portraits/halfelforkira.png)Half-Elf Orkira
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
