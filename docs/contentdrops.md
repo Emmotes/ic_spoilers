@@ -4,9 +4,7 @@
 
 A list of the upcoming content drops. Just be aware that the dates and order of these content drops are educated guesses based on the current event schedule - which itself is also often guesswork. So don't take these as facts.
 
-## Xaryxis 7 - 11 October 2023
-
-This content drop will likely be joined by new blessings.
+## Xaryxis 8 - 11 October 2023
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -303,16 +301,16 @@ This content drop will likely be joined by new blessings.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Xaryxis: Welcometo the Rock Varian2 (Adventure)](images/contentdrop_portraits/xaryxis_welcometotherockvarian2_0.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Welcome to the Rock (Variant 2)](images/contentdrop_portraits/xaryxis_welcometotherock_2.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Xaryxis</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Welcometo the Rock Varian2</span>
+            <span style="margin-left: 8px;">Welcome to the Rock</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant #2</span>
         </span>
     </span>
 </span>
