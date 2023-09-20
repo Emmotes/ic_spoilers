@@ -8,9 +8,8 @@
 * [Zorbu](#zorbu)
 * [Nrakk](#nrakk)
 * [Korth](#korth)
-* [Sisaspia](#sisaspia)
 * [Warden](#warden)
-* [Dungeon Master](#dungeon-master)
+* [Sisaspia](#sisaspia)
 <br />
 
 # Season 6
@@ -19,9 +18,9 @@ Season 6 is guesstimated to start on 08 November 2023.
 
 # Theme
 
-![Zorbu Season Portrait](images/season_6/zorbu.png)![Nrakk Season Portrait](images/season_6/nrakk.png)![Korth Season Portrait](images/season_6/korth.png)![Sisaspia Season Portrait](images/season_6/sisaspia.png)![Warden Season Portrait](images/season_6/warden.png)![Dungeon Master Season Portrait](images/season_6/dm.png)
+![Zorbu Season Portrait](images/season_6/zorbu.png)![Nrakk Season Portrait](images/season_6/nrakk.png)![Korth Season Portrait](images/season_6/korth.png)![Warden Season Portrait](images/season_6/warden.png)![Sisaspia Season Portrait](images/season_6/sisaspia.png)
 
-We believe the six seasonal champions this time around are likely to be Zorbu, Nrakk, Korth, Sisaspia, Warden and Dungeon Master.
+We believe the five seasonal champions this time around are likely to be Zorbu, Nrakk, Korth, Warden and Sisaspia.
 
 # Changes
 
@@ -961,23 +960,579 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
-# Sisaspia
-
-![Sisaspia Portrait](images/season_6/sisaspia.png)
-
-No changes as of yet.
-
 # Warden
 
 ![Warden Portrait](images/season_6/warden.png)
 
-No changes as of yet.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Warden curses his target enemy before attacking it, applying 1 stack of Hex. Enemies take 100% more damage for each Hex stack afflicting them, stacking multiplicatively. Initially, each enemy can only have 1 Hex stack at a time.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "reqs": ["direct_hit"],
+            "monster_effect": {"effect_string": "effect_def,1726"},
+            "effect_string": "add_monster_hit_effects,100,153"
+        },
+        {
+            "effect_string": "warden_hex_handler",
+            "hex": {"effect_string": "effect_def,1726"}
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Warden curses his target enemy before attacking it, applying 1 stack of Hex. Enemies take $amount% more damage for each Hex stack afflicting them, stacking multiplicatively. Initially, each enemy can only have 1 Hex stack at a time."},
+    "id": 1723,
+    "flavour_text": "",
+    "graphic_id": 4494,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
-# Dungeon Master
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Enemies that die while cursed by Warden spawn Accursed Specters, which increase the damage taken by nearby enemies.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "off_when_benched": true,
+        "debuff": {
+            "manual_stacking": true,
+            "stacks_multiply": true,
+            "effect_string": "increase_monster_damage,100"
+        },
+        "effect_string": "warden_accursed_specter",
+        "hex": {"effect_string": "effect_def,1726"}
+    }],
+    "requirements": [],
+    "description": {"desc": "Enemies that die while cursed by Warden spawn Accursed Specters, which increase the damage taken by nearby enemies"},
+    "id": 1724,
+    "flavour_text": "",
+    "graphic_id": 4495,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
-![Dungeon Master Portrait](images/season_6/dm.png)
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> When Warden attacks, all active Accursed Specters rush toward the location of their target prior to them hitting it.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "warden_specter_rush"}],
+    "requirements": [],
+    "description": {"desc": "When Warden attacks, all active Accursed Specters rush toward the location of their target prior to them hitting it"},
+    "id": 1725,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
 
-No changes as of yet.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "one_per_hero": true,
+            "active_graphic_sequence_offset": 1,
+            "active_graphic_y": -35,
+            "active_graphic_id": 4500,
+            "effect_string": "increase_monster_damage_multiplicative_pools,$amount",
+            "active_graphic_use_count": true
+        },
+        {
+            "one_per_hero": true,
+            "effect_string": "warden_hex"
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": ""},
+    "id": 1726,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"pool_name": "hex"}
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Hex can now stack up to 4 times on each enemy.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "increase_monster_effect_limit_max,4,13240"}],
+    "requirements": [],
+    "description": {"desc": "Hex can now stack up to $amount times on each enemy"},
+    "id": 1727,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Whenever a Champion kills an enemy near an Accursed Specter, the Specter reacts violently, applying 1 Hex stack to all enemies in its radius.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "warden_master_of_hexes,1"}],
+    "requirements": [],
+    "description": {"desc": "Whenever a Champion kills an enemy near an Accursed Specter, the Specter reacts violently, applying 1 Hex stack to all enemies in its radius."},
+    "id": 1728,
+    "flavour_text": "",
+    "graphic_id": 4497,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "effect_name": "Eldritch Smite"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Warden's attacks also deal area damage in a small radius around them equal to 25% times the highest number of active Hex stacks that there has been in the current area.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "warden_cloak_of_flies,25"}],
+    "requirements": [],
+    "description": {"desc": "Warden's attacks also deal area damage in a small radius around them equal to 25% times the highest number of active Hex stacks that there has been in the current area."},
+    "id": 1729,
+    "flavour_text": "",
+    "graphic_id": 4497,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "effect_name": "Eldritch Smite"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> The maximum number of Accursed Specters that can be active at once is equal to the number of Evil aligned Champions in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "default_stacks": -1,
+        "stack_title": "Evil Champions",
+        "amount_updated_listeners": ["slot_changed"],
+        "stacks_multiply": false,
+        "off_when_benched": true,
+        "amount_func": "add",
+        "stack_func": "per_crusader",
+        "effect_string": "increase_warden_specter_max,1",
+        "tag": "evil"
+    }],
+    "requirements": [],
+    "description": {"desc": "The maximum number of Accursed Specters that can be active at once is equal to the number of Evil aligned Champions in the formation."},
+    "id": 1730,
+    "flavour_text": "",
+    "graphic_id": 4496,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "effect_name": "Cloak of Flies"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with a DEX score of 16 or higher.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "default_stacks": -1,
+        "stack_title": "High Dex Champions",
+        "amount_updated_listeners": ["slot_changed"],
+        "stacks_multiply": false,
+        "off_when_benched": true,
+        "amount_func": "add",
+        "stack_func": "per_crusader",
+        "effect_string": "increase_warden_specter_max,1",
+        "target_filters": [{
+            "stat": "dex",
+            "comparison": ">=",
+            "type": "stat",
+            "value": 16
+        }]
+    }],
+    "requirements": [],
+    "description": {"desc": "The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with a DEX score of 16 or higher."},
+    "id": 1731,
+    "flavour_text": "",
+    "graphic_id": 4496,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "effect_name": "Cloak of Flies"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with Charisma as their highest ability score.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "default_stacks": -1,
+        "stack_title": "Charismatic Champions",
+        "amount_updated_listeners": ["slot_changed"],
+        "stacks_multiply": false,
+        "off_when_benched": true,
+        "amount_func": "add",
+        "stack_func": "per_crusader",
+        "effect_string": "increase_warden_specter_max,1",
+        "target_filters": [{
+            "stat": "cha",
+            "highest": true,
+            "type": "edge_stat"
+        }]
+    }],
+    "requirements": [],
+    "description": {"desc": "The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with Charisma as their highest ability score."},
+    "id": 1732,
+    "flavour_text": "",
+    "graphic_id": 4496,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "effect_name": "Cloak of Flies"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+# Sisaspia
+
+![Sisaspia Portrait](images/season_6/sisaspia.png)
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take 400% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "max_monster_spores": 4,
+        "max_boss_spores": 10,
+        "effect_string": "sisaspia_spore,400",
+        "damage_is_multiplicative": true,
+        "dot_time": 5,
+        "dot_tick": 1
+    }],
+    "requirements": [],
+    "description": {"conditions": [
+        {
+            "condition": "short_form",
+            "desc": "Sisaspia is surrounded by a torus of necrotic spores that cause enemies to take additional damage over time when attached to them."
+        },
+        {
+            "condition": "upgrade_purchased 3444",
+            "desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $amount% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 3 seconds and can have up to 30 spores in her reserve.^^$halo_of_spores_description"
+        },
+        {"desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $amount% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.^^$halo_of_spores_description"}
+    ]},
+    "id": 1742,
+    "flavour_text": "",
+    "graphic_id": 7200,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take 400% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "max_monster_spores": 4,
+        "max_boss_spores": 10,
+        "effect_string": "sisaspia_spore,400",
+        "damage_is_multiplicative": true,
+        "dot_time": 5,
+        "dot_tick": 1
+    }],
+    "requirements": [],
+    "description": {"conditions": [
+        {
+            "condition": "short_form",
+            "desc": "Sisaspia is surrounded by a torus of necrotic spores that cause enemies to take additional damage over time when attached to them."
+        },
+        {
+            "condition": "upgrade_purchased 3444",
+            "desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $amount% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 3 seconds and can have up to 30 spores in her reserve.^^$halo_of_spores_description"
+        },
+        {"desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $amount% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.^^$halo_of_spores_description"}
+    ]},
+    "id": 1742,
+    "flavour_text": "",
+    "graphic_id": 7200,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Good sporet! This just has properties for the spores.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "do_nothing"}],
+    "requirements": [],
+    "description": {"desc": "Good sporet! This just has properties for the spores"},
+    "id": 1743,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "dot_time": 5,
+        "dot_tick": 1
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Sisaspia uses her reserve of necrotic spores to empower a subtle infection she maintains upon her "companions", goading them forward and hopefully assisting her in her own selfish goals. This infection increases the damage of all Champions within 2 slots of herself by 10% for each spore she has in reserve (additively).
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "show_bonus": true,
+        "effect_string": "hero_dps_mult_per_sisaspia_spore_used,10",
+        "targets": [{
+            "distance": 2,
+            "type": "distance"
+        }]
+    }],
+    "requirements": [],
+    "description": {"desc": "Sisaspia uses her reserve of necrotic spores to empower a subtle infection she maintains upon her \"companions\", goading them forward and hopefully assisting her in her own selfish goals. This infection increases the damage of all Champions within 2 slots of herself by $amount% for each spore she has in reserve (additively)."},
+    "id": 1744,
+    "flavour_text": "",
+    "graphic_id": 7202,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Sisaspia's subtle infection heals damaged Champions within 2 slots of herself for 1 per second for each spore she has in reserve (additively).
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "show_stack_post_amounts": false,
+        "total_title": "Total Healing",
+        "target_self": false,
+        "show_bonus": true,
+        "total_max_decimals": 2,
+        "effect_string": "heal_per_sisaspia_spore_used,1",
+        "percent_values": false,
+        "targets": [{
+            "distance": 2,
+            "self": false,
+            "type": "distance"
+        }]
+    }],
+    "requirements": [],
+    "description": {"desc": "Sisaspia's subtle infection heals damaged Champions within 2 slots of herself for $(amount) per second for each spore she has in reserve (additively)."},
+    "id": 1745,
+    "flavour_text": "",
+    "graphic_id": 7201,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Halo of Spores now generates a new spore every 3 seconds, and Sisaspia's maximum reserve spore count is increased to 3___2.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "sisaspia_spore_spawn_cooldown_override,3"},
+        {"effect_string": "increase_sisaspia_reserve_spore_max,10"}
+    ],
+    "requirements": [],
+    "description": {"desc": "Halo of Spores now generates a new spore every $amount seconds, and Sisaspia's maximum reserve spore count is increased to $amount___2."},
+    "id": 1746,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {"indexed_effect_properties": true}
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> The effects of Symbiotic Infection and Symbiotic Healing are increased by 400% after Sisaspia has used at least 30 spores in the current area.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "amount_func": "if",
+            "stack_func": "per_sisaspia_spore_used",
+            "effect_string": "buff_upgrade,400,13251",
+            "if_amount": 30
+        },
+        {
+            "off_when_benched": true,
+            "amount_func": "if",
+            "stack_func": "per_sisaspia_spore_used",
+            "effect_string": "buff_upgrade,400,13252",
+            "if_amount": 30
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "The effects of Symbiotic Infection and Symbiotic Healing are increased by $amount% after Sisaspia has used at least 30 spores in the current area."},
+    "id": 1747,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Sisaspia's maximum spore reserve is increased by the average DEX score of the formation, rounded down. Additionally, if the average DEX score is 16 or higher, the range of Halo of Spores is additively increased by 12.5% for each full point above 15.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "stack_title": "Average Dex",
+            "amount_updated_listeners": ["slot_changed"],
+            "stat": "dex",
+            "stacks_multiply": false,
+            "off_when_benched": true,
+            "amount_func": "add",
+            "stack_func": "per_party_stat_average",
+            "effect_string": "increase_sisaspia_reserve_spore_max,1"
+        },
+        {
+            "stack_title": "Average Dex Over 15",
+            "amount_updated_listeners": ["slot_changed"],
+            "stat": "dex",
+            "stacks_multiply": false,
+            "off_when_benched": true,
+            "amount_func": "add",
+            "stack_func": "per_average_stat_above_value",
+            "effect_string": "sisaspia_spore_range_add,12.5",
+            "value": 15
+        }
+    ],
+    "requirements": [],
+    "description": {"desc": "Sisaspia's maximum spore reserve is increased by the average DEX score of the formation, rounded down. Additionally, if the average DEX score is 16 or higher, the range of Halo of Spores is additively increased by 12.5% for each full point above 15."},
+    "id": 1748,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 
 [Back to Top](#top)
