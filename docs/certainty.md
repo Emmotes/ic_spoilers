@@ -550,6 +550,55 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Employee Evaluations Icon](images/certainty/icon_employeeevaluations.png) **Employee Evaluations** (Level: 250)
+> Certainty assesses the average score of her preferred ability (CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by 200% for each full point over 13, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "static_dps_mult": null,
+    "required_level": 250,
+    "effect": "effect_def,1682",
+    "name": "Employee Evaluations",
+    "id": 12975,
+    "hero_id": 138,
+    "upgrade_type": "unlock_ability",
+    "default_enabled": 1,
+    "required_upgrade_id": 12511
+}
+{
+    "effect_keys": [{
+        "amount_updated_listeners": [
+            "slot_changed",
+            "feat_changed"
+        ],
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "show_bonus": true,
+        "per_hero_targets": ["next_col"],
+        "amount_func": "mult",
+        "stack_func": "per_hero_attribute",
+        "min_stat_amount": 13,
+        "per_hero_expr": "cha",
+        "effect_string": "buff_upgrade,200,12505",
+        "post_process_expr": "max(0,input/max(1,num_targets)-min_stat_amount)"
+    }],
+    "requirements": "",
+    "description": {"desc": "Certainty assesses the average score of her preferred ability (CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by $(not_buffed amount)% for each full point over $(min_stat_amount), stacking multiplicatively."},
+    "id": 1682,
+    "flavour_text": "",
+    "graphic_id": 20570,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Reboot Expert Icon](images/certainty/icon_rebootexpert.png) **Reboot Expert** (Level: 500)
 > Certainty increases the effect of Secretarian's Advice by 100% each time she has been in an adventure for at least 250 areas when it is reset. This stacks additively and persists through resets.
 <details><summary><em>Raw Data</em></summary>
@@ -599,55 +648,6 @@ Upgrades:
         "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Employee Evaluations Icon](images/certainty/icon_employeeevaluations.png) **Employee Evaluations** (Level: 9999)
-> Certainty assesses the average score of her preferred ability (CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by 200% for each full point over 13, stacking multiplicatively.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "static_dps_mult": null,
-    "required_level": 9999,
-    "effect": "effect_def,1682",
-    "name": "Employee Evaluations",
-    "id": 12975,
-    "hero_id": 138,
-    "upgrade_type": "unlock_ability",
-    "default_enabled": 1,
-    "required_upgrade_id": 9999
-}
-{
-    "effect_keys": [{
-        "amount_updated_listeners": [
-            "slot_changed",
-            "feat_changed"
-        ],
-        "stacks_multiply": true,
-        "off_when_benched": true,
-        "show_bonus": true,
-        "per_hero_targets": ["next_col"],
-        "amount_func": "mult",
-        "stack_func": "per_hero_attribute",
-        "min_stat_amount": 13,
-        "per_hero_expr": "cha",
-        "effect_string": "buff_upgrade,200,12505",
-        "post_process_expr": "max(0,input/max(1,num_targets)-min_stat_amount)"
-    }],
-    "requirements": "",
-    "description": {"desc": "Certainty assesses the average score of her preferred ability (CHA) of the Champions in the column in front of her and increases the damage effect of Secretarian's Advice by $(not_buffed amount)% for each full point over $(min_stat_amount), stacking multiplicatively."},
-    "id": 1682,
-    "flavour_text": "",
-    "graphic_id": 20570,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
     }
 }
 </pre>
