@@ -527,7 +527,64 @@ Unknown.
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">**Name**</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Lantern Icon](images/jangsao/21161.png)</span><span class="itemTableIcon2">![Lantern Icon](images/jangsao/21161.png)</span><span class="itemTableIcon3">![Lantern Icon](images/jangsao/21162.png)</span><span class="itemTableIcon4">![Lantern Icon](images/jangsao/21163.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Lantern</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Mask Icon](images/jangsao/21164.png)</span><span class="itemTableIcon2">![Mask Icon](images/jangsao/21164.png)</span><span class="itemTableIcon3">![Mask Icon](images/jangsao/21165.png)</span><span class="itemTableIcon4">![Mask Icon](images/jangsao/21166.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Mask</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Paintbrushes Icon](images/jangsao/21167.png)</span><span class="itemTableIcon2">![Paintbrushes Icon](images/jangsao/21167.png)</span><span class="itemTableIcon3">![Paintbrushes Icon](images/jangsao/21168.png)</span><span class="itemTableIcon4">![Paintbrushes Icon](images/jangsao/21169.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Paintbrushes</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Painting Icon](images/jangsao/21170.png)</span><span class="itemTableIcon2">![Painting Icon](images/jangsao/21170.png)</span><span class="itemTableIcon3">![Painting Icon](images/jangsao/21171.png)</span><span class="itemTableIcon4">![Painting Icon](images/jangsao/21172.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Painting</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Sextant Icon](images/jangsao/21173.png)</span><span class="itemTableIcon2">![Sextant Icon](images/jangsao/21173.png)</span><span class="itemTableIcon3">![Sextant Icon](images/jangsao/21174.png)</span><span class="itemTableIcon4">![Sextant Icon](images/jangsao/21175.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Sextant</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Stars Icon](images/jangsao/21176.png)</span><span class="itemTableIcon2">![Stars Icon](images/jangsao/21176.png)</span><span class="itemTableIcon3">![Stars Icon](images/jangsao/21177.png)</span><span class="itemTableIcon4">![Stars Icon](images/jangsao/21178.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Stars</span>
+        </span>
+    </span>
+</span>
 
 # Feats
 
