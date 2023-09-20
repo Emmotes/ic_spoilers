@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Spelljammer Deekin Portrait](images/skin_portraits/spelljammerdeekin.png)Spelljammer Deekin
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spelljammer Deekin Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">20 Sep 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Spelljammer Pilot Farideh Portrait](images/skin_portraits/spelljammerpilotfarideh.png)Spelljammer Pilot Farideh
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spelljammer Pilot Farideh Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$24.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">20 Sep 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Venture Casual Certainty Portrait](images/skin_portraits/venturecasualcertainty.png)Venture Casual Certainty
         </span>
         <span class="skinTableSource">
@@ -57,20 +29,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Venture Casual K'thriss Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">27 Sep 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Venture Casual Môrgæn
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Venture Casual Môrgæn Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">$9.99</span>
@@ -109,7 +67,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Mind's Eye Nahara
+            ![Mind's Eye Nahara Portrait](images/skin_portraits/mindseyenahara.png)Mind's Eye Nahara
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Mind's Eye Nahara Skin & Feat Pack</span>
@@ -137,7 +95,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Transcendent Order Briv
+            ![Transcendent Order Briv Portrait](images/skin_portraits/transcendentorderbriv.png)Transcendent Order Briv
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Transcendent Order Briv Skin & Feat Pack</span>
@@ -165,7 +123,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Venture Casual Donaar
+            ![Venture Casual Donaar Portrait](images/skin_portraits/venturecasualdonaar.png)Venture Casual Donaar
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Venture Casual Donaar Skin & Feat Pack</span>
@@ -179,7 +137,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Harmonium Thellora
+            ![Harmonium Thellora Portrait](images/skin_portraits/harmoniumthellora.png)Harmonium Thellora
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harmonium Thellora Theme Pack</span>
@@ -193,7 +151,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Society of Sensation Kent
+            ![Society of Sensation Kent Portrait](images/skin_portraits/societyofsensationkent.png)Society of Sensation Kent
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Society of Sensation Kent Skin & Feat Pack</span>

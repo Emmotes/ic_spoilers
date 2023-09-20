@@ -5,53 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Aimee the Duck Familiar Pack - $14.99  
-Date of release: 20 Sep 2023
-
-Contents:
-
-* Familiar: `Aimee the Duck`
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Spelljammer Deekin Skin & Feat Pack - $9.99  
-Date of release: 20 Sep 2023
-
-Contents:
-
-* Champion: `Deekin`
-* Skin: `Spelljammer Deekin`
-* Feat: `All Together Now` (Deekin)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Deekin Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Spelljammer Pilot Farideh Theme Pack - $24.99  
-Date of release: 20 Sep 2023
-
-Contents:
-
-* Champion: `Farideh`
-* Skin: `Spelljammer Pilot Farideh`
-* Feat: `Fiendish Flames` (Farideh)
-* Familiar: `The Second Wind`
-* Chests: `Gold Farideh Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Venture Casual Certainty Theme Pack - $24.99  
 Date of release: 27 Sep 2023
 
@@ -78,21 +31,6 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold K'thriss Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Venture Casual Môrgæn Skin & Feat Pack - $9.99  
-Date of release: 27 Sep 2023
-
-Contents:
-
-* Champion: `Môrgæn`
-* Skin: `Venture Casual Môrgæn`
-* Feat: `Time is Money` (Môrgæn)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Môrgæn Chest` x7 (Shinies x1)
 </div></div>
 
 

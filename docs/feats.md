@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Deekin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![All Together Now Icon](images/featicons/upgradefa.png)All Together Now
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Troubadour Troupe</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">20 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Farideh</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Fiendish Flames Icon](images/featicons/immolation.png)Fiendish Flames
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">1s BUD per sec for 5s</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">20 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Bruenor</span>
         </span>
         <span class="featTableIcon4">
