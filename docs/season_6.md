@@ -1307,46 +1307,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take 400% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{
-        "max_monster_spores": 4,
-        "max_boss_spores": 10,
-        "effect_string": "sisaspia_spore,400",
-        "damage_is_multiplicative": true,
-        "dot_time": 5,
-        "dot_tick": 1
-    }],
-    "requirements": [],
-    "description": {"conditions": [
-        {
-            "condition": "short_form",
-            "desc": "Sisaspia is surrounded by a torus of necrotic spores that cause enemies to take additional damage over time when attached to them."
-        },
-        {
-            "condition": "upgrade_purchased 3444",
-            "desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $amount% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 3 seconds and can have up to 30 spores in her reserve.^^$halo_of_spores_description"
-        },
-        {"desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $amount% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.^^$halo_of_spores_description"}
-    ]},
-    "id": 1742,
-    "flavour_text": "",
-    "graphic_id": 7200,
-    "properties": {
-        "use_outgoing_description": true,
-        "is_formation_ability": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
 > Good sporet! This just has properties for the spores.
 <details><summary><em>Raw Data</em></summary>
 <p>
