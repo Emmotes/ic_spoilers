@@ -210,7 +210,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Empty Placeholder](images/general/unknown.png)Elemental Dungeon Master
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Season 6 (Guess)</span>
+            <span style="margin-left: 8px;">???</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
