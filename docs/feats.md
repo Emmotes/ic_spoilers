@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Bruenor</span>
-        </span>
-        <span class="featTableIcon4">
-            ![King of the Hall Icon](images/featicons/mithralhallstackbonus.png)King of the Hall
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">+2 Mithral Hall Stacks</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">21 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Certainty</span>
         </span>
         <span class="featTableIcon4">
