@@ -2,10 +2,10 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![PC Portrait for Certainty Dran](images/certainty/portrait.png)Portait
+        ![PC Portrait for Certainty](images/certainty/portrait.png)Portait
     </span>
     <span class="championPortraitsImage">
-        ![Model GIF of Certainty Dran](images/certainty/model.gif)Model
+        ![Model GIF of Certainty](images/certainty/model.gif)Model
     </span>
 </span>
 
@@ -1104,7 +1104,7 @@ Black Viper: 4 / 6
           Brig: 3 / 6
        Bruenor: 3 / 6
        Celeste: 4 / 6
-Certainty Dran: 6 / 6
+     Certainty: 6 / 6
        Corazón: 4 / 6
         Deekin: 3 / 6
        Desmond: 3 / 6
