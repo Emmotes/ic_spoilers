@@ -282,7 +282,7 @@ Contents:
 * Champion: `Shadowheart`
 * Skin: `Mind Flayer Shadowheart`
 * Feat: ???
-* Familiar: `TBD Familiar (Shadowheart Theme Pack) - DO NOT TRANSLATE`
+* Familiar: `Scratch the Dog`
 * Chests: `Gold  Y7E4 Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
