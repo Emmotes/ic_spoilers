@@ -441,7 +441,7 @@ Upgrades:
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Dad and Uncle Jim Icon](images/certainty/icon_dadandunclejim.png) **Dad and Uncle Jim** (Level: 150)
-> Certainty helps her father Omin by recruiting all Champions adjacent to her to be Champions of Tymora, and she helps her 'uncle' Jim Darkmagic by increasing his damage by 200% due to royalty payments for using his spell.
+> Certainty helps her father Omin by increasing the damage of Champions of Tymora adjacent to her, and she helps her 'uncle' Jim Darkmagic by increasing his damage by 200% due to royalty payments for using his spell.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -483,7 +483,7 @@ Upgrades:
         }
     ],
     "requirements": "",
-    "description": {"desc": "Certainty helps her father Omin by recruiting all Champions adjacent to her to be Champions of Tymora, and she helps her 'uncle' Jim Darkmagic by increasing his damage by $(amount___2)% due to royalty payments for using his spell."},
+    "description": {"desc": "Certainty helps her father Omin by increasing the damage of Champions of Tymora adjacent to her, and she helps her 'uncle' Jim Darkmagic by increasing his damage by $(amount___2)% due to royalty payments for using his spell."},
     "id": 1678,
     "flavour_text": "",
     "graphic_id": 20569,
