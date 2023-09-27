@@ -86,12 +86,9 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/jangsao/formation.png)
 </span>
-{% endcomment %}
 
 # Abilities
 
