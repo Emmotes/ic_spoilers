@@ -946,6 +946,30 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increases the base Dexterity score buff provided by Samurai Training by 1.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "buff_upgrade_add,1,13041"},
+        {"effect_string": "buff_upgrade_add,1,13042"},
+        {"effect_string": "buff_upgrade_add,1,13043"}
+    ],
+    "requirements": "",
+    "description": {"desc": "Increases the base Dexterity score buff provided by Samurai Training by 1"},
+    "id": 1753,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
 > Korth increases the base Dexterity scores of the Champions in the two slots directly behind him to 16, if they weren't already 16 or higher.
 <details><summary><em>Raw Data</em></summary>
@@ -1014,30 +1038,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {"is_formation_ability": true}
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
-> Increases the base Dexterity score buff provided by Samurai Training by 1.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [
-        {"effect_string": "buff_upgrade_add,1,13041"},
-        {"effect_string": "buff_upgrade_add,1,13042"},
-        {"effect_string": "buff_upgrade_add,1,13043"}
-    ],
-    "requirements": "",
-    "description": {"desc": "Increases the base Dexterity score buff provided by Samurai Training by 1"},
-    "id": 1753,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": []
 }
 </pre>
 </p>
