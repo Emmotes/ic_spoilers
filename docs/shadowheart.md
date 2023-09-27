@@ -4,6 +4,9 @@
     <span class="championPortraitsImage">
         ![PC Portrait for Shadowheart](images/shadowheart/portrait.png)Portait
     </span>
+    <span class="championPortraitsImage">
+        ![Model GIF of Shadowheart](images/shadowheart/model.gif)Model
+    </span>
 </span>
 
 # Shadowheart
