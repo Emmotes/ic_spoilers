@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Venture Casual Certainty Portrait](images/skin_portraits/venturecasualcertainty.png)Venture Casual Certainty
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Venture Casual Certainty Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$24.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">27 Sep 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Venture Casual K'thriss Portrait](images/skin_portraits/venturecasualkthriss.png)Venture Casual K'thriss
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Venture Casual K'thriss Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">27 Sep 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Fated Hew Maan Portrait](images/skin_portraits/fatedhewmaan.png)Fated Hew Maan
         </span>
         <span class="skinTableSource">

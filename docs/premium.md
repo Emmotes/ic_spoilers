@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Venture Casual Certainty Theme Pack - $24.99  
-Date of release: 27 Sep 2023
-
-Contents:
-
-* Champion: `Certainty Dran`
-* Skin: `Venture Casual Certainty`
-* Feat: `New Me` (Certainty)
-* Familiar: `Acquisitions Inc. Airship`
-* Chests: `Gold  Certainty Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Venture Casual K'thriss Skin & Feat Pack - $9.99  
-Date of release: 27 Sep 2023
-
-Contents:
-
-* Champion: `K'thriss Drow'b`
-* Skin: `Venture Casual K'thriss`
-* Feat: `Heavy Lifter` (K'thriss)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold K'thriss Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Factions of Sigil Bundle Pack - $37.49  
 Date of release: 06 Oct 2023
 

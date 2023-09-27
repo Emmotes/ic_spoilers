@@ -30,57 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Certainty</span>
-        </span>
-        <span class="featTableIcon4">
-            ![New Me Icon](images/featicons/upgradefa.png)New Me
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">Specialisations +2 (Instead of +1)</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">27 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">K'thriss</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Heavy Lifter Icon](images/featicons/attributeboostx2.png)Heavy Lifter
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">Stat: +2 Strength</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">27 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Môrgæn</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Time is Money Icon](images/featicons/upgradefa.png)Time is Money
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Friends In Wealth</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">27 Sep 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Briv</span>
         </span>
         <span class="featTableIcon4">
