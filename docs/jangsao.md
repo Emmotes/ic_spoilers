@@ -115,17 +115,11 @@ Unknown.
     "animations": [{
         "projectile_details": {
             "trail": {
-                "scale_lerp": [
-                    {
-                        "x": 1,
-                        "y": 1
-                    },
-                    {
-                        "x": 0,
-                        "y": 0
-                    }
-                ],
-                "lifespan": 0.1,
+                "scale_lerp": [{
+                    "x": 1.5,
+                    "y": 1.5
+                }],
+                "lifespan": 0.3,
                 "initial_velocity": {
                     "x": 0,
                     "y": 0
@@ -138,17 +132,18 @@ Unknown.
                 "particle_graphic_ids": [21159],
                 "spawn_rate": 100,
                 "velocity_jitter": {
-                    "x": 30,
-                    "y": 30
+                    "x": 50,
+                    "y": 50
                 }
             },
-            "percent_height_offset": 4,
-            "use_auto_rotation": true,
+            "percent_height_offset": 5,
             "projectile_graphic_id": 21158,
-            "projectile_speed": 1000,
-            "hash": "89c063825fe75ec91320f4189f6864bb"
+            "projectile_speed": 1300,
+            "hash": "f99a3085668ee6718a56877a085d85f6",
+            "rotation_speed": 180
         },
         "hit_sound": 133,
+        "shoot_offset_x": -25,
         "shoot_sound": 149,
         "type": "ranged_attack",
         "projectile": "pd_generic_projectile",
@@ -165,14 +160,14 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Starry Form**
-> Jang Sao transforms into her starry form and commands the stars to fall upon her enemies.  
+> Jang Sao transforms into her starry form for 15 seconds and fires shooting stars at her enemies, making them take 100% additional damage for the duration.  
 > Cooldown: 180s (Cap 45s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "Jang Sao transforms into her starry form and stars fall upon her enemies.",
-    "long_description": "Jang Sao transforms into her starry form and commands the stars to fall upon her enemies.",
+    "description": "Jang Sao transforms and shooting stars make her foes take more damage.",
+    "long_description": "Jang Sao transforms into her starry form for 15 seconds and fires shooting stars at her enemies, making them take 100% additional damage for the duration.",
     "damage_modifier": 1,
     "damage_types": ["magic"],
     "graphic_id": 21208,
@@ -184,11 +179,8 @@ Unknown.
     ],
     "num_targets": 1,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
-        "type": "melee_attack"
+        "ultimate": "jang_sao",
+        "type": "ultimate_attack"
     }],
     "name": "Starry Form",
     "cooldown": 180,
@@ -208,6 +200,7 @@ Unknown.
 {
     "effect_keys": [{
         "off_when_benched": true,
+        "max_adj": 2,
         "effect_string": "hero_dps_multiplier_mult,400",
         "targets": [{
             "if_expr": "num_adj_slots<=max_adj",
@@ -216,7 +209,7 @@ Unknown.
         }]
     }],
     "requirements": "",
-    "description": {"desc": "Jang Sao increases the damage of all Champions in formation slots with 2 or fewer adjacent slots by $(amount)%."},
+    "description": {"desc": "Jang Sao increases the damage of all Champions in formation slots with $max_adj or fewer adjacent slots by $(amount)%."},
     "id": 1733,
     "flavour_text": "",
     "graphic_id": 21198,
@@ -270,7 +263,7 @@ Unknown.
         }
     ],
     "requirements": "",
-    "description": {"desc": "Each time an enemy is defeated, there is a $(amount___2)% chance it drops a star. Jang Sao collects these stars and increases the effect of The Mysterious Wanderer by $(amount)% for each star collected over all adventures, stacking additively. Capped at $max_stacks stacks."},
+    "description": {"desc": "Each time an enemy is defeated, there is a $(amount___2)% chance it drops a star. Jang Sao collects these stars and increases the effect of The Mysterious Wanderer by $(not_buffed amount)% for each star collected over all adventures, stacking additively. Capped at $max_stacks stacks."},
     "id": 1734,
     "flavour_text": "",
     "graphic_id": 21196,
@@ -302,7 +295,7 @@ Unknown.
         {"effect_string": "jangsao_stellar_nursery_target_count,2"}
     ],
     "requirements": "",
-    "description": {"desc": "Every $(tick_rate) seconds, Jang Sao heals the $(amount___2) most damaged champions in the formation for $(amount) health."},
+    "description": {"desc": "Every $(tick_rate) seconds, Jang Sao heals the $(jangsao_stellar_nursery_target_count) most damaged champions in the formation for $(amount) health."},
     "id": 1735,
     "flavour_text": "",
     "graphic_id": 21197,
@@ -321,14 +314,23 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Painter of Beauty**
-> Unknown effect.
+> For every Pigment assigned to equipment on Champions in the formation, the effect of The Mysterious Wanderer is increased by 100%, stacking multiplicatively. Pigments can be purchased in the Thayan Enclave Shop and sometimes claimed as Season Rewards.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
+    "effect_keys": [{
+        "stack_title": "Total Pigments",
+        "amount_updated_listeners": ["loot_changed"],
+        "stacks_multiply": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_hero_attribute",
+        "per_hero_expr": "num_applied_pigments",
+        "effect_string": "buff_upgrade,100,13257"
+    }],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "For every Pigment assigned to equipment on Champions in the formation, the effect of The Mysterious Wanderer is increased by $(not_buffed amount)%, stacking multiplicatively. Pigments can be purchased in the Thayan Enclave Shop and sometimes claimed as Season Rewards."},
     "id": 1736,
     "flavour_text": "",
     "graphic_id": 21195,
@@ -372,7 +374,7 @@ Unknown.
         }
     ],
     "requirements": "",
-    "description": {"desc": "Jang Sao increases the effect of The Mysterious Wanderer by $(amount)% for each Champion in the formation with a Wisdom of $(min_stat_amount___2)+, stacking multiplicatively."},
+    "description": {"desc": "Jang Sao increases the effect of The Mysterious Wanderer by $(not_buffed amount)% for each Champion in the formation with a Wisdom of $(min_stat_amount___2)+, stacking multiplicatively."},
     "id": 1737,
     "flavour_text": "",
     "graphic_id": 0,
@@ -404,7 +406,7 @@ Unknown.
     "effect_keys": [
         {"effect_string": "pre_stack_amount,100"},
         {
-            "amount_expr": "upgrade_amount(13261,0)",
+            "amount_expr": "upgrade_amount(13262,0)",
             "amount_updated_listeners": [
                 "slot_changed",
                 "feat_changed"
@@ -420,7 +422,7 @@ Unknown.
         }
     ],
     "requirements": "",
-    "description": {"desc": "Jang Sao increases the effect of The Mysterious Wanderer by $(amount)% for each Champion in the formation with a Dexterity of $(min_stat_amount___2)+, stacking multiplicatively."},
+    "description": {"desc": "Jang Sao increases the effect of The Mysterious Wanderer by $(not_buffed amount)% for each Champion in the formation with a Dexterity of $(min_stat_amount___2)+, stacking multiplicatively."},
     "id": 1738,
     "flavour_text": "",
     "graphic_id": 0,
@@ -472,14 +474,14 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Night Runner** (Guess)
-> Unknown effect.
+> Jang Sao fires 3 more stars from her lantern when she uses her Starry Form ultimate and the ultimate's damage debuff are increased by the number of stars shot out stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
+    "effect_keys": [{"effect_string": "jangsao_star_caller,3"}],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "Jang Sao fires $(amount) more stars from her lantern when she uses her Starry Form ultimate and the ultimate's damage debuff are increased by the number of stars shot out stacking additively."},
     "id": 1740,
     "flavour_text": "",
     "graphic_id": 0,
