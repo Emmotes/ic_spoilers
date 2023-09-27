@@ -120,7 +120,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Seething Hatred** (Guess)
-> Zorbu's damage is increased by an amount equal to 10% of his base Know Your Enemy buffs.
+> Zorbu's damage is increased by an amount equal to 10% of the sum of his base Know Your Enemy buffs.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -130,7 +130,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "effect_string": "hero_dps_mult_percent_lifelong_enemies,10"
     }],
     "requirements": "",
-    "description": {"desc": "Zorbu's damage is increased by an amount equal to $(amount)% of his base Know Your Enemy buffs."},
+    "description": {"desc": "Zorbu's damage is increased by an amount equal to $(amount)% of the sum of his base Know Your Enemy buffs."},
     "id": 1695,
     "flavour_text": "",
     "graphic_id": 5892,
@@ -153,6 +153,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [{
         "off_when_benched": true,
+        "use_computed_amount_for_description": true,
         "effect_string": "hero_dps_multiplier_mult,500",
         "filter_targets": [{
             "score": 14,
@@ -160,18 +161,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "check": "greater_than",
             "type": "stat_score"
         }],
-        "targets": [{
-            "distance": 1,
-            "self": false,
-            "type": "distance"
-        }]
+        "targets": ["adj"]
     }],
     "requirements": "",
     "description": {"desc": "Increases the damage of champions adjacent to Zorbu with a DEX score of 15 or higher by $(amount)%."},
     "id": 1696,
     "flavour_text": "",
     "graphic_id": 2422,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -186,10 +186,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <pre>
 {
     "effect_keys": [{
-        "amount_expr": "upgrade_amount(12991,0)",
+        "data": {"targets": ["self_and_adj"]},
         "off_when_benched": true,
-        "show_bonus": true,
-        "effect_string": "hero_dps_multiplier_mult,0"
+        "effect_string": "change_upgrade_data,12991"
     }],
     "requirements": "",
     "description": {"desc": "Zorbu's damage is increased by the bonus provided by Hunter's Pack."},
@@ -197,8 +196,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
-        "use_outgoing_description": true,
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "formation_circle_icon": false
     }
 }
@@ -270,6 +269,35 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increases the effect of Hunter's Pack by 400% and the DEX score of adjacent Champions by 1.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "buff_upgrade,400,12991"},
+        {
+            "effect_string": "increase_ability_score,dex,1",
+            "targets": ["adj"]
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Increases the effect of Hunter's Pack by $(amount)% and the DEX score of adjacent Champions by $(amount___2)."},
+    "id": 1750,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "effect_name": "Wolf Pack"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Nrakk
 
 ![Nrakk Portrait](images/season_6/nrakk.png)
@@ -297,6 +325,38 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "name": "Ki Blast",
     "cooldown": 260,
     "id": 690
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Ki Blast**
+> Nrakk blasts a random enemy and gains Ki Points. Reactivate this ultimate when prompted to quickly blast another enemy.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Nrakk blasts a random enemy and gains Ki Points",
+    "long_description": "Nrakk blasts a random enemy and gains Ki Points. Reactivate this ultimate when prompted to quickly blast another enemy.",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 2690,
+    "target": "random",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "ultimate": "nrakk_v2",
+        "type": "ultimate_attack"
+    }],
+    "name": "Ki Blast",
+    "cooldown": 260,
+    "id": 704
 }
 </pre>
 </p>
@@ -960,6 +1020,30 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Increases the base Dexterity score buff provided by Samurai Training by 1.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "buff_upgrade_add,1,13041"},
+        {"effect_string": "buff_upgrade_add,1,13042"},
+        {"effect_string": "buff_upgrade_add,1,13043"}
+    ],
+    "requirements": "",
+    "description": {"desc": "Increases the base Dexterity score buff provided by Samurai Training by 1"},
+    "id": 1753,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Warden
 
 ![Warden Portrait](images/season_6/warden.png)
@@ -1267,19 +1351,23 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take 400% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.
+> Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take 400% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 4 spore, while bosses can be affected by 10 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "max_monster_spores": 4,
-        "max_boss_spores": 10,
-        "effect_string": "sisaspia_spore,400",
-        "damage_is_multiplicative": true,
-        "dot_time": 5,
-        "dot_tick": 1
-    }],
+    "effect_keys": [
+        {"effect_string": "post_stack_buff,100"},
+        {
+            "max_monster_spores": 4,
+            "remove_spores_on_ult": false,
+            "max_boss_spores": 10,
+            "effect_string": "sisaspia_spore,400",
+            "damage_is_multiplicative": true,
+            "dot_time": 5,
+            "dot_tick": 1
+        }
+    ],
     "requirements": [],
     "description": {"conditions": [
         {
@@ -1287,17 +1375,20 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "desc": "Sisaspia is surrounded by a torus of necrotic spores that cause enemies to take additional damage over time when attached to them."
         },
         {
-            "condition": "upgrade_purchased 3444",
-            "desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $amount% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 3 seconds and can have up to 30 spores in her reserve.^^$halo_of_spores_description"
+            "condition": "upgrade_purchased 13254",
+            "desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $(amount___2)% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 4 spore, while bosses can be affected by 10 spores. Sisaspia regenerates a spore every 3 seconds and can have up to 30 spores in her reserve.^^$halo_of_spores_description2"
         },
-        {"desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $amount% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 1 spore, while bosses can be affected by 4 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.^^$halo_of_spores_description"}
+        {"desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $(amount___2)% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 4 spore, while bosses can be affected by 10 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.^^$halo_of_spores_description2"}
     ]},
     "id": 1742,
     "flavour_text": "",
     "graphic_id": 7200,
     "properties": {
-        "use_outgoing_description": true,
-        "is_formation_ability": true
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -1330,21 +1421,27 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Sisaspia uses her reserve of necrotic spores to empower a subtle infection she maintains upon her "companions", goading them forward and hopefully assisting her in her own selfish goals. This infection increases the damage of all Champions within 2 slots of herself by 10% for each spore she has in reserve (additively).
+> Sisaspia uses her reserve of necrotic spores to empower a subtle infection she maintains upon her "companions", goading them forward and hopefully assisting her in her own selfish goals. This infection increases the damage of all Champions within 2 slots of herself by 25% for each spore she has used in the current area, stacking multiplicatively, up to a maximum equal to her maximum spore reserve.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [{
+        "amount_updated_listeners": [
+            "slot_changed",
+            "sisaspia_spores_used_changed"
+        ],
         "show_bonus": true,
-        "effect_string": "hero_dps_mult_per_sisaspia_spore_used,10",
+        "amount_func": "mult",
+        "stack_func": "per_sisaspia_spore_used",
+        "effect_string": "hero_dps_multiplier_mult,25",
         "targets": [{
             "distance": 2,
             "type": "distance"
         }]
     }],
     "requirements": [],
-    "description": {"desc": "Sisaspia uses her reserve of necrotic spores to empower a subtle infection she maintains upon her \"companions\", goading them forward and hopefully assisting her in her own selfish goals. This infection increases the damage of all Champions within 2 slots of herself by $amount% for each spore she has in reserve (additively)."},
+    "description": {"desc": "Sisaspia uses her reserve of necrotic spores to empower a subtle infection she maintains upon her \"companions\", goading them forward and hopefully assisting her in her own selfish goals. This infection increases the damage of all Champions within 2 slots of herself by $amount% for each spore she has used in the current area, stacking multiplicatively, up to a maximum equal to her maximum spore reserve."},
     "id": 1744,
     "flavour_text": "",
     "graphic_id": 7202,
@@ -1360,7 +1457,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Sisaspia's subtle infection heals damaged Champions within 2 slots of herself for 1 per second for each spore she has in reserve (additively).
+> Sisaspia's subtle infection heals damaged Champions within 2 slots of herself for 1 per second for each spore she has used in the current area, stacking multiplicatively, up to a maximum equal to her maximum spore reserve.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1380,7 +1477,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }]
     }],
     "requirements": [],
-    "description": {"desc": "Sisaspia's subtle infection heals damaged Champions within 2 slots of herself for $(amount) per second for each spore she has in reserve (additively)."},
+    "description": {"desc": "Sisaspia's subtle infection heals damaged Champions within 2 slots of herself for $(amount) per second for each spore she has used in the current area, stacking multiplicatively, up to a maximum equal to her maximum spore reserve."},
     "id": 1745,
     "flavour_text": "",
     "graphic_id": 7201,
@@ -1426,13 +1523,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [
         {
+            "amount_updated_listeners": ["sisaspia_spores_used_changed"],
             "off_when_benched": true,
             "amount_func": "if",
             "stack_func": "per_sisaspia_spore_used",
             "effect_string": "buff_upgrade,400,13251",
-            "if_amount": 30
+            "if_amount": 29
         },
         {
+            "amount_updated_listeners": ["sisaspia_spores_used_changed"],
             "off_when_benched": true,
             "amount_func": "if",
             "stack_func": "per_sisaspia_spore_used",
@@ -1441,7 +1540,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": [],
-    "description": {"desc": "The effects of Symbiotic Infection and Symbiotic Healing are increased by $amount% after Sisaspia has used at least 30 spores in the current area."},
+    "description": {"desc": "The effects of Symbiotic Infection and Symbiotic Healing are increased by $amount% after Sisaspia has used at least 30 spores in the current area.^^$sisaspia_spores_used"},
     "id": 1747,
     "flavour_text": "",
     "graphic_id": 0,
@@ -1466,9 +1565,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stat": "dex",
             "stacks_multiply": false,
             "off_when_benched": true,
+            "show_bonus": true,
             "amount_func": "add",
             "stack_func": "per_party_stat_average",
-            "effect_string": "increase_sisaspia_reserve_spore_max,1"
+            "effect_string": "increase_sisaspia_reserve_spore_max,1",
+            "percent_values": false
         },
         {
             "stack_title": "Average Dex Over 15",
@@ -1476,6 +1577,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stat": "dex",
             "stacks_multiply": false,
             "off_when_benched": true,
+            "show_bonus": true,
             "amount_func": "add",
             "stack_func": "per_average_stat_above_value",
             "effect_string": "sisaspia_spore_range_add,12.5",
@@ -1487,7 +1589,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1748,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {"owner_use_outgoing_description": true}
 }
 </pre>
 </p>
