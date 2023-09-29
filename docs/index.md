@@ -111,12 +111,12 @@ Not events events - but events. You know?
 
 Miscellaneous spoilers.
 
+* [Patron Perks Tier 10-11](patronperks_10-11.md) - Unknown
+* [Turn of Fortune's Wheel](campaign_fortuneswheel.md) - 1 November 2023 (Guess)
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
 * [Content Drops](contentdrops.md)
-* [Patron Perks Tier 10-11](patronperks_10-11.md) - Unknown
-* [Turn of Fortune's Wheel](campaign_fortuneswheel.md) - 1 November 2023 (Guess)
 * [Weekends](weekends.md)
 * [Archive of Old Spoilers]({{ site.github.owner_url }}/ic_spoilers/tree/main/docs/archive)
 
