@@ -22,6 +22,8 @@ Season 6 is guesstimated to start on 08 November 2023.
 
 We believe the five seasonal champions this time around are likely to be Zorbu, Nrakk, Korth, Warden and Sisaspia.
 
+This means the theme this season is unaffiliated CNE originals.
+
 # Changes
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - or specialisations might not be marked as such - etc..
