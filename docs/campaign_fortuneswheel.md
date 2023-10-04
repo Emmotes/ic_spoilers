@@ -26,6 +26,8 @@ This is all - presumably - to offer some kind of message or choice. Then when it
 
 Of course - bear in mind - that's just my interpretation of the data - I could be wrong. I've added it below for your own perusal.
 
+*Note: The `game_change_data` below was recently removed from the formation data. It could be that it's been scrapped - or they've implemented it a different way - or they're just trying to hide it from us until release. I have no idea - but I'm keeping the data here just-in-case.*
+
 <details><summary><em>Raw Data</em></summary><p><pre>
 "campaign_name": "Turn of Fortune's Wheel",
 "game_change_data": [
