@@ -99,13 +99,13 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Sacred Flame** (Magic)
-> Unknown effect.  
+> Shadowheart casts Sacred Flame on a random enemy, dealing 1 hit.  
 > Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
+    "description": "Shadowheart casts Sacred Flame on a random enemy, dealing 1 hit.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["magic"],
@@ -115,11 +115,10 @@ Unknown.
     "tags": ["ranged"],
     "num_targets": 1,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
-        "type": "melee_attack"
+        "shoot_sound": 164,
+        "type": "ranged_attack",
+        "projectile": "sacred_flame",
+        "shoot_frame": 13
     }],
     "name": "Sacred Flame",
     "cooldown": 6,
@@ -131,13 +130,13 @@ Unknown.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Guidance** (Magic)
-> Unknown effect.  
+> Shadowheart casts Guidance on your BUD-setting Champion, increasing their next attack's damage.  
 > Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
+    "description": "Shadowheart casts Guidance on your BUD-setting Champion, increasing their next attack's damage.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["magic"],
@@ -147,11 +146,11 @@ Unknown.
     "tags": ["ranged"],
     "num_targets": 0,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
-        "type": "melee_attack"
+        "no_cooldown_display": false,
+        "no_jump": true,
+        "animation_sequence_name": "attack_b",
+        "type": "melee_attack",
+        "no_damage_display": true
     }],
     "name": "Guidance",
     "cooldown": 6,
@@ -183,11 +182,8 @@ Unknown.
     ],
     "num_targets": 0,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
-        "type": "melee_attack"
+        "ultimate": "shadowheart",
+        "type": "ultimate_attack"
     }],
     "name": "Absolute Sanctuary",
     "cooldown": 300,
@@ -314,35 +310,42 @@ Unknown.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "off_when_benched": true,
-        "duplicity_effects": [
-            {
-                "amount_expr": "upgrade_amount(13275,0)",
-                "off_when_benched": true,
-                "effect_string": "hero_dps_multiplier_mult,0",
-                "targets": [{
-                    "distance": 1,
-                    "type": "distance"
-                }]
-            },
-            {
-                "amount_expr": "upgrade_amount(13277,0)",
-                "off_when_benched": true,
-                "effect_string": "heal,0",
-                "targets": ["next_col"]
-            }
-        ],
-        "effect_string": "shadowheart_invoke_duplicity"
-    }],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "shadowheart_invoke_duplicity",
+            "targets": ["self_slot"],
+            "skip_effect_key_desc": true
+        },
+        {
+            "amount_expr": "upgrade_amount(13275,0)",
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "override_key_desc": "Twilight Trickery - Increases the damage of $target by $amount%",
+            "targets": [{
+                "distance": 1,
+                "type": "distance"
+            }]
+        },
+        {
+            "amount_expr": "upgrade_amount(13277,0)",
+            "off_when_benched": true,
+            "effect_string": "heal,0",
+            "override_key_desc": "Light In The Dark - Heals $target for $amount every second",
+            "targets": ["next_col"]
+        }
+    ],
     "requirements": "",
     "description": {"desc": "Shadowheart creates an illusory duplicate of herself which hides in the formation and applies Twilight Trickery and Light in the Dark to Champions relative to itself with half the range as normal. The duplicate positions itself in the same formation slot as the Champion in the formation with the highest DEX score. Ties go to the Champion in the highest bench seat."},
     "id": 1757,
     "flavour_text": "",
     "graphic_id": 21364,
     "properties": {
+        "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "owner_use_outgoing_description": false
+        "use_owner_override": true,
+        "owner_use_outgoing_description": false,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -354,20 +357,50 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Find Yourself** (Guess)
-> Unknown effect.
+> Shadowheart base attack is replaced by Guidance. When she casts Guidance, she increases the damage of your BUD-setting Champion's next attack by 200%. Stacks multiplicatively up to 5 times.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
+    "effect_keys": [
+        {
+            "stack_title": "Guidance Stacks",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "effect_string": "do_nothing,200",
+            "more_triggers": [{
+                "action": {"type": "reset_stacks"},
+                "trigger": "on_broadcast_stacks,shadowheart_guidance_trigger"
+            }],
+            "max_stacks": 5,
+            "stacks_on_trigger": "owner_base_attack"
+        },
+        {"effect_string": "change_base_attack,702"},
+        {
+            "amount_expr": "upgrade_amount(13279,0)",
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "targets": ["bud_setter"]
+        },
+        {
+            "effect_string": "broadcast_on_trigger,shadowheart_guidance_trigger,pre_target_attack",
+            "targets": ["bud_setter"],
+            "skip_effect_key_desc": true
+        }
+    ],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "Shadowheart base attack is replaced by Guidance. When she casts Guidance, she increases the damage of your BUD-setting Champion's next attack by $(not_buffed amount)%. Stacks multiplicatively up to $(max_stacks) times."},
     "id": 1758,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -377,20 +410,21 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Guidance** (Guess)
-> Unknown effect.
+> If Shadowheart's Illusory Duplicate is placed in the same slot as she is, increase the effect of Twilight Trickery by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
-    "requirements": "",
-    "description": {"desc": ""},
+    "effect_keys": [{"effect_string": "buff_upgrade,400,13275"}],
+    "requirements": [{"requirement": "shadowheart_is_duplicity_target"}],
+    "description": {"desc": "If Shadowheart's Illusory Duplicate is placed in the same slot as she is, increase the effect of Twilight Trickery by $(amount)%."},
     "id": 1759,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -400,20 +434,31 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Sister of Darkness** (Guess)
-> Unknown effect.
+> The effects of Twilight Trickery and Light In The Dark from Shadowheart's Illusory Duplicate are increased by 100% for each formation slot away from Shadowheart the duplicate is, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
+    "effect_keys": [{
+        "amount_updated_listeners": [
+            "slot_changed",
+            "ability_score_changed"
+        ],
+        "stacks_multiply": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "shadowheart_invoke_duplicity_dist",
+        "effect_string": "buff_upgrade,100,13278"
+    }],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "The effects of Twilight Trickery and Light In The Dark from Shadowheart's Illusory Duplicate are increased by $(not_buffed amount)% for each formation slot away from Shadowheart the duplicate is, stacking multiplicatively."},
     "id": 1760,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
