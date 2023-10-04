@@ -356,7 +356,7 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Find Yourself** (Guess)
+**Specialisation: Guidance** (Guess)
 > Shadowheart base attack is replaced by Guidance. When she casts Guidance, she increases the damage of your BUD-setting Champion's next attack by 200%. Stacks multiplicatively up to 5 times.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -409,7 +409,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Guidance** (Guess)
+**Specialisation: Find Yourself** (Guess)
 > If Shadowheart's Illusory Duplicate is placed in the same slot as she is, increase the effect of Twilight Trickery by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
