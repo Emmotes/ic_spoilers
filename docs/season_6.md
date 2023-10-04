@@ -196,7 +196,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Zorbu's damage is increased by the bonus provided by Hunter's Pack."},
     "id": 1697,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 21478,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -345,7 +345,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "damage_modifier": 1,
     "damage_types": ["magic"],
     "graphic_id": 2690,
-    "target": "random",
+    "target": "none",
     "aoe_radius": 0,
     "tags": [
         "ranged",
@@ -381,7 +381,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Nrakk increases the damage of all Champions in the columns in front of and behind him by $(amount)%."},
     "id": 1700,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 21474,
     "properties": {"is_formation_ability": true}
 }
 </pre>
@@ -447,7 +447,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_func": "mult",
             "stack_func": "per_nrakk_ki_points",
             "active_graphic_y": -60,
-            "active_graphic_id": 1,
+            "active_graphic_id": 21554,
             "effect_string": "increase_monster_damage,0"
         },
         "effect_string": "nrakk_stunning_strike,50"
@@ -589,7 +589,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Increases the potency of most Positional Formations Abilities of adjacent Champions with a Dexterity (DEX) score of 16 or higher by $(amount)%."},
     "id": 1706,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 5868,
     "properties": {"is_formation_ability": true}
 }
 </pre>
@@ -752,7 +752,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Korth increases the damage of all Champions with a DEX score of 16+ by $(amount)% and reduces their normal attack cooldown by $(amount___2) seconds."},
     "id": 1713,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 21475,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
@@ -988,7 +988,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Korth increases the base Dexterity scores of the Champions in the two slots directly behind him to $(amount), if they weren't already $(amount) or higher."},
     "id": 1719,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 5725,
     "properties": {"is_formation_ability": true}
 }
 </pre>
@@ -1013,7 +1013,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Korth increases the base Dexterity scores of the Champions in the two slots directly in front of him to $(amount), if they weren't already $(amount) or higher."},
     "id": 1720,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 5725,
     "properties": {"is_formation_ability": true}
 }
 </pre>
@@ -1038,7 +1038,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Korth increases the base Dexterity scores of the Champions in the two slots directly above and below him to $(amount), if they weren't already $(amount) or higher."},
     "id": 1721,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 5725,
     "properties": {"is_formation_ability": true}
 }
 </pre>
@@ -1069,7 +1069,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": [],
-    "description": {"desc": "Warden curses his target enemy before attacking it, applying 1 stack of Hex. Enemies take $amount% more damage for each Hex stack afflicting them, stacking multiplicatively. Initially, each enemy can only have 1 Hex stack at a time."},
+    "description": {"conditions": [
+        {
+            "condition": "upgrade_purchased 13243",
+            "desc": "Warden curses his target enemy before attacking it, applying 1 stack of Hex. Enemies take $amount% more damage for each Hex stack afflicting them, stacking multiplicatively. Each enemy can have up to 4 Hex stacks at a time."
+        },
+        {"desc": "Warden curses his target enemy before attacking it, applying 1 stack of Hex. Enemies take $amount% more damage for each Hex stack afflicting them, stacking multiplicatively. Initially, each enemy can only have 1 Hex stack at a time."}
+    ]},
     "id": 1723,
     "flavour_text": "",
     "graphic_id": 4494,
@@ -1237,7 +1243,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: The Dark Hunger** (Guess)
 > The maximum number of Accursed Specters that can be active at once is equal to the number of Evil aligned Champions in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1262,7 +1268,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "use_outgoing_description": true,
         "is_formation_ability": true,
-        "effect_name": "Cloak of Flies"
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks",
+        "effect_name": "The Dark Hunger"
     }
 }
 </pre>
@@ -1271,7 +1278,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Shadows in the Night** (Guess)
 > The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with a DEX score of 16 or higher.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1301,7 +1308,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "use_outgoing_description": true,
         "is_formation_ability": true,
-        "effect_name": "Cloak of Flies"
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks",
+        "effect_name": "Shadows in the Night"
     }
 }
 </pre>
@@ -1310,7 +1318,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Charm of the Fallen** (Guess)
 > The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with Charisma as their highest ability score.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1339,7 +1347,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "use_outgoing_description": true,
         "is_formation_ability": true,
-        "effect_name": "Cloak of Flies"
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks",
+        "effect_name": "Charm of the Fallen"
     }
 }
 </pre>
@@ -1353,7 +1362,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take 400% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 4 spore, while bosses can be affected by 10 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.
+> Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take 400% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 4 spores, while bosses can be affected by 10 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1378,9 +1387,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "condition": "upgrade_purchased 13254",
-            "desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $(amount___2)% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 4 spore, while bosses can be affected by 10 spores. Sisaspia regenerates a spore every 3 seconds and can have up to 30 spores in her reserve.^^$halo_of_spores_description2"
+            "desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $(amount___2)% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 4 spores, while bosses can be affected by 10 spores. Sisaspia regenerates a spore every 3 seconds and can have up to 30 spores in her reserve.^^$halo_of_spores_description2"
         },
-        {"desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $(amount___2)% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 4 spore, while bosses can be affected by 10 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.^^$halo_of_spores_description2"}
+        {"desc": "Sisaspia is surrounded by a torus of necrotic spores. Every second, one of the spores shoots out and attaches itself to an enemy that is near the formation. When enemies are damaged, they take $(amount___2)% additional damage over 5 seconds for each spore affecting them. Normal enemies can only be affected by 4 spores, while bosses can be affected by 10 spores. Sisaspia regenerates a spore every 4 seconds and can have up to 20 spores in her reserve.^^$halo_of_spores_description2"}
     ]},
     "id": 1742,
     "flavour_text": "",
