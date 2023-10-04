@@ -13,7 +13,7 @@
 
 A loyal cleric of Shar, Shadowheart is the sole survivor of a holy mission undertaken on the Mistress of the Night's behest. She alone must deliver a relic of immense power to her coven in Baldur's Gate, while threatened by a strange new magic that is burgeoning from within.
 
-[BG3 Wiki](https://baldursgate3.wiki.fextralife.com/Shadowheart)
+[Shadowheart - Baldur's Gate 3 Wiki](https://bg3.wiki/wiki/Shadowheart)
 
 # Basic Information
 
