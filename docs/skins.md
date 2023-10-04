@@ -319,7 +319,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Half-Elf Havilar
+            ![Half-Elf Havilar Portrait](images/skin_portraits/halfelfhavilar.png)Half-Elf Havilar
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
