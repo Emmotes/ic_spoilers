@@ -165,7 +165,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Athar Jang Sao
+            ![Athar Jang Sao Portrait](images/skin_portraits/atharjangsao.png)Athar Jang Sao
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -193,7 +193,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Elemental Korth
+            ![Elemental Korth Portrait](images/skin_portraits/elementalkorth.png)Elemental Korth
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Season 6 (Guess)</span>
@@ -207,7 +207,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Elemental Nrakk
+            ![Elemental Nrakk Portrait](images/skin_portraits/elementalnrakk.png)Elemental Nrakk
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Season 6 (Guess)</span>
@@ -235,7 +235,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Elemental Warden
+            ![Elemental Warden Portrait](images/skin_portraits/elementalwarden.png)Elemental Warden
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Season 6 (Guess)</span>
@@ -263,7 +263,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Fated Virgil
+            ![Fated Virgil Portrait](images/skin_portraits/fatedvirgil.png)Fated Virgil
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -389,7 +389,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Elemental Artemis
+            ![Elemental Artemis Portrait](images/skin_portraits/elementalartemis.png)Elemental Artemis
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Elemental Artemis Skin & Feat Pack</span>
@@ -445,7 +445,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Spelljammer Pilot Orkira
+            ![Spelljammer Pilot Orkira Portrait](images/skin_portraits/spelljammerpilotorkira.png)Spelljammer Pilot Orkira
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -483,6 +483,20 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">14 Feb 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Spelljammer Pilot Celeste Portrait](images/skin_portraits/spelljammerpilotceleste.png)Spelljammer Pilot Celeste
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
 </span>
