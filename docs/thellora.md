@@ -335,7 +335,7 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Defender of the Meek** (Guess)
-> Thellora increases the damage of Champions with a STR of 12 or less by 60% for each Champion in the formation with a STR of 12 or less, stacking multiplicatively. Buffs apply to the pre-stack value.
+> Thellora increases the damage of Champions with a STR of 12 or less by 60% for each such Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -372,7 +372,7 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
         }
     ],
     "requirements": "",
-    "description": {"desc": "Thellora increases the damage of Champions with a STR of $(min_stat_amount___2) or less by $(amount)% for each Champion in the formation with a STR of $(min_stat_amount___2) or less, stacking multiplicatively. Buffs apply to the pre-stack value."},
+    "description": {"desc": "Thellora increases the damage of Champions with a STR of $(min_stat_amount___2) or less by $(amount)% for each such Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value."},
     "id": 1690,
     "flavour_text": "",
     "graphic_id": 21002,
@@ -392,7 +392,7 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Vanguard of the Quick** (Guess)
-> Thellora increases the damage of Speed Champions by 50% for each Speed Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value.
+> Thellora increases the damage of Speed Champions by 50% for each such Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -428,7 +428,7 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
         }
     ],
     "requirements": "",
-    "description": {"desc": "Thellora increases the damage of Speed Champions by $(amount)% for each Speed Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value."},
+    "description": {"desc": "Thellora increases the damage of Speed Champions by $(amount)% for each such Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value."},
     "id": 1691,
     "flavour_text": "",
     "graphic_id": 21003,
@@ -448,7 +448,7 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Callessas Blessed** (Guess)
-> Thellora increases the damage of Female and Non-Binary Champions by 50% for each Female and Non-Binary Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value.
+> Thellora increases the damage of Female and Non-Binary Champions by 50% for each such Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -484,7 +484,7 @@ Thellora will be the new champion in the Liars' Night event on 18 October 2023.
         }
     ],
     "requirements": "",
-    "description": {"desc": "Thellora increases the damage of Female and Non-Binary Champions by $(amount)% for each Female and Non-Binary Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value."},
+    "description": {"desc": "Thellora increases the damage of Female and Non-Binary Champions by $(amount)% for each such Champion in the formation, stacking multiplicatively. Buffs apply to the pre-stack value."},
     "id": 1692,
     "flavour_text": "",
     "graphic_id": 21001,
