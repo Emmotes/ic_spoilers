@@ -31,7 +31,7 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
             <span style="margin-right:4px;">**Race**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Satyr (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -39,7 +39,7 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Druid (Guess)</span>
+            <span style="margin-left:8px;">Druid / Wizard (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
