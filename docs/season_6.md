@@ -238,7 +238,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: HuntingPartners** (Guess)
+**Specialisation: Hunting Partners** (Guess)
 > The Know Your Enemy counters additionally increment once for each Champion in the formation affected by Hunter's Pack each time a valid enemy is killed.
 <details><summary><em>Raw Data</em></summary>
 <p>
