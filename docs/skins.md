@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Hands of Havoc Widdle Portrait](images/skin_portraits/handsofhavocwiddle.png)Hands of Havoc Widdle
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Hands of Havoc Widdle Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">11 Oct 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Venture Casual Donaar Portrait](images/skin_portraits/venturecasualdonaar.png)Venture Casual Donaar
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Venture Casual Donaar Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">11 Oct 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Harmonium Thellora Portrait](images/skin_portraits/harmoniumthellora.png)Harmonium Thellora
         </span>
         <span class="skinTableSource">

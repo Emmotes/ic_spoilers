@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Donaar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">11 Oct 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Widdle</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">11 Oct 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Kent</span>
         </span>
         <span class="featTableIcon4">

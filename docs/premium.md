@@ -5,49 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Flicket the Beetle Familiar Pack - $4.99  
-Date of release: 11 Oct 2023
-
-Contents:
-
-* Familiar: `Flicket the Beetle`
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Hands of Havoc Widdle Skin & Feat Pack - $9.99  
-Date of release: 11 Oct 2023
-
-Contents:
-
-* Champion: `Widdle`
-* Skin: `Hands of Havoc Widdle`
-* Feat: `Prodigal Leader` (Widdle)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Widdle Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Venture Casual Donaar Skin & Feat Pack - $9.99  
-Date of release: 11 Oct 2023
-
-Contents:
-
-* Champion: `Donaar Blit'zen`
-* Skin: `Venture Casual Donaar`
-* Feat: `Prodigal Leader` (Donaar)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Donaar Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Boom Boom the Tavernkeep Familiar Pack - $9.99  
 Date of release: 16 Oct 2023
 
