@@ -111,7 +111,6 @@ Not events events - but events. You know?
 
 Miscellaneous spoilers.
 
-* [Patron Perks Tier 10-11](patronperks_10-11.md) - 11 October 2023
 * [Turn of Fortune's Wheel](campaign_fortuneswheel.md) - 1 November 2023 (Guess)
 * [Feats](feats.md)
 * [Skins](skins.md)
