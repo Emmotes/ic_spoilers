@@ -88,12 +88,9 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/shadowheart/formation.png)
 </span>
-{% endcomment %}
 
 # Abilities
 
