@@ -272,7 +272,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Wolf Pack** (Guess)
 > Increases the effect of Hunter's Pack by 400% and the DEX score of adjacent Champions by 1.
 <details><summary><em>Raw Data</em></summary>
 <p>
