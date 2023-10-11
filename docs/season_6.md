@@ -1051,6 +1051,89 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 ![Warden Portrait](images/season_6/warden.png)
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Hex Weapon Armblade**
+> Warden leaps to a random enemy and attacks them with their armblade.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Warden leaps to a random enemy and attacks them with their armblade.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 0,
+    "target": "random",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "type": "melee_attack",
+        "sequences": [
+            {
+                "damage_frame": 5,
+                "target_offset_x": -45,
+                "end_frame": 14,
+                "start_frame": 0
+            },
+            {
+                "damage_frame": 19,
+                "target_offset_x": -45,
+                "end_frame": 24,
+                "start_frame": 15,
+                "type": "melee_attack"
+            },
+            {
+                "damage_frame": 38,
+                "target_offset_x": -60,
+                "end_frame": 51,
+                "start_frame": 25,
+                "type": "melee_attack"
+            }
+        ],
+        "animation": "split_sequence_multi_target"
+    }],
+    "name": "Hex Weapon Armblade",
+    "cooldown": 5.2,
+    "id": 706
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Hunger of Hadar**
+> Warden opens a rift to the void, damaging and momentarily stunning all enemies and pulling them and all active specters to a position slightly in front of the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Warden opens a rift to the void, pulling all enemies and specters to one spot on the screen.",
+    "long_description": "Warden opens a rift to the void, damaging and momentarily stunning all enemies and pulling them and all active specters to a position slightly in front of the formation.",
+    "damage_modifier": 0.04,
+    "damage_types": ["magic"],
+    "graphic_id": 4498,
+    "target": "none",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "num_targets": 0,
+    "animations": [{
+        "percent_to_formation_start": 0,
+        "type": "warden_ultimate"
+    }],
+    "name": "Hunger of Hadar",
+    "cooldown": 240,
+    "id": 707
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > Warden curses his target enemy before attacking it, applying 1 stack of Hex. Enemies take 100% more damage for each Hex stack afflicting them, stacking multiplicatively. Initially, each enemy can only have 1 Hex stack at a time.
 <details><summary><em>Raw Data</em></summary>
@@ -1058,12 +1141,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <pre>
 {
     "effect_keys": [
+        {"effect_string": "hex_debuff_amount,100"},
+        {"effect_string": "max_hex_amount,1"},
         {
-            "reqs": ["direct_hit"],
-            "monster_effect": {"effect_string": "effect_def,1726"},
-            "effect_string": "add_monster_hit_effects,100,153"
-        },
-        {
+            "off_when_benched": true,
             "effect_string": "warden_hex_handler",
             "hex": {"effect_string": "effect_def,1726"}
         }
@@ -1080,8 +1161,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "flavour_text": "",
     "graphic_id": 4494,
     "properties": {
+        "indexed_effect_properties": true,
         "use_outgoing_description": true,
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -1096,24 +1180,31 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "off_when_benched": true,
-        "debuff": {
-            "manual_stacking": true,
-            "stacks_multiply": true,
-            "effect_string": "increase_monster_damage,100"
-        },
-        "effect_string": "warden_accursed_specter",
-        "hex": {"effect_string": "effect_def,1726"}
-    }],
+    "effect_keys": [
+        {"effect_string": "specter_debuff_amount,100"},
+        {
+            "off_when_benched": true,
+            "debuff": {
+                "manual_stacking": true,
+                "stacks_multiply": true,
+                "effect_string": "increase_monster_damage,100"
+            },
+            "effect_string": "warden_accursed_specter",
+            "hex": {"effect_string": "effect_def,1726"}
+        }
+    ],
     "requirements": [],
     "description": {"desc": "Enemies that die while cursed by Warden spawn Accursed Specters, which increase the damage taken by nearby enemies"},
     "id": 1724,
     "flavour_text": "",
     "graphic_id": 4495,
     "properties": {
+        "retain_on_slot_changed": true,
+        "indexed_effect_properties": true,
         "use_outgoing_description": true,
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -1130,11 +1221,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [{"effect_string": "warden_specter_rush"}],
     "requirements": [],
-    "description": {"desc": "When Warden attacks, all active Accursed Specters rush toward the location of their target prior to them hitting it"},
+    "description": {"desc": "When Warden attacks, all active Accursed Specters rush toward the location of their target prior to them hitting it."},
     "id": 1725,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -1150,24 +1244,32 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [
         {
-            "one_per_hero": true,
+            "stack_title": "Hex Stacks",
+            "manual_stacking": true,
+            "is_warden_hex": true,
+            "stacks_multiply": true,
             "active_graphic_sequence_offset": 1,
+            "stacks_are_bonus": false,
+            "amount_func": "mult",
             "active_graphic_y": -35,
             "active_graphic_id": 4500,
-            "effect_string": "increase_monster_damage_multiplicative_pools,$amount",
+            "effect_string": "increase_monster_damage,100",
             "active_graphic_use_count": true
         },
-        {
-            "one_per_hero": true,
-            "effect_string": "warden_hex"
-        }
+        {"effect_string": "warden_hex"}
     ],
     "requirements": [],
     "description": {"desc": ""},
     "id": 1726,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": {"pool_name": "hex"}
+    "properties": {
+        "indexed_effect_properties": true,
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
+    }
 }
 </pre>
 </p>
@@ -1181,13 +1283,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "increase_monster_effect_limit_max,4,13240"}],
+    "effect_keys": [{"effect_string": "increase_max_hex_stacks,3"}],
     "requirements": [],
-    "description": {"desc": "Hex can now stack up to $amount times on each enemy"},
+    "description": {"desc": "Hex can now stack up to 4 times on each enemy."},
     "id": 1727,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -1210,7 +1315,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "use_outgoing_description": true,
         "is_formation_ability": true,
-        "effect_name": "Eldritch Smite"
+        "effect_name": "Master of Hexes"
     }
 }
 </pre>
@@ -1220,21 +1325,21 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Warden's attacks also deal area damage in a small radius around them equal to 25% times the highest number of active Hex stacks that there has been in the current area.
+> Warden's attacks also deal area damage in a small radius around them equal to 25% times the highest number of active Hex stacks that there has been in the current area. This effect does not apply any additional Hex stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [{"effect_string": "warden_cloak_of_flies,25"}],
     "requirements": [],
-    "description": {"desc": "Warden's attacks also deal area damage in a small radius around them equal to 25% times the highest number of active Hex stacks that there has been in the current area."},
+    "description": {"desc": "Warden's attacks also deal area damage in a small radius around them equal to 25% times the highest number of active Hex stacks that there has been in the current area. This effect does not apply any additional Hex stacks. ^$cloak_of_flies_description"},
     "id": 1729,
     "flavour_text": "",
     "graphic_id": 4497,
     "properties": {
         "use_outgoing_description": true,
         "is_formation_ability": true,
-        "effect_name": "Eldritch Smite"
+        "effect_name": "Cloak of Flies"
     }
 }
 </pre>
@@ -1255,9 +1360,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "amount_updated_listeners": ["slot_changed"],
         "stacks_multiply": false,
         "off_when_benched": true,
+        "show_bonus": true,
         "amount_func": "add",
         "stack_func": "per_crusader",
         "effect_string": "increase_warden_specter_max,1",
+        "percent_values": false,
         "tag": "evil"
     }],
     "requirements": [],
@@ -1268,7 +1375,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "use_outgoing_description": true,
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks",
+        "spec_option_post_apply_info": "Evil Champions in the formation: $num_stacks",
         "effect_name": "The Dark Hunger"
     }
 }
@@ -1279,7 +1386,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Shadows in the Night** (Guess)
-> The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with a DEX score of 16 or higher.
+> The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with a DEX score of 16 or higher in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1290,9 +1397,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "amount_updated_listeners": ["slot_changed"],
         "stacks_multiply": false,
         "off_when_benched": true,
+        "show_bonus": true,
         "amount_func": "add",
         "stack_func": "per_crusader",
         "effect_string": "increase_warden_specter_max,1",
+        "percent_values": false,
         "target_filters": [{
             "stat": "dex",
             "comparison": ">=",
@@ -1301,7 +1410,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }]
     }],
     "requirements": [],
-    "description": {"desc": "The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with a DEX score of 16 or higher."},
+    "description": {"desc": "The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with a DEX score of 16 or higher in the formation."},
     "id": 1731,
     "flavour_text": "",
     "graphic_id": 4496,
@@ -1319,7 +1428,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Charm of the Fallen** (Guess)
-> The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with Charisma as their highest ability score.
+> The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with Charisma as their highest ability score in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1330,9 +1439,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "amount_updated_listeners": ["slot_changed"],
         "stacks_multiply": false,
         "off_when_benched": true,
+        "show_bonus": true,
         "amount_func": "add",
         "stack_func": "per_crusader",
         "effect_string": "increase_warden_specter_max,1",
+        "percent_values": false,
         "target_filters": [{
             "stat": "cha",
             "highest": true,
@@ -1340,7 +1451,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }]
     }],
     "requirements": [],
-    "description": {"desc": "The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with Charisma as their highest ability score."},
+    "description": {"desc": "The maximum number of Accursed Specters that can be active at once is equal to the number of Champions with Charisma as their highest ability score in the formation."},
     "id": 1732,
     "flavour_text": "",
     "graphic_id": 4496,
