@@ -825,7 +825,7 @@ Upgrades:
             <span style="margin-left: 8px;">Basalt Dagger</span>
         </span>
         <span class="itemTableEffect">
-            <span style="margin-left: 8px;">All First Specialisations</span>
+            <span style="margin-left: 8px;">All Specialisations</span>
         </span>
     </span>
     <span class="itemTableRow">
@@ -1028,7 +1028,7 @@ This list will only show feats that are going to be available on the release of 
             ![Best of the Luma Icon](images/featicons/upgradefa.png)Best of the Luma
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% All First Specialisations</span>
+            <span style="margin-left: 8px;">40% All Specialisations</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>

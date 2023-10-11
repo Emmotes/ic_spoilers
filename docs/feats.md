@@ -674,7 +674,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![It's Just Business Icon](images/featicons/upgradefa.png)It's Just Business
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% All Second Specialisations</span>
+            <span style="margin-left: 8px;">40% All Specialisations</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -691,7 +691,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![This is the Way Icon](images/featicons/upgradefa.png)This is the Way
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% All First Specialisations</span>
+            <span style="margin-left: 8px;">40% All Specialisations</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
