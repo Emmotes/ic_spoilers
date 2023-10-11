@@ -115,10 +115,16 @@ Unknown.
     "tags": ["ranged"],
     "num_targets": 1,
     "animations": [{
+        "projectile_details": {
+            "projectile_hit_graphic_id": 21569,
+            "projectile_speed": 10000,
+            "hash": "220b7624ef8bba01663706bfc0b44e70"
+        },
+        "hit_sound": 133,
         "shoot_sound": 164,
         "type": "ranged_attack",
-        "projectile": "sacred_flame",
-        "shoot_frame": 13
+        "projectile": "pd_generic_projectile",
+        "shoot_frame": 10
     }],
     "name": "Sacred Flame",
     "cooldown": 6,
@@ -379,7 +385,9 @@ Unknown.
         {
             "amount_expr": "upgrade_amount(13279,0)",
             "off_when_benched": true,
+            "active_graphic_id": 21571,
             "effect_string": "hero_dps_multiplier_mult,0",
+            "active_graphic_sort": "bottom",
             "targets": ["bud_setter"]
         },
         {
@@ -434,7 +442,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Sister of Darkness** (Guess)
-> The effects of Twilight Trickery and Light In The Dark from Shadowheart's Illusory Duplicate are increased by 100% for each formation slot away from Shadowheart the duplicate is, stacking multiplicatively.
+> The effects of Twilight Trickery and Light In The Dark from Shadowheart's Illusory Duplicate are increased by 100% for each formation slot away from Shadowheart the duplicate is (following the shortest path), stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -451,7 +459,7 @@ Unknown.
         "effect_string": "buff_upgrade,100,13278"
     }],
     "requirements": "",
-    "description": {"desc": "The effects of Twilight Trickery and Light In The Dark from Shadowheart's Illusory Duplicate are increased by $(not_buffed amount)% for each formation slot away from Shadowheart the duplicate is, stacking multiplicatively."},
+    "description": {"desc": "The effects of Twilight Trickery and Light In The Dark from Shadowheart's Illusory Duplicate are increased by $(not_buffed amount)% for each formation slot away from Shadowheart the duplicate is (following the shortest path), stacking multiplicatively."},
     "id": 1760,
     "flavour_text": "",
     "graphic_id": 0,
