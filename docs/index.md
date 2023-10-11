@@ -21,7 +21,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Thellora&nbsp;<span class="indexChampionTableNoLink">- Centaur Paladin (Guess)</span>
+                Thellora&nbsp;<span class="indexChampionTableNoLink">- Centaur Paladin</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Liars' Night - 18 October 2023</span>
