@@ -209,7 +209,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Expert Hunter** (Guess)
 > Increases Hunter's Pack by the bonus provided by Focused Fury.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -238,7 +238,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Specialisation: HuntingPartners** (Guess)
 > The Know Your Enemy counters additionally increment once for each Champion in the formation affected by Hunter's Pack each time a valid enemy is killed.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -272,7 +272,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > Increases the effect of Hunter's Pack by 400% and the DEX score of adjacent Champions by 1.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -539,6 +539,26 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
+> Increases the effect of Nrakk's specializations by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "buff_upgrades,100,13005,13006"}],
+    "requirements": "",
+    "description": {"desc": "Increases the effect of Nrakk's specializations by $(amount)%."},
+    "id": 1707,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
 > Increases the potency of most Positional Formations Abilities of adjacent Champions with a Wisdom (WIS) score of 14 or higher by 50%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -568,7 +588,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Specialisation: Githzerai Agility** (Guess)
 > Increases the potency of most Positional Formations Abilities of adjacent Champions with a Dexterity (DEX) score of 16 or higher by 50%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -591,26 +611,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "flavour_text": "",
     "graphic_id": 5868,
     "properties": {"is_formation_ability": true}
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> Increases the effect of Nrakk's specializations by 100%.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{"effect_string": "buff_upgrades,100,13005,13006"}],
-    "requirements": "",
-    "description": {"desc": "Increases the effect of Nrakk's specializations by $(amount)%."},
-    "id": 1707,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": []
 }
 </pre>
 </p>
@@ -972,7 +972,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Samurai Training (Back)** (Guess)
 > Korth increases the base Dexterity scores of the Champions in the two slots directly behind him to 16, if they weren't already 16 or higher.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -997,7 +997,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Samurai Training (Front)** (Guess)
 > Korth increases the base Dexterity scores of the Champions in the two slots directly in front of him to 16, if they weren't already 16 or higher.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1022,7 +1022,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Samurai Training (Beside)** (Guess)
 > Korth increases the base Dexterity scores of the Champions in the two slots directly above and below him to 16, if they weren't already 16 or higher.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1503,7 +1503,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > Halo of Spores now generates a new spore every 3 seconds, and Sisaspia's maximum reserve spore count is increased to 3___2.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1526,7 +1526,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > The effects of Symbiotic Infection and Symbiotic Healing are increased by 400% after Sisaspia has used at least 30 spores in the current area.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1563,7 +1563,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > Sisaspia's maximum spore reserve is increased by the average DEX score of the formation, rounded down. Additionally, if the average DEX score is 16 or higher, the range of Halo of Spores is additively increased by 12.5% for each full point above 15.
 <details><summary><em>Raw Data</em></summary>
 <p>
