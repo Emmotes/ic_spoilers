@@ -166,14 +166,14 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Absolute Sanctuary**
-> Unknown effect.  
+> Shadowheart's mysterious relic strikes back enemies and prevents all damage to your Champions for a short while.  
 > Cooldown: 300s (Cap 75s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
-    "long_description": "",
+    "description": "Shadowheart's mysterious relic prevents all damage for a short while.",
+    "long_description": "Shadowheart's mysterious relic strikes back enemies and prevents all damage to your Champions for a short while.",
     "damage_modifier": 1,
     "damage_types": ["magic"],
     "graphic_id": 21370,
@@ -308,7 +308,11 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Invoke Duplicity**
-> Shadowheart creates an illusory duplicate of herself which hides in the formation and applies Twilight Trickery and Light in the Dark to Champions relative to itself with half the range as normal. The duplicate positions itself in the same formation slot as the Champion in the formation with the highest DEX score. Ties go to the Champion in the highest bench seat.
+> Shadowheart creates an Illusory Duplicate of herself which hides in the formation and applies Twilight Trickery and Light in the Dark to Champions relative to itself with half the range as normal. The duplicate positions itself in the same formation slot as the Champion in the formation with the highest DEX score. Ties go to the Champion in the highest bench seat.
+>  
+> - Target:
+> - Twilight Trickery Damage Buff: 0%
+> - Light In The Dark Heal Amount: 0.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -323,6 +327,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
         {
             "amount_expr": "upgrade_amount(13275,0)",
             "off_when_benched": true,
+            "use_computed_amount_for_description": true,
             "effect_string": "hero_dps_multiplier_mult,0",
             "override_key_desc": "Twilight Trickery - Increases the damage of $target by $amount%",
             "targets": [{
@@ -333,17 +338,25 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
         {
             "amount_expr": "upgrade_amount(13277,0)",
             "off_when_benched": true,
+            "use_computed_amount_for_description": true,
             "effect_string": "heal,0",
             "override_key_desc": "Light In The Dark - Heals $target for $amount every second",
             "targets": ["next_col"]
         }
     ],
     "requirements": "",
-    "description": {"desc": "Shadowheart creates an illusory duplicate of herself which hides in the formation and applies Twilight Trickery and Light in the Dark to Champions relative to itself with half the range as normal. The duplicate positions itself in the same formation slot as the Champion in the formation with the highest DEX score. Ties go to the Champion in the highest bench seat."},
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^Target: $shadowheart_illusory_duplicate_target^Twilight Trickery Damage Buff: $amount___2%^Light In The Dark Heal Amount: $amount___3"
+        }]},
+        "desc": "Shadowheart creates an Illusory Duplicate of herself which hides in the formation and applies Twilight Trickery and Light in the Dark to Champions relative to itself with half the range as normal. The duplicate positions itself in the same formation slot as the Champion in the formation with the highest DEX score. Ties go to the Champion in the highest bench seat."
+    },
     "id": 1757,
     "flavour_text": "",
     "graphic_id": 21364,
     "properties": {
+        "is_positional_ability": true,
         "indexed_effect_properties": true,
         "is_formation_ability": true,
         "use_owner_override": true,
@@ -360,7 +373,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Guidance** (Guess)
-> Shadowheart base attack is replaced by Guidance. When she casts Guidance, she increases the damage of your BUD-setting Champion's next attack by 200%. Stacks multiplicatively up to 5 times.
+> Shadowheart's base attack is replaced by Guidance. When she casts Guidance, she increases the damage of your BUD-setting Champion's next attack by 200%. Stacks multiplicatively up to 5 times.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -394,7 +407,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
         }
     ],
     "requirements": "",
-    "description": {"desc": "Shadowheart base attack is replaced by Guidance. When she casts Guidance, she increases the damage of your BUD-setting Champion's next attack by $(not_buffed amount)%. Stacks multiplicatively up to $(max_stacks) times."},
+    "description": {"desc": "Shadowheart's base attack is replaced by Guidance. When she casts Guidance, she increases the damage of your BUD-setting Champion's next attack by $(not_buffed amount)%. Stacks multiplicatively up to $(max_stacks) times."},
     "id": 1758,
     "flavour_text": "",
     "graphic_id": 0,
@@ -415,14 +428,14 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Find Yourself** (Guess)
-> If Shadowheart's Illusory Duplicate is placed in the same slot as she is, increase the effect of Twilight Trickery by 400%.
+> If Shadowheart's Illusory Duplicate is placed in the same slot as she is, the effect of Twilight Trickery is increased by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [{"effect_string": "buff_upgrade,400,13275"}],
     "requirements": [{"requirement": "shadowheart_is_duplicity_target"}],
-    "description": {"desc": "If Shadowheart's Illusory Duplicate is placed in the same slot as she is, increase the effect of Twilight Trickery by $(amount)%."},
+    "description": {"desc": "If Shadowheart's Illusory Duplicate is placed in the same slot as she is, the effect of Twilight Trickery is increased by $(amount)%."},
     "id": 1759,
     "flavour_text": "",
     "graphic_id": 0,
