@@ -128,6 +128,35 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                ![Season 6 Icon](images/general/s6.png)**Season 6** - Elemental Rebirth
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>08 Nov 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>17 Jan 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>17 Jul 2024 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 ![Emergence 3 Icon](images/general/e3.png)**Emergence 3** - Mind Flayers
             </span>
         </span>
