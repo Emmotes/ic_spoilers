@@ -315,7 +315,9 @@ This content drop will likely be joined by new blessings.
     </span>
 </span>
 
-## Xaryxis 8 - 3 January 2024
+## Xaryxis 9 - 3 January 2024
+
+This content drop will likely be joined by new blessings.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
