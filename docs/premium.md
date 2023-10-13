@@ -28,7 +28,7 @@ Contents:
 * Skin: `Harmonium Thellora`
 * Feat: `Thin Their Ranks` (Thellora)
 * Familiar: `Lumi the Fire Elemental`
-* Chests: `Gold  Thellora Chest` x16 (Shinies x2)
+* Chests: `Gold Thellora Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 

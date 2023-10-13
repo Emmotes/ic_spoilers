@@ -115,6 +115,142 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span style="margin-left: 8px;">Birdsong</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/featicons/unknown.png)Warforged Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Calliope</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/featicons/unknown.png)Harengon Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Freely</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/featicons/unknown.png)Aasimar Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Havilar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/featicons/unknown.png)Half-Elf Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Hitch</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/featicons/unknown.png)Centaur Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Nayeli</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/featicons/unknown.png)Githyanki Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Orkira</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/featicons/unknown.png)Half-Elf Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Sentry</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/featicons/unknown.png)Half-Elf Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span style="margin-left: 8px;">Artemis</span>
         </span>
         <span class="featTableIcon4">
@@ -145,6 +281,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">29 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Astarion</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tempting Power Icon](images/featicons/upgradefa.png)Tempting Power
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">80% Ceremorphosis</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">13 Dec 2023</span>
         </span>
     </span>
 </span>

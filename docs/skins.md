@@ -39,7 +39,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Venture Casual Rosie
+            ![Venture Casual Rosie Portrait](images/skin_portraits/venturecasualrosie.png)Venture Casual Rosie
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -193,7 +193,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Centaur Hitch
+            ![Centaur Hitch Portrait](images/skin_portraits/centaurhitch.png)Centaur Hitch
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -249,7 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Half-Elf Sentry
+            ![Half-Elf Sentry Portrait](images/skin_portraits/halfelfsentry.png)Half-Elf Sentry
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>

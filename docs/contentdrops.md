@@ -315,6 +315,81 @@ This content drop will likely be joined by new blessings.
     </span>
 </span>
 
+## Xaryxis 8 - 3 January 2024
+
+<span class="contentDropsTableColumn">
+    <span class="contentDropsTableRowHeader">
+        <span class="contentDropsTableIcons">
+            <span style="margin-left:8px;">**Icon**</span>
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">**Campaign**</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">**Adventure Name**</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Xaryxis: Into Xaryxispace (Adventure)](images/contentdrop_portraits/xaryxis_intoxaryxispace_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Xaryxis</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Into Xaryxispace</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Adventure</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Into Xaryxispace (Variant 1)](images/contentdrop_portraits/xaryxis_intoxaryxispace_1.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Xaryxis</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Into Xaryxispace</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #1</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Xaryxis: The Battle of Xaryxis (Adventure)](images/contentdrop_portraits/xaryxis_thebattleofxaryxis_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Xaryxis</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Battle of Xaryxis</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Adventure</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: The Battle of Xaryx is (Variant 1)](images/contentdrop_portraits/xaryxis_thebattleofxaryxis_1.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Xaryxis</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Battle of Xaryx is</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #1</span>
+        </span>
+    </span>
+</span>
+
 <br />
 This page was made with the help of Randramb.
 
