@@ -12,9 +12,13 @@
 * [Sisaspia](#sisaspia)
 <br />
 
+![Season 6 Icon](images/season_6/icon.png)
+
 # Season 6
 
-Season 6 is guesstimated to start on 08 November 2023.
+![Season 6 Banner](images/season_6/banner.png)
+
+Season 6 will be called `Elemental Rebirth` and is guesstimated to start on 08 November 2023.
 
 # Theme
 
@@ -441,6 +445,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <pre>
 {
     "effect_keys": [{
+        "off_when_benched": true,
         "stun_time": 3,
         "debuff_effect": {
             "stacks_multiply": true,
@@ -476,7 +481,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Every third attack is a wide AoE cleave.
+> Every third attack, Nrakk cleaves multiple enemies dealing damage in an area.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -487,7 +492,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "effect_string": "add_attack_aoe_targets_every,100,150,3,97"
     }],
     "requirements": "",
-    "description": {"desc": "Every third attack is a wide AoE cleave."},
+    "description": {"desc": "Every third attack, Nrakk cleaves multiple enemies dealing damage in an area."},
     "id": 1703,
     "flavour_text": "",
     "graphic_id": 0,
@@ -559,7 +564,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
-> Increases the potency of most Positional Formations Abilities of adjacent Champions with a Wisdom (WIS) score of 14 or higher by 50%.
+> Increases the potency of most Positional Formation Abilities of adjacent Champions with a Wisdom (WIS) score of 14 or higher by 50%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -573,10 +578,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "check": ">=",
             "type": "stat_score"
         }],
-        "targets": ["adj"]
+        "targets": ["adj"],
+        "override_key_desc": "Increases the potency of $target's Positional Formation Abilities by $amount%"
     }],
     "requirements": "",
-    "description": {"desc": "Increases the potency of most Positional Formations Abilities of adjacent Champions with a Wisdom (WIS) score of 14 or higher by $(amount)%."},
+    "description": {"desc": "Increases the potency of most Positional Formation Abilities of adjacent Champions with a Wisdom (WIS) score of 14 or higher by $(amount)%."},
     "id": 1705,
     "flavour_text": "",
     "graphic_id": 5866,
@@ -589,7 +595,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Githzerai Agility** (Guess)
-> Increases the potency of most Positional Formations Abilities of adjacent Champions with a Dexterity (DEX) score of 16 or higher by 50%.
+> Increases the potency of most Positional Formation Abilities of adjacent Champions with a Dexterity (DEX) score of 16 or higher by 50%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -603,10 +609,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "check": ">=",
             "type": "stat_score"
         }],
-        "targets": ["adj"]
+        "targets": ["adj"],
+        "override_key_desc": "Increases the potency of $target's Positional Formation Abilities by $amount%"
     }],
     "requirements": "",
-    "description": {"desc": "Increases the potency of most Positional Formations Abilities of adjacent Champions with a Dexterity (DEX) score of 16 or higher by $(amount)%."},
+    "description": {"desc": "Increases the potency of most Positional Formation Abilities of adjacent Champions with a Dexterity (DEX) score of 16 or higher by $(amount)%."},
     "id": 1706,
     "flavour_text": "",
     "graphic_id": 5868,
@@ -736,6 +743,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "formation_arrows_for_effected_only": true,
+            "ability_score_change_updates_targets": true,
             "off_when_benched": true,
             "slot_change_updates_targets": true,
             "effect_string": "reduce_attack_cooldown,0.5",
@@ -788,6 +796,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
+        "retain_on_slot_changed": true,
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "formation_circle_icon": false
@@ -913,9 +922,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [{
         "max_charges": 3,
-        "resurrection_priority": 500,
+        "resurrection_priority": 1100,
         "recharge_time": 60,
-        "off_when_benched": true,
         "effect_string": "korth_strength_before_death",
         "invulnerable_effect_data": {
             "for_time": 5,
@@ -939,7 +947,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "show_outgoing_desc_when_benched": false
     }
 }
 </pre>
@@ -1140,15 +1149,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "effect_keys": [
-        {"effect_string": "hex_debuff_amount,100"},
-        {"effect_string": "max_hex_amount,1"},
-        {
-            "off_when_benched": true,
-            "effect_string": "warden_hex_handler",
-            "hex": {"effect_string": "effect_def,1726"}
-        }
-    ],
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "warden_hex_handler,100",
+        "hex": {"effect_string": "effect_def,1726"}
+    }],
     "requirements": [],
     "description": {"conditions": [
         {
@@ -1175,26 +1180,23 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Enemies that die while cursed by Warden spawn Accursed Specters, which increase the damage taken by nearby enemies.
+> Enemies that die while cursed by Warden spawn Accursed Specters, which increase the damage taken by nearby enemies by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [
-        {"effect_string": "specter_debuff_amount,100"},
-        {
-            "off_when_benched": true,
-            "debuff": {
-                "manual_stacking": true,
-                "stacks_multiply": true,
-                "effect_string": "increase_monster_damage,100"
-            },
-            "effect_string": "warden_accursed_specter",
-            "hex": {"effect_string": "effect_def,1726"}
-        }
-    ],
+    "effect_keys": [{
+        "off_when_benched": true,
+        "debuff": {
+            "manual_stacking": true,
+            "stacks_multiply": true,
+            "effect_string": "increase_monster_damage,100"
+        },
+        "effect_string": "warden_accursed_specter,100",
+        "hex": {"effect_string": "effect_def,1726"}
+    }],
     "requirements": [],
-    "description": {"desc": "Enemies that die while cursed by Warden spawn Accursed Specters, which increase the damage taken by nearby enemies"},
+    "description": {"desc": "Enemies that die while cursed by Warden spawn Accursed Specters, which increase the damage taken by nearby enemies by $amount%"},
     "id": 1724,
     "flavour_text": "",
     "graphic_id": 4495,
@@ -1308,7 +1310,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [{"effect_string": "warden_master_of_hexes,1"}],
     "requirements": [],
-    "description": {"desc": "Whenever a Champion kills an enemy near an Accursed Specter, the Specter reacts violently, applying 1 Hex stack to all enemies in its radius."},
+    "description": {"desc": "Whenever a Champion kills an enemy near an Accursed Specter, the Specter reacts violently, applying $amount Hex stack to all enemies in its radius."},
     "id": 1728,
     "flavour_text": "",
     "graphic_id": 4497,
@@ -1330,16 +1332,28 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "warden_cloak_of_flies,25"}],
+    "effect_keys": [
+        {"effect_string": "cloak_of_flies_base,25"},
+        {"effect_string": "warden_cloak_of_flies,100"}
+    ],
     "requirements": [],
-    "description": {"desc": "Warden's attacks also deal area damage in a small radius around them equal to 25% times the highest number of active Hex stacks that there has been in the current area. This effect does not apply any additional Hex stacks. ^$cloak_of_flies_description"},
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^$cloak_of_flies_description"
+        }]},
+        "desc": "Warden's attacks also deal area damage in a small radius around them equal to $amount% times the highest number of active Hex stacks that there has been in the current area. This effect does not apply any additional Hex stacks."
+    },
     "id": 1729,
     "flavour_text": "",
     "graphic_id": 4497,
     "properties": {
+        "indexed_effect_properties": true,
         "use_outgoing_description": true,
         "is_formation_ability": true,
-        "effect_name": "Cloak of Flies"
+        "effect_name": "Cloak of Flies",
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -1486,6 +1500,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "max_boss_spores": 10,
             "effect_string": "sisaspia_spore,400",
             "damage_is_multiplicative": true,
+            "ult_base_multiplier": 1,
             "dot_time": 5,
             "dot_tick": 1
         }
@@ -1556,6 +1571,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "show_bonus": true,
         "amount_func": "mult",
         "stack_func": "per_sisaspia_spore_used",
+        "use_computed_amount_for_description": true,
         "effect_string": "hero_dps_multiplier_mult,25",
         "targets": [{
             "distance": 2,
@@ -1563,7 +1579,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }]
     }],
     "requirements": [],
-    "description": {"desc": "Sisaspia uses her reserve of necrotic spores to empower a subtle infection she maintains upon her \"companions\", goading them forward and hopefully assisting her in her own selfish goals. This infection increases the damage of all Champions within 2 slots of herself by $amount% for each spore she has used in the current area, stacking multiplicatively, up to a maximum equal to her maximum spore reserve."},
+    "description": {"desc": "Sisaspia uses her reserve of necrotic spores to empower a subtle infection she maintains upon her \"companions\", goading them forward and hopefully assisting her in her own selfish goals. This infection increases the damage of all Champions within 2 slots of herself by 25% for each spore she has used in the current area, stacking multiplicatively, up to a maximum equal to her maximum spore reserve."},
     "id": 1744,
     "flavour_text": "",
     "graphic_id": 7202,
@@ -1579,27 +1595,32 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Sisaspia's subtle infection heals damaged Champions within 2 slots of herself for 1 per second for each spore she has used in the current area, stacking multiplicatively, up to a maximum equal to her maximum spore reserve.
+> Sisaspia's subtle infection heals damaged Champions within 2 slots of herself for 1 per second for each spore she has used in the current area, up to a maximum equal to her maximum spore reserve.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [{
-        "show_stack_post_amounts": false,
+        "amount_updated_listeners": [
+            "slot_changed",
+            "sisaspia_spores_used_changed"
+        ],
+        "show_stack_post_amounts": true,
         "total_title": "Total Healing",
-        "target_self": false,
+        "target_self": true,
         "show_bonus": true,
+        "use_computed_amount_for_description": true,
         "total_max_decimals": 2,
         "effect_string": "heal_per_sisaspia_spore_used,1",
         "percent_values": false,
         "targets": [{
             "distance": 2,
-            "self": false,
+            "self": true,
             "type": "distance"
         }]
     }],
     "requirements": [],
-    "description": {"desc": "Sisaspia's subtle infection heals damaged Champions within 2 slots of herself for $(amount) per second for each spore she has used in the current area, stacking multiplicatively, up to a maximum equal to her maximum spore reserve."},
+    "description": {"desc": "Sisaspia's subtle infection heals damaged Champions within 2 slots of herself for $(amount) per second for each spore she has used in the current area, up to a maximum equal to her maximum spore reserve."},
     "id": 1745,
     "flavour_text": "",
     "graphic_id": 7201,
@@ -1615,7 +1636,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
-> Halo of Spores now generates a new spore every 3 seconds, and Sisaspia's maximum reserve spore count is increased to 3___2.
+> Halo of Spores now generates a new spore every 3 seconds, and Sisaspia's maximum reserve spore count is increased by 3___2.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1625,11 +1646,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {"effect_string": "increase_sisaspia_reserve_spore_max,10"}
     ],
     "requirements": [],
-    "description": {"desc": "Halo of Spores now generates a new spore every $amount seconds, and Sisaspia's maximum reserve spore count is increased to $amount___2."},
+    "description": {"desc": "Halo of Spores now generates a new spore every $amount seconds, and Sisaspia's maximum reserve spore count is increased by $amount___2."},
     "id": 1746,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": {"indexed_effect_properties": true}
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -1650,7 +1675,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_func": "if",
             "stack_func": "per_sisaspia_spore_used",
             "effect_string": "buff_upgrade,400,13251",
-            "if_amount": 29
+            "if_amount": 30
         },
         {
             "amount_updated_listeners": ["sisaspia_spores_used_changed"],
@@ -1683,7 +1708,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "stack_title": "Average Dex",
-            "amount_updated_listeners": ["slot_changed"],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "stat_changed",
+                "ability_score_changed"
+            ],
             "stat": "dex",
             "stacks_multiply": false,
             "off_when_benched": true,
@@ -1691,11 +1720,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_func": "add",
             "stack_func": "per_party_stat_average",
             "effect_string": "increase_sisaspia_reserve_spore_max,1",
-            "percent_values": false
+            "percent_values": false,
+            "show_stack_type": false
         },
         {
             "stack_title": "Average Dex Over 15",
-            "amount_updated_listeners": ["slot_changed"],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "stat_changed",
+                "ability_score_changed"
+            ],
             "stat": "dex",
             "stacks_multiply": false,
             "off_when_benched": true,
@@ -1703,6 +1737,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_func": "add",
             "stack_func": "per_average_stat_above_value",
             "effect_string": "sisaspia_spore_range_add,12.5",
+            "show_stack_type": false,
             "value": 15
         }
     ],
