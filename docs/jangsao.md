@@ -93,7 +93,7 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Star** (Magic)
+**Base Attack: Star** (Ranged)
 > Jang Sao throws a star at the nearest enemy.  
 > Cooldown: 4.5s (Cap 1.125s)
 <details><summary><em>Raw Data</em></summary>
@@ -103,7 +103,7 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
     "description": "Jang Sao throws a star at the nearest enemy.",
     "long_description": "",
     "damage_modifier": 1,
-    "damage_types": ["magic"],
+    "damage_types": ["ranged"],
     "graphic_id": 0,
     "target": "front",
     "aoe_radius": 0,
@@ -222,7 +222,7 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Star Collector**
-> Each time an enemy is defeated, there is a 1% chance it drops a star. Jang Sao collects these stars and increases the effect of The Mysterious Wanderer by 0.1% for each star collected over all adventures, stacking additively. Capped at 4000000000 stacks.
+> Each time an enemy is defeated, there is a 1% chance it drops a star. Jang Sao collects these stars and increases the effect of The Mysterious Wanderer by 0.1% for each star collected over all adventures, stacking additively. Caps at 4000000000 stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -260,7 +260,7 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
         }
     ],
     "requirements": "",
-    "description": {"desc": "Each time an enemy is defeated, there is a $(amount___2)% chance it drops a star. Jang Sao collects these stars and increases the effect of The Mysterious Wanderer by $(not_buffed amount)% for each star collected over all adventures, stacking additively. Capped at $max_stacks stacks."},
+    "description": {"desc": "Each time an enemy is defeated, there is a $(amount___2)% chance it drops a star. Jang Sao collects these stars and increases the effect of The Mysterious Wanderer by $(not_buffed amount)% for each star collected over all adventures, stacking additively. Caps at $max_stacks stacks."},
     "id": 1734,
     "flavour_text": "",
     "graphic_id": 21196,
@@ -461,7 +461,8 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -471,20 +472,21 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Night Runner** (Guess)
-> Jang Sao fires 3 more stars from her lantern when she uses her Starry Form ultimate and the ultimate's damage debuff are increased by the number of stars shot out stacking additively.
+> Jang Sao fires 3 more stars from her lantern when she uses her Starry Form ultimate and the ultimate's damage debuff is multiplied by the number of stars fired, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [{"effect_string": "jangsao_star_caller,3"}],
     "requirements": "",
-    "description": {"desc": "Jang Sao fires $(amount) more stars from her lantern when she uses her Starry Form ultimate and the ultimate's damage debuff are increased by the number of stars shot out stacking additively."},
+    "description": {"desc": "Jang Sao fires $(amount) more stars from her lantern when she uses her Starry Form ultimate and the ultimate's damage debuff is multiplied by the number of stars fired, stacking additively."},
     "id": 1740,
     "flavour_text": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -506,7 +508,7 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
         "amount_func": "add",
         "instance_stat": true,
         "stack_func": "get_stat",
-        "effect_string": "buff_upgrade,1,13257"
+        "effect_string": "buff_upgrade,1,13258"
     }],
     "requirements": "",
     "description": {"desc": "Jang Sao increases the effect of Star Collector by a percentage equal to the number of stars she has collected on the current run."},
@@ -516,7 +518,8 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
     "properties": {
         "is_formation_ability": true,
         "spec_option_post_apply_info": "Stars collected: $num_stacks",
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
