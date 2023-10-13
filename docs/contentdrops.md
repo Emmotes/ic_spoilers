@@ -378,13 +378,13 @@ This content drop will likely be joined by new blessings.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: The Battle of Xaryx is (Variant 1)](images/contentdrop_portraits/xaryxis_thebattleofxaryxis_1.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: The Battle of Xaryxis (Variant 1)](images/contentdrop_portraits/xaryxis_thebattleofxaryxis_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Xaryxis</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Battle of Xaryx is</span>
+            <span style="margin-left: 8px;">The Battle of Xaryxis</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #1</span>
