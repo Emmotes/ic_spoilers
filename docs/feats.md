@@ -755,23 +755,6 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableChampion">
             <span style="margin-left: 8px;">Thellora</span>
         </span>
-        <span class="featTableIcon2">
-            ![??? Icon](images/featicons/upgradefa.png)???
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">20% Plateaus of Unicorn Run</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Thellora</span>
-        </span>
         <span class="featTableIcon4">
             ![Scholar Icon](images/featicons/attributeboostx2.png)Scholar
         </span>
