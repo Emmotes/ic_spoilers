@@ -5,20 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Boom Boom the Tavernkeep Familiar Pack - $9.99  
-Date of release: 16 Oct 2023
-
-Contents:
-
-* Familiar: `Boom Boom the Tavernkeep`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Harmonium Thellora Theme Pack - $24.99  
 Date of release: 18 Oct 2023
 
