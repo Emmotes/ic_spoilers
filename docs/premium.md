@@ -52,12 +52,12 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Spelljammer Celeste Skin & Feat Pack - $9.99  
+### Spelljammer Pilot Celeste Skin & Feat Pack - $9.99  
 Date of release: 01 Nov 2023
 
 Contents:
 
-* Skin: `Spelljammer Celeste`
+* Skin: `Spelljammer Pilot Celeste`
 * Feat: `Immolation` (Celeste)
 * Chests: `Gold Celeste Chest` x7 (Shinies x1)
 * Buff: `Large Blacksmithing Contract` x6
@@ -90,7 +90,7 @@ Contents:
 * Skin: `Mind Flayer Shadowheart`
 * Feat: ???
 * Familiar: `Scratch the Dog`
-* Chests: `Gold  Y7E4 Chest` x16 (Shinies x2)
+* Chests: `Gold  Shadowheart Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 

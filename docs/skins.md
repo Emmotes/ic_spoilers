@@ -53,10 +53,10 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Spelljammer Celeste Portrait](images/skin_portraits/spelljammerceleste.png)Spelljammer Celeste
+            ![Spelljammer Pilot Celeste Portrait](images/skin_portraits/spelljammerpilotceleste.png)Spelljammer Pilot Celeste
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spelljammer Celeste Skin & Feat Pack</span>
+            <span style="margin-left: 8px;">Spelljammer Pilot Celeste Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">$9.99</span>
