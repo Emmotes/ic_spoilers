@@ -10,7 +10,26 @@ We know the next Emergence event will be Glitches and that it will start on 22 N
 
 ### Shop Contents
 
-Unknown.
+<span class="emergenceShopTableRow">
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Marvelous Support Pigment Icon](images/general/pigment_support.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Pigmint**</span>
+            <span style="margin-left:15px">Marvelous Support Pigment</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Unknown Chest Icon](images/general/unknown.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Glitches Emergence Chest</span>
+        </span>
+    </span>
+</span>
 
 # Emergence FAQ
 
