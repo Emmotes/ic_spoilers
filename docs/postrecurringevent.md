@@ -99,6 +99,35 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                ![Emergence 3 Icon](images/general/e3.png)**Emergence 3** - Mind Flayers
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>23 Aug 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>01 Dec 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>01 Mar 2024 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 ![Season 5 Icon](images/general/s5.png)**Season 5** - Acquisitions Incorporated
             </span>
         </span>
@@ -151,35 +180,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
             <span class="postSeasonTableDate">
                 <span>17 Jul 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                ![Emergence 3 Icon](images/general/e3.png)**Emergence 3** - Mind Flayers
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>23 Aug 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>Unknown</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>Unknown</span>
             </span>
         </span>
     </span>
