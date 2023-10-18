@@ -10,6 +10,7 @@
 * [Korth](#korth)
 * [Warden](#warden)
 * [Sisaspia](#sisaspia)
+* [Season Chest Icons](#season-chest-icons)
 <br />
 
 ![Season 6 Icon](images/season_6/icon.png)
@@ -24,7 +25,7 @@ Season 6 will be called `Elemental Rebirth` and is guesstimated to start on 08 N
 
 ![Zorbu Season Portrait](images/season_6/zorbu.png)![Nrakk Season Portrait](images/season_6/nrakk.png)![Korth Season Portrait](images/season_6/korth.png)![Warden Season Portrait](images/season_6/warden.png)![Sisaspia Season Portrait](images/season_6/sisaspia.png)
 
-We believe the five seasonal champions this time around are likely to be Zorbu, Nrakk, Korth, Warden and Sisaspia.
+The five seasonal champions this time around will be Zorbu Warden Sisaspia Nrakk and Korth. We know this because the seasonal chest will be `Gold Elemental Rebirth Chest` and it contains loot for those champions.
 
 This means the theme this season is (or seems to be) high dexterity CNE originals.
 
@@ -667,7 +668,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "description": "Korth leaps to the nearest enemy and ferociously bites them.",
     "long_description": "Korth leaps to the nearest enemy and ferociously bites them, causing massive damage and a bleed for 5x the base damage over 5 seconds.",
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "damage_types": ["melee"],
     "graphic_id": 5731,
     "target": "front",
@@ -730,6 +731,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "formation_arrows_for_effected_only": true,
+            "ability_score_change_updates_targets": true,
             "off_when_benched": true,
             "slot_change_updates_targets": true,
             "effect_string": "hero_dps_multiplier_mult,100",
@@ -786,7 +788,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "marked_effect_data": {
             "active_graphic_y": -60,
             "active_graphic_id": 5733,
-            "effect_string": "increase_monster_damage,0"
+            "effect_string": "increase_monster_damage,100"
         },
         "effect_string": "korth_lizardfolk_tactics_v2,100"
     }],
@@ -886,7 +888,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "manual_stacking": true,
             "off_when_benched": true,
             "show_bonus": true,
-            "amount_func": "mult",
             "effect_string": "buff_upgrade,20,13034"
         },
         {
@@ -964,9 +965,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <pre>
 {
     "effect_keys": [
-        {"effect_string": "buff_upgrade_add,1,13041"},
-        {"effect_string": "buff_upgrade_add,1,13042"},
-        {"effect_string": "buff_upgrade_add,1,13043"}
+        {"effect_string": "buff_upgrade_add_flat_amount,1,13041"},
+        {"effect_string": "buff_upgrade_add_flat_amount,1,13042"},
+        {"effect_string": "buff_upgrade_add_flat_amount,1,13043"}
     ],
     "requirements": "",
     "description": {"desc": "Increases the base Dexterity score buff provided by Samurai Training by 1"},
@@ -1753,6 +1754,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+# Season Chest Icons
+
+| Shop | Inventory |
+|---|---|
+| ![Shop Season Chest Icon](images/season_6/chest.png) | ![Inventory Season Chest Icon](images/season_6/chestInv.png) |
 
 [Back to Top](#top)
 
