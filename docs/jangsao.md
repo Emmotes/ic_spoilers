@@ -165,7 +165,7 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
 {
     "description": "Jang Sao transforms and shooting stars make her foes take more damage.",
     "long_description": "Jang Sao transforms into her starry form for 15 seconds and fires shooting stars at her enemies, making them take 100% additional damage for the duration.",
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "damage_types": ["magic"],
     "graphic_id": 21208,
     "target": "random",
@@ -279,7 +279,7 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Stellar Nursery**
-> Every 5 seconds, Jang Sao heals the 2 most damaged champions in the formation for 50 health.
+> Every 5 seconds, Jang Sao heals the 2 most damaged Champions in the formation for 50 health.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -292,7 +292,7 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
         {"effect_string": "jangsao_stellar_nursery_target_count,2"}
     ],
     "requirements": "",
-    "description": {"desc": "Every $(tick_rate) seconds, Jang Sao heals the $(jangsao_stellar_nursery_target_count) most damaged champions in the formation for $(amount) health."},
+    "description": {"desc": "Every $(tick_rate) seconds, Jang Sao heals the $(jangsao_stellar_nursery_target_count) most damaged Champions in the formation for $(amount) health."},
     "id": 1735,
     "flavour_text": "",
     "graphic_id": 21197,
@@ -318,7 +318,10 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
 {
     "effect_keys": [{
         "stack_title": "Total Pigments",
-        "amount_updated_listeners": ["loot_changed"],
+        "amount_updated_listeners": [
+            "slot_changed",
+            "loot_changed"
+        ],
         "stacks_multiply": true,
         "show_bonus": true,
         "amount_func": "mult",
