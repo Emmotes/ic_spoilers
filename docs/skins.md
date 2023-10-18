@@ -42,10 +42,10 @@ Please be aware that the developers recently removed most future skins from the 
             ![Venture Casual Rosie Portrait](images/skin_portraits/venturecasualrosie.png)Venture Casual Rosie
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Gem Shop</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">20,000</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">18 Oct 2023</span>
@@ -70,10 +70,10 @@ Please be aware that the developers recently removed most future skins from the 
             ![Athar Jang Sao Portrait](images/skin_portraits/atharjangsao.png)Athar Jang Sao
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Athar Jang Sao Theme Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$24.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">08 Nov 2023</span>
@@ -168,10 +168,10 @@ Please be aware that the developers recently removed most future skins from the 
             ![Fated Virgil Portrait](images/skin_portraits/fatedvirgil.png)Fated Virgil
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Fated Virgil Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$9.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">08 Nov 2023</span>
@@ -280,7 +280,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Empty Placeholder](images/general/unknown.png)Warforged Birdsong
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Weekend (Guess)</span>
+            <span style="margin-left: 8px;">[Weekend](weekends.md) (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -329,6 +329,20 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">29 Nov 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Casual Astarion
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Casual Astarion Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">13 Dec 2023</span>
         </span>
     </span>
     <span class="skinTableRow">

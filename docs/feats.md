@@ -118,13 +118,13 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">Birdsong</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/featicons/unknown.png)Warforged Glitch
+            ![Warforged Glitch Icon](images/featicons/glitch.png)Warforged Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">&nbsp;</span>
+            <span style="margin-left: 8px;">Counts as Warforged & +20% to Song of Battle per Unique Race</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">24 Nov 2023</span>
@@ -135,10 +135,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">Calliope</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/featicons/unknown.png)Harengon Glitch
+            ![Harengon Glitch Icon](images/featicons/glitch.png)Harengon Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">&nbsp;</span>
+            <span style="margin-left: 8px;">Counts as Harengon & +20% to Bardic Inspiration per Bard</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -152,10 +152,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">Freely</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/featicons/unknown.png)Aasimar Glitch
+            ![Aasimar Glitch Icon](images/featicons/glitch.png)Aasimar Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">&nbsp;</span>
+            <span style="margin-left: 8px;">Counts as Aasimar & +20% to Unlucky For Them per Aasimar</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -169,10 +169,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">Havilar</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/featicons/unknown.png)Half-Elf Glitch
+            ![Half-Elf Glitch Icon](images/featicons/glitch.png)Half-Elf Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">&nbsp;</span>
+            <span style="margin-left: 8px;">Counts as Half Elf & +20% to Battlemaster per Half Elf</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -186,10 +186,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">Hitch</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/featicons/unknown.png)Centaur Glitch
+            ![Centaur Glitch Icon](images/featicons/glitch.png)Centaur Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">&nbsp;</span>
+            <span style="margin-left: 8px;">Counts as Centaur & +20% to Natural Performer per Unique Race</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -203,10 +203,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">Nayeli</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/featicons/unknown.png)Githyanki Glitch
+            ![Githyanki Glitch Icon](images/featicons/glitch.png)Githyanki Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">&nbsp;</span>
+            <span style="margin-left: 8px;">Counts as Githyanki & +20% to Aura of Courage per Unique Race</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -220,10 +220,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">Orkira</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/featicons/unknown.png)Half-Elf Glitch
+            ![Half-Elf Glitch Icon](images/featicons/glitch.png)Half-Elf Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">&nbsp;</span>
+            <span style="margin-left: 8px;">Counts as Half Elf & +20% to Elemental Fire per Half Elf</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -237,13 +237,13 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">Sentry</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/featicons/unknown.png)Half-Elf Glitch
+            ![Half-Elf Glitch Icon](images/featicons/glitch.png)Half-Elf Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">&nbsp;</span>
+            <span style="margin-left: 8px;">Counts as Half Elf & +20% to Guardian of Solwynn per Half Elf</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">24 Nov 2023</span>
