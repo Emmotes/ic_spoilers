@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Kent</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Weapon Master Icon](images/featicons/selfdps.png)Weapon Master
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">120% Self DPS</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">18 Oct 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Thellora</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Thin Their Ranks Icon](images/featicons/upgradefa.png)Thin Their Ranks
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">-50% Req Rush Stacks from Plateaus of Unicorn Run</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">18 Oct 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Celeste</span>
         </span>
         <span class="featTableIcon4">

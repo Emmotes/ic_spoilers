@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Harmonium Thellora Theme Pack - $24.99  
-Date of release: 18 Oct 2023
-
-Contents:
-
-* Champion: `Thellora`
-* Skin: `Harmonium Thellora`
-* Feat: `Thin Their Ranks` (Thellora)
-* Familiar: `Lumi the Fire Elemental`
-* Chests: `Gold Thellora Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Society of Sensation Kent Skin & Feat Pack - $9.99  
-Date of release: 18 Oct 2023
-
-Contents:
-
-* Champion: `Kent`
-* Skin: `Society of Sensation Kent`
-* Feat: `Weapon Master` (Kent)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Kent Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Minute the Marut Familiar Pack - $14.99  
 Date of release: 25 Oct 2023
 

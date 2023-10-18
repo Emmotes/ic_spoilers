@@ -11,48 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harmonium Thellora Portrait](images/skin_portraits/harmoniumthellora.png)Harmonium Thellora
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Harmonium Thellora Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$24.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">18 Oct 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Society of Sensation Kent Portrait](images/skin_portraits/societyofsensationkent.png)Society of Sensation Kent
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Society of Sensation Kent Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">18 Oct 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Venture Casual Rosie Portrait](images/skin_portraits/venturecasualrosie.png)Venture Casual Rosie
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Gem Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">20,000</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">18 Oct 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Spelljammer Pilot Celeste Portrait](images/skin_portraits/spelljammerpilotceleste.png)Spelljammer Pilot Celeste
         </span>
         <span class="skinTableSource">
