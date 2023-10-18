@@ -174,7 +174,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 {
     "description": "Shadowheart's mysterious relic prevents all damage for a short while.",
     "long_description": "Shadowheart's mysterious relic strikes back enemies and prevents all damage to your Champions for a short while.",
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "damage_types": ["magic"],
     "graphic_id": 21370,
     "target": "all",
@@ -310,9 +310,9 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 **Invoke Duplicity**
 > Shadowheart creates an Illusory Duplicate of herself which hides in the formation and applies Twilight Trickery and Light in the Dark to Champions relative to itself with half the range as normal. The duplicate positions itself in the same formation slot as the Champion in the formation with the highest DEX score. Ties go to the Champion in the highest bench seat.
 >  
-> - Target:
-> - Twilight Trickery Damage Buff: 0%
-> - Light In The Dark Heal Amount: 0.
+> - Illusory Duplicate Source:
+> - Twilight Trickery Damage Buff: ???%
+> - Light In The Dark Heal Amount: ???.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -348,7 +348,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
     "description": {
         "post": {"conditions": [{
             "condition": "not static_desc",
-            "desc": "^^Target: $shadowheart_illusory_duplicate_target^Twilight Trickery Damage Buff: $amount___2%^Light In The Dark Heal Amount: $amount___3"
+            "desc": "^^Illusory Duplicate Source: $shadowheart_illusory_duplicate_target^Twilight Trickery Damage Buff: $shadowheart_twilight_trickery_amount%^Light In The Dark Heal Amount: $shadowheart_light_in_the_dark_amount"
         }]},
         "desc": "Shadowheart creates an Illusory Duplicate of herself which hides in the formation and applies Twilight Trickery and Light in the Dark to Champions relative to itself with half the range as normal. The duplicate positions itself in the same formation slot as the Champion in the formation with the highest DEX score. Ties go to the Champion in the highest bench seat."
     },
