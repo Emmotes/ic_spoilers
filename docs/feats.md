@@ -124,7 +124,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">Counts as Warforged & +20% to Song of Battle per Unique Race</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
+            <span style="margin-left: 8px;">[Weekend](weekends.md) (Guess)</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">24 Nov 2023</span>
@@ -243,7 +243,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">Counts as Half Elf & +20% to Guardian of Solwynn per Half Elf</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
+            <span style="margin-left: 8px;">[Weekend](weekends.md) (Guess)</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">24 Nov 2023</span>
