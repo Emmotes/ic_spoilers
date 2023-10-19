@@ -21,7 +21,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Jang Sao&nbsp;<span class="indexChampionTableNoLink">- Satyr Druid / Wizard (Guess)</span>
+                Jang Sao&nbsp;<span class="indexChampionTableNoLink">- Satyr Druid / Wizard</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Feast of the Moon - 8 November 2023</span>
