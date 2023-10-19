@@ -1078,10 +1078,10 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Empty Placeholder](images/featicons/unknown.png)Emerging Artist
+            ![Emerging Artist Icon](images/featicons/jangsaopigments.png)Emerging Artist
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% All Champion Damage</span>
+            <span style="margin-left: 8px;">40% All Champion Damage per Pigment on Jang Sao (Additive)</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
