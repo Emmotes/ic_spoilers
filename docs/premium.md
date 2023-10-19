@@ -43,7 +43,7 @@ Contents:
 
 * Champion: `Jang Sao`
 * Skin: `Athar Jang Sao`
-* Feat: ???
+* Feat: `The Greater Journey` (Jang Sao)
 * Familiar: `Finley the Goldfish`
 * Chests: `Gold Jang Sao Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1

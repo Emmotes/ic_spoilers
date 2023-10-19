@@ -47,6 +47,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span style="margin-left: 8px;">Jang Sao</span>
+        </span>
+        <span class="featTableIcon4">
+            ![The Greater Journey Icon](images/featicons/upgradefa.png)The Greater Journey
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">The Mysterious Wanderer 2->3 Slots</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">08 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span style="margin-left: 8px;">Virgil</span>
         </span>
         <span class="featTableIcon4">
