@@ -1070,7 +1070,7 @@ This list will only show feats that are going to be available on the release of 
             ![Time and Space Icon](images/featicons/upgradefa.png)Time and Space
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% All Specialisations</span>
+            <span style="margin-left: 8px;">40% All First Specialisations</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Gold Chest</span>
