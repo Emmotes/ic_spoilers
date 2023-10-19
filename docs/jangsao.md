@@ -886,7 +886,7 @@ Upgrades:
             <span style="margin-left: 8px;">Lunation</span>
         </span>
         <span class="itemTableEffect">
-            <span style="margin-left: 8px;">All Specialisations</span>
+            <span style="margin-left: 8px;">All First Specialisations</span>
         </span>
     </span>
     <span class="itemTableRow">
