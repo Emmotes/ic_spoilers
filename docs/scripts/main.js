@@ -38,6 +38,7 @@ mapnnm.set("Catti-brie", "Catti");
 mapnnm.set("Certainty", "Certainly");
 mapnnm.set("Tatyana", "Taty");
 mapnnm.set("Sgt. Knox", "Knox");
+mapnnm.set("Thellora", "Thermometer");
 mapnnm.set("Pigment", "Pig Mint");
 mapnnm.set("pigment", "pig mint");
 mapnnm.set("egendaries", "egos");
