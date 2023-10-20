@@ -900,7 +900,7 @@ Upgrades:
             <span style="margin-left: 8px;">Night Scatterer</span>
         </span>
         <span class="itemTableEffect">
-            <span style="margin-left: 8px;">Ultimate Cooldown Reduction</span>
+            <span style="margin-left: 8px;">Ultimate Cooldown Reduction<br/><span style="font-size:0.9em;">Cap: 501 dull / 251 shiny / 126 golden.</span></span>
         </span>
     </span>
 </span>
