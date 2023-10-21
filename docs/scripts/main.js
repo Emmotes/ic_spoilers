@@ -59,6 +59,11 @@ nnm.map.set("Blacksmith Contract", "BSC");
 nnm.map.set("Bounty Contract", "BC");
 nnm.map.set("Potion of Polish", "PoP");
 nnm.map.set("Golden Epic", "GE");
+nnm.map.set("Potion of Speed", "Speed Pot");
+nnm.map.set("Potion of Giant's Strength", "Damage Pot");
+nnm.map.set("Potion of Clairvoyance", "Gold Pot");
+nnm.map.set("Potion of Fire Breath", "Fire Breath Pot");
+nnm.map.set("Potion of Heroism", "Health Pot");
 
 const allModes = [rrm, nnm];
 
