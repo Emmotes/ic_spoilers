@@ -687,3 +687,86 @@ code{
 .spoilerWarning code {
 	font-size: inherit;
 }
+.modesCol {
+	display: flex;
+	flex-direction: column;
+	width: 500px;
+	height: fit-content;
+}
+.modesColInner {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	border: 1px solid black;
+	background-color: #141414;
+	padding: 8px;
+	margin: 4px;
+}
+.modesRow {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+.modesType {
+	display: flex;
+	flex-direction: row;
+	flex-grow: 1;
+	min-width: 300px;
+}
+.modesLabel {
+}
+.modesDetails {
+	width: 60px;
+	text-align: right;
+}
+.modesContent {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+.modesContentRow,.modesContentRowHeader {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	border-bottom: 1px solid #313131;
+	padding: 5px 0px 0px 5px;
+}
+.modesContentRowHeader {
+	border-bottom: 4px ridge black;
+	font-size: 1.1em;
+}
+.modesCol1,.modesCol2 {
+	width: 50%;
+	font-size: 0.9em;
+}
+input[type="checkbox"] {
+	-webkit-appearance: none;
+	appearance: none;
+	background-color: #101010;
+	margin: 4px 8px 0px 4px;
+	font: inherit;
+	color: currentColor;
+	width: 1.6em;
+	height: 1.6em;
+	border: 0.1em solid currentColor;
+	border-radius: 0.3em;
+	transform: translateY(-0.25em);
+	display: grid;
+	place-content: center;
+}
+input[type="checkbox"]::before {
+	content: "";
+	width: 1.6em;
+	height: 1.6em;
+	transform: scale(0);
+	transition: 120ms transform ease-in-out;
+	box-shadow: inset 1em 1em currentColor;
+	transform-origin: center;
+	/* Windows High Contrast Mode */
+	background-color: CanvasText;
+	
+	clip-path: polygon(17% 54%, 28% 43%, 38% 54%, 70% 22%, 81% 33%, 38% 75%, 17% 54%)
+}
+input[type="checkbox"]:checked::before {
+	transform: scale(1);
+}
