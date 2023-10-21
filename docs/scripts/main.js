@@ -68,7 +68,7 @@ nnm.map.set("Potion of Heroism", "Health Pot");
 const allModes = [rrm, nnm];
 
 function init() {
-	var edit = !(document.location.pathname == "/modes.html");
+	var edit = !(document.location.pathname.includes("/modes.html"));
 	updateModes(edit);
 	
 	if (!edit) {
