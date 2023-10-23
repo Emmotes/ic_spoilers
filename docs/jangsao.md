@@ -172,10 +172,10 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
             <span style="margin-left:8px;">77</span>
         </span>
         <span class="champStatsTableTrials">
-            <span style="margin-left:8px;">&nbsp;</span>
+            <span style="margin-left:8px;">Champion ID:</span>
         </span>
         <span class="champStatsTablePatrons">
-            <span style="margin-left:8px;">&nbsp;</span>
+            <span style="margin-left:8px;">140</span>
         </span>
     </span>
 </span>

@@ -45,6 +45,7 @@ nnm.map.set("Voronika", "Voro");
 nnm.map.set("Asharra", "Ash");
 nnm.map.set("Farideh", "Fari");
 nnm.map.set("Birdsong", "BS");
+nnm.map.set("Dungeon Master", "DM");
 nnm.map.set("Catti-brie", "Catti");
 nnm.map.set("Certainty", "Certainly");
 nnm.map.set("Tatyana", "Taty");
