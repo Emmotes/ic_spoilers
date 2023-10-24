@@ -1011,6 +1011,17 @@ This list will only show feats that are going to be available on the release of 
         </span>
     </span>
     <span class="featTableRow">
+        <span class="featTableIcon4">
+            ![The Greater Journey Icon](images/featicons/upgradefa.png)The Greater Journey
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">The Mysterious Wanderer 2->3 Slots</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
         <span class="featTableIcon2">
             ![Mystra's Star Circle Icon](images/featicons/upgradefa.png)Mystra's Star Circle
         </span>
