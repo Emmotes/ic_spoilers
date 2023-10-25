@@ -5,23 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Minute the Marut Familiar Pack - $14.99  
-Date of release: 25 Oct 2023
-
-Contents:
-
-* Familiar: `Minute the Marut`
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Spelljammer Pilot Celeste Skin & Feat Pack - $9.99  
 Date of release: 01 Nov 2023
 
