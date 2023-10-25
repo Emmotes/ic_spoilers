@@ -50,19 +50,25 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="wyll.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Baldur's Gate 3 Champion #4&nbsp;<span class="indexChampionTableNoLink">- Unknown</span>
+                Wyll&nbsp;<span class="indexChampionTableNoLink">- Human Warlock of Absolute Adversaries (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Wintershield - 20 December 2023</span>
             </span>
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
     <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
             ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
