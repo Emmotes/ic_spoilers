@@ -55,7 +55,7 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+            ![Wyll Portrait Icon](images/wyll/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
@@ -69,19 +69,25 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="karlach.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Baldur's Gate 3 Champion #5&nbsp;<span class="indexChampionTableNoLink">- Unknown</span>
+                Karlach&nbsp;<span class="indexChampionTableNoLink">- Tiefling Barbarian of Absolute Adversaries (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Midwinter - 10 January 2024</span>
             </span>
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Recurring Events
