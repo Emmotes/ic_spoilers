@@ -26,9 +26,189 @@ This is all - presumably - to offer some kind of message or choice. Then when it
 
 Of course - bear in mind - that's just my interpretation of the data - I could be wrong. I've added it below for your own perusal.
 
-*Note: The `game_change_data` below was recently removed from the formation data. It could be that it's been scrapped - or they've implemented it a different way - or they're just trying to hide it from us until release. I have no idea - but I'm keeping the data here just-in-case.*
+*Note: The `game_change_data` recently changed. I have kept the old data just for posterity - but the new data is what's in use now.*
 
-<details><summary><em>Raw Data</em></summary><p><pre>
+<details><summary><em>New Raw Data</em></summary><p><pre>
+"campaign_name": "Turn of Fortune's Wheel",
+"game_change_data": [
+	{
+		"type": "override_quest_graphic",
+		"graphic_id": 20109
+	},
+	{
+		"type": "block_gamepad_input",
+		"loop_at": 51,
+		"by_area": [
+			{
+				"min_area": 1,
+				"blocked": false
+			},
+			{
+				"min_area": 50,
+				"blocked": true,
+				"buttons": [
+					"LeftBump",
+					"RightBump",
+					"LeftTrigger",
+					"RightTrigger",
+					"Start"
+				],
+				"axes": [
+					"LeftStick",
+					"RightStick",
+					"DPad"
+				]
+			}
+		]
+	},
+	{
+		"type": "cap_area_level",
+		"area_level_cap": 50
+	},
+	{
+		"type": "cap_area_skipping",
+		"area_skip_cap": 50
+	},
+	{
+		"type": "force_reset",
+		"instant": true,
+		"area": 50
+	},
+	{
+		"type": "force_cinematics",
+		"loop_at": 51,
+		"by_area": [
+			{
+				"min_area": 1,
+				"force": false
+			},
+			{
+				"min_area": 50,
+				"force": true
+			}
+		]
+	},
+	{
+		"type": "disable_hotkeys",
+		"loop_at": 51,
+		"by_area": [
+			{
+				"min_area": 1,
+				"enabled": true
+			},
+			{
+				"min_area": 50,
+				"enabled": false
+			}
+		]
+	},
+	{
+		"type": "skip_boss_loot",
+		"loop_at": 51,
+		"by_area": [
+			{
+				"min_area": 1,
+				"skip": false
+			},
+			{
+				"min_area": 50,
+				"skip": true
+			}
+		]
+	},
+	{
+		"type": "hide_ui",
+		"by_area": [
+			{
+				"min_area": 1,
+				"hide": false
+			},
+			{
+				"min_area": 50,
+				"max_area": 50,
+				"hide": true
+			}
+		],
+		"loop_at": 51
+	},
+	{
+		"type": "cap_time_scale",
+		"by_area": [
+			{
+				"min_area": 1,
+				"should_cap": false
+			},
+			{
+				"min_area": 50,
+				"max_area": 50,
+				"should_cap": true,
+				"time_scale_cap": 1
+			}
+		],
+		"loop_at": 51
+	},
+	{
+		"type": "slot_effects_by_area",
+		"effects": [
+			{
+				"effect_string": "increase_attack_cooldown,1000000"
+			},
+			{
+				"effect_string": "disable_hero_properties,0,0,0,0,1"
+			}
+		],
+		"loop_at": 51,
+		"area_slot_effects": [
+			{
+				"min_area": 50,
+				"max_area": 50,
+				"slot_effects": [
+					{
+						"slots": [
+							0,
+							1,
+							2,
+							3,
+							4,
+							5,
+							6,
+							7,
+							8,
+							9
+						],
+						"effect_index": 0
+					}
+				]
+			}
+		]
+	},
+	{
+		"type": "locked_slots",
+		"loop_at": 51,
+		"by_area": [
+			{
+				"min_area": 50,
+				"max_area": 50,
+				"locked": true,
+				"slots": [
+					0,
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				]
+			}
+		]
+	}
+],
+</pre></p></details><br/>
+
+<details><summary><em>Old Raw Data</em></summary><p><pre>
 "campaign_name": "Turn of Fortune's Wheel",
 "game_change_data": [
 	{
