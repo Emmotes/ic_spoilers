@@ -5,6 +5,7 @@
 * [Season 6](#season-6)
 * [Theme](#theme)
 * [Changes](#changes)
+* [Modron: Dexterous Core](#modron-dexterous-core)
 * [Zorbu](#zorbu)
 * [Nrakk](#nrakk)
 * [Korth](#korth)
