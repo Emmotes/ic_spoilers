@@ -246,59 +246,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Riddling Rivals** (Guess)
-> Wyll increases the damage of all Champions that belong to the most represented race, class, or affiliation(s) in the formation by 100%. If there is a tie, all tied groups gain the buff, and Champions who are part of several groups can gain multiple stacks of the buff (up to a max of 4 stacks), stacking multiplicatively. Buffs apply to the pre-stack value.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [
-        {
-            "effect_string": "pre_stack_amount,100",
-            "skip_effect_key_desc": true
-        },
-        {
-            "amount_updated_listeners": [
-                "slot_changed",
-                "feat_changed"
-            ],
-            "show_bonus_on_receiver_only": true,
-            "amount_func": "mult",
-            "stack_func": "per_hero_attribute",
-            "use_computed_amount_for_description": true,
-            "effect_string": "hero_dps_multiplier_mult,0",
-            "show_stacks": true,
-            "targets": ["all"],
-            "post_process_expr": "min(input,max_stacks)",
-            "amount_expr": "upgrade_amount(13429,0)",
-            "show_stats_on_owner": false,
-            "off_when_benched": true,
-            "per_hero_targets": ["effect_key_slot"],
-            "per_hero_expr": "get_num_most_common_affiliations() + get_num_most_common_races() + get_num_most_common_classes()",
-            "show_stats_on_receiver": true,
-            "max_stacks": 4
-        }
-    ],
-    "requirements": "",
-    "description": {"desc": "Wyll increases the damage of all Champions that belong to the most represented race, class, or affiliation(s) in the formation by $(amount)%. If there is a tie, all tied groups gain the buff, and Champions who are part of several groups can gain multiple stacks of the buff (up to a max of $(max_stacks___2) stacks), stacking multiplicatively. Buffs apply to the pre-stack value."},
-    "id": 1792,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {
-        "indexed_effect_properties": true,
-        "is_formation_ability": true,
-        "default_bonus_index": 0,
-        "per_effect_index_bonuses": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > Increases the effect of Celestial Resistance by 70%.
 <details><summary><em>Raw Data</em></summary>
