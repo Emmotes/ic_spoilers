@@ -4,6 +4,9 @@
     <span class="championPortraitsImage">
         ![PC Portrait for Karlach](images/karlach/portrait.png)Portait
     </span>
+    <span class="championPortraitsImage">
+        ![Model GIF of Karlach](images/karlach/model.gif)Model
+    </span>
 </span>
 
 # Karlach
