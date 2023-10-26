@@ -1,9 +1,10 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsImage">
+        ![PC Portrait for Wyll](images/wyll/portrait.png)Portait
+    </span>
 </span>
-{% endcomment %}
 
 # Wyll
 
@@ -94,22 +95,72 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Unknown**
-> Unknown effect.
+**Base Attack: Blade & Blast** (Melee and Magic)
+> Wyll stabs the closest foe, then casts Eldritch Blast on the most damaged foe.  
+> Cooldown: 5s (Cap 1.25s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "Wyll stabs the closest foe, then casts Eldritch Blast on the most damaged foe.",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": [
+        "melee",
+        "magic"
+    ],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": [
+        "melee",
+        "ranged"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "target_offset": [
+            -250,
+            0
+        ],
+        "special_melee": "wyll",
+        "type": "melee_attack"
+    }],
+    "name": "Blade & Blast",
+    "cooldown": 5,
+    "id": 708
+}
 </pre>
 </p>
 </details>
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Unknown**
-> Unknown effect.
+**Ultimate Attack: Mizora**
+> Wyll's patron Mizora appears behind him for 15 seconds, increasing his damage and attack rate for the duration.  
+> Cooldown: 5s (Cap 1.25s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "Mizora increases Wyll's damage and attack rate for 15 seconds.",
+    "long_description": "Wyll's patron Mizora appears behind him for 15 seconds, increasing his damage and attack rate for the duration.",
+    "damage_modifier": 1,
+    "damage_types": ["magic"],
+    "graphic_id": 0,
+    "target": "none",
+    "aoe_radius": 0,
+    "tags": ["ultimate"],
+    "num_targets": 0,
+    "animations": [{
+        "percent_to_formation_start": 0,
+        "type": "warden_ultimate"
+    }],
+    "name": "Mizora",
+    "cooldown": 5,
+    "id": 709
+}
 </pre>
 </p>
 </details>
@@ -377,12 +428,26 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
-> Wyll increases the effect of Folk Hero by $(amount)% for each Champion in the formation with a Magic base attack, stacking multiplicatively.
+> Wyll increases the effect of Folk Hero by 25% for each Champion in the formation with a Magic base attack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
+    "effect_keys": [{
+        "amount_updated_listeners": [
+            "slot_changed",
+            "feat_changed",
+            "attack_changed"
+        ],
+        "off_when_benched": true,
+        "show_bonus": true,
+        "per_hero_targets": ["all"],
+        "amount_func": "mult",
+        "stack_func": "per_hero_attribute",
+        "use_computed_amount_for_description": true,
+        "per_hero_expr": "has_base_attack_dmg_type_magic",
+        "effect_string": "buff_upgrade,25,13429"
+    }],
     "requirements": "",
     "description": {"desc": "Wyll increases the effect of Folk Hero by $(amount)% for each Champion in the formation with a Magic base attack, stacking multiplicatively."},
     "id": 1798,
@@ -411,13 +476,16 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Wyll Console Portrait](images/wyll/console.png)Console Portait
+        </span>
+    </span>
     </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
