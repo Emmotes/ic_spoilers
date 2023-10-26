@@ -35,6 +35,48 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
+
+# Modron: Dexterous Core
+
+![Modron Icon](images/season_6/modron_icon.png)
+
+This core is designed for Dexterity 15+ champions. It also has Automation at level 1.
+
+As you'll be able to see in the picture - it comes with some new nodes.
+
+Dexterous Support: (dexSup in picture)
+
+> Increase the damage of all Champions by X% for each DEX 15+ Champion in the formation.
+
+Dexterous DPS: (dex15 in picture)
+
+> Increase the damage of all DEX 15+ champions by X%.
+
+### Bonus Breakdown
+
+These tables are assuming that every node that can be supercharged is fully supercharged at 500% (which is possible). The left group are based on using a champion with 15+ Dexterity - the right group are using a dps champion that has less than 15 Dexterity.
+
+| With 15+ Dex DPS<br />Num 15+ Dex in Formation | Bonus |   | With 14- Dex DPS<br />Num 15+ Dex in Formation | Bonus |
+|--:|--:|---|--:|--:|
+| 1 | 1.15e49% |   | 0 | 8.01e28% |
+| 2 | 1.74e50% |   | 1 | 1.39e35% |
+| 3 | 8.63e50% |   | 2 | 2.10e36% |
+| 4 | 2.70e51% |   | 3 | 1.04e37% |
+| 5 | 6.56e51% |   | 4 | 3.27e37% |
+| 6 | 1.35e52% |   | 5 | 7.93e37% |
+| 7 | 2.50e52% |   | 6 | 1.64e38% |
+| 8 | 4.26e52% |   | 7 | 3.03e38% |
+| 9 | 6.81e52% |   | 8 | 5.15e38% |
+| 10 | 1.04e53% |   | 9 | 8.24e38% |
+
+### Level 1
+
+![Dexterous Core Core Level 1](images/season_6/modron_1.png)
+
+### Level 15
+
+![Dexterous Core Core Level 15](images/season_6/modron_15.png)
+
 # Zorbu
 
 ![Zorbu Portrait](images/season_6/zorbu.png)
