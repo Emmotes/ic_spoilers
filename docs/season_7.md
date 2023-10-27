@@ -16,7 +16,7 @@ Season 7 is guesstimated to start on 17 January 2024.
 
 # Theme
 
-![Shaka Season Portrait](images/season_7/shaka.png)![Selise Season Portrait](images/season_7/selise.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)
+![Shaka Season Portrait](images/season_7/shaka.png)![Selise Season Portrait](images/season_7/selise.png)![D'hani Season Portrait](images/season_7/dhani.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)
 
 We only have data for three seasonal champions so far. They are Shaka, Selise and D'hani. The rest are as yet unknown.
 
@@ -279,7 +279,7 @@ No changes as of yet.
 
 # D'hani
 
-![D'hani Portrait](images/season_7/d'hani.png)
+![D'hani Portrait](images/season_7/dhani.png)
 
 No changes as of yet.
 
