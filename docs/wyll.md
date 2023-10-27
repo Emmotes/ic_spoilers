@@ -4,6 +4,9 @@
     <span class="championPortraitsImage">
         ![PC Portrait for Wyll](images/wyll/portrait.png)Portait
     </span>
+    <span class="championPortraitsImage">
+        ![Model GIF of Wyll](images/wyll/model.gif)Model
+    </span>
 </span>
 
 # Wyll
@@ -483,7 +486,6 @@ Unknown.
         <span class="championImagesPortrait">
             ![Wyll Console Portrait](images/wyll/console.png)Console Portait
         </span>
-    </span>
     </span>
 </span>
 
