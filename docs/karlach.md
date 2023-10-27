@@ -154,7 +154,6 @@ Unknown.
             ![Karlach Console Portrait](images/karlach/console.png)Console Portait
         </span>
     </span>
-    </span>
 </span>
 
 [Back to Top](#top)
