@@ -16,6 +16,12 @@ It seems it will be Planescape / Sigil related - given the reference to the Fort
 
 ![Formation Picture](images/campaign_fortuneswheel/formation.png)
 
+## Map Preview
+
+The introductory map for this campaign appears to be Outlands (from what I've been told).
+
+![Fortune's Wheel Campaign Map Preview](images/campaign_fortuneswheel/map.png)
+
 ## Gimmick
 
 A recent change to the formation data suggests that this campaign will have a very weird gimmick.
