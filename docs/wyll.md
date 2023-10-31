@@ -173,7 +173,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown**
+**Bravado** (Guess)
 > Wyll increases the damage of all Champions that belong to the most represented race, class, or affiliation(s) in the formation by 100%. If there is a tie, all tied groups gain the buff, and Champions who are part of several groups can gain multiple stacks of the buff (up to a max of 4 stacks), stacking multiplicatively. Buffs apply to the pre-stack value.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
@@ -280,7 +280,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown**
+**FolkHero** (Guess)
 > Fiends are Wyll's Favored Foes. All Champions deal 400% more damage against Wyll's Favored Foes.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -316,7 +316,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown**
+**Heartless Contract** (Guess)
 > Each time an enemy or distraction is defeated, Wyll increases the effect of `$(upgrade_name id: 13429)` by 25%, stacking multiplicatively up to 10 times, until the area changes.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -360,7 +360,7 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Pact of the Blade** (Guess)
 > Wyll increases the effect of 13429 by 200% on Champions with a Melee base attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -401,7 +401,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Pact of the Chain** (Guess)
 > Wyll increases the effect of Folk Hero by 10% for each Familiar assigned to his party, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -433,7 +433,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Pact of the Tome** (Guess)
 > Wyll increases the effect of Folk Hero by 25% for each Champion in the formation with a Magic base attack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -472,7 +472,64 @@ Unknown.
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">**Name**</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Armor Icon](images/wyll/21742.png)</span><span class="itemTableIcon2">![Armor Icon](images/wyll/21742.png)</span><span class="itemTableIcon3">![Armor Icon](images/wyll/21743.png)</span><span class="itemTableIcon4">![Armor Icon](images/wyll/21744.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Armor</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Blades Icon](images/wyll/21745.png)</span><span class="itemTableIcon2">![Blades Icon](images/wyll/21745.png)</span><span class="itemTableIcon3">![Blades Icon](images/wyll/21746.png)</span><span class="itemTableIcon4">![Blades Icon](images/wyll/21747.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Blades</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Camp Comforts Icon](images/wyll/21748.png)</span><span class="itemTableIcon2">![Camp Comforts Icon](images/wyll/21748.png)</span><span class="itemTableIcon3">![Camp Comforts Icon](images/wyll/21749.png)</span><span class="itemTableIcon4">![Camp Comforts Icon](images/wyll/21750.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Camp Comforts</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Fiend Clues Icon](images/wyll/21751.png)</span><span class="itemTableIcon2">![Fiend Clues Icon](images/wyll/21751.png)</span><span class="itemTableIcon3">![Fiend Clues Icon](images/wyll/21752.png)</span><span class="itemTableIcon4">![Fiend Clues Icon](images/wyll/21753.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Fiend Clues</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Folk Hero Stuff Icon](images/wyll/21754.png)</span><span class="itemTableIcon2">![Folk Hero Stuff Icon](images/wyll/21754.png)</span><span class="itemTableIcon3">![Folk Hero Stuff Icon](images/wyll/21755.png)</span><span class="itemTableIcon4">![Folk Hero Stuff Icon](images/wyll/21756.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Folk Hero Stuff</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon" style="align-items:center;">
+            <span class="itemTableIcon1">![Pact Items Icon](images/wyll/21757.png)</span><span class="itemTableIcon2">![Pact Items Icon](images/wyll/21757.png)</span><span class="itemTableIcon3">![Pact Items Icon](images/wyll/21758.png)</span><span class="itemTableIcon4">![Pact Items Icon](images/wyll/21759.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            <span style="margin-left: 8px;">Pact Items</span>
+        </span>
+    </span>
+</span>
 
 # Feats
 
@@ -488,6 +545,14 @@ Unknown.
     <span class="championImagesRow">
         <span class="championImagesPortrait">
             ![Wyll Console Portrait](images/wyll/console.png)Console Portait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Wyll Gold Chest Icon](images/wyll/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Wyll Silver Chest Icon](images/wyll/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
