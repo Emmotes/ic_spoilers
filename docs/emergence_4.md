@@ -10,7 +10,7 @@ We know the next Emergence event will be Glitches and that it will start on 22 N
 
 ### Shop Contents
 
-*Note: This list might not be complete.*
+*Note: This list might not be complete - and some items are guesswork and might not even end up in this event.*
 
 <span class="emergenceShopTableRow">
     <span class="emergenceShopTableItem">
@@ -20,6 +20,24 @@ We know the next Emergence event will be Glitches and that it will start on 22 N
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Pigmint**</span>
             <span style="margin-left:15px">Marvelous Support Pigment</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Centaur Glitch Hitch Skin Portrait](images/emergence_4/skin_367.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Centaur Glitch Hitch</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Half-Elf Glitch Sentry Skin Portrait](images/emergence_4/skin_368.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Half-Elf Glitch Sentry</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
