@@ -5,7 +5,10 @@
         ![PC Portrait for Jang Sao](images/jangsao/portrait.png)Portait
     </span>
     <span class="championPortraitsImage">
-        ![Model GIF of Jang Sao](images/jangsao/model.gif)Model
+        ![Model GIF of Jang Sao](images/jangsao/model.gif)Base Model
+    </span>
+    <span class="championPortraitsImage">
+        ![Alternate Model GIF of Jang Sao: Starry](images/jangsao/model-starry.gif)Starry Model
     </span>
 </span>
 
