@@ -69,7 +69,7 @@ Date of release: 22 Nov 2023
 Contents:
 
 * Champion: `Freely`
-* Skin: `Aasimar Freely`
+* Skin: `Aasimar Glitch Freely`
 * Feat: `Aasimar Glitch` (Freely)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
@@ -83,24 +83,24 @@ Date of release: 22 Nov 2023
 
 Contents:
 
-* Skin: `Harengon Calliope`
+* Skin: `Harengon Glitch Calliope`
 * Feat: `Harengon Glitch` (Calliope)
 * Chests: `Gold Calliope Chest` x7 (Shinies x1)
 * Champion: `Freely`
-* Skin: `Aasimar Freely`
+* Skin: `Aasimar Glitch Freely`
 * Feat: `Aasimar Glitch` (Freely)
 * Buff: `Large Blacksmithing Contract` x30
 * Buff: `Large Bounty Contract` x30
 * Chests: `Gold Freely Chest` x7 (Shinies x1)
 * Champion: `Havilar`
-* Skin: `Half-Elf Havilar`
+* Skin: `Half-Elf Glitch Havilar`
 * Feat: `Half-Elf Glitch` (Havilar)
 * Chests: `Gold Havilar Chest` x7 (Shinies x1)
-* Skin: `Githyanki Nayeli`
+* Skin: `Githyanki Glitch Nayeli`
 * Feat: `Githyanki Glitch` (Nayeli)
 * Chests: `Gold Nayeli Chest` x7 (Shinies x1)
 * Champion: `Orkira Illdrex`
-* Skin: `Half-Elf Orkira`
+* Skin: `Half-Elf Glitch Orkira`
 * Feat: `Half-Elf Glitch` (Orkira)
 * Chests: `Gold Orkira Chest` x7 (Shinies x1)
 </div></div>
@@ -112,7 +112,7 @@ Date of release: 22 Nov 2023
 
 Contents:
 
-* Skin: `Githyanki Nayeli`
+* Skin: `Githyanki Glitch Nayeli`
 * Feat: `Githyanki Glitch` (Nayeli)
 * Chests: `Gold Nayeli Chest` x7 (Shinies x1)
 * Buff: `Large Blacksmithing Contract` x6
@@ -127,7 +127,7 @@ Date of release: 22 Nov 2023
 Contents:
 
 * Champion: `Havilar`
-* Skin: `Half-Elf Havilar`
+* Skin: `Half-Elf Glitch Havilar`
 * Feat: `Half-Elf Glitch` (Havilar)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
@@ -142,7 +142,7 @@ Date of release: 22 Nov 2023
 Contents:
 
 * Champion: `Orkira Illdrex`
-* Skin: `Half-Elf Orkira`
+* Skin: `Half-Elf Glitch Orkira`
 * Feat: `Half-Elf Glitch` (Orkira)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
@@ -156,7 +156,7 @@ Date of release: 22 Nov 2023
 
 Contents:
 
-* Skin: `Harengon Calliope`
+* Skin: `Harengon Glitch Calliope`
 * Feat: `Harengon Glitch` (Calliope)
 * Chests: `Gold Calliope Chest` x7 (Shinies x1)
 * Buff: `Large Blacksmithing Contract` x6

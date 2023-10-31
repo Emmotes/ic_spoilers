@@ -151,7 +151,21 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Aasimar Freely
+            ![Empty Placeholder](images/general/unknown.png)Aasimar Glitch Freely
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Aasimar Glitch Freely Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Centaur Glitch Hitch Portrait](images/skin_portraits/centaurglitchhitch.png)Centaur Glitch Hitch
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -165,7 +179,49 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Centaur Hitch Portrait](images/skin_portraits/centaurhitch.png)Centaur Hitch
+            ![Githyanki Glitch Nayeli Portrait](images/skin_portraits/githyankiglitchnayeli.png)Githyanki Glitch Nayeli
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Githyanki Glitch Nayeli Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Half-Elf Glitch Havilar Portrait](images/skin_portraits/halfelfglitchhavilar.png)Half-Elf Glitch Havilar
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Half-Elf Glitch Havilar Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Half-Elf Glitch Orkira Portrait](images/skin_portraits/halfelfglitchorkira.png)Half-Elf Glitch Orkira
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Half-Elf Glitch Orkira Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Half-Elf Glitch Sentry Portrait](images/skin_portraits/halfelfglitchsentry.png)Half-Elf Glitch Sentry
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -179,13 +235,13 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Githyanki Nayeli Portrait](images/skin_portraits/githyankinayeli.png)Githyanki Nayeli
+            ![Empty Placeholder](images/general/unknown.png)Harengon Glitch Calliope
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Harengon Glitch Calliope Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$9.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">22 Nov 2023</span>
@@ -193,63 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Half-Elf Havilar Portrait](images/skin_portraits/halfelfhavilar.png)Half-Elf Havilar
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Half-Elf Orkira Portrait](images/skin_portraits/halfelforkira.png)Half-Elf Orkira
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Half-Elf Sentry Portrait](images/skin_portraits/halfelfsentry.png)Half-Elf Sentry
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Harengon Calliope
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Warforged Birdsong
+            ![Empty Placeholder](images/general/unknown.png)Warforged Glitch Birdsong
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">[Weekend](weekends.md) (Guess)</span>
@@ -361,7 +361,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Gnome Avren
+            ![Empty Placeholder](images/general/unknown.png)Gnome Glitch Avren
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
