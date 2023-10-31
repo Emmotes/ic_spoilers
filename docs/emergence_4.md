@@ -42,6 +42,16 @@ We know the next Emergence event will be Glitches and that it will start on 22 N
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4">![Centaur Glitch Feat Icon](images/emergence_4/feat_1594.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Centaur Glitch</span>
+            <span style="margin-left:15px">Hitch (Counts as Centaur & +20% to Natural Performer per Unique Race)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
             ![Unknown Chest Icon](images/general/unknown.png)
         </span>
         <span class="emergenceShopTableTextColumn">
