@@ -1188,7 +1188,7 @@ These tables are assuming that every node that can be supercharged is fully supe
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Warden curses his target enemy before attacking it, applying 1 stack of Hex. Enemies take 100% more damage for each Hex stack afflicting them, stacking multiplicatively. Initially, each enemy can only have 1 Hex stack at a time.
+> Warden curses their target enemy before attacking it, applying 1 stack of Hex. Enemies take 100% more damage for each Hex stack afflicting them, stacking multiplicatively. Initially, each enemy can only have 1 Hex stack at a time.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1202,9 +1202,9 @@ These tables are assuming that every node that can be supercharged is fully supe
     "description": {"conditions": [
         {
             "condition": "upgrade_purchased 13243",
-            "desc": "Warden curses his target enemy before attacking it, applying 1 stack of Hex. Enemies take $amount% more damage for each Hex stack afflicting them, stacking multiplicatively. Each enemy can have up to 4 Hex stacks at a time."
+            "desc": "Warden curses their target enemy before attacking it, applying 1 stack of Hex. Enemies take $amount% more damage for each Hex stack afflicting them, stacking multiplicatively. Each enemy can have up to 4 Hex stacks at a time."
         },
-        {"desc": "Warden curses his target enemy before attacking it, applying 1 stack of Hex. Enemies take $amount% more damage for each Hex stack afflicting them, stacking multiplicatively. Initially, each enemy can only have 1 Hex stack at a time."}
+        {"desc": "Warden curses their target enemy before attacking it, applying 1 stack of Hex. Enemies take $amount% more damage for each Hex stack afflicting them, stacking multiplicatively. Initially, each enemy can only have 1 Hex stack at a time."}
     ]},
     "id": 1723,
     "flavour_text": "",
