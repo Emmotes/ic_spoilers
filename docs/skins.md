@@ -95,7 +95,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Elemental Sisaspia
+            ![Elemental Sisaspia Portrait](images/skin_portraits/elementalsisaspia.png)Elemental Sisaspia
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Season 6 (Guess)</span>
@@ -123,7 +123,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Elemental Zorbu
+            ![Elemental Zorbu Portrait](images/skin_portraits/elementalzorbu.png)Elemental Zorbu
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Season 6 (Guess)</span>
@@ -277,7 +277,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Shadowheart
+            ![Mind Flayer Shadowheart Portrait](images/skin_portraits/mindflayershadowheart.png)Mind Flayer Shadowheart
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Mind Flayer Shadowheart Theme Pack</span>
@@ -319,7 +319,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Spelljammer Pilot Miria
+            ![Spelljammer Pilot Miria Portrait](images/skin_portraits/spelljammerpilotmiria.png)Spelljammer Pilot Miria
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -371,6 +371,20 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">14 Feb 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Dark Justiciar Shadowheart Portrait](images/skin_portraits/darkjusticiarshadowheart.png)Dark Justiciar Shadowheart
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
 </span>
