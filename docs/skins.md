@@ -168,7 +168,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Centaur Glitch Hitch Portrait](images/skin_portraits/centaurglitchhitch.png)Centaur Glitch Hitch
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Emergence 4 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -224,7 +224,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Half-Elf Glitch Sentry Portrait](images/skin_portraits/halfelfglitchsentry.png)Half-Elf Glitch Sentry
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Emergence 4 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
