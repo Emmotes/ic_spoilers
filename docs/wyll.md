@@ -280,7 +280,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**FolkHero** (Guess)
+**Folk Hero** (Guess)
 > Fiends are Wyll's Favored Foes. All Champions deal 400% more damage against Wyll's Favored Foes.
 <details><summary><em>Raw Data</em></summary>
 <p>

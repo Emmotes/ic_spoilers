@@ -8,7 +8,7 @@ Feats that are listed as Free will be available immediately the moment they rele
 
 For feats that were available in the season pass of prior seasons - please see the [Recurring Event Exclusivity Dates](postrecurringevent.html) page for when we will likely see them for gems.
 
-*Note: I filter out all feats that are obviously tests or unfinished - such as having a prohibitively high gem cost or excessive too-far-future release date.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: I filter out all feats that are obviously tests or unfinished - such as having a prohibitively high gem cost or excessive too-far-future release date.*
 
 <span class="featTableColumn">
     <span class="featTableRowHeader">
@@ -289,7 +289,7 @@ For feats that were available in the season pass of prior seasons - please see t
 
 These are the feats that have been filtered out of the list above due to having placeholder dates. By this I mean they have very far future dates that will eventually change when CNE deigns to release them (*IF* they decide to release them). They've been filtered out above purely because there's a possibility some of these might never see the light of day. They're unreliable - far more so than most spoilers usually are. So take that into account when viewing them.
 
-*Note: Test feats / QA feats / TBD feats will remain filtered out. Even from this list.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: Test feats / QA feats / TBD feats will remain filtered out. Even from this list.*
 
 <span class="featTableColumn">
     <span class="featTableRowHeader">
@@ -1112,7 +1112,7 @@ These are the feats that have been filtered out of the list above due to having 
 
 # Seat Swap Feats
 
-**Update**: According to Dev Insights (and remember - what they say doesn't always match what they do) - these seat swap feats have been mothballed because they were too `technically complicated` to implement. So just be aware that they might never come to fruition.  
+<span style="font-size:1.2em;">ⓘ</span> **Update**: According to Dev Insights (and remember - what they say doesn't always match what they do) - these seat swap feats have been mothballed because they were too `technically complicated` to implement. So just be aware that they might never come to fruition.  
 Source: [Developer Insights Ep89 07:13-09:00](https://www.youtube.com/watch?v=NwqQh1LKczM&t=433s)
 
 These icons entered the defines a while ago - and we recently got the first appearance of a feat that uses them. Given that - it seems that these will be handed out sparingly to select champions that specifically allow them to move to one specific seat. I highly doubt they'll be a free-for-all.

@@ -6,7 +6,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Fortune's Wheel 1 - 1 November 2023
 
-This content drop will likely be joined by new blessings.
+<span style="font-size:1.2em;">ⓘ</span> This content drop will likely be joined by new blessings.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -317,7 +317,7 @@ This content drop will likely be joined by new blessings.
 
 ## Xaryxis 9 - 3 January 2024
 
-This content drop will likely be joined by new blessings.
+<span style="font-size:1.2em;">ⓘ</span> This content drop will likely be joined by new blessings.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">

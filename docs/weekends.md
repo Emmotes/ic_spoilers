@@ -4,7 +4,7 @@
 
 Here are the upcoming weekends with their *estimated* dates - the *estimated* purchase reward - and the current expected champions.
 
-*Note: The first champion column (in bold) are the ones most likely to receive the purchase reward.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: The first champion column (in bold) are the ones most likely to receive the purchase reward.*
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
