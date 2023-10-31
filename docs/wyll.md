@@ -5,7 +5,10 @@
         ![PC Portrait for Wyll](images/wyll/portrait.png)Portait
     </span>
     <span class="championPortraitsImage">
-        ![Model GIF of Wyll](images/wyll/model.gif)Model
+        ![Model GIF of Wyll](images/wyll/model.gif)Base Model
+    </span>
+    <span class="championPortraitsImage">
+        ![Alternate Model GIF of Wyll: Mizora](images/wyll/model-mizora.gif)Mizora Model
     </span>
 </span>
 

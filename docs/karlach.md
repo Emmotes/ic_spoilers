@@ -5,7 +5,10 @@
         ![PC Portrait for Karlach](images/karlach/portrait.png)Portait
     </span>
     <span class="championPortraitsImage">
-        ![Model GIF of Karlach](images/karlach/model.gif)Model
+        ![Model GIF of Karlach](images/karlach/model.gif)Base Model
+    </span>
+    <span class="championPortraitsImage">
+        ![Alternate Model GIF of Karlach: Rage](images/karlach/model-rage.gif)Rage Model
     </span>
 </span>
 
