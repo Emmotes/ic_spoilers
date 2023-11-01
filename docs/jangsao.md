@@ -255,7 +255,7 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Starry Form Icon](images/jangsao/icon_starryform.png) **Ultimate Attack: Starry Form** (Level: 35)
+![Starry Form Icon](images/jangsao/icon_starryform.png) **Ultimate Attack: Starry Form** (Level: 130)
 > Jang Sao transforms into her starry form for 15 seconds and fires shooting stars at her enemies, making them take 100% additional damage for the duration.  
 > Cooldown: 180s (Cap 45s)
 <details><summary><em>Raw Data</em></summary>
@@ -288,15 +288,27 @@ Jang Sao will be the new champion in the Feast of the Moon event on 8 November 2
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Mysterious Wanderer Icon](images/jangsao/icon_themysteriouswanderer.png) **The Mysterious Wanderer** (Level: 5)
+![The Mysterious Wanderer Icon](images/jangsao/icon_themysteriouswanderer.png) **The Mysterious Wanderer** (Level: 20)
 > Jang Sao increases the damage of all Champions in formation slots with 2 or fewer adjacent slots by 400%.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       40: 100%
+       90: 100%
+      230: 100%
+      350: 100%
+      470: 100%
+      700: 100%
+      800: 100%
+    1,040: 100%
+    1,140: 100%
+    1,370: 100%
+    1,480: 100%
+    1,700: 100%
+    1,830: 100%
+    2,050: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 8.19e05%
 </pre>
 </p>
 </details>
@@ -305,7 +317,7 @@ Upgrades:
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 5,
+    "required_level": 20,
     "effect": "effect_def,1733",
     "tip_text": "Jang Sao increases the damage of all Champions in formation slots with 2 or fewer adjacent slots.",
     "name": "The Mysterious Wanderer",
@@ -342,15 +354,19 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Star Collector Icon](images/jangsao/icon_starcollector.png) **Star Collector** (Level: 10)
+![Star Collector Icon](images/jangsao/icon_starcollector.png) **Star Collector** (Level: 50)
 > Each time an enemy is defeated, there is a 1% chance it drops a star. Jang Sao collects these stars and increases the effect of The Mysterious Wanderer by 0.1% for each star collected over all adventures, stacking additively. Caps at 4000000000 stacks.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       50: 100%
+      580: 100%
+      920: 100%
+    1,260: 100%
+    1,590: 100%
+    1,940: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 3,100%
 </pre>
 </p>
 </details>
@@ -359,7 +375,7 @@ Upgrades:
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 10,
+    "required_level": 50,
     "effect": "effect_def,1734",
     "tip_text": "Jang Sao has a slim chance of collecting a star each time a monster is defeated, permanently increasing her damage buff.",
     "name": "Star Collector",
@@ -421,15 +437,25 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Stellar Nursery Icon](images/jangsao/icon_stellarnursery.png) **Stellar Nursery** (Level: 15)
-> Every 5 seconds, Jang Sao heals the 2 most damaged Champions in the formation for 50 health.
+![Stellar Nursery Icon](images/jangsao/icon_stellarnursery.png) **Stellar Nursery** (Level: 70)
+> Every 5 seconds, Jang Sao heals the 2 most damaged Champions in the formation for 100 health.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       55: 100%
+      150: 70%
+      300: 70%
+      430: 70%
+      620: 70%
+      830: 70%
+    1,030: 70%
+    1,240: 70%
+    1,450: 70%
+    1,660: 70%
+    1,860: 70%
+    2,070: 70%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 3.42e04%
 </pre>
 </p>
 </details>
@@ -438,7 +464,7 @@ Upgrades:
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 15,
+    "required_level": 70,
     "effect": "effect_def,1735",
     "name": "Stellar Nursery",
     "id": 13259,
@@ -450,7 +476,7 @@ Upgrades:
 {
     "effect_keys": [
         {
-            "effect_string": "jangsao_stellar_nursery,50",
+            "effect_string": "jangsao_stellar_nursery,100",
             "tick_rate": 5
         },
         {"effect_string": "jangsao_stellar_nursery_target_count,2"}
@@ -474,24 +500,14 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Painter of Beauty Icon](images/jangsao/icon_painterofbeauty.png) **Painter of Beauty** (Level: 20)
-> For every Pigment assigned to equipment on Champions in the formation, the effect of The Mysterious Wanderer is increased by 100%, stacking multiplicatively. Pigments can be purchased in the Thayan Enclave Shop and sometimes claimed as Season Rewards.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       60: 100%
-
-    Total Upgrade Bonus: 100%
-</pre>
-</p>
-</details>
+![Painter of Beauty Icon](images/jangsao/icon_painterofbeauty.png) **Painter of Beauty** (Level: 200)
+> For every Pigment assigned to equipment on Champions in the formation, the effect of The Mysterious Wanderer is increased by 10%, stacking multiplicatively. Pigments can be purchased in the Thayan Enclave Shop and sometimes claimed as Season Rewards.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "static_dps_mult": null,
-    "required_level": 20,
+    "required_level": 200,
     "effect": "effect_def,1736",
     "name": "Painter of Beauty",
     "id": 13260,
@@ -503,16 +519,13 @@ Upgrades:
 {
     "effect_keys": [{
         "stack_title": "Total Pigments",
-        "amount_updated_listeners": [
-            "slot_changed",
-            "loot_changed"
-        ],
+        "amount_updated_listeners": ["loot_changed"],
         "stacks_multiply": true,
         "show_bonus": true,
         "amount_func": "mult",
         "stack_func": "per_hero_attribute",
         "per_hero_expr": "num_applied_pigments",
-        "effect_string": "buff_upgrade,100,13257"
+        "effect_string": "buff_upgrade,10,13257"
     }],
     "requirements": "",
     "description": {"desc": "For every Pigment assigned to equipment on Champions in the formation, the effect of The Mysterious Wanderer is increased by $(not_buffed amount)%, stacking multiplicatively. Pigments can be purchased in the Thayan Enclave Shop and sometimes claimed as Season Rewards."},
@@ -532,18 +545,8 @@ Upgrades:
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Speed of Shooting Stars Icon](images/jangsao/icon_speedofshootingstars.png) **Speed of Shooting Stars** (Level: 25)
+![Speed of Shooting Stars Icon](images/jangsao/icon_speedofshootingstars.png) **Speed of Shooting Stars** (Level: 100)
 > Jang Sao increases the effect of The Mysterious Wanderer by 100% for each Champion in the formation with a Dexterity of 15+, stacking multiplicatively.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       65: 100%
-
-    Total Upgrade Bonus: 100%
-</pre>
-</p>
-</details>
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -552,7 +555,7 @@ Upgrades:
 {
     "static_dps_mult": null,
     "specialization_name": "Speed of Shooting Stars",
-    "required_level": 25,
+    "required_level": 100,
     "effect": "effect_def,1738",
     "name": "Speed of Shooting Stars",
     "specialization_graphic_id": 21205,
@@ -604,18 +607,8 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Wisdom of the Ages Icon](images/jangsao/icon_wisdomoftheages.png) **Wisdom of the Ages** (Level: 25)
+![Wisdom of the Ages Icon](images/jangsao/icon_wisdomoftheages.png) **Wisdom of the Ages** (Level: 100)
 > Jang Sao increases the effect of The Mysterious Wanderer by 100% for each Champion in the formation with a Wisdom of 13+, stacking multiplicatively.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       65: 100%
-
-    Total Upgrade Bonus: 100%
-</pre>
-</p>
-</details>
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -624,7 +617,7 @@ Upgrades:
 {
     "static_dps_mult": null,
     "specialization_name": "Wisdom of the Ages",
-    "required_level": 25,
+    "required_level": 100,
     "effect": "effect_def,1737",
     "name": "Wisdom of the Ages",
     "specialization_graphic_id": 21207,
@@ -676,7 +669,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Moon Collector Icon](images/jangsao/icon_mooncollector.png) **Moon Collector** (Level: 30)
+![Moon Collector Icon](images/jangsao/icon_mooncollector.png) **Moon Collector** (Level: 170)
 > In addition to collecting stars, Jang Sao collects moons. Each time an enemy is defeated, there is a 0.5% chance it drops a moon. Jang Sao collects these moons for the purpose of Star Collector, and they count as 5 stars.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -684,7 +677,7 @@ Upgrades:
 {
     "static_dps_mult": null,
     "specialization_name": "Moon Collector",
-    "required_level": 30,
+    "required_level": 170,
     "effect": "effect_def,1739",
     "name": "Moon Collector",
     "specialization_graphic_id": 21203,
@@ -721,7 +714,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Night Runner Icon](images/jangsao/icon_nightrunner.png) **Night Runner** (Level: 30)
+![Night Runner Icon](images/jangsao/icon_nightrunner.png) **Night Runner** (Level: 170)
 > Jang Sao increases the effect of Star Collector by a percentage equal to the number of stars she has collected on the current run.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -729,7 +722,7 @@ Upgrades:
 {
     "static_dps_mult": null,
     "specialization_name": "Night Runner",
-    "required_level": 30,
+    "required_level": 170,
     "effect": "effect_def,1741",
     "name": "Night Runner",
     "specialization_graphic_id": 21204,
@@ -768,7 +761,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Star Caller Icon](images/jangsao/icon_starcaller.png) **Star Caller** (Level: 30)
+![Star Caller Icon](images/jangsao/icon_starcaller.png) **Star Caller** (Level: 170)
 > Jang Sao fires 3 more stars from her lantern when she uses her Starry Form ultimate and the ultimate's damage debuff is multiplied by the number of stars fired, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -776,7 +769,7 @@ Upgrades:
 {
     "static_dps_mult": null,
     "specialization_name": "Star Caller",
-    "required_level": 30,
+    "required_level": 170,
     "effect": "effect_def,1740",
     "name": "Star Caller",
     "specialization_graphic_id": 21206,
