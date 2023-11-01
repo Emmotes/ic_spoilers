@@ -36,6 +36,68 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </span>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Blinding Wall of Light**
+> All enemies are pushed back slightly and then a wall of light appears slightly in front of the formation for 15 seconds. Enemies that pass through the wall of light take damage and are stunned for 5 seconds. They also gain a brilliant white glow under their feet for 30 seconds. Enemies with this glow have a 75% chance to miss with all attacks.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "All enemies are pushed back slightly and then a wall of light appears slightly in front of the formation for 15 seconds.",
+    "long_description": "All enemies are pushed back slightly and then a wall of light appears slightly in front of the formation for 15 seconds. Enemies that pass through the wall of light take damage and are stunned for 5 seconds. They also gain a brilliant white glow under their feet for 30 seconds. Enemies with this glow have a 75% chance to miss with all attacks.",
+    "damage_modifier": 0.03,
+    "damage_types": ["magic"],
+    "graphic_id": 10359,
+    "target": "all",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "num_targets": 1,
+    "animations": [{
+        "projectile_count": 1,
+        "projectile_details": {
+            "graphic_loop_start": 29,
+            "damage_on_enter": true,
+            "aoe_rect": {
+                "x": -10,
+                "width": 20,
+                "y": -235,
+                "height": 250
+            },
+            "enter_effect": {
+                "overlay": {"graphic_id": 10381},
+                "for_time": 30,
+                "effect_string": "attack_miss_chance,75"
+            },
+            "activate_effect": {
+                "effect_string": "push_back_monster,10",
+                "targets": ["monsters"]
+            },
+            "graphic_id": 10382,
+            "wall_time": 15,
+            "graphic_scale": 1.8,
+            "graphic_loop_end": 34,
+            "stun_time_on_enter": 5,
+            "area_targets": [
+                "area_bottom",
+                "formation_front"
+            ]
+        },
+        "type": "ranged_attack",
+        "projectile": "wall",
+        "shoot_frame": 10
+    }],
+    "name": "Blinding Wall of Light",
+    "cooldown": 360,
+    "id": 710
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > Shaka attempts to solve a celestial puzzle with the potential for great rewards. Four random slots in the formation are assigned a random tag. For each Champion in those slots that match the slot's tag, Shaka increases the damage of all Champions by 400%, stacking multiplicatively. A fifth slot is chosen but remains locked with an unknown tag until a specialization is chosen.
 
@@ -44,7 +106,64 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "pre_stack_amount,400"}],
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,400"},
+        {
+            "slot_effect": {
+                "overlay": {
+                    "manual_graphic": "shaka_puzzle",
+                    "y": -20
+                },
+                "effect_string": "shaka_puzzle"
+            },
+            "medium_expressions": [
+                "support",
+                "dps",
+                "gold",
+                "speed",
+                "healing"
+            ],
+            "off_when_benched": true,
+            "additional_easy_slots": 0,
+            "random_seed_add": 0,
+            "effect_string": "shaka_celestial_puzzle",
+            "match_slot_effect": {
+                "overlay": {"graphic_id": 10381},
+                "effect_string": "shaka_puzzle_match"
+            },
+            "easy_expressions": [
+                "male|!female",
+                "female|!male"
+            ],
+            "easy_slots": 2,
+            "hard_expressions": [
+                "human",
+                "kobold",
+                "elf",
+                "dwarf",
+                "tiefling",
+                "gnome",
+                "half-elf",
+                "halfling",
+                "dragonborn",
+                "aasimar",
+                "aarakocra"
+            ],
+            "hard_slots": 1,
+            "medium_slots": 1
+        },
+        {
+            "amount_expr": "upgrade_amount(13416,0)",
+            "amount_updated_listeners": ["slot_changed"],
+            "has_effect_key": "shaka_puzzle_match",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_slot",
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "targets": ["active_campaign"]
+        }
+    ],
     "requirements": "",
     "description": {"desc": "Shaka attempts to solve a celestial puzzle with the potential for great rewards. Four random slots in the formation are assigned a random tag. For each Champion in those slots that match the slot's tag, Shaka increases the damage of all Champions by $(amount)%, stacking multiplicatively. A fifth slot is chosen but remains locked with an unknown tag until a specialization is chosen."},
     "id": 1784,
@@ -82,6 +201,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "amount_updated_listeners": ["slot_changed"],
             "has_effect_key": "shaka_puzzle_match",
+            "off_when_benched": true,
             "show_bonus": true,
             "amount_func": "add",
             "stack_func": "per_slot",
@@ -91,9 +211,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "do_nothing,10",
             "comment": "This effect key is just so we have a base amount for the description. Things that buff celestial resistance should also buff this key."
         },
-        {"effect_string": "broadcast_on_trigger,celestial_resistance_trigger,area_changed"},
+        {
+            "off_when_benched": true,
+            "effect_string": "broadcast_on_trigger,celestial_resistance_trigger,area_changed"
+        },
         {
             "trigger_name": "on_timer",
+            "off_when_benched": true,
             "effect_string": "broadcast_on_trigger,celestial_resistance_trigger",
             "trigger_params": ["10"]
         }
@@ -131,6 +255,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [{
         "amount_updated_listeners": ["slot_changed"],
+        "stacks_multiply": true,
         "has_effect_key": "shaka_puzzle",
         "show_bonus": true,
         "amount_func": "mult",
@@ -142,8 +267,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {"desc": "Shaka increases the base effect of A Celestial Puzzle by $(not_buffed amount)% for each puzzle slot he's adjacent to, stacking multiplicatively."},
     "id": 1786,
     "flavour_text": "",
-    "graphic_id": 0,
-    "properties": []
+    "graphic_id": 10356,
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -152,18 +277,26 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Riddling Rivals** (Guess)
-> The base effect of A Celestial Puzzle is increased by $(not_buffed amount)% for each other Rivals of Waterdeep Champion in the formation, stacking multiplicatively.
+> The base effect of A Celestial Puzzle is increased by 100% for each other Rivals of Waterdeep Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [],
+    "effect_keys": [{
+        "amount_updated_listeners": ["slot_changed"],
+        "stacks_multiply": true,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_hero",
+        "effect_string": "buff_upgrade,100,13416,0",
+        "tag": "rivalswaterdeep"
+    }],
     "requirements": "",
     "description": {"desc": "The base effect of A Celestial Puzzle is increased by $(not_buffed amount)% for each other Rivals of Waterdeep Champion in the formation, stacking multiplicatively."},
     "id": 1787,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -183,7 +316,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1788,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -197,13 +330,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "effect_keys": [],
+    "effect_keys": [{"effect_string": "buff_upgrade,50,13416,0"}],
     "requirements": "",
     "description": {"desc": ""},
     "id": 1789,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -217,13 +350,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "effect_keys": [],
+    "effect_keys": [{"effect_string": "buff_upgrade,100,13416,0"}],
     "requirements": "",
     "description": {"desc": ""},
     "id": 1790,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
@@ -232,18 +365,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Brain Break** (Guess)
-> 
+> The locked Celestial Puzzle slot remains locked, and instead Celestial Resistance is increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [],
+    "effect_keys": [{"effect_string": "buff_upgrade,100,13416"}],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "The locked Celestial Puzzle slot remains locked, and instead Celestial Resistance is increased by $amount%."},
     "id": 1791,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": []
+    "properties": {"is_formation_ability": true}
 }
 </pre>
 </p>
