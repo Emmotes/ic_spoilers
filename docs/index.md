@@ -104,7 +104,6 @@ Not events events - but events. You know?
 
 Miscellaneous spoilers.
 
-* [Turn of Fortune's Wheel](campaign_fortuneswheel.md) - 1 November 2023 (Guess)
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
