@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Celeste</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Immolation Icon](images/featicons/immolation.png)Immolation
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">1s BUD per sec for 5s</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">01 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Jang Sao</span>
         </span>
         <span class="featTableIcon4">

@@ -5,20 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Spelljammer Pilot Celeste Skin & Feat Pack - $9.99  
-Date of release: 01 Nov 2023
-
-Contents:
-
-* Skin: `Spelljammer Pilot Celeste`
-* Feat: `Immolation` (Celeste)
-* Chests: `Gold Celeste Chest` x7 (Shinies x1)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Athar Jang Sao Theme Pack - $24.99  
 Date of release: 08 Nov 2023
 

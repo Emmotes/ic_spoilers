@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Spelljammer Pilot Celeste Portrait](images/skin_portraits/spelljammerpilotceleste.png)Spelljammer Pilot Celeste
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spelljammer Pilot Celeste Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">01 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Venture Casual Rosie Portrait](images/skin_portraits/venturecasualrosie.png)Venture Casual Rosie
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Gem Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">20,000</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">01 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Athar Jang Sao Portrait](images/skin_portraits/atharjangsao.png)Athar Jang Sao
         </span>
         <span class="skinTableSource">
