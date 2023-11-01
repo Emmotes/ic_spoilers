@@ -1061,7 +1061,10 @@ These tables are assuming that every node that can be supercharged is fully supe
     "id": 1719,
     "flavour_text": "",
     "graphic_id": 5725,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade"
+    }
 }
 </pre>
 </p>
@@ -1086,7 +1089,10 @@ These tables are assuming that every node that can be supercharged is fully supe
     "id": 1720,
     "flavour_text": "",
     "graphic_id": 5725,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade"
+    }
 }
 </pre>
 </p>
@@ -1111,7 +1117,10 @@ These tables are assuming that every node that can be supercharged is fully supe
     "id": 1721,
     "flavour_text": "",
     "graphic_id": 5725,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade"
+    }
 }
 </pre>
 </p>
