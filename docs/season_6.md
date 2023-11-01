@@ -521,7 +521,7 @@ These tables are assuming that every node that can be supercharged is fully supe
             "condition": "not static_desc",
             "desc": "^^$nrakk_current_ki_points"
         }]},
-        "desc": "When Nrakk has at least 1 Ki Point before he attacks, consume 1 Ki Point and stun all enemies Nrakk hits for $(stun_time) seconds. Affected enemies take $(amount)% more damage for each Ki Point Nrakk currently has, stacking multiplicatively. This debuff does not stack and lasts until the affected enemy is killed or Nrakk has no Ki Points remaining."
+        "desc": "When Nrakk has at least 1 Ki Point before he attacks, consume 1 Ki Point and stun all enemies Nrakk hits for $(stun_time) seconds. Affected enemies take $(not_buffed amount)% more damage for each Ki Point Nrakk currently has, stacking multiplicatively. This debuff does not stack and lasts until the affected enemy is killed or Nrakk has no Ki Points remaining."
     },
     "id": 1702,
     "flavour_text": "",
