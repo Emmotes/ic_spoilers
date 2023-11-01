@@ -160,8 +160,9 @@ Unknown.
     "tags": ["ultimate"],
     "num_targets": 0,
     "animations": [{
-        "percent_to_formation_start": 0,
-        "type": "warden_ultimate"
+        "ultimate": "wyll",
+        "type": "ultimate_attack",
+        "no_damage_display": true
     }],
     "name": "Mizora",
     "cooldown": 5,
