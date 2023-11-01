@@ -27,7 +27,6 @@ summary {
 	color: #FFCC00;
 }
 summary:hover {
-	cursor: pointer;
 	color: #FFEB9B;
 }
 section #title .credits.right {
@@ -769,4 +768,32 @@ input[type="checkbox"]::before {
 }
 input[type="checkbox"]:checked::before {
 	transform: scale(1);
+}
+.formationTooltip {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+	color: #FFCC00;
+}
+.formationTooltip:hover .formationTooltipContents {
+	visibility: visible;
+}
+.formationTooltip:hover {
+	color: #FFEB9B;
+}
+.formationTooltipContents {
+	visibility: hidden;
+	padding: 15px;
+	border: 1px solid black;
+	background-color: #1a1a1a;
+	width: max-content;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	z-index: 1;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	transform: translate(100px, 10px);
 }

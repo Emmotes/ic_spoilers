@@ -29,6 +29,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Shaka
 
 ![Shaka Portrait](images/season_7/shaka.png)
+<br /><span class="formationTooltip">[formation]
+    <span class="formationTooltipContents">
+        ![Formation Layout for Shaka](images/season_7/shaka_formation.png)
+    </span>
+</span>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
@@ -274,12 +279,22 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Selise
 
 ![Selise Portrait](images/season_7/selise.png)
+<br /><span class="formationTooltip">[formation]
+    <span class="formationTooltipContents">
+        ![Formation Layout for Selise](images/season_7/selise_formation.png)
+    </span>
+</span>
 
 No changes as of yet.
 
 # D'hani
 
 ![D'hani Portrait](images/season_7/dhani.png)
+<br /><span class="formationTooltip">[formation]
+    <span class="formationTooltipContents">
+        ![Formation Layout for D'hani](images/season_7/dhani_formation.png)
+    </span>
+</span>
 
 No changes as of yet.
 

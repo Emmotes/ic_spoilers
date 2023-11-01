@@ -85,6 +85,11 @@ These tables are assuming that every node that can be supercharged is fully supe
 # Zorbu
 
 ![Zorbu Portrait](images/season_6/zorbu.png)
+<br /><span class="formationTooltip">[formation]
+    <span class="formationTooltipContents">
+        ![Formation Layout for Zorbu](images/season_6/zorbu_formation.png)
+    </span>
+</span>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Mechanical Squirrel**
@@ -355,6 +360,11 @@ These tables are assuming that every node that can be supercharged is fully supe
 # Nrakk
 
 ![Nrakk Portrait](images/season_6/nrakk.png)
+<br /><span class="formationTooltip">[formation]
+    <span class="formationTooltipContents">
+        ![Formation Layout for Nrakk](images/season_6/nrakk_formation.png)
+    </span>
+</span>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Ki Blast**
@@ -675,6 +685,11 @@ These tables are assuming that every node that can be supercharged is fully supe
 # Korth
 
 ![Korth Portrait](images/season_6/korth.png)
+<br /><span class="formationTooltip">[formation]
+    <span class="formationTooltipContents">
+        ![Formation Layout for Korth](images/season_6/korth_formation.png)
+    </span>
+</span>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Samurai Slice**
@@ -1106,6 +1121,11 @@ These tables are assuming that every node that can be supercharged is fully supe
 # Warden
 
 ![Warden Portrait](images/season_6/warden.png)
+<br /><span class="formationTooltip">[formation]
+    <span class="formationTooltipContents">
+        ![Formation Layout for Warden](images/season_6/warden_formation.png)
+    </span>
+</span>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Hex Weapon Armblade**
@@ -1532,6 +1552,11 @@ These tables are assuming that every node that can be supercharged is fully supe
 # Sisaspia
 
 ![Sisaspia Portrait](images/season_6/sisaspia.png)
+<br /><span class="formationTooltip">[formation]
+    <span class="formationTooltipContents">
+        ![Formation Layout for Sisaspia](images/season_6/sisaspia_formation.png)
+    </span>
+</span>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
