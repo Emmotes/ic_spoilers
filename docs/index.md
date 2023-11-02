@@ -96,7 +96,7 @@ Not events events - but events. You know?
 
 * [Season 6](season_6.md) - 08 November 2023
 * [Emergence 4](emergence_4.md) - 22 November 2023
-* [Season 7](season_7.md) - 17 January 2024
+* [Season 7](season_7.md) - 03 January 2024
 * [Emergence 5](emergence_5.md) - 24 January 2024
 * [Recurring Event Exclusivity Dates](postrecurringevent.html)
 

@@ -12,7 +12,7 @@
 
 # Season 7
 
-Season 7 is expected to start on 17 January 2024.
+Season 7 is expected to start on 03 January 2024.
 
 # Theme
 
