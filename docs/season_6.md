@@ -20,7 +20,7 @@
 
 ![Season 6 Banner](images/season_6/banner.png)
 
-Season 6 will be called `Elemental Rebirth` and is guesstimated to start on 08 November 2023.
+Season 6 will be called `Elemental Rebirth` and is expected to start on 08 November 2023.
 
 # Theme
 
