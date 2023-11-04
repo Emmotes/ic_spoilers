@@ -51,6 +51,7 @@ nnm.map.set("Certainty", "Certainly");
 nnm.map.set("Tatyana", "Taty");
 nnm.map.set("Sgt. Knox", "Knox");
 nnm.map.set("Thellora", "Thermometer");
+nnm.map.set("Dhadius", "Daddy-O");
 nnm.map.set("Pigment", "Pig Mint");
 nnm.map.set("pigment", "pig mint");
 nnm.map.set("egendaries", "egos");
