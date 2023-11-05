@@ -20,6 +20,8 @@ Season 7 is expected to start on 03 January 2024.
 
 We only have data for three seasonal champions so far. They are Shaka, Selise and D'hani. The rest are as yet unknown.
 
+This means the theme this season is (or seems to be) Rivals of Waterdeep champions.
+
 # Changes
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
