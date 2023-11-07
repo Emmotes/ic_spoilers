@@ -286,7 +286,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: WildMagic** (Guess)
+**Specialisation: Wild Magic** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
