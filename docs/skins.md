@@ -25,7 +25,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Elemental Dungeon Master
+            ![Elemental Dungeon Master Portrait](images/skin_portraits/elementaldungeonmaster.png)Elemental Dungeon Master
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -263,7 +263,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Warduck
+            ![Warduck Portrait](images/skin_portraits/warduck.png)Warduck
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Warduck Warduke Skin & Feat Pack</span>
@@ -277,7 +277,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Casual Astarion
+            ![Casual Astarion Portrait](images/skin_portraits/casualastarion.png)Casual Astarion
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Casual Astarion Skin & Feat Pack</span>
@@ -361,7 +361,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Imoen
+            ![Mind Flayer Imoen Portrait](images/skin_portraits/mindflayerimoen.png)Mind Flayer Imoen
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -375,7 +375,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Viconia
+            ![Mind Flayer Viconia Portrait](images/skin_portraits/mindflayerviconia.png)Mind Flayer Viconia
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
