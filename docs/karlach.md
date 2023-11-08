@@ -385,6 +385,14 @@ Unknown.
             ![Karlach Console Portrait](images/karlach/console.png)Console Portait
         </span>
     </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Karlach Gold Chest Icon](images/karlach/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Karlach Silver Chest Icon](images/karlach/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
