@@ -52,7 +52,7 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Tanking / DPS / Support (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -101,22 +101,113 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Unknown**
-> Unknown effect.
+**Base Attack: Greataxe Cleave** (Melee)
+> Unknown effect.  
+> Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 2,
+        "jump_sound": 30,
+        "sound_frames": {"2": 154},
+        "target_offset_x": -34,
+        "type": "melee_attack"
+    }],
+    "name": "Greataxe Cleave",
+    "cooldown": 6,
+    "id": 713
+}
 </pre>
 </p>
 </details>
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Soul Coin**
-> Unknown effect.
+**Base Attack: Soul Coin** (Melee)
+> Unknown effect.  
+> Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "description": "",
+    "long_description": "",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 21828,
+    "target": "none",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 2,
+        "jump_sound": 30,
+        "sound_frames": {"2": 154},
+        "target_offset_x": -34,
+        "type": "melee_attack"
+    }],
+    "name": "Soul Coin",
+    "cooldown": 6,
+    "id": 714
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> As a Champion of Zariel, Karlach can be used in any Zariel Patron adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "do_nothing"}],
+    "requirements": "",
+    "description": {"desc": "As a Champion of Zariel, Karlach can be used in any Zariel Patron adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions."},
+    "id": 1810,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Fury of Avernus** (Guess)
+> Karlach increases the damage of all Champions (including herself) in her column and the column behind her by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "effect_string": "hero_dps_multiplier_mult,100",
+        "targets": ["col_and_prev_col"]
+    }],
+    "requirements": "",
+    "description": {"desc": "Karlach increases the damage of all Champions (including herself) in her column and the column behind her by $(amount)%."},
+    "id": 1811,
+    "flavour_text": "",
+    "graphic_id": 21822,
+    "properties": {"is_formation_ability": true}
+}
 </pre>
 </p>
 </details>
@@ -124,21 +215,148 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ceremorphosis** (Guess)
-> Unknown effect.
+> Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Karlach's brain. Karlach increases the health of all other Champions by 20% of her max health, plus 2% for each Ceremorphosis stack the formation has, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 21820,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2018Midwinter/Midwinter_Y7/Icon_Formation_KarlachCeremorphosis",
-    "fs": 0
+    "effect_keys": [
+        {
+            "stack_title": "Total Ceremorphosis Stacks",
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed"
+            ],
+            "total_title": "Total Bonus",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "amount_func": "add",
+            "stack_func": "per_ceremorphosis_stacks",
+            "effect_string": "buff_upgrade,2,13722,4",
+            "desc_forced_order": 2
+        },
+        {
+            "stack_title": "Karlach Ceremorphosis Stacks",
+            "manual_stacking": true,
+            "stacks_multiply": false,
+            "off_when_benched": true,
+            "outgoing_buffs": false,
+            "effect_string": "karlach_ceremorphosis_stacks,1",
+            "show_stacks": true,
+            "desc_forced_order": 1
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "base_amount,20"
+        },
+        {
+            "amount_expr": "upgrade_amount(13722,2)+max_upgrade_amount(13722,0)",
+            "off_when_benched": true,
+            "effect_string": "increase_health_by_source_percent,0",
+            "targets": ["other"]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Karlach's brain. Karlach increases the health of all other Champions by $(amount___3)% of her max health, plus $(amount)% for each Ceremorphosis stack the formation has, stacking additively."},
+    "id": 1812,
+    "flavour_text": "",
+    "graphic_id": 21820,
+    "properties": {
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Rage** (Guess)
+> When Karlach attacks or is attacked, she gains a Rage stack, capped at 50 stacks. Karlach increases the effect of The Fury of Avernus by 25% for each Rage stack, stacking multiplicatively. Stacks are reduced by 60% when changing areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stack_title": "Rage stacks",
+        "stacks_multiply": true,
+        "reduce_percent": 60,
+        "show_bonus": true,
+        "effect_string": "buff_upgrade,25,13721",
+        "max_stacks": 50,
+        "more_triggers": [
+            {
+                "action": {"type": "add_stack"},
+                "trigger": "owner_base_attack"
+            },
+            {
+                "action": {"type": "add_stack"},
+                "trigger": "hero_attacked",
+                "target": "self_slot"
+            },
+            {
+                "action": {
+                    "type": "reduce_percent",
+                    "percent": 60
+                },
+                "trigger": "area_changed"
+            }
+        ]
+    }],
+    "requirements": "",
+    "description": {"desc": "When Karlach attacks or is attacked, she gains a Rage stack, capped at $(max_stacks) stacks. Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Rage stack, stacking multiplicatively. Stacks are reduced by $(reduce_percent)% when changing areas."},
+    "id": 1813,
+    "flavour_text": "",
+    "graphic_id": 21824,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Infernal Engine** (Guess)
+> While Karlach has 20 or more Rage stacks, she ignites on fire dealing 0.1 second of BUD-based damage for each Rage stack to any enemy that attacks her. (Stacking additively).
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stack_title": "Rage stacks",
+        "per_other_stack_count_effect_key_index": 0,
+        "amount_updated_listeners": ["stacks_changed"],
+        "stacks_multiply": false,
+        "total_title": "Seconds of BUD",
+        "per_other_stack_count_upgrade_id": 13723,
+        "show_bonus": true,
+        "amount_func": "add",
+        "stack_func": "per_other_stack_count",
+        "effect_string": "do_nothing,0.1",
+        "percent_values": false
+    }],
+    "requirements": "",
+    "description": {"desc": "While Karlach has 20 or more Rage stacks, she ignites on fire dealing $(not_buffed amount) second of BUD-based damage for each Rage stack to any enemy that attacks her. (Stacking additively)"},
+    "id": 1814,
+    "flavour_text": "",
+    "graphic_id": 21823,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -152,85 +370,16 @@ Unknown.
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 21821,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2018Midwinter/Midwinter_Y7/Icon_Formation_KarlachExperiencedGladiator",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Fury of Avernus** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 21822,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2018Midwinter/Midwinter_Y7/Icon_Formation_KarlachFuryofAvernus",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Infernal Engine** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 21823,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2018Midwinter/Midwinter_Y7/Icon_Formation_KarlachInfernalEngine",
-    "fs": 0
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Rage** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "p": 0,
-    "v": 2,
-    "id": 21824,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2018Midwinter/Midwinter_Y7/Icon_Formation_KarlachRage",
-    "fs": 0
+    "effect_keys": [{"effect_string": "do_nothing"}],
+    "requirements": "",
+    "description": {"desc": ""},
+    "id": 1815,
+    "flavour_text": "",
+    "graphic_id": 21821,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
