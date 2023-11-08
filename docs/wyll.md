@@ -91,12 +91,9 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/wyll/formation.png)
 </span>
-{% endcomment %}
 
 # Abilities
 
