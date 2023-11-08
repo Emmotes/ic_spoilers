@@ -102,13 +102,13 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Blade & Blast** (Melee and Magic)
-> Wyll stabs the closest foe, then casts Eldritch Blast on the most damaged foe.  
+> Wyll stabs the closest foe, then casts Eldritch Blast on the lowest health enemy.  
 > Cooldown: 5s (Cap 1.25s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "Wyll stabs the closest foe, then casts Eldritch Blast on the most damaged foe.",
+    "description": "Wyll stabs the closest foe, then casts Eldritch Blast on the lowest health enemy.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": [
@@ -125,9 +125,10 @@ Unknown.
     "num_targets": 1,
     "animations": [{
         "target_offset": [
-            -250,
+            -200,
             0
         ],
+        "seq_chargeloop": 1,
         "special_melee": "wyll",
         "type": "melee_attack"
     }],
@@ -154,7 +155,7 @@ Unknown.
     "long_description": "Wyll's patron Mizora appears behind him for 15 seconds, increasing his damage and attack rate for the duration.",
     "damage_modifier": 1,
     "damage_types": ["magic"],
-    "graphic_id": 0,
+    "graphic_id": 21729,
     "target": "none",
     "aoe_radius": 0,
     "tags": ["ultimate"],
@@ -176,6 +177,11 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Bravado** (Guess)
 > Wyll increases the damage of all Champions that belong to the most represented race, class, or affiliation(s) in the formation by 100%. If there is a tie, all tied groups gain the buff, and Champions who are part of several groups can gain multiple stacks of the buff (up to a max of 4 stacks), stacking multiplicatively. Buffs apply to the pre-stack value.
+>  
+> - Most Represented
+> - Race: `$(most_common_race)`
+> - Class: `$(most_common_class)`
+> - Affiliation: .
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -204,16 +210,22 @@ Unknown.
             "show_stats_on_owner": false,
             "off_when_benched": true,
             "per_hero_targets": ["effect_key_slot"],
-            "per_hero_expr": "get_num_most_common_affiliations() + get_num_most_common_races() + get_num_most_common_classes()",
+            "per_hero_expr": "get_num_most_common_affiliations + get_num_most_common_races + get_num_most_common_classes",
             "show_stats_on_receiver": true,
             "max_stacks": 4
         }
     ],
     "requirements": "",
-    "description": {"desc": "Wyll increases the damage of all Champions that belong to the most represented race, class, or affiliation(s) in the formation by $(amount)%. If there is a tie, all tied groups gain the buff, and Champions who are part of several groups can gain multiple stacks of the buff (up to a max of $(max_stacks___2) stacks), stacking multiplicatively. Buffs apply to the pre-stack value."},
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^Most Represented^Race: $(most_common_race)^Class: $(most_common_class)^Affiliation: $(most_common_affiliation)"
+        }]},
+        "desc": "Wyll increases the damage of all Champions that belong to the most represented race, class, or affiliation(s) in the formation by $(amount)%. If there is a tie, all tied groups gain the buff, and Champions who are part of several groups can gain multiple stacks of the buff (up to a max of $(max_stacks___2) stacks), stacking multiplicatively. Buffs apply to the pre-stack value."
+    },
     "id": 1792,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 21724,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
@@ -240,7 +252,11 @@ Unknown.
         {
             "amount_expr": "upgrade_amount(13430,0)",
             "stack_title": "Total Ceremorphosis Stacks",
-            "amount_updated_listeners": ["slot_changed"],
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed"
+            ],
             "stacks_multiply": true,
             "total_title": "Total Bonus",
             "off_when_benched": true,
@@ -265,7 +281,7 @@ Unknown.
     "description": {"desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Wyll's brain. Wyll increases the effect of $(upgrade_name id___2) by $(amount)% for each Ceremorphosis stack, stacking multiplicatively."},
     "id": 1793,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 21723,
     "properties": {
         "indexed_effect_properties": true,
         "retain_on_slot_changed": true,
@@ -282,15 +298,16 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Folk Hero** (Guess)
-> Fiends are Wyll's Favored Foes. All Champions deal 400% more damage against Wyll's Favored Foes.
+> $(Wylls_favored_foe_list_and fiend) are Wyll's Favored Foes. All Champions deal 400% more damage against Wyll's Favored Foes.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [
         {
+            "monster_is_favored_foe_of_effect_owner": true,
             "off_when_benched": true,
-            "effect_string": "increase_damage_against_monster_tag,400,fiend",
+            "effect_string": "increase_damage_against_monster,400",
             "targets": ["all"]
         },
         {
@@ -299,10 +316,10 @@ Unknown.
         }
     ],
     "requirements": "",
-    "description": {"desc": "Fiends are Wyll's Favored Foes. All Champions deal $(amount)% more damage against Wyll's Favored Foes."},
+    "description": {"desc": "$(sources_favored_foe_list_and fiend) are Wyll's Favored Foes. All Champions deal $(amount)% more damage against Wyll's Favored Foes."},
     "id": 1794,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 21725,
     "properties": {
         "indexed_effect_properties": true,
         "is_formation_ability": true,
@@ -347,7 +364,7 @@ Unknown.
     "description": {"desc": "Each time an enemy or distraction is defeated, Wyll increases the effect of $(upgrade_name id) by $(not_buffed amount)%, stacking multiplicatively up to $(max_stacks) times, until the area changes."},
     "id": 1795,
     "flavour_text": "",
-    "graphic_id": 0,
+    "graphic_id": 21722,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -393,6 +410,7 @@ Unknown.
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Melee Champions: $num_targets",
         "formation_circle_icon": false
     }
 }
@@ -424,6 +442,7 @@ Unknown.
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Assigned Familiars: $num_stacks",
         "owner_use_outgoing_description": true,
         "formation_circle_icon": false
     }
@@ -462,6 +481,7 @@ Unknown.
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "spec_option_post_apply_info": "Magic Champions: $num_stacks",
         "owner_use_outgoing_description": true,
         "formation_circle_icon": false
     }
