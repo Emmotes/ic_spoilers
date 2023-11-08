@@ -240,7 +240,11 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
         {
             "amount_expr": "upgrade_amount(13276,0)",
             "stack_title": "Total Ceremorphosis Stacks",
-            "amount_updated_listeners": ["slot_changed"],
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed"
+            ],
             "stacks_multiply": true,
             "total_title": "Total Bonus",
             "off_when_benched": true,
