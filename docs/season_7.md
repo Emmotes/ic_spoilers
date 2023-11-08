@@ -109,14 +109,35 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <pre>
 {
     "effect_keys": [
-        {"effect_string": "pre_stack_amount,400"},
         {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,400"
+        },
+        {
+            "use_locked_slot": true,
+            "random_seed_add": 0,
+            "effect_string": "shaka_celestial_puzzle",
+            "match_slot_effect": {
+                "overlay": {"graphic_id": 10381},
+                "effect_string": "shaka_puzzle_match"
+            },
             "slot_effect": {
+                "always_show_effect_graphic": true,
                 "overlay": {
+                    "overlay_location": "slot",
                     "manual_graphic": "shaka_puzzle",
                     "y": -20
                 },
                 "effect_string": "shaka_puzzle"
+            },
+            "locked_slot_effect": {
+                "always_show_effect_graphic": true,
+                "overlay": {
+                    "overlay_location": "slot",
+                    "manual_graphic": "shaka_puzzle",
+                    "y": -20
+                },
+                "effect_string": "shaka_puzzle_locked"
             },
             "medium_expressions": [
                 "support",
@@ -127,12 +148,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "off_when_benched": true,
             "additional_easy_slots": 0,
-            "random_seed_add": 0,
-            "effect_string": "shaka_celestial_puzzle",
-            "match_slot_effect": {
-                "overlay": {"graphic_id": 10381},
-                "effect_string": "shaka_puzzle_match"
-            },
+            "locked_slot_effect_no_overlay": {"effect_string": "shaka_puzzle_locked"},
             "easy_expressions": [
                 "male|!female",
                 "female|!male"
@@ -175,7 +191,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "indexed_effect_properties": true,
         "use_outgoing_description": true,
         "is_formation_ability": true,
-        "default_bonus_index": 1,
+        "default_bonus_index": 2,
         "per_effect_index_bonuses": true
     }
 }
@@ -210,6 +226,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "buff_upgrade,25,13417,0"
         },
         {
+            "off_when_benched": true,
             "effect_string": "do_nothing,10",
             "comment": "This effect key is just so we have a base amount for the description. Things that buff celestial resistance should also buff this key."
         },
@@ -250,7 +267,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Feast or Famine** (Guess)
-> Shaka increases the base effect of A Celestial Puzzle by 20% for each puzzle slot he's adjacent to, stacking multiplicatively.
+> Shaka increases the base effect of A Celestial Puzzle by 50% for each puzzle slot he's adjacent to, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -259,10 +276,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "amount_updated_listeners": ["slot_changed"],
         "stacks_multiply": true,
         "has_effect_key": "shaka_puzzle",
+        "off_when_benched": true,
         "show_bonus": true,
         "amount_func": "mult",
         "stack_func": "per_slot",
-        "effect_string": "buff_upgrade,20,13416",
+        "effect_string": "buff_upgrade,50,13416,0",
         "target": "adj"
     }],
     "requirements": "",
@@ -287,6 +305,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [{
         "amount_updated_listeners": ["slot_changed"],
         "stacks_multiply": true,
+        "off_when_benched": true,
         "show_bonus": true,
         "amount_func": "mult",
         "stack_func": "per_hero",
@@ -307,18 +326,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Child's Play** (Guess)
-> 
+> The locked Celestial Puzzle slot in the formation is assigned the `$(shaka_locked_tag easy)` tag and can be matched to further buff the party.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [],
+    "effect_keys": [{
+        "off_when_benched": true,
+        "effect_string": "shaka_slot_unlocked_easy"
+    }],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "The locked Celestial Puzzle slot in the formation is assigned the $(shaka_locked_tag easy) tag and can be matched to further buff the party."},
     "id": 1788,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -327,18 +352,30 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Pen and Paper** (Guess)
-> 
+> The locked Celestial Puzzle slot in the formation is assigned the `$(shaka_locked_tag medium)` tag and can be matched to further buff the party. The base effect of A Celestial Puzzle is increased by $amount%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "buff_upgrade,50,13416,0"}],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "shaka_slot_unlocked_medium"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,50,13416,0"
+        }
+    ],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "The locked Celestial Puzzle slot in the formation is assigned the $(shaka_locked_tag medium) tag and can be matched to further buff the party. The base effect of A Celestial Puzzle is increased by $amount%."},
     "id": 1789,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -347,38 +384,30 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Sunday Edition** (Guess)
-> 
+> The locked Celestial Puzzle slot in the formation is assigned the `$(shaka_locked_tag hard)` tag and can be matched to further buff the party. The base effect of A Celestial Puzzle is increased by $amount%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "buff_upgrade,100,13416,0"}],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "shaka_slot_unlocked_hard"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,13416,0"
+        }
+    ],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "The locked Celestial Puzzle slot in the formation is assigned the $(shaka_locked_tag hard) tag and can be matched to further buff the party. The base effect of A Celestial Puzzle is increased by $amount%."},
     "id": 1790,
     "flavour_text": "",
     "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Brain Break** (Guess)
-> The locked Celestial Puzzle slot remains locked, and instead Celestial Resistance is increased by 100%.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "effect_keys": [{"effect_string": "buff_upgrade,100,13416"}],
-    "requirements": "",
-    "description": {"desc": "The locked Celestial Puzzle slot remains locked, and instead Celestial Resistance is increased by $amount%."},
-    "id": 1791,
-    "flavour_text": "",
-    "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -387,17 +416,66 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Increases the effect of Celestial Resistance by 70%.
+> Increases the base effect of A Celestial Puzzle by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "buff_upgrade,100,13416,0"}],
+    "requirements": "",
+    "description": {"desc": "Increases the base effect of A Celestial Puzzle by $amount%"},
+    "id": 1807,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Brain Break** (Guess)
+> The locked Celestial Puzzle slot remains locked, and instead Celestial Resistance is increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [
-        {"effect_string": "buff_upgrade,70,13417,1"},
         {
-            "show_description": false,
-            "effect_string": "buff_upgrade,70,13417,3"
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,13416"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "shaka_hide_locked_puzzle_slot"
         }
+    ],
+    "requirements": "",
+    "description": {"desc": "The locked Celestial Puzzle slot remains locked, and instead Celestial Resistance is increased by $amount%."},
+    "id": 1791,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "use_outgoing_description": true,
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Increases the effect of Celestial Resistance by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "buff_upgrade,100,13417"},
+        {"effect_string": "buff_upgrade,100,13417,2"}
     ],
     "requirements": "",
     "description": {"desc": "Increases the effect of Celestial Resistance by $amount%"},
@@ -420,7 +498,161 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     </span>
 </span>
 
-No changes as of yet.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Divine Sense** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": ["prev_two_col"]
+        },
+        {"effect_string": "selise_divine_sense"},
+        {"effect_string": "set_ultimate_attack,403"},
+        {
+            "effect_string": "reduce_attack_cooldown,1",
+            "targets": ["prev_two_col"],
+            "apply_manually": true
+        },
+        {
+            "effect_string": "buff_upgrade,400,13743",
+            "seconds_threshold": 10,
+            "apply_manually": true
+        },
+        {
+            "effect_string": "damage_reduction_melee,25",
+            "targets": ["col"],
+            "override_key_desc": "$target takes $amount% less damage from Melee Attacks",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "damage_reduction_ranged,25",
+            "targets": ["col"],
+            "apply_manually": true
+        },
+        {
+            "reduce_percent": 10,
+            "update_time": 5,
+            "increase_percent": 5,
+            "min_amount": 0,
+            "effect_string": "buff_upgrade,150,0,0",
+            "max_amount": 150,
+            "apply_manually": true
+        },
+        {
+            "effect_string": "change_base_attack,398",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "change_base_attack,399",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "change_base_attack,400",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "change_base_attack,401",
+            "apply_manually": true
+        }
+    ],
+    "requirements": "",
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^Aggressive: Champions affected by Divine Sense have their base attack cooldowns reduced by TODOs.^^Wall: Increases the effects of Divine Sense by TODO% when Selise has been attacked in the last TODO seconds. Additionally, Champions in the same column as Selise take TODO% less damage from melee and ranged attacks.^^Last Resort: Increases the base effect of Vow of Vengeance by TODO%. This buff is additively reduced by TODO% every TODO seconds Selise is in Last Resort stance, and additively increased by TODO% every TODO seconds Selise is not in Last Resort stance.^^Current stance: $(selise_stance)"
+        }]},
+        "desc": {"conditions": [
+            {
+                "condition": "upgrade_purchased 13752",
+                "desc": "Selise increases the damage of Champions in the three columns behind her by $amount%. Bonus effects are provided based on Selise's current stance, which can be changed by using her Ultimate Attack."
+            },
+            {"desc": "Selise increases the damage of Champions in the two columns behind her by $amount%. Bonus effects are provided based on Selise's current stance, which can be changed by using her Ultimate Attack."}
+        ]}
+    },
+    "id": 1819,
+    "flavour_text": "",
+    "graphic_id": 10670,
+    "properties": {
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Divine Sense is increased by 100% for each Rivals of Waterdeep affiliated Champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stacks_multiply": true,
+        "show_bonus": false,
+        "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,13743,rivalswaterdeep"
+    }],
+    "requirements": "",
+    "description": {"desc": "Divine Sense is increased by $(not_buffed amount)% for each Rivals of Waterdeep affiliated Champion in the formation, stacking multiplicatively."},
+    "id": 1820,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increase the range of Divine Sense to affect the three columns behind Selise rather than just two.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "data": {"targets": ["prev_three_col"]},
+            "effect_string": "change_upgrade_data,13743,0"
+        },
+        {
+            "data": {"targets": ["prev_three_col"]},
+            "effect_string": "change_upgrade_data,13743,2"
+        },
+        {
+            "data": {"targets": ["prev_three_col"]},
+            "effect_string": "change_upgrade_data,13743,4"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Increase the range of Divine Sense to affect the three columns behind Selise rather than just two."},
+    "id": 1821,
+    "flavour_text": "",
+    "graphic_id": 10677,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # D'hani
 
@@ -431,7 +663,309 @@ No changes as of yet.
     </span>
 </span>
 
-No changes as of yet.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Fists of Fury**
+> D'hani attacks the nearest enemy and one other random enemy.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "D'hani attacks the nearest enemy and one other random enemy.",
+    "long_description": "D'hani attacks the nearest enemy and one other random enemy.",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 0,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "target_offset": [
+            -140,
+            0
+        ],
+        "special_melee": "dhani",
+        "type": "melee_attack"
+    }],
+    "name": "Fists of Fury",
+    "cooldown": 4.5,
+    "id": 712
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Flurry of Brushes**
+> The weather clears and D'hani pulls a quiver of sharpened paint brushes from her robes and flings them out at five random enemies. They deal damage and apply D'hani's paints to all enemies they hit.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "The weather clears and D'hani flings sharpened paint brushes at five random enemies dealing damage and applying paint.",
+    "long_description": "The weather clears and D'hani pulls a quiver of sharpened paint brushes from her robes and flings them out at five random enemies. They deal damage and apply D'hani's paints to all enemies they hit.",
+    "damage_modifier": 0.03,
+    "damage_types": ["ranged"],
+    "graphic_id": 11656,
+    "target": "random",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "num_targets": 5,
+    "animations": [{
+        "line_damage_distance": 50,
+        "effect_frames": {"projectile": {
+            "weather": "none",
+            "effect_string": "change_weather"
+        }},
+        "projectile_details": {
+            "has_trail": true,
+            "extend_line": false,
+            "projectile_graphic_id": 11632,
+            "projectile_speed": 3200
+        },
+        "shoot_offset_y": -10,
+        "shoot_offset_x": 50,
+        "line_damage_stop_at_target": true,
+        "type": "ranged_attack",
+        "projectile": "generic",
+        "shoot_frame": 16
+    }],
+    "name": "Flurry of Brushes",
+    "cooldown": 160,
+    "id": 711
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Paint Them Red** (Guess)
+> When D'hani attacks she paints the enemy red. An enemy can be painted up to three times. D'hani's damage is increased by 33% for each stroke of paint she has applied to a normal enemy in the current area, and 1000% for each stroke of paint she has applied to a boss enemy in the current area, stacking multiplicatively. Normal enemy strokes cap at 100, and boss area strokes cap at 6.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "manual_stacking": true,
+            "stacks_multiply": true,
+            "off_when_benched": true,
+            "show_bonus": true,
+            "effect_string": "hero_dps_multiplier_mult,33"
+        },
+        {
+            "manual_stacking": true,
+            "stacks_multiply": true,
+            "off_when_benched": true,
+            "show_bonus": true,
+            "effect_string": "hero_dps_multiplier_mult,1000"
+        },
+        {
+            "paint_effects": [],
+            "monster_stack_max": 100,
+            "off_when_benched": true,
+            "boss_stack_index": 1,
+            "effect_string": "dhani_paint_them_red_v2,0",
+            "monster_stack_index": 0,
+            "stacks_per_area": true,
+            "boss_stack_max": 6
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "When $(source_hero) attacks she paints the enemy red. An enemy can be painted up to three times. $(source_hero)'s damage is increased by 33% for each stroke of paint she has applied to a normal enemy in the current area, and 1000% for each stroke of paint she has applied to a boss enemy in the current area, stacking multiplicatively. Normal enemy strokes cap at 100, and boss area strokes cap at 6."},
+    "id": 1800,
+    "flavour_text": "",
+    "graphic_id": 11651,
+    "properties": {
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Friendly Rivalry** (Guess)
+> D'hani's damage is increased by 200% for each Rival of Waterdeep in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "stacks_multiply": true,
+        "off_when_benched": true,
+        "effect_string": "hero_dps_mult_per_tagged_crusader_mult_amount_before,200,rivalswaterdeep"
+    }],
+    "requirements": "",
+    "description": {"desc": "$(source_hero)'s damage is increased by $(not_buffed amount)% for each Rival of Waterdeep in the formation, stacking multiplicatively."},
+    "id": 1801,
+    "flavour_text": "",
+    "graphic_id": 11650,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Way of the Brush** (Guess)
+> D'hani keeps track of the total number of enemies she has painted across all time. This tracking persists between resets. D'hani's damage is increased by 0.01% for each enemy she has ever painted, stacking additively.  
+> Total Monsters Painted: `$(dhani_num_lifetime_painted_enemies_v2)`  
+> Total Bonus: `$(dhani_current_damage_bonus_v2)`%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "dhani_way_of_the_brush_v2,100,0.01",
+            "index": 0,
+            "buff_with_layers": false,
+            "buff_per_monster": 0.01
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,0"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "$(source_hero) keeps track of the total number of enemies she has painted across all time. This tracking persists between resets. $(source_hero)'s damage is increased by 0.01% for each enemy she has ever painted, stacking additively.^Total Monsters Painted: $(dhani_num_lifetime_painted_enemies_v2)^Total Bonus: $(dhani_current_damage_bonus_v2)%"},
+    "id": 1802,
+    "flavour_text": "",
+    "graphic_id": 11652,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Splash of Yellow** (Guess)
+> Enemies D'hani paints have a 33% chance to gain a splash of yellow. Enemies painted in this way drop `$(dhani_gold_bonus)`% more gold when they are killed.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "paint_odds,33"},
+        {
+            "paint_effects": [{"effect_string": "increase_monster_gold,200"}],
+            "colour": "Yellow",
+            "off_when_benched": true,
+            "effect_string": "dhani_splash_of_yellow,100"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Enemies $(source_hero) paints have a $(amount)% chance to gain a splash of yellow. Enemies painted in this way drop $(dhani_gold_bonus)% more gold when they are killed."},
+    "id": 1803,
+    "flavour_text": "",
+    "graphic_id": 11654,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Stroke of Green** (Guess)
+> Enemies D'hani paints have a 33% chance to gain a stroke of green. Enemies painted in this way cause D'hani's attacks against them to damage nearby enemies as well at `$(dhani_aoe_damage)`% damage. This effect does not chain, but does apply paint to the enemies it damages.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "paint_odds,33"},
+        {
+            "paint_effects": [{"effect_string": "dhani_green_paint"}],
+            "colour": "Green",
+            "aoe_damage_percent": 50,
+            "off_when_benched": true,
+            "effect_string": "dhani_stroke_of_green,100"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Enemies $(source_hero) paints have a $(amount)% chance to gain a stroke of green. Enemies painted in this way cause $(source_hero)'s attacks against them to damage nearby enemies as well at $(dhani_aoe_damage)% damage. This effect does not chain, but does apply paint to the enemies it damages."},
+    "id": 1804,
+    "flavour_text": "",
+    "graphic_id": 11655,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Blotch of Blue** (Guess)
+> Enemies D'hani paints have a 33% chance to gain a blotch of blue. Enemies painted in this way are stunned for `$(dhani_stun_duration)` seconds when D'hani attacks them and boss enemies painted in this way take `$(dhani_boss_damage_bonus)`% more damage from all attacks.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "paint_odds,33"},
+        {"effect_string": "stun_mult,100"},
+        {
+            "paint_effects": [
+                {
+                    "apply_to_bosses_only": true,
+                    "effect_string": "increase_monster_damage,800"
+                },
+                {"effect_string": "dhani_blue_paint"}
+            ],
+            "colour": "Blue",
+            "off_when_benched": true,
+            "stun_time": 2,
+            "effect_string": "dhani_blotch_of_blue,100"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Enemies $(source_hero) paints have a $(amount)% chance to gain a blotch of blue. Enemies painted in this way are stunned for $(dhani_stun_duration) seconds when $(source_hero) attacks them and boss enemies painted in this way take $(dhani_boss_damage_bonus)% more damage from all attacks."},
+    "id": 1805,
+    "flavour_text": "",
+    "graphic_id": 11653,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 
 [Back to Top](#top)
