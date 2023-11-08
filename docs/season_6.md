@@ -34,6 +34,8 @@ This means the theme this season is (or seems to be) high dexterity CNE original
 
 ![Season 6 Currency](images/season_6/currency.png)
 
+![Season 6 Ad Panel](images/season_6/adpanel.png)
+
 # Changes
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
