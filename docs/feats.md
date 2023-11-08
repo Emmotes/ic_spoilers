@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Jang Sao</span>
-        </span>
-        <span class="featTableIcon4">
-            ![The Greater Journey Icon](images/featicons/upgradefa.png)The Greater Journey
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">The Mysterious Wanderer 2->3 Slots</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">08 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Virgil</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Immolation Icon](images/featicons/immolation.png)Immolation
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">1s BUD per sec for 5s</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">08 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">DM</span>
         </span>
         <span class="featTableIcon3">
@@ -77,6 +43,159 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">15 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Calliope</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Harengon Glitch Icon](images/featicons/glitch.png)Harengon Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Counts as Harengon & +20% to Bardic Inspiration per Bard</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Freely</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Aasimar Glitch Icon](images/featicons/glitch.png)Aasimar Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Counts as Aasimar & +20% to Unlucky For Them per Aasimar</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Havilar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Half-Elf Glitch Icon](images/featicons/glitch.png)Half-Elf Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Counts as Half Elf & +20% to Battlemaster per Half Elf</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Nayeli</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Githyanki Glitch Icon](images/featicons/glitch.png)Githyanki Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Counts as Githyanki & +20% to Aura of Courage per Unique Race</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Orkira</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Half-Elf Glitch Icon](images/featicons/glitch.png)Half-Elf Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Counts as Half Elf & +20% to Elemental Fire per Half Elf</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Zorbu</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Aberrant Focus Icon](images/featicons/upgradefa.png)Aberrant Focus
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">20% Know Your Enemy</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Zorbu</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Expert Focus Icon](images/featicons/upgradefa.png)Expert Focus
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Focused Fury</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Zorbu</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Heightened Skills Icon](images/featicons/upgradefa.png)Heightened Skills
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">20% Focused Fury</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Zorbu</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Hunting Party Icon](images/featicons/upgradefa.png)Hunting Party
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">20% Hunter's Pack</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -98,57 +217,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Calliope</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Harengon Glitch Icon](images/featicons/glitch.png)Harengon Glitch
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">Counts as Harengon & +20% to Bardic Inspiration per Bard</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">24 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Freely</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Aasimar Glitch Icon](images/featicons/glitch.png)Aasimar Glitch
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">Counts as Aasimar & +20% to Unlucky For Them per Aasimar</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">24 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Havilar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Half-Elf Glitch Icon](images/featicons/glitch.png)Half-Elf Glitch
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">Counts as Half Elf & +20% to Battlemaster per Half Elf</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">24 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Hitch</span>
         </span>
         <span class="featTableIcon4">
@@ -159,40 +227,6 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Emergence 4 (Guess)</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">24 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Nayeli</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Githyanki Glitch Icon](images/featicons/glitch.png)Githyanki Glitch
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">Counts as Githyanki & +20% to Aura of Courage per Unique Race</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">24 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Orkira</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Half-Elf Glitch Icon](images/featicons/glitch.png)Half-Elf Glitch
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">Counts as Half Elf & +20% to Elemental Fire per Half Elf</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">24 Nov 2023</span>
@@ -1089,6 +1123,176 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">14 Dec 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Warden</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Beguiling Hex Icon](images/featicons/upgradefa.png)Beguiling Hex
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+4 Max Hex Stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Season 6</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2033</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Warden</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Corrupting Sigils Icon](images/featicons/upgradefa.png)Corrupting Sigils
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Hex</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2033</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Warden</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Eldritch Words Icon](images/featicons/upgradefa.png)Eldritch Words
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">20% Hex</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2033</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Warden</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Gibbous Script Icon](images/featicons/upgradefa.png)Gibbous Script
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">100% Master of Hexes</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2033</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Warden</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Greater Swarm Icon](images/featicons/upgradefa.png)Greater Swarm
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">25% Cloak of Flies</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2033</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Warden</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Hunter's Hex Icon](images/featicons/upgradefa.png)Hunter's Hex
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+2 Max Hex Stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Season 6</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2033</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Warden</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Phantasmal Curse Icon](images/featicons/upgradefa.png)Phantasmal Curse
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+1 Max Spectres</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2033</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Warden</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Specter of Aeons Icon](images/featicons/upgradefa.png)Specter of Aeons
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">+2 Max Spectres</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2033</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Warden</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Stygian Spirit Icon](images/featicons/upgradefa.png)Stygian Spirit
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">20% Accursed Specter</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Free</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2033</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Warden</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Unknowable Form Icon](images/featicons/upgradefa.png)Unknowable Form
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">40% Accursed Specter</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">12,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2033</span>
         </span>
     </span>
 </span>

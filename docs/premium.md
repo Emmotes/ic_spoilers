@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Athar Jang Sao Theme Pack - $24.99  
-Date of release: 08 Nov 2023
-
-Contents:
-
-* Champion: `Jang Sao`
-* Skin: `Athar Jang Sao`
-* Feat: `The Greater Journey` (Jang Sao)
-* Familiar: `Finley the Goldfish`
-* Chests: `Gold Jang Sao Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Fated Virgil Skin & Feat Pack - $9.99  
-Date of release: 08 Nov 2023
-
-Contents:
-
-* Champion: `Virgil Zoar`
-* Skin: `Fated Virgil`
-* Feat: `Immolation` (Virgil)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Virgil Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Eonstaryx the Time Dragon Familiar Pack - $9.99  
 Date of release: 13 Nov 2023
 
