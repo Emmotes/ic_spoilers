@@ -221,7 +221,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Warforged Glitch Birdsong
+            ![Warforged Glitch Birdsong Portrait](images/skin_portraits/warforgedglitchbirdsong.png)Warforged Glitch Birdsong
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">[Weekend](weekends.md) (Guess)</span>
