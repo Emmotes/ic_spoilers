@@ -11,7 +11,7 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Aasimar Glitch Freely
+            ![Aasimar Glitch Freely Portrait](images/skin_portraits/aasimarglitchfreely.png)Aasimar Glitch Freely
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Aasimar Glitch Freely Skin & Feat Pack</span>
@@ -95,7 +95,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Harengon Glitch Calliope
+            ![Harengon Glitch Calliope Portrait](images/skin_portraits/harengonglitchcalliope.png)Harengon Glitch Calliope
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harengon Glitch Calliope Skin & Feat Pack</span>
