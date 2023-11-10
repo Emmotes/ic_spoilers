@@ -685,23 +685,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Nrakk</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)Illithid Tadpole
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">25% All Champion Damage & +1 Ceremorphosis Stack</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">Emergence 3</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Pwent</span>
         </span>
         <span class="featTableIcon4">
@@ -780,23 +763,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Valentine</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Very Important Person Icon](images/featicons/upgradefa.png)Very Important Person
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Socialite</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">Emergence 3</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">01 Jan 2032</span>
@@ -1129,23 +1095,6 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableChampion">
             <span style="margin-left: 8px;">Warden</span>
         </span>
-        <span class="featTableIcon4">
-            ![Beguiling Hex Icon](images/featicons/upgradefa.png)Beguiling Hex
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">+4 Max Hex Stacks</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">Season 6</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">22 Nov 2033</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Warden</span>
-        </span>
         <span class="featTableIcon3">
             ![Corrupting Sigils Icon](images/featicons/upgradefa.png)Corrupting Sigils
         </span>
@@ -1205,23 +1154,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Gold Chest</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">22 Nov 2033</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Warden</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Hunter's Hex Icon](images/featicons/upgradefa.png)Hunter's Hex
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">+2 Max Hex Stacks</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">Season 6</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">22 Nov 2033</span>

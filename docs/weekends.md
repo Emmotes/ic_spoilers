@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Remarkably Deft | 10 Nov | **Nahara** | Jarlaxle | Calliope | DM | Catti-brie | Golden Epic |
 | Clockwork Conundrum | 17 Nov | **Zorbu** | Jamilah | Minsc | Sisaspia | Kent | Golden Epic |
 | Glitch in the Multiverse | 24 Nov | **Birdsong** | Asharra | Nayeli | Sentry | Korth | [Feats](feats.md) & [Skin](skins.md) |
 | Stargazing | 01 Dec | **Jang Sao** | Makos | Arkhan | Deekin | Warden | Golden Epic |
