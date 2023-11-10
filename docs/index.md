@@ -85,6 +85,7 @@ Not events events - but events. You know?
 
 Miscellaneous spoilers.
 
+* [Collections Dialogue](collections.md) - Unknown
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
