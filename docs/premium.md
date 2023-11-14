@@ -5,20 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Eonstaryx the Time Dragon Familiar Pack - $9.99  
-Date of release: 13 Nov 2023
-
-Contents:
-
-* Familiar: `Eonstaryx the Time Dragon`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Aasimar Glitch Freely Skin & Feat Pack - $9.99  
 Date of release: 22 Nov 2023
 
