@@ -499,6 +499,47 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </span>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Sword and Board - Wall**
+> Damage all enemies in a small AOE.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Selise attacks the nearest enemy and damages all enemies in a small AOE.\t",
+    "long_description": "Damage all enemies in a small AOE.",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 100,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 53,
+        "effect_frames": {"1": {
+            "duration": 2,
+            "drop_on_hero": true,
+            "target_offset_x": 100,
+            "area_key": "selise_stop_monster",
+            "effect_string": "ground_effect_area,0",
+            "radius": 50,
+            "area_effects": [{"effect_string": "monster_speed_reduce,100"}]
+        }},
+        "sound_frames": {"53": 158},
+        "target_offset_x": -50,
+        "animation_sequence_name": "attack_c",
+        "type": "melee_attack"
+    }],
+    "name": "Sword and Board - Wall",
+    "cooldown": 6,
+    "id": 718
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Divine Sense** (Guess)
 > 
 <details><summary><em>Raw Data</em></summary>
@@ -510,7 +551,20 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "hero_dps_multiplier_mult,100",
             "targets": ["prev_two_col"]
         },
-        {"effect_string": "selise_divine_sense"},
+        {
+            "aggressive_ek_indices": [
+                3,
+                8
+            ],
+            "last_resort_ek_indices": [10],
+            "effect_string": "selise_divine_sense",
+            "wall_ek_indices": [
+                4,
+                5,
+                6,
+                9
+            ]
+        },
         {"effect_string": "set_ultimate_attack,403"},
         {
             "effect_string": "reduce_attack_cooldown,1",
@@ -518,40 +572,38 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "apply_manually": true
         },
         {
-            "effect_string": "buff_upgrade,400,13743",
-            "seconds_threshold": 10,
+            "seconds_since_attacked": 10,
+            "effect_string": "selise_wall_stance,400",
+            "buff_effect_string": "buff_upgrade,400,13743",
             "apply_manually": true
         },
         {
             "effect_string": "damage_reduction_melee,25",
             "targets": ["col"],
-            "override_key_desc": "$target takes $amount% less damage from Melee Attacks",
+            "override_key_desc": "$target takes $amount% less damage from Melee Attacks and Ranged Attacks",
             "apply_manually": true
         },
         {
             "effect_string": "damage_reduction_ranged,25",
             "targets": ["col"],
+            "skip_effect_key_desc": true,
             "apply_manually": true
         },
         {
-            "reduce_percent": 10,
             "update_time": 5,
-            "increase_percent": 5,
             "min_amount": 0,
-            "effect_string": "buff_upgrade,150,0,0",
+            "effect_string": "selise_last_resort,150",
+            "buff_effect_string": "buff_upgrade,0,13745,0",
             "max_amount": 150,
-            "apply_manually": true
+            "increase_amount": 5,
+            "reduce_amount": 10
         },
         {
             "effect_string": "change_base_attack,398",
             "apply_manually": true
         },
         {
-            "effect_string": "change_base_attack,399",
-            "apply_manually": true
-        },
-        {
-            "effect_string": "change_base_attack,400",
+            "effect_string": "change_base_attack,718",
             "apply_manually": true
         },
         {
@@ -563,7 +615,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {
         "post": {"conditions": [{
             "condition": "not static_desc",
-            "desc": "^^Aggressive: Champions affected by Divine Sense have their base attack cooldowns reduced by TODOs.^^Wall: Increases the effects of Divine Sense by TODO% when Selise has been attacked in the last TODO seconds. Additionally, Champions in the same column as Selise take TODO% less damage from melee and ranged attacks.^^Last Resort: Increases the base effect of Vow of Vengeance by TODO%. This buff is additively reduced by TODO% every TODO seconds Selise is in Last Resort stance, and additively increased by TODO% every TODO seconds Selise is not in Last Resort stance.^^Current stance: $(selise_stance)"
+            "desc": "^^Aggressive: Champions affected by Divine Sense have their base attack cooldowns reduced by $(amount___4)s.^^Wall: Increases the effects of Divine Sense by $(amount___5)% when Selise has been attacked in the last $(seconds_since_attacked___5) seconds. Additionally, Champions in the same column as Selise take $(amount___6)% less damage from melee and ranged attacks.^^Last Resort: Increases the base effect of Vow of Vengeance by $(amount___8)%. This buff is additively reduced by $(reduce_amount___8)% every $(update_time___8) seconds Selise is in Last Resort stance, and additively increased by $(increase_amount___8)% every $(update_time___8) seconds Selise is not in Last Resort stance. (Current buff amount: $selise_last_resort_buff_amount%)^^Current stance: $(selise_stance)"
         }]},
         "desc": {"conditions": [
             {
@@ -599,7 +651,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "effect_keys": [{
         "stacks_multiply": true,
-        "show_bonus": false,
+        "show_bonus": true,
         "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,13743,rivalswaterdeep"
     }],
     "requirements": "",
@@ -647,6 +699,237 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "type": "upgrade"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> While in Aggressive stance, Selise will toss her shield in an arc targeted at the farthest enemy every 4th attack. It deals damage and stuns all enemies hit for 2 seconds. If the enemy is armor/hits-based it takes double hits from all attacks until Selise attacks with Shield of Psychomancy again or changes stances.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "effect_string": "selise_shield_of_psychomancy_v2",
+            "debuff_effect_string": "unique_hit_multiplier,100"
+        },
+        {
+            "effect_string": "change_base_attack_every,100,402,4",
+            "apply_manually": true
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "While in Aggressive stance, Selise will toss her shield in an arc targeted at the farthest enemy every 4th attack. It deals damage and stuns all enemies hit for 2 seconds. If the enemy is armor/hits-based it takes double hits from all attacks until Selise attacks with Shield of Psychomancy again or changes stances."},
+    "id": 1822,
+    "flavour_text": "",
+    "graphic_id": 10671,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> While not in Aggressive stance, Selise increases the effect of Divine Sense by 10% each time an enemy attacks her, stacking multiplicatively up to 100 times and resetting when changing areas. Stacks do not reset when changing stances.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,10"},
+        {"effect_string": "selise_vow_of_vengeance"},
+        {
+            "amount_expr": "upgrade_amount(13745,0)",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "stack_func": "mult",
+            "effect_string": "buff_upgrade,0,13743",
+            "max_stacks": 100,
+            "more_triggers": [{
+                "action": {"type": "reset_stacks"},
+                "trigger": "area_changed"
+            }],
+            "stacks_on_trigger": "hero_attacked",
+            "apply_manually": true
+        }
+    ],
+    "requirements": "",
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$(selise_vow_of_vengeance_active)"
+        }]},
+        "desc": "While not in Aggressive stance, Selise increases the effect of Divine Sense by $amount% each time an enemy attacks her, stacking multiplicatively up to $(max_stacks___3) times and resetting when changing areas. Stacks do not reset when changing stances."
+    },
+    "id": 1824,
+    "flavour_text": "",
+    "graphic_id": 10673,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 2,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> When switching from Last Resort to Aggressive stance, Selise channels the divine power of Tyr and attacks a random enemy with her sword, dealing BUD-based AoE damage and BUD-based chaining lightning damage from the enemy struck to five nearby enemies. This effect can only trigger every 180 seconds.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{"effect_string": "selise_thunderous_smite,180"}],
+    "requirements": "",
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^^$(selise_thunderous_smite_cooldown_remaining)"
+        }]},
+        "desc": "When switching from Last Resort to Aggressive stance, Selise channels the divine power of Tyr and attacks a random enemy with her sword, dealing BUD-based AoE damage and BUD-based chaining lightning damage from the enemy struck to five nearby enemies. This effect can only trigger every $amount seconds."
+    },
+    "id": 1826,
+    "flavour_text": "",
+    "graphic_id": 10672,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> While in Aggressive stance armored or hits-based enemies affected by Shield of Psychomancy now take triple hits from all attacks.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [{
+        "data": {"debuff_effect_string": "unique_hit_multiplier,200"},
+        "effect_string": "change_upgrade_data,13744,0"
+    }],
+    "requirements": "",
+    "description": {"desc": "While in Aggressive stance armored or hits-based enemies affected by Shield of Psychomancy now take triple hits from all attacks."},
+    "id": 1827,
+    "flavour_text": "",
+    "graphic_id": 10676,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increases the Health of all other Champions by 25% of Selise's Max Health. This is increased by 5% for each other Rivals of Waterdeep Champion in the formation applied additively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "increase_health_by_source_percent,25",
+            "targets": ["other"]
+        },
+        {
+            "exclude_self": true,
+            "show_bonus": false,
+            "effect_string": "buff_upgrade_per_any_tagged_crusader,20,13747,rivalswaterdeep"
+        }
+    ],
+    "requirements": "",
+    "description": {"desc": "Increases the Health of all other Champions by $(not_buffed amount)% of $source's Max Health. This is increased by 5% for each other Rivals of Waterdeep Champion in the formation applied additively."},
+    "id": 1828,
+    "flavour_text": "",
+    "graphic_id": 10671,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "is_buff_incoming_formation_abilities_target": false,
+        "default_bonus_index": 0,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> While in Wall stance, Selise can deflect projectiles back at the enemies that shot/cast them, dealing 6 seconds of BUD-based damage.
+> - She can deflect one attack for each deflection stack she has, and gains deflection stacks by attacking while in Wall stance.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "effect_keys": [
+        {
+            "filter_damage_types": [
+                "ranged",
+                "magic"
+            ],
+            "effect_string": "return_bud_damage_when_hit,6",
+            "take_no_damage": true,
+            "targets": ["self_slot"],
+            "projectile": "return_projectile",
+            "apply_manually": true
+        },
+        {
+            "stack_title": "Deflect Stacks",
+            "manual_stacking": true,
+            "stacks_multiply": false,
+            "effect_string": "selise_reflective_shield,0",
+            "show_stacks": true,
+            "max_stacks": 10
+        }
+    ],
+    "requirements": "",
+    "description": {
+        "post": {"conditions": [{
+            "condition": "not static_desc",
+            "desc": "^She can deflect one attack for each deflection stack she has, and gains deflection stacks by attacking while in Wall stance.^^$(selise_reflective_shield_active)"
+        }]},
+        "desc": "While in Wall stance, Selise can deflect projectiles back at the enemies that shot/cast them, dealing $(seconds_worth_of_bud) seconds of BUD-based damage."
+    },
+    "id": 1829,
+    "flavour_text": "",
+    "graphic_id": 10675,
+    "properties": {
+        "indexed_effect_properties": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
