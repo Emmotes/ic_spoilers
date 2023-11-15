@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![Emergence 4 Banner](images/emergence_4/banner.png)
-{% endcomment %}
 
 # Emergence 4
 
@@ -20,6 +18,26 @@ We know the next Emergence event will be Glitches and that it will start on 22 N
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Pigmint**</span>
             <span style="margin-left:15px">Marvelous Support Pigment</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Golden Epic Icon for Sisaspia Slot 4](images/emergence_4/ge_1360.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Symbiotic Healing</span>
+            <span style="margin-left:15px">Sisaspia (Slot 4)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Golden Epic Icon for Jang Sao Slot 5](images/emergence_4/ge_3333.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">All First Specialisations</span>
+            <span style="margin-left:15px">Jang Sao (Slot 5)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
