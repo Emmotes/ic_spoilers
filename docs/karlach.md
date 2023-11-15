@@ -52,7 +52,7 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Tanking / DPS / Support (Guess)</span>
+            <span style="margin-left:8px;">Tanking / DPS / Support / Healing (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -102,13 +102,13 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Greataxe Cleave** (Melee)
-> Unknown effect.  
+> Karlach attacks the closest enemies with a swing of her greataxe.  
 > Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
+    "description": "Karlach attacks the closest enemies with a swing of her greataxe.",
     "long_description": "",
     "damage_modifier": 1,
     "damage_types": ["melee"],
@@ -134,31 +134,32 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Soul Coin** (Melee)
-> Unknown effect.  
-> Cooldown: 6s (Cap 1.5s)
+**Ultimate Attack: Soul Coin**
+> Karlach absorbs the energy of a soul coin, increasing her rage cap to 100 stacks and her Infernal Engine's BUD-based damage by 100%.  
+> Cooldown: 30s (Cap 7.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "",
-    "long_description": "",
+    "description": "Karlach increases her rage cap to 100 stacks and her Infernal Engine's damage by 100%.",
+    "long_description": "Karlach absorbs the energy of a soul coin, increasing her rage cap to 100 stacks and her Infernal Engine's BUD-based damage by 100%.",
     "damage_modifier": 1,
     "damage_types": ["melee"],
     "graphic_id": 21828,
     "target": "none",
     "aoe_radius": 0,
-    "tags": ["melee"],
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
     "num_targets": 1,
     "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 154},
-        "target_offset_x": -34,
-        "type": "melee_attack"
+        "ultimate": "karlach",
+        "type": "ultimate_attack",
+        "no_damage_display": true
     }],
     "name": "Soul Coin",
-    "cooldown": 6,
+    "cooldown": 30,
     "id": 714
 }
 </pre>
@@ -233,8 +234,9 @@ Unknown.
             "show_bonus": true,
             "amount_func": "add",
             "stack_func": "per_ceremorphosis_stacks",
-            "effect_string": "buff_upgrade,2,13722,4",
-            "desc_forced_order": 2
+            "effect_string": "do_nothing,2",
+            "desc_forced_order": 2,
+            "listen_for_computed_changes": true
         },
         {
             "stack_title": "Karlach Ceremorphosis Stacks",
@@ -248,21 +250,19 @@ Unknown.
         },
         {
             "off_when_benched": true,
-            "effect_string": "base_amount,20"
+            "effect_string": "do_nothing,20",
+            "skip_effect_key_desc": true
         },
         {
             "amount_expr": "upgrade_amount(13722,2)+max_upgrade_amount(13722,0)",
             "off_when_benched": true,
             "effect_string": "increase_health_by_source_percent,0",
+            "desc_forced_order": 3,
             "targets": ["other"]
-        },
-        {
-            "off_when_benched": true,
-            "effect_string": "do_nothing,0"
         }
     ],
     "requirements": "",
-    "description": {"desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Karlach's brain. Karlach increases the health of all other Champions by $(amount___3)% of her max health, plus $(amount)% for each Ceremorphosis stack the formation has, stacking additively."},
+    "description": {"desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Karlach's brain. Karlach increases the health of all other Champions by $(not_buffed amount___3)% of her max health, plus $(not_buffed amount)% for each Ceremorphosis stack the formation has, stacking additively."},
     "id": 1812,
     "flavour_text": "",
     "graphic_id": 21820,
@@ -287,40 +287,32 @@ Unknown.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "stack_title": "Rage stacks",
-        "stacks_multiply": true,
-        "reduce_percent": 60,
-        "show_bonus": true,
-        "effect_string": "buff_upgrade,25,13721",
-        "max_stacks": 50,
-        "more_triggers": [
-            {
-                "action": {"type": "add_stack"},
-                "trigger": "owner_base_attack"
-            },
-            {
-                "action": {"type": "add_stack"},
-                "trigger": "hero_attacked",
-                "target": "self_slot"
-            },
-            {
-                "action": {
-                    "type": "reduce_percent",
-                    "percent": 60
-                },
-                "trigger": "area_changed"
-            }
-        ]
-    }],
+    "effect_keys": [
+        {
+            "stack_title": "Rage stacks",
+            "stacks_multiply": true,
+            "manual_stacking": true,
+            "show_bonus": true,
+            "effect_string": "buff_upgrade,25,13721"
+        },
+        {
+            "default_reduce_percent": 60,
+            "default_max_stacks": 50,
+            "effect_string": "karlach_rage"
+        }
+    ],
     "requirements": "",
-    "description": {"desc": "When Karlach attacks or is attacked, she gains a Rage stack, capped at $(max_stacks) stacks. Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Rage stack, stacking multiplicatively. Stacks are reduced by $(reduce_percent)% when changing areas."},
+    "description": {"desc": "When Karlach attacks or is attacked, she gains a Rage stack, capped at $(karlach_rage_max_stacks) stacks. Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Rage stack, stacking multiplicatively. Stacks are reduced by $(karlach_rage_reduce_percent)% when changing areas."},
     "id": 1813,
     "flavour_text": "",
     "graphic_id": 21824,
     "properties": {
-        "use_outgoing_description": true,
-        "is_formation_ability": true
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -331,31 +323,56 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Infernal Engine** (Guess)
 > While Karlach has 20 or more Rage stacks, she ignites on fire dealing 0.1 second of BUD-based damage for each Rage stack to any enemy that attacks her. (Stacking additively).
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "stack_title": "Rage stacks",
-        "per_other_stack_count_effect_key_index": 0,
-        "amount_updated_listeners": ["stacks_changed"],
-        "stacks_multiply": false,
-        "total_title": "Seconds of BUD",
-        "per_other_stack_count_upgrade_id": 13723,
-        "show_bonus": true,
-        "amount_func": "add",
-        "stack_func": "per_other_stack_count",
-        "effect_string": "do_nothing,0.1",
-        "percent_values": false
-    }],
+    "effect_keys": [
+        {"effect_string": "pre_stack_amount,0.1"},
+        {
+            "per_other_stack_count_effect_key_index": 0,
+            "amount_updated_listeners": ["stacks_changed"],
+            "stacks_multiply": false,
+            "returned_damage_hit_graphic_id": 849,
+            "total_title": "Seconds of BUD",
+            "per_other_stack_count_upgrade_id": 13723,
+            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
+            "amount_func": "add",
+            "stack_func": "per_other_stack_count",
+            "effect_string": "deal_bud_damage_when_hit,0",
+            "amount_expr": "upgrade_amount(13724,0)",
+            "stack_title": "Effective Rage stacks",
+            "min_rage_stacks": 20,
+            "show_bonus": true,
+            "percent_values": false
+        },
+        {
+            "per_other_stack_count_effect_key_index": 0,
+            "amount_updated_listeners": ["stacks_changed"],
+            "stacks_multiply": false,
+            "per_other_stack_count_upgrade_id": 13723,
+            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)",
+            "min_rage_stacks": 20,
+            "amount_func": "add",
+            "stack_func": "per_other_stack_count",
+            "effect_string": "karlach_infernal_engine",
+            "listen_for_computed_changes": true
+        }
+    ],
     "requirements": "",
-    "description": {"desc": "While Karlach has 20 or more Rage stacks, she ignites on fire dealing $(not_buffed amount) second of BUD-based damage for each Rage stack to any enemy that attacks her. (Stacking additively)"},
+    "description": {"desc": "While Karlach has $(min_rage_stacks___2) or more Rage stacks, she ignites on fire dealing $(not_buffed amount) second of BUD-based damage for each Rage stack to any enemy that attacks her. (Stacking additively)"},
     "id": 1814,
     "flavour_text": "",
     "graphic_id": 21823,
     "properties": {
-        "use_outgoing_description": true,
-        "is_formation_ability": true
+        "indexed_effect_properties": true,
+        "retain_on_slot_changed": true,
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -365,14 +382,21 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Experienced Gladiator** (Guess)
-> Unknown effect.
+> Karlach increases the effect of The Fury of Avernus by 10% for each Zariel Patron variant you have completed, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
+    "effect_keys": [{
+        "stack_title": "Zariel Patron Variants Complete",
+        "patron_id": 4,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_patron_variant_complete",
+        "effect_string": "buff_upgrade,10,13721"
+    }],
     "requirements": "",
-    "description": {"desc": ""},
+    "description": {"desc": "Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Zariel Patron variant you have completed, stacking multiplicatively."},
     "id": 1815,
     "flavour_text": "",
     "graphic_id": 21821,
@@ -390,21 +414,34 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Berserker** (Guess)
-> Unknown effect.
+> While Karlach has 20 or more Rage stacks, she increases her damage by 25% for each Rage stack she has, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 21825,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2018Midwinter/Midwinter_Y7/Icon_Specialization_KarlachBerserker",
-    "fs": 0
+    "effect_keys": [{
+        "stack_title": "Effective Rage stacks",
+        "per_other_stack_count_effect_key_index": 0,
+        "amount_updated_listeners": ["stacks_changed"],
+        "stacks_multiply": true,
+        "total_title": "Bonus Damage",
+        "per_other_stack_count_upgrade_id": 13723,
+        "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
+        "min_rage_stacks": 20,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_other_stack_count",
+        "effect_string": "hero_dps_multiplier_mult,25"
+    }],
+    "requirements": "",
+    "description": {"desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she increases her damage by $(not_buffed amount)% for each Rage stack she has, stacking multiplicatively."},
+    "id": 1816,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
@@ -413,21 +450,33 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Wildheart** (Guess)
-> Unknown effect.
+> While Karlach has 20 or more Rage stacks, she heals 10% of her max health every second.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 21826,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2018Midwinter/Midwinter_Y7/Icon_Specialization_KarlachWildheart",
-    "fs": 0
+    "effect_keys": [{
+        "per_other_stack_count_effect_key_index": 0,
+        "amount_updated_listeners": ["stacks_changed"],
+        "stacks_multiply": false,
+        "per_other_stack_count_upgrade_id": 13723,
+        "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)",
+        "min_rage_stacks": 20,
+        "use_percent": true,
+        "amount_func": "add",
+        "stack_func": "per_other_stack_count",
+        "effect_string": "heal,10",
+        "use_computed_heal_value": true
+    }],
+    "requirements": "",
+    "description": {"desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she heals $(amount)% of her max health every second."},
+    "id": 1817,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
@@ -436,21 +485,34 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Wild Magic** (Guess)
-> Unknown effect.
+> While Karlach has 20 or more Rage stacks, she increases the effect of The Fury of Avernus by 100% for each stack of Ceremorphosis, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "p": 0,
-    "v": 2,
-    "id": 21827,
-    "export_params": {
-        "quantize": true,
-        "uses": ["icon"]
-    },
-    "type": 1,
-    "graphic": "Icons/Events/2018Midwinter/Midwinter_Y7/Icon_Specialization_KarlachWildMagic",
-    "fs": 0
+    "effect_keys": [{
+        "stack_title": "Effective Rage stacks",
+        "per_other_stack_count_effect_key_index": 0,
+        "amount_updated_listeners": ["stacks_changed"],
+        "stacks_multiply": true,
+        "total_title": "Bonus Damage",
+        "per_other_stack_count_upgrade_id": 13723,
+        "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
+        "min_rage_stacks": 20,
+        "show_bonus": true,
+        "amount_func": "mult",
+        "stack_func": "per_other_stack_count",
+        "effect_string": "buff_upgrade,100,13721"
+    }],
+    "requirements": "",
+    "description": {"desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she increases the effect of The Fury of Avernus by $(not_buffed amount)% for each stack of Ceremorphosis, stacking multiplicatively."},
+    "id": 1818,
+    "flavour_text": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
 }
 </pre>
 </p>
