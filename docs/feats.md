@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">DM</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Lucky Icon](images/featicons/goldfind.png)Lucky
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">25% Gold</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">15 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Calliope</span>
         </span>
         <span class="featTableIcon4">
