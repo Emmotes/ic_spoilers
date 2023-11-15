@@ -8,7 +8,7 @@ We know the next Emergence event will be Glitches and that it will start on 22 N
 
 ### Shop Contents
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This list might not be complete - and some items are guesswork and might not even end up in this event.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This list might not be complete.*
 
 <span class="emergenceShopTableRow">
     <span class="emergenceShopTableItem">
