@@ -179,6 +179,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Dark Justiciar Shadowheart Portrait](images/skin_portraits/darkjusticiarshadowheart.png)Dark Justiciar Shadowheart
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">13 Dec 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Spelljammer Pilot Miria Portrait](images/skin_portraits/spelljammerpilotmiria.png)Spelljammer Pilot Miria
         </span>
         <span class="skinTableSource">
@@ -235,20 +249,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Dark Justiciar Shadowheart Portrait](images/skin_portraits/darkjusticiarshadowheart.png)Dark Justiciar Shadowheart
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Mind Flayer Imoen Portrait](images/skin_portraits/mindflayerimoen.png)Mind Flayer Imoen
         </span>
         <span class="skinTableSource">
@@ -264,6 +264,20 @@ Please be aware that the developers recently removed most future skins from the 
     <span class="skinTableRow">
         <span class="skinTableIcon">
             ![Mind Flayer Viconia Portrait](images/skin_portraits/mindflayerviconia.png)Mind Flayer Viconia
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Seasonal Strongheart Portrait](images/skin_portraits/seasonalstrongheart.png)Seasonal Strongheart
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>

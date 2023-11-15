@@ -98,6 +98,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span style="margin-left: 8px;">Hitch</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Centaur Glitch Icon](images/featicons/glitch.png)Centaur Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Counts as Centaur & +20% to Natural Performer per Unique Race</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">Emergence 4 (Guess)</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span style="margin-left: 8px;">Nayeli</span>
         </span>
         <span class="featTableIcon4">
@@ -125,6 +142,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">22 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Sentry</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Half-Elf Glitch Icon](images/featicons/glitch.png)Half-Elf Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left: 8px;">Counts as Half Elf & +20% to Guardian of Solwynn per Half Elf</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">22 Nov 2023</span>
@@ -207,40 +241,6 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableEffect">
             <span style="margin-left: 8px;">Counts as Warforged & +20% to Song of Battle per Unique Race</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">24 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Hitch</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Centaur Glitch Icon](images/featicons/glitch.png)Centaur Glitch
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">Counts as Centaur & +20% to Natural Performer per Unique Race</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">Emergence 4 (Guess)</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">24 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Sentry</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Half-Elf Glitch Icon](images/featicons/glitch.png)Half-Elf Glitch
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left: 8px;">Counts as Half Elf & +20% to Guardian of Solwynn per Half Elf</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
@@ -1133,7 +1133,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Gibbous Script Icon](images/featicons/upgradefa.png)Gibbous Script
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">100% Master of Hexes</span>
+            <span style="margin-left: 8px;">+2 to Master of Hexes</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
