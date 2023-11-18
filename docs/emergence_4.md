@@ -4,7 +4,7 @@
 
 # Emergence 4
 
-We know the next Emergence event will be Glitches and that it will start on 22 November 2023.
+We know the next Emergence event will be Glitches and that it will start on 22 November 2023. It is expected to last 9 days.
 
 ### Shop Contents
 
