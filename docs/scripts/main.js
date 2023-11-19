@@ -1,13 +1,13 @@
 const rrm = {
-	active: (localStorage.randrambMode == 1 ? true : false),
-	storage: "randrambMode",
+	active: (localStorage.spoilersRRM == 1 ? true : false),
+	storage: "spoilersRRM",
 	name: "Randramb Mode",
 	nick: "rrm",
 	map: new Map()
 };
 const nnm = {
-	active: (localStorage.nicknamesMode == 1 ? true : false),
-	storage: "nicknamesMode",
+	active: (localStorage.spoilersNNM == 1 ? true : false),
+	storage: "spoilersNNM",
 	name: "Nicknames Mode",
 	nick: "nnm",
 	map: new Map()
@@ -70,6 +70,21 @@ nnm.map.set("Potion of Heroism", "Health Pot");
 const allModes = [rrm, nnm];
 
 function init() {
+	if (localStorage.randrambMode != undefined) {
+		localStorage.spoilersRRM = localStorage.randrambMode;
+		localStorage.removeItem("randrambMode");
+		if (localStorage.spoilersRRM == 1) {
+			rrm.active = true;
+		}
+	}
+	if (localStorage.randrambMode != undefined) {
+		localStorage.spoilersNNM = localStorage.nicknamesMode;
+		localStorage.removeItem("nicknamesMode");
+		if (localStorage.spoilersNNM == 1) {
+			rrm.active = true;
+		}
+	}
+	
 	var edit = !(document.location.pathname.includes("/modes.html"));
 	updateModes(edit);
 	
