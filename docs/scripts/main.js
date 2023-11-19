@@ -77,11 +77,11 @@ function init() {
 			rrm.active = true;
 		}
 	}
-	if (localStorage.randrambMode != undefined) {
+	if (localStorage.nicknamesMode != undefined) {
 		localStorage.spoilersNNM = localStorage.nicknamesMode;
 		localStorage.removeItem("nicknamesMode");
 		if (localStorage.spoilersNNM == 1) {
-			rrm.active = true;
+			nnm.active = true;
 		}
 	}
 	
