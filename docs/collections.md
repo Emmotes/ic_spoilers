@@ -1,3 +1,5 @@
+[Back to Main](index.md)
+
 # Collections Dialogue
 
 Virtually nothing is known about the new collection dialogue. 
