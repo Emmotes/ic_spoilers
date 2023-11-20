@@ -25,7 +25,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">6</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -33,7 +33,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
             <span style="margin-right:4px;">**Race**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Half-Elf (Guess)</span>
+            <span style="margin-left:8px;">Half-Elf</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -41,7 +41,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Cleric (Guess)</span>
+            <span style="margin-left:8px;">Cleric</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -49,7 +49,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support / Healing (Guess)</span>
+            <span style="margin-left:8px;">Support / Healing</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -57,7 +57,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">40</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -65,7 +65,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Female (Guess)</span>
+            <span style="margin-left:8px;">Female</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -73,7 +73,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Lawful Neutral</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -81,7 +81,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Absolute Adversaries (Guess)</span>
+            <span style="margin-left:8px;">Absolute Adversaries</span>
         </span>
     </span>
 </span>

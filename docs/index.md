@@ -21,7 +21,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Shadowheart&nbsp;<span class="indexChampionTableNoLink">- Half-Elf Cleric of Absolute Adversaries (Guess)</span>
+                Shadowheart&nbsp;<span class="indexChampionTableNoLink">- Half-Elf Cleric of Absolute Adversaries</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Simril - 29 November 2023</span>
