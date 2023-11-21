@@ -431,7 +431,7 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
         "effect_string": "buff_upgrade,10,13429"
     }],
     "requirements": "",
-    "description": {"desc": "Wyll increases the effect of Folk Hero by $(amount)% for each Familiar assigned to his party, stacking multiplicatively."},
+    "description": {"desc": "Wyll increases the effect of Folk Hero by $(not_buffed amount)% for each Familiar assigned to his party, stacking multiplicatively."},
     "id": 1797,
     "flavour_text": "",
     "graphic_id": 0,
@@ -470,7 +470,7 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
         "effect_string": "buff_upgrade,25,13429"
     }],
     "requirements": "",
-    "description": {"desc": "Wyll increases the effect of Folk Hero by $(amount)% for each Champion in the formation with a Magic base attack, stacking multiplicatively."},
+    "description": {"desc": "Wyll increases the effect of Folk Hero by $(not_buffed amount)% for each Champion in the formation with a Magic base attack, stacking multiplicatively."},
     "id": 1798,
     "flavour_text": "",
     "graphic_id": 0,
