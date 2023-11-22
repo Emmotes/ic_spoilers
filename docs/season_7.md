@@ -8,6 +8,8 @@
 * [Shaka](#shaka)
 * [Selise](#selise)
 * [D'hani](#d'hani)
+* [Kent](#kent)
+* [Virgil](#virgil)
 * [Season Chest Icons](#season-chest-icons)
 <br />
 
@@ -1364,6 +1366,28 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 </div></div>
+
+# Kent
+
+![Kent Portrait](images/season_7/kent.png)
+<br /><span class="formationTooltip">[formation]
+    <span class="formationTooltipContents">
+        ![Formation Layout for Kent](images/season_7/kent_formation.png)
+    </span>
+</span>
+
+No changes as of yet.
+
+# Virgil
+
+![Virgil Portrait](images/season_7/virgil.png)
+<br /><span class="formationTooltip">[formation]
+    <span class="formationTooltipContents">
+        ![Formation Layout for Virgil](images/season_7/virgil_formation.png)
+    </span>
+</span>
+
+No changes as of yet.
 
 # Season Chest Icons
 
