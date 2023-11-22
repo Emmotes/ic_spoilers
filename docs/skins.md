@@ -11,104 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Aasimar Glitch Freely Portrait](images/skin_portraits/aasimarglitchfreely.png)Aasimar Glitch Freely
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Aasimar Glitch Freely Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Centaur Glitch Hitch Portrait](images/skin_portraits/centaurglitchhitch.png)Centaur Glitch Hitch
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 4 (Guess)</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Githyanki Glitch Nayeli Portrait](images/skin_portraits/githyankiglitchnayeli.png)Githyanki Glitch Nayeli
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Githyanki Glitch Nayeli Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Half-Elf Glitch Havilar Portrait](images/skin_portraits/halfelfglitchhavilar.png)Half-Elf Glitch Havilar
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Half-Elf Glitch Havilar Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Half-Elf Glitch Orkira Portrait](images/skin_portraits/halfelfglitchorkira.png)Half-Elf Glitch Orkira
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Half-Elf Glitch Orkira Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Half-Elf Glitch Sentry Portrait](images/skin_portraits/halfelfglitchsentry.png)Half-Elf Glitch Sentry
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 4 (Guess)</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Harengon Glitch Calliope Portrait](images/skin_portraits/harengonglitchcalliope.png)Harengon Glitch Calliope
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Harengon Glitch Calliope Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Warforged Glitch Birdsong Portrait](images/skin_portraits/warforgedglitchbirdsong.png)Warforged Glitch Birdsong
         </span>
         <span class="skinTableSource">
@@ -281,6 +183,48 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Winter Holiday Newsletter (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Waterdhavian D'hani
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Waterdhavian Selise
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Waterdhavian Shaka
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
