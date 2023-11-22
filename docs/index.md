@@ -94,7 +94,6 @@ These are the event champions that are upcoming and all the information we know 
 
 Not events events - but events. You know?
 
-* [Emergence 4](emergence_4.md) - 22 November 2023
 * [Season 7](season_7.md) - 03 January 2024
 * [Emergence 5](emergence_5.md) - 24 January 2024
 * Season 8 - 28 February 2024
