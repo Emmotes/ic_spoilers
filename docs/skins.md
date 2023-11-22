@@ -151,6 +151,48 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Waterdhavian D'hani
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Season 7 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Mar 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Waterdhavian Selise
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Season 7 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Mar 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Waterdhavian Shaka
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Season 7 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Mar 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Mind Flayer Imoen Portrait](images/skin_portraits/mindflayerimoen.png)Mind Flayer Imoen
         </span>
         <span class="skinTableSource">
@@ -183,48 +225,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Winter Holiday Newsletter (Guess)</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Waterdhavian D'hani
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Waterdhavian Selise
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Waterdhavian Shaka
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
