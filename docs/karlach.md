@@ -91,12 +91,9 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/karlach/formation.png)
 </span>
-{% endcomment %}
 
 # Abilities
 
