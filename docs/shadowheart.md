@@ -57,7 +57,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">40</span>
+            <span style="margin-left:8px;">48</span>
         </span>
     </span>
     <span class="champStatsTableRow">
