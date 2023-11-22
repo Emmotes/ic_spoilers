@@ -8,19 +8,28 @@
 * [Shaka](#shaka)
 * [Selise](#selise)
 * [D'hani](#d'hani)
+* [Season Chest Icons](#season-chest-icons)
 <br />
+
+![Season 7 Icon](images/season_7/icon.png)
 
 # Season 7
 
-Season 7 is expected to start on 03 January 2024.
+![Season 7 Banner](images/season_7/banner.png)
+
+Season 7 will be called `The Rivals` and is expected to start on 03 January 2024.
 
 # Theme
 
 ![Shaka Season Portrait](images/season_7/shaka.png)![Selise Season Portrait](images/season_7/selise.png)![D'hani Season Portrait](images/season_7/dhani.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)
 
-We only have data for three seasonal champions so far. They are Shaka, Selise and D'hani. The rest are as yet unknown.
+The five seasonal champions this time around will be Shaka Selise D'hani Kent and Virgil. We know this because the seasonal chest will be `Gold Rivals of Waterdeep Chest` and it contains loot for those champions.
 
 This means the theme this season is (or seems to be) Rivals of Waterdeep champions.
+
+### Currency Icon
+
+![Season 7 Currency](images/season_7/currency.png)
 
 # Changes
 
@@ -39,13 +48,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Blinding Wall of Light**
-> All enemies are pushed back slightly and then a wall of light appears slightly in front of the formation for 15 seconds. Enemies that pass through the wall of light take damage and are stunned for 5 seconds. They also gain a brilliant white glow under their feet for 30 seconds. Enemies with this glow have a 75% chance to miss with all attacks.
+> All enemies are pushed back slightly and then a wall of light appears slightly in front of the formation for 15 seconds. Enemies that pass through the wall of light take damage, are stunned for 5 seconds, and gain a white glow which causes them to miss with 75% of all attacks for 30 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "All enemies are pushed back slightly and then a wall of light appears slightly in front of the formation for 15 seconds.",
-    "long_description": "All enemies are pushed back slightly and then a wall of light appears slightly in front of the formation for 15 seconds. Enemies that pass through the wall of light take damage and are stunned for 5 seconds. They also gain a brilliant white glow under their feet for 30 seconds. Enemies with this glow have a 75% chance to miss with all attacks.",
+    "description": "All enemies are pushed back and a wall of light appears in front of the formation for 15 seconds.",
+    "long_description": "All enemies are pushed back slightly and then a wall of light appears slightly in front of the formation for 15 seconds. Enemies that pass through the wall of light take damage, are stunned for 5 seconds, and gain a white glow which causes them to miss with 75% of all attacks for 30 seconds.",
     "damage_modifier": 0.03,
     "damage_types": ["magic"],
     "graphic_id": 10359,
@@ -93,6 +102,64 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "name": "Blinding Wall of Light",
     "cooldown": 360,
     "id": 710
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Disintegrating Wall of Light**
+> A wall of light appears near the right side of the screen. Enemies that pass through the wall of light take damage and, if they take at least 1% of their max health, have a 50% chance to be disintegrated and die immediately. Enemies not immediately destroyed gain a white glow under their feet and take 100% more damage for 30 seconds.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "A wall of light appears near the right side of the screen which has a chance to destroy newly spawned enemies.",
+    "long_description": "A wall of light appears near the right side of the screen. Enemies that pass through the wall of light take damage and, if they take at least 1% of their max health, have a 50% chance to be disintegrated and die immediately. Enemies not immediately destroyed gain a white glow under their feet and take 100% more damage for 30 seconds.",
+    "damage_modifier": 0.03,
+    "damage_types": ["magic"],
+    "graphic_id": 10360,
+    "target": "none",
+    "aoe_radius": 0,
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "num_targets": 0,
+    "animations": [{
+        "projectile_count": 1,
+        "projectile_details": {
+            "graphic_loop_start": 29,
+            "enter_effect": {
+                "overlay": {"graphic_id": 10381},
+                "for_time": 30,
+                "effect_string": "increase_monster_damage,100"
+            },
+            "disintergrate_damage_percent_threshold": 0.01,
+            "area_rect": {
+                "x": -10,
+                "width": 20,
+                "y": -235,
+                "height": 250
+            },
+            "disintergrate_chance": 0.5,
+            "graphic_id": 10383,
+            "wall_time": 15,
+            "graphic_scale": 1.8,
+            "graphic_loop_end": 34,
+            "area_targets": [
+                "area_bottom",
+                "monster_spawn"
+            ]
+        },
+        "type": "ranged_attack",
+        "projectile": "disintergrating_wall",
+        "shoot_frame": 10
+    }],
+    "name": "Disintegrating Wall of Light",
+    "cooldown": 360,
+    "id": 722
 }
 </pre>
 </p>
@@ -267,15 +334,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Feast or Famine** (Guess)
-> Shaka increases the base effect of A Celestial Puzzle by 50% for each puzzle slot he's adjacent to, stacking multiplicatively.
+> Shaka increases the base effect of A Celestial Puzzle by 50% for each properly filled puzzle slot he's adjacent to, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "effect_keys": [{
-        "amount_updated_listeners": ["slot_changed"],
+        "amount_updated_listeners": [
+            "slot_changed",
+            "upgrade_unlocked"
+        ],
         "stacks_multiply": true,
-        "has_effect_key": "shaka_puzzle",
+        "has_effect_key": "shaka_puzzle_match",
         "off_when_benched": true,
         "show_bonus": true,
         "amount_func": "mult",
@@ -284,7 +354,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "target": "adj"
     }],
     "requirements": "",
-    "description": {"desc": "Shaka increases the base effect of A Celestial Puzzle by $(not_buffed amount)% for each puzzle slot he's adjacent to, stacking multiplicatively."},
+    "description": {"desc": "Shaka increases the base effect of A Celestial Puzzle by $(not_buffed amount)% for each properly filled puzzle slot he's adjacent to, stacking multiplicatively."},
     "id": 1786,
     "flavour_text": "",
     "graphic_id": 10356,
@@ -305,6 +375,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [{
         "amount_updated_listeners": ["slot_changed"],
         "stacks_multiply": true,
+        "exclude_self": true,
         "off_when_benched": true,
         "show_bonus": true,
         "amount_func": "mult",
@@ -444,7 +515,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "buff_upgrade,100,13416"
+            "effect_string": "buff_upgrade,100,13417"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,13417,2"
         },
         {
             "off_when_benched": true,
@@ -500,13 +575,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Sword and Board - Wall**
-> Damage all enemies in a small AOE.
+> Selise attacks the nearest enemy and damages all enemies in a small area.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "description": "Selise attacks the nearest enemy and damages all enemies in a small AOE.\t",
-    "long_description": "Damage all enemies in a small AOE.",
+    "description": "Selise attacks the nearest enemy and damages all enemies in a small area.",
+    "long_description": "Selise attacks the nearest enemy and damages all enemies in a small area.",
     "damage_modifier": 1,
     "damage_types": ["melee"],
     "graphic_id": 0,
@@ -533,6 +608,43 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "name": "Sword and Board - Wall",
     "cooldown": 6,
     "id": 718
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Sword and Board - Last Resort**
+> Selise attacks the nearest enemy, damaging and knocking back enemies in a small area.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "description": "Selise attacks the nearest enemy, damaging and knocking back enemies in a small area.",
+    "long_description": "Selise attacks the nearest enemy, damaging and knocking back enemies in a small area.",
+    "damage_modifier": 1,
+    "damage_types": ["melee"],
+    "graphic_id": 0,
+    "target": "front",
+    "aoe_radius": 100,
+    "tags": ["melee"],
+    "num_targets": 1,
+    "animations": [{
+        "damage_frame": 14,
+        "sound_frames": {"14": 158},
+        "target_offset_x": -50,
+        "animation_sequence_name": "attack_d",
+        "effects_on_monsters": [{
+            "after_damage": true,
+            "effect_string": "push_back_monster,5",
+            "animation": "hit"
+        }],
+        "type": "melee_attack"
+    }],
+    "name": "Sword and Board - Last Resort",
+    "cooldown": 6,
+    "id": 720
 }
 </pre>
 </p>
@@ -607,7 +719,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "apply_manually": true
         },
         {
-            "effect_string": "change_base_attack,401",
+            "effect_string": "change_base_attack,720",
             "apply_manually": true
         }
     ],
@@ -1149,7 +1261,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {"effect_string": "paint_odds,33"},
         {
-            "paint_effects": [{"effect_string": "increase_monster_gold,200"}],
+            "paint_effects": [
+                {"effect_string": "increase_monster_gold,200"},
+                {"effect_string": "dhani_yellow_paint"}
+            ],
             "colour": "Yellow",
             "off_when_benched": true,
             "effect_string": "dhani_splash_of_yellow,100"
@@ -1250,6 +1365,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+# Season Chest Icons
+
+| Shop | Inventory |
+|---|---|
+| ![Shop Season Chest Icon](images/season_7/chest.png) | ![Inventory Season Chest Icon](images/season_7/chestInv.png) |
 
 [Back to Top](#top)
 
