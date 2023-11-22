@@ -114,13 +114,16 @@ Unknown.
     "damage_types": ["melee"],
     "graphic_id": 0,
     "target": "front",
-    "aoe_radius": 0,
-    "tags": ["melee"],
+    "aoe_radius": 150,
+    "tags": [
+        "melee",
+        "aoe"
+    ],
     "num_targets": 1,
     "animations": [{
         "damage_frame": 2,
         "jump_sound": 30,
-        "sound_frames": {"2": 154},
+        "sound_frames": {"2": 194},
         "target_offset_x": -34,
         "type": "melee_attack"
     }],
@@ -136,7 +139,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Soul Coin**
 > Karlach absorbs the energy of a soul coin, increasing her rage cap to 100 stacks and her Infernal Engine's BUD-based damage by 100%.  
-> Cooldown: 30s (Cap 7.5s)
+> Cooldown: 700s (Cap 175s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -159,7 +162,7 @@ Unknown.
         "no_damage_display": true
     }],
     "name": "Soul Coin",
-    "cooldown": 30,
+    "cooldown": 700,
     "id": 714
 }
 </pre>
@@ -229,7 +232,7 @@ Unknown.
                 "slot_changed",
                 "feat_changed"
             ],
-            "total_title": "Total Bonus",
+            "total_title": "Ceremorphosis Stack Bonus",
             "off_when_benched": true,
             "show_bonus": true,
             "amount_func": "add",
@@ -246,7 +249,8 @@ Unknown.
             "outgoing_buffs": false,
             "effect_string": "karlach_ceremorphosis_stacks,1",
             "show_stacks": true,
-            "desc_forced_order": 1
+            "desc_forced_order": 1,
+            "skip_effect_key_desc": true
         },
         {
             "off_when_benched": true,
@@ -256,9 +260,14 @@ Unknown.
         {
             "amount_expr": "upgrade_amount(13722,2)+max_upgrade_amount(13722,0)",
             "off_when_benched": true,
+            "use_computed_amount_for_description": true,
             "effect_string": "increase_health_by_source_percent,0",
+            "percent_values": false,
             "desc_forced_order": 3,
-            "targets": ["other"]
+            "show_current_value_bonus_desc": false,
+            "override_key_desc": "Increases the Health of $target by $amount",
+            "targets": ["other"],
+            "round_bonus_value": true
         }
     ],
     "requirements": "",
@@ -357,8 +366,17 @@ Unknown.
             "min_rage_stacks": 20,
             "amount_func": "add",
             "stack_func": "per_other_stack_count",
+            "underlay_index": 3,
             "effect_string": "karlach_infernal_engine",
             "listen_for_computed_changes": true
+        },
+        {
+            "overlay_play_mode": "always",
+            "overlay_location": "slot",
+            "bottom": true,
+            "active_graphic_id": 22013,
+            "effect_string": "karlach_infernal_engine_underlay",
+            "apply_manually": true
         }
     ],
     "requirements": "",
@@ -440,6 +458,7 @@ Unknown.
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "formation_circle_icon": false
     }
 }
@@ -461,12 +480,14 @@ Unknown.
         "stacks_multiply": false,
         "per_other_stack_count_upgrade_id": 13723,
         "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)",
-        "min_rage_stacks": 20,
-        "use_percent": true,
         "amount_func": "add",
         "stack_func": "per_other_stack_count",
         "effect_string": "heal,10",
-        "use_computed_heal_value": true
+        "targets": ["self_slot"],
+        "use_computed_heal_value": true,
+        "min_rage_stacks": 20,
+        "use_percent": true,
+        "slot_change_updates_targets": true
     }],
     "requirements": "",
     "description": {"desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she heals $(amount)% of her max health every second."},
@@ -475,6 +496,7 @@ Unknown.
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "formation_circle_icon": false
     }
 }
