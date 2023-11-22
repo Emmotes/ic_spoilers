@@ -107,7 +107,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">-0.5s Base Attack Cooldown</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Season 7 (Guess)</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">03 Jan 2024</span>
@@ -124,7 +124,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left: 8px;">400% Self DPS & Prevent Healing for 10s</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Season 7 (Guess)</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">03 Jan 2024</span>
@@ -138,10 +138,10 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Form Up! Icon](images/featicons/globaldps.png)Form Up!
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">20% All Champion Damage</span>
+            <span style="margin-left: 8px;">20% All Champion Damage per Rivals of Waterdeep Champion (Additive)</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Season 7 (Guess)</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">03 Jan 2024</span>
@@ -155,10 +155,10 @@ For feats that were available in the season pass of prior seasons - please see t
             ![It's time! Icon](images/featicons/globaldps.png)It's time!
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% All Champion Damage</span>
+            <span style="margin-left: 8px;">40% All Champion Damage per Rivals of Waterdeep Champion (Additive)</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Season 7 (Guess)</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">03 Jan 2024</span>
