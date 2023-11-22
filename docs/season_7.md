@@ -23,7 +23,7 @@ Season 7 will be called `The Rivals` and is expected to start on 03 January 2024
 
 # Theme
 
-![Shaka Season Portrait](images/season_7/shaka.png)![Selise Season Portrait](images/season_7/selise.png)![D'hani Season Portrait](images/season_7/dhani.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)
+![Shaka Season Portrait](images/season_7/shaka.png)![Selise Season Portrait](images/season_7/selise.png)![D'hani Season Portrait](images/season_7/dhani.png)![Kent Season Portrait](images/season_7/kent.png)![Virgil Season Portrait](images/season_7/virgil.png)
 
 The five seasonal champions this time around will be Shaka Selise D'hani Kent and Virgil. We know this because the seasonal chest will be `Gold Rivals of Waterdeep Chest` and it contains loot for those champions.
 
