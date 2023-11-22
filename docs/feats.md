@@ -19,7 +19,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-left:8px;">**Feat**</span>
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">**Effect**</span>
+            <span style="margin-left:8px;padding-right:1px;">**Effect**</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">**Source**</span>
@@ -36,7 +36,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Warforged Glitch Icon](images/featicons/glitch.png)Warforged Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">Counts as Warforged & +20% to Song of Battle per Unique Race</span>
+            <span style="margin-left:8px;padding-right:1px;">Counts as Warforged & +20% to Song of Battle per Unique Race</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
@@ -53,7 +53,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)Master's Precision
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+20% Crit Chance</span>
+            <span style="margin-left:8px;padding-right:1px;">+20% Crit Chance</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -70,7 +70,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Taunt Icon](images/featicons/taunt.png)Taunt
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">400% Self DPS & 50% Taunt</span>
+            <span style="margin-left:8px;padding-right:1px;">400% Self DPS & 50% Taunt</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -87,7 +87,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Tempting Power Icon](images/featicons/upgradefa.png)Tempting Power
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Ceremorphosis</span>
+            <span style="margin-left:8px;padding-right:1px;">80% Ceremorphosis</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -104,7 +104,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Darting Weapon Icon](images/featicons/cooldown.png)Darting Weapon
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">-0.5s Base Attack Cooldown</span>
+            <span style="margin-left:8px;padding-right:1px;">-0.5s Base Attack Cooldown</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Season 7 (Guess)</span>
@@ -121,7 +121,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Vicious Damage Icon](images/featicons/viciousdamage.png)Vicious Damage
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">400% Self DPS & Prevent Healing for 10s</span>
+            <span style="margin-left:8px;padding-right:1px;">400% Self DPS & Prevent Healing for 10s</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Season 7 (Guess)</span>
@@ -138,7 +138,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Form Up! Icon](images/featicons/globaldps.png)Form Up!
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">20% All Champion Damage per Rivals of Waterdeep Champion (Additive)</span>
+            <span style="margin-left:8px;padding-right:1px;">20% All Champion Damage per Rivals of Waterdeep Champion (Additive)</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Season 7 (Guess)</span>
@@ -155,7 +155,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![It's time! Icon](images/featicons/globaldps.png)It's time!
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% All Champion Damage per Rivals of Waterdeep Champion (Additive)</span>
+            <span style="margin-left:8px;padding-right:1px;">40% All Champion Damage per Rivals of Waterdeep Champion (Additive)</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Season 7 (Guess)</span>
@@ -172,7 +172,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Gnome Glitch Icon](images/featicons/glitch.png)Gnome Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">&nbsp;</span>
+            <span style="margin-left:8px;padding-right:1px;">&nbsp;</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -198,7 +198,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span style="margin-left:8px;">**Feat**</span>
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">**Effect**</span>
+            <span style="margin-left:8px;padding-right:1px;">**Effect**</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">**Source**</span>
@@ -215,7 +215,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Vicious Damage Icon](images/featicons/viciousdamage.png)Vicious Damage
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">400% Self DPS & Prevent Healing for 10s</span>
+            <span style="margin-left:8px;padding-right:1px;">400% Self DPS & Prevent Healing for 10s</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -232,7 +232,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Hall of the Mountain King Icon](images/featicons/mithralhallstackbonus.png)Hall of the Mountain King
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+1 Mithral Hall Stacks</span>
+            <span style="margin-left:8px;padding-right:1px;">+1 Mithral Hall Stacks</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -249,7 +249,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">50% All Champion Damage</span>
+            <span style="margin-left:8px;padding-right:1px;">50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -266,7 +266,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Archer's Perception Icon](images/featicons/upgradefa.png)Archer's Perception
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Mark for Death</span>
+            <span style="margin-left:8px;padding-right:1px;">80% Mark for Death</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -283,7 +283,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)Master's Precision
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+20% Crit Chance</span>
+            <span style="margin-left:8px;padding-right:1px;">+20% Crit Chance</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -300,7 +300,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Obliterating Blast Icon](images/featicons/critdamageincrease.png)Obliterating Blast
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+120% Crit Damage</span>
+            <span style="margin-left:8px;padding-right:1px;">+120% Crit Damage</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -317,7 +317,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Tenacious Icon](images/featicons/attributeboostx2.png)Tenacious
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">Stat: +2 Constitution</span>
+            <span style="margin-left:8px;padding-right:1px;">Stat: +2 Constitution</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -334,7 +334,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Courage in Battle Icon](images/featicons/mithralhallstackbonus.png)Courage in Battle
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+1 Mithral Hall Stacks</span>
+            <span style="margin-left:8px;padding-right:1px;">+1 Mithral Hall Stacks</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -351,7 +351,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Death on Both Sides Icon](images/featicons/upgradefa.png)Death on Both Sides
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% Icingdeath</span>
+            <span style="margin-left:8px;padding-right:1px;">40% Icingdeath</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -368,7 +368,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Quick Friends Icon](images/featicons/upgradefa.png)Quick Friends
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Conduit of the Light</span>
+            <span style="margin-left:8px;padding-right:1px;">80% Conduit of the Light</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -385,7 +385,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Under Pressure Icon](images/featicons/upgradefa.png)Under Pressure
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Steadfast Might</span>
+            <span style="margin-left:8px;padding-right:1px;">80% Steadfast Might</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -402,7 +402,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Durable Icon](images/featicons/attributeboost.png)Durable
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">Stat: +1 Constitution</span>
+            <span style="margin-left:8px;padding-right:1px;">Stat: +1 Constitution</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -419,7 +419,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)Master's Precision
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+20% Crit Chance</span>
+            <span style="margin-left:8px;padding-right:1px;">+20% Crit Chance</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -436,7 +436,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Obliterating Blast Icon](images/featicons/critdamageincrease.png)Obliterating Blast
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+120% Crit Damage</span>
+            <span style="margin-left:8px;padding-right:1px;">+120% Crit Damage</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -453,7 +453,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Bigger Boat Icon](images/featicons/upgradefa.png)Bigger Boat
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">All Hands on Deck +2nd Rear Column</span>
+            <span style="margin-left:8px;padding-right:1px;">All Hands on Deck +2nd Rear Column</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -470,7 +470,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Entertainer Icon](images/featicons/attributeboostx2.png)Entertainer
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">Stat: +2 Charisma</span>
+            <span style="margin-left:8px;padding-right:1px;">Stat: +2 Charisma</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -487,7 +487,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Keen Eye Icon](images/featicons/upgradefa.png)Keen Eye
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Starfarer's Spyglass</span>
+            <span style="margin-left:8px;padding-right:1px;">80% Starfarer's Spyglass</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -504,7 +504,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Scholar Icon](images/featicons/attributeboostx2.png)Scholar
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">Stat: +2 Intelligence</span>
+            <span style="margin-left:8px;padding-right:1px;">Stat: +2 Intelligence</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -521,7 +521,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Seahippo Icon](images/featicons/upgradefa.png)Seahippo
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% An Experienced Sailor</span>
+            <span style="margin-left:8px;padding-right:1px;">80% An Experienced Sailor</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -538,7 +538,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Scholar Icon](images/featicons/attributeboostx2.png)Scholar
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">Stat: +2 Intelligence</span>
+            <span style="margin-left:8px;padding-right:1px;">Stat: +2 Intelligence</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -555,7 +555,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Caged Dreams Icon](images/featicons/upgradefa.png)Caged Dreams
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Soul Cage</span>
+            <span style="margin-left:8px;padding-right:1px;">80% Soul Cage</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -572,7 +572,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Vicious Damage Icon](images/featicons/viciousdamage.png)Vicious Damage
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">400% Self DPS & Prevent Healing for 10s</span>
+            <span style="margin-left:8px;padding-right:1px;">400% Self DPS & Prevent Healing for 10s</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -589,7 +589,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Advisor Icon](images/featicons/globaldps.png)Advisor
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">50% All Champion Damage</span>
+            <span style="margin-left:8px;padding-right:1px;">50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -606,7 +606,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)Master's Precision
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+20% Crit Chance</span>
+            <span style="margin-left:8px;padding-right:1px;">+20% Crit Chance</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -623,7 +623,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Scholar Icon](images/featicons/attributeboostx2.png)Scholar
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">Stat: +2 Intelligence</span>
+            <span style="margin-left:8px;padding-right:1px;">Stat: +2 Intelligence</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -640,7 +640,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![A Vow Unbroken Icon](images/featicons/attributeboostx2.png)A Vow Unbroken
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">Stat: +2 Constitution</span>
+            <span style="margin-left:8px;padding-right:1px;">Stat: +2 Constitution</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -657,7 +657,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![It's Just Business Icon](images/featicons/upgradefa.png)It's Just Business
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% All Second Specialisations</span>
+            <span style="margin-left:8px;padding-right:1px;">40% All Second Specialisations</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -674,7 +674,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![This is the Way Icon](images/featicons/upgradefa.png)This is the Way
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% All First Specialisations</span>
+            <span style="margin-left:8px;padding-right:1px;">40% All First Specialisations</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -691,7 +691,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Battle Expertise Icon](images/featicons/critchanceincrease.png)Battle Expertise
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+10% Crit Chance</span>
+            <span style="margin-left:8px;padding-right:1px;">+10% Crit Chance</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Gold Chest</span>
@@ -708,7 +708,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)Master's Precision
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+20% Crit Chance</span>
+            <span style="margin-left:8px;padding-right:1px;">+20% Crit Chance</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -725,7 +725,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Inspiring Leader Icon](images/featicons/globaldps.png)Inspiring Leader
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">25% All Champion Damage</span>
+            <span style="margin-left:8px;padding-right:1px;">25% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
@@ -742,7 +742,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Above the Crowd Icon](images/featicons/upgradefa.png)Above the Crowd
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Tallest in Faerûn</span>
+            <span style="margin-left:8px;padding-right:1px;">80% Tallest in Faerûn</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -759,7 +759,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Grappler Icon](images/featicons/selfdps.png)Grappler
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">60% Self DPS</span>
+            <span style="margin-left:8px;padding-right:1px;">60% Self DPS</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
@@ -776,7 +776,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Weapon Master Icon](images/featicons/selfdps.png)Weapon Master
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">120% Self DPS</span>
+            <span style="margin-left:8px;padding-right:1px;">120% Self DPS</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -793,7 +793,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Prophesied Leader Icon](images/featicons/globaldps.png)Prophesied Leader
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">50% All Champion Damage</span>
+            <span style="margin-left:8px;padding-right:1px;">50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -810,7 +810,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Inspiring Leader Icon](images/featicons/globaldps.png)Inspiring Leader
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">25% All Champion Damage</span>
+            <span style="margin-left:8px;padding-right:1px;">25% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
@@ -827,7 +827,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Grappler Icon](images/featicons/selfdps.png)Grappler
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">60% Self DPS</span>
+            <span style="margin-left:8px;padding-right:1px;">60% Self DPS</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
@@ -844,7 +844,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Fortune's Favor Icon](images/featicons/goldfind.png)Fortune's Favor
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">50% Gold</span>
+            <span style="margin-left:8px;padding-right:1px;">50% Gold</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -861,7 +861,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Richly Deserved Icon](images/featicons/upgradefa.png)Richly Deserved
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Draconic Plague</span>
+            <span style="margin-left:8px;padding-right:1px;">80% Draconic Plague</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -878,7 +878,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Superior Actor Icon](images/featicons/attributeboost.png)Superior Actor
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">Stat: +2 Charisma</span>
+            <span style="margin-left:8px;padding-right:1px;">Stat: +2 Charisma</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
@@ -895,7 +895,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Resilient Icon](images/featicons/health.png)Resilient
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">30% Health</span>
+            <span style="margin-left:8px;padding-right:1px;">30% Health</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
@@ -912,7 +912,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Fortune's Favor Icon](images/featicons/goldfind.png)Fortune's Favor
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">50% Gold</span>
+            <span style="margin-left:8px;padding-right:1px;">50% Gold</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -929,7 +929,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">50% All Champion Damage</span>
+            <span style="margin-left:8px;padding-right:1px;">50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -946,7 +946,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![I Did My Homework Icon](images/featicons/upgradefa.png)I Did My Homework
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">80% Brows of Judgement</span>
+            <span style="margin-left:8px;padding-right:1px;">80% Brows of Judgement</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -963,7 +963,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Seat Shift Icon](images/featicons/swapseat12.png)Seat Shift
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">&nbsp;</span>
+            <span style="margin-left:8px;padding-right:1px;">&nbsp;</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -980,7 +980,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Corrupting Sigils Icon](images/featicons/upgradefa.png)Corrupting Sigils
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% Hex</span>
+            <span style="margin-left:8px;padding-right:1px;">40% Hex</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
@@ -997,7 +997,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Eldritch Words Icon](images/featicons/upgradefa.png)Eldritch Words
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">20% Hex</span>
+            <span style="margin-left:8px;padding-right:1px;">20% Hex</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Free</span>
@@ -1014,7 +1014,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Gibbous Script Icon](images/featicons/upgradefa.png)Gibbous Script
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+2 to Master of Hexes</span>
+            <span style="margin-left:8px;padding-right:1px;">+2 to Master of Hexes</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -1031,7 +1031,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Greater Swarm Icon](images/featicons/upgradefa.png)Greater Swarm
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">25% Cloak of Flies</span>
+            <span style="margin-left:8px;padding-right:1px;">25% Cloak of Flies</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Gold Chest</span>
@@ -1048,7 +1048,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Phantasmal Curse Icon](images/featicons/upgradefa.png)Phantasmal Curse
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+1 Max Spectres</span>
+            <span style="margin-left:8px;padding-right:1px;">+1 Max Spectres</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -1065,7 +1065,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Specter of Aeons Icon](images/featicons/upgradefa.png)Specter of Aeons
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">+2 Max Spectres</span>
+            <span style="margin-left:8px;padding-right:1px;">+2 Max Spectres</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -1082,7 +1082,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Stygian Spirit Icon](images/featicons/upgradefa.png)Stygian Spirit
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">20% Accursed Specter</span>
+            <span style="margin-left:8px;padding-right:1px;">20% Accursed Specter</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">Free</span>
@@ -1099,7 +1099,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Unknowable Form Icon](images/featicons/upgradefa.png)Unknowable Form
         </span>
         <span class="featTableEffect">
-            <span style="margin-left: 8px;">40% Accursed Specter</span>
+            <span style="margin-left:8px;padding-right:1px;">40% Accursed Specter</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">12,500 Gems</span>
