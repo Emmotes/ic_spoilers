@@ -22,12 +22,12 @@ We know the next Emergence event will be Glitches and that it will start on 22 N
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Golden Epic Icon for Sisaspia Slot 4](images/emergence_4/ge_1360.png)
+            ![Golden Epic Icon for Sisaspia Slot 5](images/emergence_4/ge_1364.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
-            <span style="margin-left:15px">Symbiotic Healing</span>
-            <span style="margin-left:15px">Sisaspia (Slot 4)</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Sisaspia (Slot 5)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
@@ -70,14 +70,46 @@ We know the next Emergence event will be Glitches and that it will start on 22 N
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Chest Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4">![Half-Elf Glitch Feat Icon](images/emergence_4/feat_1597.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Half-Elf Glitch</span>
+            <span style="margin-left:15px">Sentry (Counts as Half Elf & +20% to Guardian of Solwynn per Half Elf)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4">![Gibbous Script Feat Icon](images/emergence_4/feat_1524.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Gibbous Script</span>
+            <span style="margin-left:15px">Warden (+2 to Master of Hexes)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4">![Specter of Aeons Feat Icon](images/emergence_4/feat_1560.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Specter of Aeons</span>
+            <span style="margin-left:15px">Warden (+2 Max Spectres)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Glitch Emergence Chest Icon](images/emergence_4/chest_600.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Glitches Emergence Chest</span>
+            <span style="margin-left:15px">Glitch Emergence Chest</span>
         </span>
     </span>
 </span>
+
+The Glitch Emergence Chest will contain loot for Jang Sao, Sisaspia, Hitch, Sentry and Warden.
 
 # Emergence FAQ
 
