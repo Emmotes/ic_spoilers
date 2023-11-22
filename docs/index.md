@@ -97,13 +97,14 @@ Not events events - but events. You know?
 * [Season 7](season_7.md) - 03 January 2024
 * [Emergence 5](emergence_5.md) - 24 January 2024
 * Season 8 - 28 February 2024
+* Emergence 6 - ???
 * [Recurring Event Exclusivity Dates](exclusivitydates.md)
 
 # Misc
 
 Miscellaneous spoilers.
 
-* [Collections Dialogue](collections.md) - Unknown
+* [Collections Dialogue](collections.md) - ???
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
