@@ -154,6 +154,35 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
         </span>
     </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                ![Emergence 4 Icon](images/general/e4.png)**Emergence 4** - Glitches
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>24 Jan 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>Unknown</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>Unknown</span>
+            </span>
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
