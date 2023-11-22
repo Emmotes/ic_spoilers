@@ -100,7 +100,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Presto's Hat** (Magic)
 > Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.  
-> Cooldown: 4.9000000000000003552713678800500929355621337890625s (Cap 1.225000000000000088817841970012523233890533447265625s)
+> Cooldown: 4.9s (Cap 1.225s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -146,7 +146,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Presto's Hat** (Magic)
 > Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.  
-> Cooldown: 4.9000000000000003552713678800500929355621337890625s (Cap 1.225000000000000088817841970012523233890533447265625s)
+> Cooldown: 4.9s (Cap 1.225s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -184,7 +184,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Presto's Hat** (Magic)
 > Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.  
-> Cooldown: 4.9000000000000003552713678800500929355621337890625s (Cap 1.225000000000000088817841970012523233890533447265625s)
+> Cooldown: 4.9s (Cap 1.225s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -223,7 +223,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Ultimate Hat Trick** (Magic)
 > Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.  
-> Cooldown: 4.9000000000000003552713678800500929355621337890625s (Cap 1.225000000000000088817841970012523233890533447265625s)
+> Cooldown: 4.9s (Cap 1.225s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
