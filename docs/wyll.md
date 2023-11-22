@@ -303,7 +303,8 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
             "monster_is_favored_foe_of_effect_owner": true,
             "off_when_benched": true,
             "effect_string": "increase_damage_against_monster,400",
-            "targets": ["all"]
+            "targets": ["all"],
+            "override_key_desc": "$source does $amount% more damage against Wyll's Favored Foes"
         },
         {
             "off_when_benched": true,
@@ -386,6 +387,7 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
         ],
         "off_when_benched": true,
         "effect_string": "buff_incoming_upgrade,200,13429",
+        "optional_effect_index": 1,
         "filter_targets": [
             {
                 "upgrade_id": 13429,
