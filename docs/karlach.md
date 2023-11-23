@@ -105,28 +105,34 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
+    "id": 713,
+    "name": "Greataxe Cleave",
     "description": "Karlach attacks the closest enemies with a swing of her greataxe.",
     "long_description": "",
-    "damage_modifier": 1,
-    "damage_types": ["melee"],
     "graphic_id": 0,
     "target": "front",
+    "num_targets": 1,
     "aoe_radius": 150,
+    "damage_modifier": 1,
+    "cooldown": 6,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -34,
+            "damage_frame": 2,
+            "jump_sound": 30,
+            "sound_frames": {
+                "2": 194
+            }
+        }
+    ],
     "tags": [
         "melee",
         "aoe"
     ],
-    "num_targets": 1,
-    "animations": [{
-        "damage_frame": 2,
-        "jump_sound": 30,
-        "sound_frames": {"2": 194},
-        "target_offset_x": -34,
-        "type": "melee_attack"
-    }],
-    "name": "Greataxe Cleave",
-    "cooldown": 6,
-    "id": 713
+    "damage_types": [
+        "melee"
+    ]
 }
 </pre>
 </p>
@@ -141,26 +147,30 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
+    "id": 714,
+    "name": "Soul Coin",
     "description": "Karlach increases her rage cap to 100 stacks and her Infernal Engine's damage by 100%.",
     "long_description": "Karlach absorbs the energy of a soul coin, increasing her rage cap to 100 stacks and her Infernal Engine's BUD-based damage by 100%.",
-    "damage_modifier": 1,
-    "damage_types": ["melee"],
     "graphic_id": 21828,
     "target": "none",
+    "num_targets": 1,
     "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 700,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "karlach",
+            "no_damage_display": true
+        }
+    ],
     "tags": [
         "melee",
         "ultimate"
     ],
-    "num_targets": 1,
-    "animations": [{
-        "ultimate": "karlach",
-        "type": "ultimate_attack",
-        "no_damage_display": true
-    }],
-    "name": "Soul Coin",
-    "cooldown": 700,
-    "id": 714
+    "damage_types": [
+        "melee"
+    ]
 }
 </pre>
 </p>
@@ -174,15 +184,21 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
-    "requirements": "",
-    "description": {"desc": "As a Champion of Zariel, Karlach can be used in any Zariel Patron adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions."},
     "id": 1810,
     "flavour_text": "",
+    "description": {
+        "desc": "As a Champion of Zariel, Karlach can be used in any Zariel Patron adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
     "properties": {
-        "use_outgoing_description": true,
         "is_formation_ability": true,
+        "use_outgoing_description": true,
         "formation_circle_icon": false
     }
 }
@@ -198,16 +214,24 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "effect_string": "hero_dps_multiplier_mult,100",
-        "targets": ["col_and_prev_col"]
-    }],
-    "requirements": "",
-    "description": {"desc": "Karlach increases the damage of all Champions (including herself) in her column and the column behind her by $(amount)%."},
     "id": 1811,
     "flavour_text": "",
+    "description": {
+        "desc": "Karlach increases the damage of all Champions (including herself) in her column and the column behind her by $(amount)%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "col_and_prev_col"
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 21822,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -221,31 +245,36 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
+    "id": 1812,
+    "flavour_text": "",
+    "description": {
+        "desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Karlach's brain. Karlach increases the health of all other Champions by $(not_buffed amount___3)% of her max health, plus $(not_buffed amount)% for each Ceremorphosis stack the formation has, stacking additively."
+    },
     "effect_keys": [
         {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,2",
+            "stack_func": "per_ceremorphosis_stacks",
+            "amount_func": "add",
+            "show_bonus": true,
             "stack_title": "Total Ceremorphosis Stacks",
+            "total_title": "Ceremorphosis Stack Bonus",
+            "desc_forced_order": 2,
+            "listen_for_computed_changes": true,
             "amount_updated_listeners": [
                 "upgrade_unlocked",
                 "slot_changed",
                 "feat_changed"
-            ],
-            "total_title": "Ceremorphosis Stack Bonus",
-            "off_when_benched": true,
-            "show_bonus": true,
-            "amount_func": "add",
-            "stack_func": "per_ceremorphosis_stacks",
-            "effect_string": "do_nothing,2",
-            "desc_forced_order": 2,
-            "listen_for_computed_changes": true
+            ]
         },
         {
-            "stack_title": "Karlach Ceremorphosis Stacks",
-            "manual_stacking": true,
-            "stacks_multiply": false,
             "off_when_benched": true,
             "outgoing_buffs": false,
             "effect_string": "karlach_ceremorphosis_stacks,1",
+            "manual_stacking": true,
+            "stacks_multiply": false,
             "show_stacks": true,
+            "stack_title": "Karlach Ceremorphosis Stacks",
             "desc_forced_order": 1,
             "skip_effect_key_desc": true
         },
@@ -255,30 +284,29 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
             "skip_effect_key_desc": true
         },
         {
-            "amount_expr": "upgrade_amount(13722,2)+max_upgrade_amount(13722,0)",
             "off_when_benched": true,
-            "use_computed_amount_for_description": true,
             "effect_string": "increase_health_by_source_percent,0",
+            "amount_expr": "upgrade_amount(13722,2)+max_upgrade_amount(13722,0)",
             "percent_values": false,
-            "desc_forced_order": 3,
+            "round_bonus_value": true,
             "show_current_value_bonus_desc": false,
+            "use_computed_amount_for_description": true,
             "override_key_desc": "Increases the Health of $target by $amount",
-            "targets": ["other"],
-            "round_bonus_value": true
+            "targets": [
+                "other"
+            ],
+            "desc_forced_order": 3
         }
     ],
     "requirements": "",
-    "description": {"desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Karlach's brain. Karlach increases the health of all other Champions by $(not_buffed amount___3)% of her max health, plus $(not_buffed amount)% for each Ceremorphosis stack the formation has, stacking additively."},
-    "id": 1812,
-    "flavour_text": "",
     "graphic_id": 21820,
     "properties": {
-        "indexed_effect_properties": true,
-        "retain_on_slot_changed": true,
         "is_formation_ability": true,
-        "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
-        "per_effect_index_bonuses": true
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -288,37 +316,39 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Rage** (Guess)
-> When Karlach attacks or is attacked, she gains a Rage stack, capped at 50 stacks. Karlach increases the effect of The Fury of Avernus by 25% for each Rage stack, stacking multiplicatively. Stacks are reduced by 60% when changing areas.
+> When Karlach attacks or is attacked, she gains a Rage stack, capped at 50}] stacks. Karlach increases the effect of The Fury of Avernus by 25% for each Rage stack, stacking multiplicatively. Stacks are reduced by 60% when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
+    "id": 1813,
+    "flavour_text": "",
+    "description": {
+        "desc": "When Karlach attacks or is attacked, she gains a Rage stack, capped at $(karlach_rage_max_stacks) stacks. Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Rage stack, stacking multiplicatively. Stacks are reduced by $(karlach_rage_reduce_percent)% when changing areas."
+    },
     "effect_keys": [
         {
-            "stack_title": "Rage stacks",
-            "stacks_multiply": true,
-            "manual_stacking": true,
+            "effect_string": "buff_upgrade,25,13721",
             "show_bonus": true,
-            "effect_string": "buff_upgrade,25,13721"
+            "stacks_multiply": true,
+            "stack_title": "Rage stacks",
+            "manual_stacking": true
         },
         {
+            "effect_string": "karlach_rage",
             "default_reduce_percent": 60,
-            "default_max_stacks": 50,
-            "effect_string": "karlach_rage"
+            "default_max_stacks": 50
         }
     ],
     "requirements": "",
-    "description": {"desc": "When Karlach attacks or is attacked, she gains a Rage stack, capped at $(karlach_rage_max_stacks) stacks. Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Rage stack, stacking multiplicatively. Stacks are reduced by $(karlach_rage_reduce_percent)% when changing areas."},
-    "id": 1813,
-    "flavour_text": "",
     "graphic_id": 21824,
     "properties": {
-        "indexed_effect_properties": true,
-        "retain_on_slot_changed": true,
         "is_formation_ability": true,
-        "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
-        "per_effect_index_bonuses": true
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -335,59 +365,67 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
+    "id": 1814,
+    "flavour_text": "",
+    "description": {
+        "desc": "While Karlach has $(min_rage_stacks___2) or more Rage stacks, she ignites on fire dealing $(not_buffed amount) second of BUD-based damage for each Rage stack to any enemy that attacks her. (Stacking additively)"
+    },
     "effect_keys": [
-        {"effect_string": "pre_stack_amount,0.1"},
         {
-            "per_other_stack_count_effect_key_index": 0,
-            "amount_updated_listeners": ["stacks_changed"],
-            "stacks_multiply": false,
-            "returned_damage_hit_graphic_id": 849,
-            "total_title": "Seconds of BUD",
-            "per_other_stack_count_upgrade_id": 13723,
-            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
-            "amount_func": "add",
-            "stack_func": "per_other_stack_count",
+            "effect_string": "pre_stack_amount,0.1"
+        },
+        {
             "effect_string": "deal_bud_damage_when_hit,0",
             "amount_expr": "upgrade_amount(13724,0)",
-            "stack_title": "Effective Rage stacks",
+            "returned_damage_hit_graphic_id": 849,
+            "amount_func": "add",
+            "stacks_multiply": false,
+            "stack_func": "per_other_stack_count",
+            "per_other_stack_count_upgrade_id": 13723,
+            "per_other_stack_count_effect_key_index": 0,
+            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
             "min_rage_stacks": 20,
+            "amount_updated_listeners": [
+                "stacks_changed"
+            ],
+            "stack_title": "Effective Rage stacks",
+            "total_title": "Seconds of BUD",
             "show_bonus": true,
             "percent_values": false
         },
         {
-            "per_other_stack_count_effect_key_index": 0,
-            "amount_updated_listeners": ["stacks_changed"],
+            "effect_string": "karlach_infernal_engine",
+            "amount_func": "add",
             "stacks_multiply": false,
+            "stack_func": "per_other_stack_count",
+            "listen_for_computed_changes": true,
             "per_other_stack_count_upgrade_id": 13723,
+            "per_other_stack_count_effect_key_index": 0,
             "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)",
             "min_rage_stacks": 20,
-            "amount_func": "add",
-            "stack_func": "per_other_stack_count",
-            "underlay_index": 3,
-            "effect_string": "karlach_infernal_engine",
-            "listen_for_computed_changes": true
+            "amount_updated_listeners": [
+                "stacks_changed"
+            ],
+            "underlay_index": 3
         },
         {
-            "overlay_play_mode": "always",
+            "apply_manually": true,
+            "effect_string": "karlach_infernal_engine_underlay",
+            "active_graphic_id": 22013,
             "overlay_location": "slot",
             "bottom": true,
-            "active_graphic_id": 22013,
-            "effect_string": "karlach_infernal_engine_underlay",
-            "apply_manually": true
+            "overlay_play_mode": "always"
         }
     ],
     "requirements": "",
-    "description": {"desc": "While Karlach has $(min_rage_stacks___2) or more Rage stacks, she ignites on fire dealing $(not_buffed amount) second of BUD-based damage for each Rage stack to any enemy that attacks her. (Stacking additively)"},
-    "id": 1814,
-    "flavour_text": "",
     "graphic_id": 21823,
     "properties": {
-        "indexed_effect_properties": true,
-        "retain_on_slot_changed": true,
         "is_formation_ability": true,
-        "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
-        "per_effect_index_bonuses": true
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -402,22 +440,26 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "stack_title": "Zariel Patron Variants Complete",
-        "patron_id": 4,
-        "show_bonus": true,
-        "amount_func": "mult",
-        "stack_func": "per_patron_variant_complete",
-        "effect_string": "buff_upgrade,10,13721"
-    }],
-    "requirements": "",
-    "description": {"desc": "Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Zariel Patron variant you have completed, stacking multiplicatively."},
     "id": 1815,
     "flavour_text": "",
+    "description": {
+        "desc": "Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Zariel Patron variant you have completed, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,10,13721",
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_patron_variant_complete",
+            "patron_id": 4,
+            "stack_title": "Zariel Patron Variants Complete"
+        }
+    ],
+    "requirements": "",
     "graphic_id": 21821,
     "properties": {
-        "use_outgoing_description": true,
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "use_outgoing_description": true
     }
 }
 </pre>
@@ -434,24 +476,30 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "stack_title": "Effective Rage stacks",
-        "per_other_stack_count_effect_key_index": 0,
-        "amount_updated_listeners": ["stacks_changed"],
-        "stacks_multiply": true,
-        "total_title": "Bonus Damage",
-        "per_other_stack_count_upgrade_id": 13723,
-        "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
-        "min_rage_stacks": 20,
-        "show_bonus": true,
-        "amount_func": "mult",
-        "stack_func": "per_other_stack_count",
-        "effect_string": "hero_dps_multiplier_mult,25"
-    }],
-    "requirements": "",
-    "description": {"desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she increases her damage by $(not_buffed amount)% for each Rage stack she has, stacking multiplicatively."},
     "id": 1816,
     "flavour_text": "",
+    "description": {
+        "desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she increases her damage by $(not_buffed amount)% for each Rage stack she has, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,25",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_other_stack_count",
+            "per_other_stack_count_upgrade_id": 13723,
+            "per_other_stack_count_effect_key_index": 0,
+            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
+            "min_rage_stacks": 20,
+            "amount_updated_listeners": [
+                "stacks_changed"
+            ],
+            "stack_title": "Effective Rage stacks",
+            "total_title": "Bonus Damage",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
@@ -471,25 +519,33 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "per_other_stack_count_effect_key_index": 0,
-        "amount_updated_listeners": ["stacks_changed"],
-        "stacks_multiply": false,
-        "per_other_stack_count_upgrade_id": 13723,
-        "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)",
-        "amount_func": "add",
-        "stack_func": "per_other_stack_count",
-        "effect_string": "heal,10",
-        "targets": ["self_slot"],
-        "use_computed_heal_value": true,
-        "min_rage_stacks": 20,
-        "use_percent": true,
-        "slot_change_updates_targets": true
-    }],
-    "requirements": "",
-    "description": {"desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she heals $(amount)% of her max health every second."},
     "id": 1817,
     "flavour_text": "",
+    "description": {
+        "desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she heals $(amount)% of her max health every second."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "heal,10",
+            "targets": [
+                "self_slot"
+            ],
+            "slot_change_updates_targets": true,
+            "use_percent": true,
+            "use_computed_heal_value": true,
+            "amount_func": "add",
+            "stacks_multiply": false,
+            "stack_func": "per_other_stack_count",
+            "per_other_stack_count_upgrade_id": 13723,
+            "per_other_stack_count_effect_key_index": 0,
+            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)",
+            "min_rage_stacks": 20,
+            "amount_updated_listeners": [
+                "stacks_changed"
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
@@ -509,24 +565,30 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "stack_title": "Effective Rage stacks",
-        "per_other_stack_count_effect_key_index": 0,
-        "amount_updated_listeners": ["stacks_changed"],
-        "stacks_multiply": true,
-        "total_title": "Bonus Damage",
-        "per_other_stack_count_upgrade_id": 13723,
-        "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
-        "min_rage_stacks": 20,
-        "show_bonus": true,
-        "amount_func": "mult",
-        "stack_func": "per_other_stack_count",
-        "effect_string": "buff_upgrade,100,13721"
-    }],
-    "requirements": "",
-    "description": {"desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she increases the effect of The Fury of Avernus by $(not_buffed amount)% for each stack of Ceremorphosis, stacking multiplicatively."},
     "id": 1818,
     "flavour_text": "",
+    "description": {
+        "desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she increases the effect of The Fury of Avernus by $(not_buffed amount)% for each stack of Ceremorphosis, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,13721",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_other_stack_count",
+            "per_other_stack_count_upgrade_id": 13723,
+            "per_other_stack_count_effect_key_index": 0,
+            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
+            "min_rage_stacks": 20,
+            "amount_updated_listeners": [
+                "stacks_changed"
+            ],
+            "stack_title": "Effective Rage stacks",
+            "total_title": "Bonus Damage",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,

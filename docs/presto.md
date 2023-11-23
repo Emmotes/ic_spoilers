@@ -105,39 +105,45 @@ Unknown.
 <p>
 <pre>
 {
+    "id": 723,
+    "name": "Presto's Hat",
     "description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
     "long_description": "",
-    "damage_modifier": 1,
-    "damage_types": ["magic"],
     "graphic_id": 0,
     "target": "random",
-    "aoe_radius": 0,
-    "tags": ["ranged"],
     "num_targets": 1,
-    "animations": [{
-        "effect_frames": {
-            "apply_to_hero": true,
-            "projectile": {
-                "apply_to_hero": true,
-                "effect_string": "effect_def,1842"
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.9,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 20,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "506536f125912899f3ee905bda3e8b02",
+                "projectile_speed": 1250,
+                "projectile_graphic_id": 22060,
+                "percent_height_offset": 10,
+                "rotation_speed": 100
+            },
+            "effect_frames": {
+                "projectile": {
+                    "effect_string": "effect_def,1842",
+                    "apply_to_hero": true
+                },
+                "apply_to_hero": true
             }
-        },
-        "projectile_details": {
-            "percent_height_offset": 10,
-            "projectile_graphic_id": 22060,
-            "projectile_speed": 1250,
-            "hash": "506536f125912899f3ee905bda3e8b02",
-            "rotation_speed": 100
-        },
-        "hit_sound": 133,
-        "shoot_sound": 149,
-        "type": "ranged_attack",
-        "projectile": "pd_generic_projectile",
-        "shoot_frame": 20
-    }],
-    "name": "Presto's Hat",
-    "cooldown": 4.9,
-    "id": 723
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -151,31 +157,37 @@ Unknown.
 <p>
 <pre>
 {
+    "id": 724,
+    "name": "Presto's Hat",
     "description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
     "long_description": "",
-    "damage_modifier": 1,
-    "damage_types": ["magic"],
     "graphic_id": 0,
     "target": "random",
-    "aoe_radius": 0,
-    "tags": ["ranged"],
     "num_targets": 1,
-    "animations": [{
-        "projectile_details": {
-            "percent_height_offset": -5,
-            "projectile_graphic_id": 22062,
-            "projectile_speed": 1250,
-            "hash": "da28f8663d38cd1dd79099dcff2af789"
-        },
-        "hit_sound": 133,
-        "shoot_sound": 149,
-        "type": "ranged_attack",
-        "projectile": "pd_generic_projectile",
-        "shoot_frame": 20
-    }],
-    "name": "Presto's Hat",
+    "aoe_radius": 0,
+    "damage_modifier": 1,
     "cooldown": 4.9,
-    "id": 724
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 20,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "da28f8663d38cd1dd79099dcff2af789",
+                "projectile_speed": 1250,
+                "projectile_graphic_id": 22062,
+                "percent_height_offset": -5
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -189,31 +201,37 @@ Unknown.
 <p>
 <pre>
 {
+    "id": 725,
+    "name": "Presto's Hat",
     "description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
     "long_description": "",
-    "damage_modifier": 1,
-    "damage_types": ["magic"],
     "graphic_id": 0,
     "target": "random",
-    "aoe_radius": 0,
-    "tags": ["ranged"],
     "num_targets": 1,
-    "animations": [{
-        "projectile_details": {
-            "percent_height_offset": 5,
-            "projectile_graphic_id": 22061,
-            "projectile_speed": 1400,
-            "hash": "f5c28dff14660a99747464d9098133fc"
-        },
-        "hit_sound": 133,
-        "shoot_sound": 149,
-        "type": "ranged_attack",
-        "projectile": "pd_generic_projectile",
-        "shoot_frame": 20
-    }],
-    "name": "Presto's Hat",
+    "aoe_radius": 0,
+    "damage_modifier": 1,
     "cooldown": 4.9,
-    "id": 725
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 20,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "f5c28dff14660a99747464d9098133fc",
+                "projectile_speed": 1400,
+                "projectile_graphic_id": 22061,
+                "percent_height_offset": 5
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -228,58 +246,66 @@ Unknown.
 <p>
 <pre>
 {
+    "id": 726,
+    "name": "Ultimate Hat Trick",
     "description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
     "long_description": "",
-    "damage_modifier": 1,
-    "damage_types": ["magic"],
     "graphic_id": 0,
     "target": "random",
-    "aoe_radius": 0,
-    "tags": ["ranged"],
     "num_targets": 1,
-    "animations": [{
-        "projectile_details": {
-            "trail": {
-                "scale_lerp": [
-                    {
-                        "x": 1,
-                        "y": 1
-                    },
-                    {
-                        "x": 1,
-                        "y": 1
-                    }
-                ],
-                "lifespan": 0.5,
-                "initial_velocity": {
-                    "x": 0,
-                    "y": 0
-                },
-                "alpha_lerp": {
-                    "0": 0,
-                    "1": 0,
-                    "0.1": 0.75
-                },
-                "particle_graphic_ids": [8003],
-                "spawn_rate": 250,
-                "velocity_jitter": {
-                    "x": 0,
-                    "y": 0
-                }
-            },
-            "projectile_graphic_id": 8003,
-            "projectile_speed": 2000,
-            "hash": "baja_blast"
-        },
-        "hit_sound": 133,
-        "shoot_sound": 149,
-        "type": "ranged_attack",
-        "projectile": "pd_generic_projectile",
-        "shoot_frame": 6
-    }],
-    "name": "Ultimate Hat Trick",
+    "aoe_radius": 0,
+    "damage_modifier": 1,
     "cooldown": 4.9,
-    "id": 726
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 6,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "baja_blast",
+                "projectile_speed": 2000,
+                "projectile_graphic_id": 8003,
+                "trail": {
+                    "particle_graphic_ids": [
+                        8003
+                    ],
+                    "lifespan": 0.5,
+                    "spawn_rate": 250,
+                    "initial_velocity": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "velocity_jitter": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "alpha_lerp": {
+                        "0": 0,
+                        "0.1": 0.75,
+                        "1": 0
+                    },
+                    "scale_lerp": [
+                        {
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -293,16 +319,24 @@ Unknown.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "effect_string": "hero_dps_multiplier_mult,100",
-        "targets": ["next_two_col"]
-    }],
-    "requirements": "",
-    "description": {"desc": "$source increases the damage of Champions in the two columns in front of him by $(amount)%"},
     "id": 1836,
     "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage of Champions in the two columns in front of him by $(amount)%"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "next_two_col"
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -316,13 +350,21 @@ Unknown.
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
-    "requirements": "",
-    "description": {"desc": "$source increases the damage of Champions in the two columns in front of him by $(amount)%"},
     "id": 1837,
     "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage of Champions in the two columns in front of him by $(amount)%"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -336,13 +378,21 @@ Unknown.
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "do_nothing"}],
-    "requirements": "",
-    "description": {"desc": "$source increases the damage of Champions in the two columns in front of him by $(amount)%"},
     "id": 1838,
     "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage of Champions in the two columns in front of him by $(amount)%"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -356,29 +406,37 @@ Unknown.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "stack_title": "Magic Champions",
-        "amount_updated_listeners": [
-            "feat_changed",
-            "slot_changed"
-        ],
-        "show_bonus": true,
-        "amount_func": "mult",
-        "stack_func": "per_crusader",
-        "effect_string": "buff_upgrade,100,13762",
-        "target_filters": [{
-            "stat": "total_ability_score",
-            "comparison": "<=",
-            "type": "stat",
-            "value": 78
-        }]
-    }],
-    "requirements": "",
-    "description": {"desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with a total ability score of 78 or less."},
     "id": 1839,
     "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with a total ability score of 78 or less."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,13762",
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_crusader",
+            "target_filters": [
+                {
+                    "type": "stat",
+                    "stat": "total_ability_score",
+                    "comparison": "<=",
+                    "value": 78
+                }
+            ],
+            "stack_title": "Magic Champions",
+            "amount_updated_listeners": [
+                "feat_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -394,37 +452,43 @@ Unknown.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "stack_title": "Young Champions",
-        "amount_updated_listeners": [
-            "slot_changed",
-            "feat_changed"
-        ],
-        "show_bonus": true,
-        "amount_func": "mult",
-        "stack_func": "per_crusader",
-        "effect_string": "buff_upgrade,100,13762",
-        "target_filters": [
-            {
-                "stat": "age",
-                "check": "<=",
-                "type": "stat_score",
-                "value": 20
-            },
-            {
-                "stat": "age",
-                "check": ">=",
-                "type": "stat_score",
-                "value": 0
-            }
-        ]
-    }],
-    "requirements": "",
-    "description": {"desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with an age of 20 or less."},
     "id": 1840,
     "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with an age of 20 or less."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,13762",
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_crusader",
+            "target_filters": [
+                {
+                    "type": "stat_score",
+                    "stat": "age",
+                    "check": "<=",
+                    "value": 20
+                },
+                {
+                    "type": "stat_score",
+                    "stat": "age",
+                    "check": ">=",
+                    "value": 0
+                }
+            ],
+            "stack_title": "Young Champions",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -438,27 +502,35 @@ Unknown.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "stack_title": "Magic Champions",
-        "amount_updated_listeners": [
-            "attack_changed",
-            "slot_changed"
-        ],
-        "show_bonus": true,
-        "amount_func": "mult",
-        "stack_func": "per_crusader",
-        "effect_string": "buff_upgrade,100,13762",
-        "target_filters": [{
-            "attack": "magic",
-            "type": "attack_type"
-        }]
-    }],
-    "requirements": "",
-    "description": {"desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with a magic attack."},
     "id": 1841,
     "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with a magic attack."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,13762",
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_crusader",
+            "target_filters": [
+                {
+                    "type": "attack_type",
+                    "attack": "magic"
+                }
+            ],
+            "stack_title": "Magic Champions",
+            "amount_updated_listeners": [
+                "attack_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
-    "properties": {"is_formation_ability": true}
+    "properties": {
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -472,14 +544,18 @@ Unknown.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "apply_to_hero": true,
-        "effect_string": "change_base_attack,724"
-    }],
-    "requirements": "",
-    "description": {"desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with a magic attack."},
     "id": 1842,
     "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with a magic attack."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_base_attack,724",
+            "apply_to_hero": true
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
     "properties": []
 }

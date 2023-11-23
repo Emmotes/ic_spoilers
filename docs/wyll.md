@@ -105,33 +105,35 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 <p>
 <pre>
 {
+    "id": 708,
+    "name": "Blade & Blast",
     "description": "Wyll stabs the closest foe, then casts Eldritch Blast on the lowest health enemy.",
     "long_description": "",
-    "damage_modifier": 1,
-    "damage_types": [
-        "melee",
-        "magic"
-    ],
     "graphic_id": 0,
     "target": "front",
+    "num_targets": 1,
     "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 5,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "special_melee": "wyll",
+            "target_offset": [
+                -200,
+                0
+            ],
+            "seq_chargeloop": 1
+        }
+    ],
     "tags": [
         "melee",
         "ranged"
     ],
-    "num_targets": 1,
-    "animations": [{
-        "target_offset": [
-            -200,
-            0
-        ],
-        "seq_chargeloop": 1,
-        "special_melee": "wyll",
-        "type": "melee_attack"
-    }],
-    "name": "Blade & Blast",
-    "cooldown": 5,
-    "id": 708
+    "damage_types": [
+        "melee",
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -146,23 +148,29 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 <p>
 <pre>
 {
+    "id": 709,
+    "name": "Mizora",
     "description": "Mizora increases Wyll's damage and attack rate for 15 seconds.",
     "long_description": "Wyll's patron Mizora appears behind him for 15 seconds, increasing his damage and attack rate for the duration.",
-    "damage_modifier": 1,
-    "damage_types": ["magic"],
     "graphic_id": 21729,
     "target": "none",
-    "aoe_radius": 0,
-    "tags": ["ultimate"],
     "num_targets": 0,
-    "animations": [{
-        "ultimate": "wyll",
-        "type": "ultimate_attack",
-        "no_damage_display": true
-    }],
-    "name": "Mizora",
+    "aoe_radius": 0,
+    "damage_modifier": 1,
     "cooldown": 400,
-    "id": 709
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "wyll",
+            "no_damage_display": true
+        }
+    ],
+    "tags": [
+        "ultimate"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -183,49 +191,57 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 <p>
 <pre>
 {
+    "id": 1792,
+    "flavour_text": "",
+    "description": {
+        "desc": "Wyll increases the damage of all Champions that belong to the most represented race, class, or affiliation(s) in the formation by $(amount)%. If there is a tie, all tied groups gain the buff, and Champions who are part of several groups can gain multiple stacks of the buff (up to a max of $(max_stacks___2) stacks), stacking multiplicatively. Buffs apply to the pre-stack value.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Most Represented^Race: $(most_common_race)^Class: $(most_common_class)^Affiliation: $(most_common_affiliation)"
+                }
+            ]
+        }
+    },
     "effect_keys": [
         {
             "effect_string": "pre_stack_amount,100",
             "skip_effect_key_desc": true
         },
         {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(13429,0)",
+            "targets": [
+                "all"
+            ],
+            "show_stacks": true,
+            "show_stats_on_owner": false,
+            "show_stats_on_receiver": true,
+            "show_bonus_on_receiver_only": true,
+            "amount_func": "mult",
+            "max_stacks": 4,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "get_num_most_common_affiliations + get_num_most_common_races + get_num_most_common_classes",
+            "post_process_expr": "min(input,max_stacks)",
+            "per_hero_targets": [
+                "effect_key_slot"
+            ],
             "amount_updated_listeners": [
                 "slot_changed",
                 "feat_changed"
             ],
-            "show_bonus_on_receiver_only": true,
-            "amount_func": "mult",
-            "stack_func": "per_hero_attribute",
-            "use_computed_amount_for_description": true,
-            "effect_string": "hero_dps_multiplier_mult,0",
-            "show_stacks": true,
-            "targets": ["all"],
-            "post_process_expr": "min(input,max_stacks)",
-            "amount_expr": "upgrade_amount(13429,0)",
-            "show_stats_on_owner": false,
-            "off_when_benched": true,
-            "per_hero_targets": ["effect_key_slot"],
-            "per_hero_expr": "get_num_most_common_affiliations + get_num_most_common_races + get_num_most_common_classes",
-            "show_stats_on_receiver": true,
-            "max_stacks": 4
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
-    "description": {
-        "post": {"conditions": [{
-            "condition": "not static_desc",
-            "desc": "^^Most Represented^Race: $(most_common_race)^Class: $(most_common_class)^Affiliation: $(most_common_affiliation)"
-        }]},
-        "desc": "Wyll increases the damage of all Champions that belong to the most represented race, class, or affiliation(s) in the formation by $(amount)%. If there is a tie, all tied groups gain the buff, and Champions who are part of several groups can gain multiple stacks of the buff (up to a max of $(max_stacks___2) stacks), stacking multiplicatively. Buffs apply to the pre-stack value."
-    },
-    "id": 1792,
-    "flavour_text": "",
     "graphic_id": 21724,
     "properties": {
-        "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "default_bonus_index": 0,
-        "per_effect_index_bonuses": true
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -242,48 +258,52 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 <p>
 <pre>
 {
+    "id": 1793,
+    "flavour_text": "",
+    "description": {
+        "desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Wyll's brain. Wyll increases the effect of $(upgrade_name id___2) by $(amount)% for each Ceremorphosis stack, stacking multiplicatively."
+    },
     "effect_keys": [
-        {"effect_string": "pre_stack_amount,100"},
         {
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0,13429",
             "amount_expr": "upgrade_amount(13430,0)",
+            "stack_func": "per_ceremorphosis_stacks",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "show_bonus": true,
             "stack_title": "Total Ceremorphosis Stacks",
+            "total_title": "Total Bonus",
+            "desc_forced_order": 2,
             "amount_updated_listeners": [
                 "upgrade_unlocked",
                 "slot_changed",
                 "feat_changed"
-            ],
-            "stacks_multiply": true,
-            "total_title": "Total Bonus",
-            "off_when_benched": true,
-            "show_bonus": true,
-            "amount_func": "mult",
-            "stack_func": "per_ceremorphosis_stacks",
-            "effect_string": "buff_upgrade,0,13429",
-            "desc_forced_order": 2
+            ]
         },
         {
-            "stack_title": "Wyll Ceremorphosis Stacks",
-            "manual_stacking": true,
-            "stacks_multiply": false,
             "off_when_benched": true,
             "outgoing_buffs": false,
             "effect_string": "wyll_ceremorphosis_stacks,1",
+            "manual_stacking": true,
+            "stacks_multiply": false,
             "show_stacks": true,
+            "stack_title": "Wyll Ceremorphosis Stacks",
             "desc_forced_order": 1
         }
     ],
     "requirements": "",
-    "description": {"desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Wyll's brain. Wyll increases the effect of $(upgrade_name id___2) by $(amount)% for each Ceremorphosis stack, stacking multiplicatively."},
-    "id": 1793,
-    "flavour_text": "",
     "graphic_id": 21723,
     "properties": {
-        "indexed_effect_properties": true,
-        "retain_on_slot_changed": true,
         "is_formation_ability": true,
-        "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
-        "per_effect_index_bonuses": true
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -298,12 +318,19 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 <p>
 <pre>
 {
+    "id": 1794,
+    "flavour_text": "",
+    "description": {
+        "desc": "$(sources_favored_foe_list_and fiend) are Wyll's Favored Foes. All Champions deal $(amount)% more damage against Wyll's Favored Foes."
+    },
     "effect_keys": [
         {
-            "monster_is_favored_foe_of_effect_owner": true,
-            "off_when_benched": true,
             "effect_string": "increase_damage_against_monster,400",
-            "targets": ["all"],
+            "monster_is_favored_foe_of_effect_owner": true,
+            "targets": [
+                "all"
+            ],
+            "off_when_benched": true,
             "override_key_desc": "$source does $amount% more damage against Wyll's Favored Foes"
         },
         {
@@ -312,16 +339,13 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
         }
     ],
     "requirements": "",
-    "description": {"desc": "$(sources_favored_foe_list_and fiend) are Wyll's Favored Foes. All Champions deal $(amount)% more damage against Wyll's Favored Foes."},
-    "id": 1794,
-    "flavour_text": "",
     "graphic_id": 21725,
     "properties": {
-        "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
-        "per_effect_index_bonuses": true
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -336,30 +360,40 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "stacks_multiply": true,
-        "show_bonus": true,
-        "effect_string": "buff_upgrade,25,13429",
-        "max_stacks": 10,
-        "more_triggers": [
-            {
-                "action": {"type": "add_stack"},
-                "trigger": "monster_killed"
-            },
-            {
-                "action": {"type": "add_stack"},
-                "trigger": "distraction_clicked"
-            },
-            {
-                "action": {"type": "reset_stacks"},
-                "trigger": "area_changed"
-            }
-        ]
-    }],
-    "requirements": "",
-    "description": {"desc": "Each time an enemy or distraction is defeated, Wyll increases the effect of $(upgrade_name id) by $(not_buffed amount)%, stacking multiplicatively up to $(max_stacks) times, until the area changes."},
     "id": 1795,
     "flavour_text": "",
+    "description": {
+        "desc": "Each time an enemy or distraction is defeated, Wyll increases the effect of $(upgrade_name id) by $(not_buffed amount)%, stacking multiplicatively up to $(max_stacks) times, until the area changes."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,25,13429",
+            "show_bonus": true,
+            "stacks_multiply": true,
+            "max_stacks": 10,
+            "more_triggers": [
+                {
+                    "trigger": "monster_killed",
+                    "action": {
+                        "type": "add_stack"
+                    }
+                },
+                {
+                    "trigger": "distraction_clicked",
+                    "action": {
+                        "type": "add_stack"
+                    }
+                },
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset_stacks"
+                    }
+                }
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 21722,
     "properties": {
         "is_formation_ability": true,
@@ -375,40 +409,46 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Pact of the Blade** (Guess)
-> Wyll increases the effect of 13429 by 200% on Champions with a Melee base attack.
+> Wyll increases the effect of 13429},{ by 200% on Champions with a Melee base attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "amount_updated_listeners": [
-            "slot_changed",
-            "attack_changed"
-        ],
-        "off_when_benched": true,
-        "effect_string": "buff_incoming_upgrade,200,13429",
-        "optional_effect_index": 1,
-        "filter_targets": [
-            {
-                "upgrade_id": 13429,
-                "type": "affected_by_upgrade"
-            },
-            {
-                "attack": "melee",
-                "type": "attack_type"
-            }
-        ],
-        "targets": ["all"]
-    }],
-    "requirements": "",
-    "description": {"desc": "Wyll increases the effect of $(upgrade_name upgrade_id) by $(amount)% on Champions with a Melee base attack."},
     "id": 1796,
     "flavour_text": "",
+    "description": {
+        "desc": "Wyll increases the effect of $(upgrade_name upgrade_id) by $(amount)% on Champions with a Melee base attack."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_incoming_upgrade,200,13429",
+            "optional_effect_index": 1,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "affected_by_upgrade",
+                    "upgrade_id": 13429
+                },
+                {
+                    "type": "attack_type",
+                    "attack": "melee"
+                }
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "attack_changed"
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Melee Champions: $num_targets",
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "spec_option_post_apply_info": "Melee Champions: $num_targets"
     }
 }
 </pre>
@@ -423,25 +463,31 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "amount_updated_listeners": ["familiar_changed"],
-        "stacks_multiply": true,
-        "off_when_benched": true,
-        "show_bonus": true,
-        "amount_func": "mult",
-        "stack_func": "per_familiar_in_play",
-        "effect_string": "buff_upgrade,10,13429"
-    }],
-    "requirements": "",
-    "description": {"desc": "Wyll increases the effect of Folk Hero by $(not_buffed amount)% for each Familiar assigned to his party, stacking multiplicatively."},
     "id": 1797,
     "flavour_text": "",
+    "description": {
+        "desc": "Wyll increases the effect of Folk Hero by $(not_buffed amount)% for each Familiar assigned to his party, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,10,13429",
+            "stack_func": "per_familiar_in_play",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "familiar_changed"
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Assigned Familiars: $num_stacks",
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "spec_option_post_apply_info": "Assigned Familiars: $num_stacks"
     }
 }
 </pre>
@@ -456,31 +502,37 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "amount_updated_listeners": [
-            "slot_changed",
-            "feat_changed",
-            "attack_changed"
-        ],
-        "off_when_benched": true,
-        "show_bonus": true,
-        "per_hero_targets": ["all"],
-        "amount_func": "mult",
-        "stack_func": "per_hero_attribute",
-        "use_computed_amount_for_description": true,
-        "per_hero_expr": "has_base_attack_dmg_type_magic",
-        "effect_string": "buff_upgrade,25,13429"
-    }],
-    "requirements": "",
-    "description": {"desc": "Wyll increases the effect of Folk Hero by $(not_buffed amount)% for each Champion in the formation with a Magic base attack, stacking multiplicatively."},
     "id": 1798,
     "flavour_text": "",
+    "description": {
+        "desc": "Wyll increases the effect of Folk Hero by $(not_buffed amount)% for each Champion in the formation with a Magic base attack, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,25,13429",
+            "amount_func": "mult",
+            "show_bonus": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "has_base_attack_dmg_type_magic",
+            "per_hero_targets": [
+                "all"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed",
+                "attack_changed"
+            ],
+            "use_computed_amount_for_description": true
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Magic Champions: $num_stacks",
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "spec_option_post_apply_info": "Magic Champions: $num_stacks"
     }
 }
 </pre>

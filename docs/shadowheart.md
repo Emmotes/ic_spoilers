@@ -102,30 +102,36 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 <p>
 <pre>
 {
+    "id": 701,
+    "name": "Sacred Flame",
     "description": "Shadowheart casts Sacred Flame on a random enemy, dealing 1 hit.",
     "long_description": "",
-    "damage_modifier": 1,
-    "damage_types": ["magic"],
     "graphic_id": 0,
     "target": "random",
-    "aoe_radius": 0,
-    "tags": ["ranged"],
     "num_targets": 1,
-    "animations": [{
-        "projectile_details": {
-            "projectile_hit_graphic_id": 21569,
-            "projectile_speed": 10000,
-            "hash": "220b7624ef8bba01663706bfc0b44e70"
-        },
-        "hit_sound": 133,
-        "shoot_sound": 164,
-        "type": "ranged_attack",
-        "projectile": "pd_generic_projectile",
-        "shoot_frame": 10
-    }],
-    "name": "Sacred Flame",
+    "aoe_radius": 0,
+    "damage_modifier": 1,
     "cooldown": 6,
-    "id": 701
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "shoot_sound": 164,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "220b7624ef8bba01663706bfc0b44e70",
+                "projectile_speed": 10000,
+                "projectile_hit_graphic_id": 21569
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -139,25 +145,31 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 <p>
 <pre>
 {
+    "id": 702,
+    "name": "Guidance",
     "description": "Shadowheart casts Guidance on your BUD-setting Champion, increasing their next attack's damage.",
     "long_description": "",
-    "damage_modifier": 1,
-    "damage_types": ["magic"],
     "graphic_id": 0,
     "target": "none",
-    "aoe_radius": 0,
-    "tags": ["ranged"],
     "num_targets": 0,
-    "animations": [{
-        "no_cooldown_display": false,
-        "no_jump": true,
-        "animation_sequence_name": "attack_b",
-        "type": "melee_attack",
-        "no_damage_display": true
-    }],
-    "name": "Guidance",
+    "aoe_radius": 0,
+    "damage_modifier": 1,
     "cooldown": 6,
-    "id": 702
+    "animations": [
+        {
+            "type": "melee_attack",
+            "no_damage_display": true,
+            "no_jump": true,
+            "no_cooldown_display": false,
+            "animation_sequence_name": "attack_b"
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -172,25 +184,29 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 <p>
 <pre>
 {
+    "id": 703,
+    "name": "Absolute Sanctuary",
     "description": "Shadowheart's mysterious relic prevents all damage for a short while.",
     "long_description": "Shadowheart's mysterious relic strikes back enemies and prevents all damage to your Champions for a short while.",
-    "damage_modifier": 0.03,
-    "damage_types": ["magic"],
     "graphic_id": 21370,
     "target": "all",
+    "num_targets": 0,
     "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 300,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "shadowheart"
+        }
+    ],
     "tags": [
         "ranged",
         "ultimate"
     ],
-    "num_targets": 0,
-    "animations": [{
-        "ultimate": "shadowheart",
-        "type": "ultimate_attack"
-    }],
-    "name": "Absolute Sanctuary",
-    "cooldown": 300,
-    "id": 703
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -204,17 +220,23 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "effect_string": "hero_dps_multiplier_mult,100",
-        "targets": [{
-            "distance": 2,
-            "type": "distance"
-        }]
-    }],
-    "requirements": "",
-    "description": {"desc": "Shadowheart increases the damage of Champions within two slots of her by $(amount)%."},
     "id": 1754,
     "flavour_text": "",
+    "description": {
+        "desc": "Shadowheart increases the damage of Champions within two slots of her by $(amount)%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                {
+                    "type": "distance",
+                    "distance": 2
+                }
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 21366,
     "properties": {
         "is_formation_ability": true,
@@ -235,48 +257,52 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 <p>
 <pre>
 {
+    "id": 1755,
+    "flavour_text": "",
+    "description": {
+        "desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Shadowheart's brain. Shadowheart increases the effect of Twilight Trickery by $(amount)% for each Ceremorphosis stack, stacking multiplicatively."
+    },
     "effect_keys": [
-        {"effect_string": "pre_stack_amount,100"},
         {
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0,13275",
             "amount_expr": "upgrade_amount(13276,0)",
+            "stack_func": "per_ceremorphosis_stacks",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "show_bonus": true,
             "stack_title": "Total Ceremorphosis Stacks",
+            "total_title": "Total Bonus",
+            "desc_forced_order": 2,
             "amount_updated_listeners": [
                 "upgrade_unlocked",
                 "slot_changed",
                 "feat_changed"
-            ],
-            "stacks_multiply": true,
-            "total_title": "Total Bonus",
-            "off_when_benched": true,
-            "show_bonus": true,
-            "amount_func": "mult",
-            "stack_func": "per_ceremorphosis_stacks",
-            "effect_string": "buff_upgrade,0,13275",
-            "desc_forced_order": 2
+            ]
         },
         {
-            "stack_title": "Shadowheart Ceremorphosis Stacks",
-            "manual_stacking": true,
-            "stacks_multiply": false,
             "off_when_benched": true,
             "outgoing_buffs": false,
             "effect_string": "shadowheart_ceremorphosis_stacks,1",
+            "manual_stacking": true,
+            "stacks_multiply": false,
             "show_stacks": true,
+            "stack_title": "Shadowheart Ceremorphosis Stacks",
             "desc_forced_order": 1
         }
     ],
     "requirements": "",
-    "description": {"desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Shadowheart's brain. Shadowheart increases the effect of Twilight Trickery by $(amount)% for each Ceremorphosis stack, stacking multiplicatively."},
-    "id": 1755,
-    "flavour_text": "",
     "graphic_id": 21363,
     "properties": {
-        "indexed_effect_properties": true,
-        "retain_on_slot_changed": true,
         "is_formation_ability": true,
-        "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
-        "per_effect_index_bonuses": true
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -291,14 +317,20 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "effect_string": "heal,10",
-        "targets": ["next_two_col"]
-    }],
-    "requirements": "",
-    "description": {"desc": "Shadowheart heals Champions in the two columns ahead of her for $(amount) every second."},
     "id": 1756,
     "flavour_text": "",
+    "description": {
+        "desc": "Shadowheart heals Champions in the two columns ahead of her for $(amount) every second."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "heal,10",
+            "targets": [
+                "next_two_col"
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 21365,
     "properties": {
         "is_formation_ability": true,
@@ -321,50 +353,60 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 <p>
 <pre>
 {
+    "id": 1757,
+    "flavour_text": "",
+    "description": {
+        "desc": "Shadowheart creates an Illusory Duplicate of herself which hides in the formation and applies Twilight Trickery and Light in the Dark to Champions relative to itself with half the range as normal. The duplicate positions itself in the same formation slot as the Champion in the formation with the highest DEX score. Ties go to the Champion in the highest bench seat.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Illusory Duplicate Source: $shadowheart_illusory_duplicate_target^Twilight Trickery Damage Buff: $shadowheart_twilight_trickery_amount%^Light In The Dark Heal Amount: $shadowheart_light_in_the_dark_amount"
+                }
+            ]
+        }
+    },
     "effect_keys": [
         {
             "off_when_benched": true,
             "effect_string": "shadowheart_invoke_duplicity",
-            "targets": ["self_slot"],
+            "targets": [
+                "self_slot"
+            ],
             "skip_effect_key_desc": true
         },
         {
-            "amount_expr": "upgrade_amount(13275,0)",
             "off_when_benched": true,
-            "use_computed_amount_for_description": true,
             "effect_string": "hero_dps_multiplier_mult,0",
             "override_key_desc": "Twilight Trickery - Increases the damage of $target by $amount%",
-            "targets": [{
-                "distance": 1,
-                "type": "distance"
-            }]
+            "amount_expr": "upgrade_amount(13275,0)",
+            "targets": [
+                {
+                    "type": "distance",
+                    "distance": 1
+                }
+            ],
+            "use_computed_amount_for_description": true
         },
         {
-            "amount_expr": "upgrade_amount(13277,0)",
             "off_when_benched": true,
-            "use_computed_amount_for_description": true,
             "effect_string": "heal,0",
             "override_key_desc": "Light In The Dark - Heals $target for $amount every second",
-            "targets": ["next_col"]
+            "amount_expr": "upgrade_amount(13277,0)",
+            "targets": [
+                "next_col"
+            ],
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
-    "description": {
-        "post": {"conditions": [{
-            "condition": "not static_desc",
-            "desc": "^^Illusory Duplicate Source: $shadowheart_illusory_duplicate_target^Twilight Trickery Damage Buff: $shadowheart_twilight_trickery_amount%^Light In The Dark Heal Amount: $shadowheart_light_in_the_dark_amount"
-        }]},
-        "desc": "Shadowheart creates an Illusory Duplicate of herself which hides in the formation and applies Twilight Trickery and Light in the Dark to Champions relative to itself with half the range as normal. The duplicate positions itself in the same formation slot as the Champion in the formation with the highest DEX score. Ties go to the Champion in the highest bench seat."
-    },
-    "id": 1757,
-    "flavour_text": "",
     "graphic_id": 21364,
     "properties": {
-        "is_positional_ability": true,
-        "indexed_effect_properties": true,
         "is_formation_ability": true,
-        "use_owner_override": true,
+        "is_positional_ability": true,
         "owner_use_outgoing_description": false,
+        "use_owner_override": true,
+        "indexed_effect_properties": true,
         "per_effect_index_bonuses": true
     }
 }
@@ -382,47 +424,59 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 <p>
 <pre>
 {
+    "id": 1758,
+    "flavour_text": "",
+    "description": {
+        "desc": "Shadowheart's base attack is replaced by Guidance. When she casts Guidance, she increases the damage of your BUD-setting Champion's next attack by $(not_buffed amount)%. Stacks multiplicatively up to $(max_stacks) times."
+    },
     "effect_keys": [
         {
-            "stack_title": "Guidance Stacks",
+            "effect_string": "do_nothing,200",
             "stacks_multiply": true,
             "show_bonus": true,
-            "effect_string": "do_nothing,200",
-            "more_triggers": [{
-                "action": {"type": "reset_stacks"},
-                "trigger": "on_broadcast_stacks,shadowheart_guidance_trigger"
-            }],
+            "stacks_on_trigger": "owner_base_attack",
+            "more_triggers": [
+                {
+                    "trigger": "on_broadcast_stacks,shadowheart_guidance_trigger",
+                    "action": {
+                        "type": "reset_stacks"
+                    }
+                }
+            ],
             "max_stacks": 5,
-            "stacks_on_trigger": "owner_base_attack"
+            "stack_title": "Guidance Stacks"
         },
-        {"effect_string": "change_base_attack,702"},
         {
-            "amount_expr": "upgrade_amount(13279,0)",
+            "effect_string": "change_base_attack,702"
+        },
+        {
             "off_when_benched": true,
-            "active_graphic_id": 21571,
             "effect_string": "hero_dps_multiplier_mult,0",
+            "active_graphic_id": 21571,
             "active_graphic_sort": "bottom",
-            "targets": ["bud_setter"]
+            "amount_expr": "upgrade_amount(13279,0)",
+            "targets": [
+                "bud_setter"
+            ]
         },
         {
             "effect_string": "broadcast_on_trigger,shadowheart_guidance_trigger,pre_target_attack",
-            "targets": ["bud_setter"],
-            "skip_effect_key_desc": true
+            "skip_effect_key_desc": true,
+            "targets": [
+                "bud_setter"
+            ]
         }
     ],
     "requirements": "",
-    "description": {"desc": "Shadowheart's base attack is replaced by Guidance. When she casts Guidance, she increases the damage of your BUD-setting Champion's next attack by $(not_buffed amount)%. Stacks multiplicatively up to $(max_stacks) times."},
-    "id": 1758,
-    "flavour_text": "",
     "graphic_id": 0,
     "properties": {
-        "indexed_effect_properties": true,
-        "retain_on_slot_changed": true,
         "is_formation_ability": true,
-        "default_bonus_index": 0,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false,
-        "per_effect_index_bonuses": true
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -437,11 +491,21 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 <p>
 <pre>
 {
-    "effect_keys": [{"effect_string": "buff_upgrade,400,13275"}],
-    "requirements": [{"requirement": "shadowheart_is_duplicity_target"}],
-    "description": {"desc": "If Shadowheart's Illusory Duplicate is placed in the same slot as she is, the effect of Twilight Trickery is increased by $(amount)%."},
     "id": 1759,
     "flavour_text": "",
+    "description": {
+        "desc": "If Shadowheart's Illusory Duplicate is placed in the same slot as she is, the effect of Twilight Trickery is increased by $(amount)%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,400,13275"
+        }
+    ],
+    "requirements": [
+        {
+            "requirement": "shadowheart_is_duplicity_target"
+        }
+    ],
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
@@ -461,21 +525,25 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 <p>
 <pre>
 {
-    "effect_keys": [{
-        "amount_updated_listeners": [
-            "slot_changed",
-            "ability_score_changed"
-        ],
-        "stacks_multiply": true,
-        "show_bonus": true,
-        "amount_func": "mult",
-        "stack_func": "shadowheart_invoke_duplicity_dist",
-        "effect_string": "buff_upgrade,100,13278"
-    }],
-    "requirements": "",
-    "description": {"desc": "The effects of Twilight Trickery and Light In The Dark from Shadowheart's Illusory Duplicate are increased by $(not_buffed amount)% for each formation slot away from Shadowheart the duplicate is (following the shortest path), stacking multiplicatively."},
     "id": 1760,
     "flavour_text": "",
+    "description": {
+        "desc": "The effects of Twilight Trickery and Light In The Dark from Shadowheart's Illusory Duplicate are increased by $(not_buffed amount)% for each formation slot away from Shadowheart the duplicate is (following the shortest path), stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,13278",
+            "amount_func": "mult",
+            "stack_func": "shadowheart_invoke_duplicity_dist",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "ability_score_changed"
+            ]
+        }
+    ],
+    "requirements": "",
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
