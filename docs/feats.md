@@ -198,6 +198,23 @@ For feats that were available in the season pass of prior seasons - please see t
             <span style="margin-right: 8px;">14 Feb 2024</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Donaar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Aasimar Glitch Icon](images/featicons/glitch.png)Aasimar Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">14 Feb 2024</span>
+        </span>
+    </span>
 </span>
 
 # Placeholder Date Feats
