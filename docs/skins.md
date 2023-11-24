@@ -11,20 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Warforged Glitch Birdsong Portrait](images/skin_portraits/warforgedglitchbirdsong.png)Warforged Glitch Birdsong
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">[Weekend](weekends.md) (Guess)</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">24 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Elemental Artemis Portrait](images/skin_portraits/elementalartemis.png)Elemental Artemis
         </span>
         <span class="skinTableSource">

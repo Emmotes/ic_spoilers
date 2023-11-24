@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Glitch in the Multiverse | 24 Nov | **Birdsong** | Asharra | Nayeli | Sentry | Korth | [Feats](feats.md) & [Skin](skins.md) |
 | Stargazing | 01 Dec | **Jang Sao** | Makos | Arkhan | Deekin | Warden | Golden Epic |
 | Rise of Undeath | 08 Dec | **Sisaspia** | Calliope | Jarlaxle | Zorbu | Widdle | Golden Epic |
 | Lost Memories | 15 Dec | **Shadowheart** | Tyril | Minsc | Strongheart | Lae'zel | Golden Epic |

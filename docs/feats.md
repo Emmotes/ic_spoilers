@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Birdsong</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Warforged Glitch Icon](images/featicons/glitch.png)Warforged Glitch
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">Counts as Warforged & +20% to Song of Battle per Unique Race</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">[Weekend](weekends.md)</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">24 Nov 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Artemis</span>
         </span>
         <span class="featTableIcon4">
@@ -54,6 +37,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableEffect">
             <span style="margin-left:8px;padding-right:1px;">+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">29 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Shadowheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Eternal Night's Grace Icon](images/featicons/upgradefa.png)Eternal Night's Grace
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">80% Twilight Trickery</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
@@ -77,6 +77,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">29 Nov 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Shadowheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tadpole Assistance Icon](images/featicons/upgradefa.png)Tadpole Assistance
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">80% Ceremorphosis</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">13 Dec 2023</span>
         </span>
     </span>
     <span class="featTableRow">
