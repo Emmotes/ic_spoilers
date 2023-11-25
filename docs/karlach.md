@@ -583,7 +583,7 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
             "amount_updated_listeners": [
                 "stacks_changed"
             ],
-            "stack_title": "Effective Rage stacks",
+            "stack_title": "Effective Ceremorphosis Stacks",
             "total_title": "Bonus Damage",
             "show_bonus": true
         }
