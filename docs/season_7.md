@@ -910,7 +910,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Increase the range of Divine Sense to affect the three columns behind Selise rather than just two.
+> Increases the range of Divine Sense to affect the three columns behind Selise rather than just two.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -918,7 +918,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1821,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the range of Divine Sense to affect the three columns behind Selise rather than just two."
+        "desc": "Increases the range of Divine Sense to affect the three columns behind Selise rather than just two."
     },
     "effect_keys": [
         {
@@ -1413,9 +1413,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Way of the Brush** (Guess)
-> D'hani keeps track of the total number of enemies she has painted across all time. This tracking persists between resets. D'hani's damage is increased by 0.01% for each enemy she has ever painted, stacking additively.  
-> Total Monsters Painted: `$(dhani_num_lifetime_painted_enemies_v2)`  
-> Total Bonus: `$(dhani_current_damage_bonus_v2)`%.
+> D'hani keeps track of the total number of enemies she has painted across all time. This tracking persists between resets. D'hani's damage is increased by 0.01% for each enemy she has ever painted, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1423,7 +1421,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1802,
     "flavour_text": "",
     "description": {
-        "desc": "$(source_hero) keeps track of the total number of enemies she has painted across all time. This tracking persists between resets. $(source_hero)'s damage is increased by 0.01% for each enemy she has ever painted, stacking additively.^Total Monsters Painted: $(dhani_num_lifetime_painted_enemies_v2)^Total Bonus: $(dhani_current_damage_bonus_v2)%"
+        "desc": "$(source_hero) keeps track of the total number of enemies she has painted across all time. This tracking persists between resets. $(source_hero)'s damage is increased by 0.01% for each enemy she has ever painted, stacking additively."
     },
     "effect_keys": [
         {
