@@ -165,7 +165,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Gnome Glitch Avren
+            ![Gnome Glitch Avren Portrait](images/skin_portraits/gnomeglitchavren.png)Gnome Glitch Avren
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
