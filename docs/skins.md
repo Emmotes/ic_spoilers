@@ -11,48 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Elemental Artemis Portrait](images/skin_portraits/elementalartemis.png)Elemental Artemis
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Elemental Artemis Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">29 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Mind Flayer Shadowheart Portrait](images/skin_portraits/mindflayershadowheart.png)Mind Flayer Shadowheart
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Mind Flayer Shadowheart Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$24.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">29 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Warduck Portrait](images/skin_portraits/warduck.png)Warduck
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Warduck Warduke Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">29 Nov 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Seasonal Strongheart Portrait](images/skin_portraits/seasonalstrongheart.png)Seasonal Strongheart
         </span>
         <span class="skinTableSource">

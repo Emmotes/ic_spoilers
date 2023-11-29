@@ -5,51 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Elemental Artemis Skin & Feat Pack - $9.99  
-Date of release: 29 Nov 2023
-
-Contents:
-
-* Champion: `Artemis Entreri`
-* Skin: `Elemental Artemis`
-* Feat: `Master's Precision` (Artemis)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Artemis Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mind Flayer Shadowheart Theme Pack - $24.99  
-Date of release: 29 Nov 2023
-
-Contents:
-
-* Champion: `Shadowheart`
-* Skin: `Mind Flayer Shadowheart`
-* Feat: `Eternal Night's Grace` (Shadowheart)
-* Familiar: ???
-* Chests: `Gold  Shadowheart Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Warduck Warduke Skin & Feat Pack - $9.99  
-Date of release: 29 Nov 2023
-
-Contents:
-
-* Champion: `Warduke`
-* Skin: `Warduck`
-* Feat: `Taunt` (Warduke)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Warduke Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Champions of Renown: Year 6 All-Star Pack - $54.99  
 Date of release: 06 Dec 2023
 
