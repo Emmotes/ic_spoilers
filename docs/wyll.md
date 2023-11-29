@@ -183,7 +183,7 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Bravado** (Guess)
-> Wyll increases the damage of all Champions that belong to the most represented race, class, or affiliation(s) in the formation by 100%. If there is a tie, all tied groups gain the buff, and Champions who are part of several groups can gain multiple stacks of the buff (up to a max of 4 stacks), stacking multiplicatively. Buffs apply to the pre-stack value.
+> Wyll increases the damage of all Champions that belong to the most represented race, class, or affiliation(s) in the formation by 400%. If there is a tie, all tied groups gain the buff, and Champions who are part of several groups can gain multiple stacks of the buff (up to a max of 4 stacks), stacking multiplicatively. Buffs apply to the pre-stack value.
 >  
 > - Most Represented
 > - Race: `$(most_common_race)`
@@ -210,7 +210,7 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack_amount,100",
+            "effect_string": "pre_stack_amount,400",
             "skip_effect_key_desc": true
         },
         {
