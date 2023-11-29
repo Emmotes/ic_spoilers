@@ -62,7 +62,7 @@ Date of release: 13 Dec 2023
 
 Contents:
 
-* Familiar: ???
+* Familiar: `Glitterbeam the Sunfly`
 * Buff: `Huge Potion of Speed` x2
 * Buff: `Huge Potion of Giant's Strength` x2
 * Buff: `Huge Potion of Clairvoyance` x2
@@ -108,7 +108,7 @@ Contents:
 * Champion: `Wyll`
 * Skin: `Mind Flayer Wyll`
 * Feat: ???
-* Familiar: ???
+* Familiar: `Shovel the Quasit`
 * Chests: `Gold Wyll Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
@@ -138,7 +138,7 @@ Contents:
 * Champion: `Karlach`
 * Skin: ???
 * Feat: ???
-* Familiar: ???
+* Familiar: `Clive the Animated Teddy Bear`
 * Chests: `Gold  Karlach Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
@@ -150,7 +150,7 @@ Date of release: 10 Jan 2024
 
 Contents:
 
-* Familiar: ???
+* Familiar: `Xalimnos the Xorn`
 * Buff: `Huge Potion of Speed` x4
 * Buff: `Huge Potion of Giant's Strength` x4
 * Buff: `Huge Potion of Clairvoyance` x4
