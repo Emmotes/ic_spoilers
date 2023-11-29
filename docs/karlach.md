@@ -155,7 +155,7 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
     "target": "none",
     "num_targets": 1,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "cooldown": 700,
     "animations": [
         {
@@ -316,7 +316,7 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Rage** (Guess)
-> When Karlach attacks or is attacked, she gains a Rage stack, capped at 50}] stacks. Karlach increases the effect of The Fury of Avernus by 25% for each Rage stack, stacking multiplicatively. Stacks are reduced by 60% when changing areas.
+> When Karlach attacks or is attacked, she gains a Rage stack, capped at 50 stacks. Karlach increases the effect of The Fury of Avernus by 25% for each Rage stack, stacking multiplicatively. Stacks are reduced by 60% when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -337,7 +337,17 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
         {
             "effect_string": "karlach_rage",
             "default_reduce_percent": 60,
-            "default_max_stacks": 50
+            "default_max_stacks": 50,
+            "underlay_min_rage": 20,
+            "underlay_index": 2
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "karlach_infernal_engine_underlay",
+            "active_graphic_id": 22013,
+            "overlay_location": "slot",
+            "bottom": true,
+            "overlay_play_mode": "always"
         }
     ],
     "requirements": "",
@@ -381,9 +391,7 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
             "amount_func": "add",
             "stacks_multiply": false,
             "stack_func": "per_other_stack_count",
-            "per_other_stack_count_upgrade_id": 13723,
-            "per_other_stack_count_effect_key_index": 0,
-            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
+            "other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)*upgrade_stacks(13723,0)",
             "min_rage_stacks": 20,
             "amount_updated_listeners": [
                 "stacks_changed"
@@ -399,22 +407,11 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
             "stacks_multiply": false,
             "stack_func": "per_other_stack_count",
             "listen_for_computed_changes": true,
-            "per_other_stack_count_upgrade_id": 13723,
-            "per_other_stack_count_effect_key_index": 0,
-            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)",
+            "other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)",
             "min_rage_stacks": 20,
             "amount_updated_listeners": [
                 "stacks_changed"
-            ],
-            "underlay_index": 3
-        },
-        {
-            "apply_manually": true,
-            "effect_string": "karlach_infernal_engine_underlay",
-            "active_graphic_id": 22013,
-            "overlay_location": "slot",
-            "bottom": true,
-            "overlay_play_mode": "always"
+            ]
         }
     ],
     "requirements": "",
@@ -487,9 +484,7 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
             "amount_func": "mult",
             "stacks_multiply": true,
             "stack_func": "per_other_stack_count",
-            "per_other_stack_count_upgrade_id": 13723,
-            "per_other_stack_count_effect_key_index": 0,
-            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
+            "other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)*upgrade_stacks(13723,0)",
             "min_rage_stacks": 20,
             "amount_updated_listeners": [
                 "stacks_changed"
@@ -536,9 +531,7 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
             "amount_func": "add",
             "stacks_multiply": false,
             "stack_func": "per_other_stack_count",
-            "per_other_stack_count_upgrade_id": 13723,
-            "per_other_stack_count_effect_key_index": 0,
-            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)",
+            "other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)",
             "min_rage_stacks": 20,
             "amount_updated_listeners": [
                 "stacks_changed"
@@ -576,9 +569,7 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
             "amount_func": "mult",
             "stacks_multiply": true,
             "stack_func": "per_other_stack_count",
-            "per_other_stack_count_upgrade_id": 13723,
-            "per_other_stack_count_effect_key_index": 0,
-            "other_stack_count_expr": "clamp(floor(stack_count/min_rage_stacks),0,1)*stack_count",
+            "other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)*upgrade_stacks(13722,0)",
             "min_rage_stacks": 20,
             "amount_updated_listeners": [
                 "stacks_changed"
