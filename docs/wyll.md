@@ -123,7 +123,11 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
                 -200,
                 0
             ],
-            "seq_chargeloop": 1
+            "seq_chargeloop": 1,
+            "attack_sounds": {
+                "melee": 179,
+                "eb": 184
+            }
         }
     ],
     "tags": [
@@ -156,7 +160,7 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
     "target": "none",
     "num_targets": 0,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "cooldown": 400,
     "animations": [
         {
@@ -398,6 +402,64 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Constructs are now one of Wyll's Favored Foes.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1846,
+    "flavour_text": "",
+    "description": {
+        "desc": "Constructs are now one of Wyll's Favored Foes."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,construct"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Undead are now one of Wyll's Favored Foes.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1847,
+    "flavour_text": "",
+    "description": {
+        "desc": "Undead are now one of Wyll's Favored Foes."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,undead"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": false
     }
 }
 </pre>
