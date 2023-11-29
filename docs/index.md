@@ -13,25 +13,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="shadowheart.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Shadowheart Portrait Icon](images/shadowheart/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Shadowheart&nbsp;<span class="indexChampionTableNoLink">- Half-Elf Cleric of Absolute Adversaries</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Simril - 29 November 2023</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="wyll.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
