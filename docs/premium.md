@@ -27,8 +27,8 @@ Contents:
 
 * Champion: `Shadowheart`
 * Skin: `Mind Flayer Shadowheart`
-* Feat: ???
-* Familiar: `Scratch the Dog`
+* Feat: `Eternal Night's Grace` (Shadowheart)
+* Familiar: ???
 * Chests: `Gold  Shadowheart Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
@@ -56,7 +56,7 @@ Date of release: 06 Dec 2023
 Contents:
 
 * Champion: `Lae'zel`
-* Skin: ???
+* Skin: `Seasonal Strongheart`
 * Chests: `Gold Lae'zel Chest` x16 (Shinies x2)
 * Champion: `Strongheart`
 * Chests: `Gold Strongheart Chest` x16 (Shinies x2)
@@ -85,15 +85,136 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Dark Justiciar Shadowheart Party Pack - $19.99  
+Date of release: 13 Dec 2023
+
+Contents:
+
+* Champion: `Shadowheart`
+* Skin: `Dark Justiciar Shadowheart`
+* Feat: `Tadpole Assistance` (Shadowheart)
+* Chests: `Gold  Shadowheart Chest` x7 (Shinies x1)
+* Champion: `Astarion`
+* Chests: `Gold Astarion Chest` x7 (Shinies x1)
+* Champion: `Lae'zel`
+* Chests: `Gold Lae'zel Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Glitterbeam the Sunfly Familiar Pack - $4.99  
 Date of release: 13 Dec 2023
 
 Contents:
 
-* Familiar: `Glitterbeam the Sunfly`
+* Familiar: ???
 * Buff: `Huge Potion of Speed` x2
 * Buff: `Huge Potion of Giant's Strength` x2
 * Buff: `Huge Potion of Clairvoyance` x2
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Mind Flayer Imoen Skin & Feat Pack - $9.99  
+Date of release: 20 Dec 2023
+
+Contents:
+
+* Champion: `Imoen`
+* Skin: `Mind Flayer Imoen`
+* Feat: `Illithid Tadpole` (Imoen)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Imoen Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Mind Flayer Viconia Skin & Feat Pack - $9.99  
+Date of release: 20 Dec 2023
+
+Contents:
+
+* Champion: `Viconia DeVir`
+* Skin: `Mind Flayer Viconia`
+* Feat: `Mother Superior` (Viconia)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Viconia Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Mind Flayer Wyll Theme Pack - $24.99  
+Date of release: 20 Dec 2023
+
+Contents:
+
+* Champion: `Wyll`
+* Skin: `Mind Flayer Wyll`
+* Feat: ???
+* Familiar: ???
+* Chests: `Gold Wyll Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Feywild Fen Skin & Feat Pack - $9.99  
+Date of release: 10 Jan 2024
+
+Contents:
+
+* Champion: `Fen`
+* Skin: ???
+* Feat: `Superior Oath` (Fen)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Fen Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Mind Flayer Karlach Theme Pack - $24.99  
+Date of release: 10 Jan 2024
+
+Contents:
+
+* Champion: `Karlach`
+* Skin: ???
+* Feat: ???
+* Familiar: ???
+* Chests: `Gold  Karlach Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Xalimnos the Xorn Familiar Pack - $9.99  
+Date of release: 10 Jan 2024
+
+Contents:
+
+* Familiar: ???
+* Buff: `Huge Potion of Speed` x4
+* Buff: `Huge Potion of Giant's Strength` x4
+* Buff: `Huge Potion of Clairvoyance` x4
+* Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Spelljammer Pilot Gromma Skin & Feat Pack - $9.99  
+Date of release: 24 Jan 2024
+
+Contents:
+
+* Champion: `Gromma Nander`
+* Skin: ???
+* Feat: `Full Shell` (Gromma)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Gromma Chest` x7 (Shinies x1)
 </div></div>
 
 

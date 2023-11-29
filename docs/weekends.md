@@ -12,6 +12,12 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 | Rise of Undeath | 08 Dec | **Sisaspia** | Calliope | Jarlaxle | Zorbu | Widdle | Golden Epic |
 | Lost Memories | 15 Dec | **Shadowheart** | Tyril | Minsc | Strongheart | Lae'zel | Golden Epic |
 | Memories Gained | 22 Dec | **Astarion** | Celeste | Bruenor | Hew Maan | Shadowheart | Golden Epic |
+| Encrusted Accessories | 29 Dec | **Nrakk** | Asharra | Tyril | Korth | Warden | Golden Epic |
+| The Rivals Arrival | 05 Jan | **D'hani** | Nayeli | Calliope | Shaka | Gazrick | Golden Epic |
+| Misunderstood Heroes | 12 Jan | **Wyll** | Makos | Minsc | Astarion | Lae'zel | Golden Epic |
+| Psychomancer's Allies | 19 Jan | **Selise** | Bruenor | Celeste | Artemis | Virgil | Golden Epic |
+| Fires of Avernus | 26 Jan | **Karlach** | Calliope | Jamilah | Shadowheart | Lae'zel | Golden Epic |
+| Young and the Reckless | 02 Feb | **DM** | Jarlaxle | Spurt | D'hani | Farideh | Golden Epic |
 
 [Back to Top](#top)
 

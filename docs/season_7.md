@@ -60,8 +60,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": "All enemies are pushed back and a wall of light appears in front of the formation for 15 seconds.",
     "long_description": "All enemies are pushed back slightly and then a wall of light appears slightly in front of the formation for 15 seconds. Enemies that pass through the wall of light take damage, are stunned for 5 seconds, and gain a white glow which causes them to miss with 75% of all attacks for 30 seconds.",
     "graphic_id": 10359,
-    "target": "all",
-    "num_targets": 1,
+    "target": "none",
+    "num_targets": 0,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
     "cooldown": 360,
@@ -893,7 +893,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,13743,rivalswaterdeep",
             "stacks_multiply": true,
-            "show_bonus": true
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -1030,15 +1033,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_func": "mult",
             "show_bonus": true,
             "max_stacks": 100,
-            "stacks_on_trigger": "hero_attacked",
-            "more_triggers": [
-                {
-                    "trigger": "area_changed",
-                    "action": {
-                        "type": "reset_stacks"
-                    }
-                }
-            ]
+            "stacks_on_trigger": "hero_attacked"
         }
     ],
     "requirements": "",
@@ -1150,7 +1145,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "buff_upgrade_per_any_tagged_crusader,20,13747,rivalswaterdeep",
             "show_bonus": false,
-            "exclude_self": true
+            "exclude_self": true,
+            "amount_updated_listeners": [
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -1285,7 +1283,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "id": 711,
     "name": "Flurry of Brushes",
-    "description": "The weather clears and D'hani flings sharpened paint brushes at five random enemies dealing damage and applying paint.",
+    "description": "The weather clears and D'hani flings sharpened paint brushes at five random enemies, dealing damage and applying paint.",
     "long_description": "The weather clears and D'hani pulls a quiver of sharpened paint brushes from her robes and flings them out at five random enemies. They deal damage and apply D'hani's paints to all enemies they hit.",
     "graphic_id": 11656,
     "target": "random",
@@ -1414,6 +1412,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Way of the Brush** (Guess)
 > D'hani keeps track of the total number of enemies she has painted across all time. This tracking persists between resets. D'hani's damage is increased by 0.01% for each enemy she has ever painted, stacking additively.
+>  
+> - Total Monsters Painted: `$(dhani_num_lifetime_painted_enemies_v2)`
+> - Total Bonus: `$(dhani_current_damage_bonus_v2)`%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1421,14 +1422,22 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1802,
     "flavour_text": "",
     "description": {
-        "desc": "$(source_hero) keeps track of the total number of enemies she has painted across all time. This tracking persists between resets. $(source_hero)'s damage is increased by 0.01% for each enemy she has ever painted, stacking additively."
+        "desc": "$(source_hero) keeps track of the total number of enemies she has painted across all time. This tracking persists between resets. $(source_hero)'s damage is increased by 0.01% for each enemy she has ever painted, stacking additively.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Total Monsters Painted: $(dhani_num_lifetime_painted_enemies_v2)^Total Bonus: $(dhani_current_damage_bonus_v2)%"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
             "off_when_benched": true,
             "effect_string": "dhani_way_of_the_brush_v2,100,0.01",
             "buff_per_monster": 0.01,
-            "index": 0,
+            "index": 1,
             "buff_with_layers": false
         },
         {
@@ -1441,6 +1450,96 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increase the gold find effect of Splash of Yellow by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1843,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the gold find effect of Splash of Yellow by $(amount)%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,13713,1"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 11654,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increase the damage done by Stroke of Green by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1844,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the damage done by Stroke of Green by $(amount)%"
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,13714,1"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 11655,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increase the bonus damage done to bosses by Blotch of Blue by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1845,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the bonus damage done to bosses by Blotch of Blue by $(amount)%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,13715,2"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 11653,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade"
     }
 }
 </pre>
@@ -1518,7 +1617,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "effect_string": "dhani_green_paint"
                 }
             ],
-            "aoe_damage_percent": 50
+            "aoe_damage_percent": 100
         }
     ],
     "requirements": "",

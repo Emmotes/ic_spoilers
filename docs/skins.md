@@ -53,6 +53,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Seasonal Strongheart Portrait](images/skin_portraits/seasonalstrongheart.png)Seasonal Strongheart
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Champions of Renown: Year 6 All-Star Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$54.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">06 Dec 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Casual Astarion Portrait](images/skin_portraits/casualastarion.png)Casual Astarion
         </span>
         <span class="skinTableSource">
@@ -77,6 +91,48 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">13 Dec 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mind Flayer Imoen Portrait](images/skin_portraits/mindflayerimoen.png)Mind Flayer Imoen
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mind Flayer Imoen Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">20 Dec 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mind Flayer Viconia Portrait](images/skin_portraits/mindflayerviconia.png)Mind Flayer Viconia
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mind Flayer Viconia Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">20 Dec 2023</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mind Flayer Wyll Portrait](images/skin_portraits/mindflayerwyll.png)Mind Flayer Wyll
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mind Flayer Wyll Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$24.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">20 Dec 2023</span>
         </span>
     </span>
     <span class="skinTableRow">
@@ -175,48 +231,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">14 Feb 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Mind Flayer Imoen Portrait](images/skin_portraits/mindflayerimoen.png)Mind Flayer Imoen
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Mind Flayer Viconia Portrait](images/skin_portraits/mindflayerviconia.png)Mind Flayer Viconia
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Seasonal Strongheart Portrait](images/skin_portraits/seasonalstrongheart.png)Seasonal Strongheart
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Winter Holiday Newsletter (Guess)</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
 </span>

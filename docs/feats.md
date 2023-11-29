@@ -115,6 +115,57 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span style="margin-left: 8px;">Imoen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)Illithid Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">25% All Champion Damage & +1 Ceremorphosis Stack</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">20 Dec 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Viconia</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Mother Superior Icon](images/featicons/ceramorph.png)Mother Superior
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">do_nothing & +1 Ceremorphosis Stack</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">20 Dec 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Gazrick</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Moving Shop Icon](images/featicons/upgradefa.png)Moving Shop
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">80% Travelling Merchant</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">03 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span style="margin-left: 8px;">Kent</span>
         </span>
         <span class="featTableIcon3">
@@ -183,13 +234,98 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span style="margin-left: 8px;">Fen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Superior Oath Icon](images/featicons/upgradefa.png)Superior Oath
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">80% Mischievous, but Dangerous</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">10 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Gazrick</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Gromma</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Full Shell Icon](images/featicons/upgradefa.png)Full Shell
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">80% Spiked Shell, Freezing Breeze and Acid Splash</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Miria</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Caged Dreams Icon](images/featicons/upgradefa.png)Caged Dreams
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">80% Soul Cage</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Vi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Mercy Mercy Icon](images/featicons/upgradefa.png)Mercy Mercy
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">80% I Can't Get No Sass-isfaction</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">31 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span style="margin-left: 8px;">Avren</span>
         </span>
         <span class="featTableIcon4">
             ![Gnome Glitch Icon](images/featicons/glitch.png)Gnome Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">&nbsp;</span>
+            <span style="margin-left:8px;padding-right:1px;">Counts as Gnome & +20% to Mirror Image per Gnome</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -206,13 +342,47 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Aasimar Glitch Icon](images/featicons/glitch.png)Aasimar Glitch
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">&nbsp;</span>
+            <span style="margin-left:8px;padding-right:1px;">Counts as Aasimar & +20% to Lead By Example per Aasimar</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">14 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Solaak</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Twin Souls Icon](images/featicons/upgradefa.png)Twin Souls
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">80% Compatriots</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Strongheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dragonborn Glitch Icon](images/featicons/glitch.png)Dragonborn Glitch
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">Counts as Dragonborn & +20% to Justice Needs Champions per Dragonborn</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">06 Mar 2024</span>
         </span>
     </span>
 </span>
@@ -576,23 +746,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Miria</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Caged Dreams Icon](images/featicons/upgradefa.png)Caged Dreams
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">80% Soul Cage</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">01 Jan 2032</span>
