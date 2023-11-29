@@ -129,12 +129,12 @@ Unknown.
                 "percent_height_offset": 10,
                 "rotation_speed": 100
             },
-            "effect_frames": {
-                "projectile": {
-                    "effect_string": "effect_def,1842",
-                    "apply_to_hero": true
-                },
-                "apply_to_hero": true
+            "change_attack": {
+                "attack_ids": [
+                    723,
+                    724,
+                    725
+                ]
             }
         }
     ],
@@ -179,6 +179,13 @@ Unknown.
                 "projectile_speed": 1250,
                 "projectile_graphic_id": 22062,
                 "percent_height_offset": -5
+            },
+            "change_attack": {
+                "attack_ids": [
+                    723,
+                    724,
+                    725
+                ]
             }
         }
     ],
@@ -223,6 +230,13 @@ Unknown.
                 "projectile_speed": 1400,
                 "projectile_graphic_id": 22061,
                 "percent_height_offset": 5
+            },
+            "change_attack": {
+                "attack_ids": [
+                    723,
+                    724,
+                    725
+                ]
             }
         }
     ],
@@ -239,18 +253,20 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Ultimate Hat Trick** (Magic)
-> Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.  
+**Ultimate Attack: Ultimate Hat Trick**
+> Presto takes his hat off and holds it out in front of him, firing an assortment of objects at his opponents.  
 > Cooldown: 4.9s (Cap 1.225s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 726,
     "name": "Ultimate Hat Trick",
-    "description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
-    "long_description": "",
-    "graphic_id": 0,
+    "description": "Presto fires assorted objects from his hat at his enemies.",
+    "long_description": "Presto takes his hat off and holds it out in front of him, firing an assortment of objects at his opponents.",
+    "graphic_id": 22107,
     "target": "random",
     "num_targets": 1,
     "aoe_radius": 0,
@@ -258,50 +274,40 @@ Unknown.
     "cooldown": 4.9,
     "animations": [
         {
-            "type": "ranged_attack",
-            "projectile": "pd_generic_projectile",
-            "shoot_frame": 6,
-            "shoot_sound": 149,
-            "hit_sound": 133,
-            "projectile_details": {
-                "hash": "baja_blast",
-                "projectile_speed": 2000,
-                "projectile_graphic_id": 8003,
-                "trail": {
-                    "particle_graphic_ids": [
-                        8003
-                    ],
-                    "lifespan": 0.5,
-                    "spawn_rate": 250,
-                    "initial_velocity": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "velocity_jitter": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "alpha_lerp": {
-                        "0": 0,
-                        "0.1": 0.75,
-                        "1": 0
-                    },
-                    "scale_lerp": [
-                        {
-                            "x": 1,
-                            "y": 1
-                        },
-                        {
-                            "x": 1,
-                            "y": 1
-                        }
-                    ]
+            "type": "presto_ultimate",
+            "snowball_data": {
+                "slow_effect": {
+                    "effect_string": "monster_speed_reduce,50",
+                    "for_time": "10"
+                },
+                "snow_effect": {
+                    "effect_string": "change_weather",
+                    "weather": "snowing_only"
+                }
+            },
+            "firework_data": {
+                "stun_effect": {
+                    "effect_string": "monster_stun,5"
+                },
+                "fog_effect": {
+                    "effect_string": "change_weather",
+                    "weather": "fog"
+                }
+            },
+            "tornado_data": {
+                "knockback_effect": {
+                    "effect_string": "push_back_monster,25"
+                },
+                "rain_effect": {
+                    "effect_string": "change_weather",
+                    "weather": "rain"
                 }
             }
         }
     ],
     "tags": [
-        "ranged"
+        "ranged",
+        "ultimate"
     ],
     "damage_types": [
         "magic"
@@ -345,7 +351,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Hat of Many Spells** (Guess)
-> Presto increases the damage of Champions in the two columns in front of him by $(amount)%.
+> Presto's attacks cause monsters hit by them to take +$(amount)% damage (for 15 seconds), stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -353,17 +359,87 @@ Unknown.
     "id": 1837,
     "flavour_text": "",
     "description": {
-        "desc": "$source increases the damage of Champions in the two columns in front of him by $(amount)%"
+        "desc": "Presto's attacks cause monsters hit by them to take +$(amount)% damage (for 15 seconds), stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "presto_hat_of_many_spells",
+            "debuff_before_damage": true,
+            "slow_amount": 50,
+            "debuff_duration": 5,
+            "debuffing_attack_ids": [
+                723
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,$slow_amount",
+                    "for_time": "$debuff_duration"
+                }
+            ]
+        },
+        {
+            "effect_string": "presto_hat_of_many_spells",
+            "debuff_before_damage": true,
+            "knockback_amount": 15,
+            "debuffing_attack_ids": [
+                724
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "push_back_monster,$knockback_amount"
+                }
+            ]
+        },
+        {
+            "effect_string": "presto_hat_of_many_spells",
+            "debuff_before_damage": true,
+            "stun_duration": 5,
+            "debuffing_attack_ids": [
+                725
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_stun,$stun_duration"
+                }
+            ]
+        },
+        {
+            "effect_string": "presto_hat_of_many_spells",
+            "debuff_before_damage": true,
+            "debuff_base_amount": 100,
+            "debuff_max_stacks": 5,
+            "debuff_duration": 15,
+            "reset_time_on_reapply": true,
+            "debuffing_attack_ids": [
+                723,
+                724,
+                725
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "increase_monster_damage,$debuff_base_amount",
+                    "active_graphic_id": 22161,
+                    "use_stack_as_frame": true,
+                    "stack_as_frame_offset": -1,
+                    "overlay_play_mode": "stopped",
+                    "bottom": true,
+                    "stacks_on_reapply": true,
+                    "manual_stacking": true,
+                    "max_stacks": "$debuff_max_stacks",
+                    "stacks_multiply": true,
+                    "use_collection_source": true,
+                    "time_stack_type": "time_reset",
+                    "stack_across_effects": false,
+                    "for_time": "$debuff_duration"
+                }
+            ]
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
