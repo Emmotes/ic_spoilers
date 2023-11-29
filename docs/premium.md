@@ -40,7 +40,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Dark Justiciar Shadowheart Party Pack - $19.99  
+### Dark Justiciar Shadowheart Party Pack - $0.0  
 Date of release: 13 Dec 2023
 
 Contents:
