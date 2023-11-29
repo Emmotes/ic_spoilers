@@ -12,35 +12,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                ![Emergence 2 Icon](images/general/e2.png)**Emergence 2** - Modrons
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>24 May 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 Sept 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 Dec 2023 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 ![Season 4 Icon](images/general/s4.png)**Season 4** - Legends of Mithral Hall
             </span>
         </span>
