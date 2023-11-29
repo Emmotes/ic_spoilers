@@ -6,7 +6,7 @@
 
 # Emergence 5
 
-We currently do not know what this Emergence event will be but we do know that it will start on 24 January 2024.
+We know the next Emergence event will be Astral Elves and that it will start on 24 January 2024.
 
 ### Shop Contents
 
