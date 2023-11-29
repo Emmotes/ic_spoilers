@@ -311,8 +311,8 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> Unknown effect.
+**Loyal Bodyguard** (Guess)
+> Minsc gains the Tanking role and is now eligible for this adventure regardless of other restrictions. Dynaheir increases Minsc's base health by 200%, and then further increases his health by 75% for every 50 areas completed in the current adventure, up to area 600. She also increases the health of all Champions, other than Minsc, by 25% of Minsc's max health.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -320,11 +320,11 @@ Unknown.
     "id": 1856,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Minsc gains the Tanking role and is now eligible for this adventure regardless of other restrictions. Dynaheir increases Minsc's base health by $amount%, and then further increases his health by 75% for every 50 areas completed in the current adventure, up to area 600. She also increases the health of all Champions, other than Minsc, by 25% of Minsc's max health"
     },
     "effect_keys": [
         {
-            "effect_string": "dynaheir_loyal_bodyguard",
+            "effect_string": "dynaheir_loyal_bodyguard,200",
             "off_when_benched": true,
             "minsc_effect": "effect_def,1857",
             "minsc_health_mult_amount_expr": "base_amount+75*floor(min(highest_completed_area,600)/50)"
@@ -341,7 +341,10 @@ Unknown.
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true
     }
 }
 </pre>
