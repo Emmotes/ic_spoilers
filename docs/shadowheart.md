@@ -271,7 +271,7 @@ Shadowheart will be the new champion in the Simril event on 29 November 2023.
 </details>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Absolute Sanctuary Icon](images/shadowheart/icon_absolutesanctuary.png) **Ultimate Attack: Absolute Sanctuary** (Level: 9999)
+![Absolute Sanctuary Icon](images/shadowheart/icon_absolutesanctuary.png) **Ultimate Attack: Absolute Sanctuary** (Level: 240)
 > Shadowheart's mysterious relic strikes back enemies and prevents all damage to your Champions for a short while.  
 > Cooldown: 300s (Cap 75s)
 <details><summary><em>Raw Data</em></summary>
