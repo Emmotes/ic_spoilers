@@ -508,12 +508,15 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Dynaheir Console Portrait](images/dynaheir/console.png)Console Portait
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
