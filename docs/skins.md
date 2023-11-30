@@ -42,10 +42,10 @@ Please be aware that the developers recently removed most future skins from the 
             ![Dark Justiciar Shadowheart Portrait](images/skin_portraits/darkjusticiarshadowheart.png)Dark Justiciar Shadowheart
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Dark Justiciar Shadowheart Party Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$0.00</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">13 Dec 2023</span>
