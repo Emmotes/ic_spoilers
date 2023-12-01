@@ -2,6 +2,9 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
+        ![PC Portrait for Dynaheir](images/dynaheir/portrait.png)Portait
+    </span>
+    <span class="championPortraitsImage">
         ![Model GIF of Dynaheir](images/dynaheir/model.gif)Model
     </span>
 </span>
