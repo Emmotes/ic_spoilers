@@ -31,7 +31,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Speaker of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)
+                        <span class="emergenceShopFeatIcon4">![Speaker of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -41,7 +41,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Aggressive Stance Feat Icon](images/featicons/mithralhallstackbonus.png)
+                        <span class="emergenceShopFeatIcon3">![Aggressive Stance Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -51,7 +51,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Vanguard of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)
+                        <span class="emergenceShopFeatIcon4">![Vanguard of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -61,7 +61,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Weapon Swap Feat Icon](images/featicons/mithralhallstackbonus.png)
+                        <span class="emergenceShopFeatIcon3">![Weapon Swap Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -71,7 +71,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Aegis of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)
+                        <span class="emergenceShopFeatIcon4">![Aegis of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -81,7 +81,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Imposing Build Feat Icon](images/featicons/mithralhallstackbonus.png)
+                        <span class="emergenceShopFeatIcon3">![Imposing Build Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -91,7 +91,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Rest Awhile Feat Icon](images/featicons/mithralhallstackbonus.png)
+                        <span class="emergenceShopFeatIcon3">![Rest Awhile Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -101,7 +101,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Advisor of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)
+                        <span class="emergenceShopFeatIcon4">![Advisor of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -111,7 +111,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Battle Expertise Feat Icon](images/featicons/critchanceincrease.png)
+                        <span class="emergenceShopFeatIcon3">![Battle Expertise Feat Icon](images/featicons/critchanceincrease.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -121,7 +121,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)
+                        <span class="emergenceShopFeatIcon4">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -258,7 +258,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Very Important Person Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Very Important Person Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -268,7 +268,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)
+                        <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -370,7 +370,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Waterdeep Investors Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon3">![Waterdeep Investors Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -380,7 +380,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Official Fan Club Card Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Official Fan Club Card Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -390,7 +390,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Yay Lathander! Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon3">![Yay Lathander! Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -400,7 +400,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Friends? Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Friends? Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -410,7 +410,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Sass for Days Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon3">![Sass for Days Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -420,7 +420,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Motivational Keynote Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Motivational Keynote Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -430,7 +430,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Magic Tour Bus Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon3">![Magic Tour Bus Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -440,7 +440,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Training Montage Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Training Montage Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -450,7 +450,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Dead Friends Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon3">![Dead Friends Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -460,7 +460,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Stand Off Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Stand Off Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -597,7 +597,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Research Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon3">![Research Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -607,7 +607,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Iaido Feat Icon](images/featicons/otherabilityincrease.png)
+                        <span class="emergenceShopFeatIcon4">![Iaido Feat Icon](images/featicons/otherabilityincrease.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -617,7 +617,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Hunter's Hex Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon3">![Hunter's Hex Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -627,7 +627,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Fungal Colony Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Fungal Colony Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -637,7 +637,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Chosen of Gith Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon3">![Chosen of Gith Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -647,7 +647,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Wolf Pack Feat Icon](images/featicons/otherabilityincrease.png)
+                        <span class="emergenceShopFeatIcon4">![Wolf Pack Feat Icon](images/featicons/otherabilityincrease.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -657,7 +657,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Actor Feat Icon](images/featicons/attributeboost.png)
+                        <span class="emergenceShopFeatIcon3">![Actor Feat Icon](images/featicons/attributeboost.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -667,7 +667,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Beguiling Hex Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Beguiling Hex Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -677,7 +677,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Nimble Feat Icon](images/featicons/attributeboost.png)
+                        <span class="emergenceShopFeatIcon3">![Nimble Feat Icon](images/featicons/attributeboost.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -687,7 +687,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Centered Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Centered Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -824,7 +824,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Centaur Glitch Feat Icon](images/featicons/glitch.png)
+                        <span class="emergenceShopFeatIcon4">![Centaur Glitch Feat Icon](images/featicons/glitch.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -834,7 +834,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Half-Elf Glitch Feat Icon](images/featicons/glitch.png)
+                        <span class="emergenceShopFeatIcon4">![Half-Elf Glitch Feat Icon](images/featicons/glitch.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -844,7 +844,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Gibbous Script Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Gibbous Script Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -854,7 +854,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Specter of Aeons Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Specter of Aeons Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -964,7 +964,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Eye of the Storm Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Eye of the Storm Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -974,7 +974,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Sentinel Prime Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Sentinel Prime Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -984,7 +984,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Merry Crew Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Merry Crew Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -994,7 +994,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Privileged Background Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Privileged Background Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1004,7 +1004,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Everything's a Nail Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Everything's a Nail Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1122,7 +1122,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Thrill of the Hunt Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Thrill of the Hunt Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1132,7 +1132,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Judge of the Dead Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Judge of the Dead Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1142,7 +1142,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Second Wind Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Second Wind Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1152,7 +1152,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![The Grave Rejects You Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![The Grave Rejects You Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1162,7 +1162,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Prodigal Leader Feat Icon](images/featicons/globaldps.png)
+                        <span class="emergenceShopFeatIcon4">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1281,7 +1281,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Neverwinter Diversity Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Neverwinter Diversity Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1291,7 +1291,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Five Questions Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Five Questions Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1301,7 +1301,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Wisened Friends Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Wisened Friends Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1393,7 +1393,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Harmony Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Harmony Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1403,7 +1403,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Immolation Feat Icon](images/featicons/immolation.png)
+                        <span class="emergenceShopFeatIcon4">![Immolation Feat Icon](images/featicons/immolation.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1413,7 +1413,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Athlete Feat Icon](images/featicons/attributeboost.png)
+                        <span class="emergenceShopFeatIcon3">![Athlete Feat Icon](images/featicons/attributeboost.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1423,7 +1423,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Athlete Feat Icon](images/featicons/attributeboost.png)
+                        <span class="emergenceShopFeatIcon3">![Athlete Feat Icon](images/featicons/attributeboost.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1433,7 +1433,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Calm Under Pressure Feat Icon](images/featicons/overhelm.png)
+                        <span class="emergenceShopFeatIcon3">![Calm Under Pressure Feat Icon](images/featicons/overhelm.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1443,7 +1443,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Dwarven Tradition Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Dwarven Tradition Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1453,7 +1453,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Extra Wasps Feat Icon](images/featicons/spurtult.png)
+                        <span class="emergenceShopFeatIcon3">![Extra Wasps Feat Icon](images/featicons/spurtult.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1463,7 +1463,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Kobold Brethren Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Kobold Brethren Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1473,7 +1473,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![The Path Is Clear Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon3">![The Path Is Clear Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1483,7 +1483,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Shout Above The Din Feat Icon](images/featicons/upgradefa.png)
+                        <span class="emergenceShopFeatIcon4">![Shout Above The Din Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1601,7 +1601,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Entertainer Feat Icon](images/featicons/attributeboostx2.png)
+                        <span class="emergenceShopFeatIcon4">![Entertainer Feat Icon](images/featicons/attributeboostx2.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
