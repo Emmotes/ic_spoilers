@@ -22,15 +22,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Legends of Mithral Hall Chest Chest Icon](images/exclusivities/chest_19737.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Chest**</span>
-                        <span style="margin-left:15px">Legends of Mithral Hall Chest</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Speaker of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -240,15 +231,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mind Flayer Emergence Chest Chest Icon](images/exclusivities/chest_20638.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Chest**</span>
-                        <span style="margin-left:15px">Mind Flayer Emergence Chest</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Very Important Person Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -305,15 +287,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                         <span style="margin-left:15px">Lae'zel (Slot 3)</span>
                     </span>
                 </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Marvelous Support Pigment Icon](images/general/pigmint_support.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Pigmint**</span>
-                        <span style="margin-left:15px">Marvelous Support Pigment</span>
-                    </span>
-                </span>
             </span>
         </span>
         <span class="postSeasonTableRowInner">
@@ -350,15 +323,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
         </span>
         <span id="s5" hidden>
             <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Gold Acquisitions Incorporated Chest Chest Icon](images/exclusivities/chest_18954.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Chest**</span>
-                        <span style="margin-left:15px">Gold Acquisitions Incorporated Chest</span>
-                    </span>
-                </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon3">![Waterdeep Investors Feat Icon](images/featicons/upgradefa.png)</span>
@@ -570,15 +534,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Gold Elemental Rebirth Chest Chest Icon](images/exclusivities/chest_21654.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Chest**</span>
-                        <span style="margin-left:15px">Gold Elemental Rebirth Chest</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon3">![Research Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -788,15 +743,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Glitch Emergence Chest Chest Icon](images/exclusivities/chest_21957.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Chest**</span>
-                        <span style="margin-left:15px">Glitch Emergence Chest</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Centaur Glitch Feat Icon](images/featicons/glitch.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -873,15 +819,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                         <span style="margin-left:15px">Sisaspia (Slot 5)</span>
                     </span>
                 </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Marvelous Support Pigment Icon](images/general/pigmint_support.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Pigmint**</span>
-                        <span style="margin-left:15px">Marvelous Support Pigment</span>
-                    </span>
-                </span>
             </span>
         </span>
         <span class="postSeasonTableRowInner">
@@ -926,15 +863,6 @@ This is the list of recurring events that have had their exclusivity period end.
         </span>
         <span id="s1" hidden>
             <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Gold Aerois Chest Chest Icon](images/exclusivities/chest_16004.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Chest**</span>
-                        <span style="margin-left:15px">Gold Aerois Chest</span>
-                    </span>
-                </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Eye of the Storm Feat Icon](images/featicons/upgradefa.png)</span>
@@ -1084,15 +1012,6 @@ This is the list of recurring events that have had their exclusivity period end.
         </span>
         <span id="s2" hidden>
             <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Gold Flayer Hunter Chest Chest Icon](images/exclusivities/chest_17668.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Chest**</span>
-                        <span style="margin-left:15px">Gold Flayer Hunter Chest</span>
-                    </span>
-                </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Thrill of the Hunt Feat Icon](images/featicons/upgradefa.png)</span>
@@ -1245,15 +1164,6 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Gold Red Wizard Emergence Chest Chest Icon](images/exclusivities/chest_18800.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Chest**</span>
-                        <span style="margin-left:15px">Gold Red Wizard Emergence Chest</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Neverwinter Diversity Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -1310,15 +1220,6 @@ This is the list of recurring events that have had their exclusivity period end.
                         <span style="margin-left:15px">Miria (Slot 2)</span>
                     </span>
                 </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Marvelous Support Pigment Icon](images/general/pigmint_support.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Pigmint**</span>
-                        <span style="margin-left:15px">Marvelous Support Pigment</span>
-                    </span>
-                </span>
             </span>
         </span>
         <span class="postSeasonTableRowInner">
@@ -1355,15 +1256,6 @@ This is the list of recurring events that have had their exclusivity period end.
         </span>
         <span id="s3" hidden>
             <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Gold Ancient Lawbringer Chest Chest Icon](images/exclusivities/chest_18645.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Chest**</span>
-                        <span style="margin-left:15px">Gold Ancient Lawbringer Chest</span>
-                    </span>
-                </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Harmony Feat Icon](images/featicons/upgradefa.png)</span>
@@ -1565,15 +1457,6 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Modron Emergence Chest Chest Icon](images/exclusivities/chest_19374.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Chest**</span>
-                        <span style="margin-left:15px">Modron Emergence Chest</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Entertainer Feat Icon](images/featicons/attributeboostx2.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -1618,15 +1501,6 @@ This is the list of recurring events that have had their exclusivity period end.
                         <span style="margin-left:5px">**Golden Epic**</span>
                         <span style="margin-left:15px">Health</span>
                         <span style="margin-left:15px">Evandra (Slot 2)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Marvelous Support Pigment Icon](images/general/pigmint_support.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Pigmint**</span>
-                        <span style="margin-left:15px">Marvelous Support Pigment</span>
                     </span>
                 </span>
             </span>
