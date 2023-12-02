@@ -169,3 +169,19 @@ function ins(str, index, value) {
 function randInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
 }
+
+function exclusiveToggleContent(id) {
+	var ele=document.getElementById(id);
+	var elea=document.getElementById(id+`a`);
+	var prefix=`<span class="postSeasonTableShowContents">`;
+	var suffix=`</span>`;
+	if (ele!=undefined&&elea!=undefined) {
+		if (ele.hidden) {
+			ele.hidden=false;
+			elea.innerHTML=`${prefix}[hide contents]${suffix}`;
+		} else {
+			ele.hidden=true;
+			elea.innerHTML=`${prefix}[show contents]${suffix}`;
+		}
+	}
+}
