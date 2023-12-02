@@ -202,15 +202,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                         <span style="margin-left:15px">Guenhwyvar's Strike</span>
                     </span>
                 </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Marvelous DPS Pigment Icon](images/general/pigmint_dps.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Pigmint**</span>
-                        <span style="margin-left:15px">Marvelous DPS Pigment</span>
-                    </span>
-                </span>
             </span>
         </span>
         <span class="postSeasonTableRowInner">
@@ -541,15 +532,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                         <span style="margin-left:15px">Golden Sparks</span>
                     </span>
                 </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Marvelous Tanking Pigment Icon](images/general/pigmint_tanking.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Pigmint**</span>
-                        <span style="margin-left:15px">Marvelous Tanking Pigment</span>
-                    </span>
-                </span>
             </span>
         </span>
         <span class="postSeasonTableRowInner">
@@ -766,15 +748,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
                         <span style="margin-left:15px">Bash the Earth Elemental</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Marvelous DPS Pigment Icon](images/general/pigmint_dps.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Pigmint**</span>
-                        <span style="margin-left:15px">Marvelous DPS Pigment</span>
                     </span>
                 </span>
             </span>
