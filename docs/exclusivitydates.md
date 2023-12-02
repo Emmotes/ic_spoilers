@@ -22,32 +22,12 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Speaker of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                        <span class="emergenceShopFeatIcon3">![Rest Awhile Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Speaker of the Hall</span>
-                        <span style="margin-left:15px">Catti-brie (+2 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Aggressive Stance Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Aggressive Stance</span>
-                        <span style="margin-left:15px">Pwent (+1 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Vanguard of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Vanguard of the Hall</span>
-                        <span style="margin-left:15px">Pwent (+2 Mithral Hall Stacks)</span>
+                        <span style="margin-left:15px">Rest Awhile</span>
+                        <span style="margin-left:15px">Regis (+1 Mithral Hall Stacks)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -62,16 +42,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Aegis of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Aegis of the Hall</span>
-                        <span style="margin-left:15px">Wulfgar (+2 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon3">![Imposing Build Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -82,22 +52,12 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Rest Awhile Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                        <span class="emergenceShopFeatIcon3">![Aggressive Stance Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Rest Awhile</span>
-                        <span style="margin-left:15px">Regis (+1 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Advisor of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Advisor of the Hall</span>
-                        <span style="margin-left:15px">Regis (+2 Mithral Hall Stacks)</span>
+                        <span style="margin-left:15px">Aggressive Stance</span>
+                        <span style="margin-left:15px">Pwent (+1 Mithral Hall Stacks)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -112,21 +72,52 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Advisor of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Advisor of the Hall</span>
+                        <span style="margin-left:15px">Regis (+2 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Speaker of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Speaker of the Hall</span>
+                        <span style="margin-left:15px">Catti-brie (+2 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Aegis of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Aegis of the Hall</span>
+                        <span style="margin-left:15px">Wulfgar (+2 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Vanguard of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Vanguard of the Hall</span>
+                        <span style="margin-left:15px">Pwent (+2 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Vicious Damage</span>
                         <span style="margin-left:15px">Artemis (400% Self DPS & Prevent Healing for 10s)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Mythic Wulfgar Skin Icon](images/exclusivities/skin_19338.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Mythic Wulfgar</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -140,15 +131,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mythic Artemis Skin Icon](images/exclusivities/skin_19336.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Mythic Artemis</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         ![Mythic Catti-brie Skin Icon](images/exclusivities/skin_19337.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -158,11 +140,29 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
+                        ![Mythic Wulfgar Skin Icon](images/exclusivities/skin_19338.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Mythic Wulfgar</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
                         ![Mythic Pwent Skin Icon](images/exclusivities/skin_19540.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
                         <span style="margin-left:15px">Mythic Pwent</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Mythic Artemis Skin Icon](images/exclusivities/skin_19336.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Mythic Artemis</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -231,22 +231,22 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Very Important Person Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Very Important Person</span>
-                        <span style="margin-left:15px">Valentine (80% Socialite)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Illithid Tadpole</span>
                         <span style="margin-left:15px">Nrakk (25% All Champion Damage & +1 Ceremorphosis Stack)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Very Important Person Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Very Important Person</span>
+                        <span style="margin-left:15px">Valentine (80% Socialite)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -325,22 +325,12 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Waterdeep Investors Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3">![Dead Friends Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Waterdeep Investors</span>
-                        <span style="margin-left:15px">Omin (40% Well Funded)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Official Fan Club Card Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Official Fan Club Card</span>
-                        <span style="margin-left:15px">Jim (80% Fan Club)</span>
+                        <span style="margin-left:15px">Dead Friends</span>
+                        <span style="margin-left:15px">Strix (40% Haunted)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -355,12 +345,22 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Friends? Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3">![Magic Tour Bus Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Friends?</span>
-                        <span style="margin-left:15px">Strix (80% The Power of Friendship (and Nose Plugs))</span>
+                        <span style="margin-left:15px">Magic Tour Bus</span>
+                        <span style="margin-left:15px">Jim (40% Magical Mystery Tour)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Waterdeep Investors Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Waterdeep Investors</span>
+                        <span style="margin-left:15px">Omin (40% Well Funded)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -375,22 +375,12 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Motivational Keynote Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4">![Friends? Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Motivational Keynote</span>
-                        <span style="margin-left:15px">Omin (80% All Specialisations)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Magic Tour Bus Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Magic Tour Bus</span>
-                        <span style="margin-left:15px">Jim (40% Magical Mystery Tour)</span>
+                        <span style="margin-left:15px">Friends?</span>
+                        <span style="margin-left:15px">Strix (80% The Power of Friendship (and Nose Plugs))</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -405,12 +395,22 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Dead Friends Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4">![Official Fan Club Card Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Dead Friends</span>
-                        <span style="margin-left:15px">Strix (40% Haunted)</span>
+                        <span style="margin-left:15px">Official Fan Club Card</span>
+                        <span style="margin-left:15px">Jim (80% Fan Club)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Motivational Keynote Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Motivational Keynote</span>
+                        <span style="margin-left:15px">Omin (80% All Specialisations)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -425,11 +425,11 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Venture Casual Omin Skin Icon](images/exclusivities/skin_20518.png)
+                        ![Venture Casual Strix Skin Icon](images/exclusivities/skin_20526.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Venture Casual Omin</span>
+                        <span style="margin-left:15px">Venture Casual Strix</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -443,15 +443,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Venture Casual Vi Skin Icon](images/exclusivities/skin_20720.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Venture Casual Vi</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         ![Venture Casual Jim Skin Icon](images/exclusivities/skin_20517.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -461,11 +452,20 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Venture Casual Strix Skin Icon](images/exclusivities/skin_20526.png)
+                        ![Venture Casual Omin Skin Icon](images/exclusivities/skin_20518.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Venture Casual Strix</span>
+                        <span style="margin-left:15px">Venture Casual Omin</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Venture Casual Vi Skin Icon](images/exclusivities/skin_20720.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Venture Casual Vi</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -544,12 +544,12 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Iaido Feat Icon](images/featicons/otherabilityincrease.png)</span>
+                        <span class="emergenceShopFeatIcon3">![Chosen of Gith Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Iaido</span>
-                        <span style="margin-left:15px">Korth (+1 Extra Dex to Samurai Training)</span>
+                        <span style="margin-left:15px">Chosen of Gith</span>
+                        <span style="margin-left:15px">Nrakk (40% All Specialisations)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -564,52 +564,12 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Fungal Colony Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Fungal Colony</span>
-                        <span style="margin-left:15px">Sisaspia (+10 Max Spore Reserve)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Chosen of Gith Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Chosen of Gith</span>
-                        <span style="margin-left:15px">Nrakk (40% All Specialisations)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Wolf Pack Feat Icon](images/featicons/otherabilityincrease.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Wolf Pack</span>
-                        <span style="margin-left:15px">Zorbu (400% Hunter's Pack & Stat: +1 Dexterity)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon3">![Actor Feat Icon](images/featicons/attributeboost.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Actor</span>
                         <span style="margin-left:15px">Korth (Stat: +1 Charisma)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Beguiling Hex Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Beguiling Hex</span>
-                        <span style="margin-left:15px">Warden (+4 Max Hex Stacks)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -624,12 +584,52 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Wolf Pack Feat Icon](images/featicons/otherabilityincrease.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Wolf Pack</span>
+                        <span style="margin-left:15px">Zorbu (400% Hunter's Pack & Stat: +1 Dexterity)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Centered Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Centered</span>
                         <span style="margin-left:15px">Nrakk (80% Ki Master)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Beguiling Hex Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Beguiling Hex</span>
+                        <span style="margin-left:15px">Warden (+4 Max Hex Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Iaido Feat Icon](images/featicons/otherabilityincrease.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Iaido</span>
+                        <span style="margin-left:15px">Korth (+1 Extra Dex to Samurai Training)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Fungal Colony Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Fungal Colony</span>
+                        <span style="margin-left:15px">Sisaspia (+10 Max Spore Reserve)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -643,20 +643,20 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Elemental Warden Skin Icon](images/exclusivities/skin_21452.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Elemental Warden</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         ![Elemental Nrakk Skin Icon](images/exclusivities/skin_21413.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
                         <span style="margin-left:15px">Elemental Nrakk</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Elemental Warden Skin Icon](images/exclusivities/skin_21452.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Elemental Warden</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -753,16 +753,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Half-Elf Glitch Feat Icon](images/featicons/glitch.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Half-Elf Glitch</span>
-                        <span style="margin-left:15px">Sentry (Counts as Half Elf & +20% to Guardian of Solwynn per Half Elf)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Gibbous Script Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -779,6 +769,16 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Specter of Aeons</span>
                         <span style="margin-left:15px">Warden (+2 Max Spectres)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Half-Elf Glitch Feat Icon](images/featicons/glitch.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Half-Elf Glitch</span>
+                        <span style="margin-left:15px">Sentry (Counts as Half Elf & +20% to Guardian of Solwynn per Half Elf)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -801,22 +801,22 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All First Specialisations</span>
-                        <span style="margin-left:15px">Jang Sao (Slot 5)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         ![Golden Epic Icon for Sisaspia Slot 5](images/exclusivities/ge_7224.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
                         <span style="margin-left:15px">Ultimate Damage</span>
                         <span style="margin-left:15px">Sisaspia (Slot 5)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">All First Specialisations</span>
+                        <span style="margin-left:15px">Jang Sao (Slot 5)</span>
                     </span>
                 </span>
             </span>
@@ -865,6 +865,16 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Everything's a Nail Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Everything's a Nail</span>
+                        <span style="margin-left:15px">Aila (80% Aerois Synergy)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Eye of the Storm Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -905,12 +915,20 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Everything's a Nail Feat Icon](images/featicons/upgradefa.png)</span>
+                        ![Champion of Aerois Aila Skin Icon](images/exclusivities/skin_16621.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Everything's a Nail</span>
-                        <span style="margin-left:15px">Aila (80% Aerois Synergy)</span>
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Champion of Aerois Aila</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![H'esper's Avatar Qillek Skin Icon](images/exclusivities/skin_16440.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">H'esper's Avatar Qillek</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -929,24 +947,6 @@ This is the list of recurring events that have had their exclusivity period end.
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
                         <span style="margin-left:15px">Tiangong Nova</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![H'esper's Avatar Qillek Skin Icon](images/exclusivities/skin_16440.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">H'esper's Avatar Qillek</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Champion of Aerois Aila Skin Icon](images/exclusivities/skin_16621.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Champion of Aerois Aila</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -1014,16 +1014,6 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Thrill of the Hunt Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Thrill of the Hunt</span>
-                        <span style="margin-left:15px">Jaheira (80% Fierce Hunter)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Judge of the Dead Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -1044,16 +1034,6 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![The Grave Rejects You Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">The Grave Rejects You</span>
-                        <span style="margin-left:15px">Viconia (150% Yesterday's Undead)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -1064,29 +1044,22 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Flayer Hunter Krydle Skin Icon](images/exclusivities/skin_17766.png)
+                        <span class="emergenceShopFeatIcon4">![Thrill of the Hunt Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Flayer Hunter Krydle</span>
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Thrill of the Hunt</span>
+                        <span style="margin-left:15px">Jaheira (80% Fierce Hunter)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Flayer Hunter Shandie Skin Icon](images/exclusivities/skin_17937.png)
+                        <span class="emergenceShopFeatIcon4">![The Grave Rejects You Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Flayer Hunter Shandie</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Flayer Hunter Viconia Skin Icon](images/exclusivities/skin_17938.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Flayer Hunter Viconia</span>
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">The Grave Rejects You</span>
+                        <span style="margin-left:15px">Viconia (150% Yesterday's Undead)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -1100,11 +1073,38 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
+                        ![Flayer Hunter Shandie Skin Icon](images/exclusivities/skin_17937.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Flayer Hunter Shandie</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Flayer Hunter Krydle Skin Icon](images/exclusivities/skin_17766.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Flayer Hunter Krydle</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
                         ![Flayer Hunter Jaheira Skin Icon](images/exclusivities/skin_17912.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
                         <span style="margin-left:15px">Flayer Hunter Jaheira</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Flayer Hunter Viconia Skin Icon](images/exclusivities/skin_17938.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Flayer Hunter Viconia</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -1164,22 +1164,22 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Neverwinter Diversity Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Neverwinter Diversity</span>
-                        <span style="margin-left:15px">Hew Maan (+3 to Hello, Fellow Humans)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Five Questions Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Five Questions</span>
                         <span style="margin-left:15px">Hitch (80% Ricochet)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Neverwinter Diversity Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Neverwinter Diversity</span>
+                        <span style="margin-left:15px">Hew Maan (+3 to Hello, Fellow Humans)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -1194,20 +1194,20 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Red Wizard Widdle Skin Icon](images/exclusivities/skin_18804.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Red Wizard Widdle</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         ![Red Wizard Calliope Skin Icon](images/exclusivities/skin_18457.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
                         <span style="margin-left:15px">Red Wizard Calliope</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Red Wizard Widdle Skin Icon](images/exclusivities/skin_18804.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Red Wizard Widdle</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -1258,32 +1258,12 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Harmony Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3">![Calm Under Pressure Feat Icon](images/featicons/overhelm.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Harmony</span>
-                        <span style="margin-left:15px">Birdsong (80% Crescendo)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Immolation Feat Icon](images/featicons/immolation.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Immolation</span>
-                        <span style="margin-left:15px">Hew Maan (1s BUD per sec for 5s)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Athlete Feat Icon](images/featicons/attributeboost.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Athlete</span>
-                        <span style="margin-left:15px">Turiel (Stat: +1 Strength)</span>
+                        <span style="margin-left:15px">Calm Under Pressure</span>
+                        <span style="margin-left:15px">Barrowin (+10 Overwhelm)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -1298,26 +1278,6 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Calm Under Pressure Feat Icon](images/featicons/overhelm.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Calm Under Pressure</span>
-                        <span style="margin-left:15px">Barrowin (+10 Overwhelm)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Dwarven Tradition Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Dwarven Tradition</span>
-                        <span style="margin-left:15px">Barrowin (80% Blessed Hammer)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon3">![Extra Wasps Feat Icon](images/featicons/spurtult.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -1328,12 +1288,12 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Kobold Brethren Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3">![Athlete Feat Icon](images/featicons/attributeboost.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Kobold Brethren</span>
-                        <span style="margin-left:15px">Spurt (80% Pack Tactics)</span>
+                        <span style="margin-left:15px">Athlete</span>
+                        <span style="margin-left:15px">Turiel (Stat: +1 Strength)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -1348,6 +1308,36 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Dwarven Tradition Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Dwarven Tradition</span>
+                        <span style="margin-left:15px">Barrowin (80% Blessed Hammer)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Harmony Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Harmony</span>
+                        <span style="margin-left:15px">Birdsong (80% Crescendo)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Kobold Brethren Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Kobold Brethren</span>
+                        <span style="margin-left:15px">Spurt (80% Pack Tactics)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Shout Above The Din Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -1358,11 +1348,30 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Immolation Feat Icon](images/featicons/immolation.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Immolation</span>
+                        <span style="margin-left:15px">Hew Maan (1s BUD per sec for 5s)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
                         ![Ancient Barrowin Skin Icon](images/exclusivities/skin_18802.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
                         <span style="margin-left:15px">Ancient Barrowin</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Lawbringer Birdsong Skin Icon](images/exclusivities/skin_18803.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Lawbringer Birdsong</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -1381,15 +1390,6 @@ This is the list of recurring events that have had their exclusivity period end.
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
                         <span style="margin-left:15px">Ancient Turiel</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Lawbringer Birdsong Skin Icon](images/exclusivities/skin_18803.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Lawbringer Birdsong</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
