@@ -33,6 +33,10 @@ This means the theme this season is Rivals of Waterdeep champions.
 
 ![Season 7 Currency](images/season_7/currency.png)
 
+### Click Skin Icon: Rivals Attack
+
+![Rivals Attack Click Skin Icon](images/season_7/click.png)
+
 # Changes
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
