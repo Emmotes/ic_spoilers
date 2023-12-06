@@ -100,7 +100,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Presto's Hat** (Magic)
 > Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.  
-> Cooldown: 4.9s (Cap 1.225s)
+> Cooldown: 7.5s (Cap 1.875s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -114,7 +114,7 @@ Unknown.
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 4.9,
+    "cooldown": 7.5,
     "animations": [
         {
             "type": "ranged_attack",
@@ -152,7 +152,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Presto's Hat** (Magic)
 > Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.  
-> Cooldown: 4.9s (Cap 1.225s)
+> Cooldown: 7.5s (Cap 1.875s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -166,7 +166,7 @@ Unknown.
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 4.9,
+    "cooldown": 7.5,
     "animations": [
         {
             "type": "ranged_attack",
@@ -203,7 +203,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Presto's Hat** (Magic)
 > Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.  
-> Cooldown: 4.9s (Cap 1.225s)
+> Cooldown: 7.5s (Cap 1.875s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -217,7 +217,7 @@ Unknown.
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 4.9,
+    "cooldown": 7.5,
     "animations": [
         {
             "type": "ranged_attack",
@@ -254,10 +254,8 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Ultimate Hat Trick**
-> Presto takes his hat off and holds it out in front of him, firing an assortment of objects at his opponents.  
-> Cooldown: 4.9s (Cap 1.225s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Presto fires assorted objects from his hat at his enemies, debuffing them and changing the weather.  
+> Cooldown: 400s (Cap 100s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -265,13 +263,13 @@ Unknown.
     "id": 726,
     "name": "Ultimate Hat Trick",
     "description": "Presto fires assorted objects from his hat at his enemies.",
-    "long_description": "Presto takes his hat off and holds it out in front of him, firing an assortment of objects at his opponents.",
+    "long_description": "Presto fires assorted objects from his hat at his enemies, debuffing them and changing the weather.",
     "graphic_id": 22107,
     "target": "random",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 4.9,
+    "cooldown": 400,
     "animations": [
         {
             "type": "presto_ultimate",
@@ -319,7 +317,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Component Scavenger** (Guess)
+**Hesitant Helper** (Guess)
 > Presto increases the damage of Champions in the two columns in front of him by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -351,7 +349,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Hat of Many Spells** (Guess)
-> Presto's attacks cause monsters hit by them to take +$(amount)% damage (for 15 seconds), stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile.
+> Presto's attacks cause monsters hit by them to take +100% damage (for 15 seconds), stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -359,7 +357,7 @@ Unknown.
     "id": 1837,
     "flavour_text": "",
     "description": {
-        "desc": "Presto's attacks cause monsters hit by them to take +$(amount)% damage (for 15 seconds), stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile."
+        "desc": "Presto's attacks cause monsters hit by them to take +$(debuff_base_amount___4)% damage (for 15 seconds), stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile."
     },
     "effect_keys": [
         {
@@ -408,8 +406,6 @@ Unknown.
             "debuff_before_damage": true,
             "debuff_base_amount": 100,
             "debuff_max_stacks": 5,
-            "debuff_duration": 15,
-            "reset_time_on_reapply": true,
             "debuffing_attack_ids": [
                 723,
                 724,
@@ -419,18 +415,17 @@ Unknown.
                 {
                     "effect_string": "increase_monster_damage,$debuff_base_amount",
                     "active_graphic_id": 22161,
+                    "active_graphic_y": -120,
                     "use_stack_as_frame": true,
                     "stack_as_frame_offset": -1,
                     "overlay_play_mode": "stopped",
-                    "bottom": true,
+                    "bottom": false,
                     "stacks_on_reapply": true,
                     "manual_stacking": true,
                     "max_stacks": "$debuff_max_stacks",
                     "stacks_multiply": true,
                     "use_collection_source": true,
-                    "time_stack_type": "time_reset",
-                    "stack_across_effects": false,
-                    "for_time": "$debuff_duration"
+                    "stack_across_effects": false
                 }
             ]
         }
@@ -439,7 +434,10 @@ Unknown.
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -448,8 +446,8 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Hesitant Helper** (Guess)
-> Presto increases the damage of Champions in the two columns in front of him by $(amount)%.
+**Component Scavenger** (Guess)
+> Presto can help scavenge up to 2000 Modron Component Pieces when killing bosses. While this cap is not reached, Presto has a 10% chance of scavenging 1 Modron Component Piece each time a boss is defeated. The cap increases by 20 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -457,17 +455,21 @@ Unknown.
     "id": 1838,
     "flavour_text": "",
     "description": {
-        "desc": "$source increases the damage of Champions in the two columns in front of him by $(amount)%"
+        "desc": "Presto can help scavenge up to $presto_component_scavenger_max Modron Component Pieces when killing bosses. While this cap is not reached, Presto has a 10% chance of scavenging 1 Modron Component Piece each time a boss is defeated. The cap increases by 20 every day.^^$presto_component_scavenger_description"
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "presto_component_scavenger",
+            "default_component_max": 2000,
+            "off_when_benched": true
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "show_owner_incoming": false
     }
 }
 </pre>
@@ -501,7 +503,7 @@ Unknown.
                     "value": 78
                 }
             ],
-            "stack_title": "Magic Champions",
+            "stack_title": "Humble Champions",
             "amount_updated_listeners": [
                 "feat_changed",
                 "slot_changed"
