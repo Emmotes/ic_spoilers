@@ -165,6 +165,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Waterdhavian Virgil Portrait](images/skin_portraits/waterdhavianvirgil.png)Waterdhavian Virgil
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Season 7 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Jan 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Gnome Glitch Avren Portrait](images/skin_portraits/gnomeglitchavren.png)Gnome Glitch Avren
         </span>
         <span class="skinTableSource">
@@ -197,20 +211,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Waterdhavian Virgil Portrait](images/skin_portraits/waterdhavianvirgil.png)Waterdhavian Virgil
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Season 7 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
