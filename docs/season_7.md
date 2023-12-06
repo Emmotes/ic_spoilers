@@ -11,6 +11,7 @@
 * [Kent](#kent)
 * [Virgil](#virgil)
 * [Season Chest Icons](#season-chest-icons)
+* [Miscellaneous Images](#miscellaneous-images)
 <br />
 
 ![Season 7 Icon](images/season_7/icon.png)
@@ -28,14 +29,6 @@ Season 7 will be called `The Rivals` and is expected to start on 03 January 2024
 The five seasonal champions this time around will be Shaka Selise D'hani Kent and Virgil. We know this because the seasonal chest will be `Gold Rivals Chest` and it contains loot for those champions.
 
 This means the theme this season is Rivals of Waterdeep champions.
-
-### Currency Icon
-
-![Season 7 Currency](images/season_7/currency.png)
-
-### Click Skin Icon: Rivals Attack
-
-![Rivals Attack Click Skin Icon](images/season_7/click.png)
 
 # Changes
 
@@ -1716,6 +1709,16 @@ No changes as of yet.
 | Shop | Inventory |
 |---|---|
 | ![Shop Season Chest Icon](images/season_7/chest.png) | ![Inventory Season Chest Icon](images/season_7/chestInv.png) |
+
+# Miscellaneous Images
+
+## Currency Icon
+
+![Season 7 Currency](images/season_7/currency.png)
+
+## Click Skin Icon: Rivals Attack
+
+![Rivals Attack Click Skin Icon](images/season_7/click.png)
 
 [Back to Top](#top)
 
