@@ -25,7 +25,7 @@ Season 7 will be called `The Rivals` and is expected to start on 03 January 2024
 
 ![Shaka Season Portrait](images/season_7/shaka.png)![Selise Season Portrait](images/season_7/selise.png)![D'hani Season Portrait](images/season_7/dhani.png)![Kent Season Portrait](images/season_7/kent.png)![Virgil Season Portrait](images/season_7/virgil.png)
 
-The five seasonal champions this time around will be Shaka Selise D'hani Kent and Virgil. We know this because the seasonal chest will be `Gold Rivals of Waterdeep Chest` and it contains loot for those champions.
+The five seasonal champions this time around will be Shaka Selise D'hani Kent and Virgil. We know this because the seasonal chest will be `Gold Rivals Chest` and it contains loot for those champions.
 
 This means the theme this season is Rivals of Waterdeep champions.
 
@@ -297,7 +297,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 **Celestial Resistance** (Guess)
 > Shaka adds $(amount___3) temporary health to the entire party when changing areas, and refreshes them every 10 seconds. The amount of hit points is increased by 25% for each A Celestial Puzzle slot that is filled properly, stacking additively.
 >  
-> - Total Temporary Health: 10.
+> - Total Temporary Health: 20.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -317,7 +317,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "grant_all_instant_temporary_hp,10",
+            "effect_string": "grant_all_instant_temporary_hp,20",
             "off_when_benched": true,
             "targets": [
                 "all"
@@ -337,7 +337,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "comment": "This effect key is just so we have a base amount for the description. Things that buff celestial resistance should also buff this key.",
-            "effect_string": "do_nothing,10",
+            "effect_string": "do_nothing,20",
             "off_when_benched": true
         },
         {
@@ -609,7 +609,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
-> Increases the effect of Celestial Resistance by 100%.
+> Increases the effect of Celestial Resistance by 70%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -621,10 +621,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,13417"
+            "effect_string": "buff_upgrade,70,13417"
         },
         {
-            "effect_string": "buff_upgrade,100,13417,2"
+            "effect_string": "buff_upgrade,70,13417,2"
         }
     ],
     "requirements": "",
