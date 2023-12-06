@@ -88,12 +88,9 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/presto/formation.png)
 </span>
-{% endcomment %}
 
 # Abilities
 
