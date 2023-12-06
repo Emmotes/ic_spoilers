@@ -146,7 +146,7 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Mizora**
-> Wyll's patron Mizora appears behind him for 15 seconds, increasing his damage and attack rate for the duration.  
+> Wyll's patron Mizora appears behind him for 15 seconds, increasing his attack rate and making him deal ultimate damage for the duration.  
 > Cooldown: 400s (Cap 100s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -154,8 +154,8 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 {
     "id": 709,
     "name": "Mizora",
-    "description": "Mizora increases Wyll's damage and attack rate for 15 seconds.",
-    "long_description": "Wyll's patron Mizora appears behind him for 15 seconds, increasing his damage and attack rate for the duration.",
+    "description": "Mizora causes Wyll to attack faster and deal ultimate damage for 15 seconds.",
+    "long_description": "Wyll's patron Mizora appears behind him for 15 seconds, increasing his attack rate and making him deal ultimate damage for the duration.",
     "graphic_id": 21729,
     "target": "none",
     "num_targets": 0,
