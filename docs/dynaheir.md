@@ -88,12 +88,9 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/dynaheir/formation.png)
 </span>
-{% endcomment %}
 
 # Abilities
 
