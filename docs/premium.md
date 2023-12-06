@@ -5,26 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Champions of Renown: Year 6 All-Star Pack - $54.99  
-Date of release: 06 Dec 2023
-
-Contents:
-
-* Champion: `Lae'zel`
-* Skin: `Seasonal Strongheart`
-* Chests: `Gold Lae'zel Chest` x16 (Shinies x2)
-* Champion: `Strongheart`
-* Chests: `Gold Strongheart Chest` x16 (Shinies x2)
-* Champion: `Antrius`
-* Chests: `Gold Fen Chest` x16 (Shinies x2)
-* Champion: `Miria`
-* Chests: `Gold Miria Chest` x16 (Shinies x2)
-* Champion: `Fen`
-* Chests: `Gold Antrius Chest` x16 (Shinies x2)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Casual Astarion Skin & Feat Pack - $9.99  
 Date of release: 13 Dec 2023
 
@@ -170,6 +150,51 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Gromma Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Mythic Presto Theme Pack - $24.99  
+Date of release: 31 Jan 2024
+
+Contents:
+
+* Champion: `Presto`
+* Skin: ???
+* Feat: ???
+* Familiar: `The White Rabbit`
+* Chests: `Gold  Y7E7 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Spelljammer Pilot Vi Skin & Feat Pack - $9.99  
+Date of release: 31 Jan 2024
+
+Contents:
+
+* Champion: `Vi`
+* Skin: ???
+* Feat: `Mercy Mercy` (Vi)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Vi Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Aasimar Glitch Donaar Skin & Feat Pack - $9.99  
+Date of release: 14 Feb 2024
+
+Contents:
+
+* Champion: `Donaar Blit'zen`
+* Skin: ???
+* Feat: `Aasimar Glitch` (Donaar)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Donaar Chest` x7 (Shinies x1)
 </div></div>
 
 

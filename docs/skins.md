@@ -11,20 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Seasonal Strongheart Portrait](images/skin_portraits/seasonalstrongheart.png)Seasonal Strongheart
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Champions of Renown: Year 6 All-Star Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$54.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">06 Dec 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Casual Astarion Portrait](images/skin_portraits/casualastarion.png)Casual Astarion
         </span>
         <span class="skinTableSource">
@@ -189,6 +175,48 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">14 Feb 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Aasimar Donaar Portrait](images/skin_portraits/aasimardonaar.png)Aasimar Donaar
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Waterdhavian Gazrick Portrait](images/skin_portraits/waterdhaviangazrick.png)Waterdhavian Gazrick
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Waterdhavian Virgil Portrait](images/skin_portraits/waterdhavianvirgil.png)Waterdhavian Virgil
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Season 7 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
 </span>

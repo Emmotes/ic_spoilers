@@ -589,7 +589,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Wolf Pack</span>
-                        <span style="margin-left:15px">Zorbu (400% Hunter's Pack & Stat: +1 Dexterity)</span>
+                        <span style="margin-left:15px">Zorbu (Stat: +1 Dexterity & 400% Hunter's Pack)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
