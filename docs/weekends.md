@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Rise of Undeath | 08 Dec | **Sisaspia** | Calliope | Jarlaxle | Zorbu | Widdle | Golden Epic |
 | Lost Memories | 15 Dec | **Shadowheart** | Tyril | Minsc | Strongheart | Lae'zel | Golden Epic |
 | Memories Gained | 22 Dec | **Astarion** | Celeste | Bruenor | Hew Maan | Shadowheart | Golden Epic |
 | Encrusted Accessories | 29 Dec | **Nrakk** | Asharra | Tyril | Korth | Warden | Golden Epic |
