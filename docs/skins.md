@@ -123,7 +123,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Waterdhavian D'hani
+            ![Waterdhavian D'hani Portrait](images/skin_portraits/waterdhaviandhani.png)Waterdhavian D'hani
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Season 7 (Guess)</span>
@@ -137,7 +137,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Waterdhavian Selise
+            ![Waterdhavian Selise Portrait](images/skin_portraits/waterdhavianselise.png)Waterdhavian Selise
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Season 7 (Guess)</span>
@@ -151,7 +151,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Waterdhavian Shaka
+            ![Waterdhavian Shaka Portrait](images/skin_portraits/waterdhavianshaka.png)Waterdhavian Shaka
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Season 7 (Guess)</span>
