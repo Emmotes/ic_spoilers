@@ -87,7 +87,7 @@ Contents:
 
 * Champion: `Wyll`
 * Skin: `Mind Flayer Wyll`
-* Feat: ???
+* Feat: `Distracting Imps` (Wyll)
 * Familiar: `Shovel the Quasit`
 * Chests: `Gold Wyll Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
@@ -117,7 +117,7 @@ Contents:
 
 * Champion: `Karlach`
 * Skin: `Mind Flayer Karlach`
-* Feat: ???
+* Feat: `Taunt` (Karlach)
 * Familiar: `Clive the Animated Teddy Bear`
 * Chests: `Gold  Karlach Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1

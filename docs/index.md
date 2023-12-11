@@ -21,7 +21,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Wyll&nbsp;<span class="indexChampionTableNoLink">- Human Warlock of Absolute Adversaries (Guess)</span>
+                Wyll&nbsp;<span class="indexChampionTableNoLink">- Human Warlock of Absolute Adversaries</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Wintershield - 20 December 2023</span>
@@ -40,7 +40,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Karlach&nbsp;<span class="indexChampionTableNoLink">- Tiefling Barbarian of Absolute Adversaries (Guess)</span>
+                Karlach&nbsp;<span class="indexChampionTableNoLink">- Tiefling Barbarian of Absolute Adversaries</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Midwinter - 10 January 2024</span>

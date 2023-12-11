@@ -98,6 +98,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span style="margin-left: 8px;">Wyll</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Distracting Imps Icon](images/featicons/impdistraction.png)Distracting Imps
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">Imp distractions will spawn regardless of the current area.</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">20 Dec 2023</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span style="margin-left: 8px;">Gazrick</span>
         </span>
         <span class="featTableIcon4">
@@ -200,6 +217,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span style="margin-left: 8px;">Karlach</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)Taunt
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">400% Self DPS & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">10 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span style="margin-left: 8px;">Gazrick</span>
         </span>
         <span class="featTableIcon4">
@@ -227,6 +261,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span style="margin-right: 8px;">24 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span style="margin-left: 8px;">Karlach</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fiery Tempest Icon](images/featicons/upgradefa.png)Fiery Tempest
+        </span>
+        <span class="featTableEffect">
+            <span style="margin-left:8px;padding-right:1px;">80% The Fury of Avernus</span>
+        </span>
+        <span class="featTableSource">
+            <span style="margin-left: 8px;">???</span>
         </span>
         <span class="featTableDate">
             <span style="margin-right: 8px;">24 Jan 2024</span>
