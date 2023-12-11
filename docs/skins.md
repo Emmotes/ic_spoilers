@@ -193,6 +193,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Aasimar Glitch Donaar Portrait](images/skin_portraits/aasimarglitchdonaar.png)Aasimar Glitch Donaar
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">14 Feb 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Gnome Glitch Avren Portrait](images/skin_portraits/gnomeglitchavren.png)Gnome Glitch Avren
         </span>
         <span class="skinTableSource">
@@ -207,7 +221,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Aasimar Donaar Portrait](images/skin_portraits/aasimardonaar.png)Aasimar Donaar
+            ![Empty Placeholder](images/general/unknown.png)Dragonborn Glitch Strongheart
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -216,7 +230,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-right: 8px;">???</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">06 Mar 2024</span>
         </span>
     </span>
     <span class="skinTableRow">

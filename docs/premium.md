@@ -190,7 +190,7 @@ Date of release: 14 Feb 2024
 Contents:
 
 * Champion: `Donaar Blit'zen`
-* Skin: ???
+* Skin: `Aasimar Glitch Donaar`
 * Feat: `Aasimar Glitch` (Donaar)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
