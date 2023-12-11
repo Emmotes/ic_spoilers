@@ -193,13 +193,83 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Feywild Fen
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Feywild Fen Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">10 Jan 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Karlach
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mind Flayer Karlach Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$24.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">10 Jan 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Spelljammer Pilot Gromma
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Spelljammer Pilot Gromma Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">24 Jan 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Mythic Presto
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mythic Presto Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$24.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">31 Jan 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Spelljammer Pilot Vi
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Spelljammer Pilot Vi Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">31 Jan 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Aasimar Glitch Donaar Portrait](images/skin_portraits/aasimarglitchdonaar.png)Aasimar Glitch Donaar
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Aasimar Glitch Donaar Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$9.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">14 Feb 2024</span>

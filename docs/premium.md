@@ -101,7 +101,7 @@ Date of release: 10 Jan 2024
 Contents:
 
 * Champion: `Fen`
-* Skin: ???
+* Skin: `Feywild Fen`
 * Feat: `Superior Oath` (Fen)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
@@ -116,7 +116,7 @@ Date of release: 10 Jan 2024
 Contents:
 
 * Champion: `Karlach`
-* Skin: ???
+* Skin: `Mind Flayer Karlach`
 * Feat: ???
 * Familiar: `Clive the Animated Teddy Bear`
 * Chests: `Gold  Karlach Chest` x16 (Shinies x2)
@@ -145,7 +145,7 @@ Date of release: 24 Jan 2024
 Contents:
 
 * Champion: `Gromma Nander`
-* Skin: ???
+* Skin: `Spelljammer Pilot Gromma`
 * Feat: `Full Shell` (Gromma)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
@@ -160,7 +160,7 @@ Date of release: 31 Jan 2024
 Contents:
 
 * Champion: `Presto`
-* Skin: ???
+* Skin: `Mythic Presto`
 * Feat: ???
 * Familiar: `The White Rabbit`
 * Chests: `Gold  Y7E7 Chest` x16 (Shinies x2)
@@ -175,7 +175,7 @@ Date of release: 31 Jan 2024
 Contents:
 
 * Champion: `Vi`
-* Skin: ???
+* Skin: `Spelljammer Pilot Vi`
 * Feat: `Mercy Mercy` (Vi)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
