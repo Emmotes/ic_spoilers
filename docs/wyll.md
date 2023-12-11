@@ -471,7 +471,7 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Pact of the Blade** (Guess)
-> Wyll increases the effect of 13429},{ by 200% on Champions with a Melee base attack.
+> Wyll increases the effect of 13429 by 200% on Champions with a Melee base attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
