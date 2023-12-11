@@ -577,7 +577,7 @@ Upgrades:
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Pact of the Blade Icon](images/wyll/icon_pactoftheblade.png) **Pact of the Blade** (Level: 110)
-> Wyll increases the effect of 13429 by 200% on Champions with a Melee base attack.
+> Wyll increases the effect of Folk Hero by 200% on Champions with a Melee base attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
