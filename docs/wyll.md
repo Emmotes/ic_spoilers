@@ -278,11 +278,6 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Folk Hero Icon](images/wyll/icon_folkhero.png) **Folk Hero** (Level: 10)
 > Wyll increases the damage of all Champions that belong to the most represented race, class, or affiliation(s) in the formation by 400%. If there is a tie, all tied groups gain the buff, and Champions who are part of several groups can gain multiple stacks of the buff (up to a max of 4 stacks), stacking multiplicatively. Buffs apply to the pre-stack value.
->  
-> - Most Represented
-> - Race: `$(most_common_race)`
-> - Class: `$(most_common_class)`
-> - Affiliation: .
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>

@@ -293,8 +293,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Celestial Resistance** (Guess)
 > Shaka adds $(amount___3) temporary health to the entire party when changing areas, and refreshes them every 10 seconds. The amount of hit points is increased by 25% for each A Celestial Puzzle slot that is filled properly, stacking additively.
->  
-> - Total Temporary Health: 20.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -746,14 +744,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Divine Sense** (Guess)
-> >  
-> - Aggressive: Champions affected by Divine Sense have their base attack cooldowns reduced by 1s.
->  
-> - Wall: Increases the effects of Divine Sense by 400% when Selise has been attacked in the last 10 seconds. Additionally, Champions in the same column as Selise take 25% less damage from melee and ranged attacks.
->  
-> - Last Resort: Increases the base effect of Vow of Vengeance by 150%. This buff is additively reduced by 10% every 5 seconds Selise is in Last Resort stance, and additively increased by 5% every 5 seconds Selise is not in Last Resort stance. (Current buff amount: 100%)
->  
-> - Current stance: `$(selise_stance)`.
+> Selise increases the damage of Champions in the two columns behind her by 100%. Bonus effects are provided based on Selise's current stance, which can be changed by using her Ultimate Attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1166,7 +1157,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > While in Wall stance, Selise can deflect projectiles back at the enemies that shot/cast them, dealing 6 seconds of BUD-based damage.
-> - She can deflect one attack for each deflection stack she has, and gains deflection stacks by attacking while in Wall stance.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1409,9 +1399,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Way of the Brush** (Guess)
 > D'hani keeps track of the total number of enemies she has painted across all time. This tracking persists between resets. D'hani's damage is increased by 0.01% for each enemy she has ever painted, stacking additively.
->  
-> - Total Monsters Painted: `$(dhani_num_lifetime_painted_enemies_v2)`
-> - Total Bonus: `$(dhani_current_damage_bonus_v2)`%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
