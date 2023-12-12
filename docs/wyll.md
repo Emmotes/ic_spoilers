@@ -283,22 +283,15 @@ Wyll will be the new champion in the Wintershield event on 20 December 2023.
 <pre>
 Upgrades:
        50: 200%
-      100: 200%
       160: 200%
-      260: 100%
       350: 100%
-      440: 100%
       530: 100%
       620: 100%
-      750: 200%
       840: 100%
-      990: 200%
     1,070: 100%
-    1,200: 200%
-    1,300: 100%
-    1,440: 200%
+    1,310: 200%
 
-    Total Upgrade Bonus: 5.60e07%
+    Total Upgrade Bonus: 8.63e04%
 </pre>
 </p>
 </details>
