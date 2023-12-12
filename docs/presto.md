@@ -81,7 +81,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Saturday Morning Squad (Guess)</span>
         </span>
     </span>
 </span>
@@ -107,7 +107,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
     "description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
     "long_description": "",
     "graphic_id": 0,
-    "target": "random",
+    "target": "front",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
@@ -159,7 +159,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
     "description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
     "long_description": "",
     "graphic_id": 0,
-    "target": "random",
+    "target": "front",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
@@ -210,7 +210,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
     "description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
     "long_description": "",
     "graphic_id": 0,
-    "target": "random",
+    "target": "front",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
@@ -258,14 +258,14 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <pre>
 {
     "id": 726,
-    "name": "Ultimate Hat Trick",
+    "name": "A Hatful of Havoc",
     "description": "Presto fires assorted objects from his hat at his enemies.",
     "long_description": "Presto fires assorted objects from his hat at his enemies, debuffing them and changing the weather.",
     "graphic_id": 22107,
     "target": "random",
     "num_targets": 1,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "cooldown": 400,
     "animations": [
         {
@@ -287,7 +287,11 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
                 "fog_effect": {
                     "effect_string": "change_weather",
                     "weather": "fog"
-                }
+                },
+                "firework_position": [
+                    1250,
+                    400
+                ]
             },
             "tornado_data": {
                 "knockback_effect": {
@@ -334,7 +338,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 22102,
     "properties": {
         "is_formation_ability": true
     }
@@ -346,7 +350,11 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Hat of Many Spells** (Guess)
-> Presto's attacks cause monsters hit by them to take +100% damage (for 15 seconds), stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile.
+> Presto's attacks cause monsters hit by them to take +100% damage, stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile.  
+>   
+> Birthday Cake: The monster is slowed by 50% for 5 seconds.  
+> Skateboard: The monster is knocked back a short distance.  
+> Rotary Phone: The monster is stunned for 2.5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -354,7 +362,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
     "id": 1837,
     "flavour_text": "",
     "description": {
-        "desc": "Presto's attacks cause monsters hit by them to take +$(debuff_base_amount___4)% damage (for 15 seconds), stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile."
+        "desc": "Presto's attacks cause monsters hit by them to take +$(debuff_base_amount___4)% damage, stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile.^^Birthday Cake: The monster is slowed by 50% for 5 seconds.^Skateboard: The monster is knocked back a short distance.^Rotary Phone: The monster is stunned for 2.5 seconds."
     },
     "effect_keys": [
         {
@@ -376,6 +384,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
             "effect_string": "presto_hat_of_many_spells",
             "debuff_before_damage": true,
             "knockback_amount": 15,
+            "effect_is_action": true,
             "debuffing_attack_ids": [
                 724
             ],
@@ -388,7 +397,8 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
         {
             "effect_string": "presto_hat_of_many_spells",
             "debuff_before_damage": true,
-            "stun_duration": 5,
+            "stun_duration": 2.5,
+            "effect_is_action": true,
             "debuffing_attack_ids": [
                 725
             ],
@@ -428,7 +438,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 22101,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -462,7 +472,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 22100,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -476,6 +486,41 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Hat Trick** (Guess)
+> Presto's ultimate is unlocked and has a random effect when used.  
+>   
+> Snowballs: Snowballs fire out at all enemies, dealing 1 ultimate hit to each monster and slowing them by 50% for 10 seconds. The weather changes to Snow.  
+> Fireworks: A shower of bright colorful fireworks shoot out and explode all over the battlefield, dealing 1 ultimate hit to all monsters, and stunning them for 5 seconds. The weather changes to Fog.  
+> Tornado: A tornado flies out of the hat and grows in size, dealing 1 hit to all monsters and knocking them back a medium distance. The weather changes to Rain.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1865,
+    "flavour_text": "",
+    "description": {
+        "desc": "Presto's ultimate is unlocked and has a random effect when used.^^Snowballs: Snowballs fire out at all enemies, dealing 1 ultimate hit to each monster and slowing them by 50% for 10 seconds. The weather changes to Snow.^Fireworks: A shower of bright colorful fireworks shoot out and explode all over the battlefield, dealing 1 ultimate hit to all monsters, and stunning them for 5 seconds. The weather changes to Fog.^Tornado: A tornado flies out of the hat and grows in size, dealing 1 hit to all monsters and knocking them back a medium distance. The weather changes to Rain."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "set_ultimate_attack,726"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+# Specialisations
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Humble Heroes** (Guess)
 > Presto increases the damage bonus of Hesitant Helper by 100% for each Champion in the formation with a total ability score of 78 or less.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -484,7 +529,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
     "id": 1839,
     "flavour_text": "",
     "description": {
-        "desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with a total ability score of 78 or less."
+        "desc": "$source increases the damage bonus of Hesitant Helper by $(not_buffed amount)% for each Champion in the formation with a total ability score of 78 or less."
     },
     "effect_keys": [
         {
@@ -503,66 +548,17 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
             "stack_title": "Humble Champions",
             "amount_updated_listeners": [
                 "feat_changed",
-                "slot_changed"
-            ]
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-# Specialisations
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Humble Heroes** (Guess)
-> Presto increases the damage bonus of Hesitant Helper by 100% for each Champion in the formation with an age of 20 or less.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 1840,
-    "flavour_text": "",
-    "description": {
-        "desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with an age of 20 or less."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "buff_upgrade,100,13762",
-            "show_bonus": true,
-            "amount_func": "mult",
-            "stack_func": "per_crusader",
-            "target_filters": [
-                {
-                    "type": "stat_score",
-                    "stat": "age",
-                    "check": "<=",
-                    "value": 20
-                },
-                {
-                    "type": "stat_score",
-                    "stat": "age",
-                    "check": ">=",
-                    "value": 0
-                }
-            ],
-            "stack_title": "Young Champions",
-            "amount_updated_listeners": [
                 "slot_changed",
-                "feat_changed"
+                "ability_score_changed"
             ]
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "spec_option_post_apply_info": "Humble Champions: $num_stacks"
     }
 }
 </pre>
@@ -572,6 +568,45 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Junior Juggernauts** (Guess)
+> Presto increases the damage bonus of Hesitant Helper by 100% for each Champion in the formation with an age of 20 or less.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1840,
+    "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage bonus of Hesitant Helper by $(not_buffed amount)% for each Champion in the formation with an age of 20 or less."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,13762",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "age<=20",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "stack_title": "Young Champions",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "spec_option_post_apply_info": "Young Champions: $num_stacks"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Magical Mastery** (Guess)
 > Presto increases the damage bonus of Hesitant Helper by 100% for each Champion in the formation with a magic attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -580,7 +615,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
     "id": 1841,
     "flavour_text": "",
     "description": {
-        "desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with a magic attack."
+        "desc": "$source increases the damage bonus of Hesitant Helper by $(not_buffed amount)% for each Champion in the formation with a magic attack."
     },
     "effect_keys": [
         {
@@ -604,35 +639,10 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
     "requirements": "",
     "graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "spec_option_post_apply_info": "Magic Champions: $num_stacks"
     }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Magical Mastery** (Guess)
-> Presto increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with a magic attack.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 1842,
-    "flavour_text": "",
-    "description": {
-        "desc": "$source increases the damage bonus of Hesitant Helper by $(amount)% for each Champion in the formation with a magic attack."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "change_base_attack,724",
-            "apply_to_hero": true
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "properties": []
 }
 </pre>
 </p>
