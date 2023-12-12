@@ -156,7 +156,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
     "target": "all",
     "num_targets": 1,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "cooldown": 250,
     "animations": [
         {
@@ -210,7 +210,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
     "target": "highest_health",
     "num_targets": 1,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "cooldown": 250,
     "animations": [
         {
@@ -325,7 +325,10 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
         {
             "effect_string": "pre_stack_amount,400",
             "off_when_benched": true,
-            "retarget_when_any_hero_slot_changed": true
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_ability_score_changed": [
+                "con"
+            ]
         },
         {
             "effect_string": "hero_dps_multiplier_mult,0",
@@ -399,16 +402,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
                 806,
                 885,
                 886,
-                887,
-                1946,
-                1947,
-                1948,
-                1949,
-                1950,
-                1951,
-                1952,
-                1953,
-                1954
+                887
             ],
             "spawn_count": 1,
             "boss_areas": false
@@ -596,7 +590,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
             "off_when_benched": true
         },
         {
-            "effect_string": "increase_ability_score,con,1",
+            "effect_string": "increase_ability_score_not_always_on,con,1",
             "off_when_benched": true,
             "targets": [
                 "adj"
@@ -664,7 +658,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
             "effect_string": "dynaheir_loyal_bodyguard,200",
             "off_when_benched": true,
             "minsc_effect": "effect_def,1857",
-            "minsc_health_mult_amount_expr": "base_amount+75*floor(min(highest_completed_area,600)/50)"
+            "minsc_health_mult_amount_expr": "base_amount*(1+0.75*floor(min(highest_completed_area,600)/50))"
         },
         {
             "effect_string": "force_allow_hero",
@@ -682,7 +676,8 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
         "indexed_effect_properties": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
