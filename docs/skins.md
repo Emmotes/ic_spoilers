@@ -137,7 +137,21 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Waterdhavian Kent
+            ![Waterdhavian Gazrick Portrait](images/skin_portraits/waterdhaviangazrick.png)Waterdhavian Gazrick
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Jan 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Waterdhavian Kent Portrait](images/skin_portraits/waterdhaviankent.png)Waterdhavian Kent
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Season 7 (Guess)</span>
@@ -207,7 +221,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Karlach
+            ![Mind Flayer Karlach Portrait](images/skin_portraits/mindflayerkarlach.png)Mind Flayer Karlach
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Mind Flayer Karlach Theme Pack</span>
@@ -221,7 +235,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Spelljammer Pilot Gromma
+            ![Spelljammer Pilot Gromma Portrait](images/skin_portraits/spelljammerpilotgromma.png)Spelljammer Pilot Gromma
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Spelljammer Pilot Gromma Skin & Feat Pack</span>
@@ -301,20 +315,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">06 Mar 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Waterdhavian Gazrick Portrait](images/skin_portraits/waterdhaviangazrick.png)Waterdhavian Gazrick
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
 </span>

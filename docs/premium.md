@@ -163,7 +163,7 @@ Contents:
 * Skin: `Mythic Presto`
 * Feat: ???
 * Familiar: `The White Rabbit`
-* Chests: `Gold  Y7E7 Chest` x16 (Shinies x2)
+* Chests: `Gold  Presto Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
