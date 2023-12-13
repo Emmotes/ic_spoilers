@@ -315,6 +315,88 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="p323a" onclick="exclusiveToggleContent(`p323`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Premium Pack 323 Icon](images/general/p323.png)**Premium 323** - Dark Justiciar Shadowheart Party Pack
+            </span>
+        </span>
+        <span id="p323" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Astarion Champion Icon](images/exclusivities/hero_astarion.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Champion**</span>
+                        <span style="margin-left:15px">Astarion</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Lae'zel Champion Icon](images/exclusivities/hero_laezel.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Champion**</span>
+                        <span style="margin-left:15px">Lae'zel</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Shadowheart Champion Icon](images/exclusivities/hero_shadowheart.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Champion**</span>
+                        <span style="margin-left:15px">Shadowheart</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Tadpole Assistance Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Tadpole Assistance</span>
+                        <span style="margin-left:15px">Shadowheart (80% Ceremorphosis)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Dark Justiciar Shadowheart Skin Icon](images/exclusivities/skin_21770.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Dark Justiciar Shadowheart</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>13 December 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>10 January 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>10 April 2024 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="s5a" onclick="exclusiveToggleContent(`s5`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
