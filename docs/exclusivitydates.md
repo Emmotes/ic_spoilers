@@ -325,33 +325,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Astarion Champion Icon](images/exclusivities/hero_astarion.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Champion**</span>
-                        <span style="margin-left:15px">Astarion</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Lae'zel Champion Icon](images/exclusivities/hero_laezel.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Champion**</span>
-                        <span style="margin-left:15px">Lae'zel</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Shadowheart Champion Icon](images/exclusivities/hero_shadowheart.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Champion**</span>
-                        <span style="margin-left:15px">Shadowheart</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="emergenceShopFeatIcon4">![Tadpole Assistance Feat Icon](images/featicons/upgradefa.png)</span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
