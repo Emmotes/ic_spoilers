@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Shadowheart</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Tadpole Assistance Icon](images/featicons/upgradefa.png)Tadpole Assistance
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">80% Ceremorphosis</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">13 Dec 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Astarion</span>
         </span>
         <span class="featTableIcon4">
