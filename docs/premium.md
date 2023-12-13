@@ -5,51 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Casual Astarion Skin & Feat Pack - $9.99  
-Date of release: 13 Dec 2023
-
-Contents:
-
-* Champion: `Astarion`
-* Skin: `Casual Astarion`
-* Feat: `Tempting Power` (Astarion)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Astarion Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Dark Justiciar Shadowheart Party Pack - $0.0  
-Date of release: 13 Dec 2023
-
-Contents:
-
-* Champion: `Shadowheart`
-* Skin: `Dark Justiciar Shadowheart`
-* Feat: `Tadpole Assistance` (Shadowheart)
-* Chests: `Gold  Shadowheart Chest` x7 (Shinies x1)
-* Champion: `Astarion`
-* Chests: `Gold Astarion Chest` x7 (Shinies x1)
-* Champion: `Lae'zel`
-* Chests: `Gold Lae'zel Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Glitterbeam the Sunfly Familiar Pack - $4.99  
-Date of release: 13 Dec 2023
-
-Contents:
-
-* Familiar: `Glitterbeam the Sunfly`
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Mind Flayer Imoen Skin & Feat Pack - $9.99  
 Date of release: 20 Dec 2023
 

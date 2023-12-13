@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Casual Astarion Portrait](images/skin_portraits/casualastarion.png)Casual Astarion
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Casual Astarion Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">13 Dec 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Dark Justiciar Shadowheart Portrait](images/skin_portraits/darkjusticiarshadowheart.png)Dark Justiciar Shadowheart
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Dark Justiciar Shadowheart Party Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$0.00</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">13 Dec 2023</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Mind Flayer Imoen Portrait](images/skin_portraits/mindflayerimoen.png)Mind Flayer Imoen
         </span>
         <span class="skinTableSource">
