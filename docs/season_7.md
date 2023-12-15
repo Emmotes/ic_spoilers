@@ -30,6 +30,8 @@ The five seasonal champions this time around will be Shaka Selise D'hani Kent an
 
 This means the theme this season is Rivals of Waterdeep champions.
 
+![Season 7 Ad Panel](images/season_7/adpanel.png)
+
 # Changes
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
