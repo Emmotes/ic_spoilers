@@ -399,10 +399,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
             "monster_ids": [
                 804,
                 805,
-                806,
-                885,
-                886,
-                887
+                806
             ],
             "spawn_count": 1,
             "boss_areas": false
@@ -515,7 +512,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
     },
     "effect_keys": [
         {
-            "effect_string": "increase_overwhelm_to,25",
+            "effect_string": "base_overwhelm,25",
             "off_when_benched": true,
             "targets": [
                 "front_column"
@@ -527,7 +524,8 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
     "graphic_id": 22270,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "type": "do_not_buff_pls"
     }
 }
 </pre>
@@ -603,7 +601,8 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
         "is_formation_ability": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "indexed_effect_properties": true
+        "indexed_effect_properties": true,
+        "type": "do_not_buff_pls"
     }
 }
 </pre>
@@ -658,7 +657,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
             "effect_string": "dynaheir_loyal_bodyguard,200",
             "off_when_benched": true,
             "minsc_effect": "effect_def,1857",
-            "minsc_health_mult_amount_expr": "base_amount*(1+0.75*floor(min(highest_completed_area,600)/50))"
+            "minsc_health_mult_amount_expr": "(base_amount/100+1)*pow(1.75,floor(min(highest_completed_area,600)/50))"
         },
         {
             "effect_string": "force_allow_hero",
