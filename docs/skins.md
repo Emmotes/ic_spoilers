@@ -179,7 +179,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Feywild Fen
+            ![Feywild Fen Portrait](images/skin_portraits/feywildfen.png)Feywild Fen
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Feywild Fen Skin & Feat Pack</span>
@@ -221,7 +221,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Mythic Presto
+            ![Mythic Presto Portrait](images/skin_portraits/mythicpresto.png)Mythic Presto
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Mythic Presto Theme Pack</span>
@@ -277,6 +277,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Baldur's Gate Dynaheir Portrait](images/skin_portraits/baldursgatedynaheir.png)Baldur's Gate Dynaheir
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Dragonborn Glitch Strongheart Portrait](images/skin_portraits/dragonbornglitchstrongheart.png)Dragonborn Glitch Strongheart
         </span>
         <span class="skinTableSource">
@@ -287,6 +301,20 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">06 Mar 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Tiefling Glitch Miria Portrait](images/skin_portraits/tieflingglitchmiria.png)Tiefling Glitch Miria
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
 </span>

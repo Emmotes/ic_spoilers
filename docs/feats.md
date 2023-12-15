@@ -53,7 +53,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Mother Superior Icon](images/featicons/ceramorph.png)Mother Superior
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">do_nothing & +1 Ceremorphosis Stack</span>
+            <span style="margin-left:8px;padding-right:1px;">25% All Champion Damage & +1 Ceremorphosis Stack</span>
         </span>
         <span class="featTableSource">
             <span style="margin-left: 8px;">50,000 Gems</span>
