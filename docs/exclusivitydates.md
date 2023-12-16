@@ -318,7 +318,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <a id="p323a" onclick="exclusiveToggleContent(`p323`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![Premium Pack 323 Icon](images/general/p323.png)**Premium 323** - Dark Justiciar Shadowheart Party Pack
+                ![Premium Pack 323 Icon](images/general/p323.png)**EGS Giveaway** - Dark Justiciar Shadowheart Party Pack
             </span>
         </span>
         <span id="p323" hidden>
