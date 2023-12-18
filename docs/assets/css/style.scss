@@ -631,7 +631,7 @@ code{
 	margin: 5px;
 	object-fit: scale-down;
 }
-.postSeasonTableTitle,.postSeasonTableDateHeader,.postSeasonTableDate {
+.postSeasonTableTitle,.postSeasonTableDateHeader,.postSeasonTableDate,.postSeasonTableDateLate {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -663,8 +663,11 @@ code{
 	margin: 5px;
 	margin-right: 10px;
 }
-.postSeasonTableDateHeader,.postSeasonTableDate {
+.postSeasonTableDateHeader,.postSeasonTableDate,.postSeasonTableDateLate {
 	background-color: #1a1a1a;
+}
+.postSeasonTableDateLate {
+	color: #f04735;
 }
 .championPortraitsRow {
 	display: flex;

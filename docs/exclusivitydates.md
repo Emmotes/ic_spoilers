@@ -12,6 +12,51 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Giveaway Early Astarion & Acquisitions Incorporated Renown Pack Icon](images/general/g1.png)**Early Astarion & Acquisitions Incorporated Renown Pack** - Steam Giveaway
+            </span>
+        </span>
+        <span id="g1" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Jim Darkmagic's Dove Familiar Icon](images/exclusivities/fam_167.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Jim Darkmagic's Dove</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>04 September 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>11 September 2023</span>
+            </span>
+            <span class="postSeasonTableDateLate">
+                <span>11 December 2023 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="s4a" onclick="exclusiveToggleContent(`s4`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -315,13 +360,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="p323a" onclick="exclusiveToggleContent(`p323`)">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![Premium Pack 323 Icon](images/general/p323.png)**EGS Giveaway** - Dark Justiciar Shadowheart Party Pack
+                ![Giveaway Dark Justiciar Shadowheart Party Pack Icon](images/general/g2.png)**Dark Justiciar Shadowheart Party Pack** - EGS Giveaway
             </span>
         </span>
-        <span id="p323" hidden>
+        <span id="g2" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
