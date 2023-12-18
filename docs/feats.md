@@ -1265,25 +1265,119 @@ These are the feats that have been filtered out of the list above due to having 
 
 # Seat Swap Feats
 
-<span style="font-size:1.2em;">ⓘ</span> **Update**: According to Dev Insights (and remember - what they say doesn't always match what they do) - these seat swap feats have been mothballed because they were too `technically complicated` to implement. So just be aware that they might never come to fruition.  
+<span style="font-size:1.2em;">ⓘ</span> **Update**: According to Dev Insights these seat swap feats have been mothballed because they were too `technically complicated` to implement. So just be aware that they might never come to fruition.  
 Source: [Developer Insights Ep89 07:13-09:00](https://www.youtube.com/watch?v=NwqQh1LKczM&t=433s)
 
-These icons entered the defines a while ago - and we recently got the first appearance of a feat that uses them. Given that - it seems that these will be handed out sparingly to select champions that specifically allow them to move to one specific seat. I highly doubt they'll be a free-for-all.
-
-| Icon | Icon Name | Raw |
-|---|---|---|
-| ![Swap Seat 1 Icon](images/featicons/swapseat1.png) | Swap Seat 1 | `Icons/Feats/Icon_Feat_SwapSeat1` |
-| ![Swap Seat 2 Icon](images/featicons/swapseat2.png) | Swap Seat 2 | `Icons/Feats/Icon_Feat_SwapSeat2` |
-| ![Swap Seat 3 Icon](images/featicons/swapseat3.png) | Swap Seat 3 | `Icons/Feats/Icon_Feat_SwapSeat3` |
-| ![Swap Seat 4 Icon](images/featicons/swapseat4.png) | Swap Seat 4 | `Icons/Feats/Icon_Feat_SwapSeat4` |
-| ![Swap Seat 5 Icon](images/featicons/swapseat5.png) | Swap Seat 5 | `Icons/Feats/Icon_Feat_SwapSeat5` |
-| ![Swap Seat 6 Icon](images/featicons/swapseat6.png) | Swap Seat 6 | `Icons/Feats/Icon_Feat_SwapSeat6` |
-| ![Swap Seat 7 Icon](images/featicons/swapseat7.png) | Swap Seat 7 | `Icons/Feats/Icon_Feat_SwapSeat7` |
-| ![Swap Seat 8 Icon](images/featicons/swapseat8.png) | Swap Seat 8 | `Icons/Feats/Icon_Feat_SwapSeat8` |
-| ![Swap Seat 9 Icon](images/featicons/swapseat9.png) | Swap Seat 9 | `Icons/Feats/Icon_Feat_SwapSeat9` |
-| ![Swap Seat 10 Icon](images/featicons/swapseat10.png) | Swap Seat 10 | `Icons/Feats/Icon_Feat_SwapSeat10` |
-| ![Swap Seat 11 Icon](images/featicons/swapseat11.png) | Swap Seat 11 | `Icons/Feats/Icon_Feat_SwapSeat11` |
-| ![Swap Seat 12 Icon](images/featicons/swapseat12.png) | Swap Seat 12 | `Icons/Feats/Icon_Feat_SwapSeat12` |
+<span class="emergenceShopTableRow">
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 1 Icon](images/featicons/swapseat1.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 1**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat1</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 2 Icon](images/featicons/swapseat2.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 2**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat2</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 3 Icon](images/featicons/swapseat3.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 3**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat3</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 4 Icon](images/featicons/swapseat4.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 4**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat4</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 5 Icon](images/featicons/swapseat5.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 5**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat5</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 6 Icon](images/featicons/swapseat6.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 6**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat6</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 7 Icon](images/featicons/swapseat7.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 7**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat7</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 8 Icon](images/featicons/swapseat8.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 8**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat8</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 9 Icon](images/featicons/swapseat9.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 9**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat9</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 10 Icon](images/featicons/swapseat10.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 10**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat10</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 11 Icon](images/featicons/swapseat11.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 11**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat11</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5">![Swap Seat 12 Icon](images/featicons/swapseat12.png)</span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Swap Seat 12**</span>
+            <span style="margin-left:15px">Icon_Feat_SwapSeat12</span>
+        </span>
+    </span>
+</span>
 
 [Back to Top](#top)
 
