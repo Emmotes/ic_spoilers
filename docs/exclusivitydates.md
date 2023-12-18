@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-# Recurring Event Exclusivity Dates
+# Exclusivity Dates
 
 When a season ends - most of the items that were available in the season pass track become exclusive and unavailable for a period of six months - at which point they become available again. Usually this means everything goes into Wild Offers (including the feats) while feats also become available for gems.
 

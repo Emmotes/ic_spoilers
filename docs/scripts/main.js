@@ -13,7 +13,7 @@ const nnm = {
 	map: new Map()
 };
 
-rrm.map.set("Recurring Event Exclusivity Dates","Dates and Crap");
+rrm.map.set("Exclusivity Dates","Dates and Crap");
 rrm.map.set("Premium Packs and DLC", "Shop Cash Packs");
 rrm.map.set("Turn of Fortune’s Wheel", "New Main Campaign");
 

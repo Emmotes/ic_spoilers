@@ -98,7 +98,7 @@ Not events events - but events. You know?
 * [Emergence 5](emergence_5.md) - 24 January 2024
 * Season 8 - 28 February 2024
 * Emergence 6 - ???
-* [Recurring Event Exclusivity Dates](exclusivitydates.md)
+* [Exclusivity Dates](exclusivitydates.md)
 
 # Misc
 
