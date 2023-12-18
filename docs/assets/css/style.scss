@@ -662,6 +662,9 @@ code{
 .postSeasonTableTitle img {
 	margin: 5px;
 	margin-right: 10px;
+	width: 64px;
+	height: 64px;
+	object-fit: scale-down;
 }
 .postSeasonTableDateHeader,.postSeasonTableDate,.postSeasonTableDateLate {
 	background-color: #1a1a1a;

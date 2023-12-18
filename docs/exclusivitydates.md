@@ -15,7 +15,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![Giveaway Early Astarion & Acquisitions Incorporated Renown Pack Icon](images/general/g1.png)**Early Astarion & Acquisitions Incorporated Renown Pack** - Steam Giveaway
+                ![Giveaway Early Astarion & Acquisitions Incorporated Renown Pack Icon](images/general/steam.png)**Steam Giveaway** - Early Astarion & Acquisitions Incorporated Renown Pack
             </span>
         </span>
         <span id="g1" hidden>
@@ -363,7 +363,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![Giveaway Dark Justiciar Shadowheart Party Pack Icon](images/general/g2.png)**Dark Justiciar Shadowheart Party Pack** - EGS Giveaway
+                ![Giveaway Dark Justiciar Shadowheart Party Pack Icon](images/general/egs.png)**EGS Giveaway** - Dark Justiciar Shadowheart Party Pack
             </span>
         </span>
         <span id="g2" hidden>
