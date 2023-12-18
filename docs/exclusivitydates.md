@@ -50,7 +50,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <span>11 September 2023</span>
             </span>
             <span class="postSeasonTableDateLate">
-                <span>11 December 2023 (Guess)</span>
+                <span>11 December 2023 (Guess) (Late)</span>
             </span>
         </span>
     </span>
