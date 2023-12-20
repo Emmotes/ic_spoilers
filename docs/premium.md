@@ -5,51 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mind Flayer Imoen Skin & Feat Pack - $9.99  
-Date of release: 20 Dec 2023
-
-Contents:
-
-* Champion: `Imoen`
-* Skin: `Mind Flayer Imoen`
-* Feat: `Illithid Tadpole` (Imoen)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Imoen Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mind Flayer Viconia Skin & Feat Pack - $9.99  
-Date of release: 20 Dec 2023
-
-Contents:
-
-* Champion: `Viconia DeVir`
-* Skin: `Mind Flayer Viconia`
-* Feat: `Mother Superior` (Viconia)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Viconia Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mind Flayer Wyll Theme Pack - $24.99  
-Date of release: 20 Dec 2023
-
-Contents:
-
-* Champion: `Wyll`
-* Skin: `Mind Flayer Wyll`
-* Feat: `Distracting Imps` (Wyll)
-* Familiar: `Shovel the Quasit`
-* Chests: `Gold Wyll Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Feywild Fen Skin & Feat Pack - $9.99  
 Date of release: 10 Jan 2024
 
