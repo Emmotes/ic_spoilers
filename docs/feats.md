@@ -30,57 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span style="margin-left: 8px;">Imoen</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)Illithid Tadpole
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">25% All Champion Damage & +1 Ceremorphosis Stack</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">20 Dec 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Viconia</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Mother Superior Icon](images/featicons/ceramorph.png)Mother Superior
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">25% All Champion Damage & +1 Ceremorphosis Stack</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">20 Dec 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span style="margin-left: 8px;">Wyll</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Distracting Imps Icon](images/featicons/impdistraction.png)Distracting Imps
-        </span>
-        <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">Imp distractions will spawn regardless of the current area.</span>
-        </span>
-        <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span style="margin-right: 8px;">20 Dec 2023</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span style="margin-left: 8px;">Gazrick</span>
         </span>
         <span class="featTableIcon4">
