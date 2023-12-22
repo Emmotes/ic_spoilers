@@ -688,59 +688,59 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
 
 <span class="itemTableColumn">
     <span class="itemTableRowHeader">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span style="margin-left:8px;">**Icons**</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">**Name**</span>
+            **Name**
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Rashemen Delicacies Icon](images/dynaheir/22297.png)</span><span class="itemTableIcon2">![Rashemen Delicacies Icon](images/dynaheir/22297.png)</span><span class="itemTableIcon3">![Rashemen Delicacies Icon](images/dynaheir/22298.png)</span><span class="itemTableIcon4">![Rashemen Delicacies Icon](images/dynaheir/22299.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Rashemen Delicacies</span>
+            Rashemen Delicacies
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Red Wizard Trophy Icon](images/dynaheir/22300.png)</span><span class="itemTableIcon2">![Red Wizard Trophy Icon](images/dynaheir/22300.png)</span><span class="itemTableIcon3">![Red Wizard Trophy Icon](images/dynaheir/22301.png)</span><span class="itemTableIcon4">![Red Wizard Trophy Icon](images/dynaheir/22302.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Red Wizard Trophy</span>
+            Red Wizard Trophy
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Robe Icon](images/dynaheir/22303.png)</span><span class="itemTableIcon2">![Robe Icon](images/dynaheir/22303.png)</span><span class="itemTableIcon3">![Robe Icon](images/dynaheir/22304.png)</span><span class="itemTableIcon4">![Robe Icon](images/dynaheir/22305.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Robe</span>
+            Robe
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Sling Icon](images/dynaheir/22306.png)</span><span class="itemTableIcon2">![Sling Icon](images/dynaheir/22306.png)</span><span class="itemTableIcon3">![Sling Icon](images/dynaheir/22307.png)</span><span class="itemTableIcon4">![Sling Icon](images/dynaheir/22308.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Sling</span>
+            Sling
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Spell Components Icon](images/dynaheir/22309.png)</span><span class="itemTableIcon2">![Spell Components Icon](images/dynaheir/22309.png)</span><span class="itemTableIcon3">![Spell Components Icon](images/dynaheir/22310.png)</span><span class="itemTableIcon4">![Spell Components Icon](images/dynaheir/22311.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Spell Components</span>
+            Spell Components
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Wychlaran Mask Icon](images/dynaheir/22312.png)</span><span class="itemTableIcon2">![Wychlaran Mask Icon](images/dynaheir/22312.png)</span><span class="itemTableIcon3">![Wychlaran Mask Icon](images/dynaheir/22313.png)</span><span class="itemTableIcon4">![Wychlaran Mask Icon](images/dynaheir/22314.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Wychlaran Mask</span>
+            Wychlaran Mask
         </span>
     </span>
 </span>

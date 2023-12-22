@@ -852,101 +852,101 @@ Upgrades:
 
 <span class="itemTableColumn">
     <span class="itemTableRowHeader">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span style="margin-left:8px;">**Icons**</span>
         </span>
         <span class="itemTableSlot">
             <span>**Slot**</span>
         </span>
         <span class="itemTableName">
-            <span style="margin-left: 8px;">**Epic Name**</span>
+            **Epic Name**
         </span>
         <span class="itemTableEffect">
-            <span style="margin-left: 8px;">**Effect**</span>
+            <span>**Effect**</span>
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
-            <span class="itemTableIcon1">![After Battle Plans Icon](images/karlach/21839.png)</span><span class="itemTableIcon2">![Party Supplies Icon](images/karlach/21839.png)</span><span class="itemTableIcon3">![Silver Spoon Icon](images/karlach/21840.png)</span><span class="itemTableIcon4">![Clive, the Teddy Bear Icon](images/karlach/21841.png)</span><span class="itemTableGE">&nbsp;</span>
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![After Battle Plans Icon](images/karlach/21839.png)<span class="itemTooltipContents">**After Battle Plans**Gods, it'll be good to have a cold drink again.</span></span><span class="itemTableIcon2">![Party Supplies Icon](images/karlach/21839.png)<span class="itemTooltipContents">**Party Supplies**You're having fun, aren't you?</span></span><span class="itemTableIcon3">![Silver Spoon Icon](images/karlach/21840.png)<span class="itemTooltipContents">**Silver Spoon**Killed a Barlgura with one of these. Good for eye-scooping.</span></span><span class="itemTableIcon4">![Clive, the Teddy Bear Icon](images/karlach/21841.png)<span class="itemTooltipContents">**Clive, the Teddy Bear**Clivey baby boo boo boy I love you.</span></span><span class="itemTableGE">&nbsp;</span>
         </span>
         <span class="itemTableSlot">
             <span>1</span>
         </span>
         <span class="itemTableName">
-            <span style="margin-left: 8px;">Clive, the Teddy Bear</span>
+            Clive, the Teddy Bear
         </span>
         <span class="itemTableEffect">
-            <span style="margin-left: 8px;">All Champion Damage</span>
+            <span>All Champion Damage</span>
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
-            <span class="itemTableIcon1">![New Look Icon](images/karlach/21842.png)</span><span class="itemTableIcon2">![Heat Resistant Pants Icon](images/karlach/21842.png)</span><span class="itemTableIcon3">![Avernus Leathers Icon](images/karlach/21843.png)</span><span class="itemTableIcon4">![Helldusk Armour Icon](images/karlach/21844.png)</span>
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![New Look Icon](images/karlach/21842.png)<span class="itemTooltipContents">**New Look**These'll help me blend in with the hordes.</span></span><span class="itemTableIcon2">![Heat Resistant Pants Icon](images/karlach/21842.png)<span class="itemTooltipContents">**Heat Resistant Pants**Fit for the temperaturally challenged.</span></span><span class="itemTableIcon3">![Avernus Leathers Icon](images/karlach/21843.png)<span class="itemTooltipContents">**Avernus Leathers**You don't want to know who I peeled this leather from. Trust me.</span></span><span class="itemTableIcon4">![Helldusk Armour Icon](images/karlach/21844.png)<span class="itemTooltipContents">**Helldusk Armour**I CAN FLY NOW?!</span></span>
         </span>
         <span class="itemTableSlot">
             <span>2</span>
         </span>
         <span class="itemTableName">
-            <span style="margin-left: 8px;">Helldusk Armour</span>
+            Helldusk Armour
         </span>
         <span class="itemTableEffect">
-            <span style="margin-left: 8px;">Health</span>
+            <span>Health</span>
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
-            <span class="itemTableIcon1">![Starting Somewhere Icon](images/karlach/21848.png)</span><span class="itemTableIcon2">![Hand Axe Icon](images/karlach/21848.png)</span><span class="itemTableIcon3">![Masterwork Greataxe Icon](images/karlach/21849.png)</span><span class="itemTableIcon4">![Hellfire Greataxe Icon](images/karlach/21850.png)</span>
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Starting Somewhere Icon](images/karlach/21848.png)<span class="itemTooltipContents">**Starting Somewhere**Baby's first chopper.</span></span><span class="itemTableIcon2">![Hand Axe Icon](images/karlach/21848.png)<span class="itemTooltipContents">**Hand Axe**What it lacks in size, it makes up for by being better than nothing.</span></span><span class="itemTableIcon3">![Masterwork Greataxe Icon](images/karlach/21849.png)<span class="itemTooltipContents">**Masterwork Greataxe**Now that's what I call a greataxe! Let's let some blood.</span></span><span class="itemTableIcon4">![Hellfire Greataxe Icon](images/karlach/21850.png)<span class="itemTooltipContents">**Hellfire Greataxe**%$#& yes!</span></span>
         </span>
         <span class="itemTableSlot">
             <span>3</span>
         </span>
         <span class="itemTableName">
-            <span style="margin-left: 8px;">Hellfire Greataxe</span>
+            Hellfire Greataxe
         </span>
         <span class="itemTableEffect">
-            <span style="margin-left: 8px;">The Fury of Avernus</span>
+            <span>The Fury of Avernus</span>
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
-            <span class="itemTableIcon1">![Zariel's Gift Icon](images/karlach/21845.png)</span><span class="itemTableIcon2">![Engine Conversion Plans Icon](images/karlach/21845.png)</span><span class="itemTableIcon3">![Infernal Iron Icon](images/karlach/21846.png)</span><span class="itemTableIcon4">![Heart of Iron Icon](images/karlach/21847.png)</span>
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Zariel's Gift Icon](images/karlach/21845.png)<span class="itemTooltipContents">**Zariel's Gift**One devil's gift is another Karlach's curse.</span></span><span class="itemTableIcon2">![Engine Conversion Plans Icon](images/karlach/21845.png)<span class="itemTooltipContents">**Engine Conversion Plans**Zariel said she killed the smith who made these. Always was paranoid.</span></span><span class="itemTableIcon3">![Infernal Iron Icon](images/karlach/21846.png)<span class="itemTooltipContents">**Infernal Iron**I know what to do with this! Or Dammon does, anyway.</span></span><span class="itemTableIcon4">![Heart of Iron Icon](images/karlach/21847.png)<span class="itemTooltipContents">**Heart of Iron**Look at that. It's almost beautiful.</span></span>
         </span>
         <span class="itemTableSlot">
             <span>4</span>
         </span>
         <span class="itemTableName">
-            <span style="margin-left: 8px;">Heart of Iron</span>
+            Heart of Iron
         </span>
         <span class="itemTableEffect">
-            <span style="margin-left: 8px;">Rage</span>
+            <span>Rage</span>
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
-            <span class="itemTableIcon1">![First Ink Icon](images/karlach/21854.png)</span><span class="itemTableIcon2">!['Zariel' Icon](images/karlach/21854.png)</span><span class="itemTableIcon3">!['Elitesquad' Icon](images/karlach/21855.png)</span><span class="itemTableIcon4">!['Demonsbane' Icon](images/karlach/21856.png)</span>
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![First Ink Icon](images/karlach/21854.png)<span class="itemTooltipContents">**First Ink**When in Avernus...</span></span><span class="itemTableIcon2">!['Zariel' Icon](images/karlach/21854.png)<span class="itemTooltipContents">**'Zariel'**The more I look at those six letters, the less they scare me.</span></span><span class="itemTableIcon3">!['Elitesquad' Icon](images/karlach/21855.png)<span class="itemTooltipContents">**'Elitesquad'**I'm elite and I was in a squad, what's confusing about that?</span></span><span class="itemTableIcon4">!['Demonsbane' Icon](images/karlach/21856.png)<span class="itemTooltipContents">**'Demonsbane'**Has a ring to it, doesn't it? Though I much prefer 'Cliffgate' myself.</span></span>
         </span>
         <span class="itemTableSlot">
             <span>5</span>
         </span>
         <span class="itemTableName">
-            <span style="margin-left: 8px;">'Demonsbane'</span>
+            'Demonsbane'
         </span>
         <span class="itemTableEffect">
-            <span style="margin-left: 8px;">An Experienced Gladiator</span>
+            <span>An Experienced Gladiator</span>
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
-            <span class="itemTableIcon1">![Fuel Source Icon](images/karlach/21851.png)</span><span class="itemTableIcon2">![Partially Spent Soul Coin Icon](images/karlach/21851.png)</span><span class="itemTableIcon3">![Soul Coin Icon](images/karlach/21852.png)</span><span class="itemTableIcon4">![Stockpile Icon](images/karlach/21853.png)</span>
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Fuel Source Icon](images/karlach/21851.png)<span class="itemTooltipContents">**Fuel Source**Hmm. If we find one with a bit more juice, we can rev things up.</span></span><span class="itemTableIcon2">![Partially Spent Soul Coin Icon](images/karlach/21851.png)<span class="itemTooltipContents">**Partially Spent Soul Coin**It's something, soldier, but this won't cut it.</span></span><span class="itemTableIcon3">![Soul Coin Icon](images/karlach/21852.png)<span class="itemTooltipContents">**Soul Coin**Let's kick things up a notch.</span></span><span class="itemTableIcon4">![Stockpile Icon](images/karlach/21853.png)<span class="itemTooltipContents">**Stockpile**Should I use all of these at once? No. Right? No. Maybe...</span></span>
         </span>
         <span class="itemTableSlot">
             <span>6</span>
         </span>
         <span class="itemTableName">
-            <span style="margin-left: 8px;">Stockpile</span>
+            Stockpile
         </span>
         <span class="itemTableEffect">
-            <span style="margin-left: 8px;">Ultimate Cooldown Reduction<br/><span style="font-size:0.9em;">Cap: 501 dull / 251 shiny / 126 golden.</span></span>
+            <span>Ultimate Cooldown Reduction<br/><span style="font-size:0.9em;">Cap: 501 dull / 251 shiny / 126 golden.</span></span>
         </span>
     </span>
 </span>
@@ -1005,164 +1005,164 @@ This list will only show feats that are going to be available on the release of 
             <span style="margin-left:8px;">**Feat**</span>
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">**Effect**</span>
+            <span>**Effect**</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">**Source**</span>
+            <span>**Source**</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Tavern Brawler Icon](images/featicons/selfdps.png)Tavern Brawler
+            ![Tavern Brawler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Tavern Brawler (Karlach)**Think really carefully before you square up.</span>Tavern Brawler
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">30% Self DPS</span>
+            <span>30% Self DPS</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Free</span>
+            <span>Free</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Grappler Icon](images/featicons/selfdps.png)Grappler
+            ![Grappler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Grappler (Karlach)**I'll try not to knock you out so hard you can't tap out.</span>Grappler
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">60% Self DPS</span>
+            <span>60% Self DPS</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">12,500 Gems</span>
+            <span>12,500 Gems</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Selflessness Icon](images/featicons/globaldps.png)Selflessness
+            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (Karlach)**It doesn't matter what happens to me; just get those people out of here!</span>Selflessness
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">10% All Champion Damage</span>
+            <span>10% All Champion Damage</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Free</span>
+            <span>Free</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Inspiring Leader Icon](images/featicons/globaldps.png)Inspiring Leader
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Karlach)**Line up, soldiers! We're going hunting.</span>Inspiring Leader
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">25% All Champion Damage</span>
+            <span>25% All Champion Damage</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Gold Chest</span>
+            <span>Gold Chest</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Tough Icon](images/featicons/health.png)Tough
+            ![Tough Icon](images/featicons/health.png)<span class="featTooltipContents">**Tough (Karlach)**However many hits you think I can take - double that.</span>Tough
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">15% Health</span>
+            <span>15% Health</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Free</span>
+            <span>Free</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Resilient Icon](images/featicons/health.png)Resilient
+            ![Resilient Icon](images/featicons/health.png)<span class="featTooltipContents">**Resilient (Karlach)**I've felt the fires of the hells - this is nothing!</span>Resilient
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">30% Health</span>
+            <span>30% Health</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Gold Chest</span>
+            <span>Gold Chest</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Defensive Duelist Icon](images/featicons/overhelm.png)Defensive Duelist
+            ![Defensive Duelist Icon](images/featicons/overhelm.png)<span class="featTooltipContents">**Defensive Duelist (Karlach)**COME ON!</span>Defensive Duelist
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">+5 Overwhelm</span>
+            <span>+5 Overwhelm</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Free</span>
+            <span>Free</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Calm Under Pressure Icon](images/featicons/overhelm.png)Calm Under Pressure
+            ![Calm Under Pressure Icon](images/featicons/overhelm.png)<span class="featTooltipContents">**Calm Under Pressure (Karlach)**Ha! I was almost worried there for a second. Silly me.</span>Calm Under Pressure
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">+10 Overwhelm</span>
+            <span>+10 Overwhelm</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Gold Chest</span>
+            <span>Gold Chest</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Rising Flames Icon](images/featicons/upgradefa.png)Rising Flames
+            ![Rising Flames Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Rising Flames (Karlach)**Feel that? Time to cook.</span>Rising Flames
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">20% The Fury of Avernus</span>
+            <span>20% The Fury of Avernus</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Free</span>
+            <span>Free</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Roaring Inferno Icon](images/featicons/upgradefa.png)Roaring Inferno
+            ![Roaring Inferno Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Roaring Inferno (Karlach)**Is that all you've got? HAHAHA!</span>Roaring Inferno
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">40% The Fury of Avernus</span>
+            <span>40% The Fury of Avernus</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">12,500 Gems</span>
+            <span>12,500 Gems</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Fiendish Fury Icon](images/featicons/upgradefa.png)Fiendish Fury
+            ![Fiendish Fury Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Fiendish Fury (Karlach)**AAAARRRRGGGGHHHH!!!</span>Fiendish Fury
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">20% Rage</span>
+            <span>20% Rage</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Free</span>
+            <span>Free</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Demonsbane Icon](images/featicons/upgradefa.png)Demonsbane
+            ![Demonsbane Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Demonsbane (Karlach)**I've fought in the Blood War! YOU CAN'T TOUCH ME!</span>Demonsbane
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">40% Rage</span>
+            <span>40% Rage</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">12,500 Gems</span>
+            <span>12,500 Gems</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Powered by Flames Icon](images/featicons/upgradefa.png)Powered by Flames
+            ![Powered by Flames Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Powered by Flames (Karlach)**This is going to hurt bad. I just want you to know that.</span>Powered by Flames
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">40% An Experienced Gladiator</span>
+            <span>40% An Experienced Gladiator</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">Gold Chest</span>
+            <span>Gold Chest</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)Taunt
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">**Taunt (Karlach)**C'mere, cutie.</span>Taunt
         </span>
         <span class="featTableEffect">
-            <span style="margin-left:8px;padding-right:1px;">400% Self DPS & 50% Taunt</span>
+            <span>400% Self DPS & 50% Taunt</span>
         </span>
         <span class="featTableSource">
-            <span style="margin-left: 8px;">50,000 Gems</span>
+            <span>50,000 Gems</span>
         </span>
     </span>
 </span>

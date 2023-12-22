@@ -653,59 +653,59 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 
 <span class="itemTableColumn">
     <span class="itemTableRowHeader">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span style="margin-left:8px;">**Icons**</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">**Name**</span>
+            **Name**
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Clothes Icon](images/presto/22064.png)</span><span class="itemTableIcon2">![Clothes Icon](images/presto/22064.png)</span><span class="itemTableIcon3">![Clothes Icon](images/presto/22065.png)</span><span class="itemTableIcon4">![Clothes Icon](images/presto/22066.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Clothes</span>
+            Clothes
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Conjured Toy Icon](images/presto/22067.png)</span><span class="itemTableIcon2">![Conjured Toy Icon](images/presto/22067.png)</span><span class="itemTableIcon3">![Conjured Toy Icon](images/presto/22068.png)</span><span class="itemTableIcon4">![Conjured Toy Icon](images/presto/22069.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Conjured Toy</span>
+            Conjured Toy
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Glasses Icon](images/presto/22070.png)</span><span class="itemTableIcon2">![Glasses Icon](images/presto/22070.png)</span><span class="itemTableIcon3">![Glasses Icon](images/presto/22071.png)</span><span class="itemTableIcon4">![Glasses Icon](images/presto/22072.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Glasses</span>
+            Glasses
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Hat Icon](images/presto/22073.png)</span><span class="itemTableIcon2">![Hat Icon](images/presto/22073.png)</span><span class="itemTableIcon3">![Hat Icon](images/presto/22074.png)</span><span class="itemTableIcon4">![Hat Icon](images/presto/22075.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Hat</span>
+            Hat
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Magic Item Icon](images/presto/22076.png)</span><span class="itemTableIcon2">![Magic Item Icon](images/presto/22076.png)</span><span class="itemTableIcon3">![Magic Item Icon](images/presto/22077.png)</span><span class="itemTableIcon4">![Magic Item Icon](images/presto/22078.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Magic Item</span>
+            Magic Item
         </span>
     </span>
     <span class="itemTableRow">
-        <span class="itemTableIcon" style="align-items:center;">
+        <span class="itemTableIcon">
             <span class="itemTableIcon1">![Magic Stuff Icon](images/presto/22079.png)</span><span class="itemTableIcon2">![Magic Stuff Icon](images/presto/22079.png)</span><span class="itemTableIcon3">![Magic Stuff Icon](images/presto/22080.png)</span><span class="itemTableIcon4">![Magic Stuff Icon](images/presto/22081.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            <span style="margin-left: 8px;">Magic Stuff</span>
+            Magic Stuff
         </span>
     </span>
 </span>

@@ -80,23 +80,31 @@ code{
 	background-color: #1c1c1c;
 }
 .featTableSource,.featTableChampion,.featTableDate {
-	width: 100px;
+	width: 92px;
+	padding-left: 8px;
 }
 .featTableDate {
 	justify-content: flex-end;
 	border-left: 1px solid black;
 	background-color: #1c1c1c;
+	padding-right: 8px;
 }
 .featTableEffect {
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	width: 310px;
+	width: 301px;
 	height: 100%;
 	margin: 0px;
 	background-color: #1c1c1c;
 	border-left: 1px solid black;
 	border-right: 1px solid black;
+	padding: 0 1px 0 8px;
+}
+.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5 {
+	position: relative;
+	cursor: pointer;
+	color: #FFCC00;
 }
 .featTableIcon1 img,.featTableIcon2 img,.featTableIcon3 img,.featTableIcon4 img,.featTableIcon5 img {
 	margin: 5px;
@@ -104,20 +112,42 @@ code{
 	height: 40px;
 	object-fit: contain;
 }
-.featTableIcon1 img {
+.featTableIcon1 img,.featTableIcon1:hover .featTooltipContents {
 	border: 1px solid #DEE3DE;
 }
-.featTableIcon2 img {
+.featTableIcon2 img,.featTableIcon2:hover .featTooltipContents {
 	border: 1px solid #7BDF00;
 }
-.featTableIcon3 img {
+.featTableIcon3 img,.featTableIcon3:hover .featTooltipContents {
 	border: 1px solid #2955FF;
 }
-.featTableIcon4 img {
+.featTableIcon4 img,.featTableIcon4:hover .featTooltipContents {
 	border: 1px solid #8408EF;
 }
-.featTableIcon5 img {
+.featTableIcon5 img,.featTableIcon5:hover .featTooltipContents {
 	border: 1px solid #FBBA37;
+}
+.featTableIcon1:hover .featTooltipContents,.featTableIcon2:hover .featTooltipContents,.featTableIcon3:hover .featTooltipContents,.featTableIcon4:hover .featTooltipContents,.featTableIcon5:hover .featTooltipContents {
+	visibility: visible;
+}
+.featTooltipContents {
+	visibility: hidden;
+	padding: 15px;
+	border: 1px solid black;
+	background-color: #101010;
+	width: max-content;
+	max-width: 350px;
+	
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	flex-direction: column;
+	z-index: 1;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	transform: translate(100px, 10px);
+	color: #f0e7d5;
 }
 .skinTableColumn {
     display: flex;
@@ -277,6 +307,7 @@ code{
 }
 .itemTableName,.itemTableNameSmall {
 	width: 190px;
+	margin-left: 8px;
 }
 .itemTableNameSmall {
 	background-color: #1c1c1c;
@@ -287,6 +318,13 @@ code{
 	border-left: 1px solid black;
 	width: 326px;
 	height: 100%;
+	padding-left: 8px;
+}
+.itemTableIcon1,.itemTableIcon2,.itemTableIcon3,.itemTableIcon4,.itemTableIcon5 {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+	color: #FFCC00;
 }
 .itemTableIcon1 img,.itemTableIcon2 img,.itemTableIcon3 img,.itemTableIcon4 img,.itemTableIcon5 img {
 	margin: 4px;
@@ -294,19 +332,19 @@ code{
 	height: 60px;
 	object-fit: contain;
 }
-.itemTableIcon1 img {
+.itemTableIcon1 img,.itemTableIcon1:hover .itemTooltipContents {
 	border: 1px solid #DEE3DE;
 }
-.itemTableIcon2 img {
+.itemTableIcon2 img,.itemTableIcon2:hover .itemTooltipContents {
 	border: 1px solid #7BDF00;
 }
-.itemTableIcon3 img {
+.itemTableIcon3 img,.itemTableIcon3:hover .itemTooltipContents {
 	border: 1px solid #2955FF;
 }
-.itemTableIcon4 img {
+.itemTableIcon4 img,.itemTableIcon4:hover .itemTooltipContents {
 	border: 1px solid #8408EF;
 }
-.itemTableIcon5 img {
+.itemTableIcon5 img,.itemTableIcon5:hover .itemTooltipContents {
 	border: 1px solid #FBBA37;
 }
 .itemTableGE {
@@ -314,6 +352,28 @@ code{
 	height: 80%;
 	background-color: #FBBA37;
 	margin-top: -4px;
+}
+.itemTableIcon1:hover .itemTooltipContents,.itemTableIcon2:hover .itemTooltipContents,.itemTableIcon3:hover .itemTooltipContents,.itemTableIcon4:hover .itemTooltipContents,.itemTableIcon5:hover .itemTooltipContents {
+	visibility: visible;
+}
+.itemTooltipContents {
+	visibility: hidden;
+	padding: 15px;
+	border: 1px solid black;
+	background-color: #101010;
+	width: max-content;
+	max-width: 350px;
+	
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	flex-direction: column;
+	z-index: 1;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	transform: translate(100px, 10px);
+	color: #f0e7d5;
 }
 .champStatsTableColumn {
     display: flex;
