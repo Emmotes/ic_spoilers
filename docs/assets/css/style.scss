@@ -375,6 +375,7 @@ code{
 	bottom: 0px;
 	transform: translate(100px, 10px);
 	color: #f0e7d5;
+	pointer-events: none;
 }
 .champStatsTableColumn {
     display: flex;
@@ -901,4 +902,5 @@ input[type="checkbox"]:checked::before {
 	left: 0px;
 	bottom: 0px;
 	transform: translate(100px, 10px);
+	pointer-events: none;
 }
