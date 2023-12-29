@@ -102,45 +102,45 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <p>
 <pre>
 {
-	"id": 723,
-	"name": "Presto's Hat",
-	"description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
-	"long_description": "",
-	"graphic_id": 0,
-	"target": "front",
-	"num_targets": 1,
-	"aoe_radius": 0,
-	"damage_modifier": 1,
-	"cooldown": 7.5,
-	"animations": [
-		{
-			"type": "ranged_attack",
-			"projectile": "pd_generic_projectile",
-			"shoot_frame": 20,
-			"shoot_sound": 149,
-			"hit_sound": 133,
-			"projectile_details": {
-				"hash": "506536f125912899f3ee905bda3e8b02",
-				"projectile_speed": 1250,
-				"projectile_graphic_id": 22060,
-				"percent_height_offset": 10,
-				"rotation_speed": 100
-			},
-			"change_attack": {
-				"attack_ids": [
-					723,
-					724,
-					725
-				]
-			}
-		}
-	],
-	"tags": [
-		"ranged"
-	],
-	"damage_types": [
-		"magic"
-	]
+    "id": 723,
+    "name": "Presto's Hat",
+    "description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 7.5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 20,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "506536f125912899f3ee905bda3e8b02",
+                "projectile_speed": 1250,
+                "projectile_graphic_id": 22060,
+                "percent_height_offset": 10,
+                "rotation_speed": 100
+            },
+            "change_attack": {
+                "attack_ids": [
+                    723,
+                    724,
+                    725
+                ]
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -154,44 +154,44 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <p>
 <pre>
 {
-	"id": 724,
-	"name": "Presto's Hat",
-	"description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
-	"long_description": "",
-	"graphic_id": 0,
-	"target": "front",
-	"num_targets": 1,
-	"aoe_radius": 0,
-	"damage_modifier": 1,
-	"cooldown": 7.5,
-	"animations": [
-		{
-			"type": "ranged_attack",
-			"projectile": "pd_generic_projectile",
-			"shoot_frame": 20,
-			"shoot_sound": 149,
-			"hit_sound": 133,
-			"projectile_details": {
-				"hash": "da28f8663d38cd1dd79099dcff2af789",
-				"projectile_speed": 1250,
-				"projectile_graphic_id": 22062,
-				"percent_height_offset": -5
-			},
-			"change_attack": {
-				"attack_ids": [
-					723,
-					724,
-					725
-				]
-			}
-		}
-	],
-	"tags": [
-		"ranged"
-	],
-	"damage_types": [
-		"magic"
-	]
+    "id": 724,
+    "name": "Presto's Hat",
+    "description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 7.5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 20,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "da28f8663d38cd1dd79099dcff2af789",
+                "projectile_speed": 1250,
+                "projectile_graphic_id": 22062,
+                "percent_height_offset": -5
+            },
+            "change_attack": {
+                "attack_ids": [
+                    723,
+                    724,
+                    725
+                ]
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -205,44 +205,44 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <p>
 <pre>
 {
-	"id": 725,
-	"name": "Presto's Hat",
-	"description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
-	"long_description": "",
-	"graphic_id": 0,
-	"target": "front",
-	"num_targets": 1,
-	"aoe_radius": 0,
-	"damage_modifier": 1,
-	"cooldown": 7.5,
-	"animations": [
-		{
-			"type": "ranged_attack",
-			"projectile": "pd_generic_projectile",
-			"shoot_frame": 20,
-			"shoot_sound": 149,
-			"hit_sound": 133,
-			"projectile_details": {
-				"hash": "f5c28dff14660a99747464d9098133fc",
-				"projectile_speed": 1400,
-				"projectile_graphic_id": 22061,
-				"percent_height_offset": 5
-			},
-			"change_attack": {
-				"attack_ids": [
-					723,
-					724,
-					725
-				]
-			}
-		}
-	],
-	"tags": [
-		"ranged"
-	],
-	"damage_types": [
-		"magic"
-	]
+    "id": 725,
+    "name": "Presto's Hat",
+    "description": "Presto takes his hat off, pulls out a random projectile, and throws it at the nearest enemy, dealing one hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 7.5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 20,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "f5c28dff14660a99747464d9098133fc",
+                "projectile_speed": 1400,
+                "projectile_graphic_id": 22061,
+                "percent_height_offset": 5
+            },
+            "change_attack": {
+                "attack_ids": [
+                    723,
+                    724,
+                    725
+                ]
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -257,60 +257,60 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <p>
 <pre>
 {
-	"id": 726,
-	"name": "A Hatful of Havoc",
-	"description": "Presto fires assorted objects from his hat at his enemies.",
-	"long_description": "Presto fires assorted objects from his hat at his enemies, debuffing them and changing the weather.",
-	"graphic_id": 22107,
-	"target": "random",
-	"num_targets": 1,
-	"aoe_radius": 0,
-	"damage_modifier": 0.03,
-	"cooldown": 400,
-	"animations": [
-		{
-			"type": "presto_ultimate",
-			"snowball_data": {
-				"slow_effect": {
-					"effect_string": "monster_speed_reduce,50",
-					"for_time": "10"
-				},
-				"snow_effect": {
-					"effect_string": "change_weather",
-					"weather": "snowing_only"
-				}
-			},
-			"firework_data": {
-				"stun_effect": {
-					"effect_string": "monster_stun,5"
-				},
-				"fog_effect": {
-					"effect_string": "change_weather",
-					"weather": "fog"
-				},
-				"firework_position": [
-					1250,
-					400
-				]
-			},
-			"tornado_data": {
-				"knockback_effect": {
-					"effect_string": "push_back_monster,25"
-				},
-				"rain_effect": {
-					"effect_string": "change_weather",
-					"weather": "rain"
-				}
-			}
-		}
-	],
-	"tags": [
-		"ranged",
-		"ultimate"
-	],
-	"damage_types": [
-		"magic"
-	]
+    "id": 726,
+    "name": "A Hatful of Havoc",
+    "description": "Presto fires assorted objects from his hat at his enemies.",
+    "long_description": "Presto fires assorted objects from his hat at his enemies, debuffing them and changing the weather.",
+    "graphic_id": 22107,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 400,
+    "animations": [
+        {
+            "type": "presto_ultimate",
+            "snowball_data": {
+                "slow_effect": {
+                    "effect_string": "monster_speed_reduce,50",
+                    "for_time": "10"
+                },
+                "snow_effect": {
+                    "effect_string": "change_weather",
+                    "weather": "snowing_only"
+                }
+            },
+            "firework_data": {
+                "stun_effect": {
+                    "effect_string": "monster_stun,5"
+                },
+                "fog_effect": {
+                    "effect_string": "change_weather",
+                    "weather": "fog"
+                },
+                "firework_position": [
+                    1250,
+                    400
+                ]
+            },
+            "tornado_data": {
+                "knockback_effect": {
+                    "effect_string": "push_back_monster,25"
+                },
+                "rain_effect": {
+                    "effect_string": "change_weather",
+                    "weather": "rain"
+                }
+            }
+        }
+    ],
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -324,24 +324,24 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <p>
 <pre>
 {
-	"id": 1836,
-	"flavour_text": "",
-	"description": {
-		"desc": "$source increases the damage of Champions in the two columns in front of him by $(amount)%"
-	},
-	"effect_keys": [
-		{
-			"effect_string": "hero_dps_multiplier_mult,100",
-			"targets": [
-				"next_two_col"
-			]
-		}
-	],
-	"requirements": "",
-	"graphic_id": 22102,
-	"properties": {
-		"is_formation_ability": true
-	}
+    "id": 1836,
+    "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage of Champions in the two columns in front of him by $(amount)%"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "next_two_col"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 22102,
+    "properties": {
+        "is_formation_ability": true
+    }
 }
 </pre>
 </p>
@@ -359,93 +359,93 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <p>
 <pre>
 {
-	"id": 1837,
-	"flavour_text": "",
-	"description": {
-		"desc": "Presto's attacks cause monsters hit by them to take +$(debuff_base_amount___4)% damage, stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile.^^Birthday Cake: The monster is slowed by 50% for 5 seconds.^Skateboard: The monster is knocked back a short distance.^Rotary Phone: The monster is stunned for 2.5 seconds."
-	},
-	"effect_keys": [
-		{
-			"effect_string": "presto_hat_of_many_spells",
-			"debuff_before_damage": true,
-			"slow_amount": 50,
-			"debuff_duration": 5,
-			"debuffing_attack_ids": [
-				723
-			],
-			"debuff_effects": [
-				{
-					"effect_string": "monster_speed_reduce,$slow_amount",
-					"for_time": "$debuff_duration"
-				}
-			]
-		},
-		{
-			"effect_string": "presto_hat_of_many_spells",
-			"debuff_before_damage": true,
-			"knockback_amount": 15,
-			"effect_is_action": true,
-			"debuffing_attack_ids": [
-				724
-			],
-			"debuff_effects": [
-				{
-					"effect_string": "push_back_monster,$knockback_amount"
-				}
-			]
-		},
-		{
-			"effect_string": "presto_hat_of_many_spells",
-			"debuff_before_damage": true,
-			"stun_duration": 2.5,
-			"effect_is_action": true,
-			"debuffing_attack_ids": [
-				725
-			],
-			"debuff_effects": [
-				{
-					"effect_string": "monster_stun,$stun_duration"
-				}
-			]
-		},
-		{
-			"effect_string": "presto_hat_of_many_spells",
-			"debuff_before_damage": true,
-			"debuff_base_amount": 100,
-			"debuff_max_stacks": 5,
-			"debuffing_attack_ids": [
-				723,
-				724,
-				725
-			],
-			"debuff_effects": [
-				{
-					"effect_string": "increase_monster_damage,$debuff_base_amount",
-					"active_graphic_id": 22161,
-					"active_graphic_y": -120,
-					"use_stack_as_frame": true,
-					"stack_as_frame_offset": -1,
-					"overlay_play_mode": "stopped",
-					"bottom": false,
-					"stacks_on_reapply": true,
-					"manual_stacking": true,
-					"max_stacks": "$debuff_max_stacks",
-					"stacks_multiply": true,
-					"use_collection_source": true,
-					"stack_across_effects": false
-				}
-			]
-		}
-	],
-	"requirements": "",
-	"graphic_id": 22101,
-	"properties": {
-		"is_formation_ability": true,
-		"owner_use_outgoing_description": true,
-		"indexed_effect_properties": true,
-		"per_effect_index_bonuses": true,
-		"default_bonus_index": 0
-	}
+    "id": 1837,
+    "flavour_text": "",
+    "description": {
+        "desc": "Presto's attacks cause monsters hit by them to take +$(debuff_base_amount___4)% damage, stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile.^^Birthday Cake: The monster is slowed by 50% for 5 seconds.^Skateboard: The monster is knocked back a short distance.^Rotary Phone: The monster is stunned for 2.5 seconds."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "presto_hat_of_many_spells",
+            "debuff_before_damage": true,
+            "slow_amount": 50,
+            "debuff_duration": 5,
+            "debuffing_attack_ids": [
+                723
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,$slow_amount",
+                    "for_time": "$debuff_duration"
+                }
+            ]
+        },
+        {
+            "effect_string": "presto_hat_of_many_spells",
+            "debuff_before_damage": true,
+            "knockback_amount": 15,
+            "effect_is_action": true,
+            "debuffing_attack_ids": [
+                724
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "push_back_monster,$knockback_amount"
+                }
+            ]
+        },
+        {
+            "effect_string": "presto_hat_of_many_spells",
+            "debuff_before_damage": true,
+            "stun_duration": 2.5,
+            "effect_is_action": true,
+            "debuffing_attack_ids": [
+                725
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_stun,$stun_duration"
+                }
+            ]
+        },
+        {
+            "effect_string": "presto_hat_of_many_spells",
+            "debuff_before_damage": true,
+            "debuff_base_amount": 100,
+            "debuff_max_stacks": 5,
+            "debuffing_attack_ids": [
+                723,
+                724,
+                725
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "increase_monster_damage,$debuff_base_amount",
+                    "active_graphic_id": 22161,
+                    "active_graphic_y": -120,
+                    "use_stack_as_frame": true,
+                    "stack_as_frame_offset": -1,
+                    "overlay_play_mode": "stopped",
+                    "bottom": false,
+                    "stacks_on_reapply": true,
+                    "manual_stacking": true,
+                    "max_stacks": "$debuff_max_stacks",
+                    "stacks_multiply": true,
+                    "use_collection_source": true,
+                    "stack_across_effects": false
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 22101,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
 }
 </pre>
 </p>
@@ -459,25 +459,25 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <p>
 <pre>
 {
-	"id": 1838,
-	"flavour_text": "",
-	"description": {
-		"desc": "Presto can help scavenge up to $presto_component_scavenger_max Modron Component Pieces when killing bosses. While this cap is not reached, Presto has a 10% chance of scavenging 1 Modron Component Piece each time a boss is defeated. The cap increases by 20 every day.^^$presto_component_scavenger_description"
-	},
-	"effect_keys": [
-		{
-			"effect_string": "presto_component_scavenger",
-			"default_component_max": 2000,
-			"off_when_benched": true
-		}
-	],
-	"requirements": "",
-	"graphic_id": 22100,
-	"properties": {
-		"is_formation_ability": true,
-		"formation_circle_icon": false,
-		"show_owner_incoming": false
-	}
+    "id": 1838,
+    "flavour_text": "",
+    "description": {
+        "desc": "Presto can help scavenge up to $presto_component_scavenger_max Modron Component Pieces when killing bosses. While this cap is not reached, Presto has a 10% chance of scavenging 1 Modron Component Piece each time a boss is defeated. The cap increases by 20 every day.^^$presto_component_scavenger_description"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "presto_component_scavenger",
+            "default_component_max": 2000,
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 22100,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "show_owner_incoming": false
+    }
 }
 </pre>
 </p>
@@ -495,22 +495,22 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <p>
 <pre>
 {
-	"id": 1865,
-	"flavour_text": "",
-	"description": {
-		"desc": "Presto's ultimate is unlocked and has a random effect when used.^^Snowballs: Snowballs fire out at all enemies, dealing 1 ultimate hit to each monster and slowing them by 50% for 10 seconds. The weather changes to Snow.^Fireworks: A shower of bright colorful fireworks shoot out and explode all over the battlefield, dealing 1 ultimate hit to all monsters, and stunning them for 5 seconds. The weather changes to Fog.^Tornado: A tornado flies out of the hat and grows in size, dealing 1 hit to all monsters and knocking them back a medium distance. The weather changes to Rain."
-	},
-	"effect_keys": [
-		{
-			"effect_string": "set_ultimate_attack,726"
-		}
-	],
-	"requirements": "",
-	"graphic_id": 0,
-	"properties": {
-		"is_formation_ability": true,
-		"owner_use_outgoing_description": true
-	}
+    "id": 1865,
+    "flavour_text": "",
+    "description": {
+        "desc": "Presto's ultimate is unlocked and has a random effect when used.^^Snowballs: Snowballs fire out at all enemies, dealing 1 ultimate hit to each monster and slowing them by 50% for 10 seconds. The weather changes to Snow.^Fireworks: A shower of bright colorful fireworks shoot out and explode all over the battlefield, dealing 1 ultimate hit to all monsters, and stunning them for 5 seconds. The weather changes to Fog.^Tornado: A tornado flies out of the hat and grows in size, dealing 1 hit to all monsters and knocking them back a medium distance. The weather changes to Rain."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "set_ultimate_attack,726"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -526,40 +526,40 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <p>
 <pre>
 {
-	"id": 1839,
-	"flavour_text": "",
-	"description": {
-		"desc": "$source increases the damage bonus of Hesitant Helper by $(not_buffed amount)% for each Champion in the formation with a total ability score of 78 or less."
-	},
-	"effect_keys": [
-		{
-			"effect_string": "buff_upgrade,100,13762",
-			"show_bonus": true,
-			"amount_func": "mult",
-			"stack_func": "per_crusader",
-			"target_filters": [
-				{
-					"type": "stat",
-					"stat": "total_ability_score",
-					"comparison": "<=",
-					"value": 78
-				}
-			],
-			"stack_title": "Humble Champions",
-			"amount_updated_listeners": [
-				"feat_changed",
-				"slot_changed",
-				"ability_score_changed"
-			]
-		}
-	],
-	"requirements": "",
-	"graphic_id": 0,
-	"properties": {
-		"is_formation_ability": true,
-		"formation_circle_icon": false,
-		"spec_option_post_apply_info": "Humble Champions: $num_stacks"
-	}
+    "id": 1839,
+    "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage bonus of Hesitant Helper by $(not_buffed amount)% for each Champion in the formation with a total ability score of 78 or less."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,13762",
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_crusader",
+            "target_filters": [
+                {
+                    "type": "stat",
+                    "stat": "total_ability_score",
+                    "comparison": "<=",
+                    "value": 78
+                }
+            ],
+            "stack_title": "Humble Champions",
+            "amount_updated_listeners": [
+                "feat_changed",
+                "slot_changed",
+                "ability_score_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "spec_option_post_apply_info": "Humble Champions: $num_stacks"
+    }
 }
 </pre>
 </p>
@@ -573,32 +573,32 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <p>
 <pre>
 {
-	"id": 1840,
-	"flavour_text": "",
-	"description": {
-		"desc": "$source increases the damage bonus of Hesitant Helper by $(not_buffed amount)% for each Champion in the formation with an age of 20 or less."
-	},
-	"effect_keys": [
-		{
-			"effect_string": "buff_upgrade,100,13762",
-			"amount_func": "mult",
-			"stacks_multiply": true,
-			"stack_func": "per_hero_attribute",
-			"per_hero_expr": "age<=20",
-			"amount_updated_listeners": [
-				"slot_changed"
-			],
-			"stack_title": "Young Champions",
-			"show_bonus": true
-		}
-	],
-	"requirements": "",
-	"graphic_id": 0,
-	"properties": {
-		"is_formation_ability": true,
-		"formation_circle_icon": false,
-		"spec_option_post_apply_info": "Young Champions: $num_stacks"
-	}
+    "id": 1840,
+    "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage bonus of Hesitant Helper by $(not_buffed amount)% for each Champion in the formation with an age of 20 or less."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,13762",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "age<=20",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "stack_title": "Young Champions",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "spec_option_post_apply_info": "Young Champions: $num_stacks"
+    }
 }
 </pre>
 </p>
@@ -612,37 +612,37 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 <p>
 <pre>
 {
-	"id": 1841,
-	"flavour_text": "",
-	"description": {
-		"desc": "$source increases the damage bonus of Hesitant Helper by $(not_buffed amount)% for each Champion in the formation with a magic attack."
-	},
-	"effect_keys": [
-		{
-			"effect_string": "buff_upgrade,100,13762",
-			"show_bonus": true,
-			"amount_func": "mult",
-			"stack_func": "per_crusader",
-			"target_filters": [
-				{
-					"type": "attack_type",
-					"attack": "magic"
-				}
-			],
-			"stack_title": "Magic Champions",
-			"amount_updated_listeners": [
-				"attack_changed",
-				"slot_changed"
-			]
-		}
-	],
-	"requirements": "",
-	"graphic_id": 0,
-	"properties": {
-		"is_formation_ability": true,
-		"formation_circle_icon": false,
-		"spec_option_post_apply_info": "Magic Champions: $num_stacks"
-	}
+    "id": 1841,
+    "flavour_text": "",
+    "description": {
+        "desc": "$source increases the damage bonus of Hesitant Helper by $(not_buffed amount)% for each Champion in the formation with a magic attack."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,13762",
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_crusader",
+            "target_filters": [
+                {
+                    "type": "attack_type",
+                    "attack": "magic"
+                }
+            ],
+            "stack_title": "Magic Champions",
+            "amount_updated_listeners": [
+                "attack_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "spec_option_post_apply_info": "Magic Champions: $num_stacks"
+    }
 }
 </pre>
 </p>
