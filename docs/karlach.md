@@ -199,34 +199,34 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
-    "id": 713,
-    "name": "Greataxe Cleave",
-    "description": "Karlach attacks the closest enemies with a swing of her greataxe.",
-    "long_description": "",
-    "graphic_id": 0,
-    "target": "front",
-    "num_targets": 1,
-    "aoe_radius": 150,
-    "damage_modifier": 1,
-    "cooldown": 6,
-    "animations": [
-        {
-            "type": "melee_attack",
-            "target_offset_x": -34,
-            "damage_frame": 2,
-            "jump_sound": 30,
-            "sound_frames": {
-                "2": 194
-            }
-        }
-    ],
-    "tags": [
-        "melee",
-        "aoe"
-    ],
-    "damage_types": [
-        "melee"
-    ]
+	"id": 713,
+	"name": "Greataxe Cleave",
+	"description": "Karlach attacks the closest enemies with a swing of her greataxe.",
+	"long_description": "",
+	"graphic_id": 0,
+	"target": "front",
+	"num_targets": 1,
+	"aoe_radius": 150,
+	"damage_modifier": 1,
+	"cooldown": 6,
+	"animations": [
+		{
+			"type": "melee_attack",
+			"target_offset_x": -34,
+			"damage_frame": 2,
+			"jump_sound": 30,
+			"sound_frames": {
+				"2": 194
+			}
+		}
+	],
+	"tags": [
+		"melee",
+		"aoe"
+	],
+	"damage_types": [
+		"melee"
+	]
 }
 </pre>
 </p>
@@ -241,30 +241,30 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
-    "id": 714,
-    "name": "Soul Coin",
-    "description": "Karlach increases her rage cap to 100 stacks and her Infernal Engine's damage by 100%.",
-    "long_description": "Karlach absorbs the energy of a soul coin, increasing her rage cap to 100 stacks and her Infernal Engine's BUD-based damage by 100%.",
-    "graphic_id": 21828,
-    "target": "none",
-    "num_targets": 1,
-    "aoe_radius": 0,
-    "damage_modifier": 0.03,
-    "cooldown": 700,
-    "animations": [
-        {
-            "type": "ultimate_attack",
-            "ultimate": "karlach",
-            "no_damage_display": true
-        }
-    ],
-    "tags": [
-        "melee",
-        "ultimate"
-    ],
-    "damage_types": [
-        "melee"
-    ]
+	"id": 714,
+	"name": "Soul Coin",
+	"description": "Karlach increases her rage cap to 100 stacks and her Infernal Engine's damage by 100%.",
+	"long_description": "Karlach absorbs the energy of a soul coin, increasing her rage cap to 100 stacks and her Infernal Engine's BUD-based damage by 100%.",
+	"graphic_id": 21828,
+	"target": "none",
+	"num_targets": 1,
+	"aoe_radius": 0,
+	"damage_modifier": 0.03,
+	"cooldown": 700,
+	"animations": [
+		{
+			"type": "ultimate_attack",
+			"ultimate": "karlach",
+			"no_damage_display": true
+		}
+	],
+	"tags": [
+		"melee",
+		"ultimate"
+	],
+	"damage_types": [
+		"melee"
+	]
 }
 </pre>
 </p>
@@ -278,34 +278,34 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 <p>
 <pre>
 {
-    "id": 13720,
-    "hero_id": 143,
-    "required_level": 0,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,1810",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "Champion of Zariel"
+	"id": 13720,
+	"hero_id": 143,
+	"required_level": 0,
+	"required_upgrade_id": 0,
+	"upgrade_type": "unlock_ability",
+	"effect": "effect_def,1810",
+	"static_dps_mult": null,
+	"default_enabled": 1,
+	"name": "Champion of Zariel"
 }
 {
-    "id": 1810,
-    "flavour_text": "",
-    "description": {
-        "desc": "As a Champion of Zariel, Karlach can be used in any Zariel Patron adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "do_nothing"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "use_outgoing_description": true,
-        "formation_circle_icon": false
-    }
+	"id": 1810,
+	"flavour_text": "",
+	"description": {
+		"desc": "As a Champion of Zariel, Karlach can be used in any Zariel Patron adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions."
+	},
+	"effect_keys": [
+		{
+			"effect_string": "do_nothing"
+		}
+	],
+	"requirements": "",
+	"graphic_id": 0,
+	"properties": {
+		"is_formation_ability": true,
+		"use_outgoing_description": true,
+		"formation_circle_icon": false
+	}
 }
 </pre>
 </p>
@@ -329,36 +329,36 @@ Upgrades:
 <p>
 <pre>
 {
-    "id": 13721,
-    "hero_id": 143,
-    "required_level": 5,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,1811",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "The Fury of Avernus",
-    "tip_text": "Karlach increases the damage of all Champions in her column and the column behind her."
+	"id": 13721,
+	"hero_id": 143,
+	"required_level": 5,
+	"required_upgrade_id": 0,
+	"upgrade_type": "unlock_ability",
+	"effect": "effect_def,1811",
+	"static_dps_mult": null,
+	"default_enabled": 1,
+	"name": "The Fury of Avernus",
+	"tip_text": "Karlach increases the damage of all Champions in her column and the column behind her."
 }
 {
-    "id": 1811,
-    "flavour_text": "",
-    "description": {
-        "desc": "Karlach increases the damage of all Champions (including herself) in her column and the column behind her by $(amount)%."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "hero_dps_multiplier_mult,100",
-            "targets": [
-                "col_and_prev_col"
-            ]
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 21822,
-    "properties": {
-        "is_formation_ability": true
-    }
+	"id": 1811,
+	"flavour_text": "",
+	"description": {
+		"desc": "Karlach increases the damage of all Champions (including herself) in her column and the column behind her by $(amount)%."
+	},
+	"effect_keys": [
+		{
+			"effect_string": "hero_dps_multiplier_mult,100",
+			"targets": [
+				"col_and_prev_col"
+			]
+		}
+	],
+	"requirements": "",
+	"graphic_id": 21822,
+	"properties": {
+		"is_formation_ability": true
+	}
 }
 </pre>
 </p>
@@ -372,80 +372,80 @@ Upgrades:
 <p>
 <pre>
 {
-    "id": 13722,
-    "hero_id": 143,
-    "required_level": 10,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,1812",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "Ceremorphosis"
+	"id": 13722,
+	"hero_id": 143,
+	"required_level": 10,
+	"required_upgrade_id": 0,
+	"upgrade_type": "unlock_ability",
+	"effect": "effect_def,1812",
+	"static_dps_mult": null,
+	"default_enabled": 1,
+	"name": "Ceremorphosis"
 }
 {
-    "id": 1812,
-    "flavour_text": "",
-    "description": {
-        "desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Karlach's brain. Karlach increases the health of all other Champions by $(not_buffed amount___3)% of her max health, plus $(not_buffed amount)% for each Ceremorphosis stack the formation has, stacking additively."
-    },
-    "effect_keys": [
-        {
-            "off_when_benched": true,
-            "effect_string": "do_nothing,2",
-            "stack_func": "per_ceremorphosis_stacks",
-            "amount_func": "add",
-            "show_bonus": true,
-            "stack_title": "Total Ceremorphosis Stacks",
-            "total_title": "Ceremorphosis Stack Bonus",
-            "desc_forced_order": 2,
-            "listen_for_computed_changes": true,
-            "amount_updated_listeners": [
-                "upgrade_unlocked",
-                "slot_changed",
-                "feat_changed"
-            ]
-        },
-        {
-            "off_when_benched": true,
-            "outgoing_buffs": false,
-            "effect_string": "karlach_ceremorphosis_stacks,1",
-            "manual_stacking": true,
-            "stacks_multiply": false,
-            "show_stacks": true,
-            "stack_title": "Karlach Ceremorphosis Stacks",
-            "desc_forced_order": 1,
-            "skip_effect_key_desc": true
-        },
-        {
-            "off_when_benched": true,
-            "effect_string": "do_nothing,20",
-            "skip_effect_key_desc": true
-        },
-        {
-            "off_when_benched": true,
-            "effect_string": "increase_health_by_source_percent,0",
-            "amount_expr": "upgrade_amount(13722,2)+max_upgrade_amount(13722,0)",
-            "percent_values": false,
-            "round_bonus_value": true,
-            "show_current_value_bonus_desc": false,
-            "use_computed_amount_for_description": true,
-            "override_key_desc": "Increases the Health of $target by $amount",
-            "targets": [
-                "other"
-            ],
-            "desc_forced_order": 3
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 21820,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
-        "retain_on_slot_changed": true
-    }
+	"id": 1812,
+	"flavour_text": "",
+	"description": {
+		"desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Karlach's brain. Karlach increases the health of all other Champions by $(not_buffed amount___3)% of her max health, plus $(not_buffed amount)% for each Ceremorphosis stack the formation has, stacking additively."
+	},
+	"effect_keys": [
+		{
+			"off_when_benched": true,
+			"effect_string": "do_nothing,2",
+			"stack_func": "per_ceremorphosis_stacks",
+			"amount_func": "add",
+			"show_bonus": true,
+			"stack_title": "Total Ceremorphosis Stacks",
+			"total_title": "Ceremorphosis Stack Bonus",
+			"desc_forced_order": 2,
+			"listen_for_computed_changes": true,
+			"amount_updated_listeners": [
+				"upgrade_unlocked",
+				"slot_changed",
+				"feat_changed"
+			]
+		},
+		{
+			"off_when_benched": true,
+			"outgoing_buffs": false,
+			"effect_string": "karlach_ceremorphosis_stacks,1",
+			"manual_stacking": true,
+			"stacks_multiply": false,
+			"show_stacks": true,
+			"stack_title": "Karlach Ceremorphosis Stacks",
+			"desc_forced_order": 1,
+			"skip_effect_key_desc": true
+		},
+		{
+			"off_when_benched": true,
+			"effect_string": "do_nothing,20",
+			"skip_effect_key_desc": true
+		},
+		{
+			"off_when_benched": true,
+			"effect_string": "increase_health_by_source_percent,0",
+			"amount_expr": "upgrade_amount(13722,2)+max_upgrade_amount(13722,0)",
+			"percent_values": false,
+			"round_bonus_value": true,
+			"show_current_value_bonus_desc": false,
+			"use_computed_amount_for_description": true,
+			"override_key_desc": "Increases the Health of $target by $amount",
+			"targets": [
+				"other"
+			],
+			"desc_forced_order": 3
+		}
+	],
+	"requirements": "",
+	"graphic_id": 21820,
+	"properties": {
+		"is_formation_ability": true,
+		"owner_use_outgoing_description": true,
+		"indexed_effect_properties": true,
+		"per_effect_index_bonuses": true,
+		"default_bonus_index": 0,
+		"retain_on_slot_changed": true
+	}
 }
 </pre>
 </p>
@@ -469,57 +469,57 @@ Upgrades:
 <p>
 <pre>
 {
-    "id": 13723,
-    "hero_id": 143,
-    "required_level": 15,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,1813",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "Rage",
-    "tip_text": "Karlach further increases the effect of The Fury of Avernus each time she attacks or is attacked in an area."
+	"id": 13723,
+	"hero_id": 143,
+	"required_level": 15,
+	"required_upgrade_id": 0,
+	"upgrade_type": "unlock_ability",
+	"effect": "effect_def,1813",
+	"static_dps_mult": null,
+	"default_enabled": 1,
+	"name": "Rage",
+	"tip_text": "Karlach further increases the effect of The Fury of Avernus each time she attacks or is attacked in an area."
 }
 {
-    "id": 1813,
-    "flavour_text": "",
-    "description": {
-        "desc": "When Karlach attacks or is attacked, she gains a Rage stack, capped at $(karlach_rage_max_stacks) stacks. Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Rage stack, stacking multiplicatively. Stacks are reduced by $(karlach_rage_reduce_percent)% when changing areas."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "buff_upgrade,25,13721",
-            "show_bonus": true,
-            "stacks_multiply": true,
-            "stack_title": "Rage stacks",
-            "manual_stacking": true
-        },
-        {
-            "effect_string": "karlach_rage",
-            "default_reduce_percent": 60,
-            "default_max_stacks": 50,
-            "underlay_min_rage": 20,
-            "underlay_index": 2
-        },
-        {
-            "apply_manually": true,
-            "effect_string": "karlach_infernal_engine_underlay",
-            "active_graphic_id": 22013,
-            "overlay_location": "slot",
-            "bottom": true,
-            "overlay_play_mode": "always"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 21824,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
-        "retain_on_slot_changed": true
-    }
+	"id": 1813,
+	"flavour_text": "",
+	"description": {
+		"desc": "When Karlach attacks or is attacked, she gains a Rage stack, capped at $(karlach_rage_max_stacks) stacks. Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Rage stack, stacking multiplicatively. Stacks are reduced by $(karlach_rage_reduce_percent)% when changing areas."
+	},
+	"effect_keys": [
+		{
+			"effect_string": "buff_upgrade,25,13721",
+			"show_bonus": true,
+			"stacks_multiply": true,
+			"stack_title": "Rage stacks",
+			"manual_stacking": true
+		},
+		{
+			"effect_string": "karlach_rage",
+			"default_reduce_percent": 60,
+			"default_max_stacks": 50,
+			"underlay_min_rage": 20,
+			"underlay_index": 2
+		},
+		{
+			"apply_manually": true,
+			"effect_string": "karlach_infernal_engine_underlay",
+			"active_graphic_id": 22013,
+			"overlay_location": "slot",
+			"bottom": true,
+			"overlay_play_mode": "always"
+		}
+	],
+	"requirements": "",
+	"graphic_id": 21824,
+	"properties": {
+		"is_formation_ability": true,
+		"owner_use_outgoing_description": true,
+		"indexed_effect_properties": true,
+		"per_effect_index_bonuses": true,
+		"default_bonus_index": 0,
+		"retain_on_slot_changed": true
+	}
 }
 </pre>
 </p>
@@ -545,69 +545,69 @@ Upgrades:
 <p>
 <pre>
 {
-    "id": 13724,
-    "hero_id": 143,
-    "required_level": 20,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,1814",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "Infernal Engine"
+	"id": 13724,
+	"hero_id": 143,
+	"required_level": 20,
+	"required_upgrade_id": 0,
+	"upgrade_type": "unlock_ability",
+	"effect": "effect_def,1814",
+	"static_dps_mult": null,
+	"default_enabled": 1,
+	"name": "Infernal Engine"
 }
 {
-    "id": 1814,
-    "flavour_text": "",
-    "description": {
-        "desc": "While Karlach has $(min_rage_stacks___2) or more Rage stacks, she ignites on fire dealing $(not_buffed amount) second of BUD-based damage for each Rage stack to any enemy that attacks her. (Stacking additively)"
-    },
-    "effect_keys": [
-        {
-            "effect_string": "pre_stack_amount,0.1"
-        },
-        {
-            "effect_string": "deal_bud_damage_when_hit,0",
-            "amount_expr": "upgrade_amount(13724,0)",
-            "returned_damage_hit_graphic_id": 849,
-            "amount_func": "add",
-            "stacks_multiply": false,
-            "stack_func": "per_other_stack_count",
-            "other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)*upgrade_stacks(13723,0)",
-            "min_rage_stacks": 20,
-            "amount_updated_listeners": [
-                "stacks_changed"
-            ],
-            "changing_stack_upgade_ids": [
-                13723
-            ],
-            "stack_title": "Effective Rage stacks",
-            "total_title": "Seconds of BUD",
-            "show_bonus": true,
-            "percent_values": false
-        },
-        {
-            "effect_string": "karlach_infernal_engine",
-            "amount_func": "add",
-            "stacks_multiply": false,
-            "stack_func": "per_other_stack_count",
-            "listen_for_computed_changes": true,
-            "other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)",
-            "min_rage_stacks": 20,
-            "amount_updated_listeners": [
-                "stacks_changed"
-            ]
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 21823,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
-        "retain_on_slot_changed": true
-    }
+	"id": 1814,
+	"flavour_text": "",
+	"description": {
+		"desc": "While Karlach has $(min_rage_stacks___2) or more Rage stacks, she ignites on fire dealing $(not_buffed amount) second of BUD-based damage for each Rage stack to any enemy that attacks her. (Stacking additively)"
+	},
+	"effect_keys": [
+		{
+			"effect_string": "pre_stack_amount,0.1"
+		},
+		{
+			"effect_string": "deal_bud_damage_when_hit,0",
+			"amount_expr": "upgrade_amount(13724,0)",
+			"returned_damage_hit_graphic_id": 849,
+			"amount_func": "add",
+			"stacks_multiply": false,
+			"stack_func": "per_other_stack_count",
+			"other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)*upgrade_stacks(13723,0)",
+			"min_rage_stacks": 20,
+			"amount_updated_listeners": [
+				"stacks_changed"
+			],
+			"changing_stack_upgade_ids": [
+				13723
+			],
+			"stack_title": "Effective Rage stacks",
+			"total_title": "Seconds of BUD",
+			"show_bonus": true,
+			"percent_values": false
+		},
+		{
+			"effect_string": "karlach_infernal_engine",
+			"amount_func": "add",
+			"stacks_multiply": false,
+			"stack_func": "per_other_stack_count",
+			"listen_for_computed_changes": true,
+			"other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)",
+			"min_rage_stacks": 20,
+			"amount_updated_listeners": [
+				"stacks_changed"
+			]
+		}
+	],
+	"requirements": "",
+	"graphic_id": 21823,
+	"properties": {
+		"is_formation_ability": true,
+		"owner_use_outgoing_description": true,
+		"indexed_effect_properties": true,
+		"per_effect_index_bonuses": true,
+		"default_bonus_index": 0,
+		"retain_on_slot_changed": true
+	}
 }
 </pre>
 </p>
@@ -631,38 +631,38 @@ Upgrades:
 <p>
 <pre>
 {
-    "id": 13725,
-    "hero_id": 143,
-    "required_level": 25,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,1815",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "An Experienced Gladiator"
+	"id": 13725,
+	"hero_id": 143,
+	"required_level": 25,
+	"required_upgrade_id": 0,
+	"upgrade_type": "unlock_ability",
+	"effect": "effect_def,1815",
+	"static_dps_mult": null,
+	"default_enabled": 1,
+	"name": "An Experienced Gladiator"
 }
 {
-    "id": 1815,
-    "flavour_text": "",
-    "description": {
-        "desc": "Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Zariel Patron variant you have completed, stacking multiplicatively."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "buff_upgrade,10,13721",
-            "show_bonus": true,
-            "amount_func": "mult",
-            "stack_func": "per_patron_variant_complete",
-            "patron_id": 4,
-            "stack_title": "Zariel Patron Variants Complete"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 21821,
-    "properties": {
-        "is_formation_ability": true,
-        "use_outgoing_description": true
-    }
+	"id": 1815,
+	"flavour_text": "",
+	"description": {
+		"desc": "Karlach increases the effect of The Fury of Avernus by $(not_buffed amount)% for each Zariel Patron variant you have completed, stacking multiplicatively."
+	},
+	"effect_keys": [
+		{
+			"effect_string": "buff_upgrade,10,13721",
+			"show_bonus": true,
+			"amount_func": "mult",
+			"stack_func": "per_patron_variant_complete",
+			"patron_id": 4,
+			"stack_title": "Zariel Patron Variants Complete"
+		}
+	],
+	"requirements": "",
+	"graphic_id": 21821,
+	"properties": {
+		"is_formation_ability": true,
+		"use_outgoing_description": true
+	}
 }
 </pre>
 </p>
@@ -678,51 +678,51 @@ Upgrades:
 <p>
 <pre>
 {
-    "id": 13726,
-    "hero_id": 143,
-    "required_level": 30,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,1816",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "Berserker",
-    "specialization_name": "Berserker",
-    "specialization_description": "Karlach's rage is filled with unmatched fury, increasing her damage.",
-    "specialization_graphic_id": 21825
+	"id": 13726,
+	"hero_id": 143,
+	"required_level": 30,
+	"required_upgrade_id": 0,
+	"upgrade_type": "unlock_ability",
+	"effect": "effect_def,1816",
+	"static_dps_mult": null,
+	"default_enabled": 1,
+	"name": "Berserker",
+	"specialization_name": "Berserker",
+	"specialization_description": "Karlach's rage is filled with unmatched fury, increasing her damage.",
+	"specialization_graphic_id": 21825
 }
 {
-    "id": 1816,
-    "flavour_text": "",
-    "description": {
-        "desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she increases her damage by $(not_buffed amount)% for each Rage stack she has, stacking multiplicatively."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "hero_dps_multiplier_mult,25",
-            "amount_func": "mult",
-            "stacks_multiply": true,
-            "stack_func": "per_other_stack_count",
-            "other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)*upgrade_stacks(13723,0)",
-            "min_rage_stacks": 20,
-            "amount_updated_listeners": [
-                "stacks_changed"
-            ],
-            "changing_stack_upgade_ids": [
-                13723
-            ],
-            "stack_title": "Effective Rage stacks",
-            "total_title": "Bonus Damage",
-            "show_bonus": true
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
-    }
+	"id": 1816,
+	"flavour_text": "",
+	"description": {
+		"desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she increases her damage by $(not_buffed amount)% for each Rage stack she has, stacking multiplicatively."
+	},
+	"effect_keys": [
+		{
+			"effect_string": "hero_dps_multiplier_mult,25",
+			"amount_func": "mult",
+			"stacks_multiply": true,
+			"stack_func": "per_other_stack_count",
+			"other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)*upgrade_stacks(13723,0)",
+			"min_rage_stacks": 20,
+			"amount_updated_listeners": [
+				"stacks_changed"
+			],
+			"changing_stack_upgade_ids": [
+				13723
+			],
+			"stack_title": "Effective Rage stacks",
+			"total_title": "Bonus Damage",
+			"show_bonus": true
+		}
+	],
+	"requirements": "",
+	"graphic_id": 0,
+	"properties": {
+		"is_formation_ability": true,
+		"owner_use_outgoing_description": true,
+		"formation_circle_icon": false
+	}
 }
 </pre>
 </p>
@@ -736,51 +736,51 @@ Upgrades:
 <p>
 <pre>
 {
-    "id": 13728,
-    "hero_id": 143,
-    "required_level": 30,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,1818",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "Wild Magic",
-    "specialization_name": "Wild Magic",
-    "specialization_description": "Karlach embraces the mental connection she has with other Champions undergoing Ceremorphosis, increasing her support capabilities.",
-    "specialization_graphic_id": 21827
+	"id": 13728,
+	"hero_id": 143,
+	"required_level": 30,
+	"required_upgrade_id": 0,
+	"upgrade_type": "unlock_ability",
+	"effect": "effect_def,1818",
+	"static_dps_mult": null,
+	"default_enabled": 1,
+	"name": "Wild Magic",
+	"specialization_name": "Wild Magic",
+	"specialization_description": "Karlach embraces the mental connection she has with other Champions undergoing Ceremorphosis, increasing her support capabilities.",
+	"specialization_graphic_id": 21827
 }
 {
-    "id": 1818,
-    "flavour_text": "",
-    "description": {
-        "desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she increases the effect of The Fury of Avernus by $(not_buffed amount)% for each stack of Ceremorphosis, stacking multiplicatively."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "buff_upgrade,100,13721",
-            "amount_func": "mult",
-            "stacks_multiply": true,
-            "stack_func": "per_other_stack_count",
-            "other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)*upgrade_stacks(13722,0)",
-            "min_rage_stacks": 20,
-            "amount_updated_listeners": [
-                "stacks_changed"
-            ],
-            "changing_stack_upgade_ids": [
-                13723,
-                13722
-            ],
-            "stack_title": "Effective Ceremorphosis Stacks",
-            "total_title": "Bonus Damage",
-            "show_bonus": true
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "formation_circle_icon": false
-    }
+	"id": 1818,
+	"flavour_text": "",
+	"description": {
+		"desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she increases the effect of The Fury of Avernus by $(not_buffed amount)% for each stack of Ceremorphosis, stacking multiplicatively."
+	},
+	"effect_keys": [
+		{
+			"effect_string": "buff_upgrade,100,13721",
+			"amount_func": "mult",
+			"stacks_multiply": true,
+			"stack_func": "per_other_stack_count",
+			"other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)*upgrade_stacks(13722,0)",
+			"min_rage_stacks": 20,
+			"amount_updated_listeners": [
+				"stacks_changed"
+			],
+			"changing_stack_upgade_ids": [
+				13723,
+				13722
+			],
+			"stack_title": "Effective Ceremorphosis Stacks",
+			"total_title": "Bonus Damage",
+			"show_bonus": true
+		}
+	],
+	"requirements": "",
+	"graphic_id": 0,
+	"properties": {
+		"is_formation_ability": true,
+		"formation_circle_icon": false
+	}
 }
 </pre>
 </p>
@@ -794,54 +794,54 @@ Upgrades:
 <p>
 <pre>
 {
-    "id": 13727,
-    "hero_id": 143,
-    "required_level": 30,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,1817",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "Wildheart",
-    "specialization_name": "Wildheart",
-    "specialization_description": "Karlach's unrelenting ferocity while raging sustains her, healing some of the damage she's taken each second.",
-    "specialization_graphic_id": 21826
+	"id": 13727,
+	"hero_id": 143,
+	"required_level": 30,
+	"required_upgrade_id": 0,
+	"upgrade_type": "unlock_ability",
+	"effect": "effect_def,1817",
+	"static_dps_mult": null,
+	"default_enabled": 1,
+	"name": "Wildheart",
+	"specialization_name": "Wildheart",
+	"specialization_description": "Karlach's unrelenting ferocity while raging sustains her, healing some of the damage she's taken each second.",
+	"specialization_graphic_id": 21826
 }
 {
-    "id": 1817,
-    "flavour_text": "",
-    "description": {
-        "desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she heals $(amount)% of her max health every second."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "heal,10",
-            "targets": [
-                "self_slot"
-            ],
-            "slot_change_updates_targets": true,
-            "use_percent": true,
-            "use_computed_heal_value": true,
-            "amount_func": "add",
-            "stacks_multiply": false,
-            "stack_func": "per_other_stack_count",
-            "other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)",
-            "min_rage_stacks": 20,
-            "amount_updated_listeners": [
-                "stacks_changed"
-            ],
-            "changing_stack_upgade_ids": [
-                13723
-            ]
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
-    }
+	"id": 1817,
+	"flavour_text": "",
+	"description": {
+		"desc": "While Karlach has $(min_rage_stacks) or more Rage stacks, she heals $(amount)% of her max health every second."
+	},
+	"effect_keys": [
+		{
+			"effect_string": "heal,10",
+			"targets": [
+				"self_slot"
+			],
+			"slot_change_updates_targets": true,
+			"use_percent": true,
+			"use_computed_heal_value": true,
+			"amount_func": "add",
+			"stacks_multiply": false,
+			"stack_func": "per_other_stack_count",
+			"other_stack_count_expr": "clamp(floor(upgrade_stacks(13723,0)/min_rage_stacks),0,1)",
+			"min_rage_stacks": 20,
+			"amount_updated_listeners": [
+				"stacks_changed"
+			],
+			"changing_stack_upgade_ids": [
+				13723
+			]
+		}
+	],
+	"requirements": "",
+	"graphic_id": 0,
+	"properties": {
+		"is_formation_ability": true,
+		"owner_use_outgoing_description": true,
+		"formation_circle_icon": false
+	}
 }
 </pre>
 </p>
