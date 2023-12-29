@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Encrusted Accessories | 29 Dec | **Nrakk** | Asharra | Tyril | Korth | Warden | Golden Epic |
 | The Rivals Arrival | 05 Jan | **D'hani** | Nayeli | Calliope | Shaka | Gazrick | Golden Epic |
 | Misunderstood Heroes | 12 Jan | **Wyll** | Makos | Minsc | Astarion | Lae'zel | Golden Epic |
 | Psychomancer's Allies | 19 Jan | **Selise** | Bruenor | Celeste | Artemis | Virgil | Golden Epic |
