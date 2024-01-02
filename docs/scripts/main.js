@@ -33,7 +33,7 @@ nnm.map.set("Briv", "Skippy");
 nnm.map.set("Black Viper", "BV");
 nnm.map.set("Antrius", "Antivirus");
 nnm.map.set("Egbert", "Egg...Bert");
-nnm.map.set("Corazón", "Côrăžón");
+nnm.map.set("Corazón", "Crappiráte");
 nnm.map.set("Binwin", "Binwho?");
 nnm.map.set("Zorbu", "Murdergnome");
 nnm.map.set("Commodore Krux", "Hippo");
