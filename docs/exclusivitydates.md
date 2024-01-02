@@ -14,51 +14,6 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Steam Giveaway Early Astarion & Acquisitions Incorporated Renown Pack Icon](images/general/steam.png)**Steam Giveaway** - Early Astarion & Acquisitions Incorporated Renown Pack
-            </span>
-        </span>
-        <span id="g1" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Jim Darkmagic's Dove Familiar Icon](images/exclusivities/fam_167.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Jim Darkmagic's Dove</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>04 September 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>11 September 2023</span>
-            </span>
-            <span class="postSeasonTableDateLate">
-                <span>11 December 2023 (Guess) (Late)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="s4a" onclick="exclusiveToggleContent(`s4`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -362,13 +317,13 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![EGS Giveaway Dark Justiciar Shadowheart Party Pack Icon](images/general/egs.png)**EGS Giveaway** - Dark Justiciar Shadowheart Party Pack
             </span>
         </span>
-        <span id="g2" hidden>
+        <span id="g1" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
