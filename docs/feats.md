@@ -240,7 +240,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Tiefling Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Tiefling Glitch (Miria)**If you'll excuse me, you're in my way, and I have to do something about that!</span>Tiefling Glitch
         </span>
         <span class="featTableEffect">
-            <span>Counts as Tiefling & +25% to Mage of High Sorcery per Tiefling</span>
+            <span>Counts as Tiefling & +20% to Mage of High Sorcery per Tiefling</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
