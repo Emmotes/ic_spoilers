@@ -30,6 +30,57 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>D'hani</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Color Theory Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Color Theory (D'hani)**Fighting is like mixing paint. You need to know what works for a situation.</span>Color Theory
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>Season 7</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>D'hani</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Fresh Palette Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Fresh Palette (D'hani)**A refreshed fighter is a strong fighter.</span>Fresh Palette
+        </span>
+        <span class="featTableEffect">
+            <span>40% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>Season 7</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>D'hani</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Group Portrait Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Group Portrait (D'hani)**It wouldn't be complete without all of us.</span>Group Portrait
+        </span>
+        <span class="featTableEffect">
+            <span>20% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Gazrick</span>
         </span>
         <span class="featTableIcon4">
@@ -74,6 +125,74 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableSource">
             <span>Season 7 (Guess)</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Selise</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Champion of Tyr Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Champion of Tyr (Selise)**Tyr, give me strength!</span>Champion of Tyr
+        </span>
+        <span class="featTableEffect">
+            <span>100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars</span>
+        </span>
+        <span class="featTableSource">
+            <span>Season 7</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Selise</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">**Taunt (Selise)**I've killed Death. You're nothing compared to that.</span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span>400% Self DPS & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span>Season 7</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Shaka</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Puzzling Answers Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Puzzling Answers (Shaka)**The answer you get may not be the answer you need.</span>Puzzling Answers
+        </span>
+        <span class="featTableEffect">
+            <span>40% Riddling Rivals</span>
+        </span>
+        <span class="featTableSource">
+            <span>Season 7</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Shaka</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Riddles Within Riddles Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Riddles Within Riddles (Shaka)**There is far more to this than you might think.</span>Riddles Within Riddles
+        </span>
+        <span class="featTableEffect">
+            <span>80% Riddling Rivals</span>
+        </span>
+        <span class="featTableSource">
+            <span>Season 7</span>
         </span>
         <span class="featTableDate">
             <span>03 Jan 2024</span>
@@ -145,6 +264,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>10 Jan 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>D'hani</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fields of Green Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Fields of Green (D'hani)**I think we need a bit more mossy colors.</span>Fields of Green
+        </span>
+        <span class="featTableEffect">
+            <span>80% Stroke of Green</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>24 Jan 2024</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -300,6 +436,23 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>06 Mar 2024</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Miria</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tiefling Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Tiefling Glitch (Miria)**If you'll excuse me, you're in my way, and I have to do something about that!</span>Tiefling Glitch
+        </span>
+        <span class="featTableEffect">
+            <span>Counts as Tiefling & +25% to Mage of High Sorcery per Tiefling</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>27 Mar 2024</span>
+        </span>
+    </span>
 </span>
 
 # Placeholder Date Feats
@@ -324,6 +477,91 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>D'hani</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Buff Blue Paint Chance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Blue Paint Chance (D'hani)**</span>Buff Blue Paint Chance
+        </span>
+        <span class="featTableEffect">
+            <span>80% Blotch of Blue</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>10 Nov 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>D'hani</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Buff Blue Stun Duration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Blue Stun Duration (D'hani)**</span>Buff Blue Stun Duration
+        </span>
+        <span class="featTableEffect">
+            <span>80% Duration Blotch of Blue</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>10 Nov 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>D'hani</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Buff Green AOE damage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Green AOE damage (D'hani)**</span>Buff Green AOE damage
+        </span>
+        <span class="featTableEffect">
+            <span>80% Stroke of Green</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>10 Nov 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>D'hani</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Buff Yellow Gold Buff Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Yellow Gold Buff (D'hani)**</span>Buff Yellow Gold Buff
+        </span>
+        <span class="featTableEffect">
+            <span>80% Splash of Yellow</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>10 Nov 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>D'hani</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Buff Yellow Paint Chance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Yellow Paint Chance (D'hani)**</span>Buff Yellow Paint Chance
+        </span>
+        <span class="featTableEffect">
+            <span>80% Splash of Yellow</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>10 Nov 2030</span>
         </span>
     </span>
     <span class="featTableRow">

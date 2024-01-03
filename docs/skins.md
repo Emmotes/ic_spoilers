@@ -11,41 +11,13 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Spelljammer Pilot Miria Portrait](images/skin_portraits/spelljammerpilotmiria.png)Spelljammer Pilot Miria
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">03 Jan 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Spelljammer Pilot Orkira Portrait](images/skin_portraits/spelljammerpilotorkira.png)Spelljammer Pilot Orkira
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Adventure: One Spelljammer at a Time</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">03 Jan 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Spelljammer Pilot Strix Portrait](images/skin_portraits/spelljammerpilotstrix.png)Spelljammer Pilot Strix
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">Free</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">03 Jan 2024</span>
@@ -179,6 +151,34 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Spelljammer Pilot Miria Portrait](images/skin_portraits/spelljammerpilotmiria.png)Spelljammer Pilot Miria
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">24 Jan 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Spelljammer Pilot Strix Portrait](images/skin_portraits/spelljammerpilotstrix.png)Spelljammer Pilot Strix
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">24 Jan 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Mythic Presto Portrait](images/skin_portraits/mythicpresto.png)Mythic Presto
         </span>
         <span class="skinTableSource">
@@ -264,6 +264,20 @@ Please be aware that the developers recently removed most future skins from the 
     <span class="skinTableRow">
         <span class="skinTableIcon">
             ![Tiefling Glitch Miria Portrait](images/skin_portraits/tieflingglitchmiria.png)Tiefling Glitch Miria
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">27 Mar 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Undead Knight Solaak Portrait](images/skin_portraits/undeadknightsolaak.png)Undead Knight Solaak
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
