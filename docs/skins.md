@@ -56,7 +56,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Spelljammer Pilot Miria Portrait](images/skin_portraits/spelljammerpilotmiria.png)Spelljammer Pilot Miria
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Emergence 5 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -70,7 +70,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Spelljammer Pilot Strix Portrait](images/skin_portraits/spelljammerpilotstrix.png)Spelljammer Pilot Strix
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Emergence 5 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -95,7 +95,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Spelljammer Pilot Vi
+            ![Spelljammer Pilot Vi Portrait](images/skin_portraits/spelljammerpilotvi.png)Spelljammer Pilot Vi
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Spelljammer Pilot Vi Skin & Feat Pack</span>
@@ -140,10 +140,10 @@ Please be aware that the developers recently removed most future skins from the 
             ![Baldur's Gate Dynaheir Portrait](images/skin_portraits/baldursgatedynaheir.png)Baldur's Gate Dynaheir
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Baldur's Gate Dynaheir Theme Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$24.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">21 Feb 2024</span>
@@ -151,13 +151,27 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Dragonborn Glitch Strongheart Portrait](images/skin_portraits/dragonbornglitchstrongheart.png)Dragonborn Glitch Strongheart
+            ![Undead Knight Solaak Portrait](images/skin_portraits/undeadknightsolaak.png)Undead Knight Solaak
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Undead Knight Solaak Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$9.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Mind Flayer Dark Urge
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mind Flayer Dark Urge Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$24.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">06 Mar 2024</span>
@@ -165,13 +179,13 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Tiefling Glitch Miria Portrait](images/skin_portraits/tieflingglitchmiria.png)Tiefling Glitch Miria
+            ![Dragonborn Glitch Strongheart Portrait](images/skin_portraits/dragonbornglitchstrongheart.png)Dragonborn Glitch Strongheart
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Dragonborn Glitch Strongheart Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$9.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">27 Mar 2024</span>
@@ -179,16 +193,16 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Undead Knight Solaak Portrait](images/skin_portraits/undeadknightsolaak.png)Undead Knight Solaak
+            ![Tiefling Glitch Miria Portrait](images/skin_portraits/tieflingglitchmiria.png)Tiefling Glitch Miria
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Tiefling Glitch Miria Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$9.99</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">27 Mar 2024</span>
         </span>
     </span>
 </span>

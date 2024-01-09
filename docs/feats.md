@@ -1076,6 +1076,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Gazrick</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Moving Shop Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Moving Shop (Gazrick)**Part of the fun is never knowing where you will set up next!</span>Moving Shop
+        </span>
+        <span class="featTableEffect">
+            <span>80% Travelling Merchant</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Alyndra</span>
         </span>
         <span class="featTableIcon4">

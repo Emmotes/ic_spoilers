@@ -94,6 +94,22 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Celeste Starter Pack - $9.99  
+Date of release: 07 Feb 2024
+
+Contents:
+
+* Chests: `Gold Chest (Guess)` x5 (Shinies x1)
+* Loot: `Ornate Headband of Faith` (Celeste Slot 1  Golden Epic)
+* Loot: `Golden Gauntlets` (Celeste Slot 2  Rare)
+* Loot: `Thick Scalemail Belt` (Celeste Slot 3  Rare)
+* Loot: `Copper Amulet` (Celeste Slot 4  Rare)
+* Loot: `Chainmail Boots` (Celeste Slot 5  Rare)
+* Loot: `Ornate Holy Symbol` (Celeste Slot 6  Rare)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Aasimar Glitch Donaar Skin & Feat Pack - $9.99  
 Date of release: 14 Feb 2024
 
@@ -105,6 +121,111 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Donaar Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Russet the Fox Familiar Pack - $14.99  
+Date of release: 14 Feb 2024
+
+Contents:
+
+* Familiar: `The Hawk Man`
+* Buff: `Huge Potion of Speed` x6
+* Buff: `Huge Potion of Giant's Strength` x6
+* Buff: `Huge Potion of Clairvoyance` x6
+* Buff: `Huge Potion of Fire Breath` x6
+* Buff: `Potion of the Gold Hunter` x1
+* Modron: `Upgrade Components` x2,000
+* Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Baldur's Gate Dynaheir Theme Pack - $24.99  
+Date of release: 21 Feb 2024
+
+Contents:
+
+* Champion: `Dynaheir`
+* Skin: `Baldur's Gate Dynaheir`
+* Feat: ???
+* Familiar: `Beljuril the Chicken`
+* Chests: `Gold  Dynaheir Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Undead Knight Solaak Skin & Feat Pack - $9.99  
+Date of release: 21 Feb 2024
+
+Contents:
+
+* Champion: `Solaak`
+* Skin: `Undead Knight Solaak`
+* Feat: `Twin Souls` (Solaak)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Solaak Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Mind Flayer Dark Urge Theme Pack - $24.99  
+Date of release: 06 Mar 2024
+
+Contents:
+
+* Champion: `Dark Urge`
+* Skin: `Mind Flayer Dark Urge`
+* Feat: ???
+* Familiar: `Gale's Hand`
+* Chests: `Gold  Y7E9 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Dragonborn Glitch Strongheart Skin & Feat Pack - $9.99  
+Date of release: 27 Mar 2024
+
+Contents:
+
+* Champion: `Strongheart`
+* Skin: `Dragonborn Glitch Strongheart`
+* Feat: `Dragonborn Glitch` (Strongheart)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Strongheart Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Mosaic Mimir Familiar Pack - $4.99  
+Date of release: 27 Mar 2024
+
+Contents:
+
+* Familiar: `Mosaic Mimir Familiar`
+* Buff: `Huge Potion of Speed` x2
+* Buff: `Huge Potion of Giant's Strength` x2
+* Buff: `Huge Potion of Clairvoyance` x2
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Tiefling Glitch Miria Skin & Feat Pack - $9.99  
+Date of release: 27 Mar 2024
+
+Contents:
+
+* Champion: `Miria`
+* Skin: `Tiefling Glitch Miria`
+* Feat: `Tiefling Glitch` (Miria)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Miria Chest` x7 (Shinies x1)
 </div></div>
 
 
