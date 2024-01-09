@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![Emergence 5 Banner](images/emergence_5/banner.png)
-{% endcomment %}
 
 # Emergence 5
 
@@ -13,6 +11,15 @@ We know the next Emergence event will be Astral Elves and that it will start on 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This list might not be complete.*
 
 <span class="emergenceShopTableRow">
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Marvelous Support Pigment Icon](images/general/pigmint_support.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Pigmint**</span>
+            <span style="margin-left:15px">Marvelous Support Pigment</span>
+        </span>
+    </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
             ![Golden Epic Icon for Virgil Slot 5](images/emergence_5/ge_2757.png)
