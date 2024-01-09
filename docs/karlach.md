@@ -234,7 +234,7 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Soul Coin Icon](images/karlach/icon_soulcoin.png) **Ultimate Attack: Soul Coin** (Level: 35)
+![Soul Coin Icon](images/karlach/icon_soulcoin.png) **Ultimate Attack: Soul Coin** (Level: 150)
 > Karlach absorbs the energy of a soul coin, increasing her rage cap to 100 stacks and her Infernal Engine's BUD-based damage by 100%.  
 > Cooldown: 700s (Cap 175s)
 <details><summary><em>Raw Data</em></summary>
@@ -313,15 +313,34 @@ Karlach will be the new champion in the Midwinter event on 10 January 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Fury of Avernus Icon](images/karlach/icon_thefuryofavernus.png) **The Fury of Avernus** (Level: 5)
+![The Fury of Avernus Icon](images/karlach/icon_thefuryofavernus.png) **The Fury of Avernus** (Level: 10)
 > Karlach increases the damage of all Champions (including herself) in her column and the column behind her by 100%.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       40: 100%
+       50: 100%
+       90: 100%
+      180: 100%
+      270: 100%
+      360: 100%
+      440: 100%
+      530: 100%
+      610: 100%
+      690: 100%
+      780: 100%
+      860: 100%
+      940: 100%
+    1,020: 100%
+    1,100: 100%
+    1,190: 100%
+    1,260: 100%
+    1,340: 100%
+    1,430: 100%
+    1,510: 100%
+    1,620: 200%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 1.57e08%
 </pre>
 </p>
 </details>
@@ -331,7 +350,7 @@ Upgrades:
 {
     "id": 13721,
     "hero_id": 143,
-    "required_level": 5,
+    "required_level": 10,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1811",
@@ -366,7 +385,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Ceremorphosis Icon](images/karlach/icon_ceremorphosis.png) **Ceremorphosis** (Level: 10)
+![Ceremorphosis Icon](images/karlach/icon_ceremorphosis.png) **Ceremorphosis** (Level: 40)
 > Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Karlach's brain. Karlach increases the health of all other Champions by 20% of her max health, plus 2% for each Ceremorphosis stack the formation has, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -374,7 +393,7 @@ Upgrades:
 {
     "id": 13722,
     "hero_id": 143,
-    "required_level": 10,
+    "required_level": 40,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1812",
@@ -453,25 +472,15 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Rage Icon](images/karlach/icon_rage.png) **Rage** (Level: 15)
+![Rage Icon](images/karlach/icon_rage.png) **Rage** (Level: 70)
 > When Karlach attacks or is attacked, she gains a Rage stack, capped at 50 stacks. Karlach increases the effect of The Fury of Avernus by 25% for each Rage stack, stacking multiplicatively. Stacks are reduced by 60% when changing areas.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       45: 100%
-
-    Total Upgrade Bonus: 100%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 13723,
     "hero_id": 143,
-    "required_level": 15,
+    "required_level": 70,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1813",
@@ -527,18 +536,8 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Infernal Engine Icon](images/karlach/icon_infernalengine.png) **Infernal Engine** (Level: 20)
+![Infernal Engine Icon](images/karlach/icon_infernalengine.png) **Infernal Engine** (Level: 100)
 > While Karlach has 20 or more Rage stacks, she ignites on fire dealing 0.1 second of BUD-based damage for each Rage stack to any enemy that attacks her. (Stacking additively).
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       50: 100%
-
-    Total Upgrade Bonus: 100%
-</pre>
-</p>
-</details>
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -547,7 +546,7 @@ Upgrades:
 {
     "id": 13724,
     "hero_id": 143,
-    "required_level": 20,
+    "required_level": 100,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1814",
@@ -615,15 +614,16 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![An Experienced Gladiator Icon](images/karlach/icon_anexperiencedgladiator.png) **An Experienced Gladiator** (Level: 25)
+![An Experienced Gladiator Icon](images/karlach/icon_anexperiencedgladiator.png) **An Experienced Gladiator** (Level: 250)
 > Karlach increases the effect of The Fury of Avernus by 10% for each Zariel Patron variant you have completed, stacking multiplicatively.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       55: 100%
+      750: 100%
+    1,250: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 300%
 </pre>
 </p>
 </details>
@@ -633,7 +633,7 @@ Upgrades:
 {
     "id": 13725,
     "hero_id": 143,
-    "required_level": 25,
+    "required_level": 250,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1815",
@@ -672,7 +672,7 @@ Upgrades:
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Berserker Icon](images/karlach/icon_berserker.png) **Berserker** (Level: 30)
+![Berserker Icon](images/karlach/icon_berserker.png) **Berserker** (Level: 130)
 > While Karlach has 20 or more Rage stacks, she increases her damage by 25% for each Rage stack she has, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -680,7 +680,7 @@ Upgrades:
 {
     "id": 13726,
     "hero_id": 143,
-    "required_level": 30,
+    "required_level": 130,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1816",
@@ -730,7 +730,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Wild Magic Icon](images/karlach/icon_wildmagic.png) **Wild Magic** (Level: 30)
+![Wild Magic Icon](images/karlach/icon_wildmagic.png) **Wild Magic** (Level: 130)
 > While Karlach has 20 or more Rage stacks, she increases the effect of The Fury of Avernus by 100% for each stack of Ceremorphosis, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -738,7 +738,7 @@ Upgrades:
 {
     "id": 13728,
     "hero_id": 143,
-    "required_level": 30,
+    "required_level": 130,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1818",
@@ -788,7 +788,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Wildheart Icon](images/karlach/icon_wildheart.png) **Wildheart** (Level: 30)
+![Wildheart Icon](images/karlach/icon_wildheart.png) **Wildheart** (Level: 130)
 > While Karlach has 20 or more Rage stacks, she heals 10% of her max health every second.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -796,7 +796,7 @@ Upgrades:
 {
     "id": 13727,
     "hero_id": 143,
-    "required_level": 30,
+    "required_level": 130,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1817",
