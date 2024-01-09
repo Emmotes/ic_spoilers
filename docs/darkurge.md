@@ -433,15 +433,19 @@ Unknown.
 <pre>
 {
     "id": 1873,
-    "graphic": "Icons/Events/2017Wintershield/Wintershieldl_Icon_Banner",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true
     }
 }
 </pre>
@@ -457,15 +461,20 @@ Unknown.
 <pre>
 {
     "id": 1874,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Icon_Adventure",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_mult_per_tagged_crusader_mult,200,dragonborn"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Dragonborn Champions: $num_stacks"
     }
 }
 </pre>
@@ -481,15 +490,19 @@ Unknown.
 <pre>
 {
     "id": 1876,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Icon_BlessingsTab",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true
     }
 }
 </pre>
@@ -505,15 +518,19 @@ Unknown.
 <pre>
 {
     "id": 1875,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Icon_Blessings",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade_effect_stacks_trigger_mult,200,14379,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true
     }
 }
 </pre>
@@ -529,15 +546,19 @@ Unknown.
 <pre>
 {
     "id": 1877,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Icon_Currency",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true
     }
 }
 </pre>
