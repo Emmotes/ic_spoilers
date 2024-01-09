@@ -81,7 +81,7 @@ These are the event champions that are upcoming and all the information we know 
                 Dark Urge&nbsp;<span class="indexChampionTableNoLink">- Dragonborn Sorcerer (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Festival of Fools - 13 March 2024</span>
+                <span class="indexChampionTableNoLink">Festival of Fools - 6 March 2024</span>
             </span>
         </span>
     </span>

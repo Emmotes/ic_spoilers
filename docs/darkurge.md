@@ -13,7 +13,7 @@ Dynaheir was a young invoker in the wychlaran of Rashemen who undertook her daje
 
 # Basic Information
 
-Dark Urge will be the new champion in the Festival of Fools event on 13 March 2024.
+Dark Urge will be the new champion in the Festival of Fools event on 6 March 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
