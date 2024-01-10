@@ -13,25 +13,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="karlach.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Karlach Portrait Icon](images/karlach/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Karlach&nbsp;<span class="indexChampionTableNoLink">- Tiefling Barbarian of Absolute Adversaries</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Midwinter - 10 January 2024</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="presto.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
