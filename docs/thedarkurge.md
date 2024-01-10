@@ -5,7 +5,7 @@
 </span>
 {% endcomment %}
 
-# Dark Urge
+# The Dark Urge
 
 The Dark Urge is a special origin in Baldur's Gate 3 that can be played using any race, class, and gender, and will not be part of player's party if they are playing any other origin character.
 
@@ -13,7 +13,7 @@ The Dark Urge is a special origin in Baldur's Gate 3 that can be played using an
 
 # Basic Information
 
-Dark Urge will be the new champion in the Festival of Fools event on 6 March 2024.
+The Dark Urge will be the new champion in the Festival of Fools event on 6 March 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
@@ -87,7 +87,7 @@ Dark Urge will be the new champion in the Festival of Fools event on 6 March 202
 Unknown.
 {% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/darkurge/formation.png)
+    ![Formation Layout](images/thedarkurge/formation.png)
 </span>
 {% endcomment %}
 
@@ -583,10 +583,10 @@ Unknown.
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesChests">
-            ![Dark Urge Gold Chest Icon](images/darkurge/chest_gold.png)Gold Chest Icon
+            ![The Dark Urge Gold Chest Icon](images/thedarkurge/chest_gold.png)Gold Chest Icon
         </span>
         <span class="championImagesChests">
-            ![Dark Urge Silver Chest Icon](images/darkurge/chest_silver.png)Silver Chest Icon
+            ![The Dark Urge Silver Chest Icon](images/thedarkurge/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>

@@ -177,7 +177,7 @@ Date of release: 06 Mar 2024
 
 Contents:
 
-* Champion: `Dark Urge`
+* Champion: `The Dark Urge`
 * Skin: `Mind Flayer Dark Urge`
 * Feat: ???
 * Familiar: `Gale's Hand`
