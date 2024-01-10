@@ -9,7 +9,7 @@
 
 The Dark Urge is a special origin in Baldur's Gate 3 that can be played using any race, class, and gender, and will not be part of player's party if they are playing any other origin character.
 
-[Dark Urge - Baldur's Gate Wiki](https://bg3.wiki/wiki/The_Dark_Urge_(origin))
+[The Dark Urge - Baldur's Gate Wiki](https://bg3.wiki/wiki/The_Dark_Urge_(origin))
 
 # Basic Information
 
