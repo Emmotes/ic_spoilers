@@ -27,7 +27,7 @@ Contents:
 
 * Champion: `Presto`
 * Skin: `Mythic Presto`
-* Feat: ???
+* Feat: `Spell Me A Spell` (Presto)
 * Familiar: `The White Rabbit`
 * Chests: `Gold Presto Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
