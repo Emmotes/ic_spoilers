@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Feywild Fen Portrait](images/skin_portraits/feywildfen.png)Feywild Fen
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Feywild Fen Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">10 Jan 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Mind Flayer Karlach Portrait](images/skin_portraits/mindflayerkarlach.png)Mind Flayer Karlach
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Mind Flayer Karlach Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$24.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">10 Jan 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Spelljammer Pilot Gromma Portrait](images/skin_portraits/spelljammerpilotgromma.png)Spelljammer Pilot Gromma
         </span>
         <span class="skinTableSource">

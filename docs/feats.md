@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Fen</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Superior Oath Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Superior Oath (Fen)**You have no idea who you're messing with.</span>Superior Oath
-        </span>
-        <span class="featTableEffect">
-            <span>80% Mischievous, but Dangerous</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>10 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Karlach</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">**Taunt (Karlach)**C'mere, cutie.</span>Taunt
-        </span>
-        <span class="featTableEffect">
-            <span>400% Self DPS & 50% Taunt</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>10 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>D'hani</span>
         </span>
         <span class="featTableIcon4">
