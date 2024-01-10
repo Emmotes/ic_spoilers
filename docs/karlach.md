@@ -673,7 +673,7 @@ Upgrades:
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Berserker Icon](images/karlach/icon_berserker.png) **Berserker** (Level: 130)
-> While Karlach has 20 or more Rage stacks, she increases her damage by 25% for each Rage stack she has, stacking multiplicatively.
+> While Karlach has 20 or more Rage stacks, she increases her damage by 50% for each Rage stack she has, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -699,7 +699,7 @@ Upgrades:
     },
     "effect_keys": [
         {
-            "effect_string": "hero_dps_multiplier_mult,25",
+            "effect_string": "hero_dps_multiplier_mult,50",
             "amount_func": "mult",
             "stacks_multiply": true,
             "stack_func": "per_other_stack_count",
