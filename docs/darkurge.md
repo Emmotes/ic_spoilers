@@ -7,9 +7,9 @@
 
 # Dark Urge
 
-Dynaheir was a young invoker in the wychlaran of Rashemen who undertook her dajemma to the far off region of the Sword Coast in the mid-14th century DR. She was not alone on this journey, as she accompanied by her berserker companion Minsc and his hamster Boo.
+The Dark Urge is a special origin in Baldur's Gate 3 that can be played using any race, class, and gender, and will not be part of player's party if they are playing any other origin character.
 
-[Dark Urge - Baldur's Gate Fandom Wiki](https://baldursgate.fandom.com/wiki/The_Dark_Urge_(BG3))
+[Dark Urge - Baldur's Gate Wiki](https://bg3.wiki/wiki/The_Dark_Urge_(origin))
 
 # Basic Information
 
