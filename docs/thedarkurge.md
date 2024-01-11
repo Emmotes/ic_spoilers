@@ -1,9 +1,10 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsImage">
+        ![PC Portrait for The Dark Urge](images/thedarkurge/portrait.png)Portait
+    </span>
 </span>
-{% endcomment %}
 
 # The Dark Urge
 
