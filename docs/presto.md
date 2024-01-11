@@ -115,7 +115,7 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
             <span style="margin-left:8px;">Yes</span>
         </span>
         <span class="champStatsTablePatrons">
-            <span style="margin-left:8px;">-</span>
+            <span style="margin-left:8px;">Zariel (with Feat)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
