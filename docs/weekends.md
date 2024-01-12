@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Misunderstood Heroes | 12 Jan | **Wyll** | Makos | Minsc | Astarion | Lae'zel | Golden Epic |
 | Psychomancer's Allies | 19 Jan | **Selise** | Bruenor | Celeste | Artemis | Virgil | Golden Epic |
 | Fires of Avernus | 26 Jan | **Karlach** | Calliope | Jamilah | Shadowheart | Lae'zel | Golden Epic |
 | Young and the Reckless | 02 Feb | **DM** | Jarlaxle | Spurt | D'hani | Farideh | Golden Epic |
