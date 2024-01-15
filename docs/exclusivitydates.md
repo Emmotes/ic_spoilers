@@ -1195,9 +1195,10 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
         </span>
     </span>
 </span>
+
 # Old Exclusives
 
-This is the list of recurring events that have had their exclusivity period end. This means their contents are available again.
+This is the list of recurring events that have had their exclusivity period end. This means their contents are available again. This list does not include platform giveaways.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: They're sorted by the date at which they stopped being exclusive - with the most recent at the bottom. Ties sort by start date.*
 
