@@ -36,7 +36,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Fields of Green Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Fields of Green (D'hani)**I think we need a bit more mossy colors.</span>Fields of Green
         </span>
         <span class="featTableEffect">
-            <span>80% Stroke of Green</span>
+            <span>80% Chance to Apply Stroke of Green</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -436,7 +436,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Buff Blue Paint Chance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Blue Paint Chance (D'hani)**</span>Buff Blue Paint Chance
         </span>
         <span class="featTableEffect">
-            <span>80% Blotch of Blue</span>
+            <span>80% Chance to Apply Blotch of Blue</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -470,7 +470,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Buff Green AOE damage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Green AOE damage (D'hani)**</span>Buff Green AOE damage
         </span>
         <span class="featTableEffect">
-            <span>80% Stroke of Green</span>
+            <span>80% Damage of Stroke of Green</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -487,7 +487,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Buff Yellow Gold Buff Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Yellow Gold Buff (D'hani)**</span>Buff Yellow Gold Buff
         </span>
         <span class="featTableEffect">
-            <span>80% Splash of Yellow</span>
+            <span>80% Gold Find from Splash of Yellow</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -504,7 +504,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Buff Yellow Paint Chance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Yellow Paint Chance (D'hani)**</span>Buff Yellow Paint Chance
         </span>
         <span class="featTableEffect">
-            <span>80% Splash of Yellow</span>
+            <span>80% Chance to Apply Splash of Yellow</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
