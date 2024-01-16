@@ -163,7 +163,7 @@ Date of release: 27 Mar 2024
 
 Contents:
 
-* Familiar: `Mosaic Mimir Familiar`
+* Familiar: `Mosaic Mimir`
 * Buff: `Huge Potion of Speed` x2
 * Buff: `Huge Potion of Giant's Strength` x2
 * Buff: `Huge Potion of Clairvoyance` x2

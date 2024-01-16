@@ -370,23 +370,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Strongheart</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Dragonborn Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Dragonborn Glitch (Strongheart)**My heart now beats with the majesty of a dragon!</span>Dragonborn Glitch
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Dragonborn & +20% to Justice Needs Champions per Dragonborn</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>06 Mar 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Miria</span>
         </span>
         <span class="featTableIcon4">
@@ -394,6 +377,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableEffect">
             <span>Counts as Tiefling & +20% to Mage of High Sorcery per Tiefling</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>27 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Strongheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dragonborn Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Dragonborn Glitch (Strongheart)**My heart now beats with the majesty of a dragon!</span>Dragonborn Glitch
+        </span>
+        <span class="featTableEffect">
+            <span>Counts as Dragonborn & +20% to Justice Needs Champions per Dragonborn</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
