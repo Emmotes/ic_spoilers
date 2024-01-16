@@ -372,6 +372,51 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Switch Giveaway Nintendo Switch Sunset Giveaway Icon](images/general/switch.png)**Switch Giveaway** - Nintendo Switch Sunset Giveaway
+            </span>
+        </span>
+        <span id="g2" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Winter Intellect Devourer Familiar Icon](images/exclusivities/fam_187.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Winter Intellect Devourer</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>16 January 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>07 February 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>07 May 2024 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="s5a" onclick="exclusiveToggleContent(`s5`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
