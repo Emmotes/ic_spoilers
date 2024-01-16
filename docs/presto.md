@@ -310,15 +310,35 @@ Presto will be the new champion in the Grand Revel event on 31 January 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Hesitant Helper Icon](images/presto/icon_hesitanthelper.png) **Hesitant Helper** (Level: 10)
+![Hesitant Helper Icon](images/presto/icon_hesitanthelper.png) **Hesitant Helper** (Level: 30)
 > Presto increases the damage of Champions in the two columns in front of him by 100%.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       70: 100%
+      120: 100%
+      300: 100%
+      550: 100%
+      800: 100%
+    1,000: 100%
+    1,170: 100%
+    1,370: 100%
+    1,560: 100%
+    1,750: 100%
+    1,950: 100%
+    2,130: 100%
+    2,310: 100%
+    2,500: 100%
+    2,700: 100%
+    2,880: 100%
+    3,070: 100%
+    3,260: 100%
+    3,450: 100%
+    3,640: 100%
+    3,820: 100%
+    3,930: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 2.10e08%
 </pre>
 </p>
 </details>
@@ -328,7 +348,7 @@ Upgrades:
 {
     "id": 13762,
     "hero_id": 144,
-    "required_level": 10,
+    "required_level": 30,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1836",
@@ -363,29 +383,19 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Hat of Many Spells Icon](images/presto/icon_hatofmanyspells.png) **Hat of Many Spells** (Level: 20)
+![Hat of Many Spells Icon](images/presto/icon_hatofmanyspells.png) **Hat of Many Spells** (Level: 100)
 > Presto's attacks cause monsters hit by them to take +100% damage, stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile.  
 >   
 > Birthday Cake: The monster is slowed by 50% for 5 seconds.  
 > Skateboard: The monster is knocked back a short distance.  
 > Rotary Phone: The monster is stunned for 2.5 seconds.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       80: 100%
-
-    Total Upgrade Bonus: 100%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 13763,
     "hero_id": 144,
-    "required_level": 20,
+    "required_level": 100,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1837",
@@ -488,7 +498,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Component Scavenger Icon](images/presto/icon_componentscavenger.png) **Component Scavenger** (Level: 30)
+![Component Scavenger Icon](images/presto/icon_componentscavenger.png) **Component Scavenger** (Level: 1200)
 > Presto can help scavenge up to 2000 Modron Component Pieces when killing bosses. While this cap is not reached, Presto has a 10% chance of scavenging 1 Modron Component Piece each time a boss is defeated. The cap increases by 20 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -496,7 +506,7 @@ Upgrades:
 {
     "id": 13764,
     "hero_id": 144,
-    "required_level": 30,
+    "required_level": 1200,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1838",
@@ -534,7 +544,7 @@ Upgrades:
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Humble Heroes Icon](images/presto/icon_humbleheroes.png) **Humble Heroes** (Level: 50)
+![Humble Heroes Icon](images/presto/icon_humbleheroes.png) **Humble Heroes** (Level: 200)
 > Presto increases the damage bonus of Hesitant Helper by 100% for each Champion in the formation with a total ability score of 78 or less.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -542,7 +552,7 @@ Upgrades:
 {
     "id": 13765,
     "hero_id": 144,
-    "required_level": 50,
+    "required_level": 200,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1839",
@@ -595,7 +605,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Junior Juggernauts Icon](images/presto/icon_juniorjuggernauts.png) **Junior Juggernauts** (Level: 50)
+![Junior Juggernauts Icon](images/presto/icon_juniorjuggernauts.png) **Junior Juggernauts** (Level: 200)
 > Presto increases the damage bonus of Hesitant Helper by 100% for each Champion in the formation with an age of 20 or less.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -603,7 +613,7 @@ Upgrades:
 {
     "id": 13766,
     "hero_id": 144,
-    "required_level": 50,
+    "required_level": 200,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1840",
@@ -626,7 +636,7 @@ Upgrades:
             "amount_func": "mult",
             "stacks_multiply": true,
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "age<=20",
+            "per_hero_expr": "age<=20&&hero_id!=146",
             "amount_updated_listeners": [
                 "slot_changed"
             ],
@@ -648,7 +658,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Magical Mastery Icon](images/presto/icon_magicalmastery.png) **Magical Mastery** (Level: 50)
+![Magical Mastery Icon](images/presto/icon_magicalmastery.png) **Magical Mastery** (Level: 200)
 > Presto increases the damage bonus of Hesitant Helper by 100% for each Champion in the formation with a magic attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -656,7 +666,7 @@ Upgrades:
 {
     "id": 13767,
     "hero_id": 144,
-    "required_level": 50,
+    "required_level": 200,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1841",
