@@ -39,7 +39,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>80% Chance to Apply Stroke of Green</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 5</span>
         </span>
         <span class="featTableDate">
             <span>24 Jan 2024</span>
@@ -56,7 +56,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 5</span>
         </span>
         <span class="featTableDate">
             <span>24 Jan 2024</span>
@@ -90,7 +90,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>80% The Fury of Avernus</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 5</span>
         </span>
         <span class="featTableDate">
             <span>24 Jan 2024</span>
