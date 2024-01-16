@@ -4,6 +4,12 @@
     <span class="championPortraitsImage">
         ![PC Portrait for The Dark Urge](images/thedarkurge/portrait.png)Portait
     </span>
+    <span class="championPortraitsImage">
+        ![Model GIF of The Dark Urge](images/thedarkurge/model.gif)Base Model
+    </span>
+    <span class="championPortraitsImage">
+        ![Alternate Model GIF of The Dark Urge: Sceleritas Fel](images/thedarkurge/model-sceleritas-fel.gif)Sceleritas Fel Model
+    </span>
 </span>
 
 # The Dark Urge
