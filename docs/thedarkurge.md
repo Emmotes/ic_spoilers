@@ -154,6 +154,7 @@ Unknown.
     "cooldown": 5,
     "animations": [
         {
+            "character": "companion",
             "type": "melee_attack",
             "target_offset_x": -34,
             "damage_frame": 2,
@@ -178,7 +179,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Form of the Slayer**
 > Unknown effect.  
-> Cooldown: 5s (Cap 1.25s)
+> Cooldown: 15s (Cap 3.75s)
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
@@ -194,16 +195,12 @@ Unknown.
     "num_targets": 0,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 15,
     "animations": [
         {
-            "type": "melee_attack",
-            "target_offset_x": -34,
-            "damage_frame": 2,
-            "jump_sound": 30,
-            "sound_frames": {
-                "2": 154
-            }
+            "type": "ultimate_attack",
+            "ultimate": "dark_urge_slayer",
+            "no_damage_display": true
         }
     ],
     "tags": [
@@ -237,13 +234,9 @@ Unknown.
     "cooldown": 5,
     "animations": [
         {
-            "type": "melee_attack",
-            "target_offset_x": -34,
-            "damage_frame": 2,
-            "jump_sound": 30,
-            "sound_frames": {
-                "2": 154
-            }
+            "type": "ultimate_attack",
+            "ultimate": "dark_urge_withers",
+            "no_damage_display": true
         }
     ],
     "tags": [
@@ -396,9 +389,9 @@ Unknown.
             "per_hero_targets": [
                 "adj"
             ],
-            "default_stacks": 6,
+            "max_stacks": 6,
             "per_hero_expr": "as_int(!HasTag(`dps`))",
-            "post_process_expr": "max(default_stacks - input, 0)",
+            "post_process_expr": "clamp(max_stacks - input, 0, max_stacks)",
             "show_bonus": true,
             "stack_title": "Outcast Stacks",
             "amount_updated_listeners": [
@@ -417,6 +410,47 @@ Unknown.
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
         "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1878,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "dark_urge_slayer_form",
+            "buff_indicies": [
+                1,
+                2
+            ]
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "change_base_attack,736"
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "block_monster_damage"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -446,7 +480,9 @@ Unknown.
     "requirements": "",
     "graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -475,6 +511,8 @@ Unknown.
     "graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
         "spec_option_post_apply_info": "Dragonborn Champions: $num_stacks"
     }
 }
@@ -485,34 +523,6 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Storm Sorcery** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 1876,
-    "flavour_text": "",
-    "description": {
-        "desc": ""
-    },
-    "effect_keys": [
-        {
-            "effect_string": "do_nothing"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Embrace the Urge** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -531,7 +541,48 @@ Unknown.
     "requirements": "",
     "graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Embrace the Urge** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1876,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "set_ultimate_attack,737"
+        },
+        {
+            "effect_string": "hero_dps_mult_per_tagged_crusader_mult,100,evil"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1,
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Evil Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -553,23 +604,109 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "set_ultimate_attack,738"
+        },
+        {
+            "effect_string": "hero_dps_mult_per_tagged_crusader_mult,100,good"
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1,
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Good Champions: $num_stacks___2"
     }
 }
 </pre>
 </p>
 </details>
 </div></div>
+22586
+22587
+22588
+22589
+22590
+22591
+22592
+22593
+22594
+22595
+22596
+22597
+22598
+22599
+22600
+22601
+22602
+22603
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Dark Urge Accessories Icon](images/thedarkurge/22586.png)</span><span class="itemTableIcon2">![Dark Urge Accessories Icon](images/thedarkurge/22586.png)</span><span class="itemTableIcon3">![Dark Urge Accessories Icon](images/thedarkurge/22587.png)</span><span class="itemTableIcon4">![Dark Urge Accessories Icon](images/thedarkurge/22588.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Dark Urge Accessories
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Dark Urge Armor Icon](images/thedarkurge/22589.png)</span><span class="itemTableIcon2">![Dark Urge Armor Icon](images/thedarkurge/22589.png)</span><span class="itemTableIcon3">![Dark Urge Armor Icon](images/thedarkurge/22590.png)</span><span class="itemTableIcon4">![Dark Urge Armor Icon](images/thedarkurge/22591.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Dark Urge Armor
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Dark Urge Brain Surgery Stuff Icon](images/thedarkurge/22592.png)</span><span class="itemTableIcon2">![Dark Urge Brain Surgery Stuff Icon](images/thedarkurge/22592.png)</span><span class="itemTableIcon3">![Dark Urge Brain Surgery Stuff Icon](images/thedarkurge/22593.png)</span><span class="itemTableIcon4">![Dark Urge Brain Surgery Stuff Icon](images/thedarkurge/22594.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Dark Urge Brain Surgery Stuff
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Dark Urge Dagger Icon](images/thedarkurge/22595.png)</span><span class="itemTableIcon2">![Dark Urge Dagger Icon](images/thedarkurge/22595.png)</span><span class="itemTableIcon3">![Dark Urge Dagger Icon](images/thedarkurge/22596.png)</span><span class="itemTableIcon4">![Dark Urge Dagger Icon](images/thedarkurge/22597.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Dark Urge Dagger
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Dark Urge Memories Icon](images/thedarkurge/22598.png)</span><span class="itemTableIcon2">![Dark Urge Memories Icon](images/thedarkurge/22598.png)</span><span class="itemTableIcon3">![Dark Urge Memories Icon](images/thedarkurge/22599.png)</span><span class="itemTableIcon4">![Dark Urge Memories Icon](images/thedarkurge/22600.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Dark Urge Memories
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Dark Urge Trophies Icon](images/thedarkurge/22601.png)</span><span class="itemTableIcon2">![Dark Urge Trophies Icon](images/thedarkurge/22601.png)</span><span class="itemTableIcon3">![Dark Urge Trophies Icon](images/thedarkurge/22602.png)</span><span class="itemTableIcon4">![Dark Urge Trophies Icon](images/thedarkurge/22603.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Dark Urge Trophies
+        </span>
+    </span>
+</span>
 
 # Feats
 
