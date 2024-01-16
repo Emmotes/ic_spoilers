@@ -642,50 +642,50 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Dark Urge Accessories Icon](images/thedarkurge/22586.png)</span><span class="itemTableIcon2">![Dark Urge Accessories Icon](images/thedarkurge/22586.png)</span><span class="itemTableIcon3">![Dark Urge Accessories Icon](images/thedarkurge/22587.png)</span><span class="itemTableIcon4">![Dark Urge Accessories Icon](images/thedarkurge/22588.png)</span>
+            <span class="itemTableIcon1">![Accessories Icon](images/thedarkurge/22586.png)</span><span class="itemTableIcon2">![Accessories Icon](images/thedarkurge/22586.png)</span><span class="itemTableIcon3">![Accessories Icon](images/thedarkurge/22587.png)</span><span class="itemTableIcon4">![Accessories Icon](images/thedarkurge/22588.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Dark Urge Accessories
+            Accessories
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Dark Urge Armor Icon](images/thedarkurge/22589.png)</span><span class="itemTableIcon2">![Dark Urge Armor Icon](images/thedarkurge/22589.png)</span><span class="itemTableIcon3">![Dark Urge Armor Icon](images/thedarkurge/22590.png)</span><span class="itemTableIcon4">![Dark Urge Armor Icon](images/thedarkurge/22591.png)</span>
+            <span class="itemTableIcon1">![Armor Icon](images/thedarkurge/22589.png)</span><span class="itemTableIcon2">![Armor Icon](images/thedarkurge/22589.png)</span><span class="itemTableIcon3">![Armor Icon](images/thedarkurge/22590.png)</span><span class="itemTableIcon4">![Armor Icon](images/thedarkurge/22591.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Dark Urge Armor
+            Armor
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Dark Urge Brain Surgery Stuff Icon](images/thedarkurge/22592.png)</span><span class="itemTableIcon2">![Dark Urge Brain Surgery Stuff Icon](images/thedarkurge/22592.png)</span><span class="itemTableIcon3">![Dark Urge Brain Surgery Stuff Icon](images/thedarkurge/22593.png)</span><span class="itemTableIcon4">![Dark Urge Brain Surgery Stuff Icon](images/thedarkurge/22594.png)</span>
+            <span class="itemTableIcon1">![Brain Surgery Stuff Icon](images/thedarkurge/22592.png)</span><span class="itemTableIcon2">![Brain Surgery Stuff Icon](images/thedarkurge/22592.png)</span><span class="itemTableIcon3">![Brain Surgery Stuff Icon](images/thedarkurge/22593.png)</span><span class="itemTableIcon4">![Brain Surgery Stuff Icon](images/thedarkurge/22594.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Dark Urge Brain Surgery Stuff
+            Brain Surgery Stuff
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Dark Urge Dagger Icon](images/thedarkurge/22595.png)</span><span class="itemTableIcon2">![Dark Urge Dagger Icon](images/thedarkurge/22595.png)</span><span class="itemTableIcon3">![Dark Urge Dagger Icon](images/thedarkurge/22596.png)</span><span class="itemTableIcon4">![Dark Urge Dagger Icon](images/thedarkurge/22597.png)</span>
+            <span class="itemTableIcon1">![Dagger Icon](images/thedarkurge/22595.png)</span><span class="itemTableIcon2">![Dagger Icon](images/thedarkurge/22595.png)</span><span class="itemTableIcon3">![Dagger Icon](images/thedarkurge/22596.png)</span><span class="itemTableIcon4">![Dagger Icon](images/thedarkurge/22597.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Dark Urge Dagger
+            Dagger
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Dark Urge Memories Icon](images/thedarkurge/22598.png)</span><span class="itemTableIcon2">![Dark Urge Memories Icon](images/thedarkurge/22598.png)</span><span class="itemTableIcon3">![Dark Urge Memories Icon](images/thedarkurge/22599.png)</span><span class="itemTableIcon4">![Dark Urge Memories Icon](images/thedarkurge/22600.png)</span>
+            <span class="itemTableIcon1">![Memories Icon](images/thedarkurge/22598.png)</span><span class="itemTableIcon2">![Memories Icon](images/thedarkurge/22598.png)</span><span class="itemTableIcon3">![Memories Icon](images/thedarkurge/22599.png)</span><span class="itemTableIcon4">![Memories Icon](images/thedarkurge/22600.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Dark Urge Memories
+            Memories
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Dark Urge Trophies Icon](images/thedarkurge/22601.png)</span><span class="itemTableIcon2">![Dark Urge Trophies Icon](images/thedarkurge/22601.png)</span><span class="itemTableIcon3">![Dark Urge Trophies Icon](images/thedarkurge/22602.png)</span><span class="itemTableIcon4">![Dark Urge Trophies Icon](images/thedarkurge/22603.png)</span>
+            <span class="itemTableIcon1">![Trophies Icon](images/thedarkurge/22601.png)</span><span class="itemTableIcon2">![Trophies Icon](images/thedarkurge/22601.png)</span><span class="itemTableIcon3">![Trophies Icon](images/thedarkurge/22602.png)</span><span class="itemTableIcon4">![Trophies Icon](images/thedarkurge/22603.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Dark Urge Trophies
+            Trophies
         </span>
     </span>
 </span>
