@@ -188,7 +188,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Guenhwyvar's Strike Click Skin Icon](images/exclusivities/click_19556.png)
+                        ![Guenhwyvar's Strike Click Skin Icon](images/exclusivities/click_5.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Click Damage Skin**</span>
@@ -591,7 +591,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Sparks Click Skin Icon](images/exclusivities/click_20839.png)
+                        ![Golden Sparks Click Skin Icon](images/exclusivities/click_6.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Click Damage Skin**</span>
@@ -1009,7 +1009,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Rivals Attack Click Skin Icon](images/exclusivities/click_22319.png)
+                        ![Rivals Attack Click Skin Icon](images/exclusivities/click_7.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Click Damage Skin**</span>
