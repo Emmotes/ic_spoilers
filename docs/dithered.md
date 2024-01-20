@@ -4,10 +4,36 @@
 
 {::nomarkdown}
 
-<span style="display:flex;flex-direction:row;flex-wrap:wrap;max-width:850px;">
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+<style>
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  max-width: 850px;
+}
+.champHolder {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid black;
+  background-color: #141414;
+  width: max-content;
+}
+.champColumn {
+  display: flex;
+  flex-direction: column;
+}
+.champName {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+</style>
+<span class="mainContainer">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Aila
             </span>
             <span>
@@ -15,9 +41,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Alyndra
             </span>
             <span>
@@ -25,9 +51,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Antrius
             </span>
             <span>
@@ -35,9 +61,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Arkhan
             </span>
             <span>
@@ -45,9 +71,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Artemis
             </span>
             <span>
@@ -55,9 +81,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Asharra
             </span>
             <span>
@@ -65,9 +91,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Astarion
             </span>
             <span>
@@ -75,9 +101,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Avren
             </span>
             <span>
@@ -85,9 +111,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Azaka
             </span>
             <span>
@@ -95,9 +121,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Baeloth
             </span>
             <span>
@@ -105,9 +131,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Barrowin
             </span>
             <span>
@@ -115,9 +141,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 BBEG
             </span>
             <span>
@@ -125,9 +151,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Binwin
             </span>
             <span>
@@ -135,9 +161,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Birdsong
             </span>
             <span>
@@ -145,9 +171,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Black Viper
             </span>
             <span>
@@ -155,9 +181,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Blooshi
             </span>
             <span>
@@ -165,9 +191,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Brig
             </span>
             <span>
@@ -175,9 +201,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Briv
             </span>
             <span>
@@ -185,9 +211,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Bruenor
             </span>
             <span>
@@ -195,9 +221,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Calliope
             </span>
             <span>
@@ -205,9 +231,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Celeste
             </span>
             <span>
@@ -215,9 +241,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Corazón
             </span>
             <span>
@@ -225,9 +251,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Deekin
             </span>
             <span>
@@ -235,9 +261,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Delina
             </span>
             <span>
@@ -245,9 +271,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Desmond
             </span>
             <span>
@@ -255,9 +281,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Dhadius
             </span>
             <span>
@@ -265,9 +291,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 D'hani
             </span>
             <span>
@@ -275,9 +301,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Dungeon Master
             </span>
             <span>
@@ -285,9 +311,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Dob
             </span>
             <span>
@@ -295,9 +321,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Donaar
             </span>
             <span>
@@ -305,9 +331,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Dragonbait
             </span>
             <span>
@@ -315,9 +341,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Drizzt
             </span>
             <span>
@@ -325,9 +351,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Egbert
             </span>
             <span>
@@ -335,9 +361,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Ellywick
             </span>
             <span>
@@ -345,9 +371,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Evandra
             </span>
             <span>
@@ -355,9 +381,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Evelyn
             </span>
             <span>
@@ -365,9 +391,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Ezmerelda
             </span>
             <span>
@@ -375,9 +401,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Farideh
             </span>
             <span>
@@ -385,9 +411,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Fen
             </span>
             <span>
@@ -395,9 +421,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Freely
             </span>
             <span>
@@ -405,9 +431,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Gazrick
             </span>
             <span>
@@ -415,9 +441,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Gromma
             </span>
             <span>
@@ -425,9 +451,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Havilar
             </span>
             <span>
@@ -435,9 +461,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Hew Maan
             </span>
             <span>
@@ -445,9 +471,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Hitch
             </span>
             <span>
@@ -455,9 +481,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Imoen
             </span>
             <span>
@@ -465,9 +491,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Ishi
             </span>
             <span>
@@ -475,9 +501,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Jaheira
             </span>
             <span>
@@ -485,9 +511,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Jamilah
             </span>
             <span>
@@ -495,9 +521,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Jarlaxle
             </span>
             <span>
@@ -505,9 +531,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Jim
             </span>
             <span>
@@ -515,9 +541,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Kent
             </span>
             <span>
@@ -525,9 +551,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Korth
             </span>
             <span>
@@ -535,9 +561,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Krond
             </span>
             <span>
@@ -545,9 +571,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Krull
             </span>
             <span>
@@ -555,9 +581,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Krux
             </span>
             <span>
@@ -565,9 +591,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Krydle
             </span>
             <span>
@@ -575,9 +601,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 K'thriss
             </span>
             <span>
@@ -585,9 +611,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Lae'zel
             </span>
             <span>
@@ -595,9 +621,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Lazaapz
             </span>
             <span>
@@ -605,9 +631,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Lucius
             </span>
             <span>
@@ -615,9 +641,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Makos
             </span>
             <span>
@@ -625,9 +651,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Mehen
             </span>
             <span>
@@ -635,9 +661,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Melf
             </span>
             <span>
@@ -645,9 +671,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Merilwen
             </span>
             <span>
@@ -655,9 +681,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Minsc
             </span>
             <span>
@@ -665,9 +691,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Miria
             </span>
             <span>
@@ -675,9 +701,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Môrgæn
             </span>
             <span>
@@ -685,9 +711,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Nahara
             </span>
             <span>
@@ -695,9 +721,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Nayeli
             </span>
             <span>
@@ -705,9 +731,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 NERDS
             </span>
             <span>
@@ -715,9 +741,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Nerys
             </span>
             <span>
@@ -725,9 +751,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Nixie
             </span>
             <span>
@@ -735,9 +761,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Nordom
             </span>
             <span>
@@ -745,9 +771,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Nova
             </span>
             <span>
@@ -755,9 +781,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Nrakk
             </span>
             <span>
@@ -765,9 +791,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Omin
             </span>
             <span>
@@ -775,9 +801,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Orisha
             </span>
             <span>
@@ -785,9 +811,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Orkira
             </span>
             <span>
@@ -795,9 +821,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Paultin
             </span>
             <span>
@@ -805,9 +831,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Penelope
             </span>
             <span>
@@ -815,9 +841,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Prudence
             </span>
             <span>
@@ -825,9 +851,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Pwent
             </span>
             <span>
@@ -835,9 +861,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Qillek
             </span>
             <span>
@@ -845,9 +871,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Regis
             </span>
             <span>
@@ -855,9 +881,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Reya
             </span>
             <span>
@@ -865,9 +891,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Rosie
             </span>
             <span>
@@ -875,9 +901,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Rust
             </span>
             <span>
@@ -885,9 +911,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Selise
             </span>
             <span>
@@ -895,9 +921,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Sentry
             </span>
             <span>
@@ -905,9 +931,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Shaka
             </span>
             <span>
@@ -915,9 +941,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Shandie
             </span>
             <span>
@@ -925,9 +951,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Sisaspia
             </span>
             <span>
@@ -935,9 +961,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Solaak
             </span>
             <span>
@@ -945,9 +971,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Spurt
             </span>
             <span>
@@ -955,9 +981,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Stoki
             </span>
             <span>
@@ -965,9 +991,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Strix
             </span>
             <span>
@@ -975,9 +1001,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Strongheart
             </span>
             <span>
@@ -985,9 +1011,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Talin
             </span>
             <span>
@@ -995,9 +1021,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Tatyana
             </span>
             <span>
@@ -1005,9 +1031,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Thellora
             </span>
             <span>
@@ -1015,9 +1041,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Torogar
             </span>
             <span>
@@ -1025,9 +1051,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Turiel
             </span>
             <span>
@@ -1035,9 +1061,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Tyril
             </span>
             <span>
@@ -1045,9 +1071,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Ulkoria
             </span>
             <span>
@@ -1055,9 +1081,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Uriah
             </span>
             <span>
@@ -1065,9 +1091,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Valentine
             </span>
             <span>
@@ -1075,9 +1101,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Vi
             </span>
             <span>
@@ -1085,9 +1111,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Viconia
             </span>
             <span>
@@ -1095,9 +1121,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Vin Ursa
             </span>
             <span>
@@ -1105,9 +1131,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Virgil
             </span>
             <span>
@@ -1115,9 +1141,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Vlahnya
             </span>
             <span>
@@ -1125,9 +1151,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Voronika
             </span>
             <span>
@@ -1135,9 +1161,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Walnut
             </span>
             <span>
@@ -1145,9 +1171,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Warden
             </span>
             <span>
@@ -1155,9 +1181,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Warduke
             </span>
             <span>
@@ -1165,9 +1191,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Widdle
             </span>
             <span>
@@ -1175,9 +1201,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Wulfgar
             </span>
             <span>
@@ -1185,9 +1211,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Xander
             </span>
             <span>
@@ -1195,9 +1221,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Xerophon
             </span>
             <span>
@@ -1205,9 +1231,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Yorven
             </span>
             <span>
@@ -1215,9 +1241,9 @@
             </span>
         </span>
     </span>
-    <span style="display:flex;flex-direction:row;padding:10px;margin:5px;border:1px solid black;background-color:#141414;width:max-content;">
-        <span style="display:flex;flex-direction:column;">
-            <span style="display:flex;justify-content:center;margin-bottom:5px;">
+    <span class="champHolder">
+        <span class="champColumn">
+            <span class="champName">
                 Zorbu
             </span>
             <span>
