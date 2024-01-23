@@ -156,7 +156,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
 </span>
 
-## Fortune's Wheel 4 - 6 March 2024
+## Fortune's Wheel 4 - 20 March 2024
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
