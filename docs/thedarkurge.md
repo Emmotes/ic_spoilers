@@ -102,7 +102,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Murderous Slash** (Melee)
-> Unknown effect.  
+> The Dark Urge strikes nearby enemies with a slash of his dagger.  
 > Cooldown: 5s (Cap 1.25s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -110,19 +110,19 @@ Unknown.
 {
     "id": 735,
     "name": "Murderous Slash",
-    "description": "",
+    "description": "The Dark Urge strikes nearby enemies with a slash of his dagger.",
     "long_description": "",
     "graphic_id": 0,
     "target": "front",
     "num_targets": 1,
-    "aoe_radius": 0,
+    "aoe_radius": 100,
     "damage_modifier": 1,
     "cooldown": 5,
     "animations": [
         {
             "type": "melee_attack",
             "target_offset_x": -34,
-            "damage_frame": 2,
+            "damage_frame": 9,
             "jump_sound": 30,
             "sound_frames": {
                 "2": 154
@@ -130,7 +130,8 @@ Unknown.
         }
     ],
     "tags": [
-        "melee"
+        "melee",
+        "aoe"
     ],
     "damage_types": [
         "melee"
@@ -142,36 +143,40 @@ Unknown.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Slay** (Melee)
-> Unknown effect.  
-> Cooldown: 5s (Cap 1.25s)
+> The Dark Urge strikes nearby enemies, dealing 1 hit of ultimate damage.  
+> Cooldown: 3s (Cap 0.75s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 736,
     "name": "Slay",
-    "description": "",
+    "description": "The Dark Urge strikes nearby enemies, dealing 1 hit of ultimate damage.",
     "long_description": "",
     "graphic_id": 0,
     "target": "front",
     "num_targets": 1,
-    "aoe_radius": 0,
+    "aoe_radius": 150,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 3,
     "animations": [
         {
             "character": "companion",
             "type": "melee_attack",
-            "target_offset_x": -34,
-            "damage_frame": 2,
-            "jump_sound": 30,
-            "sound_frames": {
-                "2": 154
+            "special_melee": "dark_urge_slay",
+            "force_count_for_bud": false,
+            "target_offset": [
+                -200,
+                0
+            ],
+            "attack_sounds": {
+                "melee": 179
             }
         }
     ],
     "tags": [
-        "melee"
+        "melee",
+        "aoe"
     ],
     "damage_types": [
         "melee"
@@ -181,10 +186,52 @@ Unknown.
 </p>
 </details>
 </div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Murderous Slash (Storm Sorcery)** (Melee and Magic)
+> The Dark Urge strikes nearby enemies with a slash of his dagger.  
+> Cooldown: 5s (Cap 1.25s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 739,
+    "name": "Murderous Slash (Storm Sorcery)",
+    "description": "The Dark Urge strikes nearby enemies with a slash of his dagger.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 100,
+    "damage_modifier": 1,
+    "cooldown": 5,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -34,
+            "damage_frame": 9,
+            "jump_sound": 30,
+            "sound_frames": {
+                "2": 154
+            }
+        }
+    ],
+    "tags": [
+        "melee",
+        "aoe"
+    ],
+    "damage_types": [
+        "melee",
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Form of the Slayer**
-> Unknown effect.  
+> The Dark Urge transforms into the Slayer form for 15 seconds, dealing massive damage for the duration. Sceleritas Fel, immune to damage, takes his place in the formation for the duration.  
 > Cooldown: 15s (Cap 3.75s)
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
@@ -194,8 +241,8 @@ Unknown.
 {
     "id": 737,
     "name": "Form of the Slayer",
-    "description": "",
-    "long_description": "",
+    "description": "The Dark Urge transforms into the Slayer form for 15 seconds, dealing massive damage for the duration.",
+    "long_description": "The Dark Urge transforms into the Slayer form for 15 seconds, dealing massive damage for the duration. Sceleritas Fel, immune to damage, takes his place in the formation for the duration.",
     "graphic_id": 22537,
     "target": "none",
     "num_targets": 0,
@@ -206,7 +253,7 @@ Unknown.
         {
             "type": "ultimate_attack",
             "ultimate": "dark_urge_slayer",
-            "no_damage_display": true
+            "no_damage_display": false
         }
     ],
     "tags": [
@@ -220,8 +267,8 @@ Unknown.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Withers Resurrection**
-> Unknown effect.  
-> Cooldown: 5s (Cap 1.25s)
+> Withers appears, pushing back all monsters, resurrects all heroes, and makes them all immune for 15 seconds. If possible, this triggers when the Dark Urge is knocked out.  
+> Cooldown: 15s (Cap 3.75s)
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
@@ -230,19 +277,19 @@ Unknown.
 {
     "id": 738,
     "name": "Withers' Resurrection",
-    "description": "",
-    "long_description": "",
+    "description": "Withers appears, pushing back all monsters, resurrects all heroes, and makes them all immune for 15 seconds",
+    "long_description": "Withers appears, pushing back all monsters, resurrects all heroes, and makes them all immune for 15 seconds. If possible, this triggers when the Dark Urge is knocked out.",
     "graphic_id": 22538,
     "target": "none",
     "num_targets": 0,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 15,
     "animations": [
         {
             "type": "ultimate_attack",
             "ultimate": "dark_urge_withers",
-            "no_damage_display": true
+            "no_damage_display": false
         }
     ],
     "tags": [
@@ -266,8 +313,38 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> The Dark Urge is eligible to start in all adventures, even if the Patron, Variant, or other restrictions would say otherwise. He also does not interact with any Champion abilities or variant effects that are based on age.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1869,
+    "flavour_text": "",
+    "description": {
+        "desc": "The Dark Urge is eligible to start in all adventures, even if the Patron, Variant, or other restrictions would say otherwise. He also does not interact with any Champion abilities or variant effects that are based on age."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **The Urge** (Guess)
-> Unknown effect.
+> Each time the Dark Urge defeats an enemy, he gains a Murder stack. The Dark Urge increases his damage by 0.1% for each Murder stack he has. Stacks persist between adventures.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -275,7 +352,7 @@ Unknown.
     "id": 1870,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Each time the Dark Urge defeats an enemy, he gains a Murder stack. The Dark Urge increases his damage by $(not_buffed amount)% for each Murder stack he has. Stacks persist between adventures."
     },
     "effect_keys": [
         {
@@ -295,6 +372,7 @@ Unknown.
     ],
     "requirements": "",
     "graphic_id": 22531,
+    "large_graphic_id": 22528,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -309,7 +387,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ceremorphosis** (Guess)
-> Unknown effect.
+> Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in the Dark Urge's brain. The Dark Urge increases his damage by 100% for each Ceremorphosis stack, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -319,7 +397,7 @@ Unknown.
     "id": 1871,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in the Dark Urge's brain. The Dark Urge increases his damage by $(amount)% for each Ceremorphosis stack, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -355,6 +433,7 @@ Unknown.
     ],
     "requirements": "",
     "graphic_id": 22529,
+    "large_graphic_id": 22526,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -371,7 +450,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Living on the Edge** (Guess)
-> Unknown effect.
+> The Dark Urge has 6 Outcast stacks, minus 1 stack for each adjacent champion that does not have the DPS role.  The Dark Urge increases his damage by 100% for each Outcast stack, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -381,7 +460,7 @@ Unknown.
     "id": 1872,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "The Dark Urge has $(max_stacks___2) Outcast stacks, minus $(stack_reduction_per_champ_mult___2) stack for each adjacent champion that does not have the DPS role.  The Dark Urge increases his damage by $(amount)% for each Outcast stack, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -396,8 +475,9 @@ Unknown.
                 "adj"
             ],
             "max_stacks": 6,
+            "stack_reduction_per_champ_mult": 1,
             "per_hero_expr": "as_int(!HasTag(`dps`))",
-            "post_process_expr": "clamp(max_stacks - input, 0, max_stacks)",
+            "post_process_expr": "clamp(max_stacks - (input * stack_reduction_per_champ_mult), 0, max_stacks)",
             "show_bonus": true,
             "stack_title": "Outcast Stacks",
             "amount_updated_listeners": [
@@ -409,6 +489,7 @@ Unknown.
     ],
     "requirements": "",
     "graphic_id": 22530,
+    "large_graphic_id": 22527,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -437,11 +518,12 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "dark_urge_slayer_form",
+            "effect_string": "dark_urge_slayer_form_unused",
             "buff_indicies": [
                 1,
                 2
-            ]
+            ],
+            "companion_index": 0
         },
         {
             "apply_manually": true,
@@ -454,6 +536,7 @@ Unknown.
     ],
     "requirements": "",
     "graphic_id": 0,
+    "large_graphic_id": 0,
     "properties": {
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true
@@ -467,8 +550,8 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Divine Soul** (Guess)
-> Unknown effect.
+**Specialisation: Storm Sorcery** (Guess)
+> The Dark Urge's Murderous Slash attack is empowered by lightning. This increases the range by 200% and deals up to 800% more damage to enemies based on how close they are to him.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -476,19 +559,31 @@ Unknown.
     "id": 1873,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "The Dark Urge's Murderous Slash attack is empowered by lightning. This increases the range by $(amount___2)% and deals up to $(amount___3)% more damage to enemies based on how close they are to him."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "change_base_attack,739"
+        },
+        {
+            "effect_string": "increase_aoe_radius,200,739"
+        },
+        {
+            "effect_string": "increase_damage_by_distance,800,739"
         }
     ],
     "requirements": "",
     "graphic_id": 0,
+    "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "type": "upgrade",
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 2,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -498,7 +593,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Draconic Bloodline** (Guess)
-> Unknown effect.
+> The Dark Urge's damage is increased by 200% for each Dragonborn Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -506,7 +601,7 @@ Unknown.
     "id": 1874,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "The Dark Urge's damage is increased by $(amount)% for each Dragonborn Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -515,6 +610,7 @@ Unknown.
     ],
     "requirements": "",
     "graphic_id": 0,
+    "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "type": "upgrade",
@@ -528,8 +624,8 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Storm Sorcery** (Guess)
-> Unknown effect.
+**Divine Soul** (Guess)
+> The Dark Urge increases the number of The Urge's Murder stacks he gains each time he defeats an enemy by 200%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -537,7 +633,7 @@ Unknown.
     "id": 1875,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "The Dark Urge increases the number of The Urge's Murder stacks he gains each time he defeats an enemy by $(amount)%."
     },
     "effect_keys": [
         {
@@ -546,6 +642,7 @@ Unknown.
     ],
     "requirements": "",
     "graphic_id": 0,
+    "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "type": "upgrade",
@@ -559,7 +656,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Embrace the Urge** (Guess)
-> Unknown effect.
+> The Dark Urge unlocks the Form of the Slayer ultimate, and deals 100% more damage for each Evil Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -567,7 +664,7 @@ Unknown.
     "id": 1876,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "The Dark Urge unlocks the Form of the Slayer ultimate, and deals $(not_buffed amount___2)% more damage for each Evil Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -575,10 +672,27 @@ Unknown.
         },
         {
             "effect_string": "hero_dps_mult_per_tagged_crusader_mult,100,evil"
+        },
+        {
+            "effect_string": "dark_urge_slayer_form",
+            "buff_indicies": [
+                3,
+                4
+            ],
+            "companion_index": 0
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "change_base_attack,736"
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "block_monster_damage"
         }
     ],
     "requirements": "",
     "graphic_id": 0,
+    "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "type": "upgrade",
@@ -598,7 +712,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Resist the Urge** (Guess)
-> Unknown effect.
+> The Dark Urge's alignment becomes Lawful Good, he unlocks the Wither's Resurrection ultimate, and deals 100% more damage for each Good Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -606,7 +720,7 @@ Unknown.
     "id": 1877,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "The Dark Urge's alignment becomes Lawful Good, he unlocks the Wither's Resurrection ultimate, and deals $(not_buffed amount___2)% more damage for each Good Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -614,10 +728,25 @@ Unknown.
         },
         {
             "effect_string": "hero_dps_mult_per_tagged_crusader_mult,100,good"
+        },
+        {
+            "effect_string": "dark_urge_withers_resurrection",
+            "buff_indicies": [
+                3
+            ],
+            "companion_index": 1
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "block_monster_damage",
+            "targets": [
+                "all_slots"
+            ]
         }
     ],
     "requirements": "",
     "graphic_id": 0,
+    "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "type": "upgrade",
