@@ -373,6 +373,7 @@ Upgrades:
     ],
     "requirements": "",
     "graphic_id": 22102,
+    "large_graphic_id": 22098,
     "properties": {
         "is_formation_ability": true
     }
@@ -389,6 +390,8 @@ Upgrades:
 > Birthday Cake: The monster is slowed by 50% for 5 seconds.  
 > Skateboard: The monster is knocked back a short distance.  
 > Rotary Phone: The monster is stunned for 2.5 seconds.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -407,7 +410,7 @@ Upgrades:
     "id": 1837,
     "flavour_text": "",
     "description": {
-        "desc": "Presto's attacks cause monsters hit by them to take +$(debuff_base_amount___4)% damage, stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile.^^Birthday Cake: The monster is slowed by 50% for 5 seconds.^Skateboard: The monster is knocked back a short distance.^Rotary Phone: The monster is stunned for 2.5 seconds."
+        "desc": "Presto's attacks cause monsters hit by them to take +$(amount___4)% damage, stacking multiplicatively up to 5 times. In addition, a secondary effect occurs depending on the projectile.^^Birthday Cake: The monster is slowed by 50% for 5 seconds.^Skateboard: The monster is knocked back a short distance.^Rotary Phone: The monster is stunned for 2.5 seconds."
     },
     "effect_keys": [
         {
@@ -454,9 +457,11 @@ Upgrades:
             ]
         },
         {
+            "effect_string": "pre_stack,100"
+        },
+        {
             "effect_string": "presto_hat_of_many_spells",
             "debuff_before_damage": true,
-            "debuff_base_amount": 100,
             "debuff_max_stacks": 5,
             "debuffing_attack_ids": [
                 723,
@@ -465,7 +470,8 @@ Upgrades:
             ],
             "debuff_effects": [
                 {
-                    "effect_string": "increase_monster_damage,$debuff_base_amount",
+                    "effect_string": "increase_monster_damage,0",
+                    "amount_expr": "upgrade_amount(13763,3)",
                     "active_graphic_id": 22161,
                     "active_graphic_y": -120,
                     "use_stack_as_frame": true,
@@ -484,12 +490,13 @@ Upgrades:
     ],
     "requirements": "",
     "graphic_id": 22101,
+    "large_graphic_id": 22097,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 3
     }
 }
 </pre>
@@ -530,6 +537,7 @@ Upgrades:
     ],
     "requirements": "",
     "graphic_id": 22100,
+    "large_graphic_id": 22096,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -593,6 +601,7 @@ Upgrades:
     ],
     "requirements": "",
     "graphic_id": 0,
+    "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -646,6 +655,7 @@ Upgrades:
     ],
     "requirements": "",
     "graphic_id": 0,
+    "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -704,6 +714,7 @@ Upgrades:
     ],
     "requirements": "",
     "graphic_id": 0,
+    "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
