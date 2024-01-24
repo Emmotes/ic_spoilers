@@ -8,6 +8,9 @@
         ![Model GIF of The Dark Urge](images/thedarkurge/model.gif)Base Model
     </span>
     <span class="championPortraitsImage">
+        ![Alternate Model GIF of The Dark Urge: Withers](images/thedarkurge/model-withers.gif)Withers Model
+    </span>
+    <span class="championPortraitsImage">
         ![Alternate Model GIF of The Dark Urge: Sceleritas Fel](images/thedarkurge/model-sceleritas-fel.gif)Sceleritas Fel Model
     </span>
 </span>
