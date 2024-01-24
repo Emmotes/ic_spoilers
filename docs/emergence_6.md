@@ -6,7 +6,7 @@
 
 # Emergence 6
 
-We know the next Emergence event will be Illithids and we don't know when it will start.
+We know the next Emergence event will be Illithids and that it will start on 28 February 2024.
 
 ### Shop Contents
 
