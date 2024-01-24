@@ -11,48 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Spelljammer Pilot Gromma Portrait](images/skin_portraits/spelljammerpilotgromma.png)Spelljammer Pilot Gromma
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spelljammer Pilot Gromma Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">24 Jan 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Spelljammer Pilot Miria Portrait](images/skin_portraits/spelljammerpilotmiria.png)Spelljammer Pilot Miria
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 5 (Guess)</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">24 Jan 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Spelljammer Pilot Strix Portrait](images/skin_portraits/spelljammerpilotstrix.png)Spelljammer Pilot Strix
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 5 (Guess)</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">24 Jan 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Mythic Presto Portrait](images/skin_portraits/mythicpresto.png)Mythic Presto
         </span>
         <span class="skinTableSource">

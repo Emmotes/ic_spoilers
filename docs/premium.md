@@ -5,21 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Spelljammer Pilot Gromma Skin & Feat Pack - $9.99  
-Date of release: 24 Jan 2024
-
-Contents:
-
-* Champion: `Gromma Nander`
-* Skin: `Spelljammer Pilot Gromma`
-* Feat: `Full Shell` (Gromma)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Gromma Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Mythic Presto Theme Pack - $24.99  
 Date of release: 31 Jan 2024
 
