@@ -86,7 +86,7 @@ Date of release: 14 Feb 2024
 
 Contents:
 
-* Familiar: `The Hawk Man`
+* Familiar: `Russet the Fox`
 * Buff: `Huge Potion of Speed` x6
 * Buff: `Huge Potion of Giant's Strength` x6
 * Buff: `Huge Potion of Clairvoyance` x6
