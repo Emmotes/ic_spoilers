@@ -55,7 +55,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support (Guess)</span>
+            <span style="margin-left:8px;">DPS / Support (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -300,16 +300,6 @@ Unknown.
     ],
     "damage_types": []
 }
-</pre>
-</p>
-</details>
-</div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
 </pre>
 </p>
 </details>
