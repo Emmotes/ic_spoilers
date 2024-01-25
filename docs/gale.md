@@ -7,7 +7,7 @@
 
 # Gale
 
-The Dark Urge is a special origin in Baldur's Gate 3 that can be played using any race, class, and gender, and will not be part of player's party if they are playing any other origin character.
+Gale is a magical prodigy – a wizard of great talent and incredible knowledge. Imbued with the devastating power of a Netherese orb, Gale must continually consume magical artefacts, lest he unleash that explosive force upon himself and his surroundings.
 
 [Gale - Baldur's Gate Wiki](https://bg3.wiki/wiki/Gale)
 
