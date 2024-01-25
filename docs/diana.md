@@ -7,7 +7,7 @@
 
 # Diana
 
-Diana, the Acrobat (voiced by Tonia Gayle Smith) – a brave, athletic, and outspoken 14-year-old girl,[3] she is an Acrobat who carries the javelin quarterstaff, which can change size to suit her needs and be easily reconstructed if broken. Diana is also known to provide inspiration, guidance and support for her friends at times of peril or worry.
+Diana, the Acrobat (voiced by Tonia Gayle Smith) – a brave, athletic, and outspoken 14-year-old girl, she is an Acrobat who carries the javelin quarterstaff, which can change size to suit her needs and be easily reconstructed if broken. Diana is also known to provide inspiration, guidance and support for her friends at times of peril or worry.
 
 [Dungeons & Dragons (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_(TV_series))
 
