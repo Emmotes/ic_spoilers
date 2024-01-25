@@ -97,7 +97,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Diana&nbsp;<span class="indexChampionTableNoLink">- Human Monk of Saturday Morning Squad (Guess)</span>
+                Diana&nbsp;<span class="indexChampionTableNoLink">- Human of Saturday Morning Squad (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">The Running - 17 April 2024</span>

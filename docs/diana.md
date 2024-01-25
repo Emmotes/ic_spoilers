@@ -39,7 +39,7 @@ Diana will be the new champion in the The Running event on 17 April 2024.
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Monk (Guess)</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
     <span class="champStatsTableRow">
