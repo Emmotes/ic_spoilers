@@ -830,6 +830,11 @@ Unknown.
 
 <span class="championImagesColumn">
     <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![The Dark Urge Console Portrait](images/thedarkurge/console.png)Console Portait
+        </span>
+    </span>
+    <span class="championImagesRow">
         <span class="championImagesChests">
             ![The Dark Urge Gold Chest Icon](images/thedarkurge/chest_gold.png)Gold Chest Icon
         </span>
