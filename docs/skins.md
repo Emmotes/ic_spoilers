@@ -56,7 +56,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Gnome Glitch Avren Portrait](images/skin_portraits/gnomeglitchavren.png)Gnome Glitch Avren
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Adventure / Variant (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
