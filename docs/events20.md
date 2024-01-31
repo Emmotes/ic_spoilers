@@ -36,6 +36,11 @@ These are some of the raw text defines that reference Events 2.0 or new events i
     "key": "getting_event_details",
     "contents": "Getting event details..."
 }
+{
+    "id": 5489,
+    "key": "events_pick_champion_confirmation",
+    "contents": "Are you sure you want to pick $heroName?"
+}
 </pre>
 </p>
 </details>
