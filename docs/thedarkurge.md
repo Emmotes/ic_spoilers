@@ -94,12 +94,9 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/thedarkurge/formation.png)
 </span>
-{% endcomment %}
 
 # Abilities
 
