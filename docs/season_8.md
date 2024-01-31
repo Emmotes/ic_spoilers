@@ -2,19 +2,19 @@
 
 # Index
 
-* [Season 9](#season-9)
+* [Season 8](#season-8)
 * [Theme](#theme)
 * [Changes](#changes)
 * [Dhadius](#dhadius)
 <br />
 
-# Season 9
+# Season 8
 
-Season 9 is expected to start on 24 April 2024.
+Season 8 is expected to start on 28 February 2024.
 
 # Theme
 
-![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)
+![Dhadius Season Portrait](images/season_8/dhadius.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)![Unknown Season Champion Portrait](images/general/unknown_champion.png)
 
 We only have data for one seasonal champion so far. That is Dhadius. The rest are as yet unknown.
 
@@ -26,10 +26,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 # Dhadius
 
-![Dhadius Portrait](images/season_9/dhadius.png)
+![Dhadius Portrait](images/season_8/dhadius.png)
 <br /><span class="formationTooltip">[formation]
     <span class="formationTooltipContents">
-        ![Formation Layout for Dhadius](images/season_9/dhadius_formation.png)
+        ![Formation Layout for Dhadius](images/season_8/dhadius_formation.png)
     </span>
 </span>
 
