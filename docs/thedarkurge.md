@@ -215,6 +215,16 @@ Unknown.
             "jump_sound": 30,
             "sound_frames": {
                 "2": 154
+            },
+            "visual_effect_frames": {
+                "hit": {
+                    "effect": "animated_clip",
+                    "graphic_id": 10618,
+                    "sort_offset": -9999,
+                    "offset_x": 70,
+                    "scale": 3,
+                    "tint": "#A6CCFFFF"
+                }
             }
         }
     ],
@@ -235,9 +245,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Form of the Slayer**
 > The Dark Urge transforms into the Slayer form for 15 seconds, dealing massive damage for the duration. Sceleritas Fel, immune to damage, takes his place in the formation for the duration.  
-> Cooldown: 15s (Cap 3.75s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 320s (Cap 80s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -251,7 +259,7 @@ Unknown.
     "num_targets": 0,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 15,
+    "cooldown": 320,
     "animations": [
         {
             "type": "ultimate_attack",
@@ -271,9 +279,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Withers Resurrection**
 > Withers appears, pushing back all monsters, resurrects all heroes, and makes them all immune for 15 seconds. If possible, this triggers when the Dark Urge is knocked out.  
-> Cooldown: 15s (Cap 3.75s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 320s (Cap 80s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -287,7 +293,7 @@ Unknown.
     "num_targets": 0,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 15,
+    "cooldown": 320,
     "animations": [
         {
             "type": "ultimate_attack",
@@ -361,6 +367,10 @@ Unknown.
             "effect_string": "stacks_data_binder_safe,0,the_dark_urge_murder_stacks",
             "is_instanced_stat": false,
             "use_stat_defs": true
+        },
+        {
+            "effect_string": "expression_on_trigger,owner_kill",
+            "per_trigger_expr": "AppendToSaveStat(`the_dark_urge_a_wonderful_day_for_murder`, false, as_int(GetUpgradeStacks(14381, 1) == 6))"
         }
     ],
     "requirements": "",
@@ -511,20 +521,31 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "dark_urge_slayer_form_unused",
-            "buff_indicies": [
-                1,
-                2
+            "effect_string": "disable_hero_properties,1,0,0,0",
+            "targets": [
+                "all"
             ],
-            "companion_index": 0
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "!HasTag(`dps`)"
+                }
+            ],
+            "slot_change_updates_targets": true
         },
         {
-            "apply_manually": true,
-            "effect_string": "change_base_attack,736"
-        },
-        {
-            "apply_manually": true,
-            "effect_string": "block_monster_damage"
+            "effect_string": "hero_dps_multiplier_reduce,100",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "!HasTag(`dps`)"
+                }
+            ],
+            "slot_change_updates_targets": true,
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
@@ -735,6 +756,9 @@ Unknown.
             "targets": [
                 "all_slots"
             ]
+        },
+        {
+            "effect_string": "change_hero_alignment_tag,lawful,good"
         }
     ],
     "requirements": "",
