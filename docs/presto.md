@@ -319,6 +319,7 @@ Upgrades:
       120: 100%
       300: 100%
       550: 100%
+      730: 100%
       800: 100%
     1,000: 100%
     1,170: 100%
@@ -338,7 +339,7 @@ Upgrades:
     3,820: 100%
     3,930: 100%
 
-    Total Upgrade Bonus: 2.10e08%
+    Total Upgrade Bonus: 4.19e08%
 </pre>
 </p>
 </details>
