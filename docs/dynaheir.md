@@ -49,7 +49,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Tanking / Support / Speed (Guess)</span>
+            <span style="margin-left:8px;">Support / Speed (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -650,7 +650,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Loyal Bodyguard** (Guess)
-> Minsc gains the Tanking role and is now eligible for this adventure regardless of other restrictions. Dynaheir increases Minsc's base health by 200%, and then further increases his health by 75% for every 50 areas completed in the current adventure, up to area 600. She also increases the health of all Champions, other than Minsc, by 25% of Minsc's max health.
+> Minsc gains the Tanking role and is now eligible for this adventure regardless of other restrictions. His base health increases by 200%, and then further increases by 75% for every 50 areas completed in the current adventure, up to area 600. All other Champions' health is increased by 25% of Minsc's max health.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -658,7 +658,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
     "id": 1856,
     "flavour_text": "",
     "description": {
-        "desc": "Minsc gains the Tanking role and is now eligible for this adventure regardless of other restrictions. Dynaheir increases Minsc's base health by $amount%, and then further increases his health by 75% for every 50 areas completed in the current adventure, up to area 600. She also increases the health of all Champions, other than Minsc, by 25% of Minsc's max health"
+        "desc": "Minsc gains the Tanking role and is now eligible for this adventure regardless of other restrictions. His base health increases by 200%, and then further increases by 75% for every 50 areas completed in the current adventure, up to area 600. All other Champions' health is increased by 25% of Minsc's max health."
     },
     "effect_keys": [
         {
