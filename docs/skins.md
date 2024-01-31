@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Mythic Presto Portrait](images/skin_portraits/mythicpresto.png)Mythic Presto
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Mythic Presto Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$24.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Spelljammer Pilot Vi Portrait](images/skin_portraits/spelljammerpilotvi.png)Spelljammer Pilot Vi
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spelljammer Pilot Vi Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Aasimar Glitch Donaar Portrait](images/skin_portraits/aasimarglitchdonaar.png)Aasimar Glitch Donaar
         </span>
         <span class="skinTableSource">
@@ -98,7 +70,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Archmage Dhadius Portrait](images/skin_portraits/archmagedhadius.png)Archmage Dhadius
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Season 8 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>

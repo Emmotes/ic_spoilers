@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mythic Presto Theme Pack - $24.99  
-Date of release: 31 Jan 2024
-
-Contents:
-
-* Champion: `Presto`
-* Skin: `Mythic Presto`
-* Feat: `Spell Me A Spell` (Presto)
-* Familiar: `The White Rabbit`
-* Chests: `Gold Presto Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Spelljammer Pilot Vi Skin & Feat Pack - $9.99  
-Date of release: 31 Jan 2024
-
-Contents:
-
-* Champion: `Vi`
-* Skin: `Spelljammer Pilot Vi`
-* Feat: `Mercy Mercy` (Vi)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Vi Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Celeste Starter Pack - $9.99  
 Date of release: 07 Feb 2024
 

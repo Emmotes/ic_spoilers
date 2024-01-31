@@ -30,210 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Athlete Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">**Athlete (Presto)**I passed gym with a C-.</span>Athlete
-        </span>
-        <span class="featTableEffect">
-            <span>Stat: +1 Strength</span>
-        </span>
-        <span class="featTableSource">
-            <span>12,500 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon3">
-            ![DM's Chosen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**DM's Chosen (Presto)**With Dungeon Master's help, we can do anything!</span>DM's Chosen
-        </span>
-        <span class="featTableEffect">
-            <span>40% All Specialisations</span>
-        </span>
-        <span class="featTableSource">
-            <span>Gold Chest</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon2">
-            ![Hocus Delirium Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Hocus Delirium (Presto)**I'm sure this will help! ...I hope.</span>Hocus Delirium
-        </span>
-        <span class="featTableEffect">
-            <span>20% Hat of Many Spells</span>
-        </span>
-        <span class="featTableSource">
-            <span>Free</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon2">
-            ![I'll Go Last Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**I'll Go Last (Presto)**This place is scary. I don't want to go first...</span>I'll Go Last
-        </span>
-        <span class="featTableEffect">
-            <span>20% Hesitant Helper</span>
-        </span>
-        <span class="featTableSource">
-            <span>Free</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Presto)**Don't give up, Uni! We can make it!</span>Inspiring Leader
-        </span>
-        <span class="featTableEffect">
-            <span>25% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>Gold Chest</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon2">
-            ![Merlin's Blessing Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Merlin's Blessing (Presto)**Merlin believes in us! ...Even if it was just Venger in disguise.</span>Merlin's Blessing
-        </span>
-        <span class="featTableEffect">
-            <span>20% All Specialisations</span>
-        </span>
-        <span class="featTableSource">
-            <span>Free</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Morning Lineup Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Morning Lineup (Presto)**I can help a lot better from back here.</span>Morning Lineup
-        </span>
-        <span class="featTableEffect">
-            <span>40% Hesitant Helper</span>
-        </span>
-        <span class="featTableSource">
-            <span>12,500 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Pocus Imferium Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Pocus Imferium (Presto)**No way! A skateboard!</span>Pocus Imferium
-        </span>
-        <span class="featTableEffect">
-            <span>40% Hat of Many Spells</span>
-        </span>
-        <span class="featTableSource">
-            <span>Gold Chest</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon2">
-            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (Presto)**Don't worry, gang! I've got this!</span>Selflessness
-        </span>
-        <span class="featTableEffect">
-            <span>10% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>Free</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Spell Me A Spell Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Spell Me A Spell (Presto)**Whoa! I didn't know there was a tornado in my hat!</span>Spell Me A Spell
-        </span>
-        <span class="featTableEffect">
-            <span>80% Hat of Many Spells</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Tenacious (Presto)**I won't give up! No matter what Venger throws at us!</span>Tenacious
-        </span>
-        <span class="featTableEffect">
-            <span>Stat: +2 Constitution</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Vi</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Mercy Mercy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Mercy Mercy (Vi)**This is the last time...</span>Mercy Mercy
-        </span>
-        <span class="featTableEffect">
-            <span>80% I Can't Get No Sass-isfaction</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Avren</span>
         </span>
         <span class="featTableIcon4">
@@ -1157,6 +953,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>03 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Presto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Tenacious (Presto)**I won't give up! No matter what Venger throws at us!</span>Tenacious
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Constitution</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>31 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
