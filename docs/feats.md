@@ -1333,7 +1333,7 @@ These are the feats that have been filtered out of the list above due to having 
 
 # Seat Swap Feats
 
-<span style="font-size:1.2em;">ⓘ</span> **Update**: According to Dev Insights these seat swap feats have been mothballed because they were too `technically complicated` to implement. So just be aware that they might never come to fruition.  
+<span style="font-size:1.2em;">ⓘ</span> **Update**: According to Dev Insights - they have ceased development of these seat swap feats because they were too `technically complicated` to implement. So please be aware that they almost certainly will not be added to the game. I'm keeping the list here purely for posterity.  
 Source: [Developer Insights Ep89 07:13-09:00](https://www.youtube.com/watch?v=NwqQh1LKczM&t=433s)
 
 <span class="emergenceShopTableRow">
