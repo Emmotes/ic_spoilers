@@ -4,6 +4,8 @@
 
 Virtually nothing is known about Events 2.0. We're not even sure that's what they'll be called. I'm just using that based on some of the text definitions that were added recently.
 
+Given that there are some graphics for Festival of Fools 2.0 - we can only assume a release date for this system could potentially be 6 March 2024. But that would be wild speculation and we don't do that here.
+
 ## Text Defines
 
 These are some of the raw text defines that reference Events 2.0 or new events in general.
