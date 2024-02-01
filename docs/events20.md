@@ -74,6 +74,37 @@ These are some of the raw text defines that reference Events 2.0 or new events i
     </span>
 </span>
 
+## Festival of Fools 2.0
+
+![Festival of Fools 2.0 Banner](images/events20/FoF_Banner.png)
+
+<span class="emergenceShopTableRow">
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Festival of Fools 2.0 Background Icon](images/events20/FoF_Background.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Background**</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Festival of Fools 2.0 Blank Champion Icon](images/events20/FoF_BlankChampion.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Blank Champion**</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Festival of Fools 2.0 Buff Icon](images/events20/FoF_Buff.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+        </span>
+    </span>
+</span>
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
