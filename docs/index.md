@@ -21,7 +21,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Dynaheir&nbsp;<span class="indexChampionTableNoLink">- Human Wizard (Guess)</span>
+                Dynaheir&nbsp;<span class="indexChampionTableNoLink">- Human Wizard of Heroes of Baldur's Gate</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Fleetswake - 21 February 2024</span>
