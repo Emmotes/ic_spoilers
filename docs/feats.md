@@ -64,6 +64,210 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Actor Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">**Actor (Dynaheir)**We all wear many masks.</span>Actor
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +1 Charisma</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Empowering West Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Empowering West (Dynaheir)**Hold! We can weather this storm!</span>Empowering West
+        </span>
+        <span class="featTableEffect">
+            <span>+10 to The Unapproachable East</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Dynaheir)**The sun smiles on us! To victory!</span>Inspiring Leader
+        </span>
+        <span class="featTableEffect">
+            <span>25% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Promising Group Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Promising Group (Dynaheir)**I've traveled with worse. We can do this.</span>Promising Group
+        </span>
+        <span class="featTableEffect">
+            <span>20% The Resolve of Rashemen</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (Dynaheir)**My life is not worth more than stopping the Thayans...</span>Selflessness
+        </span>
+        <span class="featTableEffect">
+            <span>10% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Slain Dragon's Hoard Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Slain Dragon's Hoard (Dynaheir)**Who brought the Bag of Holding?</span>Slain Dragon's Hoard
+        </span>
+        <span class="featTableEffect">
+            <span>20% Spoils of War</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Treasures of Bhaal Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Treasures of Bhaal (Dynaheir)**Careful - these could be cursed!</span>Treasures of Bhaal
+        </span>
+        <span class="featTableEffect">
+            <span>40% Spoils of War</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Triangle Formation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Triangle Formation (Dynaheir)**Minsc wants to go first - and I think we should let him.</span>Triangle Formation
+        </span>
+        <span class="featTableEffect">
+            <span>40% Defensive Position</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Two by Three Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Two by Three (Dynaheir)**This is most optimal for this situation.</span>Two by Three
+        </span>
+        <span class="featTableEffect">
+            <span>20% Defensive Position</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Witchcraft Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Witchcraft (Dynaheir)**I'll do things my way - you do yours in your way.</span>Witchcraft
+        </span>
+        <span class="featTableEffect">
+            <span>20% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Wychlaran Empowerment Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Wychlaran Empowerment (Dynaheir)**Just keep fighting - I'll make sure you have the power!</span>Wychlaran Empowerment
+        </span>
+        <span class="featTableEffect">
+            <span>40% The Resolve of Rashemen</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Wychlaran Potential Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Wychlaran Potential (Dynaheir)**You stand before a true Wychlaran.</span>Wychlaran Potential
+        </span>
+        <span class="featTableEffect">
+            <span>40% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Solaak</span>
         </span>
         <span class="featTableIcon4">

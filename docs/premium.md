@@ -60,7 +60,7 @@ Contents:
 
 * Champion: `Dynaheir`
 * Skin: `Baldur's Gate Dynaheir`
-* Feat: ???
+* Feat: `Selflessness` (Dynaheir)
 * Familiar: `Beljuril the Chicken`
 * Chests: `Gold  Dynaheir Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
