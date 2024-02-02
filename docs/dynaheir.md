@@ -1105,39 +1105,39 @@ This list will only show feats that are going to be available on the release of 
 <p>
 <pre>
      Arkhan: 3 / 6
-    Asharra: 3 / 6
-      Azaka: 4 / 6
-   Birdsong: 3 / 6
-Black Viper: 3 / 6
- Catti-brie: 4 / 6
-     D'hani: 4 / 6
-     Delina: 5 / 6
+    Asharra: 3 / 6 (Potentially 4 / 6)
+      Azaka: 4 / 6 (Potentially 5 / 6)
+   Birdsong: 3 / 6 (Potentially 4 / 6)
+Black Viper: 3 / 6 (Potentially 4 / 6)
+ Catti-brie: 4 / 6 (Potentially 5 / 6)
+     D'hani: 4 / 6 (Potentially 5 / 6)
+     Delina: 5 / 6 (Potentially 6 / 6)
     Dhadius: 4 / 6
      Drizzt: 5 / 6
-    Farideh: 4 / 6
-        Fen: 4 / 6
+    Farideh: 4 / 6 (Potentially 5 / 6)
+        Fen: 4 / 6 (Potentially 5 / 6)
       Grimm: 6 / 6
-       Ishi: 5 / 6
-    Jaheira: 3 / 6
-    Jamilah: 3 / 6
+       Ishi: 5 / 6 (Potentially 6 / 6)
+    Jaheira: 3 / 6 (Potentially 4 / 6)
+    Jamilah: 3 / 6 (Potentially 4 / 6)
    Jarlaxle: 4 / 6
         Jim: 4 / 6
-    Karlach: 3 / 6
+    Karlach: 3 / 6 (Potentially 4 / 6)
        Kent: 5 / 6
       Krond: 4 / 6
        Krux: 6 / 6
-    Lae'zel: 3 / 6
+    Lae'zel: 3 / 6 (Potentially 4 / 6)
      Lucius: 4 / 6
       Makos: 4 / 6
       Minsc: 5 / 6
-      NERDS: 3 / 6
-      Nixie: 3 / 6
-     Orisha: 4 / 6
-   Prudence: 4 / 6
-      Rosie: 4 / 6
-      Strix: 4 / 6
+      NERDS: 3 / 6 (Potentially 4 / 6)
+      Nixie: 3 / 6 (Potentially 4 / 6)
+     Orisha: 4 / 6 (Potentially 5 / 6)
+   Prudence: 4 / 6 (Potentially 5 / 6)
+      Rosie: 4 / 6 (Potentially 5 / 6)
+      Strix: 4 / 6 (Potentially 5 / 6)
     Torogar: 3 / 6
-     Warden: 2 / 6
+     Warden: 2 / 6 (Potentially 3 / 6)
     Warduke: 4 / 6
      Yorven: 3 / 6
       Zorbu: 5 / 6
@@ -1147,20 +1147,20 @@ Black Viper: 3 / 6
 <details><summary><em>Non-DPS Applicable</em></summary>
 <p>
 <pre>
-          Aila: 3 / 6
-       Alyndra: 3 / 6
+          Aila: 3 / 6 (Potentially 4 / 6)
+       Alyndra: 3 / 6 (Potentially 4 / 6)
        Antrius: 4 / 6
       Astarion: 4 / 6
          Avren: 5 / 6
        Baeloth: 5 / 6
-      Barrowin: 5 / 6
+      Barrowin: 5 / 6 (Potentially 6 / 6)
         Beadle: 4 / 6
-       Blooshi: 4 / 6
+       Blooshi: 4 / 6 (Potentially 5 / 6)
           Briv: 5 / 6
        Bruenor: 5 / 6
-      Calliope: 4 / 6
-       Celeste: 4 / 6
-     Certainty: 4 / 6
+      Calliope: 4 / 6 (Potentially 5 / 6)
+       Celeste: 4 / 6 (Potentially 5 / 6)
+     Certainty: 4 / 6 (Potentially 5 / 6)
        Corazón: 4 / 6
         Deekin: 4 / 6
        Desmond: 5 / 6
@@ -1170,69 +1170,69 @@ Black Viper: 3 / 6
 Dungeon Master: 6 / 6
       Dynaheir: 5 / 6
         Egbert: 4 / 6
-      Ellywick: 3 / 6
-       Evandra: 4 / 6
-        Evelyn: 5 / 6
-     Ezmerelda: 5 / 6
+      Ellywick: 3 / 6 (Potentially 4 / 6)
+       Evandra: 4 / 6 (Potentially 5 / 6)
+        Evelyn: 5 / 6 (Potentially 6 / 6)
+     Ezmerelda: 5 / 6 (Potentially 6 / 6)
         Freely: 4 / 6
        Gazrick: 5 / 6
-       Havilar: 3 / 6
+       Havilar: 3 / 6 (Potentially 4 / 6)
       Hew Maan: 5 / 6
          Hitch: 5 / 6
-         Imoen: 5 / 6
-      Jang Sao: 3 / 6
+         Imoen: 5 / 6 (Potentially 6 / 6)
+      Jang Sao: 3 / 6 (Potentially 4 / 6)
       K'thriss: 4 / 6
          Korth: 4 / 6
          Krull: 5 / 6
         Krydle: 6 / 6
-       Lazaapz: 4 / 6
+       Lazaapz: 4 / 6 (Potentially 5 / 6)
           Melf: 5 / 6
-      Merilwen: 4 / 6
-         Miria: 3 / 6
-        Môrgæn: 3 / 6
-         Nerys: 5 / 6
-        Nordom: 4 / 6
-          Nova: 5 / 6
+      Merilwen: 4 / 6 (Potentially 5 / 6)
+         Miria: 3 / 6 (Potentially 4 / 6)
+        Môrgæn: 3 / 6 (Potentially 4 / 6)
+         Nerys: 5 / 6 (Potentially 6 / 6)
+        Nordom: 4 / 6 (Potentially 5 / 6)
+          Nova: 5 / 6 (Potentially 6 / 6)
          Nrakk: 5 / 6
-        Orkira: 4 / 6
+        Orkira: 4 / 6 (Potentially 5 / 6)
        Paultin: 4 / 6
-      Penelope: 3 / 6
+      Penelope: 3 / 6 (Potentially 4 / 6)
         Presto: 5 / 6
          Pwent: 5 / 6
         Qillek: 5 / 6
          Regis: 4 / 6
-          Reya: 4 / 6
+          Reya: 4 / 6 (Potentially 5 / 6)
           Rust: 5 / 6
-        Selise: 3 / 6
-        Sentry: 4 / 6
+        Selise: 3 / 6 (Potentially 4 / 6)
+        Sentry: 4 / 6 (Potentially 5 / 6)
      Sgt. Knox: 6 / 6
-   Shadowheart: 2 / 6
+   Shadowheart: 2 / 6 (Potentially 3 / 6)
          Shaka: 6 / 6
-       Shandie: 5 / 6
-      Sisaspia: 4 / 6
+       Shandie: 5 / 6 (Potentially 6 / 6)
+      Sisaspia: 4 / 6 (Potentially 5 / 6)
         Solaak: 5 / 6
-         Stoki: 4 / 6
+         Stoki: 4 / 6 (Potentially 5 / 6)
    Strongheart: 5 / 6
          Talin: 5 / 6
-       Tatyana: 3 / 6
-      Thellora: 3 / 6
+       Tatyana: 3 / 6 (Potentially 4 / 6)
+      Thellora: 3 / 6 (Potentially 4 / 6)
         Turiel: 6 / 6
          Tyril: 6 / 6
-       Ulkoria: 4 / 6
+       Ulkoria: 4 / 6 (Potentially 5 / 6)
          Uriah: 5 / 6
-     Valentine: 3 / 6
-            Vi: 5 / 6
-       Viconia: 3 / 6
-      Vin Ursa: 3 / 6
+     Valentine: 3 / 6 (Potentially 4 / 6)
+            Vi: 5 / 6 (Potentially 6 / 6)
+       Viconia: 3 / 6 (Potentially 4 / 6)
+      Vin Ursa: 3 / 6 (Potentially 4 / 6)
         Virgil: 5 / 6
-       Vlahnya: 4 / 6
-      Voronika: 4 / 6
-        Walnut: 2 / 6
-        Widdle: 3 / 6
+       Vlahnya: 4 / 6 (Potentially 5 / 6)
+      Voronika: 4 / 6 (Potentially 5 / 6)
+        Walnut: 2 / 6 (Potentially 3 / 6)
+        Widdle: 3 / 6 (Potentially 4 / 6)
        Wulfgar: 5 / 6
           Wyll: 6 / 6
         Xander: 5 / 6
-      Xerophon: 3 / 6
+      Xerophon: 3 / 6 (Potentially 4 / 6)
 </pre>
 </p>
 </details>
