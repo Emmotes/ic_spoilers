@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Young and the Reckless | 02 Feb | **DM** | Jarlaxle | Spurt | D'hani | Farideh | Golden Epic |
 | Hat of Many Spells | 09 Feb | **Presto** | Bruenor | Jarlaxle | Hew Maan | Gazrick | Golden Epic |
 | Dance Party | 16 Feb | **Kent** | Celeste | Tyril | Avren | Briv | Golden Epic |
 | Compatriots Call | 23 Feb | **Solaak** | Nayeli | Calliope | Deekin | Shandie | Golden Epic |
