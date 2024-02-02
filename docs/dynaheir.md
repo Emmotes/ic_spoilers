@@ -637,6 +637,164 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
 
 # Specialisations
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Circle Magic Icon](images/dynaheir/icon_circlemagic.png) **Circle Magic** (Level: 250)
+> Champions that are adjacent to Dynaheir get +1 CON and the base effect of The Resolve of Rashemen is increased by 10%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 13879,
+    "hero_id": 145,
+    "required_level": 250,
+    "required_upgrade_id": 0,
+    "upgrade_type": null,
+    "effect": "effect_def,1854",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Circle Magic",
+    "specialization_name": "Circle Magic",
+    "specialization_description": "Dynaheir uses her circle magic to increase her buff as well as the Constitution of nearby Champions.",
+    "specialization_graphic_id": 22271
+}
+{
+    "id": 1854,
+    "flavour_text": "",
+    "description": {
+        "desc": "Champions that are adjacent to Dynaheir get +1 CON and the base effect of The Resolve of Rashemen is increased by $amount%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,10,13874,0",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "increase_ability_score_not_always_on,con,1",
+            "off_when_benched": true,
+            "targets": [
+                "adj"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 22272,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true,
+        "type": "do_not_buff_pls"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Iron Lord's Justice Icon](images/dynaheir/icon_ironlordsjustice.png) **Iron Lord's Justice** (Level: 250)
+> Champions deal 1000% more damage against all Favored Foes.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 13880,
+    "hero_id": 145,
+    "required_level": 250,
+    "required_upgrade_id": 0,
+    "upgrade_type": null,
+    "effect": "effect_def,1855",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Iron Lord's Justice",
+    "specialization_name": "Iron Lord's Justice",
+    "specialization_description": "Dynaheir unites her companions to defeat everybody's Favored Foes.",
+    "specialization_graphic_id": 22272
+}
+{
+    "id": 1855,
+    "flavour_text": "",
+    "description": {
+        "desc": "Champions deal $amount% more damage against all Favored Foes."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "increase_monster_damage_if_favored_foe,1000",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Loyal Bodyguard Icon](images/dynaheir/icon_loyalbodyguard.png) **Loyal Bodyguard** (Level: 250)
+> Minsc gains the Tanking role and is now eligible for this adventure regardless of other restrictions. His base health increases by 200%, and then further increases by 75% for every 50 areas completed in the current adventure, up to area 600. All other Champions' health is increased by 25% of Minsc's max health.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 13881,
+    "hero_id": 145,
+    "required_level": 250,
+    "required_upgrade_id": 0,
+    "upgrade_type": null,
+    "effect": "effect_def,1856",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Loyal Bodyguard",
+    "specialization_name": "Loyal Bodyguard",
+    "specialization_description": "Dynaheir teaches Minsc how to be a tank.",
+    "specialization_graphic_id": 22273
+}
+{
+    "id": 1856,
+    "flavour_text": "",
+    "description": {
+        "desc": "Minsc gains the Tanking role and is now eligible for this adventure regardless of other restrictions. His base health increases by 200%, and then further increases by 75% for every 50 areas completed in the current adventure, up to area 600. All other Champions' health is increased by 25% of Minsc's max health."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "dynaheir_loyal_bodyguard,200",
+            "off_when_benched": true,
+            "minsc_effect": "effect_def,1857",
+            "minsc_health_mult_amount_expr": "(base_amount/100+1)*pow(1.75,floor(min(highest_completed_area,600)/50))"
+        },
+        {
+            "effect_string": "force_allow_hero",
+            "off_when_benched": true,
+            "hero_ids": [
+                7
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "retain_on_slot_changed": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
