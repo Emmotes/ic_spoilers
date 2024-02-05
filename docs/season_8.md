@@ -460,7 +460,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 
-# Miscellaneous Images
 
 [Back to Top](#top)
 
