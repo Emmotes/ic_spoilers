@@ -57,6 +57,7 @@ These are some of the raw text defines that reference Events 2.0 or new events i
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Attack**</span>
+            <span style="margin-left:15px">Icon_Events20_GenericAttack</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
@@ -65,6 +66,7 @@ These are some of the raw text defines that reference Events 2.0 or new events i
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Magic**</span>
+            <span style="margin-left:15px">Icon_Events20_GenericMagic</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
@@ -73,6 +75,7 @@ These are some of the raw text defines that reference Events 2.0 or new events i
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Ranged**</span>
+            <span style="margin-left:15px">Icon_Events20_GenericRanged</span>
         </span>
     </span>
 </span>
