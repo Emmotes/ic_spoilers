@@ -12,8 +12,6 @@ Gale is a magical prodigy – a wizard of great talent and incredible knowledge.
 
 [Gale - Baldur's Gate Wiki](https://bg3.wiki/wiki/Gale)
 
-<span style="font-size:1.2em;">ⓘ</span>  Note: Gale being listed before Diana is 100% an assumption on my part. The only data that suggests he'll be added is a familiar `Tara the Tressym` and at present it has no date information attached to it.
-
 # Basic Information
 
 Gale will be the new champion in the Greengrass event on 27 March 2024.

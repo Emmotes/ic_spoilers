@@ -11,8 +11,6 @@ Diana, the Acrobat (voiced by Tonia Gayle Smith) – a brave, athletic, and outs
 
 [Dungeons & Dragons (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_(TV_series))
 
-<span style="font-size:1.2em;">ⓘ</span>  Note: Diana being listed after Gale is 100% an assumption on my part. The only data that suggests she will be added is a familiar `TBD Diana Familiar` and at present it has no date information attached to it.
-
 # Basic Information
 
 Diana will be the new champion in the The Running event on 17 April 2024.
