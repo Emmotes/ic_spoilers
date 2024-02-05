@@ -46,6 +46,7 @@ These are some of the raw text defines that reference Events 2.0 or new events i
 </pre>
 </p>
 </details>
+<br>
 
 ## Icons
 
@@ -87,6 +88,7 @@ These are some of the raw text defines that reference Events 2.0 or new events i
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Background**</span>
+            <span style="margin-left:15px">FestivalofFools_2_0_64Background</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
@@ -95,6 +97,7 @@ These are some of the raw text defines that reference Events 2.0 or new events i
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Blank Champion**</span>
+            <span style="margin-left:15px">FestivalofFools_2_0_BlankChampion</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
@@ -103,6 +106,7 @@ These are some of the raw text defines that reference Events 2.0 or new events i
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">FestivalofFools_2_0_Buff</span>
         </span>
     </span>
 </span>
