@@ -610,7 +610,7 @@ code{
 	max-width: 850px;
 	min-width: 350px;
 	font-size: 0.9em;
-	overflow-wrap: break-word;
+	word-break: break-word;
 }
 .emergenceShopTableItem {
 	display: flex;
