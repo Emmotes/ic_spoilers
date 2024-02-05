@@ -1,9 +1,10 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsImage">
+        ![PC Portrait for Gale](images/gale/portrait.png)Portait
+    </span>
 </span>
-{% endcomment %}
 
 # Gale
 
