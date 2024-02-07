@@ -294,7 +294,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 6</span>
         </span>
         <span class="featTableDate">
             <span>28 Feb 2024</span>
@@ -311,7 +311,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 6</span>
         </span>
         <span class="featTableDate">
             <span>28 Feb 2024</span>
@@ -328,7 +328,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Stat: +2 Constitution</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 6</span>
         </span>
         <span class="featTableDate">
             <span>28 Feb 2024</span>
@@ -345,7 +345,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 6</span>
         </span>
         <span class="featTableDate">
             <span>28 Feb 2024</span>
