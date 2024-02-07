@@ -5,7 +5,7 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Celeste Starter Pack - $9.99  
+### Celeste Starter Pack - $11.99  
 Date of release: 07 Feb 2024
 
 Contents:
@@ -21,7 +21,66 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Aasimar Glitch Donaar Skin & Feat Pack - $9.99  
+### Celeste's Starter Pack - $19.99  
+Date of release: 07 Feb 2024
+
+Contents:
+
+* Chests: `Gold Chest (Guess)` x10 (Shinies x2)
+* Loot: `Ornate Headband of Faith` (Celeste Slot 1  Golden Epic)
+* Loot: `Golden Gauntlets` (Celeste Slot 2  Rare)
+* Loot: `Thick Scalemail Belt` (Celeste Slot 3  Rare)
+* Loot: `Copper Amulet` (Celeste Slot 4  Rare)
+* Loot: `Chainmail Boots` (Celeste Slot 5  Rare)
+* Loot: `Ornate Holy Symbol` (Celeste Slot 6  Rare)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Nayeli Starter Pack - $11.99  
+Date of release: 07 Feb 2024
+
+Contents:
+
+* Chests: `Gold Chest (Guess)` x5 (Shinies x1)
+* Loot: `Figurine Of Wondrous Power` (Nayeli Slot 1  Golden Epic)
+* Loot: `Ornate Breastplate` (Nayeli Slot 2  Rare)
+* Loot: `Dwarven Mithral Shirt` (Nayeli Slot 3  Rare)
+* Loot: `Paladin's Gauntlets` (Nayeli Slot 4  Rare)
+* Loot: `Devoted Holy Symbol` (Nayeli Slot 5  Rare)
+* Loot: `Strong Magical Greatsword` (Nayeli Slot 6  Rare)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Nayeli's Starter Pack - $29.99  
+Date of release: 07 Feb 2024
+
+Contents:
+
+* Chests: `Gold Chest (Guess)` x20 (Shinies x3)
+* Loot: `Figurine Of Wondrous Power` (Nayeli Slot 1  Golden Epic)
+* Loot: `Ornate Breastplate` (Nayeli Slot 2  Rare)
+* Loot: `Dwarven Mithral Shirt` (Nayeli Slot 3  Rare)
+* Loot: `Paladin's Gauntlets` (Nayeli Slot 4  Rare)
+* Loot: `Devoted Holy Symbol` (Nayeli Slot 5  Rare)
+* Loot: `Strong Magical Greatsword` (Nayeli Slot 6  Rare)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Starter Pack - $2.99  
+Date of release: 07 Feb 2024
+
+Contents:
+
+* Chests: `Gold Chest (Guess)` x2
+* Loot: `Strong Shield` (Bruenor Slot 5  Rare)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Aasimar Glitch Donaar Skin & Feat Pack - $11.99  
 Date of release: 14 Feb 2024
 
 Contents:
@@ -36,7 +95,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Russet the Fox Familiar Pack - $14.99  
+### Russet the Fox Familiar Pack - $16.99  
 Date of release: 14 Feb 2024
 
 Contents:
@@ -53,14 +112,14 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Baldur's Gate Dynaheir Theme Pack - $24.99  
+### Baldur's Gate Dynaheir Theme Pack - $27.99  
 Date of release: 21 Feb 2024
 
 Contents:
 
 * Champion: `Dynaheir`
 * Skin: `Baldur's Gate Dynaheir`
-* Feat: `Selflessness` (Dynaheir)
+* Feat: `Wychlaran Potential` (Dynaheir)
 * Familiar: `Beljuril the Chicken`
 * Chests: `Gold  Dynaheir Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
@@ -68,7 +127,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Undead Knight Solaak Skin & Feat Pack - $9.99  
+### Undead Knight Solaak Skin & Feat Pack - $11.99  
 Date of release: 21 Feb 2024
 
 Contents:
@@ -83,7 +142,22 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mind Flayer Dark Urge Theme Pack - $24.99  
+### Archmage Dhadius Theme Pack - $27.99  
+Date of release: 06 Mar 2024
+
+Contents:
+
+* Champion: `Dhadius the Magnificent`
+* Skin: `Archmage Dhadius`
+* Feat: ???
+* Familiar: `Brain in a Jar`
+* Chests: `Gold Dhadius Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Mind Flayer Dark Urge Theme Pack - $27.99  
 Date of release: 06 Mar 2024
 
 Contents:
@@ -98,7 +172,66 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Dragonborn Glitch Strongheart Skin & Feat Pack - $9.99  
+### Spelljammer Pilot Briv Skin & Feat Pack - $11.99  
+Date of release: 13 Mar 2024
+
+Contents:
+
+* Champion: `Briv Steelmarrow`
+* Skin: `Spelljammer Pilot Briv`
+* Feat: ???
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Briv Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Spelljammer Regis Skin & Feat Pack - $11.99  
+Date of release: 13 Mar 2024
+
+Contents:
+
+* Champion: `Regis`
+* Skin: `Spelljammer Regis`
+* Feat: ???
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Regis Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Classic Displacer Beast Familiar Pack - $5.99  
+Date of release: 20 Mar 2024
+
+Contents:
+
+* Familiar: `Classic Displacer Beast`
+* Familiar Skin: Red Nose Baby Owlbear Skin (Baby Snowy Owlbear)
+* Buff: `Huge Potion of Speed` x2
+* Buff: `Huge Potion of Giant's Strength` x2
+* Buff: `Huge Potion of Clairvoyance` x2
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Classic Red Dragon Familiar Pack - $11.99  
+Date of release: 20 Mar 2024
+
+Contents:
+
+* Familiar: `Classic Red Dragon`
+* Familiar Skin: Red Nose Baby Owlbear Skin (Baby Snowy Owlbear)
+* Buff: `Huge Potion of Speed` x4
+* Buff: `Huge Potion of Giant's Strength` x4
+* Buff: `Huge Potion of Clairvoyance` x4
+* Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Dragonborn Glitch Strongheart Skin & Feat Pack - $11.99  
 Date of release: 27 Mar 2024
 
 Contents:
@@ -113,7 +246,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mosaic Mimir Familiar Pack - $4.99  
+### Mosaic Mimir Familiar Pack - $5.99  
 Date of release: 27 Mar 2024
 
 Contents:
@@ -126,7 +259,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Tiefling Glitch Miria Skin & Feat Pack - $9.99  
+### Tiefling Glitch Miria Skin & Feat Pack - $11.99  
 Date of release: 27 Mar 2024
 
 Contents:

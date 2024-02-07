@@ -17,7 +17,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-left: 8px;">Aasimar Glitch Donaar Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">14 Feb 2024</span>
@@ -45,7 +45,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-left: 8px;">Baldur's Gate Dynaheir Theme Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">$24.99</span>
+            <span style="margin-right: 8px;">$27.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">21 Feb 2024</span>
@@ -59,7 +59,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-left: 8px;">Undead Knight Solaak Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">21 Feb 2024</span>
@@ -70,10 +70,10 @@ Please be aware that the developers recently removed most future skins from the 
             ![Archmage Dhadius Portrait](images/skin_portraits/archmagedhadius.png)Archmage Dhadius
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Season 8 (Guess)</span>
+            <span style="margin-left: 8px;">Archmage Dhadius Theme Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$27.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">06 Mar 2024</span>
@@ -87,10 +87,38 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-left: 8px;">Mind Flayer Dark Urge Theme Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">$24.99</span>
+            <span style="margin-right: 8px;">$27.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">06 Mar 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Spelljammer Pilot Briv
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Spelljammer Pilot Briv Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">13 Mar 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Spelljammer Regis
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Spelljammer Regis Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">13 Mar 2024</span>
         </span>
     </span>
     <span class="skinTableRow">
@@ -101,7 +129,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-left: 8px;">Dragonborn Glitch Strongheart Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">27 Mar 2024</span>
@@ -115,7 +143,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-left: 8px;">Tiefling Glitch Miria Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">27 Mar 2024</span>
@@ -124,6 +152,34 @@ Please be aware that the developers recently removed most future skins from the 
     <span class="skinTableRow">
         <span class="skinTableIcon">
             ![Aarakocra Glitch Orkira Portrait](images/skin_portraits/aarakocraglitchorkira.png)Aarakocra Glitch Orkira
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mind Flayer Celeste Portrait](images/skin_portraits/mindflayerceleste.png)Mind Flayer Celeste
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mind Flayer Dynaheir Portrait](images/skin_portraits/mindflayerdynaheir.png)Mind Flayer Dynaheir
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>

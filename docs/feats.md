@@ -285,6 +285,108 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>???: 0</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/featicons/unknown.png)Illithid Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>28 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dynaheir</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">**Illithid Tadpole (Dynaheir)**You want me to put what in my brain?</span>Illithid Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>28 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Presto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Tenacious (Presto)**I won't give up! No matter what Venger throws at us!</span>Tenacious
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Constitution</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>28 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Solaak</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Solaak)**Trust me, we've got this.</span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>28 Feb 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Briv</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dost Thou Want To Fight? Icon](images/featicons/brivjester.png)<span class="featTooltipContents">**Dost Thou Want To Fight? (Briv)**Have at thee!</span>Dost Thou Want To Fight?
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>13 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Regis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Master's Precision (Regis)**Now I know your weak spot!</span>Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span>+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>13 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Miria</span>
         </span>
         <span class="featTableIcon4">
@@ -315,6 +417,244 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>27 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>DM</span>
+        </span>
+        <span class="featTableIcon3">
+            ![All Grown Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**All Grown Up (DM)**Ah, time flows yet again.</span>All Grown Up
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>Patron: 5</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>DM</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Never Late Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Never Late (DM)**A Dungeon Master appears when they mean to!</span>Never Late
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>Patron: 5</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Penelope</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Aasimar Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Aasimar Glitch (Penelope)**LOOK HOW COLORFUL I AM!</span>Aasimar Glitch
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Catti-brie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dwarf Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Dwarf Glitch (Catti-brie)**Aye, what's this?</span>Dwarf Glitch
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>10 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Wulfgar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dwarf Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Dwarf Glitch (Wulfgar)**...I should be taller.</span>Dwarf Glitch
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>10 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Antrius</span>
+        </span>
+        <span class="featTableIcon4">
+            ![SO Cute! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**SO Cute! (Antrius)**And you thought I was irresistible before!</span>SO Cute!
+        </span>
+        <span class="featTableEffect">
+            <span>80% Can't be De-Feat-ed</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>17 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Melf</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Melf's Collectors Boots Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Melf's Collectors Boots (Melf)**You can't just leave them in the box, can you?</span>Melf's Collectors Boots
+        </span>
+        <span class="featTableEffect">
+            <span>80% Melf's Speedy Supplement</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>17 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Spurt</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Sparkly Eyes Icon](images/featicons/spurtult.png)<span class="featTooltipContents">**Sparkly Eyes (Spurt)**SPURTS ADORABLE!</span>Sparkly Eyes
+        </span>
+        <span class="featTableEffect">
+            <span>+60% Ultimate Cooldown</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>17 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Voronika</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Voronika)**Do as I say - you'll live longer.</span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>19 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Orkira</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Aarakocra Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Aarakocra Glitch (Orkira)**Look at my WINGS!</span>Aarakocra Glitch
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>24 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Jaheira</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">**Illithid Tadpole (Jaheira)**I am only doing this to save Baldur's Gate...</span>Illithid Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>08 May 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Greater Order Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Greater Order (Nordom)**Announcement: I will now bring greater balance to our formation!</span>Greater Order
+        </span>
+        <span class="featTableEffect">
+            <span>80% Form Orderly Ranks</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>08 May 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Evandra</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cute and Fierce Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Cute and Fierce (Evandra)**I can still rip off arms, and they AREN'T full of stuffing!</span>Cute and Fierce
+        </span>
+        <span class="featTableEffect">
+            <span>80% Never Completely 'Armless</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>15 May 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nixie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cute, but Deadly Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Cute, but Deadly (Nixie)**But, I'm a fireproof plushie, right?</span>Cute, but Deadly
+        </span>
+        <span class="featTableEffect">
+            <span>80% Blazing Charisma</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>15 May 2024</span>
         </span>
     </span>
 </span>
@@ -1157,23 +1497,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>03 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Tenacious (Presto)**I won't give up! No matter what Venger throws at us!</span>Tenacious
-        </span>
-        <span class="featTableEffect">
-            <span>Stat: +2 Constitution</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
