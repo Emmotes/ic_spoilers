@@ -358,7 +358,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
             "stacks_multiply": false,
             "desc_forced_order": 1,
             "show_bonus": true,
-            "stacks_on_trigger": "owner_kill"
+            "stacks_on_trigger": "on_broadcast_stacks,dark_urge_murder_trigger"
         },
         {
             "effect_string": "stacks_data_binder_safe,0,the_dark_urge_murder_stacks",
@@ -366,8 +366,21 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
             "use_stat_defs": true
         },
         {
-            "effect_string": "expression_on_trigger,owner_kill",
-            "per_trigger_expr": "AppendToSaveStat(`the_dark_urge_a_wonderful_day_for_murder`, false, as_int(GetUpgradeStacks(14381, 1) == 6))"
+            "effect_string": "expression_on_trigger,dark_urge_murder_trigger",
+            "per_trigger_expr": "AppendToSaveStat(`the_dark_urge_a_wonderful_day_for_murder`, false, as_int(GetUpgradeStacks(14381, 1) == 6 && is_formation_full))"
+        },
+        {
+            "effect_string": "broadcast_on_trigger,dark_urge_kill,owner_kill"
+        },
+        {
+            "effect_string": "broadcast_on_trigger,dark_urge_kill,offline_monsters_killed_by_owner"
+        },
+        {
+            "effect_string": "broadcast_on_trigger,dark_urge_murder_trigger",
+            "trigger_name": "on_broadcast_stacks",
+            "trigger_params": [
+                "dark_urge_kill"
+            ]
         }
     ],
     "requirements": "",
@@ -377,6 +390,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "per_effect_index_bonuses": true,
+        "indexed_effect_properties": true,
         "default_bonus_index": 0
     }
 }
@@ -450,7 +464,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Living on the Edge** (Guess)
-> The Dark Urge has 6 Outcast stacks, minus 1 stack for each adjacent champion that does not have the DPS role.  The Dark Urge increases his damage by 100% for each Outcast stack, stacking multiplicatively.
+> The Dark Urge has 6 Outcast stacks, minus 1 stack for each adjacent Champion that does not have the DPS role. The Dark Urge increases his damage by 100% for each Outcast stack, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -460,7 +474,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
     "id": 1872,
     "flavour_text": "",
     "description": {
-        "desc": "The Dark Urge has $(max_stacks___2) Outcast stacks, minus $(stack_reduction_per_champ_mult___2) stack for each adjacent champion that does not have the DPS role.  The Dark Urge increases his damage by $(amount)% for each Outcast stack, stacking multiplicatively."
+        "desc": "The Dark Urge has $(max_stacks___2) Outcast stacks, minus $(stack_reduction_per_champ_mult___2) stack for each adjacent Champion that does not have the DPS role. The Dark Urge increases his damage by $(amount)% for each Outcast stack, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -648,7 +662,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade_effect_stacks_trigger_mult,200,14379,0"
+            "effect_string": "buff_upgrade_effect_stacks_trigger_mult,200,14379,5"
         }
     ],
     "requirements": "",
@@ -723,7 +737,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Resist the Urge** (Guess)
-> The Dark Urge's alignment becomes Lawful Good, he unlocks the Wither's Resurrection ultimate, and deals 100% more damage for each Good Champion in the formation, stacking multiplicatively.
+> The Dark Urge's alignment becomes Lawful Good, he unlocks the Withers' Resurrection ultimate, and deals 100% more damage for each Good Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -731,7 +745,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
     "id": 1877,
     "flavour_text": "",
     "description": {
-        "desc": "The Dark Urge's alignment becomes Lawful Good, he unlocks the Wither's Resurrection ultimate, and deals $(not_buffed amount___2)% more damage for each Good Champion in the formation, stacking multiplicatively."
+        "desc": "The Dark Urge's alignment becomes Lawful Good, he unlocks the Withers' Resurrection ultimate, and deals $(not_buffed amount___2)% more damage for each Good Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
