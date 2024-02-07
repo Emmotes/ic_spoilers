@@ -168,7 +168,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Mind Flayer Celeste Portrait](images/skin_portraits/mindflayerceleste.png)Mind Flayer Celeste
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Emergence 6 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -182,7 +182,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Mind Flayer Dynaheir Portrait](images/skin_portraits/mindflayerdynaheir.png)Mind Flayer Dynaheir
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Emergence 6 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
