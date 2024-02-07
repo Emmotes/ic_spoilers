@@ -4,6 +4,9 @@
     <span class="championPortraitsImage">
         ![PC Portrait for Gale](images/gale/portrait.png)Portait
     </span>
+    <span class="championPortraitsImage">
+        ![Model GIF of Gale](images/gale/model.gif)Model
+    </span>
 </span>
 
 # Gale
