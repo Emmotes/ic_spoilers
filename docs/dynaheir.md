@@ -486,7 +486,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Spoils of War Icon](images/dynaheir/icon_spoilsofwar.png) **Spoils of War** (Level: 100)
-> All Favored Foes have a 50% chance to drop double quest items or count for double quest progress.
+> All Favored Foes have a 25% chance to drop double quest items or count for double quest progress.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -510,7 +510,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
     },
     "effect_keys": [
         {
-            "effect_string": "chance_multiply_favored_foe_quest_rewards,50,2",
+            "effect_string": "chance_multiply_favored_foe_quest_rewards,25,2",
             "off_when_benched": true
         }
     ],
@@ -530,7 +530,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Defensive Position Icon](images/dynaheir/icon_defensiveposition.png) **Defensive Position** (Level: 140)
-> Dynaheir increases the bonus of The Resolve of Rashemen by $(amount___3)% each time an ally is attacked, up to a maximum of $max_stacks___4 stacks. Stacks apply multiplicatively and reset when changing areas.
+> Dynaheir increases the bonus of The Resolve of Rashemen by 20% each time an ally is attacked, up to a maximum of 100 stacks. Stacks apply multiplicatively and reset when changing areas. If Minsc is in the formation, the base effect is increased to 44%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -549,7 +549,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
     "id": 1852,
     "flavour_text": "",
     "description": {
-        "desc": "Dynaheir increases the bonus of The Resolve of Rashemen by $(amount___3)% each time an ally is attacked, up to a maximum of $max_stacks___4 stacks. Stacks apply multiplicatively and reset when changing areas."
+        "desc": "Dynaheir increases the bonus of The Resolve of Rashemen by $(not_buffed amount)% each time an ally is attacked, up to a maximum of $max_stacks stacks. Stacks apply multiplicatively and reset when changing areas. If Minsc is in the formation, the base effect is increased to $(override_amount___2)%"
     },
     "effect_keys": [
         {
@@ -573,6 +573,12 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
                     }
                 }
             ]
+        },
+        {
+            "effect_string": "dynaheir_defensive_position_minsc",
+            "index": 0,
+            "base_amount": 20,
+            "override_amount": 44
         }
     ],
     "requirements": "",
@@ -580,6 +586,11 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true,
         "formation_circle_icon": false
     }
 }
@@ -739,7 +750,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Loyal Bodyguard Icon](images/dynaheir/icon_loyalbodyguard.png) **Loyal Bodyguard** (Level: 250)
-> Minsc gains the Tanking role and is now eligible for this adventure regardless of other restrictions. His base health increases by 200%, and then further increases by 75% for every 50 areas completed in the current adventure, up to area 600. All other Champions' health is increased by 25% of Minsc's max health.
+> Minsc gains the Tanking role and is eligible for this adventure. His base health increases by 200%, and then further increases by 75% for every 50 areas completed in the current adventure, up to area 600. All other Champions' health is increased by 25% of Minsc's max health.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -761,7 +772,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
     "id": 1856,
     "flavour_text": "",
     "description": {
-        "desc": "Minsc gains the Tanking role and is now eligible for this adventure regardless of other restrictions. His base health increases by 200%, and then further increases by 75% for every 50 areas completed in the current adventure, up to area 600. All other Champions' health is increased by 25% of Minsc's max health."
+        "desc": "Minsc gains the Tanking role and is eligible for this adventure. His base health increases by 200%, and then further increases by 75% for every 50 areas completed in the current adventure, up to area 600. All other Champions' health is increased by 25% of Minsc's max health."
     },
     "effect_keys": [
         {
@@ -852,7 +863,7 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
             Red Wizard Trophy
         </span>
         <span class="itemTableEffect">
-            <span>Spoils of War</span>
+            <span>Spoils of War<br/><span style="font-size:0.9em;">Cap: 3501 dull / 2251 shiny / 1626 golden.</span></span>
         </span>
     </span>
     <span class="itemTableRow">
