@@ -546,7 +546,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Sparkly Eyes Icon](images/featicons/spurtult.png)<span class="featTooltipContents">**Sparkly Eyes (Spurt)**SPURTS ADORABLE!</span>Sparkly Eyes
         </span>
         <span class="featTableEffect">
-            <span>+60% Ultimate Cooldown</span>
+            <span>+60s Ultimate Cooldown</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>

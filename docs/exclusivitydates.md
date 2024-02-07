@@ -1709,7 +1709,7 @@ This is the list of recurring events that have had their exclusivity period end.
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Extra Wasps</span>
-                        <span style="margin-left:15px">Spurt (+30% Ultimate Cooldown)</span>
+                        <span style="margin-left:15px">Spurt (+30s Ultimate Cooldown)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
