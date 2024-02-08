@@ -17,7 +17,7 @@ Gale is a magical prodigy – a wizard of great talent and incredible knowledge.
 
 # Basic Information
 
-Gale will be the new champion in the Greengrass event on 27 March 2024.
+Gale will be the new champion in the Greengrass event on 3 April 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">

@@ -13,7 +13,7 @@ Diana, the Acrobat (voiced by Tonia Gayle Smith) – a brave, athletic, and outs
 
 # Basic Information
 
-Diana will be the new champion in the The Running event on 17 April 2024.
+Diana will be the new champion in the The Running event on 1 May 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">

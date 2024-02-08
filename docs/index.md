@@ -62,7 +62,7 @@ These are the event champions that are upcoming and all the information we know 
                 Gale&nbsp;<span class="indexChampionTableNoLink">- Human Wizard of Absolute Adversaries (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Greengrass - 27 March 2024</span>
+                <span class="indexChampionTableNoLink">Greengrass - 3 April 2024</span>
             </span>
         </span>
     </span>
@@ -81,7 +81,7 @@ These are the event champions that are upcoming and all the information we know 
                 Diana&nbsp;<span class="indexChampionTableNoLink">- Human of Saturday Morning Squad (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">The Running - 17 April 2024</span>
+                <span class="indexChampionTableNoLink">The Running - 1 May 2024</span>
             </span>
         </span>
     </span>
