@@ -192,6 +192,10 @@ function exclusiveToggleContent(id) {
 
 function displayTime(timeLeft) {
 	let ditimer = document.getElementById("ditimer");
+	if (ditimer <=0) {
+		ditimer.innerHTML = `<br>Dev Insights: Live`;
+		return;
+	}
 	let days = Math.floor(timeLeft/(1000*60*60*24));
 	let hours = Math.floor((timeLeft/(1000*60*60)) % 24);
 	let minutes = Math.floor((timeLeft/1000/60) % 60);
@@ -204,20 +208,6 @@ function displayTime(timeLeft) {
 	ditimer.innerHTML = display;
 }
 
-function getNextThursday(date = new Date()) {
-	let dateCopy = new Date(date.getTime());
-	let nextThursday = new Date(dateCopy.setDate(dateCopy.getDate() + ((7 - dateCopy.getDay() + 4) % 7),),);
-    let startOfDay = nextThursday.getTime()/1000;
-    startOfDay = startOfDay - (startOfDay % 86400);
-    let cneOffset = Math.abs(getTimezoneOffset(new Date(),"America/Vancouver"));
-	return (startOfDay + ((14+cneOffset)*3600)) * 1000;
-}
-function getTimezoneOffset(atTime, timeZone) {
-    const localizedTime = new Date(atTime.toLocaleString("en-US", {timeZone}));
-    const utcTime = new Date(atTime.toLocaleString("en-US", {timeZone: "UTC"}));
-    return Math.round((localizedTime.getTime() - utcTime.getTime()) / (3600 * 1000));
-}
-
 function padZeros(num,places) {
 	return String(num).padStart(places, '0');
 }
@@ -225,12 +215,11 @@ function padZeros(num,places) {
 let devInsightsCountdown = setInterval(function() {
 	let now = new Date().getTime();
 	let timeLeft = devInsightsTimer - now;
-	if (timeLeft>0) {
+	if (timeLeft>-3600000) {
 		displayTime(timeLeft);
-	} else if (timeLeft>-3600000) {
-		document.getElementById("ditimer").innerHTML = `<br>Dev Insights: Live`;
 	} else {
 		devInsightsIndex++;
 		devInsightsTimer = devInsights[devInsightsIndex];
 	}
-}, 500);
+}, 1000);
+displayTime(devInsightsTimer - new Date().getTime());
