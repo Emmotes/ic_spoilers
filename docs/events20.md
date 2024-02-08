@@ -6,6 +6,10 @@ Virtually nothing is known about Events 2.0. We're not even sure that's what the
 
 Given that there are some graphics for Festival of Fools 2.0 - we can only assume a release date for this system could potentially be 6 March 2024. But that would be wild speculation and we don't do that here.
 
+<span style="font-size:1.2em;">ⓘ</span>  *Update:* We got info from the blog. Honestly - just read that. Too much to summarise myself.
+
+[Idle Champions 2024 State of the Game Blog](https://codenameentertainment.com/?page=idle_champions&post_id=1636#blog)
+
 ## Text Defines
 
 These are some of the raw text defines that reference Events 2.0 or new events in general.
