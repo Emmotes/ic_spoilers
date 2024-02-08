@@ -12,6 +12,8 @@ const nnm = {
 	nick: "nnm",
 	map: new Map()
 };
+var devInsightsIndex = 0;
+var devInsightsTimer = devInsights[devInsightsIndex];
 
 rrm.map.set("Exclusivity Dates","Dates and Crap");
 rrm.map.set("Premium Packs and DLC", "Shop Cash Packs");
@@ -102,11 +104,11 @@ function init() {
 }
 
 function updateModes(edit) {
-	var modes = `<br /><a href="modes.html">Modes</a>`;
+	var modes = `<br><a href="modes.html">Modes</a>`;
 	for (let i = 0; i < allModes.length; i++) {
 		var curr = allModes[i];
 		if (curr.active) {
-			modes += `<br />${curr.name} Active`;
+			modes += `<br>${curr.name} Active`;
 			if (edit) {
 				for (const [key, value] of curr.map) {
 					document.body.innerHTML = document.body.innerHTML.replaceAll(`${key}`,`${value}`);
@@ -187,3 +189,48 @@ function exclusiveToggleContent(id) {
 		}
 	}
 }
+
+function displayTime(timeLeft) {
+	let ditimer = document.getElementById("ditimer");
+	let days = Math.floor(timeLeft/(1000*60*60*24));
+	let hours = Math.floor((timeLeft/(1000*60*60)) % 24);
+	let minutes = Math.floor((timeLeft/1000/60) % 60);
+	let seconds = Math.floor((timeLeft/1000) % 60);
+	let display = `<br>Dev Insights: `;
+	if (days>0) display += `${days} days `;
+	if (days>0||hours>0) display += `${hours} hours `;
+	if (days>0||hours>0||minutes>0) display += `${padZeros(minutes,2)} mins `;
+	display+= `${padZeros(seconds,2)} secs`;
+	ditimer.innerHTML = display;
+}
+
+function getNextThursday(date = new Date()) {
+	let dateCopy = new Date(date.getTime());
+	let nextThursday = new Date(dateCopy.setDate(dateCopy.getDate() + ((7 - dateCopy.getDay() + 4) % 7),),);
+    let startOfDay = nextThursday.getTime()/1000;
+    startOfDay = startOfDay - (startOfDay % 86400);
+    let cneOffset = Math.abs(getTimezoneOffset(new Date(),"America/Vancouver"));
+	return (startOfDay + ((14+cneOffset)*3600)) * 1000;
+}
+function getTimezoneOffset(atTime, timeZone) {
+    const localizedTime = new Date(atTime.toLocaleString("en-US", {timeZone}));
+    const utcTime = new Date(atTime.toLocaleString("en-US", {timeZone: "UTC"}));
+    return Math.round((localizedTime.getTime() - utcTime.getTime()) / (3600 * 1000));
+}
+
+function padZeros(num,places) {
+	return String(num).padStart(places, '0');
+}
+
+let devInsightsCountdown = setInterval(function() {
+	let now = new Date().getTime();
+	let timeLeft = devInsightsTimer - now;
+	if (timeLeft>0) {
+		displayTime(timeLeft);
+	} else if (timeLeft>-3600000) {
+		document.getElementById("ditimer").innerHTML = `<br>Dev Insights: Live`;
+	} else {
+		devInsightsIndex++;
+		devInsightsTimer = devInsights[devInsightsIndex];
+	}
+}, 500);
