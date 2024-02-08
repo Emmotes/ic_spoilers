@@ -94,9 +94,8 @@ These are the event champions that are upcoming and all the information we know 
 
 Not events events - but events. You know?
 
-* [Season 8](season_8.md) - 28 February 2024
+* Seasons Are Currently Paused
 * [Emergence 6](emergence_6.md) - 28 February 2024
-* Season 9 - 24 April 2024
 * [Exclusivity Dates](exclusivitydates.md)
 
 # Misc
