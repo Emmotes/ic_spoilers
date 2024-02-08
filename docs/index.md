@@ -7,7 +7,7 @@ Just a collection of most of the currently-known spoilers. It is by no means exh
 <span class="spoilerWarning">I'm not angry that you discuss spoilers in places you shouldn't... I'm just disappointed.<br/>Spoilers belong on the {::nomarkdown}<a href="https://discord.gg/idlechampions" target="_blank">official IC Discord</a>{:/nomarkdown} in the `#well_of_spoilers` channel only.</span>
 </span>
 
-# Event Champions
+# New Event Champions
 
 These are the event champions that are upcoming and all the information we know about them. Dates are guesstimates based on the normal event schedule.
 
@@ -90,10 +90,54 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
 </span>
 
+# Reworked Champions
+
+A list of champions that will be seeing reworks in upcoming events.
+
+<span class="indexChampionTableColumn">
+{::nomarkdown}
+<a href="dhadius.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Dhadius the Magnificent Portrait Icon](images/reworks/dhadius.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Dhadius&nbsp;<span class="indexChampionTableNoLink">- Human Wizard</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Unknown</span>
+            </span>
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="penelope.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Penelope Portrait Icon](images/reworks/penelope.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Penelope&nbsp;<span class="indexChampionTableNoLink">- Halfling Druid / Warlock of Heroes of the Planes</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Unknown</span>
+            </span>
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+</span>
+
 # Recurring Events
 
 Not events events - but events. You know?
-
 * Seasons Are Currently Paused
 * [Emergence 6](emergence_6.md) - 28 February 2024
 * [Exclusivity Dates](exclusivitydates.md)
