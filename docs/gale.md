@@ -444,6 +444,11 @@ Unknown.
 
 <span class="championImagesColumn">
     <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Gale Console Portrait](images/gale/console.png)Console Portait
+        </span>
+    </span>
+    <span class="championImagesRow">
         <span class="championImagesChests">
             ![Gale Gold Chest Icon](images/gale/chest_gold.png)Gold Chest Icon
         </span>
