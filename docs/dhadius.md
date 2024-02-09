@@ -271,7 +271,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Skill Empowerment** (Guess)
-> Increases Dhadius's damage and the damage of Champions with 14 or more intelligence within 2 slots of Dhadius by 100% for each Champion in the formation affected by this ability, stacking multiplicatively.
+> Increases Dhadius' damage and the damage of Champions with 14 or more intelligence within 2 slots of Dhadius by 100% for each Champion in the formation affected by this ability, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -282,10 +282,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "conditions": [
             {
                 "condition": "upgrade_purchased 14560",
-                "desc": "Increases Dhadius's damage and the damage of Champions with 12 or more intelligence within 2 slots of Dhadius by $(not_buffed amount)% for each Champion in the formation affected by this ability, stacking multiplicatively."
+                "desc": "Increases Dhadius' damage and the damage of Champions with 12 or more intelligence within 2 slots of Dhadius by $(not_buffed amount)% for each Champion in the formation affected by this ability, stacking multiplicatively."
             },
             {
-                "desc": "Increases Dhadius's damage and the damage of Champions with 14 or more intelligence within 2 slots of Dhadius by $(not_buffed amount)% for each Champion in the formation affected by this ability, stacking multiplicatively."
+                "desc": "Increases Dhadius' damage and the damage of Champions with 14 or more intelligence within 2 slots of Dhadius by $(not_buffed amount)% for each Champion in the formation affected by this ability, stacking multiplicatively."
             }
         ]
     },
@@ -566,7 +566,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1882,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of Skill Empowerment is increased by $(not_buffed amount)% for each Champion in the formation with a Magic base attack, stacking multiplicatively."
+        "desc": "The effect of Skill Empowerment is increased by $(amount)% for each Champion in the formation with a Magic base attack, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -622,7 +622,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1883,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of Skill Empowerment is increased by $(not_buffed amount)% for each Champion in the formation that does not have a Magic base attack, stacking multiplicatively."
+        "desc": "The effect of Skill Empowerment is increased by $(amount)% for each Champion in the formation that does not have a Magic base attack, stacking multiplicatively."
     },
     "effect_keys": [
         {
