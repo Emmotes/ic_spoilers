@@ -8,6 +8,18 @@
 
 # Penelope
 
+Penelope 'Half-Pint' is a halfling who just wants to be everyone's best friend, even if they are evil, or a plant, or a rock. With friends that already include a treant named Neverember, and a clan of chwinga that have adopted her, Penelope is ready for anything! She has the heart of a true hero and will always stand by her friends, until she goes into shrub mode of course.
+
+# Changes
+
+Penelope is potentially a reworked champion in the Greengrass event on 3 April 2024.
+
+Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
+
+Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
+
+# Abilities
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Swarm Cloud** (Guess)
 > Unknown.

@@ -8,6 +8,18 @@
 
 # Dhadius
 
+Dhadius is a mage of legendary status and acclaim (at least, in his own mind), who sees everyone else as intellectual worms. Being an egomaniac, he seeks out esoteric lore and rare magical secrets so he may know things that the 'common fools' do not. Dhadius hails from Luskan in the north, where he is a member of the Arcane Brotherhood, an infamous group of wizards. He joined them only recently and hasn't been taken as seriously by the others as he thinks he should be. He's determined to let it be known far and wide that he is a wizard to be respected and feared.
+
+# Changes
+
+Dhadius is potentially a reworked champion in the Festival of Fools event on 6 March 2024.
+
+Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
+
+Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
+
+# Abilities
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Chromatic Orb - Frost** (Guess)
 > Dhadius tosses a Chromatic orb with a random element at the nearest enemy.

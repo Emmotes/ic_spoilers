@@ -107,7 +107,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 Dhadius&nbsp;<span class="indexChampionTableNoLink">- Human Wizard</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Unknown</span>
+                <span class="indexChampionTableNoLink">Festival of Fools - 6 March 2024 (Guess)</span>
             </span>
         </span>
     </span>
@@ -126,7 +126,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 Penelope&nbsp;<span class="indexChampionTableNoLink">- Halfling Druid / Warlock of Heroes of the Planes</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Unknown</span>
+                <span class="indexChampionTableNoLink">Greengrass - 3 April 2024 (Guess)</span>
             </span>
         </span>
     </span>
