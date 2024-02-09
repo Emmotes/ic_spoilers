@@ -91,7 +91,7 @@ Contents:
 * Skin: `Mind Flayer Dark Urge`
 * Feat: ???
 * Familiar: `Gale's Hand`
-* Chests: `Gold  Y7E9 Chest` x16 (Shinies x2)
+* Chests: `Gold The Dark Urge Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
