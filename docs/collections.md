@@ -2,8 +2,9 @@
 
 # Collections Dialogue
 
-Virtually nothing is known about the new collection dialogue. 
-That said some icons did enter the defines recently.
+Since we've now had an official blog about the Collections Dialogue - probably best just to view that. We've been told Collections and Guide Quests will release on 28 February 2024.
+
+[Idle Champions 2024 State of the Game Blog](https://codenameentertainment.com/?page=idle_champions&post_id=1636#blog)
 
 <span class="emergenceShopTableRow">
   <span class="emergenceShopTableItem">
