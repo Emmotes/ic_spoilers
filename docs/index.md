@@ -148,6 +148,7 @@ Miscellaneous spoilers.
 
 * [Collections Dialogue](collections.md) - 28 February 2024
 * [Events 2.0](events20.md) - 6 March 2024
+* [Patron 5](patron_5.md) - ???
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)
