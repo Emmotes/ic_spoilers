@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Aasimar Glitch Donaar Portrait](images/skin_portraits/aasimarglitchdonaar.png)Aasimar Glitch Donaar
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Aasimar Glitch Donaar Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">14 Feb 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Gnome Glitch Avren Portrait](images/skin_portraits/gnomeglitchavren.png)Gnome Glitch Avren
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Adventure: The Fortune's Wheel</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">Free</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">14 Feb 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Baldur's Gate Dynaheir Portrait](images/skin_portraits/baldursgatedynaheir.png)Baldur's Gate Dynaheir
         </span>
         <span class="skinTableSource">

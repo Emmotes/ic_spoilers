@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Avren</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Gnome Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Gnome Glitch (Avren)**Well, it's not the worst form I've had, so I'll take it.</span>Gnome Glitch
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Gnome & +20% to Mirror Image per Gnome</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>14 Feb 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Donaar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Aasimar Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Aasimar Glitch (Donaar)**Wait, what's my breath weapon now?!</span>Aasimar Glitch
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Aasimar & +20% to Lead By Example per Aasimar</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>14 Feb 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Dynaheir</span>
         </span>
         <span class="featTableIcon3">

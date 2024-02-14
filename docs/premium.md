@@ -5,38 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Aasimar Glitch Donaar Skin & Feat Pack - $11.99  
-Date of release: 14 Feb 2024
-
-Contents:
-
-* Champion: `Donaar Blit'zen`
-* Skin: `Aasimar Glitch Donaar`
-* Feat: `Aasimar Glitch` (Donaar)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Donaar Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Russet the Fox Familiar Pack - $16.99  
-Date of release: 14 Feb 2024
-
-Contents:
-
-* Familiar: `Russet the Fox`
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Baldur's Gate Dynaheir Theme Pack - $27.99  
 Date of release: 21 Feb 2024
 

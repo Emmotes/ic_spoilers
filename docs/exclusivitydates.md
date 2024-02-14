@@ -14,309 +14,6 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="s4a" onclick="exclusiveToggleContent(`s4`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Season 4 Icon](images/general/s4.png)**Season 4** - Legends of Mithral Hall
-            </span>
-        </span>
-        <span id="s4" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Rest Awhile Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Rest Awhile</span>
-                        <span style="margin-left:15px">Regis (+1 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Weapon Swap Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Weapon Swap</span>
-                        <span style="margin-left:15px">Catti-brie (+1 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Imposing Build Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Imposing Build</span>
-                        <span style="margin-left:15px">Wulfgar (+1 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Aggressive Stance Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Aggressive Stance</span>
-                        <span style="margin-left:15px">Pwent (+1 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Battle Expertise Feat Icon](images/featicons/critchanceincrease.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Battle Expertise</span>
-                        <span style="margin-left:15px">Artemis (+10% Crit Chance)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Advisor of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Advisor of the Hall</span>
-                        <span style="margin-left:15px">Regis (+2 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Speaker of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Speaker of the Hall</span>
-                        <span style="margin-left:15px">Catti-brie (+2 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Aegis of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Aegis of the Hall</span>
-                        <span style="margin-left:15px">Wulfgar (+2 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Vanguard of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Vanguard of the Hall</span>
-                        <span style="margin-left:15px">Pwent (+2 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Vicious Damage</span>
-                        <span style="margin-left:15px">Artemis (400% Self DPS & Prevent Healing for 10s)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Mythic Regis Skin Icon](images/exclusivities/skin_19541.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Mythic Regis</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Mythic Catti-brie Skin Icon](images/exclusivities/skin_19337.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Mythic Catti-brie</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Mythic Wulfgar Skin Icon](images/exclusivities/skin_19338.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Mythic Wulfgar</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Mythic Pwent Skin Icon](images/exclusivities/skin_19540.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Mythic Pwent</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Mythic Artemis Skin Icon](images/exclusivities/skin_19336.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Mythic Artemis</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Pwent Slot 4](images/exclusivities/ge_6387.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Gutbuster Recruits</span>
-                        <span style="margin-left:15px">Pwent (Slot 4)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Mythic Guenhwyvar Familiar Icon](images/exclusivities/fam_150.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Mythic Guenhwyvar</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Guenhwyvar's Strike Click Skin Icon](images/exclusivities/click_5.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Click Damage Skin**</span>
-                        <span style="margin-left:15px">Guenhwyvar's Strike</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>21 June 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>30 August 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>29 February 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="e3a" onclick="exclusiveToggleContent(`e3`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Emergence 3 Icon](images/general/e3.png)**Emergence 3** - Mind Flayers
-            </span>
-        </span>
-        <span id="e3" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Illithid Tadpole</span>
-                        <span style="margin-left:15px">Nrakk (25% All Champion Damage & +1 Ceremorphosis Stack)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Very Important Person Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Very Important Person</span>
-                        <span style="margin-left:15px">Valentine (80% Socialite)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Mind Flayer Jamilah Skin Icon](images/exclusivities/skin_20718.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Mind Flayer Jamilah</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Mind Flayer Nrakk Skin Icon](images/exclusivities/skin_20719.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Mind Flayer Nrakk</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Blooshi Slot 2](images/exclusivities/ge_13387.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Soul Gatherer</span>
-                        <span style="margin-left:15px">Blooshi (Slot 2)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Lae'zel Slot 3](images/exclusivities/ge_20257.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Ceremorphosis</span>
-                        <span style="margin-left:15px">Lae'zel (Slot 3)</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>23 August 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 December 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 March 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -1951,6 +1648,309 @@ This is the list of recurring events that have had their exclusivity period end.
             </span>
             <span class="postSeasonTableDate">
                 <span>29 November 2023</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="s4a" onclick="exclusiveToggleContent(`s4`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Season 4 Icon](images/general/s4.png)**Season 4** - Legends of Mithral Hall
+            </span>
+        </span>
+        <span id="s4" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Rest Awhile Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Rest Awhile</span>
+                        <span style="margin-left:15px">Regis (+1 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Weapon Swap Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Weapon Swap</span>
+                        <span style="margin-left:15px">Catti-brie (+1 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Imposing Build Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Imposing Build</span>
+                        <span style="margin-left:15px">Wulfgar (+1 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Aggressive Stance Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Aggressive Stance</span>
+                        <span style="margin-left:15px">Pwent (+1 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Battle Expertise Feat Icon](images/featicons/critchanceincrease.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Battle Expertise</span>
+                        <span style="margin-left:15px">Artemis (+10% Crit Chance)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Advisor of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Advisor of the Hall</span>
+                        <span style="margin-left:15px">Regis (+2 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Speaker of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Speaker of the Hall</span>
+                        <span style="margin-left:15px">Catti-brie (+2 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Aegis of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Aegis of the Hall</span>
+                        <span style="margin-left:15px">Wulfgar (+2 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Vanguard of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Vanguard of the Hall</span>
+                        <span style="margin-left:15px">Pwent (+2 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Vicious Damage</span>
+                        <span style="margin-left:15px">Artemis (400% Self DPS & Prevent Healing for 10s)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Mythic Regis Skin Icon](images/exclusivities/skin_19541.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Mythic Regis</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Mythic Catti-brie Skin Icon](images/exclusivities/skin_19337.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Mythic Catti-brie</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Mythic Wulfgar Skin Icon](images/exclusivities/skin_19338.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Mythic Wulfgar</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Mythic Pwent Skin Icon](images/exclusivities/skin_19540.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Mythic Pwent</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Mythic Artemis Skin Icon](images/exclusivities/skin_19336.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Mythic Artemis</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Pwent Slot 4](images/exclusivities/ge_6387.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Gutbuster Recruits</span>
+                        <span style="margin-left:15px">Pwent (Slot 4)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Mythic Guenhwyvar Familiar Icon](images/exclusivities/fam_150.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Mythic Guenhwyvar</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Guenhwyvar's Strike Click Skin Icon](images/exclusivities/click_5.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Click Damage Skin**</span>
+                        <span style="margin-left:15px">Guenhwyvar's Strike</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>21 June 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>30 August 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>14 February 2024</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e3a" onclick="exclusiveToggleContent(`e3`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 3 Icon](images/general/e3.png)**Emergence 3** - Mind Flayers
+            </span>
+        </span>
+        <span id="e3" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Illithid Tadpole</span>
+                        <span style="margin-left:15px">Nrakk (25% All Champion Damage & +1 Ceremorphosis Stack)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Very Important Person Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Very Important Person</span>
+                        <span style="margin-left:15px">Valentine (80% Socialite)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Mind Flayer Jamilah Skin Icon](images/exclusivities/skin_20718.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Mind Flayer Jamilah</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Mind Flayer Nrakk Skin Icon](images/exclusivities/skin_20719.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Mind Flayer Nrakk</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Blooshi Slot 2](images/exclusivities/ge_13387.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Soul Gatherer</span>
+                        <span style="margin-left:15px">Blooshi (Slot 2)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Lae'zel Slot 3](images/exclusivities/ge_20257.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Ceremorphosis</span>
+                        <span style="margin-left:15px">Lae'zel (Slot 3)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>23 August 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>01 December 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>14 February 2024</span>
             </span>
         </span>
     </span>
