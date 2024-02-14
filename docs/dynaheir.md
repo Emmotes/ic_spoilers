@@ -467,6 +467,12 @@ Dynaheir will be the new champion in the Fleetswake event on 21 February 2024.
             ],
             "spawn_count": 1,
             "boss_areas": false
+        },
+        {
+            "effect_string": "expression_on_trigger,offline_monsters_killed_by_owner",
+            "per_trigger_expr": "AppendToSaveStat(`dynaheir_i_hast_thy_nose`, false, (1 / wave_size) * chance * trigger_count)",
+            "wave_size": 3,
+            "chance": 0.5
         }
     ],
     "requirements": "",
