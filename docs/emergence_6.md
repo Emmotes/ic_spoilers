@@ -45,12 +45,12 @@ We know the next Emergence event will be Illithids and that it will start on 28 
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/emergence_6/feat_1714.png)</span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Illithid Tadpole</span>
-            <span style="margin-left:15px">???: 0 (25% All Champion Damage & +1 Ceremorphosis Stack)</span>
+            <span style="margin-left:15px">Minsc (25% All Champion Damage & +1 Ceremorphosis Stack)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
