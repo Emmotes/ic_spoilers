@@ -676,7 +676,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Empowered Orbs** (Guess)
-> Chromatic Orbs now do AOE damage and deal 400% more damage.
+> Chromatic Orbs now deal 400% more damage in an area.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -684,7 +684,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1884,
     "flavour_text": "",
     "description": {
-        "desc": "Chromatic Orbs now do AOE damage and deal $(amount___4)% more damage."
+        "desc": "Chromatic Orbs now deal $(amount___4)% more damage in an area."
     },
     "effect_keys": [
         {
