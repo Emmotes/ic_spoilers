@@ -309,7 +309,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Dark Inheritance** (Guess)
 > The Dark Urge is eligible to start in all adventures, even if the Patron, Variant, or other restrictions would say otherwise. He also does not interact with any Champion abilities or variant effects that are based on age.
 <details><summary><em>Raw Data</em></summary>
 <p>
