@@ -177,4 +177,74 @@ Since we've now had an official blog about the Collections Dialogue - probably b
       </span>
     </span>
   </span>
+  <span class="emergenceShopTableItem">
+    <span class="emergenceShopTableIcon">
+      ![Campaign Button Icon](images/collections/campaign_button.png)
+    </span>
+    <span class="emergenceShopTableTextColumn">
+      <span style="margin-left:5px;">
+        <strong>Campaign Button</strong>
+      </span>
+    </span>
+  </span>
+  <span class="emergenceShopTableItem">
+    <span class="emergenceShopTableIcon">
+      ![Highest Area Container Icon](images/collections/highest_area_container.png)
+    </span>
+    <span class="emergenceShopTableTextColumn">
+      <span style="margin-left:5px;">
+        <strong>Highest Area Container</strong>
+      </span>
+    </span>
+  </span>
+  <span class="emergenceShopTableItem">
+    <span class="emergenceShopTableIcon">
+      ![No Adventure Icon](images/collections/no_adventure.png)
+    </span>
+    <span class="emergenceShopTableTextColumn">
+      <span style="margin-left:5px;">
+        <strong>No Adventure</strong>
+      </span>
+    </span>
+  </span>
+  <span class="emergenceShopTableItem">
+    <span class="emergenceShopTableIcon">
+      ![Unavailable Adventure Icon](images/collections/unavailable_adventure.png)
+    </span>
+    <span class="emergenceShopTableTextColumn">
+      <span style="margin-left:5px;">
+        <strong>Unavailable Adventure</strong>
+      </span>
+    </span>
+  </span>
+  <span class="emergenceShopTableItem">
+    <span class="emergenceShopTableIcon">
+      ![Special Reward Icon](images/collections/special_reward.png)
+    </span>
+    <span class="emergenceShopTableTextColumn">
+      <span style="margin-left:5px;">
+        <strong>Special Reward</strong>
+      </span>
+    </span>
+  </span>
+  <span class="emergenceShopTableItem">
+    <span class="emergenceShopTableIcon">
+      ![Store Button Icon](images/collections/store_button.png)
+    </span>
+    <span class="emergenceShopTableTextColumn">
+      <span style="margin-left:5px;">
+        <strong>Store Button</strong>
+      </span>
+    </span>
+  </span>
+  <span class="emergenceShopTableItem">
+    <span class="emergenceShopTableIcon">
+      ![Wild Offer Icon](images/collections/wild_offer.png)
+    </span>
+    <span class="emergenceShopTableTextColumn">
+      <span style="margin-left:5px;">
+        <strong>Wild Offer</strong>
+      </span>
+    </span>
+  </span>
 </span>
