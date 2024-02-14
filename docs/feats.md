@@ -285,10 +285,10 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>???: 0</span>
+            <span>Dynaheir</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/featicons/unknown.png)Illithid Tadpole
+            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">**Illithid Tadpole (Dynaheir)**You want me to put what in my brain?</span>Illithid Tadpole
         </span>
         <span class="featTableEffect">
             <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
@@ -302,10 +302,10 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Dynaheir</span>
+            <span>Minsc</span>
         </span>
         <span class="featTableIcon4">
-            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">**Illithid Tadpole (Dynaheir)**You want me to put what in my brain?</span>Illithid Tadpole
+            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">**Illithid Tadpole (Minsc)**This smells of EVIL! But I trust you. I just put it in my eye?</span>Illithid Tadpole
         </span>
         <span class="featTableEffect">
             <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
@@ -557,23 +557,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Voronika</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Voronika)**Do as I say - you'll live longer.</span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>19 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Orkira</span>
         </span>
         <span class="featTableIcon4">
@@ -655,6 +638,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>15 May 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Voronika</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Voronika)**Do as I say - you'll live longer.</span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>14 Aug 2024</span>
         </span>
     </span>
 </span>

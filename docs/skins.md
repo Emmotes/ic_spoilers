@@ -28,10 +28,10 @@ Please be aware that the developers recently removed most future skins from the 
             ![Gnome Glitch Avren Portrait](images/skin_portraits/gnomeglitchavren.png)Gnome Glitch Avren
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Adventure / Variant (Guess)</span>
+            <span style="margin-left: 8px;">Adventure: The Fortune's Wheel</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">Free</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">14 Feb 2024</span>
@@ -95,7 +95,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Spelljammer Pilot Briv
+            ![Spelljammer Pilot Briv Portrait](images/skin_portraits/spelljammerpilotbriv.png)Spelljammer Pilot Briv
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Spelljammer Pilot Briv Skin & Feat Pack</span>
@@ -165,6 +165,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Chibi Spurt Portrait](images/skin_portraits/chibispurt.png)Chibi Spurt
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Mind Flayer Celeste Portrait](images/skin_portraits/mindflayerceleste.png)Mind Flayer Celeste
         </span>
         <span class="skinTableSource">
@@ -183,6 +197,20 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 6 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Spelljammer Pilot Regis Portrait](images/skin_portraits/spelljammerpilotregis.png)Spelljammer Pilot Regis
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
