@@ -326,8 +326,8 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 22874,
+    "large_graphic_id": 22874,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false
@@ -366,14 +366,11 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
             "use_stat_defs": true
         },
         {
-            "effect_string": "expression_on_trigger,dark_urge_murder_trigger",
+            "effect_string": "expression_on_trigger,on_broadcast_stacks",
+            "trigger_params": [
+                "dark_urge_murder_trigger"
+            ],
             "per_trigger_expr": "AppendToSaveStat(`the_dark_urge_a_wonderful_day_for_murder`, false, as_int(GetUpgradeStacks(14381, 1) == 6 && is_formation_full))"
-        },
-        {
-            "effect_string": "broadcast_on_trigger,dark_urge_kill,owner_kill"
-        },
-        {
-            "effect_string": "broadcast_on_trigger,dark_urge_kill,offline_monsters_killed_by_owner"
         },
         {
             "effect_string": "broadcast_on_trigger,dark_urge_murder_trigger",
@@ -381,6 +378,12 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
             "trigger_params": [
                 "dark_urge_kill"
             ]
+        },
+        {
+            "effect_string": "broadcast_on_trigger,dark_urge_kill,owner_hit_would_kill"
+        },
+        {
+            "effect_string": "broadcast_on_trigger,dark_urge_kill,offline_monsters_killed_by_owner"
         }
     ],
     "requirements": "",
@@ -662,7 +665,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade_effect_stacks_trigger_mult,200,14379,5"
+            "effect_string": "buff_upgrade_effect_stacks_trigger_mult,200,14379,3"
         }
     ],
     "requirements": "",
@@ -763,7 +766,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
         },
         {
             "apply_manually": true,
-            "effect_string": "block_monster_damage",
+            "effect_string": "damage_reduction,100",
             "targets": [
                 "all_slots"
             ]
