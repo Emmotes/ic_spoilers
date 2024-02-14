@@ -344,7 +344,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Netherese Orb** (Guess)
+**Unknown** (Guess)
 > As an Ally of Elminster, Gale can be used in any Elminster Patron adventure or variant, even if he would not normally be available to be used due to variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
