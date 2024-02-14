@@ -109,7 +109,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Spelljammer Regis
+            ![Spelljammer Pilot Regis Portrait](images/skin_portraits/spelljammerpilotregis.png)Spelljammer Pilot Regis
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Spelljammer Regis Skin & Feat Pack</span>
@@ -197,20 +197,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 6 (Guess)</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Spelljammer Pilot Regis Portrait](images/skin_portraits/spelljammerpilotregis.png)Spelljammer Pilot Regis
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>

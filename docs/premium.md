@@ -118,7 +118,7 @@ Date of release: 13 Mar 2024
 Contents:
 
 * Champion: `Regis`
-* Skin: `Spelljammer Regis`
+* Skin: `Spelljammer Pilot Regis`
 * Feat: ???
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
