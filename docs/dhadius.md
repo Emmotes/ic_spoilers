@@ -305,17 +305,21 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "hero_expr": "GetStat(`int`) >= 14"
                 }
             ],
-            "amount_func": "add",
+            "amount_func": "mult",
             "stack_func": "per_upgrade_targets",
             "stack_func_data": {
                 "upgrade_id": 14553,
                 "only_slots_with_heroes": true
             },
-            "stacks_multiply": false,
+            "stacks_multiply": true,
             "show_bonus": true,
             "amount_updated_listeners": [
                 "slot_changed",
+                "feat_changed",
                 "ability_score_changed"
+            ],
+            "retarget_when_ability_score_changed": [
+                "int"
             ],
             "slot_change_updates_targets": true,
             "formation_arrows_for_effected_only": true,
@@ -359,10 +363,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
+            "off_when_benched": true,
             "effect_string": "pre_stack_amount,400",
             "debuff_max_stacks": 5
         },
         {
+            "off_when_benched": true,
             "effect_string": "dhadius_practice_makes_perfect_v2",
             "debuff_base_amount": 400,
             "debuff_max_stacks": 5,
@@ -384,11 +390,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "stack_as_frame_offset": -1,
                     "max_stacks": "$debuff_max_stacks",
                     "stacks_multiply": true,
-                    "use_collection_source": true
+                    "use_collection_source": false
                 }
             ]
         },
         {
+            "off_when_benched": true,
             "effect_string": "dhadius_practice_makes_perfect_v2",
             "debuff_max_stacks": 5,
             "debuffing_attack_ids": [
@@ -409,11 +416,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "stack_as_frame_offset": -1,
                     "max_stacks": "$debuff_max_stacks",
                     "stacks_multiply": true,
-                    "use_collection_source": true
+                    "use_collection_source": false
                 }
             ]
         },
         {
+            "off_when_benched": true,
             "effect_string": "dhadius_practice_makes_perfect_v2",
             "debuff_max_stacks": 5,
             "debuffing_attack_ids": [
@@ -434,7 +442,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "stack_as_frame_offset": -1,
                     "max_stacks": "$debuff_max_stacks",
                     "stacks_multiply": true,
-                    "use_collection_source": true
+                    "use_collection_source": false
                 }
             ]
         }
@@ -484,7 +492,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 }
             ],
             "desc_forced_order": 1,
-            "stack_string_suffix": "\n"
+            "stack_string_newline": true
         },
         {
             "effect_string": "do_nothing",
@@ -501,7 +509,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 }
             ],
             "desc_forced_order": 2,
-            "stack_string_suffix": "\n"
+            "stack_string_newline": true
         },
         {
             "effect_string": "do_nothing",
@@ -668,7 +676,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Empowered Orbs** (Guess)
-> Chromatic Orbs now do AOE damage and deal 100% more damage.
+> Chromatic Orbs now do AOE damage and deal 400% more damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -676,7 +684,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1884,
     "flavour_text": "",
     "description": {
-        "desc": "Chromatic Orbs now do AOE damage and deal $(amount___2)% more damage."
+        "desc": "Chromatic Orbs now do AOE damage and deal $(amount___4)% more damage."
     },
     "effect_keys": [
         {
