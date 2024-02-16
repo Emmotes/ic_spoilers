@@ -6,6 +6,18 @@ Since we've now had an official blog about Events 2.0 - probably best just to vi
 
 [Idle Champions 2024 State of the Game Blog](https://codenameentertainment.com/?page=idle_champions&post_id=1636#blog)
 
+## Removed Events
+
+Because events 2.0 will have 12 events instead of 17 - 5 of them will be removed. The 5 removed events will be Greengrass / Midwinter / The Running / Midsummer / Brightswords. The champions that were available in those events will be redistributed to the remaining 12 - and the Devs said they tried to move them to events that were roughly around the same date they would have been - or as close as possible.
+
+There will be some oddities though. Festival of Fools 2.0 will be in March this year - but April next year. Also - Greengrass 2.0 will happen this year in April - but won't appear again. The reason for this is that we've had too many events already this year for them to maintain their order properly so they've improvised.
+
+While the redistributed champions will be available in different events than they were before - their adventures and variants will remain the event they were originally in - both story wise and enemies etc..
+
+## Spending Event Tokens
+
+Justin said on a recent Dev Insights that you'll be able to buy a pack of chests that will contain 1 gold and 2 silvers for an event champion for 7,500 event tokens. This is the same rate as current freeplays give - if we exclude the pity timer.
+
 ## Text Defines
 
 These are some of the raw text defines that reference Events 2.0 or new events in general.

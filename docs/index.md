@@ -81,7 +81,7 @@ These are the event champions that are upcoming and all the information we know 
                 Diana&nbsp;<span class="indexChampionTableNoLink">- Human of Saturday Morning Squad (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">The Running - 1 May 2024 (Guess)</span>
+                <span class="indexChampionTableNoLink">The Great Modron March - 1 May 2024 (Guess)</span>
             </span>
         </span>
     </span>
