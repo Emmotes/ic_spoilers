@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Dance Party | 16 Feb | **Kent** | Celeste | Tyril | Avren | Briv | Golden Epic |
 | Compatriots Call | 23 Feb | **Solaak** | Nayeli | Calliope | Deekin | Shandie | Golden Epic |
 | Dynamic Strike | 01 Mar | **Dynaheir** | Minsc | Arkhan | Viconia | Imoen | Golden Epic |
 | Durge Run | 08 Mar | **The Dark Urge** | Makos | Asharra | K'thriss | Miria | Golden Epic |
