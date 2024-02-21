@@ -247,4 +247,14 @@ Since we've now had an official blog about the Collections Dialogue - probably b
       </span>
     </span>
   </span>
+  <span class="emergenceShopTableItem">
+    <span class="emergenceShopTableIcon">
+      ![Unseen Monster Icon](images/collections/unseen_monster.png)
+    </span>
+    <span class="emergenceShopTableTextColumn">
+      <span style="margin-left:5px;">
+        <strong>Unseen Monster</strong>
+      </span>
+    </span>
+  </span>
 </span>
