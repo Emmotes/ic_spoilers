@@ -325,7 +325,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Dost Thou Want To Fight? Icon](images/featicons/brivjester.png)<span class="featTooltipContents">**Dost Thou Want To Fight? (Briv)**Have at thee!</span>Dost Thou Want To Fight?
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>+100% Taunt Effect of Mocking Cleave</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
