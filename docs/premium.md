@@ -86,7 +86,7 @@ Date of release: 13 Mar 2024
 Contents:
 
 * Champion: `Regis`
-* Skin: `Spelljammer Pilot Regis`
+* Skin: `Spelljammer Regis`
 * Feat: ???
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
@@ -163,6 +163,176 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Miria Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Aasimar Glitch Penelope Theme Pack - $27.99  
+Date of release: 03 Apr 2024
+
+Contents:
+
+* Champion: `Penelope`
+* Skin: `Aasimar Glitch Penelope`
+* Feat: `Aasimar Glitch` (Penelope)
+* Familiar: `Happy the Capybara`
+* Chests: `Gold Penelope Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Mind Flayer Gale Theme Pack - $27.99  
+Date of release: 03 Apr 2024
+
+Contents:
+
+* Champion: `Gale`
+* Skin: `Mind Flayer Gale`
+* Feat: ???
+* Familiar: `Tara the Tressym`
+* Chests: `Gold  Y7E10 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Dwarf Glitch Bundle Pack - $21.49  
+Date of release: 10 Apr 2024
+
+Contents:
+
+* Champion: `Catti-brie`
+* Skin: `Dwarf Glitch Catti-brie`
+* Feat: `Dwarf Glitch` (Catti-brie)
+* Chests: `Gold Catti-brie Chest` x7 (Shinies x1)
+* Champion: `Wulfgar, son of Beornegar`
+* Skin: `Dwarf Glitch Wulfgar`
+* Feat: `Dwarf Glitch` (Wulfgar)
+* Buff: `Large Blacksmithing Contract` x12
+* Buff: `Large Bounty Contract` x12
+* Chests: `Gold Wulfgar Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Dwarf Glitch Catti-brie Skin & Feat Pack - $11.99  
+Date of release: 10 Apr 2024
+
+Contents:
+
+* Champion: `Catti-brie`
+* Skin: `Dwarf Glitch Catti-brie`
+* Feat: `Dwarf Glitch` (Catti-brie)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Catti-brie Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Dwarf Glitch Wulfgar Skin & Feat Pack - $11.99  
+Date of release: 10 Apr 2024
+
+Contents:
+
+* Champion: `Wulfgar, son of Beornegar`
+* Skin: `Dwarf Glitch Wulfgar`
+* Feat: `Dwarf Glitch` (Wulfgar)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Wulfgar Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### TBD Take This Charity Familiar (Do Not Translate) - $11.99  
+Date of release: 15 Apr 2024
+
+Contents:
+
+* Familiar: `Mage Hand`
+* Buff: `Huge Potion of Speed` x4
+* Buff: `Huge Potion of Giant's Strength` x4
+* Buff: `Huge Potion of Clairvoyance` x4
+* Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Action Figure Melf Skin & Feat Pack - $11.99  
+Date of release: 17 Apr 2024
+
+Contents:
+
+* Champion: `Melf`
+* Skin: `Action Figure Melf`
+* Feat: `Melf's Collectors Boots` (Melf)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Melf Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Chibi Spurt Skin & Feat Pack - $11.99  
+Date of release: 17 Apr 2024
+
+Contents:
+
+* Champion: `Spurt`
+* Skin: `Chibi Spurt`
+* Feat: `Sparkly Eyes` (Spurt)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Spurt Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Plushie Antrius Skin & Feat Pack - $11.99  
+Date of release: 17 Apr 2024
+
+Contents:
+
+* Champion: `Antrius`
+* Skin: `Plushie Antrius`
+* Feat: `SO Cute!` (Antrius)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Antrius Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Classic Demogorgon Familiar Pack - $16.99  
+Date of release: 24 Apr 2024
+
+Contents:
+
+* Familiar: `Classic Demogorgon`
+* Familiar Skin: Red Nose Baby Owlbear Skin (Baby Snowy Owlbear)
+* Buff: `Huge Potion of Speed` x6
+* Buff: `Huge Potion of Giant's Strength` x6
+* Buff: `Huge Potion of Clairvoyance` x6
+* Buff: `Huge Potion of Fire Breath` x6
+* Buff: `Potion of the Gold Hunter` x1
+* Modron: `Upgrade Components` x2,000
+* Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Classic Remorhaz Familiar Pack - $5.99  
+Date of release: 24 Apr 2024
+
+Contents:
+
+* Familiar: `Classic Remorhaz`
+* Familiar Skin: Red Nose Baby Owlbear Skin (Baby Snowy Owlbear)
+* Buff: `Huge Potion of Speed` x2
+* Buff: `Huge Potion of Giant's Strength` x2
+* Buff: `Huge Potion of Clairvoyance` x2
 </div></div>
 
 

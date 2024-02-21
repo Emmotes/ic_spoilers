@@ -39,6 +39,34 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Mind Flayer Celeste Portrait](images/skin_portraits/mindflayerceleste.png)Mind Flayer Celeste
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Emergence 6 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">28 Feb 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mind Flayer Dynaheir Portrait](images/skin_portraits/mindflayerdynaheir.png)Mind Flayer Dynaheir
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Emergence 6 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">28 Feb 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Archmage Dhadius Portrait](images/skin_portraits/archmagedhadius.png)Archmage Dhadius
         </span>
         <span class="skinTableSource">
@@ -81,7 +109,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Spelljammer Pilot Regis Portrait](images/skin_portraits/spelljammerpilotregis.png)Spelljammer Pilot Regis
+            ![Spelljammer Regis Portrait](images/skin_portraits/spelljammerregis.png)Spelljammer Regis
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Spelljammer Regis Skin & Feat Pack</span>
@@ -123,16 +151,72 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Aarakocra Glitch Orkira Portrait](images/skin_portraits/aarakocraglitchorkira.png)Aarakocra Glitch Orkira
+            ![Empty Placeholder](images/general/unknown.png)Aasimar Glitch Penelope
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Aasimar Glitch Penelope Theme Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$27.99</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mind Flayer Gale Portrait](images/skin_portraits/mindflayergale.png)Mind Flayer Gale
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mind Flayer Gale Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Dwarf Glitch Catti-brie
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Dwarf Glitch Catti-brie Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">10 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Dwarf Glitch Wulfgar
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Dwarf Glitch Wulfgar Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">10 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Action Figure Melf Portrait](images/skin_portraits/actionfiguremelf.png)Action Figure Melf
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Action Figure Melf Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">17 Apr 2024</span>
         </span>
     </span>
     <span class="skinTableRow">
@@ -140,35 +224,35 @@ Please be aware that the developers recently removed most future skins from the 
             ![Chibi Spurt Portrait](images/skin_portraits/chibispurt.png)Chibi Spurt
         </span>
         <span class="skinTableSource">
+            <span style="margin-left: 8px;">Chibi Spurt Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">17 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Plushie Antrius
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Plushie Antrius Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">17 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Aarakocra Glitch Orkira Portrait](images/skin_portraits/aarakocraglitchorkira.png)Aarakocra Glitch Orkira
+        </span>
+        <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Mind Flayer Celeste Portrait](images/skin_portraits/mindflayerceleste.png)Mind Flayer Celeste
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 6 (Guess)</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Mind Flayer Dynaheir Portrait](images/skin_portraits/mindflayerdynaheir.png)Mind Flayer Dynaheir
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 6 (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
