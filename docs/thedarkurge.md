@@ -370,7 +370,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
             "trigger_params": [
                 "dark_urge_murder_trigger"
             ],
-            "per_trigger_expr": "AppendToSaveStat(`the_dark_urge_a_wonderful_day_for_murder`, false, as_int(GetUpgradeStacks(14381, 1) == 6 && is_formation_full))"
+            "per_trigger_expr": "AppendToSaveStat(`the_dark_urge_a_wonderful_day_for_murder`, false, trigger_count * as_int(GetUpgradeStacks(14381, 1) == 6 && is_formation_full))"
         },
         {
             "effect_string": "broadcast_on_trigger,dark_urge_murder_trigger",
@@ -715,7 +715,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
         },
         {
             "apply_manually": true,
-            "effect_string": "block_monster_damage"
+            "effect_string": "damage_reduction,100"
         }
     ],
     "requirements": "",
