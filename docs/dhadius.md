@@ -329,7 +329,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "expression_on_trigger,area_complete",
-            "per_trigger_expr": "AppendToSaveStat(`dhadius_smart_companions`, false, as_int(GetUpgradeStacks(14553, 0) == num_formation_slots))"
+            "per_trigger_expr": "AppendToSaveStat(`dhadius_smart_companions`, false, trigger_count * as_int(GetUpgradeStacks(14553, 0) == num_formation_slots))"
         }
     ],
     "requirements": "",
