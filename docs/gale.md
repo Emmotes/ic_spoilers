@@ -119,50 +119,55 @@ Unknown.
         {
             "type": "ranged_attack",
             "projectile": "pd_generic_projectile",
-            "shoot_offset_x": 30,
             "shoot_offset_y": -25,
-            "shoot_frame": 15,
+            "shoot_offset_x": 30,
+            "shoot_frame": 13,
             "shoot_sound": 149,
             "hit_sound": 133,
             "projectile_details": {
-                "hash": "219f8dee7958584d5dc43c20e8b07ce6",
+                "hash": "dhadius_firebolt",
+                "projectile_hit_graphic_id": 1318,
                 "projectile_speed": 1600,
                 "projectile_graphic_id": 22787,
                 "trail": {
                     "particle_graphic_ids": [
-                        11739,
-                        11740
+                        "22787"
                     ],
-                    "lifespan": 0.3,
+                    "lifespan": 0.2,
                     "spawn_rate": 100,
                     "initial_velocity": {
                         "x": 0,
-                        "y": -25
+                        "y": 0
                     },
                     "velocity_jitter": {
-                        "x": 50,
-                        "y": 50
+                        "x": 30,
+                        "y": 30
                     },
-                    "rotation_jitter": 360,
+                    "rotation_jitter": 30,
                     "alpha_lerp": {
                         "0": 0,
-                        "0.05": 0.75,
+                        "0.1": 0.75,
+                        "0.5": 0.3,
                         "1": 0
                     },
                     "scale_lerp": [
                         {
-                            "x": 0.2,
-                            "y": 0.2
+                            "x": 0.65,
+                            "y": 0.65
                         },
                         {
-                            "x": 0.4,
-                            "y": 0.4
+                            "x": 1.5,
+                            "y": 1.5
                         }
-                    ]
+                    ],
+                    "tint_lerp": {
+                        "0": "#FFFF00",
+                        "0.3": "#FF0000",
+                        "0.6": "#000000"
+                    }
                 },
                 "percent_height_offset": 5,
-                "use_auto_rotation": true,
-                "projectile_hit_graphic_id": 750
+                "use_auto_rotation": true
             }
         }
     ],
@@ -199,50 +204,55 @@ Unknown.
         {
             "type": "ranged_attack",
             "projectile": "pd_generic_projectile",
-            "shoot_offset_x": 30,
             "shoot_offset_y": -25,
-            "shoot_frame": 15,
+            "shoot_offset_x": 30,
+            "shoot_frame": 13,
             "shoot_sound": 149,
             "hit_sound": 133,
             "projectile_details": {
-                "hash": "219f8dee7958584d5dc43c20e8b07ce6",
+                "hash": "dhadius_firebolt",
+                "projectile_hit_graphic_id": 1318,
                 "projectile_speed": 1600,
                 "projectile_graphic_id": 22787,
                 "trail": {
                     "particle_graphic_ids": [
-                        11739,
-                        11740
+                        "22787"
                     ],
-                    "lifespan": 0.3,
+                    "lifespan": 0.2,
                     "spawn_rate": 100,
                     "initial_velocity": {
                         "x": 0,
-                        "y": -25
+                        "y": 0
                     },
                     "velocity_jitter": {
-                        "x": 50,
-                        "y": 50
+                        "x": 30,
+                        "y": 30
                     },
-                    "rotation_jitter": 360,
+                    "rotation_jitter": 30,
                     "alpha_lerp": {
                         "0": 0,
-                        "0.05": 0.75,
+                        "0.1": 0.75,
+                        "0.5": 0.3,
                         "1": 0
                     },
                     "scale_lerp": [
                         {
-                            "x": 0.2,
-                            "y": 0.2
+                            "x": 0.65,
+                            "y": 0.65
                         },
                         {
-                            "x": 0.4,
-                            "y": 0.4
+                            "x": 1.5,
+                            "y": 1.5
                         }
-                    ]
+                    ],
+                    "tint_lerp": {
+                        "0": "#FFFF00",
+                        "0.3": "#FF0000",
+                        "0.6": "#000000"
+                    }
                 },
                 "percent_height_offset": 5,
-                "use_auto_rotation": true,
-                "projectile_hit_graphic_id": 750
+                "use_auto_rotation": true
             }
         }
     ],
@@ -280,52 +290,45 @@ Unknown.
     "cooldown": 5,
     "animations": [
         {
-            "type": "ranged_attack",
-            "projectile": "pd_generic_projectile",
-            "shoot_offset_x": 30,
-            "shoot_offset_y": -25,
-            "shoot_frame": 15,
-            "shoot_sound": 149,
-            "hit_sound": 133,
+            "type": "ultimate_attack",
+            "ultimate": "gale",
             "projectile_details": {
-                "hash": "219f8dee7958584d5dc43c20e8b07ce6",
-                "projectile_speed": 1600,
-                "projectile_graphic_id": 22787,
+                "hash": "5da5911ea4f59abd4d44e5e4ec727e16",
+                "projectile_speed": 1500,
+                "use_auto_rotation": true,
                 "trail": {
                     "particle_graphic_ids": [
-                        11739,
-                        11740
+                        "22786"
                     ],
-                    "lifespan": 0.3,
-                    "spawn_rate": 100,
+                    "lifespan": 0.7,
+                    "spawn_rate": 10,
+                    "spawn_shape_scale": {
+                        "x": 100,
+                        "y": 100
+                    },
                     "initial_velocity": {
                         "x": 0,
-                        "y": -25
+                        "y": 0
                     },
                     "velocity_jitter": {
-                        "x": 50,
-                        "y": 50
+                        "x": 0,
+                        "y": 0
                     },
-                    "rotation_jitter": 360,
-                    "alpha_lerp": {
-                        "0": 0,
-                        "0.05": 0.75,
-                        "1": 0
-                    },
+                    "rotation_jitter": 0,
+                    "alpha_lerp": [
+                        0.5
+                    ],
                     "scale_lerp": [
                         {
-                            "x": 0.2,
-                            "y": 0.2
-                        },
-                        {
-                            "x": 0.4,
-                            "y": 0.4
+                            "x": 2.5,
+                            "y": 2.5
                         }
+                    ],
+                    "tint_lerp": [
+                        "#FFFFFF",
+                        "#AAAAFF"
                     ]
-                },
-                "percent_height_offset": 5,
-                "use_auto_rotation": true,
-                "projectile_hit_graphic_id": 750
+                }
             }
         }
     ],
@@ -532,7 +535,8 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "type": "upgrade",
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -643,7 +647,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Ceremorphosis** (Guess)
-> Unknown effect.
+> Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Gale's brain. Gale increases the damage of Netherese Orb by 100% for each Ceremorphosis stack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -651,11 +655,34 @@ Unknown.
     "id": 1899,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Gale's brain. Gale increases the damage of Netherese Orb by 100% for each Ceremorphosis stack, stacking multiplicatively."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,14572",
+            "stack_func": "per_ceremorphosis_stacks",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "stack_title": "Total Ceremorphosis Stacks",
+            "total_title": "Total Bonus",
+            "desc_forced_order": 2,
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed"
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "outgoing_buffs": false,
+            "effect_string": "gale_ceremorphosis_stacks,1",
+            "manual_stacking": true,
+            "stacks_multiply": false,
+            "show_stacks": true,
+            "stack_title": "Gale Ceremorphosis Stacks",
+            "desc_forced_order": 1
         }
     ],
     "requirements": "",
@@ -664,36 +691,12 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "type": "upgrade",
-        "formation_circle_icon": false
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Finite Fellowship** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 1900,
-    "flavour_text": "",
-    "description": {
-        "desc": ""
-    },
-    "effect_keys": [
-        {
-            "effect_string": "do_nothing"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -703,7 +706,51 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Mystical Mentor** (Guess)
-> Unknown effect.
+> Gale increases the effect of Netherese Orb by 100% for each Champion in the formation with an Intelligence of 13 or higher, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1900,
+    "flavour_text": "",
+    "description": {
+        "desc": "Gale increases the effect of Netherese Orb by $(amount)% for each Champion in the formation with an Intelligence of $(min_stat_value) or higher, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,14572",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "min_stat_value": 13,
+            "per_hero_expr": "as_int(GetStat(`int`) >= min_stat_value)",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Int 13+ Champions in Formation: $num_stacks"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Finite Fellowship** (Guess)
+> Gale increases the effect of Netherese Orb by 7.5% for each Champion you have unlocked that is not eligible for the current adventure, stacking multiplicatively. This ability ignores any feats or upgrades (but not passive abilities) that change a Champion's eligibility; ie. it only looks at "base eligibility".
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -711,18 +758,32 @@ Unknown.
     "id": 1901,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Gale increases the effect of Netherese Orb by $(amount)% for each Champion you have unlocked that is not eligible for the current adventure, stacking multiplicatively. This ability ignores any feats or upgrades (but not passive abilities) that change a Champion's eligibility; ie. it only looks at \"base eligibility\"."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "buff_upgrade,7.5,14572",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "num_initially_unavailable_owned_heroes",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed"
+            ]
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Ineligible Champions: $num_stacks"
     }
 }
 </pre>
