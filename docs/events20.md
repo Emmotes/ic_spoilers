@@ -142,6 +142,15 @@ A dismantle will be available for reworked Champions during the event in which t
             <span style="margin-left:15px">Icon_Events20_GenericRanged</span>
         </span>
     </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Generic Event Token Icon](images/events20/generic_event_token.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Generic Event Token**</span>
+            <span style="margin-left:15px">Icons/Icon_EventToken</span>
+        </span>
+    </span>
 </span>
 
 ## Festival of Fools 2.0
