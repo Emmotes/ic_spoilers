@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Baldur's Gate Dynaheir Portrait](images/skin_portraits/baldursgatedynaheir.png)Baldur's Gate Dynaheir
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Baldur's Gate Dynaheir Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">21 Feb 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Undead Knight Solaak Portrait](images/skin_portraits/undeadknightsolaak.png)Undead Knight Solaak
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Undead Knight Solaak Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">21 Feb 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Mind Flayer Celeste Portrait](images/skin_portraits/mindflayerceleste.png)Mind Flayer Celeste
         </span>
         <span class="skinTableSource">

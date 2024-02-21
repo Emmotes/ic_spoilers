@@ -148,7 +148,7 @@ Miscellaneous spoilers.
 
 * [Collections Dialogue](collections.md) - 28 February 2024
 * [Events 2.0](events20.md) - 6 March 2024
-* [New Campaign: Vecna Eve of Ruin](campaign_veca.md) - 22 May 2024 (Guess)
+* [New Campaign: Vecna Eve of Ruin](campaign_vecna.md) - 22 May 2024 (Guess)
 * [Patron 5: Elminster](patron_5.md) - ???
 * [Feats](feats.md)
 * [Skins](skins.md)

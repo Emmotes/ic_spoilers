@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Baldur's Gate Dynaheir Theme Pack - $27.99  
-Date of release: 21 Feb 2024
-
-Contents:
-
-* Champion: `Dynaheir`
-* Skin: `Baldur's Gate Dynaheir`
-* Feat: `Wychlaran Potential` (Dynaheir)
-* Familiar: `Beljuril the Chicken`
-* Chests: `Gold  Dynaheir Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Undead Knight Solaak Skin & Feat Pack - $11.99  
-Date of release: 21 Feb 2024
-
-Contents:
-
-* Champion: `Solaak`
-* Skin: `Undead Knight Solaak`
-* Feat: `Twin Souls` (Solaak)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Solaak Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Archmage Dhadius Theme Pack - $27.99  
 Date of release: 06 Mar 2024
 
