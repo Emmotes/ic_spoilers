@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![Emergence 6 Banner](images/emergence_6/banner.png)
-{% endcomment %}
 
 # Emergence 6
 
@@ -10,9 +8,38 @@ We know the next Emergence event will be Illithids and that it will start on 28 
 
 ### Shop Contents
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This list might not be complete - and some items are guesswork and might not even end up in this event.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This list might not be complete.*
 
 <span class="emergenceShopTableRow">
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Marvelous Support Pigment Icon](images/general/pigmint_support.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Pigmint**</span>
+            <span style="margin-left:15px">Marvelous Support Pigment</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Golden Epic Icon for NERDS Slot 1](images/emergence_6/ge_2476.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Fighter</span>
+            <span style="margin-left:15px">NERDS (Slot 1)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Golden Epic Icon for Dynaheir Slot 5](images/emergence_6/ge_3453.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">All Specialisations</span>
+            <span style="margin-left:15px">Dynaheir (Slot 5)</span>
+        </span>
+    </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
             <span class="emergenceShopFeatIcon4">![Tenacious Feat Icon](images/emergence_6/feat_1689.png)</span>
