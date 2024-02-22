@@ -42,6 +42,24 @@ We know the next Emergence event will be Illithids and that it will start on 28 
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
+            ![Mind Flayer Celeste Skin Portrait](images/emergence_6/skin_423.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Mind Flayer Celeste</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Mind Flayer Dynaheir Skin Portrait](images/emergence_6/skin_424.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Mind Flayer Dynaheir</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
             <span class="emergenceShopFeatIcon4">![Tenacious Feat Icon](images/emergence_6/feat_1689.png)</span>
         </span>
         <span class="emergenceShopTableTextColumn">
