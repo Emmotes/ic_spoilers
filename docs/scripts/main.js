@@ -192,7 +192,7 @@ function exclusiveToggleContent(id) {
 
 function displayTime(timeLeft) {
 	let ditimer = document.getElementById("ditimer");
-	if (ditimer <=0) {
+	if (timeLeft <=0) {
 		ditimer.innerHTML = `<br>Dev Insights: Live`;
 		return;
 	}
