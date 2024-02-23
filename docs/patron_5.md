@@ -9,6 +9,8 @@ We now know that Elminster Aumar will be the fifth patron in this game. This is 
 
 Given that there are feats that list Patron 5 as their source and are dated 3 April 2024 - and Gale who is releasing on 3 April 2024 has Elminster referenced in an ability - it's guesstimated that that is also the release date of Patron 5.
 
+Justin also said "April" when asked about potential Patron 5 release dates on a recent Dev Insights.
+
 ## Restrictions
 
 When it comes to what the restrictions for Patron 5 will be - all we have to go on are snippets of answers to questions found on the Developer Insights stream. Those being that the restrictions will vary.
