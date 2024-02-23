@@ -350,8 +350,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Practice Makes Perfect** (Guess)
 > Enemies hit by a Chromatic Orb are debuffed based on the orb's type (acid, frost, or fire). Each debuff increases the damage of subsequent orbs of the same type by 400%, stacking multiplicatively. Enemies can have up to 5 debuffs of each type; debuffs do not expire.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -565,8 +563,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Together In Magic** (Guess)
 > The effect of Skill Empowerment is increased by 100% for each Champion in the formation with a Magic base attack, stacking multiplicatively.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -621,8 +617,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Apart in Magic** (Guess)
 > The effect of Skill Empowerment is increased by 100% for each Champion in the formation that does not have a Magic base attack, stacking multiplicatively.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>

@@ -36,7 +36,7 @@ We know the next Emergence event will be Illithids and that it will start on 28 
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
-            <span style="margin-left:15px">All Specialisations</span>
+            <span style="margin-left:15px">All Specialisations (Prestack)</span>
             <span style="margin-left:15px">Dynaheir (Slot 5)</span>
         </span>
     </span>

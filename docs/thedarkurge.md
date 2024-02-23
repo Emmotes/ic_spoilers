@@ -406,7 +406,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
 **Ceremorphosis** (Guess)
 > Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in the Dark Urge's brain. The Dark Urge increases his damage by 100% for each Ceremorphosis stack, stacking multiplicatively.
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -469,7 +469,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
 **Living on the Edge** (Guess)
 > The Dark Urge has 6 Outcast stacks, minus 1 stack for each adjacent Champion that does not have the DPS role. The Dark Urge increases his damage by 100% for each Outcast stack, stacking multiplicatively.
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability might be prestack.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>

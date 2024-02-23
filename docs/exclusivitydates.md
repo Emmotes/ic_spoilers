@@ -805,7 +805,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Feast or Famine</span>
+                        <span style="margin-left:15px">Feast or Famine (Prestack)</span>
                         <span style="margin-left:15px">Shaka (Slot 5)</span>
                     </span>
                 </span>
@@ -1925,7 +1925,7 @@ This is the list of recurring events that have had their exclusivity period end.
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Ceremorphosis</span>
+                        <span style="margin-left:15px">Ceremorphosis (Prestack)</span>
                         <span style="margin-left:15px">Lae'zel (Slot 3)</span>
                     </span>
                 </span>
