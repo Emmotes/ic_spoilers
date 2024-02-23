@@ -6,6 +6,10 @@ Since we've now had an official blog about the Collections Dialogue - probably b
 
 [Idle Champions 2024 State of the Game Blog](https://codenameentertainment.com/?page=idle_champions&post_id=1636#blog)
 
+<span style=\"font-size:1.2em;\">ⓘ</span> *Update: We have the full Guide and Collection Quests blog now.*
+
+[Guide and Collection Quests Blog](https://www.codenameentertainment.com/?page=idle_champions&post_id=1644#blog)
+
 <span class="emergenceShopTableRow">
   <span class="emergenceShopTableItem">
     <span class="emergenceShopTableIcon">
