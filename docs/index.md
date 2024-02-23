@@ -114,10 +114,7 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-{::nomarkdown}
-<a href="rosie.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
+    <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
             ![Rosie Beestinger Portrait Icon](images/reworks/rosie.png)
         </span>
@@ -130,9 +127,6 @@ A list of champions that will be seeing reworks in upcoming events.
             </span>
         </span>
     </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 </span>
 
 # Recurring Events
