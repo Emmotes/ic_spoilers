@@ -380,7 +380,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Archmages Insight** (Guess)
+**Archmage's Insight** (Guess)
 > Gale increases the damage of Champions in the two columns in front of him by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
