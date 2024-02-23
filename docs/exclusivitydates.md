@@ -151,7 +151,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All First Specialisations</span>
+                        <span style="margin-left:15px">All First Specialisations (Prestack)</span>
                         <span style="margin-left:15px">Jang Sao (Slot 5)</span>
                     </span>
                 </span>
