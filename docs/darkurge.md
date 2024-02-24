@@ -2,26 +2,26 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![PC Portrait for The Dark Urge](images/thedarkurge/portrait.png)Portait
+        ![PC Portrait for Dark Urge](images/darkurge/portrait.png)Portait
     </span>
     <span class="championPortraitsImage">
-        ![Model GIF of The Dark Urge](images/thedarkurge/model.gif)Base Model
+        ![Model GIF of Dark Urge](images/darkurge/model.gif)Base Model
     </span>
     <span class="championPortraitsImage">
-        ![Alternate Model GIF of The Dark Urge: Withers](images/thedarkurge/model-withers.gif)Withers Model
+        ![Alternate Model GIF of Dark Urge: Withers](images/darkurge/model-withers.gif)Withers Model
     </span>
     <span class="championPortraitsImage">
-        ![Alternate Model GIF of The Dark Urge: Sceleritas Fel](images/thedarkurge/model-sceleritas-fel.gif)Sceleritas Fel Model
+        ![Alternate Model GIF of Dark Urge: Sceleritas Fel](images/darkurge/model-sceleritas-fel.gif)Sceleritas Fel Model
     </span>
 </span>
 
-# The Dark Urge
+# Dark Urge
 
 The Dark Urge remembers nothing but a path paved with blood. Unimaginable cruelty whispers from within. Can he escape it? Would he even want to?
 
 # Basic Information
 
-The Dark Urge will be the new champion in the Festival of Fools event on 6 March 2024.
+Dark Urge will be the new champion in the Festival of Fools event on 6 March 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
@@ -189,7 +189,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
 # Formation
 
 <span class="formationBorder">
-    ![Formation Layout](images/thedarkurge/formation.png)
+    ![Formation Layout](images/darkurge/formation.png)
 </span>
 
 # Abilities
@@ -334,7 +334,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
 </details>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Form of the Slayer Icon](images/thedarkurge/icon_formoftheslayer.png) **Ultimate Attack: Form of the Slayer** (Level: 0)
+![Form of the Slayer Icon](images/darkurge/icon_formoftheslayer.png) **Ultimate Attack: Form of the Slayer** (Level: 0)
 > The Dark Urge transforms into the Slayer form for 15 seconds, dealing massive damage for the duration. Sceleritas Fel, immune to damage, takes his place in the formation for the duration.  
 > Cooldown: 320s (Cap 80s)
 <details><summary><em>Raw Data</em></summary>
@@ -369,7 +369,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Dark Inheritance Icon](images/thedarkurge/icon_darkinheritance.png) **Dark Inheritance** (Level: 0)
+![Dark Inheritance Icon](images/darkurge/icon_darkinheritance.png) **Dark Inheritance** (Level: 0)
 > The Dark Urge is eligible to start in all adventures, even if the Patron, Variant, or other restrictions would say otherwise. He also does not interact with any Champion abilities or variant effects that are based on age.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -410,7 +410,7 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Urge Icon](images/thedarkurge/icon_theurge.png) **The Urge** (Level: 30)
+![The Urge Icon](images/darkurge/icon_theurge.png) **The Urge** (Level: 30)
 > Each time the Dark Urge defeats an enemy, he gains a Murder stack. The Dark Urge increases his damage by 0.1% for each Murder stack he has. Stacks persist between adventures.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
@@ -501,7 +501,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Ceremorphosis Icon](images/thedarkurge/icon_ceremorphosis.png) **Ceremorphosis** (Level: 70)
+![Ceremorphosis Icon](images/darkurge/icon_ceremorphosis.png) **Ceremorphosis** (Level: 70)
 > Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in the Dark Urge's brain. The Dark Urge increases his damage by 100% for each Ceremorphosis stack, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -575,7 +575,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Living on the Edge Icon](images/thedarkurge/icon_livingontheedge.png) **Living on the Edge** (Level: 100)
+![Living on the Edge Icon](images/darkurge/icon_livingontheedge.png) **Living on the Edge** (Level: 100)
 > The Dark Urge has 6 Outcast stacks, minus 1 stack for each adjacent Champion that does not have the DPS role. The Dark Urge increases his damage by 100% for each Outcast stack, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -645,7 +645,7 @@ Upgrades:
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Divine Soul Icon](images/thedarkurge/icon_divinesoul.png) **Divine Soul** (Level: 130)
+![Divine Soul Icon](images/darkurge/icon_divinesoul.png) **Divine Soul** (Level: 130)
 > The Dark Urge increases the number of The Urge's Murder stacks he gains each time he defeats an enemy by 200%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -690,7 +690,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Draconic Bloodline Icon](images/thedarkurge/icon_draconicbloodline.png) **Draconic Bloodline** (Level: 130)
+![Draconic Bloodline Icon](images/darkurge/icon_draconicbloodline.png) **Draconic Bloodline** (Level: 130)
 > The Dark Urge's damage is increased by 200% for each Dragonborn Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -736,7 +736,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Storm Sorcery Icon](images/thedarkurge/icon_stormsorcery.png) **Storm Sorcery** (Level: 130)
+![Storm Sorcery Icon](images/darkurge/icon_stormsorcery.png) **Storm Sorcery** (Level: 130)
 > The Dark Urge's Murderous Slash attack is empowered by lightning. This increases the range by 200% and deals up to 800% more damage to enemies based on how close they are to him.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -792,7 +792,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Embrace the Urge Icon](images/thedarkurge/icon_embracetheurge.png) **Embrace the Urge** (Level: 180)
+![Embrace the Urge Icon](images/darkurge/icon_embracetheurge.png) **Embrace the Urge** (Level: 180)
 > The Dark Urge unlocks the Form of the Slayer ultimate, and deals 100% more damage for each Evil Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -862,7 +862,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Resist the Urge Icon](images/thedarkurge/icon_resisttheurge.png) **Resist the Urge** (Level: 180)
+![Resist the Urge Icon](images/darkurge/icon_resisttheurge.png) **Resist the Urge** (Level: 180)
 > The Dark Urge's alignment becomes Lawful Good, he unlocks the Withers' Resurrection ultimate, and deals 100% more damage for each Good Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -951,7 +951,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![They Won't Need It Icon](images/thedarkurge/22589.png)<span class="itemTooltipContents">**They Won't Need It**There are only a few knife holes in these.</span></span><span class="itemTableIcon2">![Traveler's Trousers Icon](images/thedarkurge/22589.png)<span class="itemTooltipContents">**Traveler's Trousers**These are very... plain, milord...</span></span><span class="itemTableIcon3">![Storm Robes Icon](images/thedarkurge/22590.png)<span class="itemTooltipContents">**Storm Robes**Very stylish, milord. Could use some gore.</span></span><span class="itemTableIcon4">![Armor of Murder Icon](images/thedarkurge/22591.png)<span class="itemTooltipContents">**Armor of Murder**These really hold onto the blood, milord.</span></span><span class="itemTableGE">&nbsp;</span>
+            <span class="itemTableIcon1">![They Won't Need It Icon](images/darkurge/22589.png)<span class="itemTooltipContents">**They Won't Need It**There are only a few knife holes in these.</span></span><span class="itemTableIcon2">![Traveler's Trousers Icon](images/darkurge/22589.png)<span class="itemTooltipContents">**Traveler's Trousers**These are very... plain, milord...</span></span><span class="itemTableIcon3">![Storm Robes Icon](images/darkurge/22590.png)<span class="itemTooltipContents">**Storm Robes**Very stylish, milord. Could use some gore.</span></span><span class="itemTableIcon4">![Armor of Murder Icon](images/darkurge/22591.png)<span class="itemTooltipContents">**Armor of Murder**These really hold onto the blood, milord.</span></span><span class="itemTableGE">&nbsp;</span>
         </span>
         <span class="itemTableSlot">
             <span>1</span>
@@ -965,7 +965,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Forty Stabs Icon](images/thedarkurge/22595.png)<span class="itemTooltipContents">**Forty Stabs**You were always skilled at avoiding the internals you liked playing with.</span></span><span class="itemTableIcon2">![Instrument of Murder Icon](images/thedarkurge/22595.png)<span class="itemTooltipContents">**Instrument of Murder**Oh, if this metal could talk. The horrors it could tell!</span></span><span class="itemTableIcon3">![Stillmaker Icon](images/thedarkurge/22596.png)<span class="itemTooltipContents">**Stillmaker**After you make them still - then the fun can really begin.</span></span><span class="itemTableIcon4">![Bloodthirst Icon](images/thedarkurge/22597.png)<span class="itemTooltipContents">**Bloodthirst**This belongs in your sanguine hands!</span></span>
+            <span class="itemTableIcon1">![Forty Stabs Icon](images/darkurge/22595.png)<span class="itemTooltipContents">**Forty Stabs**You were always skilled at avoiding the internals you liked playing with.</span></span><span class="itemTableIcon2">![Instrument of Murder Icon](images/darkurge/22595.png)<span class="itemTooltipContents">**Instrument of Murder**Oh, if this metal could talk. The horrors it could tell!</span></span><span class="itemTableIcon3">![Stillmaker Icon](images/darkurge/22596.png)<span class="itemTooltipContents">**Stillmaker**After you make them still - then the fun can really begin.</span></span><span class="itemTableIcon4">![Bloodthirst Icon](images/darkurge/22597.png)<span class="itemTooltipContents">**Bloodthirst**This belongs in your sanguine hands!</span></span>
         </span>
         <span class="itemTableSlot">
             <span>2</span>
@@ -979,7 +979,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Growing Curiosity Icon](images/thedarkurge/22592.png)<span class="itemTooltipContents">**Growing Curiosity**Curious creatures these are...</span></span><span class="itemTableIcon2">![Tadpoles Icon](images/thedarkurge/22592.png)<span class="itemTooltipContents">**Tadpoles**Use their power, sire. They can't possibly control you.</span></span><span class="itemTableIcon3">![Playthings Icon](images/thedarkurge/22593.png)<span class="itemTooltipContents">**Playthings**Every artist needs their brushes, eh, milord?</span></span><span class="itemTableIcon4">![Illithid Connection Icon](images/thedarkurge/22594.png)<span class="itemTooltipContents">**Illithid Connection**What do you have planned for this, my demiurge?</span></span>
+            <span class="itemTableIcon1">![Growing Curiosity Icon](images/darkurge/22592.png)<span class="itemTooltipContents">**Growing Curiosity**Curious creatures these are...</span></span><span class="itemTableIcon2">![Tadpoles Icon](images/darkurge/22592.png)<span class="itemTooltipContents">**Tadpoles**Use their power, sire. They can't possibly control you.</span></span><span class="itemTableIcon3">![Playthings Icon](images/darkurge/22593.png)<span class="itemTooltipContents">**Playthings**Every artist needs their brushes, eh, milord?</span></span><span class="itemTableIcon4">![Illithid Connection Icon](images/darkurge/22594.png)<span class="itemTooltipContents">**Illithid Connection**What do you have planned for this, my demiurge?</span></span>
         </span>
         <span class="itemTableSlot">
             <span>3</span>
@@ -993,7 +993,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Insidious Garb Icon](images/thedarkurge/22586.png)<span class="itemTooltipContents">**Insidious Garb**Please, sire, do not lower yourself to my pathetic level.</span></span><span class="itemTableIcon2">![Servant's Gibus Icon](images/thedarkurge/22586.png)<span class="itemTooltipContents">**Servant's Gibus**It is unworthy of you to be wearing the raiment of a mere Butler!</span></span><span class="itemTableIcon3">![Unholy Symbol Icon](images/thedarkurge/22587.png)<span class="itemTooltipContents">**Unholy Symbol**Take great care of this wicked artifact. It will please the one it belongs to...</span></span><span class="itemTableIcon4">![Deathstalker Mantle Icon](images/thedarkurge/22588.png)<span class="itemTooltipContents">**Deathstalker Mantle**A gift for murderous escapades!</span></span>
+            <span class="itemTableIcon1">![Insidious Garb Icon](images/darkurge/22586.png)<span class="itemTooltipContents">**Insidious Garb**Please, sire, do not lower yourself to my pathetic level.</span></span><span class="itemTableIcon2">![Servant's Gibus Icon](images/darkurge/22586.png)<span class="itemTooltipContents">**Servant's Gibus**It is unworthy of you to be wearing the raiment of a mere Butler!</span></span><span class="itemTableIcon3">![Unholy Symbol Icon](images/darkurge/22587.png)<span class="itemTooltipContents">**Unholy Symbol**Take great care of this wicked artifact. It will please the one it belongs to...</span></span><span class="itemTableIcon4">![Deathstalker Mantle Icon](images/darkurge/22588.png)<span class="itemTooltipContents">**Deathstalker Mantle**A gift for murderous escapades!</span></span>
         </span>
         <span class="itemTableSlot">
             <span>4</span>
@@ -1007,7 +1007,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![A Familiar Chord Icon](images/thedarkurge/22601.png)<span class="itemTooltipContents">**A Familiar Chord**The bard broke those strings as your knife sliced his throat.</span></span><span class="itemTableIcon2">![Broken Souvenir Icon](images/thedarkurge/22601.png)<span class="itemTooltipContents">**Broken Souvenir**A fond reminder of bloodshed and gore.</span></span><span class="itemTableIcon3">![Hand Bag Icon](images/thedarkurge/22602.png)<span class="itemTooltipContents">**Hand Bag**Very funny, milord. Your depravity brings such jocularity.</span></span><span class="itemTableIcon4">![Netherstone Icon](images/thedarkurge/22603.png)<span class="itemTooltipContents">**Netherstone**One down, Master. Two to go...</span></span>
+            <span class="itemTableIcon1">![A Familiar Chord Icon](images/darkurge/22601.png)<span class="itemTooltipContents">**A Familiar Chord**The bard broke those strings as your knife sliced his throat.</span></span><span class="itemTableIcon2">![Broken Souvenir Icon](images/darkurge/22601.png)<span class="itemTooltipContents">**Broken Souvenir**A fond reminder of bloodshed and gore.</span></span><span class="itemTableIcon3">![Hand Bag Icon](images/darkurge/22602.png)<span class="itemTooltipContents">**Hand Bag**Very funny, milord. Your depravity brings such jocularity.</span></span><span class="itemTableIcon4">![Netherstone Icon](images/darkurge/22603.png)<span class="itemTooltipContents">**Netherstone**One down, Master. Two to go...</span></span>
         </span>
         <span class="itemTableSlot">
             <span>5</span>
@@ -1021,7 +1021,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![A Terrible Mistake Icon](images/thedarkurge/22598.png)<span class="itemTooltipContents">**A Terrible Mistake**I was not allowed to read what you had written here, milord.</span></span><span class="itemTableIcon2">![Prayer of Forgiveness Icon](images/thedarkurge/22598.png)<span class="itemTooltipContents">**Prayer of Forgiveness**I don't know what you see in that Enver Gortash, Milord.</span></span><span class="itemTableIcon3">![Noblestalk Mushroom Icon](images/thedarkurge/22599.png)<span class="itemTooltipContents">**Noblestalk Mushroom**Oh, such fond, twisted memories of our dissection days.</span></span><span class="itemTableIcon4">![Scroll of Heal Icon](images/thedarkurge/22600.png)<span class="itemTooltipContents">**Scroll of Heal**Very wise, milord - now you can heal them and hurt them again!</span></span><span class="itemTableGE">&nbsp;</span>
+            <span class="itemTableIcon1">![A Terrible Mistake Icon](images/darkurge/22598.png)<span class="itemTooltipContents">**A Terrible Mistake**I was not allowed to read what you had written here, milord.</span></span><span class="itemTableIcon2">![Prayer of Forgiveness Icon](images/darkurge/22598.png)<span class="itemTooltipContents">**Prayer of Forgiveness**I don't know what you see in that Enver Gortash, Milord.</span></span><span class="itemTableIcon3">![Noblestalk Mushroom Icon](images/darkurge/22599.png)<span class="itemTooltipContents">**Noblestalk Mushroom**Oh, such fond, twisted memories of our dissection days.</span></span><span class="itemTableIcon4">![Scroll of Heal Icon](images/darkurge/22600.png)<span class="itemTooltipContents">**Scroll of Heal**Very wise, milord - now you can heal them and hurt them again!</span></span><span class="itemTableGE">&nbsp;</span>
         </span>
         <span class="itemTableSlot">
             <span>6</span>
@@ -1097,7 +1097,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Tavern Brawler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Tavern Brawler (The Dark Urge)**Go ahead, my sanguineous master - use your claws!</span>Tavern Brawler
+            ![Tavern Brawler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Tavern Brawler (Dark Urge)**Go ahead, my sanguineous master - use your claws!</span>Tavern Brawler
         </span>
         <span class="featTableEffect">
             <span>30% Self DPS</span>
@@ -1108,7 +1108,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Grappler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Grappler (The Dark Urge)**Now that they're unconscious, take off their head!</span>Grappler
+            ![Grappler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Grappler (Dark Urge)**Now that they're unconscious, take off their head!</span>Grappler
         </span>
         <span class="featTableEffect">
             <span>60% Self DPS</span>
@@ -1119,7 +1119,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (The Dark Urge)**You gave coins to a beggar once. Gave me nightmares for weeks!</span>Selflessness
+            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (Dark Urge)**You gave coins to a beggar once. Gave me nightmares for weeks!</span>Selflessness
         </span>
         <span class="featTableEffect">
             <span>10% All Champion Damage</span>
@@ -1130,7 +1130,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (The Dark Urge)**It is an honor to follow your trail of gore, milord.</span>Inspiring Leader
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Dark Urge)**It is an honor to follow your trail of gore, milord.</span>Inspiring Leader
         </span>
         <span class="featTableEffect">
             <span>25% All Champion Damage</span>
@@ -1141,7 +1141,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![I Am The Dark Urge Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**I Am The Dark Urge (The Dark Urge)**Such a unique way of introducing  yourself.</span>I Am The Dark Urge
+            ![I Am The Dark Urge Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**I Am The Dark Urge (Dark Urge)**Such a unique way of introducing  yourself.</span>I Am The Dark Urge
         </span>
         <span class="featTableEffect">
             <span>20% The Urge</span>
@@ -1152,7 +1152,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Murderous Intent Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Murderous Intent (The Dark Urge)**We have some free time if you want to get your hands dirty, master.</span>Murderous Intent
+            ![Murderous Intent Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Murderous Intent (Dark Urge)**We have some free time if you want to get your hands dirty, master.</span>Murderous Intent
         </span>
         <span class="featTableEffect">
             <span>40% The Urge</span>
@@ -1163,7 +1163,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Growing Infection Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Growing Infection (The Dark Urge)**These tadpoles are deliciously vicious.</span>Growing Infection
+            ![Growing Infection Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Growing Infection (Dark Urge)**These tadpoles are deliciously vicious.</span>Growing Infection
         </span>
         <span class="featTableEffect">
             <span>20% Ceremorphosis</span>
@@ -1174,7 +1174,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![True Souls Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**True Souls (The Dark Urge)**Making more True Souls for your own purposes, eh, milord?</span>True Souls
+            ![True Souls Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**True Souls (Dark Urge)**Making more True Souls for your own purposes, eh, milord?</span>True Souls
         </span>
         <span class="featTableEffect">
             <span>40% Ceremorphosis</span>
@@ -1185,7 +1185,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Murder Gang Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Murder Gang (The Dark Urge)**I like the company you keep, sire. Always soaked in blood.</span>Murder Gang
+            ![Murder Gang Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Murder Gang (Dark Urge)**I like the company you keep, sire. Always soaked in blood.</span>Murder Gang
         </span>
         <span class="featTableEffect">
             <span>20% Living on the Edge</span>
@@ -1196,7 +1196,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Vicious Syndicate Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Vicious Syndicate (The Dark Urge)**They'll never delight in gore as much as you do.</span>Vicious Syndicate
+            ![Vicious Syndicate Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Vicious Syndicate (Dark Urge)**They'll never delight in gore as much as you do.</span>Vicious Syndicate
         </span>
         <span class="featTableEffect">
             <span>40% Living on the Edge</span>
@@ -1207,7 +1207,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon4">
-            ![Cult of Blood Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Cult of Blood (The Dark Urge)**Your followers crave the sight of your sanguine deeds, milord!</span>Cult of Blood
+            ![Cult of Blood Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Cult of Blood (Dark Urge)**Your followers crave the sight of your sanguine deeds, milord!</span>Cult of Blood
         </span>
         <span class="featTableEffect">
             <span>80% Living on the Edge</span>
@@ -1230,44 +1230,44 @@ This list will only show feats that are going to be available on the release of 
 <details><summary><em>DPS Applicable</em></summary>
 <p>
 <pre>
-       Arkhan: 6 / 6
-      Artemis: 6 / 6
-      Asharra: 4 / 6
-        Azaka: 5 / 6
-       Binwin: 4 / 6
-     Birdsong: 5 / 6
-  Black Viper: 5 / 6
-   Catti-brie: 5 / 6
-       D'hani: 5 / 6
-       Delina: 5 / 6
-      Dhadius: 4 / 6
-       Drizzt: 5 / 6
-      Farideh: 5 / 6
-          Fen: 6 / 6
-        Grimm: 4 / 6
-       Gromma: 4 / 6
-         Ishi: 5 / 6
-      Jaheira: 5 / 6
-     Jarlaxle: 6 / 6
-          Jim: 5 / 6
-      Karlach: 5 / 6
-         Kent: 5 / 6
-        Krond: 5 / 6
-         Krux: 5 / 6
-      Lae'zel: 6 / 6
-       Lucius: 5 / 6
-        Makos: 5 / 6
-        Minsc: 4 / 6
-        NERDS: 4 / 6
-       Nahara: 5 / 6
-        Nixie: 5 / 6
-     Prudence: 5 / 6
-        Rosie: 5 / 6
-The Dark Urge: 6 / 6
-      Torogar: 6 / 6
-      Warduke: 5 / 6
-       Yorven: 5 / 6
-        Zorbu: 5 / 6
+     Arkhan: 6 / 6
+    Artemis: 6 / 6
+    Asharra: 4 / 6
+      Azaka: 5 / 6
+     Binwin: 4 / 6
+   Birdsong: 5 / 6
+Black Viper: 5 / 6
+ Catti-brie: 5 / 6
+     D'hani: 5 / 6
+  Dark Urge: 6 / 6
+     Delina: 5 / 6
+    Dhadius: 4 / 6
+     Drizzt: 5 / 6
+    Farideh: 5 / 6
+        Fen: 6 / 6
+      Grimm: 4 / 6
+     Gromma: 4 / 6
+       Ishi: 5 / 6
+    Jaheira: 5 / 6
+   Jarlaxle: 6 / 6
+        Jim: 5 / 6
+    Karlach: 5 / 6
+       Kent: 5 / 6
+      Krond: 5 / 6
+       Krux: 5 / 6
+    Lae'zel: 6 / 6
+     Lucius: 5 / 6
+      Makos: 5 / 6
+      Minsc: 4 / 6
+      NERDS: 4 / 6
+     Nahara: 5 / 6
+      Nixie: 5 / 6
+   Prudence: 5 / 6
+      Rosie: 5 / 6
+    Torogar: 6 / 6
+    Warduke: 5 / 6
+     Yorven: 5 / 6
+      Zorbu: 5 / 6
 </pre>
 </p>
 </details>
@@ -1370,15 +1370,15 @@ Dungeon Master: 5 / 6
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![The Dark Urge Console Portrait](images/thedarkurge/console.png)Console Portait
+            ![Dark Urge Console Portrait](images/darkurge/console.png)Console Portait
         </span>
     </span>
     <span class="championImagesRow">
         <span class="championImagesChests">
-            ![The Dark Urge Gold Chest Icon](images/thedarkurge/chest_gold.png)Gold Chest Icon
+            ![Dark Urge Gold Chest Icon](images/darkurge/chest_gold.png)Gold Chest Icon
         </span>
         <span class="championImagesChests">
-            ![The Dark Urge Silver Chest Icon](images/thedarkurge/chest_silver.png)Silver Chest Icon
+            ![Dark Urge Silver Chest Icon](images/darkurge/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>

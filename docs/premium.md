@@ -25,9 +25,9 @@ Date of release: 06 Mar 2024
 
 Contents:
 
-* Champion: `The Dark Urge`
+* Champion: `Dark Urge`
 * Skin: `Mind Flayer Dark Urge`
-* Feat: `Cult of Blood` (The Dark Urge)
+* Feat: `Cult of Blood` (Dark Urge)
 * Familiar: `Gale's Hand`
 * Chests: `Gold The Dark Urge Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
