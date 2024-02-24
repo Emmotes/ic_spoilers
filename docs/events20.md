@@ -43,7 +43,7 @@ These are some of the raw text defines that reference Events 2.0 or new events i
 {
     "id": 5458,
     "key": "supporter_flex_slot_locked_msg",
-    "contents": "Unlock the supporter slot now by purchasing DLC containing an event boost"
+    "contents": "Unlock the supporter slot now by purchasing DLC containing an Event Boon"
 }
 {
     "id": 5440,
