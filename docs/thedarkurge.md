@@ -289,6 +289,51 @@ The Dark Urge will be the new champion in the Festival of Fools event on 6 March
 </details>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Melee Icon](images/icon_melee.png) **Base Attack: Slay** (Melee)
+> The Dark Urge strikes nearby enemies, dealing 1 hit of ultimate damage.  
+> Cooldown: 3s (Cap 0.75s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 736,
+    "name": "Slay",
+    "description": "The Dark Urge strikes nearby enemies, dealing 1 hit of ultimate damage.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 150,
+    "damage_modifier": 1,
+    "cooldown": 3,
+    "animations": [
+        {
+            "character": "companion",
+            "type": "melee_attack",
+            "special_melee": "dark_urge_slay",
+            "force_count_for_bud": false,
+            "target_offset": [
+                -200,
+                0
+            ],
+            "attack_sounds": {
+                "melee": 179
+            }
+        }
+    ],
+    "tags": [
+        "melee",
+        "aoe"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Form of the Slayer Icon](images/thedarkurge/icon_formoftheslayer.png) **Ultimate Attack: Form of the Slayer** (Level: 0)
 > The Dark Urge transforms into the Slayer form for 15 seconds, dealing massive damage for the duration. Sceleritas Fel, immune to damage, takes his place in the formation for the duration.  
 > Cooldown: 320s (Cap 80s)
@@ -739,6 +784,147 @@ Upgrades:
         "per_effect_index_bonuses": true,
         "default_bonus_index": 2,
         "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Embrace the Urge Icon](images/thedarkurge/icon_embracetheurge.png) **Embrace the Urge** (Level: 180)
+> The Dark Urge unlocks the Form of the Slayer ultimate, and deals 100% more damage for each Evil Champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 14385,
+    "hero_id": 146,
+    "required_level": 180,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ultimate",
+    "effect": "effect_def,1876",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Embrace the Urge",
+    "specialization_name": "Embrace the Urge",
+    "specialization_description": "The Dark Urge succumbs to his murderous impulses, delighting evil Champions and unlocking an ultimate transformation.",
+    "specialization_graphic_id": 22534
+}
+{
+    "id": 1876,
+    "flavour_text": "",
+    "description": {
+        "desc": "The Dark Urge unlocks the Form of the Slayer ultimate, and deals $(not_buffed amount___2)% more damage for each Evil Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "set_ultimate_attack,737"
+        },
+        {
+            "effect_string": "hero_dps_mult_per_tagged_crusader_mult,100,evil"
+        },
+        {
+            "effect_string": "dark_urge_slayer_form",
+            "buff_indicies": [
+                3,
+                4
+            ],
+            "companion_index": 0
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "change_base_attack,736"
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "damage_reduction,100"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1,
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Evil Champions: $num_stacks___2"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Resist the Urge Icon](images/thedarkurge/icon_resisttheurge.png) **Resist the Urge** (Level: 180)
+> The Dark Urge's alignment becomes Lawful Good, he unlocks the Withers' Resurrection ultimate, and deals 100% more damage for each Good Champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 14386,
+    "hero_id": 146,
+    "required_level": 180,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ultimate",
+    "effect": "effect_def,1877",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Resist the Urge",
+    "specialization_name": "Resist the Urge",
+    "specialization_description": "The Dark Urge suppresses his violent instincts, winning the approval of good Champions and gaining assistance from an unusual ally.",
+    "specialization_graphic_id": 22535
+}
+{
+    "id": 1877,
+    "flavour_text": "",
+    "description": {
+        "desc": "The Dark Urge's alignment becomes Lawful Good, he unlocks the Withers' Resurrection ultimate, and deals $(not_buffed amount___2)% more damage for each Good Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "set_ultimate_attack,738"
+        },
+        {
+            "effect_string": "hero_dps_mult_per_tagged_crusader_mult,100,good"
+        },
+        {
+            "effect_string": "dark_urge_withers_resurrection",
+            "buff_indicies": [
+                3
+            ],
+            "companion_index": 1
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "damage_reduction,100",
+            "targets": [
+                "all_slots"
+            ]
+        },
+        {
+            "effect_string": "change_hero_alignment_tag,lawful,good"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1,
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Good Champions: $num_stacks___2"
     }
 }
 </pre>
