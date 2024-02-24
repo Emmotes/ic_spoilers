@@ -98,6 +98,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>The Dark Urge</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cult of Blood Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Cult of Blood (The Dark Urge)**Your followers crave the sight of your sanguine deeds, milord!</span>Cult of Blood
+        </span>
+        <span class="featTableEffect">
+            <span>80% Living on the Edge</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>06 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Briv</span>
         </span>
         <span class="featTableIcon4">
@@ -210,6 +227,40 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>The Dark Urge</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Diverging Paths Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Diverging Paths (The Dark Urge)**You have a purpose, sire. Don't turn away from it!</span>Diverging Paths
+        </span>
+        <span class="featTableEffect">
+            <span>40% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>Patron: 5</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>The Dark Urge</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Weapon Master (The Dark Urge)**You are an exquisite artist with a blade, sire.</span>Weapon Master
+        </span>
+        <span class="featTableEffect">
+            <span>120% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>Patron: 5</span>
         </span>
         <span class="featTableDate">
             <span>03 Apr 2024</span>
