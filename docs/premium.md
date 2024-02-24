@@ -27,7 +27,7 @@ Contents:
 
 * Champion: `The Dark Urge`
 * Skin: `Mind Flayer Dark Urge`
-* Feat: ???
+* Feat: `Cult of Blood` (The Dark Urge)
 * Familiar: `Gale's Hand`
 * Chests: `Gold The Dark Urge Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
