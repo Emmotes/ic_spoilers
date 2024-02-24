@@ -240,7 +240,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Diverging Paths Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Diverging Paths (The Dark Urge)**You have a purpose, sire. Don't turn away from it!</span>Diverging Paths
         </span>
         <span class="featTableEffect">
-            <span>40% All second Specialisations</span>
+            <span>40% All Second Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>Patron: 5</span>
