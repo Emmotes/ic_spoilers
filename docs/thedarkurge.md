@@ -1016,7 +1016,7 @@ Upgrades:
             Netherstone
         </span>
         <span class="itemTableEffect">
-            <span>All Specialisations</span>
+            <span>All Second Specialisations</span>
         </span>
     </span>
     <span class="itemTableRow">
