@@ -100,7 +100,7 @@ We know the next Emergence event will be Illithids and that it will start on 28 
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Chest Icon](images/general/unknown.png)
+            ![Gold Illithid Emergence Chest Icon](images/emergence_6/chest_613.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
