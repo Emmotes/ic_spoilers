@@ -271,9 +271,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Gale's Gale**
 > Gale casts Gust of Wind, knocking back all enemies, dealing ultimate damage and slowing them for 15 seconds.  
-> Cooldown: 5s (Cap 1.25s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 330s (Cap 82.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -287,36 +285,38 @@ Unknown.
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 330,
     "animations": [
         {
             "type": "ultimate_attack",
             "ultimate": "gale",
             "projectile_details": {
-                "hash": "5da5911ea4f59abd4d44e5e4ec727e16",
+                "hash": "gale_ult",
                 "projectile_speed": 1500,
-                "use_auto_rotation": true,
+                "tween_func": "strong_in_out",
+                "reset_defaults": true,
+                "target_offset_y": 0,
                 "trail": {
                     "particle_graphic_ids": [
                         "22786"
                     ],
                     "lifespan": 0.7,
-                    "spawn_rate": 10,
+                    "spawn_rate": 100,
                     "spawn_shape_scale": {
-                        "x": 100,
-                        "y": 100
+                        "x": 200,
+                        "y": 200
                     },
                     "initial_velocity": {
                         "x": 0,
                         "y": 0
                     },
                     "velocity_jitter": {
-                        "x": 0,
-                        "y": 0
+                        "x": 30,
+                        "y": 30
                     },
                     "rotation_jitter": 0,
                     "alpha_lerp": [
-                        0.5
+                        1
                     ],
                     "scale_lerp": [
                         {
@@ -324,10 +324,13 @@ Unknown.
                             "y": 2.5
                         }
                     ],
-                    "tint_lerp": [
-                        "#FFFFFF",
-                        "#AAAAFF"
-                    ]
+                    "tint_lerp": {
+                        "0": "#FFFFFF",
+                        "0.1": "#ddf2fe",
+                        "0.4": "#d3fbfb",
+                        "0.6": "#ddf2fe",
+                        "0.75": "#c3c3c3"
+                    }
                 }
             }
         }
@@ -696,7 +699,8 @@ Unknown.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Current Ceremorphosis Stacks: $num_stacks"
     }
 }
 </pre>
