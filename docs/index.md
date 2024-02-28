@@ -152,14 +152,12 @@ A list of champions that will be seeing reworks in upcoming events.
 
 Not events events - but events. You know?
 * Seasons Are Currently Paused
-* [Emergence 6](emergence_6.md) - 28 February 2024
 * [Exclusivity Dates](exclusivitydates.md)
 
 # Misc
 
 Miscellaneous spoilers.
 
-* [Collections Dialogue](collections.md) - 28 February 2024
 * [Events 2.0](events20.md) - 6 March 2024
 * [Patron 5: Elminster](patron_5.md) - 3 April 2024 (Guess)
 * [New Campaign: Vecna Eve of Ruin](campaign_vecna.md) - 22 May 2024 (Guess)
