@@ -71,7 +71,7 @@ Date of release: 20 Mar 2024
 Contents:
 
 * Familiar: `Classic Displacer Beast`
-* Familiar Skin: Red Nose Baby Owlbear Skin (Baby Snowy Owlbear)
+* Familiar Skin: Displacer Beast Sketch Skin (Classic Displacer Beast)
 * Buff: `Huge Potion of Speed` x2
 * Buff: `Huge Potion of Giant's Strength` x2
 * Buff: `Huge Potion of Clairvoyance` x2
@@ -85,7 +85,7 @@ Date of release: 20 Mar 2024
 Contents:
 
 * Familiar: `Classic Red Dragon`
-* Familiar Skin: Red Nose Baby Owlbear Skin (Baby Snowy Owlbear)
+* Familiar Skin: Red Dragon Sketch Skin (Classic Red Dragon)
 * Buff: `Huge Potion of Speed` x4
 * Buff: `Huge Potion of Giant's Strength` x4
 * Buff: `Huge Potion of Clairvoyance` x4

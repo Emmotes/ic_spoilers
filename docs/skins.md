@@ -123,7 +123,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Aasimar Glitch Penelope
+            ![Aasimar Glitch Penelope Portrait](images/skin_portraits/aasimarglitchpenelope.png)Aasimar Glitch Penelope
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Aasimar Glitch Penelope Theme Pack</span>
