@@ -109,7 +109,7 @@ We know the next Emergence event will be Illithids and that it will start on 28 
     </span>
 </span>
 
-The Gold Illithid Emergence Chest will contain loot for Miria, Strix, Virgil, Karlach, D'hani and Gazrick.
+The Gold Illithid Emergence Chest will contain loot for Celeste, Minsc, NERDS, Solaak, Presto and Dynaheir.
 
 {% comment %}
 # Emergence FAQ
