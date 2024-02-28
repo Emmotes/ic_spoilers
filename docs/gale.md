@@ -88,12 +88,9 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/gale/formation.png)
 </span>
-{% endcomment %}
 
 # Abilities
 
