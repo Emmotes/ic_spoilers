@@ -18,6 +18,17 @@ While the redistributed champions will be available in different events than the
 
 Justin said on a recent Dev Insights that you'll be able to buy a pack of chests that will contain 1 gold and 2 silvers for an event champion for 7,500 event tokens. This is the same rate as current freeplays give - if we exclude the pity timer.
 
+## Freeplays and Variants
+
+We have heard from the developers that both freeplays and variants will be free. You will not need to spend tokens to start them. Also - there will now be 12 variants per champion. 3 variants in 4 tiers with their own area goals to reach. Each tier will supposedly have better and better rewards.
+
+| Tier | Variant 1 | Variant 2 | Variant 3 |
+|---|--:|--:|--:|
+| 1 | 75 | 125 | 175 |
+| 2 | 250 | 350 | 450 |
+| 3 | 600 | 800 | 1,000 |
+| 4 | 1,200 | 1,400 | 1,600 |
+
 ## Text Defines
 
 These are some of the raw text defines that reference Events 2.0 or new events in general.
