@@ -17,11 +17,11 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Dark Urge Portrait Icon](images/darkurge/portrait.png)
+            ![The Dark Urge Portrait Icon](images/darkurge/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Dark Urge&nbsp;<span class="indexChampionTableNoLink">- Dragonborn Sorcerer of Absolute Adversaries</span>
+                The Dark Urge&nbsp;<span class="indexChampionTableNoLink">- Dragonborn Sorcerer of Absolute Adversaries</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Festival of Fools - 6 March 2024</span>

@@ -15,7 +15,7 @@
     </span>
 </span>
 
-# Dark Urge
+# The Dark Urge
 
 The Dark Urge remembers nothing but a path paved with blood. Unimaginable cruelty whispers from within. Can he escape it? Would he even want to?
 
@@ -1370,15 +1370,15 @@ Dungeon Master: 5 / 6
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Dark Urge Console Portrait](images/darkurge/console.png)Console Portait
+            ![The Dark Urge Console Portrait](images/darkurge/console.png)Console Portait
         </span>
     </span>
     <span class="championImagesRow">
         <span class="championImagesChests">
-            ![Dark Urge Gold Chest Icon](images/darkurge/chest_gold.png)Gold Chest Icon
+            ![The Dark Urge Gold Chest Icon](images/darkurge/chest_gold.png)Gold Chest Icon
         </span>
         <span class="championImagesChests">
-            ![Dark Urge Silver Chest Icon](images/darkurge/chest_silver.png)Silver Chest Icon
+            ![The Dark Urge Silver Chest Icon](images/darkurge/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
