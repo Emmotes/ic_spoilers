@@ -6,6 +6,10 @@ Since we've now had an official blog about Events 2.0 - probably best just to vi
 
 [Idle Champions 2024 State of the Game Blog](https://codenameentertainment.com/?page=idle_champions&post_id=1636#blog)
 
+<span style="font-size:1.2em;">ⓘ</span> Update: We now have the full Events 2.0 Blog
+
+[Idle Champions Events 2.0 Preview Blog ](https://codenameentertainment.com/?page=idle_champions&post_id=1650#blog)
+
 ## Removed Events
 
 Because events 2.0 will have 12 events instead of 17 - 5 of them will be removed. The 5 removed events will be Greengrass / Midwinter / The Running / Midsummer / Brightswords. The champions that were available in those events will be redistributed to the remaining 12 - and the Devs said they tried to move them to events that were roughly around the same date they would have been - or as close as possible.
@@ -23,7 +27,7 @@ Justin said on a recent Dev Insights that you'll be able to buy a pack of chests
 We have heard from the developers that both freeplays and variants will be free. You will not need to spend tokens to start them. Also - there will now be 12 variants per champion. 3 variants in 4 tiers with their own area goals to reach. Each tier will supposedly have better and better rewards.
 
 | Tier | Variant 1 | Variant 2 | Variant 3 |
-|---|--:|--:|--:|
+|--:|--:|--:|--:|
 | 1 | 75 | 125 | 175 |
 | 2 | 250 | 350 | 450 |
 | 3 | 600 | 800 | 1,000 |
