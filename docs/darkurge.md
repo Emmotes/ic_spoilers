@@ -189,7 +189,7 @@ Dark Urge will be the new champion in the Festival of Fools event on 6 March 202
 # Formation
 
 <span class="formationBorder">
-    ![Formation Layout](images/darkurge/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="The Dark Urge" fill="#aaa" data-formationName="The Dark Urge" data-campaignName="Festival of Fools" width="341" height="140"><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="25" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="165" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">The Dark Urge</text><text x="165" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Festival of Fools</text></svg>
 </span>
 
 # Abilities

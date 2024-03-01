@@ -89,7 +89,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 # Formation
 
 <span class="formationBorder">
-    ![Formation Layout](images/gale/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Gale" fill="#aaa" data-formationName="Gale" data-campaignName="Greengrass" width="294" height="160"><circle cx="175" cy="45" r="15"/><circle cx="135" cy="25" r="15"/><circle cx="135" cy="65" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="135" cy="145" r="15"/><circle cx="95" cy="85" r="15"/><circle cx="95" cy="125" r="15"/><circle cx="55" cy="65" r="15"/><circle cx="55" cy="145" r="15"/><circle cx="15" cy="45" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Gale</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Greengrass</text></svg>
 </span>
 
 # Abilities
