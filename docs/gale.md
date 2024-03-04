@@ -863,7 +863,29 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![The Endless War (Gale) Icon](images/gale/2661.png) **Unlock Adventure: The Endless War (Gale)** (Complete Area 50)
+> Defend Triboar from a Githyanki invasion.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![One With the Weave Icon](images/gale/22813.png) **Variant 1: One With the Weave** (Complete Area 75)
+> Gale starts in the formation. He can't be moved or removed.  
+> Only Gale and Champions buffed by Gale's Archmage's Insight can deal damage.  
+> Getting to know Gale: Gale increases the damage of Champions in the two columns in front of him. You can customize how this works with a specialization choice!
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Pawn to Cleric Four Icon](images/gale/22814.png) **Variant 2: Pawn to Cleric Four** (Complete Area 125)
+> Gale starts in the formation. He can be moved, but not removed.  
+> You may only use Champions with an Intelligence of 13 or higher, Heroes of Baldur's Gate affiliation members, and/or Absolute Adversaries affiliation members.  
+> Getting to know Gale: Gale's second specialization choice determines which heroes are best to solve the problem at hand.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Elminster's Errands Icon](images/gale/22815.png) **Variant 3: Elminster's Errands** (Complete Area 175)
+> Gale starts in the formation. He can be moved, but not removed.  
+> Elminster joins the formation. He distracts adjacent Champions with his stories, increasing their normal attack cooldowns by 3 seconds.  
+> You may only use the base 12 Core Champions and/or Champions that have been released in the last 3 years.  
+> Getting to know Gale: Gale is always available for any of his Mentor's patron challenges, even if the restrictions would say otherwise. Gale's buffs further increase as you complete Elminster Patron variants!
+</div></div>
 
 # Other Champion Images
 
