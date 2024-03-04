@@ -861,6 +861,10 @@ Unknown.
 
 Unknown.
 
+# Adventures and Variants
+
+Unknown.
+
 # Other Champion Images
 
 <span class="championImagesColumn">

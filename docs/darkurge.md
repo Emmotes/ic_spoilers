@@ -1365,6 +1365,41 @@ Dungeon Master: 5 / 6
 </details>
 <br />
 
+# Adventures and Variants
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![A Fool's Errand (The Dark Urge) Icon](images/darkurge/2577.png) **Unlock Adventure: A Fool's Errand (The Dark Urge)** (Complete Area 50)
+> Save the village from a foolish prank gone wrong.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![How Many Die Today? Icon](images/darkurge/22520.png) **Variant 1: How Many Die Today?** (Complete Area 75)
+> The Dark Urge starts in the formation. He can be moved, but not removed. 
+>  
+> Only Champions with the DPS role can deal damage. 
+>  
+> Each wave spawns an Intellect Devourer. They don't drop gold or count towards quest progress. 
+>  
+> Getting to Know the Dark Urge: The Dark Urge's damage is boosted by the number of enemies he has defeated, and this persists after you complete adventures.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Time for Bloody Murder Icon](images/darkurge/22521.png) **Variant 2: Time for Bloody Murder** (Complete Area 125)
+> The Dark Urge starts in the formation. He can be moved, but not removed. 
+>  
+> You may only use Champions with the DPS role and/or members of the Absolute Adversaries or Heroes of Baldur's Gate affiliation. 
+>  
+> Getting to Know The Dark Urge: The Dark Urge deals more damage when he is near the edge of the formation or next to DPS Champions. How will you maximize his damage?
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Rampage or Redemption Icon](images/darkurge/22522.png) **Variant 3: Rampage or Redemption** (Complete Area 175)
+> The Dark Urge starts in the formation. He can be moved, but not removed. 
+>  
+> You may not use Neutral champions unless they are members of the Absolute Adversaries affiliation. 
+>  
+> Each wave spawns an armored Mind Flayer. They don't drop gold or count towards quest progress. 
+>  
+> Getting to Know The Dark Urge: The type of Champions that associate with The Dark Urge depends on if he embraces or fights against his urges. Which one will you choose?
+</div></div>
+
 # Other Champion Images
 
 <span class="championImagesColumn">

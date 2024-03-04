@@ -142,6 +142,10 @@ Unknown.
 
 Unknown.
 
+# Adventures and Variants
+
+Unknown.
+
 {% comment %}
 # Other Champion Images
 
