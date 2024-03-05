@@ -216,7 +216,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### TBD Take This Charity Familiar (Do Not Translate) - $11.99  
+### Jack the Pumpkin Sprout Familiar Pack - $11.99  
 Date of release: 15 Apr 2024
 
 Contents:
