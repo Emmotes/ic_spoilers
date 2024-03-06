@@ -194,7 +194,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
     "graphic_id": 0,
     "target": "gale_random_prefer_non_debuffed",
     "num_targets": 1,
-    "aoe_radius": 0,
+    "aoe_radius": 100,
     "damage_modifier": 1,
     "cooldown": 4.5,
     "animations": [
@@ -254,7 +254,8 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
         }
     ],
     "tags": [
-        "ranged"
+        "ranged",
+        "aoe"
     ],
     "damage_types": [
         "magic"
@@ -287,6 +288,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
         {
             "type": "ultimate_attack",
             "ultimate": "gale",
+            "push_back_amount": 300,
             "projectile_details": {
                 "hash": "gale_ult",
                 "projectile_speed": 1500,
@@ -442,7 +444,8 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
             "effect_string": "gale_netherese_orb,1000",
             "debuffing_attack_ids": [
                 743,
-                744
+                744,
+                745
             ],
             "debuff_effects": [
                 {
@@ -486,7 +489,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
     "id": 1894,
     "flavour_text": "",
     "description": {
-        "desc": "Gale increases the effect of Archmage's Insight by $(amount)% for each Elminster Patron variant you have completed, stacking multiplicatively."
+        "desc": "Gale increases the effect of Archmage's Insight by $(not_buffed amount)% for each Elminster Patron variant you have completed, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -766,7 +769,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
             "effect_string": "buff_upgrade,7.5,14572",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "post_process_expr": "num_initially_unavailable_owned_heroes",
+            "post_process_expr": "num_unavailable_owned_heroes",
             "show_bonus": true,
             "amount_updated_listeners": [
                 "upgrade_unlocked",
