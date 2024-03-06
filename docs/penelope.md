@@ -660,7 +660,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Dance of the Ladybugs** (Guess)
-> Each time one of Penelope's Insect Swarms is dispersed, Penelope reduces the cooldown of all adjacent Champions ultimate abilities by $(amount)% of its remaining cooldown.
+> Each time one of Penelope's Insect Swarms is dispersed, Penelope reduces the cooldown of all adjacent Champions ultimate abilities by 20% of its remaining cooldown.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
