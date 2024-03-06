@@ -54,11 +54,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 9105,
+    "large_graphic_id": 9104,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -68,7 +69,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Insect Plague** (Guess)
-> 
+> Upon entering an area, Penelope summons 4 medium-sized, randomly positioned Insect Swarms on the enemy's side of the battlefield. Enemies who are in a Swarm are slowed by 100% and are afflicted by the Have You Met My Friends debuff. The slow effect can stack multiplicatively if an enemy is inside multiple Swarms. Every second an enemy is in a swarm, it's slowing effect is reduced by 1%. When the slow effect reaches 40%, the swarm is dispersed and disappears.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -76,18 +77,79 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1906,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Upon entering an area, Penelope summons 4 medium-sized, randomly positioned Insect Swarms on the enemy's side of the battlefield. Enemies who are in a Swarm are slowed by $(amount)% and are afflicted by the Have You Met My Friends debuff. The slow effect can stack multiplicatively if an enemy is inside multiple Swarms. Every second an enemy is in a swarm, it's slowing effect is reduced by $(slow_reduction_per_second)%. When the slow effect reaches $(min_slow_amount)%, the swarm is dispersed and disappears."
     },
     "effect_keys": [
         {
-            "effect_string": "penelope_insect_plague"
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_insect_plague,100",
+            "slow_reduction_per_second": 1,
+            "min_slow_amount": 40,
+            "aoe_radius": 150,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14700,0)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_insect_plague,100",
+            "slow_reduction_per_second": 1,
+            "min_slow_amount": 40,
+            "aoe_radius": 150,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14700,1)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_insect_plague,100",
+            "slow_reduction_per_second": 1,
+            "min_slow_amount": 40,
+            "aoe_radius": 150,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14700,2)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_insect_plague,100",
+            "slow_reduction_per_second": 1,
+            "min_slow_amount": 40,
+            "aoe_radius": 150,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14700,3)",
+                    "use_collection_source": false
+                }
+            ]
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -146,7 +208,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "all"
             ],
             "amount_func": "mult",
-            "show_bonus": true,
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`healing`) || HasTag(`support`) || HasTag(`gold`)",
             "per_hero_targets": [
@@ -236,8 +297,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 9107,
+    "large_graphic_id": 9106,
     "properties": {
         "is_formation_ability": true,
         "indexed_effect_properties": true,
@@ -251,8 +312,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> 
+**Story Time** (Guess)
+> Each time a Champion adjacent to Penelope attacks, add a stack of Story Time. The party's gold find is increased by 1% for each stack of Story Time, stacking additively. Story Time stacks are capped at 1000000000. Whenever a boss enemy enters an Insect Swarm, the number of Story Time stacks are increased by 10%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -260,18 +321,57 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1908,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Each time a Champion adjacent to Penelope attacks, add a stack of Story Time. The party's gold find is increased by $(not_buffed amount)% for each stack of Story Time, stacking additively. Story Time stacks are capped at $(max_stacks). Whenever a boss enemy enters an Insect Swarm, the number of Story Time stacks are increased by $(boss_percent)%."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "gold_multiplier_mult,1",
+            "max_stacks": 1000000000,
+            "boss_percent": 10,
+            "more_triggers": [
+                {
+                    "trigger": "on_broadcast_stacks,penelope_adj_attack",
+                    "action": {
+                        "type": "add_stacks"
+                    }
+                },
+                {
+                    "trigger": "on_broadcast_stacks,penelope_boss_entered_swarm",
+                    "action": {
+                        "type": "add_percent",
+                        "percent": 10
+                    }
+                }
+            ],
+            "stacks_multiply": false,
+            "show_bonus": true,
+            "stack_title": "Story Time Stacks"
+        },
+        {
+            "show_description": false,
+            "effect_string": "stacks_data_binder_safe",
+            "index": 0,
+            "stat_name": "penelope_story_time_stacks",
+            "is_instanced_stat": true,
+            "use_stat_defs": true
+        },
+        {
+            "show_description": false,
+            "effect_string": "broadcast_on_trigger,penelope_adj_attack,hero_targeted_by_effect_attacked",
+            "targets": [
+                "adj"
+            ]
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -293,6 +393,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
+            "show_description": false,
             "off_when_benched": true,
             "outgoing_buffs": false,
             "effect_string": "pre_stack_amount,150"
@@ -310,6 +411,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "type": "upgrade",
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
@@ -337,6 +439,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
+            "show_description": false,
             "off_when_benched": true,
             "outgoing_buffs": false,
             "effect_string": "pre_stack_amount,125"
@@ -354,6 +457,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "type": "upgrade",
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
@@ -381,6 +485,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
+            "show_description": false,
             "off_when_benched": true,
             "outgoing_buffs": false,
             "effect_string": "pre_stack_amount,70"
@@ -398,12 +503,188 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "type": "upgrade",
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
         "spec_option_post_apply_info": "Champions in Formation: $num_stacks___2"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Fury of the Fire Flies** (Guess)
+> Each time one of Penelope's Insect Swarms is dispersed, the effect of Chwinga Mask is increased by 200%, stacking multiplicatively and resetting when you change areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1912,
+    "flavour_text": "",
+    "description": {
+        "desc": "Each time one of Penelope's Insect Swarms is dispersed, the effect of Chwinga Mask is increased by $(not_buffed amount)%, stacking multiplicatively and resetting when you change areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,200,14701",
+            "more_triggers": [
+                {
+                    "trigger": "on_broadcast_stacks,penelope_swarm_dispersed",
+                    "action": {
+                        "type": "add_stacks"
+                    }
+                },
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                }
+            ],
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "stack_title": "Dispersed Swarms Stacks"
+        },
+        {
+            "effect_string": "penelope_fury_of_the_fire_flies"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Splitting the Hive** (Guess)
+> Each time one of Penelope's Insect Swarms is dispersed, another smaller swarm appears randomly (preferring to appear on an enemy if possible), damaging monsters in it for 15 seconds of BUD damage and slowing them using the same rules as the original Insect Plague. These smaller swarms do not spawn additional ones when they disperse.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1913,
+    "flavour_text": "",
+    "description": {
+        "desc": "Each time one of Penelope's Insect Swarms is dispersed, another smaller swarm appears randomly (preferring to appear on an enemy if possible), damaging monsters in it for $(seconds_of_bud) seconds of BUD damage and slowing them using the same rules as the original Insect Plague. These smaller swarms do not spawn additional ones when they disperse."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "aoe_radius": 100,
+            "seconds_of_bud": 15,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,0)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "aoe_radius": 100,
+            "seconds_of_bud": 15,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,1)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "aoe_radius": 100,
+            "seconds_of_bud": 15,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,2)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "aoe_radius": 100,
+            "seconds_of_bud": 15,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,3)",
+                    "use_collection_source": false
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Dance of the Ladybugs** (Guess)
+> Each time one of Penelope's Insect Swarms is dispersed, Penelope reduces the cooldown of all adjacent Champions ultimate abilities by $(amount)% of its remaining cooldown.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1914,
+    "flavour_text": "",
+    "description": {
+        "desc": "Each time one of Penelope's Insect Swarms is dispersed, Penelope reduces the cooldown of all adjacent Champions ultimate abilities by $(amount)% of its remaining cooldown."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "penelope_dance_of_the_ladybugs,20"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -420,7 +701,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "id": 22717,
     "graphic": "Effects/Effect_Penelope_SwarmCloud",
-    "v": 2,
+    "v": 3,
     "fs": 0,
     "p": 0,
     "type": 1,
@@ -429,81 +710,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect"
         ],
         "export_animation": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Dance of the Ladybugs** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 22777,
-    "graphic": "Icons/Champions/Rebalance/Penelope/Icon_Specialization_PenelopeDanceoftheLadybugs",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Fury of the Fireflies** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 22778,
-    "graphic": "Icons/Champions/Rebalance/Penelope/Icon_Specialization_PenelopeFuryoftheFirelies",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Splitting the Hive** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 22779,
-    "graphic": "Icons/Champions/Rebalance/Penelope/Icon_Specialization_PenelopeSplittingtheHive",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
     }
 }
 </pre>
