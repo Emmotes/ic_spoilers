@@ -42,7 +42,7 @@ Contents:
 
 * Champion: `Briv Steelmarrow`
 * Skin: `Spelljammer Pilot Briv`
-* Feat: ???
+* Feat: `Dost Thou Want To Fight?` (Briv)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Briv Chest` x7 (Shinies x1)
