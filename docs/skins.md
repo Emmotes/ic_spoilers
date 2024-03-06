@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Archmage Dhadius Portrait](images/skin_portraits/archmagedhadius.png)Archmage Dhadius
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Archmage Dhadius Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">06 Mar 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Mind Flayer Dark Urge Portrait](images/skin_portraits/mindflayerdarkurge.png)Mind Flayer Dark Urge
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Mind Flayer Dark Urge Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">06 Mar 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Spelljammer Pilot Briv Portrait](images/skin_portraits/spelljammerpilotbriv.png)Spelljammer Pilot Briv
         </span>
         <span class="skinTableSource">

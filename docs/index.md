@@ -13,25 +13,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="darkurge.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![The Dark Urge Portrait Icon](images/darkurge/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                The Dark Urge&nbsp;<span class="indexChampionTableNoLink">- Dragonborn Sorcerer of Absolute Adversaries</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Festival of Fools - 6 March 2024</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="gale.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -76,25 +57,6 @@ These are the event champions that are upcoming and all the information we know 
 A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
-{::nomarkdown}
-<a href="dhadius.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Dhadius the Magnificent Portrait Icon](images/reworks/dhadius.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Dhadius&nbsp;<span class="indexChampionTableNoLink">- Human Wizard</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Festival of Fools - 6 March 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 {::nomarkdown}
 <a href="penelope.html">
 {:/nomarkdown}
@@ -159,7 +121,6 @@ Not events events - but events. You know?
 
 Miscellaneous spoilers.
 
-* [Events 2.0](events20.md) - 6 March 2024
 * [Patron 5: Elminster](patron_5.md) - 3 April 2024 (Guess)
 * [New Campaign: Vecna Eve of Ruin](campaign_vecna.md) - 22 May 2024 (Guess)
 * [Feats](feats.md)

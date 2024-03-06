@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Archmage Dhadius Theme Pack - $27.99  
-Date of release: 06 Mar 2024
-
-Contents:
-
-* Champion: `Dhadius the Magnificent`
-* Skin: `Archmage Dhadius`
-* Feat: `Knowledge is Power` (Dhadius)
-* Familiar: `Brain in a Jar`
-* Chests: `Gold Dhadius Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mind Flayer Dark Urge Theme Pack - $27.99  
-Date of release: 06 Mar 2024
-
-Contents:
-
-* Champion: `The Dark Urge`
-* Skin: `Mind Flayer Dark Urge`
-* Feat: `Cult of Blood` (Dark Urge)
-* Familiar: `Gale's Hand`
-* Chests: `Gold The Dark Urge Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Spelljammer Pilot Briv Skin & Feat Pack - $11.99  
 Date of release: 13 Mar 2024
 
