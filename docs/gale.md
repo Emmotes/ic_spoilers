@@ -275,7 +275,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 {
     "id": 745,
     "name": "Gale's Gale",
-    "description": "Gale knocks back all enemies dealing ultimate damage and slows them for 15 seconds.",
+    "description": "Gale knocks back all enemies, dealing ultimate damage and slowing them for 15 seconds.",
     "long_description": "Gale casts Gust of Wind, knocking back all enemies, dealing ultimate damage and slowing them for 15 seconds.",
     "graphic_id": 22837,
     "target": "all",
@@ -751,7 +751,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Finite Fellowship** (Guess)
-> Gale increases the effect of Netherese Orb by 7.5% for each Champion you have unlocked that is not eligible for the current adventure, stacking multiplicatively. This ability ignores any feats or upgrades (but not passive abilities) that change a Champion's eligibility; ie. it only looks at "base eligibility".
+> Gale increases the effect of Netherese Orb by 7.5% for each Champion you have unlocked that is not eligible for the current adventure, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -759,7 +759,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
     "id": 1901,
     "flavour_text": "",
     "description": {
-        "desc": "Gale increases the effect of Netherese Orb by $(amount)% for each Champion you have unlocked that is not eligible for the current adventure, stacking multiplicatively. This ability ignores any feats or upgrades (but not passive abilities) that change a Champion's eligibility; ie. it only looks at \"base eligibility\"."
+        "desc": "Gale increases the effect of Netherese Orb by $(amount)% for each Champion you have unlocked that is not eligible for the current adventure, stacking multiplicatively."
     },
     "effect_keys": [
         {
