@@ -57,7 +57,7 @@ Contents:
 
 * Champion: `Regis`
 * Skin: `Spelljammer Regis`
-* Feat: ???
+* Feat: `Master's Precision` (Regis)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Regis Chest` x7 (Shinies x1)
@@ -221,7 +221,7 @@ Date of release: 15 Apr 2024
 
 Contents:
 
-* Familiar: `Mage Hand`
+* Familiar: `Jack the Pumpkin Sprout`
 * Buff: `Huge Potion of Speed` x4
 * Buff: `Huge Potion of Giant's Strength` x4
 * Buff: `Huge Potion of Clairvoyance` x4
