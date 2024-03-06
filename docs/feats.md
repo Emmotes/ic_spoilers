@@ -47,6 +47,125 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Dhadius</span>
+        </span>
+        <span class="featTableIcon3">
+            ![For My Next Spell... Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**For My Next Spell... (Dhadius)**Why change what's already worked?</span>For My Next Spell...
+        </span>
+        <span class="featTableEffect">
+            <span>50% Practice Makes Perfect</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>06 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dhadius</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Knowledge is Power Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Knowledge is Power (Dhadius)**I read that in an ancient tome once. You wouldn't have read it...</span>Knowledge is Power
+        </span>
+        <span class="featTableEffect">
+            <span>80% Skill Empowerment</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>06 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dhadius</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Light Show Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Light Show (Dhadius)**You might want to put your smoke goggles on for this.</span>Light Show
+        </span>
+        <span class="featTableEffect">
+            <span>40% Chromatic Wonder</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span>06 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dhadius</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Party Trust Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Party Trust (Dhadius)**I trust you can win a fight. Even if you're not all that smart.</span>Party Trust
+        </span>
+        <span class="featTableEffect">
+            <span>80% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>06 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dhadius</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Smarter Damage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Smarter Damage (Dhadius)**A smarter fighter is a victorious fighter!</span>Smarter Damage
+        </span>
+        <span class="featTableEffect">
+            <span>20% Skill Empowerment</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+        <span class="featTableDate">
+            <span>06 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dhadius</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Team Player Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Team Player (Dhadius)**I guess both magic and non-magic are good...</span>Team Player
+        </span>
+        <span class="featTableEffect">
+            <span>20% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+        <span class="featTableDate">
+            <span>06 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dhadius</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Whatever Works Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Whatever Works (Dhadius)**Just get the job done!</span>Whatever Works
+        </span>
+        <span class="featTableEffect">
+            <span>40% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span>06 Mar 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Briv</span>
         </span>
         <span class="featTableIcon4">

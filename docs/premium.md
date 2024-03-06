@@ -12,7 +12,7 @@ Contents:
 
 * Champion: `Dhadius the Magnificent`
 * Skin: `Archmage Dhadius`
-* Feat: ???
+* Feat: `Knowledge is Power` (Dhadius)
 * Familiar: `Brain in a Jar`
 * Chests: `Gold Dhadius Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
