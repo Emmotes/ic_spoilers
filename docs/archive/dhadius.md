@@ -12,7 +12,7 @@ Dhadius is a mage of legendary status and acclaim (at least, in his own mind), w
 
 # Changes
 
-Dhadius is potentially a reworked champion in the Festival of Fools event on 6 March 2024.
+Dhadius is potentially a reworked champion in the Festival of Fools event on 5 March 2025.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
