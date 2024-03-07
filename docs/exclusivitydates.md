@@ -14,61 +14,6 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![EGS Giveaway Dark Justiciar Shadowheart Party Pack Icon](images/general/egs.png)**EGS Giveaway** - Dark Justiciar Shadowheart Party Pack
-            </span>
-        </span>
-        <span id="g1" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Tadpole Assistance Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Tadpole Assistance</span>
-                        <span style="margin-left:15px">Shadowheart (80% Ceremorphosis)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Dark Justiciar Shadowheart Skin Icon](images/exclusivities/skin_21770.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Dark Justiciar Shadowheart</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>13 December 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>10 January 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>10 April 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="e4a" onclick="exclusiveToggleContent(`e4`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -183,13 +128,13 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Switch Giveaway Nintendo Switch Sunset Giveaway Icon](images/general/switch.png)**Switch Giveaway** - Nintendo Switch Sunset Giveaway
             </span>
         </span>
-        <span id="g2" hidden>
+        <span id="g1" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
