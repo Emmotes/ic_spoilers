@@ -1,9 +1,10 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsImage">
+        ![PC Portrait for Diana](images/diana/portrait.png)Portait
+    </span>
 </span>
-{% endcomment %}
 
 # Diana
 
@@ -146,12 +147,15 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Diana Console Portrait](images/diana/console.png)Console Portait
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
