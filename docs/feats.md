@@ -166,6 +166,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Gale</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Neutral Good Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">**Neutral Good (Gale)**My mind can be changed. ...Sometimes.</span>Neutral Good
+        </span>
+        <span class="featTableEffect">
+            <span>Change Alignment to Neutral Good</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Penelope</span>
         </span>
         <span class="featTableIcon4">
