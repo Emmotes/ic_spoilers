@@ -11,9 +11,7 @@
 
 # Gale
 
-Gale is a magical prodigy – a wizard of great talent and incredible knowledge. Imbued with the devastating power of a Netherese orb, Gale must continually consume magical artefacts, lest he unleash that explosive force upon himself and his surroundings.
-
-[Gale - Baldur's Gate Wiki](https://bg3.wiki/wiki/Gale)
+Gale of Waterdeep was a prodigious archmage, his talents earning him the attention of Mystra, the goddess of magic. At her side, he learned all that mortals might accomplish with the Weave, in time earning his place as her lover, and her Chosen. And yet, he was not satisfied. In an attempt to prove he was ready for even greater power, he accidentally unleashed 'the orb' - a highly volatile fragment of pure Weave, corrupted by Netherese magic, which buried itself in his chest. Cast out by Mystra, humbled by his downfall, he does all he can to prevent the orb's cataclysmic detonation, watching for his chance to get back everything he lost, and more.
 
 # Basic Information
 
@@ -24,64 +22,160 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">1</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Stat**</span>
+        </span>
+        <span class="champStatsTableStatsHeader">
+            <span style="margin-left:8px;">**Value**</span>
+        </span>
+        <span class="champStatsTableTrialsHeader">
+            <span style="margin-left:8px;">**Day 1 Trials**</span>
+        </span>
+        <span class="champStatsTablePatronsHeader">
+            <span style="margin-left:8px;">**Patrons**</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Race**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Human (Guess)</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Human</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Strength**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:13px;">8</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">-</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">-</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Class**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Wizard (Guess)</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Wizard</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Dexterity**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">13</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">Vajra</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support (Guess)</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Support</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Constitution**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">15</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">Strahd</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Age**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">35</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Intelligence**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">17</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">-</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Male (Guess)</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Male</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Wisdom**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">10</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">&nbsp;</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Neutral</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Charisma**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">12</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">&nbsp;</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Absolute Adversaries (Guess)</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Absolute Adversaries</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Total**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">75</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Champion ID:</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">147</span>
         </span>
     </span>
 </span>
@@ -95,7 +189,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Fire Bolt** (Magic)
+![Magic Icon](images/icon_magic.png) **Base Attack: Fire Bolt** (Magic)
 > Gale deals 1 hit to a random enemy, prioritizing enemies he hasn't hit yet.  
 > Cooldown: 4.5s (Cap 1.125s)
 <details><summary><em>Raw Data</em></summary>
@@ -179,8 +273,9 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </p>
 </details>
 </div></div>
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Fire Bolt - Evocation** (Magic)
+![Magic Icon](images/icon_magic.png) **Base Attack: Fire Bolt - Evocation** (Magic)
 > Gale deals 1 hit to a random enemy and those nearby, prioritizing enemies he hasn't hit yet.  
 > Cooldown: 4.5s (Cap 1.125s)
 <details><summary><em>Raw Data</em></summary>
@@ -265,9 +360,8 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </p>
 </details>
 </div></div>
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Gale's Gale**
+![Gale's Gale Icon](images/gale/icon_galesgale.png) **Ultimate Attack: Gale's Gale** (Level: 30)
 > Gale casts Gust of Wind, knocking back all enemies, dealing ultimate damage and slowing them for 15 seconds.  
 > Cooldown: 330s (Cap 82.5s)
 <details><summary><em>Raw Data</em></summary>
@@ -349,11 +443,22 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Ally of Elminster** (Level: 0)
 > As an Ally of Elminster, Gale can be used in any Elminster Patron adventure or variant, even if he would not normally be available to be used due to variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 14570,
+    "hero_id": 147,
+    "required_level": 0,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1891",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Ally of Elminster"
+}
 {
     "id": 1891,
     "flavour_text": "",
@@ -382,11 +487,33 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Archmage's Insight** (Guess)
+![Archmage's Insight Icon](images/gale/icon_archmagesinsight.png) **Archmage's Insight** (Level: 5)
 > Gale increases the damage of Champions in the two columns in front of him by 100%.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       35: 100%
+
+    Total Upgrade Bonus: 100%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 14571,
+    "hero_id": 147,
+    "required_level": 5,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1892",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Archmage's Insight",
+    "tip_text": "Gale increases the damage of Champions in the two columns in front of him."
+}
 {
     "id": 1892,
     "flavour_text": "",
@@ -427,11 +554,33 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Netherese Orb** (Guess)
+![Netherese Orb Icon](images/gale/icon_nethereseorb.png) **Netherese Orb** (Level: 10)
 > The first time Gale damages any enemy, they take 1000% additional damage from all subsequent attacks.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       40: 100%
+
+    Total Upgrade Bonus: 100%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 14572,
+    "hero_id": 147,
+    "required_level": 10,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1893",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Netherese Orb",
+    "tip_text": "The power of the Netherese Orb leaves enemies that Gale damages vulnerable to all subsequent attacks."
+}
 {
     "id": 1893,
     "flavour_text": "",
@@ -480,11 +629,32 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**An Experienced Sage** (Guess)
+![An Experienced Sage Icon](images/gale/icon_anexperiencedsage.png) **An Experienced Sage** (Level: 15)
 > Gale increases the effect of Archmage's Insight by 10% for each Elminster Patron variant you have completed, stacking multiplicatively.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       45: 100%
+
+    Total Upgrade Bonus: 100%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 14573,
+    "hero_id": 147,
+    "required_level": 15,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1894",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "An Experienced Sage"
+}
 {
     "id": 1894,
     "flavour_text": "",
@@ -513,46 +683,50 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </details>
 </div></div>
 
-# Specialisations
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Evocation** (Guess)
-> Gale's Fire Bolt deals damage to all enemies in a small area.
+![Gale's Gale Icon](images/gale/icon_galesgale.png) **Gale's Gale** (Level: 30)
+> Unknown Effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 1895,
-    "flavour_text": "",
-    "description": {
-        "desc": "Gale's Fire Bolt deals damage to all enemies in a small area."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "change_base_attack,744"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "type": "upgrade",
-        "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
-    }
+    "id": 14581,
+    "hero_id": 147,
+    "required_level": 30,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ultimate",
+    "effect": "set_ultimate_attack",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Gale's Gale"
 }
 </pre>
 </p>
 </details>
 </div></div>
 
+# Specialisations
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Abjuration** (Guess)
+![Abjuration Icon](images/gale/icon_abjuration.png) **Abjuration** (Level: 20)
 > Attacks against Champions miss 50% of the time.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 14575,
+    "hero_id": 147,
+    "required_level": 20,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1896",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Abjuration",
+    "specialization_name": "Abjuration",
+    "specialization_description": "Gale focuses on the protective school of Abjuration.",
+    "specialization_graphic_id": 22830
+}
 {
     "id": 1896,
     "flavour_text": "",
@@ -582,11 +756,25 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Enchantment** (Guess)
+![Enchantment Icon](images/gale/icon_enchantment.png) **Enchantment** (Level: 20)
 > Increase Archmage's Insight's number of columns by one.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 14576,
+    "hero_id": 147,
+    "required_level": 20,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1897",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Enchantment",
+    "specialization_name": "Enchantment",
+    "specialization_description": "Gale immerses himself in the captivating school of Enchantment.",
+    "specialization_graphic_id": 22832
+}
 {
     "id": 1897,
     "flavour_text": "",
@@ -615,11 +803,71 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Illusion** (Guess)
+![Evocation Icon](images/gale/icon_evocation.png) **Evocation** (Level: 20)
+> Gale's Fire Bolt deals damage to all enemies in a small area.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 14574,
+    "hero_id": 147,
+    "required_level": 20,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1895",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Evocation",
+    "specialization_name": "Evocation",
+    "specialization_description": "Gale embraces the explosive school of Evocation.",
+    "specialization_graphic_id": 22833
+}
+{
+    "id": 1895,
+    "flavour_text": "",
+    "description": {
+        "desc": "Gale's Fire Bolt deals damage to all enemies in a small area."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_base_attack,744"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Illusion Icon](images/gale/icon_illusion.png) **Illusion** (Level: 20)
 > Archmage's Insight now affects his column and the column behind, and enemies that attempt to choose Gale as a target instead choose to attack another Champion, assuming another valid target exists.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 14577,
+    "hero_id": 147,
+    "required_level": 20,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1898",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Illusion",
+    "specialization_name": "Illusion",
+    "specialization_description": "Gale envelops himself in the deceptive school of Illusion.",
+    "specialization_graphic_id": 22835
+}
 {
     "id": 1898,
     "flavour_text": "",
@@ -649,11 +897,35 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Ceremorphosis** (Guess)
+![Ceremorphosis Icon](images/gale/icon_ceremorphosis.png) **Ceremorphosis** (Level: 25)
 > Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Gale's brain. Gale increases the damage of Netherese Orb by 100% for each Ceremorphosis stack, stacking multiplicatively.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       50: 100%
+
+    Total Upgrade Bonus: 100%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 14578,
+    "hero_id": 147,
+    "required_level": 25,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1899",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Ceremorphosis",
+    "specialization_name": "Ceremorphosis",
+    "specialization_description": "Gale seeks out other companions suffering from the fate of Ceremorphosis.",
+    "specialization_graphic_id": 22831
+}
 {
     "id": 1899,
     "flavour_text": "",
@@ -709,11 +981,102 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Mystical Mentor** (Guess)
-> Gale increases the effect of Netherese Orb by 100% for each Champion in the formation with an Intelligence of 13 or higher, stacking multiplicatively.
+![Finite Fellowship Icon](images/gale/icon_finitefellowship.png) **Finite Fellowship** (Level: 25)
+> Gale increases the effect of Netherese Orb by 7.5% for each Champion you have unlocked that is not eligible for the current adventure, stacking multiplicatively.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       50: 100%
+
+    Total Upgrade Bonus: 100%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 14580,
+    "hero_id": 147,
+    "required_level": 25,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1901",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Finite Fellowship",
+    "specialization_name": "Finite Fellowship",
+    "specialization_description": "Gale seeks out the limited number of allies that can complete the adventure.",
+    "specialization_graphic_id": 22834
+}
+{
+    "id": 1901,
+    "flavour_text": "",
+    "description": {
+        "desc": "Gale increases the effect of Netherese Orb by $(amount)% for each Champion you have unlocked that is not eligible for the current adventure, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,7.5,14572",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "num_unavailable_owned_heroes",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Ineligible Champions: $num_stacks"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Mystical Mentor Icon](images/gale/icon_mysticalmentor.png) **Mystical Mentor** (Level: 25)
+> Gale increases the effect of Netherese Orb by 100% for each Champion in the formation with an Intelligence of 13 or higher, stacking multiplicatively.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       50: 100%
+
+    Total Upgrade Bonus: 100%
+</pre>
+</p>
+</details>
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 14579,
+    "hero_id": 147,
+    "required_level": 25,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1900",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Mystical Mentor",
+    "specialization_name": "Mystical Mentor",
+    "specialization_description": "Gale teaches intelligent companions the secrets of the Weave.",
+    "specialization_graphic_id": 22836
+}
 {
     "id": 1900,
     "flavour_text": "",
@@ -752,49 +1115,6 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </details>
 </div></div>
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Finite Fellowship** (Guess)
-> Gale increases the effect of Netherese Orb by 7.5% for each Champion you have unlocked that is not eligible for the current adventure, stacking multiplicatively.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 1901,
-    "flavour_text": "",
-    "description": {
-        "desc": "Gale increases the effect of Netherese Orb by $(amount)% for each Champion you have unlocked that is not eligible for the current adventure, stacking multiplicatively."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "buff_upgrade,7.5,14572",
-            "amount_func": "mult",
-            "stack_func": "per_hero_attribute",
-            "post_process_expr": "num_unavailable_owned_heroes",
-            "show_bonus": true,
-            "amount_updated_listeners": [
-                "upgrade_unlocked",
-                "slot_changed",
-                "feat_changed"
-            ]
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "type": "upgrade",
-        "formation_circle_icon": false,
-        "owner_use_outgoing_description": true,
-        "retain_on_slot_changed": true,
-        "spec_option_post_apply_info": "Ineligible Champions: $num_stacks"
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
 # Items
 
 <span class="itemTableColumn">
@@ -802,63 +1122,289 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
         <span class="itemTableIcon">
             <span style="margin-left:8px;">**Icons**</span>
         </span>
-        <span class="itemTableNameSmall">
-            **Name**
+        <span class="itemTableSlot">
+            <span>**Slot**</span>
+        </span>
+        <span class="itemTableName">
+            **Epic Name**
+        </span>
+        <span class="itemTableEffect">
+            <span>**Effect**</span>
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Books Icon](images/gale/22788.png)</span><span class="itemTableIcon2">![Books Icon](images/gale/22788.png)</span><span class="itemTableIcon3">![Books Icon](images/gale/22789.png)</span><span class="itemTableIcon4">![Books Icon](images/gale/22790.png)</span>
+            <span class="itemTableIcon1">![Fond Memories Icon](images/gale/22803.png)<span class="itemTooltipContents">**Fond Memories**Even at my lowest, playing with Tara lifted my spirits...</span></span><span class="itemTableIcon2">![Ball of Retrieval Icon](images/gale/22803.png)<span class="itemTooltipContents">**Ball of Retrieval**...though the ball's purpose eldued her. I was always the one fetching it...</span></span><span class="itemTableIcon3">![Cat Flap of Displacement Icon](images/gale/22804.png)<span class="itemTooltipContents">**Cat Flap of Displacement**Tara comes and goes as she pleases. But she's always pleased to help me.</span></span><span class="itemTableIcon4">![Ring of Evasion Icon](images/gale/22805.png)<span class="itemTooltipContents">**Ring of Evasion**A ring as evasive as Tara, when I asked how she obtained it...</span></span><span class="itemTableGE">&nbsp;</span>
         </span>
-        <span class="itemTableNameSmall">
-            Books
+        <span class="itemTableSlot">
+            <span>1</span>
         </span>
-    </span>
-    <span class="itemTableRow">
-        <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Boots Icon](images/gale/22791.png)</span><span class="itemTableIcon2">![Boots Icon](images/gale/22791.png)</span><span class="itemTableIcon3">![Boots Icon](images/gale/22792.png)</span><span class="itemTableIcon4">![Boots Icon](images/gale/22793.png)</span>
+        <span class="itemTableName">
+            Ring of Evasion
         </span>
-        <span class="itemTableNameSmall">
-            Boots
+        <span class="itemTableEffect">
+            <span>All Champion Damage</span>
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Camp Comforts Icon](images/gale/22796.png)</span><span class="itemTableIcon2">![Camp Comforts Icon](images/gale/22796.png)</span><span class="itemTableIcon3">![Camp Comfort Icon](images/gale/22794.png)</span><span class="itemTableIcon4">![Camp Comfort Icon](images/gale/22795.png)</span>
+            <span class="itemTableIcon1">![These Old Things Icon](images/gale/22800.png)<span class="itemTooltipContents">**These Old Things**Comfortable, practical, and relatively unsinged.</span></span><span class="itemTableIcon2">![Wizarding Robes Icon](images/gale/22800.png)<span class="itemTooltipContents">**Wizarding Robes**Not as flashy as Elminster's, but at least they've plenty of pockets.</span></span><span class="itemTableIcon3">![Robes of Increased Potency Icon](images/gale/22801.png)<span class="itemTooltipContents">**Robes of Increased Potency**I could get used to these. Elegant, but powerful - just like Tara.</span></span><span class="itemTableIcon4">![Arch-mage's Accoutrements Icon](images/gale/22802.png)<span class="itemTooltipContents">**Arch-mage's Accoutrements**Incredible! Every stitch is infused with Weave. Like wearing magic itself...</span></span>
         </span>
-        <span class="itemTableNameSmall">
-            Camp Comfort
+        <span class="itemTableSlot">
+            <span>2</span>
         </span>
-    </span>
-    <span class="itemTableRow">
-        <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Gear Icon](images/gale/22797.png)</span><span class="itemTableIcon2">![Gear Icon](images/gale/22797.png)</span><span class="itemTableIcon3">![Gear Icon](images/gale/22798.png)</span><span class="itemTableIcon4">![Gears Icon](images/gale/22799.png)</span>
+        <span class="itemTableName">
+            Arch-mage's Accoutrements
         </span>
-        <span class="itemTableNameSmall">
-            Gears
+        <span class="itemTableEffect">
+            <span>Archmage's Insight</span>
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Robes Icon](images/gale/22800.png)</span><span class="itemTableIcon2">![Robes Icon](images/gale/22800.png)</span><span class="itemTableIcon3">![Robes Icon](images/gale/22801.png)</span><span class="itemTableIcon4">![Robes Icon](images/gale/22802.png)</span>
+            <span class="itemTableIcon1">![Nothing Much Icon](images/gale/22796.png)<span class="itemTooltipContents">**Nothing Much**I'd have preferred something with a library...</span></span><span class="itemTableIcon2">![Camping Tent Icon](images/gale/22796.png)<span class="itemTooltipContents">**Camping Tent**...but it will do. For now.</span></span><span class="itemTableIcon3">![Crystal Ball Icon](images/gale/22794.png)<span class="itemTooltipContents">**Crystal Ball**Handy for glimpsing the future. And also shaving.</span></span><span class="itemTableIcon4">![Celestial Spyglass Icon](images/gale/22795.png)<span class="itemTooltipContents">**Celestial Spyglass**I like gazing at the heavens. To remember. And to forget...</span></span>
         </span>
-        <span class="itemTableNameSmall">
-            Robes
+        <span class="itemTableSlot">
+            <span>3</span>
+        </span>
+        <span class="itemTableName">
+            Celestial Spyglass
+        </span>
+        <span class="itemTableEffect">
+            <span>Netherese Orb</span>
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Tara Links Icon](images/gale/22803.png)</span><span class="itemTableIcon2">![Tara Links Icon](images/gale/22803.png)</span><span class="itemTableIcon3">![Tara Links Icon](images/gale/22804.png)</span><span class="itemTableIcon4">![Tara Links Icon](images/gale/22805.png)</span>
+            <span class="itemTableIcon1">![Crumpled Chapbooks Icon](images/gale/22788.png)<span class="itemTooltipContents">**Crumpled Chapbooks**At least they're written in full sentences.</span></span><span class="itemTableIcon2">![Well-thumbed Tomes Icon](images/gale/22788.png)<span class="itemTooltipContents">**Well-thumbed Tomes**I've lost count of how many times I've read these. Still just as magical.</span></span><span class="itemTableIcon3">![Magical Miscellany Icon](images/gale/22789.png)<span class="itemTooltipContents">**Magical Miscellany**A spell for all situations. And my improvements in the margins.</span></span><span class="itemTableIcon4">![The Annals of Karsus Icon](images/gale/22790.png)<span class="itemTooltipContents">**The Annals of Karsus**You can trust me with this - you have my word.</span></span>
         </span>
-        <span class="itemTableNameSmall">
-            Tara Links
+        <span class="itemTableSlot">
+            <span>4</span>
+        </span>
+        <span class="itemTableName">
+            The Annals of Karsus
+        </span>
+        <span class="itemTableEffect">
+            <span>An Experienced Sage</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Boots of Ambiguous Enchantment Icon](images/gale/22791.png)<span class="itemTooltipContents">**Boots of Ambiguous Enchantment**A little pick-me-up, for when any Weave will do...</span></span><span class="itemTableIcon2">![Lonely Boot of Elven Kind Icon](images/gale/22791.png)<span class="itemTooltipContents">**Lonely Boot of Elven Kind**A snack-sized shoe for the wizard who travels light.</span></span><span class="itemTableIcon3">![Boots of Very Fast Blinking Icon](images/gale/22792.png)<span class="itemTooltipContents">**Boots of Very Fast Blinking**Blink and you'll miss me. But I'll always hit you.</span></span><span class="itemTableIcon4">![Mystra's Grace Icon](images/gale/22793.png)<span class="itemTooltipContents">**Mystra's Grace**These were a gift from... well, never mind.</span></span>
+        </span>
+        <span class="itemTableSlot">
+            <span>5</span>
+        </span>
+        <span class="itemTableName">
+            Mystra's Grace
+        </span>
+        <span class="itemTableEffect">
+            <span>Ultimate Damage</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Cramped Jotter Icon](images/gale/22797.png)<span class="itemTooltipContents">**Cramped Jotter**Magical musings and mullings. Not my best handwriting.</span></span><span class="itemTableIcon2">![Waterdhavian Quill Icon](images/gale/22797.png)<span class="itemTooltipContents">**Waterdhavian Quill**This was... well, it was expensive, let's leave it at that.</span></span><span class="itemTableIcon3">![The Chosen's Earring Icon](images/gale/22798.png)<span class="itemTooltipContents">**The Chosen's Earring**A symbol of Mystra's faith in me. Former faith, I suppose...</span></span><span class="itemTableIcon4">![Wizard's Pouch Icon](images/gale/22799.png)<span class="itemTooltipContents">**Wizard's Pouch**All manner of wizarding sundries. Pungent but powerful.</span></span>
+        </span>
+        <span class="itemTableSlot">
+            <span>6</span>
+        </span>
+        <span class="itemTableName">
+            Wizard's Pouch
+        </span>
+        <span class="itemTableEffect">
+            <span>Ultimate Cooldown Reduction<br/><span style="font-size:0.9em;">Cap: 501 dull / 251 shiny / 126 golden.</span></span>
         </span>
     </span>
 </span>
 
+<details><summary><em>Item Names and Descriptions</em></summary>
+<p>
+<pre>
+Slot 1:
+                 Fond Memories: Even at my lowest, playing with Tara lifted my spirits...
+             Ball of Retrieval: ...though the ball's purpose eldued her. I was always the one
+                                fetching it...
+      Cat Flap of Displacement: Tara comes and goes as she pleases. But she's always pleased to
+                                help me.
+               Ring of Evasion: A ring as evasive as Tara, when I asked how she obtained it...
+
+Slot 2:
+              These Old Things: Comfortable, practical, and relatively unsinged.
+               Wizarding Robes: Not as flashy as Elminster's, but at least they've plenty of
+                                pockets.
+    Robes of Increased Potency: I could get used to these. Elegant, but powerful - just like
+                                Tara.
+     Arch-mage's Accoutrements: Incredible! Every stitch is infused with Weave. Like wearing
+                                magic itself...
+
+Slot 3:
+                  Nothing Much: I'd have preferred something with a library...
+                  Camping Tent: ...but it will do. For now.
+                  Crystal Ball: Handy for glimpsing the future. And also shaving.
+            Celestial Spyglass: I like gazing at the heavens. To remember. And to forget...
+
+Slot 4:
+            Crumpled Chapbooks: At least they're written in full sentences.
+            Well-thumbed Tomes: I've lost count of how many times I've read these. Still just
+                                as magical.
+            Magical Miscellany: A spell for all situations. And my improvements in the margins.
+          The Annals of Karsus: You can trust me with this - you have my word.
+
+Slot 5:
+Boots of Ambiguous Enchantment: A little pick-me-up, for when any Weave will do...
+     Lonely Boot of Elven Kind: A snack-sized shoe for the wizard who travels light.
+   Boots of Very Fast Blinking: Blink and you'll miss me. But I'll always hit you.
+                Mystra's Grace: These were a gift from... well, never mind.
+
+Slot 6:
+                Cramped Jotter: Magical musings and mullings. Not my best handwriting.
+            Waterdhavian Quill: This was... well, it was expensive, let's leave it at that.
+          The Chosen's Earring: A symbol of Mystra's faith in me. Former faith, I suppose...
+                Wizard's Pouch: All manner of wizarding sundries. Pungent but powerful.
+</pre>
+</p>
+</details>
+<br>
+
 # Feats
 
-Unknown.
+This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
+
+<span class="featTableColumn">
+    <span class="featTableRowHeader">
+        <span class="featTableIcon1">
+            <span style="margin-left:8px;">**Feat**</span>
+        </span>
+        <span class="featTableEffect">
+            <span>**Effect**</span>
+        </span>
+        <span class="featTableSource">
+            <span>**Source**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (Gale)**If it's me or the realms - I'll save the realms every time.</span>Selflessness
+        </span>
+        <span class="featTableEffect">
+            <span>10% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Gale)**Their magic is strong, but our will is stronger!</span>Inspiring Leader
+        </span>
+        <span class="featTableEffect">
+            <span>25% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Long Studies Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Long Studies (Gale)**It's not as easy for me as a sorcerer or warlock. No offense, Wyll.</span>Long Studies
+        </span>
+        <span class="featTableEffect">
+            <span>20% Archmage's Insight</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Arcane Experience  Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Arcane Experience  (Gale)**I've had experiences that other wizards can only dream of.</span>Arcane Experience 
+        </span>
+        <span class="featTableEffect">
+            <span>40% Archmage's Insight</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Arcane Threads Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Arcane Threads (Gale)**You can't manipulate the entire Weave, merely a small piece of it.</span>Arcane Threads
+        </span>
+        <span class="featTableEffect">
+            <span>20% Netherese Orb</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Spools of Magic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Spools of Magic (Gale)**Maybe I was wrong, as rare of an event as that is. This power is strong!</span>Spools of Magic
+        </span>
+        <span class="featTableEffect">
+            <span>40% Netherese Orb</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Mage of Waterdeep Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Mage of Waterdeep (Gale)**It has a nice ring to it, don't you think? Gale of Waterdeep!</span>Mage of Waterdeep
+        </span>
+        <span class="featTableEffect">
+            <span>20% An Experienced Sage</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Sword Coast Sage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Sword Coast Sage (Gale)**One day, my name will be known up and down the Sword Coast!</span>Sword Coast Sage
+        </span>
+        <span class="featTableEffect">
+            <span>40% An Experienced Sage</span>
+        </span>
+        <span class="featTableSource">
+            <span>Patron: 5</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Netherese Teachings Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Netherese Teachings (Gale)**These are certainly things Elminster wouldn't have taught me...</span>Netherese Teachings
+        </span>
+        <span class="featTableEffect">
+            <span>40% All Second Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon4">
+            ![Neutral Good Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">**Neutral Good (Gale)**My mind can be changed. ...Sometimes.</span>Neutral Good
+        </span>
+        <span class="featTableEffect">
+            <span>Change Alignment to Neutral Good</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon4">
+            ![Skilled Evocation Icon](images/featicons/immolation.png)<span class="featTooltipContents">**Skilled Evocation (Gale)**Magic can be elegant, but sometimes, a good fireball is the answer.</span>Skilled Evocation
+        </span>
+        <span class="featTableEffect">
+            <span>1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span>Patron: 5</span>
+        </span>
+    </span>
+</span>
 
 # Legendaries
 
@@ -867,27 +1413,28 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Endless War (Gale) Icon](images/gale/2661.png) **Unlock Adventure: The Endless War (Gale)** (Complete Area 50)
+![The Endless War (Antrius) Icon](images/gale/2661.png) **Unlock Adventure: The Endless War (Antrius)** (Complete Area 50)
 > Defend Triboar from a Githyanki invasion.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![One With the Weave Icon](images/gale/22813.png) **Variant 1: One With the Weave** (Complete Area 75)
-> Gale starts in the formation. He can't be moved or removed.  
-> Only Gale and Champions buffed by Gale's Archmage's Insight can deal damage.  
-> Getting to know Gale: Gale increases the damage of Champions in the two columns in front of him. You can customize how this works with a specialization choice!
+![Mirror, Mirror Icon](images/gale/18671.png) **Variant 1: Mirror, Mirror** (Complete Area 75)
+> Antrius starts in the formation. He can be moved, but not removed.  
+> Two reflections of Antrius take up slots in the formation. These reflections are just that, and don't actually have any of Antrius' abilities.  
+> Getting to Know Antrius: Antrius is the most charming Bard in all the realms. Having 2 extra "copies" of him in your formation won't make this variant more challenging, right?
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Pawn to Cleric Four Icon](images/gale/22814.png) **Variant 2: Pawn to Cleric Four** (Complete Area 125)
-> Gale starts in the formation. He can be moved, but not removed.  
-> You may only use Champions with an Intelligence of 13 or higher, Heroes of Baldur's Gate affiliation members, and/or Absolute Adversaries affiliation members.  
-> Getting to know Gale: Gale's second specialization choice determines which heroes are best to solve the problem at hand.
+![A Timely Tune Icon](images/gale/18672.png) **Variant 2: A Timely Tune** (Complete Area 125)
+> Antrius starts in the formation. He can be moved, but not removed.  
+> Antrius starts out with Inspiring Song unlocked.  
+> After area 5, Champions' health is set to 1 and can not be healed above this.  
+> 1-3 Skeleton Archers spawn with each wave. These enemies attack random targets. They do not drop gold, or count towards quest progress.  
+> Getting to Know Antrius: Antrius provides temporary hit points to nearby allies, and if those allies have a high enough Charisma they can pass it on. Spread the hit points to the whole formation to survive!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Elminster's Errands Icon](images/gale/22815.png) **Variant 3: Elminster's Errands** (Complete Area 175)
-> Gale starts in the formation. He can be moved, but not removed.  
-> Elminster joins the formation. He distracts adjacent Champions with his stories, increasing their normal attack cooldowns by 3 seconds.  
-> You may only use the base 12 Core Champions and/or Champions that have been released in the last 3 years.  
-> Getting to know Gale: Gale is always available for any of his Mentor's patron challenges, even if the restrictions would say otherwise. Gale's buffs further increase as you complete Elminster Patron variants!
+![Pick Your Poison Icon](images/gale/18673.png) **Variant 3: Pick Your Poison** (Complete Area 175)
+> Antrius starts in the formation. He can be moved, but not removed.  
+> You can only use Champions who are Bards, or are Chaotic, or have a total ability score of 78 or lower.  
+> Getting to Know Antrius: Antrius' specializations allow him to increase his damage buff based on the other Champions in the formation. Pick a specialization and build your formation around it to maximize your damage!
 </div></div>
 
 # Other Champion Images

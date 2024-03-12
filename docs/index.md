@@ -21,7 +21,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Gale&nbsp;<span class="indexChampionTableNoLink">- Human Wizard of Absolute Adversaries (Guess)</span>
+                Gale&nbsp;<span class="indexChampionTableNoLink">- Human Wizard of Absolute Adversaries</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Greengrass - 3 April 2024</span>
