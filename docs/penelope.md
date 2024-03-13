@@ -17,24 +17,6 @@ Penelope is potentially a reworked champion in the Greengrass event on 3 April 2
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
-# Adventures and Variants
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Crypt of Legends (Penelope) Icon](images/reworks/1456.png) **Unlock Adventure: The Crypt of Legends (Penelope)** (Complete Area 50)
-> Pay respects to the heroes of olde during the Feast of the Moon.
-</div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Half-Empty Crypts Icon](images/reworks/9112.png) **Variant 1: Half-Empty Crypts** (Complete Area 75)
-> Grave Robbers spawn in each area While any Grave Robber remains alive, undead creatures move faster and deal more damage
-</div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Half-Full Outlook Icon](images/reworks/9113.png) **Variant 2: Half-Full Outlook** (Complete Area 125)
-> Awakened Cleaning Supplies spawn with each wave These magical cleaning supplies deal more damage and have hits-based health. Penelope can one-shot the cleaning supplies, and thus starts in the formation to help out (she can't be removed)
-</div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Half-Pint Friends Icon](images/reworks/9114.png) **Variant 3: Half-Pint Friends** (Complete Area 175)
-> Penelope starts in the formation and can not be moved or removed Penelope attacks a bit faster because she's very excited to make new friends Only Good Champions can be used
-</div></div>
 
 # Abilities
 
@@ -733,6 +715,25 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
+</div></div>
+
+# Adventures and Variants
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![The Crypt of Legends (Penelope) Icon](images/reworks/1456.png) **Unlock Adventure: The Crypt of Legends (Penelope)** (Complete Area 50)
+> Pay respects to the heroes of olde during the Feast of the Moon.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Half-Empty Crypts Icon](images/reworks/9112.png) **Variant 1: Half-Empty Crypts** (Complete Area 75)
+> Grave Robbers spawn in each area While any Grave Robber remains alive, undead creatures move faster and deal more damage
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Half-Full Outlook Icon](images/reworks/9113.png) **Variant 2: Half-Full Outlook** (Complete Area 125)
+> Awakened Cleaning Supplies spawn with each wave These magical cleaning supplies deal more damage and have hits-based health. Penelope can one-shot the cleaning supplies, and thus starts in the formation to help out (she can't be removed)
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Half-Pint Friends Icon](images/reworks/9114.png) **Variant 3: Half-Pint Friends** (Complete Area 175)
+> Penelope starts in the formation and can not be moved or removed Penelope attacks a bit faster because she's very excited to make new friends Only Good Champions can be used
 </div></div>
 
 # Formation

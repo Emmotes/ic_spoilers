@@ -17,24 +17,6 @@ Gromma is potentially a reworked champion in the The Great Modron March event on
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
-# Adventures and Variants
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Crypt of Legends (Gromma) Icon](images/reworks/1456.png) **Unlock Adventure: The Crypt of Legends (Gromma)** (Complete Area 50)
-> Pay respects to the heroes of olde during the Feast of the Moon.
-</div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Respectful Restraint Icon](images/reworks/1462.png) **Variant 1: Respectful Restraint** (Complete Area 75)
-> Ultimate attacks cannot be used Any attack with a cooldown of 5 seconds or less have an additional 3 second cooldown
-</div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Relentless Undead Icon](images/reworks/1463.png) **Variant 2: The Relentless Undead** (Complete Area 125)
-> Undead monsters have twice as much health as normal When an undead monster is reduced to 0 hit points, it is stunned for 10 seconds and then comes back to life with full health
-</div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![A Grand Nandventure Icon](images/reworks/1464.png) **Variant 3: A Grand Nandventure** (Complete Area 175)
-> Gromma Nander must always be in your formation Gromma has a 4x damage boost and her normal attack cooldown is reduced by 2 seconds
-</div></div>
 
 # Abilities
 
@@ -229,6 +211,25 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </pre>
 </p>
 </details>
+</div></div>
+
+# Adventures and Variants
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![The Crypt of Legends (Gromma) Icon](images/reworks/1456.png) **Unlock Adventure: The Crypt of Legends (Gromma)** (Complete Area 50)
+> Pay respects to the heroes of olde during the Feast of the Moon.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Respectful Restraint Icon](images/reworks/1462.png) **Variant 1: Respectful Restraint** (Complete Area 75)
+> Ultimate attacks cannot be used Any attack with a cooldown of 5 seconds or less have an additional 3 second cooldown
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![The Relentless Undead Icon](images/reworks/1463.png) **Variant 2: The Relentless Undead** (Complete Area 125)
+> Undead monsters have twice as much health as normal When an undead monster is reduced to 0 hit points, it is stunned for 10 seconds and then comes back to life with full health
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![A Grand Nandventure Icon](images/reworks/1464.png) **Variant 3: A Grand Nandventure** (Complete Area 175)
+> Gromma Nander must always be in your formation Gromma has a 4x damage boost and her normal attack cooldown is reduced by 2 seconds
 </div></div>
 
 # Formation
