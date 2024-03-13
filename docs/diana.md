@@ -4,6 +4,9 @@
     <span class="championPortraitsImage">
         ![PC Portrait for Diana](images/diana/portrait.png)Portait
     </span>
+    <span class="championPortraitsImage">
+        ![Model GIF of Diana](images/diana/model.gif)Model
+    </span>
 </span>
 
 # Diana
