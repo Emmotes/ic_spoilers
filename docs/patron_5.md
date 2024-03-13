@@ -17,6 +17,18 @@ When it comes to what the restrictions for Patron 5 will be - all we have to go 
 
 Justin mentioned the idea of the patron having a set of available champions that would change every month. Unfortunately - that is just talk at this point. There's no data to back that up yet.
 
+# Images
+
+## Portrait
+
+![Elminster Portrait](images/patron5/portrait.png)
+
+## Icons
+
+| Chest Icon | Currency Icon |
+|---|---|
+| ![Chest Icon](images/patron5/chest.png) | ![Currency Icon](images/patron5/currency.png) |
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
