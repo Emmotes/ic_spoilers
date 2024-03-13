@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Spelljammer Pilot Briv Portrait](images/skin_portraits/spelljammerpilotbriv.png)Spelljammer Pilot Briv
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spelljammer Pilot Briv Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">13 Mar 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Spelljammer Regis Portrait](images/skin_portraits/spelljammerregis.png)Spelljammer Regis
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spelljammer Regis Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">13 Mar 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Dragonborn Glitch Strongheart Portrait](images/skin_portraits/dragonbornglitchstrongheart.png)Dragonborn Glitch Strongheart
         </span>
         <span class="skinTableSource">

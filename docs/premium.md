@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Spelljammer Pilot Briv Skin & Feat Pack - $11.99  
-Date of release: 13 Mar 2024
-
-Contents:
-
-* Champion: `Briv Steelmarrow`
-* Skin: `Spelljammer Pilot Briv`
-* Feat: `Dost Thou Want To Fight?` (Briv)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Briv Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Spelljammer Regis Skin & Feat Pack - $11.99  
-Date of release: 13 Mar 2024
-
-Contents:
-
-* Champion: `Regis`
-* Skin: `Spelljammer Regis`
-* Feat: `Master's Precision` (Regis)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Regis Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Classic Displacer Beast Familiar Pack - $5.99  
 Date of release: 20 Mar 2024
 

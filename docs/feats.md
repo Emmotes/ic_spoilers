@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Briv</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Dost Thou Want To Fight? Icon](images/featicons/brivjester.png)<span class="featTooltipContents">**Dost Thou Want To Fight? (Briv)**Have at thee!</span>Dost Thou Want To Fight?
-        </span>
-        <span class="featTableEffect">
-            <span>+100% Taunt Effect of Mocking Cleave</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>13 Mar 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Regis</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Master's Precision (Regis)**Now I know your weak spot!</span>Master's Precision
-        </span>
-        <span class="featTableEffect">
-            <span>+20% Crit Chance</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>13 Mar 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Miria</span>
         </span>
         <span class="featTableIcon4">
