@@ -140,13 +140,83 @@ Please be aware that the developers recently removed most future skins from the 
             ![Aarakocra Glitch Orkira Portrait](images/skin_portraits/aarakocraglitchorkira.png)Aarakocra Glitch Orkira
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Aarakocra Glitch Orkira Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">24 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Mythic Diana
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mythic Diana Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">01 May 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Painted Tortle Gromma Portrait](images/skin_portraits/paintedtortlegromma.png)Painted Tortle Gromma
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Painted Tortle Gromma Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">01 May 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)High Harper Jaheira
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">High Harper Jaheira Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">08 May 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Plushie Evandra
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Plushie Evandra Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">15 May 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Plushie Nixie
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Plushie Nixie Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">15 May 2024</span>
         </span>
     </span>
     <span class="skinTableRow">
@@ -180,20 +250,6 @@ Please be aware that the developers recently removed most future skins from the 
     <span class="skinTableRow">
         <span class="skinTableIcon">
             ![Feywild Dungeon Master Portrait](images/skin_portraits/feywilddungeonmaster.png)Feywild Dungeon Master
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Painted Tortle Gromma Portrait](images/skin_portraits/paintedtortlegromma.png)Painted Tortle Gromma
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
