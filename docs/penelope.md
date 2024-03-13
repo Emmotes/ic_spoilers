@@ -2,7 +2,7 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![PC Portrait for Penelope](images/reworks/penelope.png)Portait
+        ![PC Portrait for Penelope](images/penelope/portrait.png)Portait
     </span>
 </span>
 
@@ -720,19 +720,19 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Crypt of Legends (Penelope) Icon](images/reworks/1456.png) **Unlock Adventure: The Crypt of Legends (Penelope)** (Complete Area 50)
+![The Crypt of Legends (Penelope) Icon](images/penelope/1456.png) **Unlock Adventure: The Crypt of Legends (Penelope)** (Complete Area 50)
 > Pay respects to the heroes of olde during the Feast of the Moon.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Half-Empty Crypts Icon](images/reworks/9112.png) **Variant 1: Half-Empty Crypts** (Complete Area 75)
+![Half-Empty Crypts Icon](images/penelope/9112.png) **Variant 1: Half-Empty Crypts** (Complete Area 75)
 > Grave Robbers spawn in each area While any Grave Robber remains alive, undead creatures move faster and deal more damage
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Half-Full Outlook Icon](images/reworks/9113.png) **Variant 2: Half-Full Outlook** (Complete Area 125)
+![Half-Full Outlook Icon](images/penelope/9113.png) **Variant 2: Half-Full Outlook** (Complete Area 125)
 > Awakened Cleaning Supplies spawn with each wave These magical cleaning supplies deal more damage and have hits-based health. Penelope can one-shot the cleaning supplies, and thus starts in the formation to help out (she can't be removed)
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Half-Pint Friends Icon](images/reworks/9114.png) **Variant 3: Half-Pint Friends** (Complete Area 175)
+![Half-Pint Friends Icon](images/penelope/9114.png) **Variant 3: Half-Pint Friends** (Complete Area 175)
 > Penelope starts in the formation and can not be moved or removed Penelope attacks a bit faster because she's very excited to make new friends Only Good Champions can be used
 </div></div>
 

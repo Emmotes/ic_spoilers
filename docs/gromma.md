@@ -2,7 +2,7 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![PC Portrait for Gromma](images/reworks/gromma.png)Portait
+        ![PC Portrait for Gromma](images/gromma/portrait.png)Portait
     </span>
 </span>
 
@@ -216,19 +216,19 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Crypt of Legends (Gromma) Icon](images/reworks/1456.png) **Unlock Adventure: The Crypt of Legends (Gromma)** (Complete Area 50)
+![The Crypt of Legends (Gromma) Icon](images/gromma/1456.png) **Unlock Adventure: The Crypt of Legends (Gromma)** (Complete Area 50)
 > Pay respects to the heroes of olde during the Feast of the Moon.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Respectful Restraint Icon](images/reworks/1462.png) **Variant 1: Respectful Restraint** (Complete Area 75)
+![Respectful Restraint Icon](images/gromma/1462.png) **Variant 1: Respectful Restraint** (Complete Area 75)
 > Ultimate attacks cannot be used Any attack with a cooldown of 5 seconds or less have an additional 3 second cooldown
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Relentless Undead Icon](images/reworks/1463.png) **Variant 2: The Relentless Undead** (Complete Area 125)
+![The Relentless Undead Icon](images/gromma/1463.png) **Variant 2: The Relentless Undead** (Complete Area 125)
 > Undead monsters have twice as much health as normal When an undead monster is reduced to 0 hit points, it is stunned for 10 seconds and then comes back to life with full health
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![A Grand Nandventure Icon](images/reworks/1464.png) **Variant 3: A Grand Nandventure** (Complete Area 175)
+![A Grand Nandventure Icon](images/gromma/1464.png) **Variant 3: A Grand Nandventure** (Complete Area 175)
 > Gromma Nander must always be in your formation Gromma has a 4x damage boost and her normal attack cooldown is reduced by 2 seconds
 </div></div>
 

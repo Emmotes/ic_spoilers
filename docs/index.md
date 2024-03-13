@@ -62,7 +62,7 @@ A list of champions that will be seeing reworks in upcoming events.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Penelope Portrait Icon](images/reworks/penelope.png)
+            ![Penelope Portrait Icon](images/penelope/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
@@ -81,7 +81,7 @@ A list of champions that will be seeing reworks in upcoming events.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Gromma Nander Portrait Icon](images/reworks/gromma.png)
+            ![Gromma Nander Portrait Icon](images/gromma/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
@@ -97,7 +97,7 @@ A list of champions that will be seeing reworks in upcoming events.
 {:/nomarkdown}
     <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
-            ![Rosie Beestinger Portrait Icon](images/reworks/rosie.png)
+            ![Rosie Beestinger Portrait Icon](images/rosie/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
