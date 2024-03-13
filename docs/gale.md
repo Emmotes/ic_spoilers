@@ -55,7 +55,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
             <span style="margin-left:8px;">-</span>
         </span>
         <span class="champStatsTablePatrons">
-            <span style="margin-left:8px;">-</span>
+            <span style="margin-left:8px;">Mirt (with Feat)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
