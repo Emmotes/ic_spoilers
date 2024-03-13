@@ -117,11 +117,72 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown**
+**Electrum Scavenger** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 23214,
+    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y7/Icon_Formation_Diana_ElectrumChestScavenger",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Javelin Staff** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23215,
+    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y7/Icon_Formation_Diana_JavelinStaff",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**We'll Be Right Back** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23216,
+    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y7/Icon_Formation_Diana_WellBeRightBack",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
 </pre>
 </p>
 </details>
@@ -129,7 +190,130 @@ Unknown.
 
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Acrobatic Assault** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23238,
+    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y7/Icon_Specialization_Diana_AcrobaticAssault",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Ensemble Cast** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23239,
+    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y7/Icon_Specialization_Diana_EnsembleCast",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Fledgling Fury** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23240,
+    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y7/Icon_Specialization_Diana_FledglingFury",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Modest Might** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23241,
+    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y7/Icon_Specialization_Diana_ModestMight",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Spotlight Episode** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23242,
+    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y7/Icon_Specialization_Diana_SpotlightEpisode",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
