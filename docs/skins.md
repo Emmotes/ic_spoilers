@@ -95,7 +95,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Dwarf Glitch Catti-brie
+            ![Dwarf Glitch Catti-brie Portrait](images/skin_portraits/dwarfglitchcattibrie.png)Dwarf Glitch Catti-brie
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Dwarf Glitch Catti-brie Skin & Feat Pack</span>
@@ -109,7 +109,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Dwarf Glitch Wulfgar
+            ![Dwarf Glitch Wulfgar Portrait](images/skin_portraits/dwarfglitchwulfgar.png)Dwarf Glitch Wulfgar
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Dwarf Glitch Wulfgar Skin & Feat Pack</span>
@@ -151,7 +151,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Plushie Antrius
+            ![Plushie Antrius Portrait](images/skin_portraits/plushieantrius.png)Plushie Antrius
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Plushie Antrius Skin & Feat Pack</span>
@@ -166,6 +166,62 @@ Please be aware that the developers recently removed most future skins from the 
     <span class="skinTableRow">
         <span class="skinTableIcon">
             ![Aarakocra Glitch Orkira Portrait](images/skin_portraits/aarakocraglitchorkira.png)Aarakocra Glitch Orkira
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Cunning Dark Urge Portrait](images/skin_portraits/cunningdarkurge.png)Cunning Dark Urge
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Dark Mage Dungeon Master Portrait](images/skin_portraits/darkmagedungeonmaster.png)Dark Mage Dungeon Master
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Feywild Dungeon Master Portrait](images/skin_portraits/feywilddungeonmaster.png)Feywild Dungeon Master
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Painted Tortle Gromma Portrait](images/skin_portraits/paintedtortlegromma.png)Painted Tortle Gromma
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
