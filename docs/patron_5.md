@@ -34,6 +34,12 @@ Justin mentioned the idea of the patron having a set of available champions that
 | Item | Currency Cost | Influence Min | Limits |
 |---|--:|--:|---|
 | 1 Elminster Patron Chest | 5,000 | - | - |
+| 3 Elminster Patron Chests | $5.99 | - | - |
+| 7 Elminster Patron Chests | $11.99 | - | - |
+| 16 Elminster Patron Chests | $22.99 | - | - |
+| 42 Elminster Patron Chests | $54.99 | - | - |
+| Elminster Starter Pack | $27.99 | - | Once-Only |
+| Skin: Dark Mage Dungeon Master (DM) | $11.99 | - | Once-Only |
 | Time Gate Piece | 2,500 | 25,000 | Per Week: 1 |
 | Potion of Specialization | 5,000 | 50,000 | - |
 | Huge Potion of Giant's Strength | 2,000 | 500,000 | Per Week: 2 |

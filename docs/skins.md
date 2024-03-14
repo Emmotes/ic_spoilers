@@ -73,7 +73,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-left: 8px;">Patron 5 Shop</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???: {patron_id=5, patron_shop_item_id=128}</span>
+            <span style="margin-right: 8px;">11.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">03 Apr 2024</span>
