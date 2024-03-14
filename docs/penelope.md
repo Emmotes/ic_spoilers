@@ -69,7 +69,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Insect Plague** (Guess)
-> Upon entering an area, Penelope summons 4 medium-sized, randomly positioned Insect Swarms on the enemy's side of the battlefield. Enemies who are in a Swarm are slowed by 100% and are afflicted by the Have You Met My Friends debuff. The slow effect can stack multiplicatively if an enemy is inside multiple Swarms. Every second an enemy is in a swarm, it's slowing effect is reduced by 1%. When the slow effect reaches 40%, the swarm is dispersed and disappears.
+> Upon entering an area, Penelope summons 4 medium-sized, randomly positioned Insect Swarms on the enemy's side of the battlefield. Enemies who are in a Swarm are slowed by 100% and are afflicted by the Have You Met My Friends debuff. The slow effect can stack multiplicatively if an enemy is inside multiple Swarms. Every second an enemy is in a swarm, its slowing effect is reduced by 1%. When the slow effect reaches 40%, the swarm is dispersed and disappears.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -77,15 +77,22 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1906,
     "flavour_text": "",
     "description": {
-        "desc": "Upon entering an area, Penelope summons 4 medium-sized, randomly positioned Insect Swarms on the enemy's side of the battlefield. Enemies who are in a Swarm are slowed by $(amount)% and are afflicted by the Have You Met My Friends debuff. The slow effect can stack multiplicatively if an enemy is inside multiple Swarms. Every second an enemy is in a swarm, it's slowing effect is reduced by $(slow_reduction_per_second)%. When the slow effect reaches $(min_slow_amount)%, the swarm is dispersed and disappears."
+        "desc": "Upon entering an area, Penelope summons 4 medium-sized, randomly positioned Insect Swarms on the enemy's side of the battlefield. Enemies who are in a Swarm are slowed by $(amount)% and are afflicted by the Have You Met My Friends debuff. The slow effect can stack multiplicatively if an enemy is inside multiple Swarms. Every second an enemy is in a swarm, its slowing effect is reduced by $(slow_reduction_per_second)%. When the slow effect reaches $(min_slow_amount)%, the swarm is dispersed and disappears."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_insect_plague,100",
-            "slow_reduction_per_second": 1,
+            "spawn_rect": [
+                0,
+                0,
+                0.66,
+                0.05
+            ],
+            "default_slow_amount": 100,
             "min_slow_amount": 40,
+            "slow_reduction_per_second": 1,
             "aoe_radius": 150,
             "debuff_effects": [
                 {
@@ -99,8 +106,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_insect_plague,100",
-            "slow_reduction_per_second": 1,
+            "spawn_rect": [
+                0,
+                0.05,
+                0.66,
+                0.5
+            ],
+            "default_slow_amount": 100,
             "min_slow_amount": 40,
+            "slow_reduction_per_second": 1,
             "aoe_radius": 150,
             "debuff_effects": [
                 {
@@ -114,8 +128,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_insect_plague,100",
-            "slow_reduction_per_second": 1,
+            "spawn_rect": [
+                0,
+                0.5,
+                0.66,
+                0.95
+            ],
+            "default_slow_amount": 100,
             "min_slow_amount": 40,
+            "slow_reduction_per_second": 1,
             "aoe_radius": 150,
             "debuff_effects": [
                 {
@@ -129,8 +150,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_insect_plague,100",
-            "slow_reduction_per_second": 1,
+            "spawn_rect": [
+                0,
+                0.95,
+                0.66,
+                1
+            ],
+            "default_slow_amount": 100,
             "min_slow_amount": 40,
+            "slow_reduction_per_second": 1,
             "aoe_radius": 150,
             "debuff_effects": [
                 {
@@ -167,7 +195,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1907,
     "flavour_text": "",
     "description": {
-        "desc": "When any enemy enters one of Penelope's Insect Swarms, Penelope dons her chwinga mask, calling an elemental friend to her aid. It sits on her shoulder while her mask is on. All Champions adjacent to Penelope gain the following charm(s) based on their tags. Charms last until the party changes areas."
+        "pre": "When any enemy enters one of Penelope's Insect Swarms, Penelope dons her chwinga mask, calling an elemental friend to her aid. It sits on her shoulder while her mask is on. All Champions adjacent to Penelope gain the following charm(s) based on their tags. Charms last until the party changes areas.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not short_form",
+                    "desc": "^^Healing Charm: Penelope heals affected Champions for $(amount___2) HP every second.^^Tools for the Job Charm: Penelope increases the damage of all Champions by $(not_buffed amount___3) for each Champion affected by this charm. This effect stacks multiplicatively."
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -313,7 +349,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Story Time** (Guess)
-> Each time a Champion adjacent to Penelope attacks, add a stack of Story Time. The party's gold find is increased by 1% for each stack of Story Time, stacking additively. Story Time stacks are capped at 1000000000. Whenever a boss enemy enters an Insect Swarm, the number of Story Time stacks are increased by 10%.
+> Each time a Champion adjacent to Penelope attacks, add a stack of Story Time. The party's gold find is increased by 1% for each stack of Story Time, stacking additively. Story Time stacks are capped at 1000000000. Whenever a boss enemy enters an Insect Swarm, the number of Story Time stacks are increased by 2.5%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -327,7 +363,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "gold_multiplier_mult,1",
             "max_stacks": 1000000000,
-            "boss_percent": 10,
+            "boss_percent": 2.5,
             "more_triggers": [
                 {
                     "trigger": "on_broadcast_stacks,penelope_adj_attack",
@@ -339,7 +375,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "trigger": "on_broadcast_stacks,penelope_boss_entered_swarm",
                     "action": {
                         "type": "add_percent",
-                        "percent": 10
+                        "percent": 2.5
                     }
                 }
             ],
@@ -559,6 +595,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "type": "upgrade",
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
@@ -588,6 +625,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
+            "spawn_rect": [
+                0,
+                0,
+                0.66,
+                0.25
+            ],
+            "default_slow_amount": 100,
             "aoe_radius": 100,
             "seconds_of_bud": 15,
             "debuff_effects": [
@@ -602,6 +646,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
+            "spawn_rect": [
+                0,
+                0.25,
+                0.66,
+                0.5
+            ],
+            "default_slow_amount": 100,
             "aoe_radius": 100,
             "seconds_of_bud": 15,
             "debuff_effects": [
@@ -616,6 +667,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
+            "spawn_rect": [
+                0,
+                0.5,
+                0.66,
+                0.75
+            ],
+            "default_slow_amount": 100,
             "aoe_radius": 100,
             "seconds_of_bud": 15,
             "debuff_effects": [
@@ -630,6 +688,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
+            "spawn_rect": [
+                0,
+                0.75,
+                0.66,
+                1
+            ],
+            "default_slow_amount": 100,
             "aoe_radius": 100,
             "seconds_of_bud": 15,
             "debuff_effects": [
@@ -646,6 +711,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "type": "upgrade",
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
@@ -680,6 +746,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "type": "upgrade",
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
@@ -739,7 +806,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Formation
 
 <span class="formationBorder">
-    <svg xmlns="http://www.w3.org/2000/svg" id="Penelope" fill="#aaa" data-formationName="Penelope" data-campaignName="Feast of the Moon" width="338" height="140"><circle cx="175" cy="85" r="15"/><circle cx="135" cy="25" r="15"/><circle cx="135" cy="65" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="85" r="15"/><circle cx="95" cy="125" r="15"/><circle cx="55" cy="65" r="15"/><circle cx="55" cy="105" r="15"/><circle cx="15" cy="85" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Penelope</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Feast of the Moon</text></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" id="Penelope" fill="#aaa" data-formationName="Penelope" data-campaignName="Greengrass" width="321" height="140"><circle cx="175" cy="85" r="15"/><circle cx="135" cy="25" r="15"/><circle cx="135" cy="65" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="85" r="15"/><circle cx="95" cy="125" r="15"/><circle cx="55" cy="65" r="15"/><circle cx="55" cy="105" r="15"/><circle cx="15" cy="85" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Penelope</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Greengrass</text></svg>
 </span>
 
 [Back to Top](#top)
