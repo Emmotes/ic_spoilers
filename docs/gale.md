@@ -1386,7 +1386,7 @@ This list will only show feats that are going to be available on the release of 
             <span>1s BUD per sec for 5s</span>
         </span>
         <span class="featTableSource">
-            <span>???: {event=9}</span>
+            <span>Event Bonus</span>
         </span>
     </span>
 </span>
