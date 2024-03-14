@@ -42,18 +42,18 @@ Justin mentioned the idea of the patron having a set of available champions that
 | Huge Potion of Fire Breath | 2,000 | 1,500,000 | Per Week: 2 |
 | Huge Potion of Speed | 2,000 | 1,500,000 | Per Week: 2 |
 | Modron Component Chest | 5,000 | 3,000,000 | Per Week: 1 |
-| Rare Feat - All Grown Up | 10,000 | 5,000,000 | Once-Only |
+| Feat: All Grown Up (DM) | 10,000 | 5,000,000 | Once-Only |
 | Potion of Polish | 25,000 | 5,000,000 | Once-Only |
-| Rare Feat - Sword Coast Sage | 10,000 | 5,000,000 | Once-Only |
-| Epic Feat - Immolation | 25,000 | 5,000,000 | Once-Only |
-| Prismatic Will'o'wisp | 50,000 | 5,000,000 | Once-Only |
-| Dark Urge Skin | 20,000 | 5,000,000 | Once-Only |
+| Feat: Sword Coast Sage (Gale) | 10,000 | 5,000,000 | Once-Only |
+| Feat: Immolation (Gale) | 25,000 | 5,000,000 | Once-Only |
+| Familiar: Prismatic Will-o-'Wisp | 50,000 | 5,000,000 | Once-Only |
+| Skin: Cunning Dark Urge (Dark Urge) | 20,000 | 5,000,000 | Once-Only |
 | 2x Support Pigment | 25,000 | 5,000,000 | Once-Only |
-| Casual Gale | 20,000 | 5,000,000 | Once-Only |
-| Rare Feat - Diverging Paths | 10,000 | 5,000,000 | Once-Only |
-| Epic Feat - Never Late | 25,000 | 5,000,000 | Once-Only |
+| Skin: Casual Gale | 20,000 | 5,000,000 | Once-Only |
+| Feat: Diverging Paths (Dark Urge) | 10,000 | 5,000,000 | Once-Only |
+| Feat: Never Late (DM) | 25,000 | 5,000,000 | Once-Only |
 | Golden Epic Potion | 25,000 | 5,000,000 | Once-Only |
-| Feywild Dungeon Master | 20,000 | 5,000,000 | Once-Only |
+| Skin: Feywild Dungeon Master (DM) | 20,000 | 5,000,000 | Once-Only |
 
 [Back to Top](#top)
 
