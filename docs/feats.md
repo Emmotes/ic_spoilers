@@ -70,7 +70,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![All Grown Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**All Grown Up (DM)**Ah, time flows yet again.</span>All Grown Up
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>+5 Years Limit to Patience Young Ones</span>
         </span>
         <span class="featTableSource">
             <span>Patron: 5</span>
@@ -87,7 +87,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Never Late Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Never Late (DM)**A Dungeon Master appears when they mean to!</span>Never Late
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>80% Disappearing Act</span>
         </span>
         <span class="featTableSource">
             <span>Patron: 5</span>
@@ -135,10 +135,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Gale</span>
         </span>
         <span class="featTableIcon4">
-            ![Neutral Good Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">**Neutral Good (Gale)**My mind can be changed. ...Sometimes.</span>Neutral Good
+            ![Netherese Knowledge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Netherese Knowledge (Gale)**The risk is worth the reward. This could be just what we need to save everyone!</span>Netherese Knowledge
         </span>
         <span class="featTableEffect">
-            <span>Change Alignment to Neutral Good</span>
+            <span>80% All Second Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -155,7 +155,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Aasimar Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Aasimar Glitch (Penelope)**LOOK HOW COLORFUL I AM!</span>Aasimar Glitch
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Counts as Aasimar & +20% to Unknown per Good</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -166,13 +166,30 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Astarion</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Astarion)**Fine, I'll lead - but all of you need to be more stealthy!</span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>08 Apr 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Catti-brie</span>
         </span>
         <span class="featTableIcon4">
             ![Dwarf Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Dwarf Glitch (Catti-brie)**Aye, what's this?</span>Dwarf Glitch
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Counts as Dwarf & +20% to Push Forward per Dwarf</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -189,7 +206,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Dwarf Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Dwarf Glitch (Wulfgar)**...I should be taller.</span>Dwarf Glitch
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Counts as Dwarf & +5% to Clangeddin's Will per Dwarf</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -257,7 +274,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Aarakocra Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Aarakocra Glitch (Orkira)**Look at my WINGS!</span>Aarakocra Glitch
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Counts as Aarakocra & Change Alignment to Lawful Evil</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>

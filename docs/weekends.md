@@ -12,6 +12,11 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 | Heart of Iron | 22 Mar | **Karlach** | Nayeli | Makos | Widdle | Shadowheart | Golden Epic |
 | Wise Friends | 29 Mar | **Fen** | Celeste | Jamilah | Valentine | Tatyana | Golden Epic |
 | Friendly | 05 Apr | **Penelope** | Tyril | Jarlaxle | Hew Maan | Aila | Golden Epic |
+| Archmage's | 12 Apr | **Gale** | Asharra | Makos | Lae'zel | Astarion | Golden Epic |
+| Rashemen Travel | 19 Apr | **Dynaheir** | Minsc | Bruenor | Antrius | Wyll | Golden Epic |
+| Shar's Darkness | 26 Apr | **Viconia** | Celeste | Nayeli | Imoen | Shadowheart | Golden Epic |
+| We'll Be Right Back | 03 May | **Diana** | Arkhan | Calliope | DM | Presto | Golden Epic |
+| Ocean Waves | 10 May | **Gromma** | Hitch | Jarlaxle | Evandra | Nordom | Golden Epic |
 
 [Back to Top](#top)
 

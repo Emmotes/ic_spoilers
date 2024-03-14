@@ -101,7 +101,7 @@ Contents:
 * Skin: `Mind Flayer Gale`
 * Feat: `Netherese Knowledge` (Gale)
 * Familiar: `Tara the Tressym`
-* Chests: `Gold  Y7E10 Chest` x16 (Shinies x2)
+* Chests: `Gold  Gale Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
@@ -270,7 +270,7 @@ Contents:
 * Champion: `Diana`
 * Skin: `Mythic Diana`
 * Feat: ???
-* Familiar: `TBD Diana Familiar (DO NOT TRANSLATE)`
+* Familiar: `Animated Staff`
 * Chests: `Gold  Y7E11 Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
@@ -285,7 +285,7 @@ Contents:
 * Champion: `Gromma Nander`
 * Skin: `Painted Tortle Gromma`
 * Feat: ???
-* Familiar: `TBD Gromma Familiar (DO NOT TRANSLATE)`
+* Familiar: `Smudge the Painted Turtle`
 * Chests: `Gold Gromma Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
@@ -299,7 +299,7 @@ Contents:
 
 * Champion: `Nordom Whistleklik`
 * Skin: ???
-* Skin: `Cunning Dark Urge`
+* Skin: ???
 * Feat: `Greater Order` (Nordom)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6

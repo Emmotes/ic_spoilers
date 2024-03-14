@@ -53,6 +53,48 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Cunning Dark Urge Portrait](images/skin_portraits/cunningdarkurge.png)Cunning Dark Urge
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???: {patron_id=5, patron_shop_item_id=142}</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Dark Mage Dungeon Master Portrait](images/skin_portraits/darkmagedungeonmaster.png)Dark Mage Dungeon Master
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???: {patron_id=5, patron_shop_item_id=128}</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Feywild Dungeon Master Portrait](images/skin_portraits/feywilddungeonmaster.png)Feywild Dungeon Master
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???: {patron_id=5, patron_shop_item_id=148}</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Mind Flayer Gale Portrait](images/skin_portraits/mindflayergale.png)Mind Flayer Gale
         </span>
         <span class="skinTableSource">
@@ -217,48 +259,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">15 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Cunning Dark Urge Portrait](images/skin_portraits/cunningdarkurge.png)Cunning Dark Urge
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Dark Mage Dungeon Master Portrait](images/skin_portraits/darkmagedungeonmaster.png)Dark Mage Dungeon Master
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Feywild Dungeon Master Portrait](images/skin_portraits/feywilddungeonmaster.png)Feywild Dungeon Master
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
 </span>
