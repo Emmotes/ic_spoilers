@@ -361,7 +361,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </details>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Gale's Gale Icon](images/gale/icon_galesgale.png) **Ultimate Attack: Gale's Gale** (Level: 30)
+![Gale's Gale Icon](images/gale/icon_galesgale.png) **Ultimate Attack: Gale's Gale** (Level: 170)
 > Gale casts Gust of Wind, knocking back all enemies, dealing ultimate damage and slowing them for 15 seconds.  
 > Cooldown: 330s (Cap 82.5s)
 <details><summary><em>Raw Data</em></summary>
@@ -376,7 +376,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
     "target": "all",
     "num_targets": 1,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "cooldown": 330,
     "animations": [
         {
@@ -487,15 +487,35 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Archmage's Insight Icon](images/gale/icon_archmagesinsight.png) **Archmage's Insight** (Level: 5)
+![Archmage's Insight Icon](images/gale/icon_archmagesinsight.png) **Archmage's Insight** (Level: 50)
 > Gale increases the damage of Champions in the two columns in front of him by 100%.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       35: 100%
+      200: 100%
+      280: 100%
+      400: 100%
+      500: 100%
+      600: 100%
+      700: 100%
+      820: 100%
+      940: 100%
+    1,050: 100%
+    1,170: 100%
+    1,280: 100%
+    1,400: 100%
+    1,500: 100%
+    1,620: 100%
+    1,730: 100%
+    1,850: 100%
+    1,960: 100%
+    2,070: 100%
+    2,190: 100%
+    2,270: 100%
+    2,350: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 2.10e08%
 </pre>
 </p>
 </details>
@@ -505,7 +525,7 @@ Upgrades:
 {
     "id": 14571,
     "hero_id": 147,
-    "required_level": 5,
+    "required_level": 50,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1892",
@@ -554,25 +574,15 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Netherese Orb Icon](images/gale/icon_nethereseorb.png) **Netherese Orb** (Level: 10)
+![Netherese Orb Icon](images/gale/icon_nethereseorb.png) **Netherese Orb** (Level: 100)
 > The first time Gale damages any enemy, they take 1000% additional damage from all subsequent attacks.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       40: 100%
-
-    Total Upgrade Bonus: 100%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 14572,
     "hero_id": 147,
-    "required_level": 10,
+    "required_level": 100,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1893",
@@ -629,25 +639,37 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![An Experienced Sage Icon](images/gale/icon_anexperiencedsage.png) **An Experienced Sage** (Level: 15)
-> Gale increases the effect of Archmage's Insight by 10% for each Elminster Patron variant you have completed, stacking multiplicatively.
-<details><summary><em>Upgrade Data</em></summary>
+![Gale's Gale Icon](images/gale/icon_galesgale.png) **Gale's Gale** (Level: 170)
+> Unknown Effect.
+<details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
-Upgrades:
-       45: 100%
-
-    Total Upgrade Bonus: 100%
+{
+    "id": 14581,
+    "hero_id": 147,
+    "required_level": 170,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ultimate",
+    "effect": "set_ultimate_attack",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Gale's Gale"
+}
 </pre>
 </p>
 </details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![An Experienced Sage Icon](images/gale/icon_anexperiencedsage.png) **An Experienced Sage** (Level: 430)
+> Gale increases the effect of Archmage's Insight by 10% for each Elminster Patron variant you have completed, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 14573,
     "hero_id": 147,
-    "required_level": 15,
+    "required_level": 430,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1894",
@@ -667,7 +689,7 @@ Upgrades:
             "show_bonus": true,
             "amount_func": "mult",
             "stack_func": "per_patron_variant_complete",
-            "patron_id": 1,
+            "patron_id": 5,
             "stack_title": "Elminster Patron Variants Complete"
         }
     ],
@@ -683,32 +705,10 @@ Upgrades:
 </details>
 </div></div>
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Gale's Gale Icon](images/gale/icon_galesgale.png) **Gale's Gale** (Level: 30)
-> Unknown Effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 14581,
-    "hero_id": 147,
-    "required_level": 30,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ultimate",
-    "effect": "set_ultimate_attack",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "Gale's Gale"
-}
-</pre>
-</p>
-</details>
-</div></div>
-
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Abjuration Icon](images/gale/icon_abjuration.png) **Abjuration** (Level: 20)
+![Abjuration Icon](images/gale/icon_abjuration.png) **Abjuration** (Level: 140)
 > Attacks against Champions miss 50% of the time.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -716,7 +716,7 @@ Upgrades:
 {
     "id": 14575,
     "hero_id": 147,
-    "required_level": 20,
+    "required_level": 140,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1896",
@@ -756,15 +756,15 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Enchantment Icon](images/gale/icon_enchantment.png) **Enchantment** (Level: 20)
-> Increase Archmage's Insight's number of columns by one.
+![Enchantment Icon](images/gale/icon_enchantment.png) **Enchantment** (Level: 140)
+> Increases Archmage's Insight's number of columns by one.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 14576,
     "hero_id": 147,
-    "required_level": 20,
+    "required_level": 140,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1897",
@@ -779,7 +779,7 @@ Upgrades:
     "id": 1897,
     "flavour_text": "",
     "description": {
-        "desc": "Increase Archmage's Insight's number of columns by one."
+        "desc": "Increases Archmage's Insight's number of columns by one."
     },
     "effect_keys": [
         {
@@ -794,7 +794,8 @@ Upgrades:
     "properties": {
         "is_formation_ability": true,
         "type": "upgrade",
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -803,7 +804,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Evocation Icon](images/gale/icon_evocation.png) **Evocation** (Level: 20)
+![Evocation Icon](images/gale/icon_evocation.png) **Evocation** (Level: 140)
 > Gale's Fire Bolt deals damage to all enemies in a small area.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -811,7 +812,7 @@ Upgrades:
 {
     "id": 14574,
     "hero_id": 147,
-    "required_level": 20,
+    "required_level": 140,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1895",
@@ -849,7 +850,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Illusion Icon](images/gale/icon_illusion.png) **Illusion** (Level: 20)
+![Illusion Icon](images/gale/icon_illusion.png) **Illusion** (Level: 140)
 > Archmage's Insight now affects his column and the column behind, and enemies that attempt to choose Gale as a target instead choose to attack another Champion, assuming another valid target exists.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -857,7 +858,7 @@ Upgrades:
 {
     "id": 14577,
     "hero_id": 147,
-    "required_level": 20,
+    "required_level": 140,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1898",
@@ -888,7 +889,10 @@ Upgrades:
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -897,25 +901,15 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Ceremorphosis Icon](images/gale/icon_ceremorphosis.png) **Ceremorphosis** (Level: 25)
+![Ceremorphosis Icon](images/gale/icon_ceremorphosis.png) **Ceremorphosis** (Level: 250)
 > Your formation gains one Ceremorphosis stack due to the mind flayer tadpole in Gale's brain. Gale increases the damage of Netherese Orb by 100% for each Ceremorphosis stack, stacking multiplicatively.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       50: 100%
-
-    Total Upgrade Bonus: 100%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 14578,
     "hero_id": 147,
-    "required_level": 25,
+    "required_level": 250,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1899",
@@ -981,25 +975,15 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Finite Fellowship Icon](images/gale/icon_finitefellowship.png) **Finite Fellowship** (Level: 25)
+![Finite Fellowship Icon](images/gale/icon_finitefellowship.png) **Finite Fellowship** (Level: 250)
 > Gale increases the effect of Netherese Orb by 7.5% for each Champion you have unlocked that is not eligible for the current adventure, stacking multiplicatively.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       50: 100%
-
-    Total Upgrade Bonus: 100%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 14580,
     "hero_id": 147,
-    "required_level": 25,
+    "required_level": 250,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1901",
@@ -1048,25 +1032,15 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Mystical Mentor Icon](images/gale/icon_mysticalmentor.png) **Mystical Mentor** (Level: 25)
+![Mystical Mentor Icon](images/gale/icon_mysticalmentor.png) **Mystical Mentor** (Level: 250)
 > Gale increases the effect of Netherese Orb by 100% for each Champion in the formation with an Intelligence of 13 or higher, stacking multiplicatively.
-<details><summary><em>Upgrade Data</em></summary>
-<p>
-<pre>
-Upgrades:
-       50: 100%
-
-    Total Upgrade Bonus: 100%
-</pre>
-</p>
-</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 14579,
     "hero_id": 147,
-    "required_level": 25,
+    "required_level": 250,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1900",
@@ -1134,7 +1108,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Fond Memories Icon](images/gale/22803.png)<span class="itemTooltipContents">**Fond Memories**Even at my lowest, playing with Tara lifted my spirits...</span></span><span class="itemTableIcon2">![Ball of Retrieval Icon](images/gale/22803.png)<span class="itemTooltipContents">**Ball of Retrieval**...though the ball's purpose eldued her. I was always the one fetching it...</span></span><span class="itemTableIcon3">![Cat Flap of Displacement Icon](images/gale/22804.png)<span class="itemTooltipContents">**Cat Flap of Displacement**Tara comes and goes as she pleases. But she's always pleased to help me.</span></span><span class="itemTableIcon4">![Ring of Evasion Icon](images/gale/22805.png)<span class="itemTooltipContents">**Ring of Evasion**A ring as evasive as Tara, when I asked how she obtained it...</span></span><span class="itemTableGE">&nbsp;</span>
+            <span class="itemTableIcon1">![Fond Memories Icon](images/gale/22803.png)<span class="itemTooltipContents">**Fond Memories**Even at my lowest, playing with Tara lifted my spirits...</span></span><span class="itemTableIcon2">![Ball of Retrieval Icon](images/gale/22803.png)<span class="itemTooltipContents">**Ball of Retrieval**...though the ball's purpose eluded her. I was always the one fetching it...</span></span><span class="itemTableIcon3">![Cat Flap of Displacement Icon](images/gale/22804.png)<span class="itemTooltipContents">**Cat Flap of Displacement**Tara comes and goes as she pleases. But she's always pleased to help me.</span></span><span class="itemTableIcon4">![Ring of Evasion Icon](images/gale/22805.png)<span class="itemTooltipContents">**Ring of Evasion**A ring as evasive as Tara, when I asked how she obtained it...</span></span><span class="itemTableGE">&nbsp;</span>
         </span>
         <span class="itemTableSlot">
             <span>1</span>
@@ -1148,13 +1122,13 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![These Old Things Icon](images/gale/22800.png)<span class="itemTooltipContents">**These Old Things**Comfortable, practical, and relatively unsinged.</span></span><span class="itemTableIcon2">![Wizarding Robes Icon](images/gale/22800.png)<span class="itemTooltipContents">**Wizarding Robes**Not as flashy as Elminster's, but at least they've plenty of pockets.</span></span><span class="itemTableIcon3">![Robes of Increased Potency Icon](images/gale/22801.png)<span class="itemTooltipContents">**Robes of Increased Potency**I could get used to these. Elegant, but powerful - just like Tara.</span></span><span class="itemTableIcon4">![Arch-mage's Accoutrements Icon](images/gale/22802.png)<span class="itemTooltipContents">**Arch-mage's Accoutrements**Incredible! Every stitch is infused with Weave. Like wearing magic itself...</span></span>
+            <span class="itemTableIcon1">![These Old Things Icon](images/gale/22800.png)<span class="itemTooltipContents">**These Old Things**Comfortable, practical, and relatively unsinged.</span></span><span class="itemTableIcon2">![Wizarding Robes Icon](images/gale/22800.png)<span class="itemTooltipContents">**Wizarding Robes**Not as flashy as Elminster's, but at least they've plenty of pockets.</span></span><span class="itemTableIcon3">![Robes of Increased Potency Icon](images/gale/22801.png)<span class="itemTooltipContents">**Robes of Increased Potency**I could get used to these. Elegant, but powerful - just like Tara.</span></span><span class="itemTableIcon4">![Archmage's Accoutrements Icon](images/gale/22802.png)<span class="itemTooltipContents">**Archmage's Accoutrements**Incredible! Every stitch is infused with Weave. Like wearing magic itself...</span></span>
         </span>
         <span class="itemTableSlot">
             <span>2</span>
         </span>
         <span class="itemTableName">
-            Arch-mage's Accoutrements
+            Archmage's Accoutrements
         </span>
         <span class="itemTableEffect">
             <span>Archmage's Insight</span>
@@ -1190,7 +1164,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Boots of Ambiguous Enchantment Icon](images/gale/22791.png)<span class="itemTooltipContents">**Boots of Ambiguous Enchantment**A little pick-me-up, for when any Weave will do...</span></span><span class="itemTableIcon2">![Lonely Boot of Elven Kind Icon](images/gale/22791.png)<span class="itemTooltipContents">**Lonely Boot of Elven Kind**A snack-sized shoe for the wizard who travels light.</span></span><span class="itemTableIcon3">![Boots of Very Fast Blinking Icon](images/gale/22792.png)<span class="itemTooltipContents">**Boots of Very Fast Blinking**Blink and you'll miss me. But I'll always hit you.</span></span><span class="itemTableIcon4">![Mystra's Grace Icon](images/gale/22793.png)<span class="itemTooltipContents">**Mystra's Grace**These were a gift from... well, never mind.</span></span>
+            <span class="itemTableIcon1">![Boots of Ambiguous Enchantment Icon](images/gale/22791.png)<span class="itemTooltipContents">**Boots of Ambiguous Enchantment**A little pick-me-up, for when any Weave will do...</span></span><span class="itemTableIcon2">![Lonely Boot of Elvenkind Icon](images/gale/22791.png)<span class="itemTooltipContents">**Lonely Boot of Elvenkind**A snack-sized shoe for the wizard who travels light.</span></span><span class="itemTableIcon3">![Boots of Very Fast Blinking Icon](images/gale/22792.png)<span class="itemTooltipContents">**Boots of Very Fast Blinking**Blink and you'll miss me. But I'll always hit you.</span></span><span class="itemTableIcon4">![Mystra's Grace Icon](images/gale/22793.png)<span class="itemTooltipContents">**Mystra's Grace**These were a gift from... well, never mind.</span></span>
         </span>
         <span class="itemTableSlot">
             <span>5</span>
@@ -1223,7 +1197,7 @@ Upgrades:
 <pre>
 Slot 1:
                  Fond Memories: Even at my lowest, playing with Tara lifted my spirits...
-             Ball of Retrieval: ...though the ball's purpose eldued her. I was always the one
+             Ball of Retrieval: ...though the ball's purpose eluded her. I was always the one
                                 fetching it...
       Cat Flap of Displacement: Tara comes and goes as she pleases. But she's always pleased to
                                 help me.
@@ -1235,7 +1209,7 @@ Slot 2:
                                 pockets.
     Robes of Increased Potency: I could get used to these. Elegant, but powerful - just like
                                 Tara.
-     Arch-mage's Accoutrements: Incredible! Every stitch is infused with Weave. Like wearing
+      Archmage's Accoutrements: Incredible! Every stitch is infused with Weave. Like wearing
                                 magic itself...
 
 Slot 3:
@@ -1253,7 +1227,7 @@ Slot 4:
 
 Slot 5:
 Boots of Ambiguous Enchantment: A little pick-me-up, for when any Weave will do...
-     Lonely Boot of Elven Kind: A snack-sized shoe for the wizard who travels light.
+      Lonely Boot of Elvenkind: A snack-sized shoe for the wizard who travels light.
    Boots of Very Fast Blinking: Blink and you'll miss me. But I'll always hit you.
                 Mystra's Grace: These were a gift from... well, never mind.
 
@@ -1318,7 +1292,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Arcane Experience  Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Arcane Experience  (Gale)**I've had experiences that other wizards can only dream of.</span>Arcane Experience 
+            ![Arcane Experience Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Arcane Experience (Gale)**I've had experiences that other wizards can only dream of.</span>Arcane Experience
         </span>
         <span class="featTableEffect">
             <span>40% Archmage's Insight</span>
@@ -1384,10 +1358,10 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon4">
-            ![Neutral Good Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">**Neutral Good (Gale)**My mind can be changed. ...Sometimes.</span>Neutral Good
+            ![Netherese Knowledge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Netherese Knowledge (Gale)**The risk is worth the reward. This could be just what we need to save everyone!</span>Netherese Knowledge
         </span>
         <span class="featTableEffect">
-            <span>Change Alignment to Neutral Good</span>
+            <span>80% All Second Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -1395,46 +1369,198 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon4">
-            ![Skilled Evocation Icon](images/featicons/immolation.png)<span class="featTooltipContents">**Skilled Evocation (Gale)**Magic can be elegant, but sometimes, a good fireball is the answer.</span>Skilled Evocation
+            ![Neutral Good Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">**Neutral Good (Gale)**My mind can be changed. ...Sometimes.</span>Neutral Good
+        </span>
+        <span class="featTableEffect">
+            <span>Change Alignment to Neutral Good</span>
+        </span>
+        <span class="featTableSource">
+            <span>Patron: 5</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon4">
+            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">**Immolation (Gale)**Magic can be elegant, but sometimes, a good fireball is the answer.</span>Immolation
         </span>
         <span class="featTableEffect">
             <span>1s BUD per sec for 5s</span>
         </span>
         <span class="featTableSource">
-            <span>Patron: 5</span>
+            <span>???: {event=9}</span>
         </span>
     </span>
 </span>
 
 # Legendaries
 
-Unknown.
+* Increases the damage of all Champions by 10% for each Champion in the formation.
+* Increases the damage of all Champions by 20% for each Female Champion in the formation.
+* Increases the damage of all Human Champions by 150%.
+* Increases the damage of all Champions with a INT score of 11 or higher by 100%.
+* Increases the damage of all Champions with a DEX score of 13 or higher by 150%.
+* Increases the damage of all Neutral Champions by 150%.
+
+<details><summary><em>DPS Applicable</em></summary>
+<p>
+<pre>
+     Arkhan: 3 / 6 (Potentially 4 / 6)
+    Artemis: 4 / 6 (Potentially 5 / 6)
+    Asharra: 4 / 6
+      Azaka: 6 / 6
+     Binwin: 1 / 6 (Potentially 2 / 6)
+   Birdsong: 5 / 6
+Black Viper: 6 / 6
+ Catti-brie: 5 / 6
+  Dark Urge: 3 / 6 (Potentially 4 / 6)
+     Delina: 4 / 6
+    Dhadius: 4 / 6 (Potentially 5 / 6)
+     Drizzt: 3 / 6 (Potentially 4 / 6)
+    Farideh: 5 / 6
+        Fen: 4 / 6
+      Grimm: 3 / 6 (Potentially 4 / 6)
+     Gromma: 4 / 6
+       Ishi: 4 / 6
+    Jaheira: 4 / 6
+    Jamilah: 5 / 6
+   Jarlaxle: 4 / 6 (Potentially 5 / 6)
+        Jim: 5 / 6 (Potentially 6 / 6)
+    Karlach: 3 / 6
+       Kent: 4 / 6 (Potentially 5 / 6)
+      Krond: 2 / 6 (Potentially 3 / 6)
+       Krux: 3 / 6 (Potentially 4 / 6)
+    Lae'zel: 4 / 6
+     Lucius: 4 / 6 (Potentially 5 / 6)
+      Makos: 3 / 6 (Potentially 4 / 6)
+      Minsc: 2 / 6 (Potentially 3 / 6)
+     Nahara: 4 / 6
+     Orisha: 5 / 6
+   Prudence: 3 / 6
+      Rosie: 4 / 6
+      Strix: 3 / 6
+    Torogar: 2 / 6 (Potentially 3 / 6)
+     Warden: 2 / 6 (Potentially 3 / 6)
+    Warduke: 2 / 6 (Potentially 3 / 6)
+     Yorven: 3 / 6 (Potentially 4 / 6)
+      Zorbu: 3 / 6 (Potentially 4 / 6)
+</pre>
+</p>
+</details>
+<details><summary><em>Non-DPS Applicable</em></summary>
+<p>
+<pre>
+          Aila: 4 / 6
+       Alyndra: 5 / 6
+       Antrius: 3 / 6 (Potentially 4 / 6)
+      Astarion: 4 / 6 (Potentially 5 / 6)
+         Avren: 4 / 6 (Potentially 5 / 6)
+          BBEG: 3 / 6 (Potentially 4 / 6)
+       Baeloth: 3 / 6 (Potentially 4 / 6)
+      Barrowin: 3 / 6
+        Beadle: 4 / 6 (Potentially 5 / 6)
+       Blooshi: 5 / 6
+          Brig: 4 / 6 (Potentially 5 / 6)
+          Briv: 2 / 6 (Potentially 3 / 6)
+      Calliope: 4 / 6
+       Celeste: 4 / 6
+     Certainty: 4 / 6
+       Corazón: 5 / 6 (Potentially 6 / 6)
+       Desmond: 4 / 6 (Potentially 5 / 6)
+           Dob: 3 / 6 (Potentially 4 / 6)
+        Donaar: 1 / 6 (Potentially 2 / 6)
+    Dragonbait: 3 / 6 (Potentially 4 / 6)
+Dungeon Master: 4 / 6 (Potentially 5 / 6)
+      Dynaheir: 5 / 6
+        Egbert: 2 / 6 (Potentially 3 / 6)
+      Ellywick: 5 / 6
+       Evandra: 4 / 6
+        Evelyn: 6 / 6
+        Freely: 3 / 6 (Potentially 4 / 6)
+          Gale: 5 / 6
+       Gazrick: 3 / 6 (Potentially 4 / 6)
+       Havilar: 3 / 6
+      Hew Maan: 4 / 6
+         Hitch: 4 / 6 (Potentially 5 / 6)
+         Imoen: 6 / 6
+      Jang Sao: 5 / 6
+         Korth: 3 / 6 (Potentially 4 / 6)
+         Krull: 3 / 6 (Potentially 4 / 6)
+        Krydle: 3 / 6 (Potentially 4 / 6)
+       Lazaapz: 5 / 6
+         Mehen: 3 / 6 (Potentially 4 / 6)
+          Melf: 4 / 6 (Potentially 5 / 6)
+      Merilwen: 5 / 6
+         Miria: 4 / 6
+        Môrgæn: 5 / 6
+        Nayeli: 3 / 6
+         Nerys: 5 / 6
+        Nordom: 4 / 6 (Potentially 5 / 6)
+          Nova: 4 / 6
+         Nrakk: 4 / 6 (Potentially 5 / 6)
+          Omin: 3 / 6 (Potentially 4 / 6)
+       Paultin: 5 / 6 (Potentially 6 / 6)
+      Penelope: 3 / 6
+        Presto: 4 / 6 (Potentially 5 / 6)
+         Pwent: 2 / 6 (Potentially 3 / 6)
+        Qillek: 3 / 6 (Potentially 4 / 6)
+         Regis: 4 / 6 (Potentially 5 / 6)
+          Reya: 4 / 6
+          Rust: 4 / 6 (Potentially 5 / 6)
+        Selise: 5 / 6
+        Sentry: 2 / 6
+     Sgt. Knox: 4 / 6 (Potentially 5 / 6)
+   Shadowheart: 4 / 6
+         Shaka: 4 / 6 (Potentially 5 / 6)
+       Shandie: 4 / 6
+        Solaak: 4 / 6 (Potentially 5 / 6)
+         Spurt: 2 / 6 (Potentially 3 / 6)
+         Stoki: 5 / 6
+   Strongheart: 3 / 6 (Potentially 4 / 6)
+         Talin: 3 / 6 (Potentially 4 / 6)
+       Tatyana: 4 / 6
+         Tyril: 4 / 6 (Potentially 5 / 6)
+       Ulkoria: 5 / 6
+         Uriah: 3 / 6 (Potentially 4 / 6)
+     Valentine: 5 / 6
+            Vi: 4 / 6
+       Viconia: 5 / 6
+      Vin Ursa: 4 / 6
+        Virgil: 4 / 6 (Potentially 5 / 6)
+       Vlahnya: 5 / 6
+        Walnut: 4 / 6
+        Widdle: 5 / 6
+       Wulfgar: 4 / 6 (Potentially 5 / 6)
+          Wyll: 5 / 6 (Potentially 6 / 6)
+        Xander: 4 / 6 (Potentially 5 / 6)
+      Xerophon: 4 / 6 (Potentially 5 / 6)
+</pre>
+</p>
+</details>
+<br />
 
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Endless War (Antrius) Icon](images/gale/2661.png) **Unlock Adventure: The Endless War (Antrius)** (Complete Area 50)
+![The Endless War (Gale) Icon](images/gale/2661.png) **Unlock Adventure: The Endless War (Gale)** (Complete Area 50)
 > Defend Triboar from a Githyanki invasion.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Mirror, Mirror Icon](images/gale/18671.png) **Variant 1: Mirror, Mirror** (Complete Area 75)
-> Antrius starts in the formation. He can be moved, but not removed.  
-> Two reflections of Antrius take up slots in the formation. These reflections are just that, and don't actually have any of Antrius' abilities.  
-> Getting to Know Antrius: Antrius is the most charming Bard in all the realms. Having 2 extra "copies" of him in your formation won't make this variant more challenging, right?
+![One With the Weave Icon](images/gale/22813.png) **Variant 1: One With the Weave** (Complete Area 75)
+> Gale starts in the formation. He can't be moved or removed.  
+> Only Gale and Champions buffed by Gale's Archmage's Insight can deal damage.  
+> Getting to know Gale: Gale increases the damage of Champions in the two columns in front of him. You can customize how this works with a specialization choice!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![A Timely Tune Icon](images/gale/18672.png) **Variant 2: A Timely Tune** (Complete Area 125)
-> Antrius starts in the formation. He can be moved, but not removed.  
-> Antrius starts out with Inspiring Song unlocked.  
-> After area 5, Champions' health is set to 1 and can not be healed above this.  
-> 1-3 Skeleton Archers spawn with each wave. These enemies attack random targets. They do not drop gold, or count towards quest progress.  
-> Getting to Know Antrius: Antrius provides temporary hit points to nearby allies, and if those allies have a high enough Charisma they can pass it on. Spread the hit points to the whole formation to survive!
+![Pawn to Cleric Four Icon](images/gale/22814.png) **Variant 2: Pawn to Cleric Four** (Complete Area 125)
+> Gale starts in the formation. He can be moved, but not removed.  
+> You may only use Champions with an Intelligence of 13 or higher, Heroes of Baldur's Gate affiliation members, and/or Absolute Adversaries affiliation members.  
+> Getting to know Gale: Gale's second specialization choice determines which heroes are best to solve the problem at hand.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Pick Your Poison Icon](images/gale/18673.png) **Variant 3: Pick Your Poison** (Complete Area 175)
-> Antrius starts in the formation. He can be moved, but not removed.  
-> You can only use Champions who are Bards, or are Chaotic, or have a total ability score of 78 or lower.  
-> Getting to Know Antrius: Antrius' specializations allow him to increase his damage buff based on the other Champions in the formation. Pick a specialization and build your formation around it to maximize your damage!
+![Elminster's Errands Icon](images/gale/22815.png) **Variant 3: Elminster's Errands** (Complete Area 175)
+> Gale starts in the formation. He can be moved, but not removed.  
+> Elminster joins the formation. He distracts adjacent Champions with his stories, increasing their normal attack cooldowns by 3 seconds.  
+> You may only use the base 12 Core Champions and/or Champions that have been released in the last 3 years.  
+> Getting to know Gale: Gale is always available for any of his Mentor's patron challenges, even if the restrictions would say otherwise. Gale's buffs further increase as you complete Elminster Patron variants!
 </div></div>
 
 # Other Champion Images
