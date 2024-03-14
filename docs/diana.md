@@ -218,15 +218,20 @@ Unknown.
 <pre>
 {
     "id": 1948,
-    "graphic": "Icons/Adventures/Adventure_WaterdeepDetour",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23214,
+    "large_graphic_id": 23211,
+    "properties": {
+        "is_formation_ability": true
     }
 }
 </pre>
@@ -236,21 +241,64 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Javelin Staff** (Guess)
-> Unknown effect.
+> Diana's base attack, Javelin Staff, knocks around enemies she hits based on where she is positioned in her column in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 1944,
-    "graphic": "Icons/Adventures/Adventure_EscortWaterdeepVariant1",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": "Diana's base attack, Javelin Staff, knocks around enemies she hits based on where she is positioned in her column in the formation.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^$diana_javelin_staff_desc"
+                }
+            ]
+        }
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "diana_javelin_staff",
+            "top_pos_data": {
+                "push_dir": [
+                    150,
+                    150
+                ],
+                "monster_retargets": true
+            },
+            "middle_pos_data": {
+                "attack_id": 750,
+                "push_dir": [
+                    -150,
+                    0
+                ]
+            },
+            "bottom_pos_data": {
+                "push_dir": [
+                    150,
+                    -150
+                ],
+                "monster_retargets": true
+            },
+            "single_slot_pos_data": {
+                "push_dir": [
+                    300,
+                    0
+                ]
+            }
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23215,
+    "large_graphic_id": 23212,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -260,21 +308,28 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **We'll Be Right Back** (Guess)
-> Unknown effect.
+> Diana increases the speed of area transitions by 50%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 1945,
-    "graphic": "Icons/Adventures/Adventure_UnderdeepCatography",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": "Diana increases the speed of area transitions by $amount%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "area_transition_time_scale,50"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23216,
+    "large_graphic_id": 23213,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
