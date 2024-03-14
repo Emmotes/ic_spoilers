@@ -155,7 +155,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Aasimar Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Aasimar Glitch (Penelope)**LOOK HOW COLORFUL I AM!</span>Aasimar Glitch
         </span>
         <span class="featTableEffect">
-            <span>Counts as Aasimar & +20% to Unknown per Good</span>
+            <span>Counts as Aasimar & +20% to ??? per Good</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>

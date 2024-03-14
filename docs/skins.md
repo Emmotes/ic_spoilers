@@ -56,10 +56,10 @@ Please be aware that the developers recently removed most future skins from the 
             ![Cunning Dark Urge Portrait](images/skin_portraits/cunningdarkurge.png)Cunning Dark Urge
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Patron 5 Shop</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???: {patron_id=5, patron_shop_item_id=142}</span>
+            <span style="margin-right: 8px;">20,000</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">03 Apr 2024</span>
@@ -70,7 +70,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Dark Mage Dungeon Master Portrait](images/skin_portraits/darkmagedungeonmaster.png)Dark Mage Dungeon Master
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Patron 5 Shop</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???: {patron_id=5, patron_shop_item_id=128}</span>
@@ -84,10 +84,10 @@ Please be aware that the developers recently removed most future skins from the 
             ![Feywild Dungeon Master Portrait](images/skin_portraits/feywilddungeonmaster.png)Feywild Dungeon Master
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Patron 5 Shop</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???: {patron_id=5, patron_shop_item_id=148}</span>
+            <span style="margin-right: 8px;">20,000</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">03 Apr 2024</span>
