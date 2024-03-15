@@ -340,7 +340,7 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Fledgling Fury** (Guess)
+**Fledgling Fury** (Guess)
 > Diana increases the damage of all Champions that are 20 years old or younger by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -382,7 +382,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Acrobatic Assault** (Guess)
+**Acrobatic Assault** (Guess)
 > Diana increases the damage of all Champions with a DEX of 15 or higher by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -424,7 +424,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Modest Might** (Guess)
+**Modest Might** (Guess)
 > Diana increases the damage of all Champions with a total ability score of 78 or less by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -466,7 +466,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Ensemble Cast** (Guess)
+**Ensemble Cast** (Guess)
 > Diana increases the effect of her Inspire specialization choice by 100% for each Champion it affects, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -523,7 +523,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Spotlight Episode** (Guess)
+**Spotlight Episode** (Guess)
 > Diana increases the effect of her Inspire specialization choice by 100% for each Champion it does NOT affect, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
