@@ -49,7 +49,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support (Guess)</span>
+            <span style="margin-left:8px;">Support / Speed (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -340,120 +340,6 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Ensemble Cast** (Guess)
-> Diana increases the effect of her Inspire specialization choice by 100% for each Champion it affects, stacking multiplicatively.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 1946,
-    "flavour_text": "",
-    "description": {
-        "desc": "Diana increases the effect of her Inspire specialization choice by $amount% for each Champion it affects, stacking multiplicatively."
-    },
-    "effect_keys": [
-        {
-            "off_when_benched": true,
-            "effect_string": "pre_stack_amount,100"
-        },
-        {
-            "off_when_benched": true,
-            "effect_string": "buff_upgrades,0,14791,14792,14793",
-            "show_bonus": true,
-            "amount_expr": "upgrade_amount(14796,0)",
-            "amount_func": "mult",
-            "stacks_multiply": true,
-            "stack_func": "per_upgrade_targets",
-            "stack_func_data": {
-                "upgrade_ids": [
-                    14791,
-                    14792,
-                    14793
-                ]
-            },
-            "amount_updated_listeners": [
-                "slot_changed"
-            ]
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 23239,
-    "properties": {
-        "is_formation_ability": true,
-        "formation_circle_icon": false,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
-        "owner_use_outgoing_description": true,
-        "spec_option_post_apply_info": "Champions Buffed: $num_stacks___2"
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Spotlight Episode** (Guess)
-> Diana increases the effect of her Inspire specialization choice by 100% for each Champion it does NOT affect, stacking multiplicatively.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 1947,
-    "flavour_text": "",
-    "description": {
-        "desc": "Diana increases the effect of her Inspire specialization choice by $amount% for each Champion it does NOT affect, stacking multiplicatively."
-    },
-    "effect_keys": [
-        {
-            "off_when_benched": true,
-            "effect_string": "pre_stack_amount,100"
-        },
-        {
-            "off_when_benched": true,
-            "effect_string": "buff_upgrades,0,14791,14792,14793",
-            "show_bonus": true,
-            "amount_expr": "upgrade_amount(14796,0)",
-            "amount_func": "mult",
-            "stacks_multiply": true,
-            "stack_func": "per_non_upgrade_targets",
-            "stack_func_data": {
-                "upgrade_ids": [
-                    14791,
-                    14792,
-                    14793
-                ]
-            },
-            "amount_updated_listeners": [
-                "slot_changed"
-            ]
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 23242,
-    "properties": {
-        "is_formation_ability": true,
-        "formation_circle_icon": false,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
-        "owner_use_outgoing_description": true,
-        "spec_option_post_apply_info": "Champions Not Buffed: $num_stacks___2"
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Fledgling Fury** (Guess)
 > Diana increases the damage of all Champions that are 20 years old or younger by 100%.
 <details><summary><em>Raw Data</em></summary>
@@ -572,6 +458,120 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Ensemble Cast** (Guess)
+> Diana increases the effect of her Inspire specialization choice by 100% for each Champion it affects, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1946,
+    "flavour_text": "",
+    "description": {
+        "desc": "Diana increases the effect of her Inspire specialization choice by $amount% for each Champion it affects, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrades,0,14791,14792,14793",
+            "show_bonus": true,
+            "amount_expr": "upgrade_amount(14796,0)",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_upgrade_targets",
+            "stack_func_data": {
+                "upgrade_ids": [
+                    14791,
+                    14792,
+                    14793
+                ]
+            },
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 23239,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "spec_option_post_apply_info": "Champions Buffed: $num_stacks___2"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Spotlight Episode** (Guess)
+> Diana increases the effect of her Inspire specialization choice by 100% for each Champion it does NOT affect, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1947,
+    "flavour_text": "",
+    "description": {
+        "desc": "Diana increases the effect of her Inspire specialization choice by $amount% for each Champion it does NOT affect, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrades,0,14791,14792,14793",
+            "show_bonus": true,
+            "amount_expr": "upgrade_amount(14796,0)",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_non_upgrade_targets",
+            "stack_func_data": {
+                "upgrade_ids": [
+                    14791,
+                    14792,
+                    14793
+                ]
+            },
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 23242,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "spec_option_post_apply_info": "Champions Not Buffed: $num_stacks___2"
     }
 }
 </pre>
