@@ -96,6 +96,10 @@ This is the list of patron perks in the definitions for Elminster. Note that the
 | 11 | Local | 25 | Increase the damage of all Champions by 2% for each enemy that has spawned in the current area, stacking additively and capping at 100 |
 | 11 | Global | 10 | Increase the damage of all Champions by 1% for each active potion (stacking additively) |
 
+# Variants
+
+The list of variants got bit huge - so I put them in a separate page: [Elminster's Variants](patron_5_variants.html)
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
