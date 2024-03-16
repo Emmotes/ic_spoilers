@@ -78,7 +78,7 @@ These are a list of effects which have potential to be patron perks. I have no i
 * Increase the damage of Champions with an INT score of 12 or higher by $amount%
 * Increase the damage of all Champions when Gale is in the formation by $amount%
 * Increase the damage of all Champions by $amount% for 30 seconds after a distraction is clicked
-* Increase the damage of all Champions by $amount%
+* Damage against enemies that are slowed or stunned increased by $amount%
 * Increase the damage of all Champions by $amount%
 * Increase the damage of all Champions who are 30+ years old by $amount%
 * Increase the damage of all Champions by $amount% for each Champion in your formation who is eligible for Elminster patron adventures (stacking multiplicatively)
