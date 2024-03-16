@@ -17,7 +17,7 @@ When it comes to what the restrictions for Patron 5 will be - all we have to go 
 
 Justin mentioned the idea of the patron having a set of available champions that would change every month. Unfortunately - that is just talk at this point. There's no data to back that up yet.
 
-The __**guess**__ for his restriction is that it will be the same - or very similar - to Gale's 3rd variant restriction - which is:
+The **guess** for his restriction is that it will be the same - or very similar - to Gale's 3rd variant restriction - which is:
 
 > You may only use the base 12 Core Champions and/or Champions that have been released in the last 3 years.
 
