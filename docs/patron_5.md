@@ -69,7 +69,7 @@ It's possible Elminster will also include champions reworked in the last 3 years
 
 # Patron Perks
 
-These are the list of patron perks in the definitions. Note that the values in the Effect column is **PER LEVEL** - *not the total*.
+This is the list of patron perks in the definitions for Elminster. Note that the values in the Effect column is **PER LEVEL** - *not the total*.
 
 | Tier | Type | Levels | Effect |
 |--:|---|--:|---|
