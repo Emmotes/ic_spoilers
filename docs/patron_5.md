@@ -98,7 +98,7 @@ This is the list of patron perks in the definitions for Elminster. Note that the
 
 # Variants
 
-The list of variants got bit huge - so I put them in a separate page: [Elminster's Variants](patron_5_variants.html)
+The list of variants got a bit huge - so I put them in a separate page: [Elminster's Variants](patron_5_variants.html)
 
 [Back to Top](#top)
 
