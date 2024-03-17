@@ -135,7 +135,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
             <span style="margin-left:8px;">Yes</span>
         </span>
         <span class="champStatsTablePatrons">
-            <span style="margin-left:8px;">&nbsp;</span>
+            <span style="margin-left:8px;">Elminster (Ability)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
