@@ -29,6 +29,7 @@ nnm.map.set("Xerophon", "Cheatophon");
 nnm.map.set("K’thriss", ins("Kthriss",randInt(0,7),"’"));
 nnm.map.set("Lae’zel", ins("Laezel",randInt(0,6),"’"));
 nnm.map.set("D’hani", ins("Dhani",randInt(0,5),"’"));
+nnm.map.set("Elminster", ins("ElMinster",randInt(0,9),"’"));
 nnm.map.set("Gromma", "Grandma");
 nnm.map.set("Warduke", "Warduck");
 nnm.map.set("Briv", "Skippy");
@@ -60,6 +61,7 @@ nnm.map.set("Pigment", "Pig Mint");
 nnm.map.set("pigment", "pig mint");
 nnm.map.set("egendaries", "egos");
 nnm.map.set("egendary", "ego");
+nnm.map.set("Great Modron March", "Great Modron May");
 nnm.map.set("Blacksmithing Contract", "BSC");
 nnm.map.set("Blacksmith Contract", "BSC");
 nnm.map.set("Bounty Contract", "BC");
@@ -132,7 +134,7 @@ function modesDetails(type) {
 			var content = `<span class="modesContentRowHeader"><span class="modesCol1">Find</span><span class="modesCol2">Replace</span></span>`;
 			for (const [key,value] of curr.map) {
 				content += `<span class="modesContentRow"><span class="modesCol1">${key}</span><span class="modesCol2">${value}`
-				if (key == "D’hani" || key == "K’thriss" || key == "Lae’zel") {
+				if (key == "D’hani" || key == "K’thriss" || key == "Lae’zel" || key == "Elminster") {
 					content += ` (random ’ placement)`;
 				}
 				content += `</span></span>`;
