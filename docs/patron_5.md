@@ -13,15 +13,12 @@ Justin also said "April" when asked about potential Patron 5 release dates on a 
 
 ## Restrictions
 
-When it comes to what the restrictions for Patron 5 will be - all we have to go on are snippets of answers to questions found on the Developer Insights stream. Those being that the restrictions will vary.
+There is an Elminster patron perk in the definitions that buffs all champions for each champion in the formation that is eligible for Elminster patron adventures. We can deduce Elminster's restriction from that:  
+`TimeAvailable('days') < (365 * 3) || hero_id==147 || hero_id==99`
 
-Justin mentioned the idea of the patron having a set of available champions that would change every month. Unfortunately - that is just talk at this point. There's no data to back that up yet.
+Basically - any champion that released before 1905 days ago (~3 years) - as well as Gale (147) and Dungeon Master (99). This tracks with all previous statements from Justin that he wanted Elminster's restriction to have a variable list of champions. As time progresses - older champions will become too old to be eligible but new champions will also release.
 
-The **guess** for his restriction is that it will be the same - or very similar - to Gale's 3rd variant restriction - which is:
-
-> You may only use the base 12 Core Champions and/or Champions that have been released in the last 3 years.
-
-It's possible Elminster will also include champions reworked in the last 3 years and not include the core 12 - but really all we have to go on is speculation.
+There is also potential that the restriction will include champions that were reworked in the past 3 years as well - but right now there's not enough information to confirm that.
 
 # Images
 
