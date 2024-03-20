@@ -88,12 +88,9 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/diana/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Diana" fill="#aaa" data-formationName="Diana" data-campaignName="The Great Modron March" width="389" height="160"><circle cx="175" cy="65" r="15"/><circle cx="175" cy="105" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Diana</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">The Great Modron March</text></svg>
 </span>
-{% endcomment %}
 
 # Abilities
 
@@ -159,7 +156,7 @@ Unknown.
         {
             "type": "melee_attack",
             "attack_seq": "attack_b",
-            "target_offset_x": 70,
+            "target_offset_x": 80,
             "damage_frame": 13,
             "jump_sound": 30,
             "sound_frames": {
@@ -212,7 +209,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Electrum Scavenger** (Guess)
-> Unknown effect.
+> Diana can help scavenge up to 20 additional Electrum Chests when killing bosses. While this cap is not reached, Diana has a 0.5% chance of scavenging 1 Electrum Chest each time a boss is defeated. The cap increases by 0.5 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -220,18 +217,37 @@ Unknown.
     "id": 1948,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Diana can help scavenge up to $(current_scavenge_cap diana_electrum_scavenger floor) additional Electrum Chests when killing bosses. While this cap is not reached, Diana has a $amount% chance of scavenging 1 Electrum Chest each time a boss is defeated. The cap increases by $cap_increase_per_day every day.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Electrum Chests Scavenged: $(stat_value diana_electrum_collected 0 none) ($(stat_value diana_electrum_collected_this_adventure 1 none) this adventure)"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
-            "off_when_benched": true
+            "off_when_benched": true,
+            "effect_string": "scavenge_items,0.5",
+            "id": "diana_electrum_scavenger",
+            "item_type": "chest",
+            "item_id": 282,
+            "initial_cap": 20,
+            "cap_increase_per_day": 0.5,
+            "start_date": "2024-05-01 12:00:00",
+            "total_collected_stat": "diana_electrum_collected",
+            "adventure_collected_stat": "diana_electrum_collected_this_adventure",
+            "upgrade_id": 14798
         }
     ],
     "requirements": "",
     "graphic_id": 23214,
     "large_graphic_id": 23211,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -265,8 +281,8 @@ Unknown.
             "effect_string": "diana_javelin_staff",
             "top_pos_data": {
                 "push_dir": [
-                    150,
-                    150
+                    120,
+                    130
                 ],
                 "monster_retargets": true
             },
@@ -279,8 +295,8 @@ Unknown.
             },
             "bottom_pos_data": {
                 "push_dir": [
-                    150,
-                    -150
+                    120,
+                    -130
                 ],
                 "monster_retargets": true
             },
@@ -593,7 +609,22 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![The Mechanical Menace (Diana) Icon](images/diana/3044.png) **Unlock Adventure: The Mechanical Menace (Diana)** (Complete Area 50)
+> Stop the Modron March from crushing Waterdeep under its mechanical heel.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![TBD Icon](images/diana/1.png) **Variant 1: TBD** (Complete Area 75)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![TBD Icon](images/diana/1.png) **Variant 2: TBD** (Complete Area 125)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![TBD Icon](images/diana/1.png) **Variant 3: TBD** (Complete Area 175)
+> 
+</div></div>
 
 # Other Champion Images
 
