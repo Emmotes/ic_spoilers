@@ -610,7 +610,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Splitting the Hive** (Guess)
-> Each time one of Penelope's Insect Swarms is dispersed, another smaller swarm appears randomly (preferring to appear on an enemy if possible), damaging monsters in it for 15 seconds of BUD damage and slowing them using the same rules as the original Insect Plague. These smaller swarms do not spawn additional ones when they disperse.
+> Each time one of Penelope's Insect Swarms is dispersed, another smaller swarm appears randomly (preferring to appear on an enemy if possible), damaging enemies in it for 15 seconds of BUD damage and slowing them using the same rules as the original Insect Plague. These smaller swarms do not spawn additional ones when they disperse.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -618,7 +618,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1913,
     "flavour_text": "",
     "description": {
-        "desc": "Each time one of Penelope's Insect Swarms is dispersed, another smaller swarm appears randomly (preferring to appear on an enemy if possible), damaging monsters in it for $(seconds_of_bud) seconds of BUD damage and slowing them using the same rules as the original Insect Plague. These smaller swarms do not spawn additional ones when they disperse."
+        "desc": "Each time one of Penelope's Insect Swarms is dispersed, another smaller swarm appears randomly (preferring to appear on an enemy if possible), damaging enemies in it for $(seconds_of_bud) seconds of BUD damage and slowing them using the same rules as the original Insect Plague. These smaller swarms do not spawn additional ones when they disperse."
     },
     "effect_keys": [
         {
