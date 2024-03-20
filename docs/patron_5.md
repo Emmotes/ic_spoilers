@@ -54,11 +54,11 @@ There is also potential that the restriction will include champions that were re
 | Feat: All Grown Up (DM) | 10,000 | 5,000,000 | Once-Only |
 | Potion of Polish | 25,000 | 5,000,000 | Once-Only |
 | Feat: Sword Coast Sage (Gale) | 10,000 | 5,000,000 | Once-Only |
-| Feat: Immolation (Gale) | 25,000 | 5,000,000 | Once-Only |
+| Feat: Neutral Good (Gale) | 25,000 | 5,000,000 | Once-Only |
 | Familiar: Prismatic Will-o-'Wisp | 50,000 | 5,000,000 | Once-Only |
 | Skin: Cunning Dark Urge (Dark Urge) | 20,000 | 5,000,000 | Once-Only |
 | 2x Support Pigment | 25,000 | 5,000,000 | Once-Only |
-| Skin: Casual Gale | 20,000 | 5,000,000 | Once-Only |
+| Skin: Casual Gale (Gale) | 20,000 | 5,000,000 | Once-Only |
 | Feat: Diverging Paths (Dark Urge) | 10,000 | 5,000,000 | Once-Only |
 | Feat: Never Late (DM) | 25,000 | 5,000,000 | Once-Only |
 | Golden Epic Potion | 25,000 | 5,000,000 | Once-Only |
