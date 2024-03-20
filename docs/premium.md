@@ -270,7 +270,7 @@ Contents:
 
 * Champion: `Nordom Whistleklik`
 * Skin: ???
-* Skin: `Robeofthe Weave Gale`
+* Skin: `Robe of the Weave Gale`
 * Feat: `Greater Order` (Nordom)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6

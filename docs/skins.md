@@ -305,7 +305,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Robeofthe Weave Gale Portrait](images/skin_portraits/robeoftheweavegale.png)Robeofthe Weave Gale
+            ![Robe of the Weave Gale Portrait](images/skin_portraits/robeoftheweavegale.png)Robe of the Weave Gale
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
