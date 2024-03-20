@@ -53,6 +53,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Casual Gale Portrait](images/skin_portraits/casualgale.png)Casual Gale
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Patron 5 Shop</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">20,000</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Cunning Dark Urge Portrait](images/skin_portraits/cunningdarkurge.png)Cunning Dark Urge
         </span>
         <span class="skinTableSource">
@@ -193,7 +207,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Mythic Diana
+            ![Mythic Diana Portrait](images/skin_portraits/mythicdiana.png)Mythic Diana
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Mythic Diana Theme Pack</span>
@@ -221,7 +235,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)High Harper Jaheira
+            ![High Harper Jaheira Portrait](images/skin_portraits/highharperjaheira.png)High Harper Jaheira
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">High Harper Jaheira Skin & Feat Pack</span>
@@ -235,7 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Plushie Evandra
+            ![Plushie Evandra Portrait](images/skin_portraits/plushieevandra.png)Plushie Evandra
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Plushie Evandra Skin & Feat Pack</span>
@@ -249,7 +263,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Plushie Nixie
+            ![Plushie Nixie Portrait](images/skin_portraits/plushienixie.png)Plushie Nixie
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Plushie Nixie Skin & Feat Pack</span>
@@ -259,6 +273,48 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">15 May 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![1e Nordom Portrait](images/skin_portraits/1enordom.png)1e Nordom
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Elegant Astarion Portrait](images/skin_portraits/elegantastarion.png)Elegant Astarion
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Robeofthe Weave Gale Portrait](images/skin_portraits/robeoftheweavegale.png)Robeofthe Weave Gale
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
 </span>

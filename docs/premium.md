@@ -101,7 +101,7 @@ Contents:
 * Skin: `Mind Flayer Gale`
 * Feat: `Netherese Knowledge` (Gale)
 * Familiar: `Tara the Tressym`
-* Chests: `Gold  Gale Chest` x16 (Shinies x2)
+* Chests: `Gold Gale Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
@@ -299,7 +299,7 @@ Contents:
 
 * Champion: `Nordom Whistleklik`
 * Skin: ???
-* Skin: ???
+* Skin: `Robeofthe Weave Gale`
 * Feat: `Greater Order` (Nordom)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
