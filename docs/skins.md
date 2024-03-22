@@ -123,6 +123,34 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Elegant Astarion Portrait](images/skin_portraits/elegantastarion.png)Elegant Astarion
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">08 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Robe of the Weave Gale Portrait](images/skin_portraits/robeoftheweavegale.png)Robe of the Weave Gale
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Gem Shop</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">20,000</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">08 Apr 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Dwarf Glitch Catti-brie Portrait](images/skin_portraits/dwarfglitchcattibrie.png)Dwarf Glitch Catti-brie
         </span>
         <span class="skinTableSource">
@@ -278,34 +306,6 @@ Please be aware that the developers recently removed most future skins from the 
     <span class="skinTableRow">
         <span class="skinTableIcon">
             ![1e Nordom Portrait](images/skin_portraits/1enordom.png)1e Nordom
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Elegant Astarion Portrait](images/skin_portraits/elegantastarion.png)Elegant Astarion
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Robe of the Weave Gale Portrait](images/skin_portraits/robeoftheweavegale.png)Robe of the Weave Gale
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>

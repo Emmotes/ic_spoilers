@@ -242,7 +242,7 @@ Contents:
 * Skin: `Mythic Diana`
 * Feat: ???
 * Familiar: `Animated Staff`
-* Chests: `Gold  Y7E11 Chest` x16 (Shinies x2)
+* Chests: `Gold Diana Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
@@ -270,7 +270,7 @@ Contents:
 
 * Champion: `Nordom Whistleklik`
 * Skin: ???
-* Skin: `Robe of the Weave Gale`
+* Skin: ???
 * Feat: `Greater Order` (Nordom)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
