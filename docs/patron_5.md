@@ -63,6 +63,7 @@ There is also potential that the restriction will include champions that were re
 | Feat: Never Late (DM) | 25,000 | 5,000,000 | Once-Only |
 | Golden Epic Potion | 25,000 | 5,000,000 | Once-Only |
 | Skin: Feywild Dungeon Master (DM) | 20,000 | 5,000,000 | Once-Only |
+| Feat: Weapon Master (Dark Urge) | 25,000 | 5,000,000 | Once-Only |
 
 # Patron Perks
 
@@ -71,27 +72,27 @@ This is the list of patron perks in the definitions for Elminster. Note that the
 | Tier | Type | Levels | Effect |
 |--:|---|--:|---|
 | 1 | Local | 10 | Increases the damage of all Champions by 100% |
-| 1 | Global | 20 | Increases the damage of all Champions by 10% |
-| 2 | Local | 20 | Increase the damage of all Champions by 0.25% for each Elminster variant completed (stacking additively) |
-| 2 | Global | 20 | Increase of damage of Champions with a total ability score of 78 or lower by 10% |
-| 3 | Local | 40 | Increase the damage of Champions with a magic base attack by 100% |
-| 3 | Global | 5 | Increase the health of all Champions by 1% for every 50 areas completed in the current adventure (stacking multiplicatively) |
-| 4 | Local | 25 | Increase the damage of all Champions by 20% for each unique affiliation in the formation (stacking additively) |
-| 4 | Global | 20 | Increase the damage of Champions eligible for Elminster patron adventures by 10% |
-| 5 | Local | 30 | Increase the damage of each Champion by 20% for each Support Champion that they are adjacent to (stacking additively) |
-| 5 | Global | 10 | Increase gold find by 10% for each empty formation slot or escort in the formation (stacking multiplicatively) |
-| 6 | Local | 10 | Increase the damage of each Champion by 10% for each month since that Champion was released or reworked (rounding up and stacking additively) |
-| 6 | Global | 20 | Increase the damage of all Champions with no affiliation by 25% |
-| 7 | Local | 40 | Increase the damage of Champions with an INT score of 12 or higher by 100% |
-| 7 | Global | 20 | Increase the damage of all Champions when Gale is in the formation by 25% |
-| 8 | Local | 25 | Increase the damage of all Champions by 100% for 30 seconds after a distraction is clicked |
+| 1 | Global | 10 | Increases the damage of all Champions by 10% |
+| 2 | Local | 20 | Increases the damage of all Champions by 0.25% for each Elminster variant completed (stacking additively) |
+| 2 | Global | 20 | Increases of damage of Champions with a total ability score of 78 or lower by 10% |
+| 3 | Local | 40 | Increases the damage of Champions with a magic base attack by 100% |
+| 3 | Global | 5 | Increases the health of all Champions by 1% for every 50 areas completed in the current adventure (stacking multiplicatively) |
+| 4 | Local | 25 | Increases the damage of all Champions by 20% for each unique affiliation in the formation (stacking additively) |
+| 4 | Global | 20 | Increases the damage of Champions eligible for Elminster patron adventures by 10% |
+| 5 | Local | 30 | Increases the damage of each Champion by 20% for each Support Champion that they are adjacent to (stacking additively) |
+| 5 | Global | 10 | Increases gold find by 10% for each empty formation slot or escort in the formation (stacking multiplicatively) |
+| 6 | Local | 10 | Increases the damage of each Champion by 10% for each month since that Champion was released or reworked (rounding up and stacking additively) |
+| 6 | Global | 20 | Increases the damage of all Champions with no affiliation by 25% |
+| 7 | Local | 40 | Increases the damage of Champions with an INT score of 12 or higher by 100% |
+| 7 | Global | 20 | Increases the damage of all Champions when Gale is in the formation by 25% |
+| 8 | Local | 25 | Increases the damage of all Champions by 100% for 30 seconds after a distraction is clicked |
 | 8 | Global | 20 | Damage against enemies that are slowed or stunned increased by 25% |
-| 9 | Local | 50 | Increase the damage of all Champions by 50% |
-| 9 | Global | 20 | Increase the damage of all Champions by 10% |
-| 10 | Local | 40 | Increase the damage of all Champions who are 30+ years old by 100% |
-| 10 | Global | 10 | Increase the damage of all Champions by 5% for each Champion in your formation who is eligible for Elminster patron adventures (stacking multiplicatively) |
-| 11 | Local | 25 | Increase the damage of all Champions by 2% for each enemy that has spawned in the current area, stacking additively and capping at 100 |
-| 11 | Global | 10 | Increase the damage of all Champions by 1% for each active potion (stacking additively) |
+| 9 | Local | 50 | Increases the damage of all Champions by 50% |
+| 9 | Global | 20 | Increases the damage of all Champions by 10% |
+| 10 | Local | 40 | Increases the damage of all Champions who are 30+ years old by 100% |
+| 10 | Global | 10 | Increases the damage of all Champions by 5% for each Champion in your formation who is eligible for Elminster patron adventures (stacking multiplicatively) |
+| 11 | Local | 25 | Increases the damage of all Champions by 2% for each enemy that has spawned in the current area, stacking additively and capping at 100 |
+| 11 | Global | 10 | Increases the damage of all Champions by 1% for each active potion (stacking additively) |
 
 # Variants
 
