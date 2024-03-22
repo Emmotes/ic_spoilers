@@ -614,16 +614,24 @@ Unknown.
 > Stop the Modron March from crushing Waterdeep under its mechanical heel.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![TBD Icon](images/diana/1.png) **Variant 1: TBD** (Complete Area 75)
-> 
+![Acrobat! Icon](images/diana/23200.png) **Variant 1: Acrobat!** (Complete Area 75)
+> Diana starts in the formation. She can be moved but not removed.  
+> You may only use Champions that have a Dexterity of 15 or higher, an age of 20 or less, or total ability scores of 78 or less.  
+> Getting to Know Diana: Diana's first specialization selects the types of Champions she buffs. Choose the buff that is best for your formation!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![TBD Icon](images/diana/1.png) **Variant 2: TBD** (Complete Area 125)
-> 
+![Child of the Stargazer Icon](images/diana/23201.png) **Variant 2: Child of the Stargazer** (Complete Area 125)
+> Diana starts in the formation. She can be moved but not removed.  
+> Kosar joins the formation. If Kosar is defeated, you automatically fail the area.  
+> Kosar cheers on Diana, reducing her base attack cooldown by 50%.  
+> Getting to know Diana: Diana can use her Javelin staff to push monsters around. Can you figure out how to best protect Kosar? Hint: Push down so monsters target your tank and not Kosar!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![TBD Icon](images/diana/1.png) **Variant 3: TBD** (Complete Area 175)
-> 
+![Not That Guy Again! Icon](images/diana/23202.png) **Variant 3: Not That Guy Again!** (Complete Area 175)
+> Diana starts in the formation. She can be moved but not removed.  
+> Excluding Diana, only the youngest Champion, the most Dexterous Champion, and the Champion with the lowest total stats can deal damage. Diana can also deal damage.  
+> At the start of each Boss area, Venger arrives on his nightmare as an additional boss that must be defeated.  
+> Getting to know Diana: Depending on the supporting Champions in your formation, pick either Ensemble Cast or Spotlight Episode to really boost Diana's buffing power.
 </div></div>
 
 # Other Champion Images
@@ -632,6 +640,14 @@ Unknown.
     <span class="championImagesRow">
         <span class="championImagesPortrait">
             ![Diana Console Portrait](images/diana/console.png)Console Portait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Diana Gold Chest Icon](images/diana/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Diana Silver Chest Icon](images/diana/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
