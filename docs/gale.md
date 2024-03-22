@@ -443,7 +443,7 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ally of Elminster** (Level: 0)
+![Ally of Elminster Icon](images/gale/icon_allyofelminster.png) **Ally of Elminster** (Level: 0)
 > As an Ally of Elminster, Gale can be used in any Elminster Patron adventure or variant, even if he would not normally be available to be used due to variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -471,8 +471,8 @@ Gale will be the new champion in the Greengrass event on 3 April 2024.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 22827,
+    "large_graphic_id": 22824,
     "properties": {
         "is_formation_ability": true,
         "type": "upgrade",
