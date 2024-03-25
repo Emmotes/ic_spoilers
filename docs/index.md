@@ -123,6 +123,7 @@ Miscellaneous spoilers.
 
 * [Patron 5: Elminster](patron_5.md) - 3 April 2024 (Guess)
 * [New Campaign: Vecna Eve of Ruin](campaign_vecna.md) - 22 May 2024 (Guess)
+* [Event Roster](event_roster.md)
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)

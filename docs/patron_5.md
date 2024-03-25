@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-# Patron 5 
+# Patron 5
 
 We now know that Elminster Aumar will be the fifth patron in this game. This is because of an ability Gale will have:  
 > As an Ally of Elminster, Gale can be used in any Elminster Patron adventure or variant, even if he would not normally be available to be used due to variant or patron restrictions.
