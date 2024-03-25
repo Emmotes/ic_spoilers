@@ -55,7 +55,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 {:/nomarkdown}
 
-# Founder's Day - July
+# Founders' Day - July
 
 {::nomarkdown}
 
@@ -220,22 +220,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="bruenor" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/bruenor.png)">Bruenor (1)</span>
-<span class="eventRosterChampion" id="celeste" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/celeste.png)">Celeste (2)</span>
-<span class="eventRosterChampion" id="nayeli" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/nayeli.png)">Nayeli (3)</span>
-<span class="eventRosterChampion" id="jarlaxle" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/jarlaxle.png)">Jarlaxle (4)</span>
-<span class="eventRosterChampion" id="calliope" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/calliope.png)">Calliope (5)</span>
-<span class="eventRosterChampion" id="asharra" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/asharra.png)">Asharra (6)</span>
-<span class="eventRosterChampion" id="minsc" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/minsc.png)">Minsc (7)</span>
-<span class="eventRosterChampion" id="delina" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/delina.png)">Delina (8)</span>
-<span class="eventRosterChampion" id="makos" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/makos.png)">Makos (9)</span>
-<span class="eventRosterChampion" id="tyril" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/tyril.png)">Tyril (10)</span>
-<span class="eventRosterChampion" id="jamilah" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/jamilah.png)">Jamilah (11)</span>
-<span class="eventRosterChampion" id="arkhan" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/arkhan.png)">Arkhan (12)</span>
-<span class="eventRosterChampion" id="hitch" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/hitch.png)">Hitch (8)</span>
-<span class="eventRosterChampion" id="drizzt" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/drizzt.png)">Drizzt (9)</span>
 <span class="eventRosterChampion" id="xander" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/xander.png)">Xander (5)</span>
-<span class="eventRosterChampion" id="azaka" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/azaka.png)">Azaka (12)</span>
 <span class="eventRosterChampion" id="wulfgar" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/wulfgar.png)">Wulfgar (10)</span>
 <span class="eventRosterChampion" id="shandie" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/shandie.png)">Shandie (6)</span>
 <span class="eventRosterChampion" id="turiel" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/turiel.png)">Turiel (1)</span>
@@ -243,25 +228,18 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="krydle" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/krydle.png)">Krydle (2)</span>
 <span class="eventRosterChampion" id="grimm" style="background-image:url(https://emmotes.github.io/ic_wiki/images/bg/portraits/portrait.png)">B&G (8)</span>
 <span class="eventRosterChampion" id="lazaapz" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/lazaapz.png)">Lazaapz (9)</span>
-<span class="eventRosterChampion" id="dragonbait" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/dragonbait.png)">Dragonbait (11)</span>
-<span class="eventRosterChampion" id="ulkoria" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/ulkoria.png)">Ulkoria (10)</span>
 <span class="eventRosterChampion" id="talin" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/talin.png)">Talin (2)</span>
 <span class="eventRosterChampion" id="shaka" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/shaka.png)">Shaka (9)</span>
 <span class="eventRosterChampion" id="ellywick" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/ellywick.png)">Ellywick (10)</span>
 <span class="eventRosterChampion" id="corazon" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/corazon.png)">Corazón (8)</span>
-<span class="eventRosterChampion" id="reya" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/reya.png)">Reya (6)</span>
-<span class="eventRosterChampion" id="nerds" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/nerds.png)">NERDS (1)</span>
-<span class="eventRosterChampion" id="xerophon" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/xerophon.png)">Xerophon (7)</span>
 <span class="eventRosterChampion" id="rust" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/rust.png)">Rust (11)</span>
 <span class="eventRosterChampion" id="dm" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/dm.png)">DM (6)</span>
 <span class="eventRosterChampion" id="valentine" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/valentine.png)">Valentine (5)</span>
 <span class="eventRosterChampion" id="dob" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/dob.png)">Dob (12)</span>
-<span class="eventRosterChampion" id="blooshi" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/blooshi.png)">Blooshi (2)</span>
 <span class="eventRosterChampion" id="fen" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/fen.png)">Fen (6)</span>
 <span class="eventRosterChampion" id="nixie" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/nixie.png)">Nixie (1)</span>
 <span class="eventRosterChampion" id="vinursa" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/vinursa.png)">Vin Ursa (7)</span>
 <span class="eventRosterChampion" id="astarion" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/astarion.png)">Astarion (10)</span>
-<span class="eventRosterChampion" id="krux" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/krux.png)">Krux (4)</span>
 <span class="eventRosterChampion" id="karlach" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/karlach.png)">Karlach (4)</span>
 </span>
 
