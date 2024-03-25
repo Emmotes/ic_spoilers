@@ -4,7 +4,7 @@
 
 A list of events and what champions are in them - to the best of our knowledge.
 
-<span style="font-size:1.2em;">ⓘ</span>  *Note: This does **not** incldue reworked champions as they can be moved wherever CNE want for their rework.*
+<span style="font-size:1.2em;">ⓘ</span>  *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
 # Greengrass - April (2024 Only)
 
