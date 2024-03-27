@@ -3676,6 +3676,26 @@ You may only use Champions that are partially or totally neutral.
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### We've Got Swords and Flames
+
+Complete Area 950 (vs 825 for Zariel)
+
+> You may not use Champions with ranged (normal) attacks.
+Each enemy wave that spawns increases the speed and damage of all enemies by 100%, stacking additively and reset with each area change.
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Lawfulwork
+
+Complete Area 1000 (vs 875 for Zariel)
+
+> You may only use Lawful Champions.
+Champions' normal attack cooldown is increased by 2 seconds.
+</div></div>
+
+
 [Back to Top](#top)
 
 [Back to Top](#top)
