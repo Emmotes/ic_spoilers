@@ -177,6 +177,40 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increases the Health of all other Champions by 25% of Gromma's Max Health.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1950,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the Health of all other Champions by $amount% of $source's Max Health"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "increase_health_by_source_percent,25",
+            "targets": [
+                "other"
+            ],
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
 > Gromma increases the damage of Neutral Champions (on the Good/Evil axis) by 5% for each enemy that has spawned and boss enrage stack in the current area, stacking multiplicatively and capping at 100.
 <details><summary><em>Raw Data</em></summary>
