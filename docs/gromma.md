@@ -21,22 +21,197 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Running With The Youngins** (Guess)
-> Unknown.
+**Base Attack: Melf's Acid Arrow** (Guess)
+> Gromma attacks the nearest target, dealing BUD-based area damage in a small radius.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 22981,
-    "graphic": "Icons/Champions/Rebalance/Gromma/Icon_Formation_GrommaRunningWithTheYoungins",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 751,
+    "name": "Melf's Acid Arrow",
+    "description": "Gromma attacks the nearest target, dealing BUD-based area damage in a small radius.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1.5,
+    "cooldown": 4.6,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "acid_arrow",
+            "shoot_frame": 10,
+            "projectile_count": 1,
+            "shoot_offset_x": 140,
+            "shoot_offset_y": 0
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Grandmotherly Love** (Guess)
+> Gromma increases the damage of all other heroes proportional to their age. The buff starts applying to each Champion at 100%, and for every 10 years younger than 100 that Champion is, the buff on them is increased by 100%, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1949,
+    "flavour_text": "",
+    "description": {
+        "desc": "Gromma increases the damage of all other heroes proportional to their age. The buff starts applying to each Champion at $(amount)%, and for every 10 years younger than 100 that Champion is, the buff on them is increased by $(buff_amount___2)%, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "other"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ]
+        },
+        {
+            "effect_string": "buff_incoming_effect_by_expr",
+            "effect_id": 1949,
+            "effect_index": 0,
+            "buff_amount": 100,
+            "hero_expr": "pow((1+(buff_amount/100)), max(9 - floor(min(age,90)/10),0))",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "exclude_heroes",
+                    "hero_ids": [
+                        146
+                    ]
+                }
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ],
+            "skip_effect_key_desc": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Running With The Youngins** (Guess)
+> The effect of Grandmotherly Love is increased by 50% for each Champion in the formation younger than Gromma, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1951,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of Grandmotherly Love is increased by $amount% for each Champion in the formation younger than Gromma, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,50"
+        },
+        {
+            "effect_string": "buff_upgrade,0,14874,0",
+            "amount_expr": "upgrade_amount(14876,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "age<80",
+            "per_hero_targets": [
+                {
+                    "type": "except_heroes",
+                    "hero_ids": [
+                        146
+                    ],
+                    "only_in_formation": true
+                }
+            ],
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        },
+        {
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_trigger_expr": "AppendToSaveStat(`gromma_running_with_nine_youngins`, false, trigger_count * as_int(GetUpgradeStacks(14876, 1) >= 9))"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Gromma increases the damage of Neutral Champions (on the Good/Evil axis) by 5% for each enemy that has spawned and boss enrage stack in the current area, stacking multiplicatively and capping at 100.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1952,
+    "flavour_text": "",
+    "description": {
+        "desc": "Gromma increases the damage of Neutral Champions (on the Good/Evil axis) by $amount% for each enemy that has spawned and boss enrage stack in the current area, stacking multiplicatively and capping at 100."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,5",
+            "targets": [
+                {
+                    "type": "by_tags",
+                    "tags": "geneutral"
+                }
+            ],
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "0",
+            "post_process_expr": "boss_enrage_stacks+monsters_spawned",
+            "limit": 100,
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "spec_option_post_apply_info": "Champions Targeted: $num_targets"
     }
 }
 </pre>
@@ -46,22 +221,33 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Circle of the Arctic** (Guess)
-> Unknown.
+> Gromma now casts Sleet Storm on enemies she attacks, causing her targeted enemy, and all nearby enemies, to take 400% additional damage from all attacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 22782,
-    "graphic": "Portraits/Portrait_Gale",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "portrait"
-        ],
-        "quantize": true
+    "id": 1953,
+    "flavour_text": "",
+    "description": {
+        "desc": "Gromma now casts Sleet Storm on enemies she attacks, causing her targeted enemy, and all nearby enemies, to take $amount% additional damage from all attacks."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "add_monster_hit_effects,400,57",
+            "use_chained_attack": false,
+            "monster_effect": {
+                "effect_string": "effect_def,1961"
+            },
+            "after_damage": false,
+            "range": 200
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -70,112 +256,41 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Circle of the Mountain** (Guess)
-> Unknown.
+**Specialisation: Unknown** (Guess)
+> Gromma's damage is increased by 50% of the highest Grandmotherly Love buff she's applying to another Champion in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 22783,
-    "graphic": "Characters/Event/Hero_Gale",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 3,
-    "export_params": {
-        "uses": [
-            "crusader"
-        ]
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Circle of the Swamp** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 22784,
-    "graphic": "Characters/Event/Hero_Gale_2xup",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 3,
-    "export_params": {
-        "uses": [
-            "crusader"
-        ],
-        "upscale": 2,
-        "ref_graphic_id": 22783,
-        "sequence_override": [
-            1,
-            2
-        ]
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Entanglement** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 22784,
-    "graphic": "Characters/Event/Hero_Gale_2xup",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 3,
-    "export_params": {
-        "uses": [
-            "crusader"
-        ],
-        "upscale": 2,
-        "ref_graphic_id": 22783,
-        "sequence_override": [
-            1,
-            2
-        ]
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Melf's Acid Arrow** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 22784,
-    "graphic": "Characters/Event/Hero_Gale_2xup",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 3,
-    "export_params": {
-        "uses": [
-            "crusader"
-        ],
-        "upscale": 2,
-        "ref_graphic_id": 22783,
-        "sequence_override": [
-            1,
-            2
-        ]
+    "id": 1954,
+    "flavour_text": "",
+    "description": {
+        "desc": "Gromma's damage is increased by $(amount)% of the highest Grandmotherly Love buff she's applying to another Champion in the formation."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,50",
+            "targets": [
+                "self"
+            ],
+            "amount_func": "mult_by_highest_applied_effect_amount",
+            "upgrade_id": 14874,
+            "effect_index": 0,
+            "ignore_empty_slots": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true
     }
 }
 </pre>
@@ -185,27 +300,114 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Stoneskin** (Guess)
-> Unknown.
+> Increase the effect of Hardened Shell by 100%. Enemies that attack Gromma are impaled by her spiked shell, instantly taking 10 seconds of BUD damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 22784,
-    "graphic": "Characters/Event/Hero_Gale_2xup",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 3,
-    "export_params": {
-        "uses": [
-            "crusader"
-        ],
-        "upscale": 2,
-        "ref_graphic_id": 22783,
-        "sequence_override": [
-            1,
-            2
-        ]
+    "id": 1955,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the effect of Hardened Shell by $amount%. Enemies that attack Gromma are impaled by her spiked shell, instantly taking $(amount___2) seconds of BUD damage."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,14873"
+        },
+        {
+            "effect_string": "deal_bud_damage_when_hit,10"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Entanglement** (Guess)
+> The effect of Gromma's chosen Circle specialization is increased by 100%, and enemies damaged by Gromma have their movement speed and attack speed halved.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1956,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of Gromma's chosen Circle specialization is increased by $amount%, and enemies damaged by Gromma have their movement speed and attack speed halved."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,14877"
+        },
+        {
+            "effect_string": "buff_upgrade,100,14878"
+        },
+        {
+            "effect_string": "buff_upgrade,100,14879"
+        },
+        {
+            "effect_string": "add_monster_hit_effects,50,57",
+            "use_chained_attack": false,
+            "monster_effect": {
+                "effect_string": "effect_def,1962"
+            },
+            "after_damage": false
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Melf's Acid Arrow** (Guess)
+> Replaces Gromma's base attack with Melf's Acid Arrow, changing her into a magic attacker. After hitting its target the arrow explodes, damaging it's target and all nearby enemies for an additional 5 seconds of BUD damage.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1957,
+    "flavour_text": "",
+    "description": {
+        "desc": "Replaces Gromma's base attack with Melf's Acid Arrow, changing her into a magic attacker. After hitting its target the arrow explodes, damaging it's target and all nearby enemies for an additional $(amount___2) seconds of BUD damage."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_base_attack,751"
+        },
+        {
+            "effect_string": "add_monster_hit_effects,5",
+            "after_damage": true,
+            "monster_effect": {
+                "effect_string": "deal_bud_damage_in_area,5,200"
+            }
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true
     }
 }
 </pre>
