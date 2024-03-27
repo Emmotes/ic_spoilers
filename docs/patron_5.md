@@ -43,27 +43,27 @@ There is also potential that the restriction will include champions that were re
 | 42 Elminster Patron Chests | $54.99 | - | - |
 | Elminster Starter Pack | $27.99 | - | Once-Only |
 | Skin: Dark Mage Dungeon Master (DM) | $11.99 | - | Once-Only |
-| Time Gate Piece | 2,500 | 25,000 | Per Week: 1 |
-| Potion of Specialization | 5,000 | 50,000 | - |
-| Huge Potion of Giant's Strength | 2,000 | 500,000 | Per Week: 2 |
-| Huge Potion of Clairvoyance | 2,000 | 500,000 | Per Week: 2 |
-| Huge Potion of Heroism | 2,000 | 500,000 | Per Week: 2 |
-| Huge Potion of Fire Breath | 2,000 | 1,500,000 | Per Week: 2 |
-| Huge Potion of Speed | 2,000 | 1,500,000 | Per Week: 2 |
-| Modron Component Chest | 5,000 | 3,000,000 | Per Week: 1 |
-| Feat: All Grown Up (DM) | 10,000 | 5,000,000 | Once-Only |
-| Potion of Polish | 25,000 | 5,000,000 | Once-Only |
-| Feat: Sword Coast Sage (Gale) | 10,000 | 5,000,000 | Once-Only |
-| Feat: Neutral Good (Gale) | 25,000 | 5,000,000 | Once-Only |
-| Familiar: Prismatic Will-o-'Wisp | 50,000 | 5,000,000 | Once-Only |
-| Skin: Cunning Dark Urge (Dark Urge) | 20,000 | 5,000,000 | Once-Only |
-| 2x Support Pigment | 25,000 | 5,000,000 | Once-Only |
-| Skin: Casual Gale (Gale) | 20,000 | 5,000,000 | Once-Only |
-| Feat: Diverging Paths (Dark Urge) | 10,000 | 5,000,000 | Once-Only |
-| Feat: Never Late (DM) | 25,000 | 5,000,000 | Once-Only |
-| Golden Epic Potion | 25,000 | 5,000,000 | Once-Only |
-| Skin: Feywild Dungeon Master (DM) | 20,000 | 5,000,000 | Once-Only |
-| Feat: Weapon Master (Dark Urge) | 25,000 | 5,000,000 | Once-Only |
+| Time Gate Piece | 2,500 | 1,000,000,000 | Per Week: 1 |
+| Potion of Specialization | 5,000 | 2,000,000,000 | - |
+| Huge Potion of Giant's Strength | 2,000 | -294,967,296 | Per Week: 2 |
+| Huge Potion of Clairvoyance | 2,000 | -294,967,296 | Per Week: 2 |
+| Huge Potion of Heroism | 2,000 | -294,967,296 | Per Week: 2 |
+| Huge Potion of Fire Breath | 2,000 | -589,934,592 | Per Week: 2 |
+| Huge Potion of Speed | 2,000 | -589,934,592 | Per Week: 2 |
+| Modron Component Chest | 5,000 | -1,179,869,184 | Per Week: 1 |
+| Feat: All Grown Up (DM) | 10,000 | 1,935,228,928 | Once-Only |
+| Potion of Polish | 25,000 | -424,509,440 | Once-Only |
+| Feat: Sword Coast Sage (Gale) | 10,000 | 1,215,752,192 | Once-Only |
+| Feat: Neutral Good (Gale) | 25,000 | 568,041,472 | Once-Only |
+| Familiar: Prismatic Will-o-'Wisp | 50,000 | -2,022,801,408 | Once-Only |
+| Skin: Cunning Dark Urge (Dark Urge) | 20,000 | 249,364,480 | Once-Only |
+| 2x Support Pigment | 25,000 | 498,728,960 | Once-Only |
+| Skin: Casual Gale (Gale) | 20,000 | 997,457,920 | Once-Only |
+| Feat: Diverging Paths (Dark Urge) | 10,000 | 1,994,915,840 | Once-Only |
+| Feat: Never Late (DM) | 25,000 | -305,135,616 | Once-Only |
+| Golden Epic Potion | 25,000 | 276,447,232 | Once-Only |
+| Skin: Feywild Dungeon Master (DM) | 20,000 | -1,863,462,912 | Once-Only |
+| Feat: Weapon Master (Dark Urge) | 25,000 | 1,136,082,944 | Once-Only |
 
 # Patron Perks
 
