@@ -178,7 +178,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Javelin Staff Throw**
-> Unknown effect.  
+> Diana throws her Javelin Staff, dealing ultimate damage 10 times to random enemies and stunning them for 5 seconds.  
 > Cooldown: 240s (Cap 60s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -186,15 +186,27 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
 {
     "id": 749,
     "name": "Javelin Staff Throw",
-    "description": "",
-    "long_description": "",
-    "graphic_id": 0,
+    "description": "Diana hits up to 10 enemies for ultimate damage, stunning them for 5 seconds.",
+    "long_description": "Diana throws her Javelin Staff, dealing ultimate damage 10 times to random enemies and stunning them for 5 seconds.",
+    "graphic_id": 23369,
     "target": "random",
-    "num_targets": 0,
+    "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
     "cooldown": 240,
-    "animations": [],
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "diana",
+            "stun_duration": 5,
+            "max_hits": 10,
+            "staff_graphic_id": 23190,
+            "projectile_throw_speed": 1600,
+            "projectile_bounce_speed": 1600,
+            "projectile_return_speed": 1600,
+            "projectile_impact_graphic_id": 58
+        }
+    ],
     "tags": [
         "ultimate",
         "ranged",
@@ -382,6 +394,12 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
             ],
             "formation_arrows_for_effected_only": true,
             "slot_change_updates_targets": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_hero_expr": "age<=20&&hero_id!=146",
+            "per_trigger_expr": "AppendToSaveStat(`diana_thats_what_i_call_teamwork`, false, trigger_count * as_int(per_hero_count >= 10))"
         }
     ],
     "requirements": "",
@@ -424,6 +442,12 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
             ],
             "formation_arrows_for_effected_only": true,
             "slot_change_updates_targets": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_hero_expr": "GetStat(`dex`)>=15",
+            "per_trigger_expr": "AppendToSaveStat(`diana_thats_what_i_call_teamwork`, false, trigger_count * as_int(per_hero_count >= 10))"
         }
     ],
     "requirements": "",
@@ -466,6 +490,12 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
             ],
             "formation_arrows_for_effected_only": true,
             "slot_change_updates_targets": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_hero_expr": "GetStat(`total_ability_score`)<=78",
+            "per_trigger_expr": "AppendToSaveStat(`diana_thats_what_i_call_teamwork`, false, trigger_count * as_int(per_hero_count >= 10))"
         }
     ],
     "requirements": "",
