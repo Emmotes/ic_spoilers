@@ -200,7 +200,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "conditions": [
                 {
                     "condition": "not short_form",
-                    "desc": "^^Healing Charm: Penelope heals affected Champions for $(amount___2) HP every second.^^Tools for the Job Charm: Penelope increases the damage of all Champions by $(not_buffed amount___3) for each Champion affected by this charm. This effect stacks multiplicatively."
+                    "desc": "^^Healing Charm: Penelope heals affected Champions for $(amount___2) HP every second.^^Tools for the Job Charm: Penelope increases the damage of all Champions by $(not_buffed amount___3)% for each Champion affected by this charm. This effect stacks multiplicatively."
                 }
             ]
         }
