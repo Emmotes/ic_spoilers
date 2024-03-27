@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Dragonborn Glitch Strongheart Portrait](images/skin_portraits/dragonbornglitchstrongheart.png)Dragonborn Glitch Strongheart
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Dragonborn Glitch Strongheart Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">27 Mar 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Tiefling Glitch Miria Portrait](images/skin_portraits/tieflingglitchmiria.png)Tiefling Glitch Miria
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Tiefling Glitch Miria Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">27 Mar 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Aasimar Glitch Penelope Portrait](images/skin_portraits/aasimarglitchpenelope.png)Aasimar Glitch Penelope
         </span>
         <span class="skinTableSource">

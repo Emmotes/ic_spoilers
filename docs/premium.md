@@ -5,49 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Dragonborn Glitch Strongheart Skin & Feat Pack - $11.99  
-Date of release: 27 Mar 2024
-
-Contents:
-
-* Champion: `Strongheart`
-* Skin: `Dragonborn Glitch Strongheart`
-* Feat: `Dragonborn Glitch` (Strongheart)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Strongheart Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mosaic Mimir Familiar Pack - $5.99  
-Date of release: 27 Mar 2024
-
-Contents:
-
-* Familiar: `Mosaic Mimir`
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Tiefling Glitch Miria Skin & Feat Pack - $11.99  
-Date of release: 27 Mar 2024
-
-Contents:
-
-* Champion: `Miria`
-* Skin: `Tiefling Glitch Miria`
-* Feat: `Tiefling Glitch` (Miria)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Miria Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Aasimar Glitch Penelope Theme Pack - $27.99  
 Date of release: 03 Apr 2024
 
