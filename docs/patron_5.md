@@ -55,7 +55,7 @@ There is also potential that the restriction will include champions that were re
 | Potion of Polish | 25,000 | 6.40e10 | Once-Only |
 | Feat: Sword Coast Sage (Gale) | 10,000 | 1.00e11 | Once-Only |
 | Feat: Neutral Good (Gale) | 25,000 | 4.00e11 | Once-Only |
-| Familiar: Prismatic Will-o-'Wisp | 50,000 | 1.60e12 | Once-Only |
+| Familiar: Prismatic Will-o'-Wisp | 50,000 | 1.60e12 | Once-Only |
 | Skin: Cunning Dark Urge (Dark Urge) | 20,000 | 3.20e12 | Once-Only |
 | 2x Support Pigment | 25,000 | 6.40e12 | Once-Only |
 | Skin: Casual Gale (Gale) | 20,000 | 1.28e13 | Once-Only |
