@@ -123,6 +123,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Running With The Youngins** (Guess)
 > The effect of Grandmotherly Love is increased by 50% for each Champion in the formation younger than Gromma, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>

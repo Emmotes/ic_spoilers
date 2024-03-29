@@ -418,6 +418,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Keep Your Friends Close** (Guess)
 > Increases the effect of Have You Met My Friends by 150% for each Good Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -464,6 +466,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Keep Your Future Friends Closer** (Guess)
 > Increases the effect of Have You Met My Friends by 125% for each Evil Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -510,6 +514,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Everybody Gets To Be Friends** (Guess)
 > Increases the effect of Have You Met My Friends by 70% for each Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
