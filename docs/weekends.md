@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Wise Friends | 29 Mar | **Fen** | Celeste | Jamilah | Valentine | Tatyana | Golden Epic |
 | Friendly | 05 Apr | **Penelope** | Tyril | Jarlaxle | Hew Maan | Aila | Golden Epic |
 | Archmage's | 12 Apr | **Gale** | Asharra | Makos | Lae'zel | Astarion | Golden Epic |
 | Rashemen Travel | 19 Apr | **Dynaheir** | Minsc | Bruenor | Antrius | Wyll | Golden Epic |
