@@ -16,7 +16,8 @@ Justin also said "April" when asked about potential Patron 5 release dates on a 
 As we've seen from the video on [Gale's Spotlight blog](https://www.codenameentertainment.com/?page=idle_champions#blog) that includes a picture of Patron 5 - we know the restriction is:  
 > Only champions released or reworked in an event in past 3 years can be used.
 
-Ignoring the poor grammer and overall ambiguity - that basically means as time progresses - older champions will become too old to be eligible but new champions will also release and be available.
+It's poor grammer but it means `(released or reworked) in an event`. Which means Evergreens cannot be used in Elminster patron variants. It also means that as time progresses - older champions will become too old to be eligible but new champions will also release and be available. Justin has said (and I quote):  
+> He'll trend toward a rotating set of 48 Champions.
 
 I made a list of all champions and their eligibility for Elminster for the date of his release: [Elminster Champion Eligibility List](patron_5_champions.html).
 

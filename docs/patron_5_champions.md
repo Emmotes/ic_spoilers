@@ -2,7 +2,7 @@
 
 # Elminster Champion Eligibility List
 
-This list is based on our assumption of Elminster's restrictions as well as the current game data - which - obviously - can change at any moment.
+This list of champions that will be eligible for Elminster's patron restriction on day 1 of his release.
 
 | ID | Champion | Date Available | Date Reworked | Eligible |
 |--:|---|--:|--:|--:|
@@ -91,9 +91,9 @@ This list is based on our assumption of Elminster's restrictions as well as the 
 | 83 | Ellywick | 21 Jul 2021 | 21 Jul 2021 | Yes |
 | 84 | Prudence | 11 Aug 2021 | 11 Aug 2021 | Yes |
 | 85 | Corazón | 01 Sept 2021 | 01 Sept 2021 | Yes |
-| 86 | Reya | 01 Sept 2021 | 01 Sept 2021 | Yes |
-| 87 | NERDS | 01 Sept 2021 | 01 Sept 2021 | Yes |
-| 88 | Xerophon | 01 Sept 2021 | 01 Sept 2021 | Yes |
+| 86 | Reya | 01 Sept 2021 | 01 Sept 2021 | - |
+| 87 | NERDS | 01 Sept 2021 | 01 Sept 2021 | - |
+| 88 | Xerophon | 01 Sept 2021 | 01 Sept 2021 | - |
 | 89 | D'hani | 29 Sept 2021 | 29 Sept 2021 | Yes |
 | 90 | Brig | 20 Oct 2021 | 20 Oct 2021 | Yes |
 | 91 | Widdle | 10 Nov 2021 | 10 Nov 2021 | Yes |
@@ -111,7 +111,7 @@ This list is based on our assumption of Elminster's restrictions as well as the 
 | 103 | Valentine | 20 Jul 2022 | 20 Jul 2022 | Yes |
 | 104 | Voronika | 10 Aug 2022 | 10 Aug 2022 | Yes |
 | 105 | Dob | 31 Aug 2022 | 31 Aug 2022 | Yes |
-| 106 | Blooshi | 23 Mar 2022 | 23 Mar 2022 | Yes |
+| 106 | Blooshi | 23 Mar 2022 | 23 Mar 2022 | - |
 | 113 | Egbert | 28 Sept 2022 | 28 Sept 2022 | Yes |
 | 114 | Kent | 19 Oct 2022 | 19 Oct 2022 | Yes |
 | 115 | Virgil | 09 Nov 2022 | 09 Nov 2022 | Yes |
@@ -129,7 +129,7 @@ This list is based on our assumption of Elminster's restrictions as well as the 
 | 127 | Vin Ursa | 26 Jul 2023 | 26 Jul 2023 | Yes |
 | 128 | Lae'zel | 16 Aug 2023 | 16 Aug 2023 | Yes |
 | 129 | Astarion | 04 Sept 2023 | 04 Sept 2023 | Yes |
-| 136 | Krux | 19 Jul 2023 | 19 Jul 2023 | Yes |
+| 136 | Krux | 19 Jul 2023 | 19 Jul 2023 | - |
 | 138 | Certainty | 27 Sept 2023 | 27 Sept 2023 | Yes |
 | 139 | Thellora | 18 Oct 2023 | 18 Oct 2023 | Yes |
 | 140 | Jang Sao | 08 Nov 2023 | 08 Nov 2023 | Yes |
