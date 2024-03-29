@@ -639,28 +639,6 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Gale's Gale Icon](images/gale/icon_galesgale.png) **Gale's Gale** (Level: 170)
-> Unknown Effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 14581,
-    "hero_id": 147,
-    "required_level": 170,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ultimate",
-    "effect": "set_ultimate_attack",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "Gale's Gale"
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![An Experienced Sage Icon](images/gale/icon_anexperiencedsage.png) **An Experienced Sage** (Level: 430)
 > Gale increases the effect of Archmage's Insight by 10% for each Elminster Patron variant you have completed, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
