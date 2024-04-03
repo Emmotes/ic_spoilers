@@ -13,25 +13,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="gale.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Gale Portrait Icon](images/gale/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Gale&nbsp;<span class="indexChampionTableNoLink">- Human Wizard of Absolute Adversaries</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Greengrass - 3 April 2024</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="diana.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -57,25 +38,6 @@ These are the event champions that are upcoming and all the information we know 
 A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
-{::nomarkdown}
-<a href="penelope.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Penelope Portrait Icon](images/penelope/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Penelope&nbsp;<span class="indexChampionTableNoLink">- Halfling Druid / Warlock of Heroes of the Planes</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Greengrass - 3 April 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 {::nomarkdown}
 <a href="gromma.html">
 {:/nomarkdown}
@@ -121,7 +83,6 @@ Not events events - but events. You know?
 
 Miscellaneous spoilers.
 
-* [Patron 5: Elminster](patron_5.md) - 3 April 2024 (Guess)
 * [New Campaign: Vecna Eve of Ruin](campaign_vecna.md) - 22 May 2024 (Guess)
 * [Event Roster](event_roster.md)
 * [Feats](feats.md)
