@@ -30,108 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>DM</span>
-        </span>
-        <span class="featTableIcon3">
-            ![All Grown Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**All Grown Up (DM)**Ah, time flows yet again.</span>All Grown Up
-        </span>
-        <span class="featTableEffect">
-            <span>+5 Years Limit to Patience Young Ones</span>
-        </span>
-        <span class="featTableSource">
-            <span>Patron: 5</span>
-        </span>
-        <span class="featTableDate">
-            <span>03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>DM</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Never Late Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Never Late (DM)**A Dungeon Master appears when they mean to!</span>Never Late
-        </span>
-        <span class="featTableEffect">
-            <span>80% Disappearing Act</span>
-        </span>
-        <span class="featTableSource">
-            <span>Patron: 5</span>
-        </span>
-        <span class="featTableDate">
-            <span>03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Dark Urge</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Diverging Paths Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Diverging Paths (Dark Urge)**You have a purpose, sire. Don't turn away from it!</span>Diverging Paths
-        </span>
-        <span class="featTableEffect">
-            <span>40% All Second Specialisations</span>
-        </span>
-        <span class="featTableSource">
-            <span>Patron: 5</span>
-        </span>
-        <span class="featTableDate">
-            <span>03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Dark Urge</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Weapon Master (Dark Urge)**You are an exquisite artist with a blade, sire.</span>Weapon Master
-        </span>
-        <span class="featTableEffect">
-            <span>120% Self DPS</span>
-        </span>
-        <span class="featTableSource">
-            <span>Patron: 5</span>
-        </span>
-        <span class="featTableDate">
-            <span>03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Gale</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Netherese Knowledge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Netherese Knowledge (Gale)**The risk is worth the reward. This could be just what we need to save everyone!</span>Netherese Knowledge
-        </span>
-        <span class="featTableEffect">
-            <span>80% All Second Specialisations</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Penelope</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Aasimar Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Aasimar Glitch (Penelope)**LOOK HOW COLORFUL I AM!</span>Aasimar Glitch
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Aasimar & +20% to ??? per Good</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Astarion</span>
         </span>
         <span class="featTableIcon4">
@@ -777,6 +675,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Intelligence</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Penelope</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Friends Forever Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Friends Forever (Penelope)**Aw, I just love you all so much.</span>Friends Forever
+        </span>
+        <span class="featTableEffect">
+            <span>80% All First Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

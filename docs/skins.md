@@ -11,90 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Aasimar Glitch Penelope Portrait](images/skin_portraits/aasimarglitchpenelope.png)Aasimar Glitch Penelope
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Aasimar Glitch Penelope Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Casual Gale Portrait](images/skin_portraits/casualgale.png)Casual Gale
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Patron 5 Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">20,000</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Cunning Dark Urge Portrait](images/skin_portraits/cunningdarkurge.png)Cunning Dark Urge
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Patron 5 Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">20,000</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Dark Mage Dungeon Master Portrait](images/skin_portraits/darkmagedungeonmaster.png)Dark Mage Dungeon Master
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Patron 5 Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Feywild Dungeon Master Portrait](images/skin_portraits/feywilddungeonmaster.png)Feywild Dungeon Master
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Patron 5 Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">20,000</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Mind Flayer Gale Portrait](images/skin_portraits/mindflayergale.png)Mind Flayer Gale
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Mind Flayer Gale Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">03 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Elegant Astarion Portrait](images/skin_portraits/elegantastarion.png)Elegant Astarion
         </span>
         <span class="skinTableSource">
@@ -235,6 +151,34 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![First Edition Nordom Portrait](images/skin_portraits/firsteditionnordom.png)First Edition Nordom
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Classic Nordom Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">08 May 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Fourth Edition Nordom Portrait](images/skin_portraits/fourtheditionnordom.png)Fourth Edition Nordom
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Classic Nordom Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">08 May 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![High Harper Jaheira Portrait](images/skin_portraits/highharperjaheira.png)High Harper Jaheira
         </span>
         <span class="skinTableSource">
@@ -277,7 +221,35 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![1e Nordom Portrait](images/skin_portraits/1enordom.png)1e Nordom
+            ![Casual Karlach Portrait](images/skin_portraits/casualkarlach.png)Casual Karlach
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Icewind Dale Artemis Portrait](images/skin_portraits/icewinddaleartemis.png)Icewind Dale Artemis
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)Wyrm Slayer Warduke
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>

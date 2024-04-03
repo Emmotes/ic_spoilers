@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Aasimar Glitch Penelope Theme Pack - $27.99  
-Date of release: 03 Apr 2024
-
-Contents:
-
-* Champion: `Penelope`
-* Skin: `Aasimar Glitch Penelope`
-* Feat: `Aasimar Glitch` (Penelope)
-* Familiar: `Happy the Capybara`
-* Chests: `Gold Penelope Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mind Flayer Gale Theme Pack - $27.99  
-Date of release: 03 Apr 2024
-
-Contents:
-
-* Champion: `Gale`
-* Skin: `Mind Flayer Gale`
-* Feat: `Netherese Knowledge` (Gale)
-* Familiar: `Tara the Tressym`
-* Chests: `Gold Gale Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Dwarf Glitch Bundle Pack - $21.49  
 Date of release: 10 Apr 2024
 
@@ -164,7 +134,7 @@ Date of release: 24 Apr 2024
 Contents:
 
 * Familiar: `Classic Demogorgon`
-* Familiar Skin: Red Nose Baby Owlbear Skin (Baby Snowy Owlbear)
+* Familiar Skin: Demogorgon Sketch Skin (Classic Demogorgon)
 * Buff: `Huge Potion of Speed` x6
 * Buff: `Huge Potion of Giant's Strength` x6
 * Buff: `Huge Potion of Clairvoyance` x6
@@ -182,7 +152,7 @@ Date of release: 24 Apr 2024
 Contents:
 
 * Familiar: `Classic Remorhaz`
-* Familiar Skin: Red Nose Baby Owlbear Skin (Baby Snowy Owlbear)
+* Familiar Skin: Remorhaz Sketch Skin (Classic Remorhaz)
 * Buff: `Huge Potion of Speed` x2
 * Buff: `Huge Potion of Giant's Strength` x2
 * Buff: `Huge Potion of Clairvoyance` x2
@@ -226,8 +196,8 @@ Date of release: 08 May 2024
 Contents:
 
 * Champion: `Nordom Whistleklik`
-* Skin: ???
-* Skin: ???
+* Skin: `Fourth Edition Nordom`
+* Skin: `First Edition Nordom`
 * Feat: `Greater Order` (Nordom)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
@@ -287,7 +257,7 @@ Date of release: 22 May 2024
 Contents:
 
 * Familiar: `Classic Beholder`
-* Familiar Skin: Red Nose Baby Owlbear Skin (Baby Snowy Owlbear)
+* Familiar Skin: Beholder Sketch Skin (Classic Beholder)
 * Buff: `Huge Potion of Speed` x6
 * Buff: `Huge Potion of Giant's Strength` x6
 * Buff: `Huge Potion of Clairvoyance` x6
@@ -305,7 +275,7 @@ Date of release: 22 May 2024
 Contents:
 
 * Familiar: `Classic Mimic`
-* Familiar Skin: Red Nose Baby Owlbear Skin (Baby Snowy Owlbear)
+* Familiar Skin: Mimic Sketch Skin (Classic Mimic)
 * Buff: `Huge Potion of Speed` x4
 * Buff: `Huge Potion of Giant's Strength` x4
 * Buff: `Huge Potion of Clairvoyance` x4
