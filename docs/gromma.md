@@ -21,6 +21,46 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Slow and Steady** (Guess)
+> Gromma Nander, moving faster than you would expect for an 80 year old Tortle, stabs the closest enemy with her spear.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 752,
+    "name": "Slow and Steady",
+    "description": "Gromma Nander, moving faster than you would expect for an 80 year old Tortle, stabs the closest enemy with her spear.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.6,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -84,
+            "damage_frame": 2,
+            "jump_sound": 30,
+            "sound_frames": {
+                "2": 154
+            }
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Melf's Acid Arrow** (Guess)
 > Gromma attacks the nearest target, dealing BUD-based area damage in a small radius.
 <details><summary><em>Raw Data</em></summary>
@@ -76,6 +116,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "hero_dps_multiplier_mult,100",
             "targets": [
                 "other"
+            ],
+            "filter_targets": [
+                {
+                    "type": "exclude_heroes",
+                    "hero_ids": [
+                        146
+                    ]
+                }
             ],
             "amount_updated_listeners": [
                 "slot_changed",
@@ -170,7 +218,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "indexed_effect_properties": true
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -213,8 +262,38 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Gromma has a hardened shell, reducing the overwhelm damage she takes from all sources by 25%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1963,
+    "flavour_text": "",
+    "description": {
+        "desc": "Gromma has a hardened shell, reducing the overwhelm damage she takes from all sources by 25%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "reduce_overwhelm_effect,25"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
-> Gromma increases the damage of Neutral Champions (on the Good/Evil axis) by 5% for each enemy that has spawned and boss enrage stack in the current area, stacking multiplicatively and capping at 100.
+> Gromma increases the damage of "Neutral" Champions (on the Good/Evil axis) by 5% for each enemy that has spawned and boss enrage stack in the current area, stacking multiplicatively and capping at 100.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -222,10 +301,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1952,
     "flavour_text": "",
     "description": {
-        "desc": "Gromma increases the damage of Neutral Champions (on the Good/Evil axis) by $amount% for each enemy that has spawned and boss enrage stack in the current area, stacking multiplicatively and capping at 100."
+        "desc": "Gromma increases the damage of $(buff_target) Champions (on the Good/Evil axis) by $(not_buffed amount)% for each enemy that has spawned and boss enrage stack in the current area, stacking multiplicatively and capping at 100."
     },
     "effect_keys": [
         {
+            "off_when_benched": true,
             "effect_string": "hero_dps_multiplier_mult,5",
             "targets": [
                 {
@@ -233,12 +313,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "tags": "geneutral"
                 }
             ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "monster_spawned",
+                "enrage_stacks_changed"
+            ],
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "0",
             "post_process_expr": "boss_enrage_stacks+monsters_spawned",
             "limit": 100,
-            "show_bonus": true
+            "show_bonus": true,
+            "use_computed_amount_for_description": true,
+            "buff_target": "Neutral"
         }
     ],
     "requirements": "",
@@ -269,7 +355,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "add_monster_hit_effects,400,57",
+            "effect_string": "add_monster_hit_effects,400,752",
             "use_chained_attack": false,
             "monster_effect": {
                 "effect_string": "effect_def,1961"
@@ -336,7 +422,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Stoneskin** (Guess)
-> Increase the effect of Hardened Shell by 100%. Enemies that attack Gromma are impaled by her spiked shell, instantly taking 10 seconds of BUD damage.
+> Increases the effect of Hardened Shell by 100%. Enemies that attack Gromma are impaled by her spiked shell, instantly taking 10 seconds of BUD damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -344,7 +430,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1955,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of Hardened Shell by $amount%. Enemies that attack Gromma are impaled by her spiked shell, instantly taking $(amount___2) seconds of BUD damage."
+        "desc": "Increases the effect of Hardened Shell by $amount%. Enemies that attack Gromma are impaled by her spiked shell, instantly taking $(amount___2) seconds of BUD damage."
     },
     "effect_keys": [
         {
@@ -391,7 +477,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "buff_upgrade,100,14879"
         },
         {
-            "effect_string": "add_monster_hit_effects,50,57",
+            "effect_string": "add_monster_hit_effects,50,752",
             "use_chained_attack": false,
             "monster_effect": {
                 "effect_string": "effect_def,1962"
@@ -415,7 +501,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Melf's Acid Arrow** (Guess)
-> Replaces Gromma's base attack with Melf's Acid Arrow, changing her into a magic attacker. After hitting its target the arrow explodes, damaging it's target and all nearby enemies for an additional 5 seconds of BUD damage.
+> Replaces Gromma's base attack with Melf's Acid Arrow, changing her into a magic attacker. After hitting its target the arrow explodes, damaging its target and all nearby enemies for an additional 5 seconds of BUD damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -423,7 +509,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1957,
     "flavour_text": "",
     "description": {
-        "desc": "Replaces Gromma's base attack with Melf's Acid Arrow, changing her into a magic attacker. After hitting its target the arrow explodes, damaging it's target and all nearby enemies for an additional $(amount___2) seconds of BUD damage."
+        "desc": "Replaces Gromma's base attack with Melf's Acid Arrow, changing her into a magic attacker. After hitting its target the arrow explodes, damaging its target and all nearby enemies for an additional $(amount___2) seconds of BUD damage."
     },
     "effect_keys": [
         {
