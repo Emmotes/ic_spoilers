@@ -299,7 +299,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
                 "monster_retargets": true
             },
             "middle_pos_data": {
-                "attack_id": 750,
+                "apply_ek_at_index": 1,
                 "push_dir": [
                     -150,
                     0
@@ -318,6 +318,10 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
                     0
                 ]
             }
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "change_base_attack,750"
         }
     ],
     "requirements": "",
@@ -336,7 +340,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **We'll Be Right Back** (Guess)
-> Diana increases the speed of area transitions by 50%.
+> Diana increases the speed of area transitions by 50% (caps at 400%).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -344,12 +348,21 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
     "id": 1945,
     "flavour_text": "",
     "description": {
-        "desc": "Diana increases the speed of area transitions by $amount%."
+        "conditions": [
+            {
+                "condition": "compare amount > 400",
+                "desc": "Diana increases the speed of area transitions by 400% (caps at $effect_cap%)."
+            },
+            {
+                "desc": "Diana increases the speed of area transitions by $amount% (caps at $effect_cap%)."
+            }
+        ]
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "area_transition_time_scale,50"
+            "effect_string": "area_transition_time_scale,50",
+            "effect_cap": 400
         }
     ],
     "requirements": "",
@@ -393,7 +406,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
                 }
             ],
             "formation_arrows_for_effected_only": true,
-            "slot_change_updates_targets": true
+            "retarget_when_any_hero_slot_changed": true
         },
         {
             "off_when_benched": true,
@@ -441,7 +454,10 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
                 }
             ],
             "formation_arrows_for_effected_only": true,
-            "slot_change_updates_targets": true
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_ability_score_changed": [
+                "dex"
+            ]
         },
         {
             "off_when_benched": true,
@@ -489,7 +505,15 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
                 }
             ],
             "formation_arrows_for_effected_only": true,
-            "slot_change_updates_targets": true
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_ability_score_changed": [
+                "str",
+                "dex",
+                "con",
+                "int",
+                "wis",
+                "cha"
+            ]
         },
         {
             "off_when_benched": true,
@@ -570,7 +594,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Spotlight Episode** (Guess)
-> Diana increases the effect of her Inspire specialization choice by 100% for each Champion it does NOT affect, stacking multiplicatively.
+> Diana increases the effect of her Inspire specialization choice by 140% for each Champion it does NOT affect, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -585,13 +609,13 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "pre_stack_amount,100"
+            "effect_string": "pre_stack_amount,140"
         },
         {
             "off_when_benched": true,
             "effect_string": "buff_upgrades,0,14791,14792,14793",
             "show_bonus": true,
-            "amount_expr": "upgrade_amount(14796,0)",
+            "amount_expr": "upgrade_amount(14797,0)",
             "amount_func": "mult",
             "stacks_multiply": true,
             "stack_func": "per_non_upgrade_targets",
