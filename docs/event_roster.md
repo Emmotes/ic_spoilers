@@ -6,24 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span>  *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Greengrass - April (2024 Only)
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="nrakk" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/nrakk.png)">Nrakk (8)</span>
-<span class="eventRosterChampion" id="cattibrie" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/cattibrie.png)">Catti-brie (7)</span>
-<span class="eventRosterChampion" id="aila" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/aila.png)">Aila (9)</span>
-<span class="eventRosterChampion" id="spurt" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/spurt.png)">Spurt (3)</span>
-<span class="eventRosterChampion" id="melf" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/melf.png)">Melf (12)</span>
-<span class="eventRosterChampion" id="orkira" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/orkira.png)">Orkira (1)</span>
-<span class="eventRosterChampion" id="gazrick" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/gazrick.png)">Gazrick (7)</span>
-<span class="eventRosterChampion" id="antrius" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/antrius.png)">Antrius (4)</span>
-<span class="eventRosterChampion" id="gale" style="background-image:url(images/gale/portrait.png)">Gale (1)</span>
-</span>
-
-{:/nomarkdown}
-
 # The Great Modron March - May
 
 {::nomarkdown}
@@ -215,6 +197,23 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 {:/nomarkdown}
 
+# Greengrass - April (2024 Only)
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="nrakk" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/nrakk.png)">Nrakk (8)</span>
+<span class="eventRosterChampion" id="cattibrie" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/cattibrie.png)">Catti-brie (7)</span>
+<span class="eventRosterChampion" id="aila" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/aila.png)">Aila (9)</span>
+<span class="eventRosterChampion" id="spurt" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/spurt.png)">Spurt (3)</span>
+<span class="eventRosterChampion" id="melf" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/melf.png)">Melf (12)</span>
+<span class="eventRosterChampion" id="orkira" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/orkira.png)">Orkira (1)</span>
+<span class="eventRosterChampion" id="gazrick" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/gazrick.png)">Gazrick (7)</span>
+<span class="eventRosterChampion" id="antrius" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/antrius.png)">Antrius (4)</span>
+</span>
+
+{:/nomarkdown}
+
 # Unknown
 
 {::nomarkdown}
@@ -241,6 +240,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="vinursa" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/vinursa.png)">Vin Ursa (7)</span>
 <span class="eventRosterChampion" id="astarion" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/astarion.png)">Astarion (10)</span>
 <span class="eventRosterChampion" id="karlach" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/karlach.png)">Karlach (4)</span>
+<span class="eventRosterChampion" id="gale" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/gale.png)">Gale (1)</span>
 </span>
 
 {:/nomarkdown}
