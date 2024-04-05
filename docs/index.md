@@ -85,6 +85,7 @@ Miscellaneous spoilers.
 
 * [New Campaign: Vecna Eve of Ruin](campaign_vecna.md) - 22 May 2024 (Guess)
 * [Event Roster](event_roster.md)
+* [Patron Roster](patron_roster.md)
 * [Feats](feats.md)
 * [Skins](skins.md)
 * [Premium Packs and DLC](premium.md)

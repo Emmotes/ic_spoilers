@@ -924,3 +924,8 @@ input[type="checkbox"]:checked::before {
 	justify-content: center;
 	font-size: 0.7em;
 }
+.cblabel {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
