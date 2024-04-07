@@ -21,10 +21,13 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Diana&nbsp;<span class="indexChampionTableNoLink">- Human of Saturday Morning Squad (Guess)</span>
+                Diana
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">The Great Modron March - 1 May 2024 (Guess)</span>
+                <span class="indexChampionTableNoLink">Human of Saturday Morning Squad (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">The Great Modron March - 1 May 2024</span>
             </span>
         </span>
     </span>
@@ -47,7 +50,10 @@ A list of champions that will be seeing reworks in upcoming events.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Gromma&nbsp;<span class="indexChampionTableNoLink">- Tortle Druid</span>
+                Gromma
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Tortle Druid</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">The Great Modron March - 1 May 2024 (Guess)</span>
@@ -63,7 +69,10 @@ A list of champions that will be seeing reworks in upcoming events.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Rosie&nbsp;<span class="indexChampionTableNoLink">- Halfling Monk of Acq Inc "C" Team</span>
+                Rosie
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Halfling Monk of Acq Inc "C" Team</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Highharvestide - 4 September 2024 (Guess)</span>
