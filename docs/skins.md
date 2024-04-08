@@ -11,20 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Elegant Astarion Portrait](images/skin_portraits/elegantastarion.png)Elegant Astarion
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spring Celebration (Guess)</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">08 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Robe of the Weave Gale Portrait](images/skin_portraits/robeoftheweavegale.png)Robe of the Weave Gale
         </span>
         <span class="skinTableSource">

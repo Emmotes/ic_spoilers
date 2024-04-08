@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Astarion</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Astarion)**Fine, I'll lead - but all of you need to be more stealthy!</span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>08 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Catti-brie</span>
         </span>
         <span class="featTableIcon4">
