@@ -35,15 +35,15 @@ These are the event champions that are upcoming and all the information we know 
 </a>
 {:/nomarkdown}
 {::nomarkdown}
-<a href="ulderravengard.html">
+<a href="dukeravengard.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Ulder Ravengard Portrait Icon](images/ulderravengard/portrait.png)
+            ![Duke Ravengard Portrait Icon](images/dukeravengard/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Ulder Ravengard
+                Duke Ravengard
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human Paladin (Guess)</span>
