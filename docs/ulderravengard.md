@@ -2,14 +2,14 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![PC Portrait for Duke Ravengard](images/dukeravengard/portrait.png)Portait
+        ![PC Portrait for Ulder Ravengard](images/ulderravengard/portrait.png)Portait
     </span>
     <span class="championPortraitsImage">
-        ![Model GIF of Duke Ravengard](images/dukeravengard/model.gif)Model
+        ![Model GIF of Ulder Ravengard](images/ulderravengard/model.gif)Model
     </span>
 </span>
 
-# Duke Ravengard
+# Ulder Ravengard
 
 Grand Duke Ulder Ravengard is the human Supreme Marshall of the Flaming Fist, and father of Wyll. His story stretches through all three acts of Baldur's Gate 3, and he can become a camp follower late in the game.
 
@@ -19,7 +19,7 @@ Ulder Ravengard is a recurring character in the Forgotten Realms setting of Dung
 
 # Basic Information
 
-Duke Ravengard will be the new champion in the Dragondown event on 5 June 2024.
+Ulder Ravengard will be the new champion in the Dragondown event on 5 June 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
@@ -93,7 +93,7 @@ Duke Ravengard will be the new champion in the Dragondown event on 5 June 2024.
 Unknown.
 {% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/dukeravengard/formation.png)
+    ![Formation Layout](images/ulderravengard/formation.png)
 </span>
 {% endcomment %}
 
@@ -149,50 +149,50 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Ulder Ravengard Armor Icon](images/dukeravengard/23497.png)</span><span class="itemTableIcon2">![Ulder Ravengard Armor Icon](images/dukeravengard/23497.png)</span><span class="itemTableIcon3">![Ulder Ravengard Armor Icon](images/dukeravengard/23498.png)</span><span class="itemTableIcon4">![Ulder Ravengard Armor Icon](images/dukeravengard/23499.png)</span>
+            <span class="itemTableIcon1">![Duke Ravengard Armor Icon](images/ulderravengard/23497.png)</span><span class="itemTableIcon2">![Duke Ravengard Armor Icon](images/ulderravengard/23497.png)</span><span class="itemTableIcon3">![Duke Ravengard Armor Icon](images/ulderravengard/23498.png)</span><span class="itemTableIcon4">![Duke Ravengard Armor Icon](images/ulderravengard/23499.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Ulder Ravengard Armor
+            Duke Ravengard Armor
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Ulder Ravengard Elturel Links Icon](images/dukeravengard/23500.png)</span><span class="itemTableIcon2">![Ulder Ravengard Elturel Links Icon](images/dukeravengard/23500.png)</span><span class="itemTableIcon3">![Ulder Ravengard Elturel Links Icon](images/dukeravengard/23501.png)</span><span class="itemTableIcon4">![Ulder Ravengard Elturel Links Icon](images/dukeravengard/23502.png)</span>
+            <span class="itemTableIcon1">![Duke Ravengard Elturel Links Icon](images/ulderravengard/23500.png)</span><span class="itemTableIcon2">![Duke Ravengard Elturel Links Icon](images/ulderravengard/23500.png)</span><span class="itemTableIcon3">![Duke Ravengard Elturel Links Icon](images/ulderravengard/23501.png)</span><span class="itemTableIcon4">![Duke Ravengard Elturel Links Icon](images/ulderravengard/23502.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Ulder Ravengard Elturel Links
+            Duke Ravengard Elturel Links
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Ulder Ravengard Helm Icon](images/dukeravengard/23503.png)</span><span class="itemTableIcon2">![Ulder Ravengard Helm Icon](images/dukeravengard/23503.png)</span><span class="itemTableIcon3">![Ulder Ravengard Helm Icon](images/dukeravengard/23504.png)</span><span class="itemTableIcon4">![Ulder Ravengard Helm Icon](images/dukeravengard/23505.png)</span>
+            <span class="itemTableIcon1">![Duke Ravengard Helm Icon](images/ulderravengard/23503.png)</span><span class="itemTableIcon2">![Duke Ravengard Helm Icon](images/ulderravengard/23503.png)</span><span class="itemTableIcon3">![Duke Ravengard Helm Icon](images/ulderravengard/23504.png)</span><span class="itemTableIcon4">![Duke Ravengard Helm Icon](images/ulderravengard/23505.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Ulder Ravengard Helm
+            Duke Ravengard Helm
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Ulder Ravengard Rank Symbol Icon](images/dukeravengard/23506.png)</span><span class="itemTableIcon2">![Ulder Ravengard Rank Symbol Icon](images/dukeravengard/23506.png)</span><span class="itemTableIcon3">![Ulder Ravengard Rank Symbol Icon](images/dukeravengard/23507.png)</span><span class="itemTableIcon4">![Ulder Ravengard Rank Symbol Icon](images/dukeravengard/23508.png)</span>
+            <span class="itemTableIcon1">![Duke Ravengard Rank Symbol Icon](images/ulderravengard/23506.png)</span><span class="itemTableIcon2">![Duke Ravengard Rank Symbol Icon](images/ulderravengard/23506.png)</span><span class="itemTableIcon3">![Duke Ravengard Rank Symbol Icon](images/ulderravengard/23507.png)</span><span class="itemTableIcon4">![Duke Ravengard Rank Symbol Icon](images/ulderravengard/23508.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Ulder Ravengard Rank Symbol
+            Duke Ravengard Rank Symbol
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Ulder Ravengard Shield Icon](images/dukeravengard/23509.png)</span><span class="itemTableIcon2">![Ulder Ravengard Shield Icon](images/dukeravengard/23509.png)</span><span class="itemTableIcon3">![Ulder Ravengard Shield Icon](images/dukeravengard/23510.png)</span><span class="itemTableIcon4">![Ulder Ravengard Shield Icon](images/dukeravengard/23511.png)</span>
+            <span class="itemTableIcon1">![Duke Ravengard Shield Icon](images/ulderravengard/23509.png)</span><span class="itemTableIcon2">![Duke Ravengard Shield Icon](images/ulderravengard/23509.png)</span><span class="itemTableIcon3">![Duke Ravengard Shield Icon](images/ulderravengard/23510.png)</span><span class="itemTableIcon4">![Duke Ravengard Shield Icon](images/ulderravengard/23511.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Ulder Ravengard Shield
+            Duke Ravengard Shield
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Ulder Ravengard Weapon Icon](images/dukeravengard/23512.png)</span><span class="itemTableIcon2">![Ulder Ravengard Weapon Icon](images/dukeravengard/23512.png)</span><span class="itemTableIcon3">![Ulder Ravengard Weapon Icon](images/dukeravengard/23513.png)</span><span class="itemTableIcon4">![Ulder Ravengard Weapon Icon](images/dukeravengard/23514.png)</span>
+            <span class="itemTableIcon1">![Duke Ravengard Weapon Icon](images/ulderravengard/23512.png)</span><span class="itemTableIcon2">![Duke Ravengard Weapon Icon](images/ulderravengard/23512.png)</span><span class="itemTableIcon3">![Duke Ravengard Weapon Icon](images/ulderravengard/23513.png)</span><span class="itemTableIcon4">![Duke Ravengard Weapon Icon](images/ulderravengard/23514.png)</span>
         </span>
         <span class="itemTableNameSmall">
-            Ulder Ravengard Weapon
+            Duke Ravengard Weapon
         </span>
     </span>
 </span>
