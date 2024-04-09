@@ -651,7 +651,64 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Boots Icon](images/diana/23219.png)</span><span class="itemTableIcon2">![Boots Icon](images/diana/23219.png)</span><span class="itemTableIcon3">![Boots Icon](images/diana/23220.png)</span><span class="itemTableIcon4">![Boots Icon](images/diana/23221.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Boots
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Clothing Icon](images/diana/23222.png)</span><span class="itemTableIcon2">![Clothing Icon](images/diana/23222.png)</span><span class="itemTableIcon3">![Clothing Icon](images/diana/23223.png)</span><span class="itemTableIcon4">![Clothing Icon](images/diana/23224.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Clothing
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Headgear Icon](images/diana/23225.png)</span><span class="itemTableIcon2">![Headgear Icon](images/diana/23225.png)</span><span class="itemTableIcon3">![Headgear Icon](images/diana/23226.png)</span><span class="itemTableIcon4">![Headgear Icon](images/diana/23227.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Headgear
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Javalin Staff Icon](images/diana/23228.png)</span><span class="itemTableIcon2">![Javalin Staff Icon](images/diana/23228.png)</span><span class="itemTableIcon3">![Javalin Staff Icon](images/diana/23229.png)</span><span class="itemTableIcon4">![Javalin Staff Icon](images/diana/23230.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Javalin Staff
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Keepsakes Icon](images/diana/23231.png)</span><span class="itemTableIcon2">![Keepsakes Icon](images/diana/23231.png)</span><span class="itemTableIcon3">![Keepsakes Icon](images/diana/23232.png)</span><span class="itemTableIcon4">![Keepsakes Icon](images/diana/23233.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Keepsakes
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Magic Items Icon](images/diana/23234.png)</span><span class="itemTableIcon2">![Magic Items Icon](images/diana/23234.png)</span><span class="itemTableIcon3">![Magic Items Icon](images/diana/23235.png)</span><span class="itemTableIcon4">![Magic Items Icon](images/diana/23236.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Magic Items
+        </span>
+    </span>
+</span>
 
 # Feats
 
