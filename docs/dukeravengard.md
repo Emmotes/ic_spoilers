@@ -35,7 +35,7 @@ Duke Ravengard will be the new champion in the Dragondown event on 5 June 2024.
             <span style="margin-right:4px;">**Race**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Human (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -43,7 +43,7 @@ Duke Ravengard will be the new champion in the Dragondown event on 5 June 2024.
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Paladin (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -67,7 +67,7 @@ Duke Ravengard will be the new champion in the Dragondown event on 5 June 2024.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Male (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
