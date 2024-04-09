@@ -33,6 +33,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="selise" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/selise.png)">Selise (12)</span>
 <span class="eventRosterChampion" id="merilwen" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/merilwen.png)">Merilwen (2)</span>
 <span class="eventRosterChampion" id="bbeg" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/bbeg.png)">BBEG (3)</span>
+<span class="eventRosterChampion" id="dukeravengard" style="background-image:url(images/dukeravengard/portrait.png)">Duke Ravengard</span>
 </span>
 
 {:/nomarkdown}

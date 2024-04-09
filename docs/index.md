@@ -34,6 +34,28 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="dukeravengard.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Duke Ravengard Portrait Icon](images/dukeravengard/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Duke Ravengard
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Unknown</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Dragondown - 5 June 2024</span>
+            </span>
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Reworked Champions
