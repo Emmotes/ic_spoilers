@@ -24,7 +24,7 @@ These are the event champions that are upcoming and all the information we know 
                 Diana
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human of Saturday Morning Squad (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Monk of Saturday Morning Squad</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">The Great Modron March - 1 May 2024</span>
