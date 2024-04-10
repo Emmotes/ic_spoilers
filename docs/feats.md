@@ -98,6 +98,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Quickly Now Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Quickly Now (Diana)**They're no match for our speed!</span>Quickly Now
+        </span>
+        <span class="featTableEffect">
+            <span>80% We'll Be Right Back</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 May 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Jaheira</span>
         </span>
         <span class="featTableIcon4">
@@ -205,6 +222,125 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>???: -110</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Entertainer (???: -110)**Some have called my battle meditations... calming to watch.</span>Entertainer
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Charisma</span>
+        </span>
+        <span class="featTableSource">
+            <span>Corrupt Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>???: -110</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (???: -110)**Together we shall defeat the illithid threat once and for all!</span>Inspiring Leader
+        </span>
+        <span class="featTableEffect">
+            <span>25% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>???: -110</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Keen Mind Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">**Keen Mind (???: -110)**I am smarter than even your most brilliant material plane citizen.</span>Keen Mind
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +1 Intelligence</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>???: -110</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (???: -110)**I was sent here to assist, and assist I shall.</span>Selflessness
+        </span>
+        <span class="featTableEffect">
+            <span>10% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Entertainer (Diana)**Sure, Presto can do ACTUAL magic; but go ahead, pick a card.</span>Entertainer
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Charisma</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Diana)**I've got a 4.0 GPA.</span>Scholar
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Intelligence</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Tenacious (Diana)**Don't count me out yet!</span>Tenacious
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Constitution</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
         </span>
     </span>
     <span class="featTableRow">

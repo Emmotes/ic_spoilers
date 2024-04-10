@@ -118,7 +118,7 @@ Contents:
 
 * Champion: `Diana`
 * Skin: `Mythic Diana`
-* Feat: ???
+* Feat: `Quickly Now` (Diana)
 * Familiar: `Animated Staff`
 * Chests: `Gold Diana Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
