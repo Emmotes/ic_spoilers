@@ -293,7 +293,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
-> Gromma increases the damage of "Neutral" Champions (on the Good/Evil axis) by 5% for each enemy that has spawned and boss enrage stack in the current area, stacking multiplicatively and capping at 100.
+> Gromma increases the damage of Neutral Champions (on the Good/Evil axis) by 5% for each enemy that has spawned and boss enrage stack in the current area, stacking multiplicatively and capping at 100.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -301,7 +301,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1952,
     "flavour_text": "",
     "description": {
-        "desc": "Gromma increases the damage of $(buff_target) Champions (on the Good/Evil axis) by $(not_buffed amount)% for each enemy that has spawned and boss enrage stack in the current area, stacking multiplicatively and capping at 100."
+        "desc": "Gromma increases the damage of $gromma_circle_of_the_mountain_target Champions (on the Good/Evil axis) by $(not_buffed amount)% for each enemy that has spawned and boss enrage stack in the current area, stacking multiplicatively and capping at 100."
     },
     "effect_keys": [
         {
@@ -354,6 +354,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "desc": "Gromma now casts Sleet Storm on enemies she attacks, causing her targeted enemy, and all nearby enemies, to take $amount% additional damage from all attacks."
     },
     "effect_keys": [
+        {
+            "effect_string": "add_monster_hit_effects,400,751",
+            "use_chained_attack": false,
+            "monster_effect": {
+                "effect_string": "effect_def,1961"
+            },
+            "after_damage": false,
+            "range": 200
+        },
         {
             "effect_string": "add_monster_hit_effects,400,752",
             "use_chained_attack": false,
