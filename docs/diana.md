@@ -509,6 +509,344 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
 
 # Specialisations
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Inspire Acrobatic Assault Icon](images/diana/icon_inspireacrobaticassault.png) **Inspire: Acrobatic Assault** (Level: 60)
+> Diana increases the damage of all Champions with a DEX of 15 or higher by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 14791,
+    "hero_id": 148,
+    "required_level": 60,
+    "required_upgrade_id": 0,
+    "upgrade_type": null,
+    "effect": "effect_def,1941",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Inspire: Acrobatic Assault",
+    "specialization_name": "Inspire: Acrobatic Assault",
+    "specialization_description": "Diana inspires her allies with her impressive feats of agility.",
+    "specialization_graphic_id": 23238
+}
+{
+    "id": 1941,
+    "flavour_text": "",
+    "description": {
+        "desc": "Diana increases the damage of all Champions with a DEX of 15 or higher by $amount%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "GetStat(`dex`)>=15"
+                }
+            ],
+            "formation_arrows_for_effected_only": true,
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_ability_score_changed": [
+                "dex"
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_hero_expr": "GetStat(`dex`)>=15",
+            "per_trigger_expr": "AppendToSaveStat(`diana_thats_what_i_call_teamwork`, false, trigger_count * as_int(per_hero_count >= 10))"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23238,
+    "large_graphic_id": 23238,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Inspire Fledgling Fury Icon](images/diana/icon_inspirefledglingfury.png) **Inspire: Fledgling Fury** (Level: 60)
+> Diana increases the damage of all Champions that are 20 years old or younger by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 14793,
+    "hero_id": 148,
+    "required_level": 60,
+    "required_upgrade_id": 0,
+    "upgrade_type": null,
+    "effect": "effect_def,1943",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Inspire: Fledgling Fury",
+    "specialization_name": "Inspire: Fledgling Fury",
+    "specialization_description": "Diana inspires her allies to match her youthful exuberance.",
+    "specialization_graphic_id": 23240
+}
+{
+    "id": 1943,
+    "flavour_text": "",
+    "description": {
+        "desc": "Diana increases the damage of all Champions that are 20 years old or younger by $amount%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "age<=20&&hero_id!=146"
+                }
+            ],
+            "formation_arrows_for_effected_only": true,
+            "retarget_when_any_hero_slot_changed": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_hero_expr": "age<=20&&hero_id!=146",
+            "per_trigger_expr": "AppendToSaveStat(`diana_thats_what_i_call_teamwork`, false, trigger_count * as_int(per_hero_count >= 10))"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23240,
+    "large_graphic_id": 23240,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Inspire Modest Might Icon](images/diana/icon_inspiremodestmight.png) **Inspire: Modest Might** (Level: 60)
+> Diana increases the damage of all Champions with a total ability score of 78 or less by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 14792,
+    "hero_id": 148,
+    "required_level": 60,
+    "required_upgrade_id": 0,
+    "upgrade_type": null,
+    "effect": "effect_def,1942",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Inspire: Modest Might",
+    "specialization_name": "Inspire: Modest Might",
+    "specialization_description": "Diana inspires her allies to do the best with what they have.",
+    "specialization_graphic_id": 23241
+}
+{
+    "id": 1942,
+    "flavour_text": "",
+    "description": {
+        "desc": "Diana increases the damage of all Champions with a total ability score of 78 or less by $amount%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "GetStat(`total_ability_score`)<=78"
+                }
+            ],
+            "formation_arrows_for_effected_only": true,
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_ability_score_changed": [
+                "str",
+                "dex",
+                "con",
+                "int",
+                "wis",
+                "cha"
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_hero_expr": "GetStat(`total_ability_score`)<=78",
+            "per_trigger_expr": "AppendToSaveStat(`diana_thats_what_i_call_teamwork`, false, trigger_count * as_int(per_hero_count >= 10))"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23241,
+    "large_graphic_id": 23241,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Ensemble Cast Icon](images/diana/icon_ensemblecast.png) **Ensemble Cast** (Level: 130)
+> Diana increases the effect of her Inspire specialization choice by 100% for each Champion it affects, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 14796,
+    "hero_id": 148,
+    "required_level": 130,
+    "required_upgrade_id": 0,
+    "upgrade_type": null,
+    "effect": "effect_def,1946",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Ensemble Cast",
+    "specialization_name": "Ensemble Cast",
+    "specialization_description": "Diana's inspiration relies on how the team works together.",
+    "specialization_graphic_id": 23239
+}
+{
+    "id": 1946,
+    "flavour_text": "",
+    "description": {
+        "desc": "Diana increases the effect of her Inspire specialization choice by $amount% for each Champion it affects, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrades,0,14791,14792,14793",
+            "show_bonus": true,
+            "amount_expr": "upgrade_amount(14796,0)",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_upgrade_targets",
+            "stack_func_data": {
+                "upgrade_ids": [
+                    14791,
+                    14792,
+                    14793
+                ]
+            },
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 23239,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "spec_option_post_apply_info": "Champions Buffed: $num_stacks___2"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Spotlight Episode Icon](images/diana/icon_spotlightepisode.png) **Spotlight Episode** (Level: 130)
+> Diana increases the effect of her Inspire specialization choice by 140% for each Champion it does NOT affect, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 14797,
+    "hero_id": 148,
+    "required_level": 130,
+    "required_upgrade_id": 0,
+    "upgrade_type": null,
+    "effect": "effect_def,1947",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Spotlight Episode",
+    "specialization_name": "Spotlight Episode",
+    "specialization_description": "Diana focuses on how one Champion stands out from the rest.",
+    "specialization_graphic_id": 23242
+}
+{
+    "id": 1947,
+    "flavour_text": "",
+    "description": {
+        "desc": "Diana increases the effect of her Inspire specialization choice by $amount% for each Champion it does NOT affect, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,140"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrades,0,14791,14792,14793",
+            "show_bonus": true,
+            "amount_expr": "upgrade_amount(14797,0)",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_non_upgrade_targets",
+            "stack_func_data": {
+                "upgrade_ids": [
+                    14791,
+                    14792,
+                    14793
+                ]
+            },
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 23242,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "spec_option_post_apply_info": "Champions Not Buffed: $num_stacks___2"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
