@@ -5,55 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Dwarf Glitch Bundle Pack - $21.49  
-Date of release: 10 Apr 2024
-
-Contents:
-
-* Champion: `Catti-brie`
-* Skin: `Dwarf Glitch Catti-brie`
-* Feat: `Dwarf Glitch` (Catti-brie)
-* Chests: `Gold Catti-brie Chest` x7 (Shinies x1)
-* Champion: `Wulfgar, son of Beornegar`
-* Skin: `Dwarf Glitch Wulfgar`
-* Feat: `Dwarf Glitch` (Wulfgar)
-* Buff: `Large Blacksmithing Contract` x12
-* Buff: `Large Bounty Contract` x12
-* Chests: `Gold Wulfgar Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Dwarf Glitch Catti-brie Skin & Feat Pack - $11.99  
-Date of release: 10 Apr 2024
-
-Contents:
-
-* Champion: `Catti-brie`
-* Skin: `Dwarf Glitch Catti-brie`
-* Feat: `Dwarf Glitch` (Catti-brie)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Catti-brie Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Dwarf Glitch Wulfgar Skin & Feat Pack - $11.99  
-Date of release: 10 Apr 2024
-
-Contents:
-
-* Champion: `Wulfgar, son of Beornegar`
-* Skin: `Dwarf Glitch Wulfgar`
-* Feat: `Dwarf Glitch` (Wulfgar)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Wulfgar Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Jack the Pumpkin Sprout Familiar Pack - $11.99  
 Date of release: 15 Apr 2024
 

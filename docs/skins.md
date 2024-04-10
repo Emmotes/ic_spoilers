@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Dwarf Glitch Catti-brie Portrait](images/skin_portraits/dwarfglitchcattibrie.png)Dwarf Glitch Catti-brie
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Dwarf Glitch Catti-brie Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">10 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Dwarf Glitch Wulfgar Portrait](images/skin_portraits/dwarfglitchwulfgar.png)Dwarf Glitch Wulfgar
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Dwarf Glitch Wulfgar Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">10 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Action Figure Melf Portrait](images/skin_portraits/actionfiguremelf.png)Action Figure Melf
         </span>
         <span class="skinTableSource">

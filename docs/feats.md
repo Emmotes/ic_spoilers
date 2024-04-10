@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Catti-brie</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Dwarf Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Dwarf Glitch (Catti-brie)**Aye, what's this?</span>Dwarf Glitch
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Dwarf & +20% to Push Forward per Dwarf</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>10 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Wulfgar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Dwarf Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Dwarf Glitch (Wulfgar)**...I should be taller.</span>Dwarf Glitch
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Dwarf & +5% to Clangeddin's Will per Dwarf</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>10 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Antrius</span>
         </span>
         <span class="featTableIcon4">
