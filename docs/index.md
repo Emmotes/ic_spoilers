@@ -46,7 +46,7 @@ These are the event champions that are upcoming and all the information we know 
                 Duke Ravengard
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Fighter (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Dragondown - 5 June 2024</span>
@@ -114,7 +114,7 @@ Not events events - but events. You know?
 
 Miscellaneous spoilers.
 
-* [New Campaign: Vecna Eve of Ruin](campaign_vecna.md) - 22 May 2024 (Guess)
+* [New Campaign - Vecna: Eve of Ruin](campaign_vecna.md) - 22 May 2024 (Guess)
 * [Event Roster](event_roster.md)
 * [Patron Roster](patron_roster.md)
 * [Feats](feats.md)
