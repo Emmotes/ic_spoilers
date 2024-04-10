@@ -17,7 +17,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="mehen" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/mehen.png)">Mehen (3)</span>
 <span class="eventRosterChampion" id="nordom" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/nordom.png)">Nordom (9)</span>
 <span class="eventRosterChampion" id="evandra" style="background-image:url(https://emmotes.github.io/ic_modron_library/images/portraits/evandra.png)">Evandra (5)</span>
-<span class="eventRosterChampion" id="diana" style="background-image:url(images/diana/portrait.png)">Diana</span>
+<span class="eventRosterChampion" id="diana" style="background-image:url(images/diana/portrait.png)">Diana (9)</span>
 </span>
 
 {:/nomarkdown}
