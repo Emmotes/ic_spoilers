@@ -10,6 +10,10 @@ A new campaign was recently added to the defines: `Vecna: Eve of Ruin`. The gues
 |---|---|
 | ![Vecna: Eve of Ruin Campaign Logo](images/campaign_vecna/logo.png) | ![Vecna: Eve of Ruin Campaign Button Icon](images/campaign_vecna/campaign_button.png) | ![Vecna: Eve of Ruin Favour Icon](images/campaign_vecna/favour.png) |
 
+## Formation
+
+![Vecna: Eve of Ruin Formation](images/campaign_vecna/formation.png)
+
 ## Map
 
 ![Vecna: Eve of Ruin Map](images/campaign_vecna/map.png)
