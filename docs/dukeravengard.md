@@ -83,7 +83,7 @@ Duke Ravengard will be the new champion in the Dragondown event on 5 June 2024.
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Absolute Adversaries (Guess)</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
 </span>
