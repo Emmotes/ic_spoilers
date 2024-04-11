@@ -12,7 +12,9 @@ A new campaign was recently added to the defines: `Vecna: Eve of Ruin`. The gues
 
 ## Formation
 
+<span class="formationBorder">
 ![Vecna: Eve of Ruin Formation](images/campaign_vecna/formation.png)
+</span>
 
 ## Map
 
