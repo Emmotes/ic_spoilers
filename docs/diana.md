@@ -867,7 +867,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Fun Shopping Day Icon](images/diana/23222.png)<span class="itemTooltipContents">**Fun Shopping Day**I can still smell the food court...</span></span><span class="itemTableIcon2">![Weekend Clothes Icon](images/diana/23222.png)<span class="itemTooltipContents">**Weekend Clothes**Gotta look my best for the amusement park!</span></span><span class="itemTableIcon3">![Adventurer's Fur Icon](images/diana/23223.png)<span class="itemTooltipContents">**Adventurer's Fur**Dungeon Master, this isn't really my style...</span></span><span class="itemTableIcon4">![Mythic Armor Icon](images/diana/23224.png)<span class="itemTooltipContents">**Mythic Armor**I can take on Venger with this!</span></span><span class="itemTableGE">&nbsp;</span>
+            <span class="itemTableIcon1">![Fun Shopping Day Icon](images/diana/23222.png)<span class="itemTooltipContents">**Fun Shopping Day**I can still smell the food court...<code>global_dps_multiplier_mult,10</code></span></span><span class="itemTableIcon2">![Weekend Clothes Icon](images/diana/23222.png)<span class="itemTooltipContents">**Weekend Clothes**Gotta look my best for the amusement park!<code>global_dps_multiplier_mult,65</code></span></span><span class="itemTableIcon3">![Adventurer's Fur Icon](images/diana/23223.png)<span class="itemTooltipContents">**Adventurer's Fur**Dungeon Master, this isn't really my style...<code>global_dps_multiplier_mult,120</code></span></span><span class="itemTableIcon4">![Mythic Armor Icon](images/diana/23224.png)<span class="itemTooltipContents">**Mythic Armor**I can take on Venger with this!<code>global_dps_multiplier_mult,230</code></span></span><span class="itemTableGE">&nbsp;</span>
         </span>
         <span class="itemTableSlot">
             <span>1</span>
@@ -881,7 +881,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Mom's Reminder Icon](images/diana/23225.png)<span class="itemTooltipContents">**Mom's Reminder**Mom gave me this before I left the house. I hope she's okay...</span></span><span class="itemTableIcon2">![Stylish Bandana Icon](images/diana/23225.png)<span class="itemTooltipContents">**Stylish Bandana**This really pulled my outfit together.</span></span><span class="itemTableIcon3">![Band of Agility Icon](images/diana/23226.png)<span class="itemTooltipContents">**Band of Agility**Whoa! I would have won gold at EVERY gymnastics competition with this!</span></span><span class="itemTableIcon4">![Encrusted Band Icon](images/diana/23227.png)<span class="itemTooltipContents">**Encrusted Band**Tiamat doesn't stand a chance!</span></span>
+            <span class="itemTableIcon1">![Mom's Reminder Icon](images/diana/23225.png)<span class="itemTooltipContents">**Mom's Reminder**Mom gave me this before I left the house. I hope she's okay...<code>buff_upgrade,25,14795</code></span></span><span class="itemTableIcon2">![Stylish Bandana Icon](images/diana/23225.png)<span class="itemTooltipContents">**Stylish Bandana**This really pulled my outfit together.<code>buff_upgrade,87.5,14795</code></span></span><span class="itemTableIcon3">![Band of Agility Icon](images/diana/23226.png)<span class="itemTooltipContents">**Band of Agility**Whoa! I would have won gold at EVERY gymnastics competition with this!<code>buff_upgrade,150,14795</code></span></span><span class="itemTableIcon4">![Encrusted Band Icon](images/diana/23227.png)<span class="itemTooltipContents">**Encrusted Band**Tiamat doesn't stand a chance!<code>buff_upgrade,275,14795</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>2</span>
@@ -895,7 +895,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![A Gift for Sir John Icon](images/diana/23231.png)<span class="itemTooltipContents">**A Gift for Sir John**Sometimes, people just need a distraction, no matter how small.</span></span><span class="itemTableIcon2">![Beholder's Bane Icon](images/diana/23231.png)<span class="itemTooltipContents">**Beholder's Bane**This beauty defeats the eye of the beholder!</span></span><span class="itemTableIcon3">![Remembrance of Kosar Icon](images/diana/23232.png)<span class="itemTooltipContents">**Remembrance of Kosar**You shall live in my heart forever... for all the starfalls to come...</span></span><span class="itemTableIcon4">![Yellow Dragon Icon](images/diana/23233.png)<span class="itemTooltipContents">**Yellow Dragon**If this will help Bobby, we'll take the whole thing!</span></span>
+            <span class="itemTableIcon1">![A Gift for Sir John Icon](images/diana/23231.png)<span class="itemTooltipContents">**A Gift for Sir John**Sometimes, people just need a distraction, no matter how small.<code>buff_upgrades,25,14791,14792,14793</code></span></span><span class="itemTableIcon2">![Beholder's Bane Icon](images/diana/23231.png)<span class="itemTooltipContents">**Beholder's Bane**This beauty defeats the eye of the beholder!<code>buff_upgrades,87.5,14791,14792,14793</code></span></span><span class="itemTableIcon3">![Remembrance of Kosar Icon](images/diana/23232.png)<span class="itemTooltipContents">**Remembrance of Kosar**You shall live in my heart forever... for all the starfalls to come...<code>buff_upgrades,150,14791,14792,14793</code></span></span><span class="itemTableIcon4">![Yellow Dragon Icon](images/diana/23233.png)<span class="itemTooltipContents">**Yellow Dragon**If this will help Bobby, we'll take the whole thing!<code>buff_upgrades,275,14791,14792,14793</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>3</span>
@@ -909,7 +909,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Dungeon Master's Favor Icon](images/diana/23234.png)<span class="itemTooltipContents">**Dungeon Master's Favor**I don't know what we would do without Dungeon Master's help.</span></span><span class="itemTableIcon2">![Magic Bracers Icon](images/diana/23234.png)<span class="itemTooltipContents">**Magic Bracers**I can block any blade with these!</span></span><span class="itemTableIcon3">![Belt of Jumping Icon](images/diana/23235.png)<span class="itemTooltipContents">**Belt of Jumping**Why fight danger when you can just jump over it!</span></span><span class="itemTableIcon4">![Amulet of Natural Armor Icon](images/diana/23236.png)<span class="itemTooltipContents">**Amulet of Natural Armor**Ha! I didn't even feel that hit!</span></span>
+            <span class="itemTableIcon1">![Dungeon Master's Favor Icon](images/diana/23234.png)<span class="itemTooltipContents">**Dungeon Master's Favor**I don't know what we would do without Dungeon Master's help.<code>buff_upgrades,25,14796,14797</code></span></span><span class="itemTableIcon2">![Magic Bracers Icon](images/diana/23234.png)<span class="itemTooltipContents">**Magic Bracers**I can block any blade with these!<code>buff_upgrades,87.5,14796,14797</code></span></span><span class="itemTableIcon3">![Belt of Jumping Icon](images/diana/23235.png)<span class="itemTooltipContents">**Belt of Jumping**Why fight danger when you can just jump over it!<code>buff_upgrades,150,14796,14797</code></span></span><span class="itemTableIcon4">![Amulet of Natural Armor Icon](images/diana/23236.png)<span class="itemTooltipContents">**Amulet of Natural Armor**Ha! I didn't even feel that hit!<code>buff_upgrades,275,14796,14797</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>4</span>
@@ -923,7 +923,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Could Be Worse Icon](images/diana/23228.png)<span class="itemTooltipContents">**Could Be Worse**This isn't the first time it's been broken...</span></span><span class="itemTableIcon2">![Self-Mending Staff Icon](images/diana/23228.png)<span class="itemTooltipContents">**Self-Mending Staff**...and it won't be the last!</span></span><span class="itemTableIcon3">![Extending Javelin Icon](images/diana/23229.png)<span class="itemTooltipContents">**Extending Javelin**There are no heights I can't reach!</span></span><span class="itemTableIcon4">![Weavebound Staff Icon](images/diana/23230.png)<span class="itemTooltipContents">**Weavebound Staff**Dungeon Master told me the Weave itself flows through this...</span></span>
+            <span class="itemTableIcon1">![Could Be Worse Icon](images/diana/23228.png)<span class="itemTooltipContents">**Could Be Worse**This isn't the first time it's been broken...<code>buff_ultimate,25</code></span></span><span class="itemTableIcon2">![Self-Mending Staff Icon](images/diana/23228.png)<span class="itemTooltipContents">**Self-Mending Staff**...and it won't be the last!<code>buff_ultimate,87.5</code></span></span><span class="itemTableIcon3">![Extending Javelin Icon](images/diana/23229.png)<span class="itemTooltipContents">**Extending Javelin**There are no heights I can't reach!<code>buff_ultimate,150</code></span></span><span class="itemTableIcon4">![Weavebound Staff Icon](images/diana/23230.png)<span class="itemTooltipContents">**Weavebound Staff**Dungeon Master told me the Weave itself flows through this...<code>buff_ultimate,275</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>5</span>
@@ -937,7 +937,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![The Hot Trend Icon](images/diana/23219.png)<span class="itemTooltipContents">**The Hot Trend**I had to do SO MANY extra chores to get these!</span></span><span class="itemTableIcon2">![Walking Boots Icon](images/diana/23219.png)<span class="itemTooltipContents">**Walking Boots**These should be comfortable for walking around a park all day.</span></span><span class="itemTableIcon3">![Boots of Fur Icon](images/diana/23220.png)<span class="itemTooltipContents">**Boots of Fur**These are always comfortable and always warm!</span></span><span class="itemTableIcon4">![Boots of Speed Icon](images/diana/23221.png)<span class="itemTooltipContents">**Boots of Speed**Just TRY to keep up!</span></span>
+            <span class="itemTableIcon1">![The Hot Trend Icon](images/diana/23219.png)<span class="itemTooltipContents">**The Hot Trend**I had to do SO MANY extra chores to get these!<code>reduce_ultimate_cooldown,6</code></span></span><span class="itemTableIcon2">![Walking Boots Icon](images/diana/23219.png)<span class="itemTooltipContents">**Walking Boots**These should be comfortable for walking around a park all day.<code>reduce_ultimate_cooldown,12</code></span></span><span class="itemTableIcon3">![Boots of Fur Icon](images/diana/23220.png)<span class="itemTooltipContents">**Boots of Fur**These are always comfortable and always warm!<code>reduce_ultimate_cooldown,24</code></span></span><span class="itemTableIcon4">![Boots of Speed Icon](images/diana/23221.png)<span class="itemTooltipContents">**Boots of Speed**Just TRY to keep up!<code>reduce_ultimate_cooldown,60</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>6</span>
@@ -1012,7 +1012,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (Diana)**Don't worry, we'll protect you!</span>Selflessness
+            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (Diana)**Don't worry, we'll protect you!<code>global_dps_multiplier_mult,10</code></span>Selflessness
         </span>
         <span class="featTableEffect">
             <span>10% All Champion Damage</span>
@@ -1023,7 +1023,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Diana)**If we're going to save Hank, we have to work together!</span>Inspiring Leader
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Diana)**If we're going to save Hank, we have to work together!<code>global_dps_multiplier_mult,25</code></span>Inspiring Leader
         </span>
         <span class="featTableEffect">
             <span>25% All Champion Damage</span>
@@ -1034,7 +1034,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Keep Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Keep Up (Diana)**We can make it! Come on!</span>Keep Up
+            ![Keep Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Keep Up (Diana)**We can make it! Come on!<code>buff_upgrade,40,14795</code></span>Keep Up
         </span>
         <span class="featTableEffect">
             <span>40% We'll Be Right Back</span>
@@ -1045,7 +1045,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon4">
-            ![Quickly Now Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Quickly Now (Diana)**They're no match for our speed!</span>Quickly Now
+            ![Quickly Now Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Quickly Now (Diana)**They're no match for our speed!<code>buff_upgrade,80,14795</code></span>Quickly Now
         </span>
         <span class="featTableEffect">
             <span>80% We'll Be Right Back</span>
@@ -1056,7 +1056,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Follow My Lead Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Follow My Lead (Diana)**This is just like that time with the beholder.</span>Follow My Lead
+            ![Follow My Lead Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Follow My Lead (Diana)**This is just like that time with the beholder.<code>buff_upgrades,20,14791,14792,14793</code></span>Follow My Lead
         </span>
         <span class="featTableEffect">
             <span>20% All First Specialisations</span>
@@ -1067,7 +1067,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![All Together Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**All Together (Diana)**We've faced Tiamat - this is nothing!</span>All Together
+            ![All Together Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**All Together (Diana)**We've faced Tiamat - this is nothing!<code>buff_upgrades,40,14791,14792,14793</code></span>All Together
         </span>
         <span class="featTableEffect">
             <span>40% All First Specialisations</span>
@@ -1078,7 +1078,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Previously... Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Previously... (Diana)**Don't worry, Eric. What could go wrong?</span>Previously...
+            ![Previously... Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Previously... (Diana)**Don't worry, Eric. What could go wrong?<code>buff_upgrades,20,14796,14797</code></span>Previously...
         </span>
         <span class="featTableEffect">
             <span>20% All Second Specialisations</span>
@@ -1089,7 +1089,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Don't Go Away! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Don't Go Away! (Diana)**Oh no! It's Venger!</span>Don't Go Away!
+            ![Don't Go Away! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Don't Go Away! (Diana)**Oh no! It's Venger!<code>buff_upgrades,40,14796,14797</code></span>Don't Go Away!
         </span>
         <span class="featTableEffect">
             <span>40% All Second Specialisations</span>
@@ -1100,7 +1100,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon4">
-            ![Next Time... Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Next Time... (Diana)**See, I told you it would be fine!</span>Next Time...
+            ![Next Time... Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Next Time... (Diana)**See, I told you it would be fine!<code>buff_upgrades,80,14796,14797</code></span>Next Time...
         </span>
         <span class="featTableEffect">
             <span>80% All Second Specialisations</span>
@@ -1111,7 +1111,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Silver Medal Icon](images/featicons/cooldown.png)<span class="featTooltipContents">**Silver Medal (Diana)**I'm fast, but not fast enough...</span>Silver Medal
+            ![Silver Medal Icon](images/featicons/cooldown.png)<span class="featTooltipContents">**Silver Medal (Diana)**I'm fast, but not fast enough...<code>reduce_attack_cooldown,0.25</code></span>Silver Medal
         </span>
         <span class="featTableEffect">
             <span>-0.25s Base Attack Cooldown</span>
@@ -1122,7 +1122,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Gold Medal Icon](images/featicons/cooldown.png)<span class="featTooltipContents">**Gold Medal (Diana)**See this? It means I'm the fastest!</span>Gold Medal
+            ![Gold Medal Icon](images/featicons/cooldown.png)<span class="featTooltipContents">**Gold Medal (Diana)**See this? It means I'm the fastest!<code>reduce_attack_cooldown,0.5</code></span>Gold Medal
         </span>
         <span class="featTableEffect">
             <span>-0.5s Base Attack Cooldown</span>

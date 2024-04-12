@@ -33,7 +33,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Antrius</span>
         </span>
         <span class="featTableIcon4">
-            ![SO Cute! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**SO Cute! (Antrius)**And you thought I was irresistible before!</span>SO Cute!
+            ![SO Cute! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**SO Cute! (Antrius)**And you thought I was irresistible before!<code>buff_upgrade,80,10797</code></span>SO Cute!
         </span>
         <span class="featTableEffect">
             <span>80% Can't be De-Feat-ed</span>
@@ -50,7 +50,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Melf</span>
         </span>
         <span class="featTableIcon4">
-            ![Melf's Collectors Boots Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Melf's Collectors Boots (Melf)**You can't just leave them in the box, can you?</span>Melf's Collectors Boots
+            ![Melf's Collectors Boots Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Melf's Collectors Boots (Melf)**You can't just leave them in the box, can you?<code>buff_upgrade,80,3511</code></span>Melf's Collectors Boots
         </span>
         <span class="featTableEffect">
             <span>80% Melf's Speedy Supplement</span>
@@ -67,7 +67,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Spurt</span>
         </span>
         <span class="featTableIcon4">
-            ![Sparkly Eyes Icon](images/featicons/spurtult.png)<span class="featTooltipContents">**Sparkly Eyes (Spurt)**SPURTS ADORABLE!</span>Sparkly Eyes
+            ![Sparkly Eyes Icon](images/featicons/spurtult.png)<span class="featTooltipContents">**Sparkly Eyes (Spurt)**SPURTS ADORABLE!<code>increase_ultimate_cooldown,60</code></span>Sparkly Eyes
         </span>
         <span class="featTableEffect">
             <span>+60s Ultimate Cooldown</span>
@@ -84,7 +84,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Orkira</span>
         </span>
         <span class="featTableIcon4">
-            ![Aarakocra Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Aarakocra Glitch (Orkira)**Look at my WINGS!</span>Aarakocra Glitch
+            ![Aarakocra Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Aarakocra Glitch (Orkira)**Look at my WINGS!<code>add_hero_tags,0,aarakocra<br>change_hero_alignment_tag,lawful,evil</code></span>Aarakocra Glitch
         </span>
         <span class="featTableEffect">
             <span>Counts as Aarakocra & Change Alignment to Lawful Evil</span>
@@ -101,7 +101,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Diana</span>
         </span>
         <span class="featTableIcon4">
-            ![Quickly Now Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Quickly Now (Diana)**They're no match for our speed!</span>Quickly Now
+            ![Quickly Now Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Quickly Now (Diana)**They're no match for our speed!<code>buff_upgrade,80,14795</code></span>Quickly Now
         </span>
         <span class="featTableEffect">
             <span>80% We'll Be Right Back</span>
@@ -118,7 +118,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Jaheira</span>
         </span>
         <span class="featTableIcon4">
-            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">**Illithid Tadpole (Jaheira)**I am only doing this to save Baldur's Gate...</span>Illithid Tadpole
+            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">**Illithid Tadpole (Jaheira)**I am only doing this to save Baldur's Gate...<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span>Illithid Tadpole
         </span>
         <span class="featTableEffect">
             <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
@@ -135,7 +135,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Nordom</span>
         </span>
         <span class="featTableIcon4">
-            ![Greater Order Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Greater Order (Nordom)**Announcement: I will now bring greater balance to our formation!</span>Greater Order
+            ![Greater Order Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Greater Order (Nordom)**Announcement: I will now bring greater balance to our formation!<code>buff_upgrade,80,7856</code></span>Greater Order
         </span>
         <span class="featTableEffect">
             <span>80% Form Orderly Ranks</span>
@@ -152,7 +152,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Evandra</span>
         </span>
         <span class="featTableIcon4">
-            ![Cute and Fierce Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Cute and Fierce (Evandra)**I can still rip off arms, and they AREN'T full of stuffing!</span>Cute and Fierce
+            ![Cute and Fierce Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Cute and Fierce (Evandra)**I can still rip off arms, and they AREN'T full of stuffing!<code>buff_upgrade,80,11296</code></span>Cute and Fierce
         </span>
         <span class="featTableEffect">
             <span>80% Never Completely 'Armless</span>
@@ -169,7 +169,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Nixie</span>
         </span>
         <span class="featTableIcon4">
-            ![Cute, but Deadly Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Cute, but Deadly (Nixie)**But, I'm a fireproof plushie, right?</span>Cute, but Deadly
+            ![Cute, but Deadly Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Cute, but Deadly (Nixie)**But, I'm a fireproof plushie, right?<code>buff_upgrade,80,10887</code></span>Cute, but Deadly
         </span>
         <span class="featTableEffect">
             <span>80% Blazing Charisma</span>
@@ -186,7 +186,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Voronika</span>
         </span>
         <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Voronika)**Do as I say - you'll live longer.</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
             <span>50% All Champion Damage</span>
@@ -229,7 +229,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>???: -110</span>
         </span>
         <span class="featTableIcon4">
-            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Entertainer (???: -110)**Some have called my battle meditations... calming to watch.</span>Entertainer
+            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Entertainer (???: -110)**Some have called my battle meditations... calming to watch.<code>increase_ability_score,cha,2</code></span>Entertainer
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Charisma</span>
@@ -246,7 +246,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>???: -110</span>
         </span>
         <span class="featTableIcon3">
-            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (???: -110)**Together we shall defeat the illithid threat once and for all!</span>Inspiring Leader
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (???: -110)**Together we shall defeat the illithid threat once and for all!<code>global_dps_multiplier_mult,25</code></span>Inspiring Leader
         </span>
         <span class="featTableEffect">
             <span>25% All Champion Damage</span>
@@ -263,7 +263,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>???: -110</span>
         </span>
         <span class="featTableIcon3">
-            ![Keen Mind Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">**Keen Mind (???: -110)**I am smarter than even your most brilliant material plane citizen.</span>Keen Mind
+            ![Keen Mind Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">**Keen Mind (???: -110)**I am smarter than even your most brilliant material plane citizen.<code>increase_ability_score,int,1</code></span>Keen Mind
         </span>
         <span class="featTableEffect">
             <span>Stat: +1 Intelligence</span>
@@ -280,7 +280,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>???: -110</span>
         </span>
         <span class="featTableIcon2">
-            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (???: -110)**I was sent here to assist, and assist I shall.</span>Selflessness
+            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (???: -110)**I was sent here to assist, and assist I shall.<code>global_dps_multiplier_mult,10</code></span>Selflessness
         </span>
         <span class="featTableEffect">
             <span>10% All Champion Damage</span>
@@ -297,7 +297,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Diana</span>
         </span>
         <span class="featTableIcon4">
-            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Entertainer (Diana)**Sure, Presto can do ACTUAL magic; but go ahead, pick a card.</span>Entertainer
+            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Entertainer (Diana)**Sure, Presto can do ACTUAL magic; but go ahead, pick a card.<code>increase_ability_score,cha,2</code></span>Entertainer
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Charisma</span>
@@ -314,7 +314,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Diana</span>
         </span>
         <span class="featTableIcon4">
-            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Diana)**I've got a 4.0 GPA.</span>Scholar
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Diana)**I've got a 4.0 GPA.<code>increase_ability_score,int,2</code></span>Scholar
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Intelligence</span>
@@ -331,7 +331,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Diana</span>
         </span>
         <span class="featTableIcon4">
-            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Tenacious (Diana)**Don't count me out yet!</span>Tenacious
+            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Tenacious (Diana)**Don't count me out yet!<code>increase_ability_score,con,2</code></span>Tenacious
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Constitution</span>
@@ -348,7 +348,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>D'hani</span>
         </span>
         <span class="featTableIcon4">
-            ![Buff Blue Paint Chance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Blue Paint Chance (D'hani)**</span>Buff Blue Paint Chance
+            ![Buff Blue Paint Chance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Blue Paint Chance (D'hani)**<code>buff_upgrade,80,13715,0</code></span>Buff Blue Paint Chance
         </span>
         <span class="featTableEffect">
             <span>80% Chance to Apply Blotch of Blue</span>
@@ -365,7 +365,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>D'hani</span>
         </span>
         <span class="featTableIcon4">
-            ![Buff Blue Stun Duration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Blue Stun Duration (D'hani)**</span>Buff Blue Stun Duration
+            ![Buff Blue Stun Duration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Blue Stun Duration (D'hani)**<code>buff_upgrade,80,13715,1</code></span>Buff Blue Stun Duration
         </span>
         <span class="featTableEffect">
             <span>80% Duration Blotch of Blue</span>
@@ -382,7 +382,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>D'hani</span>
         </span>
         <span class="featTableIcon4">
-            ![Buff Green AOE damage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Green AOE damage (D'hani)**</span>Buff Green AOE damage
+            ![Buff Green AOE damage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Green AOE damage (D'hani)**<code>buff_upgrade,80,13714,1</code></span>Buff Green AOE damage
         </span>
         <span class="featTableEffect">
             <span>80% Damage of Stroke of Green</span>
@@ -399,7 +399,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>D'hani</span>
         </span>
         <span class="featTableIcon4">
-            ![Buff Yellow Gold Buff Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Yellow Gold Buff (D'hani)**</span>Buff Yellow Gold Buff
+            ![Buff Yellow Gold Buff Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Yellow Gold Buff (D'hani)**<code>buff_upgrade,80,13713,1</code></span>Buff Yellow Gold Buff
         </span>
         <span class="featTableEffect">
             <span>80% Gold Find from Splash of Yellow</span>
@@ -416,7 +416,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>D'hani</span>
         </span>
         <span class="featTableIcon4">
-            ![Buff Yellow Paint Chance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Yellow Paint Chance (D'hani)**</span>Buff Yellow Paint Chance
+            ![Buff Yellow Paint Chance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Yellow Paint Chance (D'hani)**<code>buff_upgrade,80,13713,0</code></span>Buff Yellow Paint Chance
         </span>
         <span class="featTableEffect">
             <span>80% Chance to Apply Splash of Yellow</span>
@@ -433,7 +433,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>BBEG</span>
         </span>
         <span class="featTableIcon4">
-            ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">**Vicious Damage (BBEG)**'Now you face me at my true potential! Victory WILL be mine!'</span>Vicious Damage
+            ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">**Vicious Damage (BBEG)**'Now you face me at my true potential! Victory WILL be mine!'<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span>Vicious Damage
         </span>
         <span class="featTableEffect">
             <span>400% Self DPS & Prevent Healing for 10s</span>
@@ -450,7 +450,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Bruenor</span>
         </span>
         <span class="featTableIcon3">
-            ![Hall of the Mountain King Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">**Hall of the Mountain King (Bruenor)**'Tis an honor ta fight alongside ya.</span>Hall of the Mountain King
+            ![Hall of the Mountain King Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">**Hall of the Mountain King (Bruenor)**'Tis an honor ta fight alongside ya.<code>add_mithral_hall_stacks,1</code></span>Hall of the Mountain King
         </span>
         <span class="featTableEffect">
             <span>+1 Mithral Hall Stacks</span>
@@ -467,7 +467,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Bruenor</span>
         </span>
         <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Bruenor)**Off yer rump and get back out there!</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Bruenor)**Off yer rump and get back out there!<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
             <span>50% All Champion Damage</span>
@@ -484,7 +484,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Catti-brie</span>
         </span>
         <span class="featTableIcon4">
-            ![Archer's Perception Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Archer's Perception (Catti-brie)**I'll know them when I see them. Attack on my signal.</span>Archer's Perception
+            ![Archer's Perception Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Archer's Perception (Catti-brie)**I'll know them when I see them. Attack on my signal.<code>buff_upgrade,80,11308</code></span>Archer's Perception
         </span>
         <span class="featTableEffect">
             <span>80% Mark for Death</span>
@@ -501,7 +501,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Catti-brie</span>
         </span>
         <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Master's Precision (Catti-brie)**Aye, these arrows do go through most armor.</span>Master's Precision
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Master's Precision (Catti-brie)**Aye, these arrows do go through most armor.<code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
             <span>+20% Crit Chance</span>
@@ -518,7 +518,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Catti-brie</span>
         </span>
         <span class="featTableIcon4">
-            ![Obliterating Blast Icon](images/featicons/critdamageincrease.png)<span class="featTooltipContents">**Obliterating Blast (Catti-brie)**It's not just that I hit ye; it's how many times I hit ye.</span>Obliterating Blast
+            ![Obliterating Blast Icon](images/featicons/critdamageincrease.png)<span class="featTooltipContents">**Obliterating Blast (Catti-brie)**It's not just that I hit ye; it's how many times I hit ye.<code>buff_base_crit_damage,120</code></span>Obliterating Blast
         </span>
         <span class="featTableEffect">
             <span>+120% Crit Damage</span>
@@ -535,7 +535,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Certainty</span>
         </span>
         <span class="featTableIcon4">
-            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Tenacious (Certainty)**If I can survive quarterly meetings, I can survive this!</span>Tenacious
+            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Tenacious (Certainty)**If I can survive quarterly meetings, I can survive this!<code>increase_ability_score,con,2</code></span>Tenacious
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Constitution</span>
@@ -552,7 +552,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Drizzt</span>
         </span>
         <span class="featTableIcon3">
-            ![Courage in Battle Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">**Courage in Battle (Drizzt)**Hope is the ally of all courageous people.</span>Courage in Battle
+            ![Courage in Battle Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">**Courage in Battle (Drizzt)**Hope is the ally of all courageous people.<code>add_mithral_hall_stacks,1</code></span>Courage in Battle
         </span>
         <span class="featTableEffect">
             <span>+1 Mithral Hall Stacks</span>
@@ -569,7 +569,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Drizzt</span>
         </span>
         <span class="featTableIcon3">
-            ![Death on Both Sides Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Death on Both Sides (Drizzt)**You will die by either Guenhwyvar's fangs or my blade.</span>Death on Both Sides
+            ![Death on Both Sides Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Death on Both Sides (Drizzt)**You will die by either Guenhwyvar's fangs or my blade.<code>buff_upgrade,40,632</code></span>Death on Both Sides
         </span>
         <span class="featTableEffect">
             <span>40% Icingdeath</span>
@@ -586,7 +586,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Evelyn</span>
         </span>
         <span class="featTableIcon4">
-            ![Quick Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Quick Friends (Evelyn)**Did you heal me? OH! Yay! We're best friends now!</span>Quick Friends
+            ![Quick Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Quick Friends (Evelyn)**Did you heal me? OH! Yay! We're best friends now!<code>buff_upgrade,80,12208</code></span>Quick Friends
         </span>
         <span class="featTableEffect">
             <span>80% Conduit of the Light</span>
@@ -603,7 +603,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Evelyn</span>
         </span>
         <span class="featTableIcon4">
-            ![Under Pressure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Under Pressure (Evelyn)**Uh oh -- more enemies! Everyone get behind me!</span>Under Pressure
+            ![Under Pressure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Under Pressure (Evelyn)**Uh oh -- more enemies! Everyone get behind me!<code>buff_upgrade,80,12207</code></span>Under Pressure
         </span>
         <span class="featTableEffect">
             <span>80% Steadfast Might</span>
@@ -620,7 +620,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Jarlaxle</span>
         </span>
         <span class="featTableIcon3">
-            ![Durable Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">**Durable (Jarlaxle)**It's going to take a lot more than that to defeat me!</span>Durable
+            ![Durable Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">**Durable (Jarlaxle)**It's going to take a lot more than that to defeat me!<code>increase_ability_score,con,1</code></span>Durable
         </span>
         <span class="featTableEffect">
             <span>Stat: +1 Constitution</span>
@@ -637,7 +637,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Jarlaxle</span>
         </span>
         <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Master's Precision (Jarlaxle)**These looks could kill -- and they have.</span>Master's Precision
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Master's Precision (Jarlaxle)**These looks could kill -- and they have.<code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
             <span>+20% Crit Chance</span>
@@ -654,7 +654,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Jarlaxle</span>
         </span>
         <span class="featTableIcon4">
-            ![Obliterating Blast Icon](images/featicons/critdamageincrease.png)<span class="featTooltipContents">**Obliterating Blast (Jarlaxle)**No cleric can help you now.</span>Obliterating Blast
+            ![Obliterating Blast Icon](images/featicons/critdamageincrease.png)<span class="featTooltipContents">**Obliterating Blast (Jarlaxle)**No cleric can help you now.<code>buff_base_crit_damage,120</code></span>Obliterating Blast
         </span>
         <span class="featTableEffect">
             <span>+120% Crit Damage</span>
@@ -671,7 +671,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Krux</span>
         </span>
         <span class="featTableIcon4">
-            ![Bigger Boat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Bigger Boat (Krux)**Welcome to the crew!</span>Bigger Boat
+            ![Bigger Boat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Bigger Boat (Krux)**Welcome to the crew!<code>change_upgrade_data,11653</code></span>Bigger Boat
         </span>
         <span class="featTableEffect">
             <span>All Hands on Deck +2nd Rear Column</span>
@@ -688,7 +688,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Krux</span>
         </span>
         <span class="featTableIcon4">
-            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Entertainer (Krux)**Ho oh! I'm a fiend with a bagpipe!</span>Entertainer
+            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Entertainer (Krux)**Ho oh! I'm a fiend with a bagpipe!<code>increase_ability_score,cha,2</code></span>Entertainer
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Charisma</span>
@@ -705,7 +705,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Krux</span>
         </span>
         <span class="featTableIcon4">
-            ![Keen Eye Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Keen Eye (Krux)**Few can hide from my spyglass.</span>Keen Eye
+            ![Keen Eye Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Keen Eye (Krux)**Few can hide from my spyglass.<code>buff_upgrade,80,11656</code></span>Keen Eye
         </span>
         <span class="featTableEffect">
             <span>80% Starfarer's Spyglass</span>
@@ -722,7 +722,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Krux</span>
         </span>
         <span class="featTableIcon4">
-            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Krux)**There's quite a bit of time in Wildspace for reading.</span>Scholar
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Krux)**There's quite a bit of time in Wildspace for reading.<code>increase_ability_score,int,2</code></span>Scholar
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Intelligence</span>
@@ -739,7 +739,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Krux</span>
         </span>
         <span class="featTableIcon4">
-            ![Seahippo Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Seahippo (Krux)**I've sailed more of the astral sea than most can imagine.</span>Seahippo
+            ![Seahippo Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Seahippo (Krux)**I've sailed more of the astral sea than most can imagine.<code>buff_upgrade,80,11657</code></span>Seahippo
         </span>
         <span class="featTableEffect">
             <span>80% An Experienced Sailor</span>
@@ -756,7 +756,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Lae'zel</span>
         </span>
         <span class="featTableIcon4">
-            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Lae'zel)**Knowledge of your enemy is as useful as the weapon in your hand.</span>Scholar
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Lae'zel)**Knowledge of your enemy is as useful as the weapon in your hand.<code>increase_ability_score,int,2</code></span>Scholar
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Intelligence</span>
@@ -773,7 +773,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Penelope</span>
         </span>
         <span class="featTableIcon4">
-            ![Friends Forever Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Friends Forever (Penelope)**Aw, I just love you all so much.</span>Friends Forever
+            ![Friends Forever Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Friends Forever (Penelope)**Aw, I just love you all so much.<code>buff_upgrades,80,14703,14704,14705</code></span>Friends Forever
         </span>
         <span class="featTableEffect">
             <span>80% All First Specialisations</span>
@@ -790,7 +790,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Pwent</span>
         </span>
         <span class="featTableIcon4">
-            ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">**Vicious Damage (Pwent)**Tear them apart!</span>Vicious Damage
+            ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">**Vicious Damage (Pwent)**Tear them apart!<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span>Vicious Damage
         </span>
         <span class="featTableEffect">
             <span>400% Self DPS & Prevent Healing for 10s</span>
@@ -807,7 +807,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Regis</span>
         </span>
         <span class="featTableIcon4">
-            ![Advisor Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Advisor (Regis)**Win or lose -- we still made a difference!</span>Advisor
+            ![Advisor Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Advisor (Regis)**Win or lose -- we still made a difference!<code>global_dps_multiplier_mult,50</code></span>Advisor
         </span>
         <span class="featTableEffect">
             <span>50% All Champion Damage</span>
@@ -824,7 +824,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Regis</span>
         </span>
         <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Master's Precision (Regis)**This mace isn't just decoration!</span>Master's Precision
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Master's Precision (Regis)**This mace isn't just decoration!<code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
             <span>+20% Crit Chance</span>
@@ -841,7 +841,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Thellora</span>
         </span>
         <span class="featTableIcon4">
-            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Thellora)**A tactician is only as good as their knowledge.</span>Scholar
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Thellora)**A tactician is only as good as their knowledge.<code>increase_ability_score_not_always_on,int,2</code></span>Scholar
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Intelligence</span>
@@ -858,7 +858,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Uriah</span>
         </span>
         <span class="featTableIcon4">
-            ![A Vow Unbroken Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**A Vow Unbroken (Uriah)**Beside Nahara, one could say I am a braver man.</span>A Vow Unbroken
+            ![A Vow Unbroken Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**A Vow Unbroken (Uriah)**Beside Nahara, one could say I am a braver man.<code>increase_ability_score,con,2</code></span>A Vow Unbroken
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Constitution</span>
@@ -875,7 +875,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Vin Ursa</span>
         </span>
         <span class="featTableIcon3">
-            ![It's Just Business Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**It's Just Business (Vin Ursa)**And sometimes business is personal.</span>It's Just Business
+            ![It's Just Business Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**It's Just Business (Vin Ursa)**And sometimes business is personal.<code>buff_upgrades,40,12092,12093,12094</code></span>It's Just Business
         </span>
         <span class="featTableEffect">
             <span>40% All Second Specialisations</span>
@@ -892,7 +892,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Vin Ursa</span>
         </span>
         <span class="featTableIcon3">
-            ![This is the Way Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**This is the Way (Vin Ursa)**We can do this one of two ways...</span>This is the Way
+            ![This is the Way Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**This is the Way (Vin Ursa)**We can do this one of two ways...<code>buff_upgrades,40,12090,12091</code></span>This is the Way
         </span>
         <span class="featTableEffect">
             <span>40% All First Specialisations</span>
@@ -909,7 +909,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Wulfgar</span>
         </span>
         <span class="featTableIcon3">
-            ![Battle Expertise Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Battle Expertise (Wulfgar)**My warhammer has a skill for finding weak points in armor.</span>Battle Expertise
+            ![Battle Expertise Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Battle Expertise (Wulfgar)**My warhammer has a skill for finding weak points in armor.<code>buff_base_crit_chance_add,10</code></span>Battle Expertise
         </span>
         <span class="featTableEffect">
             <span>+10% Crit Chance</span>
@@ -926,7 +926,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Wulfgar</span>
         </span>
         <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Master's Precision (Wulfgar)**Rage will fuel my warhammer!</span>Master's Precision
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">**Master's Precision (Wulfgar)**Rage will fuel my warhammer!<code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
             <span>+20% Crit Chance</span>
@@ -943,7 +943,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Asharra</span>
         </span>
         <span class="featTableIcon3">
-            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Asharra)**My people follow me. Will you?</span>Inspiring Leader
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Asharra)**My people follow me. Will you?<code>global_dps_multiplier_mult,25</code></span>Inspiring Leader
         </span>
         <span class="featTableEffect">
             <span>25% All Champion Damage</span>
@@ -960,7 +960,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Binwin</span>
         </span>
         <span class="featTableIcon4">
-            ![Above the Crowd Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Above the Crowd (Binwin)**You know I'm actually quite tall, for a dwarf.</span>Above the Crowd
+            ![Above the Crowd Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Above the Crowd (Binwin)**You know I'm actually quite tall, for a dwarf.<code>buff_upgrade,80,1131</code></span>Above the Crowd
         </span>
         <span class="featTableEffect">
             <span>80% Tallest in Faerûn</span>
@@ -977,7 +977,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Binwin</span>
         </span>
         <span class="featTableIcon3">
-            ![Grappler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Grappler (Binwin)**You don't want to get too close to an angry dwarf.</span>Grappler
+            ![Grappler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Grappler (Binwin)**You don't want to get too close to an angry dwarf.<code>hero_dps_multiplier_mult,60</code></span>Grappler
         </span>
         <span class="featTableEffect">
             <span>60% Self DPS</span>
@@ -994,7 +994,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Black Viper</span>
         </span>
         <span class="featTableIcon4">
-            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Weapon Master (Black Viper)**You would expect such skill from someone like me.</span>Weapon Master
+            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Weapon Master (Black Viper)**You would expect such skill from someone like me.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
         </span>
         <span class="featTableEffect">
             <span>120% Self DPS</span>
@@ -1011,7 +1011,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Deekin</span>
         </span>
         <span class="featTableIcon4">
-            ![Prophesied Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prophesied Leader (Deekin)**Deekin lead you all to DOOM.</span>Prophesied Leader
+            ![Prophesied Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prophesied Leader (Deekin)**Deekin lead you all to DOOM.<code>global_dps_multiplier_mult,50</code></span>Prophesied Leader
         </span>
         <span class="featTableEffect">
             <span>50% All Champion Damage</span>
@@ -1028,7 +1028,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Donaar</span>
         </span>
         <span class="featTableIcon3">
-            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Donaar)**A decision has been made, now let's execute it!</span>Inspiring Leader
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Donaar)**A decision has been made, now let's execute it!<code>global_dps_multiplier_mult,25</code></span>Inspiring Leader
         </span>
         <span class="featTableEffect">
             <span>25% All Champion Damage</span>
@@ -1045,7 +1045,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Jarlaxle</span>
         </span>
         <span class="featTableIcon3">
-            ![Grappler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Grappler (Jarlaxle)**Get close and you'll feel my blade!</span>Grappler
+            ![Grappler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Grappler (Jarlaxle)**Get close and you'll feel my blade!<code>hero_dps_multiplier_mult,60</code></span>Grappler
         </span>
         <span class="featTableEffect">
             <span>60% Self DPS</span>
@@ -1062,7 +1062,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Krull</span>
         </span>
         <span class="featTableIcon4">
-            ![Fortune's Favor Icon](images/featicons/goldfind.png)<span class="featTooltipContents">**Fortune's Favor (Krull)**What's that behind your ear? It's a blade. Keep your wits about you.</span>Fortune's Favor
+            ![Fortune's Favor Icon](images/featicons/goldfind.png)<span class="featTooltipContents">**Fortune's Favor (Krull)**What's that behind your ear? It's a blade. Keep your wits about you.<code>gold_multiplier_mult,50</code></span>Fortune's Favor
         </span>
         <span class="featTableEffect">
             <span>50% Gold</span>
@@ -1079,7 +1079,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Krull</span>
         </span>
         <span class="featTableIcon4">
-            ![Richly Deserved Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Richly Deserved (Krull)**They had it coming.</span>Richly Deserved
+            ![Richly Deserved Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Richly Deserved (Krull)**They had it coming.<code>buff_upgrade,80,3210,1</code></span>Richly Deserved
         </span>
         <span class="featTableEffect">
             <span>80% Draconic Plague</span>
@@ -1096,7 +1096,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Minsc</span>
         </span>
         <span class="featTableIcon4">
-            ![Superior Actor Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">**Superior Actor (Minsc)**Acting? Yes! Minsc is world's greatest actor!</span>Superior Actor
+            ![Superior Actor Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">**Superior Actor (Minsc)**Acting? Yes! Minsc is world's greatest actor!<code>increase_ability_score,cha,2</code></span>Superior Actor
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Charisma</span>
@@ -1113,7 +1113,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Nayeli</span>
         </span>
         <span class="featTableIcon3">
-            ![Resilient Icon](images/featicons/health.png)<span class="featTooltipContents">**Resilient (Nayeli)**Nothing can take down this champion.</span>Resilient
+            ![Resilient Icon](images/featicons/health.png)<span class="featTooltipContents">**Resilient (Nayeli)**Nothing can take down this champion.<code>health_mult,30</code></span>Resilient
         </span>
         <span class="featTableEffect">
             <span>30% Health</span>
@@ -1130,7 +1130,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Stoki</span>
         </span>
         <span class="featTableIcon4">
-            ![Fortune's Favor Icon](images/featicons/goldfind.png)<span class="featTooltipContents">**Fortune's Favor (Stoki)**I've never been more sure of what's right in my life.</span>Fortune's Favor
+            ![Fortune's Favor Icon](images/featicons/goldfind.png)<span class="featTooltipContents">**Fortune's Favor (Stoki)**I've never been more sure of what's right in my life.<code>gold_multiplier_mult,50</code></span>Fortune's Favor
         </span>
         <span class="featTableEffect">
             <span>50% Gold</span>
@@ -1147,7 +1147,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Tyril</span>
         </span>
         <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Tyril)**From fleeing apprentice to leader... an improvement, for sure.</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Tyril)**From fleeing apprentice to leader... an improvement, for sure.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
             <span>50% All Champion Damage</span>
@@ -1164,7 +1164,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Gazrick</span>
         </span>
         <span class="featTableIcon4">
-            ![Moving Shop Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Moving Shop (Gazrick)**Part of the fun is never knowing where you will set up next!</span>Moving Shop
+            ![Moving Shop Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Moving Shop (Gazrick)**Part of the fun is never knowing where you will set up next!<code>buff_upgrade,80,7535</code></span>Moving Shop
         </span>
         <span class="featTableEffect">
             <span>80% Travelling Merchant</span>
@@ -1181,7 +1181,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Alyndra</span>
         </span>
         <span class="featTableIcon4">
-            ![I Did My Homework Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**I Did My Homework (Alyndra)**... unlike some people.</span>I Did My Homework
+            ![I Did My Homework Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**I Did My Homework (Alyndra)**... unlike some people.<code>buff_upgrade,80,5379,0</code></span>I Did My Homework
         </span>
         <span class="featTableEffect">
             <span>80% Brows of Judgement</span>
@@ -1215,7 +1215,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Warden</span>
         </span>
         <span class="featTableIcon3">
-            ![Corrupting Sigils Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Corrupting Sigils (Warden)**My hex will be carved into your mind.</span>Corrupting Sigils
+            ![Corrupting Sigils Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Corrupting Sigils (Warden)**My hex will be carved into your mind.<code>buff_upgrade,40,13240,0</code></span>Corrupting Sigils
         </span>
         <span class="featTableEffect">
             <span>40% Hex</span>
@@ -1232,7 +1232,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Warden</span>
         </span>
         <span class="featTableIcon2">
-            ![Eldritch Words Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Eldritch Words (Warden)**The whispers echo through my very being.</span>Eldritch Words
+            ![Eldritch Words Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Eldritch Words (Warden)**The whispers echo through my very being.<code>buff_upgrade,20,13240</code></span>Eldritch Words
         </span>
         <span class="featTableEffect">
             <span>20% Hex</span>
@@ -1249,7 +1249,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Warden</span>
         </span>
         <span class="featTableIcon4">
-            ![Gibbous Script Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Gibbous Script (Warden)**The words I utter have existed since time itself.</span>Gibbous Script
+            ![Gibbous Script Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Gibbous Script (Warden)**The words I utter have existed since time itself.<code>buff_upgrade_add,2,13244</code></span>Gibbous Script
         </span>
         <span class="featTableEffect">
             <span>+2 to Master of Hexes</span>
@@ -1266,7 +1266,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Warden</span>
         </span>
         <span class="featTableIcon3">
-            ![Greater Swarm Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Greater Swarm (Warden)**Engulf my enemies. Break them down.</span>Greater Swarm
+            ![Greater Swarm Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Greater Swarm (Warden)**Engulf my enemies. Break them down.<code>buff_upgrade,25,13245,1</code></span>Greater Swarm
         </span>
         <span class="featTableEffect">
             <span>25% Cloak of Flies</span>
@@ -1283,7 +1283,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Warden</span>
         </span>
         <span class="featTableIcon3">
-            ![Phantasmal Curse Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Phantasmal Curse (Warden)**One touch of these specters will curse your soul for eternity.</span>Phantasmal Curse
+            ![Phantasmal Curse Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Phantasmal Curse (Warden)**One touch of these specters will curse your soul for eternity.<code>increase_warden_specter_max,1</code></span>Phantasmal Curse
         </span>
         <span class="featTableEffect">
             <span>+1 Max Spectres</span>
@@ -1300,7 +1300,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Warden</span>
         </span>
         <span class="featTableIcon4">
-            ![Specter of Aeons Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Specter of Aeons (Warden)**These are spirits of time itself.</span>Specter of Aeons
+            ![Specter of Aeons Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Specter of Aeons (Warden)**These are spirits of time itself.<code>increase_warden_specter_max,2</code></span>Specter of Aeons
         </span>
         <span class="featTableEffect">
             <span>+2 Max Spectres</span>
@@ -1317,7 +1317,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Warden</span>
         </span>
         <span class="featTableIcon2">
-            ![Stygian Spirit Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Stygian Spirit (Warden)**The minions of the void are waiting for you.</span>Stygian Spirit
+            ![Stygian Spirit Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Stygian Spirit (Warden)**The minions of the void are waiting for you.<code>buff_upgrade,20,13241,0</code></span>Stygian Spirit
         </span>
         <span class="featTableEffect">
             <span>20% Accursed Specter</span>
@@ -1334,7 +1334,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Warden</span>
         </span>
         <span class="featTableIcon3">
-            ![Unknowable Form Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Unknowable Form (Warden)**How can you stop what you cannot comprehend?</span>Unknowable Form
+            ![Unknowable Form Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Unknowable Form (Warden)**How can you stop what you cannot comprehend?<code>buff_upgrade,40,13241,0</code></span>Unknowable Form
         </span>
         <span class="featTableEffect">
             <span>40% Accursed Specter</span>
