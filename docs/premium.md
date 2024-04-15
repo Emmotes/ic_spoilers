@@ -127,6 +127,20 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Jack the Pumpkin Sprout Familiar Pack - $11.99  
+Date of release: 06 May 2024
+
+Contents:
+
+* Familiar: `Jack the Pumpkin Sprout`
+* Buff: `Huge Potion of Speed` x4
+* Buff: `Huge Potion of Giant's Strength` x4
+* Buff: `Huge Potion of Clairvoyance` x4
+* Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Classic Nordom Skin & Feat Pack - $11.99  
 Date of release: 08 May 2024
 
