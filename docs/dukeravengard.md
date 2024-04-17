@@ -51,7 +51,7 @@ Duke Ravengard will be the new champion in the Dragondown event on 5 June 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">DPS (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -100,33 +100,257 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Unknown**
-> Unknown effect.
+**Base Attack: Duke's Longsword** (Melee)
+> Duke Ravengard attacks the closest enemy for one hit with his longsword.  
+> Cooldown: 4s (Cap 1s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 756,
+    "name": "Duke's Longsword",
+    "description": "Duke Ravengard attacks the closest enemy for one hit with his longsword.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -40,
+            "damage_frame": 12,
+            "jump_sound": 30,
+            "sound_frames": {
+                "2": 194
+            }
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
 </pre>
 </p>
 </details>
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Unknown**
-> Unknown effect.
+**Base Attack: Duke's Shield Bash** (Melee)
+> Duke Ravengard attacks the closest enemy for one hit with his longsword. If he scores a critical hit, he follows-up by smashing the enemy with his shield, knocking them back a short distance.  
+> Cooldown: 4s (Cap 1s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 757,
+    "name": "Duke's Shield Bash",
+    "description": "Duke Ravengard attacks the closest enemy for one hit with his longsword. If he scores a critical hit, he follows-up by smashing the enemy with his shield, knocking them back a short distance.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "special_melee": "ravengard_lead_the_charge",
+            "target_offset": [
+                -75,
+                0
+            ]
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Duke's Fire Shield** (Melee)
+> Duke Ravengard ignites in flames for 20 seconds, damaging attacking melee enemies and increasing his damage.  
+> Cooldown: 4s (Cap 1s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 758,
+    "name": "Duke's Fire Shield",
+    "description": "Duke Ravengard ignites in flames for 20 seconds, damaging attacking melee enemies and increasing his damage.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -40,
+            "damage_frame": 12,
+            "jump_sound": 30,
+            "sound_frames": {
+                "2": 194
+            }
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
 </pre>
 </p>
 </details>
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown**
-> Unknown effect.
+**Critical Teamwork** (Guess)
+> Duke Ravengard's base chance to Critical Hit is 20%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 1968,
+    "flavour_text": "",
+    "description": {
+        "desc": "$source's base chance to Critical Hit is $(amount)%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "set_base_crit_chance,20"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Marshall of the Flaming Fist** (Guess)
+> Duke Ravengard gains a Command stack for each Champion with a melee base attack in the formation (including himself). Each stack increases the damage of these Champions by 400%, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1969,
+    "flavour_text": "",
+    "description": {
+        "desc": "$(source_hero) gains a Command stack for each Champion with a melee base attack in the formation (including himself). Each stack increases the damage of these Champions by $(not_buffed amount)%, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,400",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasAttackDamageType(`melee`)"
+                }
+            ],
+            "amount_func": "mult",
+            "show_bonus": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasAttackDamageType(`melee`)",
+            "per_hero_targets": [
+                "all"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed",
+                "attack_changed"
+            ],
+            "use_computed_amount_for_description": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Position of Power** (Guess)
+> Duke Ravengard increases the effect of the outgoing positional formation abilities of all Champions with a melee base attack by 25% for each Command stack he has, stacking additively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1970,
+    "flavour_text": "",
+    "description": {
+        "desc": "$(source_hero) increases the effect of the outgoing positional formation abilities of all Champions with a melee base attack by $(not_buffed amount)% for each Command stack he has, stacking additively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_positional_formation_abilities,25",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasAttackDamageType(`melee`)"
+                }
+            ],
+            "include_escorts": true,
+            "stacks_multiply": false,
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasAttackDamageType(`melee`)",
+            "per_hero_targets": [
+                "all"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed",
+                "attack_changed"
+            ],
+            "show_bonus": true,
+            "use_computed_amount_for_description": true,
+            "override_key_desc": "Increases the effect of $target's outgoing Positional Formation Abilities by $amount%",
+            "stack_title": "Command Stacks"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
 </pre>
 </p>
 </details>
@@ -134,7 +358,143 @@ Unknown.
 
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Lead the Charge** (Guess)
+> Whenever a Champion with a melee base attack gets a critical hit, increase the effect of Marshal of the Flaming Fist by 100% and additively increase the odds of all Champions in the formation getting critical hits by 1%. Both effects stack additively up to 50 times and reset when changing areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1971,
+    "flavour_text": "",
+    "description": {
+        "desc": "Whenever a Champion with a melee base attack gets a critical hit, increase the effect of Marshal of the Flaming Fist by $(not_buffed amount)% and additively increase the odds of all Champions in the formation getting critical hits by $(not_buffed amount___2)%. Both effects stack additively up to 50 times and reset when changing areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,15028",
+            "off_when_benched": true,
+            "max_stacks": 50,
+            "stack_title": "Critical Teamwork Stacks",
+            "stacks_multiply": false,
+            "show_bonus": true,
+            "stacks_on_trigger": "on_broadcast_stacks,melee_hero_crit",
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                }
+            ]
+        },
+        {
+            "effect_string": "global_buff_base_crit_chance_add,1",
+            "off_when_benched": true,
+            "max_stacks": 50,
+            "stack_title": "Critical Teamwork Stacks",
+            "stacks_multiply": false,
+            "show_bonus": true,
+            "stacks_on_trigger": "on_broadcast_stacks,melee_hero_crit",
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                }
+            ],
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "broadcast_on_trigger,melee_hero_crit,pre_target_attack_crit",
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasAttackDamageType(`melee`)"
+                }
+            ],
+            "override_key_desc": "Each time $target deals a Critical Hit, they contribute a Critical Teamwork stack to $(source_hero)"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Legacy of Ravengard** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1972,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_base_attack,757"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Strength of Baldurs Gate** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1973,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
@@ -209,12 +569,18 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Duke Ravengard Gold Chest Icon](images/dukeravengard/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Duke Ravengard Silver Chest Icon](images/dukeravengard/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
