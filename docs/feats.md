@@ -183,6 +183,295 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Diana)**I've got a 4.0 GPA.<code>increase_ability_score,int,2</code></span>Scholar
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Intelligence</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 May 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Drizzt</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Courage in Battle Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">**Courage in Battle (Drizzt)**Hope is the ally of all courageous people.<code>add_mithral_hall_stacks,1</code></span>Courage in Battle
+        </span>
+        <span class="featTableEffect">
+            <span>+1 Mithral Hall Stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 May 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Evelyn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Quick Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Quick Friends (Evelyn)**Did you heal me? OH! Yay! We're best friends now!<code>buff_upgrade,80,12208</code></span>Quick Friends
+        </span>
+        <span class="featTableEffect">
+            <span>80% Conduit of the Light</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 May 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Krydle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Heavily Armored Icon](images/featicons/health.png)<span class="featTooltipContents">**Heavily Armored (Krydle)**You want me to hide in this?! Do you have a barn?<code>health_mult,60</code></span>Heavily Armored
+        </span>
+        <span class="featTableEffect">
+            <span>60% Health</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 May 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Artemis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Feeding Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Feeding Blade (Artemis)**I need some healing - that bandit will do.<code>buff_upgrade,80,3268</code></span>Feeding Blade
+        </span>
+        <span class="featTableEffect">
+            <span>80% Jeweled Power</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>29 May 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Karlach</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Feels Good Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Feels Good (Karlach)**Screaming calms me down. You should try it, Soldier.<code>buff_upgrade,80,13723</code></span>Feels Good
+        </span>
+        <span class="featTableEffect">
+            <span>80% Rage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>29 May 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>BBEG</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Encounter Builder Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Encounter Builder (BBEG)**Okay, you hide behind the door. Wait for all of them to come in and then attack!<code>buff_upgrade,80,11539</code></span>Encounter Builder
+        </span>
+        <span class="featTableEffect">
+            <span>80% Evil Overlord</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Jun 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Selise</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Nowhere to Run Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Nowhere to Run (Selise)**Did you really think you could get away?<code>buff_upgrade,80,13745</code></span>Nowhere to Run
+        </span>
+        <span class="featTableEffect">
+            <span>80% Vow of Vengeance</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Jun 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Korth</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scale of Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Scale of Friends (Korth)**You're scale-less, but I guess we can work together<code>buff_upgrade,80,13035,0</code></span>Scale of Friends
+        </span>
+        <span class="featTableEffect">
+            <span>80% Lizardfolk Tactics</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>19 Jun 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nova</span>
+        </span>
+        <span class="featTableIcon4">
+            ![United Crew Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**United Crew (Nova)**I'm open to suggestions...<code>buff_upgrade,80,8748</code></span>United Crew
+        </span>
+        <span class="featTableEffect">
+            <span>80% The Crew</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>19 Jun 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Birdsong</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Birdsong)**I'll lead, if you don't mind. It's just like a dance.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>26 Jun 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Hyperconfidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Hyperconfidence (Deekin)**Deekin is not worried. Boss promised Deekin would never be scared again.<code>buff_upgrade,80,1150</code></span>Hyperconfidence
+        </span>
+        <span class="featTableEffect">
+            <span>80% Confidence in the Boss</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>10 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nahara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Spell Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Spell Master (Nahara)**These hands hold dangerous power. Do not cross me.<code>hero_dps_multiplier_mult,120</code></span>Spell Master
+        </span>
+        <span class="featTableEffect">
+            <span>120% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>10 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Sgt. Knox</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Sgt. Knox)**Many are called, but few can serve as a true leader.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>17 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Vin Ursa</span>
+        </span>
+        <span class="featTableIcon4">
+            ![All Hands! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**All Hands! (Vin Ursa)**Did anyone see where the spelljammer went?<code>buff_upgrades,80,12090,12091</code></span>All Hands!
+        </span>
+        <span class="featTableEffect">
+            <span>80% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>17 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Havilar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Yuan-ti Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Yuan-ti Glitch (Havilar)**Somethingsss Ssstrange... Wait, WHERE IS MY HAIR?!<code>add_hero_tags,0,yuan-ti<br>buff_upgrade_per_unique_race,20,3432</code></span>Yuan-ti Glitch
+        </span>
+        <span class="featTableEffect">
+            <span>Counts as Yuan Ti & +20% to Leadership Summit per Unique Race</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nayeli</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Triton Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Triton Glitch (Nayeli)**Does anyone want to go for a swim?<code>add_hero_tags,0,triton<br>buff_upgrade_per_unique_race,20,40</code></span>Triton Glitch
+        </span>
+        <span class="featTableEffect">
+            <span>Counts as Triton & +20% to Aura of Protection per Unique Race</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Voronika</span>
         </span>
         <span class="featTableIcon4">
@@ -233,23 +522,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Charisma</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2030</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Diana</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Diana)**I've got a 4.0 GPA.<code>increase_ability_score,int,2</code></span>Scholar
-        </span>
-        <span class="featTableEffect">
-            <span>Stat: +2 Intelligence</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -484,44 +756,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Drizzt</span>
         </span>
         <span class="featTableIcon3">
-            ![Courage in Battle Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">**Courage in Battle (Drizzt)**Hope is the ally of all courageous people.<code>add_mithral_hall_stacks,1</code></span>Courage in Battle
-        </span>
-        <span class="featTableEffect">
-            <span>+1 Mithral Hall Stacks</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Drizzt</span>
-        </span>
-        <span class="featTableIcon3">
             ![Death on Both Sides Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Death on Both Sides (Drizzt)**You will die by either Guenhwyvar's fangs or my blade.<code>buff_upgrade,40,632</code></span>Death on Both Sides
         </span>
         <span class="featTableEffect">
             <span>40% Icingdeath</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Evelyn</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Quick Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Quick Friends (Evelyn)**Did you heal me? OH! Yay! We're best friends now!<code>buff_upgrade,80,12208</code></span>Quick Friends
-        </span>
-        <span class="featTableEffect">
-            <span>80% Conduit of the Light</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

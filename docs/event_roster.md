@@ -13,9 +13,11 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterHolder">
 <span class="eventRosterChampion" id="evelyn" style="background-image:url(images/portraits/evelyn.png)">Evelyn (6)</span>
 <span class="eventRosterChampion" id="qillek" style="background-image:url(images/portraits/qillek.png)">Qillek (5)</span>
+<span class="eventRosterChampion" id="krydle" style="background-image:url(images/portraits/krydle.png)">Krydle (2)</span>
 <span class="eventRosterChampion" id="jaheira" style="background-image:url(images/portraits/jaheira.png)">Jaheira (9)</span>
 <span class="eventRosterChampion" id="mehen" style="background-image:url(images/portraits/mehen.png)">Mehen (3)</span>
 <span class="eventRosterChampion" id="nordom" style="background-image:url(images/portraits/nordom.png)">Nordom (9)</span>
+<span class="eventRosterChampion" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)</span>
 <span class="eventRosterChampion" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)</span>
 <span class="eventRosterChampion" id="diana" style="background-image:url(images/diana/portrait.png)">Diana (9)</span>
 </span>
@@ -213,7 +215,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="turiel" style="background-image:url(images/portraits/turiel.png)">Turiel (1)</span>
 <span class="eventRosterChampion" id="morgaen" style="background-image:url(images/portraits/morgaen.png)">Môrgæn (9)</span>
 <span class="eventRosterChampion" id="melf" style="background-image:url(images/portraits/melf.png)">Melf (12)</span>
-<span class="eventRosterChampion" id="krydle" style="background-image:url(images/portraits/krydle.png)">Krydle (2)</span>
 <span class="eventRosterChampion" id="b&g" style="background-image:url(images/portraits/b&g.png)">B&G (8)</span>
 <span class="eventRosterChampion" id="lazaapz" style="background-image:url(images/portraits/lazaapz.png)">Lazaapz (9)</span>
 <span class="eventRosterChampion" id="talin" style="background-image:url(images/portraits/talin.png)">Talin (2)</span>
@@ -228,7 +229,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="dob" style="background-image:url(images/portraits/dob.png)">Dob (12)</span>
 <span class="eventRosterChampion" id="fen" style="background-image:url(images/portraits/fen.png)">Fen (6)</span>
 <span class="eventRosterChampion" id="antrius" style="background-image:url(images/portraits/antrius.png)">Antrius (4)</span>
-<span class="eventRosterChampion" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)</span>
 <span class="eventRosterChampion" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)</span>
 <span class="eventRosterChampion" id="astarion" style="background-image:url(images/portraits/astarion.png)">Astarion (10)</span>
 <span class="eventRosterChampion" id="karlach" style="background-image:url(images/portraits/karlach.png)">Karlach (4)</span>

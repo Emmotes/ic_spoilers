@@ -12,6 +12,10 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 | Shar's Darkness | 26 Apr | **Viconia** | Celeste | Nayeli | Imoen | Shadowheart | Golden Epic |
 | We'll Be Right Back | 03 May | **Diana** | Arkhan | Calliope | DM | Presto | Golden Epic |
 | Ocean Waves | 10 May | **Gromma** | Hitch | Jarlaxle | Evandra | Nordom | Golden Epic |
+| Mechanical Menace | 17 May | **Nordom** | Bruenor | Jarlaxle | Qillek | Evelyn | Golden Epic |
+| Mischief Makers | 24 May | **Presto** | Calliope | Minsc | Diana | DM | Golden Epic |
+| A Justiciar Among Us | 31 May | **Shadowheart** | Arkhan | Makos | Gale | Karlach | Golden Epic |
+| Barovian | 07 Jun | **Ezmerelda** | Celeste | Asharra | Dark Urge | Hew Maan | Golden Epic |
 
 [Back to Top](#top)
 
