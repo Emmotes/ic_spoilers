@@ -449,7 +449,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Electrum Chest Scavenger Icon](images/diana/icon_electrumchestscavenger.png) **Electrum Chest Scavenger** (Level: 200)
-> Diana can help scavenge up to 20 additional Electrum Chests when killing bosses. While this cap is not reached, Diana has a 0.5% chance of scavenging 1 Electrum Chest each time a boss is defeated. The cap increases by 0.5 every day.
+> Diana can help scavenge up to 20 additional Electrum Chests when killing bosses. While this cap is not reached, Diana has a 0.5% chance of scavenging 1 Electrum Chest each time a boss drops a loot bag. The cap increases by 0.5 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -469,7 +469,7 @@ Diana will be the new champion in the The Great Modron March event on 1 May 2024
     "id": 1948,
     "flavour_text": "",
     "description": {
-        "desc": "Diana can help scavenge up to $(current_scavenge_cap diana_electrum_scavenger floor) additional Electrum Chests when killing bosses. While this cap is not reached, Diana has a $amount% chance of scavenging 1 Electrum Chest each time a boss is defeated. The cap increases by $cap_increase_per_day every day.",
+        "desc": "Diana can help scavenge up to $(current_scavenge_cap diana_electrum_scavenger floor) additional Electrum Chests when killing bosses. While this cap is not reached, Diana has a $amount% chance of scavenging 1 Electrum Chest each time a boss drops a loot bag. The cap increases by $cap_increase_per_day every day.",
         "post": {
             "conditions": [
                 {
