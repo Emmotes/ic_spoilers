@@ -5,51 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Action Figure Melf Skin & Feat Pack - $11.99  
-Date of release: 17 Apr 2024
-
-Contents:
-
-* Champion: `Melf`
-* Skin: `Action Figure Melf`
-* Feat: `Melf's Collectors Boots` (Melf)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Melf Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Chibi Spurt Skin & Feat Pack - $11.99  
-Date of release: 17 Apr 2024
-
-Contents:
-
-* Champion: `Spurt`
-* Skin: `Chibi Spurt`
-* Feat: `Sparkly Eyes` (Spurt)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Spurt Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Plushie Antrius Skin & Feat Pack - $11.99  
-Date of release: 17 Apr 2024
-
-Contents:
-
-* Champion: `Antrius`
-* Skin: `Plushie Antrius`
-* Feat: `SO Cute!` (Antrius)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Antrius Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Aarakocra Glitch Orkira Skin & Feat Pack - $11.99  
 Date of release: 24 Apr 2024
 

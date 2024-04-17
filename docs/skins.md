@@ -11,48 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Action Figure Melf Portrait](images/skin_portraits/actionfiguremelf.png)Action Figure Melf
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Action Figure Melf Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">17 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Chibi Spurt Portrait](images/skin_portraits/chibispurt.png)Chibi Spurt
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Chibi Spurt Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">17 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Plushie Antrius Portrait](images/skin_portraits/plushieantrius.png)Plushie Antrius
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Plushie Antrius Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">17 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Aarakocra Glitch Orkira Portrait](images/skin_portraits/aarakocraglitchorkira.png)Aarakocra Glitch Orkira
         </span>
         <span class="skinTableSource">

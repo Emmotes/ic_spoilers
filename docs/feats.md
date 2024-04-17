@@ -30,57 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Antrius</span>
-        </span>
-        <span class="featTableIcon4">
-            ![SO Cute! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**SO Cute! (Antrius)**And you thought I was irresistible before!<code>buff_upgrade,80,10797</code></span>SO Cute!
-        </span>
-        <span class="featTableEffect">
-            <span>80% Can't be De-Feat-ed</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>17 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Melf</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Melf's Collectors Boots Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Melf's Collectors Boots (Melf)**You can't just leave them in the box, can you?<code>buff_upgrade,80,3511</code></span>Melf's Collectors Boots
-        </span>
-        <span class="featTableEffect">
-            <span>80% Melf's Speedy Supplement</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>17 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Spurt</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Sparkly Eyes Icon](images/featicons/spurtult.png)<span class="featTooltipContents">**Sparkly Eyes (Spurt)**SPURTS ADORABLE!<code>increase_ultimate_cooldown,60</code></span>Sparkly Eyes
-        </span>
-        <span class="featTableEffect">
-            <span>+60s Ultimate Cooldown</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>17 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Orkira</span>
         </span>
         <span class="featTableIcon4">
