@@ -48,7 +48,7 @@ We know the next Emergence event will be Vecna Cultists and that it will start o
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">???: 430</span>
+            <span style="margin-left:15px">Pirate Azaka</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
@@ -57,7 +57,7 @@ We know the next Emergence event will be Vecna Cultists and that it will start o
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">???: 431</span>
+            <span style="margin-left:15px">Pirate Diana</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
