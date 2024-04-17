@@ -192,7 +192,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Stat: +2 Intelligence</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 7</span>
         </span>
         <span class="featTableDate">
             <span>22 May 2024</span>
@@ -209,7 +209,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>+1 Mithral Hall Stacks</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 7</span>
         </span>
         <span class="featTableDate">
             <span>22 May 2024</span>
@@ -226,7 +226,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>80% Conduit of the Light</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 7</span>
         </span>
         <span class="featTableDate">
             <span>22 May 2024</span>
@@ -243,7 +243,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>60% Health</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 7</span>
         </span>
         <span class="featTableDate">
             <span>22 May 2024</span>

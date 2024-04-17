@@ -233,20 +233,6 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-right: 8px;">???</span>
         </span>
     </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Yuan Ti Glitch Havilar Portrait](images/skin_portraits/yuantiglitchhavilar.png)Yuan Ti Glitch Havilar
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
 </span>
 
 [Back to Top](#top)
