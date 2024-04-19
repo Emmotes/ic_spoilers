@@ -1081,7 +1081,7 @@ This list will only show feats that are going to be available on the release of 
             ![Previously... Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Previously... (Diana)**Don't worry, Eric. What could go wrong?<code>buff_upgrades,20,14796,14797</code></span>Previously...
         </span>
         <span class="featTableEffect">
-            <span>20% All Second Specialisations</span>
+            <span>20% All Second Specialisations (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>Free</span>
@@ -1092,7 +1092,7 @@ This list will only show feats that are going to be available on the release of 
             ![Don't Go Away! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Don't Go Away! (Diana)**Oh no! It's Venger!<code>buff_upgrades,40,14796,14797</code></span>Don't Go Away!
         </span>
         <span class="featTableEffect">
-            <span>40% All Second Specialisations</span>
+            <span>40% All Second Specialisations (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>Gold Chest</span>
@@ -1103,7 +1103,7 @@ This list will only show feats that are going to be available on the release of 
             ![Next Time... Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Next Time... (Diana)**See, I told you it would be fine!<code>buff_upgrades,80,14796,14797</code></span>Next Time...
         </span>
         <span class="featTableEffect">
-            <span>80% All Second Specialisations</span>
+            <span>80% All Second Specialisations (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>Event Bonus</span>

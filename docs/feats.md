@@ -895,7 +895,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Friends Forever Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Friends Forever (Penelope)**Aw, I just love you all so much.<code>buff_upgrades,80,14703,14704,14705</code></span>Friends Forever
         </span>
         <span class="featTableEffect">
-            <span>80% All First Specialisations</span>
+            <span>80% All First Specialisations (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

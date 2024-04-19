@@ -248,7 +248,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Training Montage</span>
-                        <span style="margin-left:15px">Evelyn (80% Lathander's Grace)</span>
+                        <span style="margin-left:15px">Evelyn (80% Lathander's Grace (Prestack))</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -258,7 +258,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Official Fan Club Card</span>
-                        <span style="margin-left:15px">Jim (80% Fan Club)</span>
+                        <span style="margin-left:15px">Jim (80% Fan Club (Prestack))</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -571,7 +571,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Centered</span>
-                        <span style="margin-left:15px">Nrakk (80% Ki Master)</span>
+                        <span style="margin-left:15px">Nrakk (80% Ki Master (Prestack))</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -829,7 +829,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Puzzling Answers</span>
-                        <span style="margin-left:15px">Shaka (40% Riddling Rivals)</span>
+                        <span style="margin-left:15px">Shaka (40% Riddling Rivals (Prestack))</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -869,7 +869,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Riddles Within Riddles</span>
-                        <span style="margin-left:15px">Shaka (80% Riddling Rivals)</span>
+                        <span style="margin-left:15px">Shaka (80% Riddling Rivals (Prestack))</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
@@ -1614,7 +1614,7 @@ This is the list of recurring events that have had their exclusivity period end.
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Harmony</span>
-                        <span style="margin-left:15px">Birdsong (80% Crescendo)</span>
+                        <span style="margin-left:15px">Birdsong (80% Crescendo (Prestack))</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
