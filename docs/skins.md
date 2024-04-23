@@ -179,6 +179,62 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Wyrm Slayer Ezmerelda Portrait](images/skin_portraits/wyrmslayerezmerelda.png)Wyrm Slayer Ezmerelda
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Wyrm Slayer Ezmerelda Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">05 Jun 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Wyrm Slayer Ravengard Portrait](images/skin_portraits/wyrmslayerravengard.png)Wyrm Slayer Ravengard
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Wyrm Slayer Ravengard Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">05 Jun 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Wyrm Slayer BBEG
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Wyrm Slayer BBEG Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">12 Jun 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Wyrm Slayer Selise
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Wyrm Slayer Selise Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">12 Jun 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Robe of the Weave Gale Portrait](images/skin_portraits/robeoftheweavegale.png)Robe of the Weave Gale
         </span>
         <span class="skinTableSource">
@@ -193,6 +249,48 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Wyrm Slayer Korth
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Wyrm Slayer Korth Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">19 Jun 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Wyrm Slayer Nova
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Wyrm Slayer Nova Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">19 Jun 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Triton Glitch Nayeli Portrait](images/skin_portraits/tritonglitchnayeli.png)Triton Glitch Nayeli
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Yuan-ti Glitch Havilar Portrait](images/skin_portraits/yuantiglitchhavilar.png)Yuan-ti Glitch Havilar
         </span>
         <span class="skinTableSource">
@@ -203,6 +301,20 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Fairy Glitch Freely Portrait](images/skin_portraits/fairyglitchfreely.png)Fairy Glitch Freely
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
     <span class="skinTableRow">

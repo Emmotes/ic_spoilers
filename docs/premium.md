@@ -233,6 +233,96 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Wyrm Slayer Ezmerelda Theme Pack - $27.99  
+Date of release: 05 Jun 2024
+
+Contents:
+
+* Champion: `Ezmerelda`
+* Skin: `Wyrm Slayer Ezmerelda`
+* Feat: ???
+* Familiar: `Strahd Target Practice Doll`
+* Chests: `Silver Ezmerelda Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Wyrm Slayer Ravengard Theme Pack - $27.99  
+Date of release: 05 Jun 2024
+
+Contents:
+
+* Champion: `Duke Ravengard`
+* Skin: `Wyrm Slayer Ravengard`
+* Feat: ???
+* Familiar: `Rusty the Rust Monster`
+* Chests: `Gold  Y7E12 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Wyrm Slayer BBEG Skin & Feat Pack - $11.99  
+Date of release: 12 Jun 2024
+
+Contents:
+
+* Champion: `Bartholemew Beelzebub Ezekiel Grubbe`
+* Skin: `Wyrm Slayer BBEG`
+* Feat: `Encounter Builder` (BBEG)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold BBEG Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Wyrm Slayer Selise Skin & Feat Pack - $11.99  
+Date of release: 12 Jun 2024
+
+Contents:
+
+* Champion: `Selise Astorio`
+* Skin: `Wyrm Slayer Selise`
+* Feat: `Nowhere to Run` (Selise)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Selise Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Wyrm Slayer Korth Skin & Feat Pack - $11.99  
+Date of release: 19 Jun 2024
+
+Contents:
+
+* Champion: `Korth`
+* Skin: `Wyrm Slayer Korth`
+* Feat: `Scale of Friends` (Korth)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Korth Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Wyrm Slayer Nova Skin & Feat Pack - $11.99  
+Date of release: 19 Jun 2024
+
+Contents:
+
+* Champion: `Nova V'Ger`
+* Skin: `Wyrm Slayer Nova`
+* Feat: `United Crew` (Nova)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Nova Chest` x7 (Shinies x1)
+</div></div>
+
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
