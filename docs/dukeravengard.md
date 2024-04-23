@@ -121,6 +121,7 @@ Unknown.
         {
             "type": "melee_attack",
             "target_offset_x": -40,
+            "start_frame": 5,
             "damage_frame": 12,
             "jump_sound": 30,
             "sound_frames": {
@@ -165,7 +166,13 @@ Unknown.
             "target_offset": [
                 -75,
                 0
-            ]
+            ],
+            "shield_bash_effect": {
+                "effect_string": "reduce_target_base_attack_cooldown_by_percent_action,100",
+                "targets": [
+                    "adj"
+                ]
+            }
         }
     ],
     "tags": [
@@ -180,9 +187,11 @@ Unknown.
 </details>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Duke's Fire Shield** (Melee)
+**Ultimate Attack: Duke's Fire Shield**
 > Duke Ravengard ignites in flames for 20 seconds, damaging attacking melee enemies and increasing his damage.  
-> Cooldown: 4s (Cap 1s)
+> Cooldown: 3s (Cap 0.75s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -191,28 +200,24 @@ Unknown.
     "name": "Duke's Fire Shield",
     "description": "Duke Ravengard ignites in flames for 20 seconds, damaging attacking melee enemies and increasing his damage.",
     "long_description": "",
-    "graphic_id": 0,
-    "target": "front",
+    "graphic_id": 23613,
+    "target": "none",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 4,
+    "cooldown": 3,
     "animations": [
         {
-            "type": "melee_attack",
-            "target_offset_x": -40,
-            "damage_frame": 12,
-            "jump_sound": 30,
-            "sound_frames": {
-                "2": 194
-            }
+            "type": "ultimate_attack",
+            "ultimate": "duke_ravengard",
+            "no_damage_display": true
         }
     ],
     "tags": [
-        "melee"
+        "ultimate"
     ],
     "damage_types": [
-        "melee"
+        "magic"
     ]
 }
 </pre>
@@ -438,7 +443,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Legacy of Ravengard** (Guess)
-> Unknown effect.
+> When Duke Ravengard gets a critical hit, he follows up by bashing the enemy with his shield, knocking it back a short distance. When this occurs, all melee Champions adjacent to Ulder have their base attack cooldowns immediately reset.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -446,7 +451,7 @@ Unknown.
     "id": 1972,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "When $(source_hero) gets a critical hit, he follows up by bashing the enemy with his shield, knocking it back a short distance. When this occurs, all melee Champions adjacent to Ulder have their base attack cooldowns immediately reset."
     },
     "effect_keys": [
         {
@@ -468,7 +473,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Strength of Baldurs Gate** (Guess)
-> Unknown effect.
+> Champions with a melee base attack have their crit chance additively increased by 20% and crit damage increased by 1000%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -476,11 +481,32 @@ Unknown.
     "id": 1973,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Champions with a melee base attack have their crit chance additively increased by 20% and crit damage increased by 1000%."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "buff_base_crit_chance_add,20",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasAttackDamageType(`melee`)"
+                }
+            ]
+        },
+        {
+            "effect_string": "buff_base_crit_damage_mult,1000",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasAttackDamageType(`melee`)"
+                }
+            ]
         }
     ],
     "requirements": "",
