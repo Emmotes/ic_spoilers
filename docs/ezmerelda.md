@@ -21,7 +21,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Training Montage** (Guess)
 > Ezmerelda marks enemies that she attacks, training other Champions to spot their vulnerable points. Marked enemies take 100% more damage from all Champions for each Debuff Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -120,7 +120,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Threat Tracking** (Guess)
 > Undead are Ezmerelda's favored foes. Ezmerelda tracks the favored foes that any Champion kills while she is in the formation, increasing the base effect of Training Montage by $amount% for each favored foe killed (additively then multiplicatively). These stacks persist for the entire adventure, resetting when you complete it. Caps at 1000000 favored foe kills.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -165,7 +165,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Enemies in the Mist** (Guess)
 > While Ezmerelda is in the formation, 0-2 "Mist" enemies can spawn with each wave. When a "Mist" enemy is defeated, an enemy whose type matches one of Ezmerelda's favored foe appears from the mist, and all nearby enemies gain the Training Montage debuff.
 <details><summary><em>Raw Data</em></summary>
 <p>
