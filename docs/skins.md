@@ -305,7 +305,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Fairy Glitch Freely Portrait](images/skin_portraits/fairyglitchfreely.png)Fairy Glitch Freely
+            ![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)Wyrm Slayer Warduke
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -319,7 +319,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)Wyrm Slayer Warduke
+            ![Fairy Glitch Freely Portrait](images/skin_portraits/fairyglitchfreely.png)Fairy Glitch Freely
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -328,7 +328,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-right: 8px;">???</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">01 Jan 2032</span>
         </span>
     </span>
 </span>
