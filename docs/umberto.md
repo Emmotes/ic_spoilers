@@ -7,7 +7,7 @@
 
 # Umberto
 
-Right now nothing is known about this champion except their name. Given that they appeared in the defs at the same time as Aeon - the suspicion is that they'll both be characters in an upcoming Idle Champions Presents stream.
+Right now nothing is known about this champion except their name. Given that they appeared in the defs at the same time as Aeon - the assumption is that they'll both be characters in an upcoming Idle Champions Presents stream.
 
 # Basic Information
 
