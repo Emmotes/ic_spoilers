@@ -11,7 +11,7 @@ Right now nothing is known about this champion except their name. Given that the
 
 # Basic Information
 
-Umberto is potentially a new champion in the Ahghairon's Day event on 7 August 2024.
+Umberto will be a new champion - potentially in the Ahghairon's Day event on 7 August 2024. (It's possible they could be in a different event - we don't know yet.)
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
