@@ -19,7 +19,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="nordom" style="background-image:url(images/portraits/nordom.png)">Nordom (9)</span>
 <span class="eventRosterChampion" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)</span>
 <span class="eventRosterChampion" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)</span>
-<span class="eventRosterChampion" id="diana" style="background-image:url(images/diana/portrait.png)">Diana (9)</span>
+<span class="eventRosterChampion" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)</span>
 </span>
 
 {:/nomarkdown}
@@ -35,7 +35,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="selise" style="background-image:url(images/portraits/selise.png)">Selise (12)</span>
 <span class="eventRosterChampion" id="merilwen" style="background-image:url(images/portraits/merilwen.png)">Merilwen (2)</span>
 <span class="eventRosterChampion" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)</span>
-<span class="eventRosterChampion" id="dukeravengard" style="background-image:url(images/dukeravengard/portrait.png)">Duke Ravengard</span>
+<span class="eventRosterChampion" id="dukeravengard" style="background-image:url(images/portraits/dukeravengard.png)">Duke Ravengard</span>
 </span>
 
 {:/nomarkdown}
@@ -51,6 +51,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="sgtknox" style="background-image:url(images/portraits/sgtknox.png)">Sgt. Knox (6)</span>
 <span class="eventRosterChampion" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)</span>
 <span class="eventRosterChampion" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">Strongheart (11)</span>
+<span class="eventRosterChampion" id="aeon" style="background-image:url(images/general/unknown.png)">Aeon</span>
 </span>
 
 {:/nomarkdown}
@@ -66,6 +67,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="prudence" style="background-image:url(images/portraits/prudence.png)">Prudence (5)</span>
 <span class="eventRosterChampion" id="voronika" style="background-image:url(images/portraits/voronika.png)">Voronika (1)</span>
 <span class="eventRosterChampion" id="laezel" style="background-image:url(images/portraits/laezel.png)">Lae'zel (2)</span>
+<span class="eventRosterChampion" id="umberto" style="background-image:url(images/general/unknown.png)">Umberto</span>
 </span>
 
 {:/nomarkdown}
