@@ -71,7 +71,7 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Unknown</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Founders' Day - 3 July 2024</span>
+                <span class="indexChampionTableNoLink">Founders' Day - 3 July 2024 (Guess)</span>
             </span>
         </span>
     </span>
@@ -93,7 +93,7 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Unknown</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Ahghairon's Day - 7 August 2024</span>
+                <span class="indexChampionTableNoLink">Ahghairon's Day - 7 August 2024 (Guess)</span>
             </span>
         </span>
     </span>
