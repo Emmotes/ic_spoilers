@@ -5,53 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Aarakocra Glitch Orkira Skin & Feat Pack - $11.99  
-Date of release: 24 Apr 2024
-
-Contents:
-
-* Champion: `Orkira Illdrex`
-* Skin: `Aarakocra Glitch Orkira`
-* Feat: `Aarakocra Glitch` (Orkira)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Orkira Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Classic Demogorgon Familiar Pack - $16.99  
-Date of release: 24 Apr 2024
-
-Contents:
-
-* Familiar: `Classic Demogorgon`
-* Familiar Skin: Demogorgon Sketch Skin (Classic Demogorgon)
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Classic Remorhaz Familiar Pack - $5.99  
-Date of release: 24 Apr 2024
-
-Contents:
-
-* Familiar: `Classic Remorhaz`
-* Familiar Skin: Remorhaz Sketch Skin (Classic Remorhaz)
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Mythic Diana Theme Pack - $27.99  
 Date of release: 01 May 2024
 

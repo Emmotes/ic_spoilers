@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Orkira</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Aarakocra Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Aarakocra Glitch (Orkira)**Look at my WINGS!<code>add_hero_tags,0,aarakocra<br>change_hero_alignment_tag,lawful,evil</code></span>Aarakocra Glitch
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Aarakocra & Change Alignment to Lawful Evil</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>24 Apr 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Diana</span>
         </span>
         <span class="featTableIcon4">

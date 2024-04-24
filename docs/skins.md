@@ -11,20 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Aarakocra Glitch Orkira Portrait](images/skin_portraits/aarakocraglitchorkira.png)Aarakocra Glitch Orkira
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Aarakocra Glitch Orkira Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">24 Apr 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Mythic Diana Portrait](images/skin_portraits/mythicdiana.png)Mythic Diana
         </span>
         <span class="skinTableSource">
