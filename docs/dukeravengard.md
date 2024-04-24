@@ -19,7 +19,7 @@ Ulder Ravengard is a recurring character in the Forgotten Realms setting of Dung
 
 # Basic Information
 
-Duke Ravengard will be the new champion in the Dragondown event on 5 June 2024.
+Duke Ravengard will be a new champion in the Dragondown event on 5 June 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">

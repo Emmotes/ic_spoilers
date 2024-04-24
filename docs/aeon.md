@@ -11,7 +11,7 @@ Right now nothing is known about this champion except their name. Given that the
 
 # Basic Information
 
-Aeon will be the new champion in the Founders' Day event on 3 July 2024.
+Aeon is potentially a new champion in the Founders' Day event on 3 July 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">

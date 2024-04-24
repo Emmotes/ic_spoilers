@@ -15,7 +15,7 @@ Diana was already a formidable gymnast when she and her friends were transported
 
 # Basic Information
 
-Diana will be the new champion in the The Great Modron March event on 1 May 2024.
+Diana will be a new champion in the The Great Modron March event on 1 May 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
