@@ -9,7 +9,7 @@ A new campaign was recently added to the defines: `Vecna: Eve of Ruin`. The gues
 Some effects made it into the definitions that look suspiciously like blessings. Can't be certain though of course.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-# **Local** (Guess)
+**Local** (Guess)
 > Increases the damage of all Lawful Champions by 100%
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -47,7 +47,7 @@ Some effects made it into the definitions that look suspiciously like blessings.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-# **Local** (Guess)
+**Local** (Guess)
 > Increases your gold find by 8.33% for each piece of epic or better gear on Champions in your formation, stacking additively
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -83,7 +83,7 @@ Some effects made it into the definitions that look suspiciously like blessings.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-# **Local** (Guess)
+**Local** (Guess)
 > Increases the damage of all Champions whose base attack is melee by 100%
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -122,7 +122,7 @@ Some effects made it into the definitions that look suspiciously like blessings.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-# **Global** (Guess)
+**Global** (Guess)
 > Increases the damage of all Champions by 100% for each piece of the Rod of Seven Parts you have collected (stacking multiplicatively)
 <details><summary><em>Raw Data</em></summary>
 <p>
