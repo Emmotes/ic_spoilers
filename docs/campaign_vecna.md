@@ -44,6 +44,7 @@ Some effects made it into the definitions that look suspiciously like blessings.
 </pre>
 </p>
 </details>
+</div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 # **Local** (Guess)
@@ -79,6 +80,7 @@ Some effects made it into the definitions that look suspiciously like blessings.
 </pre>
 </p>
 </details>
+</div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 # **Local** (Guess)
@@ -117,6 +119,7 @@ Some effects made it into the definitions that look suspiciously like blessings.
 </pre>
 </p>
 </details>
+</div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 # **Global** (Guess)
@@ -152,6 +155,7 @@ Some effects made it into the definitions that look suspiciously like blessings.
 </pre>
 </p>
 </details>
+</div></div>
 
 
 # Rod of Seven Parts
