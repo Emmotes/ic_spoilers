@@ -164,7 +164,7 @@ As you can probably see from the assumed Global blessing - there are some things
 
 | Part 1 | Part 2|
 |---|---|
-| ![Vecna: Eve of Ruin Rod of Seven Parts - Part 1 Icon](images/campaign_vecna/rod1.png) | ![Vecna: Eve of Ruin Rod of Seven Parts - Part 1 Icon](images/campaign_vecna/rod1.png) |
+| ![Vecna: Eve of Ruin Rod of Seven Parts - Part 1 Icon](images/campaign_vecna/rod1.png) | ![Vecna: Eve of Ruin Rod of Seven Parts - Part 1 Icon](images/campaign_vecna/rod2.png) |
 
 ## Other Icons and Logos
 
