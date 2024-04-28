@@ -1144,7 +1144,6 @@ This is the list of recurring events that have had their exclusivity period end.
 <span style="font-size:1.2em;">ⓘ</span> *Note: They're sorted by the date at which they stopped being exclusive - with the most recent at the bottom. Ties sort by start date.*
 
 <span class="postSeasonTableColumn">
-<span class="postSeasonTableRow postSeasonTableRowShowHideAll"><a id="showHideAll" onClick="exclusiveToggleAllContents()" style="cursor:pointer">[show all contents]</a></span>
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
