@@ -743,6 +743,14 @@ code{
 .postSeasonTableDateLate {
 	color: #f04735;
 }
+.postSeasonTableRowShowHideAll {
+	font-size: 1.1em;
+	display: flex;
+	align-items: flex-end;
+	padding-right: 9px;
+}
+.postSeasonTableRowShowHide {	
+}
 .championPortraitsRow {
 	display: flex;
 	flex-direction: row;

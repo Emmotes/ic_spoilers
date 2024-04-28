@@ -11,6 +11,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
 For platform giveaways we've been told the exclusivity period is 3 months from the moment the giveaway ends.
 
 <span class="postSeasonTableColumn">
+<span class="postSeasonTableRow postSeasonTableRowShowHideAll"><a id="showHideAll" onClick="exclusiveToggleAllContents()" style="cursor:pointer">[show all contents]</a></span>
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
@@ -20,7 +21,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 ![Emergence 4 Icon](images/general/e4.png)**Emergence 4** - Glitches
             </span>
         </span>
-        <span id="e4" hidden>
+        <span id="e4" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -134,7 +135,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 ![Switch Giveaway Nintendo Switch Sunset Giveaway Icon](images/general/switch.png)**Switch Giveaway** - Nintendo Switch Sunset Giveaway
             </span>
         </span>
-        <span id="g1" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -179,7 +180,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 ![Season 5 Icon](images/general/s5.png)**Season 5** - Acquisitions Incorporated
             </span>
         </span>
-        <span id="s5" hidden>
+        <span id="s5" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -388,7 +389,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 ![Emergence 5 Icon](images/general/e5.png)**Emergence 5** - Astral Elves
             </span>
         </span>
-        <span id="e5" hidden>
+        <span id="e5" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -502,7 +503,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 ![Season 6 Icon](images/general/s6.png)**Season 6** - Elemental Rebirth
             </span>
         </span>
-        <span id="s6" hidden>
+        <span id="s6" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -711,7 +712,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 ![Steam Giveaway Absolute Champions of Renown Pack Icon](images/general/steam.png)**Steam Giveaway** - Absolute Champions of Renown Pack
             </span>
         </span>
-        <span id="g2" hidden>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -765,7 +766,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 ![Spring2024 Giveaway Spring Celebration 2024 Icon](images/general/spring2024.png)**Spring2024 Giveaway** - Spring Celebration 2024
             </span>
         </span>
-        <span id="g3" hidden>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -820,7 +821,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 ![Season 7 Icon](images/general/s7.png)**Season 7** - The Rivals
             </span>
         </span>
-        <span id="s7" hidden>
+        <span id="s7" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -1029,7 +1030,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 ![Emergence 6 Icon](images/general/e6.png)**Emergence 6** - Illithids
             </span>
         </span>
-        <span id="e6" hidden>
+        <span id="e6" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -1143,6 +1144,7 @@ This is the list of recurring events that have had their exclusivity period end.
 <span style="font-size:1.2em;">ⓘ</span> *Note: They're sorted by the date at which they stopped being exclusive - with the most recent at the bottom. Ties sort by start date.*
 
 <span class="postSeasonTableColumn">
+<span class="postSeasonTableRow postSeasonTableRowShowHideAll"><a id="showHideAll" onClick="exclusiveToggleAllContents()" style="cursor:pointer">[show all contents]</a></span>
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
@@ -1152,7 +1154,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 ![Season 1 Icon](images/general/s1.png)**Season 1** - Heroes of Aerois
             </span>
         </span>
-        <span id="s1" hidden>
+        <span id="s1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -1301,7 +1303,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 ![Season 2 Icon](images/general/s2.png)**Season 2** - The Flayer Hunters
             </span>
         </span>
-        <span id="s2" hidden>
+        <span id="s2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -1451,7 +1453,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 ![Emergence 1 Icon](images/general/e1.png)**Emergence 1** - Red Wizards
             </span>
         </span>
-        <span id="e1" hidden>
+        <span id="e1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -1545,7 +1547,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 ![Season 3 Icon](images/general/s3.png)**Season 3** - Ancients and Lawbringers
             </span>
         </span>
-        <span id="s3" hidden>
+        <span id="s3" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -1744,7 +1746,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 ![Emergence 2 Icon](images/general/e2.png)**Emergence 2** - Modrons
             </span>
         </span>
-        <span id="e2" hidden>
+        <span id="e2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -1828,7 +1830,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 ![Season 4 Icon](images/general/s4.png)**Season 4** - Legends of Mithral Hall
             </span>
         </span>
-        <span id="s4" hidden>
+        <span id="s4" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -2037,7 +2039,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 ![Emergence 3 Icon](images/general/e3.png)**Emergence 3** - Mind Flayers
             </span>
         </span>
-        <span id="e3" hidden>
+        <span id="e3" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">

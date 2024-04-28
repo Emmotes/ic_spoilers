@@ -1,4 +1,4 @@
-const v=1.0
+const v=1.1
 const rrm = {
 	active: (localStorage.spoilersRRM == 1 ? true : false),
 	storage: "spoilersRRM",
@@ -15,6 +15,7 @@ const nnm = {
 };
 var devInsightsIndex = 0;
 var devInsightsTimer = devInsights[devInsightsIndex];
+var allExclusivesHidden = true;
 
 rrm.map.set("Exclusivity Dates","Dates and Crap");
 rrm.map.set("Premium Packs and DLC", "Shop Cash Packs");
@@ -191,6 +192,16 @@ function exclusiveToggleContent(id) {
 			elea.innerHTML=`${prefix}[show contents]${suffix}`;
 		}
 	}
+}
+
+function exclusiveToggleAllContents() {
+	let eles = document.getElementsByClassName('postSeasonTableRowShowHide');
+	allExclusivesHidden = !allExclusivesHidden;
+	for (let ele of eles) {
+		ele.hidden = allExclusivesHidden;
+	}
+	let show=allExclusivesHidden?`show`:`hide`;
+	document.getElementById(`showHideAll`).innerHTML=`[${show} all contents]`;
 }
 
 function displayTime(timeLeft) {
