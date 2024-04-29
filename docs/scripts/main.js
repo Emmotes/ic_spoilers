@@ -1,4 +1,4 @@
-const v=1.1
+const v=1.2
 const rrm = {
 	active: (localStorage.spoilersRRM == 1 ? true : false),
 	storage: "spoilersRRM",
@@ -93,14 +93,14 @@ function init() {
 		}
 	}
 	
-	var edit = !(document.location.pathname.includes("/modes.html"));
+	let edit = !(document.location.pathname.includes("/modes.html"));
 	updateModes(edit);
 	
 	if (!edit) {
-		var list = document.getElementById(`modesList`);
-		var contents = ``;
+		let list = document.getElementById(`modesList`);
+		let contents = ``;
 		for (let i = 0; i < allModes.length; i++) {
-			var curr = allModes[i];
+			let curr = allModes[i];
 			contents += `<span class="modesColInner"><span class="modesRow"><span class="modesType"><input type="checkbox" class="modesCheckbox" id="${curr.nick}" name="${curr.nick}" onClick="toggleMode('${curr.nick}')"`+(curr.active?` checked`:``)+`><label for="${curr.nick}" class="modesLabel">${curr.name}</label></span><span class="modesDetails" id="${curr.nick}Details"><a onClick="modesDetails('${curr.nick}')" id="${curr.nick}Link">[show]</a></span></span><span class="modesContent" id="${curr.nick}Content" style="display:none;">&nbsp;</span></span>`;
 		}
 		list.innerHTML = contents;
@@ -108,9 +108,9 @@ function init() {
 }
 
 function updateModes(edit) {
-	var modes = `<br><a href="modes.html">Modes</a>`;
+	let modes = `<br><a href="modes.html">Modes</a>`;
 	for (let i = 0; i < allModes.length; i++) {
-		var curr = allModes[i];
+		let curr = allModes[i];
 		if (curr.active) {
 			modes += `<br>${curr.name} Active`;
 			if (edit) {
@@ -120,20 +120,20 @@ function updateModes(edit) {
 			}
 		}
 	}
-	var element = document.getElementById("modes");
+	let element = document.getElementById("modes");
 	element.innerHTML = modes;
 }
 
 function modesDetails(type) {
 	for (let i=0; i<allModes.length; i++) {
-		var curr = allModes[i];
+		let curr = allModes[i];
 		if (curr.nick != type) {
 			continue;
 		}
-		var element = document.getElementById(`${curr.nick}Content`);
-		var link = document.getElementById(`${curr.nick}Link`);
+		let element = document.getElementById(`${curr.nick}Content`);
+		let link = document.getElementById(`${curr.nick}Link`);
 		if (link.innerHTML == "[show]") {
-			var content = `<span class="modesContentRowHeader"><span class="modesCol1">Find</span><span class="modesCol2">Replace</span></span>`;
+			let content = `<span class="modesContentRowHeader"><span class="modesCol1">Find</span><span class="modesCol2">Replace</span></span>`;
 			for (const [key,value] of curr.map) {
 				content += `<span class="modesContentRow"><span class="modesCol1">${key}</span><span class="modesCol2">${value}`
 				if (key == "D’hani" || key == "K’thriss" || key == "Lae’zel" || key == "Elminster") {
@@ -154,11 +154,11 @@ function modesDetails(type) {
 
 function toggleMode(type) {
 	for (let i=0; i<allModes.length; i++) {
-		var curr = allModes[i];
+		let curr = allModes[i];
 		if (curr.nick != type) {
 			continue;
 		}
-		var checked = document.getElementById(`${curr.nick}`).checked;
+		let checked = document.getElementById(`${curr.nick}`).checked;
 		if (checked) {
 			localStorage[curr.storage] = 1;
 			curr.active = true;
@@ -179,10 +179,10 @@ function randInt(min, max) {
 }
 
 function exclusiveToggleContent(id) {
-	var ele=document.getElementById(id);
-	var elea=document.getElementById(id+`a`);
-	var prefix=`<span class="postSeasonTableShowContents">`;
-	var suffix=`</span>`;
+	let ele=document.getElementById(id);
+	let elea=document.getElementById(id+`a`);
+	let prefix=`<span class="postSeasonTableShowContents">`;
+	let suffix=`</span>`;
 	if (ele!=undefined&&elea!=undefined) {
 		if (ele.hidden) {
 			ele.hidden=false;
@@ -195,13 +195,19 @@ function exclusiveToggleContent(id) {
 }
 
 function exclusiveToggleAllContents() {
-	let eles = document.getElementsByClassName('postSeasonTableRowShowHide');
+	let eles = document.getElementsByClassName(`postSeasonTableRowShowHide`);
 	allExclusivesHidden = !allExclusivesHidden;
 	for (let ele of eles) {
 		ele.hidden = allExclusivesHidden;
 	}
 	let show=allExclusivesHidden?`show`:`hide`;
+	let hide=allExclusivesHidden?`hide`:`show`;
 	document.getElementById(`showHideAll`).innerHTML=`[${show} all contents]`;
+	eles = document.getElementsByClassName(`postSeasonTableShowContents`);
+	for (let ele of eles) {
+		if (ele.innerHTML==`[${hide} contents]`)
+			ele.innerHTML=`[${show} contents]`;
+	}
 }
 
 function displayTime(timeLeft) {
