@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Mythic Diana Portrait](images/skin_portraits/mythicdiana.png)Mythic Diana
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Mythic Diana Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">01 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Painted Tortle Gromma Portrait](images/skin_portraits/paintedtortlegromma.png)Painted Tortle Gromma
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Painted Tortle Gromma Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">01 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![First Edition Nordom Portrait](images/skin_portraits/firsteditionnordom.png)First Edition Nordom
         </span>
         <span class="skinTableSource">

@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Mythic Diana Theme Pack - $27.99  
-Date of release: 01 May 2024
-
-Contents:
-
-* Champion: `Diana`
-* Skin: `Mythic Diana`
-* Feat: `Quickly Now` (Diana)
-* Familiar: `Animated Staff`
-* Chests: `Gold Diana Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Painted Tortle Gromma Theme Pack - $27.99  
-Date of release: 01 May 2024
-
-Contents:
-
-* Champion: `Gromma Nander`
-* Skin: `Painted Tortle Gromma`
-* Feat: `Power From Art` (Gromma)
-* Familiar: `Smudge the Painted Turtle`
-* Chests: `Gold Gromma Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Jack the Pumpkin Sprout Familiar Pack - $11.99  
 Date of release: 06 May 2024
 
