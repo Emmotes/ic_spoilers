@@ -155,8 +155,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 1503,
+    "large_graphic_id": 1483,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -213,8 +213,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 22981,
+    "large_graphic_id": 22980,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -249,8 +249,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 4433,
+    "large_graphic_id": 23658,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -279,8 +279,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 4488,
+    "large_graphic_id": 23659,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -388,7 +388,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Unknown** (Guess)
-> Gromma's damage is increased by 50% of the highest Grandmotherly Love buff she's applying to another Champion in the formation.
+> Gromma's damage is increased by 400% of the highest Grandmotherly Love buff she's applying to another Champion in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -400,7 +400,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "hero_dps_multiplier_mult,50",
+            "effect_string": "hero_dps_multiplier_mult,400",
             "targets": [
                 "self"
             ],
@@ -554,15 +554,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Respectful Restraint Icon](images/gromma/1462.png) **Variant 1: Respectful Restraint** (Complete Area 75)
-> Ultimate attacks cannot be used Any attack with a cooldown of 5 seconds or less have an additional 3 second cooldown
+> Ultimate attacks cannot be used.  
+> Any attack with a cooldown of 5 seconds or less have an additional 3 second cooldown.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![The Relentless Undead Icon](images/gromma/1463.png) **Variant 2: The Relentless Undead** (Complete Area 125)
-> Undead monsters have twice as much health as normal When an undead monster is reduced to 0 hit points, it is stunned for 10 seconds and then comes back to life with full health
+> Undead monsters have twice as much health as normal.  
+> When an undead monster is reduced to 0 hit points, it is stunned for 10 seconds and then comes back to life with full health.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![A Grand Nandventure Icon](images/gromma/1464.png) **Variant 3: A Grand Nandventure** (Complete Area 175)
-> Gromma Nander must always be in your formation Gromma has a 4x damage boost and her normal attack cooldown is reduced by 2 seconds
+> Gromma Nander must always be in your formation.   
+> Gromma has a 4x damage boost and her normal attack cooldown is reduced by 2 seconds.
 </div></div>
 
 # Formation
