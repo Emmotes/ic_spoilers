@@ -27,7 +27,7 @@ Contents:
 
 * Champion: `Gromma Nander`
 * Skin: `Painted Tortle Gromma`
-* Feat: ???
+* Feat: `Power From Art` (Gromma)
 * Familiar: `Smudge the Painted Turtle`
 * Chests: `Gold Gromma Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
@@ -273,6 +273,35 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Nova Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Alvina the Tressym Familiar Pack - $11.99  
+Date of release: 26 Jun 2024
+
+Contents:
+
+* Familiar: `Alvina the Tressym`
+* Buff: `Huge Potion of Speed` x4
+* Buff: `Huge Potion of Giant's Strength` x4
+* Buff: `Huge Potion of Clairvoyance` x4
+* Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Chibi Birdsong Skin & Feat Pack - $11.99  
+Date of release: 26 Jun 2024
+
+Contents:
+
+* Champion: `Birdsong`
+* Skin: `Chibi Birdsong`
+* Feat: `Prodigal Leader` (Birdsong)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Birdsong Chest` x7 (Shinies x1)
 </div></div>
 
 

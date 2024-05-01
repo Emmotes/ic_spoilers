@@ -481,6 +481,210 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Birthday Cakes Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Birthday Cakes (Gromma)**I just think a birthday cake should be a foot taller than who it's for.<code>buff_upgrade,40,14874,0</code></span>Birthday Cakes
+        </span>
+        <span class="featTableEffect">
+            <span>40% Grandmotherly Love</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Calm Under Pressure Icon](images/featicons/overhelm.png)<span class="featTooltipContents">**Calm Under Pressure (Gromma)**Stand back; G'ma Gromma's got this one.<code>overwhelm_start_increase,10</code></span>Calm Under Pressure
+        </span>
+        <span class="featTableEffect">
+            <span>+10 Overwhelm</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Full Shell Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Full Shell (Gromma)**Some times a half-shell doesn't cut it.<code>buff_upgrades,80,14877,14878,14879</code></span>Full Shell
+        </span>
+        <span class="featTableEffect">
+            <span>80% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Good Kids Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Good Kids (Gromma)**Oh, I suppose you kids have been good enough - to the candy store!<code>change_upgrade_data,14877,0</code></span>Good Kids
+        </span>
+        <span class="featTableEffect">
+            <span>Circle of the Mountain Buffs Good</span>
+        </span>
+        <span class="featTableSource">
+            <span>Event Bonus</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Group Elder Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Group Elder (Gromma)**Watch out, Squiddly. They're hiding a dagger behind their back.<code>buff_upgrade,80,14874,0</code></span>Group Elder
+        </span>
+        <span class="featTableEffect">
+            <span>80% Grandmotherly Love</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Power From Art Icon](images/featicons/jangsaopigments.png)<span class="featTooltipContents">**Power From Art (Gromma)**Ha! I like that drawing - go ahead and pin that one to my shell.<code>global_dps_multiplier_mult,80</code></span>Power From Art
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Rite of Passage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Rite of Passage (Gromma)**Look how far you've come - you're nearly as old as I am!<code>change_upgrade_data,14874,1</code></span>Rite of Passage
+        </span>
+        <span class="featTableEffect">
+            <span>???: [change_upgrade_data,14874,1]</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Staying Young Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Staying Young (Gromma)**I like runnin' with the youngins - my age group can't keep up!<code>buff_upgrade,40,14876,0</code></span>Staying Young
+        </span>
+        <span class="featTableEffect">
+            <span>40% Runnin' With The Youngin's (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Still Spry Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Still Spry (Gromma)**Just need to stretch a bit, and then I'll win this race.<code>buff_upgrade,80,14876,0</code></span>Still Spry
+        </span>
+        <span class="featTableEffect">
+            <span>80% Runnin' With The Youngin's (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">**Taunt (Gromma)**Judge me not by my age - I'll still whoop your butt!<code>hero_dps_multiplier_mult,400<br>taunt,50</code></span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span>400% Self DPS & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Traveling Circles Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Traveling Circles (Gromma)**Where are we going today? Doesn't matter, I've got the spells for it.<code>buff_upgrades,40,14877,14878,14879</code></span>Traveling Circles
+        </span>
+        <span class="featTableEffect">
+            <span>40% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gromma</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Weapon Master (Gromma)**Slow and steady, that's the way.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
+        </span>
+        <span class="featTableEffect">
+            <span>120% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>D'hani</span>
         </span>
         <span class="featTableIcon4">

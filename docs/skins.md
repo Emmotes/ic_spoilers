@@ -263,6 +263,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Chibi Birdsong
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Chibi Birdsong Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">26 Jun 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Triton Glitch Nayeli Portrait](images/skin_portraits/tritonglitchnayeli.png)Triton Glitch Nayeli
         </span>
         <span class="skinTableSource">
