@@ -388,7 +388,8 @@ Unknown.
                 {
                     "trigger": "area_changed",
                     "action": {
-                        "type": "reset"
+                        "type": "reduce_percent",
+                        "percent": 100
                     }
                 }
             ]
@@ -405,7 +406,8 @@ Unknown.
                 {
                     "trigger": "area_changed",
                     "action": {
-                        "type": "reset"
+                        "type": "reduce_percent",
+                        "percent": 100
                     }
                 }
             ],
