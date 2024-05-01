@@ -8,7 +8,7 @@
 
 # Umberto
 
-Right now nothing is known about this champion except their name. Given that they appeared in the defs at the same time as Aeon - the assumption is that they'll both be characters in an upcoming Idle Champions Presents stream.
+Umberto looks like they'll be a CNE original tied to an upcoming Idle Champions Presents stream. Given their ability and item names - it's possible they'll be some kind of Swarms Druid.
 
 # Basic Information
 
@@ -28,7 +28,7 @@ Umberto will be a new champion - potentially in the Founders' Day event on 3 Jul
             <span style="margin-right:4px;">**Race**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Human (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -36,7 +36,7 @@ Umberto will be a new champion - potentially in the Founders' Day event on 3 Jul
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Druid (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -60,7 +60,7 @@ Umberto will be a new champion - potentially in the Founders' Day event on 3 Jul
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Male (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">

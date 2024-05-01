@@ -68,7 +68,7 @@ These are the event champions that are upcoming and all the information we know 
                 Umberto
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Unknown</span>
+                <span class="indexChampionTableNoLink">Human Druid (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 3 July 2024 (Guess)</span>
@@ -90,7 +90,7 @@ These are the event champions that are upcoming and all the information we know 
                 Aeon
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Unknown</span>
+                <span class="indexChampionTableNoLink">Warforged Artificer (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 3 July 2024 (Guess)</span>

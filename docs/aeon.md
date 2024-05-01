@@ -8,7 +8,7 @@
 
 # Aeon
 
-Right now nothing is known about this champion except their name. Given that they appeared in the defs at the same time as Umberto - the assumption is that they'll both be characters in an upcoming Idle Champions Presents stream.
+Aeon looks like they'll be a CNE original tied to an upcoming Idle Champions Presents stream. Given their item names - it's possible they'll be some kind of Artillerist Artificer.
 
 # Basic Information
 
@@ -28,7 +28,7 @@ Aeon will be a new champion - potentially in the Founders' Day event on 3 July 2
             <span style="margin-right:4px;">**Race**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Warforged (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -36,7 +36,7 @@ Aeon will be a new champion - potentially in the Founders' Day event on 3 July 2
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Artificer (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
