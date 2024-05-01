@@ -108,28 +108,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="gromma.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Gromma Nander Portrait Icon](images/gromma/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Gromma
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Tortle Druid</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">The Great Modron March - 1 May 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="ezmerelda.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">

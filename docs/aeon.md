@@ -202,18 +202,12 @@ Unknown.
 
 Unknown.
 
+{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
-    <span class="championImagesRow">
-        <span class="championImagesChests">
-            ![Aeon Gold Chest Icon](images/aeon/chest_gold.png)Gold Chest Icon
-        </span>
-        <span class="championImagesChests">
-            ![Aeon Silver Chest Icon](images/aeon/chest_silver.png)Silver Chest Icon
-        </span>
-    </span>
 </span>
+{% endcomment %}
 
 [Back to Top](#top)
 
