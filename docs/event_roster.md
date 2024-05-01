@@ -6,24 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span>  *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# The Great Modron March - May
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="evelyn" style="background-image:url(images/portraits/evelyn.png)">Evelyn (6)</span>
-<span class="eventRosterChampion" id="qillek" style="background-image:url(images/portraits/qillek.png)">Qillek (5)</span>
-<span class="eventRosterChampion" id="krydle" style="background-image:url(images/portraits/krydle.png)">Krydle (2)</span>
-<span class="eventRosterChampion" id="jaheira" style="background-image:url(images/portraits/jaheira.png)">Jaheira (9)</span>
-<span class="eventRosterChampion" id="mehen" style="background-image:url(images/portraits/mehen.png)">Mehen (3)</span>
-<span class="eventRosterChampion" id="nordom" style="background-image:url(images/portraits/nordom.png)">Nordom (9)</span>
-<span class="eventRosterChampion" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)</span>
-<span class="eventRosterChampion" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)</span>
-<span class="eventRosterChampion" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)</span>
-</span>
-
-{:/nomarkdown}
-
 # Dragondown - June
 
 {::nomarkdown}
@@ -198,6 +180,24 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="tatyana" style="background-image:url(images/portraits/tatyana.png)">Tatyana (8)</span>
 <span class="eventRosterChampion" id="miria" style="background-image:url(images/portraits/miria.png)">Miria (12)</span>
 <span class="eventRosterChampion" id="darkurge" style="background-image:url(images/portraits/darkurge.png)">Dark Urge (11)</span>
+</span>
+
+{:/nomarkdown}
+
+# The Great Modron March - May
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="evelyn" style="background-image:url(images/portraits/evelyn.png)">Evelyn (6)</span>
+<span class="eventRosterChampion" id="qillek" style="background-image:url(images/portraits/qillek.png)">Qillek (5)</span>
+<span class="eventRosterChampion" id="krydle" style="background-image:url(images/portraits/krydle.png)">Krydle (2)</span>
+<span class="eventRosterChampion" id="jaheira" style="background-image:url(images/portraits/jaheira.png)">Jaheira (9)</span>
+<span class="eventRosterChampion" id="mehen" style="background-image:url(images/portraits/mehen.png)">Mehen (3)</span>
+<span class="eventRosterChampion" id="nordom" style="background-image:url(images/portraits/nordom.png)">Nordom (9)</span>
+<span class="eventRosterChampion" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)</span>
+<span class="eventRosterChampion" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)</span>
+<span class="eventRosterChampion" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)</span>
 </span>
 
 {:/nomarkdown}
