@@ -881,7 +881,7 @@ Diana will be a new champion in the The Great Modron March event on 1 May 2024.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Mom's Reminder Icon](images/diana/23225.png)<span class="itemTooltipContents">**Mom's Reminder**Mom gave me this before I left the house. I hope she's okay...<code>buff_upgrade,25,14795</code></span></span><span class="itemTableIcon2">![Stylish Bandana Icon](images/diana/23225.png)<span class="itemTooltipContents">**Stylish Bandana**This really pulled my outfit together.<code>buff_upgrade,87.5,14795</code></span></span><span class="itemTableIcon3">![Band of Agility Icon](images/diana/23226.png)<span class="itemTooltipContents">**Band of Agility**Whoa! I would have won gold at EVERY gymnastics competition with this!<code>buff_upgrade,150,14795</code></span></span><span class="itemTableIcon4">![Encrusted Band Icon](images/diana/23227.png)<span class="itemTooltipContents">**Encrusted Band**Tiamat doesn't stand a chance!<code>buff_upgrade,275,14795</code></span></span>
+            <span class="itemTableIcon1">![Mom's Reminder Icon](images/diana/23225.png)<span class="itemTooltipContents">**Mom's Reminder**Mom gave me this before I left the house. I hope she's okay...<code>buff_upgrade,10,14795</code></span></span><span class="itemTableIcon2">![Stylish Bandana Icon](images/diana/23225.png)<span class="itemTooltipContents">**Stylish Bandana**This really pulled my outfit together.<code>buff_upgrade,30,14795</code></span></span><span class="itemTableIcon3">![Band of Agility Icon](images/diana/23226.png)<span class="itemTooltipContents">**Band of Agility**Whoa! I would have won gold at EVERY gymnastics competition with this!<code>buff_upgrade,50,14795</code></span></span><span class="itemTableIcon4">![Encrusted Band Icon](images/diana/23227.png)<span class="itemTooltipContents">**Encrusted Band**Tiamat doesn't stand a chance!<code>buff_upgrade,100,14795</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>2</span>
@@ -890,7 +890,7 @@ Diana will be a new champion in the The Great Modron March event on 1 May 2024.
             Encrusted Band
         </span>
         <span class="itemTableEffect">
-            <span>We'll Be Right Back</span>
+            <span>We'll Be Right Back<br/><span style="font-size:0.9em;">Cap: 1501 dull / 918 shiny / 626 golden.</span></span>
         </span>
     </span>
     <span class="itemTableRow">
@@ -909,7 +909,7 @@ Diana will be a new champion in the The Great Modron March event on 1 May 2024.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Dungeon Master's Favor Icon](images/diana/23234.png)<span class="itemTooltipContents">**Dungeon Master's Favor**I don't know what we would do without Dungeon Master's help.<code>buff_upgrades,25,14796,14797</code></span></span><span class="itemTableIcon2">![Magic Bracers Icon](images/diana/23234.png)<span class="itemTooltipContents">**Magic Bracers**I can block any blade with these!<code>buff_upgrades,87.5,14796,14797</code></span></span><span class="itemTableIcon3">![Belt of Jumping Icon](images/diana/23235.png)<span class="itemTooltipContents">**Belt of Jumping**Why fight danger when you can just jump over it!<code>buff_upgrades,150,14796,14797</code></span></span><span class="itemTableIcon4">![Amulet of Natural Armor Icon](images/diana/23236.png)<span class="itemTooltipContents">**Amulet of Natural Armor**Ha! I didn't even feel that hit!<code>buff_upgrades,275,14796,14797</code></span></span>
+            <span class="itemTableIcon1">![Dungeon Master's Favor Icon](images/diana/23234.png)<span class="itemTooltipContents">**Dungeon Master's Favor**I don't know what we would do without Dungeon Master's help.<code>buff_upgrades,10,14796,14797</code></span></span><span class="itemTableIcon2">![Magic Bracers Icon](images/diana/23234.png)<span class="itemTooltipContents">**Magic Bracers**I can block any blade with these!<code>buff_upgrades,30,14796,14797</code></span></span><span class="itemTableIcon3">![Belt of Jumping Icon](images/diana/23235.png)<span class="itemTooltipContents">**Belt of Jumping**Why fight danger when you can just jump over it!<code>buff_upgrades,50,14796,14797</code></span></span><span class="itemTableIcon4">![Amulet of Natural Armor Icon](images/diana/23236.png)<span class="itemTooltipContents">**Amulet of Natural Armor**Ha! I didn't even feel that hit!<code>buff_upgrades,100,14796,14797</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>4</span>
