@@ -21,6 +21,49 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: My Signal** (Guess)
+> Ezmerelda causes the enemy with the highest health, greatly debuffing them. The debuff gets stronger with each debuff applied in the current area.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 759,
+    "name": "My Signal",
+    "description": "Ezmerelda causes the enemy with the highest health, greatly debuffing them.",
+    "long_description": "Ezmerelda causes the enemy with the highest health, greatly debuffing them. The debuff gets stronger with each debuff applied in the current area.",
+    "graphic_id": 8878,
+    "target": "highest_health",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 320,
+    "animations": [
+        {
+            "type": "ezmerelda_ultimate",
+            "projectile": "ezmerelda_dagger",
+            "projectile_details": {
+                "effect_id": 1984,
+                "debuff_time": 10
+            },
+            "shoot_frame": 39,
+            "shoot_offset_x": 115,
+            "shoot_offset_y": -35
+        }
+    ],
+    "tags": [
+        "ranged",
+        "ultimate"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Training Montage** (Guess)
 > Ezmerelda marks enemies that she attacks, training other Champions to spot their vulnerable points. Marked enemies take 100% more damage from all Champions for each Debuff Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
@@ -47,8 +90,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "debuff_effects": [
                 {
-                    "effect_string": "increase_monster_damage,0",
+                    "effect_string": "training_montage_increase_monster_damage,0",
                     "amount_expr": "upgrade_amount(15037,1)",
+                    "amount_func": "ezmerelda_training_montage",
                     "active_graphic_id": 8893,
                     "active_graphic_x": 0,
                     "active_graphic_y": -60
@@ -57,12 +101,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "show_bonus": true,
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`debuff`)",
-            "amount_func": "mult"
+            "amount_func": "mult",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 8880,
+    "large_graphic_id": 8879,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -108,8 +155,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 23676,
+    "large_graphic_id": 23674,
     "properties": {
         "is_formation_ability": true
     }
@@ -141,7 +188,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "buff_upgrade,0.025,15037,0",
             "show_bonus": true,
             "stack_func": "add",
-            "stacks_on_trigger": "favored_foe_killed",
+            "stacks_on_trigger": {
+                "trigger": "favored_foe_killed",
+                "is_source_favored_foe": true,
+                "action": {
+                    "type": "add_stack"
+                }
+            },
             "max_stacks": 1000000
         },
         {
@@ -152,8 +205,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 8882,
+    "large_graphic_id": 8881,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -211,14 +264,267 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     126,
                     127
                 ]
-            }
+            },
+            "debuff_area_radius": 100
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23675,
+    "large_graphic_id": 23673,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> All champions deal 100% more damage against enemies with armor-based health, increasing their chance of breaking an armor piece. Additionally, if a hits-based or armor-based enemy is affected by Training Montage, successful hits against them remove an additional hit or armor piece.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1980,
+    "flavour_text": "",
+    "description": {
+        "desc": "All champions deal $amount% more damage against enemies with armor-based health, increasing their chance of breaking an armor piece. Additionally, if a hits-based or armor-based enemy is affected by Training Montage, successful hits against them remove an additional hit or armor piece."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "monster_with_tag_more_damage,100,armor_based"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "increase_damage_against_monster_armor,1",
+            "monster_has_effect_key": "training_montage_increase_monster_damage",
+            "targets": [
+                "all"
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "increase_damage_against_monster_hits,1",
+            "monster_has_effect_key": "training_montage_increase_monster_damage",
+            "targets": [
+                "all"
+            ]
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "show_incoming": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> The effect of Training Montage is increased by 400% on enemies who are one of Ezmerelda's favored foes, and Threat Tracking counts each favored foe killed twice.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1981,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of Training Montage is increased by $amount% on enemies who are one of Ezmerelda's favored foes, and Threat Tracking counts each favored foe killed twice."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "just_an_amount,400"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade_effect_stacks_trigger_add,1,15039,1"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**The Devil You Know** (Guess)
+> Increases the effect of Training Montage by 100%, or by 200% if the current adventure is a Strahd patron variant.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1982,
+    "flavour_text": "",
+    "description": {
+        "desc": {
+            "conditions": [
+                {
+                    "condition": "ezmerelda_strahd_boss_buff_active",
+                    "desc": "Increases the effect of Training Montage by $(amount___4)%, or by $(amount___5)% if the current adventure is a Strahd patron variant."
+                },
+                {
+                    "desc": "Increases the effect of Training Montage by $(amount___2)%, or by $(amount___3)% if the current adventure is a Strahd patron variant."
+                }
+            ]
+        }
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "ezmerelda_the_devil_you_know",
+            "strahd_monster_ids": [
+                826,
+                935,
+                936,
+                937,
+                938,
+                956,
+                957,
+                1885
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "apply_manually": true,
+            "effect_string": "buff_upgrade,100,15037"
+        },
+        {
+            "off_when_benched": true,
+            "apply_manually": true,
+            "effect_string": "buff_upgrade,200,15037"
+        },
+        {
+            "off_when_benched": true,
+            "apply_manually": true,
+            "effect_string": "buff_upgrade,100000,15037"
+        },
+        {
+            "off_when_benched": true,
+            "apply_manually": true,
+            "effect_string": "buff_upgrade,200000,15037"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Monstrosities become one of Ezmerelda's Favored Foes.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1985,
+    "flavour_text": "",
+    "description": {
+        "desc": "Monstrosities become one of Ezmerelda's Favored Foes."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,monstrosity"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Fiends become one of Ezmerelda's Favored Foes.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1986,
+    "flavour_text": "",
+    "description": {
+        "desc": "Fiends become one of Ezmerelda's Favored Foes."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,fiend"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Humanoids become one of Ezmerelda's Favored Foes.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1987,
+    "flavour_text": "",
+    "description": {
+        "desc": "Humanoids become one of Ezmerelda's Favored Foes."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,humanoid"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": false
     }
 }
 </pre>
