@@ -2,7 +2,10 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![Model GIF of Umberto](images/umberto/model.gif)Model
+        ![Model GIF of Umberto](images/umberto/model.gif)Base Model
+    </span>
+    <span class="championPortraitsImage">
+        ![Alternate Model GIF of Umberto: Bear Form](images/umberto/model-bear-form.gif)Bear Form Model
     </span>
 </span>
 
