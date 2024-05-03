@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| We'll Be Right Back | 03 May | **Diana** | Arkhan | Calliope | DM | Presto | Golden Epic |
 | Ocean Waves | 10 May | **Gromma** | Hitch | Jarlaxle | Evandra | Nordom | Golden Epic |
 | Mechanical Menace | 17 May | **Nordom** | Bruenor | Jarlaxle | Qillek | Evelyn | Golden Epic |
 | Mischief Makers | 24 May | **Presto** | Calliope | Minsc | Diana | DM | Golden Epic |
