@@ -31,7 +31,7 @@ Aeon will be a new champion - potentially in the Founders' Day event on 3 July 2
             <span style="margin-right:4px;">**Race**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Warforged (Guess)</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
     <span class="champStatsTableRow">
