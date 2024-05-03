@@ -33,8 +33,8 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="sgtknox" style="background-image:url(images/portraits/sgtknox.png)">Sgt. Knox (6)</span>
 <span class="eventRosterChampion" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)</span>
 <span class="eventRosterChampion" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">Strongheart (11)</span>
-<span class="eventRosterChampion" id="umberto" style="background-image:url(images/general/unknown.png)">Umberto</span>
-<span class="eventRosterChampion" id="aeon" style="background-image:url(images/general/unknown.png)">Aeon</span>
+<span class="eventRosterChampion" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto</span>
+<span class="eventRosterChampion" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon</span>
 </span>
 
 {:/nomarkdown}
