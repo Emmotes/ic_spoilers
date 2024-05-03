@@ -2,6 +2,9 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
+        ![PC Portrait for Umberto](images/umberto/portrait.png)Portait
+    </span>
+    <span class="championPortraitsImage">
         ![Model GIF of Umberto](images/umberto/model.gif)Base Model
     </span>
     <span class="championPortraitsImage">
@@ -445,6 +448,11 @@ Unknown.
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Umberto Console Portrait](images/umberto/console.png)Console Portait
+        </span>
+    </span>
     <span class="championImagesRow">
         <span class="championImagesChests">
             ![Umberto Gold Chest Icon](images/umberto/chest_gold.png)Gold Chest Icon
