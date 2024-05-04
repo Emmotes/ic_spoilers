@@ -18,7 +18,7 @@ Umberto looks like they'll be a CNE original tied to an upcoming Idle Champions 
 
 # Basic Information
 
-Umberto will be a new champion - potentially in the Founders' Day event on 3 July 2024. (It's possible they could be in a different event - we don't know yet.)
+Umberto will be a new champion in the Founders' Day event on 3 July 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
