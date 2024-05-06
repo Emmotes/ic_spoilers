@@ -128,7 +128,6 @@ A list of champions that will be seeing reworks in upcoming events.
 # Recurring Events
 
 Not events events - but events. You know?
-* Seasons Are Currently Paused
 * [Emergence 7](emergence_7.md) - 22 May 2024
 * [Exclusivity Dates](exclusivitydates.md)
 
