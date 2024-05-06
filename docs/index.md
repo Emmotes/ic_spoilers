@@ -125,7 +125,7 @@ A list of champions that will be seeing reworks in upcoming events.
     </span>
 </span>
 
-# Timed Misc Spoilers
+# Timed Misc
 
 Miscellaneous spoilers with due dates.
 
