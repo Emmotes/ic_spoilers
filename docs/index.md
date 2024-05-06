@@ -125,12 +125,17 @@ A list of champions that will be seeing reworks in upcoming events.
     </span>
 </span>
 
+# Timed Misc Spoilers
+
+Miscellaneous spoilers with due dates.
+
+* [Emergence 7](emergence_7.md) - 22 May 2024
+* [New Campaign - Vecna: Eve of Ruin](campaign_vecna.md) - 22 May 2024 (Guess)
+
 # Misc
 
 Miscellaneous spoilers.
 
-* [Emergence 7](emergence_7.md) - 22 May 2024
-* [New Campaign - Vecna: Eve of Ruin](campaign_vecna.md) - 22 May 2024 (Guess)
 * [Exclusivity Dates](exclusivitydates.md)
 * [Event Roster](event_roster.md)
 * [Patron Roster](patron_roster.md)
