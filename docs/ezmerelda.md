@@ -124,7 +124,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Preparation** (Guess)
 > Every time a debuff is applied to an enemy, the effect of Training Montage is increased by 20%, stacking multiplicatively, up to 100 times and resetting when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
