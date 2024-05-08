@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Jaheira</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">**Illithid Tadpole (Jaheira)**I am only doing this to save Baldur's Gate...<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span>Illithid Tadpole
-        </span>
-        <span class="featTableEffect">
-            <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>08 May 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Nordom</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Greater Order Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Greater Order (Nordom)**Announcement: I will now bring greater balance to our formation!<code>buff_upgrade,80,7856</code></span>Greater Order
-        </span>
-        <span class="featTableEffect">
-            <span>80% Form Orderly Ranks</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>08 May 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Evandra</span>
         </span>
         <span class="featTableIcon4">

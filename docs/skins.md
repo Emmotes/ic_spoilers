@@ -11,48 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![First Edition Nordom Portrait](images/skin_portraits/firsteditionnordom.png)First Edition Nordom
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Classic Nordom Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">08 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Fourth Edition Nordom Portrait](images/skin_portraits/fourtheditionnordom.png)Fourth Edition Nordom
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Classic Nordom Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">08 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![High Harper Jaheira Portrait](images/skin_portraits/highharperjaheira.png)High Harper Jaheira
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">High Harper Jaheira Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">08 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Plushie Evandra Portrait](images/skin_portraits/plushieevandra.png)Plushie Evandra
         </span>
         <span class="skinTableSource">

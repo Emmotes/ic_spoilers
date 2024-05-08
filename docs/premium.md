@@ -5,37 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Classic Nordom Skin & Feat Pack - $11.99  
-Date of release: 08 May 2024
-
-Contents:
-
-* Champion: `Nordom Whistleklik`
-* Skin: `Fourth Edition Nordom`
-* Skin: `First Edition Nordom`
-* Feat: `Greater Order` (Nordom)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Nordom Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### High Harper Jaheira Skin & Feat Pack - $11.99  
-Date of release: 08 May 2024
-
-Contents:
-
-* Champion: `Jaheira`
-* Skin: `High Harper Jaheira`
-* Feat: `Illithid Tadpole` (Jaheira)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Jaheira Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Plushie Evandra Skin & Feat Pack - $11.99  
 Date of release: 15 May 2024
 
