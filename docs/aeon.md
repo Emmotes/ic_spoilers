@@ -190,7 +190,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**UncoverWeakness** (Guess)
+**Uncover Weakness** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -312,7 +312,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Spy Network Inner Circle** (Guess)
+**Spy Network: Inner Circle** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
