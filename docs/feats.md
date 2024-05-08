@@ -1391,7 +1391,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>+2 to Master of Hexes</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>22 Nov 2033</span>
@@ -1442,7 +1442,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span>+2 Max Spectres</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>22 Nov 2033</span>

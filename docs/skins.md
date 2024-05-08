@@ -81,7 +81,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Pirate Azaka
+            ![Pirate Azaka Portrait](images/skin_portraits/pirateazaka.png)Pirate Azaka
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 7</span>
@@ -165,7 +165,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Wyrm Slayer BBEG
+            ![Wyrm Slayer BBEG Portrait](images/skin_portraits/wyrmslayerbbeg.png)Wyrm Slayer BBEG
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Wyrm Slayer BBEG Skin & Feat Pack</span>
@@ -179,7 +179,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Wyrm Slayer Selise
+            ![Wyrm Slayer Selise Portrait](images/skin_portraits/wyrmslayerselise.png)Wyrm Slayer Selise
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Wyrm Slayer Selise Skin & Feat Pack</span>
@@ -207,7 +207,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Wyrm Slayer Korth
+            ![Wyrm Slayer Korth Portrait](images/skin_portraits/wyrmslayerkorth.png)Wyrm Slayer Korth
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Wyrm Slayer Korth Skin & Feat Pack</span>
@@ -221,7 +221,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Wyrm Slayer Nova
+            ![Wyrm Slayer Nova Portrait](images/skin_portraits/wyrmslayernova.png)Wyrm Slayer Nova
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Wyrm Slayer Nova Skin & Feat Pack</span>
@@ -235,7 +235,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Chibi Birdsong
+            ![Chibi Birdsong Portrait](images/skin_portraits/chibibirdsong.png)Chibi Birdsong
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Chibi Birdsong Skin & Feat Pack</span>
