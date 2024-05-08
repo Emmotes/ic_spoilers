@@ -189,9 +189,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Duke's Fire Shield**
 > Duke Ravengard ignites in flames for 20 seconds, damaging attacking melee enemies and increasing his damage.  
-> Cooldown: 3s (Cap 0.75s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 200s (Cap 50s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -205,7 +203,7 @@ Unknown.
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 3,
+    "cooldown": 200,
     "animations": [
         {
             "type": "ultimate_attack",
@@ -226,7 +224,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Critical Teamwork** (Guess)
+**Unknown** (Guess)
 > Duke Ravengard's base chance to Critical Hit is 20%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -239,13 +237,17 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "set_base_crit_chance,20"
+            "effect_string": "set_base_crit_chance,20",
+            "show_bonus": true
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
-    "properties": []
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -292,8 +294,8 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 23608,
+    "large_graphic_id": 23605,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -349,11 +351,91 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 23609,
+    "large_graphic_id": 23606,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Critical Teamwork** (Guess)
+> Whenever a Champion with a melee base attack gets a critical hit, increase the effect of Marshal of the Flaming Fist by 100% and additively increase the odds of all Champions in the formation getting critical hits by 1%. Both effects stack additively up to 50 times and reset when changing areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1971,
+    "flavour_text": "",
+    "description": {
+        "desc": "Whenever a Champion with a melee base attack gets a critical hit, increase the effect of Marshal of the Flaming Fist by $(not_buffed amount)% and additively increase the odds of all Champions in the formation getting critical hits by $(not_buffed amount___2)%. Both effects stack additively up to 50 times and reset when changing areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,15028",
+            "off_when_benched": true,
+            "max_stacks": 50,
+            "stack_title": "Critical Teamwork Stacks",
+            "stacks_multiply": false,
+            "show_bonus": true,
+            "stacks_on_trigger": "on_broadcast_stacks,melee_hero_crit",
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reduce_percent",
+                        "percent": 100
+                    }
+                }
+            ]
+        },
+        {
+            "effect_string": "global_buff_base_crit_chance_add,1",
+            "off_when_benched": true,
+            "max_stacks": 50,
+            "stack_title": "Critical Teamwork Stacks",
+            "stacks_multiply": false,
+            "show_bonus": true,
+            "stacks_on_trigger": "on_broadcast_stacks,melee_hero_crit",
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reduce_percent",
+                        "percent": 100
+                    }
+                }
+            ],
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "broadcast_on_trigger,melee_hero_crit,pre_target_attack_crit",
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasAttackDamageType(`melee`)"
+                }
+            ],
+            "override_key_desc": "Each time $target deals a Critical Hit, they contribute a Critical Teamwork stack to $(source_hero)"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23607,
+    "large_graphic_id": 23604,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -429,8 +511,8 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 23607,
+    "large_graphic_id": 23604,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
