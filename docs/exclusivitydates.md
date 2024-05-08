@@ -1758,120 +1758,6 @@ This is the list of recurring events that have had their exclusivity period end.
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="e4a" onclick="exclusiveToggleContent(`e4`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Emergence 4 Icon](images/general/e4.png)**Emergence 4** - Glitches
-            </span>
-        </span>
-        <span id="e4" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Centaur Glitch Feat Icon](images/featicons/glitch.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Centaur Glitch</span>
-                        <span style="margin-left:15px">Hitch (Counts as Centaur & +20% to Natural Performer per Unique Race)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Gibbous Script Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Gibbous Script</span>
-                        <span style="margin-left:15px">Warden (+2 to Master of Hexes)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Specter of Aeons Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Specter of Aeons</span>
-                        <span style="margin-left:15px">Warden (+2 Max Spectres)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Half-Elf Glitch Feat Icon](images/featicons/glitch.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Half-Elf Glitch</span>
-                        <span style="margin-left:15px">Sentry (Counts as Half Elf & +20% to Guardian of Solwynn per Half Elf)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Centaur Glitch Hitch Skin Icon](images/exclusivities/skin_21584.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Centaur Glitch Hitch</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Half-Elf Glitch Sentry Skin Icon](images/exclusivities/skin_21592.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Half-Elf Glitch Sentry</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Sisaspia Slot 5](images/exclusivities/ge_7224.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Ultimate Damage</span>
-                        <span style="margin-left:15px">Sisaspia (Slot 5)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All First Specialisations (Prestack)</span>
-                        <span style="margin-left:15px">Jang Sao (Slot 5)</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>22 November 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>02 February 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>02 May 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="s5a" onclick="exclusiveToggleContent(`s5`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -2074,7 +1960,121 @@ This is the list of recurring events that have had their exclusivity period end.
                 <span>08 November 2023</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>08 May 2024 (Guess)</span>
+                <span>08 May 2024</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e4a" onclick="exclusiveToggleContent(`e4`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 4 Icon](images/general/e4.png)**Emergence 4** - Glitches
+            </span>
+        </span>
+        <span id="e4" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Centaur Glitch Feat Icon](images/featicons/glitch.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Centaur Glitch</span>
+                        <span style="margin-left:15px">Hitch (Counts as Centaur & +20% to Natural Performer per Unique Race)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Gibbous Script Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Gibbous Script</span>
+                        <span style="margin-left:15px">Warden (+2 to Master of Hexes)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Specter of Aeons Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Specter of Aeons</span>
+                        <span style="margin-left:15px">Warden (+2 Max Spectres)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Half-Elf Glitch Feat Icon](images/featicons/glitch.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Half-Elf Glitch</span>
+                        <span style="margin-left:15px">Sentry (Counts as Half Elf & +20% to Guardian of Solwynn per Half Elf)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Centaur Glitch Hitch Skin Icon](images/exclusivities/skin_21584.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Centaur Glitch Hitch</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Half-Elf Glitch Sentry Skin Icon](images/exclusivities/skin_21592.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Half-Elf Glitch Sentry</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Sisaspia Slot 5](images/exclusivities/ge_7224.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Ultimate Damage</span>
+                        <span style="margin-left:15px">Sisaspia (Slot 5)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">All First Specialisations (Prestack)</span>
+                        <span style="margin-left:15px">Jang Sao (Slot 5)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>22 November 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>02 February 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>08 May 2024</span>
             </span>
         </span>
     </span>
