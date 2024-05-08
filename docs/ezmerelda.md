@@ -22,15 +22,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: My Signal** (Guess)
-> Ezmerelda causes the enemy with the highest health, greatly debuffing them. The debuff gets stronger with each debuff applied in the current area.
+> Ezmerelda attacks the enemy with the highest health, greatly debuffing them. The debuff gets stronger with each debuff applied in the current area.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 759,
     "name": "My Signal",
-    "description": "Ezmerelda causes the enemy with the highest health, greatly debuffing them.",
-    "long_description": "Ezmerelda causes the enemy with the highest health, greatly debuffing them. The debuff gets stronger with each debuff applied in the current area.",
+    "description": "Ezmerelda attacks the enemy with the highest health, greatly debuffing them.",
+    "long_description": "Ezmerelda attacks the enemy with the highest health, greatly debuffing them. The debuff gets stronger with each debuff applied in the current area.",
     "graphic_id": 8878,
     "target": "highest_health",
     "num_targets": 1,
@@ -86,7 +86,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_before_damage": true,
             "amount_expr": "upgrade_amount(15037,0)",
             "debuffing_attack_ids": [
-                330
+                330,
+                759
             ],
             "debuff_effects": [
                 {
@@ -95,7 +96,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "amount_func": "ezmerelda_training_montage",
                     "active_graphic_id": 8893,
                     "active_graphic_x": 0,
-                    "active_graphic_y": -60
+                    "active_graphic_y": -60,
+                    "overlay_play_mode": "stopped"
                 }
             ],
             "show_bonus": true,
@@ -113,6 +115,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 1
@@ -151,7 +154,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     }
                 }
             ],
-            "max_stacks": 100
+            "max_stacks": 100,
+            "active_graphic_id": 23847,
+            "active_graphic_y": -60,
+            "active_graphic_frame_from_stacks": true
         }
     ],
     "requirements": "",
@@ -168,7 +174,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Threat Tracking** (Guess)
-> Undead are Ezmerelda's favored foes. Ezmerelda tracks the favored foes that any Champion kills while she is in the formation, increasing the base effect of Training Montage by $amount% for each favored foe killed (additively then multiplicatively). These stacks persist for the entire adventure, resetting when you complete it. Caps at 1000000 favored foe kills.
+> Undead are Ezmerelda's favored foes. Whenever one of Ezmerelda's favored foes are killed while she is in the formation, she tracks it, increasing the base effect of Training Montage by $amount% for each favored foe killed (additively then multiplicatively). These stacks persist for the entire adventure, resetting when you complete it. Caps at 1000000 favored foe kills.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -176,7 +182,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1978,
     "flavour_text": "",
     "description": {
-        "desc": "Undead are Ezmerelda's favored foes. Ezmerelda tracks the favored foes that any Champion kills while she is in the formation, increasing the base effect of Training Montage by $amount% for each favored foe killed (additively then multiplicatively). These stacks persist for the entire adventure, resetting when you complete it. Caps at $max_stacks favored foe kills."
+        "desc": "Undead are Ezmerelda's favored foes. Whenever one of Ezmerelda's favored foes are killed while she is in the formation, she tracks it, increasing the base effect of Training Montage by $amount% for each favored foe killed (additively then multiplicatively). These stacks persist for the entire adventure, resetting when you complete it. Caps at $max_stacks favored foe kills."
     },
     "effect_keys": [
         {
@@ -219,7 +225,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Enemies in the Mist** (Guess)
-> While Ezmerelda is in the formation, 0-2 "Mist" enemies can spawn with each wave. When a "Mist" enemy is defeated, an enemy whose type matches one of Ezmerelda's favored foe appears from the mist, and all nearby enemies gain the Training Montage debuff.
+> While Ezmerelda is in the formation, 0-2 "Mist" enemies can spawn with each wave. When a "Mist" enemy is defeated, an enemy whose type matches one of Ezmerelda's favored foes appears from the mist, and all nearby enemies gain the Training Montage debuff.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -227,7 +233,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1979,
     "flavour_text": "",
     "description": {
-        "desc": "While Ezmerelda is in the formation, 0-2 \"Mist\" enemies can spawn with each wave. When a \"Mist\" enemy is defeated, an enemy whose type matches one of Ezmerelda's favored foe appears from the mist, and all nearby enemies gain the Training Montage debuff."
+        "desc": "While Ezmerelda is in the formation, 0-2 \"Mist\" enemies can spawn with each wave. When a \"Mist\" enemy is defeated, an enemy whose type matches one of Ezmerelda's favored foes appears from the mist, and all nearby enemies gain the Training Montage debuff."
     },
     "effect_keys": [
         {
@@ -283,7 +289,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> All champions deal 100% more damage against enemies with armor-based health, increasing their chance of breaking an armor piece. Additionally, if a hits-based or armor-based enemy is affected by Training Montage, successful hits against them remove an additional hit or armor piece.
+> All Champions deal 100% more damage against enemies with armor-based health, increasing their chance of breaking an armor piece. Additionally, if a hits-based or armor-based enemy is affected by Training Montage, successful hits against them remove an additional hit or armor piece.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -291,7 +297,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 1980,
     "flavour_text": "",
     "description": {
-        "desc": "All champions deal $amount% more damage against enemies with armor-based health, increasing their chance of breaking an armor piece. Additionally, if a hits-based or armor-based enemy is affected by Training Montage, successful hits against them remove an additional hit or armor piece."
+        "desc": "All Champions deal $amount% more damage against enemies with armor-based health, increasing their chance of breaking an armor piece. Additionally, if a hits-based or armor-based enemy is affected by Training Montage, successful hits against them remove an additional hit or armor piece."
     },
     "effect_keys": [
         {
@@ -372,7 +378,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **The Devil You Know** (Guess)
-> Increases the effect of Training Montage by 100%, or by 200% if the current adventure is a Strahd patron variant.
+> Increases the effect of Training Montage by 100%, or by 200% if the current adventure is a Strahd patron adventure or variant.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -384,10 +390,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "conditions": [
                 {
                     "condition": "ezmerelda_strahd_boss_buff_active",
-                    "desc": "Increases the effect of Training Montage by $(amount___4)%, or by $(amount___5)% if the current adventure is a Strahd patron variant."
+                    "desc": "Increases the effect of Training Montage by $(amount___4)%, or by $(amount___5)% if the current adventure is a Strahd patron adventure or variant."
                 },
                 {
-                    "desc": "Increases the effect of Training Montage by $(amount___2)%, or by $(amount___3)% if the current adventure is a Strahd patron variant."
+                    "desc": "Increases the effect of Training Montage by $(amount___2)%, or by $(amount___3)% if the current adventure is a Strahd patron adventure or variant."
                 }
             ]
         }
