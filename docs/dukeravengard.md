@@ -90,12 +90,9 @@ Duke Ravengard will be a new champion in the Dragondown event on 5 June 2024.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/dukeravengard/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Duke Ravengard" fill="#aaa" data-formationName="Duke Ravengard" data-campaignName="Dragondown" width="368" height="140"><circle cx="135" cy="25" r="15"/><circle cx="135" cy="65" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="85" r="15"/><circle cx="95" cy="125" r="15"/><circle cx="55" cy="25" r="15"/><circle cx="55" cy="65" r="15"/><circle cx="55" cy="105" r="15"/><circle cx="15" cy="85" r="15"/><text x="165" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Duke Ravengard</text><text x="165" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Dragondown</text></svg>
 </span>
-{% endcomment %}
 
 # Abilities
 
