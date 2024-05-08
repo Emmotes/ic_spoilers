@@ -44,7 +44,7 @@ We know the next Emergence event will be Vecna Cultists and that it will start o
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Skin Portrait](images/general/unknown.png)
+            ![Pirate Azaka Skin Portrait](images/emergence_7/skin_430.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
