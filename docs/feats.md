@@ -1350,23 +1350,6 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableChampion">
             <span>Warden</span>
         </span>
-        <span class="featTableIcon4">
-            ![Gibbous Script Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Gibbous Script (Warden)**The words I utter have existed since time itself.<code>buff_upgrade_add,2,13244</code></span>Gibbous Script
-        </span>
-        <span class="featTableEffect">
-            <span>+2 to Master of Hexes</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>22 Nov 2033</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Warden</span>
-        </span>
         <span class="featTableIcon3">
             ![Greater Swarm Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Greater Swarm (Warden)**Engulf my enemies. Break them down.<code>buff_upgrade,25,13245,1</code></span>Greater Swarm
         </span>
@@ -1392,23 +1375,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>22 Nov 2033</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Warden</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Specter of Aeons Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Specter of Aeons (Warden)**These are spirits of time itself.<code>increase_warden_specter_max,2</code></span>Specter of Aeons
-        </span>
-        <span class="featTableEffect">
-            <span>+2 Max Spectres</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>22 Nov 2033</span>
