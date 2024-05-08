@@ -118,11 +118,96 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown**
+**Challenge Accepted** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 23832,
+    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Formation_AeonChallengeAccepted",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Inner Circle** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23833,
+    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Formation_AeonInnerCircle",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Network of Espionage** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23834,
+    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Formation_AeonNetworkofEspionage",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**UncoverWeakness** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23835,
+    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Formation_AeonUncoverWeakness",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
 </pre>
 </p>
 </details>
@@ -130,7 +215,125 @@ Unknown.
 
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Artificers Arsenal** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23836,
+    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Specialization_AeonArtificersArsenal",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Immediate Infiltration** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23837,
+    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Specialization_AeonImmediateInfiltration",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Play The Long Game** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23838,
+    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Specialization_AeonPlayTheLongGame",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Powerful Patronage** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23839,
+    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Specialization_AeonPowerfulPatronage",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Spy Network Inner Circle** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 23840,
+    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Specialization_AeonSpyNetworkInnerCircle",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
@@ -211,6 +414,14 @@ Unknown.
     <span class="championImagesRow">
         <span class="championImagesPortrait">
             ![Aeon Console Portrait](images/aeon/console.png)Console Portait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Aeon Gold Chest Icon](images/aeon/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Aeon Silver Chest Icon](images/aeon/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
