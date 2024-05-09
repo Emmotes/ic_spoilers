@@ -245,5 +245,5 @@ let devInsightsCountdown = setInterval(function() {
 displayTime(devInsightsTimer - new Date().getTime());
 
 function discord() {
-	console.log("<t:"+(devInsightsTimer/1000)+":R>");
+	console.log("DI in <t:"+(devInsightsTimer/1000)+":R>.");
 }
