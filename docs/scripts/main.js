@@ -1,4 +1,4 @@
-const v=1.2
+const v=1.3
 const rrm = {
 	active: (localStorage.spoilersRRM == 1 ? true : false),
 	storage: "spoilersRRM",
@@ -243,3 +243,7 @@ let devInsightsCountdown = setInterval(function() {
 	}
 }, 1000);
 displayTime(devInsightsTimer - new Date().getTime());
+
+function discord() {
+	console.log("<t:"+(devInsightsTimer/1000)+":R>");
+}
