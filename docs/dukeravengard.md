@@ -444,86 +444,6 @@ Duke Ravengard will be a new champion in the Dragondown event on 5 June 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Lead the Charge** (Guess)
-> Whenever a Champion with a melee base attack gets a critical hit, increase the effect of Marshal of the Flaming Fist by 100% and additively increase the odds of all Champions in the formation getting critical hits by 1%. Both effects stack additively up to 50 times and reset when changing areas.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 1971,
-    "flavour_text": "",
-    "description": {
-        "desc": "Whenever a Champion with a melee base attack gets a critical hit, increase the effect of Marshal of the Flaming Fist by $(not_buffed amount)% and additively increase the odds of all Champions in the formation getting critical hits by $(not_buffed amount___2)%. Both effects stack additively up to 50 times and reset when changing areas."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "buff_upgrade,100,15028",
-            "off_when_benched": true,
-            "max_stacks": 50,
-            "stack_title": "Critical Teamwork Stacks",
-            "stacks_multiply": false,
-            "show_bonus": true,
-            "stacks_on_trigger": "on_broadcast_stacks,melee_hero_crit",
-            "more_triggers": [
-                {
-                    "trigger": "area_changed",
-                    "action": {
-                        "type": "reduce_percent",
-                        "percent": 100
-                    }
-                }
-            ]
-        },
-        {
-            "effect_string": "global_buff_base_crit_chance_add,1",
-            "off_when_benched": true,
-            "max_stacks": 50,
-            "stack_title": "Critical Teamwork Stacks",
-            "stacks_multiply": false,
-            "show_bonus": true,
-            "stacks_on_trigger": "on_broadcast_stacks,melee_hero_crit",
-            "more_triggers": [
-                {
-                    "trigger": "area_changed",
-                    "action": {
-                        "type": "reduce_percent",
-                        "percent": 100
-                    }
-                }
-            ],
-            "skip_effect_key_desc": true
-        },
-        {
-            "effect_string": "broadcast_on_trigger,melee_hero_crit,pre_target_attack_crit",
-            "off_when_benched": true,
-            "targets": [
-                "all"
-            ],
-            "filter_targets": [
-                {
-                    "type": "hero_expr",
-                    "hero_expr": "HasAttackDamageType(`melee`)"
-                }
-            ],
-            "override_key_desc": "Each time $target deals a Critical Hit, they contribute a Critical Teamwork stack to $(source_hero)"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 23607,
-    "large_graphic_id": 23604,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Legacy of Ravengard** (Guess)
 > When Duke Ravengard gets a critical hit, he follows up by bashing the enemy with his shield, knocking it back a short distance. When this occurs, all melee Champions adjacent to Ulder have their base attack cooldowns immediately reset.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -588,6 +508,37 @@ Duke Ravengard will be a new champion in the Dragondown event on 5 June 2024.
                     "hero_expr": "HasAttackDamageType(`melee`)"
                 }
             ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Legacy of Ravengard** (Guess)
+> If Wyll is in the formation, anyone affected by Wyll's Folk Hero benefit gains an additional stack, but the maximum remains at 4 stacks.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 1974,
+    "flavour_text": "",
+    "description": {
+        "desc": "If Wyll is in the formation, anyone affected by Wyll's Folk Hero benefit gains an additional stack, but the maximum remains at 4 stacks."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
