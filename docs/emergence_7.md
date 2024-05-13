@@ -100,7 +100,7 @@ We know the next Emergence event will be Vecna Cultists and that it will start o
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Chest Icon](images/general/unknown.png)
+            ![Vecna Emergence Chest Icon](images/emergence_7/chest_628.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
