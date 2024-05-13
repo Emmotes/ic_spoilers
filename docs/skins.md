@@ -53,7 +53,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Pirate Diana
+            ![Pirate Diana Portrait](images/skin_portraits/piratediana.png)Pirate Diana
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 7</span>
