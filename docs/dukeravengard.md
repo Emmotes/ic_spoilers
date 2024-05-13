@@ -631,6 +631,11 @@ Unknown.
 
 <span class="championImagesColumn">
     <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Duke Ravengard Console Portrait](images/dukeravengard/console.png)Console Portait
+        </span>
+    </span>
+    <span class="championImagesRow">
         <span class="championImagesChests">
             ![Duke Ravengard Gold Chest Icon](images/dukeravengard/chest_gold.png)Gold Chest Icon
         </span>
