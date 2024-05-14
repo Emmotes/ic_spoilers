@@ -19,7 +19,6 @@ var allExclusivesHidden = true;
 
 rrm.map.set("Exclusivity Dates","Dates and Crap");
 rrm.map.set("Premium Packs and DLC", "Shop Cash Packs");
-rrm.map.set("Turn of Fortune’s Wheel", "New Main Campaign");
 
 nnm.map.set("Torogar", "Totoro");
 nnm.map.set("Spurt", "Splat");
@@ -59,6 +58,9 @@ nnm.map.set("Tatyana", "Taty");
 nnm.map.set("Sgt. Knox", "Knox");
 nnm.map.set("Thellora", "Thermometer");
 nnm.map.set("Dhadius", "Daddy-O");
+nnm.map.set("Duke Ravengard", "Otter Ravengard");
+nnm.map.set("Ulder Ravengard", "Otter Ravengard");
+nnm.map.set("Ulder", "Otter");
 nnm.map.set("Pigment", "Pig Mint");
 nnm.map.set("pigment", "pig mint");
 nnm.map.set("egendaries", "egos");
