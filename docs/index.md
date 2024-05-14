@@ -13,11 +13,11 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="dukeravengard.html">
+<a href="ravengard.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Duke Ravengard Portrait Icon](images/dukeravengard/portrait.png)
+            ![Duke Ravengard Portrait Icon](images/ravengard/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">

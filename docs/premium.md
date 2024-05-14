@@ -134,7 +134,7 @@ Contents:
 
 * Champion: `Duke Ravengard`
 * Skin: `Wyrm Slayer Ravengard`
-* Feat: `Illithid Tadpole` (Duke Ravengard)
+* Feat: `Illithid Tadpole` (Ravengard)
 * Familiar: `Rusty the Rust Monster`
 * Chests: `Gold  Duke Ravengard Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1

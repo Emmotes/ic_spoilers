@@ -19,7 +19,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="dm" style="background-image:url(images/portraits/dm.png)">DM (6)</span>
 <span class="eventRosterChampion" id="merilwen" style="background-image:url(images/portraits/merilwen.png)">Merilwen (2)</span>
 <span class="eventRosterChampion" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)</span>
-<span class="eventRosterChampion" id="dukeravengard" style="background-image:url(images/portraits/dukeravengard.png)">Duke Ravengard (8)</span>
+<span class="eventRosterChampion" id="ravengard" style="background-image:url(images/portraits/ravengard.png)">Ravengard (8)</span>
 </span>
 
 {:/nomarkdown}

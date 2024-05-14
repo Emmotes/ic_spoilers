@@ -2,10 +2,10 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![PC Portrait for Duke Ravengard](images/dukeravengard/portrait.png)Portait
+        ![PC Portrait for Ravengard](images/ravengard/portrait.png)Portait
     </span>
     <span class="championPortraitsImage">
-        ![Model GIF of Duke Ravengard](images/dukeravengard/model.gif)Model
+        ![Model GIF of Ravengard](images/ravengard/model.gif)Model
     </span>
 </span>
 
@@ -282,7 +282,7 @@ Duke Ravengard will be a new champion in the Dragondown event on 5 June 2024.
 </details>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Duke's Fire Shield Icon](images/dukeravengard/icon_dukesfireshield.png) **Ultimate Attack: Duke's Fire Shield** (Level: 0)
+![Duke's Fire Shield Icon](images/ravengard/icon_dukesfireshield.png) **Ultimate Attack: Duke's Fire Shield** (Level: 0)
 > Duke Ravengard's magical armor ignites in flames for 20 seconds, causing any attacking melee enemies to take damage as well as increasing his own damage.  
 > Cooldown: 200s (Cap 50s)
 <details><summary><em>Raw Data</em></summary>
@@ -361,7 +361,7 @@ Duke Ravengard will be a new champion in the Dragondown event on 5 June 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Marshal of the Flaming Fist Icon](images/dukeravengard/icon_marshaloftheflamingfist.png) **Marshal of the Flaming Fist** (Level: 20)
+![Marshal of the Flaming Fist Icon](images/ravengard/icon_marshaloftheflamingfist.png) **Marshal of the Flaming Fist** (Level: 20)
 > Duke Ravengard gains a Command stack for each Champion with a melee base attack in the formation (including himself). Each stack increases the damage of these Champions by 400%, stacking multiplicatively.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
@@ -436,7 +436,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Position of Power Icon](images/dukeravengard/icon_positionofpower.png) **Position of Power** (Level: 30)
+![Position of Power Icon](images/ravengard/icon_positionofpower.png) **Position of Power** (Level: 30)
 > Duke Ravengard increases the effect of the outgoing positional formation abilities of all Champions with a melee base attack by 25% for each Command stack he has, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -504,7 +504,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Critical Teamwork Icon](images/dukeravengard/icon_criticalteamwork.png) **Critical Teamwork** (Level: 40)
+![Critical Teamwork Icon](images/ravengard/icon_criticalteamwork.png) **Critical Teamwork** (Level: 40)
 > Whenever a Champion with a melee base attack gets a critical hit, increase the effect of Marshal of the Flaming Fist by 100% and additively increase the odds of all Champions in the formation getting critical hits by 1%. Both effects stack additively up to 50 times and reset when changing areas.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
@@ -607,7 +607,7 @@ Upgrades:
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate** (Level: 60)
-> Unlock Duke Ravengard's Fire Shield Ultimate Attack.
+> Unlock Ravengard's Fire Shield Ultimate Attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -679,8 +679,8 @@ Upgrades:
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Lead The Charge Icon](images/dukeravengard/icon_leadthecharge.png) **Lead The Charge** (Level: 50)
-> When Duke Ravengard gets a critical hit, he follows up by bashing the enemy with his shield, knocking it back a short distance. When this occurs, all melee Champions adjacent to Duke Ravengard have their base attack cooldowns immediately reset.
+![Lead The Charge Icon](images/ravengard/icon_leadthecharge.png) **Lead The Charge** (Level: 50)
+> When Ravengard gets a critical hit, he follows up by bashing the enemy with his shield, knocking it back a short distance. When this occurs, all melee Champions adjacent to Duke Ravengard have their base attack cooldowns immediately reset.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -724,7 +724,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Legacy of Ravengard Icon](images/dukeravengard/icon_legacyofravengard.png) **Legacy of Ravengard** (Level: 50)
+![Legacy of Ravengard Icon](images/ravengard/icon_legacyofravengard.png) **Legacy of Ravengard** (Level: 50)
 > If Wyll is in the formation, anyone affected by Wyll's Folk Hero benefit gains an additional stack, but the maximum remains at 4 stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -770,7 +770,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Strength of Baldur's Gate Icon](images/dukeravengard/icon_strengthofbaldursgate.png) **Strength of Baldur's Gate** (Level: 50)
+![Strength of Baldur's Gate Icon](images/ravengard/icon_strengthofbaldursgate.png) **Strength of Baldur's Gate** (Level: 50)
 > Champions with a melee base attack have their crit chance additively increased by 20% and crit damage increased by 1000%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -856,7 +856,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Reliable Blade Icon](images/dukeravengard/23512.png)<span class="itemTooltipContents">**Reliable Blade**For the good of the realm...<code>global_dps_multiplier_mult,10</code></span></span><span class="itemTableIcon2">![Guardsmen's Sword Icon](images/dukeravengard/23512.png)<span class="itemTooltipContents">**Guardsmen's Sword**...and the protection of Baldur's Gate.<code>global_dps_multiplier_mult,65</code></span></span><span class="itemTableIcon3">![Baldur's Resolve Icon](images/dukeravengard/23513.png)<span class="itemTooltipContents">**Baldur's Resolve**This city shall never fall - not while I draw breath!<code>global_dps_multiplier_mult,120</code></span></span><span class="itemTableIcon4">![Lathander's Might Icon](images/dukeravengard/23514.png)<span class="itemTooltipContents">**Lathander's Might**I found this in a chapel of Lathander after Elturel fell.<code>global_dps_multiplier_mult,230</code></span></span><span class="itemTableGE">&nbsp;</span>
+            <span class="itemTableIcon1">![Reliable Blade Icon](images/ravengard/23512.png)<span class="itemTooltipContents">**Reliable Blade**For the good of the realm...<code>global_dps_multiplier_mult,10</code></span></span><span class="itemTableIcon2">![Guardsmen's Sword Icon](images/ravengard/23512.png)<span class="itemTooltipContents">**Guardsmen's Sword**...and the protection of Baldur's Gate.<code>global_dps_multiplier_mult,65</code></span></span><span class="itemTableIcon3">![Baldur's Resolve Icon](images/ravengard/23513.png)<span class="itemTooltipContents">**Baldur's Resolve**This city shall never fall - not while I draw breath!<code>global_dps_multiplier_mult,120</code></span></span><span class="itemTableIcon4">![Lathander's Might Icon](images/ravengard/23514.png)<span class="itemTooltipContents">**Lathander's Might**I found this in a chapel of Lathander after Elturel fell.<code>global_dps_multiplier_mult,230</code></span></span><span class="itemTableGE">&nbsp;</span>
         </span>
         <span class="itemTableSlot">
             <span>1</span>
@@ -870,7 +870,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Weight of the City Icon](images/dukeravengard/23503.png)<span class="itemTooltipContents">**Weight of the City**Baldur's Gate is counting on you...<code>global_dps_multiplier_mult,10</code></span></span><span class="itemTableIcon2">![Protective Helmet Icon](images/dukeravengard/23503.png)<span class="itemTooltipContents">**Protective Helmet**...don't let them down. Fight to the end.<code>global_dps_multiplier_mult,65</code></span></span><span class="itemTableIcon3">![Reinforced Helm Icon](images/dukeravengard/23504.png)<span class="itemTooltipContents">**Reinforced Helm**I can tell you where each of these marks came from.<code>global_dps_multiplier_mult,120</code></span></span><span class="itemTableIcon4">![Helm of Torm's Sight Icon](images/dukeravengard/23505.png)<span class="itemTooltipContents">**Helm of Torm's Sight**What was once my prison now serves me for the good of Baldur's Gate.<code>global_dps_multiplier_mult,230</code></span></span>
+            <span class="itemTableIcon1">![Weight of the City Icon](images/ravengard/23503.png)<span class="itemTooltipContents">**Weight of the City**Baldur's Gate is counting on you...<code>global_dps_multiplier_mult,10</code></span></span><span class="itemTableIcon2">![Protective Helmet Icon](images/ravengard/23503.png)<span class="itemTooltipContents">**Protective Helmet**...don't let them down. Fight to the end.<code>global_dps_multiplier_mult,65</code></span></span><span class="itemTableIcon3">![Reinforced Helm Icon](images/ravengard/23504.png)<span class="itemTooltipContents">**Reinforced Helm**I can tell you where each of these marks came from.<code>global_dps_multiplier_mult,120</code></span></span><span class="itemTableIcon4">![Helm of Torm's Sight Icon](images/ravengard/23505.png)<span class="itemTooltipContents">**Helm of Torm's Sight**What was once my prison now serves me for the good of Baldur's Gate.<code>global_dps_multiplier_mult,230</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>2</span>
@@ -884,7 +884,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Oath of Justice Icon](images/dukeravengard/23506.png)<span class="itemTooltipContents">**Oath of Justice**Do you swear to uphold the laws of Baldur's Gate?<code>buff_upgrade,25,15028</code></span></span><span class="itemTableIcon2">![Flame Badge Icon](images/dukeravengard/23506.png)<span class="itemTooltipContents">**Flame Badge**To protect its walls and its people?<code>buff_upgrade,87.5,15028</code></span></span><span class="itemTableIcon3">![Blaze Talisman Icon](images/dukeravengard/23507.png)<span class="itemTooltipContents">**Blaze Talisman**To do no wrong while you are in its service?<code>buff_upgrade,150,15028</code></span></span><span class="itemTableIcon4">![Marshall Medallion Icon](images/dukeravengard/23508.png)<span class="itemTooltipContents">**Marshall Medallion**To lay down your life if the city needed it?<code>buff_upgrade,275,15028</code></span></span>
+            <span class="itemTableIcon1">![Oath of Justice Icon](images/ravengard/23506.png)<span class="itemTooltipContents">**Oath of Justice**Do you swear to uphold the laws of Baldur's Gate?<code>buff_upgrade,25,15028</code></span></span><span class="itemTableIcon2">![Flame Badge Icon](images/ravengard/23506.png)<span class="itemTooltipContents">**Flame Badge**To protect its walls and its people?<code>buff_upgrade,87.5,15028</code></span></span><span class="itemTableIcon3">![Blaze Talisman Icon](images/ravengard/23507.png)<span class="itemTooltipContents">**Blaze Talisman**To do no wrong while you are in its service?<code>buff_upgrade,150,15028</code></span></span><span class="itemTableIcon4">![Marshall Medallion Icon](images/ravengard/23508.png)<span class="itemTooltipContents">**Marshall Medallion**To lay down your life if the city needed it?<code>buff_upgrade,275,15028</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>3</span>
@@ -898,7 +898,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![The First Line Icon](images/dukeravengard/23509.png)<span class="itemTooltipContents">**The First Line**Not every situation can be solved with a sword.<code>buff_upgrade,25,15030,0</code></span></span><span class="itemTableIcon2">![Sturdy Buckler Icon](images/dukeravengard/23509.png)<span class="itemTooltipContents">**Sturdy Buckler**Ask any Flaming Fist how many times their shield has saved them.<code>buff_upgrade,87.5,15030,0</code></span></span><span class="itemTableIcon3">![Flame Resistant Shield Icon](images/dukeravengard/23510.png)<span class="itemTooltipContents">**Flame Resistant Shield**A gift from the Grand Duke when I became a Blaze.<code>buff_upgrade,150,15030,0</code></span></span><span class="itemTableIcon4">![Aegis of Baldur's Gate Icon](images/dukeravengard/23511.png)<span class="itemTooltipContents">**Aegis of Baldur's Gate**It is said this shield was wielded by Baldur himself.<code>buff_upgrade,275,15030,0</code></span></span>
+            <span class="itemTableIcon1">![The First Line Icon](images/ravengard/23509.png)<span class="itemTooltipContents">**The First Line**Not every situation can be solved with a sword.<code>buff_upgrade,25,15030,0</code></span></span><span class="itemTableIcon2">![Sturdy Buckler Icon](images/ravengard/23509.png)<span class="itemTooltipContents">**Sturdy Buckler**Ask any Flaming Fist how many times their shield has saved them.<code>buff_upgrade,87.5,15030,0</code></span></span><span class="itemTableIcon3">![Flame Resistant Shield Icon](images/ravengard/23510.png)<span class="itemTooltipContents">**Flame Resistant Shield**A gift from the Grand Duke when I became a Blaze.<code>buff_upgrade,150,15030,0</code></span></span><span class="itemTableIcon4">![Aegis of Baldur's Gate Icon](images/ravengard/23511.png)<span class="itemTooltipContents">**Aegis of Baldur's Gate**It is said this shield was wielded by Baldur himself.<code>buff_upgrade,275,15030,0</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>4</span>
@@ -912,7 +912,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![People's Protector Icon](images/dukeravengard/23497.png)<span class="itemTooltipContents">**People's Protector**They should look to you for hope, not fear.<code>buff_upgrade,25,15034,1<br>buff_upgrade,25,15034,2<br></code></span></span><span class="itemTableIcon2">![Flaming Fist Chainmail Icon](images/dukeravengard/23497.png)<span class="itemTooltipContents">**Flaming Fist Chainmail**The city is its people. Protect it.<code>buff_upgrade,87.5,15034,1<br>buff_upgrade,87.5,15034,2<br></code></span></span><span class="itemTableIcon3">![Blaze Armor Icon](images/dukeravengard/23498.png)<span class="itemTooltipContents">**Blaze Armor**It is an honor to wear this.<code>buff_upgrade,150,15034,1<br>buff_upgrade,150,15034,2<br></code></span></span><span class="itemTableIcon4">![Plate of High Command Icon](images/dukeravengard/23499.png)<span class="itemTooltipContents">**Plate of High Command**The Dead Three will not take this city! Attack!<code>buff_upgrade,275,15034,1<br>buff_upgrade,275,15034,2<br></code></span></span>
+            <span class="itemTableIcon1">![People's Protector Icon](images/ravengard/23497.png)<span class="itemTooltipContents">**People's Protector**They should look to you for hope, not fear.<code>buff_upgrade,25,15034,1<br>buff_upgrade,25,15034,2<br></code></span></span><span class="itemTableIcon2">![Flaming Fist Chainmail Icon](images/ravengard/23497.png)<span class="itemTooltipContents">**Flaming Fist Chainmail**The city is its people. Protect it.<code>buff_upgrade,87.5,15034,1<br>buff_upgrade,87.5,15034,2<br></code></span></span><span class="itemTableIcon3">![Blaze Armor Icon](images/ravengard/23498.png)<span class="itemTooltipContents">**Blaze Armor**It is an honor to wear this.<code>buff_upgrade,150,15034,1<br>buff_upgrade,150,15034,2<br></code></span></span><span class="itemTableIcon4">![Plate of High Command Icon](images/ravengard/23499.png)<span class="itemTooltipContents">**Plate of High Command**The Dead Three will not take this city! Attack!<code>buff_upgrade,275,15034,1<br>buff_upgrade,275,15034,2<br></code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>5</span>
@@ -926,7 +926,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Fallen Hero Icon](images/dukeravengard/23500.png)<span class="itemTooltipContents">**Fallen Hero**You will not be forgotten...<code>reduce_ultimate_cooldown,10</code></span></span><span class="itemTableIcon2">![Torn Tabard Icon](images/dukeravengard/23500.png)<span class="itemTooltipContents">**Torn Tabard**...for the sacrifice you made.<code>reduce_ultimate_cooldown,20</code></span></span><span class="itemTableIcon3">![Minotaur Horns Icon](images/dukeravengard/23501.png)<span class="itemTooltipContents">**Minotaur Horns**A souvenir from the adventurers that saved me.<code>reduce_ultimate_cooldown,40</code></span></span><span class="itemTableIcon4">![Hellrider Dagger Icon](images/dukeravengard/23502.png)<span class="itemTooltipContents">**Hellrider Dagger**A Hellrider gave me this to remind me of the oath they take.<code>reduce_ultimate_cooldown,100</code></span></span>
+            <span class="itemTableIcon1">![Fallen Hero Icon](images/ravengard/23500.png)<span class="itemTooltipContents">**Fallen Hero**You will not be forgotten...<code>reduce_ultimate_cooldown,10</code></span></span><span class="itemTableIcon2">![Torn Tabard Icon](images/ravengard/23500.png)<span class="itemTooltipContents">**Torn Tabard**...for the sacrifice you made.<code>reduce_ultimate_cooldown,20</code></span></span><span class="itemTableIcon3">![Minotaur Horns Icon](images/ravengard/23501.png)<span class="itemTooltipContents">**Minotaur Horns**A souvenir from the adventurers that saved me.<code>reduce_ultimate_cooldown,40</code></span></span><span class="itemTableIcon4">![Hellrider Dagger Icon](images/ravengard/23502.png)<span class="itemTooltipContents">**Hellrider Dagger**A Hellrider gave me this to remind me of the oath they take.<code>reduce_ultimate_cooldown,100</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>6</span>
@@ -1001,7 +1001,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (Duke Ravengard)**Elturel may not be my city, but I will lay down my life to protect its people.<code>global_dps_multiplier_mult,10</code></span>Selflessness
+            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Selflessness (Ravengard)**Elturel may not be my city, but I will lay down my life to protect its people.<code>global_dps_multiplier_mult,10</code></span>Selflessness
         </span>
         <span class="featTableEffect">
             <span>10% All Champion Damage</span>
@@ -1012,7 +1012,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Duke Ravengard)**Show the fiends of Avernus what it means to be a Hellrider!<code>global_dps_multiplier_mult,25</code></span>Inspiring Leader
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Ravengard)**Show the fiends of Avernus what it means to be a Hellrider!<code>global_dps_multiplier_mult,25</code></span>Inspiring Leader
         </span>
         <span class="featTableEffect">
             <span>25% All Champion Damage</span>
@@ -1023,7 +1023,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Form Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Form Up (Duke Ravengard)**We shall be the front line of defense against the forces of the Hells!<code>buff_upgrade,20,15028</code></span>Form Up
+            ![Form Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Form Up (Ravengard)**We shall be the front line of defense against the forces of the Hells!<code>buff_upgrade,20,15028</code></span>Form Up
         </span>
         <span class="featTableEffect">
             <span>20% Marshal of the Flaming Fist</span>
@@ -1034,7 +1034,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Last Stand Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Last Stand (Duke Ravengard)**We are the last hope of Elturel.<code>buff_upgrade,40,15028</code></span>Last Stand
+            ![Last Stand Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Last Stand (Ravengard)**We are the last hope of Elturel.<code>buff_upgrade,40,15028</code></span>Last Stand
         </span>
         <span class="featTableEffect">
             <span>40% Marshal of the Flaming Fist</span>
@@ -1045,7 +1045,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Strength in Numbers Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Strength in Numbers (Duke Ravengard)**We are stronger together!<code>buff_upgrade,20,15029</code></span>Strength in Numbers
+            ![Strength in Numbers Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Strength in Numbers (Ravengard)**We are stronger together!<code>buff_upgrade,20,15029</code></span>Strength in Numbers
         </span>
         <span class="featTableEffect">
             <span>20% Position of Power</span>
@@ -1056,7 +1056,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Battle Formations Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Battle Formations (Duke Ravengard)**Knowing our strengths is how we will win.<code>buff_upgrade,40,15029</code></span>Battle Formations
+            ![Battle Formations Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Battle Formations (Ravengard)**Knowing our strengths is how we will win.<code>buff_upgrade,40,15029</code></span>Battle Formations
         </span>
         <span class="featTableEffect">
             <span>40% Position of Power</span>
@@ -1067,7 +1067,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon2">
-            ![Crucial Weakness Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Crucial Weakness (Duke Ravengard)**There! Their formation is weakening - attack!<code>buff_upgrade,20,15030,0</code></span>Crucial Weakness
+            ![Crucial Weakness Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Crucial Weakness (Ravengard)**There! Their formation is weakening - attack!<code>buff_upgrade,20,15030,0</code></span>Crucial Weakness
         </span>
         <span class="featTableEffect">
             <span>20% Critical Teamwork</span>
@@ -1078,7 +1078,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Turning the Tide Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Turning the Tide (Duke Ravengard)**This is it - victory is nearly at hand!<code>buff_upgrade,40,15030,0</code></span>Turning the Tide
+            ![Turning the Tide Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Turning the Tide (Ravengard)**This is it - victory is nearly at hand!<code>buff_upgrade,40,15030,0</code></span>Turning the Tide
         </span>
         <span class="featTableEffect">
             <span>40% Critical Teamwork</span>
@@ -1089,7 +1089,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Work Together Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Work Together (Duke Ravengard)**Let's show these cultists what it means to be a Baldurian!<code>buff_upgrade_effect_stacks_max_add,10,15030</code></span>Work Together
+            ![Work Together Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Work Together (Ravengard)**Let's show these cultists what it means to be a Baldurian!<code>buff_upgrade_effect_stacks_max_add,10,15030</code></span>Work Together
         </span>
         <span class="featTableEffect">
             <span>+10 Max Stacks to Critical Teamwork</span>
@@ -1100,7 +1100,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Spirit of Confidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Spirit of Confidence (Duke Ravengard)**One person can change the entire battle.<code>persist_effect_stacks,20,15030</code></span>Spirit of Confidence
+            ![Spirit of Confidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Spirit of Confidence (Ravengard)**One person can change the entire battle.<code>persist_effect_stacks,20,15030</code></span>Spirit of Confidence
         </span>
         <span class="featTableEffect">
             <span>20% of Critical Teamwork Stacks Persist When Reset</span>
@@ -1111,7 +1111,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon4">
-            ![Heart of Battle Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Heart of Battle (Duke Ravengard)**Let hope strengthen your blades and deliver us victory!<code>persist_effect_stacks,40,15030</code></span>Heart of Battle
+            ![Heart of Battle Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<code>persist_effect_stacks,40,15030</code></span>Heart of Battle
         </span>
         <span class="featTableEffect">
             <span>40% of Critical Teamwork Stacks Persist When Reset</span>
@@ -1122,7 +1122,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon4">
-            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">**Illithid Tadpole (Duke Ravengard)**I... I had the strangest dream... Why does my head hurt?<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span>Illithid Tadpole
+            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">**Illithid Tadpole (Ravengard)**I... I had the strangest dream... Why does my head hurt?<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span>Illithid Tadpole
         </span>
         <span class="featTableEffect">
             <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
@@ -1133,7 +1133,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon4">
-            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Duke Ravengard)**I always cherish my time in Candlekeep.<code>increase_ability_score,int,2</code></span>Scholar
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Ravengard)**I always cherish my time in Candlekeep.<code>increase_ability_score,int,2</code></span>Scholar
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Intelligence</span>
@@ -1144,7 +1144,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon4">
-            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Morale Boost (Duke Ravengard)**This is what our soldiers needed - hope.<code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
+            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Morale Boost (Ravengard)**This is what our soldiers needed - hope.<code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
         </span>
         <span class="featTableEffect">
             <span>+20 Max Stacks to Critical Teamwork</span>
@@ -1233,7 +1233,6 @@ Black Viper: 6 / 6
            Dob: 4 / 6
         Donaar: 4 / 6
     Dragonbait: 5 / 6
-Duke Ravengard: 5 / 6
 Dungeon Master: 4 / 6
       Dynaheir: 5 / 6
         Egbert: 4 / 6
@@ -1267,6 +1266,7 @@ Dungeon Master: 4 / 6
         Presto: 4 / 6
          Pwent: 4 / 6
         Qillek: 4 / 6
+     Ravengard: 5 / 6
          Regis: 5 / 6
           Reya: 6 / 6
           Rust: 5 / 6
@@ -1306,24 +1306,24 @@ Dungeon Master: 4 / 6
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Free Play (Duke Ravengard) Icon](images/dukeravengard/3205.png) **Unlock Adventure: Free Play (Duke Ravengard)** (Free Play - Reset whenever you wish)
+![Free Play (Duke Ravengard) Icon](images/ravengard/3205.png) **Unlock Adventure: Free Play (Duke Ravengard)** (Free Play - Reset whenever you wish)
 > Attempt to calm down a very angry bronze dragon.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Might of Melee Icon](images/dukeravengard/23593.png) **Variant 1: Might of Melee** (Complete Area 75)
+![Might of Melee Icon](images/ravengard/23593.png) **Variant 1: Might of Melee** (Complete Area 75)
 > Duke Ravengard starts in the formation. He can be moved, but not removed.  
 > You may only use Champions with a melee base attack.  
 > Getting to Know Duke Ravengard: As an experienced Soldier, Duke Ravengard understands melee combat. Use Champions with Melee attacks to make the most of his buffs!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Critical Combat Icon](images/dukeravengard/23594.png) **Variant 2: Critical Combat** (Complete Area 125)
+![Critical Combat Icon](images/ravengard/23594.png) **Variant 2: Critical Combat** (Complete Area 125)
 > Duke Ravengard starts in the formation. He can be moved, but not removed.  
 > You may only use Champions with a melee base attack.  
 > At the start of each area, all Champions have their damage reduced to 1 until someone in the formation scores a critical hit. Every 200 areas, the number of critical hits required to remove this damage reduction debuff is increased by 1.  
 > Getting to Know Duke Ravengard: Duke Ravengard's buffs grow more potent as your Champions score critical hits. Use Champions with improved critical hit chances to make the most of this!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![That's a Whole Lot of Goblins Icon](images/dukeravengard/23595.png) **Variant 3: That's a Whole Lot of Goblins** (Complete Area 175)
+![That's a Whole Lot of Goblins Icon](images/ravengard/23595.png) **Variant 3: That's a Whole Lot of Goblins** (Complete Area 175)
 > Duke Ravengard starts in the formation. He can be moved, but not removed.  
 > Duke Ravengard's Ultimate starts unlocked and the cooldown is reduced by 75%.  
 > You may only use Champions with a melee base attack.  
@@ -1336,15 +1336,15 @@ Dungeon Master: 4 / 6
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Duke Ravengard Console Portrait](images/dukeravengard/console.png)Console Portait
+            ![Duke Ravengard Console Portrait](images/ravengard/console.png)Console Portait
         </span>
     </span>
     <span class="championImagesRow">
         <span class="championImagesChests">
-            ![Duke Ravengard Gold Chest Icon](images/dukeravengard/chest_gold.png)Gold Chest Icon
+            ![Duke Ravengard Gold Chest Icon](images/ravengard/chest_gold.png)Gold Chest Icon
         </span>
         <span class="championImagesChests">
-            ![Duke Ravengard Silver Chest Icon](images/dukeravengard/chest_silver.png)Silver Chest Icon
+            ![Duke Ravengard Silver Chest Icon](images/ravengard/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
