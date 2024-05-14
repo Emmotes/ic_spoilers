@@ -50,7 +50,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Tanking / Support / Healing (Guess)</span>
+            <span style="margin-left:8px;">Tanking / Support (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
