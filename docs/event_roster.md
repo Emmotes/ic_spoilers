@@ -14,10 +14,12 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="binwin" style="background-image:url(images/portraits/binwin.png)">Binwin (3)</span>
 <span class="eventRosterChampion" id="korth" style="background-image:url(images/portraits/korth.png)">Korth (2)</span>
 <span class="eventRosterChampion" id="nova" style="background-image:url(images/portraits/nova.png)">Nova (11)</span>
+<span class="eventRosterChampion" id="shaka" style="background-image:url(images/portraits/shaka.png)">Shaka (9)</span>
 <span class="eventRosterChampion" id="selise" style="background-image:url(images/portraits/selise.png)">Selise (12)</span>
+<span class="eventRosterChampion" id="dm" style="background-image:url(images/portraits/dm.png)">DM (6)</span>
 <span class="eventRosterChampion" id="merilwen" style="background-image:url(images/portraits/merilwen.png)">Merilwen (2)</span>
 <span class="eventRosterChampion" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)</span>
-<span class="eventRosterChampion" id="dukeravengard" style="background-image:url(images/portraits/dukeravengard.png)">Duke Ravengard</span>
+<span class="eventRosterChampion" id="dukeravengard" style="background-image:url(images/portraits/dukeravengard.png)">Duke Ravengard (8)</span>
 </span>
 
 {:/nomarkdown}
@@ -221,12 +223,10 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="lazaapz" style="background-image:url(images/portraits/lazaapz.png)">Lazaapz (9)</span>
 <span class="eventRosterChampion" id="talin" style="background-image:url(images/portraits/talin.png)">Talin (2)</span>
 <span class="eventRosterChampion" id="orkira" style="background-image:url(images/portraits/orkira.png)">Orkira (1)</span>
-<span class="eventRosterChampion" id="shaka" style="background-image:url(images/portraits/shaka.png)">Shaka (9)</span>
 <span class="eventRosterChampion" id="ellywick" style="background-image:url(images/portraits/ellywick.png)">Ellywick (10)</span>
 <span class="eventRosterChampion" id="corazon" style="background-image:url(images/portraits/corazon.png)">Corazón (8)</span>
 <span class="eventRosterChampion" id="rust" style="background-image:url(images/portraits/rust.png)">Rust (11)</span>
 <span class="eventRosterChampion" id="gazrick" style="background-image:url(images/portraits/gazrick.png)">Gazrick (7)</span>
-<span class="eventRosterChampion" id="dm" style="background-image:url(images/portraits/dm.png)">DM (6)</span>
 <span class="eventRosterChampion" id="valentine" style="background-image:url(images/portraits/valentine.png)">Valentine (5)</span>
 <span class="eventRosterChampion" id="dob" style="background-image:url(images/portraits/dob.png)">Dob (12)</span>
 <span class="eventRosterChampion" id="fen" style="background-image:url(images/portraits/fen.png)">Fen (6)</span>
