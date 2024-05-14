@@ -24,7 +24,7 @@ These are the event champions that are upcoming and all the information we know 
                 Duke Ravengard
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Fighter</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Dragondown - 5 June 2024</span>
