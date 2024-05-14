@@ -134,10 +134,24 @@ Contents:
 
 * Champion: `Duke Ravengard`
 * Skin: `Wyrm Slayer Ravengard`
-* Feat: ???
+* Feat: `Illithid Tadpole` (Duke Ravengard)
 * Familiar: `Rusty the Rust Monster`
-* Chests: `Gold  Y7E12 Chest` x16 (Shinies x2)
+* Chests: `Gold  Duke Ravengard Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Solarya the Ki-rin Familiar Pack - $11.99  
+Date of release: 12 Jun 2024
+
+Contents:
+
+* Familiar: `Solarya the Ki-rin`
+* Buff: `Huge Potion of Speed` x4
+* Buff: `Huge Potion of Giant's Strength` x4
+* Buff: `Huge Potion of Clairvoyance` x4
+* Buff: `Potion of Polish` x1
 </div></div>
 
 
