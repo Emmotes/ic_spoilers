@@ -1092,7 +1092,7 @@ This list will only show feats that are going to be available on the release of 
             ![Work Together Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Work Together (Duke Ravengard)**Let's show these cultists what it means to be a Baldurian!<code>buff_upgrade_effect_stacks_max_add,10,15030</code></span>Work Together
         </span>
         <span class="featTableEffect">
-            <span>+10 Max Stacks to global.Upgrade@1224144a</span>
+            <span>+10 Max Stacks to Critical Teamwork</span>
         </span>
         <span class="featTableSource">
             <span>Free</span>
@@ -1103,7 +1103,7 @@ This list will only show feats that are going to be available on the release of 
             ![Spirit of Confidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Spirit of Confidence (Duke Ravengard)**One person can change the entire battle.<code>persist_effect_stacks,20,15030</code></span>Spirit of Confidence
         </span>
         <span class="featTableEffect">
-            <span>20% of global.Upgrade@1224144a Stacks Persist When Reset</span>
+            <span>20% of Critical Teamwork Stacks Persist When Reset</span>
         </span>
         <span class="featTableSource">
             <span>Free</span>
@@ -1114,7 +1114,7 @@ This list will only show feats that are going to be available on the release of 
             ![Heart of Battle Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Heart of Battle (Duke Ravengard)**Let hope strengthen your blades and deliver us victory!<code>persist_effect_stacks,40,15030</code></span>Heart of Battle
         </span>
         <span class="featTableEffect">
-            <span>40% of global.Upgrade@1224144a Stacks Persist When Reset</span>
+            <span>40% of Critical Teamwork Stacks Persist When Reset</span>
         </span>
         <span class="featTableSource">
             <span>Free</span>
@@ -1147,7 +1147,7 @@ This list will only show feats that are going to be available on the release of 
             ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Morale Boost (Duke Ravengard)**This is what our soldiers needed - hope.<code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
         </span>
         <span class="featTableEffect">
-            <span>+20 Max Stacks to global.Upgrade@1224144a</span>
+            <span>+20 Max Stacks to Critical Teamwork</span>
         </span>
         <span class="featTableSource">
             <span>Free</span>
