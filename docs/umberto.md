@@ -50,7 +50,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Tanking / Support / Healing (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -99,16 +99,119 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Unknown**
-> Unknown effect.
+**Base Attack: Swarmstaff** (Ranged)
+> Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit.  
+> Cooldown: 5.5s (Cap 1.375s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 763,
+    "name": "Swarmstaff",
+    "description": "Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 5.5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "umberto_bee_swarm",
+            "shoot_frame": 8,
+            "shoot_offset_x": 100,
+            "shoot_offset_y": -30
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Brown Bear Bash**
+> Umberto transforms into a bear for 15 seconds, encouraging allies to immediately attack and attack more often.  
+> Cooldown: 220s (Cap 55s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 764,
+    "name": "Brown Bear Bash",
+    "description": "Umberto transforms into a bear for 15 seconds, encouraging allies to attack more often.",
+    "long_description": "Umberto transforms into a bear for 15 seconds, encouraging allies to immediately attack and attack more often.",
+    "graphic_id": 23773,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 220,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "umberto"
+        }
+    ],
+    "tags": [
+        "ultimate"
+    ],
+    "damage_types": []
+}
 </pre>
 </p>
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Bear Claw** (Melee)
+> Umberto moves up to the nearest foe and slashes them, dealing 1 ultimate hit.  
+> Cooldown: 5.5s (Cap 1.375s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 765,
+    "name": "Bear Claw",
+    "description": "Umberto moves up to the nearest foe and slashes them, dealing 1 ultimate hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 5.5,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -50,
+            "start_frame": 5,
+            "damage_frame": 14,
+            "jump_sound": 30,
+            "sound_frames": {
+                "2": 194
+            },
+            "force_count_for_bud": false
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Unknown**
 > Unknown effect.
@@ -121,23 +224,32 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Beehive Barrage** (Guess)
-> Unknown effect.
+**Detective's Entourage** (Guess)
+> Umberto increases the damage of all Champions in the two columns behind him by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23763,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Umberto/Icon_Formation_UmbertoBeehiveBarrage",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 1991,
+    "flavour_text": "",
+    "description": {
+        "desc": "Umberto increases the damage of all Champions in the two columns behind him by $amount%"
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "prev_two_col"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23764,
+    "large_graphic_id": 23760,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -146,23 +258,46 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Detective's Entourage** (Guess)
-> Unknown effect.
+**Beehive Barrage** (Guess)
+> Every second, Umberto's staff spawns 1 swarming bees, which buzz around the staff, up to a maximum of 10 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff (if one exists) onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing 1 second of BUD-based damage for each bee. A maximum of 10_per_enemy swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23764,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Umberto/Icon_Formation_UmbertoDetectivesEntourage",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 1992,
+    "flavour_text": "",
+    "description": {
+        "conditions": [
+            {
+                "condition": "compare amount == 1",
+                "desc": "Every second, Umberto's staff spawns a swarming bee, which buzzes around the staff, up to a maximum of $max_bees swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff (if one exists) onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing $bud_seconds_per_bee second of BUD-based damage for each bee. A maximum of $max_bees_per_enemy swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
+            },
+            {
+                "desc": "Every second, Umberto's staff spawns $amount swarming bees, which buzz around the staff, up to a maximum of $max_bees swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff (if one exists) onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing $bud_seconds_per_bee second of BUD-based damage for each bee. A maximum of $max_bees_per_enemy swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
+            }
+        ]
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "umberto_beehive_barrage,1",
+            "max_bees": 10,
+            "max_bees_per_enemy": 5,
+            "bud_seconds_per_bee": 1,
+            "bee_graphic": 22718,
+            "bee_offset_x": 64,
+            "bee_offset_y": -98,
+            "bee_offset_bear_x": 84,
+            "bee_offset_bear_y": -102
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23763,
+    "large_graphic_id": 23759,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -177,17 +312,22 @@ Unknown.
 <p>
 <pre>
 {
-    "id": 23765,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Umberto/Icon_Formation_UmbertoOngoingInvestigation",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 1993,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23765,
+    "large_graphic_id": 23761,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -197,22 +337,49 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Protective Presence** (Guess)
-> Unknown effect.
+> Umberto increases the health of all other Champions by 25% of his max health, and any healing effect on those Champions is increased by 25%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23766,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Umberto/Icon_Formation_UmbertoProtectivePresence",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 1994,
+    "flavour_text": "",
+    "description": {
+        "desc": "Umberto increases the health of all other Champions by $amount% of his max health, and any healing effect on those Champions is increased by $amount%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_me,25"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "increase_health_by_source_percent,0",
+            "amount_expr": "upgrade_amount(15051,0)",
+            "targets": [
+                "other"
+            ],
+            "override_key_desc": "Increases the health of $target by $amount% of Umberto's max health and the effect of healing on $target by $amount%"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "healing_mult,0",
+            "amount_expr": "upgrade_amount(15051,0)",
+            "targets": [
+                "other"
+            ],
+            "skip_effect_key_desc": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23766,
+    "large_graphic_id": 23762,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -223,23 +390,44 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Call of the Wardens** (Guess)
-> Unknown effect.
+**Laws Alliance** (Guess)
+> Umberto increases the effect of Detective's Entourage by 125% for each Lawful Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23767,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Umberto/Icon_Specialization_UmbertoCalloftheWardens",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 1995,
+    "flavour_text": "",
+    "description": {
+        "desc": "Umberto increases the effect of Detective's Entourage by $amount% for each Lawful Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,125"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0,15048",
+            "amount_expr": "upgrade_amount(15052,0)",
+            "show_bonus": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`lawful`)",
+            "amount_func": "mult"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Lawful Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -249,22 +437,43 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Family of Orphans** (Guess)
-> Unknown effect.
+> Umberto increases the effect of Detective's Entourage by 100% for each unaffiliated Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23768,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Umberto/Icon_Specialization_UmbertoFamilyofOrphans",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 1996,
+    "flavour_text": "",
+    "description": {
+        "desc": "Umberto increases the effect of Detective's Entourage by $amount% for each unaffiliated Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0,15048",
+            "amount_expr": "upgrade_amount(15053,0)",
+            "show_bonus": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`unaffiliated`)",
+            "amount_func": "mult"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Unaffiliated Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -273,23 +482,44 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Laws Alliance** (Guess)
-> Unknown effect.
+**Call of the Wardens** (Guess)
+> Umberto increases the effect of Detective's Entourage by 300% for each Ranger or Druid Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23769,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Umberto/Icon_Specialization_UmbertoLawsAlliance",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 1997,
+    "flavour_text": "",
+    "description": {
+        "desc": "Umberto increases the effect of Detective's Entourage by $amount% for each Ranger or Druid Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,300"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0,15048",
+            "amount_expr": "upgrade_amount(15054,0)",
+            "show_bonus": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`ranger`) || HasTag(`druid`)",
+            "amount_func": "mult"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -304,17 +534,22 @@ Unknown.
 <p>
 <pre>
 {
-    "id": 23770,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Umberto/Icon_Specialization_UmbertoMoreBees",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 1998,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -329,17 +564,22 @@ Unknown.
 <p>
 <pre>
 {
-    "id": 23771,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Umberto/Icon_Specialization_UmbertoMoreClues",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 1999,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -349,22 +589,28 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **More Damage** (Guess)
-> Unknown effect.
+> Increases the effect of Detective's Entourage by 200%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23772,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Umberto/Icon_Specialization_UmbertoMoreDamage",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2000,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the effect of Detective's Entourage by $amount%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,200,15048"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
