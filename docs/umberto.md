@@ -137,40 +137,6 @@ Unknown.
 </details>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Brown Bear Bash**
-> Umberto transforms into a bear for 15 seconds, encouraging allies to immediately attack and attack more often.  
-> Cooldown: 220s (Cap 55s)
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 764,
-    "name": "Brown Bear Bash",
-    "description": "Umberto transforms into a bear for 15 seconds, encouraging allies to attack more often.",
-    "long_description": "Umberto transforms into a bear for 15 seconds, encouraging allies to immediately attack and attack more often.",
-    "graphic_id": 23773,
-    "target": "none",
-    "num_targets": 0,
-    "aoe_radius": 0,
-    "damage_modifier": 1,
-    "cooldown": 220,
-    "animations": [
-        {
-            "type": "ultimate_attack",
-            "ultimate": "umberto"
-        }
-    ],
-    "tags": [
-        "ultimate"
-    ],
-    "damage_types": []
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Bear Claw** (Melee)
 > Umberto moves up to the nearest foe and slashes them, dealing 1 ultimate hit.  
 > Cooldown: 5.5s (Cap 1.375s)
@@ -207,6 +173,40 @@ Unknown.
     "damage_types": [
         "melee"
     ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Brown Bear Bash**
+> Umberto transforms into a bear for 15 seconds, encouraging allies to immediately attack and attack more often.  
+> Cooldown: 220s (Cap 55s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 764,
+    "name": "Brown Bear Bash",
+    "description": "Umberto transforms into a bear for 15 seconds, encouraging allies to attack more often.",
+    "long_description": "Umberto transforms into a bear for 15 seconds, encouraging allies to immediately attack and attack more often.",
+    "graphic_id": 23773,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 220,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "umberto"
+        }
+    ],
+    "tags": [
+        "ultimate"
+    ],
+    "damage_types": []
 }
 </pre>
 </p>
