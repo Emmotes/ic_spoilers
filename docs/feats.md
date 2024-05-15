@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Evandra</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Cute and Fierce Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Cute and Fierce (Evandra)**I can still rip off arms, and they AREN'T full of stuffing!<code>buff_upgrade,80,11296</code></span>Cute and Fierce
-        </span>
-        <span class="featTableEffect">
-            <span>80% Never Completely 'Armless</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>15 May 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Nixie</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Cute, but Deadly Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Cute, but Deadly (Nixie)**But, I'm a fireproof plushie, right?<code>buff_upgrade,80,10887</code></span>Cute, but Deadly
-        </span>
-        <span class="featTableEffect">
-            <span>80% Blazing Charisma</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>15 May 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Diana</span>
         </span>
         <span class="featTableIcon4">

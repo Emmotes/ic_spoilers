@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Plushie Evandra Portrait](images/skin_portraits/plushieevandra.png)Plushie Evandra
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Plushie Evandra Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">15 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Plushie Nixie Portrait](images/skin_portraits/plushienixie.png)Plushie Nixie
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Plushie Nixie Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">15 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Pirate Azaka Portrait](images/skin_portraits/pirateazaka.png)Pirate Azaka
         </span>
         <span class="skinTableSource">

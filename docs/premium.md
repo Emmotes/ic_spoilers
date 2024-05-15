@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Plushie Evandra Skin & Feat Pack - $11.99  
-Date of release: 15 May 2024
-
-Contents:
-
-* Champion: `Evandra`
-* Skin: `Plushie Evandra`
-* Feat: `Cute and Fierce` (Evandra)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Evandra Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Plushie Nixie Skin & Feat Pack - $11.99  
-Date of release: 15 May 2024
-
-Contents:
-
-* Champion: `Nixie`
-* Skin: `Plushie Nixie`
-* Feat: `Cute, but Deadly` (Nixie)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Nixie Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Classic Beholder Familiar Pack - $16.99  
 Date of release: 22 May 2024
 
