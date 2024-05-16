@@ -162,15 +162,22 @@ Some effects made it into the definitions that look suspiciously like blessings.
 
 As you can probably see from the assumed Global blessing - there are some things called the `Rod of Seven Parts`. This appears to be something we will be able collect as we do more adventures in the campaign - though that is speculation on my part. All we have to go on are the names and the icons below.
 
-| Part 1 | Part 2|
+We know that a piece of the Rod of Seven Parts will come from a static armoured boss monster called `Hertilod` from one of the Vecna adventures.
+
+> The Hertilod swallows a Champion for 10 seconds unless they succeed on a STR saving throw.  
+> A swallowed Champion takes damage every second.  
+> When the Hertilod takes damage there is a 10% chance the swallowed Champion is expelled. When the Hertilod expells a Champion there is a 15% chance of it also expelling a piece of the rod. This chance increases each time it does not expell a piece of the rod. The Hertilod cannot be killed until the piece of the rod has been expelled.  
+> While a Champion is swallowed the Hertilod will attack with its claws.
+
+| Part 1 | Part 2 |
 |---|---|
 | ![Vecna: Eve of Ruin Rod of Seven Parts - Part 1 Icon](images/campaign_vecna/rod1.png) | ![Vecna: Eve of Ruin Rod of Seven Parts - Part 1 Icon](images/campaign_vecna/rod2.png) |
 
 ## Other Icons and Logos
 
-| Logo | Campaign Button | Favour Icon |
+| Logo | Campaign Button | Favour Icon | Hertilod |
 |---|---|
-| ![Vecna: Eve of Ruin Campaign Logo](images/campaign_vecna/logo.png) | ![Vecna: Eve of Ruin Campaign Button Icon](images/campaign_vecna/campaign_button.png) | ![Vecna: Eve of Ruin Favour Icon](images/campaign_vecna/favour.png) |
+| ![Vecna: Eve of Ruin Campaign Logo](images/campaign_vecna/logo.png) | ![Vecna: Eve of Ruin Campaign Button Icon](images/campaign_vecna/campaign_button.png) | ![Vecna: Eve of Ruin Favour Icon](images/campaign_vecna/favour.png) | ![Vecna: Eve of Ruin Hertilod Portrait](images/campaign_vecna/hertilod.png) |
 
 ## Formation
 
