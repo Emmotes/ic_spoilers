@@ -137,6 +137,44 @@ Unknown.
 </details>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Swarmstaff** (Ranged)
+> Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit and adds a swarming bee stack.  
+> Cooldown: 5.5s (Cap 1.375s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 767,
+    "name": "Swarmstaff",
+    "description": "Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit and adds a swarming bee stack.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 5.5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "umberto_bee_swarm",
+            "shoot_frame": 8,
+            "shoot_offset_x": 100,
+            "shoot_offset_y": -30
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Bear Claw** (Melee)
 > Umberto moves up to the nearest foe and slashes them, dealing 1 ultimate hit.  
 > Cooldown: 5.5s (Cap 1.375s)
