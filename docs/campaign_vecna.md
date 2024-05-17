@@ -4,6 +4,10 @@
 
 A new campaign was recently added to the defines: `Vecna: Eve of Ruin`. The guesstimated date of release is 22 May 2024 as per the [Content Drops](contentdrops.md) page. This lines up very well with the release of the official WoTC adventure module of the same name on 21 May 2024.
 
+# Reduced Gold
+
+The campaign formation currently has the exact same reduced gold effect that Fortune's Wheel has. It's even using the exact same values for `gold_reduction_ratio` and `gold_reduction_per_area` that FW does.
+
 # Blessings
 
 Some effects made it into the definitions that look suspiciously like blessings. Can't be certain though of course.
