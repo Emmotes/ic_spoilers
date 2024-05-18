@@ -164,7 +164,7 @@ Some effects made it into the definitions that look suspiciously like blessings.
 
 # Rod of Seven Parts
 
-As you can probably see from the assumed Global blessing - there are some things called the `Rod of Seven Parts`. This appears to be something we will be able collect as we do more adventures in the campaign - though that is speculation on my part. All we have to go on are the names and the icons below.
+As you can probably see from the assumed Global blessing - there are some things called the `Rod of Seven Parts`. This appears to be something we will be able collect as we do more adventures in the campaign.
 
 We know that a piece of the Rod of Seven Parts will come from a static armoured boss monster called `Hertilod` from one of the Vecna adventures.
 
