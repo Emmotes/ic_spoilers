@@ -125,11 +125,6 @@ A list of champions that will be seeing reworks in upcoming events.
     </span>
 </span>
 
-# Timed Misc
-
-Miscellaneous spoilers with due dates.
-
-* [Emergence 7](emergence_7.md) - 22 May 2024
 
 # Misc
 
