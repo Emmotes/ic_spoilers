@@ -205,7 +205,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "off_when_benched": true,
-            "effect_string": "stacks_data_binder_safe,1,ezmerelda_threat_tracking_stacks",
+            "effect_string": "stacks_data_binder_safe,1,umberto_clue_stacks",
             "is_instanced_stat": true,
             "use_stat_defs": true
         }
