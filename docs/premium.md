@@ -5,39 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Classic Beholder Familiar Pack - $16.99  
-Date of release: 22 May 2024
-
-Contents:
-
-* Familiar: `Classic Beholder`
-* Familiar Skin: Beholder Sketch Skin (Classic Beholder)
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Classic Mimic Familiar Pack - $11.99  
-Date of release: 22 May 2024
-
-Contents:
-
-* Familiar: `Classic Mimic`
-* Familiar Skin: Mimic Sketch Skin (Classic Mimic)
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Casual Karlach Skin & Feat Pack - $11.99  
 Date of release: 29 May 2024
 

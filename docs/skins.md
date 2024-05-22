@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Pirate Azaka Portrait](images/skin_portraits/pirateazaka.png)Pirate Azaka
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 7</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Pirate Diana Portrait](images/skin_portraits/piratediana.png)Pirate Diana
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 7</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">22 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Casual Karlach Portrait](images/skin_portraits/casualkarlach.png)Casual Karlach
         </span>
         <span class="skinTableSource">
