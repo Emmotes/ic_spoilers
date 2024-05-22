@@ -179,13 +179,83 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Detective Umberto Portrait](images/skin_portraits/detectiveumberto.png)Detective Umberto
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Detective Umberto Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Detective Deekin Portrait](images/skin_portraits/detectivedeekin.png)Detective Deekin
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Detective Deekin Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">10 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Infiltrator Nahara
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Infiltrator Nahara Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">10 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Agent Vin Ursa
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Agent Vin Ursa Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">17 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Undercover Sgt. Knox
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Undercover Sgt. Knox Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">17 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Triton Glitch Nayeli Portrait](images/skin_portraits/tritonglitchnayeli.png)Triton Glitch Nayeli
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Triton Glitch Nayeli Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$9.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">24 Jul 2024</span>
@@ -196,13 +266,41 @@ Please be aware that the developers recently removed most future skins from the 
             ![Yuan-ti Glitch Havilar Portrait](images/skin_portraits/yuantiglitchhavilar.png)Yuan-ti Glitch Havilar
         </span>
         <span class="skinTableSource">
+            <span style="margin-left: 8px;">Yuan-ti Glitch Havilar Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Baldurs Gate Ravengard Portrait](images/skin_portraits/baldursgateravengard.png)Baldurs Gate Ravengard
+        </span>
+        <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">24 Jul 2024</span>
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Spymaster Aeon Portrait](images/skin_portraits/spymasteraeon.png)Spymaster Aeon
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
     <span class="skinTableRow">

@@ -214,6 +214,123 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Detective Umberto Theme Pack - $27.99  
+Date of release: 03 Jul 2024
+
+Contents:
+
+* Champion: `Aeon`
+* Skin: `Detective Umberto`
+* Feat: ???
+* Familiar: `Coconut the Polar Bear Cub`
+* Chests: `Gold  Y7E14 Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Detective Deekin Skin & Feat Pack - $11.99  
+Date of release: 10 Jul 2024
+
+Contents:
+
+* Champion: `Deekin`
+* Skin: `Detective Deekin`
+* Feat: `Hyperconfidence` (Deekin)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Deekin Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Infiltrator Nahara Skin & Feat Pack - $11.99  
+Date of release: 10 Jul 2024
+
+Contents:
+
+* Champion: `Nahara`
+* Skin: `Infiltrator Nahara`
+* Feat: `Spell Master` (Nahara)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Nahara Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Agent Vin Ursa Skin & Feat Pack - $11.99  
+Date of release: 17 Jul 2024
+
+Contents:
+
+* Champion: `Vin Ursa`
+* Skin: `Agent Vin Ursa`
+* Feat: `All Hands!` (Vin Ursa)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Vin Ursa Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Undercover Sgt. Knox Skin & Feat Pack - $11.99  
+Date of release: 17 Jul 2024
+
+Contents:
+
+* Champion: `Sergeant Knox`
+* Skin: `Undercover Sgt. Knox`
+* Feat: `Prodigal Leader` (Sgt. Knox)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Sergeant Knox Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Dr. Buzz Watson the Bee Familiar Pack - $5.99  
+Date of release: 24 Jul 2024
+
+Contents:
+
+* Familiar: `Dr. Buzz Watson the Bee`
+* Buff: `Huge Potion of Speed` x2
+* Buff: `Huge Potion of Giant's Strength` x2
+* Buff: `Huge Potion of Clairvoyance` x2
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Triton Glitch Nayeli Skin & Feat Pack - $9.99  
+Date of release: 24 Jul 2024
+
+Contents:
+
+* Skin: `Triton Glitch Nayeli`
+* Feat: `Triton Glitch` (Nayeli)
+* Chests: `Gold Nayeli Chest` x7 (Shinies x1)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Yuan-ti Glitch Havilar Skin & Feat Pack - $11.99  
+Date of release: 24 Jul 2024
+
+Contents:
+
+* Champion: `Havilar`
+* Skin: `Yuan-ti Glitch Havilar`
+* Feat: `Yuan-ti Glitch` (Havilar)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Havilar Chest` x7 (Shinies x1)
+</div></div>
+
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
