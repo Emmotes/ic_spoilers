@@ -287,7 +287,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Beehive Barrage** (Guess)
-> Every second, Umberto's staff spawns 1 swarming bees, which buzz around the staff, up to a maximum of 10 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff (if one exists) onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing 1 second of BUD-based damage for each bee. A maximum of 10_per_enemy swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation.
+> Every second, Umberto's staff spawns 1 swarming bees, which buzz around the staff, up to a maximum of 10 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing 1s of BUD-based damage for each bee. A maximum of 5 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -297,26 +297,33 @@ Unknown.
     "description": {
         "conditions": [
             {
-                "condition": "compare amount == 1",
-                "desc": "Every second, Umberto's staff spawns a swarming bee, which buzzes around the staff, up to a maximum of $max_bees swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff (if one exists) onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing $bud_seconds_per_bee second of BUD-based damage for each bee. A maximum of $max_bees_per_enemy swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
+                "condition": "compare amount___2 == 1",
+                "desc": "Every second, Umberto's staff spawns a swarming bee, which buzzes around the staff, up to a maximum of $max_bees___2 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing $(seconds_plural amount) of BUD-based damage for each bee. A maximum of $max_bees_per_enemy___2 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
             },
             {
-                "desc": "Every second, Umberto's staff spawns $amount swarming bees, which buzz around the staff, up to a maximum of $max_bees swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff (if one exists) onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing $bud_seconds_per_bee second of BUD-based damage for each bee. A maximum of $max_bees_per_enemy swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
+                "desc": "Every second, Umberto's staff spawns $amount___2 swarming bees, which buzz around the staff, up to a maximum of $max_bees___2 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing $(seconds_plural amount) of BUD-based damage for each bee. A maximum of $max_bees_per_enemy___2 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
             }
         ]
     },
     "effect_keys": [
         {
             "off_when_benched": true,
+            "effect_string": "umberto_bud_seconds_per_bee,1"
+        },
+        {
+            "off_when_benched": true,
             "effect_string": "umberto_beehive_barrage,1",
             "max_bees": 10,
             "max_bees_per_enemy": 5,
-            "bud_seconds_per_bee": 1,
             "bee_graphic": 22718,
             "bee_offset_x": 64,
             "bee_offset_y": -98,
             "bee_offset_bear_x": 84,
             "bee_offset_bear_y": -102
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "change_base_attack,767"
         }
     ],
     "requirements": "",
@@ -325,7 +332,10 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -335,7 +345,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ongoing Investigation** (Guess)
-> Unknown effect.
+> Pick an Investigation to pursue. Umberto gains stacks of Clue, and can start another Investigation after the Investigation concludes. Each Clue stack increases Detective's Entourage by 50%, stacking multiplicatively. Caps at 100 stacks. Once you are capped, additional Investigations are not offered. Clue stacks persist between areas and reset when the adventure ends.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -343,11 +353,59 @@ Unknown.
     "id": 1993,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Pick an Investigation to pursue. Umberto gains stacks of Clue, and can start another Investigation after the Investigation concludes. Each Clue stack increases Detective's Entourage by $amount%, stacking multiplicatively. Caps at $max_stacks stacks. Once you are capped, additional Investigations are not offered. Clue stacks persist between areas and reset when the adventure ends.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^$umberto_current_investigation"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
-            "off_when_benched": true
+            "effect_string": "buff_upgrade,50,15048",
+            "manual_stacking": true,
+            "stacks_multiply": true,
+            "max_stacks": 100,
+            "stack_title": "Clue Stacks",
+            "show_bonus": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "stacks_data_binder_safe,0,umberto_clue_stacks",
+            "is_instanced_stat": true,
+            "use_stat_defs": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "umberto_ongoing_investigation",
+            "investigations": [
+                {
+                    "name_key": "umberto_investigation_1_name",
+                    "desc_key": "umberto_investigation_1_desc",
+                    "completion_time": 7200,
+                    "stacks_gained_immediately": 10,
+                    "stacks_lost_at_end": 9
+                },
+                {
+                    "name_key": "umberto_investigation_2_name",
+                    "desc_key": "umberto_investigation_2_desc",
+                    "completion_time": 28800,
+                    "stacks_gained_periodically": 1,
+                    "stack_gain_time_interval": 7200,
+                    "stacks_gained_at_end": 3
+                },
+                {
+                    "name_key": "umberto_investigation_3_name",
+                    "desc_key": "umberto_investigation_3_desc",
+                    "completion_time": 86400,
+                    "stacks_gained_periodically": 1,
+                    "stack_gain_time_interval": 10800,
+                    "stacks_gained_at_end": 17
+                }
+            ]
         }
     ],
     "requirements": "",
@@ -355,7 +413,11 @@ Unknown.
     "large_graphic_id": 23761,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -557,7 +619,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **More Bees** (Guess)
-> Unknown effect.
+> Umberto's Beehive Barrage increases the number of swarming bees spawned each second by 400%, and when an enemy hits Umberto the maximum number of bees are unleashed. Finally, the damage per bee is increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -565,11 +627,16 @@ Unknown.
     "id": 1998,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Umberto's Beehive Barrage increases the number of swarming bees spawned each second by $amount%, and when an enemy hits Umberto the maximum number of bees are unleashed. Finally, the damage per bee is increased by $(amount___2)%."
     },
     "effect_keys": [
         {
-            "off_when_benched": true
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,400,15049,1"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,15049,0"
         }
     ],
     "requirements": "",
@@ -577,7 +644,8 @@ Unknown.
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true
     }
 }
 </pre>
@@ -587,7 +655,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **More Clues** (Guess)
-> Unknown effect.
+> Increases the maximum number of Ongoing Investigation's Clue stacks by 50%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -595,11 +663,12 @@ Unknown.
     "id": 1999,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Increases the maximum number of Ongoing Investigation's Clue stacks by $amount%."
     },
     "effect_keys": [
         {
-            "off_when_benched": true
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade_effect_stacks_max_mult,50,15050"
         }
     ],
     "requirements": "",
