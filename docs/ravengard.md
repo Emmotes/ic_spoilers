@@ -361,15 +361,29 @@ Duke Ravengard will be a new champion in the Dragondown event on 5 June 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Marshal of the Flaming Fist Icon](images/ravengard/icon_marshaloftheflamingfist.png) **Marshal of the Flaming Fist** (Level: 20)
+![Marshal of the Flaming Fist Icon](images/ravengard/icon_marshaloftheflamingfist.png) **Marshal of the Flaming Fist** (Level: 30)
 > Duke Ravengard gains a Command stack for each Champion with a melee base attack in the formation (including himself). Each stack increases the damage of these Champions by 400%, stacking multiplicatively.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
        70: 100%
+      170: 100%
+      240: 100%
+      480: 100%
+      610: 100%
+      740: 100%
+    1,000: 100%
+    1,120: 100%
+    1,250: 100%
+    1,500: 100%
+    1,630: 100%
+    1,760: 100%
+    2,020: 100%
+    2,140: 100%
+    2,270: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 3.28e06%
 </pre>
 </p>
 </details>
@@ -379,7 +393,7 @@ Upgrades:
 {
     "id": 15028,
     "hero_id": 149,
-    "required_level": 20,
+    "required_level": 30,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1969",
@@ -436,83 +450,19 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Position of Power Icon](images/ravengard/icon_positionofpower.png) **Position of Power** (Level: 30)
-> Duke Ravengard increases the effect of the outgoing positional formation abilities of all Champions with a melee base attack by 25% for each Command stack he has, stacking additively.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 15029,
-    "hero_id": 149,
-    "required_level": 30,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,1970",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "Position of Power"
-}
-{
-    "id": 1970,
-    "flavour_text": "",
-    "description": {
-        "desc": "Duke Ravengard increases the effect of the outgoing positional formation abilities of all Champions with a melee base attack by $(not_buffed amount)% for each Command stack he has, stacking additively."
-    },
-    "effect_keys": [
-        {
-            "off_when_benched": true,
-            "effect_string": "buff_positional_formation_abilities,25",
-            "targets": [
-                "all"
-            ],
-            "filter_targets": [
-                {
-                    "type": "hero_expr",
-                    "hero_expr": "HasAttackDamageType(`melee`)"
-                }
-            ],
-            "include_escorts": true,
-            "stacks_multiply": false,
-            "amount_func": "add",
-            "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasAttackDamageType(`melee`)",
-            "per_hero_targets": [
-                "all"
-            ],
-            "amount_updated_listeners": [
-                "slot_changed",
-                "feat_changed",
-                "attack_changed"
-            ],
-            "show_bonus": true,
-            "use_computed_amount_for_description": true,
-            "override_key_desc": "Increases the effect of $target's outgoing Positional Formation Abilities by $amount%",
-            "stack_title": "Command Stacks"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 23609,
-    "large_graphic_id": 23606,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Critical Teamwork Icon](images/ravengard/icon_criticalteamwork.png) **Critical Teamwork** (Level: 40)
+![Critical Teamwork Icon](images/ravengard/icon_criticalteamwork.png) **Critical Teamwork** (Level: 90)
 > Whenever a Champion with a melee base attack gets a critical hit, increase the effect of Marshal of the Flaming Fist by 100% and additively increase the odds of all Champions in the formation getting critical hits by 1%. Both effects stack additively up to 50 times and reset when changing areas.
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       80: 100%
+      350: 100%
+      870: 100%
+    1,380: 100%
+    1,890: 100%
+    2,340: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 3,100%
 </pre>
 </p>
 </details>
@@ -522,7 +472,7 @@ Upgrades:
 {
     "id": 15030,
     "hero_id": 149,
-    "required_level": 40,
+    "required_level": 90,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1971",
@@ -606,7 +556,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate** (Level: 60)
+**Fire Shield** (Level: 120)
 > Unlock Ravengard's Fire Shield Ultimate Attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -614,13 +564,13 @@ Upgrades:
 {
     "id": 15034,
     "hero_id": 149,
-    "required_level": 60,
+    "required_level": 120,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ultimate",
     "effect": "effect_def,1983",
     "static_dps_mult": null,
     "default_enabled": 1,
-    "name": "Ultimate"
+    "name": "Fire Shield"
 }
 {
     "id": 1983,
@@ -676,10 +626,78 @@ Upgrades:
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Position of Power Icon](images/ravengard/icon_positionofpower.png) **Position of Power** (Level: 150)
+> Duke Ravengard increases the effect of the outgoing positional formation abilities of all Champions with a melee base attack by 25% for each Command stack he has, stacking additively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 15029,
+    "hero_id": 149,
+    "required_level": 150,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,1970",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Position of Power"
+}
+{
+    "id": 1970,
+    "flavour_text": "",
+    "description": {
+        "desc": "Duke Ravengard increases the effect of the outgoing positional formation abilities of all Champions with a melee base attack by $(not_buffed amount)% for each Command stack he has, stacking additively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_positional_formation_abilities,25",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasAttackDamageType(`melee`)"
+                }
+            ],
+            "include_escorts": true,
+            "stacks_multiply": false,
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasAttackDamageType(`melee`)",
+            "per_hero_targets": [
+                "all"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed",
+                "attack_changed"
+            ],
+            "show_bonus": true,
+            "use_computed_amount_for_description": true,
+            "override_key_desc": "Increases the effect of $target's outgoing Positional Formation Abilities by $amount%",
+            "stack_title": "Command Stacks"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23609,
+    "large_graphic_id": 23606,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Lead The Charge Icon](images/ravengard/icon_leadthecharge.png) **Lead The Charge** (Level: 50)
+![Lead The Charge Icon](images/ravengard/icon_leadthecharge.png) **Lead The Charge** (Level: 200)
 > When Ravengard gets a critical hit, he follows up by bashing the enemy with his shield, knocking it back a short distance. When this occurs, all melee Champions adjacent to Duke Ravengard have their base attack cooldowns immediately reset.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -687,7 +705,7 @@ Upgrades:
 {
     "id": 15031,
     "hero_id": 149,
-    "required_level": 50,
+    "required_level": 200,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1972",
@@ -724,7 +742,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Legacy of Ravengard Icon](images/ravengard/icon_legacyofravengard.png) **Legacy of Ravengard** (Level: 50)
+![Legacy of Ravengard Icon](images/ravengard/icon_legacyofravengard.png) **Legacy of Ravengard** (Level: 200)
 > If Wyll is in the formation, anyone affected by Wyll's Folk Hero benefit gains an additional stack, but the maximum remains at 4 stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -732,7 +750,7 @@ Upgrades:
 {
     "id": 15033,
     "hero_id": 149,
-    "required_level": 50,
+    "required_level": 200,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1974",
@@ -770,7 +788,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Strength of Baldur's Gate Icon](images/ravengard/icon_strengthofbaldursgate.png) **Strength of Baldur's Gate** (Level: 50)
+![Strength of Baldur's Gate Icon](images/ravengard/icon_strengthofbaldursgate.png) **Strength of Baldur's Gate** (Level: 200)
 > Champions with a melee base attack have their crit chance additively increased by 20% and crit damage increased by 1000%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -778,7 +796,7 @@ Upgrades:
 {
     "id": 15032,
     "hero_id": 149,
-    "required_level": 50,
+    "required_level": 200,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,1973",
@@ -921,7 +939,7 @@ Upgrades:
             Plate of High Command
         </span>
         <span class="itemTableEffect">
-            <span>Ultimate</span>
+            <span>Fire Shield</span>
         </span>
     </span>
     <span class="itemTableRow">
@@ -1018,7 +1036,7 @@ This list will only show feats that are going to be available on the release of 
             <span>25% All Champion Damage</span>
         </span>
         <span class="featTableSource">
-            <span>Free</span>
+            <span>Gold Chest</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -1040,7 +1058,7 @@ This list will only show feats that are going to be available on the release of 
             <span>40% Marshal of the Flaming Fist</span>
         </span>
         <span class="featTableSource">
-            <span>Free</span>
+            <span>Gold Chest</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -1062,7 +1080,7 @@ This list will only show feats that are going to be available on the release of 
             <span>40% Position of Power</span>
         </span>
         <span class="featTableSource">
-            <span>Free</span>
+            <span>12,500 Gems</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -1084,7 +1102,7 @@ This list will only show feats that are going to be available on the release of 
             <span>40% Critical Teamwork</span>
         </span>
         <span class="featTableSource">
-            <span>Free</span>
+            <span>12,500 Gems</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -1095,29 +1113,7 @@ This list will only show feats that are going to be available on the release of 
             <span>+10 Max Stacks to Critical Teamwork</span>
         </span>
         <span class="featTableSource">
-            <span>Free</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableIcon3">
-            ![Spirit of Confidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Spirit of Confidence (Ravengard)**One person can change the entire battle.<code>persist_effect_stacks,20,15030</code></span>Spirit of Confidence
-        </span>
-        <span class="featTableEffect">
-            <span>20% of Critical Teamwork Stacks Persist When Reset</span>
-        </span>
-        <span class="featTableSource">
-            <span>Free</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableIcon4">
-            ![Heart of Battle Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<code>persist_effect_stacks,40,15030</code></span>Heart of Battle
-        </span>
-        <span class="featTableEffect">
-            <span>40% of Critical Teamwork Stacks Persist When Reset</span>
-        </span>
-        <span class="featTableSource">
-            <span>Free</span>
+            <span>12,500 Gems</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -1128,7 +1124,7 @@ This list will only show feats that are going to be available on the release of 
             <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
         </span>
         <span class="featTableSource">
-            <span>Free</span>
+            <span>50,000 Gems</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -1139,18 +1135,7 @@ This list will only show feats that are going to be available on the release of 
             <span>Stat: +2 Intelligence</span>
         </span>
         <span class="featTableSource">
-            <span>Free</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableIcon4">
-            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Morale Boost (Ravengard)**This is what our soldiers needed - hope.<code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
-        </span>
-        <span class="featTableEffect">
-            <span>+20 Max Stacks to Critical Teamwork</span>
-        </span>
-        <span class="featTableSource">
-            <span>Free</span>
+            <span>Event Bonus</span>
         </span>
     </span>
 </span>
