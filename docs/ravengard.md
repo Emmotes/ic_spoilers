@@ -916,7 +916,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![The First Line Icon](images/ravengard/23509.png)<span class="itemTooltipContents">**The First Line**Not every situation can be solved with a sword.<code>buff_upgrade,25,15030,0</code></span></span><span class="itemTableIcon2">![Sturdy Buckler Icon](images/ravengard/23509.png)<span class="itemTooltipContents">**Sturdy Buckler**Ask any Flaming Fist how many times their shield has saved them.<code>buff_upgrade,87.5,15030,0</code></span></span><span class="itemTableIcon3">![Flame Resistant Shield Icon](images/ravengard/23510.png)<span class="itemTooltipContents">**Flame Resistant Shield**A gift from the Grand Duke when I became a Blaze.<code>buff_upgrade,150,15030,0</code></span></span><span class="itemTableIcon4">![Aegis of Baldur's Gate Icon](images/ravengard/23511.png)<span class="itemTooltipContents">**Aegis of Baldur's Gate**It is said this shield was wielded by Baldur himself.<code>buff_upgrade,275,15030,0</code></span></span>
+            <span class="itemTableIcon1">![The First Line Icon](images/ravengard/23509.png)<span class="itemTooltipContents">**The First Line**Not every situation can be solved with a sword.<code>buff_upgrade,25,15030,0</code></span></span><span class="itemTableIcon2">![Sturdy Buckler Icon](images/ravengard/23509.png)<span class="itemTooltipContents">**Sturdy Buckler**Ask any Flaming Fist how many times their shield has saved them.<code>buff_upgrade,87.5,15030,0</code></span></span><span class="itemTableIcon3">![Flame Resistant Shield Icon](images/ravengard/23510.png)<span class="itemTooltipContents">**Flame Resistant Shield**A gift from the Grand Duke when I became a Blaze.<code>buff_upgrade,150,15030,0</code></span></span><span class="itemTableIcon4">![Aegis of Baldur's Gate Icon](images/ravengard/23511.png)<span class="itemTooltipContents">**Aegis of Baldur's Gate**It is said this shield was wielded by Balduran himself.<code>buff_upgrade,275,15030,0</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>4</span>
@@ -983,7 +983,7 @@ Slot 4:
         The First Line: Not every situation can be solved with a sword.
         Sturdy Buckler: Ask any Flaming Fist how many times their shield has saved them.
 Flame Resistant Shield: A gift from the Grand Duke when I became a Blaze.
-Aegis of Baldur's Gate: It is said this shield was wielded by Baldur himself.
+Aegis of Baldur's Gate: It is said this shield was wielded by Balduran himself.
 
 Slot 5:
     People's Protector: They should look to you for hope, not fear.
