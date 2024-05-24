@@ -145,6 +145,8 @@ A list of all champions and their patron availability.
 <tr><td style="text-align:right">149</td><td>Ravengard</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2032-12-31</label></td></tr>
 </tbody></table>
 
+<span style="font-size:1.2em;">ⓘ</span> *Note: Unreleased champions typically have 2032 dates for Elminster because their available date is a placeholder set to `2030-01-01 20:00:00` until the moment they release.*
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
