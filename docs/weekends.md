@@ -14,7 +14,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 | Epic Helm | 14 Jun | **Ravengard** | Nayeli | Jarlaxle | Lae'zel | Wyll | Golden Epic |
 | Health & Happiness | 21 Jun | **Selise** | Bruenor | Makos | Virgil | Kent | Golden Epic |
 | Ceremorphosis | 28 Jun | **Wyll** | Celeste | Minsc | Karlach | Gale | Golden Epic |
-| High Spy | 05 Jul | **Umberto** | Arkhan | Asharra | Sentry | Shandie | Golden Epic |
+| High Spy | 05 Jul | **Aeon** | Arkhan | Asharra | Sentry | Shandie | Golden Epic |
 
 [Back to Top](#top)
 

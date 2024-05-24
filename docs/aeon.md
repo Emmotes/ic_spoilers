@@ -15,7 +15,7 @@ Aeon looks like they'll be a CNE original tied to an upcoming Idle Champions Pre
 
 # Basic Information
 
-Aeon will be a new champion - potentially in the Founders' Day event on 3 July 2024. (It's possible they could be in a different event - we don't know yet.)
+Aeon will be a new champion in the Founders' Day event on 3 July 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">

@@ -187,7 +187,7 @@ Date of release: 03 Jul 2024
 
 Contents:
 
-* Champion: `Aeon`
+* Champion: `Umberto`
 * Skin: `Detective Umberto`
 * Feat: ???
 * Familiar: `Coconut the Polar Bear Cub`
