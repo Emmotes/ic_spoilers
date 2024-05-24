@@ -346,6 +346,15 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ongoing Investigation** (Guess)
 > Pick an Investigation to pursue. Umberto gains stacks of Clue, and can start another Investigation after the Investigation concludes. Each Clue stack increases Detective's Entourage by 50%, stacking multiplicatively. Caps at 100 stacks. Once you are capped, additional Investigations are not offered. Clue stacks persist between areas and reset when the adventure ends.
+
+> **Investigation 1: Rapid Reconnaissance**  
+> Umberto immediately gains 10 Clue stacks, but will lose all but 1 when he concludes his investigation in 2 hours.
+
+> **Investigation 2: Steadfast Search**  
+> Umberto gains 1 Clue stack after every 2 hours, plus 3 Clue stacks when the investigation concludes in 8 hours.
+
+> **Investigation 3: Thorough Inquiry**  
+> Umberto gains 1 Clue stack after every 3 hours, plus 17 Clue stacks when the investigation concludes in 24 hours.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
