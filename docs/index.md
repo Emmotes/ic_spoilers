@@ -46,7 +46,7 @@ These are the event champions that are upcoming and all the information we know 
                 Aeon
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Unknown Artificer (Guess)</span>
+                <span class="indexChampionTableNoLink">Goliath Artificer (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 3 July 2024</span>

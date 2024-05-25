@@ -31,7 +31,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
             <span style="margin-right:4px;">**Race**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Goliath (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -63,7 +63,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Female (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
