@@ -589,7 +589,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Rite of Passage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Rite of Passage (Gromma)**Look how far you've come - you're nearly as old as I am!<code>change_upgrade_data,14874,1</code></span>Rite of Passage
         </span>
         <span class="featTableEffect">
-            <span>???: [change_upgrade_data,14874,1]</span>
+            <span>+80% to Base Stacking Bonus of Grandmotherly Love</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
