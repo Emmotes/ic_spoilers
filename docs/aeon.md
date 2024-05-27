@@ -96,22 +96,251 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Unknown**
-> Unknown effect.
+**Base Attack: Cane Wand** (Magic)
+> Aeon fires an energy bolt from her cane at the closest enemy for one hit.  
+> Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 769,
+    "name": "Cane Wand",
+    "description": "Aeon fires an energy bolt from her cane at the closest enemy for one hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 6,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_offset_x": 42,
+            "shoot_offset_y": -40,
+            "shoot_frame": 8,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "ca7467c80e4d9c689e04b38d4141e3e2",
+                "target_offset_y": 0,
+                "projectile_speed": 2000,
+                "projectile_graphic_id": 23696,
+                "projectile_hit_graphic_id": 23698,
+                "trail": {
+                    "particle_graphic_ids": [
+                        "23696"
+                    ],
+                    "lifespan": 0.2,
+                    "spawn_rate": 200,
+                    "spawn_shape_scale": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "initial_velocity": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "velocity_jitter": {
+                        "x": 30,
+                        "y": 30
+                    },
+                    "rotation_jitter": 0,
+                    "alpha_lerp": {
+                        "0": 0,
+                        "0.1": 0.75,
+                        "1": 0
+                    },
+                    "scale_lerp": [
+                        {
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "x": 0,
+                            "y": 0
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Cane Wand** (Magic)
+> Aeon fires an energy bolt from her cane at the closest enemy for one hit.  
+> Cooldown: 6s (Cap 1.5s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 771,
+    "name": "Cane Wand",
+    "description": "Aeon fires an energy bolt from her cane at the closest enemy for one hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 6,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_offset_x": 42,
+            "shoot_offset_y": -40,
+            "shoot_frame": 8,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "ca7467c80e4d9c689e04b38d4141e3e2",
+                "target_offset_y": 0,
+                "projectile_speed": 2500,
+                "move_across_entire_screen": true,
+                "hit_monsters_moved_through": true,
+                "line_thickness": 100,
+                "projectile_graphic_id": 23696,
+                "projectile_hit_graphic_id": 23698,
+                "trail": {
+                    "particle_graphic_ids": [
+                        "23696"
+                    ],
+                    "lifespan": 0.2,
+                    "spawn_rate": 200,
+                    "spawn_shape_scale": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "initial_velocity": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "velocity_jitter": {
+                        "x": 30,
+                        "y": 30
+                    },
+                    "rotation_jitter": 0,
+                    "alpha_lerp": {
+                        "0": 0,
+                        "1": 0,
+                        "0.1": 0.75
+                    },
+                    "scale_lerp": [
+                        {
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "x": 0,
+                            "y": 0
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
 </pre>
 </p>
 </details>
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Unknown**
-> Unknown effect.
+**Base Attack: Deuce** (Magic)
+> Aeon's mechanical monkey Deuce fires a barrage at all enemies, dealing one ultimate hit to each one and knocking them back a short distance.  
+> Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 770,
+    "name": "Deuce",
+    "description": "Aeon's mechanical monkey Deuce fires a barrage at all enemies, dealing one ultimate hit to each one and knocking them back a short distance.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 6,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_offset_x": 50,
+            "shoot_offset_y": -40,
+            "shoot_frame": 8,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "ca7467c80e4d9c689e04b38d4141e3e2",
+                "target_offset_y": 0,
+                "projectile_speed": 2000,
+                "projectile_graphic_id": 23696,
+                "projectile_hit_graphic_id": 23698,
+                "trail": {
+                    "particle_graphic_ids": [
+                        "23696"
+                    ],
+                    "lifespan": 0.2,
+                    "spawn_rate": 200,
+                    "spawn_shape_scale": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "initial_velocity": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "velocity_jitter": {
+                        "x": 30,
+                        "y": 30
+                    },
+                    "rotation_jitter": 0,
+                    "alpha_lerp": {
+                        "0": 0,
+                        "0.1": 0.75,
+                        "1": 0
+                    },
+                    "scale_lerp": [
+                        {
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "x": 0,
+                            "y": 0
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
 </pre>
 </p>
 </details>
