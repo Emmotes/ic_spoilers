@@ -8,7 +8,7 @@ There's not enough data to say whether getting the debuff role will mean the rem
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: It's possible we might not see any more until the data drop that makes the role go live.*
 
-* Beadle & Grimm
+* Grimm
 
 [Back to Top](#top)
 
