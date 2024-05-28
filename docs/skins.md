@@ -193,7 +193,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Agent Vin Ursa
+            ![Agent Vin Ursa Portrait](images/skin_portraits/agentvinursa.png)Agent Vin Ursa
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Agent Vin Ursa Skin & Feat Pack</span>
@@ -207,7 +207,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Undercover Sgt. Knox
+            ![Undercover Sgt. Knox Portrait](images/skin_portraits/undercoversgtknox.png)Undercover Sgt. Knox
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Undercover Sgt. Knox Skin & Feat Pack</span>
