@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Artemis</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Feeding Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Feeding Blade (Artemis)**I need some healing - that bandit will do.<code>buff_upgrade,80,3268</code></span>Feeding Blade
-        </span>
-        <span class="featTableEffect">
-            <span>80% Jeweled Power</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>29 May 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Karlach</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Feels Good Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Feels Good (Karlach)**Screaming calms me down. You should try it, Soldier.<code>buff_upgrade,80,13723</code></span>Feels Good
-        </span>
-        <span class="featTableEffect">
-            <span>80% Rage</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>29 May 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>BBEG</span>
         </span>
         <span class="featTableIcon4">

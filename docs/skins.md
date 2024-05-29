@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Casual Karlach Portrait](images/skin_portraits/casualkarlach.png)Casual Karlach
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Casual Karlach Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">29 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Icewind Dale Artemis Portrait](images/skin_portraits/icewinddaleartemis.png)Icewind Dale Artemis
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Icewind Dale Artemis Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">29 May 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Wyrm Slayer Ezmerelda Portrait](images/skin_portraits/wyrmslayerezmerelda.png)Wyrm Slayer Ezmerelda
         </span>
         <span class="skinTableSource">

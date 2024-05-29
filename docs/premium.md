@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Casual Karlach Skin & Feat Pack - $11.99  
-Date of release: 29 May 2024
-
-Contents:
-
-* Champion: `Karlach`
-* Skin: `Casual Karlach`
-* Feat: `Feels Good` (Karlach)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold  Karlach Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Icewind Dale Artemis Skin & Feat Pack - $11.99  
-Date of release: 29 May 2024
-
-Contents:
-
-* Champion: `Artemis Entreri`
-* Skin: `Icewind Dale Artemis`
-* Feat: `Feeding Blade` (Artemis)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Artemis Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Ms. Squiggles the Octopus Familiar Pack - $11.99  
 Date of release: 03 Jun 2024
 
