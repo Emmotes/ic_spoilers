@@ -81,7 +81,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Fortune's Wheel 6 - 24 July 2024
 
-<span style="font-size:1.2em;">ⓘ</span> This content drop will likely be joined by a new evergreen champion.
+<span style="font-size:1.2em;">ⓘ</span> This content drop will likely contain a new evergreen champion.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
