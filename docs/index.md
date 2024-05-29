@@ -80,7 +80,7 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
 </span>
 
-# New Evergreens
+# New Evergreen Champion
 
 The upcoming Evergreen champion we're aware of.
 
@@ -91,7 +91,7 @@ The upcoming Evergreen champion we're aware of.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Unknown
+                Unknown (Maybe Wren)
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Unknown</span>
