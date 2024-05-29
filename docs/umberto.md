@@ -89,12 +89,9 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/umberto/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Umberto" fill="#aaa" data-formationName="Umberto" data-campaignName="Founders' Day" width="312" height="160"><circle cx="175" cy="65" r="15"/><circle cx="175" cy="145" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="15" cy="25" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Umberto</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Founders' Day</text></svg>
 </span>
-{% endcomment %}
 
 # Abilities
 
@@ -382,13 +379,11 @@ Unknown.
             "show_bonus": true
         },
         {
-            "off_when_benched": true,
             "effect_string": "stacks_data_binder_safe,0,umberto_clue_stacks",
             "is_instanced_stat": true,
             "use_stat_defs": true
         },
         {
-            "off_when_benched": true,
             "effect_string": "umberto_ongoing_investigation",
             "investigations": [
                 {
@@ -426,7 +421,11 @@ Unknown.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "desc_button": {
+            "text_key": "umberto_view_investigations",
+            "click_action": "umberto_view_investigations"
+        }
     }
 }
 </pre>
@@ -795,7 +794,29 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Party Crashers (Umberto) Icon](images/umberto/3406.png) **Unlock Adventure: Party Crashers (Umberto)** (Complete Area 50)
+> Save Waterdeep from the chaos of a Founders' Day gone awry.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Guardian of the Wilds Icon](images/umberto/23751.png) **Variant 1: Guardian of the Wilds** (Complete Area 75)
+> Umberto starts in the formation. He can't be moved or removed.  
+> Only Umberto and Champions in the two columns behind him can deal damage.  
+> Getting to Know Umberto: Umberto buffs the two columns behind him. Build your formation to make the most of this!
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Investigation Time Icon](images/umberto/23752.png) **Variant 2: Investigation Time** (Complete Area 125)
+> Umberto starts in the formation. He can't be moved or removed.  
+> His assistant bees, Sherlock Combs and Dr. Buzz Watson, take up two slots in the formation, and assist Umberto with his investigations.  
+> Once unlocked, Umberto's Ongoing Investigation durations are decreased by 75%.  
+> Getting to Know Umberto: The choice you make on Umberto's Ongoing Investigation dialog determines how fast he'll find clues and how long it will be until you choose again.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Umberto's Friends Icon](images/umberto/23753.png) **Variant 3: Umberto's Friends** (Complete Area 175)
+> Umberto starts in the formation. He can't be moved or removed.  
+> You may only use Lawful, Unaffiliated, Druid, and/or Ranger Champions.  
+> Getting to know Umberto: Umberto's first specialization choice determines which sort of Champions he is best with. Choose the best option for your formation!
+</div></div>
 
 # Other Champion Images
 
