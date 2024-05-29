@@ -129,7 +129,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 Miscellaneous spoilers with due dates.
 
-* [Debuff Role](debuff_role.md) - 5 June 2024 (Guess)
 * Emergence 8 - 24 July 2024
 
 # Misc
