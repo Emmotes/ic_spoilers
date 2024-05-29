@@ -165,6 +165,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Spymaster Aeon Portrait](images/skin_portraits/spymasteraeon.png)Spymaster Aeon
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">03 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Detective Deekin Portrait](images/skin_portraits/detectivedeekin.png)Detective Deekin
         </span>
         <span class="skinTableSource">
@@ -249,30 +263,16 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Baldurs Gate Ravengard Portrait](images/skin_portraits/baldursgateravengard.png)Baldurs Gate Ravengard
+            ![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)Baldur's Gate Duke Ravengard
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Gem Shop</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">20,000</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Spymaster Aeon Portrait](images/skin_portraits/spymasteraeon.png)Spymaster Aeon
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">26 Sept 2024</span>
         </span>
     </span>
     <span class="skinTableRow">
