@@ -80,6 +80,29 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
 </span>
 
+# New Evergreens
+
+The upcoming Evergreen champion we're aware of.
+
+<span class="indexChampionTableColumn">
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Unknown
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Unknown</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Fortune's Wheel 6 - 24 July 2024 (Guess)</span>
+            </span>
+        </span>
+    </span>
+</span>
+
 # Reworked Champions
 
 A list of champions that will be seeing reworks in upcoming events.
