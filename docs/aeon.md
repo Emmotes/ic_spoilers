@@ -47,7 +47,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Debuff (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -264,18 +264,20 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Deuce** (Magic)
-> Aeon's mechanical monkey Deuce fires a barrage at all enemies, dealing one ultimate hit to each one and knocking them back a short distance.  
+**Ultimate Attack: Deuce**
+> Aeon's mechanical monkey Deuce deals one ultimate hit to each enemy and knocks them back a short distance.  
 > Cooldown: 6s (Cap 1.5s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 770,
     "name": "Deuce",
-    "description": "Aeon's mechanical monkey Deuce fires a barrage at all enemies, dealing one ultimate hit to each one and knocking them back a short distance.",
-    "long_description": "",
-    "graphic_id": 0,
+    "description": "Deuce deals one ultimate hit to each enemy and knocks them back.",
+    "long_description": "Aeon's mechanical monkey Deuce deals one ultimate hit to each enemy and knocks them back a short distance.",
+    "graphic_id": 23841,
     "target": "front",
     "num_targets": 1,
     "aoe_radius": 0,
@@ -283,59 +285,33 @@ Unknown.
     "cooldown": 6,
     "animations": [
         {
-            "type": "ranged_attack",
-            "projectile": "pd_generic_projectile",
-            "shoot_offset_x": 50,
-            "shoot_offset_y": -40,
-            "shoot_frame": 8,
-            "shoot_sound": 149,
-            "hit_sound": 133,
-            "projectile_details": {
-                "hash": "ca7467c80e4d9c689e04b38d4141e3e2",
-                "target_offset_y": 0,
-                "projectile_speed": 2000,
-                "projectile_graphic_id": 23696,
-                "projectile_hit_graphic_id": 23698,
-                "trail": {
-                    "particle_graphic_ids": [
-                        "23696"
-                    ],
-                    "lifespan": 0.2,
-                    "spawn_rate": 200,
-                    "spawn_shape_scale": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "initial_velocity": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "velocity_jitter": {
-                        "x": 30,
-                        "y": 30
-                    },
-                    "rotation_jitter": 0,
-                    "alpha_lerp": {
-                        "0": 0,
-                        "0.1": 0.75,
-                        "1": 0
-                    },
-                    "scale_lerp": [
-                        {
-                            "x": 1,
-                            "y": 1
-                        },
-                        {
-                            "x": 0,
-                            "y": 0
-                        }
-                    ]
-                }
+            "type": "ultimate_attack",
+            "ultimate": "aeon",
+            "knockback_effect": {
+                "effect_string": "push_back_monster,25"
+            },
+            "beam_data": {
+                "fire_duration": 0.1,
+                "sweep_duration": 0.5,
+                "angle": 60,
+                "screen_edge_offset": 200,
+                "segment_graphics": [
+                    "Effect_AeonCaneBlast"
+                ],
+                "hit_effect_graphic": "Effect_AeonUltBeam_Hit",
+                "segment_width": 15,
+                "distance_adjustment": -20,
+                "scale": 1,
+                "fire_offset": [
+                    45,
+                    -140
+                ]
             }
         }
     ],
     "tags": [
-        "ranged"
+        "ranged",
+        "ultimate"
     ],
     "damage_types": [
         "magic"
@@ -347,22 +323,41 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Challenge Accepted** (Guess)
-> Unknown effect.
+**Network of Espionage** (Guess)
+> Every week, Aeon targets one Patron for infiltration. Aeon can be used in any Patron adventure or variant for her current Patron target, even if she would not normally be available to be used due to variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23832,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Formation_AeonChallengeAccepted",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2002,
+    "flavour_text": "",
+    "description": {
+        "desc": "Every week, Aeon targets one Patron for infiltration. Aeon can be used in any Patron adventure or variant for her current Patron target, even if she would not normally be available to be used due to variant or patron restrictions.^^$aeon_network_of_espionage_desc"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "aeon_network_of_espionage",
+            "off_when_benched": false
+        },
+        {
+            "effect_string": "force_allow_hero",
+            "if": "patron_id==aeon_patron_id",
+            "ignore_hero_source_check": true,
+            "hero_ids": [
+                150
+            ],
+            "off_when_benched": false,
+            "apply_manually": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23834,
+    "large_graphic_id": 23830,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "effect_name": "Network of Espionage",
+        "show_in_owner_outgoing": true
     }
 }
 </pre>
@@ -372,45 +367,50 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Inner Circle** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 23833,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Formation_AeonInnerCircle",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
+> Aeon increases the damage of adjacent Champions by 100% for each Champion in the formation that is eligible for the patron she is infiltrating this week, stacking multiplicatively.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Network of Espionage** (Guess)
-> Unknown effect.
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23834,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Formation_AeonNetworkofEspionage",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2003,
+    "flavour_text": "",
+    "description": {
+        "desc": "Aeon increases the damage of adjacent Champions by $(amount)% for each Champion in the formation that is eligible for the patron she is infiltrating this week, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(15196, 0)",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "EligibleForPatron(aeon_current_patron_id)",
+            "amount_func": "mult",
+            "targets": [
+                {
+                    "type": "distance",
+                    "distance": 1
+                }
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "aeon_active_patron_changed"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23833,
+    "large_graphic_id": 23829,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -420,21 +420,110 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Uncover Weakness** (Guess)
-> Unknown effect.
+> Each enemy that Aeon damages gains a Stolen Secrets stack. Enemies with a Stolen Secrets stack take 100% more damage from all sources, stacking multiplicatively up to 5 times.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23835,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Formation_AeonUncoverWeakness",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2004,
+    "flavour_text": "",
+    "description": {
+        "desc": "Each enemy that Aeon damages gains a Stolen Secrets stack. Enemies with a Stolen Secrets stack take $(amount)% more damage from all sources, stacking multiplicatively up to 5 times."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "effect_string": "aeon_uncover_weakness",
+            "off_when_benched": true,
+            "broadcast_name": "aeon_debuffs_monster",
+            "debuff_before_damage": true,
+            "debuff_max_stacks": 5,
+            "debuffing_attack_ids": [
+                769,
+                770,
+                771
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "increase_monster_damage,0",
+                    "amount_expr": "upgrade_amount(15197,0)",
+                    "active_graphic_id": 23961,
+                    "active_graphic_y": -120,
+                    "use_stack_as_frame": true,
+                    "stack_as_frame_offset": 0,
+                    "overlay_play_mode": "stopped",
+                    "bottom": false,
+                    "stacks_on_reapply": true,
+                    "manual_stacking": true,
+                    "max_stacks": 5,
+                    "stacks_multiply": true,
+                    "use_collection_source": true,
+                    "stack_across_effects": false
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23835,
+    "large_graphic_id": 23831,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Challenge Accepted** (Guess)
+> Aeon increases the effect of Inner Circle by 100% for each completed patron challenge for her current Patron, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2005,
+    "flavour_text": "",
+    "description": {
+        "desc": "Aeon increases the effect of Inner Circle by $(amount)% for each completed patron challenge for her current Patron, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "effect_string": "buff_upgrade,0,15196,1",
+            "amount_expr": "upgrade_amount(15198, 0)",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "CompletedPatronChallenges(aeon_current_patron_id)",
+            "amount_func": "mult",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "aeon_active_patron_changed",
+                "patron_challenge_completed"
+            ],
+            "show_bonus": true,
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 23832,
+    "large_graphic_id": 23828,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -445,46 +534,43 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Artificers Arsenal** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 23836,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Specialization_AeonArtificersArsenal",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Immediate Infiltration** (Guess)
-> Unknown effect.
+> Increase the effect of Inner Circle by 100% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 10 times per area and resetting when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23837,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Specialization_AeonImmediateInfiltration",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2006,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the effect of Inner Circle by $(not_buffed amount)% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 10 times per area and resetting when changing areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,15196,1",
+            "max_stacks": 10,
+            "total_title": "Total Buff to Inner Circle",
+            "stacks_on_trigger": "on_broadcast_stacks,aeon_debuffs_monster",
+            "show_bonus": true,
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reduce_percent",
+                        "percent": 100
+                    }
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -494,21 +580,38 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Play The Long Game** (Guess)
-> Unknown effect.
+> Increase the effect of Inner Circle by 0.1% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 1,000,000 times and persisting until you reset the adventure.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23838,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Specialization_AeonPlayTheLongGame",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2007,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the effect of Inner Circle by $(not_buffed amount)% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 1,000,000 times and persisting until you reset the adventure."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,0.1,15196,1",
+            "max_stacks": 1000000,
+            "total_title": "Total Buff to Inner Circle",
+            "stacks_on_trigger": "on_broadcast_stacks,aeon_debuffs_monster",
+            "off_when_benched": false,
+            "show_bonus": true
+        },
+        {
+            "effect_string": "aeon_play_the_long_game",
+            "broadcast_name": "aeon_debuffs_monster"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -517,22 +620,33 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Powerful Patronage** (Guess)
-> Unknown effect.
+**Artificers Arsenal** (Guess)
+> Cane Wand can now pierce through the targeted enemy, dealing one hit to all enemies in a line. Additionally, it deals 5 seconds of BUD-based damage to all enemies it hits.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23839,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Specialization_AeonPowerfulPatronage",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2008,
+    "flavour_text": "",
+    "description": {
+        "desc": "Cane Wand can now pierce through the targeted enemy, dealing one hit to all enemies in a line. Additionally, it deals 5 seconds of BUD-based damage to all enemies it hits."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_base_attack,771"
+        },
+        {
+            "effect_string": "base_attack_deal_bonus_damage,5",
+            "immediately_after_damage": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -542,21 +656,71 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Spy Network: Inner Circle** (Guess)
-> Unknown effect.
+> Inner Circle now affects all Champions within two slots of Aeon and its pre-stack effect is increased by 75%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 23840,
-    "graphic": "Icons/Events/2018FoundersDay/Y7 Aeon/Icon_Specialization_AeonSpyNetworkInnerCircle",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2009,
+    "flavour_text": "",
+    "description": {
+        "desc": "Inner Circle now affects all Champions within two slots of Aeon and its pre-stack effect is increased by 75%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_upgrade_data,15196,1",
+            "data": {
+                "targets": [
+                    {
+                        "type": "distance",
+                        "distance": 2
+                    }
+                ]
+            }
+        },
+        {
+            "effect_string": "buff_upgrade,75,15196,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Powerful Patronage** (Guess)
+> Increase the pre-stack effect of Challenge Accepted by 150% while on a patron adventure/variant/free play for the week's chosen patron.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2010,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the pre-stack effect of Challenge Accepted by 150% while on a patron adventure/variant/free play for the week's chosen patron."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,150,15198,0",
+            "amount_func": "if",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "OnPatronAdventure(aeon_current_patron_id)"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
