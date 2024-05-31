@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| A Justiciar Among Us | 31 May | **Shadowheart** | Arkhan | Makos | Gale | Karlach | Golden Epic |
 | Barovian | 07 Jun | **Ezmerelda** | Celeste | Asharra | Dark Urge | Hew Maan | Golden Epic |
 | Epic Helm | 14 Jun | **Ravengard** | Nayeli | Jarlaxle | Lae'zel | Wyll | Golden Epic |
 | Health & Happiness | 21 Jun | **Selise** | Bruenor | Makos | Virgil | Kent | Golden Epic |
