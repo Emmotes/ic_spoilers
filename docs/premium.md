@@ -5,20 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Ms. Squiggles the Octopus Familiar Pack - $11.99  
-Date of release: 03 Jun 2024
-
-Contents:
-
-* Familiar: `Ms. Squiggles the Octopus`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Wyrm Slayer Ezmerelda Theme Pack - $27.99  
 Date of release: 05 Jun 2024
 
