@@ -96,15 +96,6 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     </span>
 </span>
 
-# Formation
-
-Unknown.
-{% comment %}
-<span class="formationBorder">
-    ![Formation Layout](images/wren/formation.png)
-</span>
-{% endcomment %}
-
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
