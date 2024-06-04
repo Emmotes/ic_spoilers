@@ -170,7 +170,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
 </span>
 
-## Mixed 10 Variants - 31 July 2024
+## Mixed 9 Variants - 31 July 2024
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
