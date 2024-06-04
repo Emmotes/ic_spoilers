@@ -85,22 +85,28 @@ These are the event champions that are upcoming and all the information we know 
 The upcoming Evergreen champion we're aware of.
 
 <span class="indexChampionTableColumn">
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="wren.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+            ![Wren Portrait Icon](images/wren/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Unknown (Maybe Wren)
+                Wren
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Unknown</span>
+                <span class="indexChampionTableNoLink">Dwarf / Tabaxi / Warforged Monk / Barbarian / Sorcerer (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Fortune's Wheel 6 - 24 July 2024 (Guess)</span>
             </span>
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Reworked Champions
