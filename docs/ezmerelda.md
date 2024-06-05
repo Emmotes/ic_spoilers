@@ -8,7 +8,7 @@
 
 # Ezmerelda
 
-Ezmerelda d'Avenir, a Vistana monster hunter, has devoted herself to ridding the world of evil in all of its forms. After years of tutelage by her mentor, the vampire hunter Rudolph van Richten, Ezmerelda struck out on her own. She has since amassed a sizable personal fortune and an impressive arsenal of weapons for hunting monsters. Following the defeat of Strahd von Zarovich, Ezmerelda joins the Champions on their journeys through the world of Toril.
+Ezmerelda (Ez) d'Avenir, a legendary monster hunter, has devoted herself to ridding the world of evil in all of its forms. After years of tutelage by her mentor, the vampire hunter Rudolph van Richten, Ez struck out on her own. She has since amassed a sizable personal fortune and an impressive arsenal of weapons for hunting monsters. Following the defeat of Strahd von Zarovich, Ez joins the Champions on their journeys through the world of Toril.
 
 # Changes
 
