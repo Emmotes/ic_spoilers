@@ -315,39 +315,6 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> Every week, Aeon targets one Patron for infiltration. Aeon can be used in any Patron adventure or variant for her current Patron target, even if she would not normally be available to be used due to variant or patron restrictions.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 2025,
-    "flavour_text": "",
-    "description": {
-        "desc": "Every week, Aeon targets one Patron for infiltration. Aeon can be used in any Patron adventure or variant for her current Patron target, even if she would not normally be available to be used due to variant or patron restrictions."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "do_nothing,0"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": false,
-        "formation_circle_icon": false,
-        "show_in_owner_outgoing": false,
-        "not_a_buff": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Network of Espionage** (Guess)
 > Every week, Aeon targets one Patron for infiltration. Aeon can be used in any Patron adventure or variant for her current Patron target, even if she would not normally be available to be used due to variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
