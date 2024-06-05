@@ -6,24 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Dragondown - June
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="binwin" style="background-image:url(images/portraits/binwin.png)">Binwin (3)</span>
-<span class="eventRosterChampion" id="korth" style="background-image:url(images/portraits/korth.png)">Korth (2)</span>
-<span class="eventRosterChampion" id="nova" style="background-image:url(images/portraits/nova.png)">Nova (11)</span>
-<span class="eventRosterChampion" id="shaka" style="background-image:url(images/portraits/shaka.png)">Shaka (9)</span>
-<span class="eventRosterChampion" id="selise" style="background-image:url(images/portraits/selise.png)">Selise (12)</span>
-<span class="eventRosterChampion" id="dm" style="background-image:url(images/portraits/dm.png)">DM (6)</span>
-<span class="eventRosterChampion" id="merilwen" style="background-image:url(images/portraits/merilwen.png)">Merilwen (2)</span>
-<span class="eventRosterChampion" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)</span>
-<span class="eventRosterChampion" id="ravengard" style="background-image:url(images/portraits/ravengard.png)">Ravengard (8)</span>
-</span>
-
-{:/nomarkdown}
-
 # Founders' Day - July
 
 {::nomarkdown}
@@ -220,6 +202,24 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)</span>
 <span class="eventRosterChampion" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)</span>
 <span class="eventRosterChampion" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)</span>
+</span>
+
+{:/nomarkdown}
+
+# Dragondown - June
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="binwin" style="background-image:url(images/portraits/binwin.png)">Binwin (3)</span>
+<span class="eventRosterChampion" id="korth" style="background-image:url(images/portraits/korth.png)">Korth (2)</span>
+<span class="eventRosterChampion" id="nova" style="background-image:url(images/portraits/nova.png)">Nova (11)</span>
+<span class="eventRosterChampion" id="shaka" style="background-image:url(images/portraits/shaka.png)">Shaka (9)</span>
+<span class="eventRosterChampion" id="selise" style="background-image:url(images/portraits/selise.png)">Selise (12)</span>
+<span class="eventRosterChampion" id="dm" style="background-image:url(images/portraits/dm.png)">DM (6)</span>
+<span class="eventRosterChampion" id="merilwen" style="background-image:url(images/portraits/merilwen.png)">Merilwen (2)</span>
+<span class="eventRosterChampion" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)</span>
+<span class="eventRosterChampion" id="ravengard" style="background-image:url(images/portraits/ravengard.png)">Ravengard (8)</span>
 </span>
 
 {:/nomarkdown}
