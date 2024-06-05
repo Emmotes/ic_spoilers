@@ -13,28 +13,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="ravengard.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Duke Ravengard Portrait Icon](images/ravengard/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Duke Ravengard
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dragondown - 5 June 2024</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="aeon.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -114,28 +92,6 @@ The upcoming Evergreen champion we're aware of.
 A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
-{::nomarkdown}
-<a href="ezmerelda.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Ezmerelda Portrait Icon](images/ezmerelda/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Ezmerelda
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Wizard / Fighter</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dragondown - 5 June 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
     <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
             ![Rosie Beestinger Portrait Icon](images/rosie/portrait.png)
