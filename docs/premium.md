@@ -5,36 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Wyrm Slayer Ezmerelda Theme Pack - $27.99  
-Date of release: 05 Jun 2024
-
-Contents:
-
-* Champion: `Ezmerelda`
-* Skin: `Wyrm Slayer Ezmerelda`
-* Feat: `Grievous Wounds` (Ezmerelda)
-* Familiar: `Strahd Target Practice Doll`
-* Chests: `Silver Ezmerelda Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Wyrm Slayer Ravengard Theme Pack - $27.99  
-Date of release: 05 Jun 2024
-
-Contents:
-
-* Champion: `Duke Ravengard`
-* Skin: `Wyrm Slayer Ravengard`
-* Feat: `Illithid Tadpole` (Ravengard)
-* Familiar: `Rusty the Rust Monster`
-* Chests: `Gold  Duke Ravengard Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Solarya the Ki-rin Familiar Pack - $11.99  
 Date of release: 12 Jun 2024
 

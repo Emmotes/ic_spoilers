@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Ezmerelda</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Grievous Wounds Icon](images/featicons/ezmereldagrievouswounds.png)<span class="featTooltipContents">**Grievous Wounds (Ezmerelda)**Healing spells cannot save you from my blade!<code>global_dps_multiplier_mult,50<br>vicious_damage,10<br></code></span>Grievous Wounds
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage & Prevent Healing for 10s</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>05 Jun 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>BBEG</span>
         </span>
         <span class="featTableIcon4">

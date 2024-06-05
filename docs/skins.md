@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Wyrm Slayer Ezmerelda Portrait](images/skin_portraits/wyrmslayerezmerelda.png)Wyrm Slayer Ezmerelda
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Wyrm Slayer Ezmerelda Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">05 Jun 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Wyrm Slayer Ravengard Portrait](images/skin_portraits/wyrmslayerravengard.png)Wyrm Slayer Ravengard
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Wyrm Slayer Ravengard Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">05 Jun 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Wyrm Slayer BBEG Portrait](images/skin_portraits/wyrmslayerbbeg.png)Wyrm Slayer BBEG
         </span>
         <span class="skinTableSource">
