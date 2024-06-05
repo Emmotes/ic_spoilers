@@ -86,12 +86,9 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/aeon/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Aeon" fill="#aaa" data-formationName="Aeon" data-campaignName="Founders' Day" width="312" height="160"><circle cx="175" cy="65" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="65" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Aeon</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Founders' Day</text></svg>
 </span>
-{% endcomment %}
 
 # Abilities
 
@@ -123,11 +120,11 @@ Unknown.
             "shoot_sound": 149,
             "hit_sound": 133,
             "projectile_details": {
-                "hash": "ca7467c80e4d9c689e04b38d4141e3e2",
+                "hash": "cane_wand",
                 "target_offset_y": 0,
                 "projectile_speed": 2000,
                 "projectile_graphic_id": 23696,
-                "projectile_hit_graphic_id": 23698,
+                "projectile_hit_graphic_id": 23697,
                 "trail": {
                     "particle_graphic_ids": [
                         "23696"
@@ -179,7 +176,7 @@ Unknown.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Cane Wand** (Magic)
-> Aeon fires an energy bolt from her cane at the closest enemy for one hit.  
+> Aeon fires an energy bolt from her cane at the closest enemy that hits all enemies in a line.  
 > Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -187,7 +184,7 @@ Unknown.
 {
     "id": 771,
     "name": "Cane Wand",
-    "description": "Aeon fires an energy bolt from her cane at the closest enemy for one hit.",
+    "description": "Aeon fires an energy bolt from her cane at the closest enemy that hits all enemies in a line.",
     "long_description": "",
     "graphic_id": 0,
     "target": "front",
@@ -205,14 +202,13 @@ Unknown.
             "shoot_sound": 149,
             "hit_sound": 133,
             "projectile_details": {
-                "hash": "ca7467c80e4d9c689e04b38d4141e3e2",
+                "hash": "cane_wand_buffed",
                 "target_offset_y": 0,
-                "projectile_speed": 2500,
+                "projectile_speed": 2000,
                 "move_across_entire_screen": true,
                 "hit_monsters_moved_through": true,
-                "line_thickness": 100,
                 "projectile_graphic_id": 23696,
-                "projectile_hit_graphic_id": 23698,
+                "projectile_hit_graphic_id": 23697,
                 "trail": {
                     "particle_graphic_ids": [
                         "23696"
@@ -234,8 +230,8 @@ Unknown.
                     "rotation_jitter": 0,
                     "alpha_lerp": {
                         "0": 0,
-                        "1": 0,
-                        "0.1": 0.75
+                        "0.1": 0.75,
+                        "1": 0
                     },
                     "scale_lerp": [
                         {
@@ -266,9 +262,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Deuce**
 > Aeon's mechanical monkey Deuce deals one ultimate hit to each enemy and knocks them back a short distance.  
-> Cooldown: 6s (Cap 1.5s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 360s (Cap 90s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -281,8 +275,8 @@ Unknown.
     "target": "front",
     "num_targets": 1,
     "aoe_radius": 0,
-    "damage_modifier": 1,
-    "cooldown": 6,
+    "damage_modifier": 0.03,
+    "cooldown": 360,
     "animations": [
         {
             "type": "ultimate_attack",
@@ -295,10 +289,8 @@ Unknown.
                 "sweep_duration": 0.5,
                 "angle": 60,
                 "screen_edge_offset": 200,
-                "segment_graphics": [
-                    "Effect_AeonCaneBlast"
-                ],
-                "hit_effect_graphic": "Effect_AeonUltBeam_Hit",
+                "beam_graphic": "Effect_AeonCaneBlast",
+                "impact_graphic": "Effect_AeonUltBeam_Hit",
                 "segment_width": 15,
                 "distance_adjustment": -20,
                 "scale": 1,
@@ -316,6 +308,39 @@ Unknown.
     "damage_types": [
         "magic"
     ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Every week, Aeon targets one Patron for infiltration. Aeon can be used in any Patron adventure or variant for her current Patron target, even if she would not normally be available to be used due to variant or patron restrictions.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2025,
+    "flavour_text": "",
+    "description": {
+        "desc": "Every week, Aeon targets one Patron for infiltration. Aeon can be used in any Patron adventure or variant for her current Patron target, even if she would not normally be available to be used due to variant or patron restrictions."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": false,
+        "formation_circle_icon": false,
+        "show_in_owner_outgoing": false,
+        "not_a_buff": true
+    }
 }
 </pre>
 </p>
@@ -367,7 +392,8 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Inner Circle** (Guess)
-> Aeon increases the damage of adjacent Champions by 100% for each Champion in the formation that is eligible for the patron she is infiltrating this week, stacking multiplicatively.
+> Aeon increases the damage of adjacent Champions by 100% for each Champion in the formation that is eligible for the patron she is infiltrating this week, stacking multiplicatively.  
+> Only Champions that start the adventure eligible, or Champions with equipped feats that make them eligible, will count for this ability.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -377,7 +403,7 @@ Unknown.
     "id": 2003,
     "flavour_text": "",
     "description": {
-        "desc": "Aeon increases the damage of adjacent Champions by $(amount)% for each Champion in the formation that is eligible for the patron she is infiltrating this week, stacking multiplicatively."
+        "desc": "Aeon increases the damage of adjacent Champions by $(amount)% for each Champion in the formation that is eligible for the patron she is infiltrating this week, stacking multiplicatively.^Only Champions that start the adventure eligible, or Champions with equipped feats that make them eligible, will count for this ability."
     },
     "effect_keys": [
         {
@@ -400,7 +426,8 @@ Unknown.
                 "slot_changed",
                 "aeon_active_patron_changed"
             ],
-            "show_bonus": true
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
@@ -535,7 +562,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Immediate Infiltration** (Guess)
-> Increase the effect of Inner Circle by 100% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 10 times per area and resetting when changing areas.
+> Increases the effect of Inner Circle by 100% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 10 times per area and resetting when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -543,7 +570,7 @@ Unknown.
     "id": 2006,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of Inner Circle by $(not_buffed amount)% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 10 times per area and resetting when changing areas."
+        "desc": "Increases the effect of Inner Circle by $(not_buffed amount)% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 10 times per area and resetting when changing areas."
     },
     "effect_keys": [
         {
@@ -580,7 +607,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Play The Long Game** (Guess)
-> Increase the effect of Inner Circle by 0.1% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 1,000,000 times and persisting until you reset the adventure.
+> Increases the effect of Inner Circle by 0.1% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 1,000,000 times and persisting until you reset the adventure.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -588,7 +615,7 @@ Unknown.
     "id": 2007,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of Inner Circle by $(not_buffed amount)% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 1,000,000 times and persisting until you reset the adventure."
+        "desc": "Increases the effect of Inner Circle by $(not_buffed amount)% each time Uncover Weakness applies a Stolen Secrets stack, stacking additively up to 1,000,000 times and persisting until you reset the adventure."
     },
     "effect_keys": [
         {
@@ -697,7 +724,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Powerful Patronage** (Guess)
-> Increase the pre-stack effect of Challenge Accepted by 150% while on a patron adventure/variant/free play for the week's chosen patron.
+> Increases the pre-stack effect of Challenge Accepted by 150% while on a patron adventure/variant/free play for the week's chosen patron.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -705,7 +732,7 @@ Unknown.
     "id": 2010,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the pre-stack effect of Challenge Accepted by 150% while on a patron adventure/variant/free play for the week's chosen patron."
+        "desc": "Increases the pre-stack effect of Challenge Accepted by 150% while on a patron adventure/variant/free play for the week's chosen patron."
     },
     "effect_keys": [
         {
@@ -799,7 +826,29 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Party Crashers (Aeon) Icon](images/aeon/3406.png) **Unlock Adventure: Party Crashers (Aeon)** (Complete Area 50)
+> Save Waterdeep from the chaos of a Founders' Day gone awry.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Mechanical Mayhem Icon](images/aeon/23824.png) **Variant 1: Mechanical Mayhem** (Complete Area 75)
+> 1-2 Iron Defenders spawn with each wave. They don't drop gold nor count towards quest progress.  
+> Aeon starts in the formation. She can't be moved or removed.  
+> Only Champions next to Aeon can deal damage.  
+> Getting to Know Aeon: Aeon buffs Champions next to her. Place your damage dealer next to her for the best effect!
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Spy's Strategy Icon](images/aeon/23825.png) **Variant 2: Spy's Strategy** (Complete Area 125)
+> Aeon starts in the formation. She can't be moved or removed.  
+> You may only use core Champions and/or Champions eligible for Aeon's current Patron.  
+> Getting to Know Aeon: Aeon's main buff is made stronger by using Champions that are eligible for the Patron she is currently infiltrating.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Discovered Secrets Icon](images/aeon/23826.png) **Variant 3: Discovered Secrets** (Complete Area 175)
+> Aeon starts in the formation. She can't be moved or removed.  
+> Only monsters that have a debuff can take damage.  
+> Getting to Know Aeon: Aeon's attacks debuff monsters, making them take additional damage. Use her and other debuffing Champions to make it so you can damage these monsters!
+</div></div>
 
 # Other Champion Images
 
