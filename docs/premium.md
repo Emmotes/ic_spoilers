@@ -12,7 +12,7 @@ Contents:
 
 * Champion: `Ezmerelda`
 * Skin: `Wyrm Slayer Ezmerelda`
-* Feat: ???
+* Feat: `Grievous Wounds` (Ezmerelda)
 * Familiar: `Strahd Target Practice Doll`
 * Chests: `Silver Ezmerelda Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
@@ -147,7 +147,7 @@ Contents:
 * Skin: `Detective Umberto`
 * Feat: ???
 * Familiar: `Coconut the Polar Bear Cub`
-* Chests: `Gold  Y7E14 Chest` x16 (Shinies x2)
+* Chests: `Gold Umberto Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 

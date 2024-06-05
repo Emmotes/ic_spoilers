@@ -30,6 +30,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Ezmerelda</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Grievous Wounds Icon](images/featicons/ezmereldagrievouswounds.png)<span class="featTooltipContents">**Grievous Wounds (Ezmerelda)**Healing spells cannot save you from my blade!<code>global_dps_multiplier_mult,50<br>vicious_damage,10<br></code></span>Grievous Wounds
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage & Prevent Healing for 10s</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>05 Jun 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>BBEG</span>
         </span>
         <span class="featTableIcon4">
@@ -549,6 +566,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Ezmerelda</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Monster Tracker Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Monster Tracker (Ezmerelda)**If I've fought it - I can track it.<code>buff_upgrade_effect_stacks_trigger_add,2,15039,1</code></span>Monster Tracker
+        </span>
+        <span class="featTableEffect">
+            <span>+2 Stacks to Threat Tracking When Triggered</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Gromma</span>
         </span>
         <span class="featTableIcon4">
@@ -787,6 +821,57 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Ravengard</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Heart of Battle Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<code>persist_effect_stacks,40,15030</code></span>Heart of Battle
+        </span>
+        <span class="featTableEffect">
+            <span>40% of Critical Teamwork Stacks Persist When Reset</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ravengard</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Morale Boost (Ravengard)**This is what our soldiers needed - hope.<code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
+        </span>
+        <span class="featTableEffect">
+            <span>+20 Max Stacks to Critical Teamwork</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ravengard</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Spirit of Confidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Spirit of Confidence (Ravengard)**One person can change the entire battle.<code>persist_effect_stacks,20,15030</code></span>Spirit of Confidence
+        </span>
+        <span class="featTableEffect">
+            <span>20% of Critical Teamwork Stacks Persist When Reset</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Regis</span>
         </span>
         <span class="featTableIcon4">
@@ -1015,6 +1100,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>25% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ezmerelda</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Ravenloft's Rival Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Ravenloft's Rival (Ezmerelda)**We will save this land by killing the devil of Ravenloft!<code>buff_upgrades,40,15041,15042,15043</code></span>Ravenloft's Rival
+        </span>
+        <span class="featTableEffect">
+            <span>40% All Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>12,500 Gems</span>

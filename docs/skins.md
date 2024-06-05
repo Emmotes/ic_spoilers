@@ -67,20 +67,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)Wyrm Slayer Warduke
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Wyrm Slayer Celebration</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">13 Jun 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Robe of the Weave Gale Portrait](images/skin_portraits/robeoftheweavegale.png)Robe of the Weave Gale
         </span>
         <span class="skinTableSource">
@@ -250,6 +236,20 @@ Please be aware that the developers recently removed most future skins from the 
     <span class="skinTableRow">
         <span class="skinTableIcon">
             ![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)Baldur's Gate Duke Ravengard
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Gem Shop</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">20,000</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">26 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)Wyrm Slayer Warduke
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Gem Shop</span>
