@@ -135,7 +135,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Swarmstaff** (Ranged)
-> Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit and adds a swarming bee stack.  
+> Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit and adding a swarming bee stack.  
 > Cooldown: 5.5s (Cap 1.375s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -143,7 +143,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
 {
     "id": 767,
     "name": "Swarmstaff",
-    "description": "Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit and adds a swarming bee stack.",
+    "description": "Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit and adding a swarming bee stack.",
     "long_description": "",
     "graphic_id": 0,
     "target": "front",
@@ -284,7 +284,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Beehive Barrage** (Guess)
-> Every second, Umberto's staff spawns 1 swarming bees, which buzz around the staff, up to a maximum of 10 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing 1s of BUD-based damage for each bee. A maximum of 5 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation.
+> Every second, Umberto's staff spawns 1 swarming bees, which buzz around the staff, up to a maximum of 10 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees sting them, dealing 1s of BUD-based damage for each bee. A maximum of 5 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -294,11 +294,11 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
     "description": {
         "conditions": [
             {
-                "condition": "compare amount___2 == 1",
-                "desc": "Every second, Umberto's staff spawns a swarming bee, which buzzes around the staff, up to a maximum of $max_bees___2 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing $(seconds_plural amount) of BUD-based damage for each bee. A maximum of $max_bees_per_enemy___2 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
+                "condition": "compare amount___3 == 1",
+                "desc": "Every second, Umberto's staff spawns a swarming bee, which buzzes around the staff, up to a maximum of $max_bees___3 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees sting them, dealing $(seconds_plural amount) of BUD-based damage for each bee. A maximum of $amount___2 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
             },
             {
-                "desc": "Every second, Umberto's staff spawns $amount___2 swarming bees, which buzz around the staff, up to a maximum of $max_bees___2 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees stings them, dealing $(seconds_plural amount) of BUD-based damage for each bee. A maximum of $max_bees_per_enemy___2 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
+                "desc": "Every second, Umberto's staff spawns $amount___3 swarming bees, which buzz around the staff, up to a maximum of $max_bees___3 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees sting them, dealing $(seconds_plural amount) of BUD-based damage for each bee. A maximum of $amount___2 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
             }
         ]
     },
@@ -309,9 +309,12 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
         },
         {
             "off_when_benched": true,
+            "effect_string": "umberto_max_bees_per_enemy,5"
+        },
+        {
+            "off_when_benched": true,
             "effect_string": "umberto_beehive_barrage,1",
             "max_bees": 10,
-            "max_bees_per_enemy": 5,
             "bee_graphic": 22718,
             "bee_offset_x": 64,
             "bee_offset_y": -98,
@@ -332,7 +335,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
         "retain_on_slot_changed": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 1
+        "default_bonus_index": 2
     }
 }
 </pre>
@@ -359,7 +362,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
     "id": 1993,
     "flavour_text": "",
     "description": {
-        "desc": "Pick an Investigation to pursue. Umberto gains stacks of Clue, and can start another Investigation after the Investigation concludes. Each Clue stack increases Detective's Entourage by $amount%, stacking multiplicatively. Caps at $max_stacks stacks. Once you are capped, additional Investigations are not offered. Clue stacks persist between areas and reset when the adventure ends.",
+        "desc": "Pick an Investigation to pursue. Umberto gains stacks of Clue, and can start another Investigation after the Investigation concludes. Each Clue stack increases Detective's Entourage by $(not_buffed amount)%, stacking multiplicatively. Caps at $max_stacks stacks. Once you are capped, additional Investigations are not offered. Clue stacks persist between areas and reset when the adventure ends.",
         "post": {
             "conditions": [
                 {
@@ -377,11 +380,6 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
             "max_stacks": 100,
             "stack_title": "Clue Stacks",
             "show_bonus": true
-        },
-        {
-            "effect_string": "stacks_data_binder_safe,0,umberto_clue_stacks",
-            "is_instanced_stat": true,
-            "use_stat_defs": true
         },
         {
             "effect_string": "umberto_ongoing_investigation",
@@ -409,7 +407,33 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
                     "stack_gain_time_interval": 10800,
                     "stacks_gained_at_end": 17
                 }
-            ]
+            ],
+            "variant_investigations": [
+                {
+                    "name_key": "umberto_investigation_1_name",
+                    "desc_key": "umberto_investigation_1_desc_variant",
+                    "completion_time": 1800,
+                    "stacks_gained_immediately": 10,
+                    "stacks_lost_at_end": 9
+                },
+                {
+                    "name_key": "umberto_investigation_2_name",
+                    "desc_key": "umberto_investigation_2_desc_variant",
+                    "completion_time": 7200,
+                    "stacks_gained_periodically": 1,
+                    "stack_gain_time_interval": 1800,
+                    "stacks_gained_at_end": 3
+                },
+                {
+                    "name_key": "umberto_investigation_3_name",
+                    "desc_key": "umberto_investigation_3_desc_variant",
+                    "completion_time": 21600,
+                    "stacks_gained_periodically": 1,
+                    "stack_gain_time_interval": 2700,
+                    "stacks_gained_at_end": 17
+                }
+            ],
+            "variant_adventure_id": 1512
         }
     ],
     "requirements": "",
@@ -513,11 +537,15 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
             "show_bonus": true,
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`lawful`)",
-            "amount_func": "mult"
+            "amount_func": "mult",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 23769,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
@@ -559,11 +587,15 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
             "show_bonus": true,
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`unaffiliated`)",
-            "amount_func": "mult"
+            "amount_func": "mult",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 23768,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
@@ -605,11 +637,15 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
             "show_bonus": true,
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`ranger`) || HasTag(`druid`)",
-            "amount_func": "mult"
+            "amount_func": "mult",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 23767,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
@@ -648,7 +684,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 23770,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
@@ -680,7 +716,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 23771,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
@@ -711,7 +747,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 23772,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
