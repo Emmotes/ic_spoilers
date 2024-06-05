@@ -114,7 +114,7 @@ A list of champions that will be seeing reworks in upcoming events.
 
 Miscellaneous spoilers with due dates.
 
-* Emergence 8 - 24 July 2024
+* [Emergence 8](emergence_8.md) - 24 July 2024
 
 # Misc
 
