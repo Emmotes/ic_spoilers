@@ -14,6 +14,9 @@
         ![Model GIF of Wren](images/wren/model.gif)Base Model
     </span>
     <span class="championPortraitsImage">
+        ![Alternate Model GIF of Wren: Dwarf Astral Arms](images/wren/model-dwarf-astral-arms.gif)Dwarf Astral Arms Model
+    </span>
+    <span class="championPortraitsImage">
         ![Alternate Model GIF of Wren: Tabaxi](images/wren/model-tabaxi.gif)Tabaxi Model
     </span>
     <span class="championPortraitsImage">
