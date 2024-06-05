@@ -109,6 +109,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)Wyrm Slayer Warduke
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Wyrm Slayer Celebration (Date is a Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">19 Jun 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Chibi Birdsong Portrait](images/skin_portraits/chibibirdsong.png)Chibi Birdsong
         </span>
         <span class="skinTableSource">
@@ -245,20 +259,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">26 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)Wyrm Slayer Warduke
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
     <span class="skinTableRow">
