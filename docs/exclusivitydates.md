@@ -15,329 +15,6 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="e5a" onclick="exclusiveToggleContent(`e5`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Emergence 5 Icon](images/general/e5.png)**Emergence 5** - Astral Elves
-            </span>
-        </span>
-        <span id="e5" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Fields of Green Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Fields of Green</span>
-                        <span style="margin-left:15px">D'hani (80% Chance to Apply Stroke of Green)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Prodigal Leader</span>
-                        <span style="margin-left:15px">Gazrick (50% All Champion Damage)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Caged Dreams Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Caged Dreams</span>
-                        <span style="margin-left:15px">Miria (80% Soul Cage)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Fiery Tempest Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Fiery Tempest</span>
-                        <span style="margin-left:15px">Karlach (80% The Fury of Avernus)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Spelljammer Pilot Strix Skin Icon](images/exclusivities/skin_21701.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Spelljammer Pilot Strix</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Spelljammer Pilot Miria Skin Icon](images/exclusivities/skin_21784.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Spelljammer Pilot Miria</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Virgil Slot 5](images/exclusivities/ge_16585.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Rapid Fire</span>
-                        <span style="margin-left:15px">Virgil (Slot 5)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Karlach Slot 2](images/exclusivities/ge_21844.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Health</span>
-                        <span style="margin-left:15px">Karlach (Slot 2)</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>24 January 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>08 March 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>08 June 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="s6a" onclick="exclusiveToggleContent(`s6`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Season 6 Icon](images/general/s6.png)**Season 6** - Elemental Rebirth
-            </span>
-        </span>
-        <span id="s6" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Research Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Research</span>
-                        <span style="margin-left:15px">Zorbu (40% Know Your Enemy)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Chosen of Gith Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Chosen of Gith</span>
-                        <span style="margin-left:15px">Nrakk (40% All Specialisations)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Hunter's Hex Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Hunter's Hex</span>
-                        <span style="margin-left:15px">Warden (+2 Max Hex Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Actor Feat Icon](images/featicons/attributeboost.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Actor</span>
-                        <span style="margin-left:15px">Korth (Stat: +1 Charisma)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Nimble Feat Icon](images/featicons/attributeboost.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Nimble</span>
-                        <span style="margin-left:15px">Sisaspia (Stat: +1 Dexterity)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Wolf Pack Feat Icon](images/featicons/otherabilityincrease.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Wolf Pack</span>
-                        <span style="margin-left:15px">Zorbu (Stat: +1 Dexterity & 400% Hunter's Pack)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Centered Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Centered</span>
-                        <span style="margin-left:15px">Nrakk (80% Ki Master (Prestack))</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Beguiling Hex Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Beguiling Hex</span>
-                        <span style="margin-left:15px">Warden (+4 Max Hex Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Iaido Feat Icon](images/featicons/otherabilityincrease.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Iaido</span>
-                        <span style="margin-left:15px">Korth (+1 Extra Dex to Samurai Training)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Fungal Colony Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Fungal Colony</span>
-                        <span style="margin-left:15px">Sisaspia (+10 Max Spore Reserve)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Elemental Zorbu Skin Icon](images/exclusivities/skin_21778.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Elemental Zorbu</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Elemental Nrakk Skin Icon](images/exclusivities/skin_21413.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Elemental Nrakk</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Elemental Warden Skin Icon](images/exclusivities/skin_21452.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Elemental Warden</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Elemental Korth Skin Icon](images/exclusivities/skin_21409.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Elemental Korth</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Elemental Sisaspia Skin Icon](images/exclusivities/skin_21774.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Elemental Sisaspia</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Nrakk Slot 1](images/exclusivities/ge_2711.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All Champion Damage</span>
-                        <span style="margin-left:15px">Nrakk (Slot 1)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Dexterous Modron Core Icon](images/exclusivities/core_7.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Modron Core**</span>
-                        <span style="margin-left:15px">Dexterous Core</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Bash the Earth Elemental Familiar Icon](images/exclusivities/fam_181.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Bash the Earth Elemental</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>08 November 2023</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>03 January 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>03 July 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -2189,6 +1866,329 @@ This is the list of recurring events that have had their exclusivity period end.
             </span>
             <span class="postSeasonTableDate">
                 <span>08 May 2024</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="s6a" onclick="exclusiveToggleContent(`s6`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Season 6 Icon](images/general/s6.png)**Season 6** - Elemental Rebirth
+            </span>
+        </span>
+        <span id="s6" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Research Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Research</span>
+                        <span style="margin-left:15px">Zorbu (40% Know Your Enemy)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Chosen of Gith Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Chosen of Gith</span>
+                        <span style="margin-left:15px">Nrakk (40% All Specialisations)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Hunter's Hex Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Hunter's Hex</span>
+                        <span style="margin-left:15px">Warden (+2 Max Hex Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Actor Feat Icon](images/featicons/attributeboost.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Actor</span>
+                        <span style="margin-left:15px">Korth (Stat: +1 Charisma)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Nimble Feat Icon](images/featicons/attributeboost.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Nimble</span>
+                        <span style="margin-left:15px">Sisaspia (Stat: +1 Dexterity)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Wolf Pack Feat Icon](images/featicons/otherabilityincrease.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Wolf Pack</span>
+                        <span style="margin-left:15px">Zorbu (Stat: +1 Dexterity & 400% Hunter's Pack)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Centered Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Centered</span>
+                        <span style="margin-left:15px">Nrakk (80% Ki Master (Prestack))</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Beguiling Hex Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Beguiling Hex</span>
+                        <span style="margin-left:15px">Warden (+4 Max Hex Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Iaido Feat Icon](images/featicons/otherabilityincrease.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Iaido</span>
+                        <span style="margin-left:15px">Korth (+1 Extra Dex to Samurai Training)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Fungal Colony Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Fungal Colony</span>
+                        <span style="margin-left:15px">Sisaspia (+10 Max Spore Reserve)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Elemental Zorbu Skin Icon](images/exclusivities/skin_21778.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Elemental Zorbu</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Elemental Nrakk Skin Icon](images/exclusivities/skin_21413.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Elemental Nrakk</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Elemental Warden Skin Icon](images/exclusivities/skin_21452.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Elemental Warden</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Elemental Korth Skin Icon](images/exclusivities/skin_21409.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Elemental Korth</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Elemental Sisaspia Skin Icon](images/exclusivities/skin_21774.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Elemental Sisaspia</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Nrakk Slot 1](images/exclusivities/ge_2711.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">All Champion Damage</span>
+                        <span style="margin-left:15px">Nrakk (Slot 1)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Dexterous Modron Core Icon](images/exclusivities/core_7.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Modron Core**</span>
+                        <span style="margin-left:15px">Dexterous Core</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Bash the Earth Elemental Familiar Icon](images/exclusivities/fam_181.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Bash the Earth Elemental</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>08 November 2023</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>03 January 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>05 June 2024</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e5a" onclick="exclusiveToggleContent(`e5`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 5 Icon](images/general/e5.png)**Emergence 5** - Astral Elves
+            </span>
+        </span>
+        <span id="e5" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Fields of Green Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Fields of Green</span>
+                        <span style="margin-left:15px">D'hani (80% Chance to Apply Stroke of Green)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Prodigal Leader</span>
+                        <span style="margin-left:15px">Gazrick (50% All Champion Damage)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Caged Dreams Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Caged Dreams</span>
+                        <span style="margin-left:15px">Miria (80% Soul Cage)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Fiery Tempest Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Fiery Tempest</span>
+                        <span style="margin-left:15px">Karlach (80% The Fury of Avernus)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Spelljammer Pilot Strix Skin Icon](images/exclusivities/skin_21701.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Spelljammer Pilot Strix</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Spelljammer Pilot Miria Skin Icon](images/exclusivities/skin_21784.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Spelljammer Pilot Miria</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Virgil Slot 5](images/exclusivities/ge_16585.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Rapid Fire</span>
+                        <span style="margin-left:15px">Virgil (Slot 5)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Karlach Slot 2](images/exclusivities/ge_21844.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Health</span>
+                        <span style="margin-left:15px">Karlach (Slot 2)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>24 January 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>08 March 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>05 June 2024</span>
             </span>
         </span>
     </span>
