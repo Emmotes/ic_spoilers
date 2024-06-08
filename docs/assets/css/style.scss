@@ -946,3 +946,35 @@ input[type="checkbox"]:checked::before {
 	justify-content: flex-start;
 	align-items: center;
 }
+.patronRosterGrid {
+	display: grid;
+	grid-template-columns: 5px repeat(7, max-content 12px) max-content 5px;
+	grid-template-rows: max-content;
+	grid-row-gap: 5px;
+}
+.patronRosterItem {
+	height: 30px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-width: 1px 0;
+	border-style: solid;
+	border-color: black;
+	background-color: #1a1a1a;
+}
+.patronRosterItem input[type="checkbox"] {
+	transform: translateY(-0.15em);
+}
+.patronRosterLeft {
+	justify-content: flex-start;
+}
+.patronRosterRight {
+	justify-content: flex-end;
+}
+.patronRosterBorderLeft {
+	border-left: 1px solid black;
+}
+.patronRosterBorderRight {
+	border-right: 1px solid black;
+}

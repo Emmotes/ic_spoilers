@@ -6,144 +6,4531 @@ A list of all champions and their patron availability.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: Before Elminster's release - Justin said that Evergreens won't be available in Elminster variants - but they are. This could be a bug and might change or he could have changed his mind.*
 
-<table><thead><tr><th style="text-align:right;width:25px;">ID</th><th style="width:80px;">Champion</th><th style="text-align:right;width:25px;">Seat</th><th style="width:90px;">Mirt</th><th style="width:90px;">Vajra</th><th style="width:90px;">Strahd</th><th style="width:90px;">Zariel</th><th style="width:142px;">Elminster</th></tr></thead>
-<tbody><tr><td style="text-align:right">1</td><td>Bruenor</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">2</td><td>Celeste</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">3</td><td>Nayeli</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">4</td><td>Jarlaxle</td><td style="text-align:right">4</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">5</td><td>Calliope</td><td style="text-align:right">5</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">6</td><td>Asharra</td><td style="text-align:right">6</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">7</td><td>Minsc</td><td style="text-align:right">7</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">8</td><td>Delina</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">9</td><td>Makos</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">10</td><td>Tyril</td><td style="text-align:right">10</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">11</td><td>Jamilah</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">12</td><td>Arkhan</td><td style="text-align:right">12</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">13</td><td>Hitch</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">14</td><td>Stoki</td><td style="text-align:right">4</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">15</td><td>Krond</td><td style="text-align:right">6</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">16</td><td>Gromma</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2027-05-01</label></td></tr>
-<tr><td style="text-align:right">17</td><td>Dhadius</td><td style="text-align:right">5</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2027-03-06</label></td></tr>
-<tr><td style="text-align:right">18</td><td>Drizzt</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">19</td><td>Barrowin</td><td style="text-align:right">10</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">20</td><td>Regis</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">21</td><td>Birdsong</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">22</td><td>Zorbu</td><td style="text-align:right">12</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">23</td><td>Strix</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">24</td><td>Nrakk</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">25</td><td>Catti-brie</td><td style="text-align:right">7</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">26</td><td>Evelyn</td><td style="text-align:right">6</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">27</td><td>Binwin</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">28</td><td>Deekin</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">29</td><td>Xander</td><td style="text-align:right">5</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">30</td><td>Azaka</td><td style="text-align:right">12</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">31</td><td>Ishi</td><td style="text-align:right">4</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">32</td><td>Wulfgar</td><td style="text-align:right">10</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">33</td><td>Farideh</td><td style="text-align:right">7</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">34</td><td>Donaar</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">35</td><td>Vlahnya</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">36</td><td>Warden</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">37</td><td>Nerys</td><td style="text-align:right">12</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">38</td><td>K'thriss</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">39</td><td>Paultin</td><td style="text-align:right">4</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">40</td><td>Black Viper</td><td style="text-align:right">7</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">41</td><td>Rosie</td><td style="text-align:right">10</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">42</td><td>Aila</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">43</td><td>Spurt</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">44</td><td>Qillek</td><td style="text-align:right">5</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">45</td><td>Korth</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">46</td><td>Walnut</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">47</td><td>Shandie</td><td style="text-align:right">6</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">48</td><td>Jim</td><td style="text-align:right">7</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">49</td><td>Turiel</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">50</td><td>Pwent</td><td style="text-align:right">5</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">51</td><td>Avren</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">52</td><td>Sentry</td><td style="text-align:right">4</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">53</td><td>Krull</td><td style="text-align:right">6</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">54</td><td>Artemis</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">55</td><td>Môrgæn</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">56</td><td>Havilar</td><td style="text-align:right">10</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">57</td><td>Sisaspia</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">58</td><td>Briv</td><td style="text-align:right">5</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">59</td><td>Melf</td><td style="text-align:right">12</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">60</td><td>Krydle</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">61</td><td>Jaheira</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">62</td><td>Nova</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">63</td><td>Freely</td><td style="text-align:right">7</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">64</td><td>B&G</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">65</td><td>Omin</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">66</td><td>Lazaapz</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">67</td><td>Dragonbait</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">68</td><td>Ulkoria</td><td style="text-align:right">10</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">69</td><td>Torogar</td><td style="text-align:right">10</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">70</td><td>Ezmerelda</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2027-06-05</label></td></tr>
-<tr><td style="text-align:right">71</td><td>Penelope</td><td style="text-align:right">12</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2027-04-03</label></td></tr>
-<tr><td style="text-align:right">72</td><td>Lucius</td><td style="text-align:right">7</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">73</td><td>Baeloth</td><td style="text-align:right">4</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">74</td><td>Talin</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">75</td><td>Hew Maan</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">76</td><td>Orisha</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">77</td><td>Alyndra</td><td style="text-align:right">6</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">78</td><td>Orkira</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">79</td><td>Shaka</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">80</td><td>Mehen</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">81</td><td>Selise</td><td style="text-align:right">12</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-06-08</label></td></tr>
-<tr><td style="text-align:right">82</td><td>Sgt. Knox</td><td style="text-align:right">6</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-06-29</label></td></tr>
-<tr><td style="text-align:right">83</td><td>Ellywick</td><td style="text-align:right">10</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-07-20</label></td></tr>
-<tr><td style="text-align:right">84</td><td>Prudence</td><td style="text-align:right">5</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-08-10</label></td></tr>
-<tr><td style="text-align:right">85</td><td>Corazón</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-08-31</label></td></tr>
-<tr><td style="text-align:right">86</td><td>Reya</td><td style="text-align:right">6</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td></tr>
-<tr><td style="text-align:right">87</td><td>NERDS</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-08-31</label></td></tr>
-<tr><td style="text-align:right">88</td><td>Xerophon</td><td style="text-align:right">7</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-11-30</label></td></tr>
-<tr><td style="text-align:right">89</td><td>D'hani</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-09-28</label></td></tr>
-<tr><td style="text-align:right">90</td><td>Brig</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-10-19</label></td></tr>
-<tr><td style="text-align:right">91</td><td>Widdle</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-11-09</label></td></tr>
-<tr><td style="text-align:right">92</td><td>Yorven</td><td style="text-align:right">10</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-12-07</label></td></tr>
-<tr><td style="text-align:right">93</td><td>Viconia</td><td style="text-align:right">5</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2024-12-21</label></td></tr>
-<tr><td style="text-align:right">94</td><td>Rust</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-01-11</label></td></tr>
-<tr><td style="text-align:right">95</td><td>Vi</td><td style="text-align:right">12</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-02-01</label></td></tr>
-<tr><td style="text-align:right">96</td><td>Desmond</td><td style="text-align:right">4</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-02-22</label></td></tr>
-<tr><td style="text-align:right">97</td><td>Tatyana</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-03-08</label></td></tr>
-<tr><td style="text-align:right">98</td><td>Gazrick</td><td style="text-align:right">7</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-04-05</label></td></tr>
-<tr><td style="text-align:right">99</td><td>DM</td><td style="text-align:right">6</td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td></tr>
-<tr><td style="text-align:right">100</td><td>Nordom</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-05-17</label></td></tr>
-<tr><td style="text-align:right">101</td><td>Merilwen</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-06-07</label></td></tr>
-<tr><td style="text-align:right">102</td><td>Nahara</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-06-28</label></td></tr>
-<tr><td style="text-align:right">103</td><td>Valentine</td><td style="text-align:right">5</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-07-19</label></td></tr>
-<tr><td style="text-align:right">104</td><td>Voronika</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-08-09</label></td></tr>
-<tr><td style="text-align:right">105</td><td>Dob</td><td style="text-align:right">12</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-08-30</label></td></tr>
-<tr><td style="text-align:right">106</td><td>Blooshi</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-03-22</label></td></tr>
-<tr><td style="text-align:right">113</td><td>Egbert</td><td style="text-align:right">7</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-09-27</label></td></tr>
-<tr><td style="text-align:right">114</td><td>Kent</td><td style="text-align:right">4</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-10-18</label></td></tr>
-<tr><td style="text-align:right">115</td><td>Virgil</td><td style="text-align:right">10</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-11-08</label></td></tr>
-<tr><td style="text-align:right">116</td><td>Warduke</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-11-29</label></td></tr>
-<tr><td style="text-align:right">117</td><td>Imoen</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2025-12-20</label></td></tr>
-<tr><td style="text-align:right">118</td><td>Fen</td><td style="text-align:right">6</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-01-10</label></td></tr>
-<tr><td style="text-align:right">119</td><td>Uriah</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-02-07</label></td></tr>
-<tr><td style="text-align:right">120</td><td>Solaak</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-02-21</label></td></tr>
-<tr><td style="text-align:right">121</td><td>Miria</td><td style="text-align:right">12</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-03-14</label></td></tr>
-<tr><td style="text-align:right">122</td><td>Antrius</td><td style="text-align:right">4</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-04-11</label></td></tr>
-<tr><td style="text-align:right">123</td><td>Nixie</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-05-02</label></td></tr>
-<tr><td style="text-align:right">124</td><td>Evandra</td><td style="text-align:right">5</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-05-23</label></td></tr>
-<tr><td style="text-align:right">125</td><td>BBEG</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-06-06</label></td></tr>
-<tr><td style="text-align:right">126</td><td>Strongheart</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-06-27</label></td></tr>
-<tr><td style="text-align:right">127</td><td>Vin Ursa</td><td style="text-align:right">7</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-07-25</label></td></tr>
-<tr><td style="text-align:right">128</td><td>Lae'zel</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-08-15</label></td></tr>
-<tr><td style="text-align:right">129</td><td>Astarion</td><td style="text-align:right">10</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-09-03</label></td></tr>
-<tr><td style="text-align:right">136</td><td>Krux</td><td style="text-align:right">4</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-07-18</label></td></tr>
-<tr><td style="text-align:right">138</td><td>Certainty</td><td style="text-align:right">5</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-09-26</label></td></tr>
-<tr><td style="text-align:right">139</td><td>Thellora</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-10-17</label></td></tr>
-<tr><td style="text-align:right">140</td><td>Jang Sao</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-11-07</label></td></tr>
-<tr><td style="text-align:right">141</td><td>Shadowheart</td><td style="text-align:right">6</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-11-28</label></td></tr>
-<tr><td style="text-align:right">142</td><td>Wyll</td><td style="text-align:right">12</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2026-12-19</label></td></tr>
-<tr><td style="text-align:right">143</td><td>Karlach</td><td style="text-align:right">4</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2027-01-09</label></td></tr>
-<tr><td style="text-align:right">144</td><td>Presto</td><td style="text-align:right">2</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2027-01-30</label></td></tr>
-<tr><td style="text-align:right">145</td><td>Dynaheir</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2027-02-20</label></td></tr>
-<tr><td style="text-align:right">146</td><td>Dark Urge</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td></tr>
-<tr><td style="text-align:right">147</td><td>Gale</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td></tr>
-<tr><td style="text-align:right">148</td><td>Diana</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2027-05-01</label></td></tr>
-<tr><td style="text-align:right">149</td><td>Ravengard</td><td style="text-align:right">8</td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2027-06-05</label></td></tr>
-</tbody></table>
+{::nomarkdown}
+<span class="patronRosterGrid">
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        <strong>ID</strong>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <strong>Name</strong>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        <strong>Seat</strong>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <strong>Mirt</strong>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <strong>Vajra</strong>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <strong>Strahd</strong>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <strong>Zariel</strong>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <strong>Elminster</strong>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Bruenor
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Celeste
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Nayeli
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Jarlaxle
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Calliope
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Asharra
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Minsc
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Delina
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Makos
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Tyril
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Jamilah
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Arkhan
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        13
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Hitch
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        14
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Stoki
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        15
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Krond
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        16
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Gromma
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-05-01
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        17
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Dhadius
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-03-06
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        18
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Drizzt
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        19
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Barrowin
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        20
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Regis
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        21
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Birdsong
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        22
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Zorbu
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        23
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Strix
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        24
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Nrakk
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        25
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Catti-brie
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        26
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Evelyn
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        27
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Binwin
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        28
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Deekin
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        29
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Xander
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        30
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Azaka
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        31
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Ishi
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        32
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Wulfgar
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        33
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Farideh
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        34
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Donaar
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        35
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Vlahnya
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        36
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Warden
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        37
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Nerys
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        38
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        K'thriss
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        39
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Paultin
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        40
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Black Viper
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        41
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Rosie
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        42
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Aila
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        43
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Spurt
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        44
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Qillek
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        45
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Korth
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        46
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Walnut
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        47
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Shandie
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        48
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Jim
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        49
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Turiel
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        50
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Pwent
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        51
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Avren
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        52
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Sentry
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        53
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Krull
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        54
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Artemis
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        55
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Môrgæn
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        56
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Havilar
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        57
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Sisaspia
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        58
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Briv
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        59
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Melf
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        60
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Krydle
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        61
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Jaheira
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        62
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Nova
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        63
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Freely
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        64
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Grimm
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        65
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Omin
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        66
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Lazaapz
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        67
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Dragonbait
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        68
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Ulkoria
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        69
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Torogar
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        70
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Ezmerelda
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-06-05
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        71
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Penelope
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-04-03
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        72
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Lucius
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        73
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Baeloth
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        74
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Talin
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        75
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Hew Maan
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        76
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Orisha
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        77
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Alyndra
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        78
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Orkira
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        79
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Shaka
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        80
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Mehen
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        81
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Selise
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-06-08
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        82
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Sgt. Knox
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-06-29
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        83
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Ellywick
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-07-20
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        84
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Prudence
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-08-10
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        85
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Corazón
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-08-31
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        86
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Reya
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        87
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        NERDS
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-08-31
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        88
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Xerophon
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-11-30
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        89
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        D'hani
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-09-28
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        90
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Brig
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-10-19
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        91
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Widdle
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-11-09
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        92
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Yorven
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-12-07
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        93
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Viconia
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-12-21
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        94
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Rust
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-01-11
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        95
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Vi
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-02-01
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        96
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Desmond
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-02-22
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        97
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Tatyana
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-03-08
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        98
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Gazrick
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-04-05
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        99
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Dungeon Master
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        100
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Nordom
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-05-17
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        101
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Merilwen
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-06-07
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        102
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Nahara
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-06-28
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        103
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Valentine
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-07-19
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        104
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Voronika
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-08-09
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        105
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Dob
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-08-30
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        106
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Blooshi
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-03-22
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        113
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Egbert
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-09-27
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        114
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Kent
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-10-18
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        115
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Virgil
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-11-08
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        116
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Warduke
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-11-29
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        117
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Imoen
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-12-20
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        118
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Fen
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-01-10
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        119
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Uriah
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-02-07
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        120
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Solaak
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-02-21
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        121
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Miria
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-03-14
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        122
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Antrius
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-04-11
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        123
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Nixie
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-05-02
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        124
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Evandra
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-05-23
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        125
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        BBEG
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-06-06
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        126
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Strongheart
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-06-27
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        127
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Vin Ursa
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-07-25
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        128
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Lae'zel
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-08-15
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        129
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Astarion
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-09-03
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        136
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Krux
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-07-18
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        138
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Certainty
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        5
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-09-26
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        139
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Thellora
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-10-17
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        140
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Jang Sao
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-11-07
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        141
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Shadowheart
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        6
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-11-28
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        142
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Wyll
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2026-12-19
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        143
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Karlach
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        4
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-01-09
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        144
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Presto
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        2
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-01-30
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        145
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Dynaheir
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-02-20
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        146
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Dark Urge
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        11
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        147
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Gale
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        1
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        148
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Diana
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        9
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-05-01
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        149
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Ravengard
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        8
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-06-05
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+</span><br>
+{:/nomarkdown}
 
 [Back to Top](#top)
 
