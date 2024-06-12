@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>BBEG</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Encounter Builder Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Encounter Builder (BBEG)**Okay, you hide behind the door. Wait for all of them to come in and then attack!<code>buff_upgrade,80,11539</code></span>Encounter Builder
-        </span>
-        <span class="featTableEffect">
-            <span>80% Evil Overlord</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>12 Jun 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Selise</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Nowhere to Run Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Nowhere to Run (Selise)**Did you really think you could get away?<code>buff_upgrade,80,13745</code></span>Nowhere to Run
-        </span>
-        <span class="featTableEffect">
-            <span>80% Vow of Vengeance</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>12 Jun 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Korth</span>
         </span>
         <span class="featTableIcon4">

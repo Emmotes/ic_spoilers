@@ -5,50 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Solarya the Ki-rin Familiar Pack - $11.99  
-Date of release: 12 Jun 2024
-
-Contents:
-
-* Familiar: `Solarya the Ki-rin`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Wyrm Slayer BBEG Skin & Feat Pack - $11.99  
-Date of release: 12 Jun 2024
-
-Contents:
-
-* Champion: `Bartholemew Beelzebub Ezekiel Grubbe`
-* Skin: `Wyrm Slayer BBEG`
-* Feat: `Encounter Builder` (BBEG)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold BBEG Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Wyrm Slayer Selise Skin & Feat Pack - $11.99  
-Date of release: 12 Jun 2024
-
-Contents:
-
-* Champion: `Selise Astorio`
-* Skin: `Wyrm Slayer Selise`
-* Feat: `Nowhere to Run` (Selise)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Selise Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Wyrm Slayer Korth Skin & Feat Pack - $11.99  
 Date of release: 19 Jun 2024
 

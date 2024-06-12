@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Wyrm Slayer BBEG Portrait](images/skin_portraits/wyrmslayerbbeg.png)Wyrm Slayer BBEG
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Wyrm Slayer BBEG Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">12 Jun 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Wyrm Slayer Selise Portrait](images/skin_portraits/wyrmslayerselise.png)Wyrm Slayer Selise
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Wyrm Slayer Selise Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">12 Jun 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Robe of the Weave Gale Portrait](images/skin_portraits/robeoftheweavegale.png)Robe of the Weave Gale
         </span>
         <span class="skinTableSource">
