@@ -84,10 +84,10 @@ Please be aware that the developers recently removed most future skins from the 
             ![Spymaster Aeon Portrait](images/skin_portraits/spymasteraeon.png)Spymaster Aeon
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Spymaster Aeon Theme Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$27.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">03 Jul 2024</span>
@@ -109,7 +109,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Infiltrator Nahara
+            ![Infiltrator Nahara Portrait](images/skin_portraits/infiltratornahara.png)Infiltrator Nahara
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Infiltrator Nahara Skin & Feat Pack</span>
@@ -151,6 +151,48 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Air Genasi Glitch Valentine
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Secret Agent Maan Portrait](images/skin_portraits/secretagentmaan.png)Secret Agent Maan
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Emergence 8</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Tabaxi Glitch Shandie Portrait](images/skin_portraits/tabaxiglitchshandie.png)Tabaxi Glitch Shandie
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Emergence 8</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Triton Glitch Nayeli Portrait](images/skin_portraits/tritonglitchnayeli.png)Triton Glitch Nayeli
         </span>
         <span class="skinTableSource">
@@ -175,6 +217,48 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Chibi Shadowheart Portrait](images/skin_portraits/chibishadowheart.png)Chibi Shadowheart
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Chibi Shadowheart Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">31 Jul 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Archdruid Voronika Portrait](images/skin_portraits/archdruidvoronika.png)Archdruid Voronika
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">14 Aug 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Persistent Lae'zel Portrait](images/skin_portraits/persistentlaezel.png)Persistent Lae'zel
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Lae'zel's Champions of Renown Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$69.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">31 Aug 2024</span>
         </span>
     </span>
     <span class="skinTableRow">

@@ -183,6 +183,91 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Ravengard</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Heart of Battle Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<code>persist_effect_stacks,40,15030</code></span>Heart of Battle
+        </span>
+        <span class="featTableEffect">
+            <span>40% of Critical Teamwork Stacks Persist When Reset</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ulkoria</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Better Every Day Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Better Every Day (Ulkoria)**You should do something every day to get you closer to your next goal!<code>buff_upgrade,80,4347,2</code></span>Better Every Day
+        </span>
+        <span class="featTableEffect">
+            <span>80% Watchful Order</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Valentine</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Air Genasi Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Air Genasi Glitch (Valentine)**Huh. Well, at least I still look good in black.<code>add_hero_tags,0,genasi<br>change_hero_alignment_tag,chaotic,evil</code></span>Air Genasi Glitch
+        </span>
+        <span class="featTableEffect">
+            <span>Counts as Genasi & Change Alignment to Chaotic Evil</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Shadowheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Combat Healer Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Combat Healer (Shadowheart)**I prefer to cast these spells out of combat - but if it will help, so be it.</span>Combat Healer
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>31 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Lae'zel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Absolute Trust Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Absolute Trust (Lae'zel)**You have proven yourself worthy of my trust. For now.<code>buff_upgrade,80,12113</code></span>Absolute Trust
+        </span>
+        <span class="featTableEffect">
+            <span>80% Lethal Coordination</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>14 Aug 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Voronika</span>
         </span>
         <span class="featTableIcon4">
@@ -196,6 +281,108 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>14 Aug 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Jim</span>
+        </span>
+        <span class="featTableIcon0">
+            ![Be Amazed! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Be Amazed! (Jim)**... Seriously, guys, come on! Be amazed!<code>buff_upgrade,80,12130</code></span>Be Amazed!
+        </span>
+        <span class="featTableEffect">
+            <span>80% Magical Mystery Tour</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Aug 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Omin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/featicons/unknown.png)I'm a Man in Finance
+        </span>
+        <span class="featTableEffect">
+            <span>80% Adventuring Capital</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 Aug 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>D'hani</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fresh Pigments Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Fresh Pigments (D'hani)**We need more yellow? Oh, that's fine - I've got red and green!<code>buff_upgrade,80,13713,0</code></span>Fresh Pigments
+        </span>
+        <span class="featTableEffect">
+            <span>80% Chance to Apply Splash of Yellow</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Sept 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Wulfgar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Wulfgar)**We are NOT done yet! This battle is far from over!<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Sept 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Certainty</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Tenacious (Certainty)**If I can survive quarterly meetings, I can survive this!<code>increase_ability_score,con,2</code></span>Tenacious
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Constitution</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>18 Sept 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Farideh</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Mehen's Pride Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Mehen's Pride (Farideh)**You may be stronger than me, but you're not stronger than my sister!<code>buff_upgrade,80,6974</code></span>Mehen's Pride
+        </span>
+        <span class="featTableEffect">
+            <span>80% Sister, Sister</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>18 Sept 2024</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -345,23 +532,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>D'hani</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Buff Yellow Paint Chance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Buff Yellow Paint Chance (D'hani)**<code>buff_upgrade,80,13713,0</code></span>Buff Yellow Paint Chance
-        </span>
-        <span class="featTableEffect">
-            <span>80% Chance to Apply Splash of Yellow</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>10 Nov 2030</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>BBEG</span>
         </span>
         <span class="featTableIcon4">
@@ -454,23 +624,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>+120% Crit Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Certainty</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Tenacious (Certainty)**If I can survive quarterly meetings, I can survive this!<code>increase_ability_score,con,2</code></span>Tenacious
-        </span>
-        <span class="featTableEffect">
-            <span>Stat: +2 Constitution</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -760,23 +913,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>400% Self DPS & Prevent Healing for 10s</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Ravengard</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Heart of Battle Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<code>persist_effect_stacks,40,15030</code></span>Heart of Battle
-        </span>
-        <span class="featTableEffect">
-            <span>40% of Critical Teamwork Stacks Persist When Reset</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

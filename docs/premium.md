@@ -79,6 +79,21 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Spymaster Aeon Theme Pack - $27.99  
+Date of release: 03 Jul 2024
+
+Contents:
+
+* Champion: `Aeon`
+* Skin: `Spymaster Aeon`
+* Feat: ???
+* Familiar: `Deuce the Clockwork Monkey`
+* Chests: `Gold Aeon Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Detective Deekin Skin & Feat Pack - $11.99  
 Date of release: 10 Jul 2024
 
@@ -177,6 +192,61 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Havilar Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Chibi Shadowheart Skin & Feat Pack - $11.99  
+Date of release: 31 Jul 2024
+
+Contents:
+
+* Champion: `Shadowheart`
+* Skin: `Chibi Shadowheart`
+* Feat: `Combat Healer` (Shadowheart)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold  Shadowheart Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Sherlock Combs the Bee Familiar Pack - $16.99  
+Date of release: 31 Jul 2024
+
+Contents:
+
+* Familiar: `Sherlock Combs the Bee`
+* Buff: `Huge Potion of Speed` x6
+* Buff: `Huge Potion of Giant's Strength` x6
+* Buff: `Huge Potion of Clairvoyance` x6
+* Buff: `Huge Potion of Fire Breath` x6
+* Buff: `Potion of the Gold Hunter` x1
+* Modron: `Upgrade Components` x2,000
+* Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Lae'zel's Champions of Renown Pack - $69.99  
+Date of release: 31 Aug 2024
+
+Contents:
+
+* Champion: `Lae'zel`
+* Skin: `Persistent Lae'zel`
+* Chests: `Gold Lae'zel Chest` x16 (Shinies x2)
+* Champion: `Gale`
+* Chests: `Gold Gale Chest` x16 (Shinies x2)
+* Champion: `Karlach`
+* Chests: `Gold  Karlach Chest` x16 (Shinies x2)
+* Champion: `Hew Maan`
+* Chests: `Gold Hew Maan Chest` x16 (Shinies x2)
+* Champion: `Nordom Whistleklik`
+* Chests: `Gold Nordom Chest` x16 (Shinies x2)
+* Familiar: `Snuggles the Sphynx Cat`
+* Buff: `Potion of the Gem Hunter` x1
+* Buff: `Potion of the Gold Hunter` x1
 </div></div>
 
 
