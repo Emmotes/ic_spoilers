@@ -63,6 +63,15 @@ We know the next Emergence event will be Planescape and that it will start on 24
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
+            ![Unknown Feat Icon](images/general/unknown.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Unknown</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
             <span class="emergenceShopFeatIcon4">![Air Genasi Glitch Feat Icon](images/emergence_8/feat_1867.png)</span>
         </span>
         <span class="emergenceShopTableTextColumn">
