@@ -123,7 +123,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
         {
             "type": "melee_attack",
             "target_offset_x": -34,
-            "damage_frame": 2,
+            "damage_frame": 12,
             "jump_sound": 30,
             "sound_frames": {
                 "2": 154
@@ -163,7 +163,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
         {
             "type": "melee_attack",
             "target_offset_x": -34,
-            "damage_frame": 2,
+            "damage_frame": 12,
             "jump_sound": 30,
             "sound_frames": {
                 "2": 154
@@ -206,7 +206,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
         {
             "type": "melee_attack",
             "target_offset_x": -34,
-            "damage_frame": 2,
+            "damage_frame": 4,
             "jump_sound": 30,
             "sound_frames": {
                 "2": 154
@@ -246,7 +246,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
         {
             "type": "melee_attack",
             "target_offset_x": -34,
-            "damage_frame": 2,
+            "damage_frame": 4,
             "jump_sound": 30,
             "sound_frames": {
                 "2": 154
@@ -458,6 +458,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
             "projectile_details": {
                 "hash": "wren_time_stop",
                 "target_offset_y": 10,
+                "face_target": false,
                 "projectile_speed": 300,
                 "time_to_target": 1,
                 "trail": {
@@ -481,7 +482,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
                     "rotation_jitter": 0,
                     "alpha_lerp": {
                         "0": 0,
-                        "0.1": 0.75,
+                        "0.1": 0.5,
                         "1": 0
                     },
                     "scale_lerp": [
@@ -494,7 +495,12 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
                             "y": 0
                         }
                     ],
-                    "tint": "#00FFFFFF"
+                    "tint_lerp": {
+                        "0": "#00FFFF",
+                        "0.3": "#00CCFF",
+                        "0.7": "#0066AA",
+                        "0.9": "#001177"
+                    }
                 }
             }
         }
@@ -553,7 +559,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     "id": 2013,
     "flavour_text": "",
     "description": {
-        "desc": " Wren increases the damage of all Champions in her column (including herself) and the column behind her by $(amount)%."
+        "desc": "Wren increases the damage of all Champions in her column (including herself) and the column behind her by $(amount)%."
     },
     "effect_keys": [
         {
@@ -591,11 +597,11 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     "effect_keys": [
         {
             "effect_string": "expression_on_trigger,area_complete",
-            "per_trigger_expr": "{ AppendToSaveStat(`wren_monk_yearn_stacks`, false, 1) AppendToSaveStat(`wren_barbarian_yearn_stacks`, false, 1) AppendToSaveStat(`wren_sorcerer_yearn_stacks`, false, 1) }"
+            "per_trigger_expr": "{ AppendToSaveStat(`wren_monk_yearn_stacks`, false, trigger_count) AppendToSaveStat(`wren_barbarian_yearn_stacks`, false, trigger_count) AppendToSaveStat(`wren_sorcerer_yearn_stacks`, false, trigger_count) }"
         },
         {
             "effect_string": "expression_on_trigger,adventure_reset",
-            "per_trigger_expr": "{ if (GetUpgradeUnlocked(15217)) { SetSaveStat(`wren_monk_yearn_stacks`, false, 0) } if (GetUpgradeUnlocked(15218)) { SetSaveStat(`wren_barbarian_yearn_stacks`, false, 0) } if (GetUpgradeUnlocked(15219)) { SetSaveStat(`wren_sorcerer_yearn_stacks`, false, 0) } }"
+            "per_trigger_expr": "{ if (StatIsBitFlagSet(`wren_spec_bits`, false, 0)) { SetSaveStat(`wren_monk_yearn_stacks`, false, 0) } if (StatIsBitFlagSet(`wren_spec_bits`, false, 1)) { SetSaveStat(`wren_barbarian_yearn_stacks`, false, 0) } if (StatIsBitFlagSet(`wren_spec_bits`, false, 2)) { SetSaveStat(`wren_sorcerer_yearn_stacks`, false, 0) } SetSaveStat(`wren_spec_bits`, false, 0) }"
         },
         {
             "effect_string": "do_nothing",
@@ -645,10 +651,15 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
             "stack_func": "per_other_stack_count",
             "other_stack_count_expr": "((as_int(GetUpgradeUnlocked(15217)) * GetSaveStat(`wren_monk_yearn_stacks`, false)) + (as_int(GetUpgradeUnlocked(15218)) * GetSaveStat(`wren_barbarian_yearn_stacks`, false)) + (as_int(GetUpgradeUnlocked(15219)) * GetSaveStat(`wren_sorcerer_yearn_stacks`, false)))",
             "amount_updated_listeners": [
-                "area_changed"
+                "area_changed",
+                "stat_changed,wren_monk_yearn_stacks"
             ],
             "desc_forced_order": 3,
             "show_bonus": true
+        },
+        {
+            "effect_string": "expr_action",
+            "expr": "{ if (GetUpgradeUnlocked(15217)) { StatSetBitFlag(`wren_spec_bits`, false, 0) } if (GetUpgradeUnlocked(15218)) { StatSetBitFlag(`wren_spec_bits`, false, 1) } if (GetUpgradeUnlocked(15219)) { StatSetBitFlag(`wren_spec_bits`, false, 2) } }"
         }
     ],
     "requirements": "",
@@ -659,7 +670,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 6
+        "default_bonus_index": 5
     }
 }
 </pre>
@@ -714,8 +725,8 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
         },
         {
             "effect_string": "health_mult,75",
-            "amount_func": "add",
-            "stacks_multiply": false,
+            "amount_func": "mult",
+            "stacks_multiply": true,
             "stack_func": "per_other_stack_count",
             "other_stack_count_expr": "floor(min(highest_available_area,max_stacking_area)/areas_per_stack)",
             "areas_per_stack": 50,
@@ -731,6 +742,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     "large_graphic_id": 24089,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -755,7 +767,9 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     },
     "effect_keys": [
         {
+            "off_when_benched": true,
             "effect_string": "wren_incarnations_class_sorcerer,100",
+            "debuff_before_damage": true,
             "debuffing_attack_ids": [
                 774
             ],
@@ -769,8 +783,16 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
                     "max_stacks": 1,
                     "stacks_multiply": true,
                     "use_collection_source": true
+                },
+                {
+                    "effect_string": "expr_action",
+                    "expr": "{AppendToSaveStat(`wren_ignite_enemies`, false, 1) NotifyStatChanged(`WrenBirdPlane`, false)}"
                 }
             ]
+        },
+        {
+            "effect_string": "expression_on_trigger,offline_monsters_killed_by_owner",
+            "per_trigger_expr": "{AppendToSaveStat(`wren_ignite_enemies`, false, trigger_count) NotifyStatChanged(`WrenBirdPlane`, false)}"
         }
     ],
     "requirements": "",
@@ -778,7 +800,8 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     "large_graphic_id": 24091,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -801,7 +824,12 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     "effect_keys": [
         {
             "effect_string": "expression_on_trigger,owner_kill",
-            "per_trigger_expr": "ResetAttackCooldown(owner_hero_id,`base`)"
+            "triggers": [
+                {
+                    "name": "offline_monsters_killed_by_owner"
+                }
+            ],
+            "per_trigger_expr": "{ResetAttackCooldown(owner_hero_id,`base`) AppendToSaveStat(`wren_flurry_of_blows`, false, 1)  NotifyStatChanged(`WrenBirdPlane`, false)}"
         }
     ],
     "requirements": "",
@@ -819,7 +847,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Glitch Trick** (Guess)
-> Wren increases the health of all other Champions by 25% of her max health, and any healing effect on those Champions is increased by 25%.
+> Wren increases the health of all other Champions by 25% of her max health, and healing effects on all Champions is increased by 25%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -827,7 +855,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     "id": 2019,
     "flavour_text": "",
     "description": {
-        "desc": "Wren increases the health of all other Champions by $(amount)% of her max health, and any healing effect on those Champions is increased by $(amount___2)%."
+        "desc": "Wren increases the health of all other Champions by $(amount)% of her max health, and healing effects on all Champions is increased by $(amount___2)%."
     },
     "effect_keys": [
         {
@@ -901,7 +929,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     "id": 2021,
     "flavour_text": "",
     "description": {
-        "desc": "Wren increases the effect of Hero's Call by $(amount)% for each Turn of Fortune's Wheel adventure, variant, or patron variant completed, stacking multiplicatively."
+        "desc": "Wren increases the effect of Hero's Call by $(not_buffed amount)% for each Turn of Fortune's Wheel adventure, variant, or patron variant completed, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -930,7 +958,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Dwarf Monk** (Guess)
-> Wren remains in her dwarf monk form, unlocks the Astral Self Form ultimate, and focuses on her dps role. She also gains +4 DEX and +4 WIS.
+> Wren remains in her dwarf monk form, unlocks the Astral Self Form ultimate, and focuses on her DPS role. She also gains +4 DEX and +4 WIS.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -938,7 +966,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     "id": 2022,
     "flavour_text": "",
     "description": {
-        "desc": "Wren remains in her dwarf monk form, unlocks the Astral Self Form ultimate, and focuses on her dps role. She also gains +$(amount) DEX and +$(amount___2) WIS."
+        "desc": "Wren remains in her dwarf monk form, unlocks the Astral Self Form ultimate, and focuses on her DPS role. She also gains +$(amount) DEX and +$(amount___2) WIS."
     },
     "effect_keys": [
         {
@@ -995,7 +1023,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Tabaxi Barbarian** (Guess)
-> Wren remains in her dwarf monk form, unlocks the Astral Self Form ultimate, and focuses on her dps role. She also gains +4 STR and +4 CON.
+> Wren takes on the form of a Tabaxi Barbarian. She unlocks the Colossal Rage ultimate, the Battleaxe base attack, gains 20 overwhelm, and focuses on her Tanking role. She also gains +4 STR and +4 CON.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1003,7 +1031,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     "id": 2023,
     "flavour_text": "",
     "description": {
-        "desc": "Wren remains in her dwarf monk form, unlocks the Astral Self Form ultimate, and focuses on her dps role. She also gains +$(amount) STR and +$(amount___2) CON."
+        "desc": "Wren takes on the form of a Tabaxi Barbarian. She unlocks the Colossal Rage ultimate, the Battleaxe base attack, gains 20 overwhelm, and focuses on her Tanking role. She also gains +$(amount) STR and +$(amount___2) CON."
     },
     "effect_keys": [
         {
@@ -1015,10 +1043,11 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
         {
             "effect_string": "wren_colossal_rage",
             "buff_indicies": [
-                6,
                 7,
                 8,
-                9
+                9,
+                10,
+                11
             ],
             "change_crusader_world_graphic_id": 24045,
             "change_crusader_portrait_graphic_id": 24054,
@@ -1026,6 +1055,9 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
         },
         {
             "effect_string": "change_base_attack,773"
+        },
+        {
+            "effect_string": "overwhelm_start_increase,20"
         },
         {
             "effect_string": "set_ultimate_attack,776"
@@ -1048,6 +1080,11 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
         {
             "apply_manually": true,
             "effect_string": "fire_things_transformed,1"
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "expr_action",
+            "expr": "{AppendToSaveStat(`wren_grow_size`, false, 1) NotifyStatChanged(`WrenBirdPlane`, false)}"
         }
     ],
     "requirements": "",
@@ -1070,7 +1107,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Warforged Sorcerer** (Guess)
-> Wren remains in her dwarf monk form, unlocks the Astral Self Form ultimate, and focuses on her dps role. She also gains +4 INT and +4 CHA.
+> Wren takes on the form of a Warforged Sorcerer. She unlocks the Time Stop ultimate, the Fire Bolt base attack, and focuses on her Debuff role. She also gains +4 INT and +4 CHA.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1078,7 +1115,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     "id": 2024,
     "flavour_text": "",
     "description": {
-        "desc": "Wren remains in her dwarf monk form, unlocks the Astral Self Form ultimate, and focuses on her dps role. She also gains +$(amount) INT and +$(amount___2) CHA."
+        "desc": "Wren takes on the form of a Warforged Sorcerer. She unlocks the Time Stop ultimate, the Fire Bolt base attack, and focuses on her Debuff role. She also gains +$(amount) INT and +$(amount___2) CHA."
     },
     "effect_keys": [
         {
@@ -1095,12 +1132,12 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
             "override_name": "sorcerer",
             "debuff_effects": [
                 {
-                    "effect_string": "monster_speed_reduce,100",
-                    "active_graphic_y": -45,
-                    "active_graphic_id": 24056
+                    "effect_string": "time_stop"
                 },
                 {
-                    "effect_string": "increase_monster_damage,400"
+                    "effect_string": "increase_monster_damage,400",
+                    "active_graphic_y": -45,
+                    "active_graphic_id": 24056
                 }
             ]
         },
