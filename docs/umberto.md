@@ -187,7 +187,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
     "target": "front",
     "num_targets": 1,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "cooldown": 5.5,
     "animations": [
         {
@@ -230,7 +230,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
     "target": "none",
     "num_targets": 0,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0,
     "cooldown": 220,
     "animations": [
         {
@@ -250,7 +250,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Detective's Entourage** (Guess)
-> Umberto increases the damage of all Champions in the two columns behind him by 100%.
+> Umberto increases the damage of all Champions in the two columns behind him by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -263,7 +263,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "hero_dps_multiplier_mult,100",
+            "effect_string": "hero_dps_multiplier_mult,400",
             "targets": [
                 "prev_two_col"
             ]
@@ -459,7 +459,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Protective Presence** (Guess)
-> Umberto increases the health of all other Champions by 25% of his max health, and any healing effect on those Champions is increased by 25%.
+> Umberto increases the health of all other Champions by 25% of his max health, and healing effects on all Champions is increased by 25%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -467,7 +467,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
     "id": 1994,
     "flavour_text": "",
     "description": {
-        "desc": "Umberto increases the health of all other Champions by $amount% of his max health, and any healing effect on those Champions is increased by $amount%."
+        "desc": "Umberto increases the health of all other Champions by $amount% of his max health, and healing effects on all Champions is increased by $amount%."
     },
     "effect_keys": [
         {
@@ -488,7 +488,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
             "effect_string": "healing_mult,0",
             "amount_expr": "upgrade_amount(15051,0)",
             "targets": [
-                "other"
+                "all"
             ],
             "skip_effect_key_desc": true
         }
@@ -676,7 +676,7 @@ Umberto will be a new champion in the Founders' Day event on 3 July 2024.
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "buff_upgrade,400,15049,1"
+            "effect_string": "buff_upgrade,400,15049"
         },
         {
             "off_when_benched": true,
@@ -852,6 +852,10 @@ Unknown.
 > Umberto starts in the formation. He can't be moved or removed.  
 > You may only use Lawful, Unaffiliated, Druid, and/or Ranger Champions.  
 > Getting to know Umberto: Umberto's first specialization choice determines which sort of Champions he is best with. Choose the best option for your formation!
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Time Gate - Party Crashers (Umberto) Icon](images/umberto/3406.png) **Variant 4: Time Gate - Party Crashers (Umberto)** ($timegateobjective)
+> No restrictions
 </div></div>
 
 # Other Champion Images
