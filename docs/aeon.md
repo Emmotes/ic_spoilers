@@ -93,7 +93,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Cane Wand** (Magic)
+**Base Attack: Cane Wand** (Ranged)
 > Aeon fires an energy bolt from her cane at the closest enemy for one hit.  
 > Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
@@ -121,7 +121,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
             "hit_sound": 133,
             "projectile_details": {
                 "hash": "cane_wand",
-                "target_offset_y": 0,
+                "target_offset_y": -20,
                 "projectile_speed": 2000,
                 "projectile_graphic_id": 23696,
                 "projectile_hit_graphic_id": 23697,
@@ -167,7 +167,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
         "ranged"
     ],
     "damage_types": [
-        "magic"
+        "ranged"
     ]
 }
 </pre>
@@ -175,7 +175,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
 </details>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Cane Wand** (Magic)
+**Base Attack: Cane Wand** (Ranged)
 > Aeon fires an energy bolt from her cane at the closest enemy that hits all enemies in a line.  
 > Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
@@ -196,17 +196,18 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
         {
             "type": "ranged_attack",
             "projectile": "pd_generic_projectile",
-            "shoot_offset_x": 42,
+            "shoot_offset_x": -50,
             "shoot_offset_y": -40,
             "shoot_frame": 8,
             "shoot_sound": 149,
             "hit_sound": 133,
             "projectile_details": {
                 "hash": "cane_wand_buffed",
-                "target_offset_y": 0,
+                "target_offset_y": -30,
                 "projectile_speed": 2000,
                 "move_across_entire_screen": true,
                 "hit_monsters_moved_through": true,
+                "line_thickness": 160,
                 "projectile_graphic_id": 23696,
                 "projectile_hit_graphic_id": 23697,
                 "trail": {
@@ -251,7 +252,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
         "ranged"
     ],
     "damage_types": [
-        "magic"
+        "ranged"
     ]
 }
 </pre>
@@ -306,7 +307,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
         "ultimate"
     ],
     "damage_types": [
-        "magic"
+        "ranged"
     ]
 }
 </pre>
@@ -329,7 +330,9 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
     "effect_keys": [
         {
             "effect_string": "aeon_network_of_espionage",
-            "off_when_benched": false
+            "off_when_benched": false,
+            "max_refresh_delay": 60,
+            "aeon_hero_id": 150
         },
         {
             "effect_string": "force_allow_hero",
@@ -445,6 +448,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
                 {
                     "effect_string": "increase_monster_damage,0",
                     "amount_expr": "upgrade_amount(15197,0)",
+                    "is_aeon_debuff": true,
                     "active_graphic_id": 23961,
                     "active_graphic_y": -120,
                     "use_stack_as_frame": true,
@@ -455,7 +459,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
                     "manual_stacking": true,
                     "max_stacks": 5,
                     "stacks_multiply": true,
-                    "use_collection_source": true,
+                    "use_collection_source": false,
                     "stack_across_effects": false
                 }
             ]
@@ -469,7 +473,8 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -709,12 +714,18 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
             "post_process_expr": "OnPatronAdventure(aeon_current_patron_id)"
         }
     ],
-    "requirements": "",
+    "requirements": [
+        {
+            "requirement": "is_on_aeon_patron_variant_or_freeplay",
+            "use_requirement_only_for_valid_spec_check": true
+        }
+    ],
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "check_requirements_on_spec_choice": true
     }
 }
 </pre>
@@ -815,6 +826,10 @@ Unknown.
 > Aeon starts in the formation. She can't be moved or removed.  
 > Only monsters that have a debuff can take damage.  
 > Getting to Know Aeon: Aeon's attacks debuff monsters, making them take additional damage. Use her and other debuffing Champions to make it so you can damage these monsters!
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Time Gate - Party Crashers (Aeon) Icon](images/aeon/3406.png) **Variant 4: Time Gate - Party Crashers (Aeon)** ($timegateobjective)
+> No restrictions
 </div></div>
 
 # Other Champion Images
