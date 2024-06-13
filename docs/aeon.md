@@ -827,10 +827,6 @@ Unknown.
 > Only monsters that have a debuff can take damage.  
 > Getting to Know Aeon: Aeon's attacks debuff monsters, making them take additional damage. Use her and other debuffing Champions to make it so you can damage these monsters!
 </div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Time Gate - Party Crashers (Aeon) Icon](images/aeon/3406.png) **Variant 4: Time Gate - Party Crashers (Aeon)** ($timegateobjective)
-> No restrictions
-</div></div>
 
 # Other Champion Images
 
