@@ -67,7 +67,7 @@ code{
 	border: 1px solid #FFEB9B;
 	background-color: #000000;
 }
-.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5,.featTableChampion,.featTableSource,.featTableDate {
+.featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5,.featTableChampion,.featTableSource,.featTableDate {
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
@@ -101,15 +101,18 @@ code{
 	border-right: 1px solid black;
 	padding: 0 1px 0 8px;
 }
-.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5 {
+.featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5 {
 	position: relative;
 	cursor: pointer;
 }
-.featTableIcon1 img,.featTableIcon2 img,.featTableIcon3 img,.featTableIcon4 img,.featTableIcon5 img {
+.featTableIcon0 img,.featTableIcon1 img,.featTableIcon2 img,.featTableIcon3 img,.featTableIcon4 img,.featTableIcon5 img {
 	margin: 5px;
 	width: 40px;
 	height: 40px;
 	object-fit: contain;
+}
+.featTableIcon0 img,.featTableIcon0:hover .featTooltipContents {
+	border: none;
 }
 .featTableIcon1 img,.featTableIcon1:hover .featTooltipContents {
 	border: 1px solid #DEE3DE;
@@ -126,7 +129,7 @@ code{
 .featTableIcon5 img,.featTableIcon5:hover .featTooltipContents {
 	border: 1px solid #FBBA37;
 }
-.featTableIcon1:hover .featTooltipContents,.featTableIcon2:hover .featTooltipContents,.featTableIcon3:hover .featTooltipContents,.featTableIcon4:hover .featTooltipContents,.featTableIcon5:hover .featTooltipContents {
+.featTableIcon0:hover .featTooltipContents,.featTableIcon1:hover .featTooltipContents,.featTableIcon2:hover .featTooltipContents,.featTableIcon3:hover .featTooltipContents,.featTableIcon4:hover .featTooltipContents,.featTableIcon5:hover .featTooltipContents {
 	visibility: visible;
 }
 .featTooltipContents {
