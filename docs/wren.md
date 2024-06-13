@@ -2,13 +2,13 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![PC Portrait for Wren](images/wren/portrait.png)Base Portait
+        ![PC Portrait for Wren](images/wren/portrait.png)Base Portrait
     </span>
     <span class="championPortraitsImage">
-        ![Alternate Portrait for Wren: Tabaxi](images/wren/portrait-tabaxi.png)Tabaxi Portait
+        ![Alternate Portrait for Wren: Tabaxi](images/wren/portrait-tabaxi.png)Tabaxi Portrait
     </span>
     <span class="championPortraitsImage">
-        ![Alternate Portrait for Wren: Warforged](images/wren/portrait-warforged.png)Warforged Portait
+        ![Alternate Portrait for Wren: Warforged](images/wren/portrait-warforged.png)Warforged Portrait
     </span>
     <span class="championPortraitsImage">
         ![Model GIF of Wren](images/wren/model.gif)Base Model
@@ -1247,17 +1247,17 @@ Unknown.
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Wren Console Portrait](images/wren/console.png)Console Portait
+            ![Wren Console Portrait](images/wren/console.png)Console Portrait
         </span>
     </span>
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Alternate Console Portrait for Wren: Tabaxi](images/wren/console-tabaxi.png)Tabaxi Console Portait
+            ![Alternate Console Portrait for Wren: Tabaxi](images/wren/console-tabaxi.png)Tabaxi Console Portrait
         </span>
     </span>
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Alternate Console Portrait for Wren: Warforged](images/wren/console-warforged.png)Warforged Console Portait
+            ![Alternate Console Portrait for Wren: Warforged](images/wren/console-warforged.png)Warforged Console Portrait
         </span>
     </span>
 </span>

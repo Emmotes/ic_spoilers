@@ -2,7 +2,7 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![PC Portrait for Aeon](images/aeon/portrait.png)Portait
+        ![PC Portrait for Aeon](images/aeon/portrait.png)Portrait
     </span>
     <span class="championPortraitsImage">
         ![Model GIF of Aeon](images/aeon/model.gif)Model
@@ -837,7 +837,7 @@ Unknown.
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Aeon Console Portrait](images/aeon/console.png)Console Portait
+            ![Aeon Console Portrait](images/aeon/console.png)Console Portrait
         </span>
     </span>
     <span class="championImagesRow">

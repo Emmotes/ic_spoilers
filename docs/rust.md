@@ -2,7 +2,7 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![PC Portrait for Rust](images/rust/portrait.png)Portait
+        ![PC Portrait for Rust](images/rust/portrait.png)Portrait
     </span>
 </span>
 

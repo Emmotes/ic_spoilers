@@ -2,7 +2,7 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![PC Portrait for Umberto](images/umberto/portrait.png)Portait
+        ![PC Portrait for Umberto](images/umberto/portrait.png)Portrait
     </span>
     <span class="championPortraitsImage">
         ![Model GIF of Umberto](images/umberto/model.gif)Base Model
@@ -863,7 +863,7 @@ Unknown.
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Umberto Console Portrait](images/umberto/console.png)Console Portait
+            ![Umberto Console Portrait](images/umberto/console.png)Console Portrait
         </span>
     </span>
     <span class="championImagesRow">

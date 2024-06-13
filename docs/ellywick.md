@@ -2,7 +2,7 @@
 
 <span class="championPortraitsRow">
     <span class="championPortraitsImage">
-        ![PC Portrait for Ellywick](images/ellywick/portrait.png)Portait
+        ![PC Portrait for Ellywick](images/ellywick/portrait.png)Portrait
     </span>
 </span>
 
