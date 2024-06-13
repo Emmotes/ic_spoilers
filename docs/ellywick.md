@@ -276,7 +276,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Missing Lord (Ellywick)** (Complete Area 50)
+![The Missing Lord (Ellywick) Icon](images/ellywick/3557.png) **Unlock Adventure: The Missing Lord (Ellywick)** (Complete Area 50)
 > Search for the absent Open Lord of Waterdeep.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
