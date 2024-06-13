@@ -231,6 +231,8 @@ Contents:
 ### Lae'zel's Champions of Renown Pack - $69.99  
 Date of release: 31 Aug 2024
 
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack will likely be for a platform giveaway and so probably won't be available for purchase.*
+
 Contents:
 
 * Champion: `Lae'zel`
