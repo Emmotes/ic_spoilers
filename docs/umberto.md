@@ -853,10 +853,6 @@ Unknown.
 > You may only use Lawful, Unaffiliated, Druid, and/or Ranger Champions.  
 > Getting to know Umberto: Umberto's first specialization choice determines which sort of Champions he is best with. Choose the best option for your formation!
 </div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Time Gate - Party Crashers (Umberto) Icon](images/umberto/3406.png) **Variant 4: Time Gate - Party Crashers (Umberto)** ($timegateobjective)
-> No restrictions
-</div></div>
 
 # Other Champion Images
 
