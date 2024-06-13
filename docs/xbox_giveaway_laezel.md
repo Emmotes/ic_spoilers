@@ -2,10 +2,10 @@
 
 # XBox Giveaway
 
-Contents of an upcoming XBox platform giveaway have been spoiled.
+Contents of an upcoming XBox exclusive platform giveaway have been spoiled.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Lae'zel's Champions of Renown Pack  
+### Lae'zel's Champions of Renown Pack - FREE  
 Date of release: 31 August 2024
 
 * Champion: `Lae'zel`
