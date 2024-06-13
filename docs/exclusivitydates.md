@@ -450,10 +450,65 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![EGS Giveaway Duke Ravengard's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Duke Ravengard's Champions of Renown Pack
+                ![WyrmSlayer Giveaway Wyrm Slayer Celebration 2024 Icon](images/general/wyrmslayer.png)**WyrmSlayer Giveaway** - Wyrm Slayer Celebration 2024
             </span>
         </span>
         <span id="g3" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Vicious Damage</span>
+                        <span style="margin-left:15px">Warduke (400% Self DPS & Prevent Healing for 10s)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Wyrm Slayer Warduke Skin Icon](images/exclusivities/skin_23457.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Wyrm Slayer Warduke</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>13 June 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>20 June 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>20 September 2024 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![EGS Giveaway Duke Ravengard's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Duke Ravengard's Champions of Renown Pack
+            </span>
+        </span>
+        <span id="g4" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -615,13 +670,13 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                <a id="g5a" onclick="exclusiveToggleContent(`g5`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![XBox Giveaway Lae'zel's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Lae'zel's Champions of Renown Pack
             </span>
         </span>
-        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+        <span id="g5" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
