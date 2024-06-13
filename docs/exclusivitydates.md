@@ -558,6 +558,51 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             </span>
         </span>
     </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![XBox Giveaway Lae'zel's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Lae'zel's Champions of Renown Pack
+            </span>
+        </span>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Snuggles the Sphynx Cat Familiar Icon](images/exclusivities/fam_210.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Snuggles the Sphynx Cat</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>31 August 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>07 September 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>07 December 2024 (Guess)</span>
+            </span>
+        </span>
+    </span>
 </span>
 
 # Old Exclusives
