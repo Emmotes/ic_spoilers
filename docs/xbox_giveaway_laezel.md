@@ -10,6 +10,7 @@ Date of release: 31 August 2024
 
 * Champion: `Lae'zel`
 * Chests: `Gold Lae'zel Chest` x16 (Shinies x2)
+* Skin: `Persistent Lae'zel`
 * Champion: `Gale`
 * Chests: `Gold Gale Chest` x16 (Shinies x2)
 * Champion: `Karlach`
