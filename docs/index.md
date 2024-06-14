@@ -176,7 +176,6 @@ Miscellaneous spoilers with due dates.
 
 * [Emergence 8](emergence_8.md) - 24 July 2024
 * [XBox Giveaway](xbox_giveaway_laezel.md) - 31 August 2024
-* [Idle Champions Presents #7](icp_7.md) - ???
 
 # Misc
 
