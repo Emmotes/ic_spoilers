@@ -77,8 +77,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "id": 24169,
-    "graphic": "Icons/Champions/Rebalance/Rust/Icon_Rust_Formation_RagstoRiches",
+    "id": 24171,
+    "graphic": "Icons/Champions/Rebalance/Rust/Icon_Specialization_RustFeverDream",
     "v": 2,
     "fs": 0,
     "p": 0,
@@ -102,8 +102,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "id": 24169,
-    "graphic": "Icons/Champions/Rebalance/Rust/Icon_Rust_Formation_RagstoRiches",
+    "id": 24172,
+    "graphic": "Icons/Champions/Rebalance/Rust/Icon_Specialization_RustGetRichQuick",
     "v": 2,
     "fs": 0,
     "p": 0,
