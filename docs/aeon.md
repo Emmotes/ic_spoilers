@@ -889,7 +889,7 @@ Upgrades:
 ![Powerful Patronage Icon](images/aeon/icon_powerfulpatronage.png) **Powerful Patronage** (Level: 250)
 > Increases the pre-stack effect of Challenge Accepted by 150% while on a patron adventure/variant/free play for the week's chosen patron.
 
-<br><span style="font-size:1.2em;">ⓘ</span> *Note: This applies prestackitively to Challenge Accepted.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This applies prestackitively to Challenge Accepted.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
