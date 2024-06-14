@@ -8,6 +8,8 @@ Upcoming real-money shop items.
 ### Wyrm Slayer Korth Skin & Feat Pack - $11.99  
 Date of release: 19 Jun 2024
 
+> Unlock Korth along with his exclusive Wyrm Slayer Skin & Feat!
+
 Contents:
 
 * Champion: `Korth`
@@ -22,6 +24,8 @@ Contents:
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Wyrm Slayer Nova Skin & Feat Pack - $11.99  
 Date of release: 19 Jun 2024
+
+> Unlock Nova along with her exclusive Wyrm Slayer Skin & Feat!
 
 Contents:
 
@@ -38,6 +42,8 @@ Contents:
 ### Alvina the Tressym Familiar Pack - $11.99  
 Date of release: 26 Jun 2024
 
+> Collect your very own Alvina the Tressym Familiar!
+
 Contents:
 
 * Familiar: `Alvina the Tressym`
@@ -51,6 +57,8 @@ Contents:
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Chibi Birdsong Skin & Feat Pack - $11.99  
 Date of release: 26 Jun 2024
+
+> Unlock Birdsong along with her exclusive Chibi Skin & Feat!
 
 Contents:
 
@@ -67,6 +75,8 @@ Contents:
 ### Detective Umberto Theme Pack - $27.99  
 Date of release: 03 Jul 2024
 
+> Unlock Umberto along with an exclusive Detective Skin & Familiar!
+
 Contents:
 
 * Champion: `Umberto`
@@ -81,6 +91,8 @@ Contents:
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Spymaster Aeon Theme Pack - $27.99  
 Date of release: 03 Jul 2024
+
+> Unlock Aeon along with an exclusive Spymaster Skin & Familiar!
 
 Contents:
 
@@ -97,6 +109,8 @@ Contents:
 ### Detective Deekin Skin & Feat Pack - $11.99  
 Date of release: 10 Jul 2024
 
+> Unlock Deekin along with his exclusive Detective Skin & Feat!
+
 Contents:
 
 * Champion: `Deekin`
@@ -111,6 +125,8 @@ Contents:
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Infiltrator Nahara Skin & Feat Pack - $11.99  
 Date of release: 10 Jul 2024
+
+> Unlock Nahara along with her exclusive Infiltrator Skin & Feat!
 
 Contents:
 
@@ -127,6 +143,8 @@ Contents:
 ### Agent Vin Ursa Skin & Feat Pack - $11.99  
 Date of release: 17 Jul 2024
 
+> Unlock Vin Ursa along with her exclusive Agent Skin & Feat!
+
 Contents:
 
 * Champion: `Vin Ursa`
@@ -141,6 +159,8 @@ Contents:
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Undercover Sgt. Knox Skin & Feat Pack - $11.99  
 Date of release: 17 Jul 2024
+
+> Unlock Sgt. Knox along with his exclusive Undercover Skin & Feat!
 
 Contents:
 
@@ -157,6 +177,8 @@ Contents:
 ### Dr. Buzz Watson the Bee Familiar Pack - $5.99  
 Date of release: 24 Jul 2024
 
+> Collect your very own Buzz Watson the Bee Familiar!
+
 Contents:
 
 * Familiar: `Dr. Buzz Watson the Bee`
@@ -169,6 +191,8 @@ Contents:
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Triton Glitch Nayeli Skin & Feat Pack - $9.99  
 Date of release: 24 Jul 2024
+
+> Unlock an exclusive Triton Glitch Skin & Feat for Nayeli!
 
 Contents:
 
@@ -183,6 +207,8 @@ Contents:
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Yuan-ti Glitch Havilar Skin & Feat Pack - $11.99  
 Date of release: 24 Jul 2024
+
+> Unlock Havilar along with her exclusive Yuan-ti Glitch Skin & Feat!
 
 Contents:
 
@@ -199,6 +225,8 @@ Contents:
 ### Chibi Shadowheart Skin & Feat Pack - $11.99  
 Date of release: 31 Jul 2024
 
+> Unlock Shadowheart along with her exclusive Chibi Skin & Feat!
+
 Contents:
 
 * Champion: `Shadowheart`
@@ -213,6 +241,8 @@ Contents:
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Sherlock Combs the Bee Familiar Pack - $16.99  
 Date of release: 31 Jul 2024
+
+> Collect your very own Sherlock Combs the Bee Familiar!
 
 Contents:
 
@@ -231,7 +261,9 @@ Contents:
 ### Lae'zel's Champions of Renown Pack - $69.99  
 Date of release: 31 Aug 2024
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack will likely be for a platform giveaway and so probably won't be available for purchase.*
+> In this Xbox Game Pass exclusive DLC, unlock 5 awesome Champions and supercharge your progress!
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack probably won't be available for purchase since it's likely to be for a platform giveaway.*
 
 Contents:
 
