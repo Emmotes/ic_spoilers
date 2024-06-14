@@ -8,6 +8,8 @@ Contents of an upcoming XBox exclusive platform giveaway have been spoiled.
 ### Lae'zel's Champions of Renown Pack - FREE  
 Date of release: 31 August 2024
 
+> In this Xbox Game Pass exclusive DLC, unlock 5 awesome Champions and supercharge your progress!
+
 * Champion: `Lae'zel`
 * Skin: `Persistent Lae'zel`
 * Chests: `Gold Lae'zel Chest` x16 (Shinies x2)
