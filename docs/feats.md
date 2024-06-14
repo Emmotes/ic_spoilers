@@ -81,6 +81,159 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Aeon</span>
+        </span>
+        <span class="featTableIcon4">
+            ![A Little Bird Said... Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**A Little Bird Said... (Aeon)**Now that folks are talking, our enemies will crumble.<code>buff_upgrade,80,15197,0</code></span>A Little Bird Said...
+        </span>
+        <span class="featTableEffect">
+            <span>80% Uncover Weakness (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>Event Bonus</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Aeon</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Do You Give Up? Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Do You Give Up? (Aeon)**Next time, don't mess with a professional.<code>buff_upgrade,40,15198,1</code></span>Do You Give Up?
+        </span>
+        <span class="featTableEffect">
+            <span>40% Challenge Accepted</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Aeon</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Inspiring Leader (Aeon)**How about you do your jobs, or I start revealing your darkest secrets?<code>global_dps_multiplier_mult,25</code></span>Inspiring Leader
+        </span>
+        <span class="featTableEffect">
+            <span>25% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Aeon</span>
+        </span>
+        <span class="featTableIcon4">
+            ![The Getaway Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**The Getaway (Aeon)**What were you so worried about?<code>buff_upgrades,80,15199,15200</code></span>The Getaway
+        </span>
+        <span class="featTableEffect">
+            <span>80% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Aeon</span>
+        </span>
+        <span class="featTableIcon3">
+            ![The Heist Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**The Heist (Aeon)**Something ALWAYS goes wrong!<code>buff_upgrades,40,15199,15200</code></span>The Heist
+        </span>
+        <span class="featTableEffect">
+            <span>40% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Aeon</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Trusted For Now Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Trusted For Now (Aeon)**Don't be surprised when we aren't friends next week.<code>buff_upgrade,40,15196,1</code></span>Trusted For Now
+        </span>
+        <span class="featTableEffect">
+            <span>40% Inner Circle</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Aeon</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Word on the Street Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Word on the Street (Aeon)**Don't worry; I know where their real weak spot is.<code>buff_upgrade,40,15197,0</code></span>Word on the Street
+        </span>
+        <span class="featTableEffect">
+            <span>40% Uncover Weakness (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Umberto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Mounting Evidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Mounting Evidence (Umberto)**If you search their bags, you will find plenty of evidence to put them away.<code>add_base_umberto_clue_stacks,40</code></span>Mounting Evidence
+        </span>
+        <span class="featTableEffect">
+            <span>+40 Clue Stacks to Ongoing Investigation</span>
+        </span>
+        <span class="featTableSource">
+            <span>Event Bonus</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Umberto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">**Taunt (Umberto)**Now you have angered the bear.<code>hero_dps_multiplier_mult,400<br>taunt,50</code></span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span>400% Self DPS & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>03 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Deekin</span>
         </span>
         <span class="featTableIcon4">
@@ -207,6 +360,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableEffect">
             <span>80% Watchful Order</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>24 Jul 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Umberto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Woken the Hive Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Woken the Hive (Umberto)**You've done it now!<code>buff_upgrade,80,15049,0</code></span>Woken the Hive
+        </span>
+        <span class="featTableEffect">
+            <span>80% Beehive Barrage</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -998,6 +1168,74 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>Stat: +2 Intelligence</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Umberto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Long Story Short Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Long Story Short (Umberto)**And that is how they THOUGHT they got away with it!<code>buff_upgrade_effect_stacks_max_mult,50,15050</code></span>Long Story Short
+        </span>
+        <span class="featTableEffect">
+            <span>50% Ongoing Investigation Stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Umberto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Now It's a Party Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Now It's a Party (Umberto)**Errr, there are a lot of you now...<code>change_upgrade_targets,15048</code></span>Now It's a Party
+        </span>
+        <span class="featTableEffect">
+            <span>Detective's Entourage also buffs Umberto's column</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Umberto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Queen's Orders Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Queen's Orders (Umberto)**When the bees come together, nothing can stop them.<code>buff_upgrade,80,15049,1</code></span>Queen's Orders
+        </span>
+        <span class="featTableEffect">
+            <span>80% Beehive Barrage</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Umberto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Sting Operation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Sting Operation (Umberto)**Your best course of action is to RUN!<code>buff_upgrade,80,15049</code></span>Sting Operation
+        </span>
+        <span class="featTableEffect">
+            <span>80% Beehive Barrage</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

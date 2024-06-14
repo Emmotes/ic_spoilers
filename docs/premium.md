@@ -79,9 +79,9 @@ Date of release: 03 Jul 2024
 
 Contents:
 
-* Champion: `Umberto`
+* Champion: `Umberto Thornheart`
 * Skin: `Detective Umberto`
-* Feat: ???
+* Feat: `Taunt` (Umberto)
 * Familiar: `Coconut the Polar Bear Cub`
 * Chests: `Gold Umberto Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
@@ -98,7 +98,7 @@ Contents:
 
 * Champion: `Aeon`
 * Skin: `Spymaster Aeon`
-* Feat: ???
+* Feat: `The Getaway` (Aeon)
 * Familiar: `Deuce the Clockwork Monkey`
 * Chests: `Gold Aeon Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1

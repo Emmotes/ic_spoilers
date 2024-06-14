@@ -19,8 +19,8 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)</span>
 <span class="eventRosterChampion" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">Strongheart (11)</span>
 <span class="eventRosterChampion" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)</span>
-<span class="eventRosterChampion" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon</span>
-<span class="eventRosterChampion" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto</span>
+<span class="eventRosterChampion" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon (10)</span>
+<span class="eventRosterChampion" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto (7)</span>
 </span>
 
 {:/nomarkdown}

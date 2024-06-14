@@ -4529,6 +4529,72 @@ A list of all champions and their patron availability.
         <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-06-05
     </span>
     <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        150
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Aeon
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>Sometimes
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2032-12-31
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        151
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Umberto
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-07-03
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
 </span><br>
 {:/nomarkdown}
 

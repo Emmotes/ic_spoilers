@@ -24,7 +24,7 @@ These are the event champions that are upcoming and all the information we know 
                 Aeon
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Goliath Artificer (Guess)</span>
+                <span class="indexChampionTableNoLink">Goliath Bard / Artificer</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 3 July 2024</span>
@@ -39,14 +39,14 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Umberto Portrait Icon](images/umberto/portrait.png)
+            ![Umberto Thornheart Portrait Icon](images/umberto/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Umberto
+                Umberto Thornheart
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Druid (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Druid</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 3 July 2024</span>
