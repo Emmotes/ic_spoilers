@@ -25,11 +25,11 @@ We know the next Emergence event will be Planescape and that it will start on 24
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Golden Epic](images/general/unknown.png)
+            ![Golden Epic Icon for Aeon Slot 3](images/emergence_8/ge_3565.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
-            <span style="margin-left:15px">Unknown</span>
+            <span style="margin-left:15px">Uncover Weakness (Prestack)</span>
             <span style="margin-left:15px">Aeon (Slot 3)</span>
         </span>
     </span>
@@ -63,11 +63,12 @@ We know the next Emergence event will be Planescape and that it will start on 24
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4">![Woken the Hive Feat Icon](images/emergence_8/feat_1848.png)</span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Unknown</span>
+            <span style="margin-left:15px">Woken the Hive</span>
+            <span style="margin-left:15px">Umberto (80% Beehive Barrage)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
