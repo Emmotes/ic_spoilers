@@ -2,7 +2,7 @@
 
 # Idle Champions Presents #7
 
-We don't yet know what this ICP will be called yet - or when it will be - or who all the characters that will be in it are - or who will be playing them. We are fairly sure that two of them will be Aeon and Umberto though.
+We don't yet know what this ICP will be called - or when it will be - or who all the characters that will be in it are - or who will be playing them. We are fairly sure that two of them will be Aeon and Umberto though.
 
 Umberto and Aeon being in the ICP does point to it likely being run throughout July during Founders' Day - maybe starting a bit before - or maybe extending a little after.
 
