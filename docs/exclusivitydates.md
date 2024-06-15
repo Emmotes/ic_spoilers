@@ -25,15 +25,6 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Robe of the Weave Gale Skin Icon](images/exclusivities/skin_23351.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Robe of the Weave Gale</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         ![Owlbear Cub Familiar Icon](images/exclusivities/fam_201.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
