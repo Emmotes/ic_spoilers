@@ -381,25 +381,25 @@ Umberto Thornheart will be a new champion in the Founders' Day event on 3 July 2
 <p>
 <pre>
 Upgrades:
-      140: 100%
-      220: 100%
-      350: 100%
-      520: 100%
-      680: 100%
-      840: 100%
-    1,000: 100%
-    1,160: 100%
-    1,320: 100%
-    1,480: 100%
-    1,640: 100%
-    1,790: 100%
-    1,950: 100%
-    2,110: 100%
-    2,270: 100%
-    2,430: 100%
-    2,580: 100%
-    2,740: 100%
-    2,900: 100%
+      140: 100%    (buff_upgrade,100,15048)
+      220: 100%    (buff_upgrade,100,15048)
+      350: 100%    (buff_upgrade,100,15048)
+      520: 100%    (buff_upgrade,100,15048)
+      680: 100%    (buff_upgrade,100,15048)
+      840: 100%    (buff_upgrade,100,15048)
+    1,000: 100%    (buff_upgrade,100,15048)
+    1,160: 100%    (buff_upgrade,100,15048)
+    1,320: 100%    (buff_upgrade,100,15048)
+    1,480: 100%    (buff_upgrade,100,15048)
+    1,640: 100%    (buff_upgrade,100,15048)
+    1,790: 100%    (buff_upgrade,100,15048)
+    1,950: 100%    (buff_upgrade,100,15048)
+    2,110: 100%    (buff_upgrade,100,15048)
+    2,270: 100%    (buff_upgrade,100,15048)
+    2,430: 100%    (buff_upgrade,100,15048)
+    2,580: 100%    (buff_upgrade,100,15048)
+    2,740: 100%    (buff_upgrade,100,15048)
+    2,900: 100%    (buff_upgrade,100,15048)
 
     Total Upgrade Bonus: 5.24e07%
 </pre>

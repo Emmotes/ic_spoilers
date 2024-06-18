@@ -459,30 +459,30 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
 ![Inner Circle Icon](images/aeon/icon_innercircle.png) **Inner Circle** (Level: 20)
 > Aeon increases the damage of adjacent Champions by 100% for each Champion in the formation that is eligible for the patron she is infiltrating this week, stacking multiplicatively.  
 > Only Champions that start the adventure eligible, or Champions with equipped feats that make them eligible, will count for this ability.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Upgrade Data</em></summary>
 <p>
 <pre>
 Upgrades:
-       80: 200%
-      170: 200%
-      290: 200%
-      370: 200%
-      500: 200%
-      630: 200%
-      780: 200%
-      920: 200%
-    1,080: 200%
-    1,240: 200%
-    1,390: 200%
-    1,540: 200%
-    1,690: 200%
+       80: 200%    (buff_upgrade,200,15196,1)
+      170: 200%    (buff_upgrade,200,15196,1)
+      290: 200%    (buff_upgrade,200,15196,1)
+      370: 200%    (buff_upgrade,200,15196,1)
+      500: 200%    (buff_upgrade,200,15196,1)
+      630: 200%    (buff_upgrade,200,15196,1)
+      780: 200%    (buff_upgrade,200,15196,1)
+      920: 200%    (buff_upgrade,200,15196,1)
+    1,080: 200%    (buff_upgrade,200,15196,1)
+    1,240: 200%    (buff_upgrade,200,15196,1)
+    1,390: 200%    (buff_upgrade,200,15196,1)
+    1,540: 200%    (buff_upgrade,200,15196,1)
+    1,690: 200%    (buff_upgrade,200,15196,1)
 
     Total Upgrade Bonus: 1.59e08%
 </pre>
 </p>
 </details>
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
