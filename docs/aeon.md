@@ -465,19 +465,19 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
 <p>
 <pre>
 Upgrades:
-       80: 200%    (buff_upgrade,200,15196,1)
-      170: 200%    (buff_upgrade,200,15196,1)
-      290: 200%    (buff_upgrade,200,15196,1)
-      370: 200%    (buff_upgrade,200,15196,1)
-      500: 200%    (buff_upgrade,200,15196,1)
-      630: 200%    (buff_upgrade,200,15196,1)
-      780: 200%    (buff_upgrade,200,15196,1)
-      920: 200%    (buff_upgrade,200,15196,1)
-    1,080: 200%    (buff_upgrade,200,15196,1)
-    1,240: 200%    (buff_upgrade,200,15196,1)
-    1,390: 200%    (buff_upgrade,200,15196,1)
-    1,540: 200%    (buff_upgrade,200,15196,1)
-    1,690: 200%    (buff_upgrade,200,15196,1)
+       80: 200%
+      170: 200%
+      290: 200%
+      370: 200%
+      500: 200%
+      630: 200%
+      780: 200%
+      920: 200%
+    1,080: 200%
+    1,240: 200%
+    1,390: 200%
+    1,540: 200%
+    1,690: 200%
 
     Total Upgrade Bonus: 1.59e08%
 </pre>
@@ -538,6 +538,149 @@ Upgrades:
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true
     }
+}
+{
+    "id": 15310,
+    "hero_id": 150,
+    "required_level": 80,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15311,
+    "hero_id": 150,
+    "required_level": 170,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15313,
+    "hero_id": 150,
+    "required_level": 290,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15314,
+    "hero_id": 150,
+    "required_level": 370,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15317,
+    "hero_id": 150,
+    "required_level": 500,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15319,
+    "hero_id": 150,
+    "required_level": 630,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15320,
+    "hero_id": 150,
+    "required_level": 780,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15322,
+    "hero_id": 150,
+    "required_level": 920,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15324,
+    "hero_id": 150,
+    "required_level": 1080,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15326,
+    "hero_id": 150,
+    "required_level": 1240,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15328,
+    "hero_id": 150,
+    "required_level": 1390,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15329,
+    "hero_id": 150,
+    "required_level": 1540,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15332,
+    "hero_id": 150,
+    "required_level": 1690,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "{\"effect_string\": \"buff_upgrade,200,15196,1\"}",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
 }
 </pre>
 </p>

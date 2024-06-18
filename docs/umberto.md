@@ -381,25 +381,25 @@ Umberto Thornheart will be a new champion in the Founders' Day event on 3 July 2
 <p>
 <pre>
 Upgrades:
-      140: 100%    (buff_upgrade,100,15048)
-      220: 100%    (buff_upgrade,100,15048)
-      350: 100%    (buff_upgrade,100,15048)
-      520: 100%    (buff_upgrade,100,15048)
-      680: 100%    (buff_upgrade,100,15048)
-      840: 100%    (buff_upgrade,100,15048)
-    1,000: 100%    (buff_upgrade,100,15048)
-    1,160: 100%    (buff_upgrade,100,15048)
-    1,320: 100%    (buff_upgrade,100,15048)
-    1,480: 100%    (buff_upgrade,100,15048)
-    1,640: 100%    (buff_upgrade,100,15048)
-    1,790: 100%    (buff_upgrade,100,15048)
-    1,950: 100%    (buff_upgrade,100,15048)
-    2,110: 100%    (buff_upgrade,100,15048)
-    2,270: 100%    (buff_upgrade,100,15048)
-    2,430: 100%    (buff_upgrade,100,15048)
-    2,580: 100%    (buff_upgrade,100,15048)
-    2,740: 100%    (buff_upgrade,100,15048)
-    2,900: 100%    (buff_upgrade,100,15048)
+      140: 100%
+      220: 100%
+      350: 100%
+      520: 100%
+      680: 100%
+      840: 100%
+    1,000: 100%
+    1,160: 100%
+    1,320: 100%
+    1,480: 100%
+    1,640: 100%
+    1,790: 100%
+    1,950: 100%
+    2,110: 100%
+    2,270: 100%
+    2,430: 100%
+    2,580: 100%
+    2,740: 100%
+    2,900: 100%
 
     Total Upgrade Bonus: 5.24e07%
 </pre>
@@ -442,6 +442,215 @@ Upgrades:
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
     }
+}
+{
+    "id": 15059,
+    "hero_id": 151,
+    "required_level": 140,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15237,
+    "hero_id": 151,
+    "required_level": 220,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15238,
+    "hero_id": 151,
+    "required_level": 350,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15239,
+    "hero_id": 151,
+    "required_level": 520,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15240,
+    "hero_id": 151,
+    "required_level": 680,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15241,
+    "hero_id": 151,
+    "required_level": 840,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15242,
+    "hero_id": 151,
+    "required_level": 1000,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15243,
+    "hero_id": 151,
+    "required_level": 1160,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15244,
+    "hero_id": 151,
+    "required_level": 1320,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15245,
+    "hero_id": 151,
+    "required_level": 1480,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15246,
+    "hero_id": 151,
+    "required_level": 1640,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15247,
+    "hero_id": 151,
+    "required_level": 1790,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15248,
+    "hero_id": 151,
+    "required_level": 1950,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15249,
+    "hero_id": 151,
+    "required_level": 2110,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15250,
+    "hero_id": 151,
+    "required_level": 2270,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15251,
+    "hero_id": 151,
+    "required_level": 2430,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15252,
+    "hero_id": 151,
+    "required_level": 2580,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15253,
+    "hero_id": 151,
+    "required_level": 2740,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15254,
+    "hero_id": 151,
+    "required_level": 2900,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15048",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
 }
 </pre>
 </p>
