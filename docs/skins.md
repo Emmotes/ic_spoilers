@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Wyrm Slayer Korth Portrait](images/skin_portraits/wyrmslayerkorth.png)Wyrm Slayer Korth
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Wyrm Slayer Korth Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">19 Jun 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Wyrm Slayer Nova Portrait](images/skin_portraits/wyrmslayernova.png)Wyrm Slayer Nova
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Wyrm Slayer Nova Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">19 Jun 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Chibi Birdsong Portrait](images/skin_portraits/chibibirdsong.png)Chibi Birdsong
         </span>
         <span class="skinTableSource">

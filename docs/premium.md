@@ -5,40 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Wyrm Slayer Korth Skin & Feat Pack - $11.99  
-Date of release: 19 Jun 2024
-
-> Unlock Korth along with his exclusive Wyrm Slayer Skin & Feat!
-
-Contents:
-
-* Champion: `Korth`
-* Skin: `Wyrm Slayer Korth`
-* Feat: `Scale of Friends` (Korth)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Korth Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Wyrm Slayer Nova Skin & Feat Pack - $11.99  
-Date of release: 19 Jun 2024
-
-> Unlock Nova along with her exclusive Wyrm Slayer Skin & Feat!
-
-Contents:
-
-* Champion: `Nova V'Ger`
-* Skin: `Wyrm Slayer Nova`
-* Feat: `United Crew` (Nova)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Nova Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Alvina the Tressym Familiar Pack - $11.99  
 Date of release: 26 Jun 2024
 

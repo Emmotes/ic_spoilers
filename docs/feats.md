@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Korth</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Scale of Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Scale of Friends (Korth)**You're scale-less, but I guess we can work together<code>buff_upgrade,80,13035,0</code></span>Scale of Friends
-        </span>
-        <span class="featTableEffect">
-            <span>80% Lizardfolk Tactics</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>19 Jun 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Nova</span>
-        </span>
-        <span class="featTableIcon4">
-            ![United Crew Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**United Crew (Nova)**I'm open to suggestions...<code>buff_upgrade,80,8748</code></span>United Crew
-        </span>
-        <span class="featTableEffect">
-            <span>80% The Crew</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>19 Jun 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Birdsong</span>
         </span>
         <span class="featTableIcon4">
