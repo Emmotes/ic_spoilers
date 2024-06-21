@@ -829,7 +829,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
                     "name": "offline_monsters_killed_by_owner"
                 }
             ],
-            "per_trigger_expr": "{ResetAttackCooldown(owner_hero_id,`base`) AppendToSaveStat(`wren_flurry_of_blows`, false, 1)  NotifyStatChanged(`WrenBirdPlane`, false)}"
+            "per_trigger_expr": "{ResetAttackCooldown(owner_hero_id,`base`) AppendToSaveStat(`wren_flurry_of_blows`, false, trigger_count)  NotifyStatChanged(`WrenBirdPlane`, false)}"
         }
     ],
     "requirements": "",
@@ -921,7 +921,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Experienced Incarnation** (Guess)
-> Wren increases the effect of Hero's Call by 100% for each Turn of Fortune's Wheel adventure, variant, or patron variant completed, stacking multiplicatively.
+> Wren increases the effect of Hero's Call by 25% for each Turn of Fortune's Wheel adventure, variant, or patron variant completed, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -933,7 +933,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,15208",
+            "effect_string": "buff_upgrade,25,15208",
             "amount_func": "mult",
             "stacks_multiply": true,
             "stack_func": "per_other_stack_count",
@@ -1258,6 +1258,11 @@ Unknown.
     <span class="championImagesRow">
         <span class="championImagesPortrait">
             ![Alternate Console Portrait for Wren: Warforged](images/wren/console-warforged.png)Warforged Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Wren Gold Chest Icon](images/wren/chest_gold.png)Gold Chest Icon
         </span>
     </span>
 </span>
