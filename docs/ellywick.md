@@ -60,7 +60,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Powerful Following** (Guess)
 > Ellywick increases the damage of Champions in the column behind her by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -96,7 +96,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Fortunate Soul** (Guess)
 > Gold Find is increased by 50%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -132,7 +132,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Deck of Many Things** (Guess)
 > Ellywick draws a random card from the Deck of Many Things after every 25th enemy kill or after 60 seconds, whichever comes first. She can draw up to 5 cards at once and most duplicate card effects stack multiplicatively. Cards are discarded when she uses her ultimate ability, Call Of The Feywild.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -328,7 +328,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: For the Fans** (Guess)
 > Additively increases the odds of Knight cards by 20% to 40% (reducing the odds of each other card by 5%).
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -366,7 +366,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Faster Tempo** (Guess)
 > Additively increases the odds of Moon cards by 20% to 40% (reducing the odds of each other card by 5%).
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -404,7 +404,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: All That Sparkles** (Guess)
 > Additively increases the odds of Gem cards by 20% to 40% (reducing the odds of each other card by 5%).
 <details><summary><em>Raw Data</em></summary>
 <p>
