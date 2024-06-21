@@ -192,8 +192,8 @@ Umberto Thornheart will be a new champion in the Founders' Day event on 3 July 2
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Ranged Icon](images/icon_ranged.png) **Base Attack: Swarmstaff** (Ranged)
-> Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit.  
+![Magic Icon](images/icon_magic.png) **Base Attack: Swarmstaff** (Magic)
+> Umberto magically unleashes a bee swarm at the nearest foe, dealing 1 hit.  
 > Cooldown: 5.5s (Cap 1.375s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -201,7 +201,7 @@ Umberto Thornheart will be a new champion in the Founders' Day event on 3 July 2
 {
     "id": 763,
     "name": "Swarmstaff",
-    "description": "Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit.",
+    "description": "Umberto magically unleashes a bee swarm at the nearest foe, dealing 1 hit.",
     "long_description": "",
     "graphic_id": 0,
     "target": "front",
@@ -222,7 +222,7 @@ Umberto Thornheart will be a new champion in the Founders' Day event on 3 July 2
         "ranged"
     ],
     "damage_types": [
-        "ranged"
+        "magic"
     ]
 }
 </pre>
@@ -231,8 +231,8 @@ Umberto Thornheart will be a new champion in the Founders' Day event on 3 July 2
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Ranged Icon](images/icon_ranged.png) **Base Attack: Swarmstaff** (Ranged)
-> Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit and adding a swarming bee stack.  
+![Magic Icon](images/icon_magic.png) **Base Attack: Swarmstaff** (Magic)
+> Umberto magically unleashes a bee swarm at the nearest foe, dealing 1 hit and adding a swarming bee stack.  
 > Cooldown: 5.5s (Cap 1.375s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -240,7 +240,7 @@ Umberto Thornheart will be a new champion in the Founders' Day event on 3 July 2
 {
     "id": 767,
     "name": "Swarmstaff",
-    "description": "Umberto unleashes a bee swarm at the nearest foe, dealing 1 hit and adding a swarming bee stack.",
+    "description": "Umberto magically unleashes a bee swarm at the nearest foe, dealing 1 hit and adding a swarming bee stack.",
     "long_description": "",
     "graphic_id": 0,
     "target": "front",
@@ -261,7 +261,7 @@ Umberto Thornheart will be a new champion in the Founders' Day event on 3 July 2
         "ranged"
     ],
     "damage_types": [
-        "ranged"
+        "magic"
     ]
 }
 </pre>
@@ -304,7 +304,7 @@ Umberto Thornheart will be a new champion in the Founders' Day event on 3 July 2
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Beehive Barrage Icon](images/umberto/icon_beehivebarrage.png) **Beehive Barrage** (Level: 30)
-> Every second, Umberto's staff spawns 1 swarming bees, which buzz around the staff, up to a maximum of 10 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees sting them, dealing 1s of BUD-based damage for each bee. A maximum of 5 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation.
+> Every second, Umberto's staff magically summons 1 swarming bees, which buzz around the staff, up to a maximum of 10 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees sting them, dealing 1s of BUD-based damage for each bee. A maximum of 5 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -326,10 +326,10 @@ Umberto Thornheart will be a new champion in the Founders' Day event on 3 July 2
         "conditions": [
             {
                 "condition": "compare amount___3 == 1",
-                "desc": "Every second, Umberto's staff spawns a swarming bee, which buzzes around the staff, up to a maximum of $max_bees___3 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees sting them, dealing $(seconds_plural amount) of BUD-based damage for each bee. A maximum of $amount___2 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
+                "desc": "Every second, Umberto's staff magically summons a swarming bee, which buzzes around the staff, up to a maximum of $max_bees___3 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees sting them, dealing $(seconds_plural amount) of BUD-based damage for each bee. A maximum of $amount___2 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
             },
             {
-                "desc": "Every second, Umberto's staff spawns $amount___3 swarming bees, which buzz around the staff, up to a maximum of $max_bees___3 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees sting them, dealing $(seconds_plural amount) of BUD-based damage for each bee. A maximum of $amount___2 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
+                "desc": "Every second, Umberto's staff magically summons $amount___3 swarming bees, which buzz around the staff, up to a maximum of $max_bees___3 swarming bees. When an enemy attacks Umberto, he unleashes a swarming bee from the staff onto that enemy. When an enemy with one or more swarming bees is hit by any Champion, all their bees sting them, dealing $(seconds_plural amount) of BUD-based damage for each bee. A maximum of $amount___2 swarming bees can swarm a single enemy. Bees persist until the enemy is defeated, or until Umberto is removed from the formation."
             }
         ]
     },
