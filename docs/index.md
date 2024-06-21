@@ -104,8 +104,8 @@ The upcoming Evergreen champion we're aware of.
             </span>
         </span>
         <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/icon_Magic.png)
-            ![Melee Attack Icon](images/icon_Melee.png)
+            ![Magic Attack Icon](images/icon_magic.png)
+            ![Melee Attack Icon](images/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
@@ -135,6 +135,9 @@ A list of champions that will be seeing reworks in upcoming events.
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Ahghairon's Day - 7 August 2024 (Guess)</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/icon_magic.png)
         </span>
     </span>
 {::nomarkdown}
@@ -180,6 +183,9 @@ A list of champions that will be seeing reworks in upcoming events.
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Highharvestide - 4 September 2024 (Guess)</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/icon_melee.png)
         </span>
     </span>
 </span>
