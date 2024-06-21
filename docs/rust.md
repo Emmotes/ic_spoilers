@@ -21,73 +21,351 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Bang Bang** (Guess)
+> Rust shoots a random enemy with his pistols.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 782,
+    "name": "Bang Bang",
+    "description": "Rust shoots a random enemy with his pistols.",
+    "long_description": "Rust shoots a random enemy with his pistols.",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 0.5,
+    "cooldown": 5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "generic",
+            "shoot_offset_x": 60,
+            "shoot_offset_y": -50,
+            "shoot_frame": 4,
+            "projectile_delay_no_pause": 0.25,
+            "projectile_count": 2,
+            "unique_hit_multiplier": 2,
+            "projectile_details": {
+                "projectile_speed": 2400,
+                "has_trail": false,
+                "extend_line": true,
+                "projectile_graphic_id": 5395
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "melee",
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Stabby Stabby** (Guess)
+> Rust leaps out and stabs a random enemy with his Rapier.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 783,
+    "name": "Stabby Stabby",
+    "description": "Rust leaps out and stabs a random enemy with his Rapier.",
+    "long_description": "Rust leaps out and stabs a random enemy with his Rapier.",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 5,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -125,
+            "damage_frame": 14,
+            "jump_sound": 30,
+            "sound_frames": {
+                "14": 154
+            }
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee",
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Cannonball!** (Guess)
+> Rust loads himself into a cannon and fires himself toward the enemies, dealing damage in a large area upon landing. If Rust has a shiny gold piece, he drops it while flying through the air.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 784,
+    "name": "Cannonball!",
+    "description": "Rust climbs into a cannon and fires himself at the enemies, dealing damage in a large area.",
+    "long_description": "Rust loads himself into a cannon and fires himself toward the enemies, dealing damage in a large area upon landing. If Rust has a shiny gold piece, he drops it while flying through the air.",
+    "graphic_id": 12843,
+    "target": "all",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 180,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "rust"
+        }
+    ],
+    "tags": [
+        "ranged",
+        "aoe",
+        "ultimate"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Hello Friends!** (Guess)
+> Rust increases the damage of all Champions by 400% for each Champion in the formation with the Gold Find role or the Oxventurers Guild affiliation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2035,
+    "flavour_text": "",
+    "description": {
+        "desc": "Rust increases the damage of all Champions by $(not_buffed amount)% for each Champion in the formation with the Gold Find role or the Oxventurers Guild affiliation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,400",
+            "targets": [
+                "all"
+            ],
+            "stacks_multiply": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`gold`) || HasTag(`oxventure`)",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 12837,
+    "large_graphic_id": 12833,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Rust For Hire** (Guess)
+> Rust increases your gold find by 400%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2036,
+    "flavour_text": "",
+    "description": {
+        "desc": "Rust increases your gold find by $(amount)%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "gold_multiplier_mult,400"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 12836,
+    "large_graphic_id": 12832,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**One Gold Piece** (Guess)
+> Assuming Rust does not already have one, he has a 10% chance to find a shiny gold piece after any kill that drops gold. Each time Rust finds a shiny gold piece he gains a Riches stack. Rust increases the effect of Hello, Friends by 10% for each Riches stack he has, stacking multiplicatively. Rust loses his shiny gold piece whenever you use his ultimate ability. Riches stacks are capped at the highest area unlocked / 5, rounded up.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2037,
+    "flavour_text": "",
+    "description": {
+        "desc": "Assuming Rust does not already have one, he has a $(amount___2)% chance to find a shiny gold piece after any kill that drops gold. Each time Rust finds a shiny gold piece he gains a Riches stack. Rust increases the effect of Hello, Friends by $(not_buffed amount)% for each Riches stack he has, stacking multiplicatively. Rust loses his shiny gold piece whenever you use his ultimate ability. Riches stacks are capped at the highest area unlocked / 5, rounded up.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Shiny Gold Piece: $(rust_shiny_gold_piece_v2)"
+                }
+            ]
+        }
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,10,15357",
+            "stacks_multiply": true,
+            "manual_stacking": true,
+            "amount_func": "mult",
+            "show_bonus": true,
+            "stack_title": "Riches stacks"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "gold_piece_find_chance,10"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "stacks_max_stack_expr,0,highest_available_area/5",
+            "rounding_mode": "ceil"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "stacks_data_binder_safe,0,rust_riches_stacks",
+            "is_instanced_stat": true,
+            "use_stat_defs": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "rust_one_gold_piece_v2"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 12839,
+    "large_graphic_id": 12835,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Highest Bidder** (Guess)
+> Rust increases the damage of all Champions by 100% for each order of magnitude of your Gold Find percentage, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2038,
+    "flavour_text": "",
+    "description": {
+        "desc": "Rust increases the damage of all Champions by $(not_buffed amount)% for each order of magnitude of your Gold Find percentage, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "all"
+            ],
+            "stacks_multiply": true,
+            "amount_func": "mult",
+            "stack_func": "per_gold_find_orders_of_magnitude",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 12838,
+    "large_graphic_id": 12834,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Rags to Riches** (Guess)
-> Unknown.
+> Whenever Rust is holding a shiny gold piece, increase the effect of Hello, Friends by 200%. Whenever Rust is NOT holding a shiny gold piece, increase the effect of Rust For Hire by 200%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24169,
-    "graphic": "Icons/Champions/Rebalance/Rust/Icon_Rust_Formation_RagstoRiches",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Even More Riches** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 24170,
-    "graphic": "Icons/Champions/Rebalance/Rust/Icon_Specialization_RustEvenMoreRiches",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Fever Dream** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 24171,
-    "graphic": "Icons/Champions/Rebalance/Rust/Icon_Specialization_RustFeverDream",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2039,
+    "flavour_text": "",
+    "description": {
+        "desc": "Whenever Rust is holding a shiny gold piece, increase the effect of Hello, Friends by $amount%. Whenever Rust is NOT holding a shiny gold piece, increase the effect of Rust For Hire by $amount%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_me,200"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0,15357",
+            "amount_expr": "upgrade_amount(15361,0)",
+            "apply_manually": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0,15358",
+            "amount_expr": "upgrade_amount(15361,0)",
+            "apply_manually": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "rust_rags_to_riches",
+            "gold_piece_active_ek_idx": 1,
+            "gold_piece_inactive_ek_idx": 2
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24169,
+    "large_graphic_id": 24168,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -97,22 +375,95 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Get Rich Quick** (Guess)
-> Unknown.
+> When Rust uses his ultimate, all other Champions with the Gold Find role or Oxventurers Guild affiliation have their remaining ultimate cooldowns reduced by 10%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24172,
-    "graphic": "Icons/Champions/Rebalance/Rust/Icon_Specialization_RustGetRichQuick",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2040,
+    "flavour_text": "",
+    "description": {
+        "desc": "When Rust uses his ultimate, all other Champions with the Gold Find role or Oxventurers Guild affiliation have their remaining ultimate cooldowns reduced by $amount%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "just_an_amount,10",
+            "tag_expr": "gold|oxventure"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24172,
+    "large_graphic_id": 24172,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Even More Riches** (Guess)
+> Increase the cap of One Gold Piece's Riches stacks by 20% for each Champion in the formation with the Gold Find role or Oxventurers Guild affiliation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2041,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the cap of One Gold Piece's Riches stacks by $(amount)% for each Champion in the formation with the Gold Find role or Oxventurers Guild affiliation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade_effect_stacks_max_mult,20,15359",
+            "stacks_multiply": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`gold`) || HasTag(`oxventure`)",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24170,
+    "large_graphic_id": 24170,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Fever Dream** (Guess)
+> Whenever Rust uses his ultimate ability, the weather changes to "raining gold", causing gold coins to rain from the sky. You gain gold equal to 5% of a monster kill (including your gold find modifier) in the current area every second.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2042,
+    "flavour_text": "",
+    "description": {
+        "desc": "Whenever Rust uses his ultimate ability, the weather changes to \"raining gold\", causing gold coins to rain from the sky. You gain gold equal to $amount% of a monster kill (including your gold find modifier) in the current area every second."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "rust_fever_dream,5"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24171,
+    "large_graphic_id": 24171,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
