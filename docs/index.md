@@ -30,6 +30,9 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Founders' Day - 3 July 2024</span>
             </span>
         </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/icon_ranged.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -51,6 +54,9 @@ These are the event champions that are upcoming and all the information we know 
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 3 July 2024</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/icon_magic.png)
         </span>
     </span>
 {::nomarkdown}
@@ -96,6 +102,10 @@ The upcoming Evergreen champion we're aware of.
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Fortune's Wheel 6 - 24 July 2024 (Guess)</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/icon_Magic.png)
+            ![Melee Attack Icon](images/icon_Melee.png)
         </span>
     </span>
 {::nomarkdown}
@@ -147,6 +157,10 @@ A list of champions that will be seeing reworks in upcoming events.
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Ahghairon's Day - 7 August 2024 (Guess)</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/icon_melee.png)
+            ![Ranged Attack Icon](images/icon_ranged.png)
         </span>
     </span>
 {::nomarkdown}

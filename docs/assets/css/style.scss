@@ -478,6 +478,7 @@ code{
 	border: 1px solid black;
 	height: 90px;
 	background-color: #141414;
+	position: relative;
 }
 .indexChampionTableRow:hover {
 	border: 1px solid #FFEB9B;
@@ -516,6 +517,11 @@ code{
 }
 .indexChampionTableNoLink {
 	color: #F0E7D5;
+}
+.indexChampionTableAttack {
+	position: absolute;
+	bottom: 0;
+	right: 5px;
 }
 .formationBorder {
 	display: flex;
