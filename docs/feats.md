@@ -423,7 +423,7 @@ For feats that were available in the season pass of prior seasons - please see t
         <span class="featTableChampion">
             <span>Jim</span>
         </span>
-        <span class="featTableIcon0">
+        <span class="featTableIcon4">
             ![Be Amazed! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Be Amazed! (Jim)**... Seriously, guys, come on! Be amazed!<code>buff_upgrade,80,12130</code></span>Be Amazed!
         </span>
         <span class="featTableEffect">
