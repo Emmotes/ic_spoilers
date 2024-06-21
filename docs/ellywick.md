@@ -21,6 +21,45 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Call Of The Feywild** (Guess)
+> Ellywick discards her current hand and six feywild creatures run to Ellywick, damaging enemies as they come, and then again as they run away.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 786,
+    "name": "Call Of The Feywild",
+    "description": "Ellywick discards her current hand and six feywild creatures run around damaging enemies.",
+    "long_description": "Ellywick discards her current hand and six feywild creatures run to Ellywick, damaging enemies as they come, and then again as they run away.",
+    "graphic_id": 11256,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 3,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "ellywick",
+            "no_damage_display": true,
+            "short_riff_sequence": 3
+        }
+    ],
+    "tags": [
+        "ranged",
+        "multitarget",
+        "ultimate"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > Ellywick increases the damage of Champions in the column behind her by 100%.
 <details><summary><em>Raw Data</em></summary>
@@ -34,16 +73,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "off_when_benched": true,
             "effect_string": "hero_dps_multiplier_mult,100",
+            "off_when_benched": true,
+            "show_bonus": true,
             "targets": [
                 "prev_col"
             ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 11251,
+    "large_graphic_id": 11247,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": false,
@@ -69,16 +109,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "off_when_benched": true,
             "effect_string": "gold_multiplier_mult,50",
+            "off_when_benched": true,
+            "show_bonus": true,
             "targets": [
                 "active_campaign"
             ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 11249,
+    "large_graphic_id": 11245,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": false,
@@ -93,8 +134,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > Ellywick draws a random card from the Deck of Many Things after every 25th enemy kill or after 60 seconds, whichever comes first. She can draw up to 5 cards at once and most duplicate card effects stack multiplicatively. Cards are discarded when she uses her ultimate ability, Call Of The Feywild.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -106,33 +145,130 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack_amount,100"
-        },
-        {
             "effect_string": "ellywick_deck_of_many_things",
             "off_when_benched": true,
+            "card_draw_cooldown": 60,
+            "monster_kills_for_card_draw": 25,
             "cards": [
                 {
                     "type": "Knight",
-                    "effect_key_index": 2
+                    "effect_key_index": 3,
+                    "graphic_id": 24163
                 },
                 {
                     "type": "Moon",
-                    "effect_key_index": 3
-                },
-                {
-                    "type": "Gem",
-                    "effect_key_index": 4
+                    "effect_key_index": 5,
+                    "graphic_id": 24164
                 },
                 {
                     "type": "The_Fates",
-                    "effect_key_index": 5
+                    "effect_key_index": 7,
+                    "graphic_id": 24165
                 },
                 {
                     "type": "Flames",
-                    "effect_key_index": 6
+                    "effect_key_index": 9,
+                    "graphic_id": 24166
+                },
+                {
+                    "type": "Gem",
+                    "effect_key_index": 11,
+                    "graphic_id": 24162
                 }
-            ]
+            ],
+            "knight_odds": 20,
+            "moon_odds": 20,
+            "gem_odds": 20,
+            "the_fates_odds": 20,
+            "flames_odds": 20,
+            "knight_prioritized": false,
+            "moon_prioritized": false,
+            "gem_prioritized": false,
+            "the_fates_prioritized": false,
+            "flames_prioritized": false,
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "pre_stack_multiplier_from_fate_card,100",
+            "dev_note": "The Fates card buffs all other cards pre-stack, so all other cards have their amount_expr use this upgrade_amount as well",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "pre_stack_knight,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,15227",
+            "amount_expr": "upgrade_amount(15229,2)*upgrade_amount(15229,1)*0.01",
+            "stacks_multiply": true,
+            "manual_stacking": true,
+            "show_bonus": true,
+            "desc_forced_order": 1,
+            "stack_label": "Knight Cards",
+            "stack_title": "Card Count",
+            "total_title": "Total Powerful Following Bonus"
+        },
+        {
+            "effect_string": "pre_stack_moon,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,15228",
+            "amount_expr": "upgrade_amount(15229,4)*upgrade_amount(15229,1)*0.01",
+            "stacks_multiply": true,
+            "manual_stacking": true,
+            "show_bonus": true,
+            "desc_forced_order": 2,
+            "stack_label": "Moon Cards",
+            "stack_title": "Card Count",
+            "total_title": "Total Fortunate Soul Bonus"
+        },
+        {
+            "effect_string": "pre_stack_fates,5",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,15229,1",
+            "amount_expr": "upgrade_amount(15229,6)",
+            "stacks_multiply": true,
+            "manual_stacking": true,
+            "effect_cap": 50,
+            "show_bonus": true,
+            "desc_forced_order": 3,
+            "stack_label": "Fate Cards",
+            "stack_title": "Card Count",
+            "total_title": "Total Other Cards Bonus"
+        },
+        {
+            "effect_string": "pre_stack_flames,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "monster_speed_and_damage_increase,0",
+            "amount_expr": "upgrade_amount(15229,8)",
+            "stacks_multiply": true,
+            "manual_stacking": true,
+            "show_bonus": true,
+            "desc_forced_order": 4,
+            "stack_label": "Flame Cards",
+            "stack_title": "Card Count",
+            "total_title": "Total Monster Speed and Damage Bonus"
+        },
+        {
+            "effect_string": "pre_stack_gems,10",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "increase_boss_gems_percent,0",
+            "amount_expr": "upgrade_amount(15229,10)*upgrade_amount(15229,1)*0.01",
+            "manual_stacking": true,
+            "stacks_multiply": false,
+            "effect_cap": 100,
+            "show_bonus": true,
+            "desc_forced_order": 5,
+            "stack_label": "Gem Cards",
+            "stack_title": "Card Count",
+            "total_title": "Total Gem Drop Bonus"
         }
     ],
     "requirements": "",
@@ -141,7 +277,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": false,
-        "formation_circle_icon": false
+        "show_incoming": false,
+        "formation_circle_icon": false,
+        "retain_on_slot_changed": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -150,7 +291,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Greatest Song in the Multiverse** (Guess)
 > Ellywick counts the total number of cards she has drawn in the adventure. She increases the effect of Powerful Following by 3% for each card she has drawn, stacking multiplicatively and capping at 1,000 cards.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -163,12 +304,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,0"
+            "effect_string": "buff_upgrade,3,15227",
+            "stacks_multiply": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "GetSaveStat(`ellywick_cards_drawn_this_adventure`,true)",
+            "max_stacks": 1000,
+            "show_bonus": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 11250,
+    "large_graphic_id": 11246,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": false,
@@ -194,7 +341,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,0"
+            "effect_string": "change_upgrade_data,15229,0",
+            "data": {
+                "knight_odds": 40,
+                "moon_odds": 15,
+                "gem_odds": 15,
+                "the_fates_odds": 15,
+                "flames_odds": 15
+            }
         }
     ],
     "requirements": "",
@@ -225,7 +379,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,0"
+            "effect_string": "change_upgrade_data,15229,0",
+            "data": {
+                "knight_odds": 15,
+                "moon_odds": 40,
+                "gem_odds": 15,
+                "the_fates_odds": 15,
+                "flames_odds": 15
+            }
         }
     ],
     "requirements": "",
@@ -256,7 +417,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,0"
+            "effect_string": "change_upgrade_data,15229,0",
+            "data": {
+                "knight_odds": 15,
+                "moon_odds": 15,
+                "gem_odds": 40,
+                "the_fates_odds": 15,
+                "flames_odds": 15
+            }
         }
     ],
     "requirements": "",
