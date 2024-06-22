@@ -20,6 +20,9 @@
         ![Alternate Model GIF of Wren: Tabaxi](images/wren/model-tabaxi.gif)Tabaxi Model
     </span>
     <span class="championPortraitsImage">
+        ![Alternate Model GIF of Wren: Tabaxi Rage](images/wren/model-tabaxi-rage.gif)Tabaxi Rage Model
+    </span>
+    <span class="championPortraitsImage">
         ![Alternate Model GIF of Wren: Warforged](images/wren/model-warforged.gif)Warforged Model
     </span>
 </span>
