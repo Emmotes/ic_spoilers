@@ -62,6 +62,7 @@ nnm.map.set("Duke Ravengard", "Otter");
 nnm.map.set("Ulder Ravengard", "Otter");
 nnm.map.set("Ravengard", "Otter");
 nnm.map.set("Ulder", "Otter");
+nnm.map.set("Umberto", "Sir Bearington");
 nnm.map.set("Pigment", "Pig Mint");
 nnm.map.set("pigment", "pig mint");
 nnm.map.set("egendaries", "egos");
