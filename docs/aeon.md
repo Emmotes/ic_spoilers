@@ -75,7 +75,7 @@ Aeon will be a new champion in the Founders' Day event on 3 July 2024.
             <span style="margin-left:8px;">-</span>
         </span>
         <span class="champStatsTablePatrons">
-            <span style="margin-left:8px;">-</span>
+            <span style="margin-left:8px;">Sometimes</span>
         </span>
     </span>
     <span class="champStatsTableRow">
