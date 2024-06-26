@@ -153,27 +153,79 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 {
                     "type": "Knight",
                     "effect_key_index": 3,
-                    "graphic_id": 24163
+                    "graphic_id": 24163,
+                    "is_debuff": true,
+                    "ult_debuff": {
+                        "effect_string": "increase_monster_damage,100",
+                        "active_graphic_id": 24163,
+                        "active_graphic_x": -15,
+                        "active_graphic_y": -120,
+                        "use_stack_as_frame": true,
+                        "stack_as_frame_offset": 0,
+                        "overlay_play_mode": "stopped",
+                        "bottom": false,
+                        "stacks_on_reapply": true,
+                        "manual_stacking": true,
+                        "max_stacks": 5,
+                        "stacks_multiply": true,
+                        "use_collection_source": false,
+                        "stack_across_effects": false
+                    }
                 },
                 {
                     "type": "Moon",
                     "effect_key_index": 5,
-                    "graphic_id": 24164
+                    "graphic_id": 24164,
+                    "is_debuff": true,
+                    "ult_base_amount": 10,
+                    "ult_debuff": {
+                        "effect_string": "monster_drop_gold,10",
+                        "stacks_multiply": true,
+                        "stacks_on_reapply": true,
+                        "manual_stacking": true,
+                        "use_collection_source": false,
+                        "stack_across_effects": false
+                    }
                 },
                 {
                     "type": "The_Fates",
                     "effect_key_index": 7,
-                    "graphic_id": 24165
+                    "graphic_id": 24165,
+                    "is_debuff": false,
+                    "ult_base_amount": 50,
+                    "ult_debuff": {
+                        "effect_string": "do_nothing,0"
+                    }
                 },
                 {
                     "type": "Flames",
                     "effect_key_index": 9,
-                    "graphic_id": 24166
+                    "graphic_id": 24166,
+                    "is_debuff": true,
+                    "ult_debuff": {
+                        "effect_string": "do_nothing,0",
+                        "active_graphic_id": 24166,
+                        "active_graphic_x": 15,
+                        "active_graphic_y": -120,
+                        "overlay_play_mode": "stopped",
+                        "bottom": false,
+                        "stacks_on_reapply": true,
+                        "manual_stacking": true,
+                        "max_stacks": 5,
+                        "stacks_multiply": true,
+                        "use_collection_source": false,
+                        "stack_across_effects": false
+                    }
                 },
                 {
                     "type": "Gem",
                     "effect_key_index": 11,
-                    "graphic_id": 24162
+                    "graphic_id": 24162,
+                    "is_debuff": false,
+                    "ult_base_amount": 1,
+                    "ult_debuff": {
+                        "effect_string": "do_nothing,0"
+                    }
                 }
             ],
             "knight_odds": 20,
