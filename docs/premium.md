@@ -5,39 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Alvina the Tressym Familiar Pack - $11.99  
-Date of release: 26 Jun 2024
-
-> Collect your very own Alvina the Tressym Familiar!
-
-Contents:
-
-* Familiar: `Alvina the Tressym`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Chibi Birdsong Skin & Feat Pack - $11.99  
-Date of release: 26 Jun 2024
-
-> Unlock Birdsong along with her exclusive Chibi Skin & Feat!
-
-Contents:
-
-* Champion: `Birdsong`
-* Skin: `Chibi Birdsong`
-* Feat: `Prodigal Leader` (Birdsong)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Birdsong Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Detective Umberto Theme Pack - $27.99  
 Date of release: 03 Jul 2024
 
