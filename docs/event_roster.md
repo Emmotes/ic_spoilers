@@ -58,7 +58,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="dhani" style="background-image:url(images/portraits/dhani.png)">D'hani (1)</span>
 <span class="eventRosterChampion" id="egbert" style="background-image:url(images/portraits/egbert.png)">Egbert (7)</span>
 <span class="eventRosterChampion" id="certainty" style="background-image:url(images/portraits/certainty.png)">Certainty (5)</span>
-<span class="eventRosterChampion" id="bobby" style="background-image:url(images/general/unknown.png)">Bobby</span>
+<span class="eventRosterChampion" id="bobby" style="background-image:url(images/portraits/bobby.png)">Bobby</span>
 </span>
 
 {:/nomarkdown}
