@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Ceremorphosis | 28 Jun | **Wyll** | Celeste | Minsc | Karlach | Gale | Golden Epic |
 | High Spy | 05 Jul | **Aeon** | Arkhan | Asharra | Sentry | Shandie | Golden Epic |
 | Persistence | 12 Jul | **Umberto** | Calliope | Tyril | Diana | Artemis | Golden Epic |
 | Undercover | 19 Jul | **Strongheart** | Hitch | Bruenor | Gromma | Catti-brie | Golden Epic |
