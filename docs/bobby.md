@@ -155,6 +155,14 @@ Unknown.
             ![Bobby Console Portrait](images/bobby/console.png)Console Portrait
         </span>
     </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Bobby Gold Chest Icon](images/bobby/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Bobby Silver Chest Icon](images/bobby/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
