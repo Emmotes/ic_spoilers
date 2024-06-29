@@ -14,7 +14,7 @@ Bobby, the Barbarian (voiced by Ted Field III) – the youngest member of the te
 
 # Basic Information
 
-Bobby will be a new champion - potentially in the Highharvestide event on 4 September 2024. (It's possible they could be in a different event - we don't know yet.)
+Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">

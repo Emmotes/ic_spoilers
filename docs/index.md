@@ -77,7 +77,7 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Human Barbarian of Saturday Morning Squad (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Highharvestide - 4 September 2024 (Guess)</span>
+                <span class="indexChampionTableNoLink">Highharvestide - 4 September 2024</span>
             </span>
         </span>
     </span>
