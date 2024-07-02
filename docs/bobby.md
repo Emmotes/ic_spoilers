@@ -94,38 +94,7 @@ Unknown.
 
 # Abilities
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-</div></div>
+Unknown.
 
 # Specialisations
 
