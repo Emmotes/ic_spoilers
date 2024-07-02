@@ -97,7 +97,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">- (Guess)</span>
         </span>
     </span>
 </span>
@@ -144,6 +144,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 </p>
 </details>
 </div></div>
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Unarmed Strike - Astral Self Form** (Melee)
 > Wren strikes the most damaged enemy for one hit of ultimate damage.  
@@ -187,6 +188,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 </p>
 </details>
 </div></div>
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Greataxe** (Melee)
 > Wren attacks the closest enemy for one hit.  
@@ -227,6 +229,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 </p>
 </details>
 </div></div>
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Greataxe - Colossal Rage** (Melee)
 > Wren attacks the closest enemy for one hit of ultimate damage.  
@@ -269,6 +272,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 </p>
 </details>
 </div></div>
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Firebolt** (Magic)
 > Wren blasts the enemy with the most remaining health for one hit.  
@@ -396,6 +400,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 </p>
 </details>
 </div></div>
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Colossal Rage**
 > Wren grows in size for 15 seconds. For the duration, enemies prefer attacking her, she takes 50% less damage, and her attacks deal ultimate damage.  
@@ -434,6 +439,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 </p>
 </details>
 </div></div>
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Time Stop**
 > Wren freezes enemies in time for 15 seconds. For the duration, enemies do nothing and heroes deal +400% damage to them.  
