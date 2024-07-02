@@ -4,8 +4,6 @@
 
 A list of all champions and their patron availability.
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: Before Elminster's release - Justin said that Evergreens won't be available in Elminster variants - but they are. This could be a bug and might change or he could have changed his mind.*
-
 {::nomarkdown}
 <span class="patronRosterGrid">
     <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
