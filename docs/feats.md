@@ -424,7 +424,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Omin</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/featicons/unknown.png)I'm a Man in Finance
+            ![I'm a Man in Finance Icon](images/featicons/goldfind.png)<span class="featTooltipContents">**I'm a Man in Finance (Omin)**Did you bring the paperwork?<code>buff_upgrade,80,12300</code></span>I'm a Man in Finance
         </span>
         <span class="featTableEffect">
             <span>80% Adventuring Capital</span>
@@ -434,6 +434,40 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>21 Aug 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Freely</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fairy Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Fairy Glitch (Freely)**Wait, I'm short again?<code>todo</code></span>Fairy Glitch
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>28 Aug 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gale</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Hope of the Weave Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Hope of the Weave (Gale)**Just stare at the stars with me a bit longer.<code>buff_upgrade,80,14572</code></span>Hope of the Weave
+        </span>
+        <span class="featTableEffect">
+            <span>80% Netherese Orb</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>28 Aug 2024</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -506,6 +540,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>BBEG</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">**Vicious Damage (BBEG)**'Now you face me at my true potential! Victory WILL be mine!'<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span>Vicious Damage
+        </span>
+        <span class="featTableEffect">
+            <span>400% Self DPS & Prevent Healing for 10s</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>25 Sept 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Warduke</span>
         </span>
         <span class="featTableIcon4">
@@ -519,6 +570,108 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>26 Sept 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Astarion</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Satiate the Hunger Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Satiate the Hunger (Astarion)**Darling, anything is better than rats.<code>todo</code></span>Satiate the Hunger
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Thellora</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Thellora)**A tactician is only as good as their knowledge.<code>increase_ability_score_not_always_on,int,2</code></span>Scholar
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Intelligence</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Donaar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fortune's Favor Icon](images/featicons/goldfind.png)<span class="featTooltipContents">**Fortune's Favor (Donaar)**What do you mean: give up the gold? There was nothing there...<code>gold_multiplier_mult,25</code></span>Fortune's Favor
+        </span>
+        <span class="featTableEffect">
+            <span>25% Gold</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>16 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Kent</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Kent)**I am, aren't I?!<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>16 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nahara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Make Undead (Nahara)**I feel stronger...<code>todo</code></span>Make Undead
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Widdle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Make Undead (Widdle)**HUNGRY!<code>todo</code></span>Make Undead
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Oct 2024</span>
         </span>
     </span>
 </span>
@@ -647,23 +800,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>10 Nov 2030</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>BBEG</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">**Vicious Damage (BBEG)**'Now you face me at my true potential! Victory WILL be mine!'<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span>Vicious Damage
-        </span>
-        <span class="featTableEffect">
-            <span>400% Self DPS & Prevent Healing for 10s</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -1100,23 +1236,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>+20% Crit Chance</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Thellora</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">**Scholar (Thellora)**A tactician is only as good as their knowledge.<code>increase_ability_score_not_always_on,int,2</code></span>Scholar
-        </span>
-        <span class="featTableEffect">
-            <span>Stat: +2 Intelligence</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

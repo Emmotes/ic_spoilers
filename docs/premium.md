@@ -192,9 +192,9 @@ Contents:
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Lae'zel's Champions of Renown Pack - $69.99  
-Date of release: 31 Aug 2024
+Date of release: 07 Aug 2024
 
-> In this Xbox Game Pass exclusive DLC, unlock 5 awesome Champions and supercharge your progress!
+> Unlock 5 awesome Champions and supercharge your progress!
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This pack probably won't be available for purchase since it's likely to be for a platform giveaway.*
 
@@ -214,6 +214,156 @@ Contents:
 * Familiar: `Snuggles the Sphynx Cat`
 * Buff: `Potion of the Gem Hunter` x1
 * Buff: `Potion of the Gold Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Masquerade Ball Ellywick Theme Pack - $27.99  
+Date of release: 07 Aug 2024
+
+> Unlock Ellywick along with an exclusive Masquerade Skin & Familiar!
+
+Contents:
+
+* Champion: `Ellywick Tumblestrum`
+* Skin: `Masquerade Ellywick`
+* Feat: ???
+* Familiar: `Nibbles the Brigganock`
+* Chests: `Gold Ellywick Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Masquerade Ball Rust Theme Pack - $27.99  
+Date of release: 07 Aug 2024
+
+> Unlock Rust along with an exclusive Masquerade Skin & Familiar!
+
+Contents:
+
+* Champion: `Rust on the Harbour`
+* Skin: `Masquerade Rust`
+* Feat: ???
+* Familiar: `François the Blue Crab`
+* Chests: `Gold Rust Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Archdruid Voronika Skin & Feat Pack - $11.99  
+Date of release: 14 Aug 2024
+
+> Unlock Voronika along with her exclusive Archdruid Skin & Feat!
+
+Contents:
+
+* Champion: `Voronika`
+* Skin: `Archdruid Voronika`
+* Feat: `Prodigal Leader` (Voronika)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Voronika Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Avatar of Chauntea Familiar Pack - $11.99  
+Date of release: 14 Aug 2024
+
+> Collect your own Avatar of Chauntea Familiar!
+
+Contents:
+
+* Familiar: `Azuth's Marid`
+* Buff: `Huge Potion of Speed` x4
+* Buff: `Huge Potion of Giant's Strength` x4
+* Buff: `Huge Potion of Clairvoyance` x4
+* Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Masquerade Ball Lae'zel Skin & Feat Pack - $11.99  
+Date of release: 14 Aug 2024
+
+> Unlock Lae'zel along with her exclusive Masquerade Skin & Feat!
+
+Contents:
+
+* Champion: `Lae'zel`
+* Skin: `Masquerade Lae'zel`
+* Feat: `Absolute Trust` (Lae'zel)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Lae'zel Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Masquerade Ball Jim Skin & Feat Pack - $11.99  
+Date of release: 21 Aug 2024
+
+> Unlock Jim Darkmagic along with his exclusive Masquerade Skin & Feat!
+
+Contents:
+
+* Champion: `James (Jim) Winifred Darkmagic III`
+* Skin: `Masquerade Jim`
+* Feat: `Be Amazed!` (Jim)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Jim Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Masquerade Ball Omin Skin & Feat Pack - $11.99  
+Date of release: 21 Aug 2024
+
+> Unlock Omin along with his exclusive Masquerade Skin & Feat!
+
+Contents:
+
+* Champion: `Omin Dran`
+* Skin: `Masquerade Omin`
+* Feat: `I'm a Man in Finance` (Omin)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Omin Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Fairy Glitch Freely Skin & Feat Pack - $11.99  
+Date of release: 28 Aug 2024
+
+> Unlock Freely along with his exclusive Fairy Glitch Skin & Feat!
+
+Contents:
+
+* Champion: `Freely`
+* Skin: `Fairy Glitch Freely`
+* Feat: `Fairy Glitch` (Freely)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Freely Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Klauth the Baby Red Dragon Familiar Pack - $5.99  
+Date of release: 28 Aug 2024
+
+> Collect your very own Klauth Familiar!
+
+Contents:
+
+* Familiar: `Klauth the Baby Red Dragon`
+* Buff: `Huge Potion of Speed` x2
+* Buff: `Huge Potion of Giant's Strength` x2
+* Buff: `Huge Potion of Clairvoyance` x2
 </div></div>
 
 
