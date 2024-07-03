@@ -69,7 +69,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2027,
     "flavour_text": "",
     "description": {
-        "desc": "$(source_hero) increases the damage of Champions in the column behind her by 100%."
+        "desc": "$(source_hero) increases the damage of Champions in the column behind her by $(amount)%."
     },
     "effect_keys": [
         {
@@ -105,13 +105,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2028,
     "flavour_text": "",
     "description": {
-        "desc": "Gold Find is increased by 50%"
+        "desc": "Gold Find is increased by $(amount)%"
     },
     "effect_keys": [
         {
             "effect_string": "gold_multiplier_mult,50",
             "off_when_benched": true,
-            "show_bonus": true,
             "targets": [
                 "active_campaign"
             ]
@@ -141,7 +140,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2029,
     "flavour_text": "",
     "description": {
-        "desc": "Ellywick draws a random card from the Deck of Many Things after every 25th enemy kill or after 60 seconds, whichever comes first. She can draw up to 5 cards at once and most duplicate card effects stack multiplicatively. Cards are discarded when she uses her ultimate ability, Call Of The Feywild.^^$ellywick_deck_of_many_things_desc"
+        "desc": "Ellywick draws a random card from the Deck of Many Things after every 25th enemy kill or after 60 seconds, whichever comes first. She can draw up to 5 cards at once and most duplicate card effects stack multiplicatively. Cards are discarded when she uses her ultimate ability, Call Of The Feywild.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^$ellywick_deck_of_many_things_desc"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -149,19 +156,28 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "card_draw_cooldown": 60,
             "monster_kills_for_card_draw": 25,
+            "card_origin": [
+                0,
+                -82.5
+            ],
+            "overlay": {
+                "manual_graphic": "ellywick_deck_of_many_things",
+                "y": -65
+            },
             "cards": [
                 {
                     "type": "Knight",
                     "effect_key_index": 3,
                     "graphic_id": 24163,
+                    "ellywick_graphic_id": 10916,
                     "is_debuff": true,
                     "ult_debuff": {
-                        "effect_string": "increase_monster_damage,100",
+                        "effect_string": "increase_monster_damage,500",
                         "active_graphic_id": 24163,
-                        "active_graphic_x": -15,
+                        "active_graphic_x": -20,
                         "active_graphic_y": -120,
                         "use_stack_as_frame": true,
-                        "stack_as_frame_offset": 0,
+                        "stack_as_frame_offset": -1,
                         "overlay_play_mode": "stopped",
                         "bottom": false,
                         "stacks_on_reapply": true,
@@ -176,6 +192,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "type": "Moon",
                     "effect_key_index": 5,
                     "graphic_id": 24164,
+                    "ellywick_graphic_id": 10917,
                     "is_debuff": true,
                     "ult_base_amount": 10,
                     "ult_debuff": {
@@ -191,6 +208,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "type": "The_Fates",
                     "effect_key_index": 7,
                     "graphic_id": 24165,
+                    "ellywick_graphic_id": 10913,
                     "is_debuff": false,
                     "ult_base_amount": 50,
                     "ult_debuff": {
@@ -201,12 +219,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "type": "Flames",
                     "effect_key_index": 9,
                     "graphic_id": 24166,
+                    "ellywick_graphic_id": 10914,
                     "is_debuff": true,
                     "ult_debuff": {
-                        "effect_string": "do_nothing,0",
+                        "effect_string": "monster_speed_reduce,50",
                         "active_graphic_id": 24166,
-                        "active_graphic_x": 15,
+                        "active_graphic_x": 20,
                         "active_graphic_y": -120,
+                        "use_stack_as_frame": true,
+                        "stack_as_frame_offset": -1,
                         "overlay_play_mode": "stopped",
                         "bottom": false,
                         "stacks_on_reapply": true,
@@ -221,10 +242,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "type": "Gem",
                     "effect_key_index": 11,
                     "graphic_id": 24162,
+                    "ellywick_graphic_id": 10915,
                     "is_debuff": false,
                     "ult_base_amount": 1,
                     "ult_debuff": {
-                        "effect_string": "do_nothing,0"
+                        "effect_string": "monster_health_decrease_by_tag,50,boss",
+                        "only_affects_bosses": true
                     }
                 }
             ],
@@ -381,7 +404,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: For the Fans** (Guess)
-> Additively increases the odds of Knight cards by 20% to 40% (reducing the odds of each other card by 5%).
+> Additively increases the odds of Knight cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -389,7 +412,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2031,
     "flavour_text": "",
     "description": {
-        "desc": "Additively increases the odds of Knight cards by 20% to 40% (reducing the odds of each other card by 5%)"
+        "desc": "Additively increases the odds of Knight cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%)"
     },
     "effect_keys": [
         {
@@ -409,7 +432,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": false,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "show_incoming": false
     }
 }
 </pre>
@@ -419,7 +443,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Faster Tempo** (Guess)
-> Additively increases the odds of Moon cards by 20% to 40% (reducing the odds of each other card by 5%).
+> Additively increases the odds of Moon cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -427,7 +451,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2032,
     "flavour_text": "",
     "description": {
-        "desc": "Additively increases the odds of Moon cards by 20% to 40% (reducing the odds of each other card by 5%)"
+        "desc": "Additively increases the odds of Moon cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%)"
     },
     "effect_keys": [
         {
@@ -447,7 +471,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": false,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "show_incoming": false
     }
 }
 </pre>
@@ -457,7 +482,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: All That Sparkles** (Guess)
-> Additively increases the odds of Gem cards by 20% to 40% (reducing the odds of each other card by 5%).
+> Additively increases the odds of Gem cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -465,7 +490,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2033,
     "flavour_text": "",
     "description": {
-        "desc": "Additively increases the odds of Gem cards by 20% to 40% (reducing the odds of each other card by 5%)"
+        "desc": "Additively increases the odds of Gem cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%)"
     },
     "effect_keys": [
         {
@@ -485,7 +510,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": false,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "show_incoming": false
     }
 }
 </pre>
