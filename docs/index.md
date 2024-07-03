@@ -141,7 +141,10 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="rosie.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Rosie Beestinger Portrait Icon](images/rosie/portrait.png)
         </span>
@@ -160,6 +163,9 @@ A list of champions that will be seeing reworks in upcoming events.
             ![Melee Attack Icon](images/icon_melee.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Timed Misc
