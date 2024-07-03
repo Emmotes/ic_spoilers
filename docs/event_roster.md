@@ -6,25 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Founders' Day - July
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="deekin" style="background-image:url(images/portraits/deekin.png)">Deekin (1)</span>
-<span class="eventRosterChampion" id="xander" style="background-image:url(images/portraits/xander.png)">Xander (5)</span>
-<span class="eventRosterChampion" id="walnut" style="background-image:url(images/portraits/walnut.png)">Walnut (8)</span>
-<span class="eventRosterChampion" id="freely" style="background-image:url(images/portraits/freely.png)">Freely (7)</span>
-<span class="eventRosterChampion" id="sgtknox" style="background-image:url(images/portraits/sgtknox.png)">Sgt. Knox (6)</span>
-<span class="eventRosterChampion" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)</span>
-<span class="eventRosterChampion" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">Strongheart (11)</span>
-<span class="eventRosterChampion" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)</span>
-<span class="eventRosterChampion" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon (10)</span>
-<span class="eventRosterChampion" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto (7)</span>
-</span>
-
-{:/nomarkdown}
-
 # Ahghairon's Day - August
 
 {::nomarkdown}
@@ -221,6 +202,25 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="merilwen" style="background-image:url(images/portraits/merilwen.png)">Merilwen (2)</span>
 <span class="eventRosterChampion" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)</span>
 <span class="eventRosterChampion" id="ravengard" style="background-image:url(images/portraits/ravengard.png)">Ravengard (8)</span>
+</span>
+
+{:/nomarkdown}
+
+# Founders' Day - July
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="deekin" style="background-image:url(images/portraits/deekin.png)">Deekin (1)</span>
+<span class="eventRosterChampion" id="xander" style="background-image:url(images/portraits/xander.png)">Xander (5)</span>
+<span class="eventRosterChampion" id="walnut" style="background-image:url(images/portraits/walnut.png)">Walnut (8)</span>
+<span class="eventRosterChampion" id="freely" style="background-image:url(images/portraits/freely.png)">Freely (7)</span>
+<span class="eventRosterChampion" id="sgtknox" style="background-image:url(images/portraits/sgtknox.png)">Sgt. Knox (6)</span>
+<span class="eventRosterChampion" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)</span>
+<span class="eventRosterChampion" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">Strongheart (11)</span>
+<span class="eventRosterChampion" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)</span>
+<span class="eventRosterChampion" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon (10)</span>
+<span class="eventRosterChampion" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto (7)</span>
 </span>
 
 {:/nomarkdown}
