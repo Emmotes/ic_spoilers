@@ -4,6 +4,9 @@
     <span class="championPortraitsImage">
         ![PC Portrait for Bobby](images/bobby/portrait.png)Portrait
     </span>
+    <span class="championPortraitsImage">
+        ![Model GIF of Bobby](images/bobby/model.gif)Model
+    </span>
 </span>
 
 # Bobby
