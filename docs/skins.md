@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Detective Umberto Portrait](images/skin_portraits/detectiveumberto.png)Detective Umberto
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Detective Umberto Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">03 Jul 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Spymaster Aeon Portrait](images/skin_portraits/spymasteraeon.png)Spymaster Aeon
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Spymaster Aeon Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">03 Jul 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Detective Deekin Portrait](images/skin_portraits/detectivedeekin.png)Detective Deekin
         </span>
         <span class="skinTableSource">

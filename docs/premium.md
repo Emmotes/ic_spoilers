@@ -5,40 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Detective Umberto Theme Pack - $27.99  
-Date of release: 03 Jul 2024
-
-> Unlock Umberto along with an exclusive Detective Skin & Familiar!
-
-Contents:
-
-* Champion: `Umberto Thornheart`
-* Skin: `Detective Umberto`
-* Feat: `Taunt` (Umberto)
-* Familiar: `Coconut the Polar Bear Cub`
-* Chests: `Gold Umberto Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Spymaster Aeon Theme Pack - $27.99  
-Date of release: 03 Jul 2024
-
-> Unlock Aeon along with an exclusive Spymaster Skin & Familiar!
-
-Contents:
-
-* Champion: `Aeon`
-* Skin: `Spymaster Aeon`
-* Feat: `The Getaway` (Aeon)
-* Familiar: `Deuce the Clockwork Monkey`
-* Chests: `Gold Aeon Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Detective Deekin Skin & Feat Pack - $11.99  
 Date of release: 10 Jul 2024
 
