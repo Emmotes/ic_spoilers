@@ -21,18 +21,128 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Busy Beestinger** (Guess)
+> Unknown.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24374,
+    "graphic": "Icons/Champions/Rebalance/Rosie/Icon_Specialization_RosieBusyBeestinger",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Familiar Friends** (Guess)
+> Unknown.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24375,
+    "graphic": "Icons/Champions/Rebalance/Rosie/Icon_Specialization_RosieFamiliarFriends",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Grandma Bod** (Guess)
+> Unknown.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24376,
+    "graphic": "Icons/Champions/Rebalance/Rosie/Icon_Specialization_RosieGrandmaBod",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Grandmother Night** (Guess)
+> Unknown.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24377,
+    "graphic": "Icons/Champions/Rebalance/Rosie/Icon_Specialization_RosieGrandmotherNight",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Slower Decay** (Guess)
+> Unknown.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24378,
+    "graphic": "Icons/Champions/Rebalance/Rosie/Icon_Specialization_RosieSlowerDecay",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
 </div></div>
 
 # Adventures and Variants
