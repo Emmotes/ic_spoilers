@@ -169,7 +169,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`gold`) || HasTag(`oxventure`)",
-            "show_bonus": true
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
@@ -218,7 +219,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **One Gold Piece** (Guess)
-> Assuming Rust does not already have one, he has a 10% chance to find a shiny gold piece after any kill that drops gold. Each time Rust finds a shiny gold piece he gains a Riches stack. Rust increases the effect of Hello, Friends by 10% for each Riches stack he has, stacking multiplicatively. Rust loses his shiny gold piece whenever you use his ultimate ability. Riches stacks are capped at the highest area unlocked / 5, rounded up.
+> Assuming Rust does not already have one, he has a 10% chance to find a shiny gold piece after any kill that drops gold. Each time Rust finds a shiny gold piece he gains a Riches stack. Rust increases the effect of Hello, Friends by 10% for each Riches stack he has, stacking multiplicatively. Rust loses his shiny gold piece whenever you use his ultimate ability. Riches stacks are capped at the highest area unlocked divided by 5, rounded up.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -226,7 +227,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2037,
     "flavour_text": "",
     "description": {
-        "desc": "Assuming Rust does not already have one, he has a $(amount___2)% chance to find a shiny gold piece after any kill that drops gold. Each time Rust finds a shiny gold piece he gains a Riches stack. Rust increases the effect of Hello, Friends by $(not_buffed amount)% for each Riches stack he has, stacking multiplicatively. Rust loses his shiny gold piece whenever you use his ultimate ability. Riches stacks are capped at the highest area unlocked / 5, rounded up.",
+        "desc": "Assuming Rust does not already have one, he has a $(amount___2)% chance to find a shiny gold piece after any kill that drops gold. Each time Rust finds a shiny gold piece he gains a Riches stack. Rust increases the effect of Hello, Friends by $(not_buffed amount)% for each Riches stack he has, stacking multiplicatively. Rust loses his shiny gold piece whenever you use his ultimate ability. Riches stacks are capped at the highest area unlocked divided by 5, rounded up.",
         "post": {
             "conditions": [
                 {
@@ -242,7 +243,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "buff_upgrade,10,15357",
             "stacks_multiply": true,
             "manual_stacking": true,
-            "amount_func": "mult",
             "show_bonus": true,
             "stack_title": "Riches stacks"
         },
@@ -257,13 +257,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "off_when_benched": true,
-            "effect_string": "stacks_data_binder_safe,0,rust_riches_stacks",
-            "is_instanced_stat": true,
-            "use_stat_defs": true
-        },
-        {
-            "off_when_benched": true,
-            "effect_string": "rust_one_gold_piece_v2"
+            "effect_string": "rust_one_gold_piece_v2",
+            "stacks_stat_name": "rust_riches_stacks",
+            "achievement_stat_name": "rust_whats_lost_is_found_again",
+            "has_gold_piece_stat_name": "rust_has_gold_piece"
         }
     ],
     "requirements": "",
@@ -305,7 +302,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stacks_multiply": true,
             "amount_func": "mult",
             "stack_func": "per_gold_find_orders_of_magnitude",
-            "show_bonus": true
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
@@ -323,7 +321,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Rags to Riches** (Guess)
-> Whenever Rust is holding a shiny gold piece, increase the effect of Hello, Friends by 200%. Whenever Rust is NOT holding a shiny gold piece, increase the effect of Rust For Hire by 200%.
+> Whenever Rust is holding a shiny gold piece, he increases the effect of Hello, Friends by 200%. Whenever Rust is NOT holding a shiny gold piece, he increases the effect of Rust For Hire by 200%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -331,7 +329,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2039,
     "flavour_text": "",
     "description": {
-        "desc": "Whenever Rust is holding a shiny gold piece, increase the effect of Hello, Friends by $amount%. Whenever Rust is NOT holding a shiny gold piece, increase the effect of Rust For Hire by $amount%."
+        "desc": "Whenever Rust is holding a shiny gold piece, he increases the effect of Hello, Friends by $amount%. Whenever Rust is NOT holding a shiny gold piece, he increases the effect of Rust For Hire by $amount%."
     },
     "effect_keys": [
         {
@@ -406,7 +404,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Even More Riches** (Guess)
-> Increase the cap of One Gold Piece's Riches stacks by 20% for each Champion in the formation with the Gold Find role or Oxventurers Guild affiliation, stacking multiplicatively.
+> Rust increases the cap of One Gold Piece's Riches stacks by 20% for each Champion in the formation with the Gold Find role or Oxventurers Guild affiliation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -414,7 +412,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2041,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the cap of One Gold Piece's Riches stacks by $(amount)% for each Champion in the formation with the Gold Find role or Oxventurers Guild affiliation, stacking multiplicatively."
+        "desc": "Rust increases the cap of One Gold Piece's Riches stacks by $(amount)% for each Champion in the formation with the Gold Find role or Oxventurers Guild affiliation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -424,7 +422,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`gold`) || HasTag(`oxventure`)",
-            "show_bonus": true
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "hero_tags_changed",
+                "slot_changed"
+            ]
         }
     ],
     "requirements": "",
