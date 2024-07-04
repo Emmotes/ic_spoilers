@@ -288,7 +288,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Freely</span>
         </span>
         <span class="featTableIcon4">
-            ![Fairy Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Fairy Glitch (Freely)**Wait, I'm short again?<code>todo</code></span>Fairy Glitch
+            ![Fairy Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Fairy Glitch (Freely)**Wait, I'm short again?<code>todo<br>DevNote: Freely counts as a Fairy. Increases Freely's Adventurous Tale ability by 20% (additively) for each unique race in the formation.</code></span>Fairy Glitch
         </span>
         <span class="featTableEffect">
             <span>todo</span>
@@ -424,7 +424,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Astarion</span>
         </span>
         <span class="featTableIcon4">
-            ![Satiate the Hunger Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Satiate the Hunger (Astarion)**Darling, anything is better than rats.<code>todo</code></span>Satiate the Hunger
+            ![Satiate the Hunger Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Satiate the Hunger (Astarion)**Darling, anything is better than rats.<code>todo<br>DevNote: new effect: Buff FA3/Well Fed - Max Stacks by 5</code></span>Satiate the Hunger
         </span>
         <span class="featTableEffect">
             <span>todo</span>
@@ -492,7 +492,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Nahara</span>
         </span>
         <span class="featTableIcon4">
-            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Make Undead (Nahara)**I feel stronger...<code>todo</code></span>Make Undead
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Make Undead (Nahara)**I feel stronger...<code>todo<br>DevNote: new effect [Nahara counts as 'undead' (gains the undead tag) and DPS is increased by 400%]</code></span>Make Undead
         </span>
         <span class="featTableEffect">
             <span>todo</span>
@@ -509,7 +509,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Widdle</span>
         </span>
         <span class="featTableIcon4">
-            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Make Undead (Widdle)**HUNGRY!<code>todo</code></span>Make Undead
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Make Undead (Widdle)**HUNGRY!<code>todo<br>DevNote: new effect [Widdle counts as 'undead' (gains the undead tag) and FA1/Vampiric Gaze is increased by 160%]</code></span>Make Undead
         </span>
         <span class="featTableEffect">
             <span>todo</span>
