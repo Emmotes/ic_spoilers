@@ -104,7 +104,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Yuan-ti Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Yuan-ti Glitch (Havilar)**Somethingsss Ssstrange... Wait, WHERE IS MY HAIR?!<code>add_hero_tags,0,yuan-ti<br>buff_upgrade_per_unique_race,20,3432</code></span>Yuan-ti Glitch
         </span>
         <span class="featTableEffect">
-            <span>Counts as Yuan Ti & +20% to Leadership Summit per Unique Race</span>
+            <span>Counts as Yuan-ti & +20% to Leadership Summit per Unique Race</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
