@@ -235,10 +235,10 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Avatar of Chauntea Familiar Pack - $11.99  
+### Avatar of Azuth Familiar Pack - $11.99  
 Date of release: 14 Aug 2024
 
-> Collect your own Avatar of Chauntea Familiar!
+> Collect your own Avatar of Azuth Familiar - the Marid!
 
 Contents:
 
