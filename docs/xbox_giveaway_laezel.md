@@ -6,7 +6,7 @@ Contents of an upcoming XBox exclusive platform giveaway have been spoiled.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Lae'zel's Champions of Renown Pack - FREE  
-Date of release: 31 August 2024
+Date of release: 07 August 2024
 
 > Unlock 5 awesome Champions and supercharge your progress!
 

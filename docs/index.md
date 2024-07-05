@@ -173,7 +173,7 @@ A list of champions that will be seeing reworks in upcoming events.
 Miscellaneous spoilers with due dates.
 
 * [Emergence 8](emergence_8.md) - 24 July 2024
-* [XBox Giveaway](xbox_giveaway_laezel.md) - 31 August 2024
+* [XBox Giveaway](xbox_giveaway_laezel.md) - 7 August 2024
 
 # Misc
 
