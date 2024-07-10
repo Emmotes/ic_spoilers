@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Detective Deekin Portrait](images/skin_portraits/detectivedeekin.png)Detective Deekin
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Detective Deekin Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">10 Jul 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Infiltrator Nahara Portrait](images/skin_portraits/infiltratornahara.png)Infiltrator Nahara
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Infiltrator Nahara Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">10 Jul 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Agent Vin Ursa Portrait](images/skin_portraits/agentvinursa.png)Agent Vin Ursa
         </span>
         <span class="skinTableSource">

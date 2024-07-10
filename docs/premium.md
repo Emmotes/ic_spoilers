@@ -5,40 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Detective Deekin Skin & Feat Pack - $11.99  
-Date of release: 10 Jul 2024
-
-> Unlock Deekin along with his exclusive Detective Skin & Feat!
-
-Contents:
-
-* Champion: `Deekin`
-* Skin: `Detective Deekin`
-* Feat: `Hyperconfidence` (Deekin)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Deekin Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Infiltrator Nahara Skin & Feat Pack - $11.99  
-Date of release: 10 Jul 2024
-
-> Unlock Nahara along with her exclusive Infiltrator Skin & Feat!
-
-Contents:
-
-* Champion: `Nahara`
-* Skin: `Infiltrator Nahara`
-* Feat: `Spell Master` (Nahara)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Nahara Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Agent Vin Ursa Skin & Feat Pack - $11.99  
 Date of release: 17 Jul 2024
 

@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Deekin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Hyperconfidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Hyperconfidence (Deekin)**Deekin is not worried. Boss promised Deekin would never be scared again.<code>buff_upgrade,80,1150</code></span>Hyperconfidence
-        </span>
-        <span class="featTableEffect">
-            <span>80% Confidence in the Boss</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>10 Jul 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Nahara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Spell Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">**Spell Master (Nahara)**These hands hold dangerous power. Do not cross me.<code>hero_dps_multiplier_mult,120</code></span>Spell Master
-        </span>
-        <span class="featTableEffect">
-            <span>120% Self DPS</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>10 Jul 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Sgt. Knox</span>
         </span>
         <span class="featTableIcon4">
