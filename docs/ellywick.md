@@ -36,7 +36,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "num_targets": 0,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
-    "cooldown": 3,
+    "cooldown": 600,
     "animations": [
         {
             "type": "ultimate_attack",
@@ -78,6 +78,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "show_bonus": true,
             "targets": [
                 "prev_col"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "stacks_changed",
+                "stat_changed,ellywick_cards_drawn_this_adventure"
+            ],
+            "changing_stack_upgade_ids": [
+                15229
             ]
         }
     ],
@@ -87,7 +95,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": false,
-        "formation_circle_icon": false
+        "formation_circle_icon": true
     }
 }
 </pre>
@@ -222,7 +230,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "ellywick_graphic_id": 10914,
                     "is_debuff": true,
                     "ult_debuff": {
-                        "effect_string": "monster_speed_reduce,50",
+                        "effect_string": "monster_speed_and_damage_decrease,50",
                         "active_graphic_id": 24166,
                         "active_graphic_x": 20,
                         "active_graphic_y": -120,
@@ -240,7 +248,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 },
                 {
                     "type": "Gem",
-                    "effect_key_index": 11,
+                    "effect_key_index": 12,
                     "graphic_id": 24162,
                     "ellywick_graphic_id": 10915,
                     "is_debuff": false,
@@ -300,6 +308,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "pre_stack_fates,5",
+            "effect_cap": 50,
             "skip_effect_key_desc": true
         },
         {
@@ -307,7 +316,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_expr": "upgrade_amount(15229,6)",
             "stacks_multiply": true,
             "manual_stacking": true,
-            "effect_cap": 50,
             "show_bonus": true,
             "desc_forced_order": 3,
             "stack_label": "Fate Cards",
@@ -334,11 +342,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "skip_effect_key_desc": true
         },
         {
-            "effect_string": "increase_boss_gems_percent,0",
+            "effect_string": "pre_stack_gem_amount,0",
             "amount_expr": "upgrade_amount(15229,10)*upgrade_amount(15229,1)*0.01",
+            "effect_cap": 100
+        },
+        {
+            "effect_string": "increase_boss_gems_percent,0",
+            "amount_expr": "upgrade_amount(15229,11)",
             "manual_stacking": true,
             "stacks_multiply": false,
-            "effect_cap": 100,
             "show_bonus": true,
             "desc_forced_order": 5,
             "stack_label": "Gem Cards",
@@ -383,9 +395,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stacks_multiply": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "post_process_expr": "GetSaveStat(`ellywick_cards_drawn_this_adventure`,true)",
+            "post_process_expr": "min(GetSaveStat(`ellywick_cards_drawn_this_adventure`,true),1000)",
             "max_stacks": 1000,
-            "show_bonus": true
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "stacks_changed",
+                "stat_changed,ellywick_cards_drawn_this_adventure"
+            ],
+            "changing_stack_upgade_ids": [
+                15229
+            ]
         }
     ],
     "requirements": "",
@@ -404,7 +424,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: For the Fans** (Guess)
-> Additively increases the odds of Knight cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%).
+> Additively increases the odds of Knight cards being drawn by 20% (additively reducing the odds of each other card by 5%).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -412,7 +432,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2031,
     "flavour_text": "",
     "description": {
-        "desc": "Additively increases the odds of Knight cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%)"
+        "desc": "Additively increases the odds of Knight cards being drawn by 20% (additively reducing the odds of each other card by 5%)"
     },
     "effect_keys": [
         {
@@ -443,7 +463,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Faster Tempo** (Guess)
-> Additively increases the odds of Moon cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%).
+> Additively increases the odds of Moon cards being drawn by 20% (additively reducing the odds of each other card by 5%).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -451,7 +471,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2032,
     "flavour_text": "",
     "description": {
-        "desc": "Additively increases the odds of Moon cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%)"
+        "desc": "Additively increases the odds of Moon cards being drawn by 20% (additively reducing the odds of each other card by 5%)"
     },
     "effect_keys": [
         {
@@ -482,7 +502,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: All That Sparkles** (Guess)
-> Additively increases the odds of Gem cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%).
+> Additively increases the odds of Gem cards being drawn by 20% (additively reducing the odds of each other card by 5%).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -490,7 +510,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2033,
     "flavour_text": "",
     "description": {
-        "desc": "Additively increases the odds of Gem cards being drawn by 20% to 40% (reducing the odds of each other card being drawn by 5%)"
+        "desc": "Additively increases the odds of Gem cards being drawn by 20% (additively reducing the odds of each other card by 5%)"
     },
     "effect_keys": [
         {
@@ -550,7 +570,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Formation
 
 <span class="formationBorder">
-    <svg xmlns="http://www.w3.org/2000/svg" id="Ellywick" fill="#aaa" data-formationName="Ellywick" data-campaignName="Midsummer" width="308" height="140"><circle cx="175" cy="45" r="15"/><circle cx="175" cy="85" r="15"/><circle cx="175" cy="125" r="15"/><circle cx="135" cy="25" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="85" r="15"/><circle cx="55" cy="25" r="15"/><circle cx="15" cy="45" r="15"/><circle cx="15" cy="85" r="15"/><circle cx="15" cy="125" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Ellywick</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Midsummer</text></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" id="Ellywick" fill="#aaa" data-formationName="Ellywick" data-campaignName="Ahghairon's Day" width="324" height="140"><circle cx="175" cy="45" r="15"/><circle cx="175" cy="85" r="15"/><circle cx="175" cy="125" r="15"/><circle cx="135" cy="25" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="85" r="15"/><circle cx="55" cy="25" r="15"/><circle cx="15" cy="45" r="15"/><circle cx="15" cy="85" r="15"/><circle cx="15" cy="125" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Ellywick</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Ahghairon's Day</text></svg>
 </span>
 
 [Back to Top](#top)
