@@ -30,6 +30,9 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Highharvestide - 4 September 2024</span>
             </span>
         </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/icon_melee.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>

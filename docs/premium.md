@@ -243,10 +243,9 @@ Date of release: 14 Aug 2024
 Contents:
 
 * Familiar: `Azuth's Marid`
-* Buff: `Huge Potion of Speed` x4
-* Buff: `Huge Potion of Giant's Strength` x4
-* Buff: `Huge Potion of Clairvoyance` x4
-* Buff: `Potion of Polish` x1
+* Buff: `Potion of the Hunter` x1
+* Buff: `Epic Golden Potion` x1
+* Buff: `Huge Potion of Speed` x2
 </div></div>
 
 

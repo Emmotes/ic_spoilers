@@ -15,106 +15,6 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Steam Giveaway Absolute Champions of Renown Pack Icon](images/general/steam.png)**Steam Giveaway** - Absolute Champions of Renown Pack
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Owlbear Cub Familiar Icon](images/exclusivities/fam_201.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Owlbear Cub</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>08 April 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>15 April 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>15 July 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Spring2024 Giveaway Spring Celebration 2024 Icon](images/general/spring2024.png)**Spring2024 Giveaway** - Spring Celebration 2024
-            </span>
-        </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Prodigal Leader</span>
-                        <span style="margin-left:15px">Astarion (50% All Champion Damage)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Elegant Astarion Skin Icon](images/exclusivities/skin_23346.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Elegant Astarion</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>08 April 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>15 April 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>15 July 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="s7a" onclick="exclusiveToggleContent(`s7`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -438,13 +338,13 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![WyrmSlayer Giveaway Wyrm Slayer Celebration 2024 Icon](images/general/wyrmslayer.png)**WyrmSlayer Giveaway** - Wyrm Slayer Celebration 2024
             </span>
         </span>
-        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -493,13 +393,13 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![EGS Giveaway Duke Ravengard's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Duke Ravengard's Champions of Renown Pack
             </span>
         </span>
-        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -661,13 +561,13 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g5a" onclick="exclusiveToggleContent(`g5`)">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![XBox Giveaway Lae'zel's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Lae'zel's Champions of Renown Pack
             </span>
         </span>
-        <span id="g5" class="postSeasonTableRowShowHide" hidden>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
