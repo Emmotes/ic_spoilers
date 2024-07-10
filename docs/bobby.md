@@ -49,7 +49,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">DPS (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -98,70 +98,152 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Thunder Club** (Melee)
+> Bobby moves up to the closest enemy and swings his club, dealing 1 hit to all nearby enemies.  
+> Cooldown: 3s (Cap 0.75s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 791,
+    "name": "Thunder Club",
+    "description": "Bobby swings his club at the closest enemy.",
+    "long_description": "Bobby moves up to the closest enemy and swings his club, dealing 1 hit to all nearby enemies.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 100,
+    "damage_modifier": 1,
+    "cooldown": 3,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 8,
+            "target_offset_x": -40,
+            "jump_sound": 30,
+            "sound_frames": {
+                "14": 154
+            }
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Bobby-quake** (Melee)
+> Bobby strikes the ground with his club, knocking all enemies up and back and stunning them for 5 seconds.  
+> Cooldown: 3s (Cap 0.75s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 792,
+    "name": "Bobby-quake",
+    "description": "Bobby strikes the ground with his club, stunning and knocking back all enemies.",
+    "long_description": "Bobby strikes the ground with his club, knocking all enemies up and back and stunning them for 5 seconds.",
+    "graphic_id": 24409,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 3,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 8
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Bobby's base chance to Critical Hit is 20%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2051,
+    "flavour_text": "",
+    "description": {
+        "desc": "Bobby's base chance to Critical Hit is $(amount)%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "set_base_crit_chance,20"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Charge Into Battle** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 24400,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y8/Icon_Formation_Bobby_ChargeIntoBattle",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
+> Bobby increases his damage by 100% for each column behind him, stacking multiplicatively.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Now We're Talking** (Guess)
-> Unknown effect.
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24401,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y8/Icon_Formation_Bobby_NowWereTalking",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Scales of Tiamat Scavenger** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 24402,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y8/Icon_Formation_Bobby_ScalesofTiamatScavenger",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2052,
+    "flavour_text": "",
+    "description": {
+        "desc": "Bobby increases his damage by $(amount)% for each column behind him, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(15443,0)",
+            "stacks_on_trigger": "on_columns_from,back",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "stack_title": "Columns from the back",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24400,
+    "large_graphic_id": 24396,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -176,16 +258,85 @@ Unknown.
 <p>
 <pre>
 {
-    "id": 24403,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y8/Icon_Formation_Bobby_UnitheUnicorn",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2053,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24403,
+    "large_graphic_id": 24399,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Now We're Talking** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2054,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24401,
+    "large_graphic_id": 24397,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Scales of Tiamat Scavenger** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2055,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24402,
+    "large_graphic_id": 24398,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
