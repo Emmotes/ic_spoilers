@@ -95,7 +95,7 @@ Unknown.
 </span>
 {% endcomment %}
 
-# Abilities
+# Attacks
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Thunder Club** (Melee)
@@ -173,6 +173,8 @@ Unknown.
 </p>
 </details>
 </div></div>
+
+# Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)

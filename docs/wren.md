@@ -102,7 +102,7 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
     </span>
 </span>
 
-# Abilities
+# Attacks
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Unarmed Strike** (Melee)
@@ -526,6 +526,8 @@ Wren will be an upcoming Evergreen champion guesstimated to release on 24 July 2
 </p>
 </details>
 </div></div>
+
+# Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
