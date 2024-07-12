@@ -423,6 +423,51 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Ellywick unlocks her ultimate ability and, when she uses it, discards her current hand of cards. There is an instant effect based on each card discarded:  
+>   
+> Knight - All enemies currently spawned take 500% more damage from all attacks (stacks multiplicatively)  
+> Moon - Instantly drop 10% of the gold from all currently spawned enemies (stacks multiplicatively)  
+> Fates - Champions gain temporary hit points for 50% of their max health (stacks additively)  
+> Flames - All currently spawned enemies move 50% slower and deal 50% less damage (stacks multiplicatively)  
+> Gems - The next X bosses you fight have their max health reduced by 50% (X = # of cards).
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2034,
+    "flavour_text": "",
+    "description": {
+        "desc": "Ellywick unlocks her ultimate ability and, when she uses it, discards her current hand of cards. There is an instant effect based on each card discarded:^^Knight - All enemies currently spawned take 500% more damage from all attacks (stacks multiplicatively)^Moon - Instantly drop 10% of the gold from all currently spawned enemies (stacks multiplicatively)^Fates - Champions gain temporary hit points for 50% of their max health (stacks additively)^Flames - All currently spawned enemies move 50% slower and deal 50% less damage (stacks multiplicatively)^Gems - The next X bosses you fight have their max health reduced by 50% (X = # of cards)"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "ellywick_call_of_the_feywild",
+            "off_when_benched": true,
+            "short_riff_sequence": 4,
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "set_ultimate_attack"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24160,
+    "large_graphic_id": 24159,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": false,
+        "formation_circle_icon": false,
+        "show_incoming": false,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: For the Fans** (Guess)
 > Additively increases the odds of Knight cards being drawn by 20% (additively reducing the odds of each other card by 5%).
 <details><summary><em>Raw Data</em></summary>
