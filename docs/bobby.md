@@ -255,7 +255,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Uni the Unicorn** (Guess)
-> Unknown effect.
+> Uni takes her place next to Bobby. Uni increases the damage of Bobby and all other Champions next to her by 100%. If Uni is in Dungeon Master's formation slot, this is further increased by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -263,11 +263,26 @@ Unknown.
     "id": 2053,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Uni takes her place next to Bobby. Uni increases the damage of Bobby and all other Champions next to her by $(amount___2)%. If Uni is in Dungeon Master's formation slot, this is further increased by $(amount___3)%."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "bobby_uni_the_unicorn",
+            "adjacent_buff_effect_index": 1,
+            "dm_bonus_effect_index": 2,
+            "dm_hero_id": 99
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "self_and_adj"
+            ],
+            "show_bonus": true
+        },
+        {
+            "effect_string": "buff_upgrade,400,15444,1",
+            "apply_manually": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -276,7 +291,12 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "use_owner_override": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -286,7 +306,9 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Now We're Talking** (Guess)
-> Unknown effect.
+> Whenever Bobby lands a Critical Hit, the effect of Charge Into Battle is increased by 100%, stacking multiplicatively up to 10 times and resetting when changing areas.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -294,11 +316,30 @@ Unknown.
     "id": 2054,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Whenever Bobby lands a Critical Hit, the effect of Charge Into Battle is increased by $(amount)%, stacking multiplicatively up to 10 times and resetting when changing areas."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,15443,0",
+            "amount_expr": "upgrade_amount(15445,0)",
+            "off_when_benched": false,
+            "max_stacks": 10,
+            "total_title": "Total Charge Into Battle Bonus",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "stacks_on_trigger": "pre_owner_attack_crit",
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                }
+            ]
         }
     ],
     "requirements": "",
@@ -307,7 +348,10 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -317,7 +361,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Scales of Tiamat Scavenger** (Guess)
-> Unknown effect.
+> Bobby can help scavenge up to 20 additional Electrum Chests from boss loot sacks. While this cap is not reached, Diana has a 0.5% chance of scavenging 1 Electrum Chest each time a boss drops a loot bag. The cap increases by 0.5 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -325,11 +369,29 @@ Unknown.
     "id": 2055,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Bobby can help scavenge up to $(current_scavenge_cap diana_electrum_scavenger floor) additional Electrum Chests from boss loot sacks. While this cap is not reached, Diana has a $amount% chance of scavenging 1 Electrum Chest each time a boss drops a loot bag. The cap increases by $cap_increase_per_day every day.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Electrum Chests Scavenged: $(stat_value diana_electrum_collected 0 none) ($(stat_value diana_electrum_collected_this_adventure 1 none) this adventure)"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "off_when_benched": true,
+            "effect_string": "scavenge_items,0.5",
+            "id": "diana_electrum_scavenger",
+            "item_type": "chest",
+            "item_id": 282,
+            "initial_cap": 20,
+            "cap_increase_per_day": 0.5,
+            "start_date": "2024-05-01 12:00:00",
+            "total_collected_stat": "diana_electrum_collected",
+            "adventure_collected_stat": "diana_electrum_collected_this_adventure",
+            "upgrade_id": 14798
         }
     ],
     "requirements": "",
