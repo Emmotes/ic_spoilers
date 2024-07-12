@@ -21,23 +21,186 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Busy Beestinger** (Guess)
-> Unknown.
+**Unknown** (Guess)
+> Rosie deals +400% increased damage for every Champion in the formation younger than she is, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24374,
-    "graphic": "Icons/Champions/Rebalance/Rosie/Icon_Specialization_RosieBusyBeestinger",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2062,
+    "flavour_text": "",
+    "description": {
+        "desc": "Rosie deals +$amount% increased damage for every Champion in the formation younger than she is, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack_amount,400"
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(15604,0)",
+            "amount_mult": "mult",
+            "show_bonus": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "age<110&&hero_id!=146",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2063,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2064,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2065,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2066,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2067,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,15604",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 5211,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -47,47 +210,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Familiar Friends** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24375,
-    "graphic": "Icons/Champions/Rebalance/Rosie/Icon_Specialization_RosieFamiliarFriends",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Grandma Bod** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 24376,
-    "graphic": "Icons/Champions/Rebalance/Rosie/Icon_Specialization_RosieGrandmaBod",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2068,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 24375,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -97,22 +237,78 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Grandmother Night** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24377,
-    "graphic": "Icons/Champions/Rebalance/Rosie/Icon_Specialization_RosieGrandmotherNight",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2069,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 24377,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Grandma Bod** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2070,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 24376,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Busy Beestinger** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2071,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 24374,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -122,22 +318,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Slower Decay** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24378,
-    "graphic": "Icons/Champions/Rebalance/Rosie/Icon_Specialization_RosieSlowerDecay",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2072,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 24378,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
