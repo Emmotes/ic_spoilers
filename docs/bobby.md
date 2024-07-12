@@ -49,7 +49,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">DPS (Guess)</span>
+            <span style="margin-left:8px;">DPS / Support (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
