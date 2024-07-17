@@ -5,40 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Agent Vin Ursa Skin & Feat Pack - $11.99  
-Date of release: 17 Jul 2024
-
-> Unlock Vin Ursa along with her exclusive Agent Skin & Feat!
-
-Contents:
-
-* Champion: `Vin Ursa`
-* Skin: `Agent Vin Ursa`
-* Feat: `All Hands!` (Vin Ursa)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Vin Ursa Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Undercover Sgt. Knox Skin & Feat Pack - $11.99  
-Date of release: 17 Jul 2024
-
-> Unlock Sgt. Knox along with his exclusive Undercover Skin & Feat!
-
-Contents:
-
-* Champion: `Sergeant Knox`
-* Skin: `Undercover Sgt. Knox`
-* Feat: `Prodigal Leader` (Sgt. Knox)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Sergeant Knox Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Dr. Buzz Watson the Bee Familiar Pack - $5.99  
 Date of release: 24 Jul 2024
 

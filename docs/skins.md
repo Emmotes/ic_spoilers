@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Agent Vin Ursa Portrait](images/skin_portraits/agentvinursa.png)Agent Vin Ursa
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Agent Vin Ursa Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">17 Jul 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Undercover Sgt. Knox Portrait](images/skin_portraits/undercoversgtknox.png)Undercover Sgt. Knox
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Undercover Sgt. Knox Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">17 Jul 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Secret Agent Maan Portrait](images/skin_portraits/secretagentmaan.png)Secret Agent Maan
         </span>
         <span class="skinTableSource">

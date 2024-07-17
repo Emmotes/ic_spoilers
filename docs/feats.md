@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Sgt. Knox</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Sgt. Knox)**Many are called, but few can serve as a true leader.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>17 Jul 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Vin Ursa</span>
-        </span>
-        <span class="featTableIcon4">
-            ![All Hands! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**All Hands! (Vin Ursa)**Did anyone see where the spelljammer went?<code>buff_upgrades,80,12090,12091</code></span>All Hands!
-        </span>
-        <span class="featTableEffect">
-            <span>80% All First Specialisations</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>17 Jul 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Havilar</span>
         </span>
         <span class="featTableIcon4">
