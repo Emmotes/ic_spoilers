@@ -147,7 +147,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Hello Friends** (Guess)
+**Hello, Friends** (Guess)
 > Rust increases the damage of all Champions by 400% for each Champion in the formation with the Gold Find role or the Oxventurers Guild affiliation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
