@@ -418,8 +418,6 @@ Unknown.
 </details>
 </div></div>
 
-# Specialisations
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > Bobby strikes the ground with his club causing a small earthquake, briefly launching all enemies into the air and back a short distance. Each enemy takes one ultimate hit and is stunned for 5 seconds.
@@ -450,6 +448,8 @@ Unknown.
 </p>
 </details>
 </div></div>
+
+# Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Strong Armed** (Guess)
