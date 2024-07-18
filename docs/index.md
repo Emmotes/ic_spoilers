@@ -180,7 +180,7 @@ A list of champions that will be seeing reworks in upcoming events.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+            ![Voronika Portrait Icon](images/voronika/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
