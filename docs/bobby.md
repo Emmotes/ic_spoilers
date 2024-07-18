@@ -139,9 +139,11 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Bobby-quake** (Melee)
+**Ultimate Attack: Bobby-quake**
 > Bobby strikes the ground with his club, knocking all enemies up and back and stunning them for 5 seconds.  
 > Cooldown: 3s (Cap 0.75s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -158,12 +160,16 @@ Unknown.
     "cooldown": 3,
     "animations": [
         {
-            "type": "melee_attack",
-            "damage_frame": 8
+            "type": "ultimate_attack",
+            "ultimate": "bobby",
+            "knockback_effect": {
+                "effect_string": "push_back_monster,10"
+            }
         }
     ],
     "tags": [
-        "melee"
+        "melee",
+        "ultimate"
     ],
     "damage_types": [
         "melee"
@@ -263,26 +269,30 @@ Unknown.
     "id": 2053,
     "flavour_text": "",
     "description": {
-        "desc": "Uni takes her place next to Bobby. Uni increases the damage of Bobby and all other Champions next to her by $(amount___2)%. If Uni is in Dungeon Master's formation slot, this is further increased by $(amount___3)%."
+        "desc": "Uni takes her place next to Bobby. Uni increases the damage of Bobby and all other Champions next to her by $(amount___2)%. If Uni is in Dungeon Master's formation slot, this is further increased by $(amount___4)%."
     },
     "effect_keys": [
         {
             "effect_string": "bobby_uni_the_unicorn",
             "adjacent_buff_effect_index": 1,
-            "dm_bonus_effect_index": 2,
+            "dm_bonus_effect_index": 3,
             "dm_hero_id": 99
         },
         {
-            "effect_string": "hero_dps_multiplier_mult,100",
+            "effect_string": "pre_buff,100"
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(15444,1)",
             "targets": [
                 "self_and_adj"
             ],
             "show_bonus": true
         },
         {
-            "effect_string": "buff_upgrade,400,15444,1",
+            "effect_string": "buff_upgrade,400,15444,2",
             "apply_manually": true,
-            "show_bonus": true
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
@@ -361,7 +371,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Scales of Tiamat Scavenger** (Guess)
-> Bobby can help scavenge up to 20 additional Electrum Chests from boss loot sacks. While this cap is not reached, Diana has a 0.5% chance of scavenging 1 Electrum Chest each time a boss drops a loot bag. The cap increases by 0.5 every day.
+> Bobby can help scavenge up to 5000 additional Scales of Tiamat from boss loot sacks. While this cap is not reached, Bobby has a 10% chance of scavenging 10 Scales of Tiamat each time a boss drops a loot bag. The cap increases by 150 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -369,12 +379,12 @@ Unknown.
     "id": 2055,
     "flavour_text": "",
     "description": {
-        "desc": "Bobby can help scavenge up to $(current_scavenge_cap diana_electrum_scavenger floor) additional Electrum Chests from boss loot sacks. While this cap is not reached, Diana has a $amount% chance of scavenging 1 Electrum Chest each time a boss drops a loot bag. The cap increases by $cap_increase_per_day every day.",
+        "desc": "Bobby can help scavenge up to $(current_scavenge_cap bobby_scale_scavenger floor) additional Scales of Tiamat from boss loot sacks. While this cap is not reached, Bobby has a $amount% chance of scavenging 10 Scales of Tiamat each time a boss drops a loot bag. The cap increases by $cap_increase_per_day every day.",
         "post": {
             "conditions": [
                 {
                     "condition": "not static_desc",
-                    "desc": "^^Electrum Chests Scavenged: $(stat_value diana_electrum_collected 0 none) ($(stat_value diana_electrum_collected_this_adventure 1 none) this adventure)"
+                    "desc": "^^Scales of Tiamat Scavenged: $(stat_value bobby_scales_collected 0 none) ($(stat_value bobby_scales_collected_this_adventure 1 none) this adventure)"
                 }
             ]
         }
@@ -382,16 +392,16 @@ Unknown.
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "scavenge_items,0.5",
-            "id": "diana_electrum_scavenger",
-            "item_type": "chest",
-            "item_id": 282,
-            "initial_cap": 20,
-            "cap_increase_per_day": 0.5,
-            "start_date": "2024-05-01 12:00:00",
-            "total_collected_stat": "diana_electrum_collected",
-            "adventure_collected_stat": "diana_electrum_collected_this_adventure",
-            "upgrade_id": 14798
+            "effect_string": "scavenge_items,10",
+            "id": "bobby_scale_scavenger",
+            "item_type": "scales_of_tiamat",
+            "initial_cap": 5000,
+            "cap_increase_per_day": 150,
+            "start_date": "2024-07-01 12:00:00",
+            "total_collected_stat": "bobby_scales_collected",
+            "adventure_collected_stat": "bobby_scales_collected_this_adventure",
+            "upgrade_id": 15446,
+            "amount_per_drop": 10
         }
     ],
     "requirements": "",
@@ -411,70 +421,29 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Group Charge** (Guess)
-> Unknown effect.
+**Unknown** (Guess)
+> Bobby strikes the ground with his club causing a small earthquake, briefly launching all enemies into the air and back a short distance. Each enemy takes one ultimate hit and is stunned for 5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24404,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y8/Icon_Specialization_Bobby_GroupCharge",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Not So Low** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 24405,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y8/Icon_Specialization_Bobby_NotSoLow",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Still Growing Up** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 24406,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y8/Icon_Specialization_Bobby_StillGrowingUp",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2061,
+    "flavour_text": "",
+    "description": {
+        "desc": "Bobby strikes the ground with his club causing a small earthquake, briefly launching all enemies into the air and back a short distance. Each enemy takes one ultimate hit and is stunned for 5 seconds."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "set_ultimate_attack"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24409,
+    "large_graphic_id": 24409,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -484,21 +453,193 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Strong Armed** (Guess)
-> Unknown effect.
+> Bobby increases his damage by 100%. When Bobby scores a Critical Hit, the enemies are also knocked back and stunned for 5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24407,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y8/Icon_Specialization_Bobby_StrongArmed",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2056,
+    "flavour_text": "",
+    "description": {
+        "desc": "Bobby increases his damage by $(amount)%. When Bobby scores a Critical Hit, the enemies are also knocked back and stunned for 5 seconds."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "self"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        },
+        {
+            "effect_string": "add_crit_effect,5",
+            "crit_effect": {
+                "effect_string": "stun,$amount"
+            }
+        },
+        {
+            "effect_string": "add_crit_effect,15",
+            "crit_effect": {
+                "effect_string": "push_back_monster,$amount"
+            }
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Group Charge** (Guess)
+> Bobby's Charge Into Battle now also increases the damage of all Champions behind Bobby by $(amount)% of the buff it provides to Bobby.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2057,
+    "flavour_text": "",
+    "description": {
+        "desc": "Bobby's Charge Into Battle now also increases the damage of all Champions behind Bobby by $(amount)% of the buff it provides to Bobby."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing,100",
+            "dev_note": "this is the pre-stack amount",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(15443,1)*upgrade_amount(15448,0)*0.01",
+            "targets": [
+                "behind"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": false,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Not So Low** (Guess)
+> Bobby increases the effect of his first Specialization choice by 100% for each Champion in the formation with a total ability score of 78 or less, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2058,
+    "flavour_text": "",
+    "description": {
+        "desc": "Bobby increases the effect of his first Specialization choice by $(amount)% for each Champion in the formation with a total ability score of 78 or less, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrades,0,15447,15448",
+            "amount_expr": "upgrade_amount(15449,0)",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "GetStat(`total_ability_score`)<=78",
+            "amount_func": "mult",
+            "show_bonus": true,
+            "stack_title": "Humble Champions",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Still Growing Up** (Guess)
+> Bobby increases the effect of his first Specialization choice by 100% for each Champion in the formation that is 20 years old or younger, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2059,
+    "flavour_text": "",
+    "description": {
+        "desc": "Bobby increases the effect of his first Specialization choice by $(amount)% for each Champion in the formation that is 20 years old or younger, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrades,0,15447,15448",
+            "amount_expr": "upgrade_amount(15450,0)",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "age<=20",
+            "amount_func": "mult",
+            "show_bonus": true,
+            "stack_title": "Young Champions",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -508,21 +649,47 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Stunning Strength** (Guess)
-> Unknown effect.
+> Bobby increases the effect of his first Specialization choice by 100% for each Champion in the formation with a Strength of 15 or higher, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24408,
-    "graphic": "Icons/Events/2017Highharvestide/Highharvestide_Y8/Icon_Specialization_Bobby_StunningStrength",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "id": 2060,
+    "flavour_text": "",
+    "description": {
+        "desc": "Bobby increases the effect of his first Specialization choice by $(amount)% for each Champion in the formation with a Strength of 15 or higher, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrades,0,15447,15448",
+            "amount_expr": "upgrade_amount(15451,0)",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "GetStat(`str`)>=15",
+            "amount_func": "mult",
+            "show_bonus": true,
+            "stack_title": "Strong Champions",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
