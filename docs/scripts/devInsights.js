@@ -1,4 +1,4 @@
-const v = 1721941200;
+const d = 172.19;
 const devInsights = [
 	1721941200000,
 	1722546000000,
