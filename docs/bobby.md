@@ -418,37 +418,6 @@ Unknown.
 </details>
 </div></div>
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> Bobby strikes the ground with his club causing a small earthquake, briefly launching all enemies into the air and back a short distance. Each enemy takes one ultimate hit and is stunned for 5 seconds.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 2061,
-    "flavour_text": "",
-    "description": {
-        "desc": "Bobby strikes the ground with his club causing a small earthquake, briefly launching all enemies into the air and back a short distance. Each enemy takes one ultimate hit and is stunned for 5 seconds."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "set_ultimate_attack"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 24409,
-    "large_graphic_id": 24409,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
