@@ -166,23 +166,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Voronika</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>14 Aug 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Jim</span>
         </span>
         <span class="featTableIcon4">
@@ -220,10 +203,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Freely</span>
         </span>
         <span class="featTableIcon4">
-            ![Fairy Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Fairy Glitch (Freely)**Wait, I'm short again?<code>todo<br>DevNote: Freely counts as a Fairy. Increases Freely's Adventurous Tale ability by 20% (additively) for each unique race in the formation.</code></span>Fairy Glitch
+            ![Fairy Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Fairy Glitch (Freely)**Wait, I'm short again?<code>add_hero_tags,0,fairy<br>todo<br>DevNote: Increases Freely's Adventurous Tale ability by 20% (additively) for each unique race in the formation.</code></span>Fairy Glitch
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Counts as Fairy & todo</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -431,6 +414,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableSource">
             <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Voronika</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>???: {premium=600}</span>
         </span>
         <span class="featTableDate">
             <span>23 Oct 2024</span>
