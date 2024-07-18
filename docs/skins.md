@@ -233,6 +233,34 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-right: 8px;">???</span>
         </span>
     </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Harvestguard D'hani Portrait](images/skin_portraits/harvestguarddhani.png)Harvestguard D'hani
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mindflayer Minsc Portrait](images/skin_portraits/mindflayerminsc.png)Mindflayer Minsc
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
