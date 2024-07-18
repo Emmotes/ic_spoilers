@@ -21,7 +21,175 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Base Attack: Shadow Arts** (Guess)
+> Rosie darts towards a random enemy and swings her staff, dealing 10 seconds of BUD damage to all enemies in a small area.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 794,
+    "name": "Shadow Arts",
+    "description": "Rosie darts towards a random enemy and swings her staff, dealing 10 seconds of BUD damage to all enemies in a small area.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 150,
+    "damage_modifier": 1,
+    "cooldown": 4.5,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -60,
+            "damage_frame": 4,
+            "animation_sequence_name": "attack_b",
+            "force_count_for_bud": false,
+            "effect_on_monsters": {
+                "effect_string": "damage_monster_target_by_bud",
+                "hit_monsters": true,
+                "damage_mult": 10,
+                "after_damage": true
+            }
+        }
+    ],
+    "tags": [
+        "melee",
+        "aoe"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Shadow Step** (Guess)
+> Rosie Shadow Steps behind one of the three closest enemies at random and hits them with a flurry of blows.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 795,
+    "name": "Shadow Step",
+    "description": "Rosie Shadow Steps behind one of the three closest enemies at random and hits them with a flurry of blows.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "random_front_3",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.5,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "animation": "simple_teleport",
+            "target_offset_x": 125,
+            "damage_frame": 30,
+            "teleport_to_frame": 13,
+            "teleport_from_frame": 40,
+            "hit_frames": [
+                21,
+                24,
+                26,
+                30
+            ]
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Grammamancy** (Guess)
+> Rosie roots all enemies in place for 5 seconds and becomes a blur of movement, pummeling up to 10 enemies on screen for ultimate damage, and refilling her deflect stacks to max.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 796,
+    "name": "Grammamancy",
+    "description": "Rosie roots all enemies and darts around, striking up to 10, then prepares to deflect more missiles.",
+    "long_description": "Rosie roots all enemies in place for 5 seconds and becomes a blur of movement, pummeling up to 10 enemies on screen for ultimate damage, and refilling her deflect stacks to max.",
+    "graphic_id": 5213,
+    "target": "random",
+    "num_targets": 10,
+    "aoe_radius": 0,
+    "damage_modifier": 0.033,
+    "cooldown": 220,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "animation": "split_sequence_multi_target",
+            "damage_frame": 8,
+            "is_teleport": true,
+            "power_up_sequence": {
+                "start_frame": 0,
+                "end_frame": 34,
+                "repeat": true,
+                "attack_seq": "ultimate",
+                "effect_frames": {
+                    "1": {
+                        "effect_string": "monster_speed_reduce,100",
+                        "for_time": 5,
+                        "active_graphic_id": 1509,
+                        "active_graphic_y": -60,
+                        "activate_on_animation_cancelled": true
+                    }
+                }
+            },
+            "sequences": [
+                {
+                    "hit_frames": [
+                        41,
+                        48,
+                        52
+                    ],
+                    "start_frame": 34,
+                    "damage_frame": 52,
+                    "end_frame": 64,
+                    "target_offset_x": -50,
+                    "attack_seq": "ultimate",
+                    "frame_rate": 60
+                }
+            ],
+            "cooldown_sequence": {
+                "start_frame": 64,
+                "attack_seq": "ultimate",
+                "effect_frames": {
+                    "-1": {
+                        "effect_string": "set_upgrade_stacks_to_max,15605,0",
+                        "activate_on_animation_cancelled": true
+                    }
+                }
+            }
+        }
+    ],
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Sassy** (Guess)
 > Rosie deals +400% increased damage for every Champion in the formation younger than she is, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -36,15 +204,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
+            "off_when_benched": true,
             "effect_string": "pre_stack_amount,400"
         },
         {
+            "off_when_benched": true,
             "effect_string": "hero_dps_multiplier_mult,0",
             "amount_expr": "upgrade_amount(15604,0)",
-            "amount_mult": "mult",
+            "amount_func": "mult",
             "show_bonus": true,
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "age<110&&hero_id!=146",
+            "per_hero_expr": "age<110 && hero_id!=146",
             "amount_updated_listeners": [
                 "slot_changed"
             ]
@@ -68,8 +238,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> 
+**Deflect Missiles** (Guess)
+> Rosie gains a deflect stack every time she attacks. She can store up to 100 deflect stacks at once. Whenever an enemy attacks the formation with a ranged/magic attack, Rosie consumes a deflect stack and reflects it back at the attacker. The reflected attack deals Rosie's damage with a 100% additively increased chance of dealing a critical hit. This effect can trigger as often as necessary, as long as Rosie has deflect stacks available.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -77,16 +247,43 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2063,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Rosie gains a deflect stack every time she attacks. She can store up to $max_stacks deflect stacks at once. Whenever an enemy attacks the formation with a ranged/magic attack, Rosie consumes a deflect stack and reflects it back at the attacker. The reflected attack deals Rosie's damage with a 100% additively increased chance of dealing a critical hit. This effect can trigger as often as necessary, as long as Rosie has deflect stacks available."
     },
-    "effect_keys": [],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing",
+            "stacks_on_trigger": "owner_attack",
+            "max_stacks": 100,
+            "stack_title": "Deflect Stacks",
+            "show_stacks": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "return_source_damage_when_hit,100",
+            "filter_damage_types": [
+                "ranged",
+                "magic"
+            ],
+            "projectile": "return_projectile",
+            "take_no_damage": true,
+            "require_min_stacks": 1,
+            "consume_stacks": 1,
+            "stacks_effect_key_index": 0,
+            "additional_crits": 1,
+            "broadcast_trigger": "rosie_deflected"
+        }
+    ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -95,8 +292,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> 
+**Timeless Body** (Guess)
+> Rosie gains a Timeless Body stack every time she successfully deflects a ranged/magic attack with Deflect Missiles. For each Timeless Body stack she has, Rosie increases the effect of Sassy by 1%, stacking additively. Stacks persist between adventures.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -104,16 +301,33 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2064,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Rosie gains a Timeless Body stack every time she successfully deflects a ranged/magic attack with Deflect Missiles. For each Timeless Body stack she has, Rosie increases the effect of Sassy by $amount%, stacking additively. Stacks persist between adventures."
     },
-    "effect_keys": [],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,1,15604,1",
+            "stacks_multiply": false,
+            "stacks_on_trigger": "on_broadcast_trigger,rosie_deflected",
+            "show_bonus": true,
+            "stack_title": "Timeless Body Stacks"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "stacks_data_binder_safe,0,rosie_timeless_body_stacks",
+            "is_instanced_stat": false
+        }
+    ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -122,8 +336,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> 
+**Slow Decay** (Guess)
+> Whenever Rosie is your BUD-setting Champion, the rate of BUD decay is decreased by $amount%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -131,9 +345,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2065,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Whenever Rosie is your BUD-setting Champion, the rate of BUD decay is decreased by $amount%."
     },
-    "effect_keys": [],
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing,50"
+        }
+    ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
@@ -150,7 +368,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> 
+> Rosie's critical hit damage is increased by 100% for every 100 levels she has been leveled up, stacking multiplicatively. Additionally, for every 4th attack, Rosie makes a Shadow Arts attack that deals 10 seconds worth of BUD damage to all enemies in a small area.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -158,16 +376,43 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2066,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "conditions": [
+            {
+                "condition": "feat_assigned 0",
+                "desc": "Rosie's critical hit damage is increased by $amount% for every 100 levels she has been leveled up, stacking multiplicatively. Additionally, for every 3rd attack, Rosie makes a Shadow Arts attack that deals 10 seconds worth of BUD damage to all enemies in a small area."
+            },
+            {
+                "desc": "Rosie's critical hit damage is increased by $amount% for every 100 levels she has been leveled up, stacking multiplicatively. Additionally, for every 4th attack, Rosie makes a Shadow Arts attack that deals 10 seconds worth of BUD damage to all enemies in a small area."
+            }
+        ]
     },
-    "effect_keys": [],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_base_crit_damage_mult,100",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "floor(level/100)",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "hero_level_changed"
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "change_base_attack_every,100,794,4"
+        }
+    ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -177,7 +422,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Matriarch** (Guess)
-> 
+> Increases the effect of Sassy by 100% for every female champion in the formation who is younger than Rosie, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -185,13 +432,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2067,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Increases the effect of Sassy by $amount% for every female champion in the formation who is younger than Rosie, stacking multiplicatively."
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,15604",
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0,15604,1",
+            "amount_expr": "upgrade_amount(15609,0)",
+            "show_bonus": true,
             "amount_func": "mult",
-            "stack_func": "per_hero_attribute"
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`female`) && age<110",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -200,7 +458,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -210,7 +471,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Familiar Friends** (Guess)
-> 
+> Increases the effect of Sassy by 100% for every Champion in the formation that belongs to the "C"-team, Acquisitions Incorporated, or Wafflecrew affiliations, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -218,16 +481,36 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2068,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Increases the effect of Sassy by $amount% for every Champion in the formation that belongs to the \"C\"-team, Acquisitions Incorporated, or Wafflecrew affiliations, stacking multiplicatively."
     },
-    "effect_keys": [],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0,15604,1",
+            "amount_expr": "upgrade_amount(15610,0)",
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`cteam`) || HasTag(`acqinc`) || HasTag(`wafflecrew`)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        }
+    ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 24375,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -237,7 +520,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Grandmother Night** (Guess)
-> 
+> Increases the effect of Sassy by 100% for every Champion in the formation that is a Halfling, Rogue, or Monk, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -245,16 +530,36 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2069,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Increases the effect of Sassy by $amount% for every Champion in the formation that is a Halfling, Rogue, or Monk, stacking multiplicatively."
     },
-    "effect_keys": [],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0,15604,1",
+            "amount_expr": "upgrade_amount(15611,0)",
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`halfling`) || HasTag(`rogue`) || HasTag(`monk`)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        }
+    ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 24377,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -264,7 +569,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Grandma Bod** (Guess)
-> 
+> The damage bonus provided by Timeless Body stacks is increased by 200%, and whenever she deflects a ranged/magic attack with Deflect Missiles she gains 4 stacks of Timeless Body instead of 1.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -272,16 +577,28 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2070,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "The damage bonus provided by Timeless Body stacks is increased by $amount%, and whenever she deflects a ranged/magic attack with Deflect Missiles she gains 4 stacks of Timeless Body instead of 1."
     },
-    "effect_keys": [],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,200,15606"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade_effect_stacks_trigger_add,3,15606"
+        }
+    ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 24376,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -291,7 +608,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Busy Beestinger** (Guess)
-> 
+> Rosie's attack speed cooldown is lowered by 0.5 seconds (stacking additively) and her damage is increased by 400% (stacking multiplicatively) for each member of the "C"-Team in the formation, including herself.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -299,16 +616,39 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2071,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Rosie's attack speed cooldown is lowered by $amount seconds (stacking additively) and her damage is increased by $(amount___2)% (stacking multiplicatively) for each member of the \"C\"-Team in the formation, including herself."
     },
-    "effect_keys": [],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "reduce_attack_cooldown_per_any_tagged_crusader,0.5,cteam",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,400",
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`cteam`)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        }
+    ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 24374,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1,
+        "spec_option_post_apply_info": "\"C\"-Team Champions: $num_stacks"
     }
 }
 </pre>
@@ -318,7 +658,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Slower Decay** (Guess)
-> 
+> Increase Rosie's critical hit damage by 600% and the effect of Slow Decay is set to $(amount___2)%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -326,16 +666,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2072,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Increase Rosie's critical hit damage by $amount% and the effect of Slow Decay is set to $(amount___2)%."
     },
-    "effect_keys": [],
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_base_crit_damage_mult,600"
+        }
+    ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 24378,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -351,7 +699,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![A Lighter Touch Icon](images/rosie/5189.png) **Variant 1: A Lighter Touch** (Complete Area 75)
-> Only Champions with STR of 14 or lower can be used. Champions with INT of 14 or higher deal 400% additional damage.
+> Only Champions with STR of 14 or lower can be used. Rosie and Champions with INT of 14 or higher deal 400% additional damage.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Flay the Fools Icon](images/rosie/5190.png) **Variant 2: Flay the Fools** (Complete Area 125)
