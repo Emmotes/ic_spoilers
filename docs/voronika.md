@@ -52,8 +52,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <p>
 <pre>
 {
-    "id": 24577,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Formation_Voronika_Puppermaster",
+    "id": 24578,
+    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Formation_Voronika_Speedrun",
     "v": 3,
     "fs": 0,
     "p": 0,
