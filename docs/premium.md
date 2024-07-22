@@ -150,23 +150,6 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Archdruid Voronika Skin & Feat Pack - $11.99  
-Date of release: 14 Aug 2024
-
-> Unlock Voronika along with her exclusive Archdruid Skin & Feat!
-
-Contents:
-
-* Champion: `Voronika`
-* Skin: `Archdruid Voronika`
-* Feat: `Prodigal Leader` (Voronika)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Voronika Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Avatar of Azuth Familiar Pack - $11.99  
 Date of release: 14 Aug 2024
 

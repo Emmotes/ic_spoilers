@@ -123,20 +123,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Archdruid Voronika Portrait](images/skin_portraits/archdruidvoronika.png)Archdruid Voronika
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Archdruid Voronika Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">14 Aug 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Masquerade Lae'zel Portrait](images/skin_portraits/masqueradelaezel.png)Masquerade Lae'zel
         </span>
         <span class="skinTableSource">
