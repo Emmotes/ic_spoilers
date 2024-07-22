@@ -91,7 +91,7 @@ We know the next Emergence event will be Planescape and that it will start on 24
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Chest Icon](images/general/unknown.png)
+            ![Planescape Emergence Chest Icon](images/emergence_8/chest_633.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
