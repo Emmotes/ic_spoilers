@@ -45,7 +45,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-left: 8px;">Triton Glitch Nayeli Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">$9.99</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">24 Jul 2024</span>
@@ -123,6 +123,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Archdruid Voronika Portrait](images/skin_portraits/archdruidvoronika.png)Archdruid Voronika
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">14 Aug 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Masquerade Lae'zel Portrait](images/skin_portraits/masqueradelaezel.png)Masquerade Lae'zel
         </span>
         <span class="skinTableSource">
@@ -179,6 +193,132 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Founder's Pack VII</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$19.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">04 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Harvestguard Bobby Portrait](images/skin_portraits/harvestguardbobby.png)Harvestguard Bobby
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Harvestguard Bobby Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">04 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Harvestguard Rosie
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Harvestguard Rosie Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">04 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Harvestguard D'hani Portrait](images/skin_portraits/harvestguarddhani.png)Harvestguard D'hani
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Harvestguard D'hani Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">11 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Harvestguard Wulfgar
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Harvestguard Wulfgar Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">11 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Harvestguard Certainty
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Harvestguard Certainty Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">18 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Harvestguard Farideh
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Harvestguard Farideh Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">18 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Chibi Gale
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Chibi Gale Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">25 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Plushie BBEG
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Plushie BBEG Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">25 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)Baldur's Gate Duke Ravengard
         </span>
         <span class="skinTableSource">
@@ -203,34 +343,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">26 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Harvestguard Bobby Portrait](images/skin_portraits/harvestguardbobby.png)Harvestguard Bobby
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Harvestguard D'hani Portrait](images/skin_portraits/harvestguarddhani.png)Harvestguard D'hani
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
     <span class="skinTableRow">
