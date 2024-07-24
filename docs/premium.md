@@ -5,54 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Dr. Buzz Watson the Bee Familiar Pack - $5.99  
-Date of release: 24 Jul 2024
-
-> Collect your very own Buzz Watson the Bee Familiar!
-
-Contents:
-
-* Familiar: `Dr. Buzz Watson the Bee`
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Triton Glitch Nayeli Skin & Feat Pack - $11.99  
-Date of release: 24 Jul 2024
-
-> Unlock an exclusive Triton Glitch Skin & Feat for Nayeli!
-
-Contents:
-
-* Skin: `Triton Glitch Nayeli`
-* Feat: `Triton Glitch` (Nayeli)
-* Chests: `Gold Nayeli Chest` x7 (Shinies x1)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Yuan-ti Glitch Havilar Skin & Feat Pack - $11.99  
-Date of release: 24 Jul 2024
-
-> Unlock Havilar along with her exclusive Yuan-ti Glitch Skin & Feat!
-
-Contents:
-
-* Champion: `Havilar`
-* Skin: `Yuan-ti Glitch Havilar`
-* Feat: `Yuan-ti Glitch` (Havilar)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Havilar Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Chibi Shadowheart Skin & Feat Pack - $11.99  
 Date of release: 31 Jul 2024
 

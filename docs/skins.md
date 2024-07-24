@@ -11,62 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Secret Agent Maan Portrait](images/skin_portraits/secretagentmaan.png)Secret Agent Maan
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 8</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">24 Jul 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Tabaxi Glitch Shandie Portrait](images/skin_portraits/tabaxiglitchshandie.png)Tabaxi Glitch Shandie
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 8</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">24 Jul 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Triton Glitch Nayeli Portrait](images/skin_portraits/tritonglitchnayeli.png)Triton Glitch Nayeli
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Triton Glitch Nayeli Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">24 Jul 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Yuan-ti Glitch Havilar Portrait](images/skin_portraits/yuantiglitchhavilar.png)Yuan-ti Glitch Havilar
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Yuan-ti Glitch Havilar Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">24 Jul 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Chibi Shadowheart Portrait](images/skin_portraits/chibishadowheart.png)Chibi Shadowheart
         </span>
         <span class="skinTableSource">
