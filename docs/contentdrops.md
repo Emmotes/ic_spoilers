@@ -6,6 +6,8 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Mixed 10 Variants - 31 July 2024
 
+<span style="font-size:1.2em;">ⓘ</span> This content drop might contain a new evergreen champion.
+
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
         <span class="contentDropsTableIcons">
@@ -165,7 +167,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Fortune's Wheel 7 - 28 August 2024
 
-<span style="font-size:1.2em;">ⓘ</span> This content drop will likely be joined by new blessings.
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new blessings.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -242,7 +244,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Vecna 3 - 25 September 2024
 
-<span style="font-size:1.2em;">ⓘ</span> This content drop will likely be joined by new blessings.
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new blessings.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
