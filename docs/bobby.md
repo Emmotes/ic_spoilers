@@ -88,12 +88,9 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/bobby/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Bobby" fill="#aaa" data-formationName="Bobby" data-campaignName="Highharvestide" width="359" height="140"><circle cx="215" cy="25" r="15"/><circle cx="215" cy="65" r="15"/><circle cx="215" cy="105" r="15"/><circle cx="175" cy="45" r="15"/><circle cx="175" cy="85" r="15"/><circle cx="135" cy="65" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="85" r="15"/><circle cx="55" cy="105" r="15"/><circle cx="15" cy="125" r="15"/><text x="245" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Bobby</text><text x="245" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Highharvestide</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -197,6 +194,12 @@ Unknown.
     "effect_keys": [
         {
             "effect_string": "set_base_crit_chance,20"
+        },
+        {
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_hero_expr": "hero_column==0 && hero_id == 152",
+            "per_trigger_expr": "AppendToSaveStat(`bobby_danger_zone`, false, trigger_count * as_int(per_hero_count))",
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
@@ -282,12 +285,13 @@ Unknown.
             "effect_string": "pre_buff,100"
         },
         {
-            "effect_string": "hero_dps_multiplier_mult,0",
+            "effect_string": "hero_dps_mult_bobby_uni,0",
             "amount_expr": "upgrade_amount(15444,1)",
             "targets": [
                 "self_and_adj"
             ],
-            "show_bonus": true
+            "show_bonus": true,
+            "override_key_desc": "Increases the damage of $target by $amount%"
         },
         {
             "effect_string": "buff_upgrade,400,15444,2",
