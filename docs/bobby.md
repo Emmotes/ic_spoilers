@@ -741,7 +741,34 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![The Bandit's Harvest (Bobby) Icon](images/bobby/1087.png) **Unlock Adventure: The Bandit's Harvest (Bobby)** (Complete Area 50)
+> Bandits are attempting to pilfer the harvest during Highharvestide and must be stopped.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Barbarian! Icon](images/bobby/24385.png) **Variant 1: Barbarian!** (Complete Area 75)
+> Bobby starts in the formation. He can be moved but not removed.  
+> Only Champions in the front two columns can deal damage.  
+> Getting to Know Bobby: Bobby's damage increases as you put him closer to the front of the formation.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Valley of the Unicorns Icon](images/bobby/24386.png) **Variant 2: Valley of the Unicorns** (Complete Area 125)
+> Bobby starts in the formation with Uni, the Unicorn unlocked. He can be moved but not removed.  
+> Only Champions affected by Uni, the Unicorn can deal damage.  
+> Silvermane joins the formation.  
+> 1-2 wolves attack with each wave. They don't drop gold nor count towards quest progress.   
+> At the start of area 25 and 50, Kelek attacks as an additional boss that must be defeated.  
+> Getting to Know Bobby: Bobby's main support ability buffs Champions next to Uni, the Unicorn.  
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Venger Strikes Back! Icon](images/bobby/24387.png) **Variant 3: Venger Strikes Back!** (Complete Area 175)
+> Bobby starts in the formation. He can be moved but not removed.  
+> At the start of each Boss area, Venger arrives on his nightmare as an additional boss that must be defeated.  
+> You may only use Champions with a Strength of 15 or higher, an age of 20 or younger, or have a total ability score of 78 or lower.  
+> Getting to Know Bobby: Bobby's second set of specializations determines which Champions he works best with. Which formation will you build?  
+> 
+</div></div>
 
 # Other Champion Images
 
