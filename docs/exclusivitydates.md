@@ -719,10 +719,10 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 <span>24 July 2024</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>Unknown</span>
+                <span>01 November 2024</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>Unknown</span>
+                <span>01 February 2025 (Guess)</span>
             </span>
         </span>
     </span>
