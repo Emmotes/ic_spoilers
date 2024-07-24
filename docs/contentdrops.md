@@ -4,97 +4,6 @@
 
 A list of the upcoming content drops. Just be aware that the dates and order of these content drops are educated guesses based on the order their graphics appear in the definitions. CNE have been known to release content drops in different orders - so don't be surprised if that happens again.
 
-## Fortune's Wheel 6 - 24 July 2024
-
-<span style="font-size:1.2em;">ⓘ</span> This content drop will likely contain a new evergreen champion.
-
-<span class="contentDropsTableColumn">
-    <span class="contentDropsTableRowHeader">
-        <span class="contentDropsTableIcons">
-            <span style="margin-left:8px;">**Icon**</span>
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">**Campaign**</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">**Adventure Name**</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">**Type**</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Fortune's Wheel: Souls Mirage (Adventure)](images/contentdrop_portraits/fortune'swheel_soulsmirage_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Fortune's Wheel</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Souls Mirage</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Souls Mirage (Variant 1)](images/contentdrop_portraits/fortune'swheel_soulsmirage_1.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Fortune's Wheel</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Souls Mirage</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Fortune's Wheel: Titan on the Town (Adventure)](images/contentdrop_portraits/fortune'swheel_titanonthetown_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Fortune's Wheel</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Titan on the Town</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Titan on the Town (Variant 1)](images/contentdrop_portraits/fortune'swheel_titanonthetown_1.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Fortune's Wheel</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Titan on the Town</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Titan on the Town (Variant 2)](images/contentdrop_portraits/fortune'swheel_titanonthetown_2.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Fortune's Wheel</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Titan on the Town</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #2</span>
-        </span>
-    </span>
-</span>
-
 ## Mixed 9 Variants - 31 July 2024
 
 <span class="contentDropsTableColumn">
@@ -242,7 +151,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Fortune's Wheel 7 - 28 August 2024
 
-<span style="font-size:1.2em;">ⓘ</span> This content drop will likely be joined by new blessings.
+<span style="font-size:1.2em;">ⓘ</span> This content drop will likely be joined by new blessings and contain a new evergreen champion.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -257,6 +166,20 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Titan on the Town (Variant 2)](images/contentdrop_portraits/fortune'swheel_titanonthetown_2.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Fortune's Wheel</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Titan on the Town</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #2</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
