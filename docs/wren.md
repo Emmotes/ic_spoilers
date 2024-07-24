@@ -33,7 +33,7 @@ Wren looks to be a CNE original Evergreen from the Fortune's Wheel campaign stor
 
 # Basic Information
 
-Wren will be an upcoming Evergreen champion guesstimated to release on 31 July 2024 with the [Fortune's Wheel 6 content drop](contentdrops.md#fortune's-wheel-6---31-july-2024).
+Wren will be an upcoming Evergreen champion guesstimated to release on 31 July 2024 with the [Mixed 10 content drop](contentdrops.md#mixed-10---31-july-2024).
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
