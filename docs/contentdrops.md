@@ -4,7 +4,7 @@
 
 A list of the upcoming content drops. Just be aware that the dates and order of these content drops are educated guesses based on the order their graphics appear in the definitions. CNE have been known to release content drops in different orders - so don't be surprised if that happens again.
 
-## Mixed 9 Variants - 31 July 2024
+## Mixed 10 Variants - 31 July 2024
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -135,6 +135,20 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Titan on the Town (Variant 2)](images/contentdrop_portraits/fortune'swheel_titanonthetown_2.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Fortune's Wheel</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Titan on the Town</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #2</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
             ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Welcome to Sigil (Variant 2)](images/contentdrop_portraits/fortune'swheel_welcometosigil_2.png)
         </span>
         <span class="contentDropsTableCampaign">
@@ -151,7 +165,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Fortune's Wheel 7 - 28 August 2024
 
-<span style="font-size:1.2em;">ⓘ</span> This content drop will likely be joined by new blessings and contain a new evergreen champion.
+<span style="font-size:1.2em;">ⓘ</span> This content drop will likely be joined by new blessings.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -166,20 +180,6 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">**Type**</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Titan on the Town (Variant 2)](images/contentdrop_portraits/fortune'swheel_titanonthetown_2.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Fortune's Wheel</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Titan on the Town</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #2</span>
         </span>
     </span>
     <span class="contentDropsTableRow">

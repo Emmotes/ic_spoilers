@@ -81,7 +81,7 @@ The upcoming Evergreen champion we're aware of.
                 <span class="indexChampionTableNoLink">Dwarf / Tabaxi / Warforged Monk / Barbarian / Sorcerer (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Fortune's Wheel 6 - 24 July 2024 (Guess)</span>
+                <span class="indexChampionTableNoLink">Fortune's Wheel 6 - 31 July 2024 (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
