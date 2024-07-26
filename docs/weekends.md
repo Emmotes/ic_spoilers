@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Forbidden Lore | 26 Jul | **Gale** | Minsc | Jarlaxle | Viconia | Shadowheart | Golden Epic |
 | Harvest Eve | 02 Aug | **Dark Urge** | Makos | Calliope | Astarion | Wyll | Golden Epic |
 | Feywild Ball | 09 Aug | **Ellywick** | Tyril | Arkhan | Widdle | Prudence | Golden Epic |
 | Ocean Ball | 16 Aug | **Rust** | Bruenor | Tyril | Omin | Hew Maan | Golden Epic |
