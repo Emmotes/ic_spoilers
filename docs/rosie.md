@@ -339,6 +339,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "off_when_benched": true,
             "effect_string": "return_source_damage_when_hit,100",
+            "targets": [
+                "all"
+            ],
             "filter_damage_types": [
                 "ranged",
                 "magic"
