@@ -55,6 +55,9 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Liars' Night - 2 October 2024</span>
             </span>
         </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/icon_melee.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -78,14 +81,13 @@ The upcoming Evergreen champion we're aware of.
                 Wren
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf / Tabaxi / Warforged Monk / Barbarian / Sorcerer (Guess)</span>
+                <span class="indexChampionTableNoLink">Dwarf / Tabaxi / Warforged Monk / Barbarian / Sorcerer</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Mixed 10 - 31 July 2024 (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/icon_magic.png)
             ![Melee Attack Icon](images/icon_melee.png)
         </span>
     </span>
