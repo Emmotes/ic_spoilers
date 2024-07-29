@@ -88,6 +88,7 @@ The upcoming Evergreen champion we're aware of.
             </span>
         </span>
         <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/icon_magic.png)
             ![Melee Attack Icon](images/icon_melee.png)
         </span>
     </span>
