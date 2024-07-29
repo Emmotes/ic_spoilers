@@ -49,7 +49,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">DPS (Guess)</span>
+            <span style="margin-left:8px;">DPS / Healing (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
