@@ -49,7 +49,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">DPS (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -97,26 +97,117 @@ Unknown.
 
 # Attacks
 
-# Abilities
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Born Into Evil** (Guess)
-> Unknown effect.
+**Base Attack: Vengeful Swing** (Melee)
+> Kas moves up to the closest enemy and swings his sword, dealing one hit to all enemies in a small area.  
+> Cooldown: 5s (Cap 1.25s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24573,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Formation_Kas_BornIntoEvil",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 802,
+    "name": "Vengeful Swing",
+    "description": "Kas attacks the closest enemy and other nearby foes with a sweep of his sword.",
+    "long_description": "Kas moves up to the closest enemy and swings his sword, dealing one hit to all enemies in a small area.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 5,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 8,
+            "target_offset_x": -40,
+            "jump_sound": 30,
+            "sound_frames": {
+                "14": 154
+            }
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Rise, Fallen Soldier!**
+> Kas summons two specters that move towards enemies, dealing ultimate damage each second for 15 seconds.  
+> Cooldown: 3s (Cap 0.75s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 803,
+    "name": "Rise, Fallen Soldier!",
+    "description": "Kas summons two specters that deal ultimate damage each second for 15 seconds.",
+    "long_description": "Kas summons two specters that move towards enemies, dealing ultimate damage each second for 15 seconds.",
+    "graphic_id": 24585,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 0.033,
+    "cooldown": 3,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 8,
+            "target_offset_x": -40,
+            "jump_sound": 30,
+            "sound_frames": {
+                "14": 154
+            }
+        }
+    ],
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+# Abilities
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Kas is Undead and counts as "dead" for the purposes of effects that care about dead Champions, but "alive" for all other purposes. Via his abilities, Kas may cause one or more other Champions in the formation to become his Vampire Spawns, which are also Undead.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2080,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kas is Undead and counts as \"dead\" for the purposes of effects that care about dead Champions, but \"alive\" for all other purposes. Via his abilities, Kas may cause one or more other Champions in the formation to become his Vampire Spawns, which are also Undead."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "appear_dead"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -125,23 +216,45 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Life Drain** (Guess)
-> Unknown effect.
+**Born Into Evil** (Guess)
+> Kas increases his damage by 100% for each Evil Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24574,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Formation_Kas_LifeDrain",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2081,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kas increases his damage by $(amount)% for each Evil Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(15619,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`evil`)",
+            "show_bonus": true,
+            "stack_title": "Evil Champions",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24573,
+    "large_graphic_id": 24567,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -151,22 +264,68 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Mortal Pawns** (Guess)
-> Unknown effect.
+> Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by $(amount)%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24575,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Formation_Kas_MortalPawns",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2082,
+    "flavour_text": "",
+    "description": {
+        "desc": "Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by $(amount)%, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_trigger_expr": "AppendToSaveStat(`kas_mortal_pawn_stacks`, true, trigger_count*as_int(per_hero_count))",
+            "per_hero_expr": "is_undead"
+        },
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24575,
+    "large_graphic_id": 24569,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Life Drain** (Guess)
+> When an Undead Champion in the formation attacks, they regain $(amount) Hit Points.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2083,
+    "flavour_text": "",
+    "description": {
+        "desc": "When an Undead Champion in the formation attacks, they regain $(amount) Hit Points."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24574,
+    "large_graphic_id": 24568,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -176,22 +335,31 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Sword of Kas** (Guess)
-> Unknown effect.
+> When a Champion that is not already Undead dies, they immediately resurrect at full health as a Vampire Spawn, counting as Undead for the rest of the adventure. The effect of Born Into Evil is increased by $(amount)% for each Undead Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24576,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Formation_Kas_SpawnofKas",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2084,
+    "flavour_text": "",
+    "description": {
+        "desc": "When a Champion that is not already Undead dies, they immediately resurrect at full health as a Vampire Spawn, counting as Undead for the rest of the adventure. The effect of Born Into Evil is increased by $(amount)% for each Undead Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24576,
+    "large_graphic_id": 24570,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -202,23 +370,29 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Kas the Betrayer** (Guess)
-> Unknown effect.
+**Kas the Destroyer** (Guess)
+> Kas increases the effect of Life Drain by $(amount)% and evil Champions attack faster as their base attack cooldown is reduced by 0.5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24579,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Specialization_Kas_KastheBetrayer",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2085,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kas increases the effect of Life Drain by $(amount)% and evil Champions attack faster as their base attack cooldown is reduced by 0.5 seconds."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -228,22 +402,28 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Kas the Bloody Handed** (Guess)
-> Unknown effect.
+> Kas's damage against Boss enemies is increased by $(amount)%, and the effect of Born Into Evil is increased by $(amount)% for each Undead Champion in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24580,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Specialization_Kas_KastheBloodyHanded",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2086,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kas's damage against Boss enemies is increased by $(amount)%, and the effect of Born Into Evil is increased by $(amount)% for each Undead Champion in the formation."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -252,23 +432,29 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Kas the Destroyer** (Guess)
-> Unknown effect.
+**Kas the Betrayer** (Guess)
+> Increase the effect of Born Into Evil by $(amount)%. In addition, Champions adjacent to Kas gain the Evil tag. This does not affect their other alignment tags, and doesn't affect whether they are eligible for the adventure.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24581,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Specialization_Kas_KastheDestroyer",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2087,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the effect of Born Into Evil by $(amount)%. In addition, Champions adjacent to Kas gain the Evil tag. This does not affect their other alignment tags, and doesn't affect whether they are eligible for the adventure."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
