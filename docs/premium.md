@@ -207,7 +207,7 @@ Date of release: 04 Sept 2024
 
 Contents:
 
-* Skin: ``
+* Skin: `Mind Flayer Minsc`
 * Familiar: `Armored Boo`
 * Chests: `Gold Chest (Guess)` x42 (Shinies x5)
 * Buff: `Epic Golden Potion` x1

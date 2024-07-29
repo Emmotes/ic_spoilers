@@ -137,20 +137,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Founder's Pack VII</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$19.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">04 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Harvestguard Bobby Portrait](images/skin_portraits/harvestguardbobby.png)Harvestguard Bobby
         </span>
         <span class="skinTableSource">
@@ -172,6 +158,20 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">04 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Mind Flayer Minsc Portrait](images/skin_portraits/mindflayerminsc.png)Mind Flayer Minsc
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Founder's Pack VII</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$19.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">04 Sept 2024</span>
@@ -287,20 +287,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">26 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Mindflayer Minsc Portrait](images/skin_portraits/mindflayerminsc.png)Mindflayer Minsc
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
 </span>
