@@ -165,7 +165,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Harvestguard Rosie
+            ![Harvestguard Rosie Portrait](images/skin_portraits/harvestguardrosie.png)Harvestguard Rosie
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Rosie Theme Pack</span>
@@ -193,7 +193,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Harvestguard Wulfgar
+            ![Harvestguard Wulfgar Portrait](images/skin_portraits/harvestguardwulfgar.png)Harvestguard Wulfgar
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Wulfgar Skin & Feat Pack</span>
@@ -207,7 +207,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Harvestguard Certainty
+            ![Harvestguard Certainty Portrait](images/skin_portraits/harvestguardcertainty.png)Harvestguard Certainty
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Certainty Skin & Feat Pack</span>
@@ -221,7 +221,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Harvestguard Farideh
+            ![Harvestguard Farideh Portrait](images/skin_portraits/harvestguardfarideh.png)Harvestguard Farideh
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Farideh Skin & Feat Pack</span>
@@ -235,7 +235,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Chibi Gale
+            ![Chibi Gale Portrait](images/skin_portraits/chibigale.png)Chibi Gale
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Chibi Gale Skin & Feat Pack</span>
@@ -249,7 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Plushie BBEG
+            ![Plushie BBEG Portrait](images/skin_portraits/plushiebbeg.png)Plushie BBEG
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Plushie BBEG Skin & Feat Pack</span>
