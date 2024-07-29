@@ -97,7 +97,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Thunder Club** (Melee)
 > Bobby moves up to the closest enemy and swings his club, dealing 1 hit to all nearby enemies.  
-> Cooldown: 3s (Cap 0.75s)
+> Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -111,7 +111,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
     "num_targets": 1,
     "aoe_radius": 100,
     "damage_modifier": 1,
-    "cooldown": 3,
+    "cooldown": 6,
     "animations": [
         {
             "type": "melee_attack",
@@ -272,13 +272,16 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
     "id": 2053,
     "flavour_text": "",
     "description": {
-        "desc": "Uni takes her place next to Bobby. Uni increases the damage of Bobby and all other Champions next to her by $(amount___2)%. If Uni is in Dungeon Master's formation slot, this is further increased by $(amount___4)%."
+        "desc": "Uni takes her place next to Bobby. Uni increases the damage of Bobby and all other Champions next to her by $(amount___2)%. If Uni is in Dungeon Master's formation slot, this is further increased by $(amount___5)%."
     },
     "effect_keys": [
         {
             "effect_string": "bobby_uni_the_unicorn",
-            "adjacent_buff_effect_index": 1,
-            "dm_bonus_effect_index": 3,
+            "adjacent_buff_effect_index": 2,
+            "dm_bonus_effect_indexes": [
+                5,
+                6
+            ],
             "dm_hero_id": 99
         },
         {
@@ -288,13 +291,49 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
             "effect_string": "hero_dps_mult_bobby_uni,0",
             "amount_expr": "upgrade_amount(15444,1)",
             "targets": [
-                "self_and_adj"
+                "adj"
             ],
+            "filter_targets": [
+                {
+                    "type": "exclude_heroes",
+                    "hero_ids": [
+                        152
+                    ]
+                }
+            ],
+            "skip_effect_key_desc": false,
             "show_bonus": true,
-            "override_key_desc": "Increases the damage of $target by $amount%"
+            "override_key_desc": "Increases the damage of $target by $amount%",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "area_changed"
+            ]
         },
         {
-            "effect_string": "buff_upgrade,400,15444,2",
+            "effect_string": "hero_dps_mult_bobby_uni,0",
+            "amount_expr": "upgrade_amount(15444,1)",
+            "targets": [
+                {
+                    "type": "heroes",
+                    "hero_ids": [
+                        152
+                    ]
+                }
+            ],
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "dm_pre_buff,400"
+        },
+        {
+            "effect_string": "buff_upgrade,0,15444,2",
+            "amount_expr": "upgrade_amount(15444,4)",
+            "apply_manually": true,
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,15444,3",
+            "amount_expr": "upgrade_amount(15444,4)",
             "apply_manually": true,
             "skip_effect_key_desc": true
         }
@@ -305,7 +344,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
@@ -443,7 +482,8 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
                 "self"
             ],
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "feat_changed"
             ]
         },
         {
@@ -500,16 +540,20 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
             "targets": [
                 "behind"
             ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ],
             "show_bonus": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 24400,
+    "large_graphic_id": 24396,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": false,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -548,7 +592,8 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
             "show_bonus": true,
             "stack_title": "Humble Champions",
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "feat_changed"
             ],
             "off_when_benched": true
         }
@@ -562,7 +607,8 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Humble Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -593,12 +639,13 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
             "effect_string": "buff_upgrades,0,15447,15448",
             "amount_expr": "upgrade_amount(15450,0)",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "age<=20",
+            "per_hero_expr": "age<=20&&hero_id!=146",
             "amount_func": "mult",
             "show_bonus": true,
             "stack_title": "Young Champions",
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "feat_changed"
             ],
             "off_when_benched": true
         }
@@ -612,7 +659,8 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Young Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -648,7 +696,8 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
             "show_bonus": true,
             "stack_title": "Strong Champions",
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "feat_changed"
             ],
             "off_when_benched": true
         }
@@ -662,7 +711,8 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Strong Champions: $num_stacks___2"
     }
 }
 </pre>
