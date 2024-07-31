@@ -21,23 +21,101 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Pupper Master** (Guess)
-> Unknown.
+**Puppet Master** (Guess)
+> Voronika claims the BUD-setting Champion as her Puppet. The damage of her chosen Puppet is increased by 100%. Voronika only changes her Puppet if a different Champion is the BUD-setting Champion for more than 30 seconds in a row. Voronika's Puppet gains the Black Dice Society affiliation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24577,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Formation_Voronika_Puppermaster",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2089,
+    "flavour_text": "",
+    "description": {
+        "desc": "Voronika claims the BUD-setting Champion as her Puppet. The damage of her chosen Puppet is increased by $amount%. Voronika only changes her Puppet if a different Champion is the BUD-setting Champion for more than $puppet_change_time seconds in a row. Voronika's Puppet gains the Black Dice Society affiliation."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "voronika_puppet_master,100",
+            "puppet_change_time": 30,
+            "puppet_effect": {
+                "effect_string": "hero_dps_multiplier_mult,100",
+                "active_graphic_id": 24598,
+                "active_graphic_y": -150
+            },
+            "puppet_affiliation_tag": "blackdicesociety"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 15537,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Calculating Guidance** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2090,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 15533,
+    "large_graphic_id": 15529,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Search for the Crown** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2091,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 15534,
+    "large_graphic_id": 15530,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -47,22 +125,75 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Speed Run** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24578,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Formation_Voronika_Speedrun",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2092,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24578,
+    "large_graphic_id": 24572,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Power** (Guess)
+> Voronika increases the effect of Calculating Guidance by 0.1% for each use of an Ultimate while she is in the formation, stacking multiplicatively. Caps at 100000 stacks. These stacks persist until reset.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2093,
+    "flavour_text": "",
+    "description": {
+        "desc": "Voronika increases the effect of Calculating Guidance by $amount% for each use of an Ultimate while she is in the formation, stacking multiplicatively. Caps at $max_stacks stacks. These stacks persist until reset."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0.1,15631",
+            "max_stacks": 100000,
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "stacks_on_trigger": "ult_used",
+            "stack_title": "Ultimate Attacks Used"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "stacks_data_binder_safe,0,voronika_ult_power_stacks",
+            "is_instanced_stat": true,
+            "use_stat_defs": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 15535,
+    "large_graphic_id": 15531,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -72,22 +203,29 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Embrace Evil** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24582,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Specialization_Voronika_EmbraceEvil",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2094,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 24582,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -97,22 +235,29 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Hunt the Favored** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24583,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Specialization_Voronika_HunttheFavored",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2095,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 24583,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -122,22 +267,170 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Weaken the Fools** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 24584,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y8/Icon_Specialization_Voronika_WeakentheFools",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2096,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 24584,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Battle Magic** (Guess)
+> Voronika's Puppet additionally casts an explosive magic missile at a random target after each attack which deals 1000% of their normal damage to all enemies in a small area.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2097,
+    "flavour_text": "",
+    "description": {
+        "desc": "Voronika's Puppet additionally casts an explosive magic missile at a random target after each attack which deals $amount% of their normal damage to all enemies in a small area."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "voronika_battle_magic,1000",
+            "aoe_radius": 100,
+            "projectile_details": {
+                "hash": "49d40bb6d70b12449bfccf33d3adc683",
+                "target_offset_y": 0,
+                "projectile_speed": 1500,
+                "projectile_graphic_id": 2653,
+                "trail": {
+                    "particle_graphic_ids": [
+                        "2653"
+                    ],
+                    "lifespan": 0.2,
+                    "spawn_rate": 300,
+                    "spawn_shape_scale": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "initial_velocity": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "velocity_jitter": {
+                        "x": 30,
+                        "y": 30
+                    },
+                    "rotation_jitter": 0,
+                    "alpha_lerp": {
+                        "0": 0,
+                        "0.1": 0.75,
+                        "1": 0
+                    },
+                    "scale_lerp": [
+                        {
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "x": 0,
+                            "y": 0
+                        }
+                    ]
+                },
+                "percent_height_offset": 10,
+                "use_auto_rotation": true,
+                "projectile_hit_graphic_id": 2614
+            }
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 24683,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Powerful Focus** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2098,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 24684,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Strike First, Strike Hard** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2099,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 24685,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
