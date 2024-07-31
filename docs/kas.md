@@ -533,7 +533,22 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unlock Adventure: The Trickster's Delight (Kas)** (Complete Area 50)
+> Chase down a masked man who has performed a daring heist.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 1: TBD** (Complete Area 75)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 2: TBD** (Complete Area 125)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 3: TBD** (Complete Area 175)
+> 
+</div></div>
 
 # Other Champion Images
 
