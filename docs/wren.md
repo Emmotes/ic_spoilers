@@ -2071,7 +2071,15 @@ Dungeon Master: 4 / 6
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Twice Through the Great Wheel Icon](images/wren/23990.png) **Variant 1: Twice Through the Great Wheel** (Complete Area 950)
+> You may only use Neutral Champions and Champions of the alignment(s) specified below.  
+> For the first 100 areas, you may use Lawful Good champions. Every 100 areas, this restriction changes: Neutral Good for area 101-200, Chaotic Good for area 201-300, and so forth. This restriction is linked to your highest area completed, not your current area.  
+> Every 100 areas, all Champions in the formation are removed and can't be used for the rest of the adventure.  
+> Champions can't otherwise be removed from the formation once they've been added.  
+> Click damage only deals damage (including fire breath effects) for the first 5 areas after every alignment switch.  
+> Fire breath potions can't be used during the adventure.
+</div></div>
 
 # Other Champion Images
 
