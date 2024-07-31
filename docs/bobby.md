@@ -96,7 +96,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Thunder Club** (Melee)
-> Bobby moves up to the closest enemy and swings his club, dealing 1 hit to all nearby enemies.  
+> Bobby swings his club at the closest enemy.  
 > Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -105,7 +105,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
     "id": 791,
     "name": "Thunder Club",
     "description": "Bobby swings his club at the closest enemy.",
-    "long_description": "Bobby moves up to the closest enemy and swings his club, dealing 1 hit to all nearby enemies.",
+    "long_description": "",
     "graphic_id": 0,
     "target": "front",
     "num_targets": 1,
