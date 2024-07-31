@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Shadowheart</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Wound Master Icon](images/featicons/health.png)<span class="featTooltipContents">**Wound Master (Shadowheart)**I prefer to cast these spells out of combat - but if it will help, so be it.<code>buff_upgrade,60,13277</code></span>Wound Master
-        </span>
-        <span class="featTableEffect">
-            <span>60% Light In The Dark</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>31 Jul 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Lae'zel</span>
         </span>
         <span class="featTableIcon4">

@@ -11,20 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Chibi Shadowheart Portrait](images/skin_portraits/chibishadowheart.png)Chibi Shadowheart
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Chibi Shadowheart Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">31 Jul 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Masquerade Ellywick Portrait](images/skin_portraits/masqueradeellywick.png)Masquerade Ellywick
         </span>
         <span class="skinTableSource">

@@ -5,42 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Chibi Shadowheart Skin & Feat Pack - $11.99  
-Date of release: 31 Jul 2024
-
-> Unlock Shadowheart along with her exclusive Chibi Skin & Feat!
-
-Contents:
-
-* Champion: `Shadowheart`
-* Skin: `Chibi Shadowheart`
-* Feat: `Wound Master` (Shadowheart)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold  Shadowheart Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Sherlock Combs the Bee Familiar Pack - $16.99  
-Date of release: 31 Jul 2024
-
-> Collect your very own Sherlock Combs the Bee Familiar!
-
-Contents:
-
-* Familiar: `Sherlock Combs the Bee`
-* Buff: `Huge Potion of Speed` x6
-* Buff: `Huge Potion of Giant's Strength` x6
-* Buff: `Huge Potion of Clairvoyance` x6
-* Buff: `Huge Potion of Fire Breath` x6
-* Buff: `Potion of the Gold Hunter` x1
-* Modron: `Upgrade Components` x2,000
-* Buff: `Potion of Polish` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Lae'zel's Champions of Renown Pack - $69.99  
 Date of release: 07 Aug 2024
 
