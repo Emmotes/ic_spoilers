@@ -64,39 +64,6 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
 </span>
 
-# New Evergreen Champion
-
-The upcoming Evergreen champion we're aware of.
-
-<span class="indexChampionTableColumn">
-{::nomarkdown}
-<a href="wren.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Wren Portrait Icon](images/wren/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Wren
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf / Tabaxi / Warforged Monk / Barbarian / Sorcerer</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Mixed 10 - 31 July 2024 (Guess)</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/icon_magic.png)
-            ![Melee Attack Icon](images/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-
 # Reworked Champions
 
 A list of champions that will be seeing reworks in upcoming events.
