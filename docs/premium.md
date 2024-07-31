@@ -14,7 +14,7 @@ Contents:
 
 * Champion: `Shadowheart`
 * Skin: `Chibi Shadowheart`
-* Feat: `Combat Healer` (Shadowheart)
+* Feat: `Wound Master` (Shadowheart)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold  Shadowheart Chest` x7 (Shinies x1)

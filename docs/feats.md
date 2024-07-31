@@ -33,10 +33,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Shadowheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Combat Healer Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Combat Healer (Shadowheart)**I prefer to cast these spells out of combat - but if it will help, so be it.</span>Combat Healer
+            ![Wound Master Icon](images/featicons/health.png)<span class="featTooltipContents">**Wound Master (Shadowheart)**I prefer to cast these spells out of combat - but if it will help, so be it.<code>buff_upgrade,60,13277</code></span>Wound Master
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>60% Light In The Dark</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -101,27 +101,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Freely</span>
         </span>
         <span class="featTableIcon4">
-            ![Fairy Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Fairy Glitch (Freely)**Wait, I'm short again?<code>add_hero_tags,0,fairy<br>todo<br>DevNote: Increases Freely's Adventurous Tale ability by 20% (additively) for each unique race in the formation.</code></span>Fairy Glitch
+            ![Fairy Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">**Fairy Glitch (Freely)**Wait, I'm short again?<code>add_hero_tags,0,fairy<br>buff_upgrade,80,4039</code></span>Fairy Glitch
         </span>
         <span class="featTableEffect">
-            <span>Counts as Fairy & todo</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>28 Aug 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Gale</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Hope of the Weave Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Hope of the Weave (Gale)**Just stare at the stars with me a bit longer.<code>buff_upgrade,80,14572</code></span>Hope of the Weave
-        </span>
-        <span class="featTableEffect">
-            <span>80% Netherese Orb</span>
+            <span>Counts as Fairy & 80% Adventurous Tale</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -207,6 +190,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableEffect">
             <span>400% Self DPS & Prevent Healing for 10s</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>25 Sept 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gale</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Hope of the Weave Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">**Hope of the Weave (Gale)**Just stare at the stars with me a bit longer.<code>buff_upgrade,80,14572</code></span>Hope of the Weave
+        </span>
+        <span class="featTableEffect">
+            <span>80% Netherese Orb</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
