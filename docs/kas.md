@@ -264,7 +264,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Mortal Pawns** (Guess)
-> Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by $(amount)%, stacking multiplicatively.
+> Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by 1%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -272,16 +272,33 @@ Unknown.
     "id": 2082,
     "flavour_text": "",
     "description": {
-        "desc": "Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by $(amount)%, stacking multiplicatively."
+        "desc": "Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by $(amount___2)%, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "effect_string": "expression_on_trigger,area_complete",
             "per_trigger_expr": "AppendToSaveStat(`kas_mortal_pawn_stacks`, true, trigger_count*as_int(per_hero_count))",
-            "per_hero_expr": "is_undead"
+            "per_hero_expr": "!is_undead"
         },
         {
-            "effect_string": "pre_stack,100",
+            "effect_string": "pre_stack,1",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,15619,1",
+            "amount_expr": "upgrade_amount(15620,1)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "GetSaveStat(`kas_mortal_pawn_stacks`, true)",
+            "stack_title": "Pawn Stacks",
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
+        },
+        {
+            "effect_string": "abcd,100",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "is_undead",
             "skip_effect_key_desc": true
         }
     ],
@@ -316,7 +333,17 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "effect_action_on_attack",
+            "target_self": true,
+            "hero_expr": "is_undead",
+            "effects": [
+                {
+                    "effect_string": "heal_targets_by_amount,50",
+                    "targets": [
+                        "self"
+                    ]
+                }
+            ]
         }
     ],
     "requirements": "",
@@ -347,7 +374,8 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "kas_spawn_of_kas",
+            "resurrection_priority": -50
         }
     ],
     "requirements": "",
