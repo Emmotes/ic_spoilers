@@ -21,7 +21,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Puppet Master** (Guess)
+**Pupper Master** (Guess)
 > Voronika claims the BUD-setting Champion as her Puppet. The damage of her chosen Puppet is increased by 100%. Voronika only changes her Puppet if a different Champion is the BUD-setting Champion for more than 30 seconds in a row. Voronika's Puppet gains the Black Dice Society affiliation.
 <details><summary><em>Raw Data</em></summary>
 <p>
