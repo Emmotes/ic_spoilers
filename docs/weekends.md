@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Harvest Eve | 02 Aug | **Dark Urge** | Makos | Calliope | Astarion | Wyll | Golden Epic |
 | Feywild Ball | 09 Aug | **Ellywick** | Tyril | Arkhan | Widdle | Prudence | Golden Epic |
 | Ocean Ball | 16 Aug | **Rust** | Bruenor | Tyril | Omin | Hew Maan | Golden Epic |
 | Dragons' Ball | 23 Aug | **Lae'zel** | Arkhan | Asharra | Prudence | Deekin | Golden Epic |
