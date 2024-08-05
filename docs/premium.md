@@ -5,6 +5,21 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Avatar of Azuth Familiar Pack - $11.99  
+Date of release: 07 Aug 2024
+
+> Collect your own Avatar of Azuth Familiar - the Marid!
+
+Contents:
+
+* Familiar: `Azuth's Marid`
+* Buff: `Potion of the Hunter` x1
+* Buff: `Epic Golden Potion` x1
+* Buff: `Huge Potion of Speed` x2
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Lae'zel's Champions of Renown Pack - $69.99  
 Date of release: 07 Aug 2024
 
@@ -32,23 +47,6 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Masquerade Ball Ellywick Theme Pack - $27.99  
-Date of release: 07 Aug 2024
-
-> Unlock Ellywick along with an exclusive Masquerade Skin & Familiar!
-
-Contents:
-
-* Champion: `Ellywick Tumblestrum`
-* Skin: `Masquerade Ellywick`
-* Feat: ???
-* Familiar: `Nibbles the Brigganock`
-* Chests: `Gold Ellywick Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Masquerade Ball Rust Theme Pack - $27.99  
 Date of release: 07 Aug 2024
 
@@ -66,17 +64,19 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Avatar of Azuth Familiar Pack - $11.99  
+### Masquerade Ball Ellywick Theme Pack - $27.99  
 Date of release: 14 Aug 2024
 
-> Collect your own Avatar of Azuth Familiar - the Marid!
+> Unlock Ellywick along with an exclusive Masquerade Skin & Familiar!
 
 Contents:
 
-* Familiar: `Azuth's Marid`
-* Buff: `Potion of the Hunter` x1
-* Buff: `Epic Golden Potion` x1
-* Buff: `Huge Potion of Speed` x2
+* Champion: `Ellywick Tumblestrum`
+* Skin: `Masquerade Ellywick`
+* Feat: ???
+* Familiar: `Nibbles the Brigganock`
+* Chests: `Gold Ellywick Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
 
