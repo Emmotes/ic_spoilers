@@ -153,20 +153,15 @@ Unknown.
     "description": "Kas summons two specters that deal ultimate damage each second for 15 seconds.",
     "long_description": "Kas summons two specters that move towards enemies, dealing ultimate damage each second for 15 seconds.",
     "graphic_id": 24585,
-    "target": "random",
+    "target": "none",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 0.033,
     "cooldown": 3,
     "animations": [
         {
-            "type": "melee_attack",
-            "damage_frame": 8,
-            "target_offset_x": -40,
-            "jump_sound": 30,
-            "sound_frames": {
-                "14": 154
-            }
+            "type": "ultimate_attack",
+            "ultimate": "kas"
         }
     ],
     "tags": [
@@ -278,7 +273,7 @@ Unknown.
         {
             "effect_string": "expression_on_trigger,area_complete",
             "per_trigger_expr": "AppendToSaveStat(`kas_mortal_pawn_stacks`, true, trigger_count*as_int(per_hero_count))",
-            "per_hero_expr": "!is_undead"
+            "per_hero_expr": "!HasEffect(`vampire_spawn`)"
         },
         {
             "effect_string": "pre_stack,1",
@@ -321,7 +316,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Life Drain** (Guess)
-> When an Undead Champion in the formation attacks, they regain $(amount) Hit Points.
+> When an Undead Champion in the formation attacks, they regain 50 Hit Points.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -333,12 +328,12 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "effect_action_on_attack",
+            "effect_string": "effect_action_on_attack,50",
             "target_self": true,
             "hero_expr": "is_undead",
             "effects": [
                 {
-                    "effect_string": "heal_targets_by_amount,50",
+                    "effect_string": "heal_targets_by_amount,0",
                     "targets": [
                         "self"
                     ]
@@ -362,7 +357,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Sword of Kas** (Guess)
-> When a Champion that is not already Undead dies, they immediately resurrect at full health as a Vampire Spawn, counting as Undead for the rest of the adventure. The effect of Born Into Evil is increased by $(amount)% for each Undead Champion in the formation, stacking multiplicatively.
+> When a Champion that is not already Undead dies, they immediately resurrect at full health as a Vampire Spawn, counting as Undead for the rest of the adventure. The effect of Born Into Evil is increased by 100% for each Undead Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -370,12 +365,35 @@ Unknown.
     "id": 2084,
     "flavour_text": "",
     "description": {
-        "desc": "When a Champion that is not already Undead dies, they immediately resurrect at full health as a Vampire Spawn, counting as Undead for the rest of the adventure. The effect of Born Into Evil is increased by $(amount)% for each Undead Champion in the formation, stacking multiplicatively."
+        "desc": "When a Champion that is not already Undead dies, they immediately resurrect at full health as a Vampire Spawn, counting as Undead for the rest of the adventure. The effect of Born Into Evil is increased by $(amount___2)% for each Undead Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "effect_string": "kas_spawn_of_kas",
-            "resurrection_priority": -50
+            "resurrection_priority": -50,
+            "underlay_graphic_id": 24686,
+            "vampire_spawn_effect_name": "vampire_spawn",
+            "vampire_spawn_effect": {
+                "effect_string": "vampire_spawn"
+            }
+        },
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,15619,1",
+            "amount_expr": "upgrade_amount(15622,1)",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "is_undead",
+            "amount_func": "mult",
+            "show_bonus": true,
+            "stack_title": "Undead Champions",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_appears_dead"
+            ],
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -395,11 +413,45 @@ Unknown.
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unlock Ultimate** (Guess)
+> Kas magically summons two Specters for 15 seconds. For the duration, the Specters move towards enemies at a medium rate and deal ultimate damage every second to enemies near them.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2088,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kas magically summons two Specters for 15 seconds. For the duration, the Specters move towards enemies at a medium rate and deal ultimate damage every second to enemies near them."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "kas_ultimate",
+            "duration": 15
+        },
+        {
+            "effect_string": "set_ultimate_attack"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24585,
+    "large_graphic_id": 24585,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Kas the Destroyer** (Guess)
-> Kas increases the effect of Life Drain by $(amount)% and evil Champions attack faster as their base attack cooldown is reduced by 0.5 seconds.
+> Kas increases the effect of Life Drain by 100% and evil Champions attack faster as their base attack cooldown is reduced by 0.5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -411,7 +463,24 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "buff_upgrade,100,15621"
+        },
+        {
+            "effect_string": "reduce_attack_cooldown,0.5",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasTag(`evil`)"
+                }
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -420,7 +489,11 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_targets___2"
     }
 }
 </pre>
@@ -430,7 +503,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Kas the Bloody Handed** (Guess)
-> Kas's damage against Boss enemies is increased by $(amount)%, and the effect of Born Into Evil is increased by $(amount)% for each Undead Champion in the formation.
+> Kas's damage against Boss enemies is increased by 100%, and the effect of Born Into Evil is increased by 100% for each Undead Champion in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -442,7 +515,26 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "increase_damage_against_monster_tag,100,boss"
+        },
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,15619,1",
+            "amount_expr": "upgrade_amount(15624,1)",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "is_undead",
+            "amount_func": "mult",
+            "show_bonus": true,
+            "stack_title": "Undead Champions",
+            "total_title": "Total Buff to Born Into Evil",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_appears_dead"
+            ],
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -451,7 +543,11 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks___3"
     }
 }
 </pre>
@@ -461,7 +557,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Kas the Betrayer** (Guess)
-> Increase the effect of Born Into Evil by $(amount)%. In addition, Champions adjacent to Kas gain the Evil tag. This does not affect their other alignment tags, and doesn't affect whether they are eligible for the adventure.
+> Increase the effect of Born Into Evil by 100%. In addition, Champions adjacent to Kas gain the Evil tag. This does not affect their other alignment tags, and doesn't affect whether they are eligible for the adventure.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -473,7 +569,15 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "buff_upgrade,100,15619,1"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "add_hero_tags,0,evil",
+            "targets": [
+                "adj"
+            ],
+            "hide_amount_rate": true
         }
     ],
     "requirements": "",
@@ -482,7 +586,10 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
