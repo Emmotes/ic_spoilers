@@ -11,48 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Archdruid Voronika Portrait](images/skin_portraits/archdruidvoronika.png)Archdruid Voronika
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Gem Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">20,000</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">07 Aug 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Masquerade Rust Portrait](images/skin_portraits/masqueraderust.png)Masquerade Rust
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Masquerade Ball Rust Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">07 Aug 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Persistent Lae'zel Portrait](images/skin_portraits/persistentlaezel.png)Persistent Lae'zel
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Lae'zel's Champions of Renown Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$69.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">07 Aug 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Masquerade Ellywick Portrait](images/skin_portraits/masqueradeellywick.png)Masquerade Ellywick
         </span>
         <span class="skinTableSource">
