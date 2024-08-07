@@ -84,7 +84,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Gnome Bard</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Ahghairon's Day - 7 August 2024 (Guess)</span>
+                <span class="indexChampionTableNoLink">Ahghairon's Day - 14 August 2024</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
