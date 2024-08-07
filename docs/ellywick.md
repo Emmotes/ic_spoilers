@@ -12,7 +12,7 @@ Ellywick Tumblestrum has created music of such stirring quality that she was onc
 
 # Changes
 
-Ellywick is potentially a reworked champion in the Ahghairon's Day event on 7 August 2024.
+Ellywick will be a reworked champion in the Ahghairon's Day event on 7 August 2024.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
