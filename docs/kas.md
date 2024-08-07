@@ -428,7 +428,12 @@ Unknown.
     "effect_keys": [
         {
             "effect_string": "kas_ultimate",
-            "duration": 15
+            "duration": 16,
+            "specter_data": {
+                "random_offset_range": 75,
+                "move_speed": 175,
+                "desired_distance_to_monster": 40
+            }
         },
         {
             "effect_string": "set_ultimate_attack"
