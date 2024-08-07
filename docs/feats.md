@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Rust</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Halls of Gold Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1887**Halls of Gold (Rust)**What is all this?<code>buff_upgrade,80,15360</code></span>Halls of Gold
-        </span>
-        <span class="featTableEffect">
-            <span>80% Highest Bidder</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>07 Aug 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Lae'zel</span>
         </span>
         <span class="featTableIcon4">

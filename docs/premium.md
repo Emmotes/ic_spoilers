@@ -5,65 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Avatar of Azuth Familiar Pack - $11.99  
-Date of release: 07 Aug 2024
-
-> Collect your own Avatar of Azuth Familiar - the Marid!
-
-Contents:
-
-* Familiar: `Azuth's Marid`
-* Buff: `Potion of the Hunter` x1
-* Buff: `Epic Golden Potion` x1
-* Buff: `Huge Potion of Speed` x2
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Lae'zel's Champions of Renown Pack - $69.99  
-Date of release: 07 Aug 2024
-
-> Unlock 5 awesome Champions and supercharge your progress!
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack probably won't be available for purchase since it's likely to be for a platform giveaway.*
-
-Contents:
-
-* Champion: `Lae'zel`
-* Skin: `Persistent Lae'zel`
-* Chests: `Gold Lae'zel Chest` x16 (Shinies x2)
-* Champion: `Gale`
-* Chests: `Gold Gale Chest` x16 (Shinies x2)
-* Champion: `Karlach`
-* Chests: `Gold  Karlach Chest` x16 (Shinies x2)
-* Champion: `Hew Maan`
-* Chests: `Gold Hew Maan Chest` x16 (Shinies x2)
-* Champion: `Nordom Whistleklik`
-* Chests: `Gold Nordom Chest` x16 (Shinies x2)
-* Familiar: `Snuggles the Sphynx Cat`
-* Buff: `Potion of the Gem Hunter` x1
-* Buff: `Potion of the Gold Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Masquerade Ball Rust Theme Pack - $27.99  
-Date of release: 07 Aug 2024
-
-> Unlock Rust along with an exclusive Masquerade Skin & Familiar!
-
-Contents:
-
-* Champion: `Rust on the Harbour`
-* Skin: `Masquerade Rust`
-* Feat: `Halls of Gold` (Rust)
-* Familiar: `François the Blue Crab`
-* Chests: `Gold Rust Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Masquerade Ball Ellywick Theme Pack - $27.99  
 Date of release: 14 Aug 2024
 
