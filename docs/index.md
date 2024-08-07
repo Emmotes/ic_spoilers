@@ -95,32 +95,6 @@ A list of champions that will be seeing reworks in upcoming events.
 </a>
 {:/nomarkdown}
 {::nomarkdown}
-<a href="rust.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Rust on the Harbour Portrait Icon](images/rust/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Rust
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Tabaxi Rogue of Oxventurers Guild</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Ahghairon's Day - 7 August 2024 (Guess)</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/icon_melee.png)
-            ![Ranged Attack Icon](images/icon_ranged.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="rosie.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
