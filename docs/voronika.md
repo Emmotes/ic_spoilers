@@ -37,16 +37,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "effect_string": "voronika_puppet_master,100",
             "puppet_change_time": 30,
-            "puppet_effect": {
-                "effect_string": "hero_dps_multiplier_mult,100",
-                "active_graphic_id": 24598,
-                "active_graphic_y": -150
-            },
+            "puppet_effect_id": 2101,
             "puppet_affiliation_tag": "blackdicesociety"
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 24577,
     "large_graphic_id": 15537,
     "properties": {
         "is_formation_ability": true,
@@ -61,7 +57,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Calculating Guidance** (Guess)
-> 
+> Voronika increases the damage of all Champions in one column in front of her by 100%. Voronika's key allies are members of the Black Dice Society. The effect of this ability is increased by 100% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -69,12 +65,36 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2090,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "conditions": [
+            {
+                "condition": "upgrade_purchased 15635",
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by 100%. Voronika's key allies are members of the Black Dice Society and Evil Champions. The effect of this ability is increased by 100% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+            },
+            {
+                "condition": "upgrade_purchased 15636",
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by 100%. Voronika's key allies are members of the Black Dice Society and Champions who have a Favored Foe. The effect of this ability is increased by 100% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+            },
+            {
+                "condition": "upgrade_purchased 15637",
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by 100%. Voronika's key allies are members of the Black Dice Society and Champions who have the Debuff role. The effect of this ability is increased by 100% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+            },
+            {
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by 100%. Voronika's key allies are members of the Black Dice Society. The effect of this ability is increased by 100% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+            }
+        ]
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`blackdicesociety`)",
+            "show_bonus": true,
+            "targets": [
+                "next_col"
+            ],
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
@@ -93,7 +113,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Search for the Crown** (Guess)
-> 
+> Voronika's search for the Crown of Raven Queen requires her to complete 3 goals. When Voronika completes all 3 goals, she acquires the crown, transforms into her Darklord Form, unlocks her ultimate attack, and improves her base attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -101,12 +121,38 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2091,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "pre": "Voronika's search for the Crown of Raven Queen requires her to complete 3 goals. When Voronika completes all 3 goals, she acquires the crown, transforms into her Darklord Form, unlocks her ultimate attack, and improves her base attack.",
+        "conditions": [
+            {
+                "condition": "not static_desc",
+                "desc": "^^Goals:^ - Defeat $(num_enemies) enemies with her Inner Circle Champion in the formation.$(voronika_enemies_prog)^ - Voronika reaches level $(level_reached).$(voronika_levels_prog)^ - Use $(ults_used) Ultimate Attacks with other Champions.$(voronika_ults_prog)"
+            }
+        ]
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "voronika_search_for_the_crown",
+            "level_reached": 750,
+            "ults_used": 50,
+            "num_enemies": 2500,
+            "num_favored_foes": 500,
+            "num_debuffs": 1750
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "set_ultimate_attack,541"
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "change_base_attack,543"
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "change_upgrade_data,15631,0",
+            "data": {
+                "amount_func": "mult"
+            }
         }
     ],
     "requirements": "",
@@ -203,7 +249,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Embrace Evil** (Guess)
-> 
+> For the third Quest for the Crown goal, Calculating Guidances' key allies must kill 2,500 enemies. The key allies for Calculating Guidances now also include Champions who have the Evil alignment.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -211,12 +257,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2094,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "For the third Quest for the Crown goal, Calculating Guidances' key allies must kill 2,500 enemies. The key allies for Calculating Guidances now also include Champions who have the Evil alignment."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "change_upgrade_data,15631,0",
+            "data": {
+                "per_hero_expr": "HasTag(`blackdicesociety`) || HasTag(`evil`)"
+            }
         }
     ],
     "requirements": "",
@@ -235,7 +284,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Hunt the Favored** (Guess)
-> 
+> For the third Quest for the Crown goal, you must kill 500 enemies who are the Favored Foe of any Champion in the formation. The key allies for Calculating Guidance now also include Champions who have a Favored Foe.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -243,12 +292,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2095,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "For the third Quest for the Crown goal, you must kill 500 enemies who are the Favored Foe of any Champion in the formation. The key allies for Calculating Guidance now also include Champions who have a Favored Foe."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "change_upgrade_data,15631,0",
+            "data": {
+                "per_hero_expr": "HasTag(`blackdicesociety`) || HasTag(`hunter`)"
+            }
         }
     ],
     "requirements": "",
@@ -267,7 +319,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Weaken the Fools** (Guess)
-> 
+> For the third Quest for the Crown goal, you must apply 1750 Debuffs to enemies. The key allies for Calculating Guidances now also include Champions who have the Debuff role.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -275,12 +327,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2096,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "For the third Quest for the Crown goal, you must apply 1750 Debuffs to enemies. The key allies for Calculating Guidances now also include Champions who have the Debuff role."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "change_upgrade_data,15631,0",
+            "data": {
+                "per_hero_expr": "HasTag(`blackdicesociety`) || HasTag(`debuff`)"
+            }
         }
     ],
     "requirements": "",
@@ -313,50 +368,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "off_when_benched": true,
             "effect_string": "voronika_battle_magic,1000",
+            "puppet_effect_id": 2102,
             "aoe_radius": 100,
+            "projectile_shoot_offset": [
+                60,
+                -70
+            ],
+            "projectile_name": "magic_missile",
             "projectile_details": {
-                "hash": "49d40bb6d70b12449bfccf33d3adc683",
-                "target_offset_y": 0,
-                "projectile_speed": 1500,
-                "projectile_graphic_id": 2653,
-                "trail": {
-                    "particle_graphic_ids": [
-                        "2653"
-                    ],
-                    "lifespan": 0.2,
-                    "spawn_rate": 300,
-                    "spawn_shape_scale": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "initial_velocity": {
-                        "x": 0,
-                        "y": 0
-                    },
-                    "velocity_jitter": {
-                        "x": 30,
-                        "y": 30
-                    },
-                    "rotation_jitter": 0,
-                    "alpha_lerp": {
-                        "0": 0,
-                        "0.1": 0.75,
-                        "1": 0
-                    },
-                    "scale_lerp": [
-                        {
-                            "x": 1,
-                            "y": 1
-                        },
-                        {
-                            "x": 0,
-                            "y": 0
-                        }
-                    ]
-                },
-                "percent_height_offset": 10,
-                "use_auto_rotation": true,
-                "projectile_hit_graphic_id": 2614
+                "impact_graphic_id": 8446
             }
         }
     ],
@@ -376,7 +396,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Powerful Focus** (Guess)
-> 
+> Voronika's Puppet has all of their incoming positional damage effects increased by 75%, and their basic attack now knocks back any enemies it hits a short distance.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -384,12 +404,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2098,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Voronika's Puppet has all of their incoming positional damage effects increased by $amount%, and their basic attack now knocks back any enemies it hits a short distance."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "voronika_powerful_focus,75",
+            "puppet_effect_id": 2103,
+            "push_amount": 100
         }
     ],
     "requirements": "",
@@ -408,7 +430,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Strike First, Strike Hard** (Guess)
-> 
+> Voronika's Puppet attacks 1s faster and their damage is increased by 150% for each Champion adjacent to them, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -416,12 +438,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2099,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Voronika's Puppet attacks $(seconds_plural amount) faster and their damage is increased by $(not_buffed amount___2)% for each Champion adjacent to them, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "voronika_strike_hard_strike_fast,1",
+            "puppet_effect_id": 2104
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,150",
+            "amount_func": "mult",
+            "stack_func": "adjacent_champions",
+            "custom_base_slot": "voronika_puppet",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -430,7 +464,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true
     }
 }
 </pre>
