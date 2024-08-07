@@ -56,7 +56,7 @@ Contents:
 
 * Champion: `Rust on the Harbour`
 * Skin: `Masquerade Rust`
-* Feat: ???
+* Feat: `Halls of Gold` (Rust)
 * Familiar: `François the Blue Crab`
 * Chests: `Gold Rust Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
