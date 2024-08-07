@@ -530,6 +530,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "ult_attack_id": 796,
             "variant_ult_attack_id": 801,
             "variant_adventure_id": 321
+        },
+        {
+            "effect_string": "set_ultimate_attack,796",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "set_ultimate_attack,801",
+            "apply_manually": true
         }
     ],
     "requirements": "",
