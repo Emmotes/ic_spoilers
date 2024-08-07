@@ -125,7 +125,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "conditions": [
             {
                 "condition": "not static_desc",
-                "desc": "^^Goals:^ - Defeat $(num_enemies) enemies with her Inner Circle Champion in the formation.$(voronika_enemies_prog)^ - Voronika reaches level $(level_reached).$(voronika_levels_prog)^ - Use $(ults_used) Ultimate Attacks with other Champions.$(voronika_ults_prog)"
+                "desc": "^^$voronika_prog_v2"
             }
         ]
     },
@@ -184,7 +184,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "voronika_speed_run"
         }
     ],
     "requirements": "",
@@ -249,7 +249,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Embrace Evil** (Guess)
-> For the third Quest for the Crown goal, Calculating Guidances' key allies must kill 2,500 enemies. The key allies for Calculating Guidances now also include Champions who have the Evil alignment.
+> For the third Quest for the Crown goal, Calculating Guidances' key allies must defeat 2,500 enemies. The key allies for Calculating Guidances now also include Champions who have the Evil alignment.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -257,7 +257,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2094,
     "flavour_text": "",
     "description": {
-        "desc": "For the third Quest for the Crown goal, Calculating Guidances' key allies must kill 2,500 enemies. The key allies for Calculating Guidances now also include Champions who have the Evil alignment."
+        "desc": "For the third Quest for the Crown goal, Calculating Guidances' key allies must defeat 2,500 enemies. The key allies for Calculating Guidances now also include Champions who have the Evil alignment."
     },
     "effect_keys": [
         {
@@ -284,7 +284,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Hunt the Favored** (Guess)
-> For the third Quest for the Crown goal, you must kill 500 enemies who are the Favored Foe of any Champion in the formation. The key allies for Calculating Guidance now also include Champions who have a Favored Foe.
+> For the third Quest for the Crown goal, you must defeat 500 enemies who are the Favored Foe of any Champion in the formation. The key allies for Calculating Guidance now also include Champions who have a Favored Foe.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -292,7 +292,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2095,
     "flavour_text": "",
     "description": {
-        "desc": "For the third Quest for the Crown goal, you must kill 500 enemies who are the Favored Foe of any Champion in the formation. The key allies for Calculating Guidance now also include Champions who have a Favored Foe."
+        "desc": "For the third Quest for the Crown goal, you must defeat 500 enemies who are the Favored Foe of any Champion in the formation. The key allies for Calculating Guidance now also include Champions who have a Favored Foe."
     },
     "effect_keys": [
         {
