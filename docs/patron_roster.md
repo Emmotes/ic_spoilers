@@ -3130,7 +3130,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft">
-        <label class="cblabel"><input type="checkbox" disabled>
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
     </span>
     <span class="patronRosterItem">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft">
