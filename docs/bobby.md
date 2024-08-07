@@ -483,7 +483,8 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
             ],
             "amount_updated_listeners": [
                 "slot_changed",
-                "feat_changed"
+                "feat_changed",
+                "ability_score_changed"
             ]
         },
         {
@@ -542,7 +543,8 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
             ],
             "amount_updated_listeners": [
                 "slot_changed",
-                "feat_changed"
+                "feat_changed",
+                "ability_score_changed"
             ],
             "show_bonus": true
         }
@@ -593,7 +595,8 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
             "stack_title": "Humble Champions",
             "amount_updated_listeners": [
                 "slot_changed",
-                "feat_changed"
+                "feat_changed",
+                "ability_score_changed"
             ],
             "off_when_benched": true
         }
@@ -697,7 +700,8 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
             "stack_title": "Strong Champions",
             "amount_updated_listeners": [
                 "slot_changed",
-                "feat_changed"
+                "feat_changed",
+                "ability_score_changed"
             ],
             "off_when_benched": true
         }
@@ -808,16 +812,14 @@ Unknown.
 > Silvermane joins the formation.  
 > 1-2 wolves attack with each wave. They don't drop gold nor count towards quest progress.   
 > At the start of area 25 and 50, Kelek attacks as an additional boss that must be defeated.  
-> Getting to Know Bobby: Bobby's main support ability buffs Champions next to Uni, the Unicorn.  
-> 
+> Getting to Know Bobby: Bobby's main support ability buffs Champions next to Uni, the Unicorn.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Venger Strikes Back! Icon](images/bobby/24387.png) **Variant 3: Venger Strikes Back!** (Complete Area 175)
 > Bobby starts in the formation. He can be moved but not removed.  
 > At the start of each Boss area, Venger arrives on his nightmare as an additional boss that must be defeated.  
 > You may only use Champions with a Strength of 15 or higher, an age of 20 or younger, or have a total ability score of 78 or lower.  
-> Getting to Know Bobby: Bobby's second set of specializations determines which Champions he works best with. Which formation will you build?  
-> 
+> Getting to Know Bobby: Bobby's second set of specializations determines which Champions he works best with. Which formation will you build?
 </div></div>
 
 # Other Champion Images
