@@ -138,9 +138,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Bobby-quake**
 > Bobby strikes the ground with his club, knocking all enemies up and back and stunning them for 5 seconds.  
-> Cooldown: 3s (Cap 0.75s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 320s (Cap 80s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -154,7 +152,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
-    "cooldown": 3,
+    "cooldown": 320,
     "animations": [
         {
             "type": "ultimate_attack",
