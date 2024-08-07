@@ -142,8 +142,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "1": {
                         "effect_string": "monster_speed_reduce,100",
                         "for_time": 5,
-                        "active_graphic_id": 1509,
-                        "active_graphic_y": -60,
+                        "active_graphic_id": 6729,
+                        "active_graphic_y": 0,
                         "activate_on_animation_cancelled": true
                     }
                 }
@@ -220,8 +220,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "1": {
                         "effect_string": "monster_speed_reduce,100",
                         "for_time": 15,
-                        "active_graphic_id": 1509,
-                        "active_graphic_y": -60,
+                        "active_graphic_id": 6729,
+                        "active_graphic_y": 0,
                         "activate_on_animation_cancelled": true
                     }
                 }
@@ -352,7 +352,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "consume_stacks": 1,
             "stacks_effect_key_index": 0,
             "additional_crits": 1,
-            "broadcast_trigger": "rosie_deflected"
+            "broadcast_trigger": "rosie_deflected",
+            "set_bud": true
         }
     ],
     "requirements": "",
@@ -398,6 +399,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "effect_string": "stacks_data_binder_safe,0,rosie_timeless_body_stacks",
             "is_instanced_stat": false
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "_rosie_timeless_body_offline_handler"
         }
     ],
     "requirements": "",
@@ -477,6 +482,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_func": "per_hero_attribute",
             "per_num_levels": 100,
             "per_hero_expr": "floor(level/100)",
+            "per_hero_targets": [
+                "effect_key_slot"
+            ],
             "show_bonus": true,
             "amount_updated_listeners": [
                 "hero_level_changed"
@@ -505,8 +513,38 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unlock Ultimate** (Guess)
+> Unlocks Rosie's Grammamancy Ultimate Attack.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2100,
+    "flavour_text": "",
+    "description": {
+        "desc": "Unlocks Rosie's Grammamancy Ultimate Attack"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "rosie_ult_handler",
+            "ult_attack_id": 796,
+            "variant_ult_attack_id": 801,
+            "variant_adventure_id": 321
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Matriarch** (Guess)
-> Increases the effect of Sassy by 100% for every female champion in the formation who is younger than Rosie, stacking multiplicatively.
+> Increases the effect of Sassy by 100% for every Female or Nonbinary Champion in the formation who is younger than Rosie, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -516,7 +554,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2067,
     "flavour_text": "",
     "description": {
-        "desc": "Increases the effect of Sassy by $amount% for every female champion in the formation who is younger than Rosie, stacking multiplicatively."
+        "desc": "Increases the effect of Sassy by $amount% for every Female or Nonbinary Champion in the formation who is younger than Rosie, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -530,7 +568,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "show_bonus": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`female`) && age<110",
+            "per_hero_expr": "(HasTag(`female`) || (!HasTag(`female`) && !HasTag(`male`))) && age<110",
             "amount_updated_listeners": [
                 "slot_changed"
             ]
@@ -545,7 +583,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -581,7 +620,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`cteam`) || HasTag(`acqinc`) || HasTag(`wafflecrew`)",
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "hero_tags_changed"
             ]
         }
     ],
@@ -594,7 +634,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -643,7 +684,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -715,8 +757,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "effect_string": "reduce_attack_cooldown_per_any_tagged_crusader,0.5,cteam",
             "amount_updated_listeners": [
-                "slot_changed"
-            ]
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "total_title": "Total Attack Speed Bonus"
         },
         {
             "off_when_benched": true,
@@ -726,8 +770,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`cteam`)",
             "amount_updated_listeners": [
-                "slot_changed"
-            ]
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "total_title": "Total Damage Bonus"
         }
     ],
     "requirements": "",
@@ -750,7 +796,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Slower Decay** (Guess)
-> Increase Rosie's critical hit damage by 600% and the effect of Slow Decay is set to 75%.
+> Increases Rosie's critical hit damage by 600% and the effect of Slow Decay is set to 75%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -758,7 +804,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2072,
     "flavour_text": "",
     "description": {
-        "desc": "Increase Rosie's critical hit damage by $amount% and the effect of Slow Decay is set to $(new_amount___2)%."
+        "desc": "Increases Rosie's critical hit damage by $amount% and the effect of Slow Decay is set to $(new_amount___2)%."
     },
     "effect_keys": [
         {
