@@ -282,6 +282,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+# Specialisations
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Hunt the Favored** (Guess)
 > For the third Quest for the Crown goal, you must defeat 500 enemies who are the Favored Foe of any Champion in the formation. The key allies for Calculating Guidance now also include Champions who have a Favored Foe.

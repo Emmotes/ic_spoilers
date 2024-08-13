@@ -18,7 +18,7 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
-# Abilities
+# Attacks
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Call Of The Feywild** (Guess)
@@ -59,6 +59,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 </div></div>
+
+# Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Powerful Following** (Guess)
@@ -467,6 +469,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 </div></div>
+
+# Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: For the Fans** (Guess)
