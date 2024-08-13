@@ -22,7 +22,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Shadow Arts** (Guess)
-> Rosie darts towards a random enemy and swings her staff, dealing 10 seconds of BUD damage to all enemies in a small area.
+> Rosie darts towards a random enemy and swings her staff, dealing 10 seconds of BUD damage to all enemies in a small area.  
+> Cooldown: 4.5s (Cap 1.125s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -67,7 +68,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Shadow Step** (Guess)
-> Rosie Shadow Steps behind one of the three closest enemies at random and hits them with a flurry of blows.
+> Rosie Shadow Steps behind one of the three closest enemies at random and hits them with a flurry of blows.  
+> Cooldown: 4.5s (Cap 1.125s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -112,7 +114,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Grammamancy** (Guess)
-> Rosie roots all enemies in place for 5 seconds and becomes a blur of movement, pummeling up to 10 enemies on screen for ultimate damage, and refilling her deflect stacks to max.
+> Rosie roots all enemies in place for 5 seconds and becomes a blur of movement, pummeling up to 10 enemies on screen for ultimate damage, and refilling her deflect stacks to max.  
+> Cooldown: 220s (Cap 55s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -190,7 +193,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Grammamancy** (Guess)
-> Rosie roots all enemies in place for 15 seconds and becomes a blur of movement, pummeling up to 10 enemies on screen for ultimate damage, and refilling her deflect stacks to max.
+> Rosie roots all enemies in place for 15 seconds and becomes a blur of movement, pummeling up to 10 enemies on screen for ultimate damage, and refilling her deflect stacks to max.  
+> Cooldown: 220s (Cap 55s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>

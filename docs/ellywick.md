@@ -22,7 +22,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Call Of The Feywild** (Guess)
-> Ellywick discards her current hand and six feywild creatures run to Ellywick, damaging enemies as they come, and then again as they run away.
+> Ellywick discards her current hand and six feywild creatures run to Ellywick, damaging enemies as they come, and then again as they run away.  
+> Cooldown: 600s (Cap 150s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
