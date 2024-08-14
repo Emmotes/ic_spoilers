@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Ellywick</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Asteria's Love Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1881**Asteria's Love (Ellywick)**The deck was made because of love and bravery. Always remember that.<code>change_upgrade_data,15229,0</code></span>Asteria's Love
-        </span>
-        <span class="featTableEffect">
-            <span>???: [change_upgrade_data,15229,0]</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>14 Aug 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Lae'zel</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Absolute Trust Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1868**Absolute Trust (Lae'zel)**You have proven yourself worthy of my trust. For now.<code>buff_upgrade,80,12113</code></span>Absolute Trust
-        </span>
-        <span class="featTableEffect">
-            <span>80% Lethal Coordination</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>14 Aug 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Jim</span>
         </span>
         <span class="featTableIcon4">

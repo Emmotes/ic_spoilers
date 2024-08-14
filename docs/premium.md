@@ -5,40 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Masquerade Ball Ellywick Theme Pack - $27.99  
-Date of release: 14 Aug 2024
-
-> Unlock Ellywick along with an exclusive Masquerade Skin & Familiar!
-
-Contents:
-
-* Champion: `Ellywick Tumblestrum`
-* Skin: `Masquerade Ellywick`
-* Feat: `Asteria's Love` (Ellywick)
-* Familiar: `Nibbles the Brigganock`
-* Chests: `Gold Ellywick Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Masquerade Ball Lae'zel Skin & Feat Pack - $11.99  
-Date of release: 14 Aug 2024
-
-> Unlock Lae'zel along with her exclusive Masquerade Skin & Feat!
-
-Contents:
-
-* Champion: `Lae'zel`
-* Skin: `Masquerade Lae'zel`
-* Feat: `Absolute Trust` (Lae'zel)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Lae'zel Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Masquerade Ball Jim Skin & Feat Pack - $11.99  
 Date of release: 21 Aug 2024
 

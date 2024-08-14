@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Masquerade Ellywick Portrait](images/skin_portraits/masqueradeellywick.png)Masquerade Ellywick
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Masquerade Ball Ellywick Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">14 Aug 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Masquerade Lae'zel Portrait](images/skin_portraits/masqueradelaezel.png)Masquerade Lae'zel
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Masquerade Ball Lae'zel Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">14 Aug 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Masquerade Jim Portrait](images/skin_portraits/masqueradejim.png)Masquerade Jim
         </span>
         <span class="skinTableSource">
