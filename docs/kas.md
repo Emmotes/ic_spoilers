@@ -88,12 +88,9 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/kas/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Kas" fill="#aaa" data-formationName="Kas" data-campaignName="Liar's Night" width="331" height="160"><circle cx="215" cy="45" r="15"/><circle cx="175" cy="65" r="15"/><circle cx="175" cy="145" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="145" r="15"/><text x="245" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Kas</text><text x="245" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Liar's Night</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -259,7 +256,8 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Mortal Pawns** (Guess)
-> Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by 1%, stacking multiplicatively.
+> Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by 1%, stacking multiplicatively.   
+> Non Vampire Spawn Champions: $(upgrade_stacks_total 15620,3).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -267,12 +265,12 @@ Unknown.
     "id": 2082,
     "flavour_text": "",
     "description": {
-        "desc": "Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by $(amount___2)%, stacking multiplicatively."
+        "desc": "Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by $(amount___2)%, stacking multiplicatively. ^Non Vampire Spawn Champions: $(upgrade_stacks_total 15620,3)"
     },
     "effect_keys": [
         {
             "effect_string": "expression_on_trigger,area_complete",
-            "per_trigger_expr": "AppendToSaveStat(`kas_mortal_pawn_stacks`, true, trigger_count*as_int(per_hero_count))",
+            "per_trigger_expr": "{AppendToSaveStat(`kas_mortal_pawn_stacks`, true, trigger_count*as_int(per_hero_count)) AppendToSaveStat(`kas_mortal_pawn_stacks_all_time`, false, trigger_count*as_int(per_hero_count))}",
             "per_hero_expr": "!HasEffect(`vampire_spawn`)"
         },
         {
@@ -287,14 +285,23 @@ Unknown.
             "post_process_expr": "GetSaveStat(`kas_mortal_pawn_stacks`, true)",
             "stack_title": "Pawn Stacks",
             "show_bonus": true,
-            "use_computed_amount_for_description": true
+            "use_computed_amount_for_description": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "area_changed",
+                "hero_appears_dead"
+            ]
         },
         {
             "effect_string": "abcd,100",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "is_undead",
-            "skip_effect_key_desc": true
+            "per_hero_expr": "!HasEffect(`vampire_spawn`)",
+            "skip_effect_key_desc": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_appears_dead"
+            ]
         }
     ],
     "requirements": "",
@@ -370,7 +377,7 @@ Unknown.
     "effect_keys": [
         {
             "effect_string": "kas_spawn_of_kas",
-            "resurrection_priority": -50,
+            "resurrection_priority": 1500,
             "underlay_graphic_id": 24686,
             "vampire_spawn_effect_name": "vampire_spawn",
             "vampire_spawn_effect": {
@@ -429,6 +436,7 @@ Unknown.
         {
             "effect_string": "kas_ultimate",
             "duration": 16,
+            "skip_effect_key_desc": true,
             "specter_data": {
                 "random_offset_range": 75,
                 "move_speed": 175,
@@ -444,6 +452,7 @@ Unknown.
     "large_graphic_id": 24585,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "formation_circle_icon": false
     }
 }
@@ -516,7 +525,7 @@ Unknown.
     "id": 2086,
     "flavour_text": "",
     "description": {
-        "desc": "Kas's damage against Boss enemies is increased by $(amount)%, and the effect of Born Into Evil is increased by $(amount)% for each Undead Champion in the formation."
+        "desc": "Kas's damage against Boss enemies is increased by $(amount)%, and the effect of Born Into Evil is increased by $(amount___2)% for each Undead Champion in the formation."
     },
     "effect_keys": [
         {
@@ -678,15 +687,25 @@ Unknown.
 > Chase down a masked man who has performed a daring heist.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: TBD** (Complete Area 75)
+![Lieutenant of Evil Icon](images/kas/24587.png) **Variant 1: Lieutenant of Evil** (Complete Area 75)
+> Kas starts in the formation. He can be moved but not removed.  
+> You may only use Evil Champions.  
+> Getting to Know Kas: Kas's damage is increased when you use Evil Champions with him.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Lord of Tovag Icon](images/kas/24588.png) **Variant 2: Lord of Tovag** (Complete Area 125)
+> Kas starts in the formation. He can be moved but not removed.  
+> Every second, a random Champion in the formation takes a hit dealing 10% of their total health.  
+> 1-2 Vecna Zombies spawn with each wave. They don't drop gold nor count towards quest progress.  
+> Getting to Know Kas: As a Vampire Lord, Kas can transform other Champions into vampires, allowing them to heal when they attack enemies.  
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: TBD** (Complete Area 125)
-> 
-</div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: TBD** (Complete Area 175)
+![Betrayer of Vecna Icon](images/kas/24589.png) **Variant 3: Betrayer of Vecna** (Complete Area 175)
+> Kas starts in the formation. He can be moved but not removed.  
+> Bosses have 100% additional health for every 50 areas that have been completed, stacking multiplicatively.  
+> 1-2 Vecna Cultists spawn with each wave. They don't drop gold nor count towards quest progress.  
+> Getting to Know Kas: Kas's specialization choices give you multiple ways to augment his damage and healing. Which will you choose?  
 > 
 </div></div>
 
