@@ -68,18 +68,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "conditions": [
             {
                 "condition": "upgrade_purchased 15635",
-                "desc": "Voronika increases the damage of all Champions in one column in front of her by 100%. Voronika's key allies are members of the Black Dice Society and Evil Champions. The effect of this ability is increased by 100% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount)%. Voronika's key allies are members of the Black Dice Society and Evil Champions. The effect of this ability is increased by $(not_buffed amount)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
             },
             {
                 "condition": "upgrade_purchased 15636",
-                "desc": "Voronika increases the damage of all Champions in one column in front of her by 100%. Voronika's key allies are members of the Black Dice Society and Champions who have a Favored Foe. The effect of this ability is increased by 100% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount)%. Voronika's key allies are members of the Black Dice Society and Champions who have a Favored Foe. The effect of this ability is increased by $(not_buffed amount)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
             },
             {
                 "condition": "upgrade_purchased 15637",
-                "desc": "Voronika increases the damage of all Champions in one column in front of her by 100%. Voronika's key allies are members of the Black Dice Society and Champions who have the Debuff role. The effect of this ability is increased by 100% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount)%. Voronika's key allies are members of the Black Dice Society and Champions who have the Debuff role. The effect of this ability is increased by $(not_buffed amount)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
             },
             {
-                "desc": "Voronika increases the damage of all Champions in one column in front of her by 100%. Voronika's key allies are members of the Black Dice Society. The effect of this ability is increased by 100% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount)%. Voronika's key allies are members of the Black Dice Society. The effect of this ability is increased by $(not_buffed amount)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
             }
         ]
     },
@@ -88,13 +88,23 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "effect_string": "hero_dps_multiplier_mult,100",
             "amount_func": "add",
-            "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`blackdicesociety`)",
+            "stack_func": "per_voronika_key_ally",
             "show_bonus": true,
             "targets": [
                 "next_col"
             ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed",
+                "upgrade_unlocked",
+                "feat_changed"
+            ],
             "use_computed_amount_for_description": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "voronika_key_ally",
+            "tag": "blackdicesociety"
         }
     ],
     "requirements": "",
@@ -103,7 +113,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -171,7 +184,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Speed Run** (Guess)
-> 
+> The effect of Puppet Master is increased by 10000%. This value multiplicatively decreases by 10% five minutes after the adventure starts and decreases by another 10% for every minute after that, but doesn't decrease after Voronika has completed her Search for the Crown.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -179,12 +192,37 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2092,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "conditions": [
+            {
+                "condition": "feat_assigned 1547",
+                "desc": "The effect of Puppet Master is increased by $(amount___2)%. This value multiplicatively decreases by $(reduction_amount_with_feat___2)% one minute after the adventure starts and decreases by another $(reduction_amount_with_feat___2)% for every minute after that, but doesn't decrease after Voronika has completed her Search for the Crown."
+            },
+            {
+                "desc": "The effect of Puppet Master is increased by $(amount___2)%. This value multiplicatively decreases by $(reduction_amount___2)% five minutes after the adventure starts and decreases by another $(reduction_amount___2)% for every minute after that, but doesn't decrease after Voronika has completed her Search for the Crown."
+            }
+        ],
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^$voronika_speed_run_desc"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "voronika_speed_run"
+            "effect_string": "buff_upgrade,0,15630"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "voronika_speed_run,10000",
+            "reduction_amount": 10,
+            "reduction_start_min": 4,
+            "special_feat_id": 1547,
+            "reduction_amount_with_feat": 20,
+            "reduction_start_min_with_feat": 0
         }
     ],
     "requirements": "",
@@ -193,7 +231,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -262,10 +303,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "change_upgrade_data,15631,0",
-            "data": {
-                "per_hero_expr": "HasTag(`blackdicesociety`) || HasTag(`evil`)"
-            }
+            "effect_string": "voronika_key_ally",
+            "tag": "evil"
         }
     ],
     "requirements": "",
@@ -299,10 +338,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "change_upgrade_data,15631,0",
-            "data": {
-                "per_hero_expr": "HasTag(`blackdicesociety`) || HasTag(`hunter`)"
-            }
+            "effect_string": "voronika_key_ally",
+            "tag": "hunter"
         }
     ],
     "requirements": "",
@@ -334,10 +371,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "change_upgrade_data,15631,0",
-            "data": {
-                "per_hero_expr": "HasTag(`blackdicesociety`) || HasTag(`debuff`)"
-            }
+            "effect_string": "voronika_key_ally",
+            "tag": "debuff"
         }
     ],
     "requirements": "",
