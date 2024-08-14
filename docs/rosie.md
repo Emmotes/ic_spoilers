@@ -408,7 +408,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "off_when_benched": true,
-            "effect_string": "_rosie_timeless_body_offline_handler"
+            "effect_string": "rosie_timeless_body_offline_handler",
+            "stacks_per_minute": 2
         }
     ],
     "requirements": "",
