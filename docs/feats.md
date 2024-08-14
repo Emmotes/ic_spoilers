@@ -572,7 +572,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Gem Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<code>ellywick_gem_prioritized</code></span>Gem
         </span>
         <span class="featTableEffect">
-            <span>???: [ellywick_gem_prioritized]</span>
+            <span>First card is always a Gems card.</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
