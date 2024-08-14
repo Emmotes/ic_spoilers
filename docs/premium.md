@@ -14,7 +14,7 @@ Contents:
 
 * Champion: `Ellywick Tumblestrum`
 * Skin: `Masquerade Ellywick`
-* Feat: ???
+* Feat: `Asteria's Love` (Ellywick)
 * Familiar: `Nibbles the Brigganock`
 * Chests: `Gold Ellywick Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
@@ -138,7 +138,7 @@ Contents:
 * Skin: `Harvestguard Bobby`
 * Feat: ???
 * Familiar: `Scarecrow Uni`
-* Chests: `Gold  Bobby Chest` x16 (Shinies x2)
+* Chests: `Gold Bobby Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
@@ -294,6 +294,40 @@ Contents:
 * Buff: `Potion of the Gold Hunter` x1
 * Modron: `Upgrade Components` x2,000
 * Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Darklord Kas Theme Pack - $27.99  
+Date of release: 02 Oct 2024
+
+> Unlock Kas along with an exclusive Darklord Skin & Bloodsword Familiar!
+
+Contents:
+
+* Champion: `Kas`
+* Skin: `Darklord Kas`
+* Feat: ???
+* Familiar: `Bloodsword`
+* Chests: `Gold Kas Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Vampire Hunter Voronika Theme Pack - $27.99  
+Date of release: 02 Oct 2024
+
+> Unlock Voronika along with an exclusive Vampire Hunter Skin & Ghost Owl Familiar!
+
+Contents:
+
+* Champion: `Voronika`
+* Skin: `Vampire Hunter Voronika`
+* Feat: ???
+* Familiar: `Glimmer the Ghost Owl`
+* Chests: `Gold Voronika Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
 

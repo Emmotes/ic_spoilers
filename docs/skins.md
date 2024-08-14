@@ -233,6 +233,76 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-right: 8px;">26 Sept 2024</span>
         </span>
     </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Darklord Kas Portrait](images/skin_portraits/darklordkas.png)Darklord Kas
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Darklord Kas Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">02 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Vampire Hunter Voronika Portrait](images/skin_portraits/vampirehuntervoronika.png)Vampire Hunter Voronika
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Vampire Hunter Voronika Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">02 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Ascended Astarion Portrait](images/skin_portraits/ascendedastarion.png)Ascended Astarion
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Cursed Banshee Thellora Portrait](images/skin_portraits/cursedbansheethellora.png)Cursed Banshee Thellora
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Harvestguard Presto Portrait](images/skin_portraits/harvestguardpresto.png)Harvestguard Presto
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
