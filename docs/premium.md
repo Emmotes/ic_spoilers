@@ -102,7 +102,7 @@ Contents:
 
 * Champion: `Bobby`
 * Skin: `Harvestguard Bobby`
-* Feat: ???
+* Feat: `Lead the Unicorns` (Bobby)
 * Familiar: `Scarecrow Uni`
 * Chests: `Gold Bobby Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1

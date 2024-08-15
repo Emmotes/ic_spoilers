@@ -81,6 +81,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Lead the Unicorns Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1907**Lead the Unicorns (Bobby)**FOR UNI!<code>buff_upgrade,80,15443,0</code></span>Lead the Unicorns
+        </span>
+        <span class="featTableEffect">
+            <span>80% Charge Into Battle (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>04 Sept 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Presto</span>
         </span>
         <span class="featTableIcon4">
