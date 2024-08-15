@@ -4595,6 +4595,39 @@ A list of all champions and their patron availability.
     <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight">
+        152
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Bobby
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        12
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2032-12-31
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
         155
     </span>
     <span class="patronRosterItem">&nbsp;</span>
