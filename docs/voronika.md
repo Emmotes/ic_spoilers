@@ -288,8 +288,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+# Specialisations
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Embrace Evil** (Guess)
+**Specialisation: Embrace Evil** (Guess)
 > For the third Quest for the Crown goal, Calculating Guidances' key allies must defeat 2,500 enemies. The key allies for Calculating Guidances now also include Champions who have the Evil alignment.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -320,8 +322,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 </div></div>
-
-# Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Hunt the Favored** (Guess)
