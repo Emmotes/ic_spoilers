@@ -24,7 +24,7 @@ These are the event champions that are upcoming and all the information we know 
                 Bobby
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Barbarian of Saturday Morning Squad (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Barbarian of Saturday Morning Squad</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Highharvestide - 4 September 2024</span>

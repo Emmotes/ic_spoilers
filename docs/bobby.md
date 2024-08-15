@@ -11,9 +11,7 @@
 
 # Bobby
 
-Bobby, the Barbarian (voiced by Ted Field III) – the youngest member of the team at eight years old and the younger brother of Sheila. He is the Barbarian, as indicated by his fur pants and boots, horned helmet, and cross belt harness. Brash, brave and selfless but occasionally impulsive, Bobby's personality frequently puts himself and his friends in danger. His cudgel saves the protagonists from peril on numerous occasions.
-
-[D&D TV Series Wiki](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_(TV_series))
+Bobby is the youngest of the group that was transported to the magical world of Dungeons & Dragons. As a brave and loyal Barbarian, he wields a powerful magical club that enhances his strength. Bobby has close ties to his sister Sheila and his pet unicorn, Uni. Despite his impulsiveness, Bobby's courage and determination are key assets in the search to find the way back home.
 
 # Basic Information
 
@@ -24,64 +22,160 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">12</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Stat**</span>
+        </span>
+        <span class="champStatsTableStatsHeader">
+            <span style="margin-left:8px;">**Value**</span>
+        </span>
+        <span class="champStatsTableTrialsHeader">
+            <span style="margin-left:8px;">**Day 1 Trials**</span>
+        </span>
+        <span class="champStatsTablePatronsHeader">
+            <span style="margin-left:8px;">**Patrons**</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Race**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Human (Guess)</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Human</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Strength**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">18</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">Mirt</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Class**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Barbarian (Guess)</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Barbarian</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Dexterity**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">15</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">-</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">DPS / Support (Guess)</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">DPS / Support</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Constitution**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">12</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">-</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Age**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">8 (Guess)</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">8</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Intelligence**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:13px;">9</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">-</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">-</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Male (Guess)</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Male</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Wisdom**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:13px;">8</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">-</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">Elminster</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Chaotic Good</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Charisma**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">10</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">-</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">&nbsp;</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Saturday Morning Squad (Guess)</span>
+        <span class="champStatsTableInfo">
+            <span style="margin-left:8px;">Saturday Morning Squad</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Total**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">72</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Champion ID:</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">152</span>
         </span>
     </span>
 </span>
@@ -95,7 +189,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 # Attacks
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Thunder Club** (Melee)
+![Melee Icon](images/icon_melee.png) **Base Attack: Thunder Club** (Melee)
 > Bobby swings his club at the closest enemy.  
 > Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
@@ -136,7 +230,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Bobby-quake**
+![Bobby-quake Icon](images/bobby/icon_bobbyquake.png) **Ultimate Attack: Bobby-quake** (Level: 120)
 > Bobby strikes the ground with his club, knocking all enemies up and back and stunning them for 5 seconds.  
 > Cooldown: 320s (Cap 80s)
 <details><summary><em>Raw Data</em></summary>
@@ -178,11 +272,22 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Critical Hit** (Level: 0)
 > Bobby's base chance to Critical Hit is 20%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 15442,
+    "hero_id": 152,
+    "required_level": 0,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2051",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Critical Hit"
+}
 {
     "id": 2051,
     "flavour_text": "",
@@ -215,13 +320,24 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Charge Into Battle** (Guess)
+![Charge Into Battle Icon](images/bobby/icon_chargeintobattle.png) **Charge Into Battle** (Level: 10)
 > Bobby increases his damage by 100% for each column behind him, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 15443,
+    "hero_id": 152,
+    "required_level": 10,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2052",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Charge Into Battle"
+}
 {
     "id": 2052,
     "flavour_text": "",
@@ -261,11 +377,53 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Uni the Unicorn** (Guess)
+![Uni, the Unicorn Icon](images/bobby/icon_unitheunicorn.png) **Uni, the Unicorn** (Level: 40)
 > Uni takes her place next to Bobby. Uni increases the damage of Bobby and all other Champions next to her by 100%. If Uni is in Dungeon Master's formation slot, this is further increased by 400%.
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+      100: 100%
+      150: 100%
+      190: 100%
+      240: 100%
+      300: 100%
+      360: 100%
+      420: 100%
+      500: 100%
+      640: 100%
+      770: 100%
+      910: 100%
+    1,050: 100%
+    1,190: 100%
+    1,320: 100%
+    1,460: 100%
+    1,590: 100%
+    1,730: 100%
+    1,870: 100%
+    2,000: 100%
+    2,140: 100%
+    2,210: 100%
+
+    Total Upgrade Bonus: 2.10e08%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 15444,
+    "hero_id": 152,
+    "required_level": 40,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2053",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Uni, the Unicorn",
+    "tip_text": "Bobby's pet unicorn Uni supports all Champions that are next to her."
+}
 {
     "id": 2053,
     "flavour_text": "",
@@ -350,19 +508,261 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
         "retain_on_slot_changed": true
     }
 }
+{
+    "id": 15454,
+    "hero_id": 152,
+    "required_level": 100,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15709,
+    "hero_id": 152,
+    "required_level": 150,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15712,
+    "hero_id": 152,
+    "required_level": 190,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15714,
+    "hero_id": 152,
+    "required_level": 240,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15716,
+    "hero_id": 152,
+    "required_level": 300,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15719,
+    "hero_id": 152,
+    "required_level": 360,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15721,
+    "hero_id": 152,
+    "required_level": 420,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15724,
+    "hero_id": 152,
+    "required_level": 500,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15728,
+    "hero_id": 152,
+    "required_level": 640,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15732,
+    "hero_id": 152,
+    "required_level": 770,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15736,
+    "hero_id": 152,
+    "required_level": 910,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15739,
+    "hero_id": 152,
+    "required_level": 1050,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15742,
+    "hero_id": 152,
+    "required_level": 1190,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15746,
+    "hero_id": 152,
+    "required_level": 1320,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15748,
+    "hero_id": 152,
+    "required_level": 1460,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15750,
+    "hero_id": 152,
+    "required_level": 1590,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15753,
+    "hero_id": 152,
+    "required_level": 1730,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15755,
+    "hero_id": 152,
+    "required_level": 1870,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15758,
+    "hero_id": 152,
+    "required_level": 2000,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15761,
+    "hero_id": 152,
+    "required_level": 2140,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 15765,
+    "hero_id": 152,
+    "required_level": 2210,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,15444,1",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
 </pre>
 </p>
 </details>
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Now We're Talking** (Guess)
+![Now We're Talking Icon](images/bobby/icon_nowweretalking.png) **Now We're Talking** (Level: 80)
 > Whenever Bobby lands a Critical Hit, the effect of Charge Into Battle is increased by 100%, stacking multiplicatively up to 10 times and resetting when changing areas.
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This applies prestackitively to Charge Into Battle.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 15445,
+    "hero_id": 152,
+    "required_level": 80,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2054",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Now We're Talking"
+}
 {
     "id": 2054,
     "flavour_text": "",
@@ -411,11 +811,23 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Scales of Tiamat Scavenger** (Guess)
+![Scales of Tiamat Scavenger Icon](images/bobby/icon_scalesoftiamatscavenger.png) **Scales of Tiamat Scavenger** (Level: 160)
 > Bobby can help scavenge up to 5000 additional Scales of Tiamat from boss loot sacks. While this cap is not reached, Bobby has a 10% chance of scavenging 10 Scales of Tiamat each time a boss drops a loot bag. The cap increases by 150 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 15446,
+    "hero_id": 152,
+    "required_level": 160,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2055",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Scales of Tiamat Scavenger",
+    "tip_text": "Bobby has a chance to uncover Scales of Tiamat with each defeated boss, with a cap that increases every day."
+}
 {
     "id": 2055,
     "flavour_text": "",
@@ -462,11 +874,88 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Strong Armed** (Guess)
+![Group Charge Icon](images/bobby/icon_groupcharge.png) **Group Charge** (Level: 110)
+> Bobby's Charge Into Battle now also increases the damage of all Champions behind Bobby by $(amount)% of the buff it provides to Bobby.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 15448,
+    "hero_id": 152,
+    "required_level": 110,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2057",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Group Charge",
+    "specialization_name": "Group Charge",
+    "specialization_description": "Bobby bravely focuses on his support role by leading the heroes behind him into the battle.",
+    "specialization_graphic_id": 24404
+}
+{
+    "id": 2057,
+    "flavour_text": "",
+    "description": {
+        "desc": "Bobby's Charge Into Battle now also increases the damage of all Champions behind Bobby by $(amount)% of the buff it provides to Bobby."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing,100",
+            "dev_note": "this is the pre-stack amount",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(15443,1)*upgrade_amount(15448,0)*0.01",
+            "targets": [
+                "behind"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed",
+                "ability_score_changed"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24400,
+    "large_graphic_id": 24396,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": false,
+        "formation_circle_icon": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Stunning Strength Icon](images/bobby/icon_stunningstrength.png) **Stunning Strength** (Level: 110)
 > Bobby increases his damage by 100%. When Bobby scores a Critical Hit, the enemies are also knocked back and stunned for 5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 15447,
+    "hero_id": 152,
+    "required_level": 110,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2056",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Stunning Strength",
+    "specialization_name": "Stunning Strength",
+    "specialization_description": "Bobby impulsively focuses on his damage dealing role by stunning his opponents when he scores critical hits.",
+    "specialization_graphic_id": 24408
+}
 {
     "id": 2056,
     "flavour_text": "",
@@ -516,62 +1005,27 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Group Charge** (Guess)
-> Bobby's Charge Into Battle now also increases the damage of all Champions behind Bobby by $(amount)% of the buff it provides to Bobby.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 2057,
-    "flavour_text": "",
-    "description": {
-        "desc": "Bobby's Charge Into Battle now also increases the damage of all Champions behind Bobby by $(amount)% of the buff it provides to Bobby."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "do_nothing,100",
-            "dev_note": "this is the pre-stack amount",
-            "skip_effect_key_desc": true
-        },
-        {
-            "effect_string": "hero_dps_multiplier_mult,0",
-            "amount_expr": "upgrade_amount(15443,1)*upgrade_amount(15448,0)*0.01",
-            "targets": [
-                "behind"
-            ],
-            "amount_updated_listeners": [
-                "slot_changed",
-                "feat_changed",
-                "ability_score_changed"
-            ],
-            "show_bonus": true
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 24400,
-    "large_graphic_id": 24396,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": false,
-        "formation_circle_icon": true,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Not So Low** (Guess)
+![Not So Low Icon](images/bobby/icon_notsolow.png) **Not So Low** (Level: 250)
 > Bobby increases the effect of his first Specialization choice by 100% for each Champion in the formation with a total ability score of 78 or less, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 15449,
+    "hero_id": 152,
+    "required_level": 250,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2058",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Not So Low",
+    "specialization_name": "Not So Low",
+    "specialization_description": "Bobby focuses on Champions who have low total ability scores.",
+    "specialization_graphic_id": 24405
+}
 {
     "id": 2058,
     "flavour_text": "",
@@ -618,13 +1072,27 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Still Growing Up** (Guess)
+![Still Growing Up Icon](images/bobby/icon_stillgrowingup.png) **Still Growing Up** (Level: 250)
 > Bobby increases the effect of his first Specialization choice by 100% for each Champion in the formation that is 20 years old or younger, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 15450,
+    "hero_id": 152,
+    "required_level": 250,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2059",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Still Growing Up",
+    "specialization_name": "Still Growing Up",
+    "specialization_description": "Bobby works best with other young Champions.",
+    "specialization_graphic_id": 24406
+}
 {
     "id": 2059,
     "flavour_text": "",
@@ -670,13 +1138,27 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Stunning Strength** (Guess)
+![Strong Armed Icon](images/bobby/icon_strongarmed.png) **Strong Armed** (Level: 250)
 > Bobby increases the effect of his first Specialization choice by 100% for each Champion in the formation with a Strength of 15 or higher, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
+{
+    "id": 15451,
+    "hero_id": 152,
+    "required_level": 250,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2060",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Strong Armed",
+    "specialization_name": "Strong Armed",
+    "specialization_description": "Bobby flexes his muscles with other strong Champions.",
+    "specialization_graphic_id": 24407
+}
 {
     "id": 2060,
     "flavour_text": "",
@@ -729,67 +1211,503 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
         <span class="itemTableIcon">
             <span style="margin-left:8px;">**Icons**</span>
         </span>
-        <span class="itemTableNameSmall">
-            **Name**
+        <span class="itemTableSlot">
+            <span>**Slot**</span>
+        </span>
+        <span class="itemTableName">
+            **Epic Name**
+        </span>
+        <span class="itemTableEffect">
+            <span>**Effect**</span>
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Boots Icon](images/bobby/24355.png)</span><span class="itemTableIcon2">![Boots Icon](images/bobby/24355.png)</span><span class="itemTableIcon3">![Boots Icon](images/bobby/24356.png)</span><span class="itemTableIcon4">![Boots Icon](images/bobby/24357.png)</span>
+            <span class="itemTableIcon1">![Mom's Picks Icon](images/bobby/24358.png)<span class="itemTooltipContents">ID: 3602**Mom's Picks**Mom says I get to pick out my clothes next year!<code>global_dps_multiplier_mult,10</code></span></span><span class="itemTableIcon2">![Weekend Clothes Icon](images/bobby/24358.png)<span class="itemTooltipContents">ID: 3603**Weekend Clothes**Mom said to not get these dirty - oh well!<code>global_dps_multiplier_mult,65</code></span></span><span class="itemTableIcon3">![Barbarian Gear Icon](images/bobby/24359.png)<span class="itemTooltipContents">ID: 3604**Barbarian Gear**Sheila - look how cool I am in this!<code>global_dps_multiplier_mult,120</code></span></span><span class="itemTableIcon4">![Clothes of the Harvest Icon](images/bobby/24360.png)<span class="itemTooltipContents">ID: 3605**Clothes of the Harvest**That golden crow is never gonna suspect this!<code>global_dps_multiplier_mult,230</code></span></span><span class="itemTableGE">&nbsp;</span>
         </span>
-        <span class="itemTableNameSmall">
-            Boots
+        <span class="itemTableSlot">
+            <span>1</span>
         </span>
-    </span>
-    <span class="itemTableRow">
-        <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Clothing Icon](images/bobby/24358.png)</span><span class="itemTableIcon2">![Clothing Icon](images/bobby/24358.png)</span><span class="itemTableIcon3">![Clothing Icon](images/bobby/24359.png)</span><span class="itemTableIcon4">![Clothing Icon](images/bobby/24360.png)</span>
+        <span class="itemTableName">
+            Clothes of the Harvest
         </span>
-        <span class="itemTableNameSmall">
-            Clothing
+        <span class="itemTableEffect">
+            <span>All Champion Damage</span>
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Club Icon](images/bobby/24361.png)</span><span class="itemTableIcon2">![Club Icon](images/bobby/24361.png)</span><span class="itemTableIcon3">![Club Icon](images/bobby/24362.png)</span><span class="itemTableIcon4">![Club Icon](images/bobby/24363.png)</span>
+            <span class="itemTableIcon1">![Home Run Icon](images/bobby/24361.png)<span class="itemTooltipContents">ID: 3606**Home Run**Did you see how far I hit that one?!<code>buff_upgrade,10,15443,0</code></span></span><span class="itemTableIcon2">![Baseball Bat Icon](images/bobby/24361.png)<span class="itemTooltipContents">ID: 3607**Baseball Bat**I promise not to break this one!<code>buff_upgrade,30,15443,0</code></span></span><span class="itemTableIcon3">![Sturdy Club Icon](images/bobby/24362.png)<span class="itemTooltipContents">ID: 3608**Sturdy Club**I could hit so many home runs with this!<code>buff_upgrade,50,15443,0</code></span></span><span class="itemTableIcon4">![Magical Bonking Club Icon](images/bobby/24363.png)<span class="itemTooltipContents">ID: 3609**Magical Bonking Club**Tiamat won't stand a chance against this!<code>buff_upgrade,100,15443,0</code></span></span>
         </span>
-        <span class="itemTableNameSmall">
-            Club
+        <span class="itemTableSlot">
+            <span>2</span>
         </span>
-    </span>
-    <span class="itemTableRow">
-        <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Helm Icon](images/bobby/24364.png)</span><span class="itemTableIcon2">![Helm Icon](images/bobby/24364.png)</span><span class="itemTableIcon3">![Helm Icon](images/bobby/24365.png)</span><span class="itemTableIcon4">![Helm Icon](images/bobby/24366.png)</span>
+        <span class="itemTableName">
+            Magical Bonking Club
         </span>
-        <span class="itemTableNameSmall">
-            Helm
+        <span class="itemTableEffect">
+            <span>Charge Into Battle (Prestack)</span>
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Necklace Icon](images/bobby/24367.png)</span><span class="itemTableIcon2">![Necklace Icon](images/bobby/24367.png)</span><span class="itemTableIcon3">![Necklace Icon](images/bobby/24368.png)</span><span class="itemTableIcon4">![Necklace Icon](images/bobby/24369.png)</span>
+            <span class="itemTableIcon1">![A Time of Fear Icon](images/bobby/24370.png)<span class="itemTooltipContents">ID: 3610**A Time of Fear**I was so scared I was going to lose you, Uni!<code>buff_upgrade,25,15444,1</code></span></span><span class="itemTableIcon2">![Shed Horn Icon](images/bobby/24370.png)<span class="itemTooltipContents">ID: 3611**Shed Horn**No matter what, I'll always have this to remind me of Uni.<code>buff_upgrade,87.5,15444,1</code></span></span><span class="itemTableIcon3">![Uni Hair Icon](images/bobby/24371.png)<span class="itemTooltipContents">ID: 3612**Uni Hair**Uni, you're shedding everywhere!<code>buff_upgrade,150,15444,1</code></span></span><span class="itemTableIcon4">![Dragonbane Wreath Icon](images/bobby/24372.png)<span class="itemTooltipContents">ID: 3613**Dragonbane Wreath**That old man said it would bring Uni luck - and he was right!<code>buff_upgrade,275,15444,1</code></span></span>
         </span>
-        <span class="itemTableNameSmall">
-            Necklace
+        <span class="itemTableSlot">
+            <span>3</span>
+        </span>
+        <span class="itemTableName">
+            Dragonbane Wreath
+        </span>
+        <span class="itemTableEffect">
+            <span>Uni, the Unicorn</span>
         </span>
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1">![Uni Stuff Icon](images/bobby/24370.png)</span><span class="itemTableIcon2">![Uni Stuff Icon](images/bobby/24370.png)</span><span class="itemTableIcon3">![Uni Stuff Icon](images/bobby/24371.png)</span><span class="itemTableIcon4">![Uni Stuff Icon](images/bobby/24372.png)</span>
+            <span class="itemTableIcon1">![Go Fasters Icon](images/bobby/24355.png)<span class="itemTooltipContents">ID: 3614**Go Fasters**I can round the bases faster than anyone else on the team!<code>buff_upgrade,25,15447,0<br>buff_upgrade,25,15448,0<br></code></span></span><span class="itemTableIcon2">![School Shoes Icon](images/bobby/24355.png)<span class="itemTooltipContents">ID: 3615**School Shoes**It took me forever to get my mom to let me wear these to school!<code>buff_upgrade,87.5,15447,0<br>buff_upgrade,87.5,15448,0<br></code></span></span><span class="itemTableIcon3">![Leather Boots Icon](images/bobby/24356.png)<span class="itemTooltipContents">ID: 3616**Leather Boots**I miss my laces, but the fur is cool!<code>buff_upgrade,150,15447,0<br>buff_upgrade,150,15448,0<br></code></span></span><span class="itemTableIcon4">![Boots of Wheat Icon](images/bobby/24357.png)<span class="itemTooltipContents">ID: 3617**Boots of Wheat**I feel like that scarecrow from that old movie!<code>buff_upgrade,275,15447,0<br>buff_upgrade,275,15448,0<br></code></span></span>
         </span>
-        <span class="itemTableNameSmall">
-            Uni Stuff
+        <span class="itemTableSlot">
+            <span>4</span>
+        </span>
+        <span class="itemTableName">
+            Boots of Wheat
+        </span>
+        <span class="itemTableEffect">
+            <span>Stunning Strength</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Know Your Limits Icon](images/bobby/24367.png)<span class="itemTooltipContents">ID: 3618**Know Your Limits**Dungeon Master said that I need to know when to run away...<code>buff_upgrade,10,15449,0<br>buff_upgrade,10,15450,0<br><br>buff_upgrade,10,15451,0<br></code></span></span><span class="itemTableIcon2">![Amulet of Protection Icon](images/bobby/24367.png)<span class="itemTooltipContents">ID: 3619**Amulet of Protection**...but this is for when I don't!<code>buff_upgrade,30,15449,0<br>buff_upgrade,30,15450,0<br><br>buff_upgrade,30,15451,0<br></code></span></span><span class="itemTableIcon3">![Terri's Heart Necklace Icon](images/bobby/24368.png)<span class="itemTooltipContents">ID: 3620**Terri's Heart Necklace**I'll always remember...<code>buff_upgrade,50,15449,0<br>buff_upgrade,50,15450,0<br><br>buff_upgrade,50,15451,0<br></code></span></span><span class="itemTableIcon4">![Kelek's Amulet Icon](images/bobby/24369.png)<span class="itemTooltipContents">ID: 3621**Kelek's Amulet**Kelek will NEVER get this back!<code>buff_upgrade,100,15449,0<br>buff_upgrade,100,15450,0<br><br>buff_upgrade,100,15451,0<br></code></span></span>
+        </span>
+        <span class="itemTableSlot">
+            <span>5</span>
+        </span>
+        <span class="itemTableName">
+            Kelek's Amulet
+        </span>
+        <span class="itemTableEffect">
+            <span>Not So Low (Prestack)</span>
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Rally Time Icon](images/bobby/24364.png)<span class="itemTooltipContents">ID: 3622**Rally Time**We need a little extra help! Everyone flip your caps!<code>reduce_ultimate_cooldown,8</code></span></span><span class="itemTableIcon2">![Baseball Cap Icon](images/bobby/24364.png)<span class="itemTooltipContents">ID: 3623**Baseball Cap**No, we can't clean it! It's lucky!<code>reduce_ultimate_cooldown,16</code></span></span><span class="itemTableIcon3">![Helm of the Barbarian Icon](images/bobby/24365.png)<span class="itemTooltipContents">ID: 3624**Helm of the Barbarian**Dungeon Master says I need to be careful - I could put someone's eye out!<code>reduce_ultimate_cooldown,32</code></span></span><span class="itemTableIcon4">![Goddess Touched Helm Icon](images/bobby/24366.png)<span class="itemTooltipContents">ID: 3625**Goddess Touched Helm**My head isn't just for thinking - it's a weapon!<code>reduce_ultimate_cooldown,80</code></span></span>
+        </span>
+        <span class="itemTableSlot">
+            <span>6</span>
+        </span>
+        <span class="itemTableName">
+            Goddess Touched Helm
+        </span>
+        <span class="itemTableEffect">
+            <span>Ultimate Cooldown Reduction<br/><span style="font-size:0.9em;">Cap: 501 dull / 251 shiny / 126 golden.</span></span>
         </span>
     </span>
 </span>
 
+<details><summary><em>Item Names and Descriptions</em></summary>
+<p>
+<pre>
+Slot 1:
+           Mom's Picks: Mom says I get to pick out my clothes next year!
+       Weekend Clothes: Mom said to not get these dirty - oh well!
+        Barbarian Gear: Sheila - look how cool I am in this!
+Clothes of the Harvest: That golden crow is never gonna suspect this!
+
+Slot 2:
+              Home Run: Did you see how far I hit that one?!
+          Baseball Bat: I promise not to break this one!
+           Sturdy Club: I could hit so many home runs with this!
+  Magical Bonking Club: Tiamat won't stand a chance against this!
+
+Slot 3:
+        A Time of Fear: I was so scared I was going to lose you, Uni!
+             Shed Horn: No matter what, I'll always have this to remind me of Uni.
+              Uni Hair: Uni, you're shedding everywhere!
+     Dragonbane Wreath: That old man said it would bring Uni luck - and he was right!
+
+Slot 4:
+            Go Fasters: I can round the bases faster than anyone else on the team!
+          School Shoes: It took me forever to get my mom to let me wear these to school!
+         Leather Boots: I miss my laces, but the fur is cool!
+        Boots of Wheat: I feel like that scarecrow from that old movie!
+
+Slot 5:
+      Know Your Limits: Dungeon Master said that I need to know when to run away...
+  Amulet of Protection: ...but this is for when I don't!
+Terri's Heart Necklace: I'll always remember...
+        Kelek's Amulet: Kelek will NEVER get this back!
+
+Slot 6:
+            Rally Time: We need a little extra help! Everyone flip your caps!
+          Baseball Cap: No, we can't clean it! It's lucky!
+ Helm of the Barbarian: Dungeon Master says I need to be careful - I could put someone's eye
+                        out!
+  Goddess Touched Helm: My head isn't just for thinking - it's a weapon!
+</pre>
+</p>
+</details>
+<br>
+
 # Feats
 
-Unknown.
+This list will only show feats that are going to be available on the release of this champion. The separate [Feats](feats.md) page may show others that could be available later if they exist.
+
+<span class="featTableColumn">
+    <span class="featTableRowHeader">
+        <span class="featTableIcon1">
+            <span style="margin-left:8px;">**Feat**</span>
+        </span>
+        <span class="featTableEffect">
+            <span>**Effect**</span>
+        </span>
+        <span class="featTableSource">
+            <span>**Source**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Tavern Brawler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 1898**Tavern Brawler (Bobby)**I'm not old enough to go inside - but I'll kick your butt in the street!<code>hero_dps_multiplier_mult,30</code></span>Tavern Brawler
+        </span>
+        <span class="featTableEffect">
+            <span>30% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Grappler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 1899**Grappler (Bobby)**You won't BELIEVE how far I'm gonna throw you!<code>hero_dps_multiplier_mult,60</code></span>Grappler
+        </span>
+        <span class="featTableEffect">
+            <span>60% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Tactical Prowess Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1900**Tactical Prowess (Bobby)**Okay, Uni. You go around and distract them. I'll bonk 'em on the head!<code>buff_base_crit_chance_add,5</code></span>Tactical Prowess
+        </span>
+        <span class="featTableEffect">
+            <span>+5% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Battle Expertise Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1901**Battle Expertise (Bobby)**I've fought a battle or two before - don't worry!<code>buff_base_crit_chance_add,10</code></span>Battle Expertise
+        </span>
+        <span class="featTableEffect">
+            <span>+10% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Cataclysmic Strike Icon](images/featicons/critdamageincrease.png)<span class="featTooltipContents">ID: 1902**Cataclysmic Strike (Bobby)**Now we're talking!<code>buff_base_crit_damage,60</code></span>Cataclysmic Strike
+        </span>
+        <span class="featTableEffect">
+            <span>+60% Crit Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Selflessness Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1903**Selflessness (Bobby)**You'll have to go through me to get to Uni!<code>global_dps_multiplier_mult,10</code></span>Selflessness
+        </span>
+        <span class="featTableEffect">
+            <span>10% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1904**Inspiring Leader (Bobby)**Uh, usually Hank handles this stuff. But - we can do this! I know it!<code>global_dps_multiplier_mult,25</code></span>Inspiring Leader
+        </span>
+        <span class="featTableEffect">
+            <span>25% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Lead the Party Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1905**Lead the Party (Bobby)**Don't worry - I'll go in first and you all sweep up!<code>buff_upgrade,20,15443,0</code></span>Lead the Party
+        </span>
+        <span class="featTableEffect">
+            <span>20% Charge Into Battle (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Lead the Charge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1906**Lead the Charge (Bobby)**Kelek can't stop all of us! Let's GO!<code>buff_upgrade,40,15443,0</code></span>Lead the Charge
+        </span>
+        <span class="featTableEffect">
+            <span>40% Charge Into Battle (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon4">
+            ![Lead the Unicorns Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1907**Lead the Unicorns (Bobby)**FOR UNI!<code>buff_upgrade,80,15443,0</code></span>Lead the Unicorns
+        </span>
+        <span class="featTableEffect">
+            <span>80% Charge Into Battle (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon2">
+            ![Oh, Uni! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1908**Oh, Uni! (Bobby)**You're always getting into so much trouble, Uni. But we still love you!<code>buff_upgrade,20,15444,1</code></span>Oh, Uni!
+        </span>
+        <span class="featTableEffect">
+            <span>20% Uni, the Unicorn</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Uni, Watch Out! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1909**Uni, Watch Out! (Bobby)**Uni, RUN! I'll protect you!<code>buff_upgrade,40,15444,1</code></span>Uni, Watch Out!
+        </span>
+        <span class="featTableEffect">
+            <span>40% Uni, the Unicorn</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![A Magical Friend Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1910**A Magical Friend (Bobby)**Go with Dungeon Master. He'll keep you safe, okay?<code>buff_upgrade,40,15444,4</code></span>A Magical Friend
+        </span>
+        <span class="featTableEffect">
+            <span>40% Uni, the Unicorn</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Barbarian Confidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1911**Barbarian Confidence (Bobby)**I'm just like that one barbarian from that movie!<code>buff_upgrade,40,15445,1</code></span>Barbarian Confidence
+        </span>
+        <span class="featTableEffect">
+            <span>40% Now We're Talking (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon4">
+            ![Barbarian Strength Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1912**Barbarian Strength (Bobby)**Just because I'm small doesn't mean I can't lift this boulder!<code>buff_upgrade_effect_stacks_max_mult,100,15445,1</code></span>Barbarian Strength
+        </span>
+        <span class="featTableEffect">
+            <span>100% Now We're Talking Stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span>Event Bonus</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Rage! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1913**Rage! (Bobby)**NO ONE TREATS UNI LIKE THAT!<code>buff_upgrade,40,15447,0<br>buff_upgrade,40,15448,0<br></code></span>Rage!
+        </span>
+        <span class="featTableEffect">
+            <span>40% Stunning Strength & 40% Group Charge & ???: [buff_upgrade,40,15447,0, Increases the effect of Bobby's Stunning Strength and Group Charge specializations by $amount%., buff_upgrade,40,15448,0, ]</span>
+        </span>
+        <span class="featTableSource">
+            <span>Gold Chest</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableIcon3">
+            ![Playground Rules Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1914**Playground Rules (Bobby)**All right, so we take turns picking players. Then you'll decide...<code>buff_upgrade,40,15449,0<br>buff_upgrade,40,15450,0<br><br>buff_upgrade,40,15451,0<br></code></span>Playground Rules
+        </span>
+        <span class="featTableEffect">
+            <span>40% Not So Low & 40% Still Growing Up & ???: [buff_upgrade,40,15449,0, Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed specializations by $amount%., buff_upgrade,40,15450,0, , buff_upgrade,40,15451,0, ] & 40% Strong Armed & ???: [buff_upgrade,40,15449,0, Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed specializations by $amount%., buff_upgrade,40,15450,0, , buff_upgrade,40,15451,0, ] (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>12,500 Gems</span>
+        </span>
+    </span>
+</span>
 
 # Legendaries
 
-Unknown.
+* Increases the damage of all Champions by 100%.
+* Increases the damage of all Male Champions by 125%.
+* Increases the damage of all Human Champions by 150%.
+* Increases the damage of all Champions with a STR score of 11 or higher by 100%.
+* Increases the damage of all Champions by 30% for each Champion with a DEX score of 13 or higher in the formation.
+* Increases the damage of all Chaotic Champions by 150%.
+
+<details><summary><em>DPS Applicable</em></summary>
+<p>
+<pre>
+    Artemis: 5 / 6
+    Asharra: 2 / 6
+     Binwin: 4 / 6
+   Birdsong: 2 / 6
+Black Viper: 5 / 6
+      Bobby: 6 / 6
+ Catti-brie: 5 / 6
+     D'hani: 4 / 6
+  Dark Urge: 4 / 6
+     Delina: 3 / 6
+    Dhadius: 5 / 6
+     Drizzt: 3 / 6
+    Farideh: 2 / 6
+        Fen: 4 / 6
+      Grimm: 6 / 6
+     Gromma: 3 / 6
+       Ishi: 3 / 6
+    Jaheira: 3 / 6
+    Jamilah: 4 / 6
+   Jarlaxle: 3 / 6
+        Jim: 5 / 6
+    Karlach: 4 / 6
+       Kent: 3 / 6
+      Krond: 5 / 6
+       Krux: 4 / 6
+    Lae'zel: 3 / 6
+     Lucius: 4 / 6
+      Makos: 4 / 6
+      Minsc: 6 / 6
+      NERDS: 3 / 6
+     Nahara: 3 / 6
+      Nixie: 3 / 6
+     Orisha: 3 / 6
+   Prudence: 4 / 6
+      Rosie: 3 / 6
+      Strix: 3 / 6
+    Torogar: 4 / 6
+     Warden: 4 / 6
+    Warduke: 6 / 6
+       Wren: 3 / 6
+     Yorven: 5 / 6
+</pre>
+</p>
+</details>
+<details><summary><em>Non-DPS Applicable</em></summary>
+<p>
+<pre>
+          Aeon: 2 / 6
+          Aila: 4 / 6
+       Alyndra: 2 / 6
+       Antrius: 5 / 6
+      Astarion: 3 / 6
+         Avren: 4 / 6
+          BBEG: 3 / 6
+       Baeloth: 5 / 6
+      Barrowin: 3 / 6
+        Beadle: 4 / 6
+       Blooshi: 2 / 6
+          Brig: 6 / 6
+          Briv: 5 / 6
+       Bruenor: 4 / 6
+      Calliope: 4 / 6
+       Celeste: 4 / 6
+     Certainty: 3 / 6
+       Corazón: 6 / 6
+        Deekin: 3 / 6
+       Desmond: 6 / 6
+         Diana: 4 / 6
+        Donaar: 5 / 6
+    Dragonbait: 4 / 6
+Dungeon Master: 5 / 6
+      Dynaheir: 4 / 6
+        Egbert: 5 / 6
+      Ellywick: 4 / 6
+       Evandra: 4 / 6
+        Evelyn: 4 / 6
+     Ezmerelda: 5 / 6
+        Freely: 4 / 6
+          Gale: 4 / 6
+       Gazrick: 3 / 6
+       Havilar: 4 / 6
+      Hew Maan: 5 / 6
+         Hitch: 6 / 6
+         Imoen: 3 / 6
+      Jang Sao: 2 / 6
+      K'thriss: 4 / 6
+         Korth: 4 / 6
+         Krull: 4 / 6
+        Krydle: 5 / 6
+       Lazaapz: 2 / 6
+         Mehen: 4 / 6
+      Merilwen: 3 / 6
+        Môrgæn: 4 / 6
+        Nayeli: 4 / 6
+        Nordom: 3 / 6
+          Nova: 3 / 6
+         Nrakk: 4 / 6
+          Omin: 4 / 6
+        Orkira: 4 / 6
+       Paultin: 6 / 6
+        Presto: 4 / 6
+         Pwent: 5 / 6
+        Qillek: 4 / 6
+     Ravengard: 5 / 6
+         Regis: 4 / 6
+          Reya: 4 / 6
+          Rust: 4 / 6
+        Sentry: 3 / 6
+     Sgt. Knox: 5 / 6
+   Shadowheart: 3 / 6
+         Shaka: 3 / 6
+       Shandie: 3 / 6
+      Sisaspia: 2 / 6
+        Solaak: 4 / 6
+         Spurt: 3 / 6
+         Stoki: 3 / 6
+   Strongheart: 5 / 6
+         Talin: 4 / 6
+       Tatyana: 4 / 6
+      Thellora: 3 / 6
+        Turiel: 3 / 6
+         Tyril: 4 / 6
+       Ulkoria: 2 / 6
+       Umberto: 5 / 6
+         Uriah: 4 / 6
+     Valentine: 2 / 6
+       Viconia: 2 / 6
+      Vin Ursa: 2 / 6
+        Virgil: 3 / 6
+       Vlahnya: 2 / 6
+      Voronika: 3 / 6
+        Walnut: 2 / 6
+        Widdle: 4 / 6
+       Wulfgar: 6 / 6
+        Xander: 5 / 6
+      Xerophon: 2 / 6
+</pre>
+</p>
+</details>
+<br />
 
 # Adventures and Variants
 
