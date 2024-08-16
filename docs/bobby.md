@@ -1274,7 +1274,7 @@ Upgrades:
             Boots of Wheat
         </span>
         <span class="itemTableEffect">
-            <span>Stunning Strength</span>
+            <span>All First Specialisations</span>
         </span>
     </span>
     <span class="itemTableRow">
@@ -1288,7 +1288,7 @@ Upgrades:
             Kelek's Amulet
         </span>
         <span class="itemTableEffect">
-            <span>Not So Low (Prestack)</span>
+            <span>All Second Specialisations (Prestack)</span>
         </span>
     </span>
     <span class="itemTableRow">
