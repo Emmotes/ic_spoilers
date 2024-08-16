@@ -1537,7 +1537,7 @@ This list will only show feats that are going to be available on the release of 
             ![Rage! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1913**Rage! (Bobby)**NO ONE TREATS UNI LIKE THAT!<code>buff_upgrade,40,15447,0<br>buff_upgrade,40,15448,0</code></span>Rage!
         </span>
         <span class="featTableEffect">
-            <span>40% Stunning Strength & 40% Group Charge</span>
+            <span>40% All First Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>Gold Chest</span>
@@ -1548,7 +1548,7 @@ This list will only show feats that are going to be available on the release of 
             ![Playground Rules Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1914**Playground Rules (Bobby)**All right, so we take turns picking players. Then you'll decide...<code>buff_upgrade,40,15449,0<br>buff_upgrade,40,15450,0<br>buff_upgrade,40,15451,0</code></span>Playground Rules
         </span>
         <span class="featTableEffect">
-            <span>40% Not So Low & 40% Still Growing Up & 40% Strong Armed (Prestack)</span>
+            <span>40% All Second Specialisations (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>12,500 Gems</span>
