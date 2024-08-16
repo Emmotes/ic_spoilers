@@ -1534,10 +1534,10 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Rage! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1913**Rage! (Bobby)**NO ONE TREATS UNI LIKE THAT!<code>buff_upgrade,40,15447,0<br>buff_upgrade,40,15448,0<br></code></span>Rage!
+            ![Rage! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1913**Rage! (Bobby)**NO ONE TREATS UNI LIKE THAT!<code>buff_upgrade,40,15447,0<br>buff_upgrade,40,15448,0</code></span>Rage!
         </span>
         <span class="featTableEffect">
-            <span>40% Stunning Strength & 40% Group Charge & ???: [buff_upgrade,40,15447,0, Increases the effect of Bobby's Stunning Strength and Group Charge specializations by $amount%., buff_upgrade,40,15448,0, ]</span>
+            <span>40% Stunning Strength & 40% Group Charge</span>
         </span>
         <span class="featTableSource">
             <span>Gold Chest</span>
@@ -1545,10 +1545,10 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Playground Rules Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1914**Playground Rules (Bobby)**All right, so we take turns picking players. Then you'll decide...<code>buff_upgrade,40,15449,0<br>buff_upgrade,40,15450,0<br><br>buff_upgrade,40,15451,0<br></code></span>Playground Rules
+            ![Playground Rules Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1914**Playground Rules (Bobby)**All right, so we take turns picking players. Then you'll decide...<code>buff_upgrade,40,15449,0<br>buff_upgrade,40,15450,0<br>buff_upgrade,40,15451,0</code></span>Playground Rules
         </span>
         <span class="featTableEffect">
-            <span>40% Not So Low & 40% Still Growing Up & ???: [buff_upgrade,40,15449,0, Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed specializations by $amount%., buff_upgrade,40,15450,0, , buff_upgrade,40,15451,0, ] & 40% Strong Armed & ???: [buff_upgrade,40,15449,0, Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed specializations by $amount%., buff_upgrade,40,15450,0, , buff_upgrade,40,15451,0, ] (Prestack)</span>
+            <span>40% Not So Low & 40% Still Growing Up & 40% Strong Armed (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>12,500 Gems</span>
