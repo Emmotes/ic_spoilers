@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Masquerade Jim Portrait](images/skin_portraits/masqueradejim.png)Masquerade Jim
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Masquerade Ball Jim Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">21 Aug 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            ![Masquerade Omin Portrait](images/skin_portraits/masqueradeomin.png)Masquerade Omin
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Masquerade Ball Omin Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">21 Aug 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Fairy Glitch Freely Portrait](images/skin_portraits/fairyglitchfreely.png)Fairy Glitch Freely
         </span>
         <span class="skinTableSource">

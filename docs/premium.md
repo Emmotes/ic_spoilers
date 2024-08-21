@@ -5,40 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Masquerade Ball Jim Skin & Feat Pack - $11.99  
-Date of release: 21 Aug 2024
-
-> Unlock Jim Darkmagic along with his exclusive Masquerade Skin & Feat!
-
-Contents:
-
-* Champion: `James (Jim) Winifred Darkmagic III`
-* Skin: `Masquerade Jim`
-* Feat: `Be Amazed!` (Jim)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Jim Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Masquerade Ball Omin Skin & Feat Pack - $11.99  
-Date of release: 21 Aug 2024
-
-> Unlock Omin along with his exclusive Masquerade Skin & Feat!
-
-Contents:
-
-* Champion: `Omin Dran`
-* Skin: `Masquerade Omin`
-* Feat: `I'm a Man in Finance` (Omin)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Omin Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Fairy Glitch Freely Skin & Feat Pack - $11.99  
 Date of release: 28 Aug 2024
 

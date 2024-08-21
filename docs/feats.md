@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Jim</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Be Amazed! Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1869**Be Amazed! (Jim)**... Seriously, guys, come on! Be amazed!<code>buff_upgrade,80,12130</code></span>Be Amazed!
-        </span>
-        <span class="featTableEffect">
-            <span>80% Magical Mystery Tour</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>21 Aug 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Omin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![I'm a Man in Finance Icon](images/featicons/goldfind.png)<span class="featTooltipContents">ID: 1870**I'm a Man in Finance (Omin)**Did you bring the paperwork?<code>buff_upgrade,80,12300</code></span>I'm a Man in Finance
-        </span>
-        <span class="featTableEffect">
-            <span>80% Adventuring Capital</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>21 Aug 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Freely</span>
         </span>
         <span class="featTableIcon4">
