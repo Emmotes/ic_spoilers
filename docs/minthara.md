@@ -14,7 +14,7 @@ A member of the ancient House Baenre, Minthara is a True Soul in the service of 
 
 # Basic Information
 
-Minthara will be a new champion in the Feast of the Moon event on 6 November 2024.
+Minthara will be a new champion - potentially in the Feast of the Moon event on 6 November 2024. (It's possible they could be in a different event - we don't know yet.)
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
