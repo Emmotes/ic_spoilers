@@ -77,6 +77,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="widdle" style="background-image:url(images/portraits/widdle.png)">Widdle (2)</span>
 <span class="eventRosterChampion" id="virgil" style="background-image:url(images/portraits/virgil.png)">Virgil (10)</span>
 <span class="eventRosterChampion" id="jangsao" style="background-image:url(images/portraits/jangsao.png)">Jang Sao (8)</span>
+<span class="eventRosterChampion" id="minthara" style="background-image:url(images/portraits/minthara.png)">Minthara</span>
 </span>
 
 {:/nomarkdown}

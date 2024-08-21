@@ -62,6 +62,28 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="minthara.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Minthara Portrait Icon](images/minthara/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Minthara
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Drow Paladin (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Feast of the Moon - 6 November 2024</span>
+            </span>
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Reworked Champions
