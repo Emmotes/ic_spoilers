@@ -77,7 +77,7 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Drow Paladin (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Feast of the Moon - 6 November 2024</span>
+                <span class="indexChampionTableNoLink">Feast of the Moon - 6 November 2024 (Guess)</span>
             </span>
         </span>
     </span>
