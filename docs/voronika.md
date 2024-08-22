@@ -68,22 +68,28 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "conditions": [
             {
                 "condition": "upgrade_purchased 15635",
-                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount)%. Voronika's key allies are members of the Black Dice Society and Evil Champions. The effect of this ability is increased by $(not_buffed amount)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount___2)%. Voronika's key allies are members of the Black Dice Society and Evil Champions. The effect of this ability is increased by $(not_buffed amount___2)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
             },
             {
                 "condition": "upgrade_purchased 15636",
-                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount)%. Voronika's key allies are members of the Black Dice Society and Champions who have a Favored Foe. The effect of this ability is increased by $(not_buffed amount)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount___2)%. Voronika's key allies are members of the Black Dice Society and Champions who have a Favored Foe. The effect of this ability is increased by $(not_buffed amount___2)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
             },
             {
                 "condition": "upgrade_purchased 15637",
-                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount)%. Voronika's key allies are members of the Black Dice Society and Champions who have the Debuff role. The effect of this ability is increased by $(not_buffed amount)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount___2)%. Voronika's key allies are members of the Black Dice Society and Champions who have the Debuff role. The effect of this ability is increased by $(not_buffed amount___2)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
             },
             {
-                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount)%. Voronika's key allies are members of the Black Dice Society. The effect of this ability is increased by $(not_buffed amount)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
+                "desc": "Voronika increases the damage of all Champions in one column in front of her by $(not_buffed amount___2)%. Voronika's key allies are members of the Black Dice Society. The effect of this ability is increased by $(not_buffed amount___2)% for each key ally in the formation. This stacks additively until Voronika completes her Search for the Crown, when it changes to stack multiplicatively."
             }
         ]
     },
     "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "voronika_key_ally",
+            "tag": "blackdicesociety",
+            "skip_effect_key_desc": true
+        },
         {
             "off_when_benched": true,
             "effect_string": "hero_dps_multiplier_mult,100",
@@ -100,11 +106,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "feat_changed"
             ],
             "use_computed_amount_for_description": true
-        },
-        {
-            "off_when_benched": true,
-            "effect_string": "voronika_key_ally",
-            "tag": "blackdicesociety"
         }
     ],
     "requirements": "",
@@ -113,7 +114,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -292,7 +292,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Embrace Evil** (Guess)
-> For the third Quest for the Crown goal, Calculating Guidances' key allies must defeat 2,500 enemies. The key allies for Calculating Guidances now also include Champions who have the Evil alignment.
+> For the third Search for the Crown goal, Calculating Guidance's key allies must defeat 2,500 enemies. The key allies for Calculating Guidance now also include Champions who have the Evil alignment.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -300,7 +300,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2094,
     "flavour_text": "",
     "description": {
-        "desc": "For the third Quest for the Crown goal, Calculating Guidances' key allies must defeat 2,500 enemies. The key allies for Calculating Guidances now also include Champions who have the Evil alignment."
+        "desc": "For the third Search for the Crown goal, Calculating Guidance's key allies must defeat 2,500 enemies. The key allies for Calculating Guidance now also include Champions who have the Evil alignment."
     },
     "effect_keys": [
         {
@@ -325,7 +325,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Hunt the Favored** (Guess)
-> For the third Quest for the Crown goal, you must defeat 500 enemies who are the Favored Foe of any Champion in the formation. The key allies for Calculating Guidance now also include Champions who have a Favored Foe.
+> For the third Search for the Crown goal, you must defeat 500 enemies who are the Favored Foe of any Champion in the formation. The key allies for Calculating Guidance now also include Champions who have a Favored Foe.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -333,7 +333,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2095,
     "flavour_text": "",
     "description": {
-        "desc": "For the third Quest for the Crown goal, you must defeat 500 enemies who are the Favored Foe of any Champion in the formation. The key allies for Calculating Guidance now also include Champions who have a Favored Foe."
+        "desc": "For the third Search for the Crown goal, you must defeat 500 enemies who are the Favored Foe of any Champion in the formation. The key allies for Calculating Guidance now also include Champions who have a Favored Foe."
     },
     "effect_keys": [
         {
@@ -358,7 +358,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Weaken the Fools** (Guess)
-> For the third Quest for the Crown goal, you must apply 1750 Debuffs to enemies. The key allies for Calculating Guidances now also include Champions who have the Debuff role.
+> For the third Search for the Crown goal, you must apply 1750 Debuffs to enemies. The key allies for Calculating Guidance now also include Champions who have the Debuff role.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -366,7 +366,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2096,
     "flavour_text": "",
     "description": {
-        "desc": "For the third Quest for the Crown goal, you must apply 1750 Debuffs to enemies. The key allies for Calculating Guidances now also include Champions who have the Debuff role."
+        "desc": "For the third Search for the Crown goal, you must apply 1750 Debuffs to enemies. The key allies for Calculating Guidance now also include Champions who have the Debuff role."
     },
     "effect_keys": [
         {
@@ -448,7 +448,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "effect_string": "voronika_powerful_focus,75",
             "puppet_effect_id": 2103,
-            "push_amount": 100
+            "push_amount": 125
         }
     ],
     "requirements": "",
