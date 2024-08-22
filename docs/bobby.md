@@ -1722,7 +1722,7 @@ Dungeon Master: 5 / 6
 > Getting to Know Bobby: Bobby's damage increases as you put him closer to the front of the formation.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Valley of the Unicorns Icon](images/bobby/24386.png) **Variant 2: Valley of the Unicorns** (Complete Area 125)
+![Valley of the Unicorns Icon](images/bobby/24387.png) **Variant 2: Valley of the Unicorns** (Complete Area 125)
 > Bobby starts in the formation with Uni, the Unicorn unlocked. He can be moved but not removed.  
 > Only Champions affected by Uni, the Unicorn can deal damage.  
 > Silvermane joins the formation.  
@@ -1731,7 +1731,7 @@ Dungeon Master: 5 / 6
 > Getting to Know Bobby: Bobby's main support ability buffs Champions next to Uni, the Unicorn.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Venger Strikes Back! Icon](images/bobby/24387.png) **Variant 3: Venger Strikes Back!** (Complete Area 175)
+![Venger Strikes Back! Icon](images/bobby/24386.png) **Variant 3: Venger Strikes Back!** (Complete Area 175)
 > Bobby starts in the formation. He can be moved but not removed.  
 > At the start of each Boss area, Venger arrives on his nightmare as an additional boss that must be defeated.  
 > You may only use Champions with a Strength of 15 or higher, an age of 20 or younger, or have a total ability score of 78 or lower.  
