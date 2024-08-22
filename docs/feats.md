@@ -203,10 +203,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Astarion</span>
         </span>
         <span class="featTableIcon4">
-            ![Satiate the Hunger Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1890**Satiate the Hunger (Astarion)**Darling, anything is better than rats.<code>todo<br>DevNote: new effect: Buff FA3/Well Fed - Max Stacks by 5</code></span>Satiate the Hunger
+            ![Satiate the Hunger Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1890**Satiate the Hunger (Astarion)**Darling, anything is better than rats.<code>buff_upgrade_effect_stacks_max_mult,100,12491</code></span>Satiate the Hunger
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>100% Well Fed Stacks</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -271,10 +271,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Nahara</span>
         </span>
         <span class="featTableIcon4">
-            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<code>todo<br>DevNote: new effect [Nahara counts as 'undead' (gains the undead tag) and DPS is increased by 400%]</code></span>Make Undead
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400</code></span>Make Undead
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Counts as Undead & 400% Self DPS</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -305,10 +305,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Widdle</span>
         </span>
         <span class="featTableIcon4">
-            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<code>todo<br>DevNote: new effect [Widdle counts as 'undead' (gains the undead tag) and FA1/Vampiric Gaze is increased by 160%]</code></span>Make Undead
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<code>add_hero_tags,0,undead<br>buff_upgrade,160,6905</code></span>Make Undead
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Counts as Undead & 160% Vampiric Gaze</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -443,6 +443,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>10 Nov 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Growing Pains Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1915**Growing Pains (Bobby)**I may be short now - but I'm not done growing!<code>increase_ability_score,con,2</code></span>Growing Pains
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Constitution</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">

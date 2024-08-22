@@ -263,6 +263,156 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Ascended Astarion Skin & Feat Pack - $11.99  
+Date of release: 09 Oct 2024
+
+> Unlock Astarion along with his exclusive Ascended Skin & Feat!
+
+Contents:
+
+* Champion: `Astarion`
+* Skin: `Ascended Astarion`
+* Feat: `Satiate the Hunger` (Astarion)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Astarion Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Cursed Banshee Thellora Skin & Feat Pack - $11.99  
+Date of release: 09 Oct 2024
+
+> Unlock Thellora along with her exclusive Banshee Skin & Feat!
+
+Contents:
+
+* Champion: `Thellora`
+* Skin: `Cursed Banshee Thellora`
+* Feat: `Scholar` (Thellora)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Thellora Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Headless Horseman Kent Skin & Feat Pack - $11.99  
+Date of release: 16 Oct 2024
+
+> Unlock Kent along with his exclusive Headless Horseman Skin & Feat!
+
+Contents:
+
+* Champion: `Kent`
+* Skin: `Headless Horseman Kent`
+* Feat: `Prodigal Leader` (Kent)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Kent Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Werebear Donaar Skin & Feat Pack - $11.99  
+Date of release: 16 Oct 2024
+
+> Unlock Donaar along with his exclusive Werebear Skin & Feat!
+
+Contents:
+
+* Champion: `Donaar Blit'zen`
+* Skin: `Werebear Donaar`
+* Feat: `Fortune's Favor` (Donaar)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Donaar Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Vampire Hunter Desmond Skin & Feat Pack - $11.99  
+Date of release: 23 Oct 2024
+
+> Unlock Desmond along with his exclusive Vampire Hunter Skin & Feat!
+
+Contents:
+
+* Champion: `Desmond`
+* Skin: `Vampire Hunter Desmond`
+* Feat: `TBD Desmond Feat (do not translate)` (Desmond)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Desmond Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Vampire Viconia Skin & Feat Pack - $11.99  
+Date of release: 23 Oct 2024
+
+> Unlock Viconia along with her exclusive Vampire Skin & Feat!
+
+Contents:
+
+* Champion: `Viconia DeVir`
+* Skin: `Vampire Viconia`
+* Feat: `TBD Viconia Feat (Do not translate)` (Viconia)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Viconia Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Vincent the Vargouille Familiar Pack - $11.99  
+Date of release: 23 Oct 2024
+
+> Collect your own Vincent the Vargouille Familiar!
+
+Contents:
+
+* Familiar: `Vincent the Vargouille`
+* Buff: `Huge Potion of Speed` x4
+* Buff: `Huge Potion of Giant's Strength` x4
+* Buff: `Huge Potion of Clairvoyance` x4
+* Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Creeping Hut Familiar Pack - $5.99  
+Date of release: 30 Oct 2024
+
+> Collect your own Creeping Hut Familiar!
+
+Contents:
+
+* Familiar: `Creeping Hut`
+* Buff: `Huge Potion of Speed` x2
+* Buff: `Huge Potion of Giant's Strength` x2
+* Buff: `Huge Potion of Clairvoyance` x2
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Devil Wyll Skin & Feat Pack - $11.99  
+Date of release: 30 Oct 2024
+
+> Unlock Wyll along with his exclusive Devil Skin & Feat!
+
+Contents:
+
+* Champion: `Wyll`
+* Skin: `Devil Wyll`
+* Feat: `TBD Wyll Feat (Do not translate)` (Wyll)
+* Buff: `Large Blacksmithing Contract` x6
+* Buff: `Large Bounty Contract` x6
+* Chests: `Gold Wyll Chest` x7 (Shinies x1)
+</div></div>
+
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*

@@ -39,6 +39,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Harvestguard Presto Portrait](images/skin_portraits/harvestguardpresto.png)Harvestguard Presto
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">04 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Harvestguard Rosie Portrait](images/skin_portraits/harvestguardrosie.png)Harvestguard Rosie
         </span>
         <span class="skinTableSource">
@@ -210,13 +224,13 @@ Please be aware that the developers recently removed most future skins from the 
             ![Ascended Astarion Portrait](images/skin_portraits/ascendedastarion.png)Ascended Astarion
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Ascended Astarion Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">09 Oct 2024</span>
         </span>
     </span>
     <span class="skinTableRow">
@@ -224,27 +238,83 @@ Please be aware that the developers recently removed most future skins from the 
             ![Cursed Banshee Thellora Portrait](images/skin_portraits/cursedbansheethellora.png)Cursed Banshee Thellora
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Cursed Banshee Thellora Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">09 Oct 2024</span>
         </span>
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harvestguard Presto Portrait](images/skin_portraits/harvestguardpresto.png)Harvestguard Presto
+            ![Headless Horseman Kent Portrait](images/skin_portraits/headlesshorsemankent.png)Headless Horseman Kent
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Headless Horseman Kent Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">16 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Werebear Donaar
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Werebear Donaar Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">16 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Vampire Hunter Desmond
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Vampire Hunter Desmond Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">23 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Vampire Viconia
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Vampire Viconia Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">23 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Devil Wyll
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Devil Wyll Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Oct 2024</span>
         </span>
     </span>
 </span>
