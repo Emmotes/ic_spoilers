@@ -697,16 +697,14 @@ Unknown.
 > Kas starts in the formation. He can be moved but not removed.  
 > Every second, a random Champion in the formation takes a hit dealing 10% of their total health.  
 > 1-2 Vecna Zombies spawn with each wave. They don't drop gold nor count towards quest progress.  
-> Getting to Know Kas: As a Vampire Lord, Kas can transform other Champions into vampires, allowing them to heal when they attack enemies.  
-> 
+> Getting to Know Kas: As a Vampire Lord, Kas can transform other Champions into vampires, allowing them to heal when they attack enemies.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Betrayer of Vecna Icon](images/kas/24589.png) **Variant 3: Betrayer of Vecna** (Complete Area 175)
 > Kas starts in the formation. He can be moved but not removed.  
 > Bosses have 100% additional health for every 50 areas that have been completed, stacking multiplicatively.  
 > 1-2 Vecna Cultists spawn with each wave. They don't drop gold nor count towards quest progress.  
-> Getting to Know Kas: Kas's specialization choices give you multiple ways to augment his damage and healing. Which will you choose?  
-> 
+> Getting to Know Kas: Kas's specialization choices give you multiple ways to augment his damage and healing. Which will you choose?
 </div></div>
 
 # Other Champion Images
