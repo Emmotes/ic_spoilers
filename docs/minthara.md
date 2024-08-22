@@ -98,15 +98,243 @@ Unknown.
 
 # Abilities
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ceremorphosis** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24876,
+    "graphic": "Icons/Events/2017FeastOfTheMoon/Y8/Icon_Formation_Minthara_Ceremorphosis",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Noble of Menzo** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24877,
+    "graphic": "Icons/Events/2017FeastOfTheMoon/Y8/Icon_Formation_Minthara_NobleofMenzo",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Oath of Vengeance** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24878,
+    "graphic": "Icons/Events/2017FeastOfTheMoon/Y8/Icon_Formation_Minthara_OathofVengeance",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Soul Branding** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24879,
+    "graphic": "Icons/Events/2017FeastOfTheMoon/Y8/Icon_Formation_Minthara_SoulBranding",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**House Matron** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24882,
+    "graphic": "Icons/Events/2017FeastOfTheMoon/Y8/Icon_Specialization_Minthara_HouseMatron",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Soul Destroyer** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24883,
+    "graphic": "Icons/Events/2017FeastOfTheMoon/Y8/Icon_Specialization_Minthara_SoulDestroyer",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**True Soul** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 24884,
+    "graphic": "Icons/Events/2017FeastOfTheMoon/Y8/Icon_Specialization_Minthara_TrueSoul",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Armor Icon](images/minthara/24828.png)</span><span class="itemTableIcon2">![Armor Icon](images/minthara/24828.png)</span><span class="itemTableIcon3">![Armor Icon](images/minthara/24829.png)</span><span class="itemTableIcon4">![Armor Icon](images/minthara/24830.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Armor
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Boots Icon](images/minthara/24831.png)</span><span class="itemTableIcon2">![Boots Icon](images/minthara/24831.png)</span><span class="itemTableIcon3">![Boots Icon](images/minthara/24832.png)</span><span class="itemTableIcon4">![Boots Icon](images/minthara/24833.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Boots
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Clothing Icon](images/minthara/24834.png)</span><span class="itemTableIcon2">![Clothing Icon](images/minthara/24834.png)</span><span class="itemTableIcon3">![Clothing Icon](images/minthara/24835.png)</span><span class="itemTableIcon4">![Clothing Icon](images/minthara/24836.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Clothing
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Lolth Drider Icon](images/minthara/24837.png)</span><span class="itemTableIcon2">![Lolth Drider Icon](images/minthara/24837.png)</span><span class="itemTableIcon3">![Lolth Drider Icon](images/minthara/24838.png)</span><span class="itemTableIcon4">![Lolth Drider Icon](images/minthara/24839.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Lolth Drider
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Mind Flayer Absolute Icon](images/minthara/24840.png)</span><span class="itemTableIcon2">![Mind Flayer Absolute Icon](images/minthara/24840.png)</span><span class="itemTableIcon3">![Mind Flayer Absolute Icon](images/minthara/24841.png)</span><span class="itemTableIcon4">![Mind Flayer Absolute Icon](images/minthara/24842.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Mind Flayer Absolute
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Weapon Icon](images/minthara/24843.png)</span><span class="itemTableIcon2">![Weapon Icon](images/minthara/24843.png)</span><span class="itemTableIcon3">![Weapon Icon](images/minthara/24844.png)</span><span class="itemTableIcon4">![Weapon Icon](images/minthara/24845.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Weapon
+        </span>
+    </span>
+</span>
 
 # Feats
 
@@ -135,12 +363,18 @@ Unknown.
 > 
 </div></div>
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Minthara Gold Chest Icon](images/minthara/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Minthara Silver Chest Icon](images/minthara/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
