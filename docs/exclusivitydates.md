@@ -625,16 +625,6 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Room to Breathe Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Room to Breathe</span>
-                        <span style="margin-left:15px">Presto (80% Hesitant Helper)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         ![Harvestguard Presto Skin Icon](images/exclusivities/skin_24793.png)
                     </span>
                     <span class="emergenceShopTableTextColumn">
