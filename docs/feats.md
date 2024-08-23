@@ -277,7 +277,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Counts as Undead & 400% Self DPS</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 9</span>
         </span>
         <span class="featTableDate">
             <span>23 Oct 2024</span>
@@ -311,7 +311,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Counts as Undead & 160% Vampiric Gaze</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 9</span>
         </span>
         <span class="featTableDate">
             <span>23 Oct 2024</span>
