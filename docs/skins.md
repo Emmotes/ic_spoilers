@@ -42,7 +42,7 @@ Please be aware that the developers recently removed most future skins from the 
             ![Harvestguard Presto Portrait](images/skin_portraits/harvestguardpresto.png)Harvestguard Presto
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Anniversary Celebration</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
