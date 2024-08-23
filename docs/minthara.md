@@ -4,6 +4,12 @@
     <span class="championPortraitsImage">
         ![PC Portrait for Minthara](images/minthara/portrait.png)Portrait
     </span>
+    <span class="championPortraitsImage">
+        ![Model GIF of Minthara](images/minthara/model.gif)Base Model
+    </span>
+    <span class="championPortraitsImage">
+        <img src="images/general/arachnophobe_warning.png" alt="Alternate Model GIF of Minthara: Kar'niss" data-src="images/minthara/model-kar'niss.gif" data-phobia="images/general/arachnophobe_warning.png" id="karniss" onClick="arachnophobe('karniss')" style="cursor:pointer">Kar'niss Model
+    </span>
 </span>
 
 # Minthara

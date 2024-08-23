@@ -1,4 +1,4 @@
-const v=1.3
+const v=1.4
 const rrm = {
 	active: (localStorage.spoilersRRM == 1 ? true : false),
 	storage: "spoilersRRM",
@@ -250,4 +250,12 @@ displayTime(devInsightsTimer - new Date().getTime());
 
 function discord() {
 	console.log("DI <t:"+(devInsightsTimer/1000)+":R>.");
+}
+
+function arachnophobe(id) {
+	let ele = document.getElementById(id);
+	if (ele.src.includes(ele.dataset.phobia))
+		ele.src = ele.dataset.src;
+	else
+		ele.src = ele.dataset.phobia;
 }
