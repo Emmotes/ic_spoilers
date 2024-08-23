@@ -156,7 +156,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Human Fighter</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Liars' Night - 2 October 2024 (Guess)</span>
+                <span class="indexChampionTableNoLink">Feast of the Moon - 6 November 2024 (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
