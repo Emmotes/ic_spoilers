@@ -373,6 +373,11 @@ Unknown.
 
 <span class="championImagesColumn">
     <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Minthara Console Portrait](images/minthara/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
         <span class="championImagesChests">
             ![Minthara Gold Chest Icon](images/minthara/chest_gold.png)Gold Chest Icon
         </span>
