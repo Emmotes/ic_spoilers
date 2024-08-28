@@ -251,6 +251,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Desmond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1954**Prodigal Leader (Desmond)**When I lead, you should follow.</span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Ellywick</span>
         </span>
         <span class="featTableIcon4">

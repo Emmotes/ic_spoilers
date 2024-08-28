@@ -309,7 +309,7 @@ Contents:
 
 * Champion: `Desmond`
 * Skin: `Vampire Hunter Desmond`
-* Feat: `TBD Desmond Feat (do not translate)` (Desmond)
+* Feat: `Prodigal Leader` (Desmond)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Desmond Chest` x7 (Shinies x1)
