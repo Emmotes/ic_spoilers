@@ -64,6 +64,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>D'hani</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fresh Pigments Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1614**Fresh Pigments (D'hani)**We need more yellow? Oh, that's fine - I've got red and green!<code>buff_upgrade,80,13713,0</code></span>Fresh Pigments
+        </span>
+        <span class="featTableEffect">
+            <span>80% Chance to Apply Splash of Yellow</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>04 Sept 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Presto</span>
         </span>
         <span class="featTableIcon4">
@@ -77,23 +94,6 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>04 Sept 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>D'hani</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Fresh Pigments Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1614**Fresh Pigments (D'hani)**We need more yellow? Oh, that's fine - I've got red and green!<code>buff_upgrade,80,13713,0</code></span>Fresh Pigments
-        </span>
-        <span class="featTableEffect">
-            <span>80% Chance to Apply Splash of Yellow</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>11 Sept 2024</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -268,6 +268,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Ellywick</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Gem Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<code>ellywick_gem_prioritized</code></span>Gem
+        </span>
+        <span class="featTableEffect">
+            <span>Always draws at least 1 Gems card.</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Nahara</span>
         </span>
         <span class="featTableIcon4">
@@ -278,6 +295,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableSource">
             <span>Emergence 9</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Viconia</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1896**Make Undead (Viconia)**My vitality is yet another thing lost in the pursuit of the Lady of Loss' goals.<code>todo<br>DevNote: new effect [Viconia counts as a 'undead' (gains the undead tag) and the effect of Animate Dead is increased by 80%]</code></span>Make Undead
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>23 Oct 2024</span>
@@ -315,6 +349,40 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>23 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Reya</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guardian of Elturel Icon](images/featicons/guardianofelturel.png)<span class="featTooltipContents">ID: 1955**Guardian of Elturel (Reya)**Tiamat has come. We're working on a plan to lure her from the city.<code>force_allow_hero</code></span>Guardian of Elturel
+        </span>
+        <span class="featTableEffect">
+            <span>???: [force_allow_hero]</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Wyll</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Mizora's Pawn Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1897**Mizora's Pawn (Wyll)**'Quite the handsome devil, if I do say so.' ~ Mizora<code>todo<br>DevNote: new effect [Wyll counts as a 'tiefling' (gains the tiefling tag) and the effect of Folk Hero is increased by 80%]</code></span>Mizora's Pawn
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Oct 2024</span>
         </span>
     </span>
 </span>
@@ -556,23 +624,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>40% Icingdeath</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Ellywick</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Gem Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<code>ellywick_gem_prioritized</code></span>Gem
-        </span>
-        <span class="featTableEffect">
-            <span>Always draws at least 1 Gems card.</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

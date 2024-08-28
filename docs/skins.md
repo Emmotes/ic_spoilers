@@ -39,13 +39,13 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harvestguard Presto Portrait](images/skin_portraits/harvestguardpresto.png)Harvestguard Presto
+            ![Harvestguard D'hani Portrait](images/skin_portraits/harvestguarddhani.png)Harvestguard D'hani
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Anniversary Celebration</span>
+            <span style="margin-left: 8px;">Harvestguard D'hani Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">04 Sept 2024</span>
@@ -53,13 +53,13 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harvestguard Rosie Portrait](images/skin_portraits/harvestguardrosie.png)Harvestguard Rosie
+            ![Harvestguard Presto Portrait](images/skin_portraits/harvestguardpresto.png)Harvestguard Presto
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Harvestguard Rosie Theme Pack</span>
+            <span style="margin-left: 8px;">Anniversary Celebration</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
+            <span style="margin-right: 8px;">???</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">04 Sept 2024</span>
@@ -81,13 +81,13 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harvestguard D'hani Portrait](images/skin_portraits/harvestguarddhani.png)Harvestguard D'hani
+            ![Harvestguard Rosie Portrait](images/skin_portraits/harvestguardrosie.png)Harvestguard Rosie
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Harvestguard D'hani Skin & Feat Pack</span>
+            <span style="margin-left: 8px;">Harvestguard Rosie Theme Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
+            <span style="margin-right: 8px;">$27.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">11 Sept 2024</span>
@@ -277,6 +277,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Nosferatu Widdle
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Emergence 9 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">23 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             ![Empty Placeholder](images/general/unknown.png)Vampire Hunter Desmond
         </span>
         <span class="skinTableSource">
@@ -284,6 +298,20 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">23 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            ![Empty Placeholder](images/general/unknown.png)Vampire Nahara
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Emergence 9 (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">23 Oct 2024</span>

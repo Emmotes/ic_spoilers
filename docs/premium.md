@@ -76,25 +76,8 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Harvestguard Rosie Theme Pack - $27.99  
-Date of release: 04 Sept 2024
-
-> Unlock Rosie along with an exclusive Harvestguard Skin & Familiar!
-
-Contents:
-
-* Champion: `Rosie Beestinger`
-* Skin: `Harvestguard Rosie`
-* Feat: ???
-* Familiar: `Sebastian the Lizard`
-* Chests: `Gold Rosie Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Harvestguard D'hani Skin & Feat Pack - $11.99  
-Date of release: 11 Sept 2024
+Date of release: 04 Sept 2024
 
 > Unlock D'hani along with her exclusive Harvestguard Skin & Feat!
 
@@ -106,6 +89,23 @@ Contents:
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold D'hani Chest` x7 (Shinies x1)
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Harvestguard Rosie Theme Pack - $27.99  
+Date of release: 11 Sept 2024
+
+> Unlock Rosie along with an exclusive Harvestguard Skin & Familiar!
+
+Contents:
+
+* Champion: `Rosie Beestinger`
+* Skin: `Harvestguard Rosie`
+* Feat: ???
+* Familiar: `Sebastian the Lizard`
+* Chests: `Gold Rosie Chest` x16 (Shinies x2)
+* Buff: `Potion of the Gem Hunter` x1
 </div></div>
 
 
@@ -358,7 +358,7 @@ Contents:
 
 * Champion: `Viconia DeVir`
 * Skin: `Vampire Viconia`
-* Feat: `TBD Viconia Feat (Do not translate)` (Viconia)
+* Feat: `Make Undead` (Viconia)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Viconia Chest` x7 (Shinies x1)
@@ -406,7 +406,7 @@ Contents:
 
 * Champion: `Wyll`
 * Skin: `Devil Wyll`
-* Feat: `TBD Wyll Feat (Do not translate)` (Wyll)
+* Feat: `Mizora's Pawn` (Wyll)
 * Buff: `Large Blacksmithing Contract` x6
 * Buff: `Large Bounty Contract` x6
 * Chests: `Gold Wyll Chest` x7 (Shinies x1)
