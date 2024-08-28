@@ -109,7 +109,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
     "graphic_id": 0,
     "target": "front",
     "num_targets": 1,
-    "aoe_radius": 0,
+    "aoe_radius": 100,
     "damage_modifier": 1,
     "cooldown": 5,
     "animations": [
@@ -440,7 +440,8 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
             "specter_data": {
                 "random_offset_range": 75,
                 "move_speed": 175,
-                "desired_distance_to_monster": 40
+                "desired_distance_to_monster": 40,
+                "damage_radius": 200
             }
         },
         {
