@@ -518,7 +518,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Kas the Bloody Handed** (Guess)
-> Kas's damage against Boss enemies is increased by 100%, and the effect of Born Into Evil is increased by 100% for each Undead Champion in the formation.
+> Kas' damage against Boss enemies is increased by 100%, and the effect of Born Into Evil is increased by 100% for each Undead Champion in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -526,7 +526,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
     "id": 2086,
     "flavour_text": "",
     "description": {
-        "desc": "Kas's damage against Boss enemies is increased by $(amount)%, and the effect of Born Into Evil is increased by $(amount___2)% for each Undead Champion in the formation."
+        "desc": "Kas' damage against Boss enemies is increased by $(amount)%, and the effect of Born Into Evil is increased by $(amount___2)% for each Undead Champion in the formation."
     },
     "effect_keys": [
         {
@@ -572,7 +572,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Kas the Betrayer** (Guess)
-> Increase the effect of Born Into Evil by 100%. In addition, Champions adjacent to Kas gain the Evil tag. This does not affect their other alignment tags, and doesn't affect whether they are eligible for the adventure.
+> Increases the effect of Born Into Evil by 100%. In addition, Champions adjacent to Kas gain the Evil tag. This does not affect their other alignment tags, and doesn't affect whether they are eligible for the adventure.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -580,7 +580,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
     "id": 2087,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of Born Into Evil by $(amount)%. In addition, Champions adjacent to Kas gain the Evil tag. This does not affect their other alignment tags, and doesn't affect whether they are eligible for the adventure."
+        "desc": "Increases the effect of Born Into Evil by $(amount)%. In addition, Champions adjacent to Kas gain the Evil tag. This does not affect their other alignment tags, and doesn't affect whether they are eligible for the adventure."
     },
     "effect_keys": [
         {
@@ -691,7 +691,7 @@ Unknown.
 ![Lieutenant of Evil Icon](images/kas/24587.png) **Variant 1: Lieutenant of Evil** (Complete Area 75)
 > Kas starts in the formation. He can be moved but not removed.  
 > You may only use Evil Champions.  
-> Getting to Know Kas: Kas's damage is increased when you use Evil Champions with him.
+> Getting to Know Kas: Kas' damage is increased when you use Evil Champions with him.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Lord of Tovag Icon](images/kas/24588.png) **Variant 2: Lord of Tovag** (Complete Area 125)
@@ -705,7 +705,7 @@ Unknown.
 > Kas starts in the formation. He can be moved but not removed.  
 > Bosses have 100% additional health for every 50 areas that have been completed, stacking multiplicatively.  
 > 1-2 Vecna Cultists spawn with each wave. They don't drop gold nor count towards quest progress.  
-> Getting to Know Kas: Kas's specialization choices give you multiple ways to augment his damage and healing. Which will you choose?
+> Getting to Know Kas: Kas' specialization choices give you multiple ways to augment his damage and healing. Which will you choose?
 </div></div>
 
 # Other Champion Images
