@@ -6,25 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Ahghairon's Day - August
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="ishi" style="background-image:url(images/portraits/ishi.png)">Ishi (4)</span>
-<span class="eventRosterChampion" id="shandie" style="background-image:url(images/portraits/shandie.png)">Shandie (6)</span>
-<span class="eventRosterChampion" id="jim" style="background-image:url(images/portraits/jim.png)">Jim (7)</span>
-<span class="eventRosterChampion" id="b&g" style="background-image:url(images/portraits/b&g.png)">B&G (8)</span>
-<span class="eventRosterChampion" id="omin" style="background-image:url(images/portraits/omin.png)">Omin (3)</span>
-<span class="eventRosterChampion" id="ellywick" style="background-image:url(images/portraits/ellywick.png)">Ellywick (10)</span>
-<span class="eventRosterChampion" id="prudence" style="background-image:url(images/portraits/prudence.png)">Prudence (5)</span>
-<span class="eventRosterChampion" id="valentine" style="background-image:url(images/portraits/valentine.png)">Valentine (5)</span>
-<span class="eventRosterChampion" id="voronika" style="background-image:url(images/portraits/voronika.png)">Voronika (1)</span>
-<span class="eventRosterChampion" id="laezel" style="background-image:url(images/portraits/laezel.png)">Lae'zel (2)</span>
-</span>
-
-{:/nomarkdown}
-
 # Highharvestide - September
 
 {::nomarkdown}
@@ -223,6 +204,25 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)</span>
 <span class="eventRosterChampion" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon (10)</span>
 <span class="eventRosterChampion" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto (7)</span>
+</span>
+
+{:/nomarkdown}
+
+# Ahghairon's Day - August
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="ishi" style="background-image:url(images/portraits/ishi.png)">Ishi (4)</span>
+<span class="eventRosterChampion" id="shandie" style="background-image:url(images/portraits/shandie.png)">Shandie (6)</span>
+<span class="eventRosterChampion" id="jim" style="background-image:url(images/portraits/jim.png)">Jim (7)</span>
+<span class="eventRosterChampion" id="b&g" style="background-image:url(images/portraits/b&g.png)">B&G (8)</span>
+<span class="eventRosterChampion" id="omin" style="background-image:url(images/portraits/omin.png)">Omin (3)</span>
+<span class="eventRosterChampion" id="ellywick" style="background-image:url(images/portraits/ellywick.png)">Ellywick (10)</span>
+<span class="eventRosterChampion" id="prudence" style="background-image:url(images/portraits/prudence.png)">Prudence (5)</span>
+<span class="eventRosterChampion" id="valentine" style="background-image:url(images/portraits/valentine.png)">Valentine (5)</span>
+<span class="eventRosterChampion" id="voronika" style="background-image:url(images/portraits/voronika.png)">Voronika (1)</span>
+<span class="eventRosterChampion" id="laezel" style="background-image:url(images/portraits/laezel.png)">Lae'zel (2)</span>
 </span>
 
 {:/nomarkdown}
