@@ -359,7 +359,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Guardian of Elturel Icon](images/featicons/guardianofelturel.png)<span class="featTooltipContents">ID: 1955**Guardian of Elturel (Reya)**Tiamat has come. We're working on a plan to lure her from the city.<code>force_allow_hero</code></span>Guardian of Elturel
         </span>
         <span class="featTableEffect">
-            <span>???: [force_allow_hero]</span>
+            <span>Allowed in all Avernus Patrons</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
