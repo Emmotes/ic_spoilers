@@ -150,7 +150,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "ults_used": 50,
             "num_enemies": 2500,
             "num_favored_foes": 500,
-            "num_debuffs": 1750
+            "num_debuffs": 1750,
+            "favored_foe_kills_offline_rate": 1,
+            "debuffs_applied_offline_rate": 1
         },
         {
             "apply_manually": true,
