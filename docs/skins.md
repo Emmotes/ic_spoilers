@@ -11,20 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Fairy Glitch Freely Portrait](images/skin_portraits/fairyglitchfreely.png)Fairy Glitch Freely
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Fairy Glitch Freely Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">28 Aug 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             ![Harvestguard Bobby Portrait](images/skin_portraits/harvestguardbobby.png)Harvestguard Bobby
         </span>
         <span class="skinTableSource">

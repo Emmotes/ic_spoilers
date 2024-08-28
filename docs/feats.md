@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Freely</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Fairy Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1888**Fairy Glitch (Freely)**Wait, I'm short again?<code>add_hero_tags,0,fairy<br>buff_upgrade,80,4039</code></span>Fairy Glitch
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Fairy & 80% Adventurous Tale</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>28 Aug 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Bobby</span>
         </span>
         <span class="featTableIcon4">

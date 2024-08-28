@@ -5,38 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Fairy Glitch Freely Skin & Feat Pack - $11.99  
-Date of release: 28 Aug 2024
-
-> Unlock Freely along with his exclusive Fairy Glitch Skin & Feat!
-
-Contents:
-
-* Champion: `Freely`
-* Skin: `Fairy Glitch Freely`
-* Feat: `Fairy Glitch` (Freely)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Freely Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Klauth the Baby Red Dragon Familiar Pack - $5.99  
-Date of release: 28 Aug 2024
-
-> Collect your very own Klauth Familiar!
-
-Contents:
-
-* Familiar: `Klauth the Baby Red Dragon`
-* Buff: `Huge Potion of Speed` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Founder's Pack VII - $19.99  
 Date of release: 04 Sept 2024
 
