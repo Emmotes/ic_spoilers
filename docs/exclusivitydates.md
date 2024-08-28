@@ -15,329 +15,6 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="s7a" onclick="exclusiveToggleContent(`s7`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Season 7 Icon](images/general/s7.png)**Season 7** - The Rivals
-            </span>
-        </span>
-        <span id="s7" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Puzzling Answers Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Puzzling Answers</span>
-                        <span style="margin-left:15px">Shaka (40% Riddling Rivals (Prestack))</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Fresh Palette Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Fresh Palette</span>
-                        <span style="margin-left:15px">D'hani (40% All Specialisations)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Darting Weapon Feat Icon](images/featicons/cooldown.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Darting Weapon</span>
-                        <span style="margin-left:15px">Kent (-0.5s Base Attack Cooldown)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Form Up! Feat Icon](images/featicons/globaldps.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Form Up!</span>
-                        <span style="margin-left:15px">Virgil (20% All Champion Damage per Rivals of Waterdeep Champion (Additive))</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Riddles Within Riddles Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Riddles Within Riddles</span>
-                        <span style="margin-left:15px">Shaka (80% Riddling Rivals (Prestack))</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Champion of Tyr Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Champion of Tyr</span>
-                        <span style="margin-left:15px">Selise (100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Taunt Feat Icon](images/featicons/taunt.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Taunt</span>
-                        <span style="margin-left:15px">Selise (400% Self DPS & 50% Taunt)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Color Theory Feat Icon](images/featicons/upgradefa.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Color Theory</span>
-                        <span style="margin-left:15px">D'hani (80% All Specialisations)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Vicious Damage</span>
-                        <span style="margin-left:15px">Kent (400% Self DPS & Prevent Healing for 10s)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![It's time! Feat Icon](images/featicons/globaldps.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">It's time!</span>
-                        <span style="margin-left:15px">Virgil (40% All Champion Damage per Rivals of Waterdeep Champion (Additive))</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Waterdhavian Shaka Skin Icon](images/exclusivities/skin_22365.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Waterdhavian Shaka</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Waterdhavian Selise Skin Icon](images/exclusivities/skin_22364.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Waterdhavian Selise</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Waterdhavian D'hani Skin Icon](images/exclusivities/skin_22363.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Waterdhavian D'hani</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Waterdhavian Kent Skin Icon](images/exclusivities/skin_22369.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Waterdhavian Kent</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Waterdhavian Virgil Skin Icon](images/exclusivities/skin_22288.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Waterdhavian Virgil</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Shaka Slot 5](images/exclusivities/ge_10342.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Feast or Famine (Prestack)</span>
-                        <span style="margin-left:15px">Shaka (Slot 5)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![The Hawk Man Familiar Icon](images/exclusivities/fam_171.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">The Hawk Man</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Rivals Attack Click Skin Icon](images/exclusivities/click_7.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Click Damage Skin**</span>
-                        <span style="margin-left:15px">Rivals Attack</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>03 January 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>28 February 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>28 August 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="e6a" onclick="exclusiveToggleContent(`e6`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Emergence 6 Icon](images/general/e6.png)**Emergence 6** - Illithids
-            </span>
-        </span>
-        <span id="e6" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Illithid Tadpole</span>
-                        <span style="margin-left:15px">Minsc (25% All Champion Damage & +1 Ceremorphosis Stack)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Prodigal Leader</span>
-                        <span style="margin-left:15px">Solaak (50% All Champion Damage)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Tenacious</span>
-                        <span style="margin-left:15px">Presto (Stat: +2 Constitution)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)</span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Illithid Tadpole</span>
-                        <span style="margin-left:15px">Dynaheir (25% All Champion Damage & +1 Ceremorphosis Stack)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Mind Flayer Celeste Skin Icon](images/exclusivities/skin_22769.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Mind Flayer Celeste</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Mind Flayer Dynaheir Skin Icon](images/exclusivities/skin_22773.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Mind Flayer Dynaheir</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for NERDS Slot 1](images/exclusivities/ge_11614.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Fighter</span>
-                        <span style="margin-left:15px">NERDS (Slot 1)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Dynaheir Slot 5](images/exclusivities/ge_22299.png)
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All Specialisations (Prestack)</span>
-                        <span style="margin-left:15px">Dynaheir (Slot 5)</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>28 February 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>31 May 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>31 August 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -2412,6 +2089,329 @@ This is the list of recurring events that have had their exclusivity period end.
             </span>
             <span class="postSeasonTableDate">
                 <span>05 June 2024</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="s7a" onclick="exclusiveToggleContent(`s7`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Season 7 Icon](images/general/s7.png)**Season 7** - The Rivals
+            </span>
+        </span>
+        <span id="s7" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Puzzling Answers Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Puzzling Answers</span>
+                        <span style="margin-left:15px">Shaka (40% Riddling Rivals (Prestack))</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Fresh Palette Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Fresh Palette</span>
+                        <span style="margin-left:15px">D'hani (40% All Specialisations)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Darting Weapon Feat Icon](images/featicons/cooldown.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Darting Weapon</span>
+                        <span style="margin-left:15px">Kent (-0.5s Base Attack Cooldown)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3">![Form Up! Feat Icon](images/featicons/globaldps.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Form Up!</span>
+                        <span style="margin-left:15px">Virgil (20% All Champion Damage per Rivals of Waterdeep Champion (Additive))</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Riddles Within Riddles Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Riddles Within Riddles</span>
+                        <span style="margin-left:15px">Shaka (80% Riddling Rivals (Prestack))</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Champion of Tyr Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Champion of Tyr</span>
+                        <span style="margin-left:15px">Selise (100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Taunt Feat Icon](images/featicons/taunt.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Taunt</span>
+                        <span style="margin-left:15px">Selise (400% Self DPS & 50% Taunt)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Color Theory Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Color Theory</span>
+                        <span style="margin-left:15px">D'hani (80% All Specialisations)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Vicious Damage</span>
+                        <span style="margin-left:15px">Kent (400% Self DPS & Prevent Healing for 10s)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![It's time! Feat Icon](images/featicons/globaldps.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">It's time!</span>
+                        <span style="margin-left:15px">Virgil (40% All Champion Damage per Rivals of Waterdeep Champion (Additive))</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Waterdhavian Shaka Skin Icon](images/exclusivities/skin_22365.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Waterdhavian Shaka</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Waterdhavian Selise Skin Icon](images/exclusivities/skin_22364.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Waterdhavian Selise</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Waterdhavian D'hani Skin Icon](images/exclusivities/skin_22363.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Waterdhavian D'hani</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Waterdhavian Kent Skin Icon](images/exclusivities/skin_22369.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Waterdhavian Kent</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Waterdhavian Virgil Skin Icon](images/exclusivities/skin_22288.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Waterdhavian Virgil</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Shaka Slot 5](images/exclusivities/ge_10342.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Feast or Famine (Prestack)</span>
+                        <span style="margin-left:15px">Shaka (Slot 5)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![The Hawk Man Familiar Icon](images/exclusivities/fam_171.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">The Hawk Man</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Rivals Attack Click Skin Icon](images/exclusivities/click_7.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Click Damage Skin**</span>
+                        <span style="margin-left:15px">Rivals Attack</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>03 January 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>28 February 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>28 August 2024 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e6a" onclick="exclusiveToggleContent(`e6`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 6 Icon](images/general/e6.png)**Emergence 6** - Illithids
+            </span>
+        </span>
+        <span id="e6" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Illithid Tadpole</span>
+                        <span style="margin-left:15px">Minsc (25% All Champion Damage & +1 Ceremorphosis Stack)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Prodigal Leader</span>
+                        <span style="margin-left:15px">Solaak (50% All Champion Damage)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Tenacious</span>
+                        <span style="margin-left:15px">Presto (Stat: +2 Constitution)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Illithid Tadpole</span>
+                        <span style="margin-left:15px">Dynaheir (25% All Champion Damage & +1 Ceremorphosis Stack)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Mind Flayer Celeste Skin Icon](images/exclusivities/skin_22769.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Mind Flayer Celeste</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Mind Flayer Dynaheir Skin Icon](images/exclusivities/skin_22773.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Mind Flayer Dynaheir</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for NERDS Slot 1](images/exclusivities/ge_11614.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Fighter</span>
+                        <span style="margin-left:15px">NERDS (Slot 1)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Dynaheir Slot 5](images/exclusivities/ge_22299.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">All Specialisations (Prestack)</span>
+                        <span style="margin-left:15px">Dynaheir (Slot 5)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>28 February 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>31 May 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>31 August 2024 (Guess)</span>
             </span>
         </span>
     </span>
