@@ -1673,7 +1673,7 @@ This is the list of recurring events that have had their exclusivity period end.
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Centaur Glitch</span>
-                        <span style="margin-left:15px">Hitch (Counts as Centaur & +20% to Natural Performer per Unique Race)</span>
+                        <span style="margin-left:15px">Hitch (Counts as Centaur & +20% to Natural Performer per Unique Species)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">

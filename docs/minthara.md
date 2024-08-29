@@ -33,7 +33,7 @@ Minthara will be a new champion - potentially in the Feast of the Moon event on 
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Race**:</span>
+            <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
             <span style="margin-left:8px;">Drow (Guess)</span>

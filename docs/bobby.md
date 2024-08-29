@@ -40,7 +40,7 @@ Bobby will be a new champion in the Highharvestide event on 4 September 2024.
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Race**:</span>
+            <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfo">
             <span style="margin-left:8px;">Human</span>

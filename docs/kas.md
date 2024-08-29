@@ -30,7 +30,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Race**:</span>
+            <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
             <span style="margin-left:8px;">Human / Vampire (Guess)</span>
