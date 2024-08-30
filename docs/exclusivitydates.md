@@ -25,7 +25,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1050**Vicious Damage (Warduke)**They had it coming.<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -35,7 +35,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Wyrm Slayer Warduke Skin Icon](images/exclusivities/skin_23457.png)
+                        <span class="tooltipHolder">![Wyrm Slayer Warduke Skin Icon](images/exclusivities/skin_23457.png)<span class="featTooltipContents">ID: 443**Wyrm Slayer Warduke (Warduke)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -80,7 +80,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Baldur's Gate Duke Ravengard Skin Icon](images/exclusivities/skin_23918.png)
+                        <span class="tooltipHolder">![Baldur's Gate Duke Ravengard Skin Icon](images/exclusivities/skin_23918.png)<span class="featTooltipContents">ID: 442**Baldur's Gate Duke Ravengard (Ravengard)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -89,7 +89,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Quirk the Homunculus Familiar Icon](images/exclusivities/fam_209.png)
+                        <span class="tooltipHolder">![Quirk the Homunculus Familiar Icon](images/exclusivities/fam_209.png)<span class="featTooltipContents">ID: 209**Quirk the Homunculus**A faithful, squirrel-sized companion.</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -134,7 +134,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Courage in Battle Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Courage in Battle Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1304**Courage in Battle (Drizzt)**Hope is the ally of all courageous people.<code>add_mithral_hall_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -144,7 +144,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Quick Friends Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Quick Friends Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1471**Quick Friends (Evelyn)**Did you heal me? OH! Yay! We're best friends now!<code>buff_upgrade,80,12208</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -154,7 +154,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Heavily Armored Feat Icon](images/featicons/health.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heavily Armored Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 1797**Heavily Armored (Krydle)**You want me to hide in this?! Do you have a barn?<code>health_mult,60</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -164,7 +164,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Scholar Feat Icon](images/featicons/attributeboostx2.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Scholar Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1775**Scholar (Diana)**I've got a 4.0 GPA.<code>increase_ability_score,int,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -174,7 +174,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Pirate Azaka Skin Icon](images/exclusivities/skin_23866.png)
+                        <span class="tooltipHolder">![Pirate Azaka Skin Icon](images/exclusivities/skin_23866.png)<span class="featTooltipContents">ID: 430**Pirate Azaka (Azaka)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -183,7 +183,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Pirate Diana Skin Icon](images/exclusivities/skin_23874.png)
+                        <span class="tooltipHolder">![Pirate Diana Skin Icon](images/exclusivities/skin_23874.png)<span class="featTooltipContents">ID: 431**Pirate Diana (Diana)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -192,7 +192,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Azaka Slot 3](images/exclusivities/ge_3601.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Azaka Slot 3](images/exclusivities/ge_3601.png)<span class="itemTooltipContents">ID: 708**Magical Coin Pack (Azaka)**It always has more room!<code>buff_upgrade,275,1233</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -202,7 +202,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Diana Slot 5](images/exclusivities/ge_23230.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Diana Slot 5](images/exclusivities/ge_23230.png)<span class="itemTooltipContents">ID: 3525**Weavebound Staff (Diana)**Dungeon Master told me the Weave itself flows through this...<code>buff_ultimate,275</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -248,7 +248,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Persistent Lae'zel Skin Icon](images/exclusivities/skin_24192.png)
+                        <span class="tooltipHolder">![Persistent Lae'zel Skin Icon](images/exclusivities/skin_24192.png)<span class="featTooltipContents">ID: 454**Persistent Lae'zel (Lae'zel)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -257,7 +257,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Snuggles the Sphynx Cat Familiar Icon](images/exclusivities/fam_210.png)
+                        <span class="tooltipHolder">![Snuggles the Sphynx Cat Familiar Icon](images/exclusivities/fam_210.png)<span class="featTooltipContents">ID: 210**Snuggles the Sphynx Cat**Even Makos eventually warmed up to him.</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -302,7 +302,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Room to Breathe Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Room to Breathe Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1895**Room to Breathe (Presto)**You three take on Tiamat and I'll see what I can do from over here!<code>buff_upgrade,80,13762</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -312,7 +312,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Harvestguard Presto Skin Icon](images/exclusivities/skin_24793.png)
+                        <span class="tooltipHolder">![Harvestguard Presto Skin Icon](images/exclusivities/skin_24793.png)<span class="featTooltipContents">ID: 478**Harvestguard Presto (Presto)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -357,7 +357,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Better Every Day Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Better Every Day Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1873**Better Every Day (Ulkoria)**You should do something every day to get you closer to your next goal!<code>buff_upgrade,80,4347,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -367,7 +367,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Air Genasi Glitch Feat Icon](images/featicons/glitch.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Air Genasi Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1867**Air Genasi Glitch (Valentine)**Huh. Well, at least I still look good in black.<code>add_hero_tags,0,genasi<br>change_hero_alignment_tag,chaotic,evil</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -377,7 +377,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Heart of Battle Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart of Battle Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1814**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<code>persist_effect_stacks,40,15030</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -387,7 +387,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Woken the Hive Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Woken the Hive Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1848**Woken the Hive (Umberto)**You've done it now!<code>buff_upgrade,80,15049,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -397,7 +397,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Tabaxi Glitch Shandie Skin Icon](images/exclusivities/skin_24203.png)
+                        <span class="tooltipHolder">![Tabaxi Glitch Shandie Skin Icon](images/exclusivities/skin_24203.png)<span class="featTooltipContents">ID: 452**Tabaxi Glitch Shandie (Shandie)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -406,7 +406,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Secret Agent Maan Skin Icon](images/exclusivities/skin_24207.png)
+                        <span class="tooltipHolder">![Secret Agent Maan Skin Icon](images/exclusivities/skin_24207.png)<span class="featTooltipContents">ID: 451**Secret Agent Maan (Hew Maan)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -415,7 +415,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Ulkoria Slot 2](images/exclusivities/ge_8327.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Ulkoria Slot 2](images/exclusivities/ge_8327.png)<span class="itemTooltipContents">ID: 1616**Volo's Guide to the Weave (Ulkoria)**I'm writing a review for the Sentinel, nothing more.<code>global_dps_multiplier_mult,230</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -425,7 +425,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Aeon Slot 3](images/exclusivities/ge_23720.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Aeon Slot 3](images/exclusivities/ge_23720.png)<span class="itemTooltipContents">ID: 3565**Bigby's Beneficent Bracelet (Aeon)**A recent gift from back home. Somewhere I haven't been in a long, long time.<code>buff_upgrade,275,15197,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -480,7 +480,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Everything's a Nail Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Everything's a Nail Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 879**Everything's a Nail (Aila)**I'm a delight.<code>buff_upgrade,80,8783</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -490,7 +490,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Eye of the Storm Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Eye of the Storm Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 913**Eye of the Storm (Qillek)**I see what was and is and will be.<code>buff_upgrade,80,8770</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -500,7 +500,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Sentinel Prime Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Sentinel Prime Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 937**Sentinel Prime (Sentry)**My new home will be protected.<code>buff_upgrade,80,8762</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -510,7 +510,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Merry Crew Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Merry Crew Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 896**Merry Crew (Nova)**If we all work together, what could go wrong?<code>buff_upgrade,80,8752</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -520,7 +520,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Privileged Background Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Privileged Background Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 939**Privileged Background (Lucius)**Can we just solve this with coin?<code>buff_upgrade,80,8730</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -530,7 +530,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Champion of Aerois Aila Skin Icon](images/exclusivities/skin_16621.png)
+                        <span class="tooltipHolder">![Champion of Aerois Aila Skin Icon](images/exclusivities/skin_16621.png)<span class="featTooltipContents">ID: 193**Champion of Aerois Aila (Aila)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -539,7 +539,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![H'esper's Avatar Qillek Skin Icon](images/exclusivities/skin_16440.png)
+                        <span class="tooltipHolder">![H'esper's Avatar Qillek Skin Icon](images/exclusivities/skin_16440.png)<span class="featTooltipContents">ID: 192**H'esper's Avatar Qillek (Qillek)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -548,7 +548,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Prime's Hope Sentry Skin Icon](images/exclusivities/skin_15813.png)
+                        <span class="tooltipHolder">![Prime's Hope Sentry Skin Icon](images/exclusivities/skin_15813.png)<span class="featTooltipContents">ID: 190**Prime's Hope Sentry (Sentry)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -557,7 +557,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Tiangong Nova Skin Icon](images/exclusivities/skin_16549.png)
+                        <span class="tooltipHolder">![Tiangong Nova Skin Icon](images/exclusivities/skin_16549.png)<span class="featTooltipContents">ID: 191**Tiangong Nova (Nova)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -566,7 +566,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Prism Lucius Skin Icon](images/exclusivities/skin_16431.png)
+                        <span class="tooltipHolder">![Prism Lucius Skin Icon](images/exclusivities/skin_16431.png)<span class="featTooltipContents">ID: 194**Prism Lucius (Lucius)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -575,7 +575,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Aerois Modron Core Icon](images/exclusivities/core_5.png)
+                        <span class="tooltipHolder">![Aerois Modron Core Icon](images/exclusivities/core_5.png)<span class="featTooltipContents">ID: 5**Aerois Core**A modron core to massively buff Aerois Champions</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Modron Core**</span>
@@ -584,7 +584,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Tiangong Familiar Icon](images/exclusivities/fam_112.png)
+                        <span class="tooltipHolder">![Tiangong Familiar Icon](images/exclusivities/fam_112.png)<span class="featTooltipContents">ID: 112**Tiangong**All that you have done for us, we know. Thank you</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -629,7 +629,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Judge of the Dead Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Judge of the Dead Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1036**Judge of the Dead (Nerys)**Your existence is anathema, foul undead!<code>buff_upgrade,80,9736</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -639,7 +639,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Second Wind Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Second Wind Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1035**Second Wind (Shandie)**I could do this all day!<code>change_upgrade_data,9728</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -649,7 +649,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1032**Prodigal Leader (Krydle)**You can trust me!<code>global_dps_multiplier_mult,50</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -659,7 +659,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Thrill of the Hunt Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Thrill of the Hunt Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1027**Thrill of the Hunt (Jaheira)**You won't escape me!<code>buff_upgrade,80,9710</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -669,7 +669,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![The Grave Rejects You Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![The Grave Rejects You Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1024**The Grave Rejects You (Viconia)**Hordes of undead? I don't see a problem.<code>buff_upgrade,150,9752</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -679,7 +679,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Flayer Hunter Nerys Skin Icon](images/exclusivities/skin_17913.png)
+                        <span class="tooltipHolder">![Flayer Hunter Nerys Skin Icon](images/exclusivities/skin_17913.png)<span class="featTooltipContents">ID: 239**Flayer Hunter Nerys (Nerys)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -688,7 +688,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Flayer Hunter Shandie Skin Icon](images/exclusivities/skin_17937.png)
+                        <span class="tooltipHolder">![Flayer Hunter Shandie Skin Icon](images/exclusivities/skin_17937.png)<span class="featTooltipContents">ID: 238**Flayer Hunter Shandie (Shandie)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -697,7 +697,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Flayer Hunter Krydle Skin Icon](images/exclusivities/skin_17766.png)
+                        <span class="tooltipHolder">![Flayer Hunter Krydle Skin Icon](images/exclusivities/skin_17766.png)<span class="featTooltipContents">ID: 236**Flayer Hunter Krydle (Krydle)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -706,7 +706,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Flayer Hunter Jaheira Skin Icon](images/exclusivities/skin_17912.png)
+                        <span class="tooltipHolder">![Flayer Hunter Jaheira Skin Icon](images/exclusivities/skin_17912.png)<span class="featTooltipContents">ID: 235**Flayer Hunter Jaheira (Jaheira)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -715,7 +715,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Flayer Hunter Viconia Skin Icon](images/exclusivities/skin_17938.png)
+                        <span class="tooltipHolder">![Flayer Hunter Viconia Skin Icon](images/exclusivities/skin_17938.png)<span class="featTooltipContents">ID: 237**Flayer Hunter Viconia (Viconia)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -724,7 +724,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Krydle Slot 3](images/exclusivities/ge_7549.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Krydle Slot 3](images/exclusivities/ge_7549.png)<span class="itemTooltipContents">ID: 1428**Cloak of The Blades (Krydle)**I ran with them for a while. It... didn't end well.<code>buff_upgrade,275,9629,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -734,7 +734,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Intellect Devourer Familiar Icon](images/exclusivities/fam_115.png)
+                        <span class="tooltipHolder">![Intellect Devourer Familiar Icon](images/exclusivities/fam_115.png)<span class="featTooltipContents">ID: 115**Intellect Devourer**Feeding on intellect.</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -779,7 +779,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Five Questions Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Five Questions Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1193**Five Questions (Hitch)**You hold 'em, I'll drop 'em!<code>buff_upgrade,80,3672</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -789,7 +789,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Neverwinter Diversity Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Neverwinter Diversity Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1086**Neverwinter Diversity (Hew Maan)**Greetings, fellow humans!<code>additional_fellow_humans,3</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -799,7 +799,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Wisened Friends Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Wisened Friends Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1194**Wisened Friends (Fen)**If we put our heads together, we can overcome!<code>buff_upgrade,80,9759</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -809,7 +809,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Red Wizard Calliope Skin Icon](images/exclusivities/skin_18457.png)
+                        <span class="tooltipHolder">![Red Wizard Calliope Skin Icon](images/exclusivities/skin_18457.png)<span class="featTooltipContents">ID: 289**Red Wizard Calliope (Calliope)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -818,7 +818,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Red Wizard Widdle Skin Icon](images/exclusivities/skin_18804.png)
+                        <span class="tooltipHolder">![Red Wizard Widdle Skin Icon](images/exclusivities/skin_18804.png)<span class="featTooltipContents">ID: 288**Red Wizard Widdle (Widdle)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -827,7 +827,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Miria Slot 2](images/exclusivities/ge_18273.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Miria Slot 2](images/exclusivities/ge_18273.png)<span class="itemTooltipContents">ID: 2889**High Sorcery Robes (Miria)**A mark of the respect and station I deserve.<code>buff_upgrade,275,10665</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -873,7 +873,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Calm Under Pressure Feat Icon](images/featicons/overhelm.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Calm Under Pressure Feat Icon](images/featicons/overhelm.png)<span class="featTooltipContents">ID: 1164**Calm Under Pressure (Barrowin)**Clan Undurr does not back down!<code>overwhelm_start_increase,10</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -883,7 +883,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Athlete Feat Icon](images/featicons/attributeboost.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Athlete Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1171**Athlete (Birdsong)**I've been sharpening my claws for days!<code>increase_ability_score,str,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -893,7 +893,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Extra Wasps Feat Icon](images/featicons/spurtult.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Extra Wasps Feat Icon](images/featicons/spurtult.png)<span class="featTooltipContents">ID: 1173**Extra Wasps (Spurt)**I call this bag the angries.<code>increase_ultimate_cooldown,30</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -903,7 +903,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Athlete Feat Icon](images/featicons/attributeboost.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Athlete Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1182**Athlete (Turiel)**Strength of Bahamut, flow through me!<code>increase_ability_score,str,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -913,7 +913,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![The Path Is Clear Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![The Path Is Clear Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1184**The Path Is Clear (Hew Maan)**Surprises around every corner! But not this one. I don't think. ~ Kleeb<code>time_scale_when_not_attacked,10,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -923,7 +923,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Dwarven Tradition Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Dwarven Tradition Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1163**Dwarven Tradition (Barrowin)**Undurr Ground. Get it?<code>buff_upgrade,80,10684</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -933,7 +933,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Harmony Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Harmony Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1169**Harmony (Birdsong)**Just keep it going!<code>buff_upgrade,80,10776</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -943,7 +943,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Kobold Brethren Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Kobold Brethren Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1172**Kobold Brethren (Spurt)**For Glory!<code>buff_upgrade,80,10680</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -953,7 +953,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Shout Above The Din Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Shout Above The Din Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1179**Shout Above The Din (Turiel)**The time for debate is over!<code>buff_upgrades,80,10663,10664</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -963,7 +963,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Immolation Feat Icon](images/featicons/immolation.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Immolation Feat Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 1183**Immolation (Hew Maan)**Kleeb prefers fire going in opposite direction! ~Kleeb<code>immolation,1,5</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -973,7 +973,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Ancient Barrowin Skin Icon](images/exclusivities/skin_18802.png)
+                        <span class="tooltipHolder">![Ancient Barrowin Skin Icon](images/exclusivities/skin_18802.png)<span class="featTooltipContents">ID: 283**Ancient Barrowin (Barrowin)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -982,7 +982,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Lawbringer Birdsong Skin Icon](images/exclusivities/skin_18803.png)
+                        <span class="tooltipHolder">![Lawbringer Birdsong Skin Icon](images/exclusivities/skin_18803.png)<span class="featTooltipContents">ID: 284**Lawbringer Birdsong (Birdsong)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -991,7 +991,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Lawbringer Spurt Skin Icon](images/exclusivities/skin_18894.png)
+                        <span class="tooltipHolder">![Lawbringer Spurt Skin Icon](images/exclusivities/skin_18894.png)<span class="featTooltipContents">ID: 286**Lawbringer Spurt (Spurt)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1000,7 +1000,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Ancient Turiel Skin Icon](images/exclusivities/skin_18576.png)
+                        <span class="tooltipHolder">![Ancient Turiel Skin Icon](images/exclusivities/skin_18576.png)<span class="featTooltipContents">ID: 285**Ancient Turiel (Turiel)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1009,7 +1009,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Law Maan Skin Icon](images/exclusivities/skin_18895.png)
+                        <span class="tooltipHolder">![Law Maan Skin Icon](images/exclusivities/skin_18895.png)<span class="featTooltipContents">ID: 287**Law Maan (Hew Maan)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1018,7 +1018,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Unaffiliated Modron Core Icon](images/exclusivities/core_6.png)
+                        <span class="tooltipHolder">![Unaffiliated Modron Core Icon](images/exclusivities/core_6.png)<span class="featTooltipContents">ID: 6**Unaffiliated Core**A modron core to massively buff Unaffiliated Champions</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Modron Core**</span>
@@ -1027,7 +1027,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Baby Guenhwyvar Familiar Icon](images/exclusivities/fam_113.png)
+                        <span class="tooltipHolder">![Baby Guenhwyvar Familiar Icon](images/exclusivities/fam_113.png)<span class="featTooltipContents">ID: 113**Baby Guenhwyvar**This panther from the astral plane is looking for her new best friend!</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -1072,7 +1072,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Entertainer Feat Icon](images/featicons/attributeboostx2.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Entertainer Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1291**Entertainer (Nrakk)**Some have called my battle meditations... calming to watch.<code>increase_ability_score,cha,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1082,7 +1082,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Modron Antrius Skin Icon](images/exclusivities/skin_19728.png)
+                        <span class="tooltipHolder">![Modron Antrius Skin Icon](images/exclusivities/skin_19728.png)<span class="featTooltipContents">ID: 290**Modron Antrius (Antrius)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1091,7 +1091,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Modron Nixie Skin Icon](images/exclusivities/skin_19729.png)
+                        <span class="tooltipHolder">![Modron Nixie Skin Icon](images/exclusivities/skin_19729.png)<span class="featTooltipContents">ID: 307**Modron Nixie (Nixie)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1100,7 +1100,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Dragonbait Slot 1](images/exclusivities/ge_6926.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Dragonbait Slot 1](images/exclusivities/ge_6926.png)<span class="itemTooltipContents">ID: 1588**The Lost Friend (Dragonbait)**Dragonbait carries a drawing of Artus Cimber.<code>global_dps_multiplier_mult,230</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -1110,7 +1110,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Evandra Slot 2](images/exclusivities/ge_19248.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Evandra Slot 2](images/exclusivities/ge_19248.png)<span class="itemTooltipContents">ID: 2961**Armor of Victory (Evandra)**Won this at a jousting tourney. No thanks to Dargle-bark.<code>health_mult,100</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -1156,7 +1156,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Rest Awhile Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Rest Awhile Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1315**Rest Awhile (Regis)**Relax -- there can't be a battle every day.<code>add_mithral_hall_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1166,7 +1166,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Weapon Swap Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Weapon Swap Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1313**Weapon Swap (Catti-brie)**Aye, I know how to use a warhammer.<code>add_mithral_hall_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1176,7 +1176,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Imposing Build Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Imposing Build Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1317**Imposing Build (Wulfgar)**They will think twice with me at your side.<code>add_mithral_hall_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1186,7 +1186,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Aggressive Stance Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Aggressive Stance Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1319**Aggressive Stance (Pwent)**Think they got the point?<code>add_mithral_hall_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1196,7 +1196,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Battle Expertise Feat Icon](images/featicons/critchanceincrease.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Battle Expertise Feat Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1297**Battle Expertise (Artemis)**Their last thoughts will dismiss me as just a shadow.<code>buff_base_crit_chance_add,10</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1206,7 +1206,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Advisor of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Advisor of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1316**Advisor of the Hall (Regis)**We stick with Bruenor's plan!<code>add_mithral_hall_stacks,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1216,7 +1216,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Speaker of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Speaker of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1314**Speaker of the Hall (Catti-brie)**Behind you! I've got them!<code>add_mithral_hall_stacks,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1226,7 +1226,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Aegis of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Aegis of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1318**Aegis of the Hall (Wulfgar)**To me! Make haste!<code>add_mithral_hall_stacks,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1236,7 +1236,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Vanguard of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vanguard of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1320**Vanguard of the Hall (Pwent)**Gutbusters! Are you ready?!<code>add_mithral_hall_stacks,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1246,7 +1246,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1298**Vicious Damage (Artemis)**Your life essence belongs to me now.<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1256,7 +1256,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mythic Regis Skin Icon](images/exclusivities/skin_19541.png)
+                        <span class="tooltipHolder">![Mythic Regis Skin Icon](images/exclusivities/skin_19541.png)<span class="featTooltipContents">ID: 323**Mythic Regis (Regis)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1265,7 +1265,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mythic Catti-brie Skin Icon](images/exclusivities/skin_19337.png)
+                        <span class="tooltipHolder">![Mythic Catti-brie Skin Icon](images/exclusivities/skin_19337.png)<span class="featTooltipContents">ID: 308**Mythic Catti-brie (Catti-brie)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1274,7 +1274,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mythic Wulfgar Skin Icon](images/exclusivities/skin_19338.png)
+                        <span class="tooltipHolder">![Mythic Wulfgar Skin Icon](images/exclusivities/skin_19338.png)<span class="featTooltipContents">ID: 316**Mythic Wulfgar (Wulfgar)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1283,7 +1283,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mythic Pwent Skin Icon](images/exclusivities/skin_19540.png)
+                        <span class="tooltipHolder">![Mythic Pwent Skin Icon](images/exclusivities/skin_19540.png)<span class="featTooltipContents">ID: 314**Mythic Pwent (Pwent)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1292,7 +1292,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mythic Artemis Skin Icon](images/exclusivities/skin_19336.png)
+                        <span class="tooltipHolder">![Mythic Artemis Skin Icon](images/exclusivities/skin_19336.png)<span class="featTooltipContents">ID: 312**Mythic Artemis (Artemis)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1301,7 +1301,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Pwent Slot 4](images/exclusivities/ge_6387.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Pwent Slot 4](images/exclusivities/ge_6387.png)<span class="itemTooltipContents">ID: 1192**Helm of Clangeddin's Wrath (Pwent)**When a dwarf enters tha bloodrage, stand clear.<code>buff_upgrade,275,11494</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -1311,7 +1311,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mythic Guenhwyvar Familiar Icon](images/exclusivities/fam_150.png)
+                        <span class="tooltipHolder">![Mythic Guenhwyvar Familiar Icon](images/exclusivities/fam_150.png)<span class="featTooltipContents">ID: 150**Mythic Guenhwyvar**She says it looks better on her.</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -1320,7 +1320,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Guenhwyvar's Strike Click Skin Icon](images/exclusivities/click_5.png)
+                        <span class="tooltipHolder">![Guenhwyvar's Strike Click Skin Icon](images/exclusivities/click_5.png)<span class="featTooltipContents">ID: 5**Guenhwyvar's Strike**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Click Damage Skin**</span>
@@ -1365,7 +1365,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 1504**Illithid Tadpole (Nrakk)**They said it would be fine...<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1375,7 +1375,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Very Important Person Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Very Important Person Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1424**Very Important Person (Valentine)**I had to put in an appearance.<code>buff_upgrade,80,8147</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1385,7 +1385,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mind Flayer Jamilah Skin Icon](images/exclusivities/skin_20718.png)
+                        <span class="tooltipHolder">![Mind Flayer Jamilah Skin Icon](images/exclusivities/skin_20718.png)<span class="featTooltipContents">ID: 334**Mind Flayer Jamilah (Jamilah)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1394,7 +1394,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mind Flayer Nrakk Skin Icon](images/exclusivities/skin_20719.png)
+                        <span class="tooltipHolder">![Mind Flayer Nrakk Skin Icon](images/exclusivities/skin_20719.png)<span class="featTooltipContents">ID: 335**Mind Flayer Nrakk (Nrakk)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1403,7 +1403,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Blooshi Slot 2](images/exclusivities/ge_13387.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Blooshi Slot 2](images/exclusivities/ge_13387.png)<span class="itemTooltipContents">ID: 2528**Endless Patron (Blooshi)**Whoever he is, I like the powers he gives me!<code>buff_upgrade,275,7518</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -1413,7 +1413,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Lae'zel Slot 3](images/exclusivities/ge_20257.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Lae'zel Slot 3](images/exclusivities/ge_20257.png)<span class="itemTooltipContents">ID: 3061**Token of Vlaakith (Lae'zel)**The engraving on the back reads: 'Vlaakith'ka sivim hrath krash'ht'<code>buff_upgrade,275,12114</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -1459,7 +1459,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Dead Friends Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Dead Friends Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1444**Dead Friends (Strix)**Oh, you're alive again? That's good. I guess.<code>buff_upgrade,40,12287</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1469,7 +1469,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Yay Lathander! Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Yay Lathander! Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1443**Yay Lathander! (Evelyn)**Give me an L! Give me an A! Give me a --<code>buff_upgrade,40,12206</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1479,7 +1479,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Magic Tour Bus Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Magic Tour Bus Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1228**Magic Tour Bus (Jim)**Get in, nerds -- we're doing magic.<code>buff_upgrade,40,12130</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1489,7 +1489,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Waterdeep Investors Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Waterdeep Investors Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1442**Waterdeep Investors (Omin)**Q3 adventures are looking good!<code>buff_upgrade,40,12303</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1499,7 +1499,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Sass for Days Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Sass for Days Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1445**Sass for Days (Vi)**Honey, I can do this all day.<code>buff_upgrade,40,12315</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1509,7 +1509,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Friends? Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Friends? Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1449**Friends? (Strix)**You want to be my friend? That sounds like a lot of work...<code>buff_upgrade,80,12289,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1519,7 +1519,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Training Montage Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Training Montage Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1448**Training Montage (Evelyn)**That was great! Now let's do that 400 more times, and it will be perfect!<code>buff_upgrade,80,12209</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1529,7 +1529,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Official Fan Club Card Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Official Fan Club Card Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1229**Official Fan Club Card (Jim)**I'm Jim Darkmagic and YOUR NAME HERE is my #1 fan!<code>buff_upgrade,80,12128,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1539,7 +1539,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Motivational Keynote Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Motivational Keynote Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1447**Motivational Keynote (Omin)**It's been proven that listening to me can make me richer.<code>buff_upgrades,80,12304,12305,12306</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1549,7 +1549,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Stand Off Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Stand Off Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1450**Stand Off (Vi)**Honey, you've got to ask yourself one question...<code>buff_upgrade,100,12313,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1559,7 +1559,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Venture Casual Strix Skin Icon](images/exclusivities/skin_20526.png)
+                        <span class="tooltipHolder">![Venture Casual Strix Skin Icon](images/exclusivities/skin_20526.png)<span class="featTooltipContents">ID: 340**Venture Casual Strix (Strix)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1568,7 +1568,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Venture Casual Evelyn Skin Icon](images/exclusivities/skin_20600.png)
+                        <span class="tooltipHolder">![Venture Casual Evelyn Skin Icon](images/exclusivities/skin_20600.png)<span class="featTooltipContents">ID: 339**Venture Casual Evelyn (Evelyn)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1577,7 +1577,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Venture Casual Jim Skin Icon](images/exclusivities/skin_20517.png)
+                        <span class="tooltipHolder">![Venture Casual Jim Skin Icon](images/exclusivities/skin_20517.png)<span class="featTooltipContents">ID: 337**Venture Casual Jim (Jim)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1586,7 +1586,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Venture Casual Omin Skin Icon](images/exclusivities/skin_20518.png)
+                        <span class="tooltipHolder">![Venture Casual Omin Skin Icon](images/exclusivities/skin_20518.png)<span class="featTooltipContents">ID: 338**Venture Casual Omin (Omin)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1595,7 +1595,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Venture Casual Vi Skin Icon](images/exclusivities/skin_20720.png)
+                        <span class="tooltipHolder">![Venture Casual Vi Skin Icon](images/exclusivities/skin_20720.png)<span class="featTooltipContents">ID: 341**Venture Casual Vi (Vi)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1604,7 +1604,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Vi Slot 2](images/exclusivities/ge_13181.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Vi Slot 2](images/exclusivities/ge_13181.png)<span class="itemTooltipContents">ID: 2216**Glamourous Neckwear (Vi)**I get this out for special occasions.<code>buff_upgrade,275,12312</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -1614,7 +1614,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Clone Jim Familiar Icon](images/exclusivities/fam_164.png)
+                        <span class="tooltipHolder">![Clone Jim Familiar Icon](images/exclusivities/fam_164.png)<span class="featTooltipContents">ID: 164**Clone Jim**Clone Jim winks.</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -1623,7 +1623,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Sparks Click Skin Icon](images/exclusivities/click_6.png)
+                        <span class="tooltipHolder">![Golden Sparks Click Skin Icon](images/exclusivities/click_6.png)<span class="featTooltipContents">ID: 6**Golden Sparks**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Click Damage Skin**</span>
@@ -1668,7 +1668,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Centaur Glitch Feat Icon](images/featicons/glitch.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Centaur Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1594**Centaur Glitch (Hitch)**I am going to go SO FAST!<code>add_hero_tags,0,centaur<br>buff_upgrade_per_unique_race,20,390</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1678,7 +1678,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Gibbous Script Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Gibbous Script Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1524**Gibbous Script (Warden)**The words I utter have existed since time itself.<code>buff_upgrade_add,2,13244</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1688,7 +1688,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Specter of Aeons Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Specter of Aeons Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1560**Specter of Aeons (Warden)**These are spirits of time itself.<code>increase_warden_specter_max,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1698,7 +1698,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Half-Elf Glitch Feat Icon](images/featicons/glitch.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Half-Elf Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1597**Half-Elf Glitch (Sentry)**I... I can still feel a connection to The Prime Matrix.<code>add_hero_tags,0,half-elf<br>buff_upgrade_per_any_tagged_crusader,20,8761,half-elf</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1708,7 +1708,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Centaur Glitch Hitch Skin Icon](images/exclusivities/skin_21584.png)
+                        <span class="tooltipHolder">![Centaur Glitch Hitch Skin Icon](images/exclusivities/skin_21584.png)<span class="featTooltipContents">ID: 367**Centaur Glitch Hitch (Hitch)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1717,7 +1717,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Half-Elf Glitch Sentry Skin Icon](images/exclusivities/skin_21592.png)
+                        <span class="tooltipHolder">![Half-Elf Glitch Sentry Skin Icon](images/exclusivities/skin_21592.png)<span class="featTooltipContents">ID: 368**Half-Elf Glitch Sentry (Sentry)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1726,7 +1726,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Sisaspia Slot 5](images/exclusivities/ge_7224.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Sisaspia Slot 5](images/exclusivities/ge_7224.png)<span class="itemTooltipContents">ID: 1364**Scimitar of Dendar (Sisaspia)**The Night Serpent waits...<code>buff_ultimate,275</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -1736,7 +1736,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)<span class="itemTooltipContents">ID: 3333**Lunation (Jang Sao)**All of time and space, within your imagination<code>buff_upgrades,275,13261,13262</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -1782,7 +1782,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Research Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Research Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1245**Research (Zorbu)**Not everything is learned in battle.<code>buff_upgrade,40,12989</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1792,7 +1792,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Chosen of Gith Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Chosen of Gith Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1253**Chosen of Gith (Nrakk)**In Gith's name, you will meet your end.<code>buff_upgrades,40,13005,13006</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1802,7 +1802,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Hunter's Hex Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Hunter's Hex Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1561**Hunter's Hex (Warden)**My hex will follow you across the planes.<code>increase_max_hex_stacks,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1812,7 +1812,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Actor Feat Icon](images/featicons/attributeboost.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Actor Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1549**Actor (Korth)**You want me to pretend to have emotions?<code>increase_ability_score,cha,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1822,7 +1822,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Nimble Feat Icon](images/featicons/attributeboost.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Nimble Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1222**Nimble (Sisaspia)**Sspeed is your ally.<code>increase_ability_score,dex,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1832,7 +1832,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Wolf Pack Feat Icon](images/featicons/otherabilityincrease.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Wolf Pack Feat Icon](images/featicons/otherabilityincrease.png)<span class="featTooltipContents">ID: 1526**Wolf Pack (Zorbu)**A lone wolf is dangerous. A pack is lethal.<code>effect_def,1750</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1842,7 +1842,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Centered Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Centered Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1259**Centered (Nrakk)**There is no solution through rage.<code>buff_upgrade,80,13001</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1852,7 +1852,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Beguiling Hex Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Beguiling Hex Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1562**Beguiling Hex (Warden)**There is no escape from this.<code>increase_max_hex_stacks,4</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1862,7 +1862,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Iaido Feat Icon](images/featicons/otherabilityincrease.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Iaido Feat Icon](images/featicons/otherabilityincrease.png)<span class="featTooltipContents">ID: 1550**Iaido (Korth)**The battle will end before you even see me draw my blade.<code>effect_def,1753</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1872,7 +1872,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Fungal Colony Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Fungal Colony Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1223**Fungal Colony (Sisaspia)**Growth is our only method of ssurvival.<code>increase_sisaspia_reserve_spore_max,10</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1882,7 +1882,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Elemental Zorbu Skin Icon](images/exclusivities/skin_21778.png)
+                        <span class="tooltipHolder">![Elemental Zorbu Skin Icon](images/exclusivities/skin_21778.png)<span class="featTooltipContents">ID: 361**Elemental Zorbu (Zorbu)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1891,7 +1891,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Elemental Nrakk Skin Icon](images/exclusivities/skin_21413.png)
+                        <span class="tooltipHolder">![Elemental Nrakk Skin Icon](images/exclusivities/skin_21413.png)<span class="featTooltipContents">ID: 358**Elemental Nrakk (Nrakk)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1900,7 +1900,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Elemental Warden Skin Icon](images/exclusivities/skin_21452.png)
+                        <span class="tooltipHolder">![Elemental Warden Skin Icon](images/exclusivities/skin_21452.png)<span class="featTooltipContents">ID: 360**Elemental Warden (Warden)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1909,7 +1909,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Elemental Korth Skin Icon](images/exclusivities/skin_21409.png)
+                        <span class="tooltipHolder">![Elemental Korth Skin Icon](images/exclusivities/skin_21409.png)<span class="featTooltipContents">ID: 357**Elemental Korth (Korth)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1918,7 +1918,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Elemental Sisaspia Skin Icon](images/exclusivities/skin_21774.png)
+                        <span class="tooltipHolder">![Elemental Sisaspia Skin Icon](images/exclusivities/skin_21774.png)<span class="featTooltipContents">ID: 359**Elemental Sisaspia (Sisaspia)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1927,7 +1927,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Nrakk Slot 1](images/exclusivities/ge_2711.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Nrakk Slot 1](images/exclusivities/ge_2711.png)<span class="itemTooltipContents">ID: 556**Kensei Naginata of Illithid Slaying (Nrakk)**The force of this Naginata disrupts the Illithid's psionic field.<code>global_dps_multiplier_mult,230</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -1937,7 +1937,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Dexterous Modron Core Icon](images/exclusivities/core_7.png)
+                        <span class="tooltipHolder">![Dexterous Modron Core Icon](images/exclusivities/core_7.png)<span class="featTooltipContents">ID: 7**Dexterous Core**A modron core to massively buff Dexterous Champions</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Modron Core**</span>
@@ -1946,7 +1946,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Bash the Earth Elemental Familiar Icon](images/exclusivities/fam_181.png)
+                        <span class="tooltipHolder">![Bash the Earth Elemental Familiar Icon](images/exclusivities/fam_181.png)<span class="featTooltipContents">ID: 181**Bash the Earth Elemental**I JUST GOTTA BASH IT!</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -1991,7 +1991,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Fields of Green Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Fields of Green Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1616**Fields of Green (D'hani)**I think we need a bit more mossy colors.<code>buff_upgrade,80,13714,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2001,7 +2001,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1665**Prodigal Leader (Gazrick)**Well, isn't that a kind thing to say!<code>global_dps_multiplier_mult,50</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2011,7 +2011,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Caged Dreams Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Caged Dreams Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1109**Caged Dreams (Miria)**Their power flows through me.<code>buff_upgrade,80,10666</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2021,7 +2021,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Fiery Tempest Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Fiery Tempest Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1666**Fiery Tempest (Karlach)**Oh... You're going to regret that!<code>buff_upgrade,80,13721</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2031,7 +2031,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Spelljammer Pilot Strix Skin Icon](images/exclusivities/skin_21701.png)
+                        <span class="tooltipHolder">![Spelljammer Pilot Strix Skin Icon](images/exclusivities/skin_21701.png)<span class="featTooltipContents">ID: 372**Spelljammer Pilot Strix (Strix)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2040,7 +2040,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Spelljammer Pilot Miria Skin Icon](images/exclusivities/skin_21784.png)
+                        <span class="tooltipHolder">![Spelljammer Pilot Miria Skin Icon](images/exclusivities/skin_21784.png)<span class="featTooltipContents">ID: 373**Spelljammer Pilot Miria (Miria)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2049,7 +2049,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Virgil Slot 5](images/exclusivities/ge_16585.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Virgil Slot 5](images/exclusivities/ge_16585.png)<span class="itemTooltipContents">ID: 2757**Thrilling Memoirs (Virgil)**All our adventures together are contained in this book. Well...most of them.<code>buff_upgrade,100,9605</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -2059,7 +2059,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Karlach Slot 2](images/exclusivities/ge_21844.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Karlach Slot 2](images/exclusivities/ge_21844.png)<span class="itemTooltipContents">ID: 3393**Helldusk Armour (Karlach)**I CAN FLY NOW?!<code>health_mult,100</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -2105,7 +2105,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Puzzling Answers Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Puzzling Answers Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1433**Puzzling Answers (Shaka)**The answer you get may not be the answer you need.<code>buff_upgrade,40,13419</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2115,7 +2115,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Fresh Palette Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Fresh Palette Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1653**Fresh Palette (D'hani)**A refreshed fighter is a strong fighter.<code>buff_upgrades,40,13717,13718,13719</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2125,7 +2125,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Darting Weapon Feat Icon](images/featicons/cooldown.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Darting Weapon Feat Icon](images/featicons/cooldown.png)<span class="featTooltipContents">ID: 1649**Darting Weapon (Kent)**Have at thee!<code>reduce_attack_cooldown,0.5</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2135,7 +2135,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3">![Form Up! Feat Icon](images/featicons/globaldps.png)</span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Form Up! Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1650**Form Up! (Virgil)**Kent, please don't say 'Roll Out' - no one knows what that means.<code>global_dps_multiplier_mult,20</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2145,7 +2145,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Riddles Within Riddles Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Riddles Within Riddles Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1635**Riddles Within Riddles (Shaka)**There is far more to this than you might think.<code>buff_upgrade,80,13419</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2155,7 +2155,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Champion of Tyr Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Champion of Tyr Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1434**Champion of Tyr (Selise)**Tyr, give me strength!<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2165,7 +2165,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Taunt Feat Icon](images/featicons/taunt.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Taunt Feat Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1648**Taunt (Selise)**I've killed Death. You're nothing compared to that.<code>hero_dps_multiplier_mult,400<br>taunt,50</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2175,7 +2175,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Color Theory Feat Icon](images/featicons/upgradefa.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Color Theory Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1654**Color Theory (D'hani)**Fighting is like mixing paint. You need to know what works for a situation.<code>buff_upgrades,80,13717,13718,13719</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2185,7 +2185,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1651**Vicious Damage (Kent)**Now you're in for it!<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2195,7 +2195,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![It's time! Feat Icon](images/featicons/globaldps.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![It's time! Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1652**It's time! (Virgil)**Why would I say 'morphing' in the middle of that, Kent? That doesn't make sense.<code>global_dps_multiplier_mult,40</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2205,7 +2205,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Waterdhavian Shaka Skin Icon](images/exclusivities/skin_22365.png)
+                        <span class="tooltipHolder">![Waterdhavian Shaka Skin Icon](images/exclusivities/skin_22365.png)<span class="featTooltipContents">ID: 383**Waterdhavian Shaka (Shaka)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2214,7 +2214,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Waterdhavian Selise Skin Icon](images/exclusivities/skin_22364.png)
+                        <span class="tooltipHolder">![Waterdhavian Selise Skin Icon](images/exclusivities/skin_22364.png)<span class="featTooltipContents">ID: 384**Waterdhavian Selise (Selise)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2223,7 +2223,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Waterdhavian D'hani Skin Icon](images/exclusivities/skin_22363.png)
+                        <span class="tooltipHolder">![Waterdhavian D'hani Skin Icon](images/exclusivities/skin_22363.png)<span class="featTooltipContents">ID: 385**Waterdhavian D'hani (D'hani)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2232,7 +2232,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Waterdhavian Kent Skin Icon](images/exclusivities/skin_22369.png)
+                        <span class="tooltipHolder">![Waterdhavian Kent Skin Icon](images/exclusivities/skin_22369.png)<span class="featTooltipContents">ID: 386**Waterdhavian Kent (Kent)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2241,7 +2241,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Waterdhavian Virgil Skin Icon](images/exclusivities/skin_22288.png)
+                        <span class="tooltipHolder">![Waterdhavian Virgil Skin Icon](images/exclusivities/skin_22288.png)<span class="featTooltipContents">ID: 387**Waterdhavian Virgil (Virgil)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2250,7 +2250,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Shaka Slot 5](images/exclusivities/ge_10342.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Shaka Slot 5](images/exclusivities/ge_10342.png)<span class="itemTooltipContents">ID: 1892**Locket of the Rivals (Shaka)**It holds an image of my family.<code>buff_upgrade,275,13418</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -2260,7 +2260,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![The Hawk Man Familiar Icon](images/exclusivities/fam_171.png)
+                        <span class="tooltipHolder">![The Hawk Man Familiar Icon](images/exclusivities/fam_171.png)<span class="featTooltipContents">ID: 171**The Hawk Man**A miniature form of one of the eight walking statues of Waterdeep!</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -2269,7 +2269,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Rivals Attack Click Skin Icon](images/exclusivities/click_7.png)
+                        <span class="tooltipHolder">![Rivals Attack Click Skin Icon](images/exclusivities/click_7.png)<span class="featTooltipContents">ID: 7**Rivals Attack**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Click Damage Skin**</span>
@@ -2314,7 +2314,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 1714**Illithid Tadpole (Minsc)**This smells of EVIL! But I trust you. I just put it in my eye?<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2324,7 +2324,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1713**Prodigal Leader (Solaak)**Trust me, we've got this.<code>global_dps_multiplier_mult,50</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2334,7 +2334,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1689**Tenacious (Presto)**I won't give up! No matter what Venger throws at us!<code>increase_ability_score,con,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2344,7 +2344,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)</span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 1712**Illithid Tadpole (Dynaheir)**You want me to put what in my brain?<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2354,7 +2354,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mind Flayer Celeste Skin Icon](images/exclusivities/skin_22769.png)
+                        <span class="tooltipHolder">![Mind Flayer Celeste Skin Icon](images/exclusivities/skin_22769.png)<span class="featTooltipContents">ID: 423**Mind Flayer Celeste (Celeste)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2363,7 +2363,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Mind Flayer Dynaheir Skin Icon](images/exclusivities/skin_22773.png)
+                        <span class="tooltipHolder">![Mind Flayer Dynaheir Skin Icon](images/exclusivities/skin_22773.png)<span class="featTooltipContents">ID: 424**Mind Flayer Dynaheir (Dynaheir)**</span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2372,7 +2372,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for NERDS Slot 1](images/exclusivities/ge_11614.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for NERDS Slot 1](images/exclusivities/ge_11614.png)<span class="itemTooltipContents">ID: 2476**Ornamental Weaponry (NERDS)**Fighters are masters of weaponry and martial skill.<code>buff_upgrade,275,6139</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -2382,7 +2382,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        ![Golden Epic Icon for Dynaheir Slot 5](images/exclusivities/ge_22299.png)
+                        <span class="tooltipHolder">![Golden Epic Icon for Dynaheir Slot 5](images/exclusivities/ge_22299.png)<span class="itemTooltipContents">ID: 3453**Old Empires Fire Wine (Dynaheir)**The decanter is for Minsc. The glass is all I require.<code>buff_upgrades,100,13879,13880,13881</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>

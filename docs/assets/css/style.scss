@@ -650,20 +650,31 @@ code{
 	margin: 5px;
 	object-fit: scale-down;
 }
-.emergenceShopFeatIcon1 img {
+.emergenceShopFeatIcon1 img,.emergenceShopFeatIcon1:hover .featTooltipContents {
 	border: 1px solid #DEE3DE;
 }
-.emergenceShopFeatIcon2 img {
+.emergenceShopFeatIcon2 img,.emergenceShopFeatIcon2:hover .featTooltipContents {
 	border: 1px solid #7BDF00;
 }
-.emergenceShopFeatIcon3 img {
+.emergenceShopFeatIcon3 img,.emergenceShopFeatIcon3:hover .featTooltipContents {
 	border: 1px solid #2955FF;
 }
-.emergenceShopFeatIcon4 img {
+.emergenceShopFeatIcon4 img,.emergenceShopFeatIcon4:hover .featTooltipContents {
 	border: 1px solid #8408EF;
 }
-.emergenceShopFeatIcon5 img {
+.emergenceShopFeatIcon5 img,.emergenceShopFeatIcon5:hover .featTooltipContents {
 	border: 1px solid #FBBA37;
+}
+.tooltipHolder {
+	position: relative;
+	cursor: pointer;
+	display: block;
+	width: 100%;
+	height: 100%;
+	color: #FFCC00;
+}
+.tooltipHolder:hover .featTooltipContents,.tooltipHolder:hover .itemTooltipContents {
+	visibility: visible;
 }
 .postSeasonTableColumn {
 	display: flex;

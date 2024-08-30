@@ -15,7 +15,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
 <span class="emergenceShopTableRow">
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Marvelous Support Pigment Icon](images/general/pigmint_support.png)
+            <span class="tooltipHolder">![Marvelous Support Pigment Icon](images/general/pigmint_support.png)<span class="itemTooltipContents">ID: 1**Support Pigment**The chosen equipment piece will now also increase the damage of all Champions by 200%<code>global_dps_multiplier_mult,200</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Pigmint**</span>
@@ -24,7 +24,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Golden Epic](images/general/unknown.png)
+            <span class="tooltipHolder">![Unknown Golden Epic](images/general/unknown.png)<span class="itemTooltipContents">ID: 3637**slot 3 (Kas)**slot 3</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
@@ -34,7 +34,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Golden Epic Icon for Krux Slot 2](images/emergence_9/ge_3225.png)
+            <span class="tooltipHolder">![Golden Epic Icon for Krux Slot 2](images/emergence_9/ge_3225.png)<span class="itemTooltipContents">ID: 3225**Muskets of Precision (Krux)**Won these in a game at Infinity's. That celestial was not happy with me...<code>buff_upgrade,275,11653</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
@@ -44,7 +44,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Skin Portrait](images/general/unknown.png)
+            <span class="tooltipHolder">![Nosferatu Widdle Skin Portrait](images/emergence_9/skin_461.png)<span class="itemTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -53,7 +53,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Skin Portrait](images/general/unknown.png)
+            <span class="tooltipHolder">![Vampire Nahara Skin Portrait](images/emergence_9/skin_462.png)<span class="itemTooltipContents">ID: 462**Vampire Nahara (Nahara)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -62,7 +62,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4">![Prodigal Leader Feat Icon](images/emergence_9/feat_1723.png)</span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/emergence_9/feat_1723.png)<span class="featTooltipContents">ID: 1723**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -72,7 +72,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4">![Gem Feat Icon](images/emergence_9/feat_1880.png)</span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Gem Feat Icon](images/emergence_9/feat_1880.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<code>ellywick_gem_prioritized</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -82,7 +82,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4">![Make Undead Feat Icon](images/emergence_9/feat_1893.png)</span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/emergence_9/feat_1893.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -92,7 +92,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4">![Make Undead Feat Icon](images/emergence_9/feat_1894.png)</span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/emergence_9/feat_1894.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<code>add_hero_tags,0,undead<br>buff_upgrade,160,6905</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -102,7 +102,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Chest Icon](images/general/unknown.png)
+            <span class="tooltipHolder">![Unknown Chest Icon](images/general/unknown.png)<span class="itemTooltipContents">ID: 677**Vampire Emergence Chest**Loot for: Widdle, Nahara, Kas, Krux, Voronika and Ellywick<code>"for_crusaders":[91,102,153,136,104,83]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>

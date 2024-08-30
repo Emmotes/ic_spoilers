@@ -11,7 +11,7 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harvestguard Bobby Portrait](images/skin_portraits/harvestguardbobby.png)Harvestguard Bobby
+            <span class="tooltipHolder" style="width:max-content">![Harvestguard Bobby Portrait](images/skin_portraits/harvestguardbobby.png)<span class="featTooltipContents">ID: 464**Harvestguard Bobby (Bobby)**</span></span>Harvestguard Bobby
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Bobby Theme Pack</span>
@@ -25,7 +25,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harvestguard D'hani Portrait](images/skin_portraits/harvestguarddhani.png)Harvestguard D'hani
+            <span class="tooltipHolder" style="width:max-content">![Harvestguard D'hani Portrait](images/skin_portraits/harvestguarddhani.png)<span class="featTooltipContents">ID: 466**Harvestguard D'hani (D'hani)**</span></span>Harvestguard D'hani
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard D'hani Skin & Feat Pack</span>
@@ -39,7 +39,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harvestguard Presto Portrait](images/skin_portraits/harvestguardpresto.png)Harvestguard Presto
+            <span class="tooltipHolder" style="width:max-content">![Harvestguard Presto Portrait](images/skin_portraits/harvestguardpresto.png)<span class="featTooltipContents">ID: 478**Harvestguard Presto (Presto)**</span></span>Harvestguard Presto
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Anniversary Celebration</span>
@@ -53,7 +53,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Mind Flayer Minsc Portrait](images/skin_portraits/mindflayerminsc.png)Mind Flayer Minsc
+            <span class="tooltipHolder" style="width:max-content">![Mind Flayer Minsc Portrait](images/skin_portraits/mindflayerminsc.png)<span class="featTooltipContents">ID: 463**Mind Flayer Minsc (Minsc)**</span></span>Mind Flayer Minsc
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Founder's Pack VII</span>
@@ -67,7 +67,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harvestguard Rosie Portrait](images/skin_portraits/harvestguardrosie.png)Harvestguard Rosie
+            <span class="tooltipHolder" style="width:max-content">![Harvestguard Rosie Portrait](images/skin_portraits/harvestguardrosie.png)<span class="featTooltipContents">ID: 465**Harvestguard Rosie (Rosie)**</span></span>Harvestguard Rosie
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Rosie Theme Pack</span>
@@ -81,7 +81,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harvestguard Wulfgar Portrait](images/skin_portraits/harvestguardwulfgar.png)Harvestguard Wulfgar
+            <span class="tooltipHolder" style="width:max-content">![Harvestguard Wulfgar Portrait](images/skin_portraits/harvestguardwulfgar.png)<span class="featTooltipContents">ID: 467**Harvestguard Wulfgar (Wulfgar)**</span></span>Harvestguard Wulfgar
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Wulfgar Skin & Feat Pack</span>
@@ -95,7 +95,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harvestguard Certainty Portrait](images/skin_portraits/harvestguardcertainty.png)Harvestguard Certainty
+            <span class="tooltipHolder" style="width:max-content">![Harvestguard Certainty Portrait](images/skin_portraits/harvestguardcertainty.png)<span class="featTooltipContents">ID: 468**Harvestguard Certainty (Certainty)**</span></span>Harvestguard Certainty
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Certainty Skin & Feat Pack</span>
@@ -109,7 +109,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Harvestguard Farideh Portrait](images/skin_portraits/harvestguardfarideh.png)Harvestguard Farideh
+            <span class="tooltipHolder" style="width:max-content">![Harvestguard Farideh Portrait](images/skin_portraits/harvestguardfarideh.png)<span class="featTooltipContents">ID: 469**Harvestguard Farideh (Farideh)**</span></span>Harvestguard Farideh
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Farideh Skin & Feat Pack</span>
@@ -123,7 +123,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Chibi Gale Portrait](images/skin_portraits/chibigale.png)Chibi Gale
+            <span class="tooltipHolder" style="width:max-content">![Chibi Gale Portrait](images/skin_portraits/chibigale.png)<span class="featTooltipContents">ID: 470**Chibi Gale (Gale)**</span></span>Chibi Gale
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Chibi Gale Skin & Feat Pack</span>
@@ -137,7 +137,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Plushie BBEG Portrait](images/skin_portraits/plushiebbeg.png)Plushie BBEG
+            <span class="tooltipHolder" style="width:max-content">![Plushie BBEG Portrait](images/skin_portraits/plushiebbeg.png)<span class="featTooltipContents">ID: 471**Plushie BBEG (BBEG)**</span></span>Plushie BBEG
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Plushie BBEG Skin & Feat Pack</span>
@@ -151,7 +151,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)Baldur's Gate Duke Ravengard
+            <span class="tooltipHolder" style="width:max-content">![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)<span class="featTooltipContents">ID: 442**Baldur's Gate Duke Ravengard (Ravengard)**</span></span>Baldur's Gate Duke Ravengard
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Gem Shop</span>
@@ -165,7 +165,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)Wyrm Slayer Warduke
+            <span class="tooltipHolder" style="width:max-content">![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)<span class="featTooltipContents">ID: 443**Wyrm Slayer Warduke (Warduke)**</span></span>Wyrm Slayer Warduke
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Gem Shop</span>
@@ -179,7 +179,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Darklord Kas Portrait](images/skin_portraits/darklordkas.png)Darklord Kas
+            <span class="tooltipHolder" style="width:max-content">![Darklord Kas Portrait](images/skin_portraits/darklordkas.png)<span class="featTooltipContents">ID: 474**Darklord Kas (Kas)**</span></span>Darklord Kas
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Darklord Kas Theme Pack</span>
@@ -193,7 +193,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Vampire Hunter Voronika Portrait](images/skin_portraits/vampirehuntervoronika.png)Vampire Hunter Voronika
+            <span class="tooltipHolder" style="width:max-content">![Vampire Hunter Voronika Portrait](images/skin_portraits/vampirehuntervoronika.png)<span class="featTooltipContents">ID: 472**Vampire Hunter Voronika (Voronika)**</span></span>Vampire Hunter Voronika
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Vampire Hunter Voronika Theme Pack</span>
@@ -207,7 +207,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Ascended Astarion Portrait](images/skin_portraits/ascendedastarion.png)Ascended Astarion
+            <span class="tooltipHolder" style="width:max-content">![Ascended Astarion Portrait](images/skin_portraits/ascendedastarion.png)<span class="featTooltipContents">ID: 473**Ascended Astarion (Astarion)**</span></span>Ascended Astarion
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Ascended Astarion Skin & Feat Pack</span>
@@ -221,7 +221,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Cursed Banshee Thellora Portrait](images/skin_portraits/cursedbansheethellora.png)Cursed Banshee Thellora
+            <span class="tooltipHolder" style="width:max-content">![Cursed Banshee Thellora Portrait](images/skin_portraits/cursedbansheethellora.png)<span class="featTooltipContents">ID: 479**Cursed Banshee Thellora (Thellora)**</span></span>Cursed Banshee Thellora
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Cursed Banshee Thellora Skin & Feat Pack</span>
@@ -235,7 +235,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Headless Horseman Kent Portrait](images/skin_portraits/headlesshorsemankent.png)Headless Horseman Kent
+            <span class="tooltipHolder" style="width:max-content">![Headless Horseman Kent Portrait](images/skin_portraits/headlesshorsemankent.png)<span class="featTooltipContents">ID: 475**Headless Horseman Kent (Kent)**</span></span>Headless Horseman Kent
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Headless Horseman Kent Skin & Feat Pack</span>
@@ -249,7 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Werebear Donaar
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 480**Werebear Donaar (Donaar)**</span></span>Werebear Donaar
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Werebear Donaar Skin & Feat Pack</span>
@@ -263,7 +263,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Nosferatu Widdle Portrait](images/skin_portraits/nosferatuwiddle.png)Nosferatu Widdle
+            <span class="tooltipHolder" style="width:max-content">![Nosferatu Widdle Portrait](images/skin_portraits/nosferatuwiddle.png)<span class="featTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**</span></span>Nosferatu Widdle
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 9 (Guess)</span>
@@ -277,7 +277,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Vampire Hunter Desmond Portrait](images/skin_portraits/vampirehunterdesmond.png)Vampire Hunter Desmond
+            <span class="tooltipHolder" style="width:max-content">![Vampire Hunter Desmond Portrait](images/skin_portraits/vampirehunterdesmond.png)<span class="featTooltipContents">ID: 481**Vampire Hunter Desmond (Desmond)**</span></span>Vampire Hunter Desmond
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Vampire Hunter Desmond Skin & Feat Pack</span>
@@ -291,7 +291,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Vampire Nahara Portrait](images/skin_portraits/vampirenahara.png)Vampire Nahara
+            <span class="tooltipHolder" style="width:max-content">![Vampire Nahara Portrait](images/skin_portraits/vampirenahara.png)<span class="featTooltipContents">ID: 462**Vampire Nahara (Nahara)**</span></span>Vampire Nahara
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 9 (Guess)</span>
@@ -305,7 +305,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Vampire Viconia Portrait](images/skin_portraits/vampireviconia.png)Vampire Viconia
+            <span class="tooltipHolder" style="width:max-content">![Vampire Viconia Portrait](images/skin_portraits/vampireviconia.png)<span class="featTooltipContents">ID: 476**Vampire Viconia (Viconia)**</span></span>Vampire Viconia
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Vampire Viconia Skin & Feat Pack</span>
@@ -319,7 +319,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Devil Wyll Portrait](images/skin_portraits/devilwyll.png)Devil Wyll
+            <span class="tooltipHolder" style="width:max-content">![Devil Wyll Portrait](images/skin_portraits/devilwyll.png)<span class="featTooltipContents">ID: 477**Devil Wyll (Wyll)**</span></span>Devil Wyll
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Devil Wyll Skin & Feat Pack</span>
