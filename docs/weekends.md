@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Contest of Champions | 30 Aug | **Karlach** | Celeste | Makos | Ravengard | Wyll | Golden Epic |
 | We'll Be Right Back | 06 Sept | **Bobby** | Calliope | Nayeli | DM | Diana | Golden Epic |
 | Carefully Balanced | 13 Sept | **Rosie** | Bruenor | Arkhan | Sentry | Nahara | Golden Epic |
 | Friendly | 20 Sept | **Calliope** | D'hani | Asharra | Artemis | Presto | Golden Epic |
