@@ -263,7 +263,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Nosferatu Widdle
+            ![Nosferatu Widdle Portrait](images/skin_portraits/nosferatuwiddle.png)Nosferatu Widdle
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 9 (Guess)</span>
@@ -277,7 +277,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Vampire Hunter Desmond
+            ![Vampire Hunter Desmond Portrait](images/skin_portraits/vampirehunterdesmond.png)Vampire Hunter Desmond
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Vampire Hunter Desmond Skin & Feat Pack</span>
@@ -291,7 +291,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Vampire Nahara
+            ![Vampire Nahara Portrait](images/skin_portraits/vampirenahara.png)Vampire Nahara
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 9 (Guess)</span>
@@ -305,7 +305,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Vampire Viconia
+            ![Vampire Viconia Portrait](images/skin_portraits/vampireviconia.png)Vampire Viconia
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Vampire Viconia Skin & Feat Pack</span>
@@ -319,7 +319,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            ![Empty Placeholder](images/general/unknown.png)Devil Wyll
+            ![Devil Wyll Portrait](images/skin_portraits/devilwyll.png)Devil Wyll
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Devil Wyll Skin & Feat Pack</span>
