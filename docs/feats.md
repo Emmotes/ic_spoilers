@@ -257,7 +257,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1896**Make Undead (Viconia)**My vitality is yet another thing lost in the pursuit of the Lady of Loss' goals.<code>add_hero_tags,0,undead<br>buff_upgrade,80,9782,1</code></span>Make Undead
         </span>
         <span class="featTableEffect">
-            <span>Counts as Undead & 80% Animate Dead & ???: [add_hero_tags,0,undead, Viconia counts as Undead, buff_upgrade,80,9782,1, Increases the damage of Viconia's Animate Dead ability by $(amount)%]</span>
+            <span>Counts as Undead & 80% Animate Dead</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
