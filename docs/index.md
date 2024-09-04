@@ -144,6 +144,25 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Stoki
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Gnome Monk</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Simril - 4 December 2024 (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/icon_melee.png)
+        </span>
+    </span>
 </span>
 
 # Timed Misc

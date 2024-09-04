@@ -81,7 +81,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
 </span>
 
-## Descent into Avernus Mixed 5 Variants - 23 October 2024
+## Vecna 4 - 23 October 2024
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -96,6 +96,109 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Vecna: Death House (Adventure)](images/contentdrop_portraits/vecna_deathhouse_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Vecna</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Death House</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Adventure</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Vecna: Death House (Variant 1)](images/contentdrop_portraits/vecna_deathhouse_1.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Vecna</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Death House</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #1</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Vecna: Sacrifice (Adventure)](images/contentdrop_portraits/vecna_sacrifice_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Vecna</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Sacrifice</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Adventure</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Vecna: Sacrifice (Variant 1)](images/contentdrop_portraits/vecna_sacrifice_1.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Vecna</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Sacrifice</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #1</span>
+        </span>
+    </span>
+</span>
+
+## Mixed 15 Variants - 30 October 2024
+
+<span class="contentDropsTableColumn">
+    <span class="contentDropsTableRowHeader">
+        <span class="contentDropsTableIcons">
+            <span style="margin-left:8px;">**Icon**</span>
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">**Campaign**</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">**Adventure Name**</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: Get Back in the Castle (Variant 2)](images/contentdrop_portraits/grandtour_getbackinthecastle_2.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Grand Tour</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Get Back in the Castle</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #2</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: Sanctum of the Sword (Variant 2)](images/contentdrop_portraits/grandtour_sanctumofthesword_2.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Grand Tour</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Sanctum of the Sword</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #2</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -166,53 +269,6 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #3</span>
-        </span>
-    </span>
-</span>
-
-## Mixed 10 Variants - 30 October 2024
-
-<span class="contentDropsTableColumn">
-    <span class="contentDropsTableRowHeader">
-        <span class="contentDropsTableIcons">
-            <span style="margin-left:8px;">**Icon**</span>
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">**Campaign**</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">**Adventure Name**</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">**Type**</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: Get Back in the Castle (Variant 2)](images/contentdrop_portraits/grandtour_getbackinthecastle_2.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Grand Tour</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Get Back in the Castle</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #2</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: Sanctum of the Sword (Variant 2)](images/contentdrop_portraits/grandtour_sanctumofthesword_2.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Grand Tour</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Sanctum of the Sword</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #2</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -329,82 +385,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
 </span>
 
-## Vecna 4 - 27 November 2024
-
-<span class="contentDropsTableColumn">
-    <span class="contentDropsTableRowHeader">
-        <span class="contentDropsTableIcons">
-            <span style="margin-left:8px;">**Icon**</span>
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">**Campaign**</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">**Adventure Name**</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">**Type**</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Vecna: Death House (Adventure)](images/contentdrop_portraits/vecna_deathhouse_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Vecna</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Death House</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Vecna: Death House (Variant 1)](images/contentdrop_portraits/vecna_deathhouse_1.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Vecna</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Death House</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Vecna: Sacrifice (Adventure)](images/contentdrop_portraits/vecna_sacrifice_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Vecna</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Sacrifice</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Vecna: Sacrifice (Variant 1)](images/contentdrop_portraits/vecna_sacrifice_1.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Vecna</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Sacrifice</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-</span>
-
-## Fortune's Wheel 8 - 25 December 2024
+## Fortune's Wheel 8 - 27 November 2024
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
