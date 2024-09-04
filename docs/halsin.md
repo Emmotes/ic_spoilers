@@ -7,7 +7,9 @@
 
 # Halsin
 
-???
+Halsin is the Archdruid of the Emerald Grove and an accomplished healer. Before he went missing, Halsin and his apprentice Nettie were researching the recent spike in illithid tadpole infections.
+
+[Halsin - BG3 Wiki](https://bg3.wiki/wiki/Halsin)
 
 # Basic Information
 
@@ -19,7 +21,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -27,7 +29,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Elf (Wood) (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -35,7 +37,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Druid (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -43,7 +45,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -51,7 +53,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -59,7 +61,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Female (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -67,7 +69,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -75,7 +77,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
 </span>
@@ -91,27 +93,7 @@ Unknown.
 
 # Attacks
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-</div></div>
+Unknown.
 
 # Abilities
 

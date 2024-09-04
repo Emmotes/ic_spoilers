@@ -74,7 +74,7 @@ These are the event champions that are upcoming and all the information we know 
                 Halsin
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> </span>
+                <span class="indexChampionTableNoLink">Elf (Wood) Druid (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Simril - 4 December 2024</span>
