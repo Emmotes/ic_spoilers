@@ -49,7 +49,7 @@ These are the event champions that are upcoming and all the information we know 
                 Minthara
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Drow Paladin (Guess)</span>
+                <span class="indexChampionTableNoLink">Drow Paladin of Absolute Adversaries (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Feast of the Moon - 6 November 2024</span>
@@ -74,7 +74,7 @@ These are the event champions that are upcoming and all the information we know 
                 Halsin
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf (Wood) Druid (Guess)</span>
+                <span class="indexChampionTableNoLink">Elf (Wood) Druid of Absolute Adversaries (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Simril - 4 December 2024</span>

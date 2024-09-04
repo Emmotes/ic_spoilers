@@ -84,7 +84,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Absolute Adversaries (Guess)</span>
         </span>
     </span>
 </span>

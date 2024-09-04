@@ -61,7 +61,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Female (Guess)</span>
+            <span style="margin-left:8px;">Male (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -77,7 +77,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Absolute Adversaries (Guess)</span>
         </span>
     </span>
 </span>
