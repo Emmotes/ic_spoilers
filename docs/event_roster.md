@@ -6,25 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Highharvestide - September
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="stoki" style="background-image:url(images/portraits/stoki.png)">Stoki (4)</span>
-<span class="eventRosterChampion" id="wulfgar" style="background-image:url(images/portraits/wulfgar.png)">Wulfgar (10)</span>
-<span class="eventRosterChampion" id="farideh" style="background-image:url(images/portraits/farideh.png)">Farideh (7)</span>
-<span class="eventRosterChampion" id="pwent" style="background-image:url(images/portraits/pwent.png)">Pwent (5)</span>
-<span class="eventRosterChampion" id="torogar" style="background-image:url(images/portraits/torogar.png)">Torogar (10)</span>
-<span class="eventRosterChampion" id="corazon" style="background-image:url(images/portraits/corazon.png)">Corazón (8)</span>
-<span class="eventRosterChampion" id="dhani" style="background-image:url(images/portraits/dhani.png)">D'hani (1)</span>
-<span class="eventRosterChampion" id="egbert" style="background-image:url(images/portraits/egbert.png)">Egbert (7)</span>
-<span class="eventRosterChampion" id="certainty" style="background-image:url(images/portraits/certainty.png)">Certainty (5)</span>
-<span class="eventRosterChampion" id="bobby" style="background-image:url(images/portraits/bobby.png)">Bobby (12)</span>
-</span>
-
-{:/nomarkdown}
-
 # Liars' Night - October
 
 {::nomarkdown}
@@ -223,6 +204,25 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="valentine" style="background-image:url(images/portraits/valentine.png)">Valentine (5)</span>
 <span class="eventRosterChampion" id="voronika" style="background-image:url(images/portraits/voronika.png)">Voronika (1)</span>
 <span class="eventRosterChampion" id="laezel" style="background-image:url(images/portraits/laezel.png)">Lae'zel (2)</span>
+</span>
+
+{:/nomarkdown}
+
+# Highharvestide - September
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="stoki" style="background-image:url(images/portraits/stoki.png)">Stoki (4)</span>
+<span class="eventRosterChampion" id="wulfgar" style="background-image:url(images/portraits/wulfgar.png)">Wulfgar (10)</span>
+<span class="eventRosterChampion" id="farideh" style="background-image:url(images/portraits/farideh.png)">Farideh (7)</span>
+<span class="eventRosterChampion" id="pwent" style="background-image:url(images/portraits/pwent.png)">Pwent (5)</span>
+<span class="eventRosterChampion" id="torogar" style="background-image:url(images/portraits/torogar.png)">Torogar (10)</span>
+<span class="eventRosterChampion" id="corazon" style="background-image:url(images/portraits/corazon.png)">Corazón (8)</span>
+<span class="eventRosterChampion" id="dhani" style="background-image:url(images/portraits/dhani.png)">D'hani (1)</span>
+<span class="eventRosterChampion" id="egbert" style="background-image:url(images/portraits/egbert.png)">Egbert (7)</span>
+<span class="eventRosterChampion" id="certainty" style="background-image:url(images/portraits/certainty.png)">Certainty (5)</span>
+<span class="eventRosterChampion" id="bobby" style="background-image:url(images/portraits/bobby.png)">Bobby (12)</span>
 </span>
 
 {:/nomarkdown}

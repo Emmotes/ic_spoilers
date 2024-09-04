@@ -13,31 +13,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="bobby.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Bobby Portrait Icon](images/bobby/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Bobby
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Barbarian of Saturday Morning Squad</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Highharvestide - 4 September 2024</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="kas.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -106,7 +81,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Halfling Monk of Acq Inc "C" Team</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Highharvestide - 4 September 2024 (Guess)</span>
+                <span class="indexChampionTableNoLink">Highharvestide - 11 September 2024 (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
