@@ -4623,7 +4623,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft">
-        <label class="cblabel"><input type="checkbox" disabled checked>Until 2032-12-31
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-09-04
     </span>
     <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>

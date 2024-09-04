@@ -11,62 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Harvestguard Bobby Portrait](images/skin_portraits/harvestguardbobby.png)<span class="featTooltipContents">ID: 464**Harvestguard Bobby (Bobby)**</span></span>Harvestguard Bobby
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Harvestguard Bobby Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">04 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Harvestguard D'hani Portrait](images/skin_portraits/harvestguarddhani.png)<span class="featTooltipContents">ID: 466**Harvestguard D'hani (D'hani)**</span></span>Harvestguard D'hani
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Harvestguard D'hani Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">04 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Harvestguard Presto Portrait](images/skin_portraits/harvestguardpresto.png)<span class="featTooltipContents">ID: 478**Harvestguard Presto (Presto)**</span></span>Harvestguard Presto
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Anniversary Celebration</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">04 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Mind Flayer Minsc Portrait](images/skin_portraits/mindflayerminsc.png)<span class="featTooltipContents">ID: 463**Mind Flayer Minsc (Minsc)**</span></span>Mind Flayer Minsc
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Founder's Pack VII</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$19.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">04 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Harvestguard Rosie Portrait](images/skin_portraits/harvestguardrosie.png)<span class="featTooltipContents">ID: 465**Harvestguard Rosie (Rosie)**</span></span>Harvestguard Rosie
         </span>
         <span class="skinTableSource">
@@ -329,6 +273,48 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">30 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 483**Mizora's Pawn Wyll (Wyll)**</span></span>Mizora's Pawn Wyll
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 485**Classic Kas (Kas)**</span></span>Classic Kas
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Goblin Calliope Portrait](images/skin_portraits/goblincalliope.png)<span class="featTooltipContents">ID: 484**Goblin Calliope (Calliope)**</span></span>Goblin Calliope
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
 </span>

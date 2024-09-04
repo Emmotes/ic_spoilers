@@ -5,62 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Founder's Pack VII - $19.99  
-Date of release: 04 Sept 2024
-
-> Get an INCREDIBLE deal to gear up and start your adventures in the Forgotten Realms quickly!
-
-Contents:
-
-* Skin: `Mind Flayer Minsc`
-* Familiar: `Armored Boo`
-* Chests: `Gold Chest (Guess)` x42 (Shinies x5)
-* Buff: `Epic Golden Potion` x1
-* Buff: `Potion of the Gem Hunter` x1
-* Buff: `Huge Potion of Fire Breath` x2
-* Buff: `Huge Potion of Clairvoyance` x2
-* Buff: `Huge Potion of Giant's Strength` x2
-* Buff: `Large Blacksmithing Contract` x2
-* Buff: `Large Bounty Contract` x2
-* Gems: x5,000
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Harvestguard Bobby Theme Pack - $27.99  
-Date of release: 04 Sept 2024
-
-> Unlock Bobby along with an exclusive Harvestguard Skin & Familiar!
-
-Contents:
-
-* Champion: `Bobby`
-* Skin: `Harvestguard Bobby`
-* Feat: `Lead the Unicorns` (Bobby)
-* Familiar: `Scarecrow Uni`
-* Chests: `Gold Bobby Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Harvestguard D'hani Skin & Feat Pack - $11.99  
-Date of release: 04 Sept 2024
-
-> Unlock D'hani along with her exclusive Harvestguard Skin & Feat!
-
-Contents:
-
-* Champion: `D'hani`
-* Skin: `Harvestguard D'hani`
-* Feat: `Fresh Pigments` (D'hani)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold D'hani Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Harvestguard Rosie Theme Pack - $27.99  
 Date of release: 11 Sept 2024
 
@@ -194,6 +138,21 @@ Contents:
 * Buff: `Potion of the Gold Hunter` x1
 * Modron: `Upgrade Components` x2,000
 * Buff: `Potion of Polish` x1
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+### Avatar of Leira Familiar Pack - $11.99  
+Date of release: 02 Oct 2024
+
+> Collect your own Mirror Shade Familiar!
+
+Contents:
+
+* Familiar: `Mirror Shade`
+* Buff: `Potion of the Hunter` x1
+* Buff: `Epic Golden Potion` x1
+* Buff: `Huge Potion of Speed` x2
 </div></div>
 
 

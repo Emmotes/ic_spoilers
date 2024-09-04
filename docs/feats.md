@@ -30,57 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Bobby</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Lead the Unicorns Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1907**Lead the Unicorns (Bobby)**FOR UNI!<code>buff_upgrade,80,15443,0</code></span>Lead the Unicorns
-        </span>
-        <span class="featTableEffect">
-            <span>80% Charge Into Battle (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>04 Sept 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>D'hani</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Fresh Pigments Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1614**Fresh Pigments (D'hani)**We need more yellow? Oh, that's fine - I've got red and green!<code>buff_upgrade,80,13713,0</code></span>Fresh Pigments
-        </span>
-        <span class="featTableEffect">
-            <span>80% Chance to Apply Splash of Yellow</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>04 Sept 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Room to Breathe Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1895**Room to Breathe (Presto)**You three take on Tiamat and I'll see what I can do from over here!<code>buff_upgrade,80,13762</code></span>Room to Breathe
-        </span>
-        <span class="featTableEffect">
-            <span>80% Hesitant Helper</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>04 Sept 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Wulfgar</span>
         </span>
         <span class="featTableIcon4">
@@ -254,10 +203,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Desmond</span>
         </span>
         <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1954**Prodigal Leader (Desmond)**When I lead, you should follow.</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1954**Prodigal Leader (Desmond)**When I lead, you should follow.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -305,10 +254,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Viconia</span>
         </span>
         <span class="featTableIcon4">
-            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1896**Make Undead (Viconia)**My vitality is yet another thing lost in the pursuit of the Lady of Loss' goals.<code>todo<br>DevNote: new effect [Viconia counts as a 'undead' (gains the undead tag) and the effect of Animate Dead is increased by 80%]</code></span>Make Undead
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1896**Make Undead (Viconia)**My vitality is yet another thing lost in the pursuit of the Lady of Loss' goals.<code>add_hero_tags,0,undead<br>buff_upgrade,80,9782,1</code></span>Make Undead
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Counts as Undead & 80% Animate Dead & ???: [add_hero_tags,0,undead, Viconia counts as Undead, buff_upgrade,80,9782,1, Increases the damage of Viconia's Animate Dead ability by $(amount)%]</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -373,10 +322,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Wyll</span>
         </span>
         <span class="featTableIcon4">
-            ![Mizora's Pawn Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1897**Mizora's Pawn (Wyll)**'Quite the handsome devil, if I do say so.' ~ Mizora<code>todo<br>DevNote: new effect [Wyll counts as a 'tiefling' (gains the tiefling tag) and the effect of Folk Hero is increased by 80%]</code></span>Mizora's Pawn
+            ![Mizora's Pawn Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1897**Mizora's Pawn (Wyll)**'Quite the handsome devil, if I do say so.' ~ Mizora<code>add_hero_tags,0,tiefling<br>buff_upgrade,80,13429</code></span>Mizora's Pawn
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Counts as Tiefling & 80% Folk Hero (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
