@@ -295,7 +295,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![Unknown or Missing Image](images/general/unknown.png)**7th Anniversary Giveaway** - Anniversary Celebration 2024
+                ![7th Anniversary Giveaway Anniversary Celebration 2024 Icon](images/general/7th anniversary.png)**7th Anniversary Giveaway** - Anniversary Celebration 2024
             </span>
         </span>
         <span id="g4" class="postSeasonTableRowShowHide" hidden>
