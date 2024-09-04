@@ -146,7 +146,7 @@ A list of champions that will be seeing reworks in upcoming events.
 {:/nomarkdown}
     <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
-            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+            ![Stoki Portrait Icon](images/stoki/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
