@@ -102,7 +102,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Icon](images/general/unknown.png)<span class="itemTooltipContents">ID: 677**Vampire Emergence Chest**Loot for: Widdle, Nahara, Kas, Krux, Voronika and Ellywick<code>"for_crusaders":[91,102,153,136,104,83]</code></span></span>
+            <span class="tooltipHolder">![Unknown Chest Icon](images/general/unknown.png)<span class="itemTooltipContents">ID: 677**Vampire Emergence Chest**Loot for: Ellywick, Widdle, Nahara, Voronika, Krux and Kas<code>"for_crusaders":[83,91,102,104,136,153]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
@@ -111,7 +111,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
 </span>
 
-The Vampire Emergence Chest will contain loot for Widdle, Nahara, Kas, Krux, Voronika and Ellywick.
+The Vampire Emergence Chest will contain loot for Ellywick, Widdle, Nahara, Voronika, Krux and Kas.
 
 {% comment %}
 # Emergence FAQ
