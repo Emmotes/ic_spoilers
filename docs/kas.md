@@ -138,9 +138,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Rise, Fallen Soldier!**
 > Kas summons two specters that move towards enemies, dealing ultimate damage each second for 15 seconds.  
-> Cooldown: 3s (Cap 0.75s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 400s (Cap 100s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -154,7 +152,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 0.033,
-    "cooldown": 3,
+    "cooldown": 400,
     "animations": [
         {
             "type": "ultimate_attack",
@@ -271,7 +269,8 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
         {
             "effect_string": "expression_on_trigger,area_complete",
             "per_trigger_expr": "{AppendToSaveStat(`kas_mortal_pawn_stacks`, true, trigger_count*as_int(per_hero_count)) AppendToSaveStat(`kas_mortal_pawn_stacks_all_time`, false, trigger_count*as_int(per_hero_count))}",
-            "per_hero_expr": "!HasEffect(`vampire_spawn`)"
+            "per_hero_expr": "!HasEffect(`vampire_spawn`)",
+            "off_when_benched": true
         },
         {
             "effect_string": "pre_stack,1",
@@ -290,7 +289,8 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
                 "slot_changed",
                 "area_changed",
                 "hero_appears_dead"
-            ]
+            ],
+            "off_when_benched": true
         },
         {
             "effect_string": "abcd,100",
@@ -346,6 +346,19 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
                     ]
                 }
             ]
+        },
+        {
+            "effect_string": "for_incoming_desc,100",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "is_undead"
+                }
+            ],
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -354,7 +367,8 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "use_outgoing_description": true
     }
 }
 </pre>
@@ -382,7 +396,9 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
             "vampire_spawn_effect_name": "vampire_spawn",
             "vampire_spawn_effect": {
                 "effect_string": "vampire_spawn"
-            }
+            },
+            "vampire_spawn_effect_id": 2113,
+            "off_when_benched": true
         },
         {
             "effect_string": "pre_stack,100",
@@ -422,7 +438,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unlock Ultimate** (Guess)
-> Kas magically summons two Specters for 15 seconds. For the duration, the Specters move towards enemies at a medium rate and deal ultimate damage every second to enemies near them.
+> Unlocks Kas' Rise, Fallen Soldier! Ultimate Attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -430,7 +446,7 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
     "id": 2088,
     "flavour_text": "",
     "description": {
-        "desc": "Kas magically summons two Specters for 15 seconds. For the duration, the Specters move towards enemies at a medium rate and deal ultimate damage every second to enemies near them."
+        "desc": "Unlocks Kas' Rise, Fallen Soldier! Ultimate Attack"
     },
     "effect_keys": [
         {
@@ -445,15 +461,16 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
             }
         },
         {
-            "effect_string": "set_ultimate_attack"
+            "effect_string": "set_ultimate_attack",
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
     "graphic_id": 24585,
     "large_graphic_id": 24585,
     "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
+        "is_formation_ability": false,
+        "owner_use_outgoing_description": false,
         "formation_circle_icon": false
     }
 }
@@ -495,7 +512,8 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
                 "slot_changed",
                 "feat_changed",
                 "hero_tags_changed"
-            ]
+            ],
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -596,15 +614,16 @@ Kas will be a new champion in the Liars' Night event on 2 October 2024.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 24581,
+    "large_graphic_id": 24581,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "type": "not_buffable_by_nrakk"
     }
 }
 </pre>
