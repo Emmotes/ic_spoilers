@@ -12,7 +12,7 @@ Weighing in at just under 30 pounds and with a grandmotherly demeanor befitting 
 
 # Changes
 
-Rosie is potentially a reworked champion in the Highharvestide event on 4 September 2024.
+Rosie will be a reworked champion in the Highharvestide event on 4 September 2024.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
