@@ -57,6 +57,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="yorven" style="background-image:url(images/portraits/yorven.png)">Yorven (10)</span>
 <span class="eventRosterChampion" id="warduke" style="background-image:url(images/portraits/warduke.png)">Warduke (8)</span>
 <span class="eventRosterChampion" id="shadowheart" style="background-image:url(images/portraits/shadowheart.png)">Shadowheart (6)</span>
+<span class="eventRosterChampion" id="halsin" style="background-image:url(images/general/unknown.png)">Halsin</span>
 </span>
 
 {:/nomarkdown}
