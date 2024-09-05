@@ -31,7 +31,7 @@ These are the event champions that are upcoming and all the information we know 
             </span>
         </span>
         <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/icon_melee.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
@@ -56,7 +56,7 @@ These are the event champions that are upcoming and all the information we know 
             </span>
         </span>
         <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/icon_melee.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
@@ -110,7 +110,7 @@ A list of champions that will be seeing reworks in upcoming events.
             </span>
         </span>
         <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/icon_melee.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
@@ -135,7 +135,7 @@ A list of champions that will be seeing reworks in upcoming events.
             </span>
         </span>
         <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/icon_magic.png)
+            ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
 {::nomarkdown}
@@ -160,7 +160,7 @@ A list of champions that will be seeing reworks in upcoming events.
             </span>
         </span>
         <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/icon_melee.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
@@ -182,7 +182,7 @@ A list of champions that will be seeing reworks in upcoming events.
             </span>
         </span>
         <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/icon_melee.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 </span>
