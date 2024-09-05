@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-# Archive
+# Archive of Old Spoilers
 
 A list of recently archived spoilers. Note that I delete archives older than 6 months to avoid bloat.
 
