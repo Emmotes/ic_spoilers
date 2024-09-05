@@ -205,7 +205,7 @@ Miscellaneous spoilers.
 * [Premium Packs and DLC](premium.md)
 * [Content Drops](contentdrops.md)
 * [Weekends](weekends.md)
-* [Archive of Old Spoilers]({{ site.github.owner_url }}/ic_spoilers/tree/main/docs/archive)
+* [Archive of Old Spoilers](archive.md)
 
 [Back to Top](#top)
 
