@@ -311,7 +311,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Allowed in all Avernus Patrons</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Variant</span>
         </span>
         <span class="featTableDate">
             <span>30 Oct 2024</span>
