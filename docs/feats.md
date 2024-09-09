@@ -226,7 +226,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Always draws at least 1 Gems card.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 9</span>
         </span>
         <span class="featTableDate">
             <span>23 Oct 2024</span>
@@ -277,7 +277,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
-            <span>???: {premium=600}</span>
+            <span>Emergence 9</span>
         </span>
         <span class="featTableDate">
             <span>23 Oct 2024</span>
