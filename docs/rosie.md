@@ -305,8 +305,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 5208,
+    "large_graphic_id": 5208,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -363,8 +363,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 5207,
+    "large_graphic_id": 5207,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -413,8 +413,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 5210,
+    "large_graphic_id": 5210,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -448,8 +448,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 5206,
+    "large_graphic_id": 5206,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -503,8 +503,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 5209,
+    "large_graphic_id": 5209,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -867,7 +867,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Beestingers Unleashed Icon](images/rosie/5191.png) **Variant 3: Beestingers Unleashed** (Complete Area 175)
-> Only Strix and Rosie can be used. Their attack and ultimate cooldowns are greatly reduced. Their damage is increased in each area. Deflect Missiles has no cooldown. This variant contains unique dialog!
+> Rosie starts in your formation. She can be moved, but not removed. You may only use Rosie on this adventure.  
+> A Strix escort starts in your formation. The Strix escort attacks the nearest enemy every 3 seconds with a fireball that deals 10 seconds of BUD damage in a small area.  
+> Rosie's attack speed is increased by 300%, her ultimate attack cooldown is reduced to 45 seconds, and her ultimate root now lasts for 15 seconds.  
+> Rosie deals 40% additional damage, starting in area 2 and increasing by another 40% each area, stacking multiplicatively.
 </div></div>
 
 # Formation
