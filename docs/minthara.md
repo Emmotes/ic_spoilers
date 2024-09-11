@@ -113,7 +113,7 @@ Unknown.
     "description": "Minthara dashes toward the healthiest enemy and damages nearby foes with a swing of her maces.",
     "long_description": "Minthara moves up to the enemy with the highest remaining health percentage and attacks with her maces dealing one hit to all nearby enemies.",
     "graphic_id": 0,
-    "target": "highest_health",
+    "target": "front",
     "num_targets": 1,
     "aoe_radius": 100,
     "damage_modifier": 1,
@@ -155,7 +155,7 @@ Unknown.
     "name": "Spider's Lyre",
     "description": "A summoned Drider attacks all enemies, potentially completing the current area.",
     "long_description": "Minthara summons Kar'niss the Drider to attack all enemies. In a non-boss area, the Champions advance to the next area if no enemies remain after the attack.",
-    "graphic_id": 0,
+    "graphic_id": 24887,
     "target": "front",
     "num_targets": 1,
     "aoe_radius": 0,
@@ -164,11 +164,12 @@ Unknown.
     "animations": [
         {
             "type": "ultimate_attack",
-            "ultimate": "kas"
+            "ultimate": "minthara"
         }
     ],
     "tags": [
-        "melee"
+        "melee",
+        "ultimate"
     ],
     "damage_types": [
         "melee"
@@ -184,8 +185,6 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Noble of Menzoberranzan** (Guess)
 > Minthara gains a Strife stack for each Evil Champion in the formation, including herself. Minthara increases the damage of these Champions by 100% for each Strife stack, stacking multiplicatively.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -234,7 +233,7 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -311,7 +310,7 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
+        "default_bonus_index": 3,
         "retain_on_slot_changed": true
     }
 }
@@ -332,7 +331,7 @@ Unknown.
     "id": 2117,
     "flavour_text": "",
     "description": {
-        "desc": "When Minthara damages an enemy, they take 100% additional damage from all subsequent attacks, stacking multiplicatively up to the number of Strife stacks Minthara has."
+        "desc": "When Minthara damages an enemy, they take $(amount)% additional damage from all subsequent attacks, stacking multiplicatively up to the number of Strife stacks Minthara has."
     },
     "effect_keys": [
         {
@@ -349,18 +348,21 @@ Unknown.
             ],
             "debuff_effects": [
                 {
-                    "effect_string": "increase_monster_damage,0",
+                    "effect_string": "minthara_increase_monster_damage,0",
                     "amount_expr": "upgrade_amount(15944,0)",
                     "is_minthara_debuff": true,
-                    "active_graphic_id": 23961,
+                    "active_graphic_id": 24888,
                     "active_graphic_y": -120,
                     "use_stack_as_frame": true,
+                    "use_stack_as_alpha": true,
+                    "min_stack_alpha": 0.4,
+                    "pre_max_stack_alpha": 0.8,
                     "stack_as_frame_offset": 0,
                     "overlay_play_mode": "stopped",
                     "bottom": false,
                     "stacks_on_reapply": true,
                     "manual_stacking": true,
-                    "max_stacks": 0,
+                    "max_stacks": 5,
                     "stacks_multiply": true,
                     "use_collection_source": false,
                     "stack_across_effects": false
@@ -389,10 +391,10 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Oath of Vengeance** (Guess)
 > Minthara provides benefits based on the number of Strife stacks she has.  
-> 3+ Strife stacks: Unyielding: Minthara increases her health by 300% for each Strife stack she has, stacking additively.  
+> 3+ Strife stacks: Unyielding: Minthara increases her health by 10% for each Strife stack she has, stacking additively.  
 > 5+ Strife stacks: Piercing: Monsters affected by at least two Soul Branding stacks lose an additional armor or segmented health piece when they are attacked.  
 > 7+ Strife stacks: Scarring: When Minthara damages an enemy, she immediately applies the maximum possible number of Soul Branding stacks.  
-> 9+ Strife stacks: Nobility: Increase the base value of Noble of Menzoberranzan by 300.
+> 9+ Strife stacks: Nobility: Increase the base value of Noble of Menzoberranzan by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -400,7 +402,7 @@ Unknown.
     "id": 2118,
     "flavour_text": "",
     "description": {
-        "desc": "Minthara provides benefits based on the number of Strife stacks she has.^3+ Strife stacks: Unyielding: Minthara increases her health by $(amount___2)% for each Strife stack she has, stacking additively.^5+ Strife stacks: Piercing: Monsters affected by at least two Soul Branding stacks lose an additional armor or segmented health piece when they are attacked.^7+ Strife stacks: Scarring: When Minthara damages an enemy, she immediately applies the maximum possible number of Soul Branding stacks.^9+ Strife stacks: Nobility: Increase the base value of Noble of Menzoberranzan by $(amount___5)."
+        "desc": "Minthara provides benefits based on the number of Strife stacks she has.^3+ Strife stacks: Unyielding: Minthara increases her health by $(amount___2)% for each Strife stack she has, stacking additively.^5+ Strife stacks: Piercing: Monsters affected by at least two Soul Branding stacks lose an additional armor or segmented health piece when they are attacked.^7+ Strife stacks: Scarring: When Minthara damages an enemy, she immediately applies the maximum possible number of Soul Branding stacks.^9+ Strife stacks: Nobility: Increase the base value of Noble of Menzoberranzan by $(amount___5)%."
     },
     "effect_keys": [
         {
@@ -430,72 +432,44 @@ Unknown.
             "active_effect_key_description_joiner": "^"
         },
         {
+            "effect_string": "health_mult,10",
             "apply_manually": true,
-            "effect_string": "reduce_attack_cooldown,0.5",
-            "targets": [
-                "all"
-            ],
-            "filter_targets": [
-                {
-                    "type": "hero_expr",
-                    "hero_expr": "HasTag(`evil`)"
-                }
-            ],
-            "off_when_benched": true
-        },
-        {
-            "apply_manually": true,
-            "effect_string": "buff_positional_formation_abilities_per_crusader,25",
-            "targets": [
-                {
-                    "type": "attack_type",
-                    "attack": "magic"
-                }
-            ],
-            "target_filters": [
-                {
-                    "type": "attack_type",
-                    "attack": "magic"
-                }
-            ],
-            "amount_updated_listeners": [
-                "attack_changed"
-            ],
             "off_when_benched": true,
-            "override_key_desc": "Increases the potency of $target's Formation Abilities by $amount% for each Champion with a magical base attack.",
-            "use_computed_amount_for_description": true,
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`evil`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "override_key_desc": "Minthara increases her health by 10% for each Strife stack she has, stacking additively.",
             "show_bonus": false,
             "show_stacks": false
         },
         {
+            "effect_string": "increase_damage_against_monster_armor_and_hits,1",
             "apply_manually": true,
-            "effect_string": "add_monster_hit_effects,100",
-            "reqs": [
-                "base_attack"
-            ],
-            "apply_last": true,
-            "target_hero": true,
-            "chance": 50,
-            "monster_effect": {
-                "effect_string": "reduce_base_attack_cooldown_by_percent_action,$amount"
-            },
-            "targets": [
-                {
-                    "type": "attack_type",
-                    "attack": "magic"
-                }
-            ],
             "off_when_benched": true,
-            "override_key_desc": "After $target attacks with their Base Attack, $target has $(chance)% to refresh that attack's Cooldown."
+            "monster_has_effect_key": "minthara_increase_monster_damage",
+            "required_stacks": 2,
+            "targets": [
+                "all"
+            ],
+            "override_key_desc": "Monsters affected by at least two Soul Branding stacks lose an additional armor or segmented health piece when they are attacked."
         },
         {
+            "effect_string": "minthara_apply_max_stacks",
             "apply_manually": true,
-            "effect_string": "change_upgrade_data,4346,0",
-            "data": {
-                "amount": 300
-            },
             "off_when_benched": true,
-            "override_key_desc": "Increases the base value of Spellcaster School by 200%"
+            "override_key_desc": "When Minthara damages an enemy, she immediately applies the maximum possible number of Soul Branding stacks.",
+            "show_bonus": false,
+            "show_stacks": false
+        },
+        {
+            "effect_string": "buff_upgrade,400,15942,0",
+            "apply_manually": true,
+            "off_when_benched": true,
+            "override_key_desc": "Increase the base value of Noble of Menzoberranzan by 400%."
         }
     ],
     "requirements": "",
@@ -504,7 +478,7 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true,
+        "owner_use_outgoing_description": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -531,7 +505,53 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "change_upgrade_data,15942,1",
+            "data": {
+                "filter_targets": [
+                    {
+                        "type": "hero_expr",
+                        "hero_expr": "!HasTag(`good`)"
+                    }
+                ]
+            },
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "change_upgrade_data,15942,1",
+            "data": {
+                "per_hero_expr": "!HasTag(`good`)"
+            },
+            "off_when_benched": true,
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "change_upgrade_data,15944,1",
+            "data": {
+                "max_stack_expression": "!HasTag(`good`)"
+            },
+            "off_when_benched": true,
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "change_upgrade_data,15945,0",
+            "data": {
+                "target_filters": [
+                    {
+                        "type": "tags",
+                        "tags": "!evil"
+                    }
+                ]
+            },
+            "off_when_benched": true,
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "change_upgrade_data,15945,1",
+            "data": {
+                "per_hero_expr": "!HasTag(`good`)"
+            },
+            "off_when_benched": true,
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
@@ -565,7 +585,12 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "off_when_benched": true,
+            "outgoing_buffs": false,
+            "effect_string": "minthara_ceremorphosis_stacks,2",
+            "manual_stacking": true,
+            "stacks_multiply": false,
+            "desc_forced_order": 1
         }
     ],
     "requirements": "",
@@ -596,7 +621,7 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "minthara_multiply_max_stacks,100"
         }
     ],
     "requirements": "",
@@ -689,16 +714,23 @@ Unknown.
 > Pay respects to the heroes of olde during the Feast of the Moon.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: TBD** (Complete Area 75)
-> 
+![Ex-True Soul of the Absolute Icon](images/minthara/24859.png) **Variant 1: Ex-True Soul of the Absolute** (Complete Area 75)
+> Minthara starts in the formation. She can be moved, but not removed.  
+> You may only use Evil and/or Neutral Champions.  
+> Getting to know Minthara: Minthara works well with Evil Champions, and a specialization choice extends that to include Neutral Champions.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: TBD** (Complete Area 125)
-> 
+![Moonrise Escape Icon](images/minthara/24860.png) **Variant 2: Moonrise Escape** (Complete Area 125)
+> Minthara starts in the formation. She can be moved, but not removed.  
+> You may not use tanking Champions other than Minthara.  
+> One Zealot of the Absolute with 8 armored health spawns with each wave. They don't drop gold nor count towards quest progress.  
+> Getting to know Minthara: Minthara is a Tanking Champion that can help cut through enemies with armored or segmented health. Increase her Strife stacks to 5 or more to make it even easier!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: TBD** (Complete Area 175)
-> 
+![Brand Value Icon](images/minthara/24861.png) **Variant 3: Brand Value** (Complete Area 175)
+> Minthara starts in the formation with her Soul Branding ability unlocked. She can be moved, but not removed.  
+> Enemies that don't have an active debuff reduce all normal attack damage to just 1 point of damage.  
+> Getting to know Minthara: Minthara debuffs enemies with each attack. Use her and other debuffing Champions to cut through these pesky foes!
 </div></div>
 
 # Other Champion Images
