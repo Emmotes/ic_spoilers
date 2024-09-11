@@ -1377,7 +1377,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft">
-        <label class="cblabel"><input type="checkbox" disabled>
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
     </span>
     <span class="patronRosterItem">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft">
@@ -1385,11 +1385,11 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft">
-        <label class="cblabel"><input type="checkbox" disabled>
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
     </span>
     <span class="patronRosterItem">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft">
-        <label class="cblabel"><input type="checkbox" disabled>
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-09-11
     </span>
     <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
