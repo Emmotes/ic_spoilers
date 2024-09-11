@@ -30,6 +30,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Rosie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![G-Ma Workout Routine Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1922**G-Ma Workout Routine (Rosie)**Oh, you think you can handle the big kid weights? All right, try to keep up!<code>buff_upgrade,100,15612,1</code></span>G-Ma Workout Routine
+        </span>
+        <span class="featTableEffect">
+            <span>100% Grandma-Bod</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Sept 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Wulfgar</span>
         </span>
         <span class="featTableIcon4">
@@ -460,6 +477,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>10 Nov 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Rosie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Way of the Shadow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1918**Way of the Shadow (Rosie)**The Way of the Shadow knows!<code>reduce_upgrade_every_num_attacks,1,15608</code></span>Way of the Shadow
+        </span>
+        <span class="featTableEffect">
+            <span>-1 Attacks Req for Shadow Arts</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">

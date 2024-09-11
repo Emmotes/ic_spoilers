@@ -14,7 +14,7 @@ Contents:
 
 * Champion: `Rosie Beestinger`
 * Skin: `Harvestguard Rosie`
-* Feat: ???
+* Feat: `G-Ma Workout Routine` (Rosie)
 * Familiar: `Sebastian the Lizard`
 * Chests: `Gold Rosie Chest` x16 (Shinies x2)
 * Buff: `Potion of the Gem Hunter` x1

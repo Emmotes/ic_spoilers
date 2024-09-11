@@ -193,7 +193,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 480**Werebear Donaar (Donaar)**</span></span>Werebear Donaar
+            <span class="tooltipHolder" style="width:max-content">![Werebear Donaar Portrait](images/skin_portraits/werebeardonaar.png)<span class="featTooltipContents">ID: 480**Werebear Donaar (Donaar)**</span></span>Werebear Donaar
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Werebear Donaar Skin & Feat Pack</span>
@@ -291,7 +291,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 485**Classic Kas (Kas)**</span></span>Classic Kas
+            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 486**Classic Kas (Kas)**</span></span>Classic Kas
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -305,7 +305,21 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Goblin Calliope Portrait](images/skin_portraits/goblincalliope.png)<span class="featTooltipContents">ID: 484**Goblin Calliope (Calliope)**</span></span>Goblin Calliope
+            <span class="tooltipHolder" style="width:max-content">![Goblin Calliope Portrait](images/skin_portraits/goblincalliope.png)<span class="featTooltipContents">ID: 485**Goblin Calliope (Calliope)**</span></span>Goblin Calliope
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 484**Herald of the Absolute Minthara (Minthara)**</span></span>Herald of the Absolute Minthara
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
