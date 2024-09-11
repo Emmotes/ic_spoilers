@@ -92,31 +92,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="rosie.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Rosie Beestinger Portrait Icon](images/rosie/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Rosie
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Halfling Monk of Acq Inc "C" Team</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Highharvestide - 11 September 2024</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="voronika.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">

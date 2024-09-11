@@ -20,6 +20,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Elminster's Variants](archive/patron_5_variants.md)
 * [Penelope](archive/penelope.md)
 * [Duke Ravengard](archive/ravengard.md)
+* [Rosie](archive/rosie.md)
 * [Rust](archive/rust.md)
 * [Umberto Thornheart](archive/umberto.md)
 * [Wren](archive/wren.md)
