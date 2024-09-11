@@ -487,7 +487,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Way of the Shadow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1918**Way of the Shadow (Rosie)**The Way of the Shadow knows!<code>reduce_upgrade_every_num_attacks,1,15608</code></span>Way of the Shadow
         </span>
         <span class="featTableEffect">
-            <span>-1 Attacks Req for Shadow Arts</span>
+            <span>-1 Attack Req for Shadow Arts</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
