@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Harvestguard Rosie Portrait](images/skin_portraits/harvestguardrosie.png)<span class="featTooltipContents">ID: 465**Harvestguard Rosie (Rosie)**</span></span>Harvestguard Rosie
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Harvestguard Rosie Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">11 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Harvestguard Wulfgar Portrait](images/skin_portraits/harvestguardwulfgar.png)<span class="featTooltipContents">ID: 467**Harvestguard Wulfgar (Wulfgar)**</span></span>Harvestguard Wulfgar
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Harvestguard Wulfgar Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">11 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Harvestguard Certainty Portrait](images/skin_portraits/harvestguardcertainty.png)<span class="featTooltipContents">ID: 468**Harvestguard Certainty (Certainty)**</span></span>Harvestguard Certainty
         </span>
         <span class="skinTableSource">

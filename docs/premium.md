@@ -5,40 +5,6 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Harvestguard Rosie Theme Pack - $27.99  
-Date of release: 11 Sept 2024
-
-> Unlock Rosie along with an exclusive Harvestguard Skin & Familiar!
-
-Contents:
-
-* Champion: `Rosie Beestinger`
-* Skin: `Harvestguard Rosie`
-* Feat: `G-Ma Workout Routine` (Rosie)
-* Familiar: `Sebastian the Lizard`
-* Chests: `Gold Rosie Chest` x16 (Shinies x2)
-* Buff: `Potion of the Gem Hunter` x1
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Harvestguard Wulfgar Skin & Feat Pack - $11.99  
-Date of release: 11 Sept 2024
-
-> Unlock Wulfgar along with his exclusive Harvestguard Skin & Feat!
-
-Contents:
-
-* Champion: `Wulfgar, son of Beornegar`
-* Skin: `Harvestguard Wulfgar`
-* Feat: `Prodigal Leader` (Wulfgar)
-* Buff: `Large Blacksmithing Contract` x6
-* Buff: `Large Bounty Contract` x6
-* Chests: `Gold Wulfgar Chest` x7 (Shinies x1)
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Fritz the Red Fox Familiar Pack - $11.99  
 Date of release: 16 Sept 2024
 

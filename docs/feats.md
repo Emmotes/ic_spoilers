@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Rosie</span>
-        </span>
-        <span class="featTableIcon4">
-            ![G-Ma Workout Routine Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1922**G-Ma Workout Routine (Rosie)**Oh, you think you can handle the big kid weights? All right, try to keep up!<code>buff_upgrade,100,15612,1</code></span>G-Ma Workout Routine
-        </span>
-        <span class="featTableEffect">
-            <span>100% Grandma-Bod</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>11 Sept 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Wulfgar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1871**Prodigal Leader (Wulfgar)**We are NOT done yet! This battle is far from over!<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>11 Sept 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Certainty</span>
         </span>
         <span class="featTableIcon4">
