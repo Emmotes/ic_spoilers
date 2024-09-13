@@ -44,7 +44,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Nosferatu Widdle Skin Portrait](images/emergence_9/skin_461.png)<span class="itemTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**Model gif does not currently exist.</span></span>
+            <span class="tooltipHolder">![Nosferatu Widdle Skin Portrait](images/emergence_9/skin_461.png)<span class="itemTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -53,7 +53,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Vampire Nahara Skin Portrait](images/emergence_9/skin_462.png)<span class="itemTooltipContents">ID: 462**Vampire Nahara (Nahara)**Model gif does not currently exist.</span></span>
+            <span class="tooltipHolder">![Vampire Nahara Skin Portrait](images/emergence_9/skin_462.png)<span class="itemTooltipContents">ID: 462**Vampire Nahara (Nahara)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
