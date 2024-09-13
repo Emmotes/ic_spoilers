@@ -177,6 +177,7 @@ Miscellaneous spoilers.
 * [Patron Roster](patron_roster.md)
 * [Feats](feats.md)
 * [Skins](skins.md)
+* [Familiars](familiars.md)
 * [Premium Packs and DLC](premium.md)
 * [Content Drops](contentdrops.md)
 * [Weekends](weekends.md)

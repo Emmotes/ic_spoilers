@@ -11,7 +11,7 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Harvestguard Certainty Portrait](images/skin_portraits/harvestguardcertainty.png)<span class="featTooltipContents">ID: 468**Harvestguard Certainty (Certainty)**</span></span>Harvestguard Certainty
+            <span class="tooltipHolder" style="width:max-content">![Harvestguard Certainty Portrait](images/skin_portraits/harvestguardcertainty.png)<span class="featTooltipContents">ID: 468**Harvestguard Certainty (Certainty)**<img src="images/skin_models/harvestguardcertainty.gif" alt="Harvestguard Certainty Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Harvestguard Certainty
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Certainty Skin & Feat Pack</span>
@@ -25,7 +25,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Harvestguard Farideh Portrait](images/skin_portraits/harvestguardfarideh.png)<span class="featTooltipContents">ID: 469**Harvestguard Farideh (Farideh)**</span></span>Harvestguard Farideh
+            <span class="tooltipHolder" style="width:max-content">![Harvestguard Farideh Portrait](images/skin_portraits/harvestguardfarideh.png)<span class="featTooltipContents">ID: 469**Harvestguard Farideh (Farideh)**<img src="images/skin_models/harvestguardfarideh.gif" alt="Harvestguard Farideh Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Harvestguard Farideh
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Farideh Skin & Feat Pack</span>
@@ -39,7 +39,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Chibi Gale Portrait](images/skin_portraits/chibigale.png)<span class="featTooltipContents">ID: 470**Chibi Gale (Gale)**</span></span>Chibi Gale
+            <span class="tooltipHolder" style="width:max-content">![Chibi Gale Portrait](images/skin_portraits/chibigale.png)<span class="featTooltipContents">ID: 470**Chibi Gale (Gale)**<img src="images/skin_models/chibigale.gif" alt="Chibi Gale Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Chibi Gale
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Chibi Gale Skin & Feat Pack</span>
@@ -53,7 +53,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Plushie BBEG Portrait](images/skin_portraits/plushiebbeg.png)<span class="featTooltipContents">ID: 471**Plushie BBEG (BBEG)**</span></span>Plushie BBEG
+            <span class="tooltipHolder" style="width:max-content">![Plushie BBEG Portrait](images/skin_portraits/plushiebbeg.png)<span class="featTooltipContents">ID: 471**Plushie BBEG (BBEG)**<img src="images/skin_models/plushiebbeg.gif" alt="Plushie BBEG Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Plushie BBEG
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Plushie BBEG Skin & Feat Pack</span>
@@ -67,7 +67,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)<span class="featTooltipContents">ID: 442**Baldur's Gate Duke Ravengard (Ravengard)**</span></span>Baldur's Gate Duke Ravengard
+            <span class="tooltipHolder" style="width:max-content">![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)<span class="featTooltipContents">ID: 442**Baldur's Gate Duke Ravengard (Ravengard)**<img src="images/skin_models/baldursgatedukeravengard.gif" alt="Baldur's Gate Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Baldur's Gate Duke Ravengard
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Gem Shop</span>
@@ -81,7 +81,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)<span class="featTooltipContents">ID: 443**Wyrm Slayer Warduke (Warduke)**</span></span>Wyrm Slayer Warduke
+            <span class="tooltipHolder" style="width:max-content">![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)<span class="featTooltipContents">ID: 443**Wyrm Slayer Warduke (Warduke)**<img src="images/skin_models/wyrmslayerwarduke.gif" alt="Wyrm Slayer Warduke Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Wyrm Slayer Warduke
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Gem Shop</span>
@@ -95,7 +95,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Darklord Kas Portrait](images/skin_portraits/darklordkas.png)<span class="featTooltipContents">ID: 474**Darklord Kas (Kas)**</span></span>Darklord Kas
+            <span class="tooltipHolder" style="width:max-content">![Darklord Kas Portrait](images/skin_portraits/darklordkas.png)<span class="featTooltipContents">ID: 474**Darklord Kas (Kas)**<img src="images/skin_models/darklordkas.gif" alt="Darklord Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Darklord Kas
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Darklord Kas Theme Pack</span>
@@ -109,7 +109,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Vampire Hunter Voronika Portrait](images/skin_portraits/vampirehuntervoronika.png)<span class="featTooltipContents">ID: 472**Vampire Hunter Voronika (Voronika)**</span></span>Vampire Hunter Voronika
+            <span class="tooltipHolder" style="width:max-content">![Vampire Hunter Voronika Portrait](images/skin_portraits/vampirehuntervoronika.png)<span class="featTooltipContents">ID: 472**Vampire Hunter Voronika (Voronika)**<img src="images/skin_models/vampirehuntervoronika.gif" alt="Vampire Hunter Voronika Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Vampire Hunter Voronika
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Vampire Hunter Voronika Theme Pack</span>
@@ -123,7 +123,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Ascended Astarion Portrait](images/skin_portraits/ascendedastarion.png)<span class="featTooltipContents">ID: 473**Ascended Astarion (Astarion)**</span></span>Ascended Astarion
+            <span class="tooltipHolder" style="width:max-content">![Ascended Astarion Portrait](images/skin_portraits/ascendedastarion.png)<span class="featTooltipContents">ID: 473**Ascended Astarion (Astarion)**<img src="images/skin_models/ascendedastarion.gif" alt="Ascended Astarion Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Ascended Astarion
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Ascended Astarion Skin & Feat Pack</span>
@@ -137,7 +137,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Cursed Banshee Thellora Portrait](images/skin_portraits/cursedbansheethellora.png)<span class="featTooltipContents">ID: 479**Cursed Banshee Thellora (Thellora)**</span></span>Cursed Banshee Thellora
+            <span class="tooltipHolder" style="width:max-content">![Cursed Banshee Thellora Portrait](images/skin_portraits/cursedbansheethellora.png)<span class="featTooltipContents">ID: 479**Cursed Banshee Thellora (Thellora)**<img src="images/skin_models/cursedbansheethellora.gif" alt="Cursed Banshee Thellora Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Cursed Banshee Thellora
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Cursed Banshee Thellora Skin & Feat Pack</span>
@@ -151,7 +151,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Headless Horseman Kent Portrait](images/skin_portraits/headlesshorsemankent.png)<span class="featTooltipContents">ID: 475**Headless Horseman Kent (Kent)**</span></span>Headless Horseman Kent
+            <span class="tooltipHolder" style="width:max-content">![Headless Horseman Kent Portrait](images/skin_portraits/headlesshorsemankent.png)<span class="featTooltipContents">ID: 475**Headless Horseman Kent (Kent)**<img src="images/skin_models/headlesshorsemankent.gif" alt="Headless Horseman Kent Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Headless Horseman Kent
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Headless Horseman Kent Skin & Feat Pack</span>
@@ -165,7 +165,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Werebear Donaar Portrait](images/skin_portraits/werebeardonaar.png)<span class="featTooltipContents">ID: 480**Werebear Donaar (Donaar)**</span></span>Werebear Donaar
+            <span class="tooltipHolder" style="width:max-content">![Werebear Donaar Portrait](images/skin_portraits/werebeardonaar.png)<span class="featTooltipContents">ID: 480**Werebear Donaar (Donaar)**<img src="images/skin_models/werebeardonaar.gif" alt="Werebear Donaar Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Werebear Donaar
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Werebear Donaar Skin & Feat Pack</span>
@@ -179,7 +179,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Nosferatu Widdle Portrait](images/skin_portraits/nosferatuwiddle.png)<span class="featTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**</span></span>Nosferatu Widdle
+            <span class="tooltipHolder" style="width:max-content">![Nosferatu Widdle Portrait](images/skin_portraits/nosferatuwiddle.png)<span class="featTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**Model gif does not currently exist.</span></span>Nosferatu Widdle
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 9 (Guess)</span>
@@ -193,7 +193,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Vampire Hunter Desmond Portrait](images/skin_portraits/vampirehunterdesmond.png)<span class="featTooltipContents">ID: 481**Vampire Hunter Desmond (Desmond)**</span></span>Vampire Hunter Desmond
+            <span class="tooltipHolder" style="width:max-content">![Vampire Hunter Desmond Portrait](images/skin_portraits/vampirehunterdesmond.png)<span class="featTooltipContents">ID: 481**Vampire Hunter Desmond (Desmond)**<img src="images/skin_models/vampirehunterdesmond.gif" alt="Vampire Hunter Desmond Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Vampire Hunter Desmond
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Vampire Hunter Desmond Skin & Feat Pack</span>
@@ -207,7 +207,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Vampire Nahara Portrait](images/skin_portraits/vampirenahara.png)<span class="featTooltipContents">ID: 462**Vampire Nahara (Nahara)**</span></span>Vampire Nahara
+            <span class="tooltipHolder" style="width:max-content">![Vampire Nahara Portrait](images/skin_portraits/vampirenahara.png)<span class="featTooltipContents">ID: 462**Vampire Nahara (Nahara)**Model gif does not currently exist.</span></span>Vampire Nahara
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Emergence 9 (Guess)</span>
@@ -221,7 +221,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Vampire Viconia Portrait](images/skin_portraits/vampireviconia.png)<span class="featTooltipContents">ID: 476**Vampire Viconia (Viconia)**</span></span>Vampire Viconia
+            <span class="tooltipHolder" style="width:max-content">![Vampire Viconia Portrait](images/skin_portraits/vampireviconia.png)<span class="featTooltipContents">ID: 476**Vampire Viconia (Viconia)**<img src="images/skin_models/vampireviconia.gif" alt="Vampire Viconia Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Vampire Viconia
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Vampire Viconia Skin & Feat Pack</span>
@@ -235,7 +235,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Devil Wyll Portrait](images/skin_portraits/devilwyll.png)<span class="featTooltipContents">ID: 477**Devil Wyll (Wyll)**</span></span>Devil Wyll
+            <span class="tooltipHolder" style="width:max-content">![Devil Wyll Portrait](images/skin_portraits/devilwyll.png)<span class="featTooltipContents">ID: 477**Devil Wyll (Wyll)**<img src="images/skin_models/devilwyll.gif" alt="Devil Wyll Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Devil Wyll
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Devil Wyll Skin & Feat Pack</span>
@@ -249,7 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 483**Mizora's Pawn Wyll (Wyll)**</span></span>Mizora's Pawn Wyll
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 483**Mizora's Pawn Wyll (Wyll)**Model gif does not currently exist.</span></span>Mizora's Pawn Wyll
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -263,7 +263,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 486**Classic Kas (Kas)**</span></span>Classic Kas
+            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 486**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -277,7 +277,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Goblin Calliope Portrait](images/skin_portraits/goblincalliope.png)<span class="featTooltipContents">ID: 485**Goblin Calliope (Calliope)**</span></span>Goblin Calliope
+            <span class="tooltipHolder" style="width:max-content">![Goblin Calliope Portrait](images/skin_portraits/goblincalliope.png)<span class="featTooltipContents">ID: 485**Goblin Calliope (Calliope)**<img src="images/skin_models/goblincalliope.gif" alt="Goblin Calliope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Goblin Calliope
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -291,7 +291,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 484**Herald of the Absolute Minthara (Minthara)**</span></span>Herald of the Absolute Minthara
+            <span class="tooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 484**Herald of the Absolute Minthara (Minthara)**<img src="images/skin_models/heraldoftheabsoluteminthara.gif" alt="Herald of the Absolute Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of the Absolute Minthara
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
