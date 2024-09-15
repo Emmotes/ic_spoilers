@@ -11,7 +11,7 @@ section {
 }
 h1,h2,h3 {
 	line-height: 2.0em;
-	color: #F2F2F2;
+	color: var(--Concrete);
 }
 h4,h5 {
 	line-height: 1.7em;
@@ -20,14 +20,14 @@ h6 {
 	line-height: 1.4em;
 }
 h3 {
-	color: #CCCCCC;
+	color: var(--Silver);
 }
 summary {
 	cursor: pointer;
-	color: #FFCC00;
+	color: var(--TangerineYellow);
 }
 summary:hover {
-	color: #FFEB9B;
+	color: var(--Flavescent);
 }
 section #title .credits.right {
 	text-align: right;
@@ -56,7 +56,7 @@ code{
     align-items: center;
 	height: 49px;
 	margin: 2px;
-	background-color: #141414;
+	background-color: var(--Onyx);
 	border: 1px solid black;
 }
 .featTableRowHeader {
@@ -64,8 +64,8 @@ code{
 	font-size: 1.1em;
 }
 .featTableRow:hover {
-	border: 1px solid #FFEB9B;
-	background-color: #000000;
+	border: 1px solid var(--Flavescent);
+	background-color: var(--Black);
 }
 .featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5,.featTableChampion,.featTableSource,.featTableDate {
 	display: flex;
@@ -77,7 +77,7 @@ code{
 }
 .featTableChampion {
 	border-right: 1px solid black;
-	background-color: #1c1c1c;
+	background-color: var(--EerieBlack);
 }
 .featTableSource,.featTableChampion,.featTableDate {
 	width: 92px;
@@ -86,7 +86,7 @@ code{
 .featTableDate {
 	justify-content: flex-end;
 	border-left: 1px solid black;
-	background-color: #1c1c1c;
+	background-color: var(--EerieBlack);
 	padding-right: 8px;
 }
 .featTableEffect {
@@ -96,7 +96,7 @@ code{
 	width: 301px;
 	height: 100%;
 	margin: 0px;
-	background-color: #1c1c1c;
+	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 	padding: 0 1px 0 8px;
@@ -115,19 +115,19 @@ code{
 	border: none;
 }
 .featTableIcon1 img,.featTableIcon1:hover .featTooltipContents {
-	border: 1px solid #DEE3DE;
+	border: 1px solid var(--WhitecapFoam);
 }
 .featTableIcon2 img,.featTableIcon2:hover .featTooltipContents {
-	border: 1px solid #7BDF00;
+	border: 1px solid var(--AlienArmpit);
 }
 .featTableIcon3 img,.featTableIcon3:hover .featTooltipContents {
-	border: 1px solid #2955FF;
+	border: 1px solid var(--UltramarineBlue);
 }
 .featTableIcon4 img,.featTableIcon4:hover .featTooltipContents {
-	border: 1px solid #8408EF;
+	border: 1px solid var(--Violet);
 }
 .featTableIcon5 img,.featTableIcon5:hover .featTooltipContents {
-	border: 1px solid #FBBA37;
+	border: 1px solid var(--Saffron);
 }
 .featTableIcon0:hover .featTooltipContents,.featTableIcon1:hover .featTooltipContents,.featTableIcon2:hover .featTooltipContents,.featTableIcon3:hover .featTooltipContents,.featTableIcon4:hover .featTooltipContents,.featTableIcon5:hover .featTooltipContents {
 	visibility: visible;
@@ -136,7 +136,7 @@ code{
 	visibility: hidden;
 	padding: 15px;
 	border: 1px solid black;
-	background-color: #101010;
+	background-color: var(--Sooty);
 	width: max-content;
 	max-width: 500px;
 	
@@ -149,7 +149,7 @@ code{
 	left: 0px;
 	bottom: 0px;
 	transform: translate(100px, 10px);
-	color: #f0e7d5;
+	color: var(--Eggshell);
 	pointer-events: none;
 }
 .itemTooltipContents code,.featTooltipContents code {
@@ -178,7 +178,7 @@ code{
     align-items: center;
 	height: 89px;
 	margin: 2px;
-	background-color: #141414;
+	background-color: var(--Onyx);
 	border: 1px solid black;
 }
 .skinTableRowHeader {
@@ -186,8 +186,8 @@ code{
 	font-size: 1.1em;
 }
 .skinTableRow:hover {
-	border: 1px solid #FFEB9B;
-	background-color: #000000;
+	border: 1px solid var(--Flavescent);
+	background-color: var(--Black);
 }
 .skinTableIcon {
 	display: flex;
@@ -211,7 +211,7 @@ code{
 	width: 350px;
 	height: 100%;
 	margin: 0px;
-	background-color: #1c1c1c;
+	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 }
@@ -223,12 +223,12 @@ code{
 	height: 100%;
 }
 .skinTableDate {
-	background-color: #1c1c1c;
+	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	width: 105px;
 }
 .abilityBorder {
-	background-color: #1a1a1a;
+	background-color: var(--CodGrey);
 	border: 1px solid black;
 	max-width: 848px;
 	min-width: 348px;
@@ -250,7 +250,7 @@ code{
 	box-shadow: none;
 	border: 1px solid black;
 	border-radius: 0px;
-	background-color: #202020;
+	background-color: var(--Lead);
 }
 .itemTableColumn {
     display: flex;
@@ -272,7 +272,7 @@ code{
     align-items: center;
 	height: 70px;
 	margin: 2px;
-	background-color: #141414;
+	background-color: var(--Onyx);
 	border: 1px solid black;
 }
 .itemTableRowHeader {
@@ -281,8 +281,8 @@ code{
 	height: 44px;
 }
 .itemTableRow:hover {
-	border: 1px solid #FFEB9B;
-	background-color: #000000;
+	border: 1px solid var(--Flavescent);
+	background-color: var(--Black);
 }
 .itemTableIcon {
 	display: flex;
@@ -304,7 +304,7 @@ code{
 	align-items: center;
 	width: 45px;
 	height: 100%;
-	background-color: #1c1c1c;
+	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 }
@@ -319,13 +319,13 @@ code{
 	margin-left: 8px;
 }
 .itemTableNameSmall {
-	background-color: #1c1c1c;
+	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	margin-left: 0px;
 	padding-left: 8px;
 }
 .itemTableEffect {
-	background-color: #1c1c1c;
+	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	width: 326px;
 	height: 100%;
@@ -335,7 +335,7 @@ code{
 	position: relative;
 	display: inline-block;
 	cursor: pointer;
-	color: #FFCC00;
+	color: var(--TangerineYellow);
 }
 .itemTableIcon1 img,.itemTableIcon2 img,.itemTableIcon3 img,.itemTableIcon4 img,.itemTableIcon5 img {
 	margin: 4px;
@@ -344,24 +344,24 @@ code{
 	object-fit: contain;
 }
 .itemTableIcon1 img,.itemTableIcon1:hover .itemTooltipContents {
-	border: 1px solid #DEE3DE;
+	border: 1px solid var(--WhitecapFoam);
 }
 .itemTableIcon2 img,.itemTableIcon2:hover .itemTooltipContents {
-	border: 1px solid #7BDF00;
+	border: 1px solid var(--AlienArmpit);
 }
 .itemTableIcon3 img,.itemTableIcon3:hover .itemTooltipContents {
-	border: 1px solid #2955FF;
+	border: 1px solid var(--UltramarineBlue);
 }
 .itemTableIcon4 img,.itemTableIcon4:hover .itemTooltipContents {
-	border: 1px solid #8408EF;
+	border: 1px solid var(--Violet);
 }
 .itemTableIcon5 img,.itemTableIcon5:hover .itemTooltipContents {
-	border: 1px solid #FBBA37;
+	border: 1px solid var(--Saffron);
 }
 .itemTableGE {
 	width: 3px;
 	height: 80%;
-	background-color: #FBBA37;
+	background-color: var(--Saffron);
 	margin-top: -4px;
 }
 .itemTableIcon1:hover .itemTooltipContents,.itemTableIcon2:hover .itemTooltipContents,.itemTableIcon3:hover .itemTooltipContents,.itemTableIcon4:hover .itemTooltipContents,.itemTableIcon5:hover .itemTooltipContents {
@@ -371,7 +371,7 @@ code{
 	visibility: hidden;
 	padding: 15px;
 	border: 1px solid black;
-	background-color: #101010;
+	background-color: var(--Sooty);
 	width: max-content;
 	max-width: 500px;
 	
@@ -384,7 +384,7 @@ code{
 	left: 0px;
 	bottom: 0px;
 	transform: translate(100px, 10px);
-	color: #f0e7d5;
+	color: var(--Eggshell);
 	pointer-events: none;
 }
 .champStatsTableColumn {
@@ -406,7 +406,7 @@ code{
     justify-content: center;
     align-items: center;
 	height: 25px;
-	background-color: #141414;
+	background-color: var(--Onyx);
 	border: 1px solid black;
 	margin: 2px;
 }
@@ -426,7 +426,7 @@ code{
 	width: 250px;
 	height: 100%;
 	margin: 0px;
-	background-color: #1c1c1c;
+	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 }
 .champStatsTableInfo {
@@ -449,7 +449,7 @@ code{
 }
 .champStatsTableStats,.champStatsTableStatsHeader {
 	width: 120px;
-	background-color: #1c1c1c;
+	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 }
@@ -458,7 +458,7 @@ code{
 }
 .champStatsTablePatrons,.champStatsTablePatronsHeader {
 	width: 130px;
-	background-color: #1c1c1c;
+	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 }
 .indexChampionTableColumn {
@@ -477,12 +477,12 @@ code{
 	align-items: center;
 	border: 1px solid black;
 	height: 90px;
-	background-color: #141414;
+	background-color: var(--Onyx);
 	position: relative;
 }
 .indexChampionTableRow:hover {
-	border: 1px solid #FFEB9B;
-	background-color: #000000;
+	border: 1px solid var(--Flavescent);
+	background-color: var(--Black);
 }
 .indexChampionTableIcon {
 	display: flex;
@@ -516,7 +516,7 @@ code{
 	font-size: 1.2em;
 }
 .indexChampionTableNoLink {
-	color: #F0E7D5;
+	color: var(--Eggshell);
 }
 .indexChampionTableAttack {
 	position: absolute;
@@ -529,7 +529,7 @@ code{
 	width: fit-content;
 	padding: 20px;
 	border: 1px solid black;
-	background-color: #1a1a1a;
+	background-color: var(--CodGrey);
 }
 .championImagesColumn {
 	display: flex;
@@ -554,7 +554,7 @@ code{
 	padding: 20px;
 	padding-bottom: 10px;
 	border: 1px solid black;
-	background-color: #181918;
+	background-color: var(--HeavyMetal);
 	margin: 5px;
 }
 .championImagesPortrait {
@@ -581,7 +581,7 @@ code{
 	flex-direction: row;
 	width: fit-content;
 	height: 76px;
-	background-color: #141414;
+	background-color: var(--Onyx);
 	margin: 5px;
 	border: 1px solid black;
 }
@@ -590,8 +590,8 @@ code{
 	height: 44px;
 }
 .contentDropsTableRow:hover {
-	border: 1px solid #FFEB9B;
-	background-color: #000000;
+	border: 1px solid var(--Flavescent);
+	background-color: var(--Black);
 }
 .contentDropsTableIcons,.contentDropsTableCampaign,.contentDropsTableAdventure,.contentDropsTableType {
 	width: 100px;
@@ -608,7 +608,7 @@ code{
 }
 .contentDropsTableAdventure {
 	width: 348px;
-	background-color: #1a1a1a;
+	background-color: var(--CodGrey);
 	border-right: 1px solid black;
 	border-left: 1px solid black;
 }
@@ -635,7 +635,7 @@ code{
 	padding: 5px;
 	margin: 5px;
 	border: 1px solid black;
-	background-color: #1a1a1a;
+	background-color: var(--CodGrey);
 }
 .emergenceShopTableTextColumn {
 	display: flex;
@@ -651,19 +651,19 @@ code{
 	object-fit: scale-down;
 }
 .emergenceShopFeatIcon1 img,.emergenceShopFeatIcon1:hover .featTooltipContents {
-	border: 1px solid #DEE3DE;
+	border: 1px solid var(--WhitecapFoam);
 }
 .emergenceShopFeatIcon2 img,.emergenceShopFeatIcon2:hover .featTooltipContents {
-	border: 1px solid #7BDF00;
+	border: 1px solid var(--AlienArmpit);
 }
 .emergenceShopFeatIcon3 img,.emergenceShopFeatIcon3:hover .featTooltipContents {
-	border: 1px solid #2955FF;
+	border: 1px solid var(--UltramarineBlue);
 }
 .emergenceShopFeatIcon4 img,.emergenceShopFeatIcon4:hover .featTooltipContents {
-	border: 1px solid #8408EF;
+	border: 1px solid var(--Violet);
 }
 .emergenceShopFeatIcon5 img,.emergenceShopFeatIcon5:hover .featTooltipContents {
-	border: 1px solid #FBBA37;
+	border: 1px solid var(--Saffron);
 }
 .tooltipHolder {
 	position: relative;
@@ -671,7 +671,7 @@ code{
 	display: block;
 	width: 100%;
 	height: 100%;
-	color: #FFCC00;
+	color: var(--TangerineYellow);
 }
 .tooltipHolder:hover .featTooltipContents,.tooltipHolder:hover .itemTooltipContents {
 	visibility: visible;
@@ -703,7 +703,7 @@ code{
 	padding: 4px;
 	margin: 4px;
 	border: 1px solid black;
-	background-color: #1a1a1a;
+	background-color: var(--CodGrey);
 }
 .postSeasonTableRowContentsItem {
 	display: flex;
@@ -712,7 +712,7 @@ code{
 	padding: 5px;
 	margin: 5px;
 	border: 1px solid black;
-	background-color: #252525;
+	background-color: var(--Nero);
 }
 .postSeasonTableRowContentsItem img {
 	min-width: 64px;
@@ -728,7 +728,7 @@ code{
 	justify-content: center;
 	width: 100px;
 	flex-grow: 1;
-	background-color: #141414;
+	background-color: var(--Onyx);
 	border: 1px solid black;
 	margin-left: 2px;
 	margin-right: 2px;
@@ -758,10 +758,10 @@ code{
 	object-fit: scale-down;
 }
 .postSeasonTableDateHeader,.postSeasonTableDate,.postSeasonTableDateLate {
-	background-color: #1a1a1a;
+	background-color: var(--CodGrey);
 }
 .postSeasonTableDateLate {
-	color: #f04735;
+	color: var(--Cascara);
 }
 .postSeasonTableRowShowHideAll {
 	font-size: 1.1em;
@@ -775,26 +775,37 @@ code{
 	display: flex;
 	flex-direction: row;
 	justify-content: flex-start;
-	align-items: flex-start;
+	align-items: stretch;
 	flex-wrap: wrap;
+}
+.championPortraitsColumn {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: fit-content;
+	padding: 20px;
+	margin: 5px;
+	border: 1px solid black;
+	background-color: var(--HeavyMetal);
 }
 .championPortraitsImage {
 	display: flex;
-	flex-direction: column;
+	flex-grow: 1;
 	justify-content: center;
 	align-items: center;
-	height: fit-content;
-	width: fit-content;
-	padding: 10px;
-	margin: 5px;
-	border: 1px solid black;
-	background-color: #181918;
-}
-.championPortraitsImage img {
-	height: 190px;
-	width: 190px;
-	object-fit: scale-down;
 	margin-bottom: 5px;
+}
+.championPortraitsArachnophobe {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: var(--HeavyMetal);
+	cursor: pointer;
 }
 .spoilerWarningRow {
 	display: flex;
@@ -805,9 +816,9 @@ code{
 	margin-bottom: -5px;
 	margin-left: 10px;
 	font-size: 1.2em;
-	border: 2px solid #770000;
+	border: 2px solid var(--Maroon);
 	outline: 2px solid black;
-	background-color: #141414;
+	background-color: var(--Onyx);
 }
 .spoilerWarningIcon {
 	display: flex;
@@ -841,7 +852,7 @@ code{
 	flex-direction: column;
 	width: 100%;
 	border: 1px solid black;
-	background-color: #141414;
+	background-color: var(--Onyx);
 	padding: 8px;
 	margin: 4px;
 }
@@ -871,7 +882,7 @@ code{
 	display: flex;
 	flex-direction: row;
 	width: 100%;
-	border-bottom: 1px solid #313131;
+	border-bottom: 1px solid var(--OffBlack);
 	padding: 5px 0px 0px 5px;
 }
 .modesContentRowHeader {
@@ -885,7 +896,7 @@ code{
 input[type="checkbox"] {
 	-webkit-appearance: none;
 	appearance: none;
-	background-color: #101010;
+	background-color: var(--Sooty);
 	margin: 4px 8px 0px 4px;
 	font: inherit;
 	color: currentColor;
@@ -917,19 +928,19 @@ input[type="checkbox"]:checked::before {
 	position: relative;
 	display: inline-block;
 	cursor: pointer;
-	color: #FFCC00;
+	color: var(--TangerineYellow);
 }
 .formationTooltip:hover .formationTooltipContents {
 	visibility: visible;
 }
 .formationTooltip:hover {
-	color: #FFEB9B;
+	color: var(--Flavescent);
 }
 .formationTooltipContents {
 	visibility: hidden;
 	padding: 15px;
 	border: 1px solid black;
-	background-color: #1a1a1a;
+	background-color: var(--CodGrey);
 	width: max-content;
 	
 	display: flex;
@@ -948,7 +959,7 @@ input[type="checkbox"]:checked::before {
 	margin: 5px;
 }
 .eventRosterChampion {
-	background-color: #141414;
+	background-color: var(--Onyx);
 	background-size: contain;
 	background-repeat: no-repeat;
 	display: flex;
@@ -981,7 +992,7 @@ input[type="checkbox"]:checked::before {
 	border-width: 1px 0;
 	border-style: solid;
 	border-color: black;
-	background-color: #1a1a1a;
+	background-color: var(--CodGrey);
 }
 .patronRosterItem input[type="checkbox"] {
 	transform: translateY(-0.15em);

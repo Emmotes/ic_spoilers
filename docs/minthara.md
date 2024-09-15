@@ -1,14 +1,32 @@
 [Back to Main](index.md)
 
 <span class="championPortraitsRow">
-    <span class="championPortraitsImage">
-        ![PC Portrait for Minthara](images/minthara/portrait.png)Portrait
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Minthara](images/minthara/portrait.png)
+        </span>
+        <span>
+        Portrait
+        </span>
     </span>
-    <span class="championPortraitsImage">
-        ![Model GIF of Minthara](images/minthara/model.gif)Base Model
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model GIF of Minthara](images/minthara/model.gif)
+        </span>
+        <span>
+        Base Model
+        </span>
     </span>
-    <span class="championPortraitsImage">
-        <img src="images/general/arachnophobe_warning.png" alt="Alternate Model GIF of Minthara: Kar'niss" data-src="images/minthara/model-kar'niss.gif" data-phobia="images/general/arachnophobe_warning.png" id="karniss" onClick="arachnophobe('karniss')" style="cursor:pointer">Kar'niss Model
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage" style="position:relative">
+            <span class="championPortraitsArachnophobe" style="visibility:visible" id="karniss" onClick="arachnophobe('karniss')">
+                <img src="images/general/arachnophobe_warning.png" alt="Arachnophobia Warning Cover Layer">
+            </span>
+            <img src="images/minthara/model-kar'niss.gif" alt="Alternate Model GIF of Minthara: Kar'niss" onClick="arachnophobe('karniss')" style="cursor:pointer">
+        </span>
+        <span>
+        Kar'niss Model
+        </span>
     </span>
 </span>
 

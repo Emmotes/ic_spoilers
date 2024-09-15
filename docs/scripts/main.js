@@ -254,8 +254,8 @@ function discord() {
 
 function arachnophobe(id) {
 	let ele = document.getElementById(id);
-	if (ele.src.includes(ele.dataset.phobia))
-		ele.src = ele.dataset.src;
+	if (ele.style.visibility == 'visible')
+		ele.style.visibility = 'hidden';
 	else
-		ele.src = ele.dataset.phobia;
+		ele.style.visibility = 'visible';
 }

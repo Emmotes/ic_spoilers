@@ -1,8 +1,13 @@
 [Back to Main](index.md)
 
 <span class="championPortraitsRow">
-    <span class="championPortraitsImage">
-        ![PC Portrait for Voronika](images/voronika/portrait.png)Portrait
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Voronika](images/voronika/portrait.png)
+        </span>
+        <span>
+        Portrait
+        </span>
     </span>
 </span>
 

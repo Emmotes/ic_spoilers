@@ -1,11 +1,21 @@
 [Back to Main](index.md)
 
 <span class="championPortraitsRow">
-    <span class="championPortraitsImage">
-        ![PC Portrait for Kas](images/kas/portrait.png)Portrait
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Kas](images/kas/portrait.png)
+        </span>
+        <span>
+        Portrait
+        </span>
     </span>
-    <span class="championPortraitsImage">
-        ![Model GIF of Kas](images/kas/model.gif)Model
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model GIF of Kas](images/kas/model.gif)
+        </span>
+        <span>
+        Model
+        </span>
     </span>
 </span>
 

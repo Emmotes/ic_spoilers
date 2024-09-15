@@ -1,0 +1,28 @@
+
+:root {
+	/* colour names from: https://www.color-name.com/ */
+	/* or https://colors.artyclick.com/color-name-finder/ */
+	/* or https://chir.ag/projects/name-that-color/ */
+	/* or https://colornamer.robertcooper.me/ */
+	--AlienArmpit: #7BDF00;
+	--Concrete: #F2F2F2;
+	--Black: #000000;
+	--Sooty: #141414;
+	--Onyx: #101010;
+	--Silver: #CCCCCC;
+	--WhitecapFoam: #DEE3DE;
+	--Cascara: #F04735;
+	--OffBlack: #313131;
+	--EerieBlack: #1c1c1c;
+	--CodGrey: #1A1A1A;
+	--HeavyMetal: #181918;
+	--Eggshell: #F0E7D5;
+	--Flavescent: #FFEB9B;
+	--Maroon: #770000;
+	--Lead: #202020;
+	--Nero: #252525;
+	--Saffron: #FBBA37;
+	--TangerineYellow: #FFCC00;
+	--UltramarineBlue: #2955FF;
+	--Violet: #8408EF;
+}
