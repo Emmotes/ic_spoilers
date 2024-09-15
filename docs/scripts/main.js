@@ -1,4 +1,4 @@
-const v=1.4
+const v=1.5
 const rrm = {
 	active: (localStorage.spoilersRRM == 1 ? true : false),
 	storage: "spoilersRRM",
