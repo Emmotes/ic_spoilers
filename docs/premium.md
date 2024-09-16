@@ -522,12 +522,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1940**???**</span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1940**Feat**???: 1940</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">champion_feat</span>
-            <span style="margin-left:15px">ID: 1940</span>
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">???: 1940</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -592,12 +591,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1547**???**</span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1547**Feat**???: 1547</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">champion_feat</span>
-            <span style="margin-left:15px">ID: 1547</span>
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">???: 1547</span>
         </span>
     </span>
     <span class="premiumsTableItem">
