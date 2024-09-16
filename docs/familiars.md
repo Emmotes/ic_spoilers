@@ -7,20 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Fritz the Red Fox Portrait](images/familiars/fritztheredfox.png)<span class="featTooltipContents">ID: 220**Fritz the Red Fox**<img src="images/familiars/fritztheredfox.gif" alt="Fritz the Red Fox Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Fritz the Red Fox
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Fritz the Red Fox Familiar Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">16 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Warforged Colossus Portrait](images/familiars/warforgedcolossus.png)<span class="featTooltipContents">ID: 221**Warforged Colossus**<img src="images/familiars/warforgedcolossus.gif" alt="Warforged Colossus Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Warforged Colossus
         </span>
         <span class="skinTableSource">
