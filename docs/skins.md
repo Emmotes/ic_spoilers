@@ -25,7 +25,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Harvestguard Farideh Portrait](images/skin_portraits/harvestguardfarideh.png)<span class="featTooltipContents">ID: 469**Harvestguard Farideh (Farideh)**<img src="images/skin_models/harvestguardfarideh.gif" alt="Harvestguard Farideh Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Harvestguard Farideh
+            <span class="tooltipHolder" style="width:max-content">![Harvestguard Farideh Portrait](images/skin_portraits/harvestguardfarideh.png)<span class="featTooltipContents">ID: 469**Harvestguard Farideh (Farideh)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/harvestguardfarideh.gif" alt="Harvestguard Farideh Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/harvestguardfarideh-flames.gif" alt="Harvestguard Farideh Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Harvestguard Farideh
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Harvestguard Farideh Skin & Feat Pack</span>
@@ -67,7 +67,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)<span class="featTooltipContents">ID: 442**Baldur's Gate Duke Ravengard (Ravengard)**<img src="images/skin_models/baldursgatedukeravengard.gif" alt="Baldur's Gate Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Baldur's Gate Duke Ravengard
+            <span class="tooltipHolder" style="width:max-content">![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)<span class="featTooltipContents">ID: 442**Baldur's Gate Duke Ravengard (Ravengard)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/baldursgatedukeravengard.gif" alt="Baldur's Gate Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/baldursgatedukeravengard-enflamed.gif" alt="Baldur's Gate Duke Ravengard Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Baldur's Gate Duke Ravengard
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Gem Shop</span>
@@ -81,7 +81,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)<span class="featTooltipContents">ID: 443**Wyrm Slayer Warduke (Warduke)**<img src="images/skin_models/wyrmslayerwarduke.gif" alt="Wyrm Slayer Warduke Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Wyrm Slayer Warduke
+            <span class="tooltipHolder" style="width:max-content">![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)<span class="featTooltipContents">ID: 443**Wyrm Slayer Warduke (Warduke)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/wyrmslayerwarduke.gif" alt="Wyrm Slayer Warduke Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/wyrmslayerwarduke-flame_tongue.gif" alt="Wyrm Slayer Warduke Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Wyrm Slayer Warduke
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Gem Shop</span>
@@ -109,7 +109,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Vampire Hunter Voronika Portrait](images/skin_portraits/vampirehuntervoronika.png)<span class="featTooltipContents">ID: 472**Vampire Hunter Voronika (Voronika)**<img src="images/skin_models/vampirehuntervoronika.gif" alt="Vampire Hunter Voronika Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Vampire Hunter Voronika
+            <span class="tooltipHolder" style="width:max-content">![Vampire Hunter Voronika Portrait](images/skin_portraits/vampirehuntervoronika.png)<span class="featTooltipContents">ID: 472**Vampire Hunter Voronika (Voronika)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/vampirehuntervoronika.gif" alt="Vampire Hunter Voronika Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/vampirehuntervoronika-darklord.gif" alt="Vampire Hunter Voronika Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Vampire Hunter Voronika
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Vampire Hunter Voronika Theme Pack</span>

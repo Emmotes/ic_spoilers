@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Fritz the Red Fox Familiar Portrait](images/premiums/familiar_220.png)<span class="itemTooltipContents">ID: 220**Fritz the Red Fox**Aren't you lucky to have me around.<br><img src="images/premiums/familiar_220.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Fritz the Red Fox Familiar Portrait](images/premiums/familiar_220.png)<span class="itemTooltipContents">ID: 220**Fritz the Red Fox**Aren't you lucky to have me around.<img src="images/premiums/familiar_220.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -361,7 +361,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Warforged Colossus Familiar Portrait](images/premiums/familiar_221.png)<span class="itemTooltipContents">ID: 221**Warforged Colossus**In the final days of the Last War, House Cannith unleashed its mightiest creations: the warforged colossi.<br><img src="images/premiums/familiar_221.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Warforged Colossus Familiar Portrait](images/premiums/familiar_221.png)<span class="itemTooltipContents">ID: 221**Warforged Colossus**In the final days of the Last War, House Cannith unleashed its mightiest creations: the warforged colossi.<img src="images/premiums/familiar_221.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -532,7 +532,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Bloodsword Familiar Portrait](images/premiums/familiar_223.png)<span class="itemTooltipContents">ID: 223**Bloodsword**I was his friend. Now, we are mortal enemies...<br><img src="images/premiums/familiar_223.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Bloodsword Familiar Portrait](images/premiums/familiar_223.png)<span class="itemTooltipContents">ID: 223**Bloodsword**I was his friend. Now, we are mortal enemies...<img src="images/premiums/familiar_223.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -602,7 +602,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Glimmer the Ghost Owl Familiar Portrait](images/premiums/familiar_222.png)<span class="itemTooltipContents">ID: 222**Glimmer the Ghost Owl**Light as a feather, sharp as a stake.<br><img src="images/premiums/familiar_222.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Glimmer the Ghost Owl Familiar Portrait](images/premiums/familiar_222.png)<span class="itemTooltipContents">ID: 222**Glimmer the Ghost Owl**Light as a feather, sharp as a stake.<img src="images/premiums/familiar_222.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
