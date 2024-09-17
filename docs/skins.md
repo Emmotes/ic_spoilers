@@ -249,21 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 483**Mizora's Pawn Wyll (Wyll)**</span></span>Mizora's Pawn Wyll
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">30 Oct 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 486**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
+            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 484**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -277,7 +263,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Goblin Calliope Portrait](images/skin_portraits/goblincalliope.png)<span class="featTooltipContents">ID: 485**Goblin Calliope (Calliope)**<img src="images/skin_models/goblincalliope.gif" alt="Goblin Calliope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Goblin Calliope
+            <span class="tooltipHolder" style="width:max-content">![Goblin Calliope Portrait](images/skin_portraits/goblincalliope.png)<span class="featTooltipContents">ID: 483**Goblin Calliope (Calliope)**<img src="images/skin_models/goblincalliope.gif" alt="Goblin Calliope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Goblin Calliope
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -291,7 +277,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 484**Herald of the Absolute Minthara (Minthara)**<img src="images/skin_models/heraldoftheabsoluteminthara.gif" alt="Herald of the Absolute Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of the Absolute Minthara
+            <span class="tooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 482**Herald of the Absolute Minthara (Minthara)**<img src="images/skin_models/heraldoftheabsoluteminthara.gif" alt="Herald of the Absolute Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of the Absolute Minthara
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
