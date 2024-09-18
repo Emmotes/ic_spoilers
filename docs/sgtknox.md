@@ -320,105 +320,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> The effect of Celeste's Crusader's Mantle is increased by 100% for each unaffiliated Champion in the formation, stacking multiplicatively.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 2133,
-    "flavour_text": "",
-    "description": {
-        "desc": "The effect of Celeste's Crusader's Mantle is increased by $amount% for each unaffiliated Champion in the formation, stacking multiplicatively."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "buff_upgrade,100,24",
-            "stack_func": "per_hero",
-            "amount_func": "mult",
-            "tag": "unaffiliated"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 1,
-    "large_graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> Makos completes his quest to become a lich and gains the Undead tag. His damage is increased by 400% and his critical hit damage is increased by 100%. His base attack now targets up to 5 enemies at once, and he has a 20% higher chance to critically hit.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 2134,
-    "flavour_text": "",
-    "description": {
-        "desc": "Makos completes his quest to become a lich and gains the Undead tag. His damage is increased by $(amount___2)% and his critical hit damage is increased by $(amount___3)%. His base attack now targets up to 5 enemies at once, and he has a $(amount___5)% higher chance to critically hit."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "appear_dead",
-            "targets": [
-                "self_slot"
-            ]
-        },
-        {
-            "effect_string": "hero_dps_multiplier_mult,400",
-            "targets": [
-                "self_slot"
-            ]
-        },
-        {
-            "effect_string": "buff_base_crit_damage_mult,100",
-            "targets": [
-                "self_slot"
-            ]
-        },
-        {
-            "effect_string": "change_base_attack,816",
-            "off_when_benched": true,
-            "targets": [
-                "self_slot"
-            ]
-        },
-        {
-            "effect_string": "buff_base_crit_chance_add,20",
-            "off_when_benched": true,
-            "targets": [
-                "self_slot"
-            ]
-        }
-    ],
-    "requirements": [
-        {
-            "requirement": "hero_in_formation",
-            "target_hero_id": 9
-        }
-    ],
-    "graphic_id": 1,
-    "large_graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": false,
-        "use_owner_override": true,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
 > Increase the max health of Sgt. Knox by 200%. His base attack now taunts enemies he hits to target him.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -437,6 +338,38 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "taunt,0",
             "base_attack_taunts": true,
             "base_attack_always_taunts": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 1,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> The effect of Celeste's Crusader's Mantle is increased by 100% for each unaffiliated Champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2133,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of Celeste's Crusader's Mantle is increased by $amount% for each unaffiliated Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,24",
+            "stack_func": "per_hero",
+            "amount_func": "mult",
+            "tag": "unaffiliated"
         }
     ],
     "requirements": "",
