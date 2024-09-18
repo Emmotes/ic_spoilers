@@ -109,12 +109,9 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/minthara/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Minthara" fill="#aaa" data-formationName="Minthara" data-campaignName="Feast of the Moon" width="338" height="160"><circle cx="175" cy="145" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="145" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Minthara</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Feast of the Moon</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -131,7 +128,7 @@ Unknown.
     "description": "Minthara dashes toward the healthiest enemy and damages nearby foes with a swing of her maces.",
     "long_description": "Minthara moves up to the enemy with the highest remaining health percentage and attacks with her maces dealing one hit to all nearby enemies.",
     "graphic_id": 0,
-    "target": "front",
+    "target": "highest_health",
     "num_targets": 1,
     "aoe_radius": 100,
     "damage_modifier": 1,
@@ -292,12 +289,14 @@ Unknown.
             "off_when_benched": true,
             "outgoing_buffs": false,
             "effect_string": "minthara_ceremorphosis_stacks,1",
-            "manual_stacking": true,
             "stacks_multiply": false,
             "show_stacks": true,
             "stack_title": "Minthara Ceremorphosis Stacks",
             "desc_forced_order": 1,
-            "skip_effect_key_desc": true
+            "skip_effect_key_desc": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "0",
+            "post_process_expr": "1 + 2*as_int(GetUpgradeUnlocked(15947))"
         },
         {
             "off_when_benched": true,
@@ -349,7 +348,15 @@ Unknown.
     "id": 2117,
     "flavour_text": "",
     "description": {
-        "desc": "When Minthara damages an enemy, they take $(amount)% additional damage from all subsequent attacks, stacking multiplicatively up to the number of Strife stacks Minthara has."
+        "desc": "When Minthara damages an enemy, they take $(amount)% additional damage from all subsequent attacks, stacking multiplicatively up to the number of Strife stacks Minthara has.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Max Stacks: $minthara_max_stacks"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -364,6 +371,7 @@ Unknown.
             "debuffing_attack_ids": [
                 810
             ],
+            "soul_destroyer_upgrade_id": 15948,
             "debuff_effects": [
                 {
                     "effect_string": "minthara_increase_monster_damage,0",
@@ -373,6 +381,7 @@ Unknown.
                     "active_graphic_y": -120,
                     "use_stack_as_frame": true,
                     "use_stack_as_alpha": true,
+                    "stack_count_debug": true,
                     "min_stack_alpha": 0.4,
                     "pre_max_stack_alpha": 0.8,
                     "stack_as_frame_offset": 0,
@@ -412,7 +421,7 @@ Unknown.
 > 3+ Strife stacks: Unyielding: Minthara increases her health by 10% for each Strife stack she has, stacking additively.  
 > 5+ Strife stacks: Piercing: Monsters affected by at least two Soul Branding stacks lose an additional armor or segmented health piece when they are attacked.  
 > 7+ Strife stacks: Scarring: When Minthara damages an enemy, she immediately applies the maximum possible number of Soul Branding stacks.  
-> 9+ Strife stacks: Nobility: Increase the base value of Noble of Menzoberranzan by 400%.
+> 9+ Strife stacks: Nobility: Increases the base value of Noble of Menzoberranzan by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -420,7 +429,7 @@ Unknown.
     "id": 2118,
     "flavour_text": "",
     "description": {
-        "desc": "Minthara provides benefits based on the number of Strife stacks she has.^3+ Strife stacks: Unyielding: Minthara increases her health by $(amount___2)% for each Strife stack she has, stacking additively.^5+ Strife stacks: Piercing: Monsters affected by at least two Soul Branding stacks lose an additional armor or segmented health piece when they are attacked.^7+ Strife stacks: Scarring: When Minthara damages an enemy, she immediately applies the maximum possible number of Soul Branding stacks.^9+ Strife stacks: Nobility: Increase the base value of Noble of Menzoberranzan by $(amount___5)%."
+        "desc": "Minthara provides benefits based on the number of Strife stacks she has.^3+ Strife stacks: Unyielding: Minthara increases her health by $(amount___2)% for each Strife stack she has, stacking additively.^5+ Strife stacks: Piercing: Monsters affected by at least two Soul Branding stacks lose an additional armor or segmented health piece when they are attacked.^7+ Strife stacks: Scarring: When Minthara damages an enemy, she immediately applies the maximum possible number of Soul Branding stacks.^9+ Strife stacks: Nobility: Increases the base value of Noble of Menzoberranzan by $(amount___5)%."
     },
     "effect_keys": [
         {
@@ -487,7 +496,7 @@ Unknown.
             "effect_string": "buff_upgrade,400,15942,0",
             "apply_manually": true,
             "off_when_benched": true,
-            "override_key_desc": "Increase the base value of Noble of Menzoberranzan by 400%."
+            "override_key_desc": "Increases the base value of Noble of Menzoberranzan by 400%."
         }
     ],
     "requirements": "",
@@ -511,7 +520,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **House Matron** (Guess)
-> Noble of Menzoberranzan now also grants Strife stacks for Neutral Champions in the formation (on the good/evil axis).
+> Noble of Menzoberranzan now also grants Strife stacks for Neutral Champions in the formation (on the Good/Evil axis).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -519,7 +528,7 @@ Unknown.
     "id": 2119,
     "flavour_text": "",
     "description": {
-        "desc": "Noble of Menzoberranzan now also grants Strife stacks for Neutral Champions in the formation (on the good/evil axis)."
+        "desc": "Noble of Menzoberranzan now also grants Strife stacks for Neutral Champions in the formation (on the Good/Evil axis)."
     },
     "effect_keys": [
         {
@@ -639,7 +648,8 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "minthara_multiply_max_stacks,100"
+            "effect_string": "minthara_multiply_max_stacks,100",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
