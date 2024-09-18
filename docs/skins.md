@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Harvestguard Certainty Portrait](images/skin_portraits/harvestguardcertainty.png)<span class="featTooltipContents">ID: 468**Harvestguard Certainty (Certainty)**<img src="images/skin_models/harvestguardcertainty.gif" alt="Harvestguard Certainty Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Harvestguard Certainty
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Harvestguard Certainty Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">18 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Harvestguard Farideh Portrait](images/skin_portraits/harvestguardfarideh.png)<span class="featTooltipContents">ID: 469**Harvestguard Farideh (Farideh)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/harvestguardfarideh.gif" alt="Harvestguard Farideh Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/harvestguardfarideh-flames.gif" alt="Harvestguard Farideh Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Harvestguard Farideh
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Harvestguard Farideh Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">18 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Chibi Gale Portrait](images/skin_portraits/chibigale.png)<span class="featTooltipContents">ID: 470**Chibi Gale (Gale)**<img src="images/skin_models/chibigale.gif" alt="Chibi Gale Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Chibi Gale
         </span>
         <span class="skinTableSource">

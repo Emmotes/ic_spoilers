@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Certainty</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1503**Tenacious (Certainty)**If I can survive quarterly meetings, I can survive this!<code>increase_ability_score,con,2</code></span>Tenacious
-        </span>
-        <span class="featTableEffect">
-            <span>Stat: +2 Constitution</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>18 Sept 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Farideh</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Mehen's Pride Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1872**Mehen's Pride (Farideh)**You may be stronger than me, but you're not stronger than my sister!<code>buff_upgrade,80,6974</code></span>Mehen's Pride
-        </span>
-        <span class="featTableEffect">
-            <span>80% Sister, Sister</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>18 Sept 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>BBEG</span>
         </span>
         <span class="featTableIcon4">
