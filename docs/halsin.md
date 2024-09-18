@@ -105,7 +105,64 @@ Unknown.
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Armor Icon](images/halsin/25008.png)</span><span class="itemTableIcon2">![Armor Icon](images/halsin/25008.png)</span><span class="itemTableIcon3">![Armor Icon](images/halsin/25009.png)</span><span class="itemTableIcon4">![Armor Icon](images/halsin/25010.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Armor
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Boots Icon](images/halsin/25011.png)</span><span class="itemTableIcon2">![Boots Icon](images/halsin/25011.png)</span><span class="itemTableIcon3">![Boots Icon](images/halsin/25012.png)</span><span class="itemTableIcon4">![Boots Icon](images/halsin/25013.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Boots
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Healing Stuff Icon](images/halsin/25014.png)</span><span class="itemTableIcon2">![Healing Stuff Icon](images/halsin/25014.png)</span><span class="itemTableIcon3">![Healing Stuff Icon](images/halsin/25015.png)</span><span class="itemTableIcon4">![Healing Stuff Icon](images/halsin/25016.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Healing Stuff
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Magic Items Icon](images/halsin/25017.png)</span><span class="itemTableIcon2">![Magic Items Icon](images/halsin/25017.png)</span><span class="itemTableIcon3">![Magic Items Icon](images/halsin/25018.png)</span><span class="itemTableIcon4">![Magic Items Icon](images/halsin/25019.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Magic Items
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Staff Icon](images/halsin/25020.png)</span><span class="itemTableIcon2">![Staff Icon](images/halsin/25020.png)</span><span class="itemTableIcon3">![Staff Icon](images/halsin/25021.png)</span><span class="itemTableIcon4">![Staff Icon](images/halsin/25022.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Staff
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Story Items Icon](images/halsin/25023.png)</span><span class="itemTableIcon2">![Story Items Icon](images/halsin/25023.png)</span><span class="itemTableIcon3">![Story Items Icon](images/halsin/25024.png)</span><span class="itemTableIcon4">![Story Items Icon](images/halsin/25025.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Story Items
+        </span>
+    </span>
+</span>
 
 # Feats
 
