@@ -93,7 +93,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>09 Oct 2024</span>
+            <span>02 Oct 2024</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -1293,6 +1293,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>03 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Warduke</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Immolation Feat Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 1049**Immolation Feat (Warduke)**<code>immolation,1,5</code></span>Immolation Feat
+        </span>
+        <span class="featTableEffect">
+            <span>1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Feb 2032</span>
         </span>
     </span>
     <span class="featTableRow">

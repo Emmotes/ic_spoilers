@@ -44,12 +44,12 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             <span style="margin-right: 8px;">$27.99</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">02 Oct 2024</span>
+            <span style="margin-right: 8px;">09 Oct 2024</span>
         </span>
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 226**Mirror Shade**</span></span>Mirror Shade
+            <span class="tooltipHolder" style="width:max-content">![Mirror Shade Portrait](images/familiars/mirrorshade.png)<span class="featTooltipContents">ID: 226**Mirror Shade**<img src="images/familiars/mirrorshade.gif" alt="Mirror Shade Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Mirror Shade
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Avatar of Leira Familiar Pack</span>
@@ -58,12 +58,12 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">02 Oct 2024</span>
+            <span style="margin-right: 8px;">16 Oct 2024</span>
         </span>
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 224**Vincent the Vargouille**</span></span>Vincent the Vargouille
+            <span class="tooltipHolder" style="width:max-content">![Vincent the Vargouille Portrait](images/familiars/vincentthevargouille.png)<span class="featTooltipContents">ID: 224**Vincent the Vargouille**<img src="images/familiars/vincentthevargouille.gif" alt="Vincent the Vargouille Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Vincent the Vargouille
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Vincent the Vargouille Familiar Pack</span>
@@ -77,7 +77,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 225**Creeping Hut**</span></span>Creeping Hut
+            <span class="tooltipHolder" style="width:max-content">![Creeping Hut Portrait](images/familiars/creepinghut.png)<span class="featTooltipContents">ID: 225**Creeping Hut**<img src="images/familiars/creepinghut.gif" alt="Creeping Hut Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Creeping Hut
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Creeping Hut Familiar Pack</span>

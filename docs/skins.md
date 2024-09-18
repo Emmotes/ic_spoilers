@@ -25,7 +25,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Plushie BBEG Portrait](images/skin_portraits/plushiebbeg.png)<span class="featTooltipContents">ID: 471**Plushie BBEG (BBEG)**<img src="images/skin_models/plushiebbeg.gif" alt="Plushie BBEG Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Plushie BBEG
+            <span class="tooltipHolder" style="width:max-content">![Plushie BBEG Portrait](images/skin_portraits/plushiebbeg.png)<span class="featTooltipContents">ID: 471**Plushie BBEG (BBEG)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/plushiebbeg.gif" alt="Plushie BBEG Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/plushiebbeg-zombie.gif" alt="Plushie BBEG Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Plushie BBEG
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Plushie BBEG Skin & Feat Pack</span>
@@ -67,6 +67,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Ascended Astarion Portrait](images/skin_portraits/ascendedastarion.png)<span class="featTooltipContents">ID: 473**Ascended Astarion (Astarion)**<img src="images/skin_models/ascendedastarion.gif" alt="Ascended Astarion Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Ascended Astarion
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Ascended Astarion Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">02 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Darklord Kas Portrait](images/skin_portraits/darklordkas.png)<span class="featTooltipContents">ID: 474**Darklord Kas (Kas)**<img src="images/skin_models/darklordkas.gif" alt="Darklord Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Darklord Kas
         </span>
         <span class="skinTableSource">
@@ -81,24 +95,10 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Vampire Hunter Voronika Portrait](images/skin_portraits/vampirehuntervoronika.png)<span class="featTooltipContents">ID: 472**Vampire Hunter Voronika (Voronika)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/vampirehuntervoronika.gif" alt="Vampire Hunter Voronika Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/vampirehuntervoronika-darklord.gif" alt="Vampire Hunter Voronika Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Vampire Hunter Voronika
+            <span class="tooltipHolder" style="width:max-content">![Cursed Banshee Thellora Portrait](images/skin_portraits/cursedbansheethellora.png)<span class="featTooltipContents">ID: 479**Cursed Banshee Thellora (Thellora)**<img src="images/skin_models/cursedbansheethellora.gif" alt="Cursed Banshee Thellora Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Cursed Banshee Thellora
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Vampire Hunter Voronika Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">02 Oct 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Ascended Astarion Portrait](images/skin_portraits/ascendedastarion.png)<span class="featTooltipContents">ID: 473**Ascended Astarion (Astarion)**<img src="images/skin_models/ascendedastarion.gif" alt="Ascended Astarion Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Ascended Astarion
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Ascended Astarion Skin & Feat Pack</span>
+            <span style="margin-left: 8px;">Cursed Banshee Thellora Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">$11.99</span>
@@ -109,13 +109,13 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Cursed Banshee Thellora Portrait](images/skin_portraits/cursedbansheethellora.png)<span class="featTooltipContents">ID: 479**Cursed Banshee Thellora (Thellora)**<img src="images/skin_models/cursedbansheethellora.gif" alt="Cursed Banshee Thellora Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Cursed Banshee Thellora
+            <span class="tooltipHolder" style="width:max-content">![Vampire Hunter Voronika Portrait](images/skin_portraits/vampirehuntervoronika.png)<span class="featTooltipContents">ID: 472**Vampire Hunter Voronika (Voronika)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/vampirehuntervoronika.gif" alt="Vampire Hunter Voronika Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/vampirehuntervoronika-darklord.gif" alt="Vampire Hunter Voronika Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Vampire Hunter Voronika
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Cursed Banshee Thellora Skin & Feat Pack</span>
+            <span style="margin-left: 8px;">Vampire Hunter Voronika Theme Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
+            <span style="margin-right: 8px;">$27.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">09 Oct 2024</span>
@@ -221,7 +221,21 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 484**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
+            <span class="tooltipHolder" style="width:max-content">![Goblin Glitch Calliope Portrait](images/skin_portraits/goblinglitchcalliope.png)<span class="featTooltipContents">ID: 483**Goblin Glitch Calliope (Calliope)**<img src="images/skin_models/goblinglitchcalliope.gif" alt="Goblin Glitch Calliope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Goblin Glitch Calliope
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">27 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 485**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
@@ -235,21 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Goblin Calliope Portrait](images/skin_portraits/goblincalliope.png)<span class="featTooltipContents">ID: 483**Goblin Calliope (Calliope)**<img src="images/skin_models/goblincalliope.gif" alt="Goblin Calliope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Goblin Calliope
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 482**Herald of the Absolute Minthara (Minthara)**<img src="images/skin_models/heraldoftheabsoluteminthara.gif" alt="Herald of the Absolute Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of the Absolute Minthara
+            <span class="tooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 484**Herald of the Absolute Minthara (Minthara)**<img src="images/skin_models/heraldoftheabsoluteminthara.gif" alt="Herald of the Absolute Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of the Absolute Minthara
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
