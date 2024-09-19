@@ -95,7 +95,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Plushie BBEG Skin Portrait](images/premiums/skin_471.png)<span class="itemTooltipContents">ID: 471**Plushie BBEG (BBEG)**<img src="images/premiums/skin_471.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Plushie BBEG Skin Portrait](images/premiums/skin_471.png)<span class="itemTooltipContents">ID: 471**Plushie BBEG (BBEG)**<img src="images/premiums/skin_471.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_471-zombie.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -468,7 +468,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Vampire Hunter Voronika Skin Portrait](images/premiums/skin_472.png)<span class="itemTooltipContents">ID: 472**Vampire Hunter Voronika (Voronika)**<img src="images/premiums/skin_472.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Vampire Hunter Voronika Skin Portrait](images/premiums/skin_472.png)<span class="itemTooltipContents">ID: 472**Vampire Hunter Voronika (Voronika)**<img src="images/premiums/skin_472.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_472-darklord.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
