@@ -1317,7 +1317,7 @@ Upgrades:
             The Rod of Seven Parts
         </span>
         <span class="itemTableEffect">
-            <span>Spawn of Kas</span>
+            <span>Spawn of Kas (Prestack)</span>
         </span>
     </span>
     <span class="itemTableRow">
