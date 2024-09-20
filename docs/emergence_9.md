@@ -24,11 +24,11 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Golden Epic](images/general/unknown.png)<span class="itemTooltipContents">ID: 3637**slot 3 (Kas)**slot 3</span></span>
+            <span class="tooltipHolder">![Golden Epic Icon for Kas Slot 3](images/emergence_9/ge_3637.png)<span class="itemTooltipContents">ID: 3637**Eye of Vecna (Kas)**Sometimes I feel as if he can still see me through it...<code>buff_upgrade,100,15621,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
-            <span style="margin-left:15px"></span>
+            <span style="margin-left:15px">Life Drain</span>
             <span style="margin-left:15px">Kas (Slot 3)</span>
         </span>
     </span>
