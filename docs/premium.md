@@ -319,7 +319,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Kas Champion Unlock Portrait](images/premiums/unlock_champion_153.png)<span class="itemTooltipContents">ID: 153**Kas**<img src="images/premiums/unlock_champion_153.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Kas Champion Unlock Portrait](images/premiums/unlock_champion_153.png)<span class="itemTooltipContents">ID: 153**Kas (Seat 6)**<img src="images/premiums/unlock_champion_153.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -337,11 +337,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1940**Feat**???: 1940</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![The Sword of Kas Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 1940**The Sword of Kas**The voice... it's clearer now... it... it wants your death.<code>hero_dps_multiplier_mult,400<br>effect_def,2105</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 1940</span>
+            <span style="margin-left:15px">The Sword of Kas</span>
+            <span style="margin-left:15px">Kas (400% Self DPS & ???: [hero_dps_multiplier_mult,400, Kas' damage is increased by 400% and his base attack cooldown is reset at the start of every area., effect_def,2105] & ???: [hero_dps_multiplier_mult,400, Kas' damage is increased by 400% and his base attack cooldown is reset at the start of every area., effect_def,2105])</span>
         </span>
     </span>
     <span class="premiumsTableItem">

@@ -24,7 +24,7 @@ These are the event champions that are upcoming and all the information we know 
                 Kas
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human / Vampire Fighter (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Fighter</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Liars' Night - 2 October 2024</span>
