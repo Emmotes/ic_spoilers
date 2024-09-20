@@ -62,8 +62,8 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableDate">
                 <span>20 June 2024</span>
             </span>
-            <span class="postSeasonTableDateLate">
-                <span>20 September 2024 (Guess) (Late)</span>
+            <span class="postSeasonTableDate">
+                <span>26 September 2024 (Guess)</span>
             </span>
         </span>
     </span>
@@ -116,8 +116,8 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableDate">
                 <span>20 June 2024</span>
             </span>
-            <span class="postSeasonTableDateLate">
-                <span>20 September 2024 (Guess) (Late)</span>
+            <span class="postSeasonTableDate">
+                <span>26 September 2024 (Guess)</span>
             </span>
         </span>
     </span>
