@@ -104,7 +104,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![The Sword of Kas Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1940**The Sword of Kas (Kas)**The voice... it's clearer now... it... it wants your death.<code>hero_dps_multiplier_mult,400<br>effect_def,2105</code></span>The Sword of Kas
         </span>
         <span class="featTableEffect">
-            <span>400% Self DPS & ???: [hero_dps_multiplier_mult,400, Kas' damage is increased by 400% and his base attack cooldown is reset at the start of every area., effect_def,2105] & ???: [hero_dps_multiplier_mult,400, Kas' damage is increased by 400% and his base attack cooldown is reset at the start of every area., effect_def,2105]</span>
+            <span>400% Self DPS & Reset Attack CD on Area Change</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>

@@ -1538,7 +1538,7 @@ This list will only show feats that are going to be available on the release of 
             ![The Sword of Kas Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1940**The Sword of Kas (Kas)**The voice... it's clearer now... it... it wants your death.<code>hero_dps_multiplier_mult,400<br>effect_def,2105</code></span>The Sword of Kas
         </span>
         <span class="featTableEffect">
-            <span>400% Self DPS & ???: [hero_dps_multiplier_mult,400, Kas' damage is increased by 400% and his base attack cooldown is reset at the start of every area., effect_def,2105] & ???: [hero_dps_multiplier_mult,400, Kas' damage is increased by 400% and his base attack cooldown is reset at the start of every area., effect_def,2105]</span>
+            <span>400% Self DPS & Reset Attack CD on Area Change</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -1549,7 +1549,7 @@ This list will only show feats that are going to be available on the release of 
             ![Stake to the Heart Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1941**Stake to the Heart (Kas)**ARGH! HOW DARE YOU! I will consume you in my rage!<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span>Stake to the Heart
         </span>
         <span class="featTableEffect">
-            <span>400% Self DPS & Prevent Healing for 10s & ???: [hero_dps_multiplier_mult,400, vicious_damage,10, Kas' attacks prevent the target from healing for $amount seconds]</span>
+            <span>400% Self DPS & Prevent Healing for 10s</span>
         </span>
         <span class="featTableSource">
             <span>Event Bonus</span>

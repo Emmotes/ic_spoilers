@@ -342,7 +342,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">The Sword of Kas</span>
-            <span style="margin-left:15px">Kas (400% Self DPS & ???: [hero_dps_multiplier_mult,400, Kas' damage is increased by 400% and his base attack cooldown is reset at the start of every area., effect_def,2105] & ???: [hero_dps_multiplier_mult,400, Kas' damage is increased by 400% and his base attack cooldown is reset at the start of every area., effect_def,2105])</span>
+            <span style="margin-left:15px">Kas (400% Self DPS & Reset Attack CD on Area Change)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
