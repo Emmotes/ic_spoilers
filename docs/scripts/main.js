@@ -13,6 +13,7 @@ const nnm = {
 	nick: "nnm",
 	map: new Map()
 };
+const patronSort = document.getElementById("patronSort");
 var devInsightsIndex = 0;
 var devInsightsTimer = devInsights[devInsightsIndex];
 var allExclusivesHidden = true;
@@ -109,6 +110,9 @@ function init() {
 		}
 		list.innerHTML = contents;
 	}
+	
+	if (patronSort!=null&&patronSort!=undefined)
+		patronSort.addEventListener(`change`,sortPatrons);
 }
 
 function updateModes(edit) {
@@ -258,4 +262,31 @@ function arachnophobe(id) {
 		ele.style.visibility = 'hidden';
 	else
 		ele.style.visibility = 'visible';
+}
+
+function sortPatrons() {
+	let optGroup = document.querySelector('#patronSort option:checked').parentElement.label;
+	let value = patronSort.value;
+	let asc = false;
+	if (optGroup == `Ascending`)
+		asc = true;
+	let eles = document.querySelectorAll('[data-sort]');
+	for (let ele of eles) {
+		let split = ele.dataset.sort.split(",");
+		let index = 0;
+		switch (value) {
+			case "name": index=1; break;
+			case "seat": index=2; break;
+			case "mirt": index=3; break;
+			case "vajra": index=4; break;
+			case "strahd": index=5; break;
+			case "zariel": index=6; break;
+			case "elminster": index=7; break;
+			default: index=0;
+		}
+		let order = split[index];
+		if (!asc)
+			order = -order;
+		ele.style.order = `${order}`;
+	}
 }

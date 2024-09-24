@@ -1042,3 +1042,15 @@ input[type="checkbox"]:checked::before {
 	margin: 5px;
 	object-fit: scale-down;
 }
+.patronSort {
+	position: absolute;
+	top: -40px;
+	right: 100px;
+	font-size: 1.1em;
+}
+.patronSort select {
+	background-color: var(--Sooty);
+	color: var(--Eggshell);
+	border: 1px solid var(--Black);
+	padding: 0 15px;
+}
