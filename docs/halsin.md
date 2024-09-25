@@ -120,7 +120,7 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Vow of Harmony** (Guess)
+**Archdruid of Emerald Grove** (Guess)
 > Halsin gains a Harmony stack for each Good Champion in the formation, including himself. Halsin increases the damage of these Champions by 100% for each Harmony stack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -274,7 +274,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Archdruid of Emerald Grove** (Guess)
+**Vow of Harmony** (Guess)
 > Halsin provides benefits based on the number of Harmony stacks he has.  
 > 3+ Harmony stacks: Nurturing: The effect of Nature's Revival is increased by 20% for each Harmony stack he has, stacking additively.  
 > 5+ Harmony stacks: Hurrying: The effect of Call To Action is increased by 50%.  
