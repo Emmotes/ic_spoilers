@@ -189,8 +189,6 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Call to Action** (Guess)
 > In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is 10% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or kills left to do.  
->   
-> Current Chance: %.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -524,8 +522,6 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Safe of the Transformed** (Guess)
 > Halsin increases the number of Ceremorphosis stacks the party has by 40%, rounded down.  
->   
-> Bonus Stacks: 40.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
