@@ -190,7 +190,7 @@ Unknown.
 **Call to Action** (Guess)
 > In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is 10% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or kills left to do.  
 >   
-> Current Chance: `$halsin_chance_to_instant_complete`%.
+> Current Chance: %.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -277,25 +277,95 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Archdruid of Emerald Grove** (Guess)
-> Unknown effect.
+> Halsin provides benefits based on the number of Harmony stacks he has.  
+> 3+ Harmony stacks: Nurturing: The effect of Nature's Revival is increased by 20% for each Harmony stack he has, stacking additively.  
+> 5+ Harmony stacks: Hurrying: The effect of Call To Action is increased by 50%.  
+> 7+ Harmony stacks: Recharging: When a Champion uses an Ultimate Attack, it recharges with 10% of the cooldown already done.  
+> 9+ Harmony stacks: Growing: Increase the base value of Archdruid of Emerald Grove by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2139,
-    "graphic": "Icons/Equipment/Birdsong/Icon_Equipment_Birdsong_Lute3",
-    "v": 5,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "equipment"
-        ],
-        "available_sizes": [
-            "default",
-            "128x128"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": "Halsin provides benefits based on the number of Harmony stacks he has.^3+ Harmony stacks: Nurturing: The effect of Nature's Revival is increased by $(amount___2)% for each Harmony stack he has, stacking additively.^5+ Harmony stacks: Hurrying: The effect of Call To Action is increased by $(amount___3)%.^7+ Harmony stacks: Recharging: When a Champion uses an Ultimate Attack, it recharges with $(amount___4)% of the cooldown already done.^9+ Harmony stacks: Growing: Increase the base value of Archdruid of Emerald Grove by $(amount___5)%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "apply_effects_at_stacks",
+            "show_description": false,
+            "apply_effect_stack_amounts": [
+                3,
+                5,
+                7,
+                9
+            ],
+            "show_stacks": true,
+            "stacks_are_bonus": false,
+            "stacks_from_amount_func": "per_crusader",
+            "target_filters": [
+                {
+                    "type": "tags",
+                    "tags": "good"
+                }
+            ],
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "off_when_benched": true,
+            "active_effect_key_description_prepender": "- ",
+            "active_effect_key_description_joiner": "^"
+        },
+        {
+            "effect_string": "buff_upgrade,20,15964,0",
+            "apply_manually": true,
+            "off_when_benched": true,
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`good`)",
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "override_key_desc": "The effect of Nature's Revival is increased by 20% for each Harmony stack he has, stacking additively.",
+            "show_bonus": false,
+            "show_stacks": false
+        },
+        {
+            "effect_string": "buff_upgrade,50,15963,0",
+            "apply_manually": true,
+            "off_when_benched": true,
+            "override_key_desc": "The effect of Call To Action is increased by 50%."
+        },
+        {
+            "effect_string": "recharge_ultimates_on_use,10",
+            "apply_manually": true,
+            "off_when_benched": true,
+            "override_key_desc": "When a Champion uses an Ultimate Attack, it recharges with 10% of the cooldown already done.",
+            "show_bonus": false,
+            "show_stacks": false
+        },
+        {
+            "effect_string": "buff_upgrade,400,15962,0",
+            "apply_manually": true,
+            "off_when_benched": true,
+            "override_key_desc": "Increase the base value of Archdruid of Emerald Grove by 400%."
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24878,
+    "large_graphic_id": 24872,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -305,25 +375,58 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unlock Ultimate** (Guess)
-> Unknown effect.
+> Unlocks Halsin's Bear Form Ultimate Attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2143,
-    "graphic": "Icons/Equipment/Birdsong/Icon_Equipment_Birdsong_Vest1",
-    "v": 5,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "equipment"
-        ],
-        "available_sizes": [
-            "default",
-            "128x128"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": "Unlocks Halsin's Bear Form Ultimate Attack"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "minthara_ultimate",
+            "skip_effect_key_desc": true,
+            "max_duration": 30,
+            "startup_delay": 1.2,
+            "knockback_effect": {
+                "effect_string": "push_back_monster,10"
+            },
+            "stop_spawn_effect": {
+                "effect_string": "stop_spawns",
+                "include_bosses": true,
+                "targets": [
+                    "area"
+                ]
+            },
+            "drider_data": {
+                "start_pos": [
+                    -200,
+                    725
+                ],
+                "end_pos": [
+                    2200,
+                    725
+                ],
+                "move_duration": 4,
+                "anim_stride": 250,
+                "glow_graphic_id": 21930
+            }
+        },
+        {
+            "effect_string": "set_ultimate_attack",
+            "skip_effect_key_desc": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": false,
+        "owner_use_outgoing_description": false,
+        "formation_circle_icon": false
     }
 }
 </pre>
