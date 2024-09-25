@@ -142,7 +142,10 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="stoki.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Stoki Portrait Icon](images/stoki/portrait.png)
         </span>
@@ -161,6 +164,9 @@ A list of champions that will be seeing reworks in upcoming events.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Timed Misc
