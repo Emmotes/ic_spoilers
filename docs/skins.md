@@ -11,6 +11,20 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)<span class="featTooltipContents">ID: 442**Baldur's Gate Duke Ravengard (Ravengard)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/baldursgatedukeravengard.gif" alt="Baldur's Gate Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/baldursgatedukeravengard-enflamed.gif" alt="Baldur's Gate Duke Ravengard Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Baldur's Gate Duke Ravengard
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Gem Shop</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">20,000</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">25 Sept 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Chibi Gale Portrait](images/skin_portraits/chibigale.png)<span class="featTooltipContents">ID: 470**Chibi Gale (Gale)**<img src="images/skin_models/chibigale.gif" alt="Chibi Gale Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Chibi Gale
         </span>
         <span class="skinTableSource">
@@ -39,20 +53,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)<span class="featTooltipContents">ID: 442**Baldur's Gate Duke Ravengard (Ravengard)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/baldursgatedukeravengard.gif" alt="Baldur's Gate Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/baldursgatedukeravengard-enflamed.gif" alt="Baldur's Gate Duke Ravengard Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Baldur's Gate Duke Ravengard
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Gem Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">20,000</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">26 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)<span class="featTooltipContents">ID: 443**Wyrm Slayer Warduke (Warduke)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/wyrmslayerwarduke.gif" alt="Wyrm Slayer Warduke Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/wyrmslayerwarduke-flame_tongue.gif" alt="Wyrm Slayer Warduke Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Wyrm Slayer Warduke
         </span>
         <span class="skinTableSource">
@@ -62,7 +62,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span style="margin-right: 8px;">20,000</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">26 Sept 2024</span>
+            <span style="margin-right: 8px;">25 Sept 2024</span>
         </span>
     </span>
     <span class="skinTableRow">
@@ -207,7 +207,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 485**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
+            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 487**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Mixed 15 Variant (Guess)</span>
@@ -249,7 +249,35 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 484**Herald of the Absolute Minthara (Minthara)**<img src="images/skin_models/heraldoftheabsoluteminthara.gif" alt="Herald of the Absolute Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of the Absolute Minthara
+            <span class="tooltipHolder" style="width:max-content">![Herald Penelope Portrait](images/skin_portraits/heraldpenelope.png)<span class="featTooltipContents">ID: 485**Herald Penelope (Penelope)**<img src="images/skin_models/heraldpenelope.gif" alt="Herald Penelope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald Penelope
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Herald Sentry Portrait](images/skin_portraits/heraldsentry.png)<span class="featTooltipContents">ID: 484**Herald Sentry (Sentry)**<img src="images/skin_models/heraldsentry.gif" alt="Herald Sentry Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald Sentry
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 486**Herald of the Absolute Minthara (Minthara)**<img src="images/skin_models/heraldoftheabsoluteminthara.gif" alt="Herald of the Absolute Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of the Absolute Minthara
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>

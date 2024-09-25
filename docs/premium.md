@@ -865,7 +865,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Vincent the Vargouille Familiar Portrait](images/premiums/familiar_224.png)<span class="itemTooltipContents">ID: 224**Vincent the Vargouille**A Vargouille's shriek can paralyze creatures with fear, which also makes them susceptible to the vargouille’s curse!<img src="images/premiums/familiar_224.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Vincent the Vargouille Familiar Portrait](images/premiums/familiar_224.png)<span class="itemTooltipContents">ID: 224**Vincent the Vargouille**A Vargouille's shriek can paralyze creatures with fear, which also makes them susceptible to the vargouille's curse!<img src="images/premiums/familiar_224.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

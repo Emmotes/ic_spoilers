@@ -76,7 +76,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>26 Sept 2024</span>
+            <span>25 Sept 2024</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -298,6 +298,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>30 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Regis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1349**Prodigal Leader (Regis)**Win or lose -- we still made a difference!<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>18 Dec 2024</span>
         </span>
     </span>
 </span>
@@ -875,23 +892,6 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Regis</span>
         </span>
         <span class="featTableIcon4">
-            ![Advisor Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1349**Advisor (Regis)**Win or lose -- we still made a difference!<code>global_dps_multiplier_mult,50</code></span>Advisor
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Regis</span>
-        </span>
-        <span class="featTableIcon4">
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1352**Master's Precision (Regis)**This mace isn't just decoration!<code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
@@ -1310,23 +1310,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>03 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Warduke</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Immolation Feat Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 1049**Immolation Feat (Warduke)**<code>immolation,1,5</code></span>Immolation Feat
-        </span>
-        <span class="featTableEffect">
-            <span>1s BUD per sec for 5s</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Feb 2032</span>
         </span>
     </span>
     <span class="featTableRow">
