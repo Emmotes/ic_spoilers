@@ -154,7 +154,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span class="tooltipHolder" style="width:max-content">![Nosferatu Widdle Portrait](images/skin_portraits/nosferatuwiddle.png)<span class="featTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**<img src="images/skin_models/nosferatuwiddle.gif" alt="Nosferatu Widdle Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Nosferatu Widdle
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 9 (Guess)</span>
+            <span style="margin-left: 8px;">Emergence 9</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
@@ -182,7 +182,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span class="tooltipHolder" style="width:max-content">![Vampire Nahara Portrait](images/skin_portraits/vampirenahara.png)<span class="featTooltipContents">ID: 462**Vampire Nahara (Nahara)**<img src="images/skin_models/vampirenahara.gif" alt="Vampire Nahara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Vampire Nahara
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Emergence 9 (Guess)</span>
+            <span style="margin-left: 8px;">Emergence 9</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
