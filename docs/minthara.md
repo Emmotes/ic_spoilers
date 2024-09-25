@@ -207,7 +207,15 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
     "id": 2115,
     "flavour_text": "",
     "description": {
-        "desc": "Minthara gains a Strife stack for each Evil Champion in the formation, including herself. Minthara increases the damage of these Champions by $(amount)% for each Strife stack, stacking multiplicatively."
+        "conditions": [
+            {
+                "condition": "upgrade_purchased 15946",
+                "desc": "Minthara gains a Strife stack for each Evil or Neutral (Good/Evil axis) Champion in the formation, including herself. Minthara increases the damage of these Champions by $(amount)% for each Strife stack, stacking multiplicatively."
+            },
+            {
+                "desc": "Minthara gains a Strife stack for each Evil Champion in the formation, including herself. Minthara increases the damage of these Champions by $(amount)% for each Strife stack, stacking multiplicatively."
+            }
+        ]
     },
     "effect_keys": [
         {
@@ -289,6 +297,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
             "off_when_benched": true,
             "outgoing_buffs": false,
             "effect_string": "minthara_ceremorphosis_stacks,1",
+            "manual_stacking": true,
             "stacks_multiply": false,
             "show_stacks": true,
             "stack_title": "Minthara Ceremorphosis Stacks",
@@ -323,7 +332,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
     "large_graphic_id": 24870,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -407,7 +416,8 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -537,7 +547,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
                 "filter_targets": [
                     {
                         "type": "hero_expr",
-                        "hero_expr": "!HasTag(`good`)"
+                        "hero_expr": "HasTag(`geneutral`)||HasTag(`evil`)"
                     }
                 ]
             },
@@ -546,7 +556,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
         {
             "effect_string": "change_upgrade_data,15942,1",
             "data": {
-                "per_hero_expr": "!HasTag(`good`)"
+                "per_hero_expr": "HasTag(`geneutral`)||HasTag(`evil`)"
             },
             "off_when_benched": true,
             "skip_effect_key_desc": true
@@ -554,7 +564,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
         {
             "effect_string": "change_upgrade_data,15944,1",
             "data": {
-                "max_stack_expression": "!HasTag(`good`)"
+                "max_stack_expression": "HasTag(`geneutral`)||HasTag(`evil`)"
             },
             "off_when_benched": true,
             "skip_effect_key_desc": true
@@ -565,7 +575,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
                 "target_filters": [
                     {
                         "type": "tags",
-                        "tags": "!evil"
+                        "tags": "evil|geneutral"
                     }
                 ]
             },
@@ -575,7 +585,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
         {
             "effect_string": "change_upgrade_data,15945,1",
             "data": {
-                "per_hero_expr": "!HasTag(`good`)"
+                "per_hero_expr": "HasTag(`geneutral`)||HasTag(`evil`)"
             },
             "off_when_benched": true,
             "skip_effect_key_desc": true
@@ -745,20 +755,20 @@ Unknown.
 ![Ex-True Soul of the Absolute Icon](images/minthara/24859.png) **Variant 1: Ex-True Soul of the Absolute** (Complete Area 75)
 > Minthara starts in the formation. She can be moved, but not removed.  
 > You may only use Evil and/or Neutral Champions.  
-> Getting to know Minthara: Minthara works well with Evil Champions, and a specialization choice extends that to include Neutral Champions.
+> Getting to Know Minthara: Minthara works well with Evil Champions, and a specialization choice extends that to include Neutral Champions.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Moonrise Escape Icon](images/minthara/24860.png) **Variant 2: Moonrise Escape** (Complete Area 125)
 > Minthara starts in the formation. She can be moved, but not removed.  
 > You may not use tanking Champions other than Minthara.  
 > One Zealot of the Absolute with 8 armored health spawns with each wave. They don't drop gold nor count towards quest progress.  
-> Getting to know Minthara: Minthara is a Tanking Champion that can help cut through enemies with armored or segmented health. Increase her Strife stacks to 5 or more to make it even easier!
+> Getting to Know Minthara: Minthara is a Tanking Champion that can help cut through enemies with armored or segmented health. Increase her Strife stacks to 5 or more to make it even easier!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Brand Value Icon](images/minthara/24861.png) **Variant 3: Brand Value** (Complete Area 175)
 > Minthara starts in the formation with her Soul Branding ability unlocked. She can be moved, but not removed.  
 > Enemies that don't have an active debuff reduce all normal attack damage to just 1 point of damage.  
-> Getting to know Minthara: Minthara debuffs enemies with each attack. Use her and other debuffing Champions to cut through these pesky foes!
+> Getting to Know Minthara: Minthara debuffs enemies with each attack. Use her and other debuffing Champions to cut through these pesky foes!
 </div></div>
 
 # Other Champion Images
