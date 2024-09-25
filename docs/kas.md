@@ -1125,7 +1125,7 @@ Upgrades:
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Kas the Bloody Handed Icon](images/kas/icon_kasthebloodyhanded.png) **Kas the Bloody Handed** (Level: 180)
-> Kas increases the effect of Life Drain by 100% and evil Champions attack faster as their base attack cooldown is reduced by 0.5 seconds.
+> Kas increases the effect of Life Drain by 100% and Evil Champions attack faster as their base attack cooldown is reduced by 0.5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1147,7 +1147,7 @@ Upgrades:
     "id": 2085,
     "flavour_text": "",
     "description": {
-        "desc": "Kas increases the effect of Life Drain by $(amount)% and evil Champions attack faster as their base attack cooldown is reduced by 0.5 seconds."
+        "desc": "Kas increases the effect of Life Drain by $(amount)% and Evil Champions attack faster as their base attack cooldown is reduced by 0.5 seconds."
     },
     "effect_keys": [
         {
