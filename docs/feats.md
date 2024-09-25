@@ -30,57 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>BBEG</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1348**Vicious Damage (BBEG)**'Now you face me at my true potential! Victory WILL be mine!'<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span>Vicious Damage
-        </span>
-        <span class="featTableEffect">
-            <span>400% Self DPS & Prevent Healing for 10s</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>25 Sept 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Gale</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Hope of the Weave Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1889**Hope of the Weave (Gale)**Just stare at the stars with me a bit longer.<code>buff_upgrade,80,14572</code></span>Hope of the Weave
-        </span>
-        <span class="featTableEffect">
-            <span>80% Netherese Orb</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>25 Sept 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Warduke</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1050**Vicious Damage (Warduke)**They had it coming.<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span>Vicious Damage
-        </span>
-        <span class="featTableEffect">
-            <span>400% Self DPS & Prevent Healing for 10s</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>25 Sept 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Astarion</span>
         </span>
         <span class="featTableIcon4">

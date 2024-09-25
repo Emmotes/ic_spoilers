@@ -11,62 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Baldur's Gate Duke Ravengard Portrait](images/skin_portraits/baldursgatedukeravengard.png)<span class="featTooltipContents">ID: 442**Baldur's Gate Duke Ravengard (Ravengard)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/baldursgatedukeravengard.gif" alt="Baldur's Gate Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/baldursgatedukeravengard-enflamed.gif" alt="Baldur's Gate Duke Ravengard Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Baldur's Gate Duke Ravengard
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Gem Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">20,000</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">25 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Chibi Gale Portrait](images/skin_portraits/chibigale.png)<span class="featTooltipContents">ID: 470**Chibi Gale (Gale)**<img src="images/skin_models/chibigale.gif" alt="Chibi Gale Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Chibi Gale
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Chibi Gale Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">25 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Plushie BBEG Portrait](images/skin_portraits/plushiebbeg.png)<span class="featTooltipContents">ID: 471**Plushie BBEG (BBEG)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/plushiebbeg.gif" alt="Plushie BBEG Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/plushiebbeg-zombie.gif" alt="Plushie BBEG Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Plushie BBEG
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Plushie BBEG Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">25 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Wyrm Slayer Warduke Portrait](images/skin_portraits/wyrmslayerwarduke.png)<span class="featTooltipContents">ID: 443**Wyrm Slayer Warduke (Warduke)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/wyrmslayerwarduke.gif" alt="Wyrm Slayer Warduke Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/wyrmslayerwarduke-flame_tongue.gif" alt="Wyrm Slayer Warduke Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Wyrm Slayer Warduke
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Gem Shop</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">20,000</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">25 Sept 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Ascended Astarion Portrait](images/skin_portraits/ascendedastarion.png)<span class="featTooltipContents">ID: 473**Ascended Astarion (Astarion)**<img src="images/skin_models/ascendedastarion.gif" alt="Ascended Astarion Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Ascended Astarion
         </span>
         <span class="skinTableSource">
