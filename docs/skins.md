@@ -207,6 +207,20 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 485**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Mixed 15 Variant (Guess)</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">30 Oct 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Devil Wyll Portrait](images/skin_portraits/devilwyll.png)<span class="featTooltipContents">ID: 477**Devil Wyll (Wyll)**<img src="images/skin_models/devilwyll.gif" alt="Devil Wyll Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Devil Wyll
         </span>
         <span class="skinTableSource">
@@ -231,20 +245,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">27 Nov 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 485**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
     <span class="skinTableRow">
