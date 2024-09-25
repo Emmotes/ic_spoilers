@@ -190,7 +190,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "requirements": "",
     "graphic_id": 24880,
     "large_graphic_id": 24874,
-    "properties": []
+    "properties": {
+        "owner_use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -270,7 +272,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 10774,
     "large_graphic_id": 0,
     "properties": {
-        "is_buff_incoming_formation_abilities_target": false
+        "is_buff_incoming_formation_abilities_target": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -310,7 +313,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 1,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -462,7 +466,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 > Sergeant Knox starts in the formation. He cannot be moved or removed.   
 > The damage of all Champions is increased by 50% if Celeste is in the formation, and an additional 50% if Makos is in the formation.  
 > Enemy damage & Speed is increased by 100%.   
-> Getting to know Sergeant Knox: Knox works best with his fellow Neverwinter Allies Celeste & Makos in the formation. Place them directly behind Knox to maximize their benefit!
+> Getting to know Sergeant Knox: Knox works best with his fellow Neverwinter Allies Celeste & Makos in the formation.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Afterparty Icon](images/sgtknox/10762.png) **Variant 2: Afterparty** (Complete Area 125)
