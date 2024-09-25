@@ -15,115 +15,6 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![WyrmSlayer Giveaway Wyrm Slayer Celebration 2024 Icon](images/general/wyrmslayer.png)**WyrmSlayer Giveaway** - Wyrm Slayer Celebration 2024
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1050**Vicious Damage (Warduke)**They had it coming.<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Vicious Damage</span>
-                        <span style="margin-left:15px">Warduke (400% Self DPS & Prevent Healing for 10s)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Wyrm Slayer Warduke Skin Icon](images/exclusivities/skin_23457.png)<span class="featTooltipContents">ID: 443**Wyrm Slayer Warduke (Warduke)**<img src="images/exclusivities/skin_23454.gif" alt="Wyrm Slayer Warduke Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Wyrm Slayer Warduke</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>13 June 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>20 June 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>26 September 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![EGS Giveaway Duke Ravengard's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Duke Ravengard's Champions of Renown Pack
-            </span>
-        </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Baldur's Gate Duke Ravengard Skin Icon](images/exclusivities/skin_23918.png)<span class="featTooltipContents">ID: 442**Baldur's Gate Duke Ravengard (Ravengard)**<img src="images/exclusivities/skin_23923.gif" alt="Baldur's Gate Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Baldur's Gate Duke Ravengard</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Quirk the Homunculus Familiar Icon](images/exclusivities/fam_209.png)<span class="featTooltipContents">ID: 209**Quirk the Homunculus**A faithful, squirrel-sized companion.<br><img src="images/exclusivities/fam_209.gif" alt="Quirk the Homunculus Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Quirk the Homunculus</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>13 June 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>20 June 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>26 September 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="e7a" onclick="exclusiveToggleContent(`e7`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -238,13 +129,13 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![XBox Giveaway Lae'zel's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Lae'zel's Champions of Renown Pack
             </span>
         </span>
-        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -292,13 +183,13 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![7th Anniversary Giveaway Anniversary Celebration 2024 Icon](images/general/7th anniversary.png)**7th Anniversary Giveaway** - Anniversary Celebration 2024
             </span>
         </span>
-        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
