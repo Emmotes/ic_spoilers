@@ -694,7 +694,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Creeping Hut Familiar Portrait](images/premiums/familiar_225.png)<span class="itemTooltipContents">ID: 225**Creeping Hut**'I will not rest until the last of my son’s enemies are destroyed.' ~ Baba Lysaga<img src="images/premiums/familiar_225.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Creeping Hut Familiar Portrait](images/premiums/familiar_225.png)<span class="itemTooltipContents">ID: 225**Creeping Hut**'I will not rest until the last of my son's enemies are destroyed.' ~ Baba Lysaga<img src="images/premiums/familiar_225.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
