@@ -10,7 +10,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
 
 ### Shop Contents
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This list might not be complete - and some items are guesswork and might not even end up in this event.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This list might not be complete.*
 
 <span class="emergenceShopTableRow">
     <span class="emergenceShopTableItem">
