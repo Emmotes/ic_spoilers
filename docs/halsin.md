@@ -14,7 +14,15 @@
             ![Model GIF of Halsin](images/halsin/model.gif)
         </span>
         <span>
-        Model
+        Base Model
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Alternate Model GIF of Halsin: Bear](images/halsin/model-bear.gif)
+        </span>
+        <span>
+        Bear Model
         </span>
     </span>
 </span>
@@ -59,7 +67,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">DPS / Support / Healing / Speed (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -111,11 +119,373 @@ Unknown.
 
 # Abilities
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Vow of Harmony** (Guess)
+> Halsin gains a Harmony stack for each Good Champion in the formation, including himself. Halsin increases the damage of these Champions by 100% for each Harmony stack, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2136,
+    "flavour_text": "",
+    "description": {
+        "conditions": [
+            {
+                "condition": "upgrade_purchased 15946",
+                "desc": "Halsin gains a Harmony stack for each Good or Neutral (Good/Evil axis) Champion in the formation, including himself. Halsin increases the damage of these Champions by $(amount)% for each Harmony stack, stacking multiplicatively."
+            },
+            {
+                "desc": "Halsin gains a Harmony stack for each Good Champion in the formation, including himself. Halsin increases the damage of these Champions by $(amount)% for each Harmony stack, stacking multiplicatively."
+            }
+        ]
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(15962,0)",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasTag(`good`)"
+                }
+            ],
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`good`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "show_bonus": true,
+            "stack_title": "Harmony Stacks",
+            "off_when_benched": true,
+            "use_computed_amount_for_description": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24877,
+    "large_graphic_id": 24871,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Call to Action** (Guess)
+> In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is 10% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or kills left to do.  
+>   
+> Current Chance: `$halsin_chance_to_instant_complete`%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2137,
+    "flavour_text": "",
+    "description": {
+        "desc": "In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is $(amount)% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or kills left to do.^^Current Chance: $halsin_chance_to_instant_complete%"
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "halsin_call_to_action,10",
+            "effect_cap": 10000
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24876,
+    "large_graphic_id": 24870,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Nature's Revival** (Guess)
+> Halsin heals Champions affected by Archdruid of Emerald Grove by 10 health every second.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2138,
+    "flavour_text": "",
+    "description": {
+        "desc": "Halsin heals Champions affected by Archdruid of Emerald Grove by $(amount) health every second."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "heal,10",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasTag(`good`)"
+                }
+            ],
+            "listen_for_computed_changes": true,
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 24879,
+    "large_graphic_id": 24873,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Archdruid of Emerald Grove** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2139,
+    "graphic": "Icons/Equipment/Birdsong/Icon_Equipment_Birdsong_Lute3",
+    "v": 5,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "equipment"
+        ],
+        "available_sizes": [
+            "default",
+            "128x128"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unlock Ultimate** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2143,
+    "graphic": "Icons/Equipment/Birdsong/Icon_Equipment_Birdsong_Vest1",
+    "v": 5,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "equipment"
+        ],
+        "available_sizes": [
+            "default",
+            "128x128"
+        ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Harbinger of the Wilds** (Guess)
+> Archdruid of Emerald Grove now also grants Harmony stacks for Neutral Champions in the formation (on the good/evil axis).
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2140,
+    "flavour_text": "",
+    "description": {
+        "desc": "Archdruid of Emerald Grove now also grants Harmony stacks for Neutral Champions in the formation (on the good/evil axis)."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_upgrade_data,15962,1",
+            "data": {
+                "filter_targets": [
+                    {
+                        "type": "hero_expr",
+                        "hero_expr": "HasTag(`geneutral`)||HasTag(`good`)"
+                    }
+                ]
+            },
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "change_upgrade_data,15962,1",
+            "data": {
+                "per_hero_expr": "HasTag(`geneutral`)||HasTag(`good`)"
+            },
+            "off_when_benched": true,
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "change_upgrade_data,15964,0",
+            "data": {
+                "filter_targets": [
+                    {
+                        "type": "hero_expr",
+                        "hero_expr": "HasTag(`geneutral`)||HasTag(`good`)"
+                    }
+                ]
+            },
+            "off_when_benched": true,
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "change_upgrade_data,15965,0",
+            "data": {
+                "target_filters": [
+                    {
+                        "type": "tags",
+                        "tags": "good|geneutral"
+                    }
+                ]
+            },
+            "off_when_benched": true,
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "change_upgrade_data,15965,1",
+            "data": {
+                "per_hero_expr": "HasTag(`geneutral`)||HasTag(`good`)"
+            },
+            "off_when_benched": true,
+            "skip_effect_key_desc": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Safe of the Transformed** (Guess)
+> Halsin increases the number of Ceremorphosis stacks the party has by 40%, rounded down.  
+>   
+> Bonus Stacks: 40.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2141,
+    "flavour_text": "",
+    "description": {
+        "desc": "Halsin increases the number of Ceremorphosis stacks the party has by $(amount)%, rounded down.^^Bonus Stacks: $(halsin_bonus_ceremorphosis_stacks amount)"
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "ceremorphosis_stacks_mult,40"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Protector of the Grove** (Guess)
+> Increase the effect of Archdruid of Emerald Grove by your maximum chance of Call To Action triggering.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2142,
+    "flavour_text": "",
+    "description": {
+        "desc": " Increase the effect of Archdruid of Emerald Grove by your maximum chance of Call To Action triggering."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,0,15962,1",
+            "amount_expr": "upgrade_amount(15963,0)",
+            "use_computed_amount_for_description": true,
+            "show_bonus": true,
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
