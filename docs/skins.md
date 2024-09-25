@@ -224,7 +224,7 @@ Please be aware that the developers recently removed most future skins from the 
             <span class="tooltipHolder" style="width:max-content">![Goblin Glitch Calliope Portrait](images/skin_portraits/goblinglitchcalliope.png)<span class="featTooltipContents">ID: 483**Goblin Glitch Calliope (Calliope)**<img src="images/skin_models/goblinglitchcalliope.gif" alt="Goblin Glitch Calliope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Goblin Glitch Calliope
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Fortune's Wheel 8 Variant (Guess)</span>
         </span>
         <span class="skinTableCost">
             <span style="margin-right: 8px;">???</span>
