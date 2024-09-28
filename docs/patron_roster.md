@@ -2967,39 +2967,39 @@ A list of all champions and their patron availability.
         <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-11-30
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="87,138,71,0,284,284,284,176">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="88,27,0,285,285,284,0,170">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="88,27,0,285,285,284,0,170">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="88,27,0,285,285,284,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="88,27,0,285,285,284,0,0">
         89
     </span>
-    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,170">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,170">
+    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,0">
         D'hani
     </span>
-    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,170">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="88,27,0,285,285,284,0,170">
+    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="88,27,0,285,285,284,0,0">
         1
     </span>
-    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,170">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,170">
+    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,0">
         <label class="cblabel"><input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,170">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,170">
+    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,0">
         <label class="cblabel"><input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,170">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,170">
+    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,0">
         <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
     </span>
-    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,170">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,170">
+    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,0">
         <label class="cblabel"><input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,170">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,170">
-        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-09-28
+    <span class="patronRosterItem" data-sort="88,27,0,285,285,284,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="88,27,0,285,285,284,0,0">
+        <label class="cblabel"><input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="88,27,0,285,285,284,0,170">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="88,27,0,285,285,284,0,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="89,19,25,285,0,284,285,172">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="89,19,25,285,0,284,285,172">
         90
