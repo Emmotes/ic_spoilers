@@ -70,6 +70,31 @@ A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
+<a href="voronika.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Voronika Portrait Icon](images/voronika/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Voronika
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Eladrin Druid of Black Dice Society</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Liars' Night - 9 October 2024</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
 <a href="sgtknox.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
