@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Ascended Astarion Portrait](images/skin_portraits/ascendedastarion.png)<span class="featTooltipContents">ID: 473**Ascended Astarion (Astarion)**<img src="images/skin_models/ascendedastarion.gif" alt="Ascended Astarion Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Ascended Astarion
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Ascended Astarion Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">02 Oct 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Darklord Kas Portrait](images/skin_portraits/darklordkas.png)<span class="featTooltipContents">ID: 474**Darklord Kas (Kas)**<img src="images/skin_models/darklordkas.gif" alt="Darklord Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Darklord Kas
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Darklord Kas Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">02 Oct 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Cursed Banshee Thellora Portrait](images/skin_portraits/cursedbansheethellora.png)<span class="featTooltipContents">ID: 479**Cursed Banshee Thellora (Thellora)**<img src="images/skin_models/cursedbansheethellora.gif" alt="Cursed Banshee Thellora Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Cursed Banshee Thellora
         </span>
         <span class="skinTableSource">

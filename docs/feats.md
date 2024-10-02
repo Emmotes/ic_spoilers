@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Astarion</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Satiate the Hunger Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1890**Satiate the Hunger (Astarion)**Darling, anything is better than rats.<code>buff_upgrade_effect_stacks_max_mult,100,12491</code></span>Satiate the Hunger
-        </span>
-        <span class="featTableEffect">
-            <span>100% Well Fed Stacks</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>02 Oct 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Kas</span>
-        </span>
-        <span class="featTableIcon4">
-            ![The Sword of Kas Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1940**The Sword of Kas (Kas)**The voice... it's clearer now... it... it wants your death.<code>hero_dps_multiplier_mult,400<br>effect_def,2105</code></span>The Sword of Kas
-        </span>
-        <span class="featTableEffect">
-            <span>400% Self DPS & Reset Attack CD on Area Change</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>02 Oct 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Thellora</span>
         </span>
         <span class="featTableIcon4">
