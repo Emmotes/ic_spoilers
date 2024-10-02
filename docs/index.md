@@ -80,6 +80,9 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Simril - 4 December 2024</span>
             </span>
         </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>

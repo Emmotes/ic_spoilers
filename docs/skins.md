@@ -151,7 +151,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 487**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
+            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 493**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Mixed 15 Variant (Guess)</span>
@@ -179,13 +179,97 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Herald of Protection Sentry Portrait](images/skin_portraits/heraldofprotectionsentry.png)<span class="featTooltipContents">ID: 486**Herald of Protection Sentry (Sentry)**<img src="images/skin_models/heraldofprotectionsentry.gif" alt="Herald of Protection Sentry Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of Protection Sentry
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Herald of Protection Sentry Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">06 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 484**Herald of the Absolute Minthara (Minthara)**<img src="images/skin_models/heraldoftheabsoluteminthara.gif" alt="Herald of the Absolute Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of the Absolute Minthara
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Herald of the Absolute Minthara Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">06 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 485**Herald of Neverwinter Sgt. Knox (Sgt. Knox)**</span></span>Herald of Neverwinter Sgt. Knox
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Herald of Neverwinter Sgt. Knox Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">13 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Herald of The World Tree Penelope Portrait](images/skin_portraits/heraldoftheworldtreepenelope.png)<span class="featTooltipContents">ID: 487**Herald of The World Tree Penelope (Penelope)**<img src="images/skin_models/heraldoftheworldtreepenelope.gif" alt="Herald of The World Tree Penelope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of The World Tree Penelope
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Herald of The World Tree Penelope Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">13 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 488**Herald of Lore Turiel (Turiel)**</span></span>Herald of Lore Turiel
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Herald of Lore Turiel Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">20 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 489**Herald of Waterdeep Virgil (Virgil)**</span></span>Herald of Waterdeep Virgil
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Herald of Waterdeep Virgil Skin & Feat Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">20 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Goblin Glitch Calliope Portrait](images/skin_portraits/goblinglitchcalliope.png)<span class="featTooltipContents">ID: 483**Goblin Glitch Calliope (Calliope)**<img src="images/skin_models/goblinglitchcalliope.gif" alt="Goblin Glitch Calliope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Goblin Glitch Calliope
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Fortune's Wheel 8 Variant (Guess)</span>
+            <span style="margin-left: 8px;">Goblin Glitch Calliope Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">27 Nov 2024</span>
@@ -193,44 +277,16 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Herald Penelope Portrait](images/skin_portraits/heraldpenelope.png)<span class="featTooltipContents">ID: 485**Herald Penelope (Penelope)**<img src="images/skin_models/heraldpenelope.gif" alt="Herald Penelope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald Penelope
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 490**Herald of the Champions Dungeon Master (DM)**</span></span>Herald of the Champions Dungeon Master
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
+            <span style="margin-left: 8px;">Herald of the Champions Dungeon Master Skin & Feat Pack</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">$11.99</span>
         </span>
         <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Herald Sentry Portrait](images/skin_portraits/heraldsentry.png)<span class="featTooltipContents">ID: 484**Herald Sentry (Sentry)**<img src="images/skin_models/heraldsentry.gif" alt="Herald Sentry Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald Sentry
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 486**Herald of the Absolute Minthara (Minthara)**<img src="images/skin_models/heraldoftheabsoluteminthara.gif" alt="Herald of the Absolute Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of the Absolute Minthara
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">???</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">27 Nov 2024</span>
         </span>
     </span>
 </span>

@@ -251,6 +251,91 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Sentry</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Overdrive Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1975**Overdrive (Sentry)**I can go further, I promise.<code>todo<br>DevNote: Increase the effect of Sentry's specializations by 80% May require new tech to buff the stun duration (but not the chance) of the first spec choice (Nature's Wrath)</code></span>Overdrive
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>13 Nov 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Turiel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Platinum Devotion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1976**Platinum Devotion (Turiel)**Do you have a moment to talk about the Platinum Dragon?<code>buff_upgrade,80,10657</code></span>Platinum Devotion
+        </span>
+        <span class="featTableEffect">
+            <span>80% Embodiment of the Law</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>20 Nov 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Calliope</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Goblin Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1979**Goblin Glitch (Calliope)**I finally look on the outside how I feel on the inside!<code>todo<br>DevNote: Calliope counts as a Goblin. Decreases the base attack cooldown of Champions in the column in front of her by .5 seconds.</code></span>Goblin Glitch
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>27 Nov 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>DM</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Wound Master Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 1978**Wound Master (DM)**It is not yet your time. More adventure awaits!<code>buff_upgrade,80,7845</code></span>Wound Master
+        </span>
+        <span class="featTableEffect">
+            <span>80% Words of Encouragement</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>27 Nov 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Warduke</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 1049**Immolation (Warduke)**Yes! Burn! Burn and die!<code>immolation,1,5</code></span>Immolation
+        </span>
+        <span class="featTableEffect">
+            <span>1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>04 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Regis</span>
         </span>
         <span class="featTableIcon4">
@@ -264,6 +349,57 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>18 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Warden</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1983**Prodigal Leader (Warden)**Follow me, or suffer my wrath.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>18 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Celeste</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dark Revelation Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 1984**Dark Revelation (Celeste)**Selûne's power is nothing - Shar's perfection eclipses it<code>todo<br>DevNote: Change Celeste's alignment to Neutral Evil</code></span>Dark Revelation
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>26 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1985**Prodigal Leader (Nordom)**Command: Increase combat output by fifty percent.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>26 Dec 2024</span>
         </span>
     </span>
 </span>
@@ -845,6 +981,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Shadowheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1981**Prodigal Leader (Shadowheart)**Pain was my teacher. Let's share what I've learned.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

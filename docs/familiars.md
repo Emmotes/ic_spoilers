@@ -75,6 +75,76 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             <span style="margin-right: 8px;">30 Oct 2024</span>
         </span>
     </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 227**Lobita the Guardian**</span></span>Lobita the Guardian
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Lobita the Guardian Familiar Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">04 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 228**Scrying Eye**</span></span>Scrying Eye
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Herald of the Absolute Minthara Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">06 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 229**Crown of Neverwinter**</span></span>Crown of Neverwinter
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Herald of Neverwinter Sgt. Knox Theme Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$27.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">13 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 230**Herald the Golden Crow**</span></span>Herald the Golden Crow
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Herald the Golden Crow Familiar Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$11.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">13 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 231**Cinderflick the Cat**</span></span>Cinderflick the Cat
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">Cinderflick the Cat Familiar Pack</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">$16.99</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">20 Nov 2024</span>
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
