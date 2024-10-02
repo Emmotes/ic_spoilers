@@ -106,16 +106,120 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/halsin/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Halsin" fill="#aaa" data-formationName="Halsin" data-campaignName="Highharvestide" width="319" height="140"><circle cx="175" cy="45" r="15"/><circle cx="135" cy="25" r="15"/><circle cx="135" cy="65" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="125" r="15"/><circle cx="55" cy="25" r="15"/><circle cx="55" cy="65" r="15"/><circle cx="55" cy="105" r="15"/><circle cx="15" cy="45" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Halsin</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Highharvestide</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Thorn Whip** (Ranged)
+> Halsin attacks the enemy with the most health, dealing one hit and pulling them a short distance towards the formation.  
+> Cooldown: 4.9s (Cap 1.225s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 818,
+    "name": "Thorn Whip",
+    "description": "Halsin attacks the enemy with the most health for one hit, pulling them a short distance.",
+    "long_description": "Halsin attacks the enemy with the most health, dealing one hit and pulling them a short distance towards the formation.",
+    "graphic_id": 0,
+    "target": "highest_health",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.9,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "animation_sequence_name": "attack_b",
+            "projectile": "halsin_thorn_whip",
+            "speed": 200,
+            "shoot_frame": 22,
+            "shoot_offset_x": 145,
+            "shoot_offset_y": -45,
+            "target_offset_x": -30,
+            "target_offset_y": -50,
+            "hold_shoot_frame": false,
+            "hold_shoot_frame_for_seconds": 0.2,
+            "projectile_details": {
+                "fade_back_time1": 0.5,
+                "pull_distance": 300,
+                "whip_graphic_names": [
+                    "Effect_Halsin_ThornWhip_Beam"
+                ],
+                "fade_back_destination1": [
+                    0,
+                    -15
+                ],
+                "fade_back_time2": 1,
+                "fade_back_destination2": [
+                    -80,
+                    15
+                ]
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Bear Strike**
+> Halsin moves up to the enemy with the most health and deals 1 ultimate hit to all nearby enemies and knocks them back a short distance.  
+> Cooldown: 4.9s (Cap 1.225s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 819,
+    "name": "Bear Strike",
+    "description": "Halsin moves up to the enemy with the most health and swipes at all nearby foes for one ultimate hit each.",
+    "long_description": "Halsin moves up to the enemy with the most health and deals 1 ultimate hit to all nearby enemies and knocks them back a short distance.",
+    "graphic_id": 0,
+    "target": "highest_health",
+    "num_targets": 1,
+    "aoe_radius": 100,
+    "damage_modifier": 0.03,
+    "cooldown": 4.9,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "animation_sequence_name": "attack",
+            "target_offset_x": -100,
+            "start_frame": 5,
+            "damage_frame": 8,
+            "jump_sound": 30,
+            "sound_frames": {
+                "2": 194
+            },
+            "is_bud_damage": true,
+            "force_count_for_bud": false
+        }
+    ],
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Abilities
 
@@ -167,11 +271,15 @@ Unknown.
             "stack_title": "Harmony Stacks",
             "off_when_benched": true,
             "use_computed_amount_for_description": true
+        },
+        {
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_trigger_expr": "AppendToSaveStat(`halsin_harmonious_areas_completed`, false, trigger_count * as_int(GetUpgradeStacks(15962, 1) >= 9))"
         }
     ],
     "requirements": "",
-    "graphic_id": 24877,
-    "large_graphic_id": 24871,
+    "graphic_id": 25048,
+    "large_graphic_id": 25042,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": true,
@@ -206,11 +314,11 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 24876,
-    "large_graphic_id": 24870,
+    "graphic_id": 25049,
+    "large_graphic_id": 25043,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": true,
+        "formation_circle_icon": false,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -252,15 +360,16 @@ Unknown.
                 "upgrade_unlocked",
                 "slot_changed",
                 "feat_changed"
-            ]
+            ],
+            "off_when_benched": true
         }
     ],
     "requirements": "",
-    "graphic_id": 24879,
-    "large_graphic_id": 24873,
+    "graphic_id": 25050,
+    "large_graphic_id": 25044,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -279,7 +388,7 @@ Unknown.
 > 3+ Harmony stacks: Nurturing: The effect of Nature's Revival is increased by 20% for each Harmony stack he has, stacking additively.  
 > 5+ Harmony stacks: Hurrying: The effect of Call To Action is increased by 50%.  
 > 7+ Harmony stacks: Recharging: When a Champion uses an Ultimate Attack, it recharges with 10% of the cooldown already done.  
-> 9+ Harmony stacks: Growing: Increase the base value of Archdruid of Emerald Grove by 400%.
+> 9+ Harmony stacks: Growing: Increases the base value of Archdruid of Emerald Grove by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -287,7 +396,7 @@ Unknown.
     "id": 2139,
     "flavour_text": "",
     "description": {
-        "desc": "Halsin provides benefits based on the number of Harmony stacks he has.^3+ Harmony stacks: Nurturing: The effect of Nature's Revival is increased by $(amount___2)% for each Harmony stack he has, stacking additively.^5+ Harmony stacks: Hurrying: The effect of Call To Action is increased by $(amount___3)%.^7+ Harmony stacks: Recharging: When a Champion uses an Ultimate Attack, it recharges with $(amount___4)% of the cooldown already done.^9+ Harmony stacks: Growing: Increase the base value of Archdruid of Emerald Grove by $(amount___5)%."
+        "desc": "Halsin provides benefits based on the number of Harmony stacks he has.^3+ Harmony stacks: Nurturing: The effect of Nature's Revival is increased by $(amount___2)% for each Harmony stack he has, stacking additively.^5+ Harmony stacks: Hurrying: The effect of Call To Action is increased by $(amount___3)%.^7+ Harmony stacks: Recharging: When a Champion uses an Ultimate Attack, it recharges with $(amount___4)% of the cooldown already done.^9+ Harmony stacks: Growing: Increases the base value of Archdruid of Emerald Grove by $(amount___5)%."
     },
     "effect_keys": [
         {
@@ -351,15 +460,15 @@ Unknown.
             "effect_string": "buff_upgrade,400,15962,0",
             "apply_manually": true,
             "off_when_benched": true,
-            "override_key_desc": "Increase the base value of Archdruid of Emerald Grove by 400%."
+            "override_key_desc": "Increases the base value of Archdruid of Emerald Grove by 400%."
         }
     ],
     "requirements": "",
-    "graphic_id": 24878,
-    "large_graphic_id": 24872,
+    "graphic_id": 25051,
+    "large_graphic_id": 25045,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "owner_use_outgoing_description": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -385,33 +494,10 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "minthara_ultimate",
-            "skip_effect_key_desc": true,
-            "max_duration": 30,
-            "startup_delay": 1.2,
-            "knockback_effect": {
-                "effect_string": "push_back_monster,10"
-            },
-            "stop_spawn_effect": {
-                "effect_string": "stop_spawns",
-                "include_bosses": true,
-                "targets": [
-                    "area"
-                ]
-            },
-            "drider_data": {
-                "start_pos": [
-                    -200,
-                    725
-                ],
-                "end_pos": [
-                    2200,
-                    725
-                ],
-                "move_duration": 4,
-                "anim_stride": 250,
-                "glow_graphic_id": 21930
-            }
+            "effect_string": "halsin_ult",
+            "duration": 20,
+            "bear_graphic_id": 25077,
+            "bear_attack_id": 819
         },
         {
             "effect_string": "set_ultimate_attack",
@@ -503,8 +589,8 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25054,
+    "large_graphic_id": 25054,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": true,
@@ -520,7 +606,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Safe of the Transformed** (Guess)
+**Sage of the Transformed** (Guess)
 > Halsin increases the number of Ceremorphosis stacks the party has by 40%, rounded down.  
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -538,12 +624,12 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25056,
+    "large_graphic_id": 25056,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": true
     }
 }
 </pre>
@@ -553,7 +639,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Protector of the Grove** (Guess)
-> Increase the effect of Archdruid of Emerald Grove by your maximum chance of Call To Action triggering.
+> Increases the effect of Archdruid of Emerald Grove by your maximum chance of Call To Action triggering.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -561,7 +647,7 @@ Unknown.
     "id": 2142,
     "flavour_text": "",
     "description": {
-        "desc": " Increase the effect of Archdruid of Emerald Grove by your maximum chance of Call To Action triggering."
+        "desc": "Increases the effect of Archdruid of Emerald Grove by your maximum chance of Call To Action triggering."
     },
     "effect_keys": [
         {
@@ -573,12 +659,12 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25055,
+    "large_graphic_id": 25055,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": true
     }
 }
 </pre>
@@ -658,20 +744,29 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Simril Spoilsport (???)** (Complete Area 50)
+**Unlock Adventure: The Simril Spoilsport (Halsin)** (Complete Area 50)
 > Simril is ruined! Someone has pilfered the food supplies!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: TBD** (Complete Area 75)
-> TBD
+![Escape from the Shattered Sanctum Icon](images/halsin/25064.png) **Variant 1: Escape from the Shattered Sanctum** (Complete Area 75)
+> Halsin starts in the formation. He can be moved, but not removed.  
+> 1-2 Goblins spawn with each wave. They don't drop gold nor count towards quest progress.  
+> You may only use Good and/or Neutral Champions.  
+> Getting to know Halsin: Halsin works well with Good Champions, and a specialization choice extends that to include Neutral Champions.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: TBD** (Complete Area 125)
-> TBD
+![Lifting the Shadow Curse Icon](images/halsin/25065.png) **Variant 2: Lifting the Shadow Curse** (Complete Area 125)
+> Due to the Shadow Curse, the weather is Foggy.  
+> In non-boss areas, quest requirements are halved, but there is a 50% chance that a defeated enemy doesn't drop quest items nor count towards quest progress.  
+> Halsin starts in the formation. He can be moved, but not removed.  
+> Getting to know Halsin: Halsin provides a chance to advance to the next area before all the quest requirements are completed.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: TBD** (Complete Area 175)
-> TBD
+![Bear Necessities Icon](images/halsin/25066.png) **Variant 3: Bear Necessities** (Complete Area 175)
+> Halsin starts in the formation with his Archdruid of Emerald Grove and Nature's Revival abilities unlocked. He can be moved, but not removed.  
+> Champions don't recover health when moving to a new area.   
+> Champions resurrect at half health when changing areas instead of full health.  
+> Getting to know Halsin: Halsin heals good Champions in the formation, and this can be extended to include Neutral Champions with his specialization choice.
 </div></div>
 
 # Other Champion Images
