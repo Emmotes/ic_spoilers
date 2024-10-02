@@ -13,10 +13,10 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 | Lethal Combinations | 18 Oct | **Astarion** | Nayeli | Jamilah | Widdle | Valentine | Golden Epic |
 | Durge Run | 25 Oct | **Dark Urge** | Asharra | Bruenor | Briv | Lae'zel | Golden Epic |
 | Whispers from the Far Realm | 01 Nov | **Zorbu** | Celeste | Strix | BBEG | Shandie | Golden Epic |
-| Find your Way | 08 Nov | **Asharra** | Calliope | Minthara | Karlach | Astarion | Golden Epic |
-| Music Lesson | 15 Nov | **Makos** | Celeste | Sgt. Knox | Hew Maan | Dark Urge | Golden Epic |
-| Dhampiric | 22 Nov | **Bruenor** | Tyril | Widdle | Bobby | Valentine | Golden Epic |
-| Extra Defensive | 29 Nov | **Jamilah** | Hitch | Virgil | Diana | Sentry | Golden Epic |
+| Find your Way | 08 Nov | **Minthara** | Calliope | Asharra | Karlach | Astarion | Golden Epic |
+| Music Lesson | 15 Nov | **Sgt. Knox** | Celeste | Makos | Hew Maan | Dark Urge | Golden Epic |
+| Dhampiric | 22 Nov | **Widdle** | Tyril | Bruenor | Bobby | Valentine | Golden Epic |
+| Extra Defensive | 29 Nov | **Sentry** | Hitch | Virgil | Diana | Jamilah | Golden Epic |
 
 [Back to Top](#top)
 
