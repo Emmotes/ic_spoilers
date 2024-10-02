@@ -14,6 +14,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Emergence 8](archive/emergence_8.md)
 * [Ezmerelda](archive/ezmerelda.md)
 * [Gromma](archive/gromma.md)
+* [Kas](archive/kas.md)
 * [Duke Ravengard](archive/ravengard.md)
 * [Rosie](archive/rosie.md)
 * [Rust](archive/rust.md)
