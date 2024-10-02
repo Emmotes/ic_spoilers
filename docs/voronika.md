@@ -259,7 +259,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2093,
     "flavour_text": "",
     "description": {
-        "desc": "Voronika increases the effect of Calculating Guidance by $amount% for each use of an Ultimate while she is in the formation, stacking multiplicatively. Caps at $max_stacks stacks. These stacks persist until reset."
+        "desc": "Voronika increases the effect of Calculating Guidance by $(not_buffed amount)% for each use of an Ultimate while she is in the formation, stacking multiplicatively. Caps at $max_stacks stacks. These stacks persist until reset."
     },
     "effect_keys": [
         {
