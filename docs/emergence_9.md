@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![Emergence 9 Banner](images/emergence_9/banner.png)
-{% endcomment %}
 
 # Emergence 9
 
