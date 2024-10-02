@@ -67,17 +67,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: For The Greater Good** (Guess)
->   
+**Base Attack: Eldritch Blast (Makos' Attack)** (Guess)
+> Five beams of green crackling energy streaks towards random enemies.  
 > Cooldown: 5s (Cap 1.25s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 816,
-    "name": "For The Greater Good",
-    "description": "",
-    "long_description": "",
+    "name": "Eldritch Blast",
+    "description": "Five beams of green crackling energy streaks towards random enemies.",
+    "long_description": "Five beams of green crackling energy streaks towards random enemies.",
     "graphic_id": 1,
     "target": "random",
     "num_targets": 5,
@@ -119,7 +119,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Rallying Cry** (Guess)
-> Increase the damage of Champions in all the columns behind Sgt. Knox by 100 for each positional formation ability affecting them, stacking multiplicatively and including this one.
+> Increases the damage of Champions in all the columns behind Sgt. Knox by 100% for each positional formation ability affecting them, stacking multiplicatively and including this one.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -129,7 +129,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2128,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the damage of Champions in all the columns behind $source by $(not_buffed amount) for each positional formation ability affecting them, stacking multiplicatively and including this one."
+        "desc": "Increases the damage of Champions in all the columns behind $source by $(not_buffed amount)% for each positional formation ability affecting them, stacking multiplicatively and including this one."
     },
     "effect_keys": [
         {
@@ -148,7 +148,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "show_stats_on_receiver": true,
             "show_bonus_on_receiver_only": true,
             "off_when_benched": true,
-            "override_key_desc": "Increases the damage of $target by $(not_buffed amount)% for every positional formation ability"
+            "override_key_desc": "Increases the damage of $target by $(not_buffed amount)% for every positional formation ability affecting them."
         }
     ],
     "requirements": "",
@@ -157,7 +157,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -228,7 +230,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "skip_effect_key_desc": true,
             "amount_updated_listeners": [
                 "stat_changed,GrandTourBaseAdventuresCompleted"
-            ]
+            ],
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -265,7 +268,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true
         },
         {
-            "effect_string": "effect_def,868"
+            "effect_string": "damage_reduction,25",
+            "targets": [
+                "self"
+            ],
+            "stack_func": "per_hero_attribute",
+            "amount_func": "if",
+            "per_hero_expr": "HasEffect(`celeste_heal`)&&hero_id==108",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -299,11 +311,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "manual_stacking": true,
             "stacks_multiply": false,
             "show_bonus": true,
-            "stack_title": "Defender Stacks",
-            "active_graphic_id": 3036,
-            "active_graphic_y": -180,
-            "active_graphic_any_amount_frame": 1,
-            "active_graphic_sort_offset": 3
+            "stack_title": "Defender Stacks"
         },
         {
             "effect_string": "monster_attack_enrage_stacker,0"
@@ -324,7 +332,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Increase the max health of Sgt. Knox by 200%. His base attack now taunts enemies he hits to target him.
+> Increases the max health of Sgt. Knox by 200%. His base attack now taunts enemies he hits to target him.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -332,7 +340,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2135,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the max health of $source by 200%. His base attack now taunts enemies he hits to target him."
+        "desc": "Increases the max health of $source by $amount%. His base attack now taunts enemies he hits to target him."
     },
     "effect_keys": [
         {
@@ -341,14 +349,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "taunt,0",
             "base_attack_taunts": true,
-            "base_attack_always_taunts": true
+            "base_attack_always_taunts": true,
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
     "graphic_id": 1,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -373,14 +385,35 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "buff_upgrade,100,24",
             "stack_func": "per_hero",
             "amount_func": "mult",
-            "tag": "unaffiliated"
+            "tag": "unaffiliated",
+            "show_bonus": true,
+            "stack_title": "Unaffiliated Champions"
+        },
+        {
+            "effect_string": "nothing,0",
+            "amount_expr": "upgrade_amount(15959,0)",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_ids",
+                    "hero_ids": [
+                        2
+                    ]
+                }
+            ],
+            "override_key_desc": "The effect of Celeste's Crusader's Mantle is increased by $amount%."
         }
     ],
     "requirements": "",
     "graphic_id": 1,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -405,33 +438,38 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "appear_dead",
             "targets": [
                 "self_slot"
-            ]
+            ],
+            "skip_effect_key_desc": true
         },
         {
             "effect_string": "hero_dps_multiplier_mult,400",
             "targets": [
                 "self_slot"
-            ]
+            ],
+            "use_computed_amount_for_description": true
         },
         {
             "effect_string": "buff_base_crit_damage_mult,100",
             "targets": [
                 "self_slot"
-            ]
+            ],
+            "skip_effect_key_desc": true
         },
         {
             "effect_string": "change_base_attack,816",
             "off_when_benched": true,
             "targets": [
                 "self_slot"
-            ]
+            ],
+            "skip_effect_key_desc": true
         },
         {
             "effect_string": "buff_base_crit_chance_add,20",
             "off_when_benched": true,
             "targets": [
                 "self_slot"
-            ]
+            ],
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": [
@@ -447,7 +485,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": false,
         "use_owner_override": true,
         "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true
+        "per_effect_index_bonuses": true,
+        "use_outgoing_description": true
     }
 }
 </pre>
