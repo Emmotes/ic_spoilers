@@ -6,25 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Liars' Night - October
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="krond" style="background-image:url(images/portraits/krond.png)">Krond (6)</span>
-<span class="eventRosterChampion" id="donaar" style="background-image:url(images/portraits/donaar.png)">Donaar (2)</span>
-<span class="eventRosterChampion" id="avren" style="background-image:url(images/portraits/avren.png)">Avren (11)</span>
-<span class="eventRosterChampion" id="ezmerelda" style="background-image:url(images/portraits/ezmerelda.png)">Ezmerelda (1)</span>
-<span class="eventRosterChampion" id="brig" style="background-image:url(images/portraits/brig.png)">Brig (3)</span>
-<span class="eventRosterChampion" id="dob" style="background-image:url(images/portraits/dob.png)">Dob (12)</span>
-<span class="eventRosterChampion" id="kent" style="background-image:url(images/portraits/kent.png)">Kent (4)</span>
-<span class="eventRosterChampion" id="astarion" style="background-image:url(images/portraits/astarion.png)">Astarion (10)</span>
-<span class="eventRosterChampion" id="thellora" style="background-image:url(images/portraits/thellora.png)">Thellora (1)</span>
-<span class="eventRosterChampion" id="kas" style="background-image:url(images/portraits/kas.png)">Kas (6)</span>
-</span>
-
-{:/nomarkdown}
-
 # Feast of the Moon - November
 
 {::nomarkdown}
@@ -224,6 +205,25 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="egbert" style="background-image:url(images/portraits/egbert.png)">Egbert (7)</span>
 <span class="eventRosterChampion" id="certainty" style="background-image:url(images/portraits/certainty.png)">Certainty (5)</span>
 <span class="eventRosterChampion" id="bobby" style="background-image:url(images/portraits/bobby.png)">Bobby (12)</span>
+</span>
+
+{:/nomarkdown}
+
+# Liars' Night - October
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="krond" style="background-image:url(images/portraits/krond.png)">Krond (6)</span>
+<span class="eventRosterChampion" id="donaar" style="background-image:url(images/portraits/donaar.png)">Donaar (2)</span>
+<span class="eventRosterChampion" id="avren" style="background-image:url(images/portraits/avren.png)">Avren (11)</span>
+<span class="eventRosterChampion" id="ezmerelda" style="background-image:url(images/portraits/ezmerelda.png)">Ezmerelda (1)</span>
+<span class="eventRosterChampion" id="brig" style="background-image:url(images/portraits/brig.png)">Brig (3)</span>
+<span class="eventRosterChampion" id="dob" style="background-image:url(images/portraits/dob.png)">Dob (12)</span>
+<span class="eventRosterChampion" id="kent" style="background-image:url(images/portraits/kent.png)">Kent (4)</span>
+<span class="eventRosterChampion" id="astarion" style="background-image:url(images/portraits/astarion.png)">Astarion (10)</span>
+<span class="eventRosterChampion" id="thellora" style="background-image:url(images/portraits/thellora.png)">Thellora (1)</span>
+<span class="eventRosterChampion" id="kas" style="background-image:url(images/portraits/kas.png)">Kas (6)</span>
 </span>
 
 {:/nomarkdown}
