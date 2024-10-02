@@ -117,7 +117,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Double Maces** (Melee)
-> Minthara moves up to the enemy with the highest remaining health percentage and attacks with her maces dealing one hit to all nearby enemies.  
+> Minthara dashes toward the healthiest enemy and damages nearby foes with a swing of her maces.  
 > Cooldown: 5s (Cap 1.25s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -126,7 +126,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
     "id": 810,
     "name": "Double Maces",
     "description": "Minthara dashes toward the healthiest enemy and damages nearby foes with a swing of her maces.",
-    "long_description": "Minthara moves up to the enemy with the highest remaining health percentage and attacks with her maces dealing one hit to all nearby enemies.",
+    "long_description": "",
     "graphic_id": 0,
     "target": "highest_health",
     "num_targets": 1,
@@ -159,9 +159,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Spider's Lyre**
 > Minthara summons Kar'niss the Drider to attack all enemies. In a non-boss area, the Champions advance to the next area if no enemies remain after the attack.  
-> Cooldown: 5s (Cap 1.25s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 350s (Cap 87.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -174,8 +172,8 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
     "target": "front",
     "num_targets": 1,
     "aoe_radius": 0,
-    "damage_modifier": 1,
-    "cooldown": 5,
+    "damage_modifier": 0.03,
+    "cooldown": 350,
     "animations": [
         {
             "type": "ultimate_attack",
@@ -592,8 +590,8 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 24882,
+    "large_graphic_id": 24882,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": true,
@@ -631,8 +629,8 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 24884,
+    "large_graphic_id": 24884,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -663,8 +661,8 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 24883,
+    "large_graphic_id": 24883,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
