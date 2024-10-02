@@ -630,7 +630,7 @@ Upgrades:
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Mortal Pawns Icon](images/kas/icon_mortalpawns.png) **Mortal Pawns** (Level: 40)
-> Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by 1%, stacking multiplicatively.   
+> Every time an area is completed, Kas gains Pawn stacks equal to the number of Champions in the formation that are not one of his Vampire Spawns. Each Pawn stack increases the effect of Born Into Evil by 0.5%, stacking multiplicatively.   
 > Non Vampire Spawn Champions: $(upgrade_stacks_total 15620,3).
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -660,7 +660,7 @@ Upgrades:
             "off_when_benched": true
         },
         {
-            "effect_string": "pre_stack,1",
+            "effect_string": "pre_stack,0.5",
             "skip_effect_key_desc": true
         },
         {
