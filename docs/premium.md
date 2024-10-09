@@ -747,7 +747,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 486**Herald of Protection Sentry (Sentry)**<img src="images/premiums/skin_486.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Herald of Protection Sentry Skin Portrait](images/premiums/skin_486.png)<span class="itemTooltipContents">ID: 486**Herald of Protection Sentry (Sentry)**<img src="images/premiums/skin_486.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
