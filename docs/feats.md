@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Thellora</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1518**Scholar (Thellora)**A tactician is only as good as their knowledge.<code>increase_ability_score_not_always_on,int,2</code></span>Scholar
-        </span>
-        <span class="featTableEffect">
-            <span>Stat: +2 Intelligence</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>09 Oct 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Voronika</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Calculated Movements Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1547**Calculated Movements (Voronika)**Nothing is left to chance - I control everything in Koshmarr.<code>buff_upgrade,900,15633</code></span>Calculated Movements
-        </span>
-        <span class="featTableEffect">
-            <span>900% Speed Run</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>09 Oct 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Donaar</span>
         </span>
         <span class="featTableIcon4">

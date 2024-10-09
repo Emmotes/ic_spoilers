@@ -7,20 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Glimmer the Ghost Owl Portrait](images/familiars/glimmertheghostowl.png)<span class="featTooltipContents">ID: 222**Glimmer the Ghost Owl**<img src="images/familiars/glimmertheghostowl.gif" alt="Glimmer the Ghost Owl Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Glimmer the Ghost Owl
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Vampire Hunter Voronika Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">09 Oct 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Mirror Shade Portrait](images/familiars/mirrorshade.png)<span class="featTooltipContents">ID: 226**Mirror Shade**<img src="images/familiars/mirrorshade.gif" alt="Mirror Shade Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Mirror Shade
         </span>
         <span class="skinTableSource">

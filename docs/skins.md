@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Cursed Banshee Thellora Portrait](images/skin_portraits/cursedbansheethellora.png)<span class="featTooltipContents">ID: 479**Cursed Banshee Thellora (Thellora)**<img src="images/skin_models/cursedbansheethellora.gif" alt="Cursed Banshee Thellora Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Cursed Banshee Thellora
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Cursed Banshee Thellora Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">09 Oct 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Vampire Hunter Voronika Portrait](images/skin_portraits/vampirehuntervoronika.png)<span class="featTooltipContents">ID: 472**Vampire Hunter Voronika (Voronika)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/vampirehuntervoronika.gif" alt="Vampire Hunter Voronika Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/vampirehuntervoronika-darklord.gif" alt="Vampire Hunter Voronika Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>Vampire Hunter Voronika
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Vampire Hunter Voronika Theme Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$27.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">09 Oct 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Headless Horseman Kent Portrait](images/skin_portraits/headlesshorsemankent.png)<span class="featTooltipContents">ID: 475**Headless Horseman Kent (Kent)**<img src="images/skin_models/headlesshorsemankent.gif" alt="Headless Horseman Kent Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Headless Horseman Kent
         </span>
         <span class="skinTableSource">
