@@ -19,6 +19,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Rosie](archive/rosie.md)
 * [Rust](archive/rust.md)
 * [Umberto Thornheart](archive/umberto.md)
+* [Voronika](archive/voronika.md)
 * [Wren](archive/wren.md)
 * [XBox Giveaway](archive/xbox_giveaway_laezel.md)
 
