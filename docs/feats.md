@@ -47,6 +47,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Voronika</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Calculated Movements Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1547**Calculated Movements (Voronika)**Nothing is left to chance - I control everything in Koshmarr.<code>buff_upgrade,900,15633</code></span>Calculated Movements
+        </span>
+        <span class="featTableEffect">
+            <span>900% Speed Run</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Donaar</span>
         </span>
         <span class="featTableIcon4">
@@ -1419,57 +1436,6 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Warden</span>
         </span>
         <span class="featTableIcon3">
-            ![Corrupting Sigils Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1268**Corrupting Sigils (Warden)**My hex will be carved into your mind.<code>buff_upgrade,40,13240,0</code></span>Corrupting Sigils
-        </span>
-        <span class="featTableEffect">
-            <span>40% Hex</span>
-        </span>
-        <span class="featTableSource">
-            <span>12,500 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>22 Nov 2033</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Warden</span>
-        </span>
-        <span class="featTableIcon2">
-            ![Eldritch Words Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1267**Eldritch Words (Warden)**The whispers echo through my very being.<code>buff_upgrade,20,13240</code></span>Eldritch Words
-        </span>
-        <span class="featTableEffect">
-            <span>20% Hex</span>
-        </span>
-        <span class="featTableSource">
-            <span>Free</span>
-        </span>
-        <span class="featTableDate">
-            <span>22 Nov 2033</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Warden</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Greater Swarm Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1271**Greater Swarm (Warden)**Engulf my enemies. Break them down.<code>buff_upgrade,25,13245,1</code></span>Greater Swarm
-        </span>
-        <span class="featTableEffect">
-            <span>25% Cloak of Flies</span>
-        </span>
-        <span class="featTableSource">
-            <span>Gold Chest</span>
-        </span>
-        <span class="featTableDate">
-            <span>22 Nov 2033</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Warden</span>
-        </span>
-        <span class="featTableIcon3">
             ![Phantasmal Curse Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1525**Phantasmal Curse (Warden)**One touch of these specters will curse your soul for eternity.<code>increase_warden_specter_max,1</code></span>Phantasmal Curse
         </span>
         <span class="featTableEffect">
@@ -1477,40 +1443,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>22 Nov 2033</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Warden</span>
-        </span>
-        <span class="featTableIcon2">
-            ![Stygian Spirit Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1269**Stygian Spirit (Warden)**The minions of the void are waiting for you.<code>buff_upgrade,20,13241,0</code></span>Stygian Spirit
-        </span>
-        <span class="featTableEffect">
-            <span>20% Accursed Specter</span>
-        </span>
-        <span class="featTableSource">
-            <span>Free</span>
-        </span>
-        <span class="featTableDate">
-            <span>22 Nov 2033</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Warden</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Unknowable Form Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1270**Unknowable Form (Warden)**How can you stop what you cannot comprehend?<code>buff_upgrade,40,13241,0</code></span>Unknowable Form
-        </span>
-        <span class="featTableEffect">
-            <span>40% Accursed Specter</span>
-        </span>
-        <span class="featTableSource">
-            <span>12,500 Gems</span>
         </span>
         <span class="featTableDate">
             <span>22 Nov 2033</span>

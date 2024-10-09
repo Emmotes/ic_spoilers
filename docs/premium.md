@@ -104,11 +104,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1547**Feat**???: 1547</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Calculated Movements Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 1547**Calculated Movements**Nothing is left to chance - I control everything in Koshmarr.<code>buff_upgrade,900,15633</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 1547</span>
+            <span style="margin-left:15px">Calculated Movements</span>
+            <span style="margin-left:15px">Voronika (900% Speed Run)</span>
         </span>
     </span>
     <span class="premiumsTableItem">

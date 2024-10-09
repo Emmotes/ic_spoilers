@@ -123,13 +123,13 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 493**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
+            <span class="tooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 482**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Classic Kas
         </span>
         <span class="skinTableSource">
-            <span style="margin-left: 8px;">Mixed 15 Variant (Guess)</span>
+            <span style="margin-left: 8px;">Adventure: Kas the Betrayer</span>
         </span>
         <span class="skinTableCost">
-            <span style="margin-right: 8px;">???</span>
+            <span style="margin-right: 8px;">Free</span>
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">30 Oct 2024</span>
