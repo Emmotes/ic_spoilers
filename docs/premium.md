@@ -956,7 +956,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 487**Herald of The World Tree Penelope (Penelope)**</span></span>
+            <span class="tooltipHolder">![Herald of The World Tree Penelope Skin Portrait](images/premiums/skin_487.png)<span class="itemTooltipContents">ID: 487**Herald of The World Tree Penelope (Penelope)**<img src="images/premiums/skin_487.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
