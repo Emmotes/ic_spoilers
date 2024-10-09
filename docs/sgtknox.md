@@ -69,7 +69,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Eldritch Blast (Makos' Attack)** (Guess)
 > Five beams of green crackling energy streaks towards random enemies.  
-> Cooldown: 5s (Cap 1.25s)
+> Cooldown: 5.7s (Cap 1.425s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -83,7 +83,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "num_targets": 5,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 5.7,
     "animations": [
         {
             "type": "makos_knox_attack",
@@ -129,14 +129,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2128,
     "flavour_text": "",
     "description": {
-        "desc": "Increases the damage of Champions in all the columns behind $source by $(not_buffed amount)% for each positional formation ability affecting them, stacking multiplicatively and including this one."
+        "desc": "Increases the damage of Champions in all the columns behind $source by $(amount)% for each positional formation ability affecting them, stacking multiplicatively and including this one."
     },
     "effect_keys": [
         {
             "effect_string": "pre_stack,100"
         },
         {
-            "effect_string": "hero_dps_multiplier_mult,100",
+            "effect_string": "hero_dps_multiplier_mult,0",
             "amount_expr": "upgrade_amount(15953,0)",
             "targets": [
                 "behind"
@@ -218,7 +218,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "effect_string": "buff_upgrades,100,24,139,140",
             "targets": [
-                "other"
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_ids",
+                    "hero_ids": [
+                        2,
+                        9
+                    ]
+                }
             ],
             "stacks_multiply": true,
             "amount_func": "mult",
@@ -227,7 +236,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "ided_stat_id": 1,
             "ided_stat_handler": "CompletedBaseAdventures",
             "use_computed_amount_for_description": true,
-            "skip_effect_key_desc": true,
             "amount_updated_listeners": [
                 "stat_changed,GrandTourBaseAdventuresCompleted"
             ],
@@ -318,7 +326,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 1,
+    "graphic_id": 10773,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
@@ -354,13 +362,58 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 1,
-    "large_graphic_id": 0,
+    "graphic_id": 10778,
+    "large_graphic_id": 10778,
     "properties": {
         "is_formation_ability": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Rallying Cry** (Guess)
+> Increases the damage of Champions in all the columns behind Sgt. Knox by 100% for each positional formation ability affecting them, stacking multiplicatively and including this one.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2146,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the damage of Champions in all the columns behind $source by $(amount)% for each positional formation ability affecting them, stacking multiplicatively and including this one."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "behind"
+            ],
+            "amount_func": "mult",
+            "stack_func": "per_positional_formation_ability",
+            "show_bonus": true,
+            "stack_title": "Positional Formation Abilities",
+            "show_stats_on_receiver": true,
+            "show_bonus_on_receiver_only": true,
+            "off_when_benched": true,
+            "override_key_desc": "Increases the damage of $target by $(amount)% for every positional formation ability affecting them."
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 10775,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "amount_calc_after_bonus": false
     }
 }
 </pre>
@@ -386,12 +439,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_func": "per_hero",
             "amount_func": "mult",
             "tag": "unaffiliated",
-            "show_bonus": true,
-            "stack_title": "Unaffiliated Champions"
-        },
-        {
-            "effect_string": "nothing,0",
-            "amount_expr": "upgrade_amount(15959,0)",
             "targets": [
                 "all"
             ],
@@ -403,12 +450,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     ]
                 }
             ],
+            "show_bonus": true,
+            "off_when_benched": true,
+            "changing_stack_upgade_ids": [
+                15959
+            ],
+            "retarget_when_any_hero_slot_changed": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "stacks_changed"
+            ],
+            "stack_title": "Unaffiliated Champions",
+            "use_computed_amount_for_description": true,
             "override_key_desc": "The effect of Celeste's Crusader's Mantle is increased by $amount%."
         }
     ],
     "requirements": "",
-    "graphic_id": 1,
-    "large_graphic_id": 0,
+    "graphic_id": 24886,
+    "large_graphic_id": 24886,
     "properties": {
         "is_formation_ability": true,
         "indexed_effect_properties": true,
@@ -478,8 +537,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "target_hero_id": 9
         }
     ],
-    "graphic_id": 1,
-    "large_graphic_id": 0,
+    "graphic_id": 24885,
+    "large_graphic_id": 24885,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": false,
