@@ -193,7 +193,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 489**Herald of Waterdeep Virgil (Virgil)**</span></span>Herald of Waterdeep Virgil
+            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 489**Herald of Waterdeep Virgil (Virgil)**<img src="images/skin_models/heraldofwaterdeepvirgil.gif" alt="Herald of Waterdeep Virgil Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of Waterdeep Virgil
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Herald of Waterdeep Virgil Skin & Feat Pack</span>
