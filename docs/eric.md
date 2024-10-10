@@ -15,7 +15,7 @@
 
 Eric, the Cavalier at the age of 15, is the spoiled child, originating from a rich home. On the surface, Eric is a big-mouthed comic relief coward. Eric has a heroic core, and frequently saves his friends from danger with his magical griffin shield, which can project a force field. Despite his aloofness and several instances of selfishness, Eric shares the common camaraderie of the group, and occasionally steps to the fore as a substitute leader in Hank's absence.
 
-[Wiki Name](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_(TV_series))
+[D&D (TV Series) - Wikipedia](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_(TV_series))
 
 # Basic Information
 
