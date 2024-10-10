@@ -9,14 +9,6 @@
         Portrait
         </span>
     </span>
-    <span class="championPortraitsColumn">
-        <span class="championPortraitsImage">
-            ![Model GIF of Eric](images/eric/model.gif)
-        </span>
-        <span>
-        Model
-        </span>
-    </span>
 </span>
 
 # Eric
