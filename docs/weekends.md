@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Darklord Rising | 11 Oct | **Voronika** | Arkhan | Makos | Ellywick | Karlach | Golden Epic |
 | Lethal Combinations | 18 Oct | **Astarion** | Nayeli | Jamilah | Widdle | Valentine | Golden Epic |
 | Durge Run | 25 Oct | **Dark Urge** | Asharra | Bruenor | Briv | Lae'zel | Golden Epic |
 | Whispers from the Far Realm | 01 Nov | **Zorbu** | Celeste | Strix | BBEG | Shandie | Golden Epic |
