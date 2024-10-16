@@ -77,7 +77,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 230**Herald the Golden Crow**</span></span>Herald the Golden Crow
+            <span class="tooltipHolder" style="width:max-content">![Herald the Golden Crow Portrait](images/familiars/heraldthegoldencrow.png)<span class="featTooltipContents">ID: 230**Herald the Golden Crow**<img src="images/familiars/heraldthegoldencrow.gif" alt="Herald the Golden Crow Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald the Golden Crow
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Herald the Golden Crow Familiar Pack</span>

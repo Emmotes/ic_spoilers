@@ -684,7 +684,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 230**Herald the Golden Crow**I've arrived!</span></span>
+            <span class="tooltipHolder">![Herald the Golden Crow Familiar Portrait](images/premiums/familiar_230.png)<span class="itemTooltipContents">ID: 230**Herald the Golden Crow**I've arrived!<img src="images/premiums/familiar_230.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
