@@ -26,100 +26,62 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Building Focus** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 25052,
-    "graphic": "Icons/Events/2017Simril/Simril_Y8/Icon_Formation_Stoki_BuildingFocus",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Frenzied Friends** (Guess)
-> Unknown.
+> When Stoki attacks she gains a Focus Point for each enemy she hits. She increases the damage of all Champions with a base attack cooldown of 4.0s or faster by 10% for each Focus Point she has, stacking multiplicatively. Focus Points cap at 100 and are reduced by 50% (rounded down) when changing areas.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25053,
-    "graphic": "Icons/Events/2017Simril/Simril_Y8/Icon_Formation_Stoki_FrenziedFriends",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-# Specialisations
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: A Little Bit Faster** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 25057,
-    "graphic": "Icons/Events/2017Simril/Simril_Y8/Icon_Specialization_Stoki_ALittleBitFaster",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: All Out Assault** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 25058,
-    "graphic": "Icons/Events/2017Simril/Simril_Y8/Icon_Specialization_Stoki_AllOutAssault",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2147,
+    "flavour_text": "",
+    "description": {
+        "desc": "When Stoki attacks she gains a Focus Point for each enemy she hits. She increases the damage of all Champions with a base attack cooldown of 4.0s or faster by $amount% for each Focus Point she has, stacking multiplicatively. Focus Points cap at 100 and are reduced by 50% (rounded down) when changing areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,10",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(16052,0)",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "base_attack_cooldown<=4"
+                }
+            ],
+            "stacks_multiply": true,
+            "stack_func": "mult",
+            "show_bonus": true,
+            "max_stacks": 100,
+            "stacks_on_trigger": "owner_attack",
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reduce_percent",
+                        "percent": 50
+                    }
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -128,23 +90,247 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Bend It Like Birdsong** (Guess)
-> Unknown.
+**Golden Palm** (Guess)
+> Enemies that have been attacked by Stoki at any point in the current area drop 100% more gold when killed for each Focus Point she has, stacking additively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25059,
-    "graphic": "Icons/Events/2017Simril/Simril_Y8/Icon_Specialization_Stoki_BendItLikeBirdsong",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2148,
+    "flavour_text": "",
+    "description": {
+        "desc": "Enemies that have been attacked by Stoki at any point in the current area drop 100% more gold when killed for each Focus Point she has, stacking additively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "gold_buff_amount,0",
+            "targets": [
+                "all"
+            ],
+            "off_when_benched": true,
+            "amount_expr": "upgrade_stacks(16052,1)*upgrade_amount(16053,0)",
+            "amount_updated_listeners": [
+                "stacks_changed"
+            ],
+            "changing_stack_upgade_ids": [
+                16052
+            ],
+            "stacks_multiply": true,
+            "show_bonus": true
+        },
+        {
+            "effect_string": "stoki_golden_palm",
+            "off_when_benched": true,
+            "broadcast_name": "stoki_debuffs_monster",
+            "debuff_before_damage": true,
+            "debuff_max_stacks": 1,
+            "debuffing_attack_ids": [
+                42
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "increase_monster_gold,0",
+                    "amount_expr": "upgrade_amount(16053,1)",
+                    "is_minthara_debuff": true,
+                    "active_graphic_id": 25075,
+                    "active_graphic_y": -30,
+                    "overlay_play_mode": "stopped",
+                    "bottom": true,
+                    "stacks_on_reapply": false,
+                    "manual_stacking": true,
+                    "max_stacks": 1,
+                    "use_collection_source": false,
+                    "stack_across_effects": false
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Stoki keeps track of the total Focus Points she has gained in the current adventure. If Stoki's Focus Points are capped for a given area, she still counts new ones towards this ability. Upon reaching certain milestones, the following effects activate:.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2149,
+    "flavour_text": "",
+    "description": {
+        "desc": "Stoki keeps track of the total Focus Points she has gained in the current adventure. If Stoki's Focus Points are capped for a given area, she still counts new ones towards this ability. Upon reaching certain milestones, the following effects activate:"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Additively increase the Focus Points cap of Focused Strike by 10 for each Champion in the formation whose base attack cooldown is 4.0s or lower.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2150,
+    "flavour_text": "",
+    "description": {
+        "desc": "Additively increase the Focus Points cap of Focused Strike by 10 for each Champion in the formation whose base attack cooldown is 4.0s or lower."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Stoki tracks the number of attacks her allies have performed in the past 10 seconds and increases the effect of Focused Strike by 15% for each one, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2151,
+    "flavour_text": "",
+    "description": {
+        "desc": "Stoki tracks the number of attacks her allies have performed in the past 10 seconds and increases the effect of Focused Strike by 15% for each one, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Stoki counts the number of Champions in the formation with a DEX score of 16 or higher. For each such Champion, her base attack cooldown is decreased by 0.1 seconds, stacking additively, and the effect of Focused Strike is increased by 100%, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2152,
+    "flavour_text": "",
+    "description": {
+        "desc": "Stoki counts the number of Champions in the formation with a DEX score of 16 or higher. For each such Champion, her base attack cooldown is decreased by 0.1 seconds, stacking additively, and the effect of Focused Strike is increased by 100%, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by 100% for 0.1s their base attack cooldown is reduced by this ability, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2153,
+    "flavour_text": "",
+    "description": {
+        "desc": "Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by 100% for 0.1s their base attack cooldown is reduced by this ability, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
