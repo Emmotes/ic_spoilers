@@ -11,34 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Headless Horseman Kent Portrait](images/skin_portraits/headlesshorsemankent.png)<span class="featTooltipContents">ID: 475**Headless Horseman Kent (Kent)**<img src="images/skin_models/headlesshorsemankent.gif" alt="Headless Horseman Kent Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Headless Horseman Kent
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Headless Horseman Kent Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">16 Oct 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Werebear Donaar Portrait](images/skin_portraits/werebeardonaar.png)<span class="featTooltipContents">ID: 480**Werebear Donaar (Donaar)**<img src="images/skin_models/werebeardonaar.gif" alt="Werebear Donaar Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Werebear Donaar
-        </span>
-        <span class="skinTableSource">
-            <span style="margin-left: 8px;">Werebear Donaar Skin & Feat Pack</span>
-        </span>
-        <span class="skinTableCost">
-            <span style="margin-right: 8px;">$11.99</span>
-        </span>
-        <span class="skinTableDate">
-            <span style="margin-right: 8px;">16 Oct 2024</span>
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="tooltipHolder" style="width:max-content">![Nosferatu Widdle Portrait](images/skin_portraits/nosferatuwiddle.png)<span class="featTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**<img src="images/skin_models/nosferatuwiddle.gif" alt="Nosferatu Widdle Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Nosferatu Widdle
         </span>
         <span class="skinTableSource">
@@ -179,7 +151,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 488**Herald of Lore Turiel (Turiel)**</span></span>Herald of Lore Turiel
+            <span class="tooltipHolder" style="width:max-content">![Herald of Lore Turiel Portrait](images/skin_portraits/heraldofloreturiel.png)<span class="featTooltipContents">ID: 488**Herald of Lore Turiel (Turiel)**<img src="images/skin_models/heraldofloreturiel.gif" alt="Herald of Lore Turiel Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of Lore Turiel
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Herald of Lore Turiel Skin & Feat Pack</span>
@@ -193,7 +165,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 489**Herald of Waterdeep Virgil (Virgil)**<img src="images/skin_models/heraldofwaterdeepvirgil.gif" alt="Herald of Waterdeep Virgil Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of Waterdeep Virgil
+            <span class="tooltipHolder" style="width:max-content">![Herald of Waterdeep Virgil Portrait](images/skin_portraits/heraldofwaterdeepvirgil.png)<span class="featTooltipContents">ID: 489**Herald of Waterdeep Virgil (Virgil)**<img src="images/skin_models/heraldofwaterdeepvirgil.gif" alt="Herald of Waterdeep Virgil Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of Waterdeep Virgil
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Herald of Waterdeep Virgil Skin & Feat Pack</span>
@@ -221,7 +193,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 490**Herald of the Champions Dungeon Master (DM)**</span></span>Herald of the Champions Dungeon Master
+            <span class="tooltipHolder" style="width:max-content">![Herald of the Champions Dungeon Master Portrait](images/skin_portraits/heraldofthechampionsdungeonmaster.png)<span class="featTooltipContents">ID: 490**Herald of the Champions Dungeon Master (DM)**<img src="images/skin_models/heraldofthechampionsdungeonmaster.gif" alt="Herald of the Champions Dungeon Master Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of the Champions Dungeon Master
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Herald of the Champions Dungeon Master Skin & Feat Pack</span>
@@ -231,6 +203,76 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             <span style="margin-right: 8px;">27 Nov 2024</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Helldusk Karlach Portrait](images/skin_portraits/hellduskkarlach.png)<span class="featTooltipContents">ID: 497**Helldusk Karlach (Karlach)**</span></span>Helldusk Karlach
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Moonlight Halsin Portrait](images/skin_portraits/moonlighthalsin.png)<span class="featTooltipContents">ID: 492**Moonlight Halsin (Halsin)**<img src="images/skin_models/moonlighthalsin.gif" alt="Moonlight Halsin Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Moonlight Halsin
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Moonlight Regis Portrait](images/skin_portraits/moonlightregis.png)<span class="featTooltipContents">ID: 491**Moonlight Regis (Regis)**<img src="images/skin_models/moonlightregis.gif" alt="Moonlight Regis Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Moonlight Regis
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Selunite Shadowheart Portrait](images/skin_portraits/seluniteshadowheart.png)<span class="featTooltipContents">ID: 495**Selunite Shadowheart (Shadowheart)**<img src="images/skin_models/seluniteshadowheart.gif" alt="Selunite Shadowheart Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Selunite Shadowheart
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="tooltipHolder" style="width:max-content">![Solemn Shadowheart Portrait](images/skin_portraits/solemnshadowheart.png)<span class="featTooltipContents">ID: 494**Solemn Shadowheart (Shadowheart)**<img src="images/skin_models/solemnshadowheart.gif" alt="Solemn Shadowheart Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Solemn Shadowheart
+        </span>
+        <span class="skinTableSource">
+            <span style="margin-left: 8px;">???</span>
+        </span>
+        <span class="skinTableCost">
+            <span style="margin-right: 8px;">???</span>
+        </span>
+        <span class="skinTableDate">
+            <span style="margin-right: 8px;">???</span>
         </span>
     </span>
 </span>

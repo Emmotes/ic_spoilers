@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Donaar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Fortune's Favor Icon](images/featicons/goldfind.png)<span class="featTooltipContents">ID: 1892**Fortune's Favor (Donaar)**What do you mean: give up the gold? There was nothing there...<code>gold_multiplier_mult,25</code></span>Fortune's Favor
-        </span>
-        <span class="featTableEffect">
-            <span>25% Gold</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>16 Oct 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Kent</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1891**Prodigal Leader (Kent)**I am, aren't I?!<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>16 Oct 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Desmond</span>
         </span>
         <span class="featTableIcon4">
