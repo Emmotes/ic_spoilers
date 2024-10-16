@@ -35,7 +35,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 227**Lobita the Guardian**</span></span>Lobita the Guardian
+            <span class="tooltipHolder" style="width:max-content">![Lobita the Guardian Portrait](images/familiars/lobitatheguardian.png)<span class="featTooltipContents">ID: 227**Lobita the Guardian**<img src="images/familiars/lobitatheguardian.gif" alt="Lobita the Guardian Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Lobita the Guardian
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Lobita the Guardian Familiar Pack</span>
@@ -49,7 +49,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 228**Scrying Eye**</span></span>Scrying Eye
+            <span class="tooltipHolder" style="width:max-content">![Scrying Eye Portrait](images/familiars/scryingeye.png)<span class="featTooltipContents">ID: 228**Scrying Eye**<img src="images/familiars/scryingeye.gif" alt="Scrying Eye Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Scrying Eye
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Herald of the Absolute Minthara Theme Pack</span>
@@ -63,7 +63,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 229**Crown of Neverwinter**</span></span>Crown of Neverwinter
+            <span class="tooltipHolder" style="width:max-content">![Crown of Neverwinter Portrait](images/familiars/crownofneverwinter.png)<span class="featTooltipContents">ID: 229**Crown of Neverwinter**<img src="images/familiars/crownofneverwinter.gif" alt="Crown of Neverwinter Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Crown of Neverwinter
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Herald of Neverwinter Sgt. Knox Theme Pack</span>
@@ -91,7 +91,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 231**Cinderflick the Cat**</span></span>Cinderflick the Cat
+            <span class="tooltipHolder" style="width:max-content">![Cinderflick the Cat Portrait](images/familiars/cinderflickthecat.png)<span class="featTooltipContents">ID: 231**Cinderflick the Cat**<img src="images/familiars/cinderflickthecat.gif" alt="Cinderflick the Cat Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Cinderflick the Cat
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Cinderflick the Cat Familiar Pack</span>

@@ -342,7 +342,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 227**Lobita the Guardian**Let's play!!</span></span>
+            <span class="tooltipHolder">![Lobita the Guardian Familiar Portrait](images/premiums/familiar_227.png)<span class="itemTooltipContents">ID: 227**Lobita the Guardian**Let's play!!<img src="images/premiums/familiar_227.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -502,7 +502,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 228**Scrying Eye**Try not to do anything suspicious while within its gaze!</span></span>
+            <span class="tooltipHolder">![Scrying Eye Familiar Portrait](images/premiums/familiar_228.png)<span class="itemTooltipContents">ID: 228**Scrying Eye**Try not to do anything suspicious while within its gaze!<img src="images/premiums/familiar_228.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -553,7 +553,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 485**Herald of Neverwinter Sgt. Knox (Sgt. Knox)**</span></span>
+            <span class="tooltipHolder">![Herald of Neverwinter Sgt. Knox Skin Portrait](images/premiums/skin_485.png)<span class="itemTooltipContents">ID: 485**Herald of Neverwinter Sgt. Knox (Sgt. Knox)**<img src="images/premiums/skin_485.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -571,7 +571,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 229**Crown of Neverwinter**Forged of mithral & sapphires.</span></span>
+            <span class="tooltipHolder">![Crown of Neverwinter Familiar Portrait](images/premiums/familiar_229.png)<span class="itemTooltipContents">ID: 229**Crown of Neverwinter**Forged of mithral & sapphires.<img src="images/premiums/familiar_229.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -746,7 +746,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 231**Cinderflick the Cat**Fancy cat for a fancy wizard!</span></span>
+            <span class="tooltipHolder">![Cinderflick the Cat Familiar Portrait](images/premiums/familiar_231.png)<span class="itemTooltipContents">ID: 231**Cinderflick the Cat**Fancy cat for a fancy wizard!<img src="images/premiums/familiar_231.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

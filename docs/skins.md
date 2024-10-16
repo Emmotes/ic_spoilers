@@ -123,7 +123,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 485**Herald of Neverwinter Sgt. Knox (Sgt. Knox)**</span></span>Herald of Neverwinter Sgt. Knox
+            <span class="tooltipHolder" style="width:max-content">![Herald of Neverwinter Sgt. Knox Portrait](images/skin_portraits/heraldofneverwintersgtknox.png)<span class="featTooltipContents">ID: 485**Herald of Neverwinter Sgt. Knox (Sgt. Knox)**<img src="images/skin_models/heraldofneverwintersgtknox.gif" alt="Herald of Neverwinter Sgt. Knox Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Herald of Neverwinter Sgt. Knox
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">Herald of Neverwinter Sgt. Knox Theme Pack</span>
