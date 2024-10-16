@@ -207,7 +207,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="tooltipHolder" style="width:max-content">![Helldusk Karlach Portrait](images/skin_portraits/hellduskkarlach.png)<span class="featTooltipContents">ID: 497**Helldusk Karlach (Karlach)**</span></span>Helldusk Karlach
+            <span class="tooltipHolder" style="width:max-content">![Helldusk Karlach Portrait](images/skin_portraits/hellduskkarlach.png)<span class="featTooltipContents">ID: 497**Helldusk Karlach (Karlach)**<img src="images/skin_models/hellduskkarlach.gif" alt="Helldusk Karlach Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>Helldusk Karlach
         </span>
         <span class="skinTableSource">
             <span style="margin-left: 8px;">???</span>
