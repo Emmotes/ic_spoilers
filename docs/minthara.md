@@ -427,7 +427,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
 **Oath of Vengeance** (Guess)
 > Minthara provides benefits based on the number of Strife stacks she has.  
 > 3+ Strife stacks: Unyielding: Minthara increases her health by 10% for each Strife stack she has, stacking additively.  
-> 5+ Strife stacks: Piercing: Monsters affected by at least two Soul Branding stacks lose an additional armor or segmented health piece when they are attacked.  
+> 5+ Strife stacks: Piercing: Enemies affected by at least two Soul Branding stacks lose an additional armor or segmented health piece when they are attacked.  
 > 7+ Strife stacks: Scarring: When Minthara damages an enemy, she immediately applies the maximum possible number of Soul Branding stacks.  
 > 9+ Strife stacks: Nobility: Increases the base value of Noble of Menzoberranzan by 400%.
 <details><summary><em>Raw Data</em></summary>
@@ -437,7 +437,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
     "id": 2118,
     "flavour_text": "",
     "description": {
-        "desc": "Minthara provides benefits based on the number of Strife stacks she has.^3+ Strife stacks: Unyielding: Minthara increases her health by $(amount___2)% for each Strife stack she has, stacking additively.^5+ Strife stacks: Piercing: Monsters affected by at least two Soul Branding stacks lose an additional armor or segmented health piece when they are attacked.^7+ Strife stacks: Scarring: When Minthara damages an enemy, she immediately applies the maximum possible number of Soul Branding stacks.^9+ Strife stacks: Nobility: Increases the base value of Noble of Menzoberranzan by $(amount___5)%."
+        "desc": "Minthara provides benefits based on the number of Strife stacks she has.^3+ Strife stacks: Unyielding: Minthara increases her health by $(amount___2)% for each Strife stack she has, stacking additively.^5+ Strife stacks: Piercing: Enemies affected by at least two Soul Branding stacks lose an additional armor or segmented health piece when they are attacked.^7+ Strife stacks: Scarring: When Minthara damages an enemy, she immediately applies the maximum possible number of Soul Branding stacks.^9+ Strife stacks: Nobility: Increases the base value of Noble of Menzoberranzan by $(amount___5)%."
     },
     "effect_keys": [
         {
