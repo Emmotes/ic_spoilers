@@ -111,15 +111,318 @@ Unknown.
 
 # Abilities
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Cavalier's Code** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 25257,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Formation_EricCavaliersCode",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Keep Away** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 25258,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Formation_EricKeepAway",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Preferred Target** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 25259,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Formation_EricPreferredTarget",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Shield of the Cavalier** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 25260,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Formation_EricShieldoftheCavalier",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Trait: Brave** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 25261,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricTraitBrave",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Trait: Cautious** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 25262,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricTraitCautious",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Trait: Sarcastic** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 25263,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricTraitSarcastic",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Treasure Hunters** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 25264,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricTreasureHunters",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unassuming Force** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 25265,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricUnassumingForce",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Youthful Valor** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 25266,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricYouthfulValor",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Armor Icon](images/eric/25228.png)</span><span class="itemTableIcon2">![Armor Icon](images/eric/25228.png)</span><span class="itemTableIcon3">![Armor Icon](images/eric/25229.png)</span><span class="itemTableIcon4">![Armor Icon](images/eric/25230.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Armor
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Belt Icon](images/eric/25231.png)</span><span class="itemTableIcon2">![Belt Icon](images/eric/25231.png)</span><span class="itemTableIcon3">![Belt Icon](images/eric/25232.png)</span><span class="itemTableIcon4">![Belt Icon](images/eric/25233.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Belt
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Cape Icon](images/eric/25234.png)</span><span class="itemTableIcon2">![Cape Icon](images/eric/25234.png)</span><span class="itemTableIcon3">![Cape Icon](images/eric/25235.png)</span><span class="itemTableIcon4">![Cape Icon](images/eric/25236.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Cape
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Clothing Icon](images/eric/25237.png)</span><span class="itemTableIcon2">![Clothing Icon](images/eric/25237.png)</span><span class="itemTableIcon3">![Clothing Icon](images/eric/25238.png)</span><span class="itemTableIcon4">![Clothing Icon](images/eric/25239.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Clothing
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Shield Icon](images/eric/25240.png)</span><span class="itemTableIcon2">![Shield Icon](images/eric/25240.png)</span><span class="itemTableIcon3">![Shield Icon](images/eric/25241.png)</span><span class="itemTableIcon4">![Shield Icon](images/eric/25242.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Shield
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Wealth Icon](images/eric/25243.png)</span><span class="itemTableIcon2">![Wealth Icon](images/eric/25243.png)</span><span class="itemTableIcon3">![Wealth Icon](images/eric/25244.png)</span><span class="itemTableIcon4">![Wealth Icon](images/eric/25245.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Wealth
+        </span>
+    </span>
+</span>
 
 # Feats
 
@@ -154,6 +457,14 @@ Unknown.
     <span class="championImagesRow">
         <span class="championImagesPortrait">
             ![Eric Console Portrait](images/eric/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Eric Gold Chest Icon](images/eric/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Eric Silver Chest Icon](images/eric/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
