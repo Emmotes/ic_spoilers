@@ -142,6 +142,31 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="mehen.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Verthisathurgiesh Mehen Portrait Icon](images/mehen/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Mehen
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Dragonborn Fighter of Brimstone Angels</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Wintershield - 1 January 2025</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Timed Misc
