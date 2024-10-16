@@ -30,6 +30,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Briv</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Strategic Stride Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**My mighty legs could go farther, but there is wisdom in restraint.<code>cap_upgrade,1600,3452</code></span>Strategic Stride
+        </span>
+        <span class="featTableEffect">
+            <span>Cap Unnatural Haste at 5j</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Oct 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Desmond</span>
         </span>
         <span class="featTableIcon4">
