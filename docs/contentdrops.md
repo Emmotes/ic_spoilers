@@ -432,13 +432,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Fortune's Wheel: Returnto Fortunes Wheel (Adventure)](images/contentdrop_portraits/fortune'swheel_returntofortuneswheel_0.png)
+            ![Fortune's Wheel: Return to Fortunes Wheel (Adventure)](images/contentdrop_portraits/fortune'swheel_returntofortuneswheel_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Fortune's Wheel</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Returnto Fortunes Wheel</span>
+            <span style="margin-left: 8px;">Return to Fortunes Wheel</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Adventure</span>
@@ -446,13 +446,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Returnto Fortunes Wheel (Variant 1)](images/contentdrop_portraits/fortune'swheel_returntofortuneswheel_1.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Return to Fortunes Wheel (Variant 1)](images/contentdrop_portraits/fortune'swheel_returntofortuneswheel_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Fortune's Wheel</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Returnto Fortunes Wheel</span>
+            <span style="margin-left: 8px;">Return to Fortunes Wheel</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #1</span>
