@@ -175,8 +175,8 @@ code{
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: center;
-    align-items: center;
-	height: 89px;
+    align-items: stretch;
+	height: max-content;
 	margin: 2px;
 	background-color: var(--Onyx);
 	border: 1px solid black;
@@ -191,26 +191,40 @@ code{
 }
 .skinTableIcon {
 	display: flex;
-	justify-content: flex-start;
+	justify-content: center;
 	align-items: center;
-	width: 325px;
-	height: 100%;
-	margin: 0px;
-	font-size: 1.1em;
+	margin: 5px;
 }
 .skinTableIcon img {
-	margin: 5px;
 	width: 85px;
 	height: 80px;
 	object-fit: scale-down;
+}
+.skinTooltipHolder {
+	display: flex;
+	position: relative;
+	cursor: pointer;
+	color: var(--TangerineYellow);
+}
+.skinTooltipHolder:hover .featTooltipContents {
+	visibility: visible;
+}
+.skinTableName {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 210px;
+	padding: 0 5px 0 3px;
+	font-size: 1.1em;
+	text-wrap: pretty;
 }
 .skinTableSource {
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	width: 350px;
-	height: 100%;
-	margin: 0px;
+	width: 330px;
+	padding: 0 8px;
+	text-wrap: pretty;
 	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	border-right: 1px solid black;
@@ -220,7 +234,7 @@ code{
 	justify-content: flex-end;
 	align-items: center;
 	width: 65px;
-	height: 100%;
+	padding-right: 8px;
 }
 .skinTableDate {
 	background-color: var(--EerieBlack);
