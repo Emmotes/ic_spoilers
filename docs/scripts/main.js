@@ -1,4 +1,4 @@
-const v=1.7;
+const v=1.71;
 const rrm = {
 	active: (localStorage.spoilersRRM == 1 ? true : false),
 	storage: "spoilersRRM",
@@ -88,6 +88,7 @@ nnm.map.set("Potion of Fire Breath", "Fire Breath Pot");
 nnm.map.set("Potion of Heroism", "Health Pot");
 
 acm.map.set("<li><a href=\"/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)")
+acm.map.set("<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)")
 
 const allModes = [rrm, nnm, acm];
 
