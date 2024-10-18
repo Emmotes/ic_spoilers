@@ -1,4 +1,4 @@
-const v=1.6;
+const v=1.7;
 const rrm = {
 	active: (localStorage.spoilersRRM == 1 ? true : false),
 	storage: "spoilersRRM",
@@ -11,6 +11,13 @@ const nnm = {
 	storage: "spoilersNNM",
 	name: "Nicknames Mode",
 	nick: "nnm",
+	map: new Map()
+};
+const acm = {
+	active: (localStorage.spoilersACM == 1 ? true : false),
+	storage: "spoilersACM",
+	name: "Archive Code Mode",
+	nick: "acm",
 	map: new Map()
 };
 const patronSort = document.getElementById("patronSort");
@@ -80,7 +87,9 @@ nnm.map.set("Potion of Clairvoyance", "Gold Pot");
 nnm.map.set("Potion of Fire Breath", "Fire Breath Pot");
 nnm.map.set("Potion of Heroism", "Health Pot");
 
-const allModes = [rrm, nnm];
+acm.map.set("<li><a href=\"/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)")
+
+const allModes = [rrm, nnm, acm];
 
 function init() {
 	if (localStorage.randrambMode != undefined) {
