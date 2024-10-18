@@ -37,7 +37,7 @@ Please be aware that the developers recently removed most future skins from the 
             Vampire Hunter Desmond Skin & Feat Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             23 Oct 2024
@@ -71,7 +71,7 @@ Please be aware that the developers recently removed most future skins from the 
             Vampire Viconia Skin & Feat Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             23 Oct 2024
@@ -105,7 +105,7 @@ Please be aware that the developers recently removed most future skins from the 
             Devil Wyll Skin & Feat Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             30 Oct 2024
@@ -122,7 +122,7 @@ Please be aware that the developers recently removed most future skins from the 
             Herald of Protection Sentry Skin & Feat Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             06 Nov 2024
@@ -139,7 +139,7 @@ Please be aware that the developers recently removed most future skins from the 
             Herald of the Absolute Minthara Theme Pack
         </span>
         <span class="skinTableCost">
-            $27.99
+            3,830p
         </span>
         <span class="skinTableDate">
             06 Nov 2024
@@ -156,7 +156,7 @@ Please be aware that the developers recently removed most future skins from the 
             Herald of Neverwinter Sgt. Knox Theme Pack
         </span>
         <span class="skinTableCost">
-            $27.99
+            3,830p
         </span>
         <span class="skinTableDate">
             13 Nov 2024
@@ -173,7 +173,7 @@ Please be aware that the developers recently removed most future skins from the 
             Herald of The World Tree Penelope Skin & Feat Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             13 Nov 2024
@@ -190,7 +190,7 @@ Please be aware that the developers recently removed most future skins from the 
             Herald of Lore Turiel Skin & Feat Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             20 Nov 2024
@@ -207,7 +207,7 @@ Please be aware that the developers recently removed most future skins from the 
             Herald of Waterdeep Virgil Skin & Feat Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             20 Nov 2024
@@ -224,7 +224,7 @@ Please be aware that the developers recently removed most future skins from the 
             Goblin Glitch Calliope Skin & Feat Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             27 Nov 2024
@@ -241,7 +241,7 @@ Please be aware that the developers recently removed most future skins from the 
             Herald of the Champions Dungeon Master Skin & Feat Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             27 Nov 2024

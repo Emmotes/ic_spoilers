@@ -16,7 +16,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Vincent the Vargouille Familiar Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             23 Oct 2024
@@ -33,7 +33,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Creeping Hut Familiar Pack
         </span>
         <span class="skinTableCost">
-            $5.99
+            840p
         </span>
         <span class="skinTableDate">
             30 Oct 2024
@@ -50,7 +50,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Lobita the Guardian Familiar Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             04 Nov 2024
@@ -67,7 +67,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Herald of the Absolute Minthara Theme Pack
         </span>
         <span class="skinTableCost">
-            $27.99
+            3,830p
         </span>
         <span class="skinTableDate">
             06 Nov 2024
@@ -84,7 +84,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Herald of Neverwinter Sgt. Knox Theme Pack
         </span>
         <span class="skinTableCost">
-            $27.99
+            3,830p
         </span>
         <span class="skinTableDate">
             13 Nov 2024
@@ -101,7 +101,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Herald the Golden Crow Familiar Pack
         </span>
         <span class="skinTableCost">
-            $11.99
+            1,680p
         </span>
         <span class="skinTableDate">
             13 Nov 2024
@@ -118,7 +118,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Cinderflick the Cat Familiar Pack
         </span>
         <span class="skinTableCost">
-            $16.99
+            2,380p
         </span>
         <span class="skinTableDate">
             20 Nov 2024

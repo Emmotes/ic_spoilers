@@ -5,7 +5,7 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Vampire Hunter Desmond Skin & Feat Pack - $11.99  
+### Vampire Hunter Desmond Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 23 Oct 2024
 
 > Unlock Desmond along with his exclusive Vampire Hunter Skin & Feat!
@@ -76,7 +76,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Vampire Viconia Skin & Feat Pack - $11.99  
+### Vampire Viconia Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 23 Oct 2024
 
 > Unlock Viconia along with her exclusive Vampire Skin & Feat!
@@ -147,7 +147,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Vincent the Vargouille Familiar Pack - $11.99  
+### Vincent the Vargouille Familiar Pack - 1,680 Platinum ($11.99)  
 Date of release: 23 Oct 2024
 
 > Collect your own Vincent the Vargouille Familiar!
@@ -209,7 +209,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Creeping Hut Familiar Pack - $5.99  
+### Creeping Hut Familiar Pack - 840 Platinum ($5.99)  
 Date of release: 30 Oct 2024
 
 > Collect your own Creeping Hut Familiar!
@@ -261,7 +261,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Devil Wyll Skin & Feat Pack - $11.99  
+### Devil Wyll Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 30 Oct 2024
 
 > Unlock Wyll along with his exclusive Devil Skin & Feat!
@@ -332,7 +332,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Lobita the Guardian Familiar Pack - $11.99  
+### Lobita the Guardian Familiar Pack - 1,680 Platinum ($11.99)  
 Date of release: 04 Nov 2024
 
 > Collect your own Lobita the Guardian Familiar!
@@ -394,7 +394,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Herald of Protection Sentry Skin & Feat Pack - $11.99  
+### Herald of Protection Sentry Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 06 Nov 2024
 
 > Unlock Sentry along with her exclusive Herald of Protection Skin & Feat!
@@ -465,7 +465,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Herald of the Absolute Minthara Theme Pack - $27.99  
+### Herald of the Absolute Minthara Theme Pack - 3,830 Platinum ($27.99)  
 Date of release: 06 Nov 2024
 
 > Unlock Minthara along with an exclusive Herald of the Absolute Skin & Scrying Eye Familiar!
@@ -534,7 +534,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Herald of Neverwinter Sgt. Knox Theme Pack - $27.99  
+### Herald of Neverwinter Sgt. Knox Theme Pack - 3,830 Platinum ($27.99)  
 Date of release: 13 Nov 2024
 
 > Unlock Sgt. Knox along with an exclusive Herald of Neverwinter Skin & Crown of Neverwinter Familiar!
@@ -603,7 +603,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Herald of The World Tree Penelope Skin & Feat Pack - $11.99  
+### Herald of The World Tree Penelope Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 13 Nov 2024
 
 > Unlock Penelope along with her exclusive Herald of The World Tree Skin & Feat!
@@ -674,7 +674,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Herald the Golden Crow Familiar Pack - $11.99  
+### Herald the Golden Crow Familiar Pack - 1,680 Platinum ($11.99)  
 Date of release: 13 Nov 2024
 
 > Collect your own Herald the Golden Crow Familiar!
@@ -736,7 +736,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Cinderflick the Cat Familiar Pack - $16.99  
+### Cinderflick the Cat Familiar Pack - 2,380 Platinum ($16.99)  
 Date of release: 20 Nov 2024
 
 > Collect your own Cinderflick the Cat Familiar!
@@ -827,7 +827,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Herald of Lore Turiel Skin & Feat Pack - $11.99  
+### Herald of Lore Turiel Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 20 Nov 2024
 
 > Unlock Turiel along with his exclusive Herald of Lore Skin & Feat!
@@ -898,7 +898,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Herald of Waterdeep Virgil Skin & Feat Pack - $11.99  
+### Herald of Waterdeep Virgil Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 20 Nov 2024
 
 > Unlock Virgil along with his exclusive Herald of Waterdeep Skin & Feat!
@@ -969,7 +969,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Goblin Glitch Calliope Skin & Feat Pack - $11.99  
+### Goblin Glitch Calliope Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 27 Nov 2024
 
 > Snag Calliope's exclusive Goblin Glitch Skin & Feat!
@@ -1031,7 +1031,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Herald of the Champions Dungeon Master Skin & Feat Pack - $11.99  
+### Herald of the Champions Dungeon Master Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 27 Nov 2024
 
 > Unlock Dungeon Master along with his exclusive Herald of the Champions Skin & Feat!
