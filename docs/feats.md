@@ -334,6 +334,23 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>26 Dec 2024</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Xerophon</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guardian of Icewind Dale Icon](images/featicons/snowballs.png)<span class="featTooltipContents">ID: 2003**Guardian of Icewind Dale (Xerophon)**From Ten-Towns to Ythryn, from the Spine to the frozen sea, I shall defend this place.<code>todo<br>DevNote: Xerophon may be used in any Icewind Dale: Rime of the Frostmaiden adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict them.</code></span>Guardian of Icewind Dale
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>29 Jan 2025</span>
+        </span>
+    </span>
 </span>
 
 # Placeholder Date Feats
