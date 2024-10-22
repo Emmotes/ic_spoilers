@@ -4,9 +4,7 @@
 
 # Emergence 9
 
-We know the next Emergence event will be Vampires and that it will start on 23 October 2024. 
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: We've been told by Justin on Dev Insights that the 9 jump Briv feat will be in this Emergence - but there's no data in the definitions yet to back that statement up.*
+We know the next Emergence event will be Vampires and that it will start on 23 October 2024.
 
 ### Shop Contents
 
