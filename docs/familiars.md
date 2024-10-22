@@ -50,7 +50,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Lobita the Guardian Familiar Pack
         </span>
         <span class="skinTableCost">
-            1,680p
+            0p
         </span>
         <span class="skinTableDate">
             04 Nov 2024

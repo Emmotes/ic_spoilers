@@ -332,7 +332,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-### Lobita the Guardian Familiar Pack - 1,680 Platinum ($11.99)  
+### Lobita the Guardian Familiar Pack - 0 Platinum ($11.99)  
 Date of release: 04 Nov 2024
 
 > Collect your own Lobita the Guardian Familiar!

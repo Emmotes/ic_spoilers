@@ -33,13 +33,13 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Briv</span>
         </span>
         <span class="featTableIcon4">
-            ![Strategic Stride Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**My mighty legs could go farther, but there is wisdom in restraint.<code>cap_upgrade,1600,3452</code></span>Strategic Stride
+            ![Strategic Stride Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**My mighty legs could go farther, but there is wisdom in restraint.<code>cap_upgrade,25600,3452</code></span>Strategic Stride
         </span>
         <span class="featTableEffect">
-            <span>Cap Unnatural Haste at 5j</span>
+            <span>Cap Unnatural Haste at 9j</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 9</span>
         </span>
         <span class="featTableDate">
             <span>23 Oct 2024</span>
@@ -336,6 +336,40 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2012**Tenacious (Bobby)**Heroes never say die!<code>increase_ability_score,con,2</code></span>Tenacious
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Constitution</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Kas</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2011**Weapon Master (Kas)**I've practiced the blade for centuries. You are nothing before me.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
+        </span>
+        <span class="featTableEffect">
+            <span>120% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Xerophon</span>
         </span>
         <span class="featTableIcon4">
@@ -349,6 +383,40 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>29 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gale</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Chosen of Mystra Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2006**Chosen of Mystra (Gale)**Ah-Thran Mystra-Ryl Kantrach-Ao...<code>buff_upgrade,80,14571</code></span>Chosen of Mystra
+        </span>
+        <span class="featTableEffect">
+            <span>80% Archmage's Insight</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Karlach</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Heart Ablaze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2005**Heart Ablaze (Karlach)**I don't think I've ever felt more powerful.<code>todo<br>DevNote: Increase BUD damage caused by Infernal Engine</code></span>Heart Ablaze
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Apr 2025</span>
         </span>
     </span>
 </span>
