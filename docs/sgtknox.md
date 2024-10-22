@@ -422,6 +422,65 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Rallying Cry** (Guess)
+> Increases the damage of Champions in all the columns behind Sgt. Knox by 100% for each positional formation ability affecting them, stacking multiplicatively and including this one.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2154,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the damage of Champions in all the columns behind $source by $(amount)% for each positional formation ability affecting them, stacking multiplicatively and including this one."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(15953,0)",
+            "targets": [
+                "behind"
+            ],
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_incoming_effect_by_expr",
+            "effect_id": 2128,
+            "effect_index": 1,
+            "hero_expr": "pow((1+(GetUpgradeAmount(15953,0)/100)), hero_positional_formation_abilities)",
+            "targets": [
+                "behind"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ],
+            "override_key_desc": "Increases the damage of $target by $(not_buffed amount)% for every positional formation ability affecting them.",
+            "skip_effect_key_desc": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 10775,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "amount_calc_after_bonus": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > The effect of Celeste's Crusader's Mantle is increased by 100% for each unaffiliated Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
