@@ -332,23 +332,6 @@ Please be aware that the developers recently removed most future skins from the 
             ???
         </span>
     </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Persistent Lae'zel Portrait](images/skin_portraits/persistentlaezel.png)<span class="featTooltipContents">ID: 454**Persistent Lae'zel (Lae'zel)**<img src="images/skin_models/persistentlaezel.gif" alt="Persistent Lae'zel Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Persistent Lae'zel
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            31 Jul 2032
-        </span>
-    </span>
 </span>
 
 [Back to Top](#top)
