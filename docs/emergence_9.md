@@ -102,7 +102,17 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Vampire Emergence Chest Icon](images/emergence_9/chest_677.png)<span class="itemTooltipContents">ID: 677**Vampire Emergence Chest**Loot for: Ellywick, Widdle, Nahara, Voronika, Krux and Kas<code>"for_crusaders":[83,91,102,104,136,153]</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Strategic Stride Feat Icon](images/emergence_9/feat_2004.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**My mighty legs could go farther, but there is wisdom in restraint.<code>cap_upgrade,25600,3452</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Strategic Stride</span>
+            <span style="margin-left:15px">Briv (Cap Unnatural Haste at 9j)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Vampire Emergence Chest Icon](images/emergence_9/chest_677.png)<span class="itemTooltipContents">ID: 677**Vampire Emergence Chest**Loot for: Briv, Ellywick, Widdle, Nahara, Voronika, Krux and Kas<code>"for_crusaders":[58,83,91,102,104,136,153]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
@@ -111,7 +121,7 @@ We know the next Emergence event will be Vampires and that it will start on 23 O
     </span>
 </span>
 
-The Vampire Emergence Chest will contain loot for Ellywick, Widdle, Nahara, Voronika, Krux and Kas.
+The Vampire Emergence Chest will contain loot for Briv, Ellywick, Widdle, Nahara, Voronika, Krux and Kas.
 
 {% comment %}
 # Emergence FAQ
