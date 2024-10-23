@@ -296,7 +296,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Call to Action** (Guess)
-> In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is 10% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or kills left to do.  
+> In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is 10% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or enemies left to defeat.  
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -304,7 +304,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
     "id": 2137,
     "flavour_text": "",
     "description": {
-        "desc": "In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is $(amount)% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or kills left to do.^^Current Chance: $halsin_chance_to_instant_complete%"
+        "desc": "In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is $(amount)% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or enemies left to defeat.^^Current Chance: $halsin_chance_to_instant_complete%"
     },
     "effect_keys": [
         {
@@ -522,7 +522,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Harbinger of the Wilds** (Guess)
-> Archdruid of Emerald Grove now also grants Harmony stacks for Neutral Champions in the formation (on the good/evil axis).
+> Archdruid of Emerald Grove now also grants Harmony stacks for Neutral Champions in the formation (on the Good/Evil axis).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -530,7 +530,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
     "id": 2140,
     "flavour_text": "",
     "description": {
-        "desc": "Archdruid of Emerald Grove now also grants Harmony stacks for Neutral Champions in the formation (on the good/evil axis)."
+        "desc": "Archdruid of Emerald Grove now also grants Harmony stacks for Neutral Champions in the formation (on the Good/Evil axis)."
     },
     "effect_keys": [
         {
@@ -751,22 +751,22 @@ Unknown.
 ![Escape from the Shattered Sanctum Icon](images/halsin/25064.png) **Variant 1: Escape from the Shattered Sanctum** (Complete Area 75)
 > Halsin starts in the formation. He can be moved, but not removed.  
 > 1-2 Goblins spawn with each wave. They don't drop gold nor count towards quest progress.  
-> You may only use Good and/or Neutral Champions.  
-> Getting to know Halsin: Halsin works well with Good Champions, and a specialization choice extends that to include Neutral Champions.
+> You may only use Good and/or Neutral (on the Good/Evil axis) Champions.  
+> Getting to Know Halsin: Halsin works well with Good Champions, and a specialization choice extends that to include Neutral Champions.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Lifting the Shadow Curse Icon](images/halsin/25065.png) **Variant 2: Lifting the Shadow Curse** (Complete Area 125)
 > Due to the Shadow Curse, the weather is Foggy.  
 > In non-boss areas, quest requirements are halved, but there is a 50% chance that a defeated enemy doesn't drop quest items nor count towards quest progress.  
 > Halsin starts in the formation. He can be moved, but not removed.  
-> Getting to know Halsin: Halsin provides a chance to advance to the next area before all the quest requirements are completed.
+> Getting to Know Halsin: Halsin provides a chance to advance to the next area before all the quest requirements are completed.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Bear Necessities Icon](images/halsin/25066.png) **Variant 3: Bear Necessities** (Complete Area 175)
 > Halsin starts in the formation with his Archdruid of Emerald Grove and Nature's Revival abilities unlocked. He can be moved, but not removed.  
 > Champions don't recover health when moving to a new area.   
 > Champions resurrect at half health when changing areas instead of full health.  
-> Getting to know Halsin: Halsin heals good Champions in the formation, and this can be extended to include Neutral Champions with his specialization choice.
+> Getting to Know Halsin: Halsin heals good Champions in the formation, and this can be extended to include Neutral Champions with his specialization choice.
 </div></div>
 
 # Other Champion Images
