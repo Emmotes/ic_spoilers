@@ -362,7 +362,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Strategic Stride Feat Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**My mighty legs could go farther, but there is wisdom in restraint.<code>cap_upgrade,25600,3452</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Strategic Stride Feat Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**Mine mighty legs could go farther, but there is wisdom in restraint.<code>cap_upgrade,25600,3452</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
