@@ -173,7 +173,7 @@ A list of champions that will be seeing reworks in upcoming events.
 
 Miscellaneous spoilers with due dates.
 
-* [Emergence 9](emergence_9.md) - 23 October 2024
+* Emergence 10 - 22 January 2025
 
 # Misc
 
