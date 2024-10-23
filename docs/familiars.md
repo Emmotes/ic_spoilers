@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Vincent the Vargouille Portrait](images/familiars/vincentthevargouille.png)<span class="featTooltipContents">ID: 224**Vincent the Vargouille**<img src="images/familiars/vincentthevargouille.gif" alt="Vincent the Vargouille Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Vincent the Vargouille
-        </span>
-        <span class="skinTableSource">
-            Vincent the Vargouille Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            23 Oct 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Creeping Hut Portrait](images/familiars/creepinghut.png)<span class="featTooltipContents">ID: 225**Creeping Hut**<img src="images/familiars/creepinghut.gif" alt="Creeping Hut Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
