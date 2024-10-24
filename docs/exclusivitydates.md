@@ -382,7 +382,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<code>add_hero_tags,0,undead<br>buff_upgrade,160,6905</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<code>add_hero_tags,0,undead<br>buff_upgrade,160,6905<br>appear_dead</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -392,7 +392,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400<br>appear_dead</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
