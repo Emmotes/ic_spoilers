@@ -4,7 +4,7 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 487</div>
 ### Creeping Hut Familiar Pack - 840 Platinum ($5.99)  
 Date of release: 30 Oct 2024
 
@@ -56,7 +56,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 486</div>
 ### Devil Wyll Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 30 Oct 2024
 
@@ -127,7 +127,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 495</div>
 ### Lobita the Guardian Familiar Pack - $11.99  
 Date of release: 04 Nov 2024
 
@@ -191,7 +191,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 498</div>
 ### Herald of Protection Sentry Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 06 Nov 2024
 
@@ -262,7 +262,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 496</div>
 ### Herald of the Absolute Minthara Theme Pack - 3,830 Platinum ($27.99)  
 Date of release: 06 Nov 2024
 
@@ -331,7 +331,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 497</div>
 ### Herald of Neverwinter Sgt. Knox Theme Pack - 3,830 Platinum ($27.99)  
 Date of release: 13 Nov 2024
 
@@ -400,7 +400,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 499</div>
 ### Herald of The World Tree Penelope Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 13 Nov 2024
 
@@ -471,7 +471,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 500</div>
 ### Herald the Golden Crow Familiar Pack - 1,680 Platinum ($11.99)  
 Date of release: 13 Nov 2024
 
@@ -533,7 +533,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 503</div>
 ### Cinderflick the Cat Familiar Pack - 2,380 Platinum ($16.99)  
 Date of release: 20 Nov 2024
 
@@ -624,7 +624,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 501</div>
 ### Herald of Lore Turiel Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 20 Nov 2024
 
@@ -695,7 +695,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 502</div>
 ### Herald of Waterdeep Virgil Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 20 Nov 2024
 
@@ -766,7 +766,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 504</div>
 ### Goblin Glitch Calliope Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 27 Nov 2024
 
@@ -828,7 +828,7 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 505</div>
 ### Herald of the Champions Dungeon Master Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 27 Nov 2024
 
