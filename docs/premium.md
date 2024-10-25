@@ -191,77 +191,6 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 498</div>
-### Herald of Protection Sentry Skin & Feat Pack - 1,680 Platinum ($11.99)  
-Date of release: 06 Nov 2024
-
-> Unlock Sentry along with her exclusive Herald of Protection Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Sentry Champion Unlock Portrait](images/premiums/unlock_champion_52.png)<span class="itemTooltipContents">ID: 52**Sentry (Seat 4)**<img src="images/premiums/unlock_champion_52.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Sentry</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Herald of Protection Sentry Skin Portrait](images/premiums/skin_486.png)<span class="itemTooltipContents">ID: 486**Herald of Protection Sentry (Sentry)**<img src="images/premiums/skin_486.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Herald of Protection Sentry</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Overdrive Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 1975**Overdrive**I can go further, I promise.<code>todo<br>DevNote: Increase the effect of Sentry's specializations by 80% May require new tech to buff the stun duration (but not the chance) of the first spec choice (Nature's Wrath)</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Overdrive</span>
-            <span style="margin-left:15px">Sentry (todo)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Sentry Chest Chest Portrait](images/premiums/chests_163.png)<span class="itemTooltipContents">ID: 163**Gold Sentry Chest**Loot for: Sentry<code>"for_crusaders":[52]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Sentry Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 496</div>
 ### Herald of the Absolute Minthara Theme Pack - 3,830 Platinum ($27.99)  
 Date of release: 06 Nov 2024
@@ -394,6 +323,77 @@ Contents:
             <span style="margin-left:5px">**Buff**</span>
             <span style="margin-left:15px">Potion of the Gem Hunter</span>
             <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 498</div>
+### Herald of Protection Sentry Skin & Feat Pack - 1,680 Platinum ($11.99)  
+Date of release: 06 Nov 2024
+
+> Unlock Sentry along with her exclusive Herald of Protection Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Sentry Champion Unlock Portrait](images/premiums/unlock_champion_52.png)<span class="itemTooltipContents">ID: 52**Sentry (Seat 4)**<img src="images/premiums/unlock_champion_52.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Sentry</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Herald of Protection Sentry Skin Portrait](images/premiums/skin_486.png)<span class="itemTooltipContents">ID: 486**Herald of Protection Sentry (Sentry)**<img src="images/premiums/skin_486.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Herald of Protection Sentry</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Overdrive Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 1975**Overdrive**I can go further, I promise.<code>todo<br>DevNote: Increase the effect of Sentry's specializations by 80% May require new tech to buff the stun duration (but not the chance) of the first spec choice (Nature's Wrath)</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Overdrive</span>
+            <span style="margin-left:15px">Sentry (todo)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Gold Sentry Chest Chest Portrait](images/premiums/chests_163.png)<span class="itemTooltipContents">ID: 163**Gold Sentry Chest**Loot for: Sentry<code>"for_crusaders":[52]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Gold Sentry Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
 </span>
