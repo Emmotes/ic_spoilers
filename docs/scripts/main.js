@@ -1,4 +1,4 @@
-const v=2.001;
+const v=2.002;
 const rrm = {
 	active: (localStorage.spoilersRRM == 1 ? true : false),
 	storage: "spoilersRRM",
@@ -118,7 +118,7 @@ function updateModes(edit) {
 			modes += `<br>${curr.name} Active`;
 			if (curr == acm) {
 				let path = document.location.pathname;
-				if (path != "" & path != "/" && !path.includes("index.html"))
+				if (path != "/ic_spoilers/" && path != "/" && !path.includes("index.html"))
 					continue
 			}
 			if (edit) {
