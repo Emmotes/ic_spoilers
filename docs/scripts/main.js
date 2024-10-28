@@ -1,4 +1,4 @@
-const v=2;
+const v=2.001;
 const rrm = {
 	active: (localStorage.spoilersRRM == 1 ? true : false),
 	storage: "spoilersRRM",
@@ -114,11 +114,13 @@ function updateModes(edit) {
 	let modes = `<br><a href="modes.html">Modes</a>`;
 	for (let i = 0; i < allModes.length; i++) {
 		let curr = allModes[i];
-		let path = document.location.pathname;
-		if (curr == acm && path != "" & path != "/" && !path.includes("index.html"))
-			continue
 		if (curr.active) {
 			modes += `<br>${curr.name} Active`;
+			if (curr == acm) {
+				let path = document.location.pathname;
+				if (path != "" & path != "/" && !path.includes("index.html"))
+					continue
+			}
 			if (edit) {
 				for (const [key, value] of curr.map) {
 					document.body.innerHTML = document.body.innerHTML.replaceAll(`${key}`,`${value}`);
