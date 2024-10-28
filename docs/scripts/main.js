@@ -1,4 +1,4 @@
-const v=1.71;
+const v=2;
 const rrm = {
 	active: (localStorage.spoilersRRM == 1 ? true : false),
 	storage: "spoilersRRM",
@@ -93,21 +93,6 @@ acm.map.set("<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</
 const allModes = [rrm, nnm, acm];
 
 function init() {
-	if (localStorage.randrambMode != undefined) {
-		localStorage.spoilersRRM = localStorage.randrambMode;
-		localStorage.removeItem("randrambMode");
-		if (localStorage.spoilersRRM == 1) {
-			rrm.active = true;
-		}
-	}
-	if (localStorage.nicknamesMode != undefined) {
-		localStorage.spoilersNNM = localStorage.nicknamesMode;
-		localStorage.removeItem("nicknamesMode");
-		if (localStorage.spoilersNNM == 1) {
-			nnm.active = true;
-		}
-	}
-	
 	let edit = !(document.location.pathname.includes("/modes.html"));
 	updateModes(edit);
 	
@@ -129,6 +114,9 @@ function updateModes(edit) {
 	let modes = `<br><a href="modes.html">Modes</a>`;
 	for (let i = 0; i < allModes.length; i++) {
 		let curr = allModes[i];
+		let path = document.location.pathname;
+		if (curr == acm && path != "" & path != "/" && !path.includes("index.html"))
+			continue
 		if (curr.active) {
 			modes += `<br>${curr.name} Active`;
 			if (edit) {
