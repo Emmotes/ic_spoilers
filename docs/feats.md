@@ -67,16 +67,16 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Sentry</span>
         </span>
         <span class="featTableIcon4">
-            ![Overdrive Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1975**Overdrive (Sentry)**I can go further, I promise.<code>todo<br>DevNote: Increase the effect of Sentry's specializations by 80% May require new tech to buff the stun duration (but not the chance) of the first spec choice (Nature's Wrath)</code></span>Overdrive
+            ![Overdrive Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1975**Overdrive (Sentry)**I can go further, I promise.<code>buff_upgrades,80,8763,8867<br>increase_stun_time,3.2,241</code></span>Overdrive
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>80% All Specialisations & Increase Stun Duration of Sentry's Base Attack by 3.2s</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>13 Nov 2024</span>
+            <span>06 Nov 2024</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -98,13 +98,30 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Virgil</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Extra Missiles Icon](images/featicons/virgilmagicmissiles.png)<span class="featTooltipContents">ID: 1977**Extra Missiles (Virgil)**There's nothing wrong with being a little extra.<code>add_attack_targets,2</code></span>Extra Missiles
+        </span>
+        <span class="featTableEffect">
+            <span>+2 Base Attack Targets</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>20 Nov 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Calliope</span>
         </span>
         <span class="featTableIcon4">
-            ![Goblin Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1979**Goblin Glitch (Calliope)**I finally look on the outside how I feel on the inside!<code>todo<br>DevNote: Calliope counts as a Goblin. Decreases the base attack cooldown of Champions in the column in front of her by .5 seconds.</code></span>Goblin Glitch
+            ![Goblin Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1979**Goblin Glitch (Calliope)**I finally look on the outside how I feel on the inside!<code>add_hero_tags,0,goblin<br>reduce_attack_cooldown,0.5</code></span>Goblin Glitch
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Counts as Goblin & -0.5s Base Attack Cooldown</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -186,10 +203,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Celeste</span>
         </span>
         <span class="featTableIcon4">
-            ![Dark Revelation Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 1984**Dark Revelation (Celeste)**Selûne's power is nothing - Shar's perfection eclipses it<code>todo<br>DevNote: Change Celeste's alignment to Neutral Evil</code></span>Dark Revelation
+            ![Dark Revelation Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 1984**Dark Revelation (Celeste)**Selûne's power is nothing - Shar's perfection eclipses it<code>change_hero_alignment_tag,lawful,evil</code></span>Dark Revelation
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Change Alignment to Lawful Evil</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>

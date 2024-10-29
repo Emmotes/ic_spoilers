@@ -9,10 +9,14 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
 | Whispers from the Far Realm | 01 Nov | **Zorbu** | Celeste | Strix | BBEG | Shandie | Golden Epic |
-| Find your Way | 08 Nov | **Minthara** | Calliope | Asharra | Karlach | Astarion | Golden Epic |
+| Find your Way | 08 Nov | **Minthara** | Karlach | Calliope | Asharra | Astarion | Golden Epic |
 | Music Lesson | 15 Nov | **Sgt. Knox** | Celeste | Makos | Hew Maan | Dark Urge | Golden Epic |
 | Dhampiric | 22 Nov | **Widdle** | Tyril | Bruenor | Bobby | Valentine | Golden Epic |
 | Extra Defensive | 29 Nov | **Sentry** | Hitch | Virgil | Diana | Jamilah | Golden Epic |
+| Feral Moon | 06 Dec | **Halsin** | Celeste | Tyril | Lucius | Krull | Golden Epic |
+| Magical Secrets | 13 Dec | **Stoki** | Bruenor | Arkhan | Dhadius | Regis | Golden Epic |
+| Encroaching Darkness | 20 Dec | **Shadowheart** | Nayeli | Makos | Warduke | Talin | Golden Epic |
+| Cloak & Dagger | 27 Dec | **Astarion** | Calliope | Jamilah | Kas | Nixie | Golden Epic |
 
 [Back to Top](#top)
 
