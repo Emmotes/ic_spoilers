@@ -377,7 +377,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
                         <span style="margin-left:15px">Gem</span>
-                        <span style="margin-left:15px">Ellywick (Always draws at least 1 Gems card.)</span>
+                        <span style="margin-left:15px">Ellywick (Always Draws at Least 1 Gems Card)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
