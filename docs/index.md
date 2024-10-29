@@ -56,7 +56,7 @@ These are the event champions that are upcoming and all the information we know 
             </span>
         </span>
         <span class="indexChampionTableAttack">
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
+            ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
 {::nomarkdown}
@@ -79,6 +79,9 @@ These are the event champions that are upcoming and all the information we know 
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Wintershield - 1 January 2025</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
