@@ -107,13 +107,13 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
 # Formation
 
 <span class="formationBorder">
-    <svg xmlns="http://www.w3.org/2000/svg" id="Halsin" fill="#aaa" data-formationName="Halsin" data-campaignName="Highharvestide" width="319" height="140"><circle cx="175" cy="45" r="15"/><circle cx="135" cy="25" r="15"/><circle cx="135" cy="65" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="125" r="15"/><circle cx="55" cy="25" r="15"/><circle cx="55" cy="65" r="15"/><circle cx="55" cy="105" r="15"/><circle cx="15" cy="45" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Halsin</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Highharvestide</text></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" id="Halsin" fill="#aaa" data-formationName="Halsin" data-campaignName="Simril" width="285" height="140"><circle cx="175" cy="45" r="15"/><circle cx="135" cy="25" r="15"/><circle cx="135" cy="65" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="125" r="15"/><circle cx="55" cy="25" r="15"/><circle cx="55" cy="65" r="15"/><circle cx="55" cy="105" r="15"/><circle cx="15" cy="45" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Halsin</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Simril</text></svg>
 </span>
 
 # Attacks
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Thorn Whip** (Ranged)
+**Base Attack: Thorn Whip** (Magic)
 > Halsin attacks the enemy with the most health, dealing one hit and pulling them a short distance towards the formation.  
 > Cooldown: 4.9s (Cap 1.225s)
 <details><summary><em>Raw Data</em></summary>
@@ -141,10 +141,9 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             "shoot_offset_y": -45,
             "target_offset_x": -30,
             "target_offset_y": -50,
-            "hold_shoot_frame": false,
-            "hold_shoot_frame_for_seconds": 0.2,
+            "hold_shoot_frame_until_damage": true,
             "projectile_details": {
-                "fade_back_time1": 0.5,
+                "fade_back_time1": 0.4,
                 "pull_distance": 300,
                 "whip_graphic_names": [
                     "Effect_Halsin_ThornWhip_Beam"
@@ -165,7 +164,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
         "ranged"
     ],
     "damage_types": [
-        "ranged"
+        "magic"
     ]
 }
 </pre>
@@ -205,7 +204,14 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
                 "2": 194
             },
             "is_bud_damage": true,
-            "force_count_for_bud": false
+            "force_count_for_bud": false,
+            "effects_on_monsters": [
+                {
+                    "effect_string": "push_back_monster,10",
+                    "animation": "hit",
+                    "after_damage": true
+                }
+            ]
         }
     ],
     "tags": [
@@ -213,7 +219,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
         "ultimate"
     ],
     "damage_types": [
-        "ranged"
+        "melee"
     ]
 }
 </pre>
@@ -235,7 +241,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
     "description": {
         "conditions": [
             {
-                "condition": "upgrade_purchased 15946",
+                "condition": "upgrade_purchased 15966",
                 "desc": "Halsin gains a Harmony stack for each Good or Neutral (Good/Evil axis) Champion in the formation, including himself. Halsin increases the damage of these Champions by $(amount)% for each Harmony stack, stacking multiplicatively."
             },
             {
@@ -296,7 +302,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Call to Action** (Guess)
-> In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is 10% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or enemies left to defeat.  
+> In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is 10% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or enemies left to defeat.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -310,6 +316,8 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
         {
             "off_when_benched": true,
             "effect_string": "halsin_call_to_action,10",
+            "use_computed_amount_for_description": true,
+            "effect_cap_affects_description": true,
             "effect_cap": 10000
         }
     ],
@@ -607,7 +615,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Sage of the Transformed** (Guess)
-> Halsin increases the number of Ceremorphosis stacks the party has by 40%, rounded down.  
+> Halsin increases the number of Ceremorphosis stacks the party has by 40%, rounded down.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
