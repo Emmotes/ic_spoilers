@@ -63,11 +63,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Wyll Chest Chest Portrait](images/premiums/chests_555.png)<span class="itemTooltipContents">ID: 555**Gold Wyll Chest**Loot for: Wyll<code>"for_crusaders":[142]</code></span></span>
+            <span class="tooltipHolder">![Platinum Wyll Chest Chest Portrait](images/premiums/chests_555.png)<span class="itemTooltipContents">ID: 555**Platinum Wyll Chest**Loot for: Wyll<code>"for_crusaders":[142]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Wyll Chest</span>
+            <span style="margin-left:15px">Platinum Wyll Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -329,11 +329,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Minthara Chest Chest Portrait](images/premiums/chests_579.png)<span class="itemTooltipContents">ID: 579**Gold Minthara Chest**Loot for: Minthara<code>"for_crusaders":[154]</code></span></span>
+            <span class="tooltipHolder">![Platinum Minthara Chest Chest Portrait](images/premiums/chests_579.png)<span class="itemTooltipContents">ID: 579**Platinum Minthara Chest**Loot for: Minthara<code>"for_crusaders":[154]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Minthara Chest</span>
+            <span style="margin-left:15px">Platinum Minthara Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -410,11 +410,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Sentry Chest Chest Portrait](images/premiums/chests_163.png)<span class="itemTooltipContents">ID: 163**Gold Sentry Chest**Loot for: Sentry<code>"for_crusaders":[52]</code></span></span>
+            <span class="tooltipHolder">![Platinum Sentry Chest Chest Portrait](images/premiums/chests_163.png)<span class="itemTooltipContents">ID: 163**Platinum Sentry Chest**Loot for: Sentry<code>"for_crusaders":[52]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Sentry Chest</span>
+            <span style="margin-left:15px">Platinum Sentry Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -469,11 +469,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Sergeant Knox Chest Chest Portrait](images/premiums/chests_271.png)<span class="itemTooltipContents">ID: 271**Gold Sergeant Knox Chest**Loot for: Sgt. Knox<code>"for_crusaders":[82]</code></span></span>
+            <span class="tooltipHolder">![Platinum Sergeant Knox Chest Chest Portrait](images/premiums/chests_271.png)<span class="itemTooltipContents">ID: 271**Platinum Sergeant Knox Chest**Loot for: Sgt. Knox<code>"for_crusaders":[82]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Sergeant Knox Chest</span>
+            <span style="margin-left:15px">Platinum Sergeant Knox Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -550,11 +550,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Penelope Chest Chest Portrait](images/premiums/chests_249.png)<span class="itemTooltipContents">ID: 249**Gold Penelope Chest**Loot for: Penelope<code>"for_crusaders":[71]</code></span></span>
+            <span class="tooltipHolder">![Platinum Penelope Chest Chest Portrait](images/premiums/chests_249.png)<span class="itemTooltipContents">ID: 249**Platinum Penelope Chest**Loot for: Penelope<code>"for_crusaders":[71]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Penelope Chest</span>
+            <span style="margin-left:15px">Platinum Penelope Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -683,11 +683,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Turiel Chest Chest Portrait](images/premiums/chests_108.png)<span class="itemTooltipContents">ID: 108**Gold Turiel Chest**Loot for: Turiel<code>"for_crusaders":[49]</code></span></span>
+            <span class="tooltipHolder">![Platinum Turiel Chest Chest Portrait](images/premiums/chests_108.png)<span class="itemTooltipContents">ID: 108**Platinum Turiel Chest**Loot for: Turiel<code>"for_crusaders":[49]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Turiel Chest</span>
+            <span style="margin-left:15px">Platinum Turiel Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -754,11 +754,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Virgil Chest Chest Portrait](images/premiums/chests_432.png)<span class="itemTooltipContents">ID: 432**Gold Virgil Chest**Loot for: Virgil<code>"for_crusaders":[115]</code></span></span>
+            <span class="tooltipHolder">![Platinum Virgil Chest Chest Portrait](images/premiums/chests_432.png)<span class="itemTooltipContents">ID: 432**Platinum Virgil Chest**Loot for: Virgil<code>"for_crusaders":[115]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Virgil Chest</span>
+            <span style="margin-left:15px">Platinum Virgil Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -831,51 +831,51 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Certainty Chest Chest Portrait](images/premiums/chests_547.png)<span class="itemTooltipContents">ID: 547**Gold Certainty Chest**Loot for: Certainty<code>"for_crusaders":[138]</code></span></span>
+            <span class="tooltipHolder">![Platinum Certainty Chest Chest Portrait](images/premiums/chests_547.png)<span class="itemTooltipContents">ID: 547**Platinum Certainty Chest**Loot for: Certainty<code>"for_crusaders":[138]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Certainty Chest</span>
+            <span style="margin-left:15px">Platinum Certainty Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold  Shadowheart Chest Chest Portrait](images/premiums/chests_553.png)<span class="itemTooltipContents">ID: 553**Gold  Shadowheart Chest**Loot for: Shadowheart<code>"for_crusaders":[141]</code></span></span>
+            <span class="tooltipHolder">![Platinum  Shadowheart Chest Chest Portrait](images/premiums/chests_553.png)<span class="itemTooltipContents">ID: 553**Platinum  Shadowheart Chest**Loot for: Shadowheart<code>"for_crusaders":[141]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold  Shadowheart Chest</span>
+            <span style="margin-left:15px">Platinum  Shadowheart Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold  Karlach Chest Chest Portrait](images/premiums/chests_557.png)<span class="itemTooltipContents">ID: 557**Gold  Karlach Chest**Loot for: Karlach<code>"for_crusaders":[143]</code></span></span>
+            <span class="tooltipHolder">![Platinum  Karlach Chest Chest Portrait](images/premiums/chests_557.png)<span class="itemTooltipContents">ID: 557**Platinum  Karlach Chest**Loot for: Karlach<code>"for_crusaders":[143]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold  Karlach Chest</span>
+            <span style="margin-left:15px">Platinum  Karlach Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Gale Chest Chest Portrait](images/premiums/chests_565.png)<span class="itemTooltipContents">ID: 565**Gold Gale Chest**Loot for: Gale<code>"for_crusaders":[147]</code></span></span>
+            <span class="tooltipHolder">![Platinum Gale Chest Chest Portrait](images/premiums/chests_565.png)<span class="itemTooltipContents">ID: 565**Platinum Gale Chest**Loot for: Gale<code>"for_crusaders":[147]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Gale Chest</span>
+            <span style="margin-left:15px">Platinum Gale Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Diana Chest Chest Portrait](images/premiums/chests_567.png)<span class="itemTooltipContents">ID: 567**Gold Diana Chest**Loot for: Diana<code>"for_crusaders":[148]</code></span></span>
+            <span class="tooltipHolder">![Platinum Diana Chest Chest Portrait](images/premiums/chests_567.png)<span class="itemTooltipContents">ID: 567**Platinum Diana Chest**Loot for: Diana<code>"for_crusaders":[148]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Diana Chest</span>
+            <span style="margin-left:15px">Platinum Diana Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -933,11 +933,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Calliope Chest Chest Portrait](images/premiums/chests_465.png)<span class="itemTooltipContents">ID: 465**Gold Calliope Chest**Loot for: Calliope<code>"for_crusaders":[5]</code></span></span>
+            <span class="tooltipHolder">![Platinum Calliope Chest Chest Portrait](images/premiums/chests_465.png)<span class="itemTooltipContents">ID: 465**Platinum Calliope Chest**Loot for: Calliope<code>"for_crusaders":[5]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Calliope Chest</span>
+            <span style="margin-left:15px">Platinum Calliope Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1004,11 +1004,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Dungeon Master Chest Chest Portrait](images/premiums/chests_355.png)<span class="itemTooltipContents">ID: 355**Gold Dungeon Master Chest**Loot for: Dungeon Master<code>"for_crusaders":[99]</code></span></span>
+            <span class="tooltipHolder">![Platinum Dungeon Master Chest Chest Portrait](images/premiums/chests_355.png)<span class="itemTooltipContents">ID: 355**Platinum Dungeon Master Chest**Loot for: Dungeon Master<code>"for_crusaders":[99]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Dungeon Master Chest</span>
+            <span style="margin-left:15px">Platinum Dungeon Master Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1063,11 +1063,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Halsin Chest Chest Portrait](images/premiums/chests_645.png)<span class="itemTooltipContents">ID: 645**Gold Halsin Chest**Loot for: Halsin<code>"for_crusaders":[156]</code></span></span>
+            <span class="tooltipHolder">![Platinum Halsin Chest Chest Portrait](images/premiums/chests_645.png)<span class="itemTooltipContents">ID: 645**Platinum Halsin Chest**Loot for: Halsin<code>"for_crusaders":[156]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Halsin Chest</span>
+            <span style="margin-left:15px">Platinum Halsin Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -1161,51 +1161,51 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Deekin Chest Chest Portrait](images/premiums/chests_54.png)<span class="itemTooltipContents">ID: 54**Gold Deekin Chest**Loot for: Deekin<code>"for_crusaders":[28]</code></span></span>
+            <span class="tooltipHolder">![Platinum Deekin Chest Chest Portrait](images/premiums/chests_54.png)<span class="itemTooltipContents">ID: 54**Platinum Deekin Chest**Loot for: Deekin<code>"for_crusaders":[28]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Deekin Chest</span>
+            <span style="margin-left:15px">Platinum Deekin Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Briv Chest Chest Portrait](images/premiums/chests_175.png)<span class="itemTooltipContents">ID: 175**Gold Briv Chest**Loot for: Briv<code>"for_crusaders":[58]</code></span></span>
+            <span class="tooltipHolder">![Platinum Briv Chest Chest Portrait](images/premiums/chests_175.png)<span class="itemTooltipContents">ID: 175**Platinum Briv Chest**Loot for: Briv<code>"for_crusaders":[58]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Briv Chest</span>
+            <span style="margin-left:15px">Platinum Briv Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Jaheira Chest Chest Portrait](images/premiums/chests_181.png)<span class="itemTooltipContents">ID: 181**Gold Jaheira Chest**Loot for: Jaheira<code>"for_crusaders":[61]</code></span></span>
+            <span class="tooltipHolder">![Platinum Jaheira Chest Chest Portrait](images/premiums/chests_181.png)<span class="itemTooltipContents">ID: 181**Platinum Jaheira Chest**Loot for: Jaheira<code>"for_crusaders":[61]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Jaheira Chest</span>
+            <span style="margin-left:15px">Platinum Jaheira Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold  Shadowheart Chest Chest Portrait](images/premiums/chests_553.png)<span class="itemTooltipContents">ID: 553**Gold  Shadowheart Chest**Loot for: Shadowheart<code>"for_crusaders":[141]</code></span></span>
+            <span class="tooltipHolder">![Platinum  Shadowheart Chest Chest Portrait](images/premiums/chests_553.png)<span class="itemTooltipContents">ID: 553**Platinum  Shadowheart Chest**Loot for: Shadowheart<code>"for_crusaders":[141]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold  Shadowheart Chest</span>
+            <span style="margin-left:15px">Platinum  Shadowheart Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Wyll Chest Chest Portrait](images/premiums/chests_555.png)<span class="itemTooltipContents">ID: 555**Gold Wyll Chest**Loot for: Wyll<code>"for_crusaders":[142]</code></span></span>
+            <span class="tooltipHolder">![Platinum Wyll Chest Chest Portrait](images/premiums/chests_555.png)<span class="itemTooltipContents">ID: 555**Platinum Wyll Chest**Loot for: Wyll<code>"for_crusaders":[142]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Wyll Chest</span>
+            <span style="margin-left:15px">Platinum Wyll Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -1292,11 +1292,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Warduke Chest Chest Portrait](images/premiums/chests_434.png)<span class="itemTooltipContents">ID: 434**Gold Warduke Chest**Loot for: Warduke<code>"for_crusaders":[116]</code></span></span>
+            <span class="tooltipHolder">![Platinum Warduke Chest Chest Portrait](images/premiums/chests_434.png)<span class="itemTooltipContents">ID: 434**Platinum Warduke Chest**Loot for: Warduke<code>"for_crusaders":[116]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Warduke Chest</span>
+            <span style="margin-left:15px">Platinum Warduke Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1351,11 +1351,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Stoki Chest Chest Portrait](images/premiums/chests_4.png)<span class="itemTooltipContents">ID: 4**Gold Stoki Chest**Loot for: Stoki<code>"for_crusaders":[14]</code></span></span>
+            <span class="tooltipHolder">![Platinum Stoki Chest Chest Portrait](images/premiums/chests_4.png)<span class="itemTooltipContents">ID: 4**Platinum Stoki Chest**Loot for: Stoki<code>"for_crusaders":[14]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Stoki Chest</span>
+            <span style="margin-left:15px">Platinum Stoki Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -1432,11 +1432,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold  Shadowheart Chest Chest Portrait](images/premiums/chests_553.png)<span class="itemTooltipContents">ID: 553**Gold  Shadowheart Chest**Loot for: Shadowheart<code>"for_crusaders":[141]</code></span></span>
+            <span class="tooltipHolder">![Platinum  Shadowheart Chest Chest Portrait](images/premiums/chests_553.png)<span class="itemTooltipContents">ID: 553**Platinum  Shadowheart Chest**Loot for: Shadowheart<code>"for_crusaders":[141]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold  Shadowheart Chest</span>
+            <span style="margin-left:15px">Platinum  Shadowheart Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1553,31 +1553,31 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold  Karlach Chest Chest Portrait](images/premiums/chests_557.png)<span class="itemTooltipContents">ID: 557**Gold  Karlach Chest**Loot for: Karlach<code>"for_crusaders":[143]</code></span></span>
+            <span class="tooltipHolder">![Platinum  Karlach Chest Chest Portrait](images/premiums/chests_557.png)<span class="itemTooltipContents">ID: 557**Platinum  Karlach Chest**Loot for: Karlach<code>"for_crusaders":[143]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold  Karlach Chest</span>
+            <span style="margin-left:15px">Platinum  Karlach Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Gale Chest Chest Portrait](images/premiums/chests_565.png)<span class="itemTooltipContents">ID: 565**Gold Gale Chest**Loot for: Gale<code>"for_crusaders":[147]</code></span></span>
+            <span class="tooltipHolder">![Platinum Gale Chest Chest Portrait](images/premiums/chests_565.png)<span class="itemTooltipContents">ID: 565**Platinum Gale Chest**Loot for: Gale<code>"for_crusaders":[147]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Gale Chest</span>
+            <span style="margin-left:15px">Platinum Gale Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Halsin Chest Chest Portrait](images/premiums/chests_645.png)<span class="itemTooltipContents">ID: 645**Gold Halsin Chest**Loot for: Halsin<code>"for_crusaders":[156]</code></span></span>
+            <span class="tooltipHolder">![Platinum Halsin Chest Chest Portrait](images/premiums/chests_645.png)<span class="itemTooltipContents">ID: 645**Platinum Halsin Chest**Loot for: Halsin<code>"for_crusaders":[156]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Halsin Chest</span>
+            <span style="margin-left:15px">Platinum Halsin Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1644,11 +1644,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Regis Chest Chest Portrait](images/premiums/chests_17.png)<span class="itemTooltipContents">ID: 17**Gold Regis Chest**Loot for: Regis<code>"for_crusaders":[20]</code></span></span>
+            <span class="tooltipHolder">![Platinum Regis Chest Chest Portrait](images/premiums/chests_17.png)<span class="itemTooltipContents">ID: 17**Platinum Regis Chest**Loot for: Regis<code>"for_crusaders":[20]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Regis Chest</span>
+            <span style="margin-left:15px">Platinum Regis Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1715,11 +1715,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Warden Chest Chest Portrait](images/premiums/chests_82.png)<span class="itemTooltipContents">ID: 82**Gold Warden Chest**Loot for: Warden<code>"for_crusaders":[36]</code></span></span>
+            <span class="tooltipHolder">![Platinum Warden Chest Chest Portrait](images/premiums/chests_82.png)<span class="itemTooltipContents">ID: 82**Platinum Warden Chest**Loot for: Warden<code>"for_crusaders":[36]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Warden Chest</span>
+            <span style="margin-left:15px">Platinum Warden Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1777,11 +1777,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Celeste Chest Chest Portrait](images/premiums/chests_462.png)<span class="itemTooltipContents">ID: 462**Gold Celeste Chest**Loot for: Celeste<code>"for_crusaders":[2]</code></span></span>
+            <span class="tooltipHolder">![Platinum Celeste Chest Chest Portrait](images/premiums/chests_462.png)<span class="itemTooltipContents">ID: 462**Platinum Celeste Chest**Loot for: Celeste<code>"for_crusaders":[2]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Celeste Chest</span>
+            <span style="margin-left:15px">Platinum Celeste Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1900,11 +1900,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Nordom Chest Chest Portrait](images/premiums/chests_357.png)<span class="itemTooltipContents">ID: 357**Gold Nordom Chest**Loot for: Nordom<code>"for_crusaders":[100]</code></span></span>
+            <span class="tooltipHolder">![Platinum Nordom Chest Chest Portrait](images/premiums/chests_357.png)<span class="itemTooltipContents">ID: 357**Platinum Nordom Chest**Loot for: Nordom<code>"for_crusaders":[100]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Nordom Chest</span>
+            <span style="margin-left:15px">Platinum Nordom Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>

@@ -80,51 +80,51 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Deekin Chest Chest Portrait](images/premiums/chests_54.png)<span class="itemTooltipContents">ID: 54**Gold Deekin Chest**Loot for: Deekin<code>"for_crusaders":[28]</code></span></span>
+            <span class="tooltipHolder">![Platinum Deekin Chest Chest Portrait](images/premiums/chests_54.png)<span class="itemTooltipContents">ID: 54**Platinum Deekin Chest**Loot for: Deekin<code>"for_crusaders":[28]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Deekin Chest</span>
+            <span style="margin-left:15px">Platinum Deekin Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Briv Chest Chest Portrait](images/premiums/chests_175.png)<span class="itemTooltipContents">ID: 175**Gold Briv Chest**Loot for: Briv<code>"for_crusaders":[58]</code></span></span>
+            <span class="tooltipHolder">![Platinum Briv Chest Chest Portrait](images/premiums/chests_175.png)<span class="itemTooltipContents">ID: 175**Platinum Briv Chest**Loot for: Briv<code>"for_crusaders":[58]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Briv Chest</span>
+            <span style="margin-left:15px">Platinum Briv Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Jaheira Chest Chest Portrait](images/premiums/chests_181.png)<span class="itemTooltipContents">ID: 181**Gold Jaheira Chest**Loot for: Jaheira<code>"for_crusaders":[61]</code></span></span>
+            <span class="tooltipHolder">![Platinum Jaheira Chest Chest Portrait](images/premiums/chests_181.png)<span class="itemTooltipContents">ID: 181**Platinum Jaheira Chest**Loot for: Jaheira<code>"for_crusaders":[61]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Jaheira Chest</span>
+            <span style="margin-left:15px">Platinum Jaheira Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold  Shadowheart Chest Chest Portrait](images/premiums/chests_553.png)<span class="itemTooltipContents">ID: 553**Gold  Shadowheart Chest**Loot for: Shadowheart<code>"for_crusaders":[141]</code></span></span>
+            <span class="tooltipHolder">![Platinum  Shadowheart Chest Chest Portrait](images/premiums/chests_553.png)<span class="itemTooltipContents">ID: 553**Platinum  Shadowheart Chest**Loot for: Shadowheart<code>"for_crusaders":[141]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold  Shadowheart Chest</span>
+            <span style="margin-left:15px">Platinum  Shadowheart Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gold Wyll Chest Chest Portrait](images/premiums/chests_555.png)<span class="itemTooltipContents">ID: 555**Gold Wyll Chest**Loot for: Wyll<code>"for_crusaders":[142]</code></span></span>
+            <span class="tooltipHolder">![Platinum Wyll Chest Chest Portrait](images/premiums/chests_555.png)<span class="itemTooltipContents">ID: 555**Platinum Wyll Chest**Loot for: Wyll<code>"for_crusaders":[142]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Gold Wyll Chest</span>
+            <span style="margin-left:15px">Platinum Wyll Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
