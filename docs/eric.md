@@ -59,7 +59,7 @@ Eric will be a new champion in the Wintershield event on 1 January 2025.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Tanking / Support / Gold (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -107,28 +107,102 @@ Unknown.
 
 # Attacks
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Forceful Bash** (Melee)
+> Eric hits the closest enemy with his shield, dealing one hit and knocking them back a short distance.  
+> Cooldown: 6.5s (Cap 1.625s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 824,
+    "name": "Forceful Bash",
+    "description": "Eric hits the closest enemy with his shield, dealing one hit and knocking them back a short distance.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 6.5,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -45,
+            "damage_frame": 10,
+            "jump_sound": 30,
+            "sound_frames": {
+                "10": 154
+            },
+            "effects_on_monsters": [
+                {
+                    "effect_string": "push_back_monster,10",
+                    "animation": "hit",
+                    "after_damage": true
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Cavalier's Code** (Guess)
-> Unknown effect.
+> Eric increases the effect of his Trait specialization choice and the party's Gold Find by 20% for each enemy that has spawned in the current area, stacking multiplicatively up to 100 enemies. Boss enemies count as 25 enemies for this ability.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25257,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Formation_EricCavaliersCode",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2159,
+    "flavour_text": "",
+    "description": {
+        "desc": "Eric increases the effect of his Trait specialization choice and the party's Gold Find by $(not_buffed amount)% for each enemy that has spawned in the current area, stacking multiplicatively up to $max_stacks enemies. Boss enemies count as 25 enemies for this ability."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrades,20,16134,16135,16136",
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "normal_monsters_spawned + 25*boss_monsters_spawned",
+            "limit": 100,
+            "max_stacks": 100,
+            "amount_updated_listeners": [
+                "monster_spawned"
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "gold_multiplier_mult,20",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "normal_monsters_spawned + 25*boss_monsters_spawned",
+            "limit": 100,
+            "max_stacks": 100,
+            "amount_updated_listeners": [
+                "monster_spawned"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25257,
+    "large_graphic_id": 25253,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -137,23 +211,42 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Keep Away** (Guess)
-> Unknown effect.
+**Shield of the Cavalier** (Guess)
+> Eric increases the health of all other Champions by 25% of his max health, and when any Champion in the formation gains temporary health, the amount gained is increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25258,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Formation_EricKeepAway",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2160,
+    "flavour_text": "",
+    "description": {
+        "desc": "Eric increases the health of all other Champions by $amount% of his max health, and when any Champion in the formation gains temporary health, the amount gained is increased by $(amount___2)%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "increase_health_by_source_percent,25",
+            "targets": [
+                "other"
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "temp_health_mult,100",
+            "targets": [
+                "all"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25260,
+    "large_graphic_id": 25256,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "default_bonus_index": 1,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -168,17 +261,22 @@ Unknown.
 <p>
 <pre>
 {
-    "id": 25259,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Formation_EricPreferredTarget",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2161,
+    "flavour_text": "",
+    "description": "",
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25259,
+    "large_graphic_id": 25255,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -187,23 +285,58 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Shield of the Cavalier** (Guess)
+**Keep Away** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25260,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Formation_EricShieldoftheCavalier",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2162,
+    "flavour_text": "",
+    "description": "",
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25258,
+    "large_graphic_id": 25254,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2163,
+    "flavour_text": "",
+    "description": "",
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -215,22 +348,47 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Trait: Brave** (Guess)
-> Unknown effect.
+> Eric increases the damage of all Champions by 100%, increased by 100% for each column they are in front of him, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25261,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricTraitBrave",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2164,
+    "flavour_text": "",
+    "description": {
+        "desc": "Eric increases the damage of all Champions by $(amount)%, increased by $(amount___2)% for each column they are in front of him, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "base_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "additional_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_func": "eric_trait",
+            "base_amount_idx": 0,
+            "additional_amount_idx": 1,
+            "additional_per_column": "ahead",
+            "targets": [
+                "all"
+            ],
+            "use_computed_amount_for_description": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25262,
+    "large_graphic_id": 25262,
+    "properties": {
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -240,22 +398,47 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Trait: Cautious** (Guess)
-> Unknown effect.
+> Eric increases the damage of all Champions by 100%, increased by 100% for each column they are behind him, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25262,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricTraitCautious",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2165,
+    "flavour_text": "",
+    "description": {
+        "desc": "Eric increases the damage of all Champions by $(amount)%, increased by $(amount___2)% for each column they are behind him, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "base_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "additional_amount,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_func": "eric_trait",
+            "base_amount_idx": 0,
+            "additional_amount_idx": 1,
+            "additional_per_column": "behind",
+            "targets": [
+                "all"
+            ],
+            "use_computed_amount_for_description": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25261,
+    "large_graphic_id": 25261,
+    "properties": {
+        "is_formation_ability": true,
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -265,47 +448,31 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Trait: Sarcastic** (Guess)
-> Unknown effect.
+> Eric increases the damage of adjacent Champions by 600%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25263,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricTraitSarcastic",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Treasure Hunters** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 25264,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricTreasureHunters",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2166,
+    "flavour_text": "",
+    "description": {
+        "desc": "Eric increases the damage of adjacent Champions by $amount%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,600",
+            "targets": [
+                "adj"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25263,
+    "large_graphic_id": 25263,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -320,17 +487,22 @@ Unknown.
 <p>
 <pre>
 {
-    "id": 25265,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricUnassumingForce",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2167,
+    "flavour_text": "",
+    "description": "",
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25265,
+    "large_graphic_id": 25265,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -345,17 +517,52 @@ Unknown.
 <p>
 <pre>
 {
-    "id": 25266,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_EricYouthfulValor",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2168,
+    "flavour_text": "",
+    "description": "",
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25266,
+    "large_graphic_id": 25266,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Treasure Hunters** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2169,
+    "flavour_text": "",
+    "description": "",
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25264,
+    "large_graphic_id": 25264,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
