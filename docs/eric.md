@@ -347,7 +347,7 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Trait: Brave** (Guess)
+**Trait: Cautious** (Guess)
 > Eric increases the damage of all Champions by 100%, increased by 100% for each column they are in front of him, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -397,7 +397,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Trait: Cautious** (Guess)
+**Trait: Brave** (Guess)
 > Eric increases the damage of all Champions by 100%, increased by 100% for each column they are behind him, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
