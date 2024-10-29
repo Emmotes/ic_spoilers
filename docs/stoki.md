@@ -23,13 +23,69 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
+# Attacks
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Quivering Palm** (Guess)
+> Stoki leaps out and attacks five random enemies with extremely powerful palm thrusts. Over the next 10 seconds, all affected enemies take damage over time equal to four times the initial hit.  
+> Cooldown: 3s (Cap 0.75s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 823,
+    "name": "Quivering Palm",
+    "description": "Stoki attacks five random enemies dealing damage over time.",
+    "long_description": "Stoki leaps out and attacks five random enemies with extremely powerful palm thrusts. Over the next 10 seconds, all affected enemies take damage over time equal to four times the initial hit.",
+    "graphic_id": 1117,
+    "target": "random",
+    "num_targets": 5,
+    "aoe_radius": 0,
+    "damage_modifier": 0.025,
+    "cooldown": 3,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "animation": "split_sequence_multi_target",
+            "shake_on_hit": 0.1,
+            "damage_over_time": {
+                "percent": 4,
+                "time": 10,
+                "tick_time": 1,
+                "pop_damage": true,
+                "damage_is_additional": true
+            },
+            "sequences": [
+                {
+                    "start_frame": 0,
+                    "damage_frame": 20,
+                    "end_frame": 25,
+                    "sound_frames": {
+                        "2": 174
+                    },
+                    "target_offset_x": -70
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > When Stoki attacks she gains a Focus Point for each enemy she hits. She increases the damage of all Champions with a base attack cooldown of 4.0s or faster by 10% for each Focus Point she has, stacking multiplicatively. Focus Points cap at 100 and are reduced by 50% (rounded down) when changing areas.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -37,7 +93,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2147,
     "flavour_text": "",
     "description": {
-        "desc": "When Stoki attacks she gains a Focus Point for each enemy she hits. She increases the damage of all Champions with a base attack cooldown of 4.0s or faster by $amount% for each Focus Point she has, stacking multiplicatively. Focus Points cap at $(amount___3) and are reduced by 50% (rounded down) when changing areas."
+        "desc": "When Stoki attacks she gains a Focus Point for each enemy she hits. She increases the damage of all Champions with a base attack cooldown of 4.0s or faster by $amount% for each Focus Point she has, stacking multiplicatively. Focus Points cap at $(amount___3) and are reduced by 50% (rounded down) when changing areas.^^Focus Points: $(stat_value stoki_focus_points 1 none)"
     },
     "effect_keys": [
         {
@@ -65,25 +121,39 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "stacks_multiply": true,
             "use_computed_amount_for_description": true,
-            "show_bonus": true
+            "show_bonus": true,
+            "show_stacks": false,
+            "stack_title": "Focus Points",
+            "hide_stack_description": true,
+            "off_when_benched": true
         },
         {
             "effect_string": "stoki_focus_point_max,100",
             "skip_effect_key_desc": true
         },
         {
-            "effect_string": "expression_on_trigger,owner_attack",
+            "effect_string": "expression_on_trigger,owner_attack_single_hit",
             "per_trigger_expr": "{ SetSaveStat(`stoki_focus_points`, true, min(GetSaveStat(`stoki_focus_points`, true)+trigger_count,GetUpgradeAmount(16052,2)))}",
             "skip_effect_key_desc": true
         },
         {
-            "effect_string": "expression_on_trigger,owner_attack",
+            "effect_string": "expression_on_trigger,owner_attack_single_hit",
             "per_trigger_expr": "{ AppendToSaveStat(`stoki_focus_points_this_adventure`, true, 1)}",
             "skip_effect_key_desc": true
         },
         {
             "effect_string": "expression_on_trigger,area_changed",
-            "per_trigger_expr": "{ SetSaveStat(`stoki_focus_points`, true, ceil(GetSaveStat(`stoki_focus_points`, true)/2))}"
+            "per_trigger_expr": "{ SetSaveStat(`stoki_focus_points`, true, ceil(GetSaveStat(`stoki_focus_points`, true)*0.5))}"
+        },
+        {
+            "effect_string": "expression_on_trigger,owner_attack_single_hit",
+            "per_trigger_expr": "{ AppendToSaveStat(`stoki_focus_points_this_adventure_server`, false, 1)}",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "expression_on_trigger,adventure_reset",
+            "per_trigger_expr": "{ SetSaveStat(`stoki_focus_points_this_adventure_server`, false, 0)}",
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
@@ -95,7 +165,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -106,8 +176,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Golden Palm** (Guess)
 > Enemies that have been attacked by Stoki at any point in the current area drop 100% more gold when killed for each Focus Point she has, stacking additively.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -129,9 +197,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_func": "get_stat",
             "instance_stat": true,
             "stat": "stoki_focus_points",
-            "targets": [
-                "all"
-            ],
             "amount_updated_listeners": [
                 "stacks_changed"
             ],
@@ -148,7 +213,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_before_damage": true,
             "debuff_max_stacks": 1,
             "debuffing_attack_ids": [
-                42
+                42,
+                823
             ],
             "debuff_effects": [
                 {
@@ -177,7 +243,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -188,11 +255,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Building Focus** (Guess)
 > Stoki keeps track of the total Focus Points she has gained in the current adventure. If Stoki's Focus Points are capped for a given area, she still counts new ones towards this ability. Upon reaching certain milestones, the following effects activate:  
-> 100 Focus Points: Encouragement - Champions adjacent to Stoki have their base attack cooldowns lowered by 0.5s.  
-> 1000 Focus Points: Flurry of Blows - For every 1000 levels Stoki has, she attacks an additional target with each attack. She prefers to attack different targets, but will attack the same target multiple times if she has already attacked everyone.  
-> 5000 Focus Points: Leadership - Champions adjacent to Stoki have a 0.45% chance to reset their base attack cooldown after attacking for each Focus Points she currently has. Caps at 90%.  
-> 12500 Focus Points: Overflow - When Stoki attacks an enemy that she already attacked*, there is a 20% chance the enemy will be stunned for 3 seconds.  
-> 25000 Focus Points: Explosion - If Stoki hits the same enemy two or more times with the same base attack, power radiates from the enemy, dealing 5.0 seconds worth of BUD damage to itself and all other nearby enemies. Triggers with each extra hit.
+>   
+> - 100 Focus Points: Encouragement - Champions adjacent to Stoki have their base attack cooldowns lowered by 0.5s.  
+> - 1000 Focus Points: Flurry of Blows - For every 1000 levels Stoki has, she attacks an additional target with each attack. She prefers to attack different targets, but will attack the same target multiple times if she has already attacked everyone.  
+> - 5000 Focus Points: Leadership - Champions adjacent to Stoki have a 0.45% chance to reset their base attack cooldown after attacking for each Focus Point she currently has. Caps at 90%.  
+> - 12500 Focus Points: Overflow - When Stoki attacks an enemy that she already attacked, there is a 20% chance the enemy will be stunned for 3 seconds.  
+> - 25000 Focus Points: Explosion - If Stoki hits the same enemy two or more times with the same base attack, power radiates from the enemy, dealing 5 seconds worth of BUD damage to itself and all other nearby enemies. Triggers with each extra hit.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -200,7 +268,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2149,
     "flavour_text": "",
     "description": {
-        "desc": "Stoki keeps track of the total Focus Points she has gained in the current adventure. If Stoki's Focus Points are capped for a given area, she still counts new ones towards this ability. Upon reaching certain milestones, the following effects activate:^100 Focus Points: Encouragement - Champions adjacent to Stoki have their base attack cooldowns lowered by 0.5s.^1000 Focus Points: Flurry of Blows - For every 1000 levels Stoki has, she attacks an additional target with each attack. She prefers to attack different targets, but will attack the same target multiple times if she has already attacked everyone.^5000 Focus Points: Leadership - Champions adjacent to Stoki have a 0.45% chance to reset their base attack cooldown after attacking for each Focus Points she currently has. Caps at 90%.^12500 Focus Points: Overflow - When Stoki attacks an enemy that she already attacked*, there is a 20% chance the enemy will be stunned for 3 seconds.^25000 Focus Points: Explosion - If Stoki hits the same enemy two or more times with the same base attack, power radiates from the enemy, dealing 5.0 seconds worth of BUD damage to itself and all other nearby enemies. Triggers with each extra hit."
+        "desc": "Stoki keeps track of the total Focus Points she has gained in the current adventure. If Stoki's Focus Points are capped for a given area, she still counts new ones towards this ability. Upon reaching certain milestones, the following effects activate:^^- 100 Focus Points: Encouragement - Champions adjacent to Stoki have their base attack cooldowns lowered by $(amount___2)s.^- 1000 Focus Points: Flurry of Blows - For every 1000 levels Stoki has, she attacks an additional target with each attack. She prefers to attack different targets, but will attack the same target multiple times if she has already attacked everyone.^- 5000 Focus Points: Leadership - Champions adjacent to Stoki have a 0.45% chance to reset their base attack cooldown after attacking for each Focus Point she currently has. Caps at 90%.^- 12500 Focus Points: Overflow - When Stoki attacks an enemy that she already attacked, there is a $amount___5% chance the enemy will be stunned for $stun_duration___5 seconds.^- 25000 Focus Points: Explosion - If Stoki hits the same enemy two or more times with the same base attack, power radiates from the enemy, dealing $seconds_of_bud___6 seconds worth of BUD damage to itself and all other nearby enemies. Triggers with each extra hit."
     },
     "effect_keys": [
         {
@@ -223,7 +291,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "off_when_benched": true,
             "active_effect_key_description_prepender": "- ",
-            "active_effect_key_description_joiner": "^"
+            "active_effect_key_description_joiner": "^",
+            "stack_title": "Focus Points Gained This Adventure"
         },
         {
             "effect_string": "reduce_attack_cooldown,0.5",
@@ -232,7 +301,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "apply_manually": true,
             "off_when_benched": true,
-            "override_key_desc": "Encouragement - Champions adjacent to Stoki have their base attack cooldowns lowered by 0.5s.",
+            "override_key_desc": "Encouragement - Champions adjacent to Stoki have their base attack cooldowns lowered by $(amount)s.",
             "show_bonus": false,
             "show_stacks": false
         },
@@ -246,7 +315,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "apply_manually": true,
             "off_when_benched": true,
-            "override_key_desc": "Flurry of Blows - For every 1000 levels Stoki has, she attacks an additional target with each attack. She prefers to attack different targets, but will attack the same target multiple times if she has already attacked everyone.",
+            "override_key_desc": "Flurry of Blows - For every 1000 levels Stoki has, she attacks an additional target with each attack. She prefers to attack different targets, but will attack the same target multiple times if she has already attacked everyone.^Bonus Attack Targets: $amount",
+            "use_computed_amount_for_description": true,
             "show_bonus": false,
             "show_stacks": false
         },
@@ -263,7 +333,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "instance_stat": true,
             "stat": "stoki_focus_points",
             "effect_cap": 90,
-            "override_key_desc": "Leadership - Champions adjacent to Stoki have a 0.45% chance to reset their base attack cooldown after attacking for each Focus Points she currently has. Caps at 90%.",
+            "override_key_desc": "Leadership - Champions adjacent to Stoki have a $amount% chance to reset their base attack cooldown after attacking. Caps at 90%.",
+            "use_computed_amount_for_description": true,
             "show_bonus": false,
             "show_stacks": false
         },
@@ -272,7 +343,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stun_duration": 3,
             "apply_manually": true,
             "off_when_benched": true,
-            "override_key_desc": "Overflow - When Stoki attacks an enemy that she already attacked*, there is a 20% chance the enemy will be stunned for 3 seconds.",
+            "override_key_desc": "Overflow - When Stoki attacks an enemy that she already attacked, there is a $amount% chance the enemy will be stunned for $stun_duration seconds.",
             "show_bonus": false,
             "show_stacks": false
         },
@@ -282,7 +353,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "seconds_of_bud": 5,
             "apply_manually": true,
             "off_when_benched": true,
-            "override_key_desc": "Explosion - If Stoki hits the same enemy two or more times with the same base attack, power radiates from the enemy, dealing 5.0 seconds worth of BUD damage to itself and all other nearby enemies. Triggers with each extra hit.",
+            "override_key_desc": "Explosion - If Stoki hits the same enemy two or more times with the same base attack, power radiates from the enemy, dealing $seconds_of_bud seconds worth of BUD damage to itself and all other nearby enemies. Triggers with each extra hit.",
             "show_bonus": false,
             "show_stacks": false
         }
@@ -306,7 +377,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Frenzied Friends** (Guess)
-> Additively increase the Focus Points cap of Focused Strike by 10 for each Champion in the formation whose base attack cooldown is 4.0s or lower.
+> Stoki additively increases the Focus Points cap of Focused Strike by 10 for each Champion in the formation whose base attack cooldown is 4.0s or lower.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -314,7 +385,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2150,
     "flavour_text": "",
     "description": {
-        "desc": "Additively increase the Focus Points cap of Focused Strike by 10 for each Champion in the formation whose base attack cooldown is 4.0s or lower."
+        "desc": "Stoki additively increases the Focus Points cap of Focused Strike by 10 for each Champion in the formation whose base attack cooldown is 4.0s or lower."
     },
     "effect_keys": [
         {
@@ -327,7 +398,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "base_attack_cooldown_changed"
             ],
             "use_computed_amount_for_description": true,
-            "show_bonus": true
+            "show_bonus": true,
+            "percent_values": false,
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -352,8 +425,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: All Out Assault** (Guess)
 > Stoki tracks the number of attacks her allies have performed in the past 10 seconds and increases the effect of Focused Strike by 15% for each one, stacking multiplicatively.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -374,7 +445,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stacks_on_trigger": "will_stack_manually",
             "stacks_multiply": true,
             "show_bonus": true,
-            "show_stacks": true
+            "show_stacks": true,
+            "off_when_benched": true
         },
         {
             "effect_string": "stoki_all_out_assault",
@@ -390,7 +462,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -422,7 +494,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "use_computed_amount_for_description": true,
             "show_bonus": true,
-            "show_stacks": true
+            "show_stacks": true,
+            "off_when_benched": true
         },
         {
             "effect_string": "buff_upgrade,100,16052,1",
@@ -434,7 +507,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "ability_score_changed"
             ],
             "use_computed_amount_for_description": true,
-            "show_bonus": true
+            "show_bonus": true,
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -446,7 +520,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_targets"
     }
 }
 </pre>
@@ -456,7 +531,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: A Little Bit Faster** (Guess)
-> Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by 100% for 0.1s their base attack cooldown is reduced by this ability, stacking multiplicatively.
+> Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by 100% for each 0.1 seconds their base attack cooldown is reduced by this ability, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -464,11 +539,84 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2153,
     "flavour_text": "",
     "description": {
-        "desc": "Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by 100% for 0.1s their base attack cooldown is reduced by this ability, stacking multiplicatively."
+        "desc": "Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by 100% for each 0.1 seconds their base attack cooldown is reduced by this ability, stacking multiplicatively."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,0"
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "default_base_attack_cooldown>= 6"
+                }
+            ],
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "use_computed_amount_for_description": true,
+            "override_key_desc": "Increases the damage of $target by $amount%.",
+            "hide_amount_rate": true
+        },
+        {
+            "effect_string": "buff_incoming_effect_by_expr",
+            "effect_id": 2153,
+            "effect_index": 0,
+            "buff_amount": 100,
+            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.99)) * pow((1+(buff_amount/100)), (default_base_attack_cooldown-4)*10)",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "default_base_attack_cooldown>= 6"
+                }
+            ],
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "reduce_attack_cooldown,0.1",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "default_base_attack_cooldown>= 6"
+                }
+            ],
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "off_when_benched": true,
+            "use_computed_amount_for_description": true,
+            "override_key_desc": "Reduces the cooldown of $target's Base Attack by $amount seconds.",
+            "hide_amount_rate": true
+        },
+        {
+            "effect_string": "buff_incoming_effect_by_expr",
+            "effect_id": 2153,
+            "effect_index": 2,
+            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.99)) * (default_base_attack_cooldown-4)*10",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "default_base_attack_cooldown>= 6"
+                }
+            ],
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
