@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Classic Kas Portrait](images/skin_portraits/classickas.png)<span class="featTooltipContents">ID: 482**Classic Kas (Kas)**<img src="images/skin_models/classickas.gif" alt="Classic Kas Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Classic Kas
-        </span>
-        <span class="skinTableSource">
-            Adventure: Kas the Betrayer
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            30 Oct 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Devil Wyll Portrait](images/skin_portraits/devilwyll.png)<span class="featTooltipContents">ID: 477**Devil Wyll (Wyll)**<img src="images/skin_models/devilwyll.gif" alt="Devil Wyll Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Devil Wyll
-        </span>
-        <span class="skinTableSource">
-            Devil Wyll Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            30 Oct 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Herald of Protection Sentry Portrait](images/skin_portraits/heraldofprotectionsentry.png)<span class="featTooltipContents">ID: 486**Herald of Protection Sentry (Sentry)**<img src="images/skin_models/heraldofprotectionsentry.gif" alt="Herald of Protection Sentry Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

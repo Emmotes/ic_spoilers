@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Reya</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Guardian of Elturel Icon](images/featicons/guardianofelturel.png)<span class="featTooltipContents">ID: 1955**Guardian of Elturel (Reya)**Tiamat has come. We're working on a plan to lure her from the city.<code>force_allow_hero</code></span>Guardian of Elturel
-        </span>
-        <span class="featTableEffect">
-            <span>Allowed in all Avernus Patrons</span>
-        </span>
-        <span class="featTableSource">
-            <span>Variant</span>
-        </span>
-        <span class="featTableDate">
-            <span>30 Oct 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Wyll</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Mizora's Pawn Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1897**Mizora's Pawn (Wyll)**'Quite the handsome devil, if I do say so.' ~ Mizora<code>add_hero_tags,0,tiefling<br>buff_upgrade,80,13429</code></span>Mizora's Pawn
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Tiefling & 80% Folk Hero (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>30 Oct 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Sentry</span>
         </span>
         <span class="featTableIcon4">

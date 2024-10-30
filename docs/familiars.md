@@ -24,40 +24,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cinderflick the Cat Portrait](images/familiars/cinderflickthecat.png)<span class="featTooltipContents">ID: 231**Cinderflick the Cat**<img src="images/familiars/cinderflickthecat.gif" alt="Cinderflick the Cat Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cinderflick the Cat
-        </span>
-        <span class="skinTableSource">
-            Cinderflick the Cat Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            2,380p
-        </span>
-        <span class="skinTableDate">
-            30 Oct 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Creeping Hut Portrait](images/familiars/creepinghut.png)<span class="featTooltipContents">ID: 225**Creeping Hut**<img src="images/familiars/creepinghut.gif" alt="Creeping Hut Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Creeping Hut
-        </span>
-        <span class="skinTableSource">
-            Creeping Hut Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            30 Oct 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Lobita the Guardian Portrait](images/familiars/lobitatheguardian.png)<span class="featTooltipContents">ID: 227**Lobita the Guardian**<img src="images/familiars/lobitatheguardian.gif" alt="Lobita the Guardian Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
