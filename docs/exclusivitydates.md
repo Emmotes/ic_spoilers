@@ -15,120 +15,6 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="e7a" onclick="exclusiveToggleContent(`e7`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Emergence 7 Icon](images/general/e7.png)**Emergence 7** - Vecna Cultists
-            </span>
-        </span>
-        <span id="e7" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Courage in Battle Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1304**Courage in Battle (Drizzt)**Hope is the ally of all courageous people.<code>add_mithral_hall_stacks,1</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Courage in Battle</span>
-                        <span style="margin-left:15px">Drizzt (+1 Mithral Hall Stacks)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Quick Friends Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1471**Quick Friends (Evelyn)**Did you heal me? OH! Yay! We're best friends now!<code>buff_upgrade,80,12208</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Quick Friends</span>
-                        <span style="margin-left:15px">Evelyn (80% Conduit of the Light)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heavily Armored Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 1797**Heavily Armored (Krydle)**You want me to hide in this?! Do you have a barn?<code>health_mult,60</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Heavily Armored</span>
-                        <span style="margin-left:15px">Krydle (60% Health)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Scholar Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1775**Scholar (Diana)**I've got a 4.0 GPA.<code>increase_ability_score,int,2</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Scholar</span>
-                        <span style="margin-left:15px">Diana (Stat: +2 Intelligence)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Pirate Azaka Skin Icon](images/exclusivities/skin_23866.png)<span class="featTooltipContents">ID: 430**Pirate Azaka (Azaka)**<img src="images/exclusivities/skin_23870.gif" alt="Pirate Azaka Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Pirate Azaka</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Pirate Diana Skin Icon](images/exclusivities/skin_23874.png)<span class="featTooltipContents">ID: 431**Pirate Diana (Diana)**<img src="images/exclusivities/skin_23877.gif" alt="Pirate Diana Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Pirate Diana</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Azaka Slot 3](images/exclusivities/ge_3601.png)<span class="itemTooltipContents">ID: 708**Magical Coin Pack (Azaka)**It always has more room!<code>buff_upgrade,275,1233</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Guiding Hand</span>
-                        <span style="margin-left:15px">Azaka (Slot 3)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Diana Slot 5](images/exclusivities/ge_23230.png)<span class="itemTooltipContents">ID: 3525**Weavebound Staff (Diana)**Dungeon Master told me the Weave itself flows through this...<code>buff_ultimate,275</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Ultimate Damage</span>
-                        <span style="margin-left:15px">Diana (Slot 5)</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>22 May 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>02 August 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>02 November 2024 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -2427,6 +2313,120 @@ This is the list of recurring events that have had their exclusivity period end.
             </span>
             <span class="postSeasonTableDate">
                 <span>31 August 2024 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e7a" onclick="exclusiveToggleContent(`e7`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 7 Icon](images/general/e7.png)**Emergence 7** - Vecna Cultists
+            </span>
+        </span>
+        <span id="e7" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Courage in Battle Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1304**Courage in Battle (Drizzt)**Hope is the ally of all courageous people.<code>add_mithral_hall_stacks,1</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Courage in Battle</span>
+                        <span style="margin-left:15px">Drizzt (+1 Mithral Hall Stacks)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Quick Friends Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1471**Quick Friends (Evelyn)**Did you heal me? OH! Yay! We're best friends now!<code>buff_upgrade,80,12208</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Quick Friends</span>
+                        <span style="margin-left:15px">Evelyn (80% Conduit of the Light)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heavily Armored Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 1797**Heavily Armored (Krydle)**You want me to hide in this?! Do you have a barn?<code>health_mult,60</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Heavily Armored</span>
+                        <span style="margin-left:15px">Krydle (60% Health)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Scholar Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1775**Scholar (Diana)**I've got a 4.0 GPA.<code>increase_ability_score,int,2</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Scholar</span>
+                        <span style="margin-left:15px">Diana (Stat: +2 Intelligence)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Pirate Azaka Skin Icon](images/exclusivities/skin_23866.png)<span class="featTooltipContents">ID: 430**Pirate Azaka (Azaka)**<img src="images/exclusivities/skin_23870.gif" alt="Pirate Azaka Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Pirate Azaka</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Pirate Diana Skin Icon](images/exclusivities/skin_23874.png)<span class="featTooltipContents">ID: 431**Pirate Diana (Diana)**<img src="images/exclusivities/skin_23877.gif" alt="Pirate Diana Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Pirate Diana</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Azaka Slot 3](images/exclusivities/ge_3601.png)<span class="itemTooltipContents">ID: 708**Magical Coin Pack (Azaka)**It always has more room!<code>buff_upgrade,275,1233</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Guiding Hand</span>
+                        <span style="margin-left:15px">Azaka (Slot 3)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Diana Slot 5](images/exclusivities/ge_23230.png)<span class="itemTooltipContents">ID: 3525**Weavebound Staff (Diana)**Dungeon Master told me the Weave itself flows through this...<code>buff_ultimate,275</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Ultimate Damage</span>
+                        <span style="margin-left:15px">Diana (Slot 5)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>22 May 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>02 August 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>30 October 2024</span>
             </span>
         </span>
     </span>
