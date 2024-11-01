@@ -181,7 +181,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 493**Shadow Warduke (Warduke)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Shadow Warduke Portrait](images/skin_portraits/shadowwarduke.png)<span class="featTooltipContents">ID: 493**Shadow Warduke (Warduke)**<img src="images/skin_models/shadowwarduke.gif" alt="Shadow Warduke Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Shadow Warduke
@@ -232,7 +232,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 491**Sharran Stoki (Stoki)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Sharran Stoki Portrait](images/skin_portraits/sharranstoki.png)<span class="featTooltipContents">ID: 491**Sharran Stoki (Stoki)**<img src="images/skin_models/sharranstoki.gif" alt="Sharran Stoki Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Sharran Stoki
@@ -249,7 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 501**Grymforge Karlach (Karlach)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Grymforge Karlach Portrait](images/skin_portraits/grymforgekarlach.png)<span class="featTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<img src="images/skin_models/grymforgekarlach.gif" alt="Grymforge Karlach Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Grymforge Karlach
@@ -283,7 +283,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 496**Selûnite Warden (Warden)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Selûnite Warden Portrait](images/skin_portraits/selunitewarden.png)<span class="featTooltipContents">ID: 496**Selûnite Warden (Warden)**<img src="images/skin_models/selunitewarden.gif" alt="Selûnite Warden Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Selûnite Warden

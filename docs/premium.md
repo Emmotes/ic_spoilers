@@ -1039,7 +1039,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 493**Shadow Warduke (Warduke)**</span></span>
+            <span class="tooltipHolder">![Shadow Warduke Skin Portrait](images/premiums/skin_493.png)<span class="itemTooltipContents">ID: 493**Shadow Warduke (Warduke)**<img src="images/premiums/skin_493.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1110,7 +1110,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 491**Sharran Stoki (Stoki)**</span></span>
+            <span class="tooltipHolder">![Sharran Stoki Skin Portrait](images/premiums/skin_491.png)<span class="itemTooltipContents">ID: 491**Sharran Stoki (Stoki)**<img src="images/premiums/skin_491.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1320,7 +1320,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 501**Grymforge Karlach (Karlach)**</span></span>
+            <span class="tooltipHolder">![Grymforge Karlach Skin Portrait](images/premiums/skin_501.png)<span class="itemTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<img src="images/premiums/skin_501.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1462,7 +1462,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 496**Selûnite Warden (Warden)**</span></span>
+            <span class="tooltipHolder">![Selûnite Warden Skin Portrait](images/premiums/skin_496.png)<span class="itemTooltipContents">ID: 496**Selûnite Warden (Warden)**<img src="images/premiums/skin_496.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
