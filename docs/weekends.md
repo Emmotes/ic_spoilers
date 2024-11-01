@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Whispers from the Far Realm | 01 Nov | **Zorbu** | Celeste | Strix | BBEG | Shandie | Golden Epic |
 | Find your Way | 08 Nov | **Minthara** | Karlach | Calliope | Asharra | Astarion | Golden Epic |
 | Music Lesson | 15 Nov | **Sgt. Knox** | Celeste | Makos | Hew Maan | Dark Urge | Golden Epic |
 | Dhampiric | 22 Nov | **Widdle** | Tyril | Bruenor | Bobby | Valentine | Golden Epic |
