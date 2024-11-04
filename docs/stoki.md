@@ -93,7 +93,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2147,
     "flavour_text": "",
     "description": {
-        "desc": "When Stoki attacks she gains a Focus Point for each enemy she hits. She increases the damage of all Champions with a base attack cooldown of 4.0s or faster by $amount% for each Focus Point she has, stacking multiplicatively. Focus Points cap at $(amount___3) and are reduced by 50% (rounded down) when changing areas.^^Focus Points: $(stat_value stoki_focus_points 1 none)"
+        "desc": "When Stoki attacks she gains a Focus Point for each enemy she hits. She increases the damage of all Champions with a base attack cooldown of 4.0s or faster by $amount% for each Focus Point she has, stacking multiplicatively. Focus Points cap at $(amount___3) and are reduced by 50% (rounded down) when changing areas.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Focus Points: $(stat_value stoki_focus_points 1 none)"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -117,8 +125,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 }
             ],
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "base_attack_cooldown_changed"
             ],
+            "retarget_when_base_attack_cooldown_changed": true,
             "stacks_multiply": true,
             "use_computed_amount_for_description": true,
             "show_bonus": true,
@@ -133,35 +143,36 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "expression_on_trigger,owner_attack_single_hit",
-            "per_trigger_expr": "{ SetSaveStat(`stoki_focus_points`, true, min(GetSaveStat(`stoki_focus_points`, true)+trigger_count,GetUpgradeAmount(16052,2)))}",
+            "per_trigger_expr": "SetSaveStat(`stoki_focus_points`, true, min(GetSaveStat(`stoki_focus_points`, true)+trigger_count,GetUpgradeAmount(16052,2)))",
             "skip_effect_key_desc": true
         },
         {
             "effect_string": "expression_on_trigger,owner_attack_single_hit",
-            "per_trigger_expr": "{ AppendToSaveStat(`stoki_focus_points_this_adventure`, true, 1)}",
+            "per_trigger_expr": "AppendToSaveStat(`stoki_focus_points_this_adventure`, true, 1)",
             "skip_effect_key_desc": true
         },
         {
             "effect_string": "expression_on_trigger,area_changed",
-            "per_trigger_expr": "{ SetSaveStat(`stoki_focus_points`, true, ceil(GetSaveStat(`stoki_focus_points`, true)*0.5))}"
+            "reduction_mod": 0.5,
+            "per_trigger_expr": "SetSaveStat(`stoki_focus_points`, true, floor(GetSaveStat(`stoki_focus_points`, true)* reduction_mod))"
         },
         {
             "effect_string": "expression_on_trigger,owner_attack_single_hit",
-            "per_trigger_expr": "{ AppendToSaveStat(`stoki_focus_points_this_adventure_server`, false, 1)}",
+            "per_trigger_expr": "SetSaveStat(`stoki_focus_points_this_adventure_server`, false, max(GetSaveStat(`stoki_focus_points_this_adventure`, true), GetSaveStat(`stoki_focus_points_this_adventure_server`, false)))",
             "skip_effect_key_desc": true
         },
         {
             "effect_string": "expression_on_trigger,adventure_reset",
-            "per_trigger_expr": "{ SetSaveStat(`stoki_focus_points_this_adventure_server`, false, 0)}",
+            "per_trigger_expr": "SetSaveStat(`stoki_focus_points_this_adventure`, true, 0)",
             "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 5880,
+    "large_graphic_id": 5881,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -220,7 +231,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 {
                     "effect_string": "increase_monster_gold,0",
                     "amount_expr": "upgrade_amount(16053,1)",
-                    "is_minthara_debuff": true,
                     "active_graphic_id": 25075,
                     "active_graphic_y": -30,
                     "overlay_play_mode": "stopped",
@@ -228,15 +238,19 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "stacks_on_reapply": false,
                     "manual_stacking": true,
                     "max_stacks": 1,
-                    "use_collection_source": false,
-                    "stack_across_effects": false
+                    "use_collection_source": true,
+                    "stack_across_effects": false,
+                    "update_expression_on_amount_changed": true,
+                    "amount_updated_listeners": [
+                        "stat_changed,stoki_focus_points"
+                    ]
                 }
             ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 5876,
+    "large_graphic_id": 5877,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -328,7 +342,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "attack_type": "base_attack",
             "apply_manually": true,
             "off_when_benched": true,
-            "amount_func": "mult",
+            "amount_func": "add",
             "stack_func": "get_stat",
             "instance_stat": true,
             "stat": "stoki_focus_points",
@@ -363,7 +377,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 25046,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "owner_use_outgoing_description": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -493,6 +507,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "ability_score_changed"
             ],
             "use_computed_amount_for_description": true,
+            "replace_bonus_with_current_value": true,
             "show_bonus": true,
             "show_stacks": true,
             "off_when_benched": true
@@ -521,7 +536,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_targets"
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks"
     }
 }
 </pre>
@@ -543,6 +558,47 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
+            "effect_string": "buff_incoming_effect_by_expr",
+            "effect_id": 2153,
+            "effect_index": 2,
+            "buff_amount": 100,
+            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.99)) * pow((1+(buff_amount/100)), (default_base_attack_cooldown-4)*10)",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "default_base_attack_cooldown>= 6"
+                }
+            ],
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "skip_effect_key_desc": true,
+            "off_when_benched": false
+        },
+        {
+            "effect_string": "buff_incoming_effect_by_expr",
+            "effect_id": 2153,
+            "effect_index": 3,
+            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.99)) * (default_base_attack_cooldown-4)*10",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "default_base_attack_cooldown>= 6"
+                }
+            ],
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "skip_effect_key_desc": true,
+            "off_when_benched": false
+        },
+        {
             "effect_string": "hero_dps_multiplier_mult,100",
             "targets": [
                 "all"
@@ -558,27 +614,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "use_computed_amount_for_description": true,
             "override_key_desc": "Increases the damage of $target by $amount%.",
-            "hide_amount_rate": true
-        },
-        {
-            "effect_string": "buff_incoming_effect_by_expr",
-            "effect_id": 2153,
-            "effect_index": 0,
-            "buff_amount": 100,
-            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.99)) * pow((1+(buff_amount/100)), (default_base_attack_cooldown-4)*10)",
-            "targets": [
-                "all"
-            ],
-            "filter_targets": [
-                {
-                    "type": "hero_expr",
-                    "hero_expr": "default_base_attack_cooldown>= 6"
-                }
-            ],
-            "amount_updated_listeners": [
-                "slot_changed"
-            ],
-            "skip_effect_key_desc": true
+            "hide_amount_rate": true,
+            "off_when_benched": false
         },
         {
             "effect_string": "reduce_attack_cooldown,0.1",
@@ -594,29 +631,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "off_when_benched": true,
             "use_computed_amount_for_description": true,
             "override_key_desc": "Reduces the cooldown of $target's Base Attack by $amount seconds.",
-            "hide_amount_rate": true
-        },
-        {
-            "effect_string": "buff_incoming_effect_by_expr",
-            "effect_id": 2153,
-            "effect_index": 2,
-            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.99)) * (default_base_attack_cooldown-4)*10",
-            "targets": [
-                "all"
-            ],
-            "filter_targets": [
-                {
-                    "type": "hero_expr",
-                    "hero_expr": "default_base_attack_cooldown>= 6"
-                }
-            ],
-            "amount_updated_listeners": [
-                "slot_changed"
-            ],
-            "skip_effect_key_desc": true
+            "hide_amount_rate": true,
+            "off_when_benched": false
         }
     ],
     "requirements": "",
@@ -624,7 +642,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 25057,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
