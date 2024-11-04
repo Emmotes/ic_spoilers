@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Minthara Champion Unlock Portrait](images/premiums/unlock_champion_154.png)<span class="itemTooltipContents">ID: 154**Minthara**<img src="images/premiums/unlock_champion_154.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Minthara Champion Unlock Portrait](images/premiums/unlock_champion_154.png)<span class="itemTooltipContents">ID: 154**Minthara (Seat 3 (Guess))**<img src="images/premiums/unlock_champion_154.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>

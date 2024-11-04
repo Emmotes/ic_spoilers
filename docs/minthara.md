@@ -46,7 +46,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">3 (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -54,7 +54,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Drow (Guess)</span>
+            <span style="margin-left:8px;">Elf (Drow) (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -70,7 +70,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Tanking / DPS / Support / Debuff (Guess)</span>
+            <span style="margin-left:8px;">Tanking / Support / Debuff (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -78,7 +78,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">150 (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -94,7 +94,7 @@ Minthara will be a new champion in the Feast of the Moon event on 6 November 202
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Neutral Evil (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
