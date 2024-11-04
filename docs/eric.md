@@ -59,7 +59,7 @@ Eric will be a new champion in the Wintershield event on 1 January 2025.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Tanking / Support / Gold (Guess)</span>
+            <span style="margin-left:8px;">Tanking / Support / Gold / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -98,12 +98,9 @@ Eric will be a new champion in the Wintershield event on 1 January 2025.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/eric/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Eric" fill="#aaa" data-formationName="Eric" data-campaignName="Wintershield" width="299" height="140"><circle cx="175" cy="65" r="15"/><circle cx="175" cy="105" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="65" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Eric</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Wintershield</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -148,6 +145,43 @@ Unknown.
     ],
     "damage_types": [
         "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Protective Field**
+> Eric's shield projects a powerful force field, dealing 1 ultimate hit to all monsters while protecting the Champions from all damage for 10 seconds.  
+> Cooldown: 600s (Cap 150s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 825,
+    "name": "Protective Field",
+    "description": "A field from Eric's shield knocks back enemies and protects the Champions for 10 seconds.",
+    "long_description": "Eric's shield projects a powerful force field, dealing 1 ultimate hit to all monsters while protecting the Champions from all damage for 10 seconds.",
+    "graphic_id": 25267,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 600,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "eric"
+        }
+    ],
+    "tags": [
+        "magic",
+        "ultimate"
+    ],
+    "damage_types": [
+        "magic"
     ]
 }
 </pre>
@@ -256,18 +290,20 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Preferred Target** (Guess)
-> Unknown effect.
+> All Ranged and Magic attacking enemies target Eric before any other Champion in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2161,
     "flavour_text": "",
-    "description": "",
+    "description": {
+        "desc": "All Ranged and Magic attacking enemies target Eric before any other Champion in the formation."
+    },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "damage_type_taunt,ranged,magic"
         }
     ],
     "requirements": "",
@@ -286,23 +322,90 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Keep Away** (Guess)
-> Unknown effect.
+> For the first 60 seconds in any area, Eric increases the distance of all knockback effects by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2162,
     "flavour_text": "",
-    "description": "",
+    "description": {
+        "desc": "For the first $amount seconds in any area, Eric increases the distance of all knockback effects by $(amount___2)%.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "$eric_keep_away_desc"
+                }
+            ]
+        }
+    },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "effect_duration,60"
+        },
+        {
+            "off_when_benched": true,
+            "apply_manually": true,
+            "effect_string": "push_back_mult,100"
         }
     ],
     "requirements": "",
     "graphic_id": 25258,
     "large_graphic_id": 25254,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Corrupted Gems Scavenger** (Guess)
+> Eric can help scavenge up to 5000 additional Corrupted Gems when killing bosses. While this cap is not reached, Eric has a 100% chance of scavenging 100_per_drop Corrupted Gems each time a boss is defeated. The cap increases by 150 every day.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2163,
+    "flavour_text": "",
+    "description": {
+        "desc": "Eric can help scavenge up to $(current_scavenge_cap eric_corrupted_gem_scavenger floor) additional Corrupted Gems when killing bosses. While this cap is not reached, Eric has a $amount% chance of scavenging $amount_per_drop Corrupted Gems each time a boss is defeated. The cap increases by $cap_increase_per_day every day.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Corrupted Gems Scavenged: $(stat_value eric_corrupted_gems_collected 0 none) ($(stat_value eric_corrupted_gems_collected_this_adventure 1 none) this adventure)"
+                }
+            ]
+        }
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "scavenge_items,100",
+            "id": "eric_corrupted_gem_scavenger",
+            "item_type": "corrupted_gems",
+            "initial_cap": 5000,
+            "cap_increase_per_day": 150,
+            "start_date": "2024-09-04 12:00:00",
+            "total_collected_stat": "eric_corrupted_gems_collected",
+            "adventure_collected_stat": "eric_corrupted_gems_collected_this_adventure",
+            "upgrade_id": 16133,
+            "amount_per_drop": 10
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -315,28 +418,42 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
-> Unknown effect.
+**Unlock Ultimate** (Guess)
+> Unlocks Eric's Protective Field Ultimate Attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 2163,
+    "id": 2172,
     "flavour_text": "",
-    "description": "",
+    "description": {
+        "desc": "Unlocks Eric's Protective Field Ultimate Attack"
+    },
     "effect_keys": [
         {
-            "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "eric_ult",
+            "duration": 10,
+            "push_amount": 1000
+        },
+        {
+            "apply_manually": true,
+            "effect_string": "damage_reduction,100",
+            "targets": [
+                "all"
+            ]
+        },
+        {
+            "effect_string": "set_ultimate_attack"
         }
     ],
     "requirements": "",
     "graphic_id": 0,
-    "large_graphic_id": 0,
+    "large_graphic_id": 25267,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "show_outgoing_desc_when_benched": false
     }
 }
 </pre>
@@ -482,18 +599,35 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unassuming Force** (Guess)
-> Unknown effect.
+> Eric increases the damage bonus of his Trait specialization choice by 100% for each Champion in the formation with a total ability score of 78 or less, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2167,
     "flavour_text": "",
-    "description": "",
+    "description": {
+        "desc": "Eric increases the damage bonus of his Trait specialization choice by $amount% for each Champion in the formation with a total ability score of 78 or less, stacking multiplicatively."
+    },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrades,0,16134,16135,16136",
+            "amount_expr": "upgrade_amount(16137,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "GetStat(`total_ability_score`) <= 78",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "ability_score_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -502,7 +636,11 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks___2"
     }
 }
 </pre>
@@ -512,18 +650,34 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Youthful Valor** (Guess)
-> Unknown effect.
+> Eric increases the damage bonus of his Trait specialization choice by 100% for each Champion in the formation with an age of 20 or less, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2168,
     "flavour_text": "",
-    "description": "",
+    "description": {
+        "desc": "Eric increases the damage bonus of his Trait specialization choice by $amount% for each Champion in the formation with an age of 20 or less, stacking multiplicatively."
+    },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrades,0,16134,16135,16136",
+            "amount_expr": "upgrade_amount(16138,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "age <= 20 && hero_id != 146",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -532,7 +686,11 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks___2"
     }
 }
 </pre>
@@ -542,18 +700,34 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Treasure Hunters** (Guess)
-> Unknown effect.
+> Eric increases the damage bonus of his Trait specialization choice by 100% for each Champion in the formation with the Gold Find role, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2169,
     "flavour_text": "",
-    "description": "",
+    "description": {
+        "desc": "Eric increases the damage bonus of his Trait specialization choice by $amount% for each Champion in the formation with the Gold Find role, stacking multiplicatively."
+    },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing,0"
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrades,0,16134,16135,16136",
+            "amount_expr": "upgrade_amount(16139,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`gold`)",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -562,7 +736,11 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "default_bonus_index": 0,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks___2"
     }
 }
 </pre>
@@ -646,16 +824,25 @@ Unknown.
 > Help a poor map find its way home for the holidays.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: TBD** (Complete Area 75)
-> 
+![Cavalier! Icon](images/eric/25268.png) **Variant 1: Cavalier!** (Complete Area 75)
+> Eric starts in the formation. He can be moved but not removed.  
+> Only Champions in the front two columns and the back column can deal damage.  
+> 1-2 Bullywug Spear Throwers spawn with each wave. They don't drop gold, nor count towards quest progress.  
+> Getting to Know Eric: Eric's first specialization choice determines how he buffs the formation. Does he lead from the front or cower in the back?
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: TBD** (Complete Area 125)
-> 
+![Prison Without Walls Icon](images/eric/25269.png) **Variant 2: Prison Without Walls** (Complete Area 125)
+> Eric starts in the formation. He can't be moved or removed.  
+> In area 126 or higher, no Tanking Champions other than Eric can be added to the formation, and any other Tanking Champions are automatically removed.  
+> A transformed Lukyon joins the formation. He doesn't do much in his cursed form.  
+> Getting to know Eric: Knock back abilities are stronger when Eric is in the formation. Take advantage of that to protect your non-tanking Champions at the front!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: TBD** (Complete Area 175)
-> 
+![The Wrath of Venger Icon](images/eric/25270.png) **Variant 3: The Wrath of Venger** (Complete Area 175)
+> Eric starts in the formation. He can be moved but not removed.  
+> At the start of each Boss area, Venger arrives on his nightmare as an additional boss that must be defeated.  
+> You may only use Champions with an age of 20 or younger, have a total ability score of 78 or lower, or have the Gold Find role.  
+> Getting to Know Eric: Eric's second set of specializations determines which Champions he works best with. Which formation will you build?
 </div></div>
 
 # Other Champion Images
