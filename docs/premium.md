@@ -938,7 +938,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 234**Sir Perchington the Fancy Owl**Hoot, I say. HOOOOOOOT!</span></span>
+            <span class="tooltipHolder">![Sir Perchington the Fancy Owl Familiar Portrait](images/premiums/familiar_234.png)<span class="itemTooltipContents">ID: 234**Sir Perchington the Fancy Owl**Hoot, I say. HOOOOOOOT!<img src="images/premiums/familiar_234.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1039,7 +1039,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Shadow Warduke Skin Portrait](images/premiums/skin_493.png)<span class="itemTooltipContents">ID: 493**Shadow Warduke (Warduke)**<img src="images/premiums/skin_493.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Shadow Warduke Skin Portrait](images/premiums/skin_493.png)<span class="itemTooltipContents">ID: 493**Shadow Warduke (Warduke)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_493.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_493-flame_tongue.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1119,7 +1119,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 233**Sharran Viper**Oh, don't mind her unless she's looking at you.</span></span>
+            <span class="tooltipHolder">![Sharran Viper Familiar Portrait](images/premiums/familiar_233.png)<span class="itemTooltipContents">ID: 233**Sharran Viper**Oh, don't mind her unless she's looking at you.<img src="images/premiums/familiar_233.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1283,10 +1283,12 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 517</div>
-### Grymforge Karlach Party Pack - 0 Platinum ($0.00)  
+### Grymforge Karlach Party Pack - 0 Platinum ($19.99)  
 Date of release: 12 Dec 2024
 
 > 
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack probably won't be available for purchase since it's likely to be for a platform giveaway.*
 
 Contents:
 
@@ -1329,12 +1331,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart Ablaze Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2005**Heart Ablaze**I don't think I've ever felt more powerful.<code>todo<br>DevNote: Increase BUD damage caused by Infernal Engine</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor (10% All Champion Damage)</span>
+            <span style="margin-left:15px">Heart Ablaze</span>
+            <span style="margin-left:15px">Karlach (todo)</span>
         </span>
     </span>
     <span class="premiumsTableItem">

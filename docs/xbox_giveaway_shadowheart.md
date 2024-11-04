@@ -71,7 +71,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 234**Sir Perchington the Fancy Owl**Hoot, I say. HOOOOOOOT!</span></span>
+            <span class="tooltipHolder">![Sir Perchington the Fancy Owl Familiar Portrait](images/premiums/familiar_234.png)<span class="itemTooltipContents">ID: 234**Sir Perchington the Fancy Owl**Hoot, I say. HOOOOOOOT!<img src="images/premiums/familiar_234.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

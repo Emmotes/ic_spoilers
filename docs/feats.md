@@ -237,10 +237,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Xerophon</span>
         </span>
         <span class="featTableIcon4">
-            ![Guardian of Icewind Dale Icon](images/featicons/snowballs.png)<span class="featTooltipContents">ID: 2003**Guardian of Icewind Dale (Xerophon)**From Ten-Towns to Ythryn, from the Spine to the frozen sea, I shall defend this place.<code>todo<br>DevNote: Xerophon may be used in any Icewind Dale: Rime of the Frostmaiden adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict them.</code></span>Guardian of Icewind Dale
+            ![Guardian of Icewind Dale Icon](images/featicons/snowballs.png)<span class="featTooltipContents">ID: 2003**Guardian of Icewind Dale (Xerophon)**From Ten-Towns to Ythryn, from the Spine to the frozen sea, I shall defend this place.<code>force_allow_hero</code></span>Guardian of Icewind Dale
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Allowed in all Icewind Dale Patrons</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

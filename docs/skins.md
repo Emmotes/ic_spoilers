@@ -181,7 +181,24 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Shadow Warduke Portrait](images/skin_portraits/shadowwarduke.png)<span class="featTooltipContents">ID: 493**Shadow Warduke (Warduke)**<img src="images/skin_models/shadowwarduke.gif" alt="Shadow Warduke Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Potent Gale Portrait](images/skin_portraits/potentgale.png)<span class="featTooltipContents">ID: 502**Potent Gale (Gale)**<img src="images/skin_models/potentgale.gif" alt="Potent Gale Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Potent Gale
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            04 Dec 2024
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Shadow Warduke Portrait](images/skin_portraits/shadowwarduke.png)<span class="featTooltipContents">ID: 493**Shadow Warduke (Warduke)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/shadowwarduke.gif" alt="Shadow Warduke Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/shadowwarduke-flame_tongue.gif" alt="Shadow Warduke Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Shadow Warduke
@@ -330,6 +347,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             26 Dec 2024
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Red Dragon Rider Lae'zel Portrait](images/skin_portraits/reddragonriderlaezel.png)<span class="featTooltipContents">ID: 503**Red Dragon Rider Lae'zel (Lae'zel)**<img src="images/skin_models/reddragonriderlaezel.gif" alt="Red Dragon Rider Lae'zel Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Red Dragon Rider Lae'zel
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            04 Dec 2032
         </span>
     </span>
 </span>
