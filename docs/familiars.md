@@ -24,23 +24,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Lobita the Guardian Portrait](images/familiars/lobitatheguardian.png)<span class="featTooltipContents">ID: 227**Lobita the Guardian**<img src="images/familiars/lobitatheguardian.gif" alt="Lobita the Guardian Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Lobita the Guardian
-        </span>
-        <span class="skinTableSource">
-            Lobita the Guardian Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            04 Nov 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Scrying Eye Portrait](images/familiars/scryingeye.png)<span class="featTooltipContents">ID: 228**Scrying Eye**<img src="images/familiars/scryingeye.gif" alt="Scrying Eye Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
