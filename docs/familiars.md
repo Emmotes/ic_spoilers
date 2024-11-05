@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**</span></span>
-        </span>
-        <span class="skinTableName">
-            Rumble the Angry Flumph
-        </span>
-        <span class="skinTableSource">
-            None
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Scrying Eye Portrait](images/familiars/scryingeye.png)<span class="featTooltipContents">ID: 228**Scrying Eye**<img src="images/familiars/scryingeye.gif" alt="Scrying Eye Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -156,6 +139,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             26 Dec 2024
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**</span></span>
+        </span>
+        <span class="skinTableName">
+            Rumble the Angry Flumph
+        </span>
+        <span class="skinTableSource">
+            None
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            24 May 2025
         </span>
     </span>
 </span>
