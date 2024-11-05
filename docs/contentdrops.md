@@ -292,13 +292,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Icewind Dale: The Netherese Necropol is (Variant 3)](images/contentdrop_portraits/icewinddale_thenetheresenecropolis_3.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Icewind Dale: The Netherese Necropolis (Variant 3)](images/contentdrop_portraits/icewinddale_thenetheresenecropolis_3.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Icewind Dale</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Netherese Necropol is</span>
+            <span style="margin-left: 8px;">The Netherese Necropolis</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #3</span>
