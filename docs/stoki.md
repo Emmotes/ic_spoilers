@@ -17,7 +17,7 @@ Born Stami Gackle, she fled her home after a terrible accident at a young age an
 
 # Changes
 
-Stoki will be a reworked champion in the Simril event on 4 December 2024.
+Stoki will be a reworked champion in the Simril event on 11 December 2024 (expected a week after event start due to the Worst the Wait event augment).
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 

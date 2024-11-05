@@ -109,7 +109,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Human Fighter</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Feast of the Moon - 6 November 2024</span>
+                <span class="indexChampionTableNoLink">Feast of the Moon - 13 November 2024</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -135,7 +135,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Gnome Monk</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Simril - 4 December 2024</span>
+                <span class="indexChampionTableNoLink">Simril - 11 December 2024</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
