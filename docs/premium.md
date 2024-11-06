@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Minthara Champion Unlock Portrait](images/premiums/unlock_champion_154.png)<span class="itemTooltipContents">ID: 154**Minthara (Seat 3 (Guess))**<img src="images/premiums/unlock_champion_154.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Minthara Champion Unlock Portrait](images/premiums/unlock_champion_154.png)<span class="itemTooltipContents">ID: 154**Minthara (Seat 3)**<img src="images/premiums/unlock_champion_154.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1964**Feat**???: 1964</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Daughter of House Baenre Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 1964**Daughter of House Baenre**Do you still dare to cross me?<code>buff_upgrade,80,15942,1</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 1964</span>
+            <span style="margin-left:15px">Daughter of House Baenre</span>
+            <span style="margin-left:15px">Minthara (80% Noble of Menzoberranzan)</span>
         </span>
     </span>
     <span class="premiumsTableItem">

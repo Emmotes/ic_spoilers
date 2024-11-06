@@ -24,7 +24,7 @@ These are the event champions that are upcoming and all the information we know 
                 Minthara
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf (Drow) Paladin of Absolute Adversaries (Guess)</span>
+                <span class="indexChampionTableNoLink">Elf (Drow) Paladin of Absolute Adversaries</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Feast of the Moon - 6 November 2024</span>

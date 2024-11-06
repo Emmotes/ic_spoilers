@@ -30,6 +30,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Daughter of House Baenre Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1964**Daughter of House Baenre (Minthara)**Do you still dare to cross me?<code>buff_upgrade,80,15942,1</code></span>Daughter of House Baenre
+        </span>
+        <span class="featTableEffect">
+            <span>80% Noble of Menzoberranzan</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>06 Nov 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Sentry</span>
         </span>
         <span class="featTableIcon4">
@@ -43,6 +60,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>06 Nov 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Penelope</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Friends Forever Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1751**Friends Forever (Penelope)**Aw, I just love you all so much.<code>buff_upgrades,80,14703,14704,14705</code></span>Friends Forever
+        </span>
+        <span class="featTableEffect">
+            <span>80% All First Specialisations (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>13 Nov 2024</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -128,6 +162,40 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>04 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nrakk</span>
+        </span>
+        <span class="featTableIcon2">
+            ![Heightened Focus Icon](images/featicons/scarf3.png)<span class="featTooltipContents">ID: 2042**Heightened Focus (Nrakk)**The churning chaos of Limbo has sharpened my will. <code>global_dps_multiplier_mult,10<br>nrakk_ult_set_ki,15</code></span>Heightened Focus
+        </span>
+        <span class="featTableEffect">
+            <span>10% All Champion Damage & Nrakk's Ultimate sets Ki Points to 15</span>
+        </span>
+        <span class="featTableSource">
+            <span>Free</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nrakk</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Perfect Focus Icon](images/featicons/scarf3.png)<span class="featTooltipContents">ID: 2044**Perfect Focus (Nrakk)**I am one with the multiverse. <code>global_dps_multiplier_mult,200<br>nrakk_ult_set_ki,30</code></span>Perfect Focus
+        </span>
+        <span class="featTableEffect">
+            <span>200% All Champion Damage & Nrakk's Ultimate sets Ki Points to 30</span>
+        </span>
+        <span class="featTableSource">
+            <span>Patron: Vajra</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Dec 2024</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -224,6 +292,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableEffect">
             <span>120% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Shadowheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Shar's Blessing Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Blessing (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<code>todo<br>DevNote: see details in feats doc row 1961</code></span>Shar's Blessing
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -787,13 +872,98 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Penelope</span>
+            <span>Minthara</span>
         </span>
-        <span class="featTableIcon4">
-            ![Friends Forever Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1751**Friends Forever (Penelope)**Aw, I just love you all so much.<code>buff_upgrades,80,14703,14704,14705</code></span>Friends Forever
+        <span class="featTableIcon3">
+            ![Abundant Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1966**Abundant Strife (Minthara)**If somebody angers me, I hurt them. It teaches them not to anger me again.<code>minthara_increase_max_stacks,1</code></span>Abundant Strife
         </span>
         <span class="featTableEffect">
-            <span>80% All First Specialisations (Prestack)</span>
+            <span>+1 Soul Branding stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>hero_dps_multiplier_mult,400<br>taunt,50</code></span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span>400% Self DPS & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unrelenting Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1967**Unrelenting Strife (Minthara)**If somebody causes me sorrow, I remove their ability to do so again.<code>minthara_increase_max_stacks,2</code></span>Unrelenting Strife
+        </span>
+        <span class="featTableEffect">
+            <span>+2 Soul Branding stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vengeful Assurance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1970**Vengeful Assurance (Minthara)**They will fall. It is simply a matter of patience.<code>buff_upgrade,100,15945,2</code></span>Vengeful Assurance
+        </span>
+        <span class="featTableEffect">
+            <span>100% Oath of Vengeance</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vengeful Composure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1969**Vengeful Composure (Minthara)**Our foes will be reduced to nothing in time.<code>change_upgrade_data,15945,2</code></span>Vengeful Composure
+        </span>
+        <span class="featTableEffect">
+            <span>???: [change_upgrade_data,15945,2]</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vengeful Promise Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1968**Vengeful Promise (Minthara)**Now there is freedom. Soon there will be vengeance.<code>buff_upgrade,80,15945,1</code></span>Vengeful Promise
+        </span>
+        <span class="featTableEffect">
+            <span>80% Oath of Vengeance</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
