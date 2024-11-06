@@ -912,7 +912,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Vengeful Composure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1969**Vengeful Composure (Minthara)**Our foes will be reduced to nothing in time.<code>change_upgrade_data,15945,2</code></span>Vengeful Composure
         </span>
         <span class="featTableEffect">
-            <span>???: [change_upgrade_data,15945,2]</span>
+            <span>Oath of Vengence Piercing Component Only Needs 1 Soul Branding Stack</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
