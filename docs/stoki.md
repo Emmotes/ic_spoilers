@@ -28,7 +28,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Quivering Palm** (Guess)
 > Stoki leaps out and attacks five random enemies with extremely powerful palm thrusts. Over the next 10 seconds, all affected enemies take damage over time equal to four times the initial hit.  
-> Cooldown: 3s (Cap 0.75s)
+> Cooldown: 160s (Cap 40s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -42,7 +42,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "num_targets": 5,
     "aoe_radius": 0,
     "damage_modifier": 0.025,
-    "cooldown": 3,
+    "cooldown": 160,
     "animations": [
         {
             "type": "melee_attack",
@@ -315,6 +315,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "apply_manually": true,
             "off_when_benched": true,
+            "outgoing_buffs": false,
             "override_key_desc": "Encouragement - Champions adjacent to Stoki have their base attack cooldowns lowered by $(amount)s.",
             "show_bonus": false,
             "show_stacks": false
@@ -329,6 +330,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "apply_manually": true,
             "off_when_benched": true,
+            "outgoing_buffs": false,
             "override_key_desc": "Flurry of Blows - For every 1000 levels Stoki has, she attacks an additional target with each attack. She prefers to attack different targets, but will attack the same target multiple times if she has already attacked everyone.^Bonus Attack Targets: $amount",
             "use_computed_amount_for_description": true,
             "show_bonus": false,
@@ -342,6 +344,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "attack_type": "base_attack",
             "apply_manually": true,
             "off_when_benched": true,
+            "outgoing_buffs": false,
             "amount_func": "add",
             "stack_func": "get_stat",
             "instance_stat": true,
