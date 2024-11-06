@@ -13,31 +13,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="minthara.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Minthara Portrait Icon](images/minthara/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Minthara
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf (Drow) Paladin of Absolute Adversaries</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Feast of the Moon - 6 November 2024</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="halsin.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">

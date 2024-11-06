@@ -11,6 +11,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Emergence 9](archive/emergence_9.md)
 * [Ezmerelda](archive/ezmerelda.md)
 * [Kas](archive/kas.md)
+* [Minthara](archive/minthara.md)
 * [Duke Ravengard](archive/ravengard.md)
 * [Rosie](archive/rosie.md)
 * [Rust](archive/rust.md)

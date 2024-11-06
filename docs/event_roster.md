@@ -6,25 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Feast of the Moon - November
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="gromma" style="background-image:url(images/portraits/gromma.png)">Gromma (3)</span>
-<span class="eventRosterChampion" id="vlahnya" style="background-image:url(images/portraits/vlahnya.png)">Vlahnya (8)</span>
-<span class="eventRosterChampion" id="turiel" style="background-image:url(images/portraits/turiel.png)">Turiel (1)</span>
-<span class="eventRosterChampion" id="sentry" style="background-image:url(images/portraits/sentry.png)">Sentry (4)</span>
-<span class="eventRosterChampion" id="lazaapz" style="background-image:url(images/portraits/lazaapz.png)">Lazaapz (9)</span>
-<span class="eventRosterChampion" id="penelope" style="background-image:url(images/portraits/penelope.png)">Penelope (12)</span>
-<span class="eventRosterChampion" id="widdle" style="background-image:url(images/portraits/widdle.png)">Widdle (2)</span>
-<span class="eventRosterChampion" id="virgil" style="background-image:url(images/portraits/virgil.png)">Virgil (10)</span>
-<span class="eventRosterChampion" id="jangsao" style="background-image:url(images/portraits/jangsao.png)">Jang Sao (8)</span>
-<span class="eventRosterChampion" id="minthara" style="background-image:url(images/portraits/minthara.png)">Minthara (3)</span>
-</span>
-
-{:/nomarkdown}
-
 # Simril - December
 
 {::nomarkdown}
@@ -225,6 +206,25 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="astarion" style="background-image:url(images/portraits/astarion.png)">Astarion (10)</span>
 <span class="eventRosterChampion" id="thellora" style="background-image:url(images/portraits/thellora.png)">Thellora (1)</span>
 <span class="eventRosterChampion" id="kas" style="background-image:url(images/portraits/kas.png)">Kas (6)</span>
+</span>
+
+{:/nomarkdown}
+
+# Feast of the Moon - November
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="gromma" style="background-image:url(images/portraits/gromma.png)">Gromma (3)</span>
+<span class="eventRosterChampion" id="vlahnya" style="background-image:url(images/portraits/vlahnya.png)">Vlahnya (8)</span>
+<span class="eventRosterChampion" id="turiel" style="background-image:url(images/portraits/turiel.png)">Turiel (1)</span>
+<span class="eventRosterChampion" id="sentry" style="background-image:url(images/portraits/sentry.png)">Sentry (4)</span>
+<span class="eventRosterChampion" id="lazaapz" style="background-image:url(images/portraits/lazaapz.png)">Lazaapz (9)</span>
+<span class="eventRosterChampion" id="penelope" style="background-image:url(images/portraits/penelope.png)">Penelope (12)</span>
+<span class="eventRosterChampion" id="widdle" style="background-image:url(images/portraits/widdle.png)">Widdle (2)</span>
+<span class="eventRosterChampion" id="virgil" style="background-image:url(images/portraits/virgil.png)">Virgil (10)</span>
+<span class="eventRosterChampion" id="jangsao" style="background-image:url(images/portraits/jangsao.png)">Jang Sao (8)</span>
+<span class="eventRosterChampion" id="minthara" style="background-image:url(images/portraits/minthara.png)">Minthara (3)</span>
 </span>
 
 {:/nomarkdown}
