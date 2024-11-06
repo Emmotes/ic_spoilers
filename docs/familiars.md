@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Scrying Eye Portrait](images/familiars/scryingeye.png)<span class="featTooltipContents">ID: 228**Scrying Eye**<img src="images/familiars/scryingeye.gif" alt="Scrying Eye Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Scrying Eye
-        </span>
-        <span class="skinTableSource">
-            Herald of the Absolute Minthara Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            06 Nov 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Crown of Neverwinter Portrait](images/familiars/crownofneverwinter.png)<span class="featTooltipContents">ID: 229**Crown of Neverwinter**<img src="images/familiars/crownofneverwinter.gif" alt="Crown of Neverwinter Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

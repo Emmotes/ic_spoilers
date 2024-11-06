@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Daughter of House Baenre Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1964**Daughter of House Baenre (Minthara)**Do you still dare to cross me?<code>buff_upgrade,80,15942,1</code></span>Daughter of House Baenre
-        </span>
-        <span class="featTableEffect">
-            <span>80% Noble of Menzoberranzan</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>06 Nov 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Sentry</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Overdrive Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1975**Overdrive (Sentry)**I can go further, I promise.<code>buff_upgrades,80,8763,8867<br>increase_stun_time,3.2,241</code></span>Overdrive
-        </span>
-        <span class="featTableEffect">
-            <span>80% All Specialisations & Increase Stun Duration of Sentry's Base Attack by 3.2s</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>06 Nov 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Penelope</span>
         </span>
         <span class="featTableIcon4">

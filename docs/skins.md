@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Herald of Protection Sentry Portrait](images/skin_portraits/heraldofprotectionsentry.png)<span class="featTooltipContents">ID: 486**Herald of Protection Sentry (Sentry)**<img src="images/skin_models/heraldofprotectionsentry.gif" alt="Herald of Protection Sentry Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Herald of Protection Sentry
-        </span>
-        <span class="skinTableSource">
-            Herald of Protection Sentry Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            06 Nov 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Herald of the Absolute Minthara Portrait](images/skin_portraits/heraldoftheabsoluteminthara.png)<span class="featTooltipContents">ID: 484**Herald of the Absolute Minthara (Minthara)**<img src="images/skin_models/heraldoftheabsoluteminthara.gif" alt="Herald of the Absolute Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Herald of the Absolute Minthara
-        </span>
-        <span class="skinTableSource">
-            Herald of the Absolute Minthara Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            06 Nov 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Herald of Neverwinter Knox Portrait](images/skin_portraits/heraldofneverwinterknox.png)<span class="featTooltipContents">ID: 485**Herald of Neverwinter Knox (Sgt. Knox)**<img src="images/skin_models/heraldofneverwinterknox.gif" alt="Herald of Neverwinter Knox Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
