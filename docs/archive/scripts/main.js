@@ -1,4 +1,4 @@
-const v=1.4
+const v=2.002
 
 function init() {
 	let path = document.location.pathname;
@@ -10,4 +10,12 @@ function init() {
 		img.src=img.src.replaceAll("images/featicons/", "../images/featicons/");
 		img.src=img.src.replaceAll("images/general/", "../images/general/");
 	}
+}
+
+function arachnophobe(id) {
+	let ele = document.getElementById(id);
+	if (ele.style.visibility == 'visible')
+		ele.style.visibility = 'hidden';
+	else
+		ele.style.visibility = 'visible';
 }
