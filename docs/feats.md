@@ -138,7 +138,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Heightened Focus Icon](images/featicons/scarf3.png)<span class="featTooltipContents">ID: 2042**Heightened Focus (Nrakk)**The churning chaos of Limbo has sharpened my will. <code>global_dps_multiplier_mult,10<br>nrakk_ult_set_ki,15</code></span>Heightened Focus
         </span>
         <span class="featTableEffect">
-            <span>10% All Champion Damage & Nrakk's Ultimate sets Ki Points to 15</span>
+            <span>10% All Champion Damage & Nrakk's Ultimate sets Ki Points to 15 (Skips Minigame)</span>
         </span>
         <span class="featTableSource">
             <span>Free</span>
@@ -155,7 +155,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Perfect Focus Icon](images/featicons/scarf3.png)<span class="featTooltipContents">ID: 2044**Perfect Focus (Nrakk)**I am one with the multiverse. <code>global_dps_multiplier_mult,200<br>nrakk_ult_set_ki,30</code></span>Perfect Focus
         </span>
         <span class="featTableEffect">
-            <span>200% All Champion Damage & Nrakk's Ultimate sets Ki Points to 30</span>
+            <span>200% All Champion Damage & Nrakk's Ultimate sets Ki Points to 30 (Skips Minigame)</span>
         </span>
         <span class="featTableSource">
             <span>Patron: Vajra</span>
