@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Wise Friends | 08 Nov | **Minthara** | Karlach | Calliope | Asharra | Astarion | Golden Epic |
 | Music Lesson | 15 Nov | **Sgt. Knox** | Celeste | Makos | Hew Maan | Dark Urge | Golden Epic |
 | Dhampiric | 22 Nov | **Widdle** | Tyril | Bruenor | Bobby | Valentine | Golden Epic |
 | Extra Defensive | 29 Nov | **Sentry** | Hitch | Virgil | Diana | Jamilah | Golden Epic |
