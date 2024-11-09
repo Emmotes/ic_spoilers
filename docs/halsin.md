@@ -67,7 +67,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">DPS / Support / Healing / Speed (Guess)</span>
+            <span style="margin-left:8px;">Support / Healing / Speed / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
