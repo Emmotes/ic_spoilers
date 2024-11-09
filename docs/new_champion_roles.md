@@ -17,13 +17,33 @@ It has been given to the following champions:
 
 ## Control
 
-This is a role that will be given to champions that are able to slow stun snare or knockback. It hasn't currently been given to any champions yet - but there is data in the definitions laying the groundwork for it.
+This is a role that will be given to champions that are able to slow stun snare or knockback. It hasn't currently been given to any champions yet - but there is data in the definitions laying the groundwork for it. It's even visible in the Champion Search tool.
 
 ## Armour Breaker
 
 This is a role that will be given to champions that can make dealing with armoured or hits-based enemies easier or quicker. Either by breaking more segments per hit or by lowering the damage threshold for armoured enemies to take damage or even fast-repeating damage ultimates. That kind of thing.
 
 This is the least known about upcoming role. There's not even any data in the definitions for it yet. The only hints have been from Justin on the Dev Insights stream.
+
+## Positional (Guess)
+
+It's not known whether this tag will become a role or not - but it denotes any champion that has a buff that affects other champions based on their position. A large number of champions have gotten the positional tag though.
+
+|---|---|---|---|---|
+| Aeon | Dob | Kent | Orisha | Thellora |
+| Antrius | Donaar | Krux | Penelope | Tyril |
+| Astarion | Egbert | Krydle | Presto | Umberto |
+| Baeloth | Ellywick | Lae'zel | Pwent | Uriah |
+| Barrowin | Evelyn | Makos | Regis | Vin Ursa |
+| Birdsong | Fen | Mehen | Reya | Virgil |
+| Blooshi | Gale | Melf | Selise | Voronika |
+| Bobby | Gazrick | Miria | Sentry | Walnut |
+| Bruenor | Havilar | NERDS | Sgt. Knox | Widdle |
+| Calliope | Imoen | Nayeli | Shadowheart | Wren |
+| Catti-brie | Jang Sao | Nordom | Sisaspia | Xander |
+| Celeste | Jim | Nova | Spurt | Zorbu |
+| Certainty | K'thriss | Nrakk | Strix |  |
+| Desmond | Karlach | Omin | Strongheart |  |
 
 [Back to Top](#top)
 
