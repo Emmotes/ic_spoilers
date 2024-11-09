@@ -445,7 +445,7 @@ code{
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	width: 250px;
+	width: 315px;
 	height: 100%;
 	margin: 0px;
 	background-color: var(--EerieBlack);
@@ -470,7 +470,7 @@ code{
 	font-size: 1.1em;
 }
 .champStatsTableStats,.champStatsTableStatsHeader {
-	width: 120px;
+	width: 100px;
 	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	border-right: 1px solid black;
@@ -479,7 +479,7 @@ code{
 	width: 115px;
 }
 .champStatsTablePatrons,.champStatsTablePatronsHeader {
-	width: 130px;
+	width: 105px;
 	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 }
