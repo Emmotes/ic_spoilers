@@ -609,7 +609,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Halsin Champion Unlock Portrait](images/premiums/unlock_champion_156.png)<span class="itemTooltipContents">ID: 156**Halsin**<img src="images/premiums/unlock_champion_156.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Halsin Champion Unlock Portrait](images/premiums/unlock_champion_156.png)<span class="itemTooltipContents">ID: 156**Halsin (Seat 3 (Guess))**<img src="images/premiums/unlock_champion_156.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -1109,7 +1109,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Halsin Champion Unlock Portrait](images/premiums/unlock_champion_156.png)<span class="itemTooltipContents">ID: 156**Halsin**<img src="images/premiums/unlock_champion_156.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Halsin Champion Unlock Portrait](images/premiums/unlock_champion_156.png)<span class="itemTooltipContents">ID: 156**Halsin (Seat 3 (Guess))**<img src="images/premiums/unlock_champion_156.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
