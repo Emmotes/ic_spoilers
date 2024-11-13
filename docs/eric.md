@@ -168,7 +168,7 @@ Eric will be a new champion in the Wintershield event on 1 January 2025.
     "target": "none",
     "num_targets": 0,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "cooldown": 600,
     "animations": [
         {
@@ -820,7 +820,7 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Merry Map Misadventure (???)** (Complete Area 50)
+**Unlock Adventure: The Merry Map Misadventure (Eric)** (Complete Area 50)
 > Help a poor map find its way home for the holidays.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
