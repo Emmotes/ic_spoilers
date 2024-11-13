@@ -92,32 +92,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="sgtknox.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Sergeant Knox Portrait Icon](images/sgtknox/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Sgt. Knox
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Feast of the Moon - 13 November 2024</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="stoki.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
