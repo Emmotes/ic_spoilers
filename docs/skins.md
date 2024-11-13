@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Herald of Neverwinter Knox Portrait](images/skin_portraits/heraldofneverwinterknox.png)<span class="featTooltipContents">ID: 485**Herald of Neverwinter Knox (Sgt. Knox)**<img src="images/skin_models/heraldofneverwinterknox.gif" alt="Herald of Neverwinter Knox Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Herald of Neverwinter Knox
-        </span>
-        <span class="skinTableSource">
-            Herald of Neverwinter Sgt. Knox Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            13 Nov 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Herald of the World Tree Penelope Portrait](images/skin_portraits/heraldoftheworldtreepenelope.png)<span class="featTooltipContents">ID: 487**Herald of the World Tree Penelope (Penelope)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/heraldoftheworldtreepenelope.gif" alt="Herald of the World Tree Penelope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/heraldoftheworldtreepenelope-chwinga.gif" alt="Herald of the World Tree Penelope Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/heraldoftheworldtreepenelope-chwinga_override.gif" alt="Herald of the World Tree Penelope Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Herald of the World Tree Penelope
-        </span>
-        <span class="skinTableSource">
-            Herald of The World Tree Penelope Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            13 Nov 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Herald of Lore Turiel Portrait](images/skin_portraits/heraldofloreturiel.png)<span class="featTooltipContents">ID: 488**Herald of Lore Turiel (Turiel)**<img src="images/skin_models/heraldofloreturiel.gif" alt="Herald of Lore Turiel Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

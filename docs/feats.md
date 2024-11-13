@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Penelope</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Friends Forever Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1751**Friends Forever (Penelope)**Aw, I just love you all so much.<code>buff_upgrades,80,14703,14704,14705</code></span>Friends Forever
-        </span>
-        <span class="featTableEffect">
-            <span>80% All First Specialisations (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>13 Nov 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Sgt. Knox</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Singular Focus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1990**Singular Focus (Sgt. Knox)**No matter the reason, we are here. Let's move on.<code>buff_upgrade,80,15959<br>buff_upgrade,80,15960,1<br>buff_upgrade,80,15960,2<br>buff_upgrade,80,15961,0</code></span>Singular Focus
-        </span>
-        <span class="featTableEffect">
-            <span>80% All Specialisations</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>13 Nov 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Turiel</span>
         </span>
         <span class="featTableIcon4">
