@@ -62,6 +62,28 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="kalix.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Kalix
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">&nbsp;</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Grand Revel - 5 February 2025</span>
+            </span>
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Reworked Champions
@@ -136,6 +158,31 @@ A list of champions that will be seeing reworks in upcoming events.
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Wintershield - 1 January 2025</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="ishi.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Ishi Snaggletooth Portrait Icon](images/ishi/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Ishi
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Kobold Fighter / Rogue</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Grand Revel - 5 February 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
