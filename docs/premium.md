@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1990**Feat**???: 1990</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Singular Focus Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 1990**Singular Focus**No matter the reason, we are here. Let's move on.<code>buff_upgrade,80,15959<br>buff_upgrade,80,15960,1<br>buff_upgrade,80,15960,2<br>buff_upgrade,80,15961,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 1990</span>
+            <span style="margin-left:15px">Singular Focus</span>
+            <span style="margin-left:15px">Sgt. Knox (80% All Specialisations)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -93,7 +94,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Herald of the World Tree Penelope Skin Portrait](images/premiums/skin_487.png)<span class="itemTooltipContents">ID: 487**Herald of the World Tree Penelope (Penelope)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_487.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_487-chwinga.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
+            <span class="tooltipHolder">![Herald of the World Tree Penelope Skin Portrait](images/premiums/skin_487.png)<span class="itemTooltipContents">ID: 487**Herald of the World Tree Penelope (Penelope)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_487.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_487-chwinga_override.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -404,7 +405,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Helldusk Karlach Skin Portrait](images/premiums/skin_499.png)<span class="itemTooltipContents">ID: 499**Helldusk Karlach (Karlach)**<img src="images/premiums/skin_499.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Helldusk Karlach Skin Portrait](images/premiums/skin_499.png)<span class="itemTooltipContents">ID: 499**Helldusk Karlach (Karlach)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_499.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_499-infernal_engine.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1118,7 +1119,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Grymforge Karlach Skin Portrait](images/premiums/skin_501.png)<span class="itemTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<img src="images/premiums/skin_501.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Grymforge Karlach Skin Portrait](images/premiums/skin_501.png)<span class="itemTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_501.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_501-infernal_engine.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

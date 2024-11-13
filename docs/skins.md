@@ -28,7 +28,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Herald of the World Tree Penelope Portrait](images/skin_portraits/heraldoftheworldtreepenelope.png)<span class="featTooltipContents">ID: 487**Herald of the World Tree Penelope (Penelope)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/heraldoftheworldtreepenelope.gif" alt="Herald of the World Tree Penelope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/heraldoftheworldtreepenelope-chwinga.gif" alt="Herald of the World Tree Penelope Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Herald of the World Tree Penelope Portrait](images/skin_portraits/heraldoftheworldtreepenelope.png)<span class="featTooltipContents">ID: 487**Herald of the World Tree Penelope (Penelope)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/heraldoftheworldtreepenelope.gif" alt="Herald of the World Tree Penelope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/heraldoftheworldtreepenelope-chwinga.gif" alt="Herald of the World Tree Penelope Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/heraldoftheworldtreepenelope-chwinga_override.gif" alt="Herald of the World Tree Penelope Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Herald of the World Tree Penelope
@@ -96,7 +96,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Helldusk Karlach Portrait](images/skin_portraits/hellduskkarlach.png)<span class="featTooltipContents">ID: 499**Helldusk Karlach (Karlach)**<img src="images/skin_models/hellduskkarlach.gif" alt="Helldusk Karlach Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Helldusk Karlach Portrait](images/skin_portraits/hellduskkarlach.png)<span class="featTooltipContents">ID: 499**Helldusk Karlach (Karlach)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/hellduskkarlach.gif" alt="Helldusk Karlach Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/hellduskkarlach-infernal_engine.gif" alt="Helldusk Karlach Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Helldusk Karlach
@@ -232,7 +232,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Grymforge Karlach Portrait](images/skin_portraits/grymforgekarlach.png)<span class="featTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<img src="images/skin_models/grymforgekarlach.gif" alt="Grymforge Karlach Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Grymforge Karlach Portrait](images/skin_portraits/grymforgekarlach.png)<span class="featTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/grymforgekarlach.gif" alt="Grymforge Karlach Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/grymforgekarlach-infernal_engine.gif" alt="Grymforge Karlach Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Grymforge Karlach
