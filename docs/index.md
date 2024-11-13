@@ -74,7 +74,7 @@ These are the event champions that are upcoming and all the information we know 
                 Kalix
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">&nbsp;</span>
+                <span class="indexChampionTableNoLink">Thri-Kreen (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Grand Revel - 5 February 2025</span>

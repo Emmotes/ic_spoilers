@@ -13,6 +13,7 @@
 
 # Kalix
 
+I have absolutely no idea who this is.
 
 # Basic Information
 
@@ -32,7 +33,7 @@ Kalix will be a new champion in the Grand Revel event on 5 February 2025.
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Thri-Kreen (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
