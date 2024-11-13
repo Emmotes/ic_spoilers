@@ -94,7 +94,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Herald of the World Tree Penelope Skin Portrait](images/premiums/skin_487.png)<span class="itemTooltipContents">ID: 487**Herald of the World Tree Penelope (Penelope)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_487.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_487-chwinga_override.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
+            <span class="tooltipHolder">![Herald of the World Tree Penelope Skin Portrait](images/premiums/skin_487.png)<span class="itemTooltipContents">ID: 487**Herald of the World Tree Penelope (Penelope)**<img src="images/premiums/skin_487.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
