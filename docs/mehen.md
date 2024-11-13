@@ -26,6 +26,214 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> When Mehen is in the formation, Farideh and Havilar become eligible for the current adventure, even if a Patron, Variant, or other restriction would say otherwise.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2181,
+    "flavour_text": "",
+    "description": {
+        "desc": "When $source is in the formation, Farideh and Havilar become eligible for the current adventure, even if a Patron, Variant, or other restriction would say otherwise."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "force_allow_hero",
+            "hero_ids": [
+                33,
+                56
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2182,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "all"
+            ],
+            "amount_func": "mult",
+            "stack_func": "per_other_stack_count",
+            "per_other_stack_count_upgrade_id": 16146,
+            "per_other_stack_count_effect_key_index": 0,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "show_bonus": true
+        },
+        {
+            "effect_string": "stacks_from_effect_key_stacks",
+            "effect_key_name": "mehen_grumpy_stack",
+            "stacks_on_trigger": "will_stack_manually"
+        },
+        {
+            "effect_string": "mehen_grumpy_stack",
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "hero_id==33",
+            "per_hero_targets": [
+                {
+                    "type": "adj"
+                }
+            ],
+            "post_process_expr": "min(1,input)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        },
+        {
+            "effect_string": "mehen_grumpy_stack",
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "hero_id==56",
+            "per_hero_targets": [
+                {
+                    "type": "slot_if_expr",
+                    "if_expr": "col<(base_col-1)"
+                }
+            ],
+            "post_process_expr": "min(1,input)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        },
+        {
+            "effect_string": "mehen_grumpy_stack",
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "hero_id==110",
+            "per_hero_targets": [
+                {
+                    "type": "col_top"
+                }
+            ],
+            "post_process_expr": "min(1,input)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        },
+        {
+            "effect_string": "mehen_grumpy_stack",
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "true",
+            "per_hero_targets": [
+                {
+                    "type": "slot_if_expr",
+                    "if_expr": "col<base_col"
+                }
+            ],
+            "post_process_expr": "as_int(input>=3)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        },
+        {
+            "effect_string": "mehen_grumpy_stack",
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "true",
+            "per_hero_targets": [
+                {
+                    "type": "slot_if_expr",
+                    "if_expr": "col>base_col"
+                }
+            ],
+            "post_process_expr": "as_int(input>=2)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        },
+        {
+            "effect_string": "mehen_grumpy_stack",
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "base_attack_cooldown",
+            "per_hero_targets": [
+                {
+                    "type": "adj"
+                }
+            ],
+            "post_process_expr": "as_int((input_as_double/num_targets)<=5)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        },
+        {
+            "effect_string": "mehen_grumpy_stack",
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`tiefling`)||HasTag(`dragonborn`)",
+            "per_hero_targets": [
+                {
+                    "type": "adj"
+                }
+            ],
+            "post_process_expr": "as_int(input>=2)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        },
+        {
+            "effect_string": "mehen_grumpy_stack",
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`tiefling`)||HasTag(`dragonborn`)",
+            "per_hero_targets": [
+                {
+                    "type": "slot_if_expr",
+                    "if_expr": "col==base_col"
+                }
+            ],
+            "post_process_expr": "as_int(input>=2)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Expose Weakness** (Guess)
 > Unknown.
 <details><summary><em>Raw Data</em></summary>
@@ -149,7 +357,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Formation
 
 <span class="formationBorder">
-    <svg xmlns="http://www.w3.org/2000/svg" id="Mehen" fill="#aaa" data-formationName="Mehen" data-campaignName="The Great Modron March" width="389" height="140"><circle cx="175" cy="45" r="15"/><circle cx="175" cy="85" r="15"/><circle cx="135" cy="25" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="125" r="15"/><circle cx="55" cy="25" r="15"/><circle cx="55" cy="105" r="15"/><circle cx="15" cy="45" r="15"/><circle cx="15" cy="85" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Mehen</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">The Great Modron March</text></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" id="Mehen" fill="#aaa" data-formationName="Mehen" data-campaignName="Wintershield" width="299" height="140"><circle cx="175" cy="45" r="15"/><circle cx="175" cy="85" r="15"/><circle cx="135" cy="25" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="125" r="15"/><circle cx="55" cy="25" r="15"/><circle cx="55" cy="105" r="15"/><circle cx="15" cy="45" r="15"/><circle cx="15" cy="85" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Mehen</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Wintershield</text></svg>
 </span>
 
 [Back to Top](#top)
