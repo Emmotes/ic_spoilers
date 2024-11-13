@@ -187,6 +187,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Golden Palm** (Guess)
 > Enemies that have been attacked by Stoki at any point in the current area drop 100% more gold when killed for each Focus Point she has, stacking additively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -221,7 +223,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "stoki_golden_palm",
             "off_when_benched": true,
             "broadcast_name": "stoki_debuffs_monster",
-            "debuff_before_damage": true,
+            "debuff_before_damage": false,
+            "debuff_on_attack_animation": true,
             "debuff_max_stacks": 1,
             "debuffing_attack_ids": [
                 42,
@@ -238,7 +241,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "stacks_on_reapply": false,
                     "manual_stacking": true,
                     "max_stacks": 1,
-                    "use_collection_source": true,
+                    "use_collection_source": false,
                     "stack_across_effects": false,
                     "update_expression_on_amount_changed": true,
                     "amount_updated_listeners": [
@@ -257,7 +260,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 1,
+        "default_bonus_index": 0,
         "retain_on_slot_changed": true
     }
 }
@@ -384,7 +387,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "is_buff_incoming_formation_abilities_target": false
     }
 }
 </pre>
