@@ -18,64 +18,10 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![XBox Giveaway Lae'zel's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Lae'zel's Champions of Renown Pack
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Persistent Lae'zel Skin Icon](images/exclusivities/skin_24192.png)<span class="featTooltipContents">ID: 454**Persistent Lae'zel (Lae'zel)**<img src="images/exclusivities/skin_24193.gif" alt="Persistent Lae'zel Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Persistent Lae'zel</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Snuggles the Sphynx Cat Familiar Icon](images/exclusivities/fam_210.png)<span class="featTooltipContents">ID: 210**Snuggles the Sphynx Cat**Even Makos eventually warmed up to him.<br><img src="images/exclusivities/fam_210.gif" alt="Snuggles the Sphynx Cat Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Snuggles the Sphynx Cat</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>07 August 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>14 August 2024</span>
-            </span>
-            <span class="postSeasonTableDateLate">
-                <span>14 November 2024 (Guess) (Late)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
                 ![7th Anniversary Giveaway Anniversary Celebration 2024 Icon](images/general/7th anniversary.png)**7th Anniversary Giveaway** - Anniversary Celebration 2024
             </span>
         </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
