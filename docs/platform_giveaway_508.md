@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-# XBox Giveaway
+# XBox Exclusive Giveaway
 
 Contents of an upcoming XBox exclusive platform giveaway have been spoiled.
 

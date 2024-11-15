@@ -1,10 +1,8 @@
 [Back to Main](index.md)
 
-# EGS (Guess) Giveaway
+# EGS (Guess) Exclusive Giveaway
 
 Contents of an upcoming EGS (Guess) exclusive platform giveaway have been spoiled.
-
-Please be aware that this is assumed to be for EGS because it has an `egs_catalog_item_id` value and no other platform id value - but that is by no means a guarantee that it will be an EGS giveaway. Just a very good indication.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 517</div>
 ### Grymforge Karlach Party Pack - 0 Platinum ($19.99)  

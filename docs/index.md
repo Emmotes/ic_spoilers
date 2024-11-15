@@ -191,8 +191,8 @@ A list of champions that will be seeing reworks in upcoming events.
 
 Miscellaneous spoilers with due dates.
 
-* [XBox Giveaway](xbox_giveaway_shadowheart.md) - 4 December 2024
-* [EGS (Guess) Giveaway](egs_giveaway_karlach.md) - 12 December 2024
+* [XBox Exclusive Giveaway](platform_giveaway_508.md) - 4 December 2024
+* [EGS (Guess) Exclusive Giveaway](platform_giveaway_517.md) - 12 December 2024
 * Emergence 10 - 22 January 2025
 * [New Champion Roles](new_champion_roles.md) - ???
 
