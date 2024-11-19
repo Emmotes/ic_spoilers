@@ -302,7 +302,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Call to Action** (Guess)
-> In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is 10% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or enemies left to defeat.
+> In non-boss areas, every time the area quest progresses there is a chance that you will just immediately complete the quest and move on to the next area. The maximum chance is 20% if the quest is one away from being completed but is greatly reduced based on the number of quest items left to collect or enemies left to defeat.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -315,7 +315,7 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "halsin_call_to_action,10",
+            "effect_string": "halsin_call_to_action,20",
             "use_computed_amount_for_description": true,
             "effect_cap_affects_description": true,
             "effect_cap": 10000
