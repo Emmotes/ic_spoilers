@@ -62,6 +62,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > Mehen gains a stack of Grumpy for each of the following checks that is met. He increases damage of all Champions in the formation by 100% for each stack of Grumpy he has, stacking multiplicatively.
+> - Adjacent to Farideh
+> - At least two columns behind Havilar
+> - At the top of the column
+> - At least three Champions in the column(s) in front of him
+> - At least two Champions in the column(s) behind him
+> - Adjacent to Champions with an average base attack cooldown of 5
+> - Adjacent to at least two Tiefling or Dragonborn Champions
+> - At least one other Tiefling or Dragonborn in his column
+> - Within 2 slots of Champions with at least 4 unique classes
+> - Within 2 slots of Champions with at least 6 unique roles
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
