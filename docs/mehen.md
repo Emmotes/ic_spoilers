@@ -61,7 +61,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> 
+> Mehen gains a stack of Grumpy for each of the following checks that is met. He increases damage of all Champions in the formation by 100% for each stack of Grumpy he has, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -69,18 +71,19 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2182,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Mehen gains a stack of Grumpy for each of the following checks that is met. He increases damage of all Champions in the formation by 100% for each stack of Grumpy he has, stacking multiplicatively.^^$stacks_from_effect_key_stacks_desc"
     },
     "effect_keys": [
         {
-            "effect_string": "hero_dps_multiplier_mult,100",
-            "targets": [
-                "all"
-            ],
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "effect_string": "global_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(16146,0)",
             "amount_func": "mult",
             "stack_func": "per_other_stack_count",
             "per_other_stack_count_upgrade_id": 16146,
-            "per_other_stack_count_effect_key_index": 0,
+            "per_other_stack_count_effect_key_index": 2,
             "amount_updated_listeners": [
                 "slot_changed"
             ],
@@ -104,7 +107,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "post_process_expr": "min(1,input)",
             "amount_updated_listeners": [
                 "slot_changed"
-            ]
+            ],
+            "description": "Adjacent to Farideh",
+            "index": 1
         },
         {
             "effect_string": "mehen_grumpy_stack",
@@ -120,7 +125,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "post_process_expr": "min(1,input)",
             "amount_updated_listeners": [
                 "slot_changed"
-            ]
+            ],
+            "description": "At least two columns behind Havilar",
+            "index": 2
         },
         {
             "effect_string": "mehen_grumpy_stack",
@@ -135,7 +142,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "post_process_expr": "min(1,input)",
             "amount_updated_listeners": [
                 "slot_changed"
-            ]
+            ],
+            "description": "At the top of the column",
+            "index": 3
         },
         {
             "effect_string": "mehen_grumpy_stack",
@@ -151,7 +160,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "post_process_expr": "as_int(input>=3)",
             "amount_updated_listeners": [
                 "slot_changed"
-            ]
+            ],
+            "description": "At least three Champions in the column(s) in front of him",
+            "index": 4
         },
         {
             "effect_string": "mehen_grumpy_stack",
@@ -167,7 +178,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "post_process_expr": "as_int(input>=2)",
             "amount_updated_listeners": [
                 "slot_changed"
-            ]
+            ],
+            "description": "At least two Champions in the column(s) behind him",
+            "index": 5
         },
         {
             "effect_string": "mehen_grumpy_stack",
@@ -179,10 +192,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "type": "adj"
                 }
             ],
-            "post_process_expr": "as_int((input_as_double/num_targets)<=5)",
+            "post_process_expr": "as_int((input_as_double/max(1,num_targets))<=5)",
             "amount_updated_listeners": [
                 "slot_changed"
-            ]
+            ],
+            "description": "Adjacent to Champions with an average base attack cooldown of 5",
+            "index": 6
         },
         {
             "effect_string": "mehen_grumpy_stack",
@@ -197,7 +212,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "post_process_expr": "as_int(input>=2)",
             "amount_updated_listeners": [
                 "slot_changed"
-            ]
+            ],
+            "description": "Adjacent to at least two Tiefling or Dragonborn Champions",
+            "index": 7
         },
         {
             "effect_string": "mehen_grumpy_stack",
@@ -213,7 +230,130 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "post_process_expr": "as_int(input>=2)",
             "amount_updated_listeners": [
                 "slot_changed"
-            ]
+            ],
+            "description": "At least one other Tiefling or Dragonborn in his column",
+            "index": 8
+        },
+        {
+            "effect_string": "mehen_grumpy_stack",
+            "amount_func": "add",
+            "stack_func": "per_unique_class",
+            "target": "distance",
+            "distance": 2,
+            "self": false,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "post_process_expr": "as_int(input>=4)",
+            "description": "Within 2 slots of Champions with at least 4 unique classes",
+            "index": 9
+        },
+        {
+            "effect_string": "mehen_grumpy_stack",
+            "amount_func": "add",
+            "stack_func": "per_unique_role",
+            "target": "distance",
+            "distance": 2,
+            "self": false,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "post_process_expr": "as_int(input>=6)",
+            "description": "Within 2 slots of Champions with at least 6 unique roles",
+            "index": 10
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Intimidating Presence** (Guess)
+> When a monster tries to attack any Champion in the formation for the first time, the damage is prevented and the monster is stunned for 5 seconds and takes 200% more damage during this time. If the attacked Champion is Havilar, the duration is 10 seconds instead.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2183,
+    "flavour_text": "",
+    "description": {
+        "desc": "When a monster tries to attack any Champion in the formation for the first time, the damage is prevented and the monster is stunned for 5 seconds and takes 200% more damage during this time. If the attacked Champion is Havilar, the duration is 10 seconds instead."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "mehen_intimidating_presence",
+            "havilar_hero_id": 56,
+            "stun_duration": 5,
+            "debuff": {
+                "effect_string": "increase_monster_damage,200",
+                "active_graphic_id": 25440,
+                "active_graphic_y": -20,
+                "for_time": 5
+            },
+            "deal_no_damage_effect": {
+                "effect_string": "next_attack_deals_no_damage"
+            }
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Mehen increases Gold Find of the formation by 100% for every stack of Grumpy that he has, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2184,
+    "flavour_text": "",
+    "description": {
+        "desc": "Mehen increases Gold Find of the formation by 100% for every stack of Grumpy that he has, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack_amount,100"
+        },
+        {
+            "effect_string": "gold_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(16148,0)",
+            "amount_func": "mult",
+            "stack_func": "per_other_stack_count",
+            "per_other_stack_count_upgrade_id": 16146,
+            "per_other_stack_count_effect_key_index": 2,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -235,47 +375,38 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Expose Weakness** (Guess)
-> Unknown.
+> When a Champion adjacent to Mehen applies a stun, knockback, slow, or root, the enemy takes 1000% more damage for 10 seconds. If Farideh is adjacent to Mehen, she prioritizes attacking those enemies. This debuff does not stack, but the duration is extended if it applies again before it expires.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25291,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Formation_MehenExposeWeakness",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Intimidating Presence** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 25292,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Formation_MehenIntimidatingPresence",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2185,
+    "flavour_text": "",
+    "description": {
+        "desc": "When a Champion adjacent to Mehen applies a stun, knockback, slow, or root, the enemy takes 1000% more damage for 10 seconds. If Farideh is adjacent to Mehen, she prioritizes attacking those enemies. This debuff does not stack, but the duration is extended if it applies again before it expires."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "mehen_expose_weakness",
+            "debuff_duration": 10,
+            "debuff": {
+                "effect_string": "increase_monster_damage,1000",
+                "active_graphic_id": 25439,
+                "active_graphic_y": -50,
+                "for_time": 10
+            }
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
