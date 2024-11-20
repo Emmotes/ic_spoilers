@@ -152,7 +152,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Shadowheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/featicons/unknown.png)Selûne's Blessing
+            ![Empty Placeholder](images/general/unknown.png)Selûne's Blessing
         </span>
         <span class="featTableEffect">
             <span>Change Alignment to Lawful Good</span>
