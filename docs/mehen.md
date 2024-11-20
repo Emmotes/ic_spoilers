@@ -23,6 +23,47 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
+# Attacks
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Lightning Breath** (Guess)
+> Mehen leaps forward and breaths a cone of lightning that damages all enemies on the screen. If he hits more than 5 enemies, or one of the enemies he hits is a boss, then he stuns the enemies for 10 seconds.  
+> Cooldown: 180s (Cap 45s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 826,
+    "name": "Lightning Breath",
+    "description": "",
+    "long_description": "Mehen leaps forward and breaths a cone of lightning that damages all enemies on the screen. If he hits more than 5 enemies, or one of the enemies he hits is a boss, then he stuns the enemies for 10 seconds.",
+    "graphic_id": 10502,
+    "target": "all",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 180,
+    "animations": [
+        {
+            "type": "mehen_ultimate",
+            "jump_to_target": true,
+            "target_offset_x": -300
+        }
+    ],
+    "tags": [
+        "ranged",
+        "cone",
+        "ultimate"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -35,7 +76,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2181,
     "flavour_text": "",
     "description": {
-        "desc": "When $source is in the formation, Farideh and Havilar become eligible for the current adventure, even if a Patron, Variant, or other restriction would say otherwise."
+        "desc": "When Mehen is in the formation, Farideh and Havilar become eligible for the current adventure, even if a Patron, Variant, or other restriction would say otherwise."
     },
     "effect_keys": [
         {
@@ -48,8 +89,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 10496,
+    "large_graphic_id": 10492,
     "properties": {
         "owner_use_outgoing_description": true
     }
@@ -81,7 +122,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2182,
     "flavour_text": "",
     "description": {
-        "desc": "Mehen gains a stack of Grumpy for each of the following checks that is met. He increases damage of all Champions in the formation by 100% for each stack of Grumpy he has, stacking multiplicatively.^^$stacks_from_effect_key_stacks_desc"
+        "desc": "Mehen gains a stack of Grumpy for each of the following checks that is met. He increases damage of all Champions in the formation by $amount% for each stack of Grumpy he has, stacking multiplicatively.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^$stacks_from_effect_key_stacks_desc"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -118,7 +167,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "description": "Adjacent to Farideh",
+            "condition_description": "Adjacent to Farideh",
             "index": 1
         },
         {
@@ -136,7 +185,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "description": "At least two columns behind Havilar",
+            "condition_description": "At least two columns behind Havilar",
             "index": 2
         },
         {
@@ -153,7 +202,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "description": "At the top of the column",
+            "condition_description": "At the top of the column",
             "index": 3
         },
         {
@@ -171,7 +220,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "description": "At least three Champions in the column(s) in front of him",
+            "condition_description": "At least three Champions in the column(s) in front of him",
             "index": 4
         },
         {
@@ -189,7 +238,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "description": "At least two Champions in the column(s) behind him",
+            "condition_description": "At least two Champions in the column(s) behind him",
             "index": 5
         },
         {
@@ -202,11 +251,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "type": "adj"
                 }
             ],
-            "post_process_expr": "as_int((input_as_double/max(1,num_targets))<=5)",
+            "post_process_expr": "as_int((num_targets > 0) && (input_as_double/max(1,num_targets))<=5)",
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "description": "Adjacent to Champions with an average base attack cooldown of 5",
+            "condition_description": "Adjacent to Champions with an average base attack cooldown of 5",
             "index": 6
         },
         {
@@ -221,9 +270,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "post_process_expr": "as_int(input>=2)",
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "hero_tags_changed"
             ],
-            "description": "Adjacent to at least two Tiefling or Dragonborn Champions",
+            "condition_description": "Adjacent to at least two Tiefling or Dragonborn Champions",
             "index": 7
         },
         {
@@ -239,9 +289,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "post_process_expr": "as_int(input>=2)",
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "hero_tags_changed"
             ],
-            "description": "At least one other Tiefling or Dragonborn in his column",
+            "condition_description": "At least one other Tiefling or Dragonborn in his column",
             "index": 8
         },
         {
@@ -255,7 +306,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "slot_changed"
             ],
             "post_process_expr": "as_int(input>=4)",
-            "description": "Within 2 slots of Champions with at least 4 unique classes",
+            "condition_description": "Within 2 slots of Champions with at least 4 unique classes",
             "index": 9
         },
         {
@@ -269,13 +320,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "slot_changed"
             ],
             "post_process_expr": "as_int(input>=6)",
-            "description": "Within 2 slots of Champions with at least 6 unique roles",
+            "condition_description": "Within 2 slots of Champions with at least 6 unique roles",
             "index": 10
+        },
+        {
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_trigger_expr": "AppendToSaveStat(`mehen_grumpy_areas`, false, trigger_count * as_int(GetUpgradeStacks(16146, 1) >= 10))"
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 10499,
+    "large_graphic_id": 10495,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -300,15 +355,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2183,
     "flavour_text": "",
     "description": {
-        "desc": "When a monster tries to attack any Champion in the formation for the first time, the damage is prevented and the monster is stunned for 5 seconds and takes 200% more damage during this time. If the attacked Champion is Havilar, the duration is 10 seconds instead."
+        "desc": "When a monster tries to attack any Champion in the formation for the first time, the damage is prevented and the monster is stunned for $stun_duration seconds and takes $amount% more damage during this time. If the attacked Champion is Havilar, the duration is $buffed_stun_duration seconds instead."
     },
     "effect_keys": [
         {
-            "effect_string": "mehen_intimidating_presence",
+            "effect_string": "mehen_intimidating_presence,200",
             "havilar_hero_id": 56,
             "stun_duration": 5,
+            "buffed_stun_duration": 10,
             "debuff": {
-                "effect_string": "increase_monster_damage,200",
+                "effect_string": "increase_monster_damage,0",
+                "amount_expr": "upgrade_amount(16147,0)",
                 "active_graphic_id": 25440,
                 "active_graphic_y": -20,
                 "for_time": 5
@@ -319,8 +376,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25292,
+    "large_graphic_id": 25290,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -347,7 +404,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2184,
     "flavour_text": "",
     "description": {
-        "desc": "Mehen increases Gold Find of the formation by 100% for every stack of Grumpy that he has, stacking multiplicatively."
+        "desc": "Mehen increases Gold Find of the formation by $amount% for every stack of Grumpy that he has, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -367,8 +424,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 10497,
+    "large_graphic_id": 10493,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -393,14 +450,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2185,
     "flavour_text": "",
     "description": {
-        "desc": "When a Champion adjacent to Mehen applies a stun, knockback, slow, or root, the enemy takes 1000% more damage for 10 seconds. If Farideh is adjacent to Mehen, she prioritizes attacking those enemies. This debuff does not stack, but the duration is extended if it applies again before it expires."
+        "desc": "When a Champion adjacent to Mehen applies a stun, knockback, slow, or root, the enemy takes $amount% more damage for $debuff_duration seconds. If Farideh is adjacent to Mehen, she prioritizes attacking those enemies. This debuff does not stack, but the duration is extended if it applies again before it expires."
     },
     "effect_keys": [
         {
-            "effect_string": "mehen_expose_weakness",
+            "effect_string": "mehen_expose_weakness,1000",
             "debuff_duration": 10,
             "debuff": {
-                "effect_string": "increase_monster_damage,1000",
+                "effect_string": "increase_monster_damage,0",
+                "amount_expr": "upgrade_amount(16149,0)",
                 "active_graphic_id": 25439,
                 "active_graphic_y": -50,
                 "for_time": 10
@@ -408,8 +466,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25291,
+    "large_graphic_id": 25289,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -427,23 +485,49 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Father Figure** (Guess)
-> Unknown.
+**Specialisation: Fighting Force** (Guess)
+> Mehen increases the effect of Grumpy by 100% for each DPS Champion in the formation, stacking multiplicatively and applying to the post-stack value.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25293,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_MehenFatherFigure",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2186,
+    "flavour_text": "",
+    "description": {
+        "desc": "Mehen increases the effect of Grumpy by $amount% for each DPS Champion in the formation, stacking multiplicatively and applying to the post-stack value."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,16146,1",
+            "amount_expr": "upgrade_amount(16150,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "as_int(HasTag(`dps`))",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks___2"
     }
 }
 </pre>
@@ -452,23 +536,125 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Fighting Force** (Guess)
-> Unknown.
+**Specialisation: Father Figure** (Guess)
+> Mehen increases the effect of Grumpy by 150% for each Champion in the formation who is 20 years old or younger, stacking multiplicatively and applying to the post-stack value.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25294,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y8/Icon_Specialization_MehenFightingForce",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2187,
+    "flavour_text": "",
+    "description": {
+        "desc": "Mehen increases the effect of Grumpy by $amount% for each Champion in the formation who is 20 years old or younger, stacking multiplicatively and applying to the post-stack value."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,150",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,16146,1",
+            "amount_expr": "upgrade_amount(16151,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "age<=20",
+            "per_hero_targets": [
+                {
+                    "type": "except_heroes",
+                    "hero_ids": [
+                        146
+                    ],
+                    "only_in_formation": true
+                }
+            ],
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks___2"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Mehen increases the effect of Grumpy by 300% for each Dragonborn Champion in the formation, stacking multiplicatively and applying to the post-stack value. Farideh and Havilar both gain the Dragonborn species when this spec is chosen.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2188,
+    "flavour_text": "",
+    "description": {
+        "desc": "Mehen increases the effect of Grumpy by $amount% for each Dragonborn Champion in the formation, stacking multiplicatively and applying to the post-stack value. Farideh and Havilar both gain the Dragonborn species when this spec is chosen."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,300",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,16146,1",
+            "amount_expr": "upgrade_amount(16152,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "as_int(HasTag(`dragonborn`))",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "add_hero_tags,0,dragonborn",
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_ids",
+                    "hero_ids": [
+                        33,
+                        56
+                    ]
+                }
+            ],
+            "hide_amount_rate": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks___2"
     }
 }
 </pre>
