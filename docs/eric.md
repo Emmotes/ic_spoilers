@@ -114,8 +114,8 @@ Eric will be a new champion in the Wintershield event on 1 January 2025.
 {
     "id": 824,
     "name": "Forceful Bash",
-    "description": "Eric hits the closest enemy with his shield, dealing one hit and knocking them back a short distance.",
-    "long_description": "",
+    "description": "Eric knocks back the closest enemy with a hit from his shield.",
+    "long_description": "Eric hits the closest enemy with his shield, dealing one hit and knocking them back a short distance.",
     "graphic_id": 0,
     "target": "front",
     "num_targets": 1,
@@ -269,7 +269,8 @@ Eric will be a new champion in the Wintershield event on 1 January 2025.
             "effect_string": "temp_health_mult,100",
             "targets": [
                 "all"
-            ]
+            ],
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
@@ -835,7 +836,7 @@ Unknown.
 > Eric starts in the formation. He can't be moved or removed.  
 > In area 126 or higher, no Tanking Champions other than Eric can be added to the formation, and any other Tanking Champions are automatically removed.  
 > A transformed Lukyon joins the formation. He doesn't do much in his cursed form.  
-> Getting to know Eric: Knock back abilities are stronger when Eric is in the formation. Take advantage of that to protect your non-tanking Champions at the front!
+> Getting to Know Eric: Knock back abilities are stronger when Eric is in the formation. Take advantage of that to protect your non-tanking Champions at the front!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![The Wrath of Venger Icon](images/eric/25270.png) **Variant 3: The Wrath of Venger** (Complete Area 175)
