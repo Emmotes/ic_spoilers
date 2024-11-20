@@ -152,7 +152,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Shadowheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)Selûne's Blessing
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 1980**Selûne's Blessing (Shadowheart)**You can't cast a shadow without some light.<code>change_hero_alignment_tag,lawful,good</code></span>Selûne's Blessing
         </span>
         <span class="featTableEffect">
             <span>Change Alignment to Lawful Good</span>
