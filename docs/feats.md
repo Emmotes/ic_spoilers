@@ -149,6 +149,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Shadowheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/featicons/unknown.png)Selûne's Blessing
+        </span>
+        <span class="featTableEffect">
+            <span>Change Alignment to Lawful Good</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Regis</span>
         </span>
         <span class="featTableIcon4">
