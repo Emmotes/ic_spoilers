@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Turiel</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Platinum Devotion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1976**Platinum Devotion (Turiel)**Do you have a moment to talk about the Platinum Dragon?<code>buff_upgrade,80,10657</code></span>Platinum Devotion
-        </span>
-        <span class="featTableEffect">
-            <span>80% Embodiment of the Law</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>20 Nov 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Virgil</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Extra Missiles Icon](images/featicons/virgilmagicmissiles.png)<span class="featTooltipContents">ID: 1977**Extra Missiles (Virgil)**There's nothing wrong with being a little extra.<code>add_attack_targets,2</code></span>Extra Missiles
-        </span>
-        <span class="featTableEffect">
-            <span>+2 Base Attack Targets</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>20 Nov 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Calliope</span>
         </span>
         <span class="featTableIcon4">
@@ -271,7 +237,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Shadowheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Shar's Blessing Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Blessing (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<code>todo<br>DevNote: see details in feats doc row 1961</code></span>Shar's Blessing
+            ![Shar's Veil Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<code>todo<br>DevNote: see details in feats doc row 1961</code></span>Shar's Veil
         </span>
         <span class="featTableEffect">
             <span>todo</span>

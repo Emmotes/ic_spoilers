@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Herald of Lore Turiel Portrait](images/skin_portraits/heraldofloreturiel.png)<span class="featTooltipContents">ID: 488**Herald of Lore Turiel (Turiel)**<img src="images/skin_models/heraldofloreturiel.gif" alt="Herald of Lore Turiel Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Herald of Lore Turiel
-        </span>
-        <span class="skinTableSource">
-            Herald of Lore Turiel Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            20 Nov 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Herald of Waterdeep Virgil Portrait](images/skin_portraits/heraldofwaterdeepvirgil.png)<span class="featTooltipContents">ID: 489**Herald of Waterdeep Virgil (Virgil)**<img src="images/skin_models/heraldofwaterdeepvirgil.gif" alt="Herald of Waterdeep Virgil Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Herald of Waterdeep Virgil
-        </span>
-        <span class="skinTableSource">
-            Herald of Waterdeep Virgil Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            20 Nov 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Goblin Glitch Calliope Portrait](images/skin_portraits/goblinglitchcalliope.png)<span class="featTooltipContents">ID: 483**Goblin Glitch Calliope (Calliope)**<img src="images/skin_models/goblinglitchcalliope.gif" alt="Goblin Glitch Calliope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -55,23 +21,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableCost">
             1,680p
-        </span>
-        <span class="skinTableDate">
-            27 Nov 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Helldusk Karlach Portrait](images/skin_portraits/hellduskkarlach.png)<span class="featTooltipContents">ID: 499**Helldusk Karlach (Karlach)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/hellduskkarlach.gif" alt="Helldusk Karlach Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/hellduskkarlach-infernal_engine.gif" alt="Helldusk Karlach Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Helldusk Karlach
-        </span>
-        <span class="skinTableSource">
-            Champions of Renown: Year 7 All Star Pack
-        </span>
-        <span class="skinTableCost">
-            8,000p
         </span>
         <span class="skinTableDate">
             27 Nov 2024
@@ -279,6 +228,159 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             26 Dec 2024
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 506**Glasswork Golem Artemis (Artemis)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Glasswork Golem Artemis
+        </span>
+        <span class="skinTableSource">
+            Glasswork Golem Artemis Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            01 Jan 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 505**Stone Golem Eric (Eric)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Stone Golem Eric
+        </span>
+        <span class="skinTableSource">
+            Stone Golem Eric Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            01 Jan 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 507**Crystal Titan Mehen (Mehen)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Crystal Titan Mehen
+        </span>
+        <span class="skinTableSource">
+            Crystal Titan Mehen Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            08 Jan 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 508**Magen Baeloth (Baeloth)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Magen Baeloth
+        </span>
+        <span class="skinTableSource">
+            Magen Baeloth Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            08 Jan 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 509**Iron Golem Barrowin (Barrowin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Iron Golem Barrowin
+        </span>
+        <span class="skinTableSource">
+            Iron Golem Barrowin Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            15 Jan 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 510**Magen Imoen (Imoen)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Magen Imoen
+        </span>
+        <span class="skinTableSource">
+            Magen Imoen Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            15 Jan 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 512**Autognome Stoki (Stoki)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Autognome Stoki
+        </span>
+        <span class="skinTableSource">
+            Autognome Stoki Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            22 Jan 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 511**Stone Golem Diana (Diana)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Stone Golem Diana
+        </span>
+        <span class="skinTableSource">
+            Stone Golem Diana Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            22 Jan 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 513**Android Kent (Kent)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Android Kent
+        </span>
+        <span class="skinTableSource">
+            Android Kent Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            29 Jan 2025
         </span>
     </span>
     <span class="skinTableRow">
