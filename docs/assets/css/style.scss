@@ -71,7 +71,7 @@ code{
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	width: 234px;
+	width: 226px;
 	height: 100%;
 	margin: 0px;
 }
@@ -79,8 +79,16 @@ code{
 	border-right: 1px solid black;
 	background-color: var(--EerieBlack);
 }
-.featTableSource,.featTableChampion,.featTableDate {
+.featTableChampion {
 	width: 92px;
+	padding-left: 8px;
+}
+.featTableSource {
+	width: 102px;
+	padding-left: 8px;
+}
+.featTableDate {
+	width: 76px;
 	padding-left: 8px;
 }
 .featTableDate {
@@ -93,13 +101,14 @@ code{
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	width: 301px;
+	width: 307px;
 	height: 100%;
 	margin: 0px;
 	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 	padding: 0 1px 0 8px;
+	text-wrap: balance;
 }
 .featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5 {
 	position: relative;

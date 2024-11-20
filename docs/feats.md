@@ -226,7 +226,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Stat: +2 Constitution</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 10?</span>
         </span>
         <span class="featTableDate">
             <span>22 Jan 2025</span>
@@ -243,7 +243,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>120% Self DPS</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 10?</span>
         </span>
         <span class="featTableDate">
             <span>22 Jan 2025</span>
@@ -260,7 +260,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>todo</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 10?</span>
         </span>
         <span class="featTableDate">
             <span>22 Jan 2025</span>
@@ -294,7 +294,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>80% Archmage's Insight</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Celebration?</span>
         </span>
         <span class="featTableDate">
             <span>12 Mar 2025</span>

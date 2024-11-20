@@ -119,7 +119,7 @@ Please be aware that the developers recently removed most future skins from the 
             Potent Gale
         </span>
         <span class="skinTableSource">
-            ???
+            Winterfest Celebration (Guess)
         </span>
         <span class="skinTableCost">
             ???
