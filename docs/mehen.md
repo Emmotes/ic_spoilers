@@ -17,7 +17,7 @@ Mehen's life changed three times: once when he was exiled from the dragonborn st
 
 # Changes
 
-Mehen will be a reworked champion in the Wintershield event on 1 January 2025.
+Mehen will be a reworked champion in the Wintershield event on 8 January 2025 (expected a week after event start due to the Worst the Wait event augment).
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 

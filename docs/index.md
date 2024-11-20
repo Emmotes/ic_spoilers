@@ -131,7 +131,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Dragonborn Fighter of Brimstone Angels</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Wintershield - 1 January 2025</span>
+                <span class="indexChampionTableNoLink">Wintershield - 8 January 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
