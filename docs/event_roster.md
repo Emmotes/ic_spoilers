@@ -12,6 +12,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span class="eventRosterHolder">
 <span class="eventRosterChampion" id="dhadius" style="background-image:url(images/portraits/dhadius.png)">Dhadius (5)</span>
+<span class="eventRosterChampion" id="regis" style="background-image:url(images/portraits/regis.png)">Regis (2)</span>
 <span class="eventRosterChampion" id="warden" style="background-image:url(images/portraits/warden.png)">Warden (11)</span>
 <span class="eventRosterChampion" id="krull" style="background-image:url(images/portraits/krull.png)">Krull (6)</span>
 <span class="eventRosterChampion" id="lucius" style="background-image:url(images/portraits/lucius.png)">Lucius (7)</span>
@@ -50,6 +51,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span class="eventRosterHolder">
 <span class="eventRosterChampion" id="birdsong" style="background-image:url(images/portraits/birdsong.png)">Birdsong (9)</span>
+<span class="eventRosterChampion" id="kthriss" style="background-image:url(images/portraits/kthriss.png)">K'thriss (1)</span>
 <span class="eventRosterChampion" id="paultin" style="background-image:url(images/portraits/paultin.png)">Paultin (4)</span>
 <span class="eventRosterChampion" id="havilar" style="background-image:url(images/portraits/havilar.png)">Havilar (10)</span>
 <span class="eventRosterChampion" id="hewmaan" style="background-image:url(images/portraits/hewmaan.png)">Hew Maan (8)</span>
@@ -84,10 +86,8 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="regis" style="background-image:url(images/portraits/regis.png)">Regis (2)</span>
 <span class="eventRosterChampion" id="strix" style="background-image:url(images/portraits/strix.png)">Strix (11)</span>
 <span class="eventRosterChampion" id="cattibrie" style="background-image:url(images/portraits/cattibrie.png)">Catti-brie (7)</span>
-<span class="eventRosterChampion" id="kthriss" style="background-image:url(images/portraits/kthriss.png)">K'thriss (1)</span>
 <span class="eventRosterChampion" id="rosie" style="background-image:url(images/portraits/rosie.png)">Rosie (10)</span>
 <span class="eventRosterChampion" id="spurt" style="background-image:url(images/portraits/spurt.png)">Spurt (3)</span>
 <span class="eventRosterChampion" id="briv" style="background-image:url(images/portraits/briv.png)">Briv (5)</span>
