@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 235**Sharran Weasel**<img src="images/familiars/sharranweasel.gif" alt="Sharran Weasel Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Sharran Weasel Portrait](images/familiars/sharranweasel.png)<span class="featTooltipContents">ID: 235**Sharran Weasel**<img src="images/familiars/sharranweasel.gif" alt="Sharran Weasel Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Sharran Weasel
@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 238**Skystrike the Baby Griffon**<img src="images/familiars/skystrikethebabygriffon.gif" alt="Skystrike the Baby Griffon Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Skystrike the Baby Griffon Portrait](images/familiars/skystrikethebabygriffon.png)<span class="featTooltipContents">ID: 238**Skystrike the Baby Griffon**<img src="images/familiars/skystrikethebabygriffon.gif" alt="Skystrike the Baby Griffon Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Skystrike the Baby Griffon
