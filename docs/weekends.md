@@ -8,7 +8,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 
 | Weekend | Date | #1 | #2 | #3 | #4 | #5 | Reward |
 |---|--:|---|---|---|---|---|---|
-| Dhampiric | 22 Nov | **Widdle** | Tyril | Bruenor | Bobby | Valentine | Golden Epic |
 | Extra Defensive | 29 Nov | **Sentry** | Hitch | Virgil | Diana | Jamilah | Golden Epic |
 | Feral Moon | 06 Dec | **Halsin** | Celeste | Tyril | Lucius | Krull | Golden Epic |
 | Magical Secrets | 13 Dec | **Stoki** | Bruenor | Arkhan | Dhadius | Regis | Golden Epic |
