@@ -215,7 +215,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 498**Yule Log Nordom (Nordom)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Yule Log Nordom Portrait](images/skin_portraits/yulelognordom.png)<span class="featTooltipContents">ID: 498**Yule Log Nordom (Nordom)**<img src="images/skin_models/yulelognordom.gif" alt="Yule Log Nordom Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Yule Log Nordom
