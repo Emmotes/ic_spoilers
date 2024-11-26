@@ -1130,7 +1130,7 @@ input[type="checkbox"]:checked::before {
 }
 .weekendTableContentBlock {
 	display: grid;
-	grid-template-columns: 1fr 2fr;
+	grid-template-columns: minmax(0,1fr) 2fr;
 	flex-grow: 1;
 }
 .weekendTableReward {
@@ -1139,9 +1139,9 @@ input[type="checkbox"]:checked::before {
 }
 .weekendTableChampions {
 	display: grid;
-	grid-template-columns: repeat(5, 1fr);
+	grid-template-columns: repeat(5, minmax(0,1fr));
 	padding-bottom: 5px;
-	flex-grow: 1;
+	min-width: 340px;
 }
 .weekendTableChampion {
 	display: flex;
