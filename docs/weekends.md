@@ -31,19 +31,19 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 </span>
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/virgil.png'">
-                        Virgil
+                        <span class="weekendTableChampionNameplate">Virgil</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/hitch.png'">
-                        Hitch
+                        <span class="weekendTableChampionNameplate">Hitch</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/jamilah.png'">
-                        Jamilah
+                        <span class="weekendTableChampionNameplate">Jamilah</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
-                        Diana
+                        <span class="weekendTableChampionNameplate">Diana</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/sentry.png'">
-                        Sentry
+                        <span class="weekendTableChampionNameplate">Sentry</span>
                     </span>
                 </span>
             </span>
@@ -73,19 +73,19 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 </span>
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/halsin.png'">
-                        Halsin
+                        <span class="weekendTableChampionNameplate">Halsin</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        Celeste
+                        <span class="weekendTableChampionNameplate">Celeste</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
-                        Tyril
+                        <span class="weekendTableChampionNameplate">Tyril</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/lucius.png'">
-                        Lucius
+                        <span class="weekendTableChampionNameplate">Lucius</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/krull.png'">
-                        Krull
+                        <span class="weekendTableChampionNameplate">Krull</span>
                     </span>
                 </span>
             </span>
@@ -115,19 +115,19 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 </span>
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/stoki.png'">
-                        Stoki
+                        <span class="weekendTableChampionNameplate">Stoki</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        Bruenor
+                        <span class="weekendTableChampionNameplate">Bruenor</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        Arkhan
+                        <span class="weekendTableChampionNameplate">Arkhan</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/dhadius.png'">
-                        Dhadius
+                        <span class="weekendTableChampionNameplate">Dhadius</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/regis.png'">
-                        Regis
+                        <span class="weekendTableChampionNameplate">Regis</span>
                     </span>
                 </span>
             </span>
@@ -157,19 +157,19 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 </span>
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/shadowheart.png'">
-                        Shadowheart
+                        <span class="weekendTableChampionNameplate">Shadowheart</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        Nayeli
+                        <span class="weekendTableChampionNameplate">Nayeli</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        Makos
+                        <span class="weekendTableChampionNameplate">Makos</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/warduke.png'">
-                        Warduke
+                        <span class="weekendTableChampionNameplate">Warduke</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/talin.png'">
-                        Talin
+                        <span class="weekendTableChampionNameplate">Talin</span>
                     </span>
                 </span>
             </span>
@@ -199,19 +199,19 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 </span>
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/astarion.png'">
-                        Astarion
+                        <span class="weekendTableChampionNameplate">Astarion</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        Calliope
+                        <span class="weekendTableChampionNameplate">Calliope</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/jamilah.png'">
-                        Jamilah
+                        <span class="weekendTableChampionNameplate">Jamilah</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/kas.png'">
-                        Kas
+                        <span class="weekendTableChampionNameplate">Kas</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/nixie.png'">
-                        Nixie
+                        <span class="weekendTableChampionNameplate">Nixie</span>
                     </span>
                 </span>
             </span>
@@ -241,19 +241,19 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 </span>
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/eric.png'">
-                        Eric
+                        <span class="weekendTableChampionNameplate">Eric</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        Calliope
+                        <span class="weekendTableChampionNameplate">Calliope</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/jamilah.png'">
-                        Jamilah
+                        <span class="weekendTableChampionNameplate">Jamilah</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/presto.png'">
-                        Presto
+                        <span class="weekendTableChampionNameplate">Presto</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
-                        Diana
+                        <span class="weekendTableChampionNameplate">Diana</span>
                     </span>
                 </span>
             </span>
@@ -283,19 +283,19 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 </span>
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/mehen.png'">
-                        Mehen
+                        <span class="weekendTableChampionNameplate">Mehen</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        Celeste
+                        <span class="weekendTableChampionNameplate">Celeste</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        Makos
+                        <span class="weekendTableChampionNameplate">Makos</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/havilar.png'">
-                        Havilar
+                        <span class="weekendTableChampionNameplate">Havilar</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/farideh.png'">
-                        Farideh
+                        <span class="weekendTableChampionNameplate">Farideh</span>
                     </span>
                 </span>
             </span>
@@ -325,19 +325,19 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 </span>
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/wyll.png'">
-                        Wyll
+                        <span class="weekendTableChampionNameplate">Wyll</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        Bruenor
+                        <span class="weekendTableChampionNameplate">Bruenor</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        Asharra
+                        <span class="weekendTableChampionNameplate">Asharra</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/astarion.png'">
-                        Astarion
+                        <span class="weekendTableChampionNameplate">Astarion</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/minthara.png'">
-                        Minthara
+                        <span class="weekendTableChampionNameplate">Minthara</span>
                     </span>
                 </span>
             </span>
@@ -367,19 +367,19 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 </span>
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/nordom.png'">
-                        Nordom
+                        <span class="weekendTableChampionNameplate">Nordom</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        Arkhan
+                        <span class="weekendTableChampionNameplate">Arkhan</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        Nayeli
+                        <span class="weekendTableChampionNameplate">Nayeli</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/darkurge.png'">
-                        Dark Urge
+                        <span class="weekendTableChampionNameplate">Dark Urge</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/hewmaan.png'">
-                        Hew Maan
+                        <span class="weekendTableChampionNameplate">Hew Maan</span>
                     </span>
                 </span>
             </span>
