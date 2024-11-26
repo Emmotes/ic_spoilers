@@ -1085,3 +1085,69 @@ input[type="checkbox"]:checked::before {
 	border: 1px solid var(--Black);
 	padding: 0 15px;
 }
+.weekendsTableColumn {
+	display: flex;
+	flex-direction: column;
+	max-width: 850px;
+	min-width: 350px;
+}
+.weekendTableRow {
+	display: flex;
+	flex-direction: row;
+	border: 1px solid black;
+	background-color: var(--CodGrey);
+	padding: 5px;
+	margin-bottom: 15px;
+}
+.weekendTableIcon {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.weekendTableIcon img {
+	width: 100px;
+	height: 105px;
+	padding: 5px;
+	object-fit: contain;
+}
+.weekendTableMain {
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+	padding-left: 5px;
+	justify-content: space-between;
+}
+.weekendTableTitleRow {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 8px;
+}
+.weekendTableContents {
+	padding: 0 5px;
+	text-wrap: pretty;
+}
+.weekendTableContentBlock {
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	flex-grow: 1;
+}
+.weekendTableReward {
+	display: flex;
+	flex-direction: column;
+}
+.weekendTableChampions {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	padding-bottom: 5px;
+	flex-grow: 1;
+}
+.weekendTableChampion {
+	display: flex;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    align-items: flex-end;
+    justify-content: center;
+	font-size: 0.8em;
+	text-shadow: 0 0 3px black, 0 0 3px black, 0 0 3px black, 0 0 3px black, 0 0 3px black, 0 0 3px black, 0 0 3px black, 0 0 3px black;
+}
