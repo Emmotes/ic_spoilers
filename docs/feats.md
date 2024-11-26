@@ -200,6 +200,91 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Artemis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2008**Multiversal Allies (Artemis)**</span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Baeloth</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2045**Electrodeposition (Baeloth)**</span>Electrodeposition
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>08 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Mehen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2043**Fierce Fighter (Mehen)**</span>Fierce Fighter
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>08 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Barrowin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2046**Prodigal Leader (Barrowin)**</span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>15 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Imoen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2047**Prodigal Leader (Imoen)**</span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>15 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Bobby</span>
         </span>
         <span class="featTableIcon4">
@@ -210,6 +295,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableSource">
             <span>Emergence 10?</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2048**Unwavering Inspiration (Diana)**</span>Unwavering Inspiration
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>22 Jan 2025</span>
@@ -247,6 +349,23 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>22 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Kent</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**</span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>29 Jan 2025</span>
         </span>
     </span>
     <span class="featTableRow">
