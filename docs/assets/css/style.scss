@@ -1103,6 +1103,8 @@ input[type="checkbox"]:checked::before {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	position: relative;
+	cursor: pointer;
 }
 .weekendTableIcon img {
 	width: 100px;
@@ -1156,4 +1158,31 @@ input[type="checkbox"]:checked::before {
 	padding: 1px 2px 0;
 	text-align: center;
 	background-color: rgba(25, 25, 25, 0.7);
+}
+.weekendTableIcon:hover .weekendTooltipContents {
+	visibility: visible;
+}
+.weekendTooltipContents {
+	visibility: hidden;
+	padding: 15px;
+	border: 1px solid black;
+	background-color: var(--CodGrey);
+	width: max-content;
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	z-index: 1;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	transform: translate(100px, 10px);
+	pointer-events: none;
+}
+.weekendTooltipContents code {
+	margin-top: 10px;
+	font-size: 0.9em;
+	color: white;
+	padding: 5px;
 }

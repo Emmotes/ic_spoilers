@@ -8,6 +8,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/708.png">
+            <span class="weekendTooltipContents">ID: 708**Gold Bracers of Defense Chest**Loot for: Jamilah, Hitch, Virgil, Diana and Sentry<code>"for_crusaders":[11,13,115,148,52]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -50,6 +51,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/709.png">
+            <span class="weekendTooltipContents">ID: 709**Gold Howling Chest**Loot for: Krull, Celeste, Tyril, Lucius and Halsin<code>"for_crusaders":[53,2,10,72,156]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -92,6 +94,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/710.png">
+            <span class="weekendTooltipContents">ID: 710**Gold Asatheirr Chest**Loot for: Stoki, Bruenor, Arkhan, Dhadius and Regis<code>"for_crusaders":[14,1,12,17,20]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -134,6 +137,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/711.png">
+            <span class="weekendTooltipContents">ID: 711**Gold Shar Chest**Loot for: Nayeli, Shadowheart, Makos, Warduke and Talin<code>"for_crusaders":[3,141,9,116,74]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -176,6 +180,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/712.png">
+            <span class="weekendTooltipContents">ID: 712**Gold Cloaked Chest**Loot for: Nixie, Calliope, Jamilah, Kas and Astarion<code>"for_crusaders":[123,5,11,153,129]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -218,6 +223,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/715.png">
+            <span class="weekendTooltipContents">ID: 715**Gold Commercial Chest**Loot for: Calliope, Eric, Jamilah, Presto and Diana<code>"for_crusaders":[5,157,11,144,148]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -260,6 +266,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/716.png">
+            <span class="weekendTooltipContents">ID: 716**Gold Clockwork Chest**Loot for: Mehen, Celeste, Makos, Havilar and Farideh<code>"for_crusaders":[80,2,9,56,33]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -302,6 +309,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/717.png">
+            <span class="weekendTooltipContents">ID: 717**Gold Moonwatcher Chest**Loot for: Wyll, Bruenor, Asharra, Astarion and Minthara<code>"for_crusaders":[142,1,6,129,154]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -344,6 +352,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/718.png">
+            <span class="weekendTooltipContents">ID: 718**Gold Clockwork Chest**Loot for: Nordom, Arkhan, Nayeli, Dark Urge and Hew Maan<code>"for_crusaders":[100,12,3,146,75]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
