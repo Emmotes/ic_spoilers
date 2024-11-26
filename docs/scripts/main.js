@@ -1,4 +1,3 @@
-const v=2.002;
 const rrm = {
 	active: (localStorage.spoilersRRM == 1 ? true : false),
 	storage: "spoilersRRM",
