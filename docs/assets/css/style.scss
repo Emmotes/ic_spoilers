@@ -1088,8 +1088,8 @@ input[type="checkbox"]:checked::before {
 .weekendsTableColumn {
 	display: flex;
 	flex-direction: column;
-	max-width: 850px;
-	min-width: 580px;
+	max-width: 800px;
+	min-width: 625px;
 }
 .weekendTableRow {
 	display: flex;
@@ -1107,8 +1107,10 @@ input[type="checkbox"]:checked::before {
 	cursor: pointer;
 }
 .weekendTableIcon img {
-	width: 100px;
-	height: 105px;
+	min-width: 90px;
+	max-width: 100px;
+	min-height: 120px;
+	max-height: 120px;
 	padding: 5px;
 	object-fit: contain;
 }
@@ -1129,8 +1131,8 @@ input[type="checkbox"]:checked::before {
 	text-wrap: pretty;
 }
 .weekendTableContentBlock {
-	display: grid;
-	grid-template-columns: minmax(0,1fr) 2fr;
+	display: flex;
+	justify-content: space-between;
 	flex-grow: 1;
 }
 .weekendTableReward {
@@ -1138,20 +1140,26 @@ input[type="checkbox"]:checked::before {
 	flex-direction: column;
 }
 .weekendTableChampions {
-	display: grid;
-	grid-template-columns: repeat(5, minmax(0,1fr));
-	padding-bottom: 5px;
-	min-width: 340px;
+	display: flex;
+	justify-content: space-between;
+	padding: 0 5px 5px;
+	min-width: 400px;
+	max-width: 400px;
 }
 .weekendTableChampion {
+	background-color: var(--Onyx);
+	background-size: contain;
+	background-repeat: no-repeat;
 	display: flex;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    align-items: flex-end;
-    justify-content: center;
-	font-size: 0.8em;
-	text-shadow: 0 0 3px black, 0 0 3px black, 0 0 3px black, 0 0 3px black, 0 0 3px black, 0 0 3px black, 0 0 3px black, 0 0 3px black;
+	min-width: 75px;
+	max-width: 75px;
+	height: 88px;
+	margin: 1px;
+	border: 1px solid black;
+	align-items: flex-end;
+	justify-content: center;
+	font-size: 0.7em;
+	text-wrap: nowrap;
 }
 .weekendTableChampionNameplate {
 	flex-grow: 1;
