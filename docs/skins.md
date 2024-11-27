@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Goblin Glitch Calliope Portrait](images/skin_portraits/goblinglitchcalliope.png)<span class="featTooltipContents">ID: 483**Goblin Glitch Calliope (Calliope)**<img src="images/skin_models/goblinglitchcalliope.gif" alt="Goblin Glitch Calliope Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Goblin Glitch Calliope
-        </span>
-        <span class="skinTableSource">
-            Goblin Glitch Calliope Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            27 Nov 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Herald of the Champions Dungeon Master Portrait](images/skin_portraits/heraldofthechampionsdungeonmaster.png)<span class="featTooltipContents">ID: 490**Herald of the Champions Dungeon Master (DM)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/heraldofthechampionsdungeonmaster.gif" alt="Herald of the Champions Dungeon Master Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/heraldofthechampionsdungeonmaster-swap.gif" alt="Herald of the Champions Dungeon Master Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Herald of the Champions Dungeon Master
-        </span>
-        <span class="skinTableSource">
-            Herald of the Champions Dungeon Master Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            27 Nov 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Moonlight Halsin Portrait](images/skin_portraits/moonlighthalsin.png)<span class="featTooltipContents">ID: 500**Moonlight Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/moonlighthalsin.gif" alt="Moonlight Halsin Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/moonlighthalsin-bear.gif" alt="Moonlight Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
@@ -372,6 +338,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableName">
             Modron Ellywick
+        </span>
+        <span class="skinTableSource">
+            Emergence 10
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            22 Jan 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 515**Modron Vin Ursa (Vin Ursa)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Modron Vin Ursa
         </span>
         <span class="skinTableSource">
             Emergence 10

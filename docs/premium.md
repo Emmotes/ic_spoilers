@@ -4,139 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 504</div>
-### Goblin Glitch Calliope Skin & Feat Pack - 1,680 Platinum ($11.99)  
-Date of release: 27 Nov 2024
-
-> Snag Calliope's exclusive Goblin Glitch Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Goblin Glitch Calliope Skin Portrait](images/premiums/skin_483.png)<span class="itemTooltipContents">ID: 483**Goblin Glitch Calliope (Calliope)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_483.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_483-impale.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Goblin Glitch Calliope</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Goblin Glitch Feat Portrait](images/featicons/glitch.png)<span class="itemTooltipContents">ID: 1979**Goblin Glitch**I finally look on the outside how I feel on the inside!<code>add_hero_tags,0,goblin<br>reduce_attack_cooldown,0.5</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Goblin Glitch</span>
-            <span style="margin-left:15px">Calliope (Counts as Goblin & -0.5s Base Attack Cooldown)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Calliope Chest Chest Portrait](images/premiums/chests_465.png)<span class="itemTooltipContents">ID: 465**Platinum Calliope Chest**Loot for: Calliope<code>"for_crusaders":[5]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Calliope Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 505</div>
-### Herald of the Champions Dungeon Master Skin & Feat Pack - 1,680 Platinum ($11.99)  
-Date of release: 27 Nov 2024
-
-> Unlock Dungeon Master along with his exclusive Herald of the Champions Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Dungeon Master Champion Unlock Portrait](images/premiums/unlock_champion_99.png)<span class="itemTooltipContents">ID: 99**Dungeon Master (Seat 6)**<img src="images/premiums/unlock_champion_99.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Dungeon Master</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Herald of the Champions Dungeon Master Skin Portrait](images/premiums/skin_490.png)<span class="itemTooltipContents">ID: 490**Herald of the Champions Dungeon Master (DM)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_490.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_490-swap.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Herald of the Champions Dungeon Master</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Wound Master Feat Portrait](images/featicons/health.png)<span class="itemTooltipContents">ID: 1978**Wound Master**It is not yet your time. More adventure awaits!<code>buff_upgrade,80,7845</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Wound Master</span>
-            <span style="margin-left:15px">DM (80% Words of Encouragement)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Dungeon Master Chest Chest Portrait](images/premiums/chests_355.png)<span class="itemTooltipContents">ID: 355**Platinum Dungeon Master Chest**Loot for: Dungeon Master<code>"for_crusaders":[99]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Dungeon Master Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 506</div>
 ### Moonlight Halsin Theme Pack - 3,830 Platinum ($27.99)  
 Date of release: 04 Dec 2024
@@ -1877,7 +1744,7 @@ Date of release: 11 Dec 2024
 
 > Power up Jarlaxle to push your formations further and faster!
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest they aren't (like multiple platform category ids). So I'm not sure what's up with it.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest it isn't (like multiple platform category ids). So I'm not sure what's up with it.*
 
 Contents:
 
@@ -1991,7 +1858,7 @@ Date of release: 11 Dec 2024
 
 > Unlock the full power of tanking & healing with boosts to Celeste, Nayeli, and Calliope as well as an exclusive familiar to help you!
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest they aren't (like multiple platform category ids). So I'm not sure what's up with it.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest it isn't (like multiple platform category ids). So I'm not sure what's up with it.*
 
 Contents:
 
@@ -2281,7 +2148,7 @@ Date of release: 11 Dec 2024
 
 > Unlock a Champion of your choice with full Uncommon gear, 6 Platinum Chests, and an assortment of potions to speed your play!
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest they aren't (like multiple platform category ids). So I'm not sure what's up with it.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest it isn't (like multiple platform category ids). So I'm not sure what's up with it.*
 
 Contents:
 
@@ -2335,7 +2202,7 @@ Date of release: 11 Dec 2024
 
 > Unlock THREE Champions of your choice with gear & Platinum Chests for them and an exclusive familiar to help you!
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest they aren't (like multiple platform category ids). So I'm not sure what's up with it.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest it isn't (like multiple platform category ids). So I'm not sure what's up with it.*
 
 Contents:
 

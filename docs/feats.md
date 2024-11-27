@@ -30,40 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Calliope</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Goblin Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1979**Goblin Glitch (Calliope)**I finally look on the outside how I feel on the inside!<code>add_hero_tags,0,goblin<br>reduce_attack_cooldown,0.5</code></span>Goblin Glitch
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Goblin & -0.5s Base Attack Cooldown</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>27 Nov 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>DM</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Wound Master Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 1978**Wound Master (DM)**It is not yet your time. More adventure awaits!<code>buff_upgrade,80,7845</code></span>Wound Master
-        </span>
-        <span class="featTableEffect">
-            <span>80% Words of Encouragement</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>27 Nov 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Warduke</span>
         </span>
         <span class="featTableIcon4">
