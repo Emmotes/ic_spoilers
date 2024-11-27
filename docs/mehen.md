@@ -27,27 +27,29 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Lightning Breath** (Guess)
-> Mehen leaps forward and breaths a cone of lightning that damages all enemies on the screen. If he hits more than 5 enemies, or one of the enemies he hits is a boss, then he stuns the enemies for 10 seconds.  
-> Cooldown: 180s (Cap 45s)
+> Mehen breathes a cone of lightning that hits all enemies in the area. If it hits more than 5 enemies, or a boss, it stuns all enemies for 10 seconds.  
+> Cooldown: 3s (Cap 0.75s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 826,
     "name": "Lightning Breath",
-    "description": "",
-    "long_description": "Mehen leaps forward and breaths a cone of lightning that damages all enemies on the screen. If he hits more than 5 enemies, or one of the enemies he hits is a boss, then he stuns the enemies for 10 seconds.",
+    "description": "Mehen breathes a cone of lightning that hits and potentially stuns all enemies.",
+    "long_description": "Mehen breathes a cone of lightning that hits all enemies in the area. If it hits more than 5 enemies, or a boss, it stuns all enemies for 10 seconds.",
     "graphic_id": 10502,
     "target": "all",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
-    "cooldown": 180,
+    "cooldown": 3,
     "animations": [
         {
-            "type": "mehen_ultimate",
+            "type": "mehen_ultimate_v2",
             "jump_to_target": true,
-            "target_offset_x": -300
+            "target_offset_x": -300,
+            "stun_duration": 10,
+            "monsters_hit_requirement": 6
         }
     ],
     "tags": [
@@ -86,6 +88,23 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 33,
                 56
             ]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,0",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "hero_id==33 || hero_id==56"
+                }
+            ],
+            "hero_ids": [
+                33,
+                56
+            ]
         }
     ],
     "requirements": "",
@@ -102,13 +121,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Grumpy** (Guess)
-> Mehen gains a stack of Grumpy for each of the following checks that is met. He increases damage of all Champions in the formation by 100% for each stack of Grumpy he has, stacking multiplicatively.
+> Mehen gains a stack of Grumpy for each of the following checks that is met. He increases the damage of all Champions in the formation by 100% for each stack of Grumpy he has, stacking multiplicatively.
 > - Adjacent to Farideh
 > - At least two columns behind Havilar
 > - At the top of the column
 > - At least three Champions in the column(s) in front of him
 > - At least two Champions in the column(s) behind him
-> - Adjacent to Champions with an average base attack cooldown of 5
+> - Adjacent to Champions with an average base attack cooldown of 5 seconds or less
 > - Adjacent to at least two Tiefling or Dragonborn Champions
 > - At least one other Tiefling or Dragonborn in his column
 > - Within 2 slots of Champions with at least 4 unique classes
@@ -122,7 +141,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2182,
     "flavour_text": "",
     "description": {
-        "desc": "Mehen gains a stack of Grumpy for each of the following checks that is met. He increases damage of all Champions in the formation by $amount% for each stack of Grumpy he has, stacking multiplicatively.",
+        "desc": "Mehen gains a stack of Grumpy for each of the following checks that is met. He increases the damage of all Champions in the formation by $amount% for each stack of Grumpy he has, stacking multiplicatively.",
         "post": {
             "conditions": [
                 {
@@ -142,16 +161,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_func": "mult",
             "stack_func": "per_other_stack_count",
             "per_other_stack_count_upgrade_id": 16146,
-            "per_other_stack_count_effect_key_index": 2,
+            "per_other_stack_count_effect_key_index": 13,
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "upgrade_unlocked",
+                "feat_changed",
+                "hero_tags_changed"
             ],
-            "show_bonus": true
-        },
-        {
-            "effect_string": "stacks_from_effect_key_stacks",
-            "effect_key_name": "mehen_grumpy_stack",
-            "stacks_on_trigger": "will_stack_manually"
+            "show_bonus": true,
+            "off_when_benched": true
         },
         {
             "effect_string": "mehen_grumpy_stack",
@@ -255,7 +273,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "condition_description": "Adjacent to Champions with an average base attack cooldown of 5",
+            "condition_description": "Adjacent to Champions with an average base attack cooldown of 5 seconds or less",
             "index": 6
         },
         {
@@ -326,6 +344,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "expression_on_trigger,area_complete",
             "per_trigger_expr": "AppendToSaveStat(`mehen_grumpy_areas`, false, trigger_count * as_int(GetUpgradeStacks(16146, 1) >= 10))"
+        },
+        {
+            "effect_string": "stacks_from_effect_key_stacks",
+            "effect_key_name": "mehen_grumpy_stack",
+            "stacks_on_trigger": "will_stack_manually",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -333,7 +357,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 10495,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -372,7 +396,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             },
             "deal_no_damage_effect": {
                 "effect_string": "next_attack_deals_no_damage"
-            }
+            },
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -384,7 +409,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -416,11 +442,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_func": "mult",
             "stack_func": "per_other_stack_count",
             "per_other_stack_count_upgrade_id": 16146,
-            "per_other_stack_count_effect_key_index": 2,
+            "per_other_stack_count_effect_key_index": 13,
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "upgrade_unlocked",
+                "feat_changed",
+                "hero_tags_changed"
             ],
-            "show_bonus": true
+            "show_bonus": true,
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -462,7 +492,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "active_graphic_id": 25439,
                 "active_graphic_y": -50,
                 "for_time": 10
-            }
+            },
+            "targets": [
+                "adj"
+            ],
+            "off_when_benched": false
+        },
+        {
+            "effect_string": "outgoing_description",
+            "targets": [
+                "adj"
+            ],
+            "off_when_benched": false
         }
     ],
     "requirements": "",
@@ -470,11 +511,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 25289,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "use_outgoing_description": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
