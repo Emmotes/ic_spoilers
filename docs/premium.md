@@ -1896,6 +1896,7 @@ Contents:
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Platinum**</span>
+            <span style="margin-left:15px">x1,760</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -2013,6 +2014,7 @@ Contents:
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Platinum**</span>
+            <span style="margin-left:15px">x3,833</span>
         </span>
     </span>
     <span class="premiumsTableItem">
