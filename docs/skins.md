@@ -204,7 +204,7 @@ Please be aware that the developers recently removed most future skins from the 
             Silver Bells Birdsong
         </span>
         <span class="skinTableSource">
-            ???
+            Newsletter (Guess)
         </span>
         <span class="skinTableCost">
             ???
