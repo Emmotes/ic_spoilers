@@ -2620,7 +2620,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Multiversal Allies</span>
-            <span style="margin-left:15px">Artemis (???: [_effect_def,2193])</span>
+            <span style="margin-left:15px">Artemis (Disabled Effect Def: 2193)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -3297,7 +3297,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Multiversal Allies</span>
-            <span style="margin-left:15px">Kent (???: [_effect_def,2193])</span>
+            <span style="margin-left:15px">Kent (Disabled Effect Def: 2193)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
