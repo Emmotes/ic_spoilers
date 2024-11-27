@@ -24,7 +24,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Moonlight Halsin Skin Portrait](images/premiums/skin_500.png)<span class="itemTooltipContents">ID: 500**Moonlight Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_500.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_500-whip_tip.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_500-bear.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
+            <span class="tooltipHolder">![Moonlight Halsin Skin Portrait](images/premiums/skin_500.png)<span class="itemTooltipContents">ID: 500**Moonlight Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_500.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_500-bear.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
