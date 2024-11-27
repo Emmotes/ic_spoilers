@@ -453,13 +453,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Vecna: The Peyl on Tree (Adventure)](images/contentdrop_portraits/vecna_thepeylontree_0.png)
+            ![Vecna: The Peylon Tree (Adventure)](images/contentdrop_portraits/vecna_thepeylontree_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Vecna</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Peyl on Tree</span>
+            <span style="margin-left: 8px;">The Peylon Tree</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Adventure</span>
@@ -467,16 +467,30 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Vecna: The Peyl on Tree (Variant 1)](images/contentdrop_portraits/vecna_thepeylontree_1.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Vecna: The Peylon Tree (Variant 1)](images/contentdrop_portraits/vecna_thepeylontree_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Vecna</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Peyl on Tree</span>
+            <span style="margin-left: 8px;">The Peylon Tree</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #1</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Vecna: Three Moons Vault (Adventure)](images/contentdrop_portraits/vecna_threemoonsvault_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Vecna</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Three Moons Vault</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Adventure</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -491,20 +505,6 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Vecna: Three Mo on Vault (Adventure)](images/contentdrop_portraits/vecna_threemoonvault_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Vecna</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Three Mo on Vault</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
         </span>
     </span>
 </span>
