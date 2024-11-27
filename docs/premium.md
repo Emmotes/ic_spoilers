@@ -138,7 +138,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 506</div>
-### Moonlight Halsin Theme Pack - 3,830 Platinum ($0.00)  
+### Moonlight Halsin Theme Pack - 3,830 Platinum ($27.99)  
 Date of release: 04 Dec 2024
 
 > Unlock Halsin along with an exclusive Moonlight Skin & Armored Owlbear Familiar!
@@ -212,7 +212,7 @@ Date of release: 04 Dec 2024
 
 > Xbox Exclusive (Do Not Translate)
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack probably won't be available for purchase since it's likely to be for a platform giveaway.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
 
 Contents:
 
@@ -1877,9 +1877,21 @@ Date of release: 11 Dec 2024
 
 > Power up Jarlaxle to push your formations further and faster!
 
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
+
 Contents:
 
 <span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Well Balanced Rapier Uncommon Portrait](images/premiums/loot_74.png)<span class="itemTooltipContents">ID: 74**Well Balanced Rapier (Jarlaxle)**You can't be very effective with an unbalanced sword, you know!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 1)</span>
+        </span>
+    </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
             <span class="emergenceShopFeatIcon4 tooltipHolder">![Knave's Eye Patch Golden Epic Portrait](images/premiums/loot_80.png)<span class="itemTooltipContents">ID: 80**Knave's Eye Patch (Jarlaxle)**You can't hide from my magical eye... patch.</span></span>
@@ -1888,6 +1900,46 @@ Contents:
             <span style="margin-left:5px">**Golden Epic**</span>
             <span style="margin-left:15px">Master Attuner</span>
             <span style="margin-left:15px">Jarlaxle (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Gull Feathered Hat Uncommon Portrait](images/premiums/loot_82.png)<span class="itemTooltipContents">ID: 82**Gull Feathered Hat (Jarlaxle)**A decent enough feather, I suppose. In a pinch.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Master of Disguise</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Brightly Colored Cloak Uncommon Portrait](images/premiums/loot_86.png)<span class="itemTooltipContents">ID: 86**Brightly Colored Cloak (Jarlaxle)**A useful distraction if you want your foes to see your cloak and not yourself.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Master of Piracy</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Scuffed Steel Ring Uncommon Portrait](images/premiums/loot_90.png)<span class="itemTooltipContents">ID: 90**Scuffed Steel Ring (Jarlaxle)**Rub it three times and a genie pops out. Aha! Gotcha! So gullible.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Dull Steel Spurs Uncommon Portrait](images/premiums/loot_94.png)<span class="itemTooltipContents">ID: 94**Dull Steel Spurs (Jarlaxle)**Remind me sometime to tell you the story of how I came into possession of these.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 6)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1938,6 +1990,8 @@ Contents:
 Date of release: 11 Dec 2024
 
 > Unlock the full power of tanking & healing with boosts to Celeste, Nayeli, and Calliope as well as an exclusive familiar to help you!
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
 
 Contents:
 
@@ -1990,6 +2044,56 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Leather Gauntlets Uncommon Portrait](images/premiums/loot_30.png)<span class="itemTooltipContents">ID: 30**Leather Gauntlets (Celeste)**The inside is padded to protect against bumps and bruises.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Celeste (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Soft Belt Uncommon Portrait](images/premiums/loot_34.png)<span class="itemTooltipContents">ID: 34**Soft Belt (Celeste)**Given to me by a sister cleric on my first day of worship at the temple.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Crusader's Mantle</span>
+            <span style="margin-left:15px">Celeste (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Steel Amulet Uncommon Portrait](images/premiums/loot_38.png)<span class="itemTooltipContents">ID: 38**Steel Amulet (Celeste)**A more durable form of a commonly carried amulet.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Mass Cure Wounds</span>
+            <span style="margin-left:15px">Celeste (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Smooth Leather Boots Uncommon Portrait](images/premiums/loot_42.png)<span class="itemTooltipContents">ID: 42**Smooth Leather Boots (Celeste)**Durable and soft, these boots can last a lifetime if properly cared for.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Celeste (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Understated Holy Symbol Uncommon Portrait](images/premiums/loot_46.png)<span class="itemTooltipContents">ID: 46**Understated Holy Symbol (Celeste)**Never underestimate the wrath of an angry goddess.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Celeste (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
             <span class="emergenceShopFeatIcon4 tooltipHolder">![Figurine Of Wondrous Power Golden Epic Portrait](images/premiums/loot_52.png)<span class="itemTooltipContents">ID: 52**Figurine Of Wondrous Power (Nayeli)**A wondrous item that grants me the power to track down those I've sworn vengeance against.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
@@ -2000,12 +2104,112 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Iron Breastplate Uncommon Portrait](images/premiums/loot_54.png)<span class="itemTooltipContents">ID: 54**Iron Breastplate (Nayeli)**A sturdy breastplate. Well enough to deliver evenhanded justice in, at least.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Health</span>
+            <span style="margin-left:15px">Nayeli (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Fine Chainmail Shirt Uncommon Portrait](images/premiums/loot_58.png)<span class="itemTooltipContents">ID: 58**Fine Chainmail Shirt (Nayeli)**As fine a shirt as you could expect to find, from a common merchant.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Aura of Courage</span>
+            <span style="margin-left:15px">Nayeli (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Sturdy Gauntlets Uncommon Portrait](images/premiums/loot_62.png)<span class="itemTooltipContents">ID: 62**Sturdy Gauntlets (Nayeli)**They won't budge in battle, and with a sturdy wrist will deflect all but the strongest attack.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Aura of Protection</span>
+            <span style="margin-left:15px">Nayeli (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Polished Holy Symbol Uncommon Portrait](images/premiums/loot_66.png)<span class="itemTooltipContents">ID: 66**Polished Holy Symbol (Nayeli)**This symbol has been meticulously cared for over the years. A great sign of respect.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Nayeli (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Sharp Steel Greatsword Uncommon Portrait](images/premiums/loot_70.png)<span class="itemTooltipContents">ID: 70**Sharp Steel Greatsword (Nayeli)**Crafted by the finest smithy in Daggerford.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Nayeli (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Partially Tuned Lute Uncommon Portrait](images/premiums/loot_102.png)<span class="itemTooltipContents">ID: 102**Partially Tuned Lute (Calliope)**I've heard better, but it's a good focus for my songs and spells.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Calliope (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
             <span class="emergenceShopFeatIcon4 tooltipHolder">![Ornate Lute of Ballads Golden Epic Portrait](images/premiums/loot_104.png)<span class="itemTooltipContents">ID: 104**Ornate Lute of Ballads (Calliope)**Hey, are you even listening to me? Argh! That's it...!</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
             <span style="margin-left:15px">All Champion Damage</span>
             <span style="margin-left:15px">Calliope (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Bard's Cloak Uncommon Portrait](images/premiums/loot_106.png)<span class="itemTooltipContents">ID: 106**Bard's Cloak (Calliope)**Your average bard's cloak. Good for blending into crowds... of bards.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Bardic Inspiration</span>
+            <span style="margin-left:15px">Calliope (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Stiff Hide Bracers Uncommon Portrait](images/premiums/loot_110.png)<span class="itemTooltipContents">ID: 110**Stiff Hide Bracers (Calliope)**You could deflect a dull sword with these, if you're quick enough, which I am.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Song of Protection</span>
+            <span style="margin-left:15px">Calliope (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Sturdy Leather Bag Uncommon Portrait](images/premiums/loot_114.png)<span class="itemTooltipContents">ID: 114**Sturdy Leather Bag (Calliope)**It's holding knick-knacks from dozens of passed out pirates. They won't miss 'em.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Calliope (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Soft Cloth Eyepatch Uncommon Portrait](images/premiums/loot_118.png)<span class="itemTooltipContents">ID: 118**Soft Cloth Eyepatch (Calliope)**A pleasure to wear - it's like a blanket for my eye!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Uncommon**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Calliope (Slot 6)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -2077,9 +2281,51 @@ Date of release: 11 Dec 2024
 
 > Unlock a Champion of your choice with full Uncommon gear, 6 Platinum Chests, and an assortment of potions to speed your play!
 
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
+
 Contents:
 
-* None
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Portrait](images/premiums/hard_currency_25106.png)<span class="itemTooltipContents">**Platinum**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Platinum**</span>
+            <span style="margin-left:15px">x840</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Potion of Specialization Buff Portrait](images/premiums/buff_35.png)<span class="itemTooltipContents">ID: 35**Potion of Specialization**The dense, purple liquid has an ovoid cloud of pink floating in it.<code>reset_specializations,1</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of Specialization</span>
+            <span style="margin-left:15px">x5</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x5</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Scroll of Champion Summoning Buff Portrait](images/premiums/buff_2143.png)<span class="itemTooltipContents">ID: 2143**Scroll of Champion Summoning**Using this scroll allows you to choose any Event Champion. You will collect the Champion, full uncommon gear, 6 Platinum Chests, and a Golden Epic for that Champion if you haven't already collected it!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Scroll of Champion Summoning</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+</span>
 </div></div>
 
 
@@ -2089,9 +2335,51 @@ Date of release: 11 Dec 2024
 
 > Unlock THREE Champions of your choice with gear & Platinum Chests for them and an exclusive familiar to help you!
 
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
+
 Contents:
 
-* None
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Portrait](images/premiums/hard_currency_25106.png)<span class="itemTooltipContents">**Platinum**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Platinum**</span>
+            <span style="margin-left:15px">x1,760</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Potion of Specialization Buff Portrait](images/premiums/buff_35.png)<span class="itemTooltipContents">ID: 35**Potion of Specialization**The dense, purple liquid has an ovoid cloud of pink floating in it.<code>reset_specializations,1</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of Specialization</span>
+            <span style="margin-left:15px">x10</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x10</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Scroll of Champion Summoning Buff Portrait](images/premiums/buff_2143.png)<span class="itemTooltipContents">ID: 2143**Scroll of Champion Summoning**Using this scroll allows you to choose any Event Champion. You will collect the Champion, full uncommon gear, 6 Platinum Chests, and a Golden Epic for that Champion if you haven't already collected it!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Scroll of Champion Summoning</span>
+            <span style="margin-left:15px">x3</span>
+        </span>
+    </span>
+</span>
 </div></div>
 
 
@@ -2101,7 +2389,7 @@ Date of release: 12 Dec 2024
 
 > 
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack probably won't be available for purchase since it's likely to be for a platform giveaway.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
 
 Contents:
 

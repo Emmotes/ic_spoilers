@@ -10,7 +10,7 @@ Date of release: 04 December 2024
 
 > Xbox Exclusive (Do Not Translate)
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack probably won't be available for purchase since it's likely to be for a platform giveaway.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
 
 Contents:
 
