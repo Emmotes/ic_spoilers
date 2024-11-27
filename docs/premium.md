@@ -1892,12 +1892,10 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![??? ??? Portrait](images/premiums/hard_currency_25106.png)<span class="itemTooltipContents">ID: 25106**???**</span></span>
+            <span class="tooltipHolder">![Platinum Portrait](images/premiums/hard_currency_25106.png)<span class="itemTooltipContents">**Platinum**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">hard_currency</span>
-            <span style="margin-left:15px">ID: 25106</span>
+            <span style="margin-left:5px">**Platinum**</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -2011,12 +2009,10 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![??? ??? Portrait](images/premiums/hard_currency_25106.png)<span class="itemTooltipContents">ID: 25106**???**</span></span>
+            <span class="tooltipHolder">![Platinum Portrait](images/premiums/hard_currency_25106.png)<span class="itemTooltipContents">**Platinum**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">hard_currency</span>
-            <span style="margin-left:15px">ID: 25106</span>
+            <span style="margin-left:5px">**Platinum**</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -2081,8 +2077,7 @@ Date of release: 11 Dec 2024
 
 Contents:
 
-<span class="premiumsTableRow">
-</span>
+* None
 </div></div>
 
 
@@ -2094,8 +2089,7 @@ Date of release: 11 Dec 2024
 
 Contents:
 
-<span class="premiumsTableRow">
-</span>
+* None
 </div></div>
 
 
@@ -2878,7 +2872,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Modron Component Pieces Modron Component Pieces Portrait](images/premiums/modron_crafting_pieces_8013.png)<span class="itemTooltipContents">ID: 8013**Modron Component Pieces**</span></span>
+            <span class="tooltipHolder">![Modron Component Pieces Portrait](images/premiums/modron_crafting_pieces_8013.png)<span class="itemTooltipContents">**Modron Component Pieces**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Modron Component Pieces**</span>
@@ -3252,7 +3246,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Modron Component Pieces Modron Component Pieces Portrait](images/premiums/modron_crafting_pieces_8013.png)<span class="itemTooltipContents">ID: 8013**Modron Component Pieces**</span></span>
+            <span class="tooltipHolder">![Modron Component Pieces Portrait](images/premiums/modron_crafting_pieces_8013.png)<span class="itemTooltipContents">**Modron Component Pieces**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Modron Component Pieces**</span>
