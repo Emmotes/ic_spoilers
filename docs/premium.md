@@ -1877,7 +1877,7 @@ Date of release: 11 Dec 2024
 
 > Power up Jarlaxle to push your formations further and faster!
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest they aren't (like multiple platform category ids). So I'm not sure what's up with it.*
 
 Contents:
 
@@ -1991,7 +1991,7 @@ Date of release: 11 Dec 2024
 
 > Unlock the full power of tanking & healing with boosts to Celeste, Nayeli, and Calliope as well as an exclusive familiar to help you!
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest they aren't (like multiple platform category ids). So I'm not sure what's up with it.*
 
 Contents:
 
@@ -2281,7 +2281,7 @@ Date of release: 11 Dec 2024
 
 > Unlock a Champion of your choice with full Uncommon gear, 6 Platinum Chests, and an assortment of potions to speed your play!
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest they aren't (like multiple platform category ids). So I'm not sure what's up with it.*
 
 Contents:
 
@@ -2335,7 +2335,7 @@ Date of release: 11 Dec 2024
 
 > Unlock THREE Champions of your choice with gear & Platinum Chests for them and an exclusive familiar to help you!
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This pack has some signatures of a platform giveaway - being hidden in the store - but it also has elements that would suggest they aren't (like multiple platform category ids). So I'm not sure what's up with it.*
 
 Contents:
 
