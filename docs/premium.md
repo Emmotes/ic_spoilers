@@ -2620,7 +2620,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Multiversal Allies</span>
-            <span style="margin-left:15px">Artemis (DISABLED EFFECT: 20% All Champion Damage per Unique Species in Formation (Additive))</span>
+            <span style="margin-left:15px">Artemis (do_nothing)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -3297,7 +3297,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Multiversal Allies</span>
-            <span style="margin-left:15px">Kent (DISABLED EFFECT: 20% All Champion Damage per Unique Species in Formation (Additive))</span>
+            <span style="margin-left:15px">Kent (do_nothing)</span>
         </span>
     </span>
     <span class="premiumsTableItem">

@@ -223,7 +223,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2008**Multiversal Allies (Artemis)**Death is part of every culture, every people. I've studied them all.<code>_effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
-            <span>DISABLED EFFECT: 20% All Champion Damage per Unique Species in Formation (Additive)</span>
+            <span>do_nothing</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -376,7 +376,7 @@ For feats that were available in the season pass of prior seasons - please see t
             ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**We are stronger together.<code>_effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
-            <span>DISABLED EFFECT: 20% All Champion Damage per Unique Species in Formation (Additive)</span>
+            <span>do_nothing</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
