@@ -81,10 +81,27 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Briv</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Accurate Acrobatics Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2062**Accurate Acrobatics (Briv)**A true warrior leapeth only when he knoweth where he shall land.<code>remove_extra_briv_jumps</code></span>Accurate Acrobatics
+        </span>
+        <span class="featTableEffect">
+            <span>Rounds Down Briv's Jump</span>
+        </span>
+        <span class="featTableSource">
+            <span>Patron: Mirt</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Nrakk</span>
         </span>
         <span class="featTableIcon2">
-            ![Heightened Focus Icon](images/featicons/scarf3.png)<span class="featTooltipContents">ID: 2042**Heightened Focus (Nrakk)**The churning chaos of Limbo has sharpened my will. <code>global_dps_multiplier_mult,10<br>nrakk_ult_set_ki,15</code></span>Heightened Focus
+            ![Heightened Focus Icon](images/featicons/scarf3.png)<span class="featTooltipContents">ID: 2042**Heightened Focus (Nrakk)**The churning chaos of Limbo has sharpened my will.<code>global_dps_multiplier_mult,10<br>nrakk_ult_set_ki,15</code></span>Heightened Focus
         </span>
         <span class="featTableEffect">
             <span>10% All Champion Damage & Nrakk's Ultimate sets Ki Points to 15 (Skips Minigame)</span>
@@ -101,7 +118,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Nrakk</span>
         </span>
         <span class="featTableIcon4">
-            ![Perfect Focus Icon](images/featicons/scarf3.png)<span class="featTooltipContents">ID: 2044**Perfect Focus (Nrakk)**I am one with the multiverse. <code>global_dps_multiplier_mult,200<br>nrakk_ult_set_ki,30</code></span>Perfect Focus
+            ![Perfect Focus Icon](images/featicons/scarf3.png)<span class="featTooltipContents">ID: 2044**Perfect Focus (Nrakk)**I am one with the multiverse.<code>global_dps_multiplier_mult,200<br>nrakk_ult_set_ki,30</code></span>Perfect Focus
         </span>
         <span class="featTableEffect">
             <span>200% All Champion Damage & Nrakk's Ultimate sets Ki Points to 30 (Skips Minigame)</span>
@@ -203,10 +220,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Artemis</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2008**Multiversal Allies (Artemis)**</span>Multiversal Allies
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2008**Multiversal Allies (Artemis)**Death is part of every culture, every people. I've studied them all.<code>_effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>???: [_effect_def,2193]</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -220,10 +237,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Baeloth</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2045**Electrodeposition (Baeloth)**</span>Electrodeposition
+            ![Electrodeposition Icon](images/featicons/goldfind.png)<span class="featTooltipContents">ID: 2045**Electrodeposition (Baeloth)**Did you know gold is highly conductive? Would you like a demonstration?<code>buff_upgrade,80,4745</code></span>Electrodeposition
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>80% Paid Partially with Pain</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -237,10 +254,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Mehen</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2043**Fierce Fighter (Mehen)**</span>Fierce Fighter
+            ![Fierce Fighter Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2043**Fierce Fighter (Mehen)**I've seen a thousand battles, and I'll see a thousand more.<code>buff_upgrades,80,16150,16151,16152</code></span>Fierce Fighter
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>80% All  Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -254,10 +271,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Barrowin</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2046**Prodigal Leader (Barrowin)**</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2046**Prodigal Leader (Barrowin)**Rally under the banner of Clan Undurr!<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -271,10 +288,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Imoen</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2047**Prodigal Leader (Imoen)**</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2047**Prodigal Leader (Imoen)**I'll never give up the fight!<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -294,7 +311,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Stat: +2 Constitution</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 10?</span>
+            <span>Emergence 10</span>
         </span>
         <span class="featTableDate">
             <span>22 Jan 2025</span>
@@ -305,10 +322,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Diana</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2048**Unwavering Inspiration (Diana)**</span>Unwavering Inspiration
+            ![Unwavering Inspiration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2048**Unwavering Inspiration (Diana)**I believe in myself! I believe in all of us!<code>buff_upgrades,80,14791,14792,14793</code></span>Unwavering Inspiration
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>80% All First Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -328,7 +345,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>120% Self DPS</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 10?</span>
+            <span>Emergence 10</span>
         </span>
         <span class="featTableDate">
             <span>22 Jan 2025</span>
@@ -345,7 +362,7 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>todo</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 10?</span>
+            <span>Emergence 10</span>
         </span>
         <span class="featTableDate">
             <span>22 Jan 2025</span>
@@ -356,10 +373,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Kent</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**</span>Multiversal Allies
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**We are stronger together.<code>_effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>???: [_effect_def,2193]</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>

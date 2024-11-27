@@ -41,6 +41,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 244**Arachneye the Spider**</span></span>
+        </span>
+        <span class="skinTableName">
+            Arachneye the Spider
+        </span>
+        <span class="skinTableSource">
+            3x Choose Your Champion Starter Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            11 Dec 2024
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Sharran Viper Portrait](images/familiars/sharranviper.png)<span class="featTooltipContents">ID: 233**Sharran Viper**<img src="images/familiars/sharranviper.gif" alt="Sharran Viper Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -75,7 +92,24 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 236**Crescent the Lunar Moth**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 243**Skitters the Lizard**</span></span>
+        </span>
+        <span class="skinTableName">
+            Skitters the Lizard
+        </span>
+        <span class="skinTableSource">
+            Tanking & Healing Starter Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            11 Dec 2024
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Crescent the Lunar Moth Portrait](images/familiars/crescentthelunarmoth.png)<span class="featTooltipContents">ID: 236**Crescent the Lunar Moth**<img src="images/familiars/crescentthelunarmoth.gif" alt="Crescent the Lunar Moth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Crescent the Lunar Moth

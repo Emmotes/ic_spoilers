@@ -45,7 +45,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Moonlight Halsin Portrait](images/skin_portraits/moonlighthalsin.png)<span class="featTooltipContents">ID: 500**Moonlight Halsin (Halsin)**<img src="images/skin_models/moonlighthalsin.gif" alt="Moonlight Halsin Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Moonlight Halsin Portrait](images/skin_portraits/moonlighthalsin.png)<span class="featTooltipContents">ID: 500**Moonlight Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/moonlighthalsin.gif" alt="Moonlight Halsin Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/moonlighthalsin-bear.gif" alt="Moonlight Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Moonlight Halsin
@@ -198,7 +198,24 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 497**Sharran Celeste (Celeste)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Silver Bells Birdsong Portrait](images/skin_portraits/silverbellsbirdsong.png)<span class="featTooltipContents">ID: 504**Silver Bells Birdsong (Birdsong)**<img src="images/skin_models/silverbellsbirdsong.gif" alt="Silver Bells Birdsong Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Silver Bells Birdsong
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            25 Dec 2024
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Sharran Celeste Portrait](images/skin_portraits/sharranceleste.png)<span class="featTooltipContents">ID: 497**Sharran Celeste (Celeste)**<img src="images/skin_models/sharranceleste.gif" alt="Sharran Celeste Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Sharran Celeste
@@ -344,6 +361,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableCost">
             1,680p
+        </span>
+        <span class="skinTableDate">
+            22 Jan 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 514**Modron Ellywick (Ellywick)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Modron Ellywick
+        </span>
+        <span class="skinTableSource">
+            Emergence 10
+        </span>
+        <span class="skinTableCost">
+            ???
         </span>
         <span class="skinTableDate">
             22 Jan 2025

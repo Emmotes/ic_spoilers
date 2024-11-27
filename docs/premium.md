@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Goblin Glitch Calliope Skin Portrait](images/premiums/skin_483.png)<span class="itemTooltipContents">ID: 483**Goblin Glitch Calliope (Calliope)**<img src="images/premiums/skin_483.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Goblin Glitch Calliope Skin Portrait](images/premiums/skin_483.png)<span class="itemTooltipContents">ID: 483**Goblin Glitch Calliope (Calliope)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_483.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_483-impale.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -157,7 +157,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Moonlight Halsin Skin Portrait](images/premiums/skin_500.png)<span class="itemTooltipContents">ID: 500**Moonlight Halsin (Halsin)**<img src="images/premiums/skin_500.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Moonlight Halsin Skin Portrait](images/premiums/skin_500.png)<span class="itemTooltipContents">ID: 500**Moonlight Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_500.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_500-whip_tip.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_500-bear.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -425,6 +425,1260 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 11</div>
+### Bruenor's Starter Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Contains 10 Platinum Chests and awesome gear for Bruenor!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Well Used Axe Rare Portrait](images/premiums/loot_3.png)<span class="itemTooltipContents">ID: 3**Well Used Axe (Bruenor)**I've lost count of the number of goblins slaughtered by its razor edge.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Bruenor (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Gold Beard Clips of the Clan Golden Epic Portrait](images/premiums/loot_8.png)<span class="itemTooltipContents">ID: 8**Gold Beard Clips of the Clan (Bruenor)**Ancient family clips found in the depths of the Mithral Hall.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Bruenor (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Thick Sturdy Belt Rare Portrait](images/premiums/loot_11.png)<span class="itemTooltipContents">ID: 11**Thick Sturdy Belt (Bruenor)**It's quite slimming!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Dwarven Glory</span>
+            <span style="margin-left:15px">Bruenor (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Dark Iron Ring Rare Portrait](images/premiums/loot_15.png)<span class="itemTooltipContents">ID: 15**Dark Iron Ring (Bruenor)**A magical ring crafted from a fallen meteorite.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Rally</span>
+            <span style="margin-left:15px">Bruenor (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Strong Shield Rare Portrait](images/premiums/loot_19.png)<span class="itemTooltipContents">ID: 19**Strong Shield (Bruenor)**It's strong enough to stop a blow from a raging giant.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Bruenor (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Mithral Helm Rare Portrait](images/premiums/loot_23.png)<span class="itemTooltipContents">ID: 23**Mithral Helm (Bruenor)**Stronger than steel, and far lighter.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Bruenor (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x10 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 15</div>
+### Force Grey - Calliope Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Contains 10 Platinum Chests and awesome gear for Calliope!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Broadhead Crossbow Bolt Rare Portrait](images/premiums/loot_99.png)<span class="itemTooltipContents">ID: 99**Broadhead Crossbow Bolt (Calliope)**It nearly doesn't fit in my lute!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Calliope (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Ornate Lute of Ballads Golden Epic Portrait](images/premiums/loot_104.png)<span class="itemTooltipContents">ID: 104**Ornate Lute of Ballads (Calliope)**Hey, are you even listening to me? Argh! That's it...!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Calliope (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Triple-Clasped Cloak Rare Portrait](images/premiums/loot_107.png)<span class="itemTooltipContents">ID: 107**Triple-Clasped Cloak (Calliope)**The only way this thing comes flying off in combat is if I'm feeling especially fabulous.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Bardic Inspiration</span>
+            <span style="margin-left:15px">Calliope (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Studded Leather Bracers Rare Portrait](images/premiums/loot_111.png)<span class="itemTooltipContents">ID: 111**Studded Leather Bracers (Calliope)**Some of the best wrist-based protection a girl can ask for.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Song of Protection</span>
+            <span style="margin-left:15px">Calliope (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Magically Enhanced Satchel Rare Portrait](images/premiums/loot_115.png)<span class="itemTooltipContents">ID: 115**Magically Enhanced Satchel (Calliope)**Touch the gem in the wrong way and boom! Hope you weren't too attached to that hand.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Calliope (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Sturdy Leather Eyepatch Rare Portrait](images/premiums/loot_119.png)<span class="itemTooltipContents">ID: 119**Sturdy Leather Eyepatch (Calliope)**A sturdy accessory that aids in my night time adventures.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Calliope (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x10 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 16</div>
+### Force Grey - Hitch Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Contains 10 Platinum Chests and awesome gear for Hitch!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Hitch Champion Unlock Portrait](images/premiums/unlock_champion_13.png)<span class="itemTooltipContents">ID: 13**Hitch (Seat 8)**<img src="images/premiums/unlock_champion_13.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Hitch</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Multi-Pouch Rare Portrait](images/premiums/loot_291.png)<span class="itemTooltipContents">ID: 291**Multi-Pouch (Hitch)**Why have one pouch when you could have five?</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ricochet</span>
+            <span style="margin-left:15px">Hitch (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Sticky Boots Rare Portrait](images/premiums/loot_295.png)<span class="itemTooltipContents">ID: 295**Sticky Boots (Hitch)**I can scale all but the slipperiest surfaces.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Hitch (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Magnificent Cape of Free Flowing Golden Epic Portrait](images/premiums/loot_300.png)<span class="itemTooltipContents">ID: 300**Magnificent Cape of Free Flowing (Hitch)**It never gets tangled in my legs.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Natural Performer</span>
+            <span style="margin-left:15px">Hitch (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Golden Dagger Rare Portrait](images/premiums/loot_303.png)<span class="itemTooltipContents">ID: 303**Golden Dagger (Hitch)**Everything's better with a little gold added in.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Hitch (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Crystal Ring Rare Portrait](images/premiums/loot_307.png)<span class="itemTooltipContents">ID: 307**Crystal Ring (Hitch)**That's 100% legitimate Icewind Crystal.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Hitch (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Static Rod Rare Portrait](images/premiums/loot_311.png)<span class="itemTooltipContents">ID: 311**Static Rod (Hitch)**It has some small magical properties that makes it quite useful.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Hitch (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x10 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 17</div>
+### Force Grey - Tyril Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Contains 10 Platinum Chests and awesome gear for Tyril!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Twisted Wooden Staff Rare Portrait](images/premiums/loot_219.png)<span class="itemTooltipContents">ID: 219**Twisted Wooden Staff (Tyril)**The twisting only serves to make it stronger.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Health</span>
+            <span style="margin-left:15px">Tyril (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Fine Jade Necklace Rare Portrait](images/premiums/loot_223.png)<span class="itemTooltipContents">ID: 223**Fine Jade Necklace (Tyril)**A fine necklace purchased from a merchant in Triboar.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Tyril (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Empowered Rope of Entanglement Golden Epic Portrait](images/premiums/loot_228.png)<span class="itemTooltipContents">ID: 228**Empowered Rope of Entanglement (Tyril)**It's easier for you if you don't fight it. It feeds on your struggles.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Tyril (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Fine Cloth Shirt Rare Portrait](images/premiums/loot_231.png)<span class="itemTooltipContents">ID: 231**Fine Cloth Shirt (Tyril)**A fine shirt. I almost feel bad taking it out into the wild. Almost.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Moonbeam and Wild Inspiration</span>
+            <span style="margin-left:15px">Tyril (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Hefty Bag of Tricks Rare Portrait](images/premiums/loot_235.png)<span class="itemTooltipContents">ID: 235**Hefty Bag of Tricks (Tyril)**It's almost too heavy to carry. Perhaps that's a trick for its owner.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Tyril (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Fine Ring of the Frog Rare Portrait](images/premiums/loot_239.png)<span class="itemTooltipContents">ID: 239**Fine Ring of the Frog (Tyril)**Frogs have many fine attributes that are quite useful when adventuring.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Tyril (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x10 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 18</div>
+### Force Grey - Jamilah Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Contains 10 Platinum Chests and awesome gear for Jamilah!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Metal Bangles Rare Portrait](images/premiums/loot_243.png)<span class="itemTooltipContents">ID: 243**Metal Bangles (Jamilah)**More elegant arm wear for a more successful adventurer.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Jamilah (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Stealthy Boots Rare Portrait](images/premiums/loot_247.png)<span class="itemTooltipContents">ID: 247**Stealthy Boots (Jamilah)**A fine pair of boots with a padded sole.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Jamilah (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Deathbringer Greatsword Golden Epic Portrait](images/premiums/loot_252.png)<span class="itemTooltipContents">ID: 252**Deathbringer Greatsword (Jamilah)**They'll never see me coming.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Frontline Fighter</span>
+            <span style="margin-left:15px">Jamilah (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Heroic Periapt Rare Portrait](images/premiums/loot_255.png)<span class="itemTooltipContents">ID: 255**Heroic Periapt (Jamilah)**A heroic amulet granted to me by a village leader after I saved some villagers.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Berserker Confidence</span>
+            <span style="margin-left:15px">Jamilah (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Emerald Ring Rare Portrait](images/premiums/loot_259.png)<span class="itemTooltipContents">ID: 259**Emerald Ring (Jamilah)**The beauty of this ring is eclipsed only by its power.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Jamilah (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Patterned Scarf Rare Portrait](images/premiums/loot_263.png)<span class="itemTooltipContents">ID: 263**Patterned Scarf (Jamilah)**A fine scarf purchased from a merchant in Port Nyanzaru.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Jamilah (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x10 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 19</div>
+### Force Grey - Arkhan Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Contains 10 Platinum Chests and awesome gear for Arkhan!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Cruel Battle Axe Rare Portrait](images/premiums/loot_267.png)<span class="itemTooltipContents">ID: 267**Cruel Battle Axe (Arkhan)**The craftsmanship is exquisite.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Arkhan (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Holy Symbol of Tiamat Golden Epic Portrait](images/premiums/loot_272.png)<span class="itemTooltipContents">ID: 272**Holy Symbol of Tiamat (Arkhan)**I've foresworn my paladin oaths and dedicated my life to serving Tiamat.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Arkhan (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Spiked Pauldron Rare Portrait](images/premiums/loot_275.png)<span class="itemTooltipContents">ID: 275**Spiked Pauldron (Arkhan)**I'll impale the heads of my enemies on these spikes! Hah hah hah!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Gold</span>
+            <span style="margin-left:15px">Arkhan (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Dragon-Blessed Shield Rare Portrait](images/premiums/loot_279.png)<span class="itemTooltipContents">ID: 279**Dragon-Blessed Shield (Arkhan)**Blessed by the Cult of the Dragon and carried into battle against their enemies.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Specialisations</span>
+            <span style="margin-left:15px">Arkhan (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Crystal Vial Rare Portrait](images/premiums/loot_283.png)<span class="itemTooltipContents">ID: 283**Crystal Vial (Arkhan)**A crystal vial with a finely crafted silver stopper.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Arkhan (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Golden Wreath Rare Portrait](images/premiums/loot_287.png)<span class="itemTooltipContents">ID: 287**Golden Wreath (Arkhan)**A golden wreath of thorns worn about ones neck.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Arkhan (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x10 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 20</div>
+### Force Grey Bundle Pack - 0 Platinum ($43.99)  
+Date of release: 11 Dec 2024
+
+> Contains 50 Platinum Chests and awesome gear for the five Force Grey Champions!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Hitch Champion Unlock Portrait](images/premiums/unlock_champion_13.png)<span class="itemTooltipContents">ID: 13**Hitch (Seat 8)**<img src="images/premiums/unlock_champion_13.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Hitch</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Broadhead Crossbow Bolt Rare Portrait](images/premiums/loot_99.png)<span class="itemTooltipContents">ID: 99**Broadhead Crossbow Bolt (Calliope)**It nearly doesn't fit in my lute!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Calliope (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Ornate Lute of Ballads Golden Epic Portrait](images/premiums/loot_104.png)<span class="itemTooltipContents">ID: 104**Ornate Lute of Ballads (Calliope)**Hey, are you even listening to me? Argh! That's it...!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Calliope (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Triple-Clasped Cloak Rare Portrait](images/premiums/loot_107.png)<span class="itemTooltipContents">ID: 107**Triple-Clasped Cloak (Calliope)**The only way this thing comes flying off in combat is if I'm feeling especially fabulous.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Bardic Inspiration</span>
+            <span style="margin-left:15px">Calliope (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Studded Leather Bracers Rare Portrait](images/premiums/loot_111.png)<span class="itemTooltipContents">ID: 111**Studded Leather Bracers (Calliope)**Some of the best wrist-based protection a girl can ask for.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Song of Protection</span>
+            <span style="margin-left:15px">Calliope (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Magically Enhanced Satchel Rare Portrait](images/premiums/loot_115.png)<span class="itemTooltipContents">ID: 115**Magically Enhanced Satchel (Calliope)**Touch the gem in the wrong way and boom! Hope you weren't too attached to that hand.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Calliope (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Sturdy Leather Eyepatch Rare Portrait](images/premiums/loot_119.png)<span class="itemTooltipContents">ID: 119**Sturdy Leather Eyepatch (Calliope)**A sturdy accessory that aids in my night time adventures.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Calliope (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Twisted Wooden Staff Rare Portrait](images/premiums/loot_219.png)<span class="itemTooltipContents">ID: 219**Twisted Wooden Staff (Tyril)**The twisting only serves to make it stronger.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Health</span>
+            <span style="margin-left:15px">Tyril (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Fine Jade Necklace Rare Portrait](images/premiums/loot_223.png)<span class="itemTooltipContents">ID: 223**Fine Jade Necklace (Tyril)**A fine necklace purchased from a merchant in Triboar.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Tyril (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Empowered Rope of Entanglement Golden Epic Portrait](images/premiums/loot_228.png)<span class="itemTooltipContents">ID: 228**Empowered Rope of Entanglement (Tyril)**It's easier for you if you don't fight it. It feeds on your struggles.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Tyril (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Fine Cloth Shirt Rare Portrait](images/premiums/loot_231.png)<span class="itemTooltipContents">ID: 231**Fine Cloth Shirt (Tyril)**A fine shirt. I almost feel bad taking it out into the wild. Almost.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Moonbeam and Wild Inspiration</span>
+            <span style="margin-left:15px">Tyril (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Hefty Bag of Tricks Rare Portrait](images/premiums/loot_235.png)<span class="itemTooltipContents">ID: 235**Hefty Bag of Tricks (Tyril)**It's almost too heavy to carry. Perhaps that's a trick for its owner.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Tyril (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Fine Ring of the Frog Rare Portrait](images/premiums/loot_239.png)<span class="itemTooltipContents">ID: 239**Fine Ring of the Frog (Tyril)**Frogs have many fine attributes that are quite useful when adventuring.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Tyril (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Metal Bangles Rare Portrait](images/premiums/loot_243.png)<span class="itemTooltipContents">ID: 243**Metal Bangles (Jamilah)**More elegant arm wear for a more successful adventurer.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Jamilah (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Stealthy Boots Rare Portrait](images/premiums/loot_247.png)<span class="itemTooltipContents">ID: 247**Stealthy Boots (Jamilah)**A fine pair of boots with a padded sole.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Jamilah (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Deathbringer Greatsword Golden Epic Portrait](images/premiums/loot_252.png)<span class="itemTooltipContents">ID: 252**Deathbringer Greatsword (Jamilah)**They'll never see me coming.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Frontline Fighter</span>
+            <span style="margin-left:15px">Jamilah (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Heroic Periapt Rare Portrait](images/premiums/loot_255.png)<span class="itemTooltipContents">ID: 255**Heroic Periapt (Jamilah)**A heroic amulet granted to me by a village leader after I saved some villagers.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Berserker Confidence</span>
+            <span style="margin-left:15px">Jamilah (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Emerald Ring Rare Portrait](images/premiums/loot_259.png)<span class="itemTooltipContents">ID: 259**Emerald Ring (Jamilah)**The beauty of this ring is eclipsed only by its power.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Jamilah (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Patterned Scarf Rare Portrait](images/premiums/loot_263.png)<span class="itemTooltipContents">ID: 263**Patterned Scarf (Jamilah)**A fine scarf purchased from a merchant in Port Nyanzaru.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Jamilah (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Cruel Battle Axe Rare Portrait](images/premiums/loot_267.png)<span class="itemTooltipContents">ID: 267**Cruel Battle Axe (Arkhan)**The craftsmanship is exquisite.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Arkhan (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Holy Symbol of Tiamat Golden Epic Portrait](images/premiums/loot_272.png)<span class="itemTooltipContents">ID: 272**Holy Symbol of Tiamat (Arkhan)**I've foresworn my paladin oaths and dedicated my life to serving Tiamat.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Arkhan (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Spiked Pauldron Rare Portrait](images/premiums/loot_275.png)<span class="itemTooltipContents">ID: 275**Spiked Pauldron (Arkhan)**I'll impale the heads of my enemies on these spikes! Hah hah hah!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Gold</span>
+            <span style="margin-left:15px">Arkhan (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Dragon-Blessed Shield Rare Portrait](images/premiums/loot_279.png)<span class="itemTooltipContents">ID: 279**Dragon-Blessed Shield (Arkhan)**Blessed by the Cult of the Dragon and carried into battle against their enemies.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Specialisations</span>
+            <span style="margin-left:15px">Arkhan (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Crystal Vial Rare Portrait](images/premiums/loot_283.png)<span class="itemTooltipContents">ID: 283**Crystal Vial (Arkhan)**A crystal vial with a finely crafted silver stopper.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Arkhan (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Golden Wreath Rare Portrait](images/premiums/loot_287.png)<span class="itemTooltipContents">ID: 287**Golden Wreath (Arkhan)**A golden wreath of thorns worn about ones neck.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Arkhan (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Multi-Pouch Rare Portrait](images/premiums/loot_291.png)<span class="itemTooltipContents">ID: 291**Multi-Pouch (Hitch)**Why have one pouch when you could have five?</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ricochet</span>
+            <span style="margin-left:15px">Hitch (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Sticky Boots Rare Portrait](images/premiums/loot_295.png)<span class="itemTooltipContents">ID: 295**Sticky Boots (Hitch)**I can scale all but the slipperiest surfaces.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Hitch (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Magnificent Cape of Free Flowing Golden Epic Portrait](images/premiums/loot_300.png)<span class="itemTooltipContents">ID: 300**Magnificent Cape of Free Flowing (Hitch)**It never gets tangled in my legs.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Natural Performer</span>
+            <span style="margin-left:15px">Hitch (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Golden Dagger Rare Portrait](images/premiums/loot_303.png)<span class="itemTooltipContents">ID: 303**Golden Dagger (Hitch)**Everything's better with a little gold added in.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Hitch (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Crystal Ring Rare Portrait](images/premiums/loot_307.png)<span class="itemTooltipContents">ID: 307**Crystal Ring (Hitch)**That's 100% legitimate Icewind Crystal.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Hitch (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Static Rod Rare Portrait](images/premiums/loot_311.png)<span class="itemTooltipContents">ID: 311**Static Rod (Hitch)**It has some small magical properties that makes it quite useful.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Hitch (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x50 (Shinies x5)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 22</div>
+### Minsc's Starter Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Contains 10 Platinum Chests and awesome gear for Minsc!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Sharp Greatsword Rare Portrait](images/premiums/loot_147.png)<span class="itemTooltipContents">ID: 147**Sharp Greatsword (Minsc)**Minsc just got this sharpened by a smithy in Baldur's Gate. Good fellow. Cheap.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Minsc (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Reinforced Leather Vest Rare Portrait](images/premiums/loot_151.png)<span class="itemTooltipContents">ID: 151**Reinforced Leather Vest (Minsc)**It's got holes for Minsc's extremely large biceps, so Minsc is a fan!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Minsc (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Full Iron Bracers Rare Portrait](images/premiums/loot_155.png)<span class="itemTooltipContents">ID: 155**Full Iron Bracers (Minsc)**This reminds Minsc of a time... never mind.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Overkill</span>
+            <span style="margin-left:15px">Minsc (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Silken Cloak of the Beloved Ranger Golden Epic Portrait](images/premiums/loot_160.png)<span class="itemTooltipContents">ID: 160**Silken Cloak of the Beloved Ranger (Minsc)**Minsc saves some king's daughter, and this is all he gets? Barely worth it!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">All Specialisations</span>
+            <span style="margin-left:15px">Minsc (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Tight Leather Belt Rare Portrait](images/premiums/loot_163.png)<span class="itemTooltipContents">ID: 163**Tight Leather Belt (Minsc)**It's important to keep your pants up, lest Boo bite you in hard to reach places.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Minsc (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Solid Plate Boots Rare Portrait](images/premiums/loot_167.png)<span class="itemTooltipContents">ID: 167**Solid Plate Boots (Minsc)**Solid buttkicking soles! Good find, Boo!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Minsc (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x10 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 29</div>
+### Jarlaxle's Starter Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Contains 10 Platinum Chests and awesome gear for Jarlaxle!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Majestic Rapier Rare Portrait](images/premiums/loot_75.png)<span class="itemTooltipContents">ID: 75**Majestic Rapier (Jarlaxle)**There's nothing quite so elegant or majestic as a finely crafted rapier.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Knave's Eye Patch Golden Epic Portrait](images/premiums/loot_80.png)<span class="itemTooltipContents">ID: 80**Knave's Eye Patch (Jarlaxle)**You can't hide from my magical eye... patch.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Master Attuner</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Velvet Feathered Hat Rare Portrait](images/premiums/loot_83.png)<span class="itemTooltipContents">ID: 83**Velvet Feathered Hat (Jarlaxle)**It's a pleasure to wear, though not for my enemies.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Master of Disguise</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Lesser Piwafwi Cloak Rare Portrait](images/premiums/loot_87.png)<span class="itemTooltipContents">ID: 87**Lesser Piwafwi Cloak (Jarlaxle)**It has some use, but it could be so much more.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Master of Piracy</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Ring of Power Rare Portrait](images/premiums/loot_91.png)<span class="itemTooltipContents">ID: 91**Ring of Power (Jarlaxle)**But what power, you ask? I'll never tell.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Shiny Mithral Spurs Rare Portrait](images/premiums/loot_95.png)<span class="itemTooltipContents">ID: 95**Shiny Mithral Spurs (Jarlaxle)**Dirty dwarven metal, sure, but you can't deny the craftsmanship.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x10 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 36</div>
+### Asharra Starter Pack - 0 Platinum ($5.99)  
+Date of release: 11 Dec 2024
+
+> Contains 10 Platinum Chests and awesome gear for Asharra!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Ornate Jade Spear of the Mind Golden Epic Portrait](images/premiums/loot_124.png)<span class="itemTooltipContents">ID: 124**Ornate Jade Spear of the Mind (Asharra)**The finest spear I've seen in all my years protecting the skies of Chult.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Asharra (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Orb of Squalls Rare Portrait](images/premiums/loot_127.png)<span class="itemTooltipContents">ID: 127**Orb of Squalls (Asharra)**This orb causes a strong wind to swirl past you, making footing difficult.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Take Flight</span>
+            <span style="margin-left:15px">Asharra (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Golden Robe Rare Portrait](images/premiums/loot_131.png)<span class="itemTooltipContents">ID: 131**Golden Robe (Asharra)**A golden robe with light colors and brilliant golden cloud motifs.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Paragon of Kir Sabal</span>
+            <span style="margin-left:15px">Asharra (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Hardened Leather Pouch Rare Portrait](images/premiums/loot_135.png)<span class="itemTooltipContents">ID: 135**Hardened Leather Pouch (Asharra)**A well loved pouch that I'd guess belonged to a lesser Aarakocra priest or cleric.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Specialisations</span>
+            <span style="margin-left:15px">Asharra (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Jeweled Aarakocra Necklace Rare Portrait](images/premiums/loot_139.png)<span class="itemTooltipContents">ID: 139**Jeweled Aarakocra Necklace (Asharra)**This fine necklace obviously belonged to a powerful Aarakocra at some point in the past.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Asharra (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Jeweled Copper Armlet Rare Portrait](images/premiums/loot_143.png)<span class="itemTooltipContents">ID: 143**Jeweled Copper Armlet (Asharra)**A shiny armlet with what looks like a small citrine or amber set in it.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Asharra (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x10 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 37</div>
+### Delina's Starter Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Contains 10 Platinum Chests and awesome gear for Delina!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Ruby Focused Dagger of Danger Golden Epic Portrait](images/premiums/loot_172.png)<span class="itemTooltipContents">ID: 172**Ruby Focused Dagger of Danger (Delina)**In a pinch, I can channel my spells through the ruby on this dagger.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Delina (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Master's Necklace Rare Portrait](images/premiums/loot_175.png)<span class="itemTooltipContents">ID: 175**Master's Necklace (Delina)**Someone of great power wore this necklace. But they're gone, and I'm still here.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Delina (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Charged Orb Rare Portrait](images/premiums/loot_179.png)<span class="itemTooltipContents">ID: 179**Charged Orb (Delina)**Channeling the Weave into your focus allows you to charge your spells.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Surge of Power</span>
+            <span style="margin-left:15px">Delina (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Fine Belt and Sheath Rare Portrait](images/premiums/loot_183.png)<span class="itemTooltipContents">ID: 183**Fine Belt and Sheath (Delina)**A fine gift from a young human who once fancied me.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Spell Bombardment</span>
+            <span style="margin-left:15px">Delina (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![High Collared Cape Rare Portrait](images/premiums/loot_187.png)<span class="itemTooltipContents">ID: 187**High Collared Cape (Delina)**I look like quite the mature and knowledgeable elf wearing this. Little do they know.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Empowered Spell</span>
+            <span style="margin-left:15px">Delina (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Masterful Silken Robe Rare Portrait](images/premiums/loot_191.png)<span class="itemTooltipContents">ID: 191**Masterful Silken Robe (Delina)**I've been searching for the master who crafted this for years. It's wondrous!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Delina (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x10 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 38</div>
+### Makos Starter Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Contains 10 Platinum Chests and awesome gear for Makos!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Golden Necklace of Fireballs Golden Epic Portrait](images/premiums/loot_196.png)<span class="itemTooltipContents">ID: 196**Golden Necklace of Fireballs (Makos)**This ought to draw their attention.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Makos (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Twisted Dagger Focus Rare Portrait](images/premiums/loot_199.png)<span class="itemTooltipContents">ID: 199**Twisted Dagger Focus (Makos)**Allows me to focus my fiendish magic.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Self DPS</span>
+            <span style="margin-left:15px">Makos (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Dyed Leather Pouch Rare Portrait](images/premiums/loot_203.png)<span class="itemTooltipContents">ID: 203**Dyed Leather Pouch (Makos)**Finding black leather dye is extremely difficult. Luckily, I know a Fiend or two.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Makos (Slot 3)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Magnificent Cape Rare Portrait](images/premiums/loot_207.png)<span class="itemTooltipContents">ID: 207**Magnificent Cape (Makos)**Magnificent, much like myself!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">All Specialisations</span>
+            <span style="margin-left:15px">Makos (Slot 4)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Gold Stitched Robe Rare Portrait](images/premiums/loot_211.png)<span class="itemTooltipContents">ID: 211**Gold Stitched Robe (Makos)**Finally, a robe worthy of my great power.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Makos (Slot 5)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon3 tooltipHolder">![Fine Acolyte's Belt Rare Portrait](images/premiums/loot_215.png)<span class="itemTooltipContents">ID: 215**Fine Acolyte's Belt (Makos)**A rare gift from my patron, Arikas. It serves me well.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Rare**</span>
+            <span style="margin-left:15px">Ultimate Cooldown Reduction</span>
+            <span style="margin-left:15px">Makos (Slot 6)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Chest Chest Portrait](images/premiums/chests_2.png)<span class="itemTooltipContents">ID: 2**Platinum Chest**<code>"for_crusaders":[]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Chest</span>
+            <span style="margin-left:15px">x10 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 507</div>
 ### Sharran Stoki Theme Pack - 3,830 Platinum ($0.00)  
 Date of release: 11 Dec 2024
@@ -613,6 +1867,234 @@ Contents:
             <span style="margin-left:15px">x1</span>
         </span>
     </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 530</div>
+### DPS Starter Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Power up Jarlaxle to push your formations further and faster!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Knave's Eye Patch Golden Epic Portrait](images/premiums/loot_80.png)<span class="itemTooltipContents">ID: 80**Knave's Eye Patch (Jarlaxle)**You can't hide from my magical eye... patch.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Master Attuner</span>
+            <span style="margin-left:15px">Jarlaxle (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![??? ??? Portrait](images/premiums/hard_currency_25106.png)<span class="itemTooltipContents">ID: 25106**???**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**???**</span>
+            <span style="margin-left:15px">hard_currency</span>
+            <span style="margin-left:15px">ID: 25106</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Potion of Specialization Buff Portrait](images/premiums/buff_35.png)<span class="itemTooltipContents">ID: 35**Potion of Specialization**The dense, purple liquid has an ovoid cloud of pink floating in it.<code>reset_specializations,1</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of Specialization</span>
+            <span style="margin-left:15px">x5</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x5</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Jarlaxle Chest Chest Portrait](images/premiums/chests_464.png)<span class="itemTooltipContents">ID: 464**Platinum Jarlaxle Chest**Loot for: Jarlaxle<code>"for_crusaders":[4]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Jarlaxle Chest</span>
+            <span style="margin-left:15px">x6 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 531</div>
+### Tanking & Healing Starter Pack - 0 Platinum ($24.99)  
+Date of release: 11 Dec 2024
+
+> Unlock the full power of tanking & healing with boosts to Celeste, Nayeli, and Calliope as well as an exclusive familiar to help you!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Champion Nayeli Skin Portrait](images/premiums/skin_7.png)<span class="itemTooltipContents">ID: 7**Champion Nayeli (Nayeli)**<img src="images/premiums/skin_7.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Champion Nayeli</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Champion Calliope Skin Portrait](images/premiums/skin_19.png)<span class="itemTooltipContents">ID: 19**Champion Calliope (Calliope)**<img src="images/premiums/skin_19.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Champion Calliope</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Healer of Toril Celeste Skin Portrait](images/premiums/skin_28.png)<span class="itemTooltipContents">ID: 28**Healer of Toril Celeste (Celeste)**<img src="images/premiums/skin_28.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Healer of Toril Celeste</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Iris Familiar Portrait](images/premiums/familiar_13.png)<span class="itemTooltipContents">ID: 13**Iris**Looks very familiar.<img src="images/premiums/familiar_13.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Iris</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Ornate Headband of Faith Golden Epic Portrait](images/premiums/loot_28.png)<span class="itemTooltipContents">ID: 28**Ornate Headband of Faith (Celeste)**A golden headband inlaid with a brilliant blue sapphire.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Celeste (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Figurine Of Wondrous Power Golden Epic Portrait](images/premiums/loot_52.png)<span class="itemTooltipContents">ID: 52**Figurine Of Wondrous Power (Nayeli)**A wondrous item that grants me the power to track down those I've sworn vengeance against.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Nayeli (Slot 1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Ornate Lute of Ballads Golden Epic Portrait](images/premiums/loot_104.png)<span class="itemTooltipContents">ID: 104**Ornate Lute of Ballads (Calliope)**Hey, are you even listening to me? Argh! That's it...!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">All Champion Damage</span>
+            <span style="margin-left:15px">Calliope (Slot 2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![??? ??? Portrait](images/premiums/hard_currency_25106.png)<span class="itemTooltipContents">ID: 25106**???**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**???**</span>
+            <span style="margin-left:15px">hard_currency</span>
+            <span style="margin-left:15px">ID: 25106</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Potion of Specialization Buff Portrait](images/premiums/buff_35.png)<span class="itemTooltipContents">ID: 35**Potion of Specialization**The dense, purple liquid has an ovoid cloud of pink floating in it.<code>reset_specializations,1</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of Specialization</span>
+            <span style="margin-left:15px">x10</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x10</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Celeste Chest Chest Portrait](images/premiums/chests_462.png)<span class="itemTooltipContents">ID: 462**Platinum Celeste Chest**Loot for: Celeste<code>"for_crusaders":[2]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Celeste Chest</span>
+            <span style="margin-left:15px">x6 (Shinies x1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Nayeli Chest Chest Portrait](images/premiums/chests_463.png)<span class="itemTooltipContents">ID: 463**Platinum Nayeli Chest**Loot for: Nayeli<code>"for_crusaders":[3]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Nayeli Chest</span>
+            <span style="margin-left:15px">x6 (Shinies x1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Calliope Chest Chest Portrait](images/premiums/chests_465.png)<span class="itemTooltipContents">ID: 465**Platinum Calliope Chest**Loot for: Calliope<code>"for_crusaders":[5]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Calliope Chest</span>
+            <span style="margin-left:15px">x6 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 532</div>
+### Choose Your Champion Starter Pack - 0 Platinum ($11.99)  
+Date of release: 11 Dec 2024
+
+> Unlock a Champion of your choice with full Uncommon gear, 6 Platinum Chests, and an assortment of potions to speed your play!
+
+Contents:
+
+<span class="premiumsTableRow">
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 533</div>
+### 3x Choose Your Champion Starter Pack - 0 Platinum ($24.99)  
+Date of release: 11 Dec 2024
+
+> Unlock THREE Champions of your choice with gear & Platinum Chests for them and an exclusive familiar to help you!
+
+Contents:
+
+<span class="premiumsTableRow">
 </span>
 </div></div>
 
@@ -861,7 +2343,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 497**Sharran Celeste (Celeste)**</span></span>
+            <span class="tooltipHolder">![Sharran Celeste Skin Portrait](images/premiums/skin_497.png)<span class="itemTooltipContents">ID: 497**Sharran Celeste (Celeste)**<img src="images/premiums/skin_497.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -923,7 +2405,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 236**Crescent the Lunar Moth**It glows in moonlight!</span></span>
+            <span class="tooltipHolder">![Crescent the Lunar Moth Familiar Portrait](images/premiums/familiar_236.png)<span class="itemTooltipContents">ID: 236**Crescent the Lunar Moth**It glows in moonlight!<img src="images/premiums/familiar_236.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1133,12 +2615,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2008**Multiversal Allies**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2008**Multiversal Allies**Death is part of every culture, every people. I've studied them all.<code>_effect_def,2193</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Multiversal Allies</span>
-            <span style="margin-left:15px">Artemis ()</span>
+            <span style="margin-left:15px">Artemis (???: [_effect_def,2193])</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1204,7 +2686,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 242**Mercy the Vein Golem**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 242**Mercy the Vein Golem**I'm a big titan now!</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1213,12 +2695,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2043**Fierce Fighter**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Fierce Fighter Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2043**Fierce Fighter**I've seen a thousand battles, and I'll see a thousand more.<code>buff_upgrades,80,16150,16151,16152</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Fierce Fighter</span>
-            <span style="margin-left:15px">Mehen ()</span>
+            <span style="margin-left:15px">Mehen (80% All  Specialisations)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1274,12 +2756,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2045**Electrodeposition**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Electrodeposition Feat Portrait](images/featicons/goldfind.png)<span class="itemTooltipContents">ID: 2045**Electrodeposition**Did you know gold is highly conductive? Would you like a demonstration?<code>buff_upgrade,80,4745</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Electrodeposition</span>
-            <span style="margin-left:15px">Baeloth ()</span>
+            <span style="margin-left:15px">Baeloth (80% Paid Partially with Pain)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1436,12 +2918,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2046**Prodigal Leader**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 2046**Prodigal Leader**Rally under the banner of Clan Undurr!<code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Prodigal Leader</span>
-            <span style="margin-left:15px">Barrowin ()</span>
+            <span style="margin-left:15px">Barrowin (50% All Champion Damage)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1507,12 +2989,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2047**Prodigal Leader**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 2047**Prodigal Leader**I'll never give up the fight!<code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Prodigal Leader</span>
-            <span style="margin-left:15px">Imoen ()</span>
+            <span style="margin-left:15px">Imoen (50% All Champion Damage)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1578,12 +3060,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2048**Unwavering Inspiration**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unwavering Inspiration Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2048**Unwavering Inspiration**I believe in myself! I believe in all of us!<code>buff_upgrades,80,14791,14792,14793</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Unwavering Inspiration</span>
-            <span style="margin-left:15px">Diana ()</span>
+            <span style="margin-left:15px">Diana (80% All First Specialisations)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1649,12 +3131,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2049**reuse (Do not translate)**</span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1240**Feat**???: 1240</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">reuse (Do not translate)</span>
-            <span style="margin-left:15px">Stoki ()</span>
+            <span style="margin-left:15px">???: 1240</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1811,12 +3292,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2050**Multiversal Allies**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2050**Multiversal Allies**We are stronger together.<code>_effect_def,2193</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Multiversal Allies</span>
-            <span style="margin-left:15px">Kent ()</span>
+            <span style="margin-left:15px">Kent (???: [_effect_def,2193])</span>
         </span>
     </span>
     <span class="premiumsTableItem">
