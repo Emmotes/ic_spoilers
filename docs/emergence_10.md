@@ -34,7 +34,7 @@ We know the next Emergence event will be Constructs and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Golden Epic](images/general/unknown.png)<span class="itemTooltipContents">ID: 3729**slot 2 (Eric)**slot 2</span></span>
+            ![Unknown Golden Epic](images/general/unknown.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
@@ -44,11 +44,20 @@ We know the next Emergence event will be Constructs and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 514**Modron Ellywick (Ellywick)**</span></span>
+            ![Unknown Skin Portrait](images/general/unknown.png)
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
             <span style="margin-left:15px">Modron Ellywick</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Unknown Skin Portrait](images/general/unknown.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Modron Vin Ursa</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
@@ -79,6 +88,15 @@ We know the next Emergence event will be Constructs and that it will start on 22
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Tenacious</span>
             <span style="margin-left:15px">Bobby (Stat: +2 Constitution)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            ![Unknown Feat Icon](images/general/unknown.png)
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Prolonged Push</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
