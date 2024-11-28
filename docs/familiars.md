@@ -7,7 +7,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Armored Owlbear Portrait](images/familiars/armoredowlbear.png)<span class="featTooltipContents">ID: 232**Armored Owlbear**<img src="images/familiars/armoredowlbear.gif" alt="Armored Owlbear Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Armored Owlbear Portrait](images/familiars/armoredowlbear.png)<span class="featTooltipContents">ID: 232**Armored Owlbear**<span style="position:relative"><span class="championPortraitsArachnophobe" style="visibility:inherit;background-color:var(--Sooty)" id=""><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" style="width:98%;height:98%"></span><img src="images/familiars/armoredowlbear.gif" alt="Armored Owlbear Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Armored Owlbear
@@ -24,7 +24,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sir Perchington the Fancy Owl Portrait](images/familiars/sirperchingtonthefancyowl.png)<span class="featTooltipContents">ID: 234**Sir Perchington the Fancy Owl**<img src="images/familiars/sirperchingtonthefancyowl.gif" alt="Sir Perchington the Fancy Owl Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Sir Perchington the Fancy Owl Portrait](images/familiars/sirperchingtonthefancyowl.png)<span class="featTooltipContents">ID: 234**Sir Perchington the Fancy Owl**<span style="position:relative"><span class="championPortraitsArachnophobe" style="visibility:inherit;background-color:var(--Sooty)" id=""><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" style="width:98%;height:98%"></span><img src="images/familiars/sirperchingtonthefancyowl.gif" alt="Sir Perchington the Fancy Owl Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Sir Perchington the Fancy Owl
@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 244**Arachneye the Spider**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content"><span class="championPortraitsArachnophobe" style="visibility:visible;background-color:var(--Onyx)" id="arachneyethespider" onClick="arachnophobe('arachneyethespider','arachneyethespidermodel')"><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" onMouseOver="this.style.backgroundColor='black'" onMouseOut="this.style.backgroundColor='var(--Onyx)'"></span><img src="images/familiars/arachneyethespider.png" alt="Arachneye the Spider Portrait" onClick="arachnophobe('arachneyethespider','arachneyethespidermodel')"><span class="featTooltipContents">ID: 244**Arachneye the Spider**<span style="position:relative"><span class="championPortraitsArachnophobe" style="visibility:inherit;background-color:var(--Sooty)" id="arachneyethespidermodel"><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" style="width:98%;height:98%"></span><img src="images/familiars/arachneyethespider.gif" alt="Arachneye the Spider Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Arachneye the Spider
@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sharran Viper Portrait](images/familiars/sharranviper.png)<span class="featTooltipContents">ID: 233**Sharran Viper**<img src="images/familiars/sharranviper.gif" alt="Sharran Viper Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Sharran Viper Portrait](images/familiars/sharranviper.png)<span class="featTooltipContents">ID: 233**Sharran Viper**<span style="position:relative"><span class="championPortraitsArachnophobe" style="visibility:inherit;background-color:var(--Sooty)" id=""><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" style="width:98%;height:98%"></span><img src="images/familiars/sharranviper.gif" alt="Sharran Viper Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Sharran Viper
@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sharran Weasel Portrait](images/familiars/sharranweasel.png)<span class="featTooltipContents">ID: 235**Sharran Weasel**<img src="images/familiars/sharranweasel.gif" alt="Sharran Weasel Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Sharran Weasel Portrait](images/familiars/sharranweasel.png)<span class="featTooltipContents">ID: 235**Sharran Weasel**<span style="position:relative"><span class="championPortraitsArachnophobe" style="visibility:inherit;background-color:var(--Sooty)" id=""><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" style="width:98%;height:98%"></span><img src="images/familiars/sharranweasel.gif" alt="Sharran Weasel Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Sharran Weasel
@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 243**Skitters the Lizard**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Skitters the Lizard Portrait](images/familiars/skittersthelizard.png)<span class="featTooltipContents">ID: 243**Skitters the Lizard**<span style="position:relative"><span class="championPortraitsArachnophobe" style="visibility:inherit;background-color:var(--Sooty)" id=""><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" style="width:98%;height:98%"></span><img src="images/familiars/skittersthelizard.gif" alt="Skitters the Lizard Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Skitters the Lizard
@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Crescent the Lunar Moth Portrait](images/familiars/crescentthelunarmoth.png)<span class="featTooltipContents">ID: 236**Crescent the Lunar Moth**<img src="images/familiars/crescentthelunarmoth.gif" alt="Crescent the Lunar Moth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Crescent the Lunar Moth Portrait](images/familiars/crescentthelunarmoth.png)<span class="featTooltipContents">ID: 236**Crescent the Lunar Moth**<span style="position:relative"><span class="championPortraitsArachnophobe" style="visibility:inherit;background-color:var(--Sooty)" id=""><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" style="width:98%;height:98%"></span><img src="images/familiars/crescentthelunarmoth.gif" alt="Crescent the Lunar Moth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Crescent the Lunar Moth
@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Skystrike the Baby Griffon Portrait](images/familiars/skystrikethebabygriffon.png)<span class="featTooltipContents">ID: 238**Skystrike the Baby Griffon**<img src="images/familiars/skystrikethebabygriffon.gif" alt="Skystrike the Baby Griffon Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Skystrike the Baby Griffon Portrait](images/familiars/skystrikethebabygriffon.png)<span class="featTooltipContents">ID: 238**Skystrike the Baby Griffon**<span style="position:relative"><span class="championPortraitsArachnophobe" style="visibility:inherit;background-color:var(--Sooty)" id=""><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" style="width:98%;height:98%"></span><img src="images/familiars/skystrikethebabygriffon.gif" alt="Skystrike the Baby Griffon Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Skystrike the Baby Griffon

@@ -255,12 +255,19 @@ function discord() {
 	console.log("DI <t:"+(devInsightsTimer/1000)+":R>.");
 }
 
-function arachnophobe(id) {
+function arachnophobe(id,modelId) {
 	let ele = document.getElementById(id);
 	if (ele.style.visibility == 'visible')
 		ele.style.visibility = 'hidden';
 	else
 		ele.style.visibility = 'visible';
+	if (modelId != undefined) {
+		let model = document.getElementById(modelId);
+		if (ele.style.visibility == 'visible')
+			model.style.visibility = 'inherit';
+		else
+			model.style.visibility = 'hidden';
+	}
 }
 
 function sortPatrons() {

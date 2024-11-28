@@ -1865,38 +1865,11 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Champion Nayeli Skin Portrait](images/premiums/skin_7.png)<span class="itemTooltipContents">ID: 7**Champion Nayeli (Nayeli)**<img src="images/premiums/skin_7.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Champion Nayeli</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Champion Calliope Skin Portrait](images/premiums/skin_19.png)<span class="itemTooltipContents">ID: 19**Champion Calliope (Calliope)**<img src="images/premiums/skin_19.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Champion Calliope</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Healer of Toril Celeste Skin Portrait](images/premiums/skin_28.png)<span class="itemTooltipContents">ID: 28**Healer of Toril Celeste (Celeste)**<img src="images/premiums/skin_28.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Healer of Toril Celeste</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Iris Familiar Portrait](images/premiums/familiar_13.png)<span class="itemTooltipContents">ID: 13**Iris**Looks very familiar.<img src="images/premiums/familiar_13.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Skitters the Lizard Familiar Portrait](images/premiums/familiar_243.png)<span class="itemTooltipContents">ID: 243**Skitters the Lizard**Where's the sun!? Where's the sun!? THERE'S THE SUN!!!<img src="images/premiums/familiar_243.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Iris</span>
+            <span style="margin-left:15px">Skitters the Lizard</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -2184,7 +2157,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Scroll of Champion Summoning Buff Portrait](images/premiums/buff_2143.png)<span class="itemTooltipContents">ID: 2143**Scroll of Champion Summoning**Using this scroll allows you to choose any Event Champion. You will collect the Champion, full uncommon gear, 6 Platinum Chests, and a Golden Epic for that Champion if you haven't already collected it!</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Scroll of Champion Summoning Buff Portrait](images/premiums/buff_2143.png)<span class="itemTooltipContents">ID: 2143**Scroll of Champion Summoning**Using this scroll allows you to unlock any Event Champion. For that Champion, you will collect full uncommon gear, 6 Platinum Chests, and a Golden Epic if you haven't already collected it!</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Buff**</span>
@@ -2207,6 +2180,15 @@ Date of release: 11 Dec 2024
 Contents:
 
 <span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder"><span class="championPortraitsArachnophobe" style="visibility:visible;background-color:var(--Sooty)" id="arachneyethespider" onClick="arachnophobe('arachneyethespider','arachneyethespidermodel')"><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer"></span><img src="images/premiums/familiar_244.png" alt="Arachneye the Spider Familiar Portrait" onClick="arachnophobe('arachneyethespider','arachneyethespidermodel')"><span class="itemTooltipContents">ID: 244**Arachneye the Spider**She's got her eye on you!<span style="position:relative"><span class="championPortraitsArachnophobe" style="visibility:inherit;background-color:var(--Sooty)" id="arachneyethespidermodel"><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" style="max-width:98%;max-height:98%"></span><img src="images/premiums/familiar_244.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Arachneye the Spider</span>
+        </span>
+    </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
             <span class="tooltipHolder">![Platinum Portrait](images/premiums/hard_currency_25106.png)<span class="itemTooltipContents">**Platinum**</span></span>
@@ -2238,7 +2220,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Scroll of Champion Summoning Buff Portrait](images/premiums/buff_2143.png)<span class="itemTooltipContents">ID: 2143**Scroll of Champion Summoning**Using this scroll allows you to choose any Event Champion. You will collect the Champion, full uncommon gear, 6 Platinum Chests, and a Golden Epic for that Champion if you haven't already collected it!</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Scroll of Champion Summoning Buff Portrait](images/premiums/buff_2143.png)<span class="itemTooltipContents">ID: 2143**Scroll of Champion Summoning**Using this scroll allows you to unlock any Event Champion. For that Champion, you will collect full uncommon gear, 6 Platinum Chests, and a Golden Epic if you haven't already collected it!</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Buff**</span>
