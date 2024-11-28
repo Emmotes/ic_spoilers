@@ -1099,6 +1099,10 @@ input[type="checkbox"]:checked::before {
 	padding: 5px;
 	margin-bottom: 15px;
 }
+.weekendTableRow:hover {
+	border: 1px solid var(--Flavescent);
+	background-color: var(--Onyx);
+}
 .weekendTableIcon {
 	display: flex;
 	justify-content: center;
