@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/708.png">
-            <span class="weekendTooltipContents">ID: 708**Gold Bracers of Defense Chest**Loot for: Jamilah, Hitch, Virgil, Diana and Sentry<code>"for_crusaders":[11,13,115,148,52]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Extra Defensive**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    29 November 2024
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Virgil
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/virgil.png'">
-                        <span class="weekendTableChampionNameplate">Virgil</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hitch.png'">
-                        <span class="weekendTableChampionNameplate">Hitch</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jamilah.png'">
-                        <span class="weekendTableChampionNameplate">Jamilah</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
-                        <span class="weekendTableChampionNameplate">Diana</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/sentry.png'">
-                        <span class="weekendTableChampionNameplate">Sentry</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/709.png">
             <span class="weekendTooltipContents">ID: 709**Gold Howling Chest**Loot for: Krull, Celeste, Tyril, Lucius and Halsin<code>"for_crusaders":[53,2,10,72,156]</code></span>
         </span>
