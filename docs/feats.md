@@ -30,6 +30,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Halsin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Rampant Growth Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2002**Rampant Growth (Halsin)**The Oak Father's work is never done.<code>buff_upgrade,80,15965,4</code></span>Rampant Growth
+        </span>
+        <span class="featTableEffect">
+            <span>80% Vow of Harmony (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>04 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Warduke</span>
         </span>
         <span class="featTableIcon4">
