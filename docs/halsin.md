@@ -198,6 +198,12 @@ Halsin will be a new champion in the Simril event on 4 December 2024.
     </span>
 </span>
 
+# Formation
+
+<span class="formationBorder">
+    <svg xmlns="http://www.w3.org/2000/svg" id="Halsin" fill="#aaa" data-formationName="Halsin" data-campaignName="Simril" width="285" height="140"><circle cx="175" cy="45" r="15"/><circle cx="135" cy="25" r="15"/><circle cx="135" cy="65" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="125" r="15"/><circle cx="55" cy="25" r="15"/><circle cx="55" cy="65" r="15"/><circle cx="55" cy="105" r="15"/><circle cx="15" cy="45" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Halsin</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Simril</text></svg>
+</span>
+
 # Attacks
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -1719,8 +1725,29 @@ Dungeon Master: 4 / 6 (Potentially 5 / 6)
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![The Simril Spoilsport (Halsin) Icon](images/halsin/1650.png) **Variant 1: The Simril Spoilsport (Halsin)** (Complete Area 50)
-> No restrictions
+![The Simril Spoilsport (Halsin) Icon](images/halsin/1650.png) **Unlock Adventure: The Simril Spoilsport (Halsin)** (Complete Area 50)
+> Simril is ruined! Someone has pilfered the food supplies!
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Escape from the Shattered Sanctum Icon](images/halsin/25064.png) **Variant 1: Escape from the Shattered Sanctum** (Complete Area 75)
+> Halsin starts in the formation. He can be moved, but not removed.  
+> 1-2 Goblins spawn with each wave. They don't drop gold nor count towards quest progress.  
+> You may only use Good and/or Neutral (on the Good/Evil axis) Champions.  
+> Getting to Know Halsin: Halsin works well with Good Champions, and a specialization choice extends that to include Neutral Champions.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Lifting the Shadow Curse Icon](images/halsin/25065.png) **Variant 2: Lifting the Shadow Curse** (Complete Area 125)
+> Due to the Shadow Curse, the weather is Foggy.  
+> In non-boss areas, quest requirements are halved, but there is a 50% chance that a defeated enemy doesn't drop quest items nor count towards quest progress.  
+> Halsin starts in the formation. He can be moved, but not removed.  
+> Getting to Know Halsin: Halsin provides a chance to advance to the next area before all the quest requirements are completed.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Bear Necessities Icon](images/halsin/25066.png) **Variant 3: Bear Necessities** (Complete Area 175)
+> Halsin starts in the formation with his Archdruid of Emerald Grove and Nature's Revival abilities unlocked. He can be moved, but not removed.  
+> Champions don't recover health when moving to a new area.   
+> Champions resurrect at half health when changing areas instead of full health.  
+> Getting to Know Halsin: Halsin heals good Champions in the formation, and this can be extended to include Neutral Champions with his specialization choice.
 </div></div>
 
 # Other Champion Images
