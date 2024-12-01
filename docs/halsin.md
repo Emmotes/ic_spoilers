@@ -1173,6 +1173,52 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Sage of the Transformed Icon](images/halsin/icon_sageofthetransformed.png) **Sage of the Transformed** (Level: 240)
+> Halsin increases the number of Ceremorphosis stacks the party has by 40%, rounded down.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 15967,
+    "hero_id": 156,
+    "required_level": 240,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2141",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "Sage of the Transformed",
+    "specialization_name": "Sage of the Transformed",
+    "specialization_description": "Halsin's research into the tadpole epidemic is of great use to the foes of the Absolute.",
+    "specialization_graphic_id": 25056
+}
+{
+    "id": 2141,
+    "flavour_text": "",
+    "description": {
+        "desc": "Halsin increases the number of Ceremorphosis stacks the party has by $(amount)%, rounded down.^^Bonus Stacks: $(halsin_bonus_ceremorphosis_stacks amount)"
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "ceremorphosis_stacks_mult,40"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25056,
+    "large_graphic_id": 25056,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Protector of the Grove Icon](images/halsin/icon_protectorofthegrove.png) **Protector of the Grove** (Level: 240)
 > Increases the effect of Archdruid of Emerald Grove by your maximum chance of Call To Action triggering.
 <details><summary><em>Raw Data</em></summary>
@@ -1210,52 +1256,6 @@ Upgrades:
     "requirements": "",
     "graphic_id": 25055,
     "large_graphic_id": 25055,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "formation_circle_icon": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Sage of the Transformed Icon](images/halsin/icon_sageofthetransformed.png) **Sage of the Transformed** (Level: 240)
-> Halsin increases the number of Ceremorphosis stacks the party has by 40%, rounded down.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 15967,
-    "hero_id": 156,
-    "required_level": 240,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,2141",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "Sage of the Transformed",
-    "specialization_name": "Sage of the Transformed",
-    "specialization_description": "Halsin's research into the tadpole epidemic is of great use to the foes of the Absolute.",
-    "specialization_graphic_id": 25056
-}
-{
-    "id": 2141,
-    "flavour_text": "",
-    "description": {
-        "desc": "Halsin increases the number of Ceremorphosis stacks the party has by $(amount)%, rounded down.^^Bonus Stacks: $(halsin_bonus_ceremorphosis_stacks amount)"
-    },
-    "effect_keys": [
-        {
-            "off_when_benched": true,
-            "effect_string": "ceremorphosis_stacks_mult,40"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 25056,
-    "large_graphic_id": 25056,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
