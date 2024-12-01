@@ -6,8 +6,8 @@ A list of all champions and their patron availability.
 
 {::nomarkdown}
 <span class="patronRosterGrid" style="position:relative">
-    <span class="patronRosterItem patronRosterBorderLeft" style="order:-999999999999">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" style="order:-999999999999" style="position:relative">
+    <span class="patronRosterItem patronRosterBorderLeft" style="order:-999999999">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" style="order:-999999999" style="position:relative">
         <strong>ID</strong>
     <span class="patronSort">
         Sort: <select id="patronSort">
@@ -34,35 +34,35 @@ A list of all champions and their patron availability.
         </select>
     </span>
     </span>
-    <span class="patronRosterItem" style="order:-999999999999">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" style="order:-999999999999">
+    <span class="patronRosterItem" style="order:-999999999">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" style="order:-999999999">
         <strong>Name</strong>
     </span>
-    <span class="patronRosterItem" style="order:-999999999999">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" style="order:-999999999999">
+    <span class="patronRosterItem" style="order:-999999999">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" style="order:-999999999">
         <strong>Seat</strong>
     </span>
-    <span class="patronRosterItem" style="order:-999999999999">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" style="order:-999999999999">
+    <span class="patronRosterItem" style="order:-999999999">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" style="order:-999999999">
         <strong>Mirt</strong>
     </span>
-    <span class="patronRosterItem" style="order:-999999999999">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" style="order:-999999999999">
+    <span class="patronRosterItem" style="order:-999999999">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" style="order:-999999999">
         <strong>Vajra</strong>
     </span>
-    <span class="patronRosterItem" style="order:-999999999999">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" style="order:-999999999999">
+    <span class="patronRosterItem" style="order:-999999999">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" style="order:-999999999">
         <strong>Strahd</strong>
     </span>
-    <span class="patronRosterItem" style="order:-999999999999">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" style="order:-999999999999">
+    <span class="patronRosterItem" style="order:-999999999">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" style="order:-999999999">
         <strong>Zariel</strong>
     </span>
-    <span class="patronRosterItem" style="order:-999999999999">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" style="order:-999999999999">
+    <span class="patronRosterItem" style="order:-999999999">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" style="order:-999999999">
         <strong>Elminster</strong>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" style="order:-999999999999">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" style="order:-999999999">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="0,21,0,289,289,0,288,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="0,21,0,289,289,0,288,0">
         1
