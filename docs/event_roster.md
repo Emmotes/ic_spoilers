@@ -60,7 +60,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="uriah" style="background-image:url(images/portraits/uriah.png)">Uriah (9)</span>
 <span class="eventRosterChampion" id="karlach" style="background-image:url(images/portraits/karlach.png)">Karlach (4)</span>
 <span class="eventRosterChampion" id="presto" style="background-image:url(images/portraits/presto.png)">Presto (2)</span>
-<span class="eventRosterChampion" id="kalix" style="background-image:url(images/general/unknown.png)">Kalix</span>
+<span class="eventRosterChampion" id="kalix" style="background-image:url(images/portraits/kalix.png)">Kalix</span>
 </span>
 
 {:/nomarkdown}
