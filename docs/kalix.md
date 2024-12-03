@@ -3,6 +3,14 @@
 <span class="championPortraitsRow">
     <span class="championPortraitsColumn">
         <span class="championPortraitsImage">
+            ![PC Portrait for Kalix](images/kalix/portrait.png)
+        </span>
+        <span>
+        Portrait
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
             ![Model GIF of Kalix](images/kalix/model.gif)
         </span>
         <span>
