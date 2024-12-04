@@ -4779,7 +4779,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="142,51,25,289,289,0,289,286">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="142,51,25,289,289,0,289,286">
-        <label class="cblabel"><input type="checkbox" disabled checked>Until 2032-12-31
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-12-04
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="142,51,25,289,289,0,289,286">&nbsp;</span>
 </span><br>

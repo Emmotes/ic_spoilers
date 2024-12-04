@@ -6,25 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Simril - December
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="dhadius" style="background-image:url(images/portraits/dhadius.png)">Dhadius (5)</span>
-<span class="eventRosterChampion" id="regis" style="background-image:url(images/portraits/regis.png)">Regis (2)</span>
-<span class="eventRosterChampion" id="warden" style="background-image:url(images/portraits/warden.png)">Warden (11)</span>
-<span class="eventRosterChampion" id="krull" style="background-image:url(images/portraits/krull.png)">Krull (6)</span>
-<span class="eventRosterChampion" id="lucius" style="background-image:url(images/portraits/lucius.png)">Lucius (7)</span>
-<span class="eventRosterChampion" id="talin" style="background-image:url(images/portraits/talin.png)">Talin (2)</span>
-<span class="eventRosterChampion" id="yorven" style="background-image:url(images/portraits/yorven.png)">Yorven (10)</span>
-<span class="eventRosterChampion" id="warduke" style="background-image:url(images/portraits/warduke.png)">Warduke (8)</span>
-<span class="eventRosterChampion" id="shadowheart" style="background-image:url(images/portraits/shadowheart.png)">Shadowheart (6)</span>
-<span class="eventRosterChampion" id="halsin" style="background-image:url(images/portraits/halsin.png)">Halsin (3)</span>
-</span>
-
-{:/nomarkdown}
-
 # Wintershield - January
 
 {::nomarkdown}
@@ -226,6 +207,25 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="virgil" style="background-image:url(images/portraits/virgil.png)">Virgil (10)</span>
 <span class="eventRosterChampion" id="jangsao" style="background-image:url(images/portraits/jangsao.png)">Jang Sao (8)</span>
 <span class="eventRosterChampion" id="minthara" style="background-image:url(images/portraits/minthara.png)">Minthara (3)</span>
+</span>
+
+{:/nomarkdown}
+
+# Simril - December
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="dhadius" style="background-image:url(images/portraits/dhadius.png)">Dhadius (5)</span>
+<span class="eventRosterChampion" id="regis" style="background-image:url(images/portraits/regis.png)">Regis (2)</span>
+<span class="eventRosterChampion" id="warden" style="background-image:url(images/portraits/warden.png)">Warden (11)</span>
+<span class="eventRosterChampion" id="krull" style="background-image:url(images/portraits/krull.png)">Krull (6)</span>
+<span class="eventRosterChampion" id="lucius" style="background-image:url(images/portraits/lucius.png)">Lucius (7)</span>
+<span class="eventRosterChampion" id="talin" style="background-image:url(images/portraits/talin.png)">Talin (2)</span>
+<span class="eventRosterChampion" id="yorven" style="background-image:url(images/portraits/yorven.png)">Yorven (10)</span>
+<span class="eventRosterChampion" id="warduke" style="background-image:url(images/portraits/warduke.png)">Warduke (8)</span>
+<span class="eventRosterChampion" id="shadowheart" style="background-image:url(images/portraits/shadowheart.png)">Shadowheart (6)</span>
+<span class="eventRosterChampion" id="halsin" style="background-image:url(images/portraits/halsin.png)">Halsin (3)</span>
 </span>
 
 {:/nomarkdown}
