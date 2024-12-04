@@ -191,7 +191,7 @@ A list of champions that will be seeing reworks in upcoming events.
 
 Miscellaneous spoilers with due dates.
 
-* [EGS (Guess) Exclusive Giveaway](platform_giveaway_517.md) - 12 December 2024
+* [EGS Exclusive Giveaway](platform_giveaway_517.md) - 12 December 2024
 * [Emergence 10](emergence_10.md) - 22 January 2025
 * [New Champion Roles](new_champion_roles.md) - ???
 

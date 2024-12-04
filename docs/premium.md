@@ -223,7 +223,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 509</div>
-### Shadow Warduke Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Shadow Warduke Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 04 Dec 2024
 
 > Unlock Warduke along with his exclusive Shadow Warduke Skin & Feat!
@@ -287,6 +287,58 @@ Contents:
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Warduke Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 513</div>
+### Avatar of Shar Familiar Pack - 1,680 Platinum ($11.99)  
+Date of release: 04 Dec 2024
+
+> Collect your own Avatar of Shar Familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Sharran Weasel Familiar Portrait](images/premiums/familiar_235.png)<span class="itemTooltipContents">ID: 235**Sharran Weasel**If you lose it, it will return!<img src="images/premiums/familiar_235.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Sharran Weasel</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Hunter Buff Portrait](images/premiums/buff_1712.png)<span class="itemTooltipContents">ID: 1712**Potion of the Hunter**Increase Global Damage by 100%<code>global_dps_multiplier_mult,100</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of the Hunter</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon5 tooltipHolder">![Epic Golden Potion Buff Portrait](images/premiums/buff_1798.png)<span class="itemTooltipContents">ID: 1798**Epic Golden Potion**Gold and purple liquid swirl around each other as if dancing.<code>golden_loot,1</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Epic Golden Potion</span>
+            <span style="margin-left:15px">x1</span>
         </span>
     </span>
 </span>
@@ -1548,7 +1600,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 507</div>
-### Sharran Stoki Theme Pack - 3,830 Platinum ($0.00)  
+### Sharran Stoki Theme Pack - 3,830 Platinum ($27.99)  
 Date of release: 11 Dec 2024
 
 > Unlock Stoki along with an exclusive Sharran Skin & Viper Familiar!
@@ -1617,7 +1669,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 510</div>
-### Selûnite Shadowheart Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Selûnite Shadowheart Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 11 Dec 2024
 
 > Unlock Shadowheart along with her exclusive Selûnite Shadowheart Skin & Feat!
@@ -1681,58 +1733,6 @@ Contents:
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum  Shadowheart Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 513</div>
-### Avatar of Shar Familiar Pack - 1,680 Platinum ($0.00)  
-Date of release: 11 Dec 2024
-
-> Collect your own Avatar of Shar Familiar!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Sharran Weasel Familiar Portrait](images/premiums/familiar_235.png)<span class="itemTooltipContents">ID: 235**Sharran Weasel**If you lose it, it will return!<img src="images/premiums/familiar_235.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Sharran Weasel</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Huge Potion of Speed</span>
-            <span style="margin-left:15px">x2</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Hunter Buff Portrait](images/premiums/buff_1712.png)<span class="itemTooltipContents">ID: 1712**Potion of the Hunter**Increase Global Damage by 100%<code>global_dps_multiplier_mult,100</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Potion of the Hunter</span>
-            <span style="margin-left:15px">x1</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon5 tooltipHolder">![Epic Golden Potion Buff Portrait](images/premiums/buff_1798.png)<span class="itemTooltipContents">ID: 1798**Epic Golden Potion**Gold and purple liquid swirl around each other as if dancing.<code>golden_loot,1</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Epic Golden Potion</span>
-            <span style="margin-left:15px">x1</span>
         </span>
     </span>
 </span>
