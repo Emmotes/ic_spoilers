@@ -57,7 +57,7 @@ Kalix will be a new champion in the Grand Revel event on 5 February 2025.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Support / Hunter (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -73,7 +73,7 @@ Kalix will be a new champion in the Grand Revel event on 5 February 2025.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Male (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -110,23 +110,32 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Chameleon Carapace** (Guess)
-> Unknown effect.
+**Unknown** (Guess)
+> While Kalix is in the front column of any party, your active party's damage is increased by 100%. This means this ability affects your active party even if Kalix is not in your active party (as long as they're in the front-most column of their party).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25406,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y8/Icon_Formation_KalixChameleonCarapace",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2195,
+    "flavour_text": "",
+    "description": {
+        "desc": "While Kalix is in the front column of any party, your active party's damage is increased by 100%. This means this ability affects your active party even if Kalix is not in your active party (as long as they're in the front-most column of their party)."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -136,47 +145,31 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Mind Link** (Guess)
-> Unknown effect.
+> Kalix telepathically increases the damage of all Champions not adjacent to him by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25407,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y8/Icon_Formation_KalixMindLink",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**The Deadliest Prey** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 25408,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y8/Icon_Formation_KalixTheDeadliestPrey",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2196,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kalix telepathically increases the damage of all Champions not adjacent to him by 100%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -186,22 +179,99 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unorthodox Alliance** (Guess)
-> Unknown effect.
+> Kalix gains an Ally stack for each Champion in the formation that is not a Standard species. He increases the effect of Mindlink by 100% for each Ally stack, stacking multiplicatively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25409,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y8/Icon_Formation_KalixUnorthodoxAlliance",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2197,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kalix gains an Ally stack for each Champion in the formation that is not a Standard species. He increases the effect of Mindlink by 100% for each Ally stack, stacking multiplicatively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Chameleon Carapace** (Guess)
+> Enemies that attempt to choose Kalix as a target do not, and instead choose to attack another Champion, assuming another valid target exists. The effect of Mindlink is increased by 100% each time this triggers, stacking multiplicatively up to 25 times and resetting when changing areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2198,
+    "flavour_text": "",
+    "description": {
+        "desc": "Enemies that attempt to choose Kalix as a target do not, and instead choose to attack another Champion, assuming another valid target exists. The effect of Mindlink is increased by 100% each time this triggers, stacking multiplicatively up to 25 times and resetting when changing areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**The Deadliest Prey** (Guess)
+> Humanoids are Kalix's favorite foe. All Champions deal 400% additional damage against Kalix's favored foes.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2199,
+    "flavour_text": "",
+    "description": {
+        "desc": "Humanoids are Kalix's favorite foe. All Champions deal 400% additional damage against Kalix's favored foes."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -213,47 +283,31 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Creative Camouflage** (Guess)
-> Unknown effect.
+> The maximum stacks of Chameleon Carapace are doubled, and 50% of the current stacks are not reset when you change areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25411,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y8/Icon_Specialization_KalixCreativeCamouflage",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**One For You One For Me** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 25412,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y8/Icon_Specialization_KalixOneForYouOneForMe",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2201,
+    "flavour_text": "",
+    "description": {
+        "desc": "The maximum stacks of Chameleon Carapace are doubled, and 50% of the current stacks are not reset when you change areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -263,22 +317,65 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Strength in Numbers** (Guess)
-> Unknown effect.
+> The most represented species in your formation grant additional Ally stacks for Unorthodox Alliance (even if it is not a Standard species). In the case of a tie, Champions from all tied species grant an additional Ally stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25413,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y8/Icon_Specialization_KalixStrengthinNumbers",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2200,
+    "flavour_text": "",
+    "description": {
+        "desc": "The most represented species in your formation grant additional Ally stacks for Unorthodox Alliance (even if it is not a Standard species). In the case of a tie, Champions from all tied species grant an additional Ally stack."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**One For You One For Me** (Guess)
+> Kalix gains the Speed role and each time a monster spawns that is not his favored foe, one or more favored foes simultaneously spawn. The effect of The Deadliest Prey is also increased by 400%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2202,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kalix gains the Speed role and each time a monster spawns that is not his favored foe, one or more favored foes simultaneously spawn. The effect of The Deadliest Prey is also increased by 400%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
