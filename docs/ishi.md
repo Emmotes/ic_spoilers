@@ -245,8 +245,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+# Specialisations
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Friend to Shorties** (Guess)
+**Specialisation: Friend to Shorties** (Guess)
 > 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -278,7 +280,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Friend to Tall Monsters** (Guess)
+**Specialisation: Friend to Tall Monsters** (Guess)
 > 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -308,8 +310,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 </div></div>
-
-# Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Friend to the Exceptional** (Guess)
