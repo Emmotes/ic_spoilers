@@ -26,23 +26,186 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Faster Harder Stronger** (Guess)
-> Unknown.
+**Unknown** (Guess)
+> Ishi always attacks 0.25 seconds faster than the fastest member of the formation, or every 6 seconds if nobody else is in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25404,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y8/Icon_Formation_IshiFasterHarderStronger",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2203,
+    "flavour_text": "",
+    "description": {
+        "desc": "Ishi always attacks 0.25 seconds faster than the fastest member of the formation, or every 6 seconds if nobody else is in the formation."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Monsters are People Too!** (Guess)
+> Increases Ishi's damage by 100% for each non-human in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2204,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases Ishi's damage by $amount% for each non-human in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(16527,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "!HasTag(`human`)",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 3671,
+    "large_graphic_id": 3670,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Let's Find Some Treasure** (Guess)
+> Increase the party's gold find by 100% for each non-human Champion, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2205,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the party's gold find by $amount% for each non-human Champion, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "gold_multiplier_mult,100",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "!HasTag(`human`)",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 3673,
+    "large_graphic_id": 3672,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Treasure Hunter** (Guess)
+> Increase the effect of Let's Find Some Treasure by 100% for every 4 seconds it has been since Ishi attacked but did not kill an enemy, stacking multiplicatively up to 15 times.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2206,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the effect of Let's Find Some Treasure by $amount% for every $(per_seconds___2) seconds it has been since Ishi attacked but did not kill an enemy, stacking multiplicatively up to $max_stacks times."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,16528",
+            "manual_stacking": true,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "max_stacks": 15
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "ishi_treasure_hunter",
+            "per_seconds": 4
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 7591,
+    "large_graphic_id": 7588,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Faster Harder Stronger** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2207,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25404,
+    "large_graphic_id": 25398,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -52,22 +215,93 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Winner Take All** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25405,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y8/Icon_Formation_IshiWinnerTakeAll",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2208,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25405,
+    "large_graphic_id": 25399,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Friend to Shorties** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2209,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 3680,
+    "large_graphic_id": 3680,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Friend to Tall Monsters** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2210,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 3681,
+    "large_graphic_id": 3681,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -79,22 +313,29 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Friend to the Exceptional** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25410,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y8/Icon_Specialization_Ishi_FriendtotheExceptional",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2211,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25410,
+    "large_graphic_id": 25410,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
