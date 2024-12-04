@@ -184,6 +184,60 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![XBox Giveaway Shadowheart's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Shadowheart's Champions of Renown Pack
+            </span>
+        </span>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Sharran Shadowheart Skin Icon](images/exclusivities/skin_25181.png)<span class="featTooltipContents">ID: 492**Sharran Shadowheart (Shadowheart)**<img src="images/exclusivities/skin_25162.gif" alt="Sharran Shadowheart Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Sharran Shadowheart</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Sir Perchington the Fancy Owl Familiar Icon](images/exclusivities/fam_234.png)<span class="featTooltipContents">ID: 234**Sir Perchington the Fancy Owl**Hoot, I say. HOOOOOOOT!<br><img src="images/exclusivities/fam_234.gif" alt="Sir Perchington the Fancy Owl Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Sir Perchington the Fancy Owl</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>04 December 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>11 December 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>11 March 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="e9a" onclick="exclusiveToggleContent(`e9`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>

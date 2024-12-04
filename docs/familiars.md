@@ -24,23 +24,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sir Perchington the Fancy Owl Portrait](images/familiars/sirperchingtonthefancyowl.png)<span class="featTooltipContents">ID: 234**Sir Perchington the Fancy Owl**<img src="images/familiars/sirperchingtonthefancyowl.gif" alt="Sir Perchington the Fancy Owl Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Sir Perchington the Fancy Owl
-        </span>
-        <span class="skinTableSource">
-            Shadowheart's Champions of Renown Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            04 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content"><span class="championPortraitsArachnophobe" style="visibility:visible;background-color:var(--Onyx)" id="arachneyethespider" onClick="arachnophobe('arachneyethespider','arachneyethespidermodel')"><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" onMouseOver="this.style.backgroundColor='black'" onMouseOut="this.style.backgroundColor='var(--Onyx)'"></span><img src="images/familiars/arachneyethespider.png" alt="Arachneye the Spider Portrait" onClick="arachnophobe('arachneyethespider','arachneyethespidermodel')"><span class="featTooltipContents">ID: 244**Arachneye the Spider**<span style="position:relative"><span class="championPortraitsArachnophobe" style="visibility:inherit;background-color:var(--Sooty)" id="arachneyethespidermodel"><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" style="width:98%;height:98%"></span><img src="images/familiars/arachneyethespider.gif" alt="Arachneye the Spider Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">

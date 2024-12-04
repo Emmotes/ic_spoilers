@@ -1299,7 +1299,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 36</div>
-### Asharra Starter Pack - 0 Platinum ($5.99)  
+### Asharra Starter Pack - 0 Platinum ($11.99)  
 Date of release: 11 Dec 2024
 
 > Contains 10 Platinum Chests and awesome gear for Asharra!
