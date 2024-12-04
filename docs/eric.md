@@ -495,7 +495,8 @@ Eric will be a new champion in the Wintershield event on 1 January 2025.
             "targets": [
                 "all"
             ],
-            "use_computed_amount_for_description": true
+            "use_computed_amount_for_description": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
