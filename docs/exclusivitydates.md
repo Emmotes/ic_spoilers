@@ -238,6 +238,61 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Years End Giveaway Winterfest Celebration 2024 Icon](images/general/years end.png)**Years End Giveaway** - Winterfest Celebration 2024
+            </span>
+        </span>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Chosen of Mystra Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2006**Chosen of Mystra (Gale)**Ah-Thran Mystra-Ryl Kantrach-Ao...<code>buff_upgrade,80,14571</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Chosen of Mystra</span>
+                        <span style="margin-left:15px">Gale (80% Archmage's Insight)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Potent Gale Skin Icon](images/exclusivities/skin_25349.png)<span class="featTooltipContents">ID: 502**Potent Gale (Gale)**<img src="images/exclusivities/skin_25353.gif" alt="Potent Gale Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Potent Gale</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>04 December 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>11 December 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>11 March 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="e9a" onclick="exclusiveToggleContent(`e9`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
