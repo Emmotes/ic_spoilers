@@ -119,11 +119,11 @@ Unknown.
     "id": 2195,
     "flavour_text": "",
     "description": {
-        "desc": "While Kalix is in the front column of any party, your active party's damage is increased by 100%. This means this ability affects your active party even if Kalix is not in your active party (as long as they're in the front-most column of their party)."
+        "desc": "While Kalix is in the front column of any party, your active party's damage is increased by $(amount)%. This means this ability affects your active party even if Kalix is not in your active party (as long as they're in the front-most column of their party)."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "kalix_thri_kreen_telepathy,100"
         }
     ],
     "requirements": "",
