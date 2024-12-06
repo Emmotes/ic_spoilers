@@ -155,7 +155,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "buff_upgrade,100,16528",
             "manual_stacking": true,
             "show_bonus": true,
-            "amount_func": "mult",
+            "stacks_multiply": true,
             "max_stacks": 15
         },
         {
@@ -173,7 +173,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -183,7 +184,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Faster Harder Stronger** (Guess)
-> 
+> Ishi keeps track of the number of attacks she has made in the last minute. She increases her damage by 100% for each attack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -191,12 +192,20 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2207,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Ishi keeps track of the number of attacks she has made in the last minute. She increases her damage by $(not_buffed amount)% for each attack, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing"
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "manual_stacking": true,
+            "show_bonus": true,
+            "stacks_multiply": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "ishi_faster_stronger_harder",
+            "last_seconds": 60
         }
     ],
     "requirements": "",
@@ -205,7 +214,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -215,7 +228,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Winner Take All** (Guess)
-> 
+> Every day Ishi gains 5 Duel To The Death stacks. When Ishi has an available Duel To The Death stack, and gets the killing blow on a boss that drops a loot sack, there is a 5% chance that she will consume a Duel To The Death stack and claim a piece of that boss's equipment as her own, granting 6 item levels to a piece of her equipment at random. Ishi can store up to 50 Duel To The Death stacks at once.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -223,12 +236,28 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2208,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "pre": "Every day Ishi gains $stacks_per_day Duel To The Death stacks. When Ishi has an available Duel To The Death stack, and gets the killing blow on a boss that drops a loot sack, there is a $amount% chance that she will consume a Duel To The Death stack and claim a piece of that boss's equipment as her own, granting $levels item levels to a piece of her equipment at random. Ishi can store up to $stacks_limit Duel To The Death stacks at once.",
+        "conditions": [
+            {
+                "condition": "not static_desc",
+                "desc": "^^$item_levels_on_boss_kill_stacks"
+            }
+        ]
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing"
+            "effect_string": "item_levels_on_boss_kill,5",
+            "id": "ishi_winner_take_all",
+            "start_date": "2024-12-06 12:00:00",
+            "stack_title": "Duel To The Death stacks",
+            "stacks_per_day": 5,
+            "stacks_limit": 50,
+            "stacks_used_stat": "ishi_dttd_stacks_used",
+            "levels": 6,
+            "levels_distribution": "random_single",
+            "requires_last_hit": true,
+            "upgrade_id": 16531
         }
     ],
     "requirements": "",
@@ -249,7 +278,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Friend to Shorties** (Guess)
-> 
+> Ishi's damage is increased by 100% for each Aasimar, Dwarf, Elf, Gnome, Halfling, and Half-Elf Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -257,12 +288,21 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2209,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Ishi's damage is increased by $amount% for each Aasimar, Dwarf, Elf, Gnome, Halfling, and Half-Elf Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing"
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(16532,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`aasimar`) || HasTag(`dwarf`) || HasTag(`elf`) || HasTag(`gnome`) || HasTag(`halfling`) || HasTag(`half-elf`)",
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -271,7 +311,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Relevant Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -281,7 +325,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Friend to Tall Monsters** (Guess)
-> 
+> Ishi's damage is increased by 100% for each Dragonborn, Goliath, Orc, Tiefling, and Half-Orc Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -289,12 +335,21 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2210,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Ishi's damage is increased by $amount% for each Dragonborn, Goliath, Orc, Tiefling, and Half-Orc Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing"
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(16533,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`dragonborn`) || HasTag(`goliath`) || HasTag(`orc`) || HasTag(`tiefling`) || HasTag(`half-orc`)",
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -303,7 +358,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Relevant Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -313,7 +372,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Friend to the Exceptional** (Guess)
-> 
+> Ishi's damage is increased by 100% for each Champion in the formation that is not a Standard species, stacking multiplicatively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -321,12 +382,21 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2211,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Ishi's damage is increased by $amount% for each Champion in the formation that is not a Standard species, stacking multiplicatively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing"
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(16534,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "!(HasTag(`aasimar`) || HasTag(`dragonborn`) || HasTag(`dwarf`) || HasTag(`elf`) || HasTag(`gnome`) || HasTag(`goliath`) || HasTag(`halfling`) || HasTag(`human`) || HasTag(`orc`) || HasTag(`tiefling`) || HasTag(`half-orc`) || HasTag(`half-elf`))",
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -335,7 +405,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Relevant Champions: $num_stacks___2"
     }
 }
 </pre>
