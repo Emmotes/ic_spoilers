@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/709.png">
-            <span class="weekendTooltipContents">ID: 709**Gold Howling Chest**Loot for: Krull, Celeste, Tyril, Lucius and Halsin<code>"for_crusaders":[53,2,10,72,156]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Feral Moon**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    06 December 2024
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Halsin
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/halsin.png'">
-                        <span class="weekendTableChampionNameplate">Halsin</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/lucius.png'">
-                        <span class="weekendTableChampionNameplate">Lucius</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/krull.png'">
-                        <span class="weekendTableChampionNameplate">Krull</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/710.png">
             <span class="weekendTooltipContents">ID: 710**Gold Asatheirr Chest**Loot for: Stoki, Bruenor, Arkhan, Dhadius and Regis<code>"for_crusaders":[14,1,12,17,20]</code></span>
         </span>
