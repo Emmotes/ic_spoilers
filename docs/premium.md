@@ -1347,11 +1347,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Selunite Shadowheart Skin Portrait](images/premiums/skin_494.png)<span class="itemTooltipContents">ID: 494**Selunite Shadowheart (Shadowheart)**<img src="images/premiums/skin_494.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Selûnite Shadowheart Skin Portrait](images/premiums/skin_494.png)<span class="itemTooltipContents">ID: 494**Selûnite Shadowheart (Shadowheart)**<img src="images/premiums/skin_494.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Selunite Shadowheart</span>
+            <span style="margin-left:15px">Selûnite Shadowheart</span>
         </span>
     </span>
     <span class="premiumsTableItem">

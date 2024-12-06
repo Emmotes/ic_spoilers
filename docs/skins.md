@@ -11,10 +11,10 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Selunite Shadowheart Portrait](images/skin_portraits/seluniteshadowheart.png)<span class="featTooltipContents">ID: 494**Selunite Shadowheart (Shadowheart)**<img src="images/skin_models/seluniteshadowheart.gif" alt="Selunite Shadowheart Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Selûnite Shadowheart Portrait](images/skin_portraits/seluniteshadowheart.png)<span class="featTooltipContents">ID: 494**Selûnite Shadowheart (Shadowheart)**<img src="images/skin_models/seluniteshadowheart.gif" alt="Selûnite Shadowheart Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Selunite Shadowheart
+            Selûnite Shadowheart
         </span>
         <span class="skinTableSource">
             Selûnite Shadowheart Skin & Feat Pack
