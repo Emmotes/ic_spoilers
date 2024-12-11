@@ -23,6 +23,43 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
+# Attacks
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Confidence Boost** (Guess)
+> For 30 seconds, Ishi's damage is increased by 100% for each non-human in the formation, stacking multiplicatively. The duration extends when Ishi lands the killing blow on a boss.  
+> Cooldown: 420s (Cap 105s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 829,
+    "name": "Confidence Boost",
+    "description": "For 30 seconds, Ishi's damage is increased by 100% for each non-human in the formation, stacking multiplicatively.",
+    "long_description": "For 30 seconds, Ishi's damage is increased by 100% for each non-human in the formation, stacking multiplicatively. The duration extends when Ishi lands the killing blow on a boss.",
+    "graphic_id": 3699,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0,
+    "cooldown": 420,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "ishi_v2",
+            "no_damage_display": true
+        }
+    ],
+    "tags": [
+        "ultimate"
+    ],
+    "damage_types": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -248,11 +285,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "off_when_benched": true,
             "effect_string": "item_levels_on_boss_kill,5",
-            "id": "ishi_winner_take_all",
-            "start_date": "2024-12-06 12:00:00",
             "stack_title": "Duel To The Death stacks",
             "stacks_per_day": 5,
             "stacks_limit": 50,
+            "start_time_stat": "ishi_dttd_start_time",
             "stacks_used_stat": "ishi_dttd_stacks_used",
             "levels": 6,
             "levels_distribution": "random_single",
