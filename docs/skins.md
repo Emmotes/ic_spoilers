@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Selûnite Shadowheart Portrait](images/skin_portraits/seluniteshadowheart.png)<span class="featTooltipContents">ID: 494**Selûnite Shadowheart (Shadowheart)**<img src="images/skin_models/seluniteshadowheart.gif" alt="Selûnite Shadowheart Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Selûnite Shadowheart
-        </span>
-        <span class="skinTableSource">
-            Selûnite Shadowheart Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            11 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sharran Stoki Portrait](images/skin_portraits/sharranstoki.png)<span class="featTooltipContents">ID: 491**Sharran Stoki (Stoki)**<img src="images/skin_models/sharranstoki.gif" alt="Sharran Stoki Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Sharran Stoki
-        </span>
-        <span class="skinTableSource">
-            Sharran Stoki Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            11 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Moonlight Regis Portrait](images/skin_portraits/moonlightregis.png)<span class="featTooltipContents">ID: 495**Moonlight Regis (Regis)**<img src="images/skin_models/moonlightregis.gif" alt="Moonlight Regis Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

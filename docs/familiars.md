@@ -7,57 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content"><span class="championPortraitsArachnophobe" style="visibility:visible;background-color:var(--Onyx)" id="arachneyethespider" onClick="arachnophobe('arachneyethespider','arachneyethespidermodel')"><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" onMouseOver="this.style.backgroundColor='black'" onMouseOut="this.style.backgroundColor='var(--Onyx)'"></span><img src="images/familiars/arachneyethespider.png" alt="Arachneye the Spider Portrait" onClick="arachnophobe('arachneyethespider','arachneyethespidermodel')"><span class="featTooltipContents">ID: 244**Arachneye the Spider**<span style="position:relative"><span class="championPortraitsArachnophobe" style="visibility:inherit;background-color:var(--Sooty)" id="arachneyethespidermodel"><img src="images/general/arachnophobe_warning.svg" alt="Arachnophobia Warning Cover Layer" style="width:98%;height:98%"></span><img src="images/familiars/arachneyethespider.gif" alt="Arachneye the Spider Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Arachneye the Spider
-        </span>
-        <span class="skinTableSource">
-            3x Choose Your Champion Starter Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            11 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sharran Viper Portrait](images/familiars/sharranviper.png)<span class="featTooltipContents">ID: 233**Sharran Viper**<img src="images/familiars/sharranviper.gif" alt="Sharran Viper Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Sharran Viper
-        </span>
-        <span class="skinTableSource">
-            Sharran Stoki Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            11 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Skitters the Lizard Portrait](images/familiars/skittersthelizard.png)<span class="featTooltipContents">ID: 243**Skitters the Lizard**<img src="images/familiars/skittersthelizard.gif" alt="Skitters the Lizard Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Skitters the Lizard
-        </span>
-        <span class="skinTableSource">
-            Tanking & Healing Starter Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            11 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Crescent the Lunar Moth Portrait](images/familiars/crescentthelunarmoth.png)<span class="featTooltipContents">ID: 236**Crescent the Lunar Moth**<img src="images/familiars/crescentthelunarmoth.gif" alt="Crescent the Lunar Moth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
