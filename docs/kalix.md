@@ -21,7 +21,7 @@
 
 # Kalix
 
-I have absolutely no idea who this is.
+Kalix is likely a CNE original.
 
 # Basic Information
 
@@ -243,7 +243,7 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Thri-Kreen Telepathy** (Guess)
 > While Kalix is in the front column of any party, your active party's damage is increased by 100%. This means this ability affects your active party even if Kalix is not in your active party (as long as they're in the front-most column of their party).
 <details><summary><em>Raw Data</em></summary>
 <p>
