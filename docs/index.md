@@ -109,7 +109,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Kobold Fighter / Rogue</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Grand Revel - 5 February 2025</span>
+                <span class="indexChampionTableNoLink">Grand Revel - 12 February 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
