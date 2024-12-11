@@ -137,7 +137,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/715.png">
-            <span class="weekendTooltipContents">ID: 715**Gold Commercial Chest**Loot for: Calliope, Eric, Jamilah, Presto and Diana<code>"for_crusaders":[5,157,11,144,148]</code></span>
+            <span class="weekendTooltipContents">ID: 715**Gold Commercial Chest**Loot for: Delina, Eric, Tyril, Presto and Diana<code>"for_crusaders":[8,157,10,144,148]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -161,11 +161,11 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/eric.png'">
                         <span class="weekendTableChampionNameplate">Eric</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/delina.png'">
+                        <span class="weekendTableChampionNameplate">Delina</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jamilah.png'">
-                        <span class="weekendTableChampionNameplate">Jamilah</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
+                        <span class="weekendTableChampionNameplate">Tyril</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/presto.png'">
                         <span class="weekendTableChampionNameplate">Presto</span>

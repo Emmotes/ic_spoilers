@@ -45,23 +45,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Grymforge Karlach Portrait](images/skin_portraits/grymforgekarlach.png)<span class="featTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/grymforgekarlach.gif" alt="Grymforge Karlach Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/grymforgekarlach-infernal_engine.gif" alt="Grymforge Karlach Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Grymforge Karlach
-        </span>
-        <span class="skinTableSource">
-            Grymforge Karlach Party Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            12 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Moonlight Regis Portrait](images/skin_portraits/moonlightregis.png)<span class="featTooltipContents">ID: 495**Moonlight Regis (Regis)**<img src="images/skin_models/moonlightregis.gif" alt="Moonlight Regis Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -330,6 +313,125 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             29 Jan 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 517**Demilich Hew Maan (Hew Maan)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Demilich Hew Maan
+        </span>
+        <span class="skinTableSource">
+            Demilich Hew Maan Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            05 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Tuxedo Kalix
+        </span>
+        <span class="skinTableSource">
+            Tuxedo Kalix Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            05 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 519**Prom Night Presto (Presto)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Prom Night Presto
+        </span>
+        <span class="skinTableSource">
+            Prom Night Presto Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            12 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 520**Ballroom Vi (Vi)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Ballroom Vi
+        </span>
+        <span class="skinTableSource">
+            Ballroom Vi Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            19 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 521**Formal Birdsong (Birdsong)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Formal Birdsong
+        </span>
+        <span class="skinTableSource">
+            Formal Birdsong Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            19 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 523**Dragonlance BBEG (BBEG)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragonlance BBEG
+        </span>
+        <span class="skinTableSource">
+            Dragonlance BBEG Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            26 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 522**Dragonlance Thellora (Thellora)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragonlance Thellora
+        </span>
+        <span class="skinTableSource">
+            Dragonlance Thellora Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            26 Feb 2025
         </span>
     </span>
     <span class="skinTableRow">

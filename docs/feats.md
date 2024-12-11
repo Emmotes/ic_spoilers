@@ -30,23 +30,6 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Briv</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Accurate Acrobatics Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2062**Accurate Acrobatics (Briv)**A true warrior leapeth only when he knoweth where he shall land.<code>remove_extra_briv_jumps</code></span>Accurate Acrobatics
-        </span>
-        <span class="featTableEffect">
-            <span>Rounds Down Briv's Jump</span>
-        </span>
-        <span class="featTableSource">
-            <span>Patron: Mirt</span>
-        </span>
-        <span class="featTableDate">
-            <span>11 Dec 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Nrakk</span>
         </span>
         <span class="featTableIcon4">
@@ -64,10 +47,27 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Presto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Room to Breathe Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1895**Room to Breathe (Presto)**You three take on Tiamat and I'll see what I can do from over here!<code>buff_upgrade,80,13762</code></span>Room to Breathe
+        </span>
+        <span class="featTableEffect">
+            <span>80% Hesitant Helper</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Shadowheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 1980**Selûne's Blessing (Shadowheart)**You can't cast a shadow without some light.<code>change_hero_alignment_tag,lawful,good</code></span>Selûne's Blessing
+            ![Selûne's Grace Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 1980**Selûne's Grace (Shadowheart)**You can't cast a shadow without some light.<code>change_hero_alignment_tag,lawful,good</code></span>Selûne's Grace
         </span>
         <span class="featTableEffect">
             <span>Change Alignment to Lawful Good</span>
@@ -77,6 +77,40 @@ For feats that were available in the season pass of prior seasons - please see t
         </span>
         <span class="featTableDate">
             <span>11 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Mastery of the Self Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2016**Mastery of the Self (Stoki)**The monk's path is one of absolute dedication without end.<code>buff_upgrade,80,16056,1<br>buff_upgrade,80,16057,1<br>buff_upgrade,80,16058,2</code></span>Mastery of the Self
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Dec 2024</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Briv</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Accurate Acrobatics Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2062**Accurate Acrobatics (Briv)**A true warrior leapeth only when he knoweth where he shall land.<code>remove_extra_briv_jumps</code></span>Accurate Acrobatics
+        </span>
+        <span class="featTableEffect">
+            <span>Rounds Down Briv's Jump</span>
+        </span>
+        <span class="featTableSource">
+            <span>Patron: Mirt</span>
+        </span>
+        <span class="featTableDate">
+            <span>18 Dec 2024</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -302,6 +336,23 @@ For feats that were available in the season pass of prior seasons - please see t
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Maintain Focus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1240**Maintain Focus (Stoki)**We can't afford to waste time on distractions.<code>change_upgrade_data,16052,5</code></span>Maintain Focus
+        </span>
+        <span class="featTableEffect">
+            <span>Focus Pointers Are Only Reduced by 33% On Changing Areas</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Kent</span>
         </span>
         <span class="featTableIcon4">
@@ -356,10 +407,10 @@ For feats that were available in the season pass of prior seasons - please see t
             <span>Karlach</span>
         </span>
         <span class="featTableIcon4">
-            ![Heart Ablaze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2005**Heart Ablaze (Karlach)**I don't think I've ever felt more powerful.<code>todo<br>DevNote: Increase BUD damage caused by Infernal Engine</code></span>Heart Ablaze
+            ![Heart Ablaze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2005**Heart Ablaze (Karlach)**I don't think I've ever felt more powerful.<code>buff_upgrade,80,13724</code></span>Heart Ablaze
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>80% Infernal Engine (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -1059,6 +1110,74 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Bursting Blow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2014**Bursting Blow (Stoki)**Release the energy when the moment is right. Patience...<code>change_upgrade_data,16054,5</code></span>Bursting Blow
+        </span>
+        <span class="featTableEffect">
+            <span>+80% BUD of Building Focus Explosion</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Crane Strike Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1244**Crane Strike (Stoki)**A precise blow to the right area can paralyze a foe.<code>buff_upgrade,80,16054,4</code></span>Crane Strike
+        </span>
+        <span class="featTableEffect">
+            <span>80% Building Focus</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Stoki</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Focus Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1239**Focus Up (Stoki)**Don't lose sight of what lies ahead.<code>change_upgrade_data,16052,5</code></span>Focus Up
+        </span>
+        <span class="featTableEffect">
+            <span>Focus Pointers Are Only Reduced by 33% On Changing Areas</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Viper's Sting Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2013**Viper's Sting (Stoki)**Twist the wrist just so to prolong the numbing effect.<code>change_upgrade_data,16054,4</code></span>Viper's Sting
+        </span>
+        <span class="featTableEffect">
+            <span>16054% Duration Rally</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Umberto</span>
         </span>
         <span class="featTableIcon4">
@@ -1409,23 +1528,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span>12,500 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Stoki</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Fortune's Favor Icon](images/featicons/goldfind.png)<span class="featTooltipContents">ID: 83**Fortune's Favor (Stoki)**I've never been more sure of what's right in my life.<code>gold_multiplier_mult,50</code></span>Fortune's Favor
-        </span>
-        <span class="featTableEffect">
-            <span>50% Gold</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>01 Jan 2032</span>

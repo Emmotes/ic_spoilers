@@ -160,6 +160,40 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 247**Meepo**</span></span>
+        </span>
+        <span class="skinTableName">
+            Meepo
+        </span>
+        <span class="skinTableSource">
+            Meepo Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            12 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 248**Krynn the Crystal Dragon**</span></span>
+        </span>
+        <span class="skinTableName">
+            Krynn the Crystal Dragon
+        </span>
+        <span class="skinTableSource">
+            Krynn the Crystal Dragon Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            2,380p
+        </span>
+        <span class="skinTableDate">
+            26 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**</span></span>
         </span>
         <span class="skinTableName">

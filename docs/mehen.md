@@ -28,7 +28,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Lightning Breath** (Guess)
 > Mehen breathes a cone of lightning that hits all enemies in the area. If it hits more than 5 enemies, or a boss, it stuns all enemies for 10 seconds.  
-> Cooldown: 3s (Cap 0.75s)
+> Cooldown: 180s (Cap 45s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -42,7 +42,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
-    "cooldown": 3,
+    "cooldown": 180,
     "animations": [
         {
             "type": "mehen_ultimate_v2",
