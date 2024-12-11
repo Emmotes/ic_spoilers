@@ -13,7 +13,7 @@
 
 # Stoki
 
-Born Stami Gackle, she fled her home after a terrible accident at a young age and joined a monastery of the Even-Handed to study ki. An adept monk and extremely capable adventurer, her thoughtful approach to problems has earned her a reputation as an uncommonly stoic Rock Gnome.
+Stami Gackle was a fun-loving and reckless youth, but she fled her home when this carefree nature invited tragic loss into her life. She found shelter in Waterdeep with the monks of the Order of the Even-Handed, who gave her a new name and trained her in their ways. Now a capable adventurer, Stoki approaches problems with intense focus and careful consideration, having earned a reputation for being uncommonly stoic. However, Stoki's patient demeanor belies a warrior's ferocity, as she unleashes a rapid flurry of masterful blows to any foe who refuses to back down.
 
 # Changes
 
@@ -327,7 +327,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "add_attack_targets,1",
             "amount_func": "add",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "as_int(hero_id==109) * floor(hero_level/1000)",
+            "per_hero_expr": "as_int(hero_id==14) * floor(hero_level/1000)",
             "amount_updated_listeners": [
                 "hero_level_changed"
             ],
