@@ -53,12 +53,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart Ablaze Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2005**Heart Ablaze**I don't think I've ever felt more powerful.<code>todo<br>DevNote: Increase BUD damage caused by Infernal Engine</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart Ablaze Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2005**Heart Ablaze**I don't think I've ever felt more powerful.<code>buff_upgrade,80,13724</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Heart Ablaze</span>
-            <span style="margin-left:15px">Karlach (todo)</span>
+            <span style="margin-left:15px">Karlach (80% Infernal Engine (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
