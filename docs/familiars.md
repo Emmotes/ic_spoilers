@@ -126,6 +126,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 246**Nub-ub the Mouse**</span></span>
+        </span>
+        <span class="skinTableName">
+            Nub-ub the Mouse
+        </span>
+        <span class="skinTableSource">
+            Dashing Ishi Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            12 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 248**Krynn the Crystal Dragon**</span></span>
         </span>
         <span class="skinTableName">

@@ -317,6 +317,23 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 518**Dashing Ishi (Y4E15)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dashing Ishi
+        </span>
+        <span class="skinTableSource">
+            Dashing Ishi Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            12 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 519**Prom Night Presto (Presto)**</span></span>
         </span>
         <span class="skinTableName">
