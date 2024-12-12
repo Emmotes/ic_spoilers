@@ -238,6 +238,61 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![EGS Giveaway Grymforge Karlach Party Pack Icon](images/general/egs.png)**EGS Giveaway** - Grymforge Karlach Party Pack
+            </span>
+        </span>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart Ablaze Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2005**Heart Ablaze (Karlach)**I don't think I've ever felt more powerful.<code>buff_upgrade,80,13724</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Heart Ablaze</span>
+                        <span style="margin-left:15px">Karlach (80% Infernal Engine (Prestack))</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Grymforge Karlach Skin Icon](images/exclusivities/skin_25348.png)<span class="featTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<img src="images/exclusivities/skin_25354.gif" alt="Grymforge Karlach Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Grymforge Karlach</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>12 December 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>19 December 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>19 March 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="e9a" onclick="exclusiveToggleContent(`e9`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
