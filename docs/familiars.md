@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 239**Ganderloo the Clockwork Goose**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Ganderloo the Clockwork Goose Portrait](images/familiars/ganderlootheclockworkgoose.png)<span class="featTooltipContents">ID: 239**Ganderloo the Clockwork Goose**<img src="images/familiars/ganderlootheclockworkgoose.gif" alt="Ganderloo the Clockwork Goose Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Ganderloo the Clockwork Goose
@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 240**Hexton Modron**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Hexton Modron Portrait](images/familiars/hextonmodron.png)<span class="featTooltipContents">ID: 240**Hexton Modron**<img src="images/familiars/hextonmodron.gif" alt="Hexton Modron Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Hexton Modron
@@ -160,7 +160,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Rumble the Angry Flumph Portrait](images/familiars/rumbletheangryflumph.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**<img src="images/familiars/rumbletheangryflumph.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Rumble the Angry Flumph
