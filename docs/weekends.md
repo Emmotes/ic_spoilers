@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/710.png">
-            <span class="weekendTooltipContents">ID: 710**Gold Asatheirr Chest**Loot for: Stoki, Bruenor, Arkhan, Dhadius and Regis<code>"for_crusaders":[14,1,12,17,20]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Magical Secrets**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    13 December 2024
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Stoki
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/stoki.png'">
-                        <span class="weekendTableChampionNameplate">Stoki</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/dhadius.png'">
-                        <span class="weekendTableChampionNameplate">Dhadius</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/regis.png'">
-                        <span class="weekendTableChampionNameplate">Regis</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/711.png">
             <span class="weekendTooltipContents">ID: 711**Gold Shar Chest**Loot for: Nayeli, Shadowheart, Makos, Warduke and Talin<code>"for_crusaders":[3,141,9,116,74]</code></span>
         </span>
