@@ -113,7 +113,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 505**Stone Golem Eric (Eric)**<img src="images/skin_models/stonegolemeric.gif" alt="Stone Golem Eric Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Stone Golem Eric Portrait](images/skin_portraits/stonegolemeric.png)<span class="featTooltipContents">ID: 505**Stone Golem Eric (Eric)**<img src="images/skin_models/stonegolemeric.gif" alt="Stone Golem Eric Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Stone Golem Eric
@@ -130,7 +130,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 507**Crystal Titan Mehen (Mehen)**<img src="images/skin_models/crystaltitanmehen.gif" alt="Crystal Titan Mehen Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Crystal Titan Mehen Portrait](images/skin_portraits/crystaltitanmehen.png)<span class="featTooltipContents">ID: 507**Crystal Titan Mehen (Mehen)**<img src="images/skin_models/crystaltitanmehen.gif" alt="Crystal Titan Mehen Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Crystal Titan Mehen
@@ -147,7 +147,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 508**Magen Baeloth (Baeloth)**<img src="images/skin_models/magenbaeloth.gif" alt="Magen Baeloth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Magen Baeloth Portrait](images/skin_portraits/magenbaeloth.png)<span class="featTooltipContents">ID: 508**Magen Baeloth (Baeloth)**<img src="images/skin_models/magenbaeloth.gif" alt="Magen Baeloth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Magen Baeloth
@@ -164,7 +164,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 509**Iron Golem Barrowin (Barrowin)**<img src="images/skin_models/irongolembarrowin.gif" alt="Iron Golem Barrowin Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Iron Golem Barrowin Portrait](images/skin_portraits/irongolembarrowin.png)<span class="featTooltipContents">ID: 509**Iron Golem Barrowin (Barrowin)**<img src="images/skin_models/irongolembarrowin.gif" alt="Iron Golem Barrowin Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Iron Golem Barrowin
@@ -249,7 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 511**Stone Golem Diana (Diana)**<img src="images/skin_models/stonegolemdiana.gif" alt="Stone Golem Diana Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Stone Golem Diana Portrait](images/skin_portraits/stonegolemdiana.png)<span class="featTooltipContents">ID: 511**Stone Golem Diana (Diana)**<img src="images/skin_models/stonegolemdiana.gif" alt="Stone Golem Diana Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Stone Golem Diana

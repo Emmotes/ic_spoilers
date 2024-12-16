@@ -351,7 +351,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 505**Stone Golem Eric (Eric)**<img src="images/premiums/skin_505.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Stone Golem Eric Skin Portrait](images/premiums/skin_505.png)<span class="itemTooltipContents">ID: 505**Stone Golem Eric (Eric)**<img src="images/premiums/skin_505.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -491,7 +491,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 507**Crystal Titan Mehen (Mehen)**<img src="images/premiums/skin_507.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Crystal Titan Mehen Skin Portrait](images/premiums/skin_507.png)<span class="itemTooltipContents">ID: 507**Crystal Titan Mehen (Mehen)**<img src="images/premiums/skin_507.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -561,7 +561,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 508**Magen Baeloth (Baeloth)**<img src="images/premiums/skin_508.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Magen Baeloth Skin Portrait](images/premiums/skin_508.png)<span class="itemTooltipContents">ID: 508**Magen Baeloth (Baeloth)**<img src="images/premiums/skin_508.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -723,7 +723,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 509**Iron Golem Barrowin (Barrowin)**<img src="images/premiums/skin_509.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Iron Golem Barrowin Skin Portrait](images/premiums/skin_509.png)<span class="itemTooltipContents">ID: 509**Iron Golem Barrowin (Barrowin)**<img src="images/premiums/skin_509.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -865,7 +865,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 511**Stone Golem Diana (Diana)**<img src="images/premiums/skin_511.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Stone Golem Diana Skin Portrait](images/premiums/skin_511.png)<span class="itemTooltipContents">ID: 511**Stone Golem Diana (Diana)**<img src="images/premiums/skin_511.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
