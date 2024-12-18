@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Moonlight Regis Portrait](images/skin_portraits/moonlightregis.png)<span class="featTooltipContents">ID: 495**Moonlight Regis (Regis)**<img src="images/skin_models/moonlightregis.gif" alt="Moonlight Regis Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Moonlight Regis
-        </span>
-        <span class="skinTableSource">
-            Moonlight Regis Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            18 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Selûnite Warden Portrait](images/skin_portraits/selunitewarden.png)<span class="featTooltipContents">ID: 496**Selûnite Warden (Warden)**<img src="images/skin_models/selunitewarden.gif" alt="Selûnite Warden Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Selûnite Warden
-        </span>
-        <span class="skinTableSource">
-            Selûnite Warden Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            18 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Silver Bells Birdsong Portrait](images/skin_portraits/silverbellsbirdsong.png)<span class="featTooltipContents">ID: 504**Silver Bells Birdsong (Birdsong)**<img src="images/skin_models/silverbellsbirdsong.gif" alt="Silver Bells Birdsong Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -96,7 +62,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 506**Glasswork Golem Artemis (Artemis)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Glasswork Golem Artemis Portrait](images/skin_portraits/glassworkgolemartemis.png)<span class="featTooltipContents">ID: 506**Glasswork Golem Artemis (Artemis)**<img src="images/skin_models/glassworkgolemartemis.gif" alt="Glasswork Golem Artemis Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Glasswork Golem Artemis
@@ -147,7 +113,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Magen Baeloth Portrait](images/skin_portraits/magenbaeloth.png)<span class="featTooltipContents">ID: 508**Magen Baeloth (Baeloth)**<img src="images/skin_models/magenbaeloth.gif" alt="Magen Baeloth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Magen Baeloth Portrait](images/skin_portraits/magenbaeloth.png)<span class="featTooltipContents">ID: 508**Magen Baeloth (Baeloth)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/magenbaeloth.gif" alt="Magen Baeloth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/magenbaeloth-djiin.gif" alt="Magen Baeloth Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Magen Baeloth
@@ -181,7 +147,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 510**Magen Imoen (Imoen)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Magen Imoen Portrait](images/skin_portraits/magenimoen.png)<span class="featTooltipContents">ID: 510**Magen Imoen (Imoen)**<img src="images/skin_models/magenimoen.gif" alt="Magen Imoen Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Magen Imoen
@@ -198,7 +164,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 512**Autognome Stoki (Stoki)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Autognome Stoki Portrait](images/skin_portraits/autognomestoki.png)<span class="featTooltipContents">ID: 512**Autognome Stoki (Stoki)**<img src="images/skin_models/autognomestoki.gif" alt="Autognome Stoki Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Autognome Stoki

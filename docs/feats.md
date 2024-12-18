@@ -30,57 +30,6 @@ For feats that were available in emergences or giveaways - please see the [Exclu
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Briv</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Accurate Acrobatics Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2062**Accurate Acrobatics (Briv)**A true warrior leapeth only when he knoweth where he shall land.<code>remove_extra_briv_jumps</code></span>Accurate Acrobatics
-        </span>
-        <span class="featTableEffect">
-            <span>Rounds Down Briv's Jump</span>
-        </span>
-        <span class="featTableSource">
-            <span>Patron: Mirt</span>
-        </span>
-        <span class="featTableDate">
-            <span>18 Dec 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Regis</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1349**Prodigal Leader (Regis)**Win or lose -- we still made a difference!<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>18 Dec 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Warden</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1983**Prodigal Leader (Warden)**Follow me, or suffer my wrath.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>18 Dec 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Celeste</span>
         </span>
         <span class="featTableIcon4">
@@ -118,7 +67,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>Artemis</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2008**Multiversal Allies (Artemis)**Death is part of every culture, every people. I've studied them all.<code>_effect_def,2193</code></span>Multiversal Allies
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2008**Multiversal Allies (Artemis)**Death is part of every culture, every people. I've studied them all.<code>_effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
             <span>20% All Champion Damage per Unique Species in Formation (Additive) (This Feat Won't Do Anything)</span>
@@ -254,7 +203,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>Shadowheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Shar's Veil Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<code>todo<br>DevNote: see details in feats doc row 1961</code></span>Shar's Veil
+            ![Shar's Veil Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<code>todo<br>DevNote: see details in feats doc row 1981</code></span>Shar's Veil
         </span>
         <span class="featTableEffect">
             <span>todo</span>
@@ -288,7 +237,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>Kent</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**We are stronger together.<code>_effect_def,2193</code></span>Multiversal Allies
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**We are stronger together.<code>_effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
             <span>20% All Champion Damage per Unique Species in Formation (Additive) (This Feat Won't Do Anything)</span>

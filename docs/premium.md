@@ -4,150 +4,8 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 511</div>
-### Moonlight Regis Skin & Feat Pack - 1,680 Platinum ($0.00)  
-Date of release: 18 Dec 2024
-
-> Unlock Regis along with his exclusive Moonlight Regis Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Regis Champion Unlock Portrait](images/premiums/unlock_champion_20.png)<span class="itemTooltipContents">ID: 20**Regis (Seat 2)**<img src="images/premiums/unlock_champion_20.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Regis</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Moonlight Regis Skin Portrait](images/premiums/skin_495.png)<span class="itemTooltipContents">ID: 495**Moonlight Regis (Regis)**<img src="images/premiums/skin_495.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Moonlight Regis</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1349**Prodigal Leader**Win or lose -- we still made a difference!<code>global_dps_multiplier_mult,50</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Prodigal Leader</span>
-            <span style="margin-left:15px">Regis (50% All Champion Damage)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Regis Chest Chest Portrait](images/premiums/chests_17.png)<span class="itemTooltipContents">ID: 17**Platinum Regis Chest**Loot for: Regis<code>"for_crusaders":[20]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Regis Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 512</div>
-### Selûnite Warden Skin & Feat Pack - 1,680 Platinum ($0.00)  
-Date of release: 18 Dec 2024
-
-> Unlock Warden along with his exclusive Selûnite Warden Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Warden Champion Unlock Portrait](images/premiums/unlock_champion_36.png)<span class="itemTooltipContents">ID: 36**Warden (Seat 11)**<img src="images/premiums/unlock_champion_36.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Warden</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Selûnite Warden Skin Portrait](images/premiums/skin_496.png)<span class="itemTooltipContents">ID: 496**Selûnite Warden (Warden)**<img src="images/premiums/skin_496.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Selûnite Warden</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1983**Prodigal Leader**Follow me, or suffer my wrath.<code>global_dps_multiplier_mult,50</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Prodigal Leader</span>
-            <span style="margin-left:15px">Warden (50% All Champion Damage)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Warden Chest Chest Portrait](images/premiums/chests_82.png)<span class="itemTooltipContents">ID: 82**Platinum Warden Chest**Loot for: Warden<code>"for_crusaders":[36]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Warden Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 514</div>
-### Sharran Celeste Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Sharran Celeste Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 26 Dec 2024
 
 > Snag Celeste's exclusive Sharran Celeste Skin & Feat!
@@ -209,7 +67,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 515</div>
-### Crescent the Lunar Moth Familiar Pack - 840 Platinum ($0.00)  
+### Crescent the Lunar Moth Familiar Pack - 840 Platinum ($5.99)  
 Date of release: 26 Dec 2024
 
 > Collect your own Crescent the Lunar Moth Familiar!
@@ -261,7 +119,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 516</div>
-### Yule Log Nordom Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Yule Log Nordom Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 26 Dec 2024
 
 > Unlock Nordom along with his exclusive Yule Log Nordom Skin & Feat!
@@ -332,7 +190,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 518</div>
-### Stone Golem Eric Theme Pack - 3,830 Platinum ($0.00)  
+### Stone Golem Eric Theme Pack - 3,830 Platinum ($27.99)  
 Date of release: 01 Jan 2025
 
 > Unlock Eric along with an exclusive Stone Golem Skin & Familiar!
@@ -401,7 +259,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 519</div>
-### Glasswork Golem Artemis Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Glasswork Golem Artemis Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 01 Jan 2025
 
 > Unlock Artemis along with his exclusive Glasswork Golem Skin & Feat!
@@ -420,7 +278,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 506**Glasswork Golem Artemis (Artemis)**</span></span>
+            <span class="tooltipHolder">![Glasswork Golem Artemis Skin Portrait](images/premiums/skin_506.png)<span class="itemTooltipContents">ID: 506**Glasswork Golem Artemis (Artemis)**<img src="images/premiums/skin_506.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -429,7 +287,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2008**Multiversal Allies**Death is part of every culture, every people. I've studied them all.<code>_effect_def,2193</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2008**Multiversal Allies**Death is part of every culture, every people. I've studied them all.<code>_effect_def,2193</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -472,7 +330,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 520</div>
-### Crystal Titan Mehen Theme Pack - 3,830 Platinum ($0.00)  
+### Crystal Titan Mehen Theme Pack - 3,830 Platinum ($27.99)  
 Date of release: 08 Jan 2025
 
 > Unlock Mehen along with an exclusive Crystal Titan Skin & Familiar!
@@ -500,7 +358,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 242**Mercy the Vein Golem**I used to be an ancient titan's capillaries! Now I'm the cutest little bean!</span></span>
+            <span class="tooltipHolder">![Mercy the Vein Golem Familiar Portrait](images/premiums/familiar_242.png)<span class="itemTooltipContents">ID: 242**Mercy the Vein Golem**I used to be an ancient titan's capillaries! Now I'm the cutest little bean!<img src="images/premiums/familiar_242.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -542,7 +400,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 521</div>
-### Magen Baeloth Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Magen Baeloth Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 08 Jan 2025
 
 > Unlock Baeloth along with his exclusive Magen Baeloth Skin & Feat!
@@ -561,7 +419,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Magen Baeloth Skin Portrait](images/premiums/skin_508.png)<span class="itemTooltipContents">ID: 508**Magen Baeloth (Baeloth)**<img src="images/premiums/skin_508.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Magen Baeloth Skin Portrait](images/premiums/skin_508.png)<span class="itemTooltipContents">ID: 508**Magen Baeloth (Baeloth)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_508.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_508-djiin.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -613,7 +471,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 522</div>
-### Ganderloo the Clockwork Goose Familiar Pack - 2,380 Platinum ($0.00)  
+### Ganderloo the Clockwork Goose Familiar Pack - 2,380 Platinum ($16.99)  
 Date of release: 08 Jan 2025
 
 > Collect your own Ganderloo the Clockwork Goose Familiar!
@@ -704,7 +562,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 523</div>
-### Iron Golem Barrowin Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Iron Golem Barrowin Skin & Feat Pack - 1,680 Platinum ($11.99)  
 Date of release: 15 Jan 2025
 
 > Unlock Barrowin along with her exclusive Iron Golem Skin & Feat!
@@ -794,7 +652,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 510**Magen Imoen (Imoen)**</span></span>
+            <span class="tooltipHolder">![Magen Imoen Skin Portrait](images/premiums/skin_510.png)<span class="itemTooltipContents">ID: 510**Magen Imoen (Imoen)**<img src="images/premiums/skin_510.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -936,7 +794,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 512**Autognome Stoki (Stoki)**</span></span>
+            <span class="tooltipHolder">![Autognome Stoki Skin Portrait](images/premiums/skin_512.png)<span class="itemTooltipContents">ID: 512**Autognome Stoki (Stoki)**<img src="images/premiums/skin_512.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1107,7 +965,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2050**Multiversal Allies**We are stronger together.<code>_effect_def,2193</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2050**Multiversal Allies**We are stronger together.<code>_effect_def,2193</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1160,7 +1018,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 241**Aria the Metallic Warbler**Their telepathic bond lets them summon their dragon creators in case of dire need.</span></span>
+            <span class="tooltipHolder">![Aria the Metallic Warbler Familiar Portrait](images/premiums/familiar_241.png)<span class="itemTooltipContents">ID: 241**Aria the Metallic Warbler**Their telepathic bond lets them summon their dragon creators in case of dire need.<img src="images/premiums/familiar_241.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1381,7 +1239,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 246**Nub-ub the Mouse**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 246**Nub-ub the Mouse**This simple mouse, often mistaken for the God Ubtao, is probably just a simple mouse.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

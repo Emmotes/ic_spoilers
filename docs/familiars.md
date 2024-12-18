@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 242**Mercy the Vein Golem**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mercy the Vein Golem Portrait](images/familiars/mercytheveingolem.png)<span class="featTooltipContents">ID: 242**Mercy the Vein Golem**<img src="images/familiars/mercytheveingolem.gif" alt="Mercy the Vein Golem Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Mercy the Vein Golem
@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 241**Aria the Metallic Warbler**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Aria the Metallic Warbler Portrait](images/familiars/ariathemetallicwarbler.png)<span class="featTooltipContents">ID: 241**Aria the Metallic Warbler**<img src="images/familiars/ariathemetallicwarbler.gif" alt="Aria the Metallic Warbler Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Aria the Metallic Warbler
