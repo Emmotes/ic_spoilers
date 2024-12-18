@@ -7,7 +7,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Crescent the Lunar Moth Portrait](images/familiars/crescentthelunarmoth.png)<span class="featTooltipContents">ID: 236**Crescent the Lunar Moth**<img src="images/familiars/crescentthelunarmoth.gif" alt="Crescent the Lunar Moth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Crescent the Lunar Moth Portrait](images/familiars/crescentthelunarmoth.png)<span class="featTooltipContents">ID: 236**Crescent the Lunar Moth**It glows in moonlight!<img src="images/familiars/crescentthelunarmoth.gif" alt="Crescent the Lunar Moth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Crescent the Lunar Moth
@@ -24,7 +24,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Skystrike the Baby Griffon Portrait](images/familiars/skystrikethebabygriffon.png)<span class="featTooltipContents">ID: 238**Skystrike the Baby Griffon**<img src="images/familiars/skystrikethebabygriffon.gif" alt="Skystrike the Baby Griffon Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Skystrike the Baby Griffon Portrait](images/familiars/skystrikethebabygriffon.png)<span class="featTooltipContents">ID: 238**Skystrike the Baby Griffon**Oh brother, he thinks I'm his mother! I guess I'll have to teach him that Uni isn't food.<img src="images/familiars/skystrikethebabygriffon.gif" alt="Skystrike the Baby Griffon Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Skystrike the Baby Griffon
@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ganderloo the Clockwork Goose Portrait](images/familiars/ganderlootheclockworkgoose.png)<span class="featTooltipContents">ID: 239**Ganderloo the Clockwork Goose**<img src="images/familiars/ganderlootheclockworkgoose.gif" alt="Ganderloo the Clockwork Goose Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Ganderloo the Clockwork Goose Portrait](images/familiars/ganderlootheclockworkgoose.png)<span class="featTooltipContents">ID: 239**Ganderloo the Clockwork Goose**It can't be bargained with. It can't be reasoned with.<img src="images/familiars/ganderlootheclockworkgoose.gif" alt="Ganderloo the Clockwork Goose Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Ganderloo the Clockwork Goose
@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Mercy the Vein Golem Portrait](images/familiars/mercytheveingolem.png)<span class="featTooltipContents">ID: 242**Mercy the Vein Golem**<img src="images/familiars/mercytheveingolem.gif" alt="Mercy the Vein Golem Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mercy the Vein Golem Portrait](images/familiars/mercytheveingolem.png)<span class="featTooltipContents">ID: 242**Mercy the Vein Golem**I used to be an ancient titan's capillaries! Now I'm the cutest little bean!<img src="images/familiars/mercytheveingolem.gif" alt="Mercy the Vein Golem Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Mercy the Vein Golem
@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Hexton Modron Portrait](images/familiars/hextonmodron.png)<span class="featTooltipContents">ID: 240**Hexton Modron**<img src="images/familiars/hextonmodron.gif" alt="Hexton Modron Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Hexton Modron Portrait](images/familiars/hextonmodron.png)<span class="featTooltipContents">ID: 240**Hexton Modron**The march MUST continue!<img src="images/familiars/hextonmodron.gif" alt="Hexton Modron Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Hexton Modron
@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Aria the Metallic Warbler Portrait](images/familiars/ariathemetallicwarbler.png)<span class="featTooltipContents">ID: 241**Aria the Metallic Warbler**<img src="images/familiars/ariathemetallicwarbler.gif" alt="Aria the Metallic Warbler Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Aria the Metallic Warbler Portrait](images/familiars/ariathemetallicwarbler.png)<span class="featTooltipContents">ID: 241**Aria the Metallic Warbler**Their telepathic bond lets them summon their dragon creators in case of dire need.<img src="images/familiars/ariathemetallicwarbler.gif" alt="Aria the Metallic Warbler Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Aria the Metallic Warbler
@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 246**Nub-ub the Mouse**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 246**Nub-ub the Mouse**This simple mouse, often mistaken for the God Ubtao, is probably just a simple mouse.</span></span>
         </span>
         <span class="skinTableName">
             Nub-ub the Mouse
@@ -160,7 +160,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Rumble the Angry Flumph Portrait](images/familiars/rumbletheangryflumph.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**<img src="images/familiars/rumbletheangryflumph.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Rumble the Angry Flumph Portrait](images/familiars/rumbletheangryflumph.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**A flumph glows faintly, reflecting its moods in its color. Crimson means anger. Beware the angry flumph!<img src="images/familiars/rumbletheangryflumph.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Rumble the Angry Flumph
