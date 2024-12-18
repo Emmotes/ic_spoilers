@@ -96,7 +96,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Monsters are People Too!** (Guess)
-> Increases Ishi's damage by 100% for each non-human in the formation, stacking multiplicatively.
+> Ishi's damage is increased by 100% for each non-human in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -104,7 +104,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2204,
     "flavour_text": "",
     "description": {
-        "desc": "Increases Ishi's damage by $amount% for each non-human in the formation, stacking multiplicatively."
+        "desc": "Ishi's damage is increased by $amount% for each non-human in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -140,7 +140,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Let's Find Some Treasure** (Guess)
-> Increase the party's gold find by 100% for each non-human Champion, stacking multiplicatively.
+> Ishi increases the party's gold find by 100% for each non-human Champion, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -148,7 +148,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2205,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the party's gold find by $amount% for each non-human Champion, stacking multiplicatively."
+        "desc": "Ishi increases the party's gold find by $amount% for each non-human Champion, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -176,7 +176,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Treasure Hunter** (Guess)
-> Increase the effect of Let's Find Some Treasure by 100% for every 4 seconds it has been since Ishi attacked but did not kill an enemy, stacking multiplicatively up to 15 times.
+> Ishi increases the effect of Let's Find Some Treasure by 100% for every 4 seconds it has been since Ishi attacked but did not kill an enemy, stacking multiplicatively up to 15 times.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -184,7 +184,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2206,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of Let's Find Some Treasure by $amount% for every $(per_seconds___2) seconds it has been since Ishi attacked but did not kill an enemy, stacking multiplicatively up to $max_stacks times."
+        "desc": "Ishi increases the effect of Let's Find Some Treasure by $amount% for every $(per_seconds___2) seconds it has been since Ishi attacked but did not kill an enemy, stacking multiplicatively up to $max_stacks times."
     },
     "effect_keys": [
         {
