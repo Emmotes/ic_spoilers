@@ -109,13 +109,13 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 247**Meepo**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 247**Meepo the Kobold**</span></span>
         </span>
         <span class="skinTableName">
-            Meepo
+            Meepo the Kobold
         </span>
         <span class="skinTableSource">
-            Meepo Familiar Pack
+            Meepo the Kobold Familiar Pack
         </span>
         <span class="skinTableCost">
             1,680p

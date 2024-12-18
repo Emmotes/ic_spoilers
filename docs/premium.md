@@ -500,7 +500,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 242**Mercy the Vein Golem**I'm a big titan now!</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 242**Mercy the Vein Golem**I used to be an ancient titan's capillaries! Now I'm the cutest little bean!</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1493,21 +1493,21 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 538</div>
-### Meepo Familiar Pack - 1,680 Platinum ($0.00)  
+### Meepo the Kobold Familiar Pack - 1,680 Platinum ($0.00)  
 Date of release: 12 Feb 2025
 
-> Collect your own Meepo Familiar!
+> Collect your own Meepo the Kobold Familiar!
 
 Contents:
 
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 247**Meepo**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 247**Meepo the Kobold**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Meepo</span>
+            <span style="margin-left:15px">Meepo the Kobold</span>
         </span>
     </span>
     <span class="premiumsTableItem">
