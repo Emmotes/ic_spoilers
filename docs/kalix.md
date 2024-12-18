@@ -49,7 +49,7 @@ Kalix will be a new champion in the Grand Revel event on 5 February 2025.
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Ranger (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
