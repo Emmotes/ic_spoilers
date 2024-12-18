@@ -96,12 +96,9 @@ Kalix will be a new champion in the Grand Revel event on 5 February 2025.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/kalix/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Kalix" fill="#aaa" data-formationName="Kalix" data-campaignName="Grand Revel" width="340" height="160"><circle cx="215" cy="85" r="15"/><circle cx="215" cy="125" r="15"/><circle cx="175" cy="65" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="105" r="15"/><text x="245" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Kalix</text><text x="245" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Grand Revel</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -115,7 +112,7 @@ Unknown.
 {
     "id": 831,
     "name": "Chatkcha",
-    "description": "Kalix throws a Chatkcha at the Closest enemy, dealing 1 hit.",
+    "description": "Kalix throws a Chatkcha at the closest enemy, dealing 1 hit.",
     "long_description": "Kalix throws a Chatkcha at the closest enemy, dealing 1 hit.",
     "graphic_id": 0,
     "target": "front",
@@ -203,7 +200,7 @@ Unknown.
     "description": "Kalix makes 5 attacks against random enemies, dealing ultimate damage and stunning them.",
     "long_description": "Kalix makes 5 attacks against random enemies, dealing ultimate damage and stunning them for 5 seconds due to his paralyzing poison.",
     "graphic_id": 25414,
-    "target": "front",
+    "target": "random",
     "num_targets": 5,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
@@ -214,6 +211,7 @@ Unknown.
             "animation": "split_sequence_multi_target",
             "shake_on_hit": 0.1,
             "stun_on_hit": 5,
+            "can_reapply_effects_to_monsters": true,
             "sequences": [
                 {
                     "start_frame": 0,
@@ -298,11 +296,11 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25407,
+    "large_graphic_id": 25401,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -339,13 +337,21 @@ Unknown.
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "has_non_standard_race + (as_int(GetUpgradeUnlocked(16521)) * is_most_common_race)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "show_bonus": true,
             "off_when_benched": true
+        },
+        {
+            "effect_string": "expression_on_trigger,area_complete",
+            "per_trigger_expr": "AppendToSaveStat(`kalix_unorthodox_areas_completed`, false, trigger_count * as_int(GetUpgradeStacks(16518, 1) >= 10))"
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25409,
+    "large_graphic_id": 25403,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -370,7 +376,15 @@ Unknown.
     "id": 2198,
     "flavour_text": "",
     "description": {
-        "desc": "Enemies that attempt to choose Kalix as a target do not, and instead choose to attack another Champion, assuming another valid target exists. The effect of Mindlink is increased by $(not_buffed amount)% each time this triggers, stacking multiplicatively up to $max_stacks times and resetting when changing areas."
+        "conditions": [
+            {
+                "condition": "upgrade_purchased 16522",
+                "desc": "Enemies that attempt to choose Kalix as a target do not, and instead choose to attack another Champion, assuming another valid target exists. The effect of Mindlink is increased by $(not_buffed amount)% each time this triggers, stacking multiplicatively up to $max_stacks times and losing $(stack_percentage_lost_on_area_change___2)% of stacks when changing areas."
+            },
+            {
+                "desc": "Enemies that attempt to choose Kalix as a target do not, and instead choose to attack another Champion, assuming another valid target exists. The effect of Mindlink is increased by $(not_buffed amount)% each time this triggers, stacking multiplicatively up to $max_stacks times and resetting when changing areas."
+            }
+        ]
     },
     "effect_keys": [
         {
@@ -391,8 +405,8 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25406,
+    "large_graphic_id": 25400,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -436,11 +450,11 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25408,
+    "large_graphic_id": 25402,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -481,6 +495,10 @@ Unknown.
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "is_most_common_race",
             "stack_title": "Bonus Stacks",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "show_bonus": true,
             "hide_stack_description": true,
             "total_title": "Bonus Stacks",
@@ -529,7 +547,7 @@ Unknown.
         {
             "effect_string": "change_upgrade_data,16519,1",
             "data": {
-                "stack_percentage_lost_on_area_change": 0.5
+                "stack_percentage_lost_on_area_change": 50
             },
             "description": ""
         }
@@ -686,19 +704,30 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Missing Merchants (???)** (Complete Area 50)
+**Unlock Adventure: The Missing Merchants (Kalix)** (Complete Area 50)
 > Discover the fate of some merchants in the jungles of Chult.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: TBD** (Complete Area 75)
+![The Hunter from Shaar Icon](images/kalix/25385.png) **Variant 1: The Hunter from Shaar** (Complete Area 75)
+> Kalix starts in the formation. He can be moved, but not removed.  
+> Only Kalix and Champions not adjacent to him can deal damage.  
+> 1-2 Drow Rangers spawn with each wave. They don't drop gold nor count towards quest progress.  
+> Getting to Know Kalix: This Thri-kreen Ranger uses his natural telepathic abilities to buff Champions that are NOT next to him. Build your formation to take the best advantage of this!   
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: TBD** (Complete Area 125)
+![Secondary Sources Icon](images/kalix/25386.png) **Variant 2: Secondary Sources** (Complete Area 125)
+> Kalix starts in the formation. He can be moved, but not removed.  
+> You may only use Core Champions and/or Champions that are not a Standard Species. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.  
+> Getting to Know Kalix: Kalix thrives alongside Champions of exceptional origin. Which unorthodox team of heroes will you use?  
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: TBD** (Complete Area 175)
+![Front and Center Icon](images/kalix/25387.png) **Variant 3: Front and Center** (Complete Area 175)
+> Kalix starts in the formation. He can't be moved or removed.  
+> Only Kalix and Champions from the most represented species in the formation may deal damage.  
+> 1-2 ranged Astral Elf Warriors spawn with each wave and attack twice as fast as normal enemies. They don't drop gold nor count towards quest progress.   
+> Getting to Know Kalix: Kalix buffs your active adventuring party whenever he's in the front column, even when he's hanging out in a background party. His chameleon carapace will protect him as long as he is sharing the front column with a tanking Champion!  
 > 
 </div></div>
 
