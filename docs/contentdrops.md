@@ -156,7 +156,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
 </span>
 
-## Mixed 13 Variants - 29 January 2025
+## Mixed 15 Variants - 29 January 2025
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -171,6 +171,34 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: Terror in the Dark (Variant 3)](images/contentdrop_portraits/grandtour_terrorinthedark_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Grand Tour</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Terror in the Dark</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: Unearthed Evil (Variant 3)](images/contentdrop_portraits/grandtour_unearthedevil_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Grand Tour</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Unearthed Evil</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -430,53 +458,6 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-</span>
-
-## Grand Tour Mixed 2 Variants - 26 March 2025
-
-<span class="contentDropsTableColumn">
-    <span class="contentDropsTableRowHeader">
-        <span class="contentDropsTableIcons">
-            <span style="margin-left:8px;">**Icon**</span>
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">**Campaign**</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">**Adventure Name**</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">**Type**</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: Terror in the Dark (Variant 3)](images/contentdrop_portraits/grandtour_terrorinthedark_3.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Grand Tour</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Terror in the Dark</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #3</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: Unearthed Evil (Variant 3)](images/contentdrop_portraits/grandtour_unearthedevil_3.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Grand Tour</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Unearthed Evil</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #3</span>
         </span>
     </span>
 </span>
