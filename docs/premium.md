@@ -808,7 +808,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Maintain Focus</span>
-            <span style="margin-left:15px">Stoki (Focus Pointers Are Only Reduced by 33% On Changing Areas)</span>
+            <span style="margin-left:15px">Stoki (Focus Points Are Only Reduced by 33% On Changing Areas)</span>
         </span>
     </span>
     <span class="premiumsTableItem">

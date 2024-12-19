@@ -223,7 +223,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             ![Maintain Focus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1240**Maintain Focus (Stoki)**We can't afford to waste time on distractions.<code>change_upgrade_data,16052,5</code></span>Maintain Focus
         </span>
         <span class="featTableEffect">
-            <span>Focus Pointers Are Only Reduced by 33% On Changing Areas</span>
+            <span>Focus Points Are Only Reduced by 33% On Changing Areas</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -1031,7 +1031,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Focus Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1239**Focus Up (Stoki)**Don't lose sight of what lies ahead.<code>change_upgrade_data,16052,5</code></span>Focus Up
         </span>
         <span class="featTableEffect">
-            <span>Focus Pointers Are Only Reduced by 33% On Changing Areas</span>
+            <span>Focus Points Are Only Reduced by 33% On Changing Areas</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
