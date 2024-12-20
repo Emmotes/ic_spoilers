@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/711.png">
-            <span class="weekendTooltipContents">ID: 711**Gold Shar Chest**Loot for: Nayeli, Shadowheart, Makos, Warduke and Talin<code>"for_crusaders":[3,141,9,116,74]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Encroaching Darkness**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    20 December 2024
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Shadowheart
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/shadowheart.png'">
-                        <span class="weekendTableChampionNameplate">Shadowheart</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/warduke.png'">
-                        <span class="weekendTableChampionNameplate">Warduke</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/talin.png'">
-                        <span class="weekendTableChampionNameplate">Talin</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/712.png">
             <span class="weekendTooltipContents">ID: 712**Gold Cloaked Chest**Loot for: Nixie, Calliope, Jamilah, Kas and Astarion<code>"for_crusaders":[123,5,11,153,129]</code></span>
         </span>

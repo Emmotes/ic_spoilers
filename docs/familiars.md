@@ -109,6 +109,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 245**Dendria the Orchid Mantis**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dendria the Orchid Mantis
+        </span>
+        <span class="skinTableSource">
+            Tuxedo Kalix Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            05 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 247**Meepo the Kobold**</span></span>
         </span>
         <span class="skinTableName">
