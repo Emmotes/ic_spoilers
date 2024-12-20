@@ -58,6 +58,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="desmond" style="background-image:url(images/portraits/desmond.png)">Desmond (4)</span>
 <span class="eventRosterChampion" id="solaak" style="background-image:url(images/portraits/solaak.png)">Solaak (2)</span>
 <span class="eventRosterChampion" id="dynaheir" style="background-image:url(images/portraits/dynaheir.png)">Dynaheir (3)</span>
+<span class="eventRosterChampion" id="sheila" style="background-image:url(images/portraits/sheila.png)">Sheila</span>
 </span>
 
 {:/nomarkdown}
