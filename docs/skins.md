@@ -232,7 +232,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 513**Android Kent (Kent)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Android Kent Portrait](images/skin_portraits/androidkent.png)<span class="featTooltipContents">ID: 513**Android Kent (Kent)**<img src="images/skin_models/androidkent.gif" alt="Android Kent Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Android Kent

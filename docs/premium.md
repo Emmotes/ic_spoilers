@@ -956,7 +956,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 513**Android Kent (Kent)**</span></span>
+            <span class="tooltipHolder">![Android Kent Skin Portrait](images/premiums/skin_513.png)<span class="itemTooltipContents">ID: 513**Android Kent (Kent)**<img src="images/premiums/skin_513.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
