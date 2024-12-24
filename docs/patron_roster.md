@@ -3311,23 +3311,23 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="98,38,61,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="98,38,61,292,292,292,292,292">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem" data-sort="98,38,61,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="98,38,61,292,292,292,292,292">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem" data-sort="98,38,61,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="98,38,61,292,292,292,292,292">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem" data-sort="98,38,61,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="98,38,61,292,292,292,292,292">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem" data-sort="98,38,61,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="98,38,61,292,292,292,292,292">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="98,38,61,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="99,87,97,0,291,291,0,291">&nbsp;</span>
@@ -3418,7 +3418,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="101,83,25,0,289,292,289,291">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="101,83,25,0,289,292,289,291">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem" data-sort="101,83,25,0,289,292,289,291">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="101,83,25,0,289,292,289,291">
@@ -4346,7 +4346,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="129,63,39,291,291,0,292,291">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="129,63,39,291,291,0,292,291">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem" data-sort="129,63,39,291,291,0,292,291">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="129,63,39,291,291,0,292,291">
@@ -4433,23 +4433,23 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="132,28,120,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="132,28,120,292,292,292,292,292">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem" data-sort="132,28,120,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="132,28,120,292,292,292,292,292">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem" data-sort="132,28,120,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="132,28,120,292,292,292,292,292">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem" data-sort="132,28,120,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="132,28,120,292,292,292,292,292">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem" data-sort="132,28,120,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="132,28,120,292,292,292,292,292">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="132,28,120,292,292,292,292,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="133,48,0,289,291,291,0,292">&nbsp;</span>
@@ -4482,7 +4482,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="133,48,0,289,291,291,0,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="133,48,0,289,291,291,0,292">
-        <label class="cblabel"><input type="checkbox" disabled checked>Ability
+        <label class="cblabel"><input type="checkbox" disabled checked>Always
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="133,48,0,289,291,291,0,292">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="134,33,97,291,0,289,0,291">&nbsp;</span>
