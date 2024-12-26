@@ -17,7 +17,12 @@ It has been given to the following champions:
 
 ## Control
 
-This is a role that will be given to champions that are able to slow stun snare or knockback. It hasn't currently been given to any champions yet - but there is data in the definitions laying the groundwork for it. It's even visible in the Champion Search tool.
+This is a role for champions that are able to slow stun snare or knockback.
+
+It has been given to the following champions:
+
+|---|---|---|---|---|
+| Eric |  |  |  |  |
 
 ## Armour Breaker
 
