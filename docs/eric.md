@@ -407,7 +407,7 @@ Eric will be a new champion in the Wintershield event on 1 January 2025.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Protective Field** (Level: 240)
+![Protective Field Icon](images/eric/icon_protectivefield.png) **Protective Field** (Level: 240)
 > Unlocks Eric's Protective Field Ultimate Attack.
 <details><summary><em>Raw Data</em></summary>
 <p>
