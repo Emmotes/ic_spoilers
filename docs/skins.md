@@ -11,23 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Silver Bells Birdsong Portrait](images/skin_portraits/silverbellsbirdsong.png)<span class="featTooltipContents">ID: 504**Silver Bells Birdsong (Birdsong)**<img src="images/skin_models/silverbellsbirdsong.gif" alt="Silver Bells Birdsong Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Silver Bells Birdsong
-        </span>
-        <span class="skinTableSource">
-            Newsletter (Guess)
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            25 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Sharran Celeste Portrait](images/skin_portraits/sharranceleste.png)<span class="featTooltipContents">ID: 497**Sharran Celeste (Celeste)**<img src="images/skin_models/sharranceleste.gif" alt="Sharran Celeste Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
