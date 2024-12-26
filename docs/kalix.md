@@ -704,7 +704,7 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Missing Merchants (Kalix)** (Complete Area 50)
+**Unlock Adventure: The Missing Merchants (???)** (Complete Area 50)
 > Discover the fate of some merchants in the jungles of Chult.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -712,23 +712,20 @@ Unknown.
 > Kalix starts in the formation. He can be moved, but not removed.  
 > Only Kalix and Champions not adjacent to him can deal damage.  
 > 1-2 Drow Rangers spawn with each wave. They don't drop gold nor count towards quest progress.  
-> Getting to Know Kalix: This Thri-kreen Ranger uses his natural telepathic abilities to buff Champions that are NOT next to him. Build your formation to take the best advantage of this!   
-> 
+> Getting to Know Kalix: This Thri-kreen Ranger uses his natural telepathic abilities to buff Champions that are NOT next to him. Build your formation to take the best advantage of this!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Secondary Sources Icon](images/kalix/25386.png) **Variant 2: Secondary Sources** (Complete Area 125)
 > Kalix starts in the formation. He can be moved, but not removed.  
 > You may only use Core Champions and/or Champions that are not a Standard Species. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.  
-> Getting to Know Kalix: Kalix thrives alongside Champions of exceptional origin. Which unorthodox team of heroes will you use?  
-> 
+> Getting to Know Kalix: Kalix thrives alongside Champions of exceptional origin. Which unorthodox team of heroes will you use?
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Front and Center Icon](images/kalix/25387.png) **Variant 3: Front and Center** (Complete Area 175)
 > Kalix starts in the formation. He can't be moved or removed.  
 > Only Kalix and Champions from the most represented species in the formation may deal damage.  
 > 1-2 ranged Astral Elf Warriors spawn with each wave and attack twice as fast as normal enemies. They don't drop gold nor count towards quest progress.   
-> Getting to Know Kalix: Kalix buffs your active adventuring party whenever he's in the front column, even when he's hanging out in a background party. His chameleon carapace will protect him as long as he is sharing the front column with a tanking Champion!  
-> 
+> Getting to Know Kalix: Kalix buffs your active adventuring party whenever he's in the front column, even when he's hanging out in a background party. His chameleon carapace will protect him as long as he is sharing the front column with a tanking Champion!
 </div></div>
 
 # Other Champion Images
