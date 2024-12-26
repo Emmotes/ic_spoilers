@@ -24,7 +24,7 @@ These are the event champions that are upcoming and all the information we know 
                 Eric
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter of Saturday Morning Squad (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Fighter of Saturday Morning Squad</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Wintershield - 1 January 2025</span>
