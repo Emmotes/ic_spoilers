@@ -30,40 +30,6 @@ For feats that were available in emergences or giveaways - please see the [Exclu
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Celeste</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Dark Revelation Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 1984**Dark Revelation (Celeste)**Selûne's power is nothing - Shar's perfection eclipses it<code>change_hero_alignment_tag,lawful,evil</code></span>Dark Revelation
-        </span>
-        <span class="featTableEffect">
-            <span>Change Alignment to Lawful Evil</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>26 Dec 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Nordom</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1985**Prodigal Leader (Nordom)**Command: Increase combat output by fifty percent.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>26 Dec 2024</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Artemis</span>
         </span>
         <span class="featTableIcon4">
@@ -71,6 +37,23 @@ For feats that were available in emergences or giveaways - please see the [Exclu
         </span>
         <span class="featTableEffect">
             <span>20% All Champion Damage per Unique Species in Formation (Additive) (This Feat Won't Do Anything)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Eric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Friendly Resolve Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2040**Friendly Resolve (Eric)**We'll all make it back home one way or another, and we'll do it together.<code>buff_upgrades,80,16137,16138,16139</code></span>Friendly Resolve
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Second Specialisations (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>

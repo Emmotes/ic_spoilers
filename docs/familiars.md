@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Crescent the Lunar Moth Portrait](images/familiars/crescentthelunarmoth.png)<span class="featTooltipContents">ID: 236**Crescent the Lunar Moth**It glows in moonlight!<img src="images/familiars/crescentthelunarmoth.gif" alt="Crescent the Lunar Moth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Crescent the Lunar Moth
-        </span>
-        <span class="skinTableSource">
-            Crescent the Lunar Moth Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            26 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Skystrike the Baby Griffon Portrait](images/familiars/skystrikethebabygriffon.png)<span class="featTooltipContents">ID: 238**Skystrike the Baby Griffon**Oh brother, he thinks I'm his mother! I guess I'll have to teach him that Uni isn't food.<img src="images/familiars/skystrikethebabygriffon.gif" alt="Skystrike the Baby Griffon Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

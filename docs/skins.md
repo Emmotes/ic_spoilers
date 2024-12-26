@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sharran Celeste Portrait](images/skin_portraits/sharranceleste.png)<span class="featTooltipContents">ID: 497**Sharran Celeste (Celeste)**<img src="images/skin_models/sharranceleste.gif" alt="Sharran Celeste Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Sharran Celeste
-        </span>
-        <span class="skinTableSource">
-            Sharran Celeste Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            26 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Yule Log Nordom Portrait](images/skin_portraits/yulelognordom.png)<span class="featTooltipContents">ID: 498**Yule Log Nordom (Nordom)**<img src="images/skin_models/yulelognordom.gif" alt="Yule Log Nordom Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Yule Log Nordom
-        </span>
-        <span class="skinTableSource">
-            Yule Log Nordom Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            26 Dec 2024
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Glasswork Golem Artemis Portrait](images/skin_portraits/glassworkgolemartemis.png)<span class="featTooltipContents">ID: 506**Glasswork Golem Artemis (Artemis)**<img src="images/skin_models/glassworkgolemartemis.gif" alt="Glasswork Golem Artemis Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
