@@ -34,11 +34,11 @@ We know the next Emergence event will be Constructs and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Golden Epic](images/general/unknown.png)
+            <span class="tooltipHolder">![Golden Epic Icon for Eric Slot 2](images/emergence_10/ge_3729.png)<span class="itemTooltipContents">ID: 3729**Cavalier's Breastplate (Eric)**Not even Tiamat can melt this metal!<code>health_mult,100</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
-            <span style="margin-left:15px"></span>
+            <span style="margin-left:15px">Health</span>
             <span style="margin-left:15px">Eric (Slot 2)</span>
         </span>
     </span>
@@ -92,11 +92,12 @@ We know the next Emergence event will be Constructs and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prolonged Push Feat Icon](images/emergence_10/feat_2034.png)<span class="featTooltipContents">ID: 2034**Prolonged Push (Eric)**You guys handle the fighting. I'll stay back here and hold them off!<code>buff_upgrade,80,16132,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Prolonged Push</span>
+            <span style="margin-left:15px">Eric (80% Duration Keep Away)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
