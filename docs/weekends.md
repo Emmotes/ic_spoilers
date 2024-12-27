@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/712.png">
-            <span class="weekendTooltipContents">ID: 712**Gold Cloaked Chest**Loot for: Nixie, Calliope, Jamilah, Kas and Astarion<code>"for_crusaders":[123,5,11,153,129]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Cloak & Dagger**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    27 December 2024
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Astarion
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/astarion.png'">
-                        <span class="weekendTableChampionNameplate">Astarion</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jamilah.png'">
-                        <span class="weekendTableChampionNameplate">Jamilah</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kas.png'">
-                        <span class="weekendTableChampionNameplate">Kas</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nixie.png'">
-                        <span class="weekendTableChampionNameplate">Nixie</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/715.png">
             <span class="weekendTooltipContents">ID: 715**Gold Commercial Chest**Loot for: Delina, Eric, Tyril, Presto and Diana<code>"for_crusaders":[8,157,10,144,148]</code></span>
         </span>
