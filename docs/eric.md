@@ -565,7 +565,7 @@ Eric will be a new champion in the Wintershield event on 1 January 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Corrupted Gem Scavenger** (Level: 410)
-> Eric can help scavenge up to 5000 additional Corrupted Gems when killing bosses. While this cap is not reached, Eric has a 100% chance of scavenging 100_per_drop Corrupted Gems each time a boss is defeated. The cap increases by 150 every day.
+> Eric can help scavenge up to 5000 additional Corrupted Gems when killing bosses. While this cap is not reached, Eric has a 100% chance of scavenging 10 Corrupted Gems each time a boss is defeated. The cap increases by 150 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
