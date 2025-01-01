@@ -62,12 +62,12 @@ We know the next Emergence event will be Constructs and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Shar's Veil Feat Icon](images/emergence_10/feat_2007.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<code>todo<br>DevNote: see details in feats doc row 1981</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Shar's Veil Feat Icon](images/emergence_10/feat_2007.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<code>change_hero_alignment_tag,lawful,evil</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Shar's Veil</span>
-            <span style="margin-left:15px">Shadowheart (todo)</span>
+            <span style="margin-left:15px">Shadowheart (Change Alignment to Lawful Evil)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
