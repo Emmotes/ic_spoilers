@@ -23,7 +23,7 @@
 
 Volo was a too-curious-for-his-own-good travelling scholar and minor wizard. Always on the lookout for an exposé, he all too frequently was at odds with Elminster, who preferred some things to be kept in the dark. In fact, it was his assembling his "first" guide—Volo's Guide to All Things Magical—that put him on the "path" to making his other guides. As for Elminster, it is he who edits every guide that Volo has published, as evident in the many footnotes in each, including Volo's Guide to All Things Magical, which almost got Volo killed making it.
 
-[Wiki Name](https://en.wikipedia.org/wiki/Volothamp_Geddarm/)
+[Wikipedia](https://en.wikipedia.org/wiki/Volothamp_Geddarm/)
 
 # Basic Information
 
