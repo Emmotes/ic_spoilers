@@ -214,7 +214,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**MeeklyMeeting** (Guess)
+**Meekly Meeting** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -410,8 +410,8 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Missing Merchants (???)** (Complete Area 50)
-> Discover the fate of some merchants in the jungles of Chult.
+**Unlock Adventure: The Unfair Sea (???)** (Complete Area 50)
+> Search for some missing ships during Fleetswake in Waterdeep.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Variant 1: TBD** (Complete Area 75)
