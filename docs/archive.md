@@ -8,6 +8,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Ellywick](archive/ellywick.md)
 * [Emergence 8](archive/emergence_8.md)
 * [Emergence 9](archive/emergence_9.md)
+* [Eric](archive/eric.md)
 * [Halsin](archive/halsin.md)
 * [Kas](archive/kas.md)
 * [Minthara](archive/minthara.md)
