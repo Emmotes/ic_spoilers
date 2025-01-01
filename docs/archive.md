@@ -6,7 +6,6 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 
 * [Bobby](archive/bobby.md)
 * [Ellywick](archive/ellywick.md)
-* [Emergence 8](archive/emergence_8.md)
 * [Emergence 9](archive/emergence_9.md)
 * [Eric](archive/eric.md)
 * [Halsin](archive/halsin.md)
@@ -17,7 +16,6 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Sgt. Knox](archive/sgtknox.md)
 * [Stoki](archive/stoki.md)
 * [Voronika](archive/voronika.md)
-* [Wren](archive/wren.md)
 * [XBox Giveaway](archive/xbox_giveaway_laezel.md)
 
 [Back to Top](#top)
