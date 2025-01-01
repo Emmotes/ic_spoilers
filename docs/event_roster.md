@@ -6,26 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Wintershield - January
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="barrowin" style="background-image:url(images/portraits/barrowin.png)">Barrowin (10)</span>
-<span class="eventRosterChampion" id="nerys" style="background-image:url(images/portraits/nerys.png)">Nerys (12)</span>
-<span class="eventRosterChampion" id="artemis" style="background-image:url(images/portraits/artemis.png)">Artemis (3)</span>
-<span class="eventRosterChampion" id="morgaen" style="background-image:url(images/portraits/morgaen.png)">Môrgæn (9)</span>
-<span class="eventRosterChampion" id="baeloth" style="background-image:url(images/portraits/baeloth.png)">Baeloth (4)</span>
-<span class="eventRosterChampion" id="viconia" style="background-image:url(images/portraits/viconia.png)">Viconia (5)</span>
-<span class="eventRosterChampion" id="rust" style="background-image:url(images/portraits/rust.png)">Rust (11)</span>
-<span class="eventRosterChampion" id="gazrick" style="background-image:url(images/portraits/gazrick.png)">Gazrick (7)</span>
-<span class="eventRosterChampion" id="imoen" style="background-image:url(images/portraits/imoen.png)">Imoen (11)</span>
-<span class="eventRosterChampion" id="wyll" style="background-image:url(images/portraits/wyll.png)">Wyll (12)</span>
-<span class="eventRosterChampion" id="eric" style="background-image:url(images/portraits/eric.png)">Eric (4)</span>
-</span>
-
-{:/nomarkdown}
-
 # Grand Revel - February
 
 {::nomarkdown}
@@ -227,6 +207,26 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="warduke" style="background-image:url(images/portraits/warduke.png)">Warduke (8)</span>
 <span class="eventRosterChampion" id="shadowheart" style="background-image:url(images/portraits/shadowheart.png)">Shadowheart (6)</span>
 <span class="eventRosterChampion" id="halsin" style="background-image:url(images/portraits/halsin.png)">Halsin (3)</span>
+</span>
+
+{:/nomarkdown}
+
+# Wintershield - January
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="barrowin" style="background-image:url(images/portraits/barrowin.png)">Barrowin (10)</span>
+<span class="eventRosterChampion" id="nerys" style="background-image:url(images/portraits/nerys.png)">Nerys (12)</span>
+<span class="eventRosterChampion" id="artemis" style="background-image:url(images/portraits/artemis.png)">Artemis (3)</span>
+<span class="eventRosterChampion" id="morgaen" style="background-image:url(images/portraits/morgaen.png)">Môrgæn (9)</span>
+<span class="eventRosterChampion" id="baeloth" style="background-image:url(images/portraits/baeloth.png)">Baeloth (4)</span>
+<span class="eventRosterChampion" id="viconia" style="background-image:url(images/portraits/viconia.png)">Viconia (5)</span>
+<span class="eventRosterChampion" id="rust" style="background-image:url(images/portraits/rust.png)">Rust (11)</span>
+<span class="eventRosterChampion" id="gazrick" style="background-image:url(images/portraits/gazrick.png)">Gazrick (7)</span>
+<span class="eventRosterChampion" id="imoen" style="background-image:url(images/portraits/imoen.png)">Imoen (11)</span>
+<span class="eventRosterChampion" id="wyll" style="background-image:url(images/portraits/wyll.png)">Wyll (12)</span>
+<span class="eventRosterChampion" id="eric" style="background-image:url(images/portraits/eric.png)">Eric (4)</span>
 </span>
 
 {:/nomarkdown}
