@@ -704,7 +704,7 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Missing Merchants (???)** (Complete Area 50)
+**Unlock Adventure: The Missing Merchants (Kalix)** (Complete Area 50)
 > Discover the fate of some merchants in the jungles of Chult.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
