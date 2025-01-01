@@ -886,10 +886,10 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 534</div>
-### Tuxedo Kalix Theme Pack - 3,830 Platinum ($0.00)  
+### Ruby Rose Knight Kalix Theme Pack - 3,830 Platinum ($0.00)  
 Date of release: 05 Feb 2025
 
-> Unlock Kalix along with an exclusive Tuxedo Skin & Familiar!
+> Unlock Kalix along with an exclusive Ruby Rose Knight Skin & Familiar!
 
 Contents:
 
@@ -905,16 +905,16 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 525**Ruby Rose Knight Kalix (Kalix)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Tuxedo Kalix</span>
+            <span style="margin-left:15px">Ruby Rose Knight Kalix</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 245**Dendria the Orchid Mantis**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 245**Dendria the Orchid Mantis**Always by your side.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -923,12 +923,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2065**Feat**???: 2065</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor (10% All Champion Damage)</span>
+            <span style="margin-left:15px">???: 2065</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -984,12 +983,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2077**Misdirection**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2077**Misdirection**Zrang? Nope. Never heard of 'em. ~Zrang<code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Misdirection</span>
-            <span style="margin-left:15px">Hew Maan ()</span>
+            <span style="margin-left:15px">Hew Maan (100% All Champion Damage & Enemies Will Attack Other Champions If Possible)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1064,11 +1063,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1577**Feat**???: 1577</span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2089**Feat**???: 2089</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 1577</span>
+            <span style="margin-left:15px">???: 2089</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1124,12 +1123,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2078**Presto's Aplomb**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Presto's Aplomb Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2078**Presto's Aplomb**Growing up sure is scary, but I'll be brave.<code>buff_upgrades,20,13765,13766,13767</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Presto's Aplomb</span>
-            <span style="margin-left:15px">Presto ()</span>
+            <span style="margin-left:15px">Presto (20% All Specialisations)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1177,7 +1176,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 247**Meepo the Kobold**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 247**Meepo the Kobold**Has anyone seen Calcryx?</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1257,12 +1256,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2079**Prodigal Leader**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 2079**Prodigal Leader**When you look this good, people will do just about anything for you.<code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Prodigal Leader</span>
-            <span style="margin-left:15px">Vi ()</span>
+            <span style="margin-left:15px">Vi (50% All Champion Damage)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1328,12 +1327,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2080**Weapon Master**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Portrait](images/featicons/selfdps.png)<span class="itemTooltipContents">ID: 2080**Weapon Master**Take away my blades and I'll show you what these claws can do.<code>hero_dps_multiplier_mult,120</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Weapon Master</span>
-            <span style="margin-left:15px">Birdsong ()</span>
+            <span style="margin-left:15px">Birdsong (120% Self DPS)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1399,12 +1398,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2081**Ferocious Charge**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Ferocious Charge Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2081**Ferocious Charge**With me! Overwhelm them with our combined might! Make them fear us!<code>buff_upgrade,80,12978</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Ferocious Charge</span>
-            <span style="margin-left:15px">Thellora ()</span>
+            <span style="margin-left:15px">Thellora (80% Strength of the Luma)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1470,12 +1469,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2082**Secret Stash**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Secret Stash Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2082**Secret Stash**I've hoarded an assortment of accursed concoctions just for this occasion.<code>buff_upgrade,40,11540</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Secret Stash</span>
-            <span style="margin-left:15px">BBEG ()</span>
+            <span style="margin-left:15px">BBEG (40% Homebrew)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1523,7 +1522,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 248**Krynn the Crystal Dragon**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 248**Krynn the Crystal Dragon**She only gets angry when you mention Takhisis.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1597,6 +1596,430 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Modron Component Pieces**</span>
             <span style="margin-left:15px">x2,000</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 544</div>
+### Privateer Volo Theme Pack - 3,830 Platinum ($0.00)  
+Date of release: 05 Mar 2025
+
+> Unlock Volo along with an exclusive Privateer Skin & Familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Sheila Champion Unlock Portrait](images/premiums/unlock_champion_159.png)<span class="itemTooltipContents">ID: 159**Sheila**<img src="images/premiums/unlock_champion_159.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Sheila</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 526**Privateer Volo (Sheila)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Privateer Volo</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 250**Magical Animated Quill**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Magical Animated Quill</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor (10% All Champion Damage)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 651****Loot for: Sheila<code>"for_crusaders":[159]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px"></span>
+            <span style="margin-left:15px">x32 (Shinies x2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Gem Hunter Buff Portrait](images/premiums/buff_1723.png)<span class="itemTooltipContents">ID: 1723**Potion of the Gem Hunter**Increases the gem drops from bosses by 50%<code>increase_boss_gems_percent,50</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of the Gem Hunter</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 545</div>
+### Fathomless Gale Skin & Feat Pack - 1,680 Platinum ($0.00)  
+Date of release: 05 Mar 2025
+
+> Unlock Gale along with his exclusive Fathomless Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Gale Champion Unlock Portrait](images/premiums/unlock_champion_147.png)<span class="itemTooltipContents">ID: 147**Gale (Seat 1)**<img src="images/premiums/unlock_champion_147.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Gale</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 527**Fathomless Gale (Gale)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Fathomless Gale</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2090**TBD Gale Feat**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD Gale Feat</span>
+            <span style="margin-left:15px">Gale ()</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Gale Chest Chest Portrait](images/premiums/chests_565.png)<span class="itemTooltipContents">ID: 565**Platinum Gale Chest**Loot for: Gale<code>"for_crusaders":[147]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Gale Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 546</div>
+### Swashbuckler Sheila Theme Pack - 3,830 Platinum ($0.00)  
+Date of release: 12 Mar 2025
+
+> Unlock Sheila along with an exclusive Swashbuckler Skin & Familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Volo Champion Unlock Portrait](images/premiums/unlock_champion_160.png)<span class="itemTooltipContents">ID: 160**Volo**<img src="images/premiums/unlock_champion_160.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Volo</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 528**Swashbuckler Sheila (Volo)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Swashbuckler Sheila</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 251**TBD Sheila Familiar**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">TBD Sheila Familiar</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor (10% All Champion Damage)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 653****Loot for: Volo<code>"for_crusaders":[160]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px"></span>
+            <span style="margin-left:15px">x32 (Shinies x2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Gem Hunter Buff Portrait](images/premiums/buff_1723.png)<span class="itemTooltipContents">ID: 1723**Potion of the Gem Hunter**Increases the gem drops from bosses by 50%<code>increase_boss_gems_percent,50</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of the Gem Hunter</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 547</div>
+### Swashbuckler Orkira Skin & Feat Pack - 1,680 Platinum ($0.00)  
+Date of release: 12 Mar 2025
+
+> Unlock Orkira along with her exclusive Swashbuckler Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Orkira Champion Unlock Portrait](images/premiums/unlock_champion_78.png)<span class="itemTooltipContents">ID: 78**Orkira (Seat 1)**<img src="images/premiums/unlock_champion_78.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Orkira</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Swashbuckler Orkira</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2091**TBD Orkira Feat**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD Orkira Feat</span>
+            <span style="margin-left:15px">Orkira ()</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Orkira Chest Chest Portrait](images/premiums/chests_263.png)<span class="itemTooltipContents">ID: 263**Platinum Orkira Chest**Loot for: Orkira<code>"for_crusaders":[78]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Orkira Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 548</div>
+### Pirate Queen Sisaspia Skin & Feat Pack - 1,680 Platinum ($0.00)  
+Date of release: 19 Mar 2025
+
+> Unlock Sisaspia along with her exclusive Pirate Queen Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Sisaspia Champion Unlock Portrait](images/premiums/unlock_champion_57.png)<span class="itemTooltipContents">ID: 57**Sisaspia (Seat 1)**<img src="images/premiums/unlock_champion_57.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Sisaspia</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 530**Pirate Queen Sisaspia (Sisaspia)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Pirate Queen Sisaspia</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2092**TBD Sisaspia Feat**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD Sisaspia Feat</span>
+            <span style="margin-left:15px">Sisaspia ()</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Sisaspia Chest Chest Portrait](images/premiums/chests_173.png)<span class="itemTooltipContents">ID: 173**Platinum Sisaspia Chest**Loot for: Sisaspia<code>"for_crusaders":[57]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Sisaspia Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 549</div>
+### Pirate Lord Nrakk Skin & Feat Pack - 1,680 Platinum ($0.00)  
+Date of release: 19 Mar 2025
+
+> Unlock Nrakk along with his exclusive Pirate Lord Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Nrakk Champion Unlock Portrait](images/premiums/unlock_champion_24.png)<span class="itemTooltipContents">ID: 24**Nrakk (Seat 8)**<img src="images/premiums/unlock_champion_24.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Nrakk</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Pirate Lord Nrakk</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2093**TBD Nrakk Feat**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD Nrakk Feat</span>
+            <span style="margin-left:15px">Nrakk ()</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Nrakk Chest Chest Portrait](images/premiums/chests_30.png)<span class="itemTooltipContents">ID: 30**Platinum Nrakk Chest**Loot for: Nrakk<code>"for_crusaders":[24]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Nrakk Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
 </span>

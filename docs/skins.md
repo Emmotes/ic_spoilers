@@ -215,13 +215,13 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 525**Ruby Rose Knight Kalix (Kalix)**</span></span>
         </span>
         <span class="skinTableName">
-            Tuxedo Kalix
+            Ruby Rose Knight Kalix
         </span>
         <span class="skinTableSource">
-            Tuxedo Kalix Theme Pack
+            Ruby Rose Knight Kalix Theme Pack
         </span>
         <span class="skinTableCost">
             3,830p
@@ -330,6 +330,108 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             26 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 527**Fathomless Gale (Gale)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Fathomless Gale
+        </span>
+        <span class="skinTableSource">
+            Fathomless Gale Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            05 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 526**Privateer Volo (Sheila)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Privateer Volo
+        </span>
+        <span class="skinTableSource">
+            Privateer Volo Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            05 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Swashbuckler Orkira
+        </span>
+        <span class="skinTableSource">
+            Swashbuckler Orkira Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            12 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 528**Swashbuckler Sheila (Volo)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Swashbuckler Sheila
+        </span>
+        <span class="skinTableSource">
+            Swashbuckler Sheila Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            12 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Pirate Lord Nrakk
+        </span>
+        <span class="skinTableSource">
+            Pirate Lord Nrakk Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            19 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 530**Pirate Queen Sisaspia (Sisaspia)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Pirate Queen Sisaspia
+        </span>
+        <span class="skinTableSource">
+            Pirate Queen Sisaspia Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            19 Mar 2025
         </span>
     </span>
     <span class="skinTableRow">

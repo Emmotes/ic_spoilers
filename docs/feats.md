@@ -166,6 +166,23 @@ For feats that were available in emergences or giveaways - please see the [Exclu
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Eric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prolonged Push Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2034**Prolonged Push (Eric)**You guys handle the fighting. I'll stay back here and hold them off!<code>buff_upgrade,80,16132,0</code></span>Prolonged Push
+        </span>
+        <span class="featTableEffect">
+            <span>80% Duration Keep Away</span>
+        </span>
+        <span class="featTableSource">
+            <span>Emergence 10</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Kas</span>
         </span>
         <span class="featTableIcon4">
@@ -186,10 +203,10 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>Shadowheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Shar's Veil Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<code>todo<br>DevNote: see details in feats doc row 1981</code></span>Shar's Veil
+            ![Shar's Veil Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<code>change_hero_alignment_tag,lawful,evil</code></span>Shar's Veil
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Change Alignment to Lawful Evil</span>
         </span>
         <span class="featTableSource">
             <span>Emergence 10</span>
@@ -254,10 +271,10 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>Hew Maan</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2077**Misdirection (Hew Maan)**</span>Misdirection
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2077**Misdirection (Hew Maan)**Zrang? Nope. Never heard of 'em. ~Zrang<code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span>Misdirection
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>100% All Champion Damage & Enemies Will Attack Other Champions If Possible</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -271,10 +288,10 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>Presto</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2078**Presto's Aplomb (Presto)**</span>Presto's Aplomb
+            ![Presto's Aplomb Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2078**Presto's Aplomb (Presto)**Growing up sure is scary, but I'll be brave.<code>buff_upgrades,20,13765,13766,13767</code></span>Presto's Aplomb
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>20% All Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -288,10 +305,10 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>Birdsong</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2080**Weapon Master (Birdsong)**</span>Weapon Master
+            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2080**Weapon Master (Birdsong)**Take away my blades and I'll show you what these claws can do.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>120% Self DPS</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -305,10 +322,10 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>Vi</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2079**Prodigal Leader (Vi)**</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2079**Prodigal Leader (Vi)**When you look this good, people will do just about anything for you.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -322,10 +339,10 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>BBEG</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2082**Secret Stash (BBEG)**</span>Secret Stash
+            ![Secret Stash Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2082**Secret Stash (BBEG)**I've hoarded an assortment of accursed concoctions just for this occasion.<code>buff_upgrade,40,11540</code></span>Secret Stash
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>40% Homebrew</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -339,10 +356,10 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>Thellora</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2081**Ferocious Charge (Thellora)**</span>Ferocious Charge
+            ![Ferocious Charge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2081**Ferocious Charge (Thellora)**With me! Overwhelm them with our combined might! Make them fear us!<code>buff_upgrade,80,12978</code></span>Ferocious Charge
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>80% Strength of the Luma</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -522,6 +539,40 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>-1 Attack Req for Shadow Arts</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Eric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Powerful Shove Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2035**Powerful Shove (Eric)**Let's keep a safe distance. Way over there sounds perfect.<code>buff_upgrade,80,16132,1</code></span>Powerful Shove
+        </span>
+        <span class="featTableEffect">
+            <span>80% Keep Away</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Eric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Preventive Intervention Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2033**Preventive Intervention (Eric)**There, I saved you. You're welcome. Now be more careful!<code>buff_upgrade,80,16130</code></span>Preventive Intervention
+        </span>
+        <span class="featTableEffect">
+            <span>80% Shield of the Cavalier</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

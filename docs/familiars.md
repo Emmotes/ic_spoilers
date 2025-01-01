@@ -92,13 +92,13 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 245**Dendria the Orchid Mantis**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 245**Dendria the Orchid Mantis**Always by your side.</span></span>
         </span>
         <span class="skinTableName">
             Dendria the Orchid Mantis
         </span>
         <span class="skinTableSource">
-            Tuxedo Kalix Theme Pack
+            Ruby Rose Knight Kalix Theme Pack
         </span>
         <span class="skinTableCost">
             3,830p
@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 247**Meepo the Kobold**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 247**Meepo the Kobold**Has anyone seen Calcryx?</span></span>
         </span>
         <span class="skinTableName">
             Meepo the Kobold
@@ -143,7 +143,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 248**Krynn the Crystal Dragon**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 248**Krynn the Crystal Dragon**She only gets angry when you mention Takhisis.</span></span>
         </span>
         <span class="skinTableName">
             Krynn the Crystal Dragon
@@ -156,6 +156,40 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             26 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 250**Magical Animated Quill**</span></span>
+        </span>
+        <span class="skinTableName">
+            Magical Animated Quill
+        </span>
+        <span class="skinTableSource">
+            Privateer Volo Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            05 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.</span></span>
+        </span>
+        <span class="skinTableName">
+            Clove the Badger
+        </span>
+        <span class="skinTableSource">
+            None
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
         </span>
     </span>
     <span class="skinTableRow">
