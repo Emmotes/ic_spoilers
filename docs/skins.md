@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Glasswork Golem Artemis Portrait](images/skin_portraits/glassworkgolemartemis.png)<span class="featTooltipContents">ID: 506**Glasswork Golem Artemis (Artemis)**<img src="images/skin_models/glassworkgolemartemis.gif" alt="Glasswork Golem Artemis Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Glasswork Golem Artemis
-        </span>
-        <span class="skinTableSource">
-            Glasswork Golem Artemis Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            01 Jan 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Stone Golem Eric Portrait](images/skin_portraits/stonegolemeric.png)<span class="featTooltipContents">ID: 505**Stone Golem Eric (Eric)**<img src="images/skin_models/stonegolemeric.gif" alt="Stone Golem Eric Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Stone Golem Eric
-        </span>
-        <span class="skinTableSource">
-            Stone Golem Eric Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            01 Jan 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Crystal Titan Mehen Portrait](images/skin_portraits/crystaltitanmehen.png)<span class="featTooltipContents">ID: 507**Crystal Titan Mehen (Mehen)**<img src="images/skin_models/crystaltitanmehen.gif" alt="Crystal Titan Mehen Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

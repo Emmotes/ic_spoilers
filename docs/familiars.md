@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Skystrike the Baby Griffon Portrait](images/familiars/skystrikethebabygriffon.png)<span class="featTooltipContents">ID: 238**Skystrike the Baby Griffon**Oh brother, he thinks I'm his mother! I guess I'll have to teach him that Uni isn't food.<img src="images/familiars/skystrikethebabygriffon.gif" alt="Skystrike the Baby Griffon Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Skystrike the Baby Griffon
-        </span>
-        <span class="skinTableSource">
-            Stone Golem Eric Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            01 Jan 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Ganderloo the Clockwork Goose Portrait](images/familiars/ganderlootheclockworkgoose.png)<span class="featTooltipContents">ID: 239**Ganderloo the Clockwork Goose**It can't be bargained with. It can't be reasoned with.<img src="images/familiars/ganderlootheclockworkgoose.gif" alt="Ganderloo the Clockwork Goose Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

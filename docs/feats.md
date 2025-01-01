@@ -30,40 +30,6 @@ For feats that were available in emergences or giveaways - please see the [Exclu
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Artemis</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2008**Multiversal Allies (Artemis)**Death is part of every culture, every people. I've studied them all.<code>_effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span>20% All Champion Damage per Unique Species in Formation (Additive) (This Feat Won't Do Anything)</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Eric</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Friendly Resolve Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2040**Friendly Resolve (Eric)**We'll all make it back home one way or another, and we'll do it together.<code>buff_upgrades,80,16137,16138,16139</code></span>Friendly Resolve
-        </span>
-        <span class="featTableEffect">
-            <span>80% All Second Specialisations (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Baeloth</span>
         </span>
         <span class="featTableIcon4">
