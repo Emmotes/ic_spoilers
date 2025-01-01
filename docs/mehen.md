@@ -121,7 +121,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Grumpy** (Guess)
-> Mehen gains a stack of Grumpy for each of the following checks that is met. He increases the damage of all Champions in the formation by 100% for each stack of Grumpy he has, stacking multiplicatively.
+> Mehen gains a stack of Grumpy for each of the following checks that is met. He increases the damage of all Champions in the formation by 200% for each stack of Grumpy he has, stacking multiplicatively.
 > - Adjacent to Farideh
 > - At least two columns behind Havilar
 > - At the top of the column
@@ -153,7 +153,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack_amount,100"
+            "effect_string": "pre_stack_amount,200"
         },
         {
             "effect_string": "global_dps_multiplier_mult,0",
