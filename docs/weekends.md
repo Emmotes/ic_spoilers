@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/715.png">
-            <span class="weekendTooltipContents">ID: 715**Gold Commercial Chest**Loot for: Delina, Eric, Tyril, Presto and Diana<code>"for_crusaders":[8,157,10,144,148]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **We'll Be Right Back**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    03 January 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Eric
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/eric.png'">
-                        <span class="weekendTableChampionNameplate">Eric</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/delina.png'">
-                        <span class="weekendTableChampionNameplate">Delina</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/presto.png'">
-                        <span class="weekendTableChampionNameplate">Presto</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
-                        <span class="weekendTableChampionNameplate">Diana</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/716.png">
             <span class="weekendTooltipContents">ID: 716**Gold Clockwork Chest**Loot for: Mehen, Celeste, Makos, Havilar and Farideh<code>"for_crusaders":[80,2,9,56,33]</code></span>
         </span>
