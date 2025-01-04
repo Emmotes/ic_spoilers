@@ -27,7 +27,7 @@ Sheila, the Thief, aged 13, has the Cloak of Invisibility which makes her invisi
 
 # Basic Information
 
-Sheila will be a new champion in the Fleetswake event on 5 March 2025.
+Sheila will be a new champion in the Fleetswake event on 12 March 2025 (expected a week after event start due to the Worst the Wait event augment).
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
