@@ -345,7 +345,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>80% Archmage's Insight</span>
         </span>
         <span class="featTableSource">
-            <span>Celebration?</span>
+            <span>???</span>
         </span>
         <span class="featTableDate">
             <span>12 Mar 2025</span>
