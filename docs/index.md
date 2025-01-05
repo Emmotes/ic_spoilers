@@ -159,6 +159,7 @@ Miscellaneous spoilers.
 * [Familiars](familiars.md)
 * [Premium Packs and DLC](premium.md)
 * [Content Drops](contentdrops.md)
+* [Blessings](blessings.md)
 * [Weekends](weekends.md)
 * [Archive of Old Spoilers](archive.md)
 

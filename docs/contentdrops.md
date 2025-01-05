@@ -310,7 +310,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Vecna 5 - 26 February 2025
 
-<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new blessings.
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">

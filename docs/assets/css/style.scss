@@ -257,6 +257,7 @@ code{
 	min-width: 348px;
 	margin: 4px;
 	margin-bottom: 20px;
+	text-wrap: pretty;
 }
 .abilityBorderInner {
 	width: 100%;
@@ -639,6 +640,7 @@ code{
 }
 .contentDropsTableAdventure {
 	width: 348px;
+	text-wrap: pretty;
 	background-color: var(--CodGrey);
 	border-right: 1px solid black;
 	border-left: 1px solid black;
@@ -1197,4 +1199,43 @@ input[type="checkbox"]:checked::before {
 	font-size: 0.9em;
 	color: white;
 	padding: 5px;
+}
+
+
+
+
+.blessingsTableColumn {
+	display: flex;
+	flex-direction: column;
+	max-width: 848px;
+}
+.blessingsTableRow,.blessingsTableRowHeader {
+	display: flex;
+	flex-direction: row;
+	width: fit-content;
+	height: fit-content;
+	background-color: var(--Onyx);
+	margin: 5px;
+	border: 1px solid black;
+}
+.blessingsTableRowHeader {
+	border-bottom: 4px ridge black;
+	height: 30px;
+}
+.blessingsTableRow:hover {
+	border: 1px solid var(--Flavescent);
+	background-color: var(--Black);
+}
+.blessingsTableType,.blessingsTableEffect {
+	width: 90px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+.blessingsTableEffect {
+	width: 699px;
+	text-wrap: pretty;
+	background-color: var(--CodGrey);
+	border-left: 1px solid black;
+	padding: 5px 8px 5px 0;
 }
