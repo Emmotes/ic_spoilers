@@ -59,7 +59,7 @@ Volo will be a new champion in the Fleetswake event on 5 March 2025.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Support / Hunter (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -112,23 +112,29 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Combat** (Guess)
-> Unknown effect.
+**Unknown** (Guess)
+> Volo can be used in any Grand Tour of the Sword Coast campaign adventure or variant, even if he would not normally be available to be used due to variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25729,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y8/Icon_Formation_Volo_Combat",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2230,
+    "flavour_text": "",
+    "description": {
+        "desc": "Volo can be used in any Grand Tour of the Sword Coast campaign adventure or variant, even if he would not normally be available to be used due to variant or patron restrictions."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -137,23 +143,35 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Monsters** (Guess)
-> Unknown effect.
+**Volo's Guide to Combat** (Guess)
+> Volo increases the damage of all Champions in the two columns in front of him by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25730,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y8/Icon_Formation_Volo_Monsters",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2231,
+    "flavour_text": "",
+    "description": {
+        "desc": "Volo increases the damage of all Champions in the two columns in front of him by $amount%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "next_two_col"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -163,22 +181,69 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Questing** (Guess)
-> Unknown effect.
+> Volo increases the effect of Volo's Guide to Combat by 100% for each Guide and/or Collection Quest completed, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25731,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y8/Icon_Formation_Volo_Questing",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2232,
+    "flavour_text": "",
+    "description": {
+        "desc": "Volo increases the effect of Volo's Guide to Combat by $amount% for each Guide and/or Collection Quest completed, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Monsters** (Guess)
+> Volo counts each type of enemy encountered in the current adventure. Volo increases the effect of Volo's Guide to Combat by 100% for each enemy type encountered, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2233,
+    "flavour_text": "",
+    "description": {
+        "desc": "Volo counts each type of enemy encountered in the current adventure. Volo increases the effect of Volo's Guide to Combat by $amount% for each enemy type encountered, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -188,22 +253,31 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Retreats** (Guess)
-> Unknown effect.
+> If a Champion in the column in front of Volo is defeated, the formation immediately retreats to the previous area. Upon returning to the area of their near defeat, the effect of Volo's Guide to Combat is increased by $amount% in that area.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25732,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y8/Icon_Formation_Volo_Retreats",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2234,
+    "flavour_text": "",
+    "description": {
+        "desc": "If a Champion in the column in front of Volo is defeated, the formation immediately retreats to the previous area. Upon returning to the area of their near defeat, the effect of Volo's Guide to Combat is increased by $amount% in that area."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -214,23 +288,34 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**All Things Magical** (Guess)
-> Unknown effect.
+**Spirits and Specters** (Guess)
+> Volo gains the Hunter role and Undead become his Favored Foe. The effect of Volo's Guide to Combat is increased by 100% for each Champion in the formation with the Hunter role, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25739,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y8/Icon_Specialization_Volo_AllThingsMagical",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2235,
+    "flavour_text": "",
+    "description": {
+        "desc": "Volo gains the Hunter role and Undead become his Favored Foe. The effect of Volo's Guide to Combat is increased by $amount% for each Champion in the formation with the Hunter role, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -240,22 +325,33 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Brain Eating Tadpoles** (Guess)
-> Unknown effect.
+> The effect of Volo's Guide to Combat is increased by 100% for each Ceremorphosis stack the formation has, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25740,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y8/Icon_Specialization_Volo_BrainEatingTadpoles",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2236,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of Volo's Guide to Combat is increased by $amount% for each Ceremorphosis stack the formation has, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -264,23 +360,34 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Spirits and Specters** (Guess)
-> Unknown effect.
+**All Things Magical** (Guess)
+> The effect of Volo's Guide to Combat is increased by 100% for each Champion in the formation with a Magic base attack, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 25741,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y8/Icon_Specialization_Volo_SpiritsandSpecters",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2237,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of Volo's Guide to Combat is increased by $amount% for each Champion in the formation with a Magic base attack, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
