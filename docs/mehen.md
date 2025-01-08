@@ -713,7 +713,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![The Elusive Bounty Icon](images/mehen/10503.png) **Variant 1: The Elusive Bounty** (Complete Area 75)
-> Mehen starts in the formation. He can be moved. The pixie arrives in each boss area to taunt Mehen, buffing all enemies so they move 100% faster and deal 100% additional damage. You must defeat her in addition to the area requirements to advance. Getting to know Mehen: To maximize Mehen's benefit within your formation, you'll want to watch his Grumpy stacks and keep them within the middle range. Mehen gains Grumpy stacks based on which column he is in with a gain of 1 stack per second in the front row, to 5 stacks per second in the back row. Mehen loses Grumpy stacks when one of the following things happens to either Mehen, Havilar or Farideh: They attack (10% loss), they take damage (10% loss), or they kill an enemy (5% loss).
+> Mehen starts in the formation. He can not be moved or removed. The pixie arrives in each boss area to taunt Mehen, buffing all enemies so they move 100% faster and deal 100% additional damage. You must defeat her in addition to the area requirements to advance.   
+> Getting to know Mehen: To maximize Mehen's contribution, try to build a formation that meets as many of his Grumpy checks as possible. Note that empty slots in the formation do not count as adjacent spaces, and therefore can't be skipped across for the "within 2 slots" checks.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![The Neverending March Continues Icon](images/mehen/10504.png) **Variant 2: The Neverending March Continues** (Complete Area 125)
@@ -721,7 +722,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Volo's Guide to Grumpy Guys Icon](images/mehen/10505.png) **Variant 3: Volo's Guide to Grumpy Guys** (Complete Area 175)
-> Volo has returned to observe the formation. Only Male Champions can be used. Enemies move 100% faster, and deal 100% additional damage. Getting to know Mehen: While Mehen works best with his daughters Farideh & Havilar he's no slouch on his own. Without the Brimstone Angels in your formation, you need to manage Mehen's Grumpy stacks a bit differently. Remember that changing his column will alter how quickly he is gaining Grumpy stacks.
+> Volo has returned to observe the formation.   
+> Mehen starts in the formation. He can be moved but not removed.  
+> Only Male and non-binary Champions can be used.   
+> Enemies move 100% faster, and deal 100% additional damage.   
+> Getting to know Mehen: Despite the variant restriction that you may only use Male Champions, Mehen can still rely on his adopted daughters Farideh and Havilar to show up due to his passive ability.
 </div></div>
 
 # Formation
