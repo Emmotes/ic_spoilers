@@ -292,7 +292,11 @@ Kalix will be a new champion in the Grand Revel event on 5 February 2025.
             "targets": [
                 "non_adj"
             ],
-            "slot_change_updates_targets": true
+            "slot_change_updates_targets": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked"
+            ]
         }
     ],
     "requirements": "",
@@ -339,7 +343,8 @@ Kalix will be a new champion in the Grand Revel event on 5 February 2025.
             "per_hero_expr": "has_non_standard_race + (as_int(GetUpgradeUnlocked(16521)) * is_most_common_race)",
             "amount_updated_listeners": [
                 "slot_changed",
-                "hero_tags_changed"
+                "hero_tags_changed",
+                "upgrade_unlocked"
             ],
             "show_bonus": true,
             "off_when_benched": true
@@ -598,9 +603,9 @@ Kalix will be a new champion in the Grand Revel event on 5 February 2025.
                     1231
                 ],
                 "celestial": [
-                    1846,
-                    1847,
-                    1848
+                    2237,
+                    2238,
+                    2239
                 ],
                 "construct": [
                     636,
