@@ -97,7 +97,7 @@ We know the next Emergence event will be Constructs and that it will start on 22
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Prolonged Push</span>
-            <span style="margin-left:15px">Eric (80% Duration Keep Away)</span>
+            <span style="margin-left:15px">Eric (80% Keep Away)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
