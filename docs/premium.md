@@ -47,7 +47,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Fierce Fighter</span>
-            <span style="margin-left:15px">Mehen (80% All  Specialisations)</span>
+            <span style="margin-left:15px">Mehen (80% All Specialisations (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1509,7 +1509,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 651****Loot for: Volo<code>"for_crusaders":[159]</code></span></span>
+            <span class="tooltipHolder">![ Chest Portrait](images/premiums/chests_651.png)<span class="itemTooltipContents">ID: 651****Loot for: Volo<code>"for_crusaders":[159]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>

@@ -53,7 +53,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             ![Fierce Fighter Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2043**Fierce Fighter (Mehen)**I've seen a thousand battles, and I'll see a thousand more.<code>buff_upgrades,80,16150,16151,16152</code></span>Fierce Fighter
         </span>
         <span class="featTableEffect">
-            <span>80% All  Specialisations</span>
+            <span>80% All Specialisations (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -138,7 +138,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             ![Prolonged Push Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2034**Prolonged Push (Eric)**You guys handle the fighting. I'll stay back here and hold them off!<code>buff_upgrade,80,16132,0</code></span>Prolonged Push
         </span>
         <span class="featTableEffect">
-            <span>80% Duration Keep Away</span>
+            <span>80% Keep Away</span>
         </span>
         <span class="featTableSource">
             <span>Emergence 10</span>
@@ -453,7 +453,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Buff Blue Stun Duration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1619**Buff Blue Stun Duration (D'hani)**<code>buff_upgrade,80,13715,1</code></span>Buff Blue Stun Duration
         </span>
         <span class="featTableEffect">
-            <span>80% Duration Blotch of Blue</span>
+            <span>80% Stun Duration of Blotch of Blue</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
@@ -494,6 +494,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>10 Nov 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Mehen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Exploit Weakness Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2052**Exploit Weakness (Mehen)**The moment they slip, you strike. If you miss, that's your problem.<code>change_upgrade_data,16149,0</code></span>Exploit Weakness
+        </span>
+        <span class="featTableEffect">
+            <span>+80% Duration Expose Weakness</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -539,6 +556,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>80% Shield of the Cavalier</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Mehen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scorched Earth Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2055**Scorched Earth (Mehen)**Sometimes you just have to burn everything in your way.<code>immolation,1,5</code></span>Scorched Earth
+        </span>
+        <span class="featTableEffect">
+            <span>1s BUD per sec for 5s</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -906,6 +940,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Mehen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Draconic Glare Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1782**Draconic Glare (Mehen)**You don't scare easily, do you? I can fix that.<code>change_upgrade_data,16147,0</code></span>Draconic Glare
+        </span>
+        <span class="featTableEffect">
+            <span>+80% Duration Intimidating Presence</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Minthara</span>
         </span>
         <span class="featTableIcon3">
@@ -1150,7 +1201,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Viper's Sting Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2013**Viper's Sting (Stoki)**Twist the wrist just so to prolong the numbing effect.<code>change_upgrade_data,16054,4</code></span>Viper's Sting
         </span>
         <span class="featTableEffect">
-            <span>16054% Duration Rally</span>
+            <span>+80% BUD of Building Focus Explosion</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
