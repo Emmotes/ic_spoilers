@@ -10,6 +10,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Eric](archive/eric.md)
 * [Halsin](archive/halsin.md)
 * [Kas](archive/kas.md)
+* [Mehen](archive/mehen.md)
 * [Minthara](archive/minthara.md)
 * [Rosie](archive/rosie.md)
 * [Rust](archive/rust.md)
