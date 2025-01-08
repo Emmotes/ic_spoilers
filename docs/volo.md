@@ -180,7 +180,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Questing** (Guess)
+**Volo's Guide to Questing** (Guess)
 > Volo increases the effect of Volo's Guide to Combat by 100% for each Guide and/or Collection Quest completed, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -216,7 +216,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Monsters** (Guess)
+**Volo's Guide to Monsters** (Guess)
 > Volo counts each type of enemy encountered in the current adventure. Volo increases the effect of Volo's Guide to Combat by 100% for each enemy type encountered, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -252,7 +252,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Retreats** (Guess)
+**Volo's Guide to Retreats** (Guess)
 > If a Champion in the column in front of Volo is defeated, the formation immediately retreats to the previous area. Upon returning to the area of their near defeat, the effect of Volo's Guide to Combat is increased by $amount% in that area.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -288,7 +288,7 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Spirits and Specters** (Guess)
+**Volo's Guide to Spirits and Specters** (Guess)
 > Volo gains the Hunter role and Undead become his Favored Foe. The effect of Volo's Guide to Combat is increased by 100% for each Champion in the formation with the Hunter role, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -324,7 +324,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Brain Eating Tadpoles** (Guess)
+**Volo's Guide to Brain Eating Tadpoles** (Guess)
 > The effect of Volo's Guide to Combat is increased by 100% for each Ceremorphosis stack the formation has, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -360,7 +360,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**All Things Magical** (Guess)
+**Volo's Guide to All Things Magical** (Guess)
 > The effect of Volo's Guide to Combat is increased by 100% for each Champion in the formation with a Magic base attack, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
