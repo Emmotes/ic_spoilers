@@ -15,6 +15,8 @@ It has been given to the following champions:
 | Ezmerelda | Krux | Nerys | Uriah | Zorbu |
 | Imoen | Lae'zel | Reya | Vin Ursa |  |
 
+Volo will also be getting a spec that can give him the Hunter role.
+
 ## Control
 
 This is a role for champions that are able to slow stun snare or knockback.
