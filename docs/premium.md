@@ -640,12 +640,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2050**Multiversal Allies**We are stronger together.<code>_effect_def,2193</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2050**Multiversal Allies**We are stronger together.<code>effect_def,2193</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Multiversal Allies</span>
-            <span style="margin-left:15px">Kent (20% All Champion Damage per Unique Species in Formation (Additive) (This Feat Won't Do Anything))</span>
+            <span style="margin-left:15px">Kent (20% All Champion Damage per Unique Species in Formation (Additive))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
