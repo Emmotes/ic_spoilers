@@ -30,40 +30,6 @@ For feats that were available in emergences or giveaways - please see the [Exclu
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Baeloth</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Electrodeposition Icon](images/featicons/goldfind.png)<span class="featTooltipContents">ID: 2045**Electrodeposition (Baeloth)**Did you know gold is highly conductive? Would you like a demonstration?<code>buff_upgrade,80,4745</code></span>Electrodeposition
-        </span>
-        <span class="featTableEffect">
-            <span>80% Paid Partially with Pain</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>08 Jan 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Mehen</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Fierce Fighter Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2043**Fierce Fighter (Mehen)**I've seen a thousand battles, and I'll see a thousand more.<code>buff_upgrades,80,16150,16151,16152</code></span>Fierce Fighter
-        </span>
-        <span class="featTableEffect">
-            <span>80% All Specialisations (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>08 Jan 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Barrowin</span>
         </span>
         <span class="featTableIcon4">

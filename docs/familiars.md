@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ganderloo the Clockwork Goose Portrait](images/familiars/ganderlootheclockworkgoose.png)<span class="featTooltipContents">ID: 239**Ganderloo the Clockwork Goose**It can't be bargained with. It can't be reasoned with.<img src="images/familiars/ganderlootheclockworkgoose.gif" alt="Ganderloo the Clockwork Goose Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Ganderloo the Clockwork Goose
-        </span>
-        <span class="skinTableSource">
-            Ganderloo the Clockwork Goose Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            2,380p
-        </span>
-        <span class="skinTableDate">
-            08 Jan 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Mercy the Vein Golem Portrait](images/familiars/mercytheveingolem.png)<span class="featTooltipContents">ID: 242**Mercy the Vein Golem**I used to be an ancient titan's capillaries! Now I'm the cutest little bean!<img src="images/familiars/mercytheveingolem.gif" alt="Mercy the Vein Golem Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Mercy the Vein Golem
-        </span>
-        <span class="skinTableSource">
-            Crystal Titan Mehen Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            08 Jan 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Hexton Modron Portrait](images/familiars/hextonmodron.png)<span class="featTooltipContents">ID: 240**Hexton Modron**The march MUST continue!<img src="images/familiars/hextonmodron.gif" alt="Hexton Modron Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Crystal Titan Mehen Portrait](images/skin_portraits/crystaltitanmehen.png)<span class="featTooltipContents">ID: 507**Crystal Titan Mehen (Mehen)**<img src="images/skin_models/crystaltitanmehen.gif" alt="Crystal Titan Mehen Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Crystal Titan Mehen
-        </span>
-        <span class="skinTableSource">
-            Crystal Titan Mehen Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            08 Jan 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Magen Baeloth Portrait](images/skin_portraits/magenbaeloth.png)<span class="featTooltipContents">ID: 508**Magen Baeloth (Baeloth)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/magenbaeloth.gif" alt="Magen Baeloth Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/magenbaeloth-djiin.gif" alt="Magen Baeloth Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Magen Baeloth
-        </span>
-        <span class="skinTableSource">
-            Magen Baeloth Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            08 Jan 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Iron Golem Barrowin Portrait](images/skin_portraits/irongolembarrowin.png)<span class="featTooltipContents">ID: 509**Iron Golem Barrowin (Barrowin)**<img src="images/skin_models/irongolembarrowin.gif" alt="Iron Golem Barrowin Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
