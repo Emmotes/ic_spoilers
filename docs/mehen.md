@@ -210,7 +210,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "mehen_grumpy_stack",
             "amount_func": "add",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "hero_id==110",
+            "per_hero_expr": "hero_id==80",
             "per_hero_targets": [
                 {
                     "type": "col_top"
