@@ -26,7 +26,7 @@ It has been given to the following champions:
 |---|---|---|---|---|
 | Eric |  |  |  |  |
 
-## Armour Breaker
+## Breaker
 
 This is a role that will be given to champions that can make dealing with armoured or hits-based enemies easier or quicker. Either by breaking more segments per hit or by lowering the damage threshold for armoured enemies to take damage or even fast-repeating damage ultimates. That kind of thing.
 
