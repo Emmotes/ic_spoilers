@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/716.png">
-            <span class="weekendTooltipContents">ID: 716**Gold Clockwork Chest**Loot for: Mehen, Celeste, Makos, Havilar and Farideh<code>"for_crusaders":[80,2,9,56,33]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Clockwork Conundrum**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    10 January 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Mehen
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/mehen.png'">
-                        <span class="weekendTableChampionNameplate">Mehen</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/havilar.png'">
-                        <span class="weekendTableChampionNameplate">Havilar</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/farideh.png'">
-                        <span class="weekendTableChampionNameplate">Farideh</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/717.png">
             <span class="weekendTooltipContents">ID: 717**Gold Moonwatcher Chest**Loot for: Wyll, Bruenor, Asharra, Astarion and Minthara<code>"for_crusaders":[142,1,6,129,154]</code></span>
         </span>
