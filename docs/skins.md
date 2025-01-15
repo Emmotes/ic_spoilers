@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Iron Golem Barrowin Portrait](images/skin_portraits/irongolembarrowin.png)<span class="featTooltipContents">ID: 509**Iron Golem Barrowin (Barrowin)**<img src="images/skin_models/irongolembarrowin.gif" alt="Iron Golem Barrowin Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Iron Golem Barrowin
-        </span>
-        <span class="skinTableSource">
-            Iron Golem Barrowin Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            15 Jan 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Magen Imoen Portrait](images/skin_portraits/magenimoen.png)<span class="featTooltipContents">ID: 510**Magen Imoen (Imoen)**<img src="images/skin_models/magenimoen.gif" alt="Magen Imoen Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Magen Imoen
-        </span>
-        <span class="skinTableSource">
-            Magen Imoen Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            15 Jan 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Autognome Stoki Portrait](images/skin_portraits/autognomestoki.png)<span class="featTooltipContents">ID: 512**Autognome Stoki (Stoki)**<img src="images/skin_models/autognomestoki.gif" alt="Autognome Stoki Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
