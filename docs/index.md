@@ -9,7 +9,7 @@ Just a collection of most of the currently-known spoilers. It is by no means exh
 
 # New Event Champions
 
-These are the event champions that are upcoming and all the information we know about them. Dates are guesstimates based on the normal event schedule.
+These are the event champions that are upcoming and all the information we know about them.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
