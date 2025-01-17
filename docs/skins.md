@@ -28,7 +28,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 514**Modron Ellywick (Ellywick)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Modron Ellywick Portrait](images/skin_portraits/modronellywick.png)<span class="featTooltipContents">ID: 514**Modron Ellywick (Ellywick)**</span></span>
         </span>
         <span class="skinTableName">
             Modron Ellywick
@@ -45,7 +45,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 515**Modron Vin Ursa (Vin Ursa)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 515**Modron Vin Ursa (Vin Ursa)**<img src="images/skin_models/modronvinursa.gif" alt="Modron Vin Ursa Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Modron Vin Ursa
