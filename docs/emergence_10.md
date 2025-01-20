@@ -44,7 +44,7 @@ We know the next Emergence event will be Constructs and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Skin Portrait](images/general/unknown.png)
+            <span class="tooltipHolder">![Modron Ellywick Skin Portrait](images/emergence_10/skin_514.png)<span class="itemTooltipContents">ID: 514**Modron Ellywick (Ellywick)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -53,7 +53,7 @@ We know the next Emergence event will be Constructs and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Skin Portrait](images/general/unknown.png)
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 515**Modron Vin Ursa (Vin Ursa)**<img src="images/emergence_10/skin_515.gif" alt="Modron Vin Ursa Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
