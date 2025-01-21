@@ -17,7 +17,7 @@ Ishi Snaggletooth hails from a warren of Kobolds living in the sewers under Bald
 
 # Changes
 
-Ishi will be a reworked champion in the Grand Revel event on 12 February 2025 (expected a week after event start due to the Worst the Wait event augment).
+Ishi will be a reworked champion in the Grand Revel event on 12 February 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 

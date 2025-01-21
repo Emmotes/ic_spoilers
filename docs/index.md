@@ -74,7 +74,7 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Human Rogue of Saturday Morning Squad (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Fleetswake - 12 March 2025 (Worst the Wait Augment)</span>
+                <span class="indexChampionTableNoLink">Fleetswake - 12 March 2025 (Worst the Wait Augment (Guess))</span>
             </span>
         </span>
     </span>
@@ -103,7 +103,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Kobold Fighter / Rogue</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Grand Revel - 12 February 2025 (Worst the Wait Augment)</span>
+                <span class="indexChampionTableNoLink">Grand Revel - 12 February 2025 (Worst the Wait Augment (Guess))</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
