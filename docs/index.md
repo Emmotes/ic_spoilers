@@ -107,7 +107,7 @@ A list of champions that will be seeing reworks in upcoming events.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Ishi
+                Ishi Snaggletooth
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Kobold Fighter / Rogue</span>
