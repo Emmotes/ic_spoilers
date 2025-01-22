@@ -11,12 +11,12 @@
     </span>
 </span>
 
-# Beadle & Grimm
+# Beadle
 
 
 # Basic Information
 
-Beadle & Grimm will be a new champion in the Festival of Fools event on 09 April 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
+Beadle will be a new champion in the Festival of Fools event on 09 April 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
@@ -87,9 +87,12 @@ Beadle & Grimm will be a new champion in the Festival of Fools event on 09 April
 
 # Formation
 
+Unknown.
+{% comment %}
 <span class="formationBorder">
-    <svg xmlns="http://www.w3.org/2000/svg" id="Beadle & Grimm" fill="#aaa" data-formationName="Beadle & Grimm" data-campaignName="Ahghairon's Day" width="362" height="160"><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="165" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Beadle & Grimm</text><text x="165" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Ahghairon's Day</text></svg>
+    ![Formation Layout](images/beadle/formation.png)
 </span>
+{% endcomment %}
 
 # Attacks
 
@@ -316,7 +319,7 @@ Unknown.
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Beadle & Grimm Console Portrait](images/beadle/console.png)Console Portrait
+            ![Beadle Console Portrait](images/beadle/console.png)Console Portrait
         </span>
     </span>
 </span>
