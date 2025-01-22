@@ -4,7 +4,9 @@
 
 A list of the upcoming content drops. Just be aware that the dates and order of these content drops are educated guesses based on the order their graphics appear in the definitions. CNE have been known to release content drops in different orders - so don't be surprised if that happens again.
 
-## Fortune's Wheel 10 - 22 January 2025
+## Fortune's Wheel 11 - 29 January 2025
+
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -79,7 +81,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
 </span>
 
-## Mixed 15 Variants - 29 January 2025
+## Mixed 15 Variants - 26 February 2025
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -308,7 +310,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
 </span>
 
-## Vecna 5 - 26 February 2025
+## Vecna 5 - 26 March 2025
 
 <span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
 
@@ -385,7 +387,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
 </span>
 
-## Vecna 6 - 26 March 2025
+## Vecna 6 - 23 April 2025
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">

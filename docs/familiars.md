@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Hexton Modron Portrait](images/familiars/hextonmodron.png)<span class="featTooltipContents">ID: 240**Hexton Modron**The march MUST continue!<img src="images/familiars/hextonmodron.gif" alt="Hexton Modron Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Hexton Modron
-        </span>
-        <span class="skinTableSource">
-            Hexton Modron Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            2,380p
-        </span>
-        <span class="skinTableDate">
-            22 Jan 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Aria the Metallic Warbler Portrait](images/familiars/ariathemetallicwarbler.png)<span class="featTooltipContents">ID: 241**Aria the Metallic Warbler**Their telepathic bond lets them summon their dragon creators in case of dire need.<img src="images/familiars/ariathemetallicwarbler.gif" alt="Aria the Metallic Warbler Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
