@@ -188,9 +188,7 @@ Kalix will be a new champion in the Grand Revel event on 5 February 2025.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Gythka Strike**
 > Kalix makes 5 attacks against random enemies, dealing ultimate damage and stunning them for 5 seconds due to his paralyzing poison.  
-> Cooldown: 3s (Cap 0.75s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 120s (Cap 30s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -204,7 +202,7 @@ Kalix will be a new champion in the Grand Revel event on 5 February 2025.
     "num_targets": 5,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
-    "cooldown": 3,
+    "cooldown": 120,
     "animations": [
         {
             "type": "melee_attack",
