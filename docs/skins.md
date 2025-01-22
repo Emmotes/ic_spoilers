@@ -28,7 +28,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Modron Ellywick Portrait](images/skin_portraits/modronellywick.png)<span class="featTooltipContents">ID: 514**Modron Ellywick (Ellywick)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Modron Ellywick Portrait](images/skin_portraits/modronellywick.png)<span class="featTooltipContents">ID: 514**Modron Ellywick (Ellywick)**<img src="images/skin_models/modronellywick.gif" alt="Modron Ellywick Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Modron Ellywick
@@ -45,7 +45,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 515**Modron Vin Ursa (Vin Ursa)**<img src="images/skin_models/modronvinursa.gif" alt="Modron Vin Ursa Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Modron Vin Ursa Portrait](images/skin_portraits/modronvinursa.png)<span class="featTooltipContents">ID: 515**Modron Vin Ursa (Vin Ursa)**<img src="images/skin_models/modronvinursa.gif" alt="Modron Vin Ursa Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Modron Vin Ursa
@@ -330,6 +330,74 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             19 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Psychomancer Beadle Portrait](images/skin_portraits/psychomancerbeadle.png)<span class="featTooltipContents">ID: 534**Psychomancer Beadle (Y4E15)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Psychomancer Beadle
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            02 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Psychomancer Grimm Portrait](images/skin_portraits/psychomancergrimm.png)<span class="featTooltipContents">ID: 535**Psychomancer Grimm (B&G)**<img src="images/skin_models/psychomancergrimm.gif" alt="Psychomancer Grimm Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Psychomancer Grimm
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            02 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Tavern Owner Beadle Portrait](images/skin_portraits/tavernownerbeadle.png)<span class="featTooltipContents">ID: 533**Tavern Owner Beadle (Y4E15)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Tavern Owner Beadle
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            02 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Tavern Owner Grimm Portrait](images/skin_portraits/tavernownergrimm.png)<span class="featTooltipContents">ID: 532**Tavern Owner Grimm (B&G)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Tavern Owner Grimm
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            02 Apr 2025
         </span>
     </span>
     <span class="skinTableRow">

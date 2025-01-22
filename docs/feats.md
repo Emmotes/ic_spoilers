@@ -705,10 +705,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Gromma</span>
         </span>
         <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1761**Taunt (Gromma)**Judge me not by my age - I'll still whoop your butt!<code>hero_dps_multiplier_mult,400<br>taunt,50</code></span>Taunt
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1761**Taunt (Gromma)**Judge me not by my age - I'll still whoop your butt!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
         </span>
         <span class="featTableEffect">
-            <span>400% Self DPS & 50% Taunt</span>
+            <span>100% All Champion Damage & 50% Taunt</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -909,10 +909,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Minthara</span>
         </span>
         <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>hero_dps_multiplier_mult,400<br>taunt,50</code></span>Taunt
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
         </span>
         <span class="featTableEffect">
-            <span>400% Self DPS & 50% Taunt</span>
+            <span>100% All Champion Damage & 50% Taunt</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
