@@ -58,6 +58,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="tatyana" style="background-image:url(images/portraits/tatyana.png)">Tatyana (8)</span>
 <span class="eventRosterChampion" id="miria" style="background-image:url(images/portraits/miria.png)">Miria (12)</span>
 <span class="eventRosterChampion" id="darkurge" style="background-image:url(images/portraits/darkurge.png)">Dark Urge (11)</span>
+<span class="eventRosterChampion" id="b&g" style="background-image:url(images/portraits/b&g.png)">Grimm</span>
 </span>
 
 {:/nomarkdown}
