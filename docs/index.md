@@ -98,25 +98,22 @@ These are the event champions that are upcoming and all the information we know 
 </a>
 {:/nomarkdown}
 {::nomarkdown}
-<a href="beadle.html">
+<a href="grimm.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Beadle Portrait Icon](images/beadle/portrait.png)
+            ![Grimm Portrait Icon](images/grimm/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Beadle
+                Grimm
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf Rogue / Wizard (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Barbarian (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Festival of Fools - 2 April 2025</span>
             </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
 {::nomarkdown}
@@ -154,25 +151,32 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="beadle.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Beadle & Grimm Portrait Icon](images/grimm/portrait.png)
+            ![Beadle & Grimm Portrait Icon](images/beadle/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Grimm
+                Beadle
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Barbarian</span>
+                <span class="indexChampionTableNoLink">Dwarf Rogue / Wizard</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Festival of Fools - 2 April 2025 (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -305,49 +309,53 @@ These are the upcoming new and reworked champions and where they'll be found.
 ## Festival of Fools - 2 April 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
-<a href="beadle.html">
+<a href="grimm.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Beadle Portrait Icon](images/beadle/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Beadle
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf Rogue / Wizard (Guess)</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
-        <span class="indexChampionTableIcon">
-            ![Beadle & Grimm Portrait Icon](images/grimm/portrait.png)
+            ![Grimm Portrait Icon](images/grimm/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
                 Grimm
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Barbarian</span>
+                <span class="indexChampionTableNoLink">Human Barbarian (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="beadle.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Beadle & Grimm Portrait Icon](images/beadle/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Beadle
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Dwarf Rogue / Wizard</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             Rework ♻️
         </span>
         <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 </div></div>
 
@@ -361,7 +369,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Emergence 10](emergence_10.md) - 22 January 2025
+* Emergence 11 - 23 April 2025
 * [New Champion Roles](new_champion_roles.md) - ???
 
 # Misc

@@ -6,6 +6,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 
 * [Bobby](archive/bobby.md)
 * [Ellywick](archive/ellywick.md)
+* [Emergence 10](archive/emergence_10.md)
 * [Emergence 9](archive/emergence_9.md)
 * [Eric](archive/eric.md)
 * [Halsin](archive/halsin.md)
