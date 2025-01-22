@@ -16,7 +16,7 @@
 
 # Basic Information
 
-Beadle & Grimm will be a new champion in the The Great Modron March event on 14 May 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
+Beadle & Grimm will be a new champion in the Festival of Fools event on 09 April 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">

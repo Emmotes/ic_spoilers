@@ -112,7 +112,7 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Dwarf Rogue / Wizard (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">The Great Modron March - 7 May 2025</span>
+                <span class="indexChampionTableNoLink">Festival of Fools - 2 April 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -166,7 +166,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Human Barbarian</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">The Great Modron March - 7 May 2025 (Guess)</span>
+                <span class="indexChampionTableNoLink">Festival of Fools - 2 April 2025 (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -302,7 +302,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 </span>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## The Great Modron March - 7 May 2025
+## Festival of Fools - 2 April 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
 <a href="beadle.html">
