@@ -549,6 +549,13 @@ code{
 .indexChampionTableNoLink {
 	color: var(--Eggshell);
 }
+.indexChampionTableType {
+	position: absolute;
+	top: 4px;
+	right: 5px;
+	text-align: right;
+	color: var(--Eggshell);
+}
 .indexChampionTableAttack {
 	position: absolute;
 	bottom: 0;
@@ -851,6 +858,7 @@ code{
 	border: 2px solid var(--Maroon);
 	outline: 2px solid black;
 	background-color: var(--Onyx);
+	position:relative;
 }
 .spoilerWarningIcon {
 	display: flex;
