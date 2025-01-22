@@ -98,12 +98,9 @@ Volo will be a new champion in the Fleetswake event on 5 March 2025.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/volo/formation.png)
 </span>
-{% endcomment %}
 
 # Attacks
 
