@@ -4,84 +4,7 @@
 
 A list of the upcoming content drops. Just be aware that the dates and order of these content drops are educated guesses based on the order their graphics appear in the definitions. CNE have been known to release content drops in different orders - so don't be surprised if that happens again.
 
-## Fortune's Wheel 11 - 29 January 2025
-
-<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
-
-<span class="contentDropsTableColumn">
-    <span class="contentDropsTableRowHeader">
-        <span class="contentDropsTableIcons">
-            <span style="margin-left:8px;">**Icon**</span>
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">**Campaign**</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">**Adventure Name**</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">**Type**</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Fortune's Wheel: Shemeshkas Gambit (Adventure)](images/contentdrop_portraits/fortune'swheel_shemeshkasgambit_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Fortune's Wheel</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Shemeshkas Gambit</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Shemeshkas Gambit (Variant 1)](images/contentdrop_portraits/fortune'swheel_shemeshkasgambit_1.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Fortune's Wheel</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Shemeshkas Gambit</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Fortune's Wheel: Tyrants Spiral (Adventure)](images/contentdrop_portraits/fortune'swheel_tyrantsspiral_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Fortune's Wheel</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Tyrants Spiral</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Tyrants Spiral (Variant 1)](images/contentdrop_portraits/fortune'swheel_tyrantsspiral_1.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Fortune's Wheel</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Tyrants Spiral</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-</span>
-
-## Mixed 15 Variants - 26 February 2025
+## Mixed 15 Variants - 29 January 2025
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -310,7 +233,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
 </span>
 
-## Vecna 5 - 26 March 2025
+## Vecna 5 - 26 February 2025
 
 <span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
 
@@ -387,7 +310,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
 </span>
 
-## Vecna 6 - 23 April 2025
+## Vecna 6 - 26 March 2025
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
