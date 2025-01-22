@@ -1,4 +1,3 @@
-const iv=1.0;
 const allVer = [1,2];
 const checkboxId = `sortByEvents`;
 const localStorageKey = `spoilersSortByEvents`;
