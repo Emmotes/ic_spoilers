@@ -59,7 +59,7 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Debuff / Control (Guess)</span>
+            <span style="margin-left:8px;">Support / Debuff / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
