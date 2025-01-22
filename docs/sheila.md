@@ -98,12 +98,9 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
     ![Formation Layout](images/sheila/formation.png)
 </span>
-{% endcomment %}
 
 # Attacks
 
