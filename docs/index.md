@@ -7,7 +7,7 @@ Just a collection of most of the currently-known spoilers. It is by no means exh
 <span class="spoilerWarning">I'm not angry that you discuss spoilers in places you shouldn't... I'm just disappointed.<br/>Spoilers belong on the {::nomarkdown}<a href="https://discord.gg/idlechampions" target="_blank">official IC Discord</a>{:/nomarkdown} in the `#well_of_spoilers` channel only.</span>
 <span style="display:flex;position:absolute;bottom:-50px;right:0;color:var(--TangerineYellow);">
     <input type="checkbox" onClick="changeIndexVersion()" id="sortByEvents">
-    <label class="switch" for="eventsVersion">Sort by Events</label>
+    <label class="switch" for="eventsVersion">Sort by Event Schedule</label>
 </span>
 </span>
 

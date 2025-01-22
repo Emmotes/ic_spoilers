@@ -5,16 +5,12 @@ const localStorageKey = `spoilersSortByEvents`;
 
 function correctSortByEventsCheckbox() {
 	let ver = localStorage[localStorageKey];
-	console.log(`Checking version: ${ver}`);
 	ver = checkUndefinedVersion(ver);
 	let ele = document.getElementById(checkboxId);
-	if (ver == 2) {
+	if (ver == 2)
 		ele.checked = true;
-		console.log(`Setting checked.`);
-	} else {
+	else
 		ele.checked = false;
-		console.log(`Setting unchecked.`);
-	}
 }
 
 function setIndexVersionVisibility() {
