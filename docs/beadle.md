@@ -13,91 +13,20 @@
 
 # Beadle
 
+Beadle and Grimm have been best friends & adventuring partners their entire lives. Together, they have faced the most dangerous foes their realm had to offer and built a respite alongside the frozen north's harsh realities: The Giant's Bane Tavern.
 
-# Basic Information
+# Changes
 
-Beadle will be a new champion in the Festival of Fools event on 09 April 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
+Beadle is potentially a reworked champion in the Festival of Fools event on 9 April 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
 
-<span class="champStatsTableColumn">
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Seat**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Species**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Dwarf (Guess)</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Class**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Rogue / Wizard (Guess)</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Roles**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Age**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">91 (Guess)</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Gender**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Male (Guess)</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Alignment**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Neutral (Guess)</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Affiliation**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
-        </span>
-    </span>
-</span>
+Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
-# Formation
-
-Unknown.
-{% comment %}
-<span class="formationBorder">
-    ![Formation Layout](images/beadle/formation.png)
-</span>
-{% endcomment %}
+Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
 # Attacks
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Arcane Blast**
+**Ultimate: Arcane Blast** (Guess)
 > Beadle teleports into the center of the battlefield and blasts all enemies with arcane magic, dealing ultimate damage and stunning them for 5 seconds.  
 > Cooldown: 300s (Cap 75s)
 <details><summary><em>Raw Data</em></summary>
@@ -279,22 +208,6 @@ Unknown.
 </details>
 </div></div>
 
-# Specialisations
-
-Unknown.
-
-# Items
-
-Unknown.
-
-# Feats
-
-Unknown.
-
-# Legendaries
-
-Unknown.
-
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -314,14 +227,10 @@ Unknown.
 > Enemies have 300% more health and attack twice as often. When a Champion kills an enemy, all Champions with that same attack type (melee, ranged, or magic) deal 2% less damage, and all Champions with other attack types deal 1% more damage.
 </div></div>
 
-# Other Champion Images
+# Formation
 
-<span class="championImagesColumn">
-    <span class="championImagesRow">
-        <span class="championImagesPortrait">
-            ![Beadle Console Portrait](images/beadle/console.png)Console Portrait
-        </span>
-    </span>
+<span class="formationBorder">
+    <svg xmlns="http://www.w3.org/2000/svg" id="Beadle & Grimm" fill="#aaa" data-formationName="Beadle & Grimm" data-campaignName="Ahghairon's Day" width="362" height="160"><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="165" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Beadle & Grimm</text><text x="165" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Ahghairon's Day</text></svg>
 </span>
 
 [Back to Top](#top)
