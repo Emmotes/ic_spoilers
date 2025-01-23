@@ -28,7 +28,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 517**Demilich Hew Maan (Hew Maan)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Demilich Hew Maan Portrait](images/skin_portraits/demilichhewmaan.png)<span class="featTooltipContents">ID: 517**Demilich Hew Maan (Hew Maan)**</span></span>
         </span>
         <span class="skinTableName">
             Demilich Hew Maan
@@ -45,7 +45,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 525**Ruby Rose Knight Kalix (Kalix)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 525**Ruby Rose Knight Kalix (Kalix)**<img src="images/skin_models/rubyroseknightkalix.gif" alt="Ruby Rose Knight Kalix Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Ruby Rose Knight Kalix
@@ -79,7 +79,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 519**Prom Night Presto (Presto)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 519**Prom Night Presto (Presto)**<img src="images/skin_models/promnightpresto.gif" alt="Prom Night Presto Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Prom Night Presto
@@ -113,7 +113,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 521**Formal Birdsong (Birdsong)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Formal Birdsong Portrait](images/skin_portraits/formalbirdsong.png)<span class="featTooltipContents">ID: 521**Formal Birdsong (Birdsong)**<img src="images/skin_models/formalbirdsong.gif" alt="Formal Birdsong Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Formal Birdsong
