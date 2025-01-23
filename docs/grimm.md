@@ -27,7 +27,7 @@ Beadle & Grimm will be getting separated soon - and Grimm gets to be the "new" c
 
 # Basic Information
 
-Grimm will be a new champion in the Festival of Fools event on 09 April 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
+Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">

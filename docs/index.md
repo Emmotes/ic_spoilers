@@ -166,7 +166,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Dwarf Rogue / Wizard</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Festival of Fools - 2 April 2025 (Guess)</span>
+                <span class="indexChampionTableNoLink">Festival of Fools - 2 April 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">

@@ -17,7 +17,7 @@ Beadle and Grimm have been best friends & adventuring partners their entire live
 
 # Changes
 
-Beadle is potentially a reworked champion in the Festival of Fools event on 9 April 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
+Beadle will be a reworked champion in the Festival of Fools event on 2 April 2025.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
