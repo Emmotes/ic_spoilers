@@ -102,7 +102,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Get Buff** (Guess)
 > Beadle increases the damage of Champions within 2 slots of himself by 100%, and enemies that hit targets affected by this have a 20% chance to miss.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -150,7 +150,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Sticky Fingers** (Guess)
 > Whenever Beadle attacks an enemy he causes it to immediately drop 20% of the gold it would award on death. The enemy then stops and checks its pockets, stunning it for 2 seconds. This can only occur to each enemy 5 times.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -181,7 +181,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Share the Glory** (Guess)
 > Most positional formation abilities that affect Beadle also affect Grimm if he is in the formation. If Grimm is already affected by the same ability, Beadle instead increases the effect of In The Shadows by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
