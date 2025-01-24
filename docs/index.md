@@ -324,7 +324,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
+            Renework 💫
         </span>
     </span>
 {::nomarkdown}
