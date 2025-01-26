@@ -297,7 +297,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 518**Dashing Ishi (Y4E15)**</span></span>
+            <span class="tooltipHolder">![Dashing Ishi Skin Portrait](images/premiums/skin_518.png)<span class="itemTooltipContents">ID: 518**Dashing Ishi (Y4E15)**<img src="images/premiums/skin_518.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -428,7 +428,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 247**Meepo the Kobold**Has anyone seen Calcryx?</span></span>
+            <span class="tooltipHolder">![Meepo the Kobold Familiar Portrait](images/premiums/familiar_247.png)<span class="itemTooltipContents">ID: 247**Meepo the Kobold**Has anyone seen Calcryx?<img src="images/premiums/familiar_247.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

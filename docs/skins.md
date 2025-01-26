@@ -62,7 +62,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 518**Dashing Ishi (Y4E15)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dashing Ishi Portrait](images/skin_portraits/dashingishi.png)<span class="featTooltipContents">ID: 518**Dashing Ishi (Y4E15)**<img src="images/skin_models/dashingishi.gif" alt="Dashing Ishi Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dashing Ishi

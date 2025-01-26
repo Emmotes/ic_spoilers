@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 247**Meepo the Kobold**Has anyone seen Calcryx?</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Meepo the Kobold Portrait](images/familiars/meepothekobold.png)<span class="featTooltipContents">ID: 247**Meepo the Kobold**Has anyone seen Calcryx?<img src="images/familiars/meepothekobold.gif" alt="Meepo the Kobold Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Meepo the Kobold
@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Clove the Badger Portrait](images/familiars/clovethebadger.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<img src="images/familiars/clovethebadger.gif" alt="Clove the Badger Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Clove the Badger
