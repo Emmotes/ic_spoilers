@@ -164,13 +164,13 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 527**Fathomless Gale (Gale)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 527**Bane's Chosen Gale (Gale)**</span></span>
         </span>
         <span class="skinTableName">
-            Fathomless Gale
+            Bane's Chosen Gale
         </span>
         <span class="skinTableSource">
-            Fathomless Gale Skin & Feat Pack
+            Bane's Chosen Gale Skin & Feat Pack
         </span>
         <span class="skinTableCost">
             1,680p

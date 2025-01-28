@@ -924,10 +924,10 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 545</div>
-### Fathomless Gale Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Bane's Chosen Gale Skin & Feat Pack - 1,680 Platinum ($0.00)  
 Date of release: 05 Mar 2025
 
-> Unlock Gale along with his exclusive Fathomless Skin & Feat!
+> Unlock Gale along with his exclusive Bane's Chosen Skin & Feat!
 
 Contents:
 
@@ -943,11 +943,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 527**Fathomless Gale (Gale)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 527**Bane's Chosen Gale (Gale)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Fathomless Gale</span>
+            <span style="margin-left:15px">Bane's Chosen Gale</span>
         </span>
     </span>
     <span class="premiumsTableItem">
