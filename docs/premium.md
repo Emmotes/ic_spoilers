@@ -157,7 +157,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 525**Ruby Rose Knight Kalix (Kalix)**<img src="images/premiums/skin_525.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Ruby Rose Knight Kalix Skin Portrait](images/premiums/skin_525.png)<span class="itemTooltipContents">ID: 525**Ruby Rose Knight Kalix (Kalix)**<img src="images/premiums/skin_525.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -166,7 +166,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 245**Dendria the Orchid Mantis**Always by your side.</span></span>
+            <span class="tooltipHolder">![Dendria the Orchid Mantis Familiar Portrait](images/premiums/familiar_245.png)<span class="itemTooltipContents">ID: 245**Dendria the Orchid Mantis**Always by your side.<img src="images/premiums/familiar_245.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -226,7 +226,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Demilich Hew Maan Skin Portrait](images/premiums/skin_517.png)<span class="itemTooltipContents">ID: 517**Demilich Hew Maan (Hew Maan)**</span></span>
+            <span class="tooltipHolder">![Demilich Hew Maan Skin Portrait](images/premiums/skin_517.png)<span class="itemTooltipContents">ID: 517**Demilich Hew Maan (Hew Maan)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_517.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_517-zrang.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_517-yassa.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/premiums/skin_517-kleeb.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -297,7 +297,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Dashing Ishi Skin Portrait](images/premiums/skin_518.png)<span class="itemTooltipContents">ID: 518**Dashing Ishi (Y4E15)**<img src="images/premiums/skin_518.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Dashing Ishi Skin Portrait](images/premiums/skin_518.png)<span class="itemTooltipContents">ID: 518**Dashing Ishi (Ishi)**<img src="images/premiums/skin_518.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -306,7 +306,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 246**Nub-ub the Mouse**This simple mouse, often mistaken for the God Ubtao, is probably just a simple mouse.</span></span>
+            <span class="tooltipHolder">![Nub-ub the Mouse Familiar Portrait](images/premiums/familiar_246.png)<span class="itemTooltipContents">ID: 246**Nub-ub the Mouse**This simple mouse, often mistaken for the God Ubtao, is probably just a simple mouse.<img src="images/premiums/familiar_246.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -366,7 +366,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 519**Prom Night Presto (Presto)**<img src="images/premiums/skin_519.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Prom Night Presto Skin Portrait](images/premiums/skin_519.png)<span class="itemTooltipContents">ID: 519**Prom Night Presto (Presto)**<img src="images/premiums/skin_519.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1270,6 +1270,182 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Nrakk Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 550</div>
+### Kittenlord Blooshi Skin & Feat Pack - 1,680 Platinum ($0.00)  
+Date of release: 26 Mar 2025
+
+> Collect an exclusive Kittenlord Skin & Feat for Blooshi!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Kittenlord Blooshi</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2107**TBD Blooshi Feat**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD Blooshi Feat</span>
+            <span style="margin-left:15px">Blooshi ()</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Blooshi Chest Chest Portrait](images/premiums/chests_481.png)<span class="itemTooltipContents">ID: 481**Platinum Blooshi Chest**Loot for: Blooshi<code>"for_crusaders":[106]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Blooshi Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 551</div>
+### Jade the Snake Familiar Pack - 840 Platinum ($0.00)  
+Date of release: 26 Mar 2025
+
+> Collect your own Jade the Snake Familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 252**Jade the Snake**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Jade the Snake</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Giant's Strength Buff Portrait](images/premiums/buff_4.png)<span class="itemTooltipContents">ID: 4**Huge Potion of Giant's Strength**A transparent potion in which floats the sliver of a giant's fingernail.<code>global_dps_multiplier_mult,900</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Giant's Strength</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Clairvoyance Buff Portrait](images/premiums/buff_8.png)<span class="itemTooltipContents">ID: 8**Huge Potion of Clairvoyance**Three eyeballs bob in this yellowish potion.<code>gold_multiplier_mult,400</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Clairvoyance</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 552</div>
+### Lich Makos Skin & Feat Pack - 1,680 Platinum ($0.00)  
+Date of release: 26 Mar 2025
+
+> Collect an exclusive Lich Skin & Feat for Makos!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 539**Lich Makos (Makos)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Lich Makos</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2108**TBD Makos Feat**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD Makos Feat</span>
+            <span style="margin-left:15px">Makos ()</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Makos Chest Chest Portrait](images/premiums/chests_469.png)<span class="itemTooltipContents">ID: 469**Platinum Makos Chest**Loot for: Makos<code>"for_crusaders":[9]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Makos Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>

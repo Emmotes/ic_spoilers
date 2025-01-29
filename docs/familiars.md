@@ -24,7 +24,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 245**Dendria the Orchid Mantis**Always by your side.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dendria the Orchid Mantis Portrait](images/familiars/dendriatheorchidmantis.png)<span class="featTooltipContents">ID: 245**Dendria the Orchid Mantis**Always by your side.<img src="images/familiars/dendriatheorchidmantis.gif" alt="Dendria the Orchid Mantis Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dendria the Orchid Mantis
@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 246**Nub-ub the Mouse**This simple mouse, often mistaken for the God Ubtao, is probably just a simple mouse.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Nub-ub the Mouse Portrait](images/familiars/nububthemouse.png)<span class="featTooltipContents">ID: 246**Nub-ub the Mouse**This simple mouse, often mistaken for the God Ubtao, is probably just a simple mouse.<img src="images/familiars/nububthemouse.gif" alt="Nub-ub the Mouse Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Nub-ub the Mouse
@@ -105,6 +105,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             05 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 252**Jade the Snake**</span></span>
+        </span>
+        <span class="skinTableName">
+            Jade the Snake
+        </span>
+        <span class="skinTableSource">
+            Jade the Snake Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            840p
+        </span>
+        <span class="skinTableDate">
+            26 Mar 2025
         </span>
     </span>
     <span class="skinTableRow">

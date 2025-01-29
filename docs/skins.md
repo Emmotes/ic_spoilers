@@ -28,7 +28,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Demilich Hew Maan Portrait](images/skin_portraits/demilichhewmaan.png)<span class="featTooltipContents">ID: 517**Demilich Hew Maan (Hew Maan)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Demilich Hew Maan Portrait](images/skin_portraits/demilichhewmaan.png)<span class="featTooltipContents">ID: 517**Demilich Hew Maan (Hew Maan)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/demilichhewmaan.gif" alt="Demilich Hew Maan Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/demilichhewmaan-kleeb.gif" alt="Demilich Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/demilichhewmaan-yassa.gif" alt="Demilich Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"><img src="images/skin_models/demilichhewmaan-zrang.gif" alt="Demilich Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Demilich Hew Maan
@@ -45,7 +45,24 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 525**Ruby Rose Knight Kalix (Kalix)**<img src="images/skin_models/rubyroseknightkalix.gif" alt="Ruby Rose Knight Kalix Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Myrkul's Chosen Minthara Portrait](images/skin_portraits/myrkulschosenminthara.png)<span class="featTooltipContents">ID: 524**Myrkul's Chosen Minthara (Minthara)**<img src="images/skin_models/myrkulschosenminthara.gif" alt="Myrkul's Chosen Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Myrkul's Chosen Minthara
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            05 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Ruby Rose Knight Kalix Portrait](images/skin_portraits/rubyroseknightkalix.png)<span class="featTooltipContents">ID: 525**Ruby Rose Knight Kalix (Kalix)**<img src="images/skin_models/rubyroseknightkalix.gif" alt="Ruby Rose Knight Kalix Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Ruby Rose Knight Kalix
@@ -62,7 +79,24 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dashing Ishi Portrait](images/skin_portraits/dashingishi.png)<span class="featTooltipContents">ID: 518**Dashing Ishi (Y4E15)**<img src="images/skin_models/dashingishi.gif" alt="Dashing Ishi Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Tuxedo Kalix Portrait](images/skin_portraits/tuxedokalix.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**<img src="images/skin_models/tuxedokalix.gif" alt="Tuxedo Kalix Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Tuxedo Kalix
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            10 Feb 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Dashing Ishi Portrait](images/skin_portraits/dashingishi.png)<span class="featTooltipContents">ID: 518**Dashing Ishi (Ishi)**<img src="images/skin_models/dashingishi.gif" alt="Dashing Ishi Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dashing Ishi
@@ -79,7 +113,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 519**Prom Night Presto (Presto)**<img src="images/skin_models/promnightpresto.gif" alt="Prom Night Presto Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Prom Night Presto Portrait](images/skin_portraits/promnightpresto.png)<span class="featTooltipContents">ID: 519**Prom Night Presto (Presto)**<img src="images/skin_models/promnightpresto.gif" alt="Prom Night Presto Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Prom Night Presto
@@ -266,7 +300,41 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Psychomancer Beadle Portrait](images/skin_portraits/psychomancerbeadle.png)<span class="featTooltipContents">ID: 534**Psychomancer Beadle (Y4E15)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Kittenlord Blooshi
+        </span>
+        <span class="skinTableSource">
+            Kittenlord Blooshi Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            26 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 539**Lich Makos (Makos)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Lich Makos
+        </span>
+        <span class="skinTableSource">
+            Lich Makos Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            26 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Psychomancer Beadle Portrait](images/skin_portraits/psychomancerbeadle.png)<span class="featTooltipContents">ID: 534**Psychomancer Beadle (Y4E15)**<img src="images/skin_models/psychomancerbeadle.gif" alt="Psychomancer Beadle Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Psychomancer Beadle
@@ -300,7 +368,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Tavern Owner Beadle Portrait](images/skin_portraits/tavernownerbeadle.png)<span class="featTooltipContents">ID: 533**Tavern Owner Beadle (Y4E15)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Tavern Owner Beadle Portrait](images/skin_portraits/tavernownerbeadle.png)<span class="featTooltipContents">ID: 533**Tavern Owner Beadle (Y4E15)**<img src="images/skin_models/tavernownerbeadle.gif" alt="Tavern Owner Beadle Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Tavern Owner Beadle
@@ -317,10 +385,44 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Tavern Owner Grimm Portrait](images/skin_portraits/tavernownergrimm.png)<span class="featTooltipContents">ID: 532**Tavern Owner Grimm (Grimm)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Tavern Owner Grimm Portrait](images/skin_portraits/tavernownergrimm.png)<span class="featTooltipContents">ID: 532**Tavern Owner Grimm (Grimm)**<img src="images/skin_models/tavernownergrimm.gif" alt="Tavern Owner Grimm Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Tavern Owner Grimm
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            02 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Vampire Hunter Beadle Portrait](images/skin_portraits/vampirehunterbeadle.png)<span class="featTooltipContents">ID: 536**Vampire Hunter Beadle (Y4E15)**<img src="images/skin_models/vampirehunterbeadle.gif" alt="Vampire Hunter Beadle Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Vampire Hunter Beadle
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            02 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Vampire Hunter Grimm Portrait](images/skin_portraits/vampirehuntergrimm.png)<span class="featTooltipContents">ID: 537**Vampire Hunter Grimm (Grimm)**<img src="images/skin_models/vampirehuntergrimm.gif" alt="Vampire Hunter Grimm Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Vampire Hunter Grimm
         </span>
         <span class="skinTableSource">
             ???
