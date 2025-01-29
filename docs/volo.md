@@ -145,9 +145,7 @@ Volo will be a new champion in the Fleetswake event on 5 March 2025.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Volo's Guide to Writing Wrongs**
 > Volo takes out a book and quill and writes for 15 seconds, causing his buffed allies to deal additional BUD-based damage for the duration.  
-> Cooldown: 3s (Cap 0.75s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 300s (Cap 75s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -161,7 +159,7 @@ Volo will be a new champion in the Fleetswake event on 5 March 2025.
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 3,
+    "cooldown": 300,
     "animations": [
         {
             "type": "ultimate_attack",
