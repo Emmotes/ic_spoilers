@@ -25,7 +25,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Sharran Shadowheart Skin Icon](images/exclusivities/skin_25181.png)<span class="featTooltipContents">ID: 492**Sharran Shadowheart (Shadowheart)**<img src="images/exclusivities/skin_25162.gif" alt="Sharran Shadowheart Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Sharran Shadowheart Skin Icon](images/exclusivities/skin_25181.png)<span class="featTooltipContents">ID: 492**Sharran Shadowheart (Shadowheart)**<img src="images/exclusivities/skin_25162.gif" alt="Sharran Shadowheart Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -34,7 +34,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Sir Perchington the Fancy Owl Familiar Icon](images/exclusivities/fam_234.png)<span class="featTooltipContents">ID: 234**Sir Perchington the Fancy Owl**Hoot, I say. HOOOOOOOT!<br><img src="images/exclusivities/fam_234.gif" alt="Sir Perchington the Fancy Owl Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Sir Perchington the Fancy Owl Familiar Icon](images/exclusivities/fam_234.png)<span class="featTooltipContents">ID: 234**Sir Perchington the Fancy Owl**Hoot, I say. HOOOOOOOT!<br><img src="images/exclusivities/fam_234.gif" alt="Sir Perchington the Fancy Owl Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -89,7 +89,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Potent Gale Skin Icon](images/exclusivities/skin_25349.png)<span class="featTooltipContents">ID: 502**Potent Gale (Gale)**<img src="images/exclusivities/skin_25353.gif" alt="Potent Gale Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Potent Gale Skin Icon](images/exclusivities/skin_25349.png)<span class="featTooltipContents">ID: 502**Potent Gale (Gale)**<img src="images/exclusivities/skin_25353.gif" alt="Potent Gale Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -144,7 +144,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Grymforge Karlach Skin Icon](images/exclusivities/skin_25348.png)<span class="featTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<img src="images/exclusivities/skin_25354.gif" alt="Grymforge Karlach Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Grymforge Karlach Skin Icon](images/exclusivities/skin_25348.png)<span class="featTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<img src="images/exclusivities/skin_25354.gif" alt="Grymforge Karlach Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -239,7 +239,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Nosferatu Widdle Skin Icon](images/exclusivities/skin_24941.png)<span class="featTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**<img src="images/exclusivities/skin_24949.gif" alt="Nosferatu Widdle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Nosferatu Widdle Skin Icon](images/exclusivities/skin_24941.png)<span class="featTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**<img src="images/exclusivities/skin_24949.gif" alt="Nosferatu Widdle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -248,7 +248,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Vampire Nahara Skin Icon](images/exclusivities/skin_24943.png)<span class="featTooltipContents">ID: 462**Vampire Nahara (Nahara)**<img src="images/exclusivities/skin_24947.gif" alt="Vampire Nahara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Vampire Nahara Skin Icon](images/exclusivities/skin_24943.png)<span class="featTooltipContents">ID: 462**Vampire Nahara (Nahara)**<img src="images/exclusivities/skin_24947.gif" alt="Vampire Nahara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -323,7 +323,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Myrkul's Chosen Minthara Skin Icon](images/exclusivities/skin_25912.png)<span class="featTooltipContents">ID: 524**Myrkul's Chosen Minthara (Minthara)**<img src="images/exclusivities/skin_25923.gif" alt="Myrkul's Chosen Minthara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Myrkul's Chosen Minthara Skin Icon](images/exclusivities/skin_25912.png)<span class="featTooltipContents">ID: 524**Myrkul's Chosen Minthara (Minthara)**<img src="images/exclusivities/skin_25923.gif" alt="Myrkul's Chosen Minthara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -408,7 +408,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Modron Ellywick Skin Icon](images/exclusivities/skin_25882.png)<span class="featTooltipContents">ID: 514**Modron Ellywick (Ellywick)**<img src="images/exclusivities/skin_25888.gif" alt="Modron Ellywick Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Modron Ellywick Skin Icon](images/exclusivities/skin_25882.png)<span class="featTooltipContents">ID: 514**Modron Ellywick (Ellywick)**<img src="images/exclusivities/skin_25888.gif" alt="Modron Ellywick Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -417,7 +417,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Modron Vin Ursa Skin Icon](images/exclusivities/skin_25883.png)<span class="featTooltipContents">ID: 515**Modron Vin Ursa (Vin Ursa)**<img src="images/exclusivities/skin_25889.gif" alt="Modron Vin Ursa Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Modron Vin Ursa Skin Icon](images/exclusivities/skin_25883.png)<span class="featTooltipContents">ID: 515**Modron Vin Ursa (Vin Ursa)**<img src="images/exclusivities/skin_25889.gif" alt="Modron Vin Ursa Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -541,7 +541,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Champion of Aerois Aila Skin Icon](images/exclusivities/skin_16621.png)<span class="featTooltipContents">ID: 193**Champion of Aerois Aila (Aila)**<img src="images/exclusivities/skin_16664.gif" alt="Champion of Aerois Aila Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Champion of Aerois Aila Skin Icon](images/exclusivities/skin_16621.png)<span class="featTooltipContents">ID: 193**Champion of Aerois Aila (Aila)**<img src="images/exclusivities/skin_16664.gif" alt="Champion of Aerois Aila Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -550,7 +550,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![H'esper's Avatar Qillek Skin Icon](images/exclusivities/skin_16440.png)<span class="featTooltipContents">ID: 192**H'esper's Avatar Qillek (Qillek)**<img src="images/exclusivities/skin_16447.gif" alt="H'esper's Avatar Qillek Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![H'esper's Avatar Qillek Skin Icon](images/exclusivities/skin_16440.png)<span class="featTooltipContents">ID: 192**H'esper's Avatar Qillek (Qillek)**<img src="images/exclusivities/skin_16447.gif" alt="H'esper's Avatar Qillek Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -559,7 +559,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Prime's Hope Sentry Skin Icon](images/exclusivities/skin_15813.png)<span class="featTooltipContents">ID: 190**Prime's Hope Sentry (Sentry)**<img src="images/exclusivities/skin_15821.gif" alt="Prime's Hope Sentry Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Prime's Hope Sentry Skin Icon](images/exclusivities/skin_15813.png)<span class="featTooltipContents">ID: 190**Prime's Hope Sentry (Sentry)**<img src="images/exclusivities/skin_15821.gif" alt="Prime's Hope Sentry Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -568,7 +568,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Tiangong Nova Skin Icon](images/exclusivities/skin_16549.png)<span class="featTooltipContents">ID: 191**Tiangong Nova (Nova)**<img src="images/exclusivities/skin_16540.gif" alt="Tiangong Nova Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Tiangong Nova Skin Icon](images/exclusivities/skin_16549.png)<span class="featTooltipContents">ID: 191**Tiangong Nova (Nova)**<img src="images/exclusivities/skin_16540.gif" alt="Tiangong Nova Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -577,7 +577,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Prism Lucius Skin Icon](images/exclusivities/skin_16431.png)<span class="featTooltipContents">ID: 194**Prism Lucius (Lucius)**<img src="images/exclusivities/skin_16432.gif" alt="Prism Lucius Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Prism Lucius Skin Icon](images/exclusivities/skin_16431.png)<span class="featTooltipContents">ID: 194**Prism Lucius (Lucius)**<img src="images/exclusivities/skin_16432.gif" alt="Prism Lucius Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -595,7 +595,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Tiangong Familiar Icon](images/exclusivities/fam_112.png)<span class="featTooltipContents">ID: 112**Tiangong**All that you have done for us, we know. Thank you<br><img src="images/exclusivities/fam_112.gif" alt="Tiangong Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Tiangong Familiar Icon](images/exclusivities/fam_112.png)<span class="featTooltipContents">ID: 112**Tiangong**All that you have done for us, we know. Thank you<br><img src="images/exclusivities/fam_112.gif" alt="Tiangong Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -690,7 +690,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Flayer Hunter Nerys Skin Icon](images/exclusivities/skin_17913.png)<span class="featTooltipContents">ID: 239**Flayer Hunter Nerys (Nerys)**<img src="images/exclusivities/skin_17916.gif" alt="Flayer Hunter Nerys Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Flayer Hunter Nerys Skin Icon](images/exclusivities/skin_17913.png)<span class="featTooltipContents">ID: 239**Flayer Hunter Nerys (Nerys)**<img src="images/exclusivities/skin_17916.gif" alt="Flayer Hunter Nerys Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -699,7 +699,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Flayer Hunter Shandie Skin Icon](images/exclusivities/skin_17937.png)<span class="featTooltipContents">ID: 238**Flayer Hunter Shandie (Shandie)**<img src="images/exclusivities/skin_17950.gif" alt="Flayer Hunter Shandie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Flayer Hunter Shandie Skin Icon](images/exclusivities/skin_17937.png)<span class="featTooltipContents">ID: 238**Flayer Hunter Shandie (Shandie)**<img src="images/exclusivities/skin_17950.gif" alt="Flayer Hunter Shandie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -708,7 +708,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Flayer Hunter Krydle Skin Icon](images/exclusivities/skin_17766.png)<span class="featTooltipContents">ID: 236**Flayer Hunter Krydle (Krydle)**<img src="images/exclusivities/skin_17774.gif" alt="Flayer Hunter Krydle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Flayer Hunter Krydle Skin Icon](images/exclusivities/skin_17766.png)<span class="featTooltipContents">ID: 236**Flayer Hunter Krydle (Krydle)**<img src="images/exclusivities/skin_17774.gif" alt="Flayer Hunter Krydle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -717,7 +717,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Flayer Hunter Jaheira Skin Icon](images/exclusivities/skin_17912.png)<span class="featTooltipContents">ID: 235**Flayer Hunter Jaheira (Jaheira)**<img src="images/exclusivities/skin_17915.gif" alt="Flayer Hunter Jaheira Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Flayer Hunter Jaheira Skin Icon](images/exclusivities/skin_17912.png)<span class="featTooltipContents">ID: 235**Flayer Hunter Jaheira (Jaheira)**<img src="images/exclusivities/skin_17915.gif" alt="Flayer Hunter Jaheira Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -726,7 +726,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Flayer Hunter Viconia Skin Icon](images/exclusivities/skin_17938.png)<span class="featTooltipContents">ID: 237**Flayer Hunter Viconia (Viconia)**<img src="images/exclusivities/skin_17951.gif" alt="Flayer Hunter Viconia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Flayer Hunter Viconia Skin Icon](images/exclusivities/skin_17938.png)<span class="featTooltipContents">ID: 237**Flayer Hunter Viconia (Viconia)**<img src="images/exclusivities/skin_17951.gif" alt="Flayer Hunter Viconia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -745,7 +745,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Intellect Devourer Familiar Icon](images/exclusivities/fam_115.png)<span class="featTooltipContents">ID: 115**Intellect Devourer**Feeding on intellect.<br><img src="images/exclusivities/fam_115.gif" alt="Intellect Devourer Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Intellect Devourer Familiar Icon](images/exclusivities/fam_115.png)<span class="featTooltipContents">ID: 115**Intellect Devourer**Feeding on intellect.<br><img src="images/exclusivities/fam_115.gif" alt="Intellect Devourer Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -820,7 +820,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Red Wizard Calliope Skin Icon](images/exclusivities/skin_18457.png)<span class="featTooltipContents">ID: 289**Red Wizard Calliope (Calliope)**<img src="images/exclusivities/skin_18460.gif" alt="Red Wizard Calliope Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Red Wizard Calliope Skin Icon](images/exclusivities/skin_18457.png)<span class="featTooltipContents">ID: 289**Red Wizard Calliope (Calliope)**<img src="images/exclusivities/skin_18460.gif" alt="Red Wizard Calliope Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -829,7 +829,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Red Wizard Widdle Skin Icon](images/exclusivities/skin_18804.png)<span class="featTooltipContents">ID: 288**Red Wizard Widdle (Widdle)**<img src="images/exclusivities/skin_18810.gif" alt="Red Wizard Widdle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Red Wizard Widdle Skin Icon](images/exclusivities/skin_18804.png)<span class="featTooltipContents">ID: 288**Red Wizard Widdle (Widdle)**<img src="images/exclusivities/skin_18810.gif" alt="Red Wizard Widdle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -984,7 +984,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Ancient Barrowin Skin Icon](images/exclusivities/skin_18802.png)<span class="featTooltipContents">ID: 283**Ancient Barrowin (Barrowin)**<img src="images/exclusivities/skin_18808.gif" alt="Ancient Barrowin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Ancient Barrowin Skin Icon](images/exclusivities/skin_18802.png)<span class="featTooltipContents">ID: 283**Ancient Barrowin (Barrowin)**<img src="images/exclusivities/skin_18808.gif" alt="Ancient Barrowin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -993,7 +993,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Lawbringer Birdsong Skin Icon](images/exclusivities/skin_18803.png)<span class="featTooltipContents">ID: 284**Lawbringer Birdsong (Birdsong)**<img src="images/exclusivities/skin_18809.gif" alt="Lawbringer Birdsong Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Lawbringer Birdsong Skin Icon](images/exclusivities/skin_18803.png)<span class="featTooltipContents">ID: 284**Lawbringer Birdsong (Birdsong)**<img src="images/exclusivities/skin_18809.gif" alt="Lawbringer Birdsong Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1002,7 +1002,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Lawbringer Spurt Skin Icon](images/exclusivities/skin_18894.png)<span class="featTooltipContents">ID: 286**Lawbringer Spurt (Spurt)**<img src="images/exclusivities/skin_18900.gif" alt="Lawbringer Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Lawbringer Spurt Skin Icon](images/exclusivities/skin_18894.png)<span class="featTooltipContents">ID: 286**Lawbringer Spurt (Spurt)**<img src="images/exclusivities/skin_18900.gif" alt="Lawbringer Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1011,7 +1011,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Ancient Turiel Skin Icon](images/exclusivities/skin_18576.png)<span class="featTooltipContents">ID: 285**Ancient Turiel (Turiel)**<img src="images/exclusivities/skin_18579.gif" alt="Ancient Turiel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Ancient Turiel Skin Icon](images/exclusivities/skin_18576.png)<span class="featTooltipContents">ID: 285**Ancient Turiel (Turiel)**<img src="images/exclusivities/skin_18579.gif" alt="Ancient Turiel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1020,7 +1020,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Law Maan Skin Icon](images/exclusivities/skin_18895.png)<span class="featTooltipContents">ID: 287**Law Maan (Hew Maan)**<img src="images/exclusivities/skin_18899.gif" alt="Law Maan Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Law Maan Skin Icon](images/exclusivities/skin_18895.png)<span class="featTooltipContents">ID: 287**Law Maan (Hew Maan)**<img src="images/exclusivities/skin_18899.gif" alt="Law Maan Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1038,7 +1038,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Baby Guenhwyvar Familiar Icon](images/exclusivities/fam_113.png)<span class="featTooltipContents">ID: 113**Baby Guenhwyvar**This panther from the astral plane is looking for her new best friend!<br><img src="images/exclusivities/fam_113.gif" alt="Baby Guenhwyvar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Baby Guenhwyvar Familiar Icon](images/exclusivities/fam_113.png)<span class="featTooltipContents">ID: 113**Baby Guenhwyvar**This panther from the astral plane is looking for her new best friend!<br><img src="images/exclusivities/fam_113.gif" alt="Baby Guenhwyvar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -1093,7 +1093,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Modron Antrius Skin Icon](images/exclusivities/skin_19728.png)<span class="featTooltipContents">ID: 290**Modron Antrius (Antrius)**<img src="images/exclusivities/skin_19710.gif" alt="Modron Antrius Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Modron Antrius Skin Icon](images/exclusivities/skin_19728.png)<span class="featTooltipContents">ID: 290**Modron Antrius (Antrius)**<img src="images/exclusivities/skin_19710.gif" alt="Modron Antrius Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1102,7 +1102,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Modron Nixie Skin Icon](images/exclusivities/skin_19729.png)<span class="featTooltipContents">ID: 307**Modron Nixie (Nixie)**<img src="images/exclusivities/skin_19714.gif" alt="Modron Nixie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Modron Nixie Skin Icon](images/exclusivities/skin_19729.png)<span class="featTooltipContents">ID: 307**Modron Nixie (Nixie)**<img src="images/exclusivities/skin_19714.gif" alt="Modron Nixie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1267,7 +1267,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Mythic Regis Skin Icon](images/exclusivities/skin_19541.png)<span class="featTooltipContents">ID: 323**Mythic Regis (Regis)**<img src="images/exclusivities/skin_19542.gif" alt="Mythic Regis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Mythic Regis Skin Icon](images/exclusivities/skin_19541.png)<span class="featTooltipContents">ID: 323**Mythic Regis (Regis)**<img src="images/exclusivities/skin_19542.gif" alt="Mythic Regis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1276,7 +1276,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Mythic Catti-brie Skin Icon](images/exclusivities/skin_19337.png)<span class="featTooltipContents">ID: 308**Mythic Catti-brie (Catti-brie)**<img src="images/exclusivities/skin_19344.gif" alt="Mythic Catti-brie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Mythic Catti-brie Skin Icon](images/exclusivities/skin_19337.png)<span class="featTooltipContents">ID: 308**Mythic Catti-brie (Catti-brie)**<img src="images/exclusivities/skin_19344.gif" alt="Mythic Catti-brie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1285,7 +1285,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Mythic Wulfgar Skin Icon](images/exclusivities/skin_19338.png)<span class="featTooltipContents">ID: 316**Mythic Wulfgar (Wulfgar)**<img src="images/exclusivities/skin_19346.gif" alt="Mythic Wulfgar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Mythic Wulfgar Skin Icon](images/exclusivities/skin_19338.png)<span class="featTooltipContents">ID: 316**Mythic Wulfgar (Wulfgar)**<img src="images/exclusivities/skin_19346.gif" alt="Mythic Wulfgar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1294,7 +1294,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Mythic Pwent Skin Icon](images/exclusivities/skin_19540.png)<span class="featTooltipContents">ID: 314**Mythic Pwent (Pwent)**<img src="images/exclusivities/skin_19543.gif" alt="Mythic Pwent Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Mythic Pwent Skin Icon](images/exclusivities/skin_19540.png)<span class="featTooltipContents">ID: 314**Mythic Pwent (Pwent)**<img src="images/exclusivities/skin_19543.gif" alt="Mythic Pwent Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1303,7 +1303,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Mythic Artemis Skin Icon](images/exclusivities/skin_19336.png)<span class="featTooltipContents">ID: 312**Mythic Artemis (Artemis)**<img src="images/exclusivities/skin_19343.gif" alt="Mythic Artemis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Mythic Artemis Skin Icon](images/exclusivities/skin_19336.png)<span class="featTooltipContents">ID: 312**Mythic Artemis (Artemis)**<img src="images/exclusivities/skin_19343.gif" alt="Mythic Artemis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1322,7 +1322,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Mythic Guenhwyvar Familiar Icon](images/exclusivities/fam_150.png)<span class="featTooltipContents">ID: 150**Mythic Guenhwyvar**She says it looks better on her.<br><img src="images/exclusivities/fam_150.gif" alt="Mythic Guenhwyvar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Mythic Guenhwyvar Familiar Icon](images/exclusivities/fam_150.png)<span class="featTooltipContents">ID: 150**Mythic Guenhwyvar**She says it looks better on her.<br><img src="images/exclusivities/fam_150.gif" alt="Mythic Guenhwyvar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -1396,7 +1396,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Mind Flayer Jamilah Skin Icon](images/exclusivities/skin_20718.png)<span class="featTooltipContents">ID: 334**Mind Flayer Jamilah (Jamilah)**<img src="images/exclusivities/skin_20715.gif" alt="Mind Flayer Jamilah Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Mind Flayer Jamilah Skin Icon](images/exclusivities/skin_20718.png)<span class="featTooltipContents">ID: 334**Mind Flayer Jamilah (Jamilah)**<img src="images/exclusivities/skin_20715.gif" alt="Mind Flayer Jamilah Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1405,7 +1405,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Mind Flayer Nrakk Skin Icon](images/exclusivities/skin_20719.png)<span class="featTooltipContents">ID: 335**Mind Flayer Nrakk (Nrakk)**<img src="images/exclusivities/skin_20722.gif" alt="Mind Flayer Nrakk Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Mind Flayer Nrakk Skin Icon](images/exclusivities/skin_20719.png)<span class="featTooltipContents">ID: 335**Mind Flayer Nrakk (Nrakk)**<img src="images/exclusivities/skin_20722.gif" alt="Mind Flayer Nrakk Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1570,7 +1570,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Venture Casual Strix Skin Icon](images/exclusivities/skin_20526.png)<span class="featTooltipContents">ID: 340**Venture Casual Strix (Strix)**<img src="images/exclusivities/skin_20523.gif" alt="Venture Casual Strix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Venture Casual Strix Skin Icon](images/exclusivities/skin_20526.png)<span class="featTooltipContents">ID: 340**Venture Casual Strix (Strix)**<img src="images/exclusivities/skin_20523.gif" alt="Venture Casual Strix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1579,7 +1579,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Venture Casual Evelyn Skin Icon](images/exclusivities/skin_20600.png)<span class="featTooltipContents">ID: 339**Venture Casual Evelyn (Evelyn)**<img src="images/exclusivities/skin_20601.gif" alt="Venture Casual Evelyn Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Venture Casual Evelyn Skin Icon](images/exclusivities/skin_20600.png)<span class="featTooltipContents">ID: 339**Venture Casual Evelyn (Evelyn)**<img src="images/exclusivities/skin_20601.gif" alt="Venture Casual Evelyn Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1588,7 +1588,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Venture Casual Jim Skin Icon](images/exclusivities/skin_20517.png)<span class="featTooltipContents">ID: 337**Venture Casual Jim (Jim)**<img src="images/exclusivities/skin_20511.gif" alt="Venture Casual Jim Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Venture Casual Jim Skin Icon](images/exclusivities/skin_20517.png)<span class="featTooltipContents">ID: 337**Venture Casual Jim (Jim)**<img src="images/exclusivities/skin_20511.gif" alt="Venture Casual Jim Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1597,7 +1597,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Venture Casual Omin Skin Icon](images/exclusivities/skin_20518.png)<span class="featTooltipContents">ID: 338**Venture Casual Omin (Omin)**<img src="images/exclusivities/skin_20514.gif" alt="Venture Casual Omin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Venture Casual Omin Skin Icon](images/exclusivities/skin_20518.png)<span class="featTooltipContents">ID: 338**Venture Casual Omin (Omin)**<img src="images/exclusivities/skin_20514.gif" alt="Venture Casual Omin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1606,7 +1606,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Venture Casual Vi Skin Icon](images/exclusivities/skin_20720.png)<span class="featTooltipContents">ID: 341**Venture Casual Vi (Vi)**<img src="images/exclusivities/skin_20725.gif" alt="Venture Casual Vi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Venture Casual Vi Skin Icon](images/exclusivities/skin_20720.png)<span class="featTooltipContents">ID: 341**Venture Casual Vi (Vi)**<img src="images/exclusivities/skin_20725.gif" alt="Venture Casual Vi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1625,7 +1625,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Clone Jim Familiar Icon](images/exclusivities/fam_164.png)<span class="featTooltipContents">ID: 164**Clone Jim**Clone Jim winks.<br><img src="images/exclusivities/fam_164.gif" alt="Clone Jim Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Clone Jim Familiar Icon](images/exclusivities/fam_164.png)<span class="featTooltipContents">ID: 164**Clone Jim**Clone Jim winks.<br><img src="images/exclusivities/fam_164.gif" alt="Clone Jim Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -1719,7 +1719,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Centaur Glitch Hitch Skin Icon](images/exclusivities/skin_21584.png)<span class="featTooltipContents">ID: 367**Centaur Glitch Hitch (Hitch)**<img src="images/exclusivities/skin_21585.gif" alt="Centaur Glitch Hitch Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Centaur Glitch Hitch Skin Icon](images/exclusivities/skin_21584.png)<span class="featTooltipContents">ID: 367**Centaur Glitch Hitch (Hitch)**<img src="images/exclusivities/skin_21585.gif" alt="Centaur Glitch Hitch Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1728,7 +1728,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Half-Elf Glitch Sentry Skin Icon](images/exclusivities/skin_21592.png)<span class="featTooltipContents">ID: 368**Half-Elf Glitch Sentry (Sentry)**<img src="images/exclusivities/skin_21588.gif" alt="Half-Elf Glitch Sentry Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Half-Elf Glitch Sentry Skin Icon](images/exclusivities/skin_21592.png)<span class="featTooltipContents">ID: 368**Half-Elf Glitch Sentry (Sentry)**<img src="images/exclusivities/skin_21588.gif" alt="Half-Elf Glitch Sentry Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1893,7 +1893,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Elemental Zorbu Skin Icon](images/exclusivities/skin_21778.png)<span class="featTooltipContents">ID: 361**Elemental Zorbu (Zorbu)**<img src="images/exclusivities/skin_21779.gif" alt="Elemental Zorbu Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Elemental Zorbu Skin Icon](images/exclusivities/skin_21778.png)<span class="featTooltipContents">ID: 361**Elemental Zorbu (Zorbu)**<img src="images/exclusivities/skin_21779.gif" alt="Elemental Zorbu Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1902,7 +1902,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Elemental Nrakk Skin Icon](images/exclusivities/skin_21413.png)<span class="featTooltipContents">ID: 358**Elemental Nrakk (Nrakk)**<img src="images/exclusivities/skin_21415.gif" alt="Elemental Nrakk Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Elemental Nrakk Skin Icon](images/exclusivities/skin_21413.png)<span class="featTooltipContents">ID: 358**Elemental Nrakk (Nrakk)**<img src="images/exclusivities/skin_21415.gif" alt="Elemental Nrakk Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1911,7 +1911,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Elemental Warden Skin Icon](images/exclusivities/skin_21452.png)<span class="featTooltipContents">ID: 360**Elemental Warden (Warden)**<img src="images/exclusivities/skin_21453.gif" alt="Elemental Warden Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Elemental Warden Skin Icon](images/exclusivities/skin_21452.png)<span class="featTooltipContents">ID: 360**Elemental Warden (Warden)**<img src="images/exclusivities/skin_21453.gif" alt="Elemental Warden Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1920,7 +1920,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Elemental Korth Skin Icon](images/exclusivities/skin_21409.png)<span class="featTooltipContents">ID: 357**Elemental Korth (Korth)**<img src="images/exclusivities/skin_21410.gif" alt="Elemental Korth Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Elemental Korth Skin Icon](images/exclusivities/skin_21409.png)<span class="featTooltipContents">ID: 357**Elemental Korth (Korth)**<img src="images/exclusivities/skin_21410.gif" alt="Elemental Korth Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1929,7 +1929,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Elemental Sisaspia Skin Icon](images/exclusivities/skin_21774.png)<span class="featTooltipContents">ID: 359**Elemental Sisaspia (Sisaspia)**<img src="images/exclusivities/skin_21775.gif" alt="Elemental Sisaspia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Elemental Sisaspia Skin Icon](images/exclusivities/skin_21774.png)<span class="featTooltipContents">ID: 359**Elemental Sisaspia (Sisaspia)**<img src="images/exclusivities/skin_21775.gif" alt="Elemental Sisaspia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -1957,7 +1957,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Bash the Earth Elemental Familiar Icon](images/exclusivities/fam_181.png)<span class="featTooltipContents">ID: 181**Bash the Earth Elemental**I JUST GOTTA BASH IT!<br><img src="images/exclusivities/fam_181.gif" alt="Bash the Earth Elemental Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Bash the Earth Elemental Familiar Icon](images/exclusivities/fam_181.png)<span class="featTooltipContents">ID: 181**Bash the Earth Elemental**I JUST GOTTA BASH IT!<br><img src="images/exclusivities/fam_181.gif" alt="Bash the Earth Elemental Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -2042,7 +2042,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Spelljammer Pilot Strix Skin Icon](images/exclusivities/skin_21701.png)<span class="featTooltipContents">ID: 372**Spelljammer Pilot Strix (Strix)**<img src="images/exclusivities/skin_21706.gif" alt="Spelljammer Pilot Strix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Spelljammer Pilot Strix Skin Icon](images/exclusivities/skin_21701.png)<span class="featTooltipContents">ID: 372**Spelljammer Pilot Strix (Strix)**<img src="images/exclusivities/skin_21706.gif" alt="Spelljammer Pilot Strix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2051,7 +2051,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Spelljammer Pilot Miria Skin Icon](images/exclusivities/skin_21784.png)<span class="featTooltipContents">ID: 373**Spelljammer Pilot Miria (Miria)**<img src="images/exclusivities/skin_21785.gif" alt="Spelljammer Pilot Miria Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Spelljammer Pilot Miria Skin Icon](images/exclusivities/skin_21784.png)<span class="featTooltipContents">ID: 373**Spelljammer Pilot Miria (Miria)**<img src="images/exclusivities/skin_21785.gif" alt="Spelljammer Pilot Miria Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2216,7 +2216,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Waterdhavian Shaka Skin Icon](images/exclusivities/skin_22365.png)<span class="featTooltipContents">ID: 383**Waterdhavian Shaka (Shaka)**<img src="images/exclusivities/skin_22157.gif" alt="Waterdhavian Shaka Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Waterdhavian Shaka Skin Icon](images/exclusivities/skin_22365.png)<span class="featTooltipContents">ID: 383**Waterdhavian Shaka (Shaka)**<img src="images/exclusivities/skin_22157.gif" alt="Waterdhavian Shaka Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2225,7 +2225,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Waterdhavian Selise Skin Icon](images/exclusivities/skin_22364.png)<span class="featTooltipContents">ID: 384**Waterdhavian Selise (Selise)**<img src="images/exclusivities/skin_22150.gif" alt="Waterdhavian Selise Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Waterdhavian Selise Skin Icon](images/exclusivities/skin_22364.png)<span class="featTooltipContents">ID: 384**Waterdhavian Selise (Selise)**<img src="images/exclusivities/skin_22150.gif" alt="Waterdhavian Selise Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2234,7 +2234,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Waterdhavian D'hani Skin Icon](images/exclusivities/skin_22363.png)<span class="featTooltipContents">ID: 385**Waterdhavian D'hani (D'hani)**<img src="images/exclusivities/skin_22154.gif" alt="Waterdhavian D'hani Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Waterdhavian D'hani Skin Icon](images/exclusivities/skin_22363.png)<span class="featTooltipContents">ID: 385**Waterdhavian D'hani (D'hani)**<img src="images/exclusivities/skin_22154.gif" alt="Waterdhavian D'hani Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2243,7 +2243,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Waterdhavian Kent Skin Icon](images/exclusivities/skin_22369.png)<span class="featTooltipContents">ID: 386**Waterdhavian Kent (Kent)**<img src="images/exclusivities/skin_22370.gif" alt="Waterdhavian Kent Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Waterdhavian Kent Skin Icon](images/exclusivities/skin_22369.png)<span class="featTooltipContents">ID: 386**Waterdhavian Kent (Kent)**<img src="images/exclusivities/skin_22370.gif" alt="Waterdhavian Kent Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2252,7 +2252,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Waterdhavian Virgil Skin Icon](images/exclusivities/skin_22288.png)<span class="featTooltipContents">ID: 387**Waterdhavian Virgil (Virgil)**<img src="images/exclusivities/skin_22289.gif" alt="Waterdhavian Virgil Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Waterdhavian Virgil Skin Icon](images/exclusivities/skin_22288.png)<span class="featTooltipContents">ID: 387**Waterdhavian Virgil (Virgil)**<img src="images/exclusivities/skin_22289.gif" alt="Waterdhavian Virgil Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2271,7 +2271,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![The Hawk Man Familiar Icon](images/exclusivities/fam_171.png)<span class="featTooltipContents">ID: 171**The Hawk Man**A miniature form of one of the eight walking statues of Waterdeep!<br><img src="images/exclusivities/fam_171.gif" alt="The Hawk Man Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![The Hawk Man Familiar Icon](images/exclusivities/fam_171.png)<span class="featTooltipContents">ID: 171**The Hawk Man**A miniature form of one of the eight walking statues of Waterdeep!<br><img src="images/exclusivities/fam_171.gif" alt="The Hawk Man Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Familiar**</span>
@@ -2365,7 +2365,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Mind Flayer Celeste Skin Icon](images/exclusivities/skin_22769.png)<span class="featTooltipContents">ID: 423**Mind Flayer Celeste (Celeste)**<img src="images/exclusivities/skin_22770.gif" alt="Mind Flayer Celeste Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Mind Flayer Celeste Skin Icon](images/exclusivities/skin_22769.png)<span class="featTooltipContents">ID: 423**Mind Flayer Celeste (Celeste)**<img src="images/exclusivities/skin_22770.gif" alt="Mind Flayer Celeste Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2374,7 +2374,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Mind Flayer Dynaheir Skin Icon](images/exclusivities/skin_22773.png)<span class="featTooltipContents">ID: 424**Mind Flayer Dynaheir (Dynaheir)**<img src="images/exclusivities/skin_22774.gif" alt="Mind Flayer Dynaheir Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Mind Flayer Dynaheir Skin Icon](images/exclusivities/skin_22773.png)<span class="featTooltipContents">ID: 424**Mind Flayer Dynaheir (Dynaheir)**<img src="images/exclusivities/skin_22774.gif" alt="Mind Flayer Dynaheir Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2479,7 +2479,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Pirate Azaka Skin Icon](images/exclusivities/skin_23866.png)<span class="featTooltipContents">ID: 430**Pirate Azaka (Azaka)**<img src="images/exclusivities/skin_23870.gif" alt="Pirate Azaka Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Pirate Azaka Skin Icon](images/exclusivities/skin_23866.png)<span class="featTooltipContents">ID: 430**Pirate Azaka (Azaka)**<img src="images/exclusivities/skin_23870.gif" alt="Pirate Azaka Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2488,7 +2488,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Pirate Diana Skin Icon](images/exclusivities/skin_23874.png)<span class="featTooltipContents">ID: 431**Pirate Diana (Diana)**<img src="images/exclusivities/skin_23877.gif" alt="Pirate Diana Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Pirate Diana Skin Icon](images/exclusivities/skin_23874.png)<span class="featTooltipContents">ID: 431**Pirate Diana (Diana)**<img src="images/exclusivities/skin_23877.gif" alt="Pirate Diana Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2593,7 +2593,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Tabaxi Glitch Shandie Skin Icon](images/exclusivities/skin_24203.png)<span class="featTooltipContents">ID: 452**Tabaxi Glitch Shandie (Shandie)**<img src="images/exclusivities/skin_24204.gif" alt="Tabaxi Glitch Shandie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Tabaxi Glitch Shandie Skin Icon](images/exclusivities/skin_24203.png)<span class="featTooltipContents">ID: 452**Tabaxi Glitch Shandie (Shandie)**<img src="images/exclusivities/skin_24204.gif" alt="Tabaxi Glitch Shandie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
@@ -2602,7 +2602,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Secret Agent Maan Skin Icon](images/exclusivities/skin_24207.png)<span class="featTooltipContents">ID: 451**Secret Agent Maan (Hew Maan)**<img src="images/exclusivities/skin_24210.gif" alt="Secret Agent Maan Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+                        <span class="tooltipHolder">![Secret Agent Maan Skin Icon](images/exclusivities/skin_24207.png)<span class="featTooltipContents">ID: 451**Secret Agent Maan (Hew Maan)**<img src="images/exclusivities/skin_24210.gif" alt="Secret Agent Maan Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>

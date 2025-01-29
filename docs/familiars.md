@@ -7,7 +7,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dendria the Orchid Mantis Portrait](images/familiars/dendriatheorchidmantis.png)<span class="featTooltipContents">ID: 245**Dendria the Orchid Mantis**Always by your side.<img src="images/familiars/dendriatheorchidmantis.gif" alt="Dendria the Orchid Mantis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dendria the Orchid Mantis Portrait](images/familiars/dendriatheorchidmantis.png)<span class="featTooltipContents">ID: 245**Dendria the Orchid Mantis**Always by your side.<img src="images/familiars/dendriatheorchidmantis.gif" alt="Dendria the Orchid Mantis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dendria the Orchid Mantis
@@ -24,7 +24,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Meepo the Kobold Portrait](images/familiars/meepothekobold.png)<span class="featTooltipContents">ID: 247**Meepo the Kobold**Has anyone seen Calcryx?<img src="images/familiars/meepothekobold.gif" alt="Meepo the Kobold Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Meepo the Kobold Portrait](images/familiars/meepothekobold.png)<span class="featTooltipContents">ID: 247**Meepo the Kobold**Has anyone seen Calcryx?<img src="images/familiars/meepothekobold.gif" alt="Meepo the Kobold Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Meepo the Kobold
@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Nub-ub the Mouse Portrait](images/familiars/nububthemouse.png)<span class="featTooltipContents">ID: 246**Nub-ub the Mouse**This simple mouse, often mistaken for the God Ubtao, is probably just a simple mouse.<img src="images/familiars/nububthemouse.gif" alt="Nub-ub the Mouse Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Nub-ub the Mouse Portrait](images/familiars/nububthemouse.png)<span class="featTooltipContents">ID: 246**Nub-ub the Mouse**This simple mouse, often mistaken for the God Ubtao, is probably just a simple mouse.<img src="images/familiars/nububthemouse.gif" alt="Nub-ub the Mouse Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Nub-ub the Mouse
@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Clove the Badger Portrait](images/familiars/clovethebadger.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<img src="images/familiars/clovethebadger.gif" alt="Clove the Badger Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Clove the Badger Portrait](images/familiars/clovethebadger.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<img src="images/familiars/clovethebadger.gif" alt="Clove the Badger Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Clove the Badger
@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Rumble the Angry Flumph Portrait](images/familiars/rumbletheangryflumph.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**A flumph glows faintly, reflecting its moods in its color. Crimson means anger. Beware the angry flumph!<img src="images/familiars/rumbletheangryflumph.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:min-content"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Rumble the Angry Flumph Portrait](images/familiars/rumbletheangryflumph.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**A flumph glows faintly, reflecting its moods in its color. Crimson means anger. Beware the angry flumph!<img src="images/familiars/rumbletheangryflumph.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Rumble the Angry Flumph
