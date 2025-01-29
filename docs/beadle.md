@@ -102,7 +102,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Get Buff** (Guess)
+**In The Shadows** (Guess)
 > Beadle increases the damage of Champions within 2 slots of himself by 100%, and enemies that hit targets affected by this have a 20% chance to miss.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -216,6 +216,125 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+# Specialisations
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> The effect of In The Shadows is increased by 20% for each piece of Epic or better equipment on Champions in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2248,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of In The Shadows is increased by 20% for each piece of Epic or better equipment on Champions in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,20,16722",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "max_stacks": 60,
+            "per_hero_expr": "NumEquipmentWithMinimumRarity(`Epic`)",
+            "amount_updated_listeners": [
+                "loot_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> The effect of In The Shadows is increased by 0.075% for every item level on your formation's Champions' equipment, stacking multiplicatively. Each individual Champion can contribute at most 1,800 stacks.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2249,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of In The Shadows is increased by 0.075% for every item level on your formation's Champions' equipment, stacking multiplicatively. Each individual Champion can contribute at most 1,800 stacks."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,0.075,16722",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "max_stacks": 1800,
+            "per_hero_expr": "NumILevels()",
+            "amount_updated_listeners": [
+                "loot_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> The effect of In The Shadows is increased by 30% for each piece of Shiny or Golden equipment on Champions in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2250,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of In The Shadows is increased by 30% for each piece of Shiny or Golden equipment on Champions in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,30,16722",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "max_stacks": 60,
+            "per_hero_expr": "NumEquipmentWithMinimumShininess(`Shiny`)",
+            "amount_updated_listeners": [
+                "loot_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
