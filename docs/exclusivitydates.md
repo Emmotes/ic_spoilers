@@ -15,120 +15,6 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="e8a" onclick="exclusiveToggleContent(`e8`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Emergence 8 Icon](images/general/e8.png)**Emergence 8** - Planescape
-            </span>
-        </span>
-        <span id="e8" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Better Every Day Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1873**Better Every Day (Ulkoria)**You should do something every day to get you closer to your next goal!<code>buff_upgrade,80,4347,2</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Better Every Day</span>
-                        <span style="margin-left:15px">Ulkoria (80% Watchful Order)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Air Genasi Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1867**Air Genasi Glitch (Valentine)**Huh. Well, at least I still look good in black.<code>add_hero_tags,0,genasi<br>change_hero_alignment_tag,chaotic,evil</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Air Genasi Glitch</span>
-                        <span style="margin-left:15px">Valentine (Counts as Genasi & Change Alignment to Chaotic Evil)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart of Battle Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1814**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<code>persist_effect_stacks,40,15030</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Heart of Battle</span>
-                        <span style="margin-left:15px">Ravengard (40% of Critical Teamwork Stacks Persist When Reset)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Woken the Hive Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1848**Woken the Hive (Umberto)**You've done it now!<code>buff_upgrade,80,15049,0</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Woken the Hive</span>
-                        <span style="margin-left:15px">Umberto (80% Beehive Barrage)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Tabaxi Glitch Shandie Skin Icon](images/exclusivities/skin_24203.png)<span class="featTooltipContents">ID: 452**Tabaxi Glitch Shandie (Shandie)**<img src="images/exclusivities/skin_24204.gif" alt="Tabaxi Glitch Shandie Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Tabaxi Glitch Shandie</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Secret Agent Maan Skin Icon](images/exclusivities/skin_24207.png)<span class="featTooltipContents">ID: 451**Secret Agent Maan (Hew Maan)**<img src="images/exclusivities/skin_24210.gif" alt="Secret Agent Maan Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Secret Agent Maan</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Ulkoria Slot 2](images/exclusivities/ge_8327.png)<span class="itemTooltipContents">ID: 1616**Volo's Guide to the Weave (Ulkoria)**I'm writing a review for the Sentinel, nothing more.<code>global_dps_multiplier_mult,230</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All Champion Damage</span>
-                        <span style="margin-left:15px">Ulkoria (Slot 2)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Aeon Slot 3](images/exclusivities/ge_23720.png)<span class="itemTooltipContents">ID: 3565**Bigby's Beneficent Bracelet (Aeon)**A recent gift from back home. Somewhere I haven't been in a long, long time.<code>buff_upgrade,275,15197,0</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Uncover Weakness (Prestack)</span>
-                        <span style="margin-left:15px">Aeon (Slot 3)</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>24 July 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 November 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 February 2025 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -411,6 +297,61 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             </span>
             <span class="postSeasonTableDate">
                 <span>30 April 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Elegant Spring Giveaway Spring Celebration 2025 Icon](images/general/elegant spring.png)**Elegant Spring Giveaway** - Spring Celebration 2025
+            </span>
+        </span>
+        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Taunt Feat Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Taunt</span>
+                        <span style="margin-left:15px">Minthara (100% All Champion Damage & 50% Taunt)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Myrkul's Chosen Minthara Skin Icon](images/exclusivities/skin_25912.png)<span class="featTooltipContents">ID: 524**Myrkul's Chosen Minthara (Minthara)**<img src="images/exclusivities/skin_25923.gif" alt="Myrkul's Chosen Minthara Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Myrkul's Chosen Minthara</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>02 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>02 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>02 July 2025 (Guess)</span>
             </span>
         </span>
     </span>
@@ -2596,6 +2537,120 @@ This is the list of recurring events that have had their exclusivity period end.
             </span>
             <span class="postSeasonTableDate">
                 <span>30 October 2024</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e8a" onclick="exclusiveToggleContent(`e8`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 8 Icon](images/general/e8.png)**Emergence 8** - Planescape
+            </span>
+        </span>
+        <span id="e8" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Better Every Day Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1873**Better Every Day (Ulkoria)**You should do something every day to get you closer to your next goal!<code>buff_upgrade,80,4347,2</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Better Every Day</span>
+                        <span style="margin-left:15px">Ulkoria (80% Watchful Order)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Air Genasi Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1867**Air Genasi Glitch (Valentine)**Huh. Well, at least I still look good in black.<code>add_hero_tags,0,genasi<br>change_hero_alignment_tag,chaotic,evil</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Air Genasi Glitch</span>
+                        <span style="margin-left:15px">Valentine (Counts as Genasi & Change Alignment to Chaotic Evil)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart of Battle Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1814**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<code>persist_effect_stacks,40,15030</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Heart of Battle</span>
+                        <span style="margin-left:15px">Ravengard (40% of Critical Teamwork Stacks Persist When Reset)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Woken the Hive Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1848**Woken the Hive (Umberto)**You've done it now!<code>buff_upgrade,80,15049,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Woken the Hive</span>
+                        <span style="margin-left:15px">Umberto (80% Beehive Barrage)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Tabaxi Glitch Shandie Skin Icon](images/exclusivities/skin_24203.png)<span class="featTooltipContents">ID: 452**Tabaxi Glitch Shandie (Shandie)**<img src="images/exclusivities/skin_24204.gif" alt="Tabaxi Glitch Shandie Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Tabaxi Glitch Shandie</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Secret Agent Maan Skin Icon](images/exclusivities/skin_24207.png)<span class="featTooltipContents">ID: 451**Secret Agent Maan (Hew Maan)**<img src="images/exclusivities/skin_24210.gif" alt="Secret Agent Maan Model Gif" style="width:auto;height:auto;max-width:100%;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Secret Agent Maan</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Ulkoria Slot 2](images/exclusivities/ge_8327.png)<span class="itemTooltipContents">ID: 1616**Volo's Guide to the Weave (Ulkoria)**I'm writing a review for the Sentinel, nothing more.<code>global_dps_multiplier_mult,230</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">All Champion Damage</span>
+                        <span style="margin-left:15px">Ulkoria (Slot 2)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Aeon Slot 3](images/exclusivities/ge_23720.png)<span class="itemTooltipContents">ID: 3565**Bigby's Beneficent Bracelet (Aeon)**A recent gift from back home. Somewhere I haven't been in a long, long time.<code>buff_upgrade,275,15197,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Uncover Weakness (Prestack)</span>
+                        <span style="margin-left:15px">Aeon (Slot 3)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>24 July 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>01 November 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>29 January 2025</span>
             </span>
         </span>
     </span>
