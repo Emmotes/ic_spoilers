@@ -45,7 +45,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "cooldown": 300,
     "animations": [
         {
-            "type": "beadle_ultimate",
+            "type": "beadle_ultimate_v2",
             "damage_frame": 8,
             "right_blast_offset_x": 40,
             "left_blast_offset_x": -40,
@@ -111,7 +111,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2241,
     "flavour_text": "",
     "description": {
-        "desc": "Beadle increases the damage of Champions within 2 slots of himself by 100%, and enemies that hit targets affected by this have a 20% chance to miss."
+        "desc": "Beadle increases the damage of Champions within 2 slots of himself by $amount%, and enemies that hit targets affected by this have a 20% chance to miss."
     },
     "effect_keys": [
         {
@@ -130,19 +130,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "type": "distance",
                     "distance": 2
                 }
-            ],
-            "filter_targets": [
-                {
-                    "type": "hero_expr",
-                    "hero_expr": "hero_id != 108"
-                }
             ]
         }
     ],
     "requirements": "",
     "graphic_id": 8183,
     "large_graphic_id": 8188,
-    "properties": []
+    "properties": {
+        "is_formation_ability": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
 }
 </pre>
 </p>
@@ -163,17 +162,19 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "beadle_sticky_fingers",
-            "graphic": 0
-        },
-        {
-            "effect_string": "add_attack_stun,100,2,1509,304"
+            "effect_string": "beadle_sticky_fingers,20",
+            "graphic": 0,
+            "stun_time": 2
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
-    "properties": []
+    "properties": {
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
 }
 </pre>
 </p>
@@ -194,14 +195,28 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "beadle_share_the_glory",
-            "hero_id": 64
+            "off_when_benched": true,
+            "effect_string": "beadle_share_the_glory,400,1,16722",
+            "buff_effect_key_index": 1,
+            "effect_scale_title": "Duplicated",
+            "effect_scale_description": "Duplicated by"
+        },
+        {
+            "effect_string": "buff_upgrade,400,16722",
+            "stacks_on_trigger": "will_stack_manually",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "apply_manually": true
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
-    "properties": []
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true
+    }
 }
 </pre>
 </p>

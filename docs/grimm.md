@@ -125,18 +125,83 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "ultimate_tag_team",
+            "effect_string": "ultimate_tag_team,200",
             "source_hero_id": 108,
             "target_hero_id": 1,
             "stack_max": 10,
-            "amount": 200,
             "cooldown_decrease": 5
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
-    "properties": []
+    "properties": {
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> If Grimm is in the formation, all of Beadle's equipment item levels are increased by Grimm's base average item level.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2247,
+    "flavour_text": "",
+    "description": {
+        "desc": "If Grimm is in the formation, all of Beadle's equipment item levels are increased by Grimm's base average item level."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "item_levels_add,0",
+            "targets": [
+                "self"
+            ],
+            "use_computed_amount_for_description": true
+        },
+        {
+            "effect_string": "buff_upgrade_add_flat_amount,1,16721",
+            "off_when_benched": true,
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "AverageILevels()",
+            "per_hero_targets": [
+                {
+                    "type": "heroes",
+                    "hero_ids": [
+                        1
+                    ],
+                    "only_in_formation": true
+                }
+            ],
+            "amount_updated_listeners": [
+                "loot_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "requirement": "hero_in_formation",
+            "target_hero_id": 1
+        }
+    ],
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "show_outgoing_description": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
 }
 </pre>
 </p>
@@ -145,7 +210,122 @@ Unknown.
 
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> The effect of In The Shadows is increased by 20% for each piece of Epic or better equipment on Champions in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2248,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of In The Shadows is increased by 20% for each piece of Epic or better equipment on Champions in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,20,16722",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "max_stacks": 60,
+            "per_hero_expr": "NumEquipmentWithMinimumRarity(`Epic`)",
+            "amount_updated_listeners": [
+                "loot_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> The effect of In The Shadows is increased by 0.075% for every item level on your formation's Champions' equipment, stacking multiplicatively. Each individual Champion can contribute at most 1,800 stacks.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2249,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of In The Shadows is increased by 0.075% for every item level on your formation's Champions' equipment, stacking multiplicatively. Each individual Champion can contribute at most 1,800 stacks."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,0.075,16722",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "max_stacks": 1800,
+            "per_hero_expr": "NumILevels()",
+            "amount_updated_listeners": [
+                "loot_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> The effect of In The Shadows is increased by 30% for each piece of Shiny or Golden equipment on Champions in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2250,
+    "flavour_text": "",
+    "description": {
+        "desc": "The effect of In The Shadows is increased by 30% for each piece of Shiny or Golden equipment on Champions in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,30,16722",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "max_stacks": 60,
+            "per_hero_expr": "NumEquipmentWithMinimumShininess(`Shiny`)",
+            "amount_updated_listeners": [
+                "loot_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
