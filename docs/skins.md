@@ -51,7 +51,7 @@ Please be aware that the developers recently removed most future skins from the 
             Myrkul's Chosen Minthara
         </span>
         <span class="skinTableSource">
-            ???
+            Spring Celebration (Guess)
         </span>
         <span class="skinTableCost">
             ???
