@@ -187,7 +187,7 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Potion Regent Scavenger** (Guess)
-> Unknown effect.
+> Sheila can help scavenge up to 2500 additional Potion Reagents when killing bosses. While this cap is not reached, Sheila has a 10% chance of scavenging 5 Potion Reagents each time a boss is defeated. The cap increases by 100 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -195,9 +195,31 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
     "id": 2227,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Sheila can help scavenge up to $(current_scavenge_cap sheila_potion_reagent_scavenger floor) additional Potion Reagents when killing bosses. While this cap is not reached, Sheila has a $amount% chance of scavenging $amount_per_drop Potion Reagents each time a boss is defeated. The cap increases by $cap_increase_per_day every day.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Potion Reagents Scavenged: $(stat_value sheila_reagents_collected 0 none) ($(stat_value sheila_reagents_collected_this_adventure 1 none) this adventure)"
+                }
+            ]
+        }
     },
-    "effect_keys": "",
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "_scavenge_items,10",
+            "id": "sheila_potion_reagent_scavenger",
+            "item_type": "potion_reagents",
+            "initial_cap": 2500,
+            "cap_increase_per_day": 100,
+            "start_date": "2025-01-01 12:00:00",
+            "total_collected_stat": "sheila_reagents_collected",
+            "adventure_collected_stat": "sheila_reagents_collected_this_adventure",
+            "upgrade_id": 16540,
+            "amount_per_drop": 5
+        }
+    ],
     "requirements": "",
     "graphic_id": 25728,
     "large_graphic_id": 25721,
