@@ -30,40 +30,6 @@ For feats that were available in emergences or giveaways - please see the [Exclu
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Kent</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**We are stronger together.<code>effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span>20% All Champion Damage per Unique Species in Formation (Additive)</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>29 Jan 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Xerophon</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Guardian of Icewind Dale Icon](images/featicons/snowballs.png)<span class="featTooltipContents">ID: 2003**Guardian of Icewind Dale (Xerophon)**From Ten-Towns to Ythryn, from the Spine to the frozen sea, I shall defend this place.<code>force_allow_hero</code></span>Guardian of Icewind Dale
-        </span>
-        <span class="featTableEffect">
-            <span>Allowed in all Icewind Dale Patrons</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>29 Jan 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Hew Maan</span>
         </span>
         <span class="featTableIcon4">
