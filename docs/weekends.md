@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/720.png">
-            <span class="weekendTooltipContents">ID: 720**Gold Calamity Chest**Loot for: Kent, Nayeli, Calliope, Selise and Virgil<code>"for_crusaders":[114,3,5,81,115]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Calamity Company**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    31 January 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Kent
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kent.png'">
-                        <span class="weekendTableChampionNameplate">Kent</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/selise.png'">
-                        <span class="weekendTableChampionNameplate">Selise</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/virgil.png'">
-                        <span class="weekendTableChampionNameplate">Virgil</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/721.png">
             <span class="weekendTooltipContents">ID: 721**Gold Heirloom Chest**Loot for: Kalix, Asharra, Makos, Gromma and Lae'zel<code>"for_crusaders":[158,6,9,16,128]</code></span>
         </span>
