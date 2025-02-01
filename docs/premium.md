@@ -768,11 +768,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![ Chest Portrait](images/premiums/chests_651.png)<span class="itemTooltipContents">ID: 651****Loot for: Volo<code>"for_crusaders":[159]</code></span></span>
+            <span class="tooltipHolder">![Platinum Volo Chest Chest Portrait](images/premiums/chests_651.png)<span class="itemTooltipContents">ID: 651**Platinum Volo Chest**Loot for: Volo<code>"for_crusaders":[159]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px"></span>
+            <span style="margin-left:15px">Platinum Volo Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -909,11 +909,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 653****Loot for: Sheila<code>"for_crusaders":[160]</code></span></span>
+            <span class="tooltipHolder">![Platinum Sheila Chest Chest Portrait](images/premiums/chests_653.png)<span class="itemTooltipContents">ID: 653**Platinum Sheila Chest**Loot for: Sheila<code>"for_crusaders":[160]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px"></span>
+            <span style="margin-left:15px">Platinum Sheila Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
