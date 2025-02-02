@@ -5,7 +5,6 @@
 A list of recently archived spoilers. Note that I delete archives older than 6 months to avoid bloat.
 
 * [Bobby](archive/bobby.md)
-* [Ellywick](archive/ellywick.md)
 * [Emergence 10](archive/emergence_10.md)
 * [Emergence 9](archive/emergence_9.md)
 * [Eric](archive/eric.md)
@@ -14,11 +13,9 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Mehen](archive/mehen.md)
 * [Minthara](archive/minthara.md)
 * [Rosie](archive/rosie.md)
-* [Rust](archive/rust.md)
 * [Sgt. Knox](archive/sgtknox.md)
 * [Stoki](archive/stoki.md)
 * [Voronika](archive/voronika.md)
-* [XBox Giveaway](archive/xbox_giveaway_laezel.md)
 
 [Back to Top](#top)
 
