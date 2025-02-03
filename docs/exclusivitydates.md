@@ -81,13 +81,11 @@ These are feats that were previously released in premium packs and are now sitti
 
 # Current Exclusive Special Events
 
-When a season ends - most of the items that were available in the season pass track become exclusive and unavailable for a period of six months - at which point they become available again. Usually this means everything goes into Wild Offers (including the feats) while feats also become available for gems.
+We've been told the typical exclusivity period for things that were in special events like Emergences or a giveaway is 3 months before it becomes available again.
 
-Modron cores that were in the season pass are added to Wild Offers - and ones that were in the free track become available for gems the same way the Strong Core is.
+Feats will become available for gems while most everything else will end up in Wild Offers. Sometimes there are exceptions though and skins can be put in the gem shop for example.
 
-For Emergences - the items added will remain in the Thayan Enclave until the following Emergence ends. Then it will remain exclusive for another 3 months. Because of this - I have set the `End Date` for Emergences as the date the items leave the shop (not the date the emergence actually ended).
-
-For platform giveaways we've been told the exclusivity period is 3 months from the moment the giveaway ends.
+For Emergences - the items added will remain in the Thayan Enclave until the following Emergence ends. Then it will remain exclusive for another 3 months. Because of this - I have set the End Date for Emergences as the date the items leave the shop (not the date the emergence actually ended).
 
 <span class="postSeasonTableColumn">
 <span class="postSeasonTableRow postSeasonTableRowShowHideAll"><a id="showHideAll" onClick="exclusiveToggleAllContents()" style="cursor:pointer">[show all contents]</a></span>
