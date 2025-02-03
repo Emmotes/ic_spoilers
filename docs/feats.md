@@ -147,11 +147,11 @@ Feats that are listed as Free will be available immediately the moment they rele
     </span>
 </span>
 
-# Feats in Exclusivity
+# Feats in Premium Exclusivity
 
-These are feats that were previously released in [Premiums](premium.html) or [Emergences or Giveaways](exclusivitydates.html) etc. and are now sitting in an exclusivity period until they will be available again for gems.
+These are feats that were previously released in premium packs and are now sitting in an exclusivity period until they will be available again for gems.
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: Any dates with a ? are estimated based on the typical exclusivity period from when the feat had originally been available.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: I'm not including any feats in this list which can be found in [Exclusivity Dates](exclusivitydates.html).*
 
 <span class="featTableColumn">
     <span class="featTableRowHeader">
@@ -169,40 +169,6 @@ These are feats that were previously released in [Premiums](premium.html) or [Em
         </span>
         <span class="featTableDate">
             <span>**Date**</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Gale</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Chosen of Mystra Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2006**Chosen of Mystra (Gale)**Ah-Thran Mystra-Ryl Kantrach-Ao...<code>buff_upgrade,80,14571</code></span>Chosen of Mystra
-        </span>
-        <span class="featTableEffect">
-            <span>80% Archmage's Insight</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>12 Mar 2025?</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Karlach</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Heart Ablaze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2005**Heart Ablaze (Karlach)**I don't think I've ever felt more powerful.<code>buff_upgrade,80,13724</code></span>Heart Ablaze
-        </span>
-        <span class="featTableEffect">
-            <span>80% Infernal Engine (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>19 Mar 2025?</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -254,159 +220,6 @@ These are feats that were previously released in [Premiums](premium.html) or [Em
         </span>
         <span class="featTableDate">
             <span>29 Apr 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Briv</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Strategic Stride Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**Mine mighty legs could go farther, but there is wisdom in restraint.<code>cap_upgrade,25600,3452</code></span>Strategic Stride
-        </span>
-        <span class="featTableEffect">
-            <span>Cap Unnatural Haste at 9j</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>30 Apr 2025?</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Ellywick</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Gem Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<code>ellywick_gem_prioritized</code></span>Gem
-        </span>
-        <span class="featTableEffect">
-            <span>Always Draws at Least 1 Gems Card</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>30 Apr 2025?</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Nahara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400<br>appear_dead</code></span>Make Undead
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Undead & 400% Self DPS</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>30 Apr 2025?</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Voronika</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1723**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>30 Apr 2025?</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Widdle</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<code>add_hero_tags,0,undead<br>buff_upgrade,160,6905<br>appear_dead</code></span>Make Undead
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Undead & 160% Vampiric Gaze</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>30 Apr 2025?</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Bobby</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2012**Tenacious (Bobby)**Heroes never say die!<code>increase_ability_score,con,2</code></span>Tenacious
-        </span>
-        <span class="featTableEffect">
-            <span>Stat: +2 Constitution</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>02 Aug 2025?</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Eric</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prolonged Push Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2034**Prolonged Push (Eric)**You guys handle the fighting. I'll stay back here and hold them off!<code>buff_upgrade,80,16132,0</code></span>Prolonged Push
-        </span>
-        <span class="featTableEffect">
-            <span>80% Keep Away</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>02 Aug 2025?</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Kas</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2011**Weapon Master (Kas)**I've practiced the blade for centuries. You are nothing before me.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
-        </span>
-        <span class="featTableEffect">
-            <span>120% Self DPS</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>02 Aug 2025?</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Shadowheart</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Shar's Veil Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<code>change_hero_alignment_tag,lawful,evil</code></span>Shar's Veil
-        </span>
-        <span class="featTableEffect">
-            <span>Change Alignment to Lawful Evil</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>02 Aug 2025?</span>
         </span>
     </span>
 </span>
