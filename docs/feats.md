@@ -6,8 +6,6 @@ Feats that are upcoming.
 
 Feats that are listed as Free will be available immediately the moment they release. Feats with a cost of 50,000 Gems will usually also be available via real money through DLC packs or weekend chest sales. Gold chest feats of course can only come from regular Gold Chests.
 
-For feats that were available in emergences or giveaways - please see the [Exclusivity Dates](exclusivitydates.html) page for when we will likely see them for gems.
-
 <span style="font-size:1.2em;">ⓘ</span> *Note: I filter out all feats that are obviously tests or unfinished - such as having a prohibitively high gem cost or excessive too-far-future release date.*
 
 <span class="featTableColumn">
@@ -39,7 +37,24 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>100% All Champion Damage & Enemies Will Attack Other Champions If Possible</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span>1,680 Platinum</span>
+        </span>
+        <span class="featTableDate">
+            <span>05 Feb 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span>100% All Champion Damage & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span>Elegant Spring Giveaway</span>
         </span>
         <span class="featTableDate">
             <span>05 Feb 2025</span>
@@ -56,7 +71,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>20% All Specialisations</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span>1,680 Platinum</span>
         </span>
         <span class="featTableDate">
             <span>12 Feb 2025</span>
@@ -73,7 +88,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>120% Self DPS</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span>1,680 Platinum</span>
         </span>
         <span class="featTableDate">
             <span>19 Feb 2025</span>
@@ -90,7 +105,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span>1,680 Platinum</span>
         </span>
         <span class="featTableDate">
             <span>19 Feb 2025</span>
@@ -107,7 +122,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>40% Homebrew</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span>1,680 Platinum</span>
         </span>
         <span class="featTableDate">
             <span>26 Feb 2025</span>
@@ -124,10 +139,36 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>80% Strength of the Luma</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span>1,680 Platinum</span>
         </span>
         <span class="featTableDate">
             <span>26 Feb 2025</span>
+        </span>
+    </span>
+</span>
+
+# Feats in Exclusivity
+
+These are feats that were previously released in [Premiums](premium.html) or [Emergences or Giveaways](exclusivitydates.html) etc. and are now sitting in an exclusivity period until they will be available again for gems.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Any dates with a ? are estimated based on the typical exclusivity period from when the feat had originally been available.*
+
+<span class="featTableColumn">
+    <span class="featTableRowHeader">
+        <span class="featTableChampion">
+            <span>**Champion**</span>
+        </span>
+        <span class="featTableIcon1">
+            <span style="margin-left:8px;">**Feat**</span>
+        </span>
+        <span class="featTableEffect">
+            <span>**Effect**</span>
+        </span>
+        <span class="featTableSource">
+            <span>**Source**</span>
+        </span>
+        <span class="featTableDate">
+            <span>**Date**</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -144,7 +185,7 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>???</span>
         </span>
         <span class="featTableDate">
-            <span>12 Mar 2025</span>
+            <span>12 Mar 2025?</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -161,7 +202,211 @@ For feats that were available in emergences or giveaways - please see the [Exclu
             <span>???</span>
         </span>
         <span class="featTableDate">
-            <span>09 Apr 2025</span>
+            <span>19 Mar 2025?</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unwavering Inspiration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2048**Unwavering Inspiration (Diana)**I believe in myself! I believe in all of us!<code>buff_upgrades,80,14791,14792,14793</code></span>Unwavering Inspiration
+        </span>
+        <span class="featTableEffect">
+            <span>80% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Maintain Focus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1240**Maintain Focus (Stoki)**We can't afford to waste time on distractions.<code>change_upgrade_data,16052,5</code></span>Maintain Focus
+        </span>
+        <span class="featTableEffect">
+            <span>Focus Points Are Only Reduced by 33% On Changing Areas</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Kent</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**We are stronger together.<code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span>20% All Champion Damage per Unique Species in Formation (Additive)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>29 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Briv</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Strategic Stride Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**Mine mighty legs could go farther, but there is wisdom in restraint.<code>cap_upgrade,25600,3452</code></span>Strategic Stride
+        </span>
+        <span class="featTableEffect">
+            <span>Cap Unnatural Haste at 9j</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025?</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ellywick</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Gem Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<code>ellywick_gem_prioritized</code></span>Gem
+        </span>
+        <span class="featTableEffect">
+            <span>Always Draws at Least 1 Gems Card</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025?</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nahara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400<br>appear_dead</code></span>Make Undead
+        </span>
+        <span class="featTableEffect">
+            <span>Counts as Undead & 400% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025?</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Voronika</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1723**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025?</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Widdle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<code>add_hero_tags,0,undead<br>buff_upgrade,160,6905<br>appear_dead</code></span>Make Undead
+        </span>
+        <span class="featTableEffect">
+            <span>Counts as Undead & 160% Vampiric Gaze</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025?</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2012**Tenacious (Bobby)**Heroes never say die!<code>increase_ability_score,con,2</code></span>Tenacious
+        </span>
+        <span class="featTableEffect">
+            <span>Stat: +2 Constitution</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Aug 2025?</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Eric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prolonged Push Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2034**Prolonged Push (Eric)**You guys handle the fighting. I'll stay back here and hold them off!<code>buff_upgrade,80,16132,0</code></span>Prolonged Push
+        </span>
+        <span class="featTableEffect">
+            <span>80% Keep Away</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Aug 2025?</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Kas</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2011**Weapon Master (Kas)**I've practiced the blade for centuries. You are nothing before me.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
+        </span>
+        <span class="featTableEffect">
+            <span>120% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Aug 2025?</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Shadowheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Shar's Veil Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<code>change_hero_alignment_tag,lawful,evil</code></span>Shar's Veil
+        </span>
+        <span class="featTableEffect">
+            <span>Change Alignment to Lawful Evil</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Aug 2025?</span>
         </span>
     </span>
 </span>
@@ -760,23 +1005,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>+1 Soul Branding stacks</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
-        </span>
-        <span class="featTableEffect">
-            <span>100% All Champion Damage & 50% Taunt</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

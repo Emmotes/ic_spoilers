@@ -58,6 +58,7 @@ code{
 	margin: 2px;
 	background-color: var(--Onyx);
 	border: 1px solid black;
+	text-wrap: balance;
 }
 .featTableRowHeader {
 	border-bottom: 4px ridge black;
@@ -84,12 +85,13 @@ code{
 	padding-left: 8px;
 }
 .featTableSource {
-	width: 102px;
+	width: 104px;
 	padding-left: 8px;
 }
 .featTableDate {
-	width: 76px;
+	width: 82px;
 	padding-left: 8px;
+	text-align: right;
 }
 .featTableDate {
 	justify-content: flex-end;
@@ -101,14 +103,13 @@ code{
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	width: 307px;
+	width: 299px;
 	height: 100%;
 	margin: 0px;
 	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 	padding: 0 1px 0 8px;
-	text-wrap: balance;
 }
 .featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5 {
 	position: relative;
