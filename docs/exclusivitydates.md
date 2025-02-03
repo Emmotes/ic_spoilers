@@ -2,6 +2,85 @@
 
 # Exclusivity Dates
 
+A list of things that are currently or used to be in an exclusivity period.
+
+# Premium Exclusive Feats
+
+These are feats that were previously released in premium packs and are now sitting in an exclusivity period until they will be available again for gems.
+
+<span class="featTableColumn">
+    <span class="featTableRowHeader">
+        <span class="featTableChampion">
+            <span>**Champion**</span>
+        </span>
+        <span class="featTableIcon1">
+            <span style="margin-left:8px;">**Feat**</span>
+        </span>
+        <span class="featTableEffect">
+            <span>**Effect**</span>
+        </span>
+        <span class="featTableSource">
+            <span>**Source**</span>
+        </span>
+        <span class="featTableDate">
+            <span>**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unwavering Inspiration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2048**Unwavering Inspiration (Diana)**I believe in myself! I believe in all of us!<code>buff_upgrades,80,14791,14792,14793</code></span>Unwavering Inspiration
+        </span>
+        <span class="featTableEffect">
+            <span>80% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Maintain Focus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1240**Maintain Focus (Stoki)**We can't afford to waste time on distractions.<code>change_upgrade_data,16052,5</code></span>Maintain Focus
+        </span>
+        <span class="featTableEffect">
+            <span>Focus Points Are Only Reduced by 33% On Changing Areas</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Kent</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**We are stronger together.<code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span>20% All Champion Damage per Unique Species in Formation (Additive)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>29 Apr 2025</span>
+        </span>
+    </span>
+</span>
+
+# Current Exclusive Special Events
+
 When a season ends - most of the items that were available in the season pass track become exclusive and unavailable for a period of six months - at which point they become available again. Usually this means everything goes into Wild Offers (including the feats) while feats also become available for gems.
 
 Modron cores that were in the season pass are added to Wild Offers - and ones that were in the free track become available for gems the same way the Strong Core is.
@@ -471,7 +550,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     </span>
 </span>
 
-# Old Exclusives
+# Old Exclusive Special Events
 
 This is the list of recurring events that have had their exclusivity period end. This means their contents are available again. This list does not include platform giveaways.
 
