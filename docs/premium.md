@@ -641,7 +641,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 248**Krynn the Crystal Dragon**She only gets angry when you mention Takhisis.</span></span>
+            <span class="tooltipHolder">![Krynn the Crystal Dragon Familiar Portrait](images/premiums/familiar_248.png)<span class="itemTooltipContents">ID: 248**Krynn the Crystal Dragon**She only gets angry when you mention Takhisis.<img src="images/premiums/familiar_248.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

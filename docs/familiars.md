@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 248**Krynn the Crystal Dragon**She only gets angry when you mention Takhisis.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Krynn the Crystal Dragon Portrait](images/familiars/krynnthecrystaldragon.png)<span class="featTooltipContents">ID: 248**Krynn the Crystal Dragon**She only gets angry when you mention Takhisis.<img src="images/familiars/krynnthecrystaldragon.gif" alt="Krynn the Crystal Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Krynn the Crystal Dragon
