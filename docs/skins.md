@@ -113,7 +113,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 520**Ballroom Vi (Vi)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Ballroom Vi Portrait](images/skin_portraits/ballroomvi.png)<span class="featTooltipContents">ID: 520**Ballroom Vi (Vi)**<img src="images/skin_models/ballroomvi.gif" alt="Ballroom Vi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Ballroom Vi
@@ -164,7 +164,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 522**Dragonlance Thellora (Thellora)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance Thellora Portrait](images/skin_portraits/dragonlancethellora.png)<span class="featTooltipContents">ID: 522**Dragonlance Thellora (Thellora)**<img src="images/skin_models/dragonlancethellora.gif" alt="Dragonlance Thellora Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragonlance Thellora
@@ -181,7 +181,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 527**Bane's Chosen Gale (Gale)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 527**Bane's Chosen Gale (Gale)**<img src="images/skin_models/baneschosengale.gif" alt="Bane's Chosen Gale Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Bane's Chosen Gale
@@ -198,7 +198,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 526**Privateer Volo (Volo)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Privateer Volo Portrait](images/skin_portraits/privateervolo.png)<span class="featTooltipContents">ID: 526**Privateer Volo (Volo)**<img src="images/skin_models/privateervolo.gif" alt="Privateer Volo Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Privateer Volo
@@ -232,7 +232,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 528**Swashbuckler Sheila (Sheila)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Swashbuckler Sheila Portrait](images/skin_portraits/swashbucklersheila.png)<span class="featTooltipContents">ID: 528**Swashbuckler Sheila (Sheila)**<img src="images/skin_models/swashbucklersheila.gif" alt="Swashbuckler Sheila Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Swashbuckler Sheila

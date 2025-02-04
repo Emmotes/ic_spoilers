@@ -366,7 +366,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 520**Ballroom Vi (Vi)**</span></span>
+            <span class="tooltipHolder">![Ballroom Vi Skin Portrait](images/premiums/skin_520.png)<span class="itemTooltipContents">ID: 520**Ballroom Vi (Vi)**<img src="images/premiums/skin_520.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -508,7 +508,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 522**Dragonlance Thellora (Thellora)**</span></span>
+            <span class="tooltipHolder">![Dragonlance Thellora Skin Portrait](images/premiums/skin_522.png)<span class="itemTooltipContents">ID: 522**Dragonlance Thellora (Thellora)**<img src="images/premiums/skin_522.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -741,7 +741,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 526**Privateer Volo (Volo)**</span></span>
+            <span class="tooltipHolder">![Privateer Volo Skin Portrait](images/premiums/skin_526.png)<span class="itemTooltipContents">ID: 526**Privateer Volo (Volo)**<img src="images/premiums/skin_526.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -810,7 +810,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 527**Bane's Chosen Gale (Gale)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 527**Bane's Chosen Gale (Gale)**<img src="images/premiums/skin_527.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -881,7 +881,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 528**Swashbuckler Sheila (Sheila)**</span></span>
+            <span class="tooltipHolder">![Swashbuckler Sheila Skin Portrait](images/premiums/skin_528.png)<span class="itemTooltipContents">ID: 528**Swashbuckler Sheila (Sheila)**<img src="images/premiums/skin_528.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
