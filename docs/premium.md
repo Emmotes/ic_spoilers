@@ -5,7 +5,7 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 534</div>
-### Ruby Rose Knight Kalix Theme Pack - 3,830 Platinum ($0.00)  
+### Ruby Rose Knight Kalix Theme Pack - 3,830 Platinum  
 Date of release: 05 Feb 2025
 
 > Unlock Kalix along with an exclusive Ruby Rose Knight Skin & Familiar!
@@ -74,7 +74,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 535</div>
-### Demilich Hew Maan Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Demilich Hew Maan Skin & Feat Pack - 1,680 Platinum  
 Date of release: 05 Feb 2025
 
 > Unlock Hew Maan along with their exclusive Demilich Skin & Feat!
@@ -145,7 +145,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 536</div>
-### Dashing Ishi Theme Pack - 3,830 Platinum ($0.00)  
+### Dashing Ishi Theme Pack - 3,830 Platinum  
 Date of release: 12 Feb 2025
 
 > Unlock Ishi along with an exclusive Dashing Skin & Familiar!
@@ -214,7 +214,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 537</div>
-### Prom Night Presto Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Prom Night Presto Skin & Feat Pack - 1,680 Platinum  
 Date of release: 12 Feb 2025
 
 > Unlock Presto along with his exclusive Prom Night Skin & Feat!
@@ -285,7 +285,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 538</div>
-### Meepo the Kobold Familiar Pack - 1,680 Platinum ($0.00)  
+### Meepo the Kobold Familiar Pack - 1,680 Platinum  
 Date of release: 12 Feb 2025
 
 > Collect your own Meepo the Kobold Familiar!
@@ -347,7 +347,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 539</div>
-### Ballroom Vi Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Ballroom Vi Skin & Feat Pack - 1,680 Platinum  
 Date of release: 19 Feb 2025
 
 > Unlock Vi along with her exclusive Ballroom Skin & Feat!
@@ -418,7 +418,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 540</div>
-### Formal Birdsong Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Formal Birdsong Skin & Feat Pack - 1,680 Platinum  
 Date of release: 19 Feb 2025
 
 > Unlock Birdsong along with her exclusive Formal Skin & Feat!
@@ -489,7 +489,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 541</div>
-### Dragonlance Thellora Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Dragonlance Thellora Skin & Feat Pack - 1,680 Platinum  
 Date of release: 26 Feb 2025
 
 > Unlock Thellora along with her exclusive Dragonlance Skin & Feat!
@@ -560,7 +560,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 542</div>
-### Dragonlance BBEG Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Dragonlance BBEG Skin & Feat Pack - 1,680 Platinum  
 Date of release: 26 Feb 2025
 
 > Unlock BBEG along with his exclusive Dragonlance Skin & Feat!
@@ -631,7 +631,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 543</div>
-### Krynn the Crystal Dragon Familiar Pack - 2,380 Platinum ($0.00)  
+### Krynn the Crystal Dragon Familiar Pack - 2,380 Platinum  
 Date of release: 26 Feb 2025
 
 > Collect your own Krynn the Crystal Dragon Familiar!
@@ -722,7 +722,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 544</div>
-### Privateer Volo Theme Pack - 3,830 Platinum ($0.00)  
+### Privateer Volo Theme Pack - 3,830 Platinum  
 Date of release: 05 Mar 2025
 
 > Unlock Volo along with an exclusive Privateer Skin & Familiar!
@@ -791,7 +791,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 545</div>
-### Bane's Chosen Gale Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Bane's Chosen Gale Skin & Feat Pack - 1,680 Platinum  
 Date of release: 05 Mar 2025
 
 > Unlock Gale along with his exclusive Bane's Chosen Skin & Feat!
@@ -862,7 +862,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 546</div>
-### Swashbuckler Sheila Theme Pack - 3,830 Platinum ($0.00)  
+### Swashbuckler Sheila Theme Pack - 3,830 Platinum  
 Date of release: 12 Mar 2025
 
 > Unlock Sheila along with an exclusive Swashbuckler Skin & Familiar!
@@ -932,7 +932,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 547</div>
-### Swashbuckler Orkira Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Swashbuckler Orkira Skin & Feat Pack - 1,680 Platinum  
 Date of release: 12 Mar 2025
 
 > Unlock Orkira along with her exclusive Swashbuckler Skin & Feat!
@@ -1003,7 +1003,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 548</div>
-### Pirate Queen Sisaspia Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Pirate Queen Sisaspia Skin & Feat Pack - 1,680 Platinum  
 Date of release: 19 Mar 2025
 
 > Unlock Sisaspia along with her exclusive Pirate Queen Skin & Feat!
@@ -1074,7 +1074,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 549</div>
-### Pirate Lord Nrakk Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Pirate Lord Nrakk Skin & Feat Pack - 1,680 Platinum  
 Date of release: 19 Mar 2025
 
 > Unlock Nrakk along with his exclusive Pirate Lord Skin & Feat!
@@ -1145,7 +1145,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 550</div>
-### Kittenlord Blooshi Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Kittenlord Blooshi Skin & Feat Pack - 1,680 Platinum  
 Date of release: 26 Mar 2025
 
 > Collect an exclusive Kittenlord Skin & Feat for Blooshi!
@@ -1207,7 +1207,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 551</div>
-### Jade the Snake Familiar Pack - 840 Platinum ($0.00)  
+### Jade the Snake Familiar Pack - 840 Platinum  
 Date of release: 26 Mar 2025
 
 > Collect your own Jade the Snake Familiar!
@@ -1259,7 +1259,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 552</div>
-### Lich Makos Skin & Feat Pack - 1,680 Platinum ($0.00)  
+### Lich Makos Skin & Feat Pack - 1,680 Platinum  
 Date of release: 26 Mar 2025
 
 > Collect an exclusive Lich Skin & Feat for Makos!
