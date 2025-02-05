@@ -121,21 +121,34 @@ Unknown.
     "id": 2245,
     "flavour_text": "",
     "description": {
-        "desc": "When Grimm uses his ultimate ability in the same party as Beadle, Beadle's ultimate ability goes on cooldown and he gains one Tag Team stack. For each Tag Team stack Beadle has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals 200% more damage, stacking multiplicatively. Tag Team stacks cap at 10 and reset when Beadle uses his ultimate ability."
+        "desc": "When Grimm uses his ultimate ability in the same party as Beadle, Beadle's ultimate ability goes on cooldown and he gains one Tag Team stack. For each Tag Team stack Beadle has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals $amount% more damage, stacking multiplicatively. Tag Team stacks cap at 10 and reset when Beadle uses his ultimate ability."
     },
     "effect_keys": [
         {
+            "off_when_benched": false,
             "effect_string": "ultimate_tag_team,200",
             "source_hero_id": 108,
-            "target_hero_id": 1,
+            "target_hero_id": 161,
             "stack_max": 10,
-            "cooldown_decrease": 5
+            "cooldown_decrease": 5,
+            "buff_effect_key_index": 1,
+            "stat": "beadle_tag_team_stacks"
+        },
+        {
+            "effect_string": "do_nothing,200",
+            "stacks_on_trigger": "will_stack_manually",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "apply_manually": true
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
+        "is_formation_ability": true,
+        "show_outgoing_description": true,
+        "show_incoming": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -148,18 +161,19 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> If Grimm is in the formation, all of Beadle's equipment item levels are increased by Grimm's base average item level.
+> If Beadle is in the formation, all of Grimm's equipment item levels are increased by Beadle's base average item level.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 2247,
+    "id": 2253,
     "flavour_text": "",
     "description": {
-        "desc": "If Grimm is in the formation, all of Beadle's equipment item levels are increased by Grimm's base average item level."
+        "desc": "If Beadle is in the formation, all of Grimm's equipment item levels are increased by Beadle's base average item level."
     },
     "effect_keys": [
         {
+            "off_when_benched": false,
             "effect_string": "item_levels_add,0",
             "targets": [
                 "self"
@@ -167,8 +181,8 @@ Unknown.
             "use_computed_amount_for_description": true
         },
         {
-            "effect_string": "buff_upgrade_add_flat_amount,1,16721",
-            "off_when_benched": true,
+            "off_when_benched": false,
+            "effect_string": "buff_upgrade_add_flat_amount,1,16730",
             "amount_func": "add",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "AverageILevels()",
@@ -176,9 +190,8 @@ Unknown.
                 {
                     "type": "heroes",
                     "hero_ids": [
-                        1
-                    ],
-                    "only_in_formation": true
+                        108
+                    ]
                 }
             ],
             "amount_updated_listeners": [
@@ -190,7 +203,7 @@ Unknown.
     "requirements": [
         {
             "requirement": "hero_in_formation",
-            "target_hero_id": 1
+            "target_hero_id": 108
         }
     ],
     "graphic_id": 0,
@@ -214,7 +227,64 @@ Unknown.
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Beadle Armor Icon](images/grimm/26000.png)</span><span class="itemTableIcon2">![Beadle Armor Icon](images/grimm/26000.png)</span><span class="itemTableIcon3">![Beadle Armor Icon](images/grimm/26001.png)</span><span class="itemTableIcon4">![Beadle Armor Icon](images/grimm/26002.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Beadle Armor
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Beadle Storyof Trask Icon](images/grimm/26003.png)</span><span class="itemTableIcon2">![Beadle Storyof Trask Icon](images/grimm/26003.png)</span><span class="itemTableIcon3">![Beadle Storyof Trask Icon](images/grimm/26004.png)</span><span class="itemTableIcon4">![Beadle Storyof Trask Icon](images/grimm/26005.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Beadle Storyof Trask
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Beadle Icon Euipment Beadle Gear Icon](images/grimm/26006.png)</span><span class="itemTableIcon2">![Beadle Icon Euipment Beadle Gear Icon](images/grimm/26006.png)</span><span class="itemTableIcon3">![Beadle Icon Euipment Beadle Gear Icon](images/grimm/26007.png)</span><span class="itemTableIcon4">![Beadle Icon Euipment Beadle Gear Icon](images/grimm/26008.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Beadle Icon Euipment Beadle Gear
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Beadle Icon Euipment Beadle Rapier Icon](images/grimm/26009.png)</span><span class="itemTableIcon2">![Beadle Icon Euipment Beadle Rapier Icon](images/grimm/26009.png)</span><span class="itemTableIcon3">![Beadle Icon Euipment Beadle Rapier Icon](images/grimm/26010.png)</span><span class="itemTableIcon4">![Beadle Icon Euipment Beadle Rapier Icon](images/grimm/26011.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Beadle Icon Euipment Beadle Rapier
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Beadle Icon Euipment Beadle Rogue Stuff Icon](images/grimm/26012.png)</span><span class="itemTableIcon2">![Beadle Icon Euipment Beadle Rogue Stuff Icon](images/grimm/26012.png)</span><span class="itemTableIcon3">![Beadle Icon Euipment Beadle Rogue Stuff Icon](images/grimm/26013.png)</span><span class="itemTableIcon4">![Beadle Icon Euipment Beadle Rogue Stuff Icon](images/grimm/26014.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Beadle Icon Euipment Beadle Rogue Stuff
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Beadle Icon Euipment Beadle Wizard Stuff Icon](images/grimm/26015.png)</span><span class="itemTableIcon2">![Beadle Icon Euipment Beadle Wizard Stuff Icon](images/grimm/26015.png)</span><span class="itemTableIcon3">![Beadle Icon Euipment Beadle Wizard Stuff Icon](images/grimm/26016.png)</span><span class="itemTableIcon4">![Beadle Icon Euipment Beadle Wizard Stuff Icon](images/grimm/26017.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Beadle Icon Euipment Beadle Wizard Stuff
+        </span>
+    </span>
+</span>
 
 # Feats
 
@@ -249,6 +319,14 @@ Unknown.
     <span class="championImagesRow">
         <span class="championImagesPortrait">
             ![Grimm Console Portrait](images/grimm/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Grimm Gold Chest Icon](images/grimm/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Grimm Silver Chest Icon](images/grimm/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
