@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dendria the Orchid Mantis Portrait](images/familiars/dendriatheorchidmantis.png)<span class="featTooltipContents">ID: 245**Dendria the Orchid Mantis**Always by your side.<img src="images/familiars/dendriatheorchidmantis.gif" alt="Dendria the Orchid Mantis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dendria the Orchid Mantis
-        </span>
-        <span class="skinTableSource">
-            Ruby Rose Knight Kalix Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            05 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Meepo the Kobold Portrait](images/familiars/meepothekobold.png)<span class="featTooltipContents">ID: 247**Meepo the Kobold**Has anyone seen Calcryx?<img src="images/familiars/meepothekobold.gif" alt="Meepo the Kobold Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

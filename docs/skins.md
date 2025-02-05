@@ -11,57 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Demilich Hew Maan Portrait](images/skin_portraits/demilichhewmaan.png)<span class="featTooltipContents">ID: 517**Demilich Hew Maan (Hew Maan)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/demilichhewmaan.gif" alt="Demilich Hew Maan Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/demilichhewmaan-kleeb.gif" alt="Demilich Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/demilichhewmaan-yassa.gif" alt="Demilich Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/demilichhewmaan-zrang.gif" alt="Demilich Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Demilich Hew Maan
-        </span>
-        <span class="skinTableSource">
-            Demilich Hew Maan Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            05 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Myrkul's Chosen Minthara Portrait](images/skin_portraits/myrkulschosenminthara.png)<span class="featTooltipContents">ID: 524**Myrkul's Chosen Minthara (Minthara)**<img src="images/skin_models/myrkulschosenminthara.gif" alt="Myrkul's Chosen Minthara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Myrkul's Chosen Minthara
-        </span>
-        <span class="skinTableSource">
-            Spring Celebration (Guess)
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            05 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ruby Rose Knight Kalix Portrait](images/skin_portraits/rubyroseknightkalix.png)<span class="featTooltipContents">ID: 525**Ruby Rose Knight Kalix (Kalix)**<img src="images/skin_models/rubyroseknightkalix.gif" alt="Ruby Rose Knight Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Ruby Rose Knight Kalix
-        </span>
-        <span class="skinTableSource">
-            Ruby Rose Knight Kalix Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            05 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dashing Ishi Portrait](images/skin_portraits/dashingishi.png)<span class="featTooltipContents">ID: 518**Dashing Ishi (Ishi)**<img src="images/skin_models/dashingishi.gif" alt="Dashing Ishi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
