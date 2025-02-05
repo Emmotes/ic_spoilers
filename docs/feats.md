@@ -28,57 +28,6 @@ Feats that are listed as Free will be available immediately the moment they rele
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Hew Maan</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Misdirection Icon](images/featicons/misdirection.png)<span class="featTooltipContents">ID: 2077**Misdirection (Hew Maan)**Zrang? Nope. Never heard of 'em. ~Zrang<code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span>Misdirection
-        </span>
-        <span class="featTableEffect">
-            <span>100% All Champion Damage & Enemies Will Attack Other Champions If Possible</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum</span>
-        </span>
-        <span class="featTableDate">
-            <span>05 Feb 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Kalix</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Psionic Talent Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2065**Psionic Talent (Kalix)**I see into your mind. I sense your weakness. I know your strength.<code>buff_upgrade,80,16516,0</code></span>Psionic Talent
-        </span>
-        <span class="featTableEffect">
-            <span>80% Thri-kreen Telepathy</span>
-        </span>
-        <span class="featTableSource">
-            <span>3,830 Platinum</span>
-        </span>
-        <span class="featTableDate">
-            <span>05 Feb 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
-        </span>
-        <span class="featTableEffect">
-            <span>100% All Champion Damage & 50% Taunt</span>
-        </span>
-        <span class="featTableSource">
-            <span>Elegant Spring Giveaway</span>
-        </span>
-        <span class="featTableDate">
-            <span>05 Feb 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Presto</span>
         </span>
         <span class="featTableIcon4">
