@@ -106,7 +106,7 @@ Volo will be a new champion in the Fleetswake event on 5 March 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Volo's Guide to Malicious Mockery** (Magic)
-> Volo writes down a scathing note in his book, which magically deals 1 hit to the closest enemy.  
+> Volo writes a scathing note, dealing a deep magical cut to the nearest enemy.  
 > Cooldown: 7s (Cap 1.75s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -115,7 +115,7 @@ Volo will be a new champion in the Fleetswake event on 5 March 2025.
     "id": 836,
     "name": "Volo's Guide to Malicious Mockery",
     "description": "Volo writes a scathing note, dealing a deep magical cut to the nearest enemy.",
-    "long_description": "Volo writes down a scathing note in his book, which magically deals 1 hit to the closest enemy.",
+    "long_description": "",
     "graphic_id": 0,
     "target": "front",
     "num_targets": 1,
@@ -158,7 +158,7 @@ Volo will be a new champion in the Fleetswake event on 5 March 2025.
     "target": "front",
     "num_targets": 1,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "cooldown": 300,
     "animations": [
         {
