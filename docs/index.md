@@ -34,7 +34,7 @@ These are the event champions that are upcoming and all the information we know 
                 Kalix
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Thri-Kreen Ranger (Guess)</span>
+                <span class="indexChampionTableNoLink">Thri-kreen Ranger</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Grand Revel - 5 February 2025</span>
@@ -204,7 +204,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Kalix
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Thri-Kreen Ranger (Guess)</span>
+                <span class="indexChampionTableNoLink">Thri-kreen Ranger</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
