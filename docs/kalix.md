@@ -1412,7 +1412,7 @@ This list will only show feats that are going to be available on the release of 
 
 * Increases the damage of all Champions by 100%.
 * Increases the damage of all Female Champions by 125%.
-* Increases the damage of all Champions by 100%.
+* Increases the damage of all Champions by 40% for each Champion in the formation with a EVIL alignment.
 * Increases the damage of all Champions with a DEX score of 11 or higher by 100%.
 * Increases the damage of all Champions by 20% for each Champion with a CHA score of 11 or higher in the formation.
 * Increases the damage of all Ranged Champions by 150%.
