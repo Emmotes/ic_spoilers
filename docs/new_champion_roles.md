@@ -11,9 +11,9 @@ This role is basically for any champion with a Favoured Foe mechanic. This is th
 It has been given to the following champions:
 
 |---|---|---|---|---|
-| Dynaheir | Jaheira | Minsc | Turiel | Wyll |
-| Ezmerelda | Krux | Nerys | Uriah | Zorbu |
-| Imoen | Lae'zel | Reya | Vin Ursa |  |
+| Dynaheir | Jaheira | Lae'zel | Reya | Vin Ursa |
+| Ezmerelda | Kalix | Minsc | Turiel | Wyll |
+| Imoen | Krux | Nerys | Uriah | Zorbu |
 
 Volo will also be getting a spec that can give him the Hunter role.
 
