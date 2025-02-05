@@ -27,7 +27,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Arcane Blast** (Guess)
-> Beadle teleports into the center of the battlefield and blasts all enemies with arcane magic, dealing ultimate damage and stunning them for 5 seconds.  
+> Beadle teleports and blasts all enemies with arcane magic, dealing ultimate damage and stunning them.  
 > Cooldown: 300s (Cap 75s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -35,8 +35,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "id": 840,
     "name": "Arcane Strike",
-    "description": "Beadle teleports into the center of the battlefield and blasts all enemies with arcane magic, dealing ultimate damage and stunning them for 5 seconds.",
-    "long_description": "",
+    "description": "Beadle attacks all enemies, dealing ultimate damage and stunning them.",
+    "long_description": "Beadle teleports and blasts all enemies with arcane magic, dealing ultimate damage and stunning them.",
     "graphic_id": 8181,
     "target": "all",
     "num_targets": 0,
@@ -102,6 +102,68 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> If Grimm is in the formation, all of Beadle's equipment item levels are increased by Grimm's base average item level.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2247,
+    "flavour_text": "",
+    "description": {
+        "desc": "If Grimm is in the formation, all of Beadle's equipment item levels are increased by Grimm's base average item level."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": false,
+            "effect_string": "item_levels_add,0",
+            "targets": [
+                "self"
+            ],
+            "use_computed_amount_for_description": true
+        },
+        {
+            "off_when_benched": false,
+            "effect_string": "buff_upgrade_add_flat_amount,1,16721",
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "AverageILevels()",
+            "per_hero_targets": [
+                {
+                    "type": "heroes",
+                    "hero_ids": [
+                        161
+                    ]
+                }
+            ],
+            "amount_updated_listeners": [
+                "loot_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": [
+        {
+            "requirement": "hero_in_formation",
+            "target_hero_id": 161
+        }
+    ],
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "show_outgoing_description": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **In The Shadows** (Guess)
 > Beadle increases the damage of Champions within 2 slots of himself by 100%, and enemies that hit targets affected by this have a 20% chance to miss.
 <details><summary><em>Raw Data</em></summary>
@@ -111,7 +173,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2241,
     "flavour_text": "",
     "description": {
-        "desc": "Beadle increases the damage of Champions within 2 slots of himself by $amount%, and enemies that hit targets affected by this have a 20% chance to miss."
+        "conditions": [
+            {
+                "condition": "feat_assigned 2125",
+                "desc": "Beadle increases the damage of Champions within 3 slots of himself by $amount%, and enemies that hit targets affected by this have a $amount___2% chance to miss."
+            },
+            {
+                "desc": "Beadle increases the damage of Champions within 2 slots of himself by $amount%, and enemies that hit targets affected by this have a $amount___2% chance to miss."
+            }
+        ]
     },
     "effect_keys": [
         {
@@ -158,19 +228,23 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2242,
     "flavour_text": "",
     "description": {
-        "desc": "Whenever Beadle attacks an enemy he causes it to immediately drop 20% of the gold it would award on death. The enemy then stops and checks its pockets, stunning it for 2 seconds. This can only occur to each enemy 5 times."
+        "desc": "Whenever Beadle attacks an enemy he causes it to immediately drop $amount% of the gold it would award on death. The enemy then stops and checks its pockets, stunning it for 2 seconds. This can only occur to each enemy 5 times."
     },
     "effect_keys": [
         {
+            "off_when_benched": true,
             "effect_string": "beadle_sticky_fingers,20",
-            "graphic": 0,
-            "stun_time": 2
+            "graphic": 25993,
+            "stun_time": 2,
+            "limit_per_enemy": 5
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 8184,
+    "large_graphic_id": 8189,
     "properties": {
+        "show_outgoing_description": false,
+        "show_incoming": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -210,12 +284,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 8185,
+    "large_graphic_id": 8190,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -226,7 +303,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Epic Equipment** (Guess)
 > The effect of In The Shadows is increased by 20% for each piece of Epic or better equipment on Champions in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -235,7 +312,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2248,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of In The Shadows is increased by 20% for each piece of Epic or better equipment on Champions in the formation, stacking multiplicatively."
+        "desc": "The effect of In The Shadows is increased by $amount% for each piece of Epic or better equipment on Champions in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -265,7 +342,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Premium Gear** (Guess)
 > The effect of In The Shadows is increased by 0.075% for every item level on your formation's Champions' equipment, stacking multiplicatively. Each individual Champion can contribute at most 1,800 stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -274,15 +351,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2249,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of In The Shadows is increased by 0.075% for every item level on your formation's Champions' equipment, stacking multiplicatively. Each individual Champion can contribute at most 1,800 stacks."
+        "desc": "The effect of In The Shadows is increased by $amount% for every item level on your formation's Champions' equipment, stacking multiplicatively. Each individual Champion can contribute at most 1,800 stacks."
     },
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,0.075,16722",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "max_stacks": 1800,
-            "per_hero_expr": "NumILevels()",
+            "per_hero_expr": "NumILevelsMax(1800)",
             "amount_updated_listeners": [
                 "loot_changed",
                 "slot_changed"
@@ -304,7 +380,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Shiniest Loot** (Guess)
 > The effect of In The Shadows is increased by 30% for each piece of Shiny or Golden equipment on Champions in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -313,7 +389,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2250,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of In The Shadows is increased by 30% for each piece of Shiny or Golden equipment on Champions in the formation, stacking multiplicatively."
+        "desc": "The effect of In The Shadows is increased by $amount% for each piece of Shiny or Golden equipment on Champions in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -332,6 +408,54 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Tag Team** (Guess)
+> When Beadle uses his ultimate ability in the same party as Grimm, Grimm's ultimate ability goes on cooldown and he gains one Tag Team stack. For each Tag Team stack Grimm has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals 200% more damage, stacking multiplicatively. Tag Team stacks cap at 10 and reset when Grimm uses his ultimate ability.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2254,
+    "flavour_text": "",
+    "description": {
+        "desc": "When Beadle uses his ultimate ability in the same party as Grimm, Grimm's ultimate ability goes on cooldown and he gains one Tag Team stack. For each Tag Team stack Grimm has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals $amount% more damage, stacking multiplicatively. Tag Team stacks cap at 10 and reset when Grimm uses his ultimate ability."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": false,
+            "effect_string": "ultimate_tag_team,200",
+            "source_hero_id": 161,
+            "target_hero_id": 108,
+            "stack_max": 10,
+            "cooldown_decrease": 5,
+            "buff_effect_key_index": 1,
+            "stat": "grimm_tag_team_stacks"
+        },
+        {
+            "effect_string": "do_nothing,200",
+            "stacks_on_trigger": "will_stack_manually",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "apply_manually": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "show_outgoing_description": true,
+        "show_incoming": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
