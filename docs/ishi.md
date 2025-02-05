@@ -314,7 +314,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Friend to Shorties** (Guess)
-> Ishi's damage is increased by 100% for each Aasimar, Dwarf, Elf, Gnome, Halfling, and Half-Elf Champion in the formation, stacking multiplicatively.
+> Ishi's damage is increased by 125% for each Aasimar, Dwarf, Elf, Gnome, Halfling, and Half-Elf Champion in the formation, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -329,7 +329,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "pre_stack,100"
+            "effect_string": "pre_stack,125"
         },
         {
             "off_when_benched": true,
@@ -361,7 +361,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Friend to Tall Monsters** (Guess)
-> Ishi's damage is increased by 100% for each Dragonborn, Goliath, Orc, Tiefling, and Half-Orc Champion in the formation, stacking multiplicatively.
+> Ishi's damage is increased by 150% for each Dragonborn, Goliath, Orc, Tiefling, and Half-Orc Champion in the formation, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -376,7 +376,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "pre_stack,100"
+            "effect_string": "pre_stack,150"
         },
         {
             "off_when_benched": true,
