@@ -23,31 +23,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="kalix.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Kalix Portrait Icon](images/kalix/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Kalix
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Thri-kreen Ranger</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Grand Revel - 5 February 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="volo.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -192,31 +167,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Grand Revel - 5 February 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="kalix.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Kalix Portrait Icon](images/kalix/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Kalix
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Thri-kreen Ranger</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 {::nomarkdown}
 <a href="ishi.html">
 {:/nomarkdown}
