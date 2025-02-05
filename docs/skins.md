@@ -204,7 +204,7 @@ Please be aware that the developers recently removed most future skins from the 
             Tuxedo Kalix
         </span>
         <span class="skinTableSource">
-            Weekend (Guess)
+            [Weekend](weekends.md) (Guess)
         </span>
         <span class="skinTableCost">
             ???
