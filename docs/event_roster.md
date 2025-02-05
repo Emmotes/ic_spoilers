@@ -6,26 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Grand Revel - February
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="birdsong" style="background-image:url(images/portraits/birdsong.png)">Birdsong (9)</span>
-<span class="eventRosterChampion" id="kthriss" style="background-image:url(images/portraits/kthriss.png)">K'thriss (1)</span>
-<span class="eventRosterChampion" id="paultin" style="background-image:url(images/portraits/paultin.png)">Paultin (4)</span>
-<span class="eventRosterChampion" id="havilar" style="background-image:url(images/portraits/havilar.png)">Havilar (10)</span>
-<span class="eventRosterChampion" id="hewmaan" style="background-image:url(images/portraits/hewmaan.png)">Hew Maan (8)</span>
-<span class="eventRosterChampion" id="vi" style="background-image:url(images/portraits/vi.png)">Vi (12)</span>
-<span class="eventRosterChampion" id="fen" style="background-image:url(images/portraits/fen.png)">Fen (6)</span>
-<span class="eventRosterChampion" id="uriah" style="background-image:url(images/portraits/uriah.png)">Uriah (9)</span>
-<span class="eventRosterChampion" id="karlach" style="background-image:url(images/portraits/karlach.png)">Karlach (4)</span>
-<span class="eventRosterChampion" id="presto" style="background-image:url(images/portraits/presto.png)">Presto (2)</span>
-<span class="eventRosterChampion" id="kalix" style="background-image:url(images/portraits/kalix.png)">Kalix (5)</span>
-</span>
-
-{:/nomarkdown}
-
 # Fleetswake - March
 
 {::nomarkdown}
@@ -235,6 +215,26 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="imoen" style="background-image:url(images/portraits/imoen.png)">Imoen (11)</span>
 <span class="eventRosterChampion" id="wyll" style="background-image:url(images/portraits/wyll.png)">Wyll (12)</span>
 <span class="eventRosterChampion" id="eric" style="background-image:url(images/portraits/eric.png)">Eric (4)</span>
+</span>
+
+{:/nomarkdown}
+
+# Grand Revel - February
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="birdsong" style="background-image:url(images/portraits/birdsong.png)">Birdsong (9)</span>
+<span class="eventRosterChampion" id="kthriss" style="background-image:url(images/portraits/kthriss.png)">K'thriss (1)</span>
+<span class="eventRosterChampion" id="paultin" style="background-image:url(images/portraits/paultin.png)">Paultin (4)</span>
+<span class="eventRosterChampion" id="havilar" style="background-image:url(images/portraits/havilar.png)">Havilar (10)</span>
+<span class="eventRosterChampion" id="hewmaan" style="background-image:url(images/portraits/hewmaan.png)">Hew Maan (8)</span>
+<span class="eventRosterChampion" id="vi" style="background-image:url(images/portraits/vi.png)">Vi (12)</span>
+<span class="eventRosterChampion" id="fen" style="background-image:url(images/portraits/fen.png)">Fen (6)</span>
+<span class="eventRosterChampion" id="uriah" style="background-image:url(images/portraits/uriah.png)">Uriah (9)</span>
+<span class="eventRosterChampion" id="karlach" style="background-image:url(images/portraits/karlach.png)">Karlach (4)</span>
+<span class="eventRosterChampion" id="presto" style="background-image:url(images/portraits/presto.png)">Presto (2)</span>
+<span class="eventRosterChampion" id="kalix" style="background-image:url(images/portraits/kalix.png)">Kalix (5)</span>
 </span>
 
 {:/nomarkdown}
