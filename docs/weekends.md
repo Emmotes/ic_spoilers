@@ -326,12 +326,12 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Makos
+                        Golden Epic for Astarion
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/astarion.png'">
+                        <span class="weekendTableChampionNameplate">Astarion</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
                         <span class="weekendTableChampionNameplate">Arkhan</span>
@@ -342,8 +342,8 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/shandie.png'">
                         <span class="weekendTableChampionNameplate">Shandie</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/astarion.png'">
-                        <span class="weekendTableChampionNameplate">Astarion</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
+                        <span class="weekendTableChampionNameplate">Makos</span>
                     </span>
                 </span>
             </span>
