@@ -126,11 +126,11 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
         {
             "type": "melee_attack",
             "animation": "simple_teleport",
-            "damage_frame": 19,
-            "teleport_to_frame": 19,
-            "teleport_from_frame": 22,
+            "damage_frame": 34,
+            "teleport_to_frame": 34,
+            "teleport_from_frame": 37,
             "hit_frames": [
-                19
+                34
             ]
         }
     ],
@@ -250,7 +250,7 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
         {
             "effect_string": "global_buff_base_crit_chance_add,2",
             "max_stacks": 10,
-            "stacks_on_trigger": "owner_attack",
+            "stacks_on_trigger": "owner_base_attack",
             "more_triggers": [
                 {
                     "trigger": "area_changed",
@@ -266,7 +266,7 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
         {
             "effect_string": "global_buff_base_crit_damage,10",
             "max_stacks": 10,
-            "stacks_on_trigger": "owner_attack",
+            "stacks_on_trigger": "owner_base_attack",
             "more_triggers": [
                 {
                     "trigger": "area_changed",
@@ -389,7 +389,8 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
         "owner_use_outgoing_description": true,
         "default_bonus_index": 0,
         "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -449,7 +450,8 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -467,7 +469,7 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
     "id": 2223,
     "flavour_text": "",
     "description": {
-        "desc": "Sheila's base and ultimate attacks frighten her targets. Frightened enemies take $amount% more damage from critical hits, stacking multiplicatively up to 8 times per enemy."
+        "desc": "Sheila's base and ultimate attacks frighten her targets. Frightened enemies take $(not_buffed amount)% more damage from critical hits, stacking multiplicatively up to 8 times per enemy."
     },
     "effect_keys": [
         {
@@ -501,7 +503,8 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
