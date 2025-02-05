@@ -62,23 +62,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Tuxedo Kalix Portrait](images/skin_portraits/tuxedokalix.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**<img src="images/skin_models/tuxedokalix.gif" alt="Tuxedo Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Tuxedo Kalix
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            10 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dashing Ishi Portrait](images/skin_portraits/dashingishi.png)<span class="featTooltipContents">ID: 518**Dashing Ishi (Ishi)**<img src="images/skin_models/dashingishi.gif" alt="Dashing Ishi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -211,6 +194,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             05 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Tuxedo Kalix Portrait](images/skin_portraits/tuxedokalix.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**<img src="images/skin_models/tuxedokalix.gif" alt="Tuxedo Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Tuxedo Kalix
+        </span>
+        <span class="skinTableSource">
+            Weekend (Guess)
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            07 Mar 2025
         </span>
     </span>
     <span class="skinTableRow">
@@ -431,7 +431,7 @@ Please be aware that the developers recently removed most future skins from the 
             ???
         </span>
         <span class="skinTableDate">
-            04 Dec 2032
+            10 Apr 2025
         </span>
     </span>
 </span>

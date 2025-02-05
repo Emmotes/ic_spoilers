@@ -45,6 +45,23 @@ Feats that are listed as Free will be available immediately the moment they rele
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Kalix</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Psionic Talent Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2065**Psionic Talent (Kalix)**I see into your mind. I sense your weakness. I know your strength.<code>buff_upgrade,80,16516,0</code></span>Psionic Talent
+        </span>
+        <span class="featTableEffect">
+            <span>80% Thri-kreen Telepathy</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum</span>
+        </span>
+        <span class="featTableDate">
+            <span>05 Feb 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Minthara</span>
         </span>
         <span class="featTableIcon4">
@@ -143,6 +160,108 @@ Feats that are listed as Free will be available immediately the moment they rele
         </span>
         <span class="featTableDate">
             <span>26 Feb 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gale</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dark Academia Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2090**Dark Academia (Gale)**If Mystra will not hear my pleas, I shall seek succor elsewhere.<code>buff_upgrade,80,14573</code></span>Dark Academia
+        </span>
+        <span class="featTableEffect">
+            <span>80% An Experienced Sage</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum</span>
+        </span>
+        <span class="featTableDate">
+            <span>05 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Orkira</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2091**Immolation (Orkira)**Friends are like marshmallows, flammable and sweet.<code>immolation,1,5</code></span>Immolation
+        </span>
+        <span class="featTableEffect">
+            <span>1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nrakk</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Enlightened Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2093**Enlightened (Nrakk)**Mind, heart, body, and soul in perfect balance, as all things should be.<code>buff_upgrades,80,13005,13006</code></span>Enlightened
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum</span>
+        </span>
+        <span class="featTableDate">
+            <span>19 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Sisaspia</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Evolved Contagion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2092**Evolved Contagion (Sisaspia)**Thisss isn't even itsss final form.<code>buff_upgrade,80,13251</code></span>Evolved Contagion
+        </span>
+        <span class="featTableEffect">
+            <span>80% Symbiotic Infection</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum</span>
+        </span>
+        <span class="featTableDate">
+            <span>19 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Blooshi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Nine Lives Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2107**Nine Lives (Blooshi)**It's actually way more, I think. I just stopped counting.<code>buff_upgrade,80,7520</code></span>Nine Lives
+        </span>
+        <span class="featTableEffect">
+            <span>80% A Life Well Lived</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum</span>
+        </span>
+        <span class="featTableDate">
+            <span>26 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Makos</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2108**Immolation (Makos)**I call upon the Flames of Phlegethos!<code>immolation,1,5</code></span>Immolation
+        </span>
+        <span class="featTableEffect">
+            <span>1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum</span>
+        </span>
+        <span class="featTableDate">
+            <span>26 Mar 2025</span>
         </span>
     </span>
 </span>

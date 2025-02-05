@@ -75,10 +75,10 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 250**Magical Animated Quill**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 250**Volo's Trusty Quill**If there is anything in the world worth knowing, I assure you, I do. ~ Volo</span></span>
         </span>
         <span class="skinTableName">
-            Magical Animated Quill
+            Volo's Trusty Quill
         </span>
         <span class="skinTableSource">
             Privateer Volo Theme Pack
@@ -92,7 +92,24 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 252**Jade the Snake**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 251**Feathers the Animated Parrot**Uni No! SQUAWK Uni No!</span></span>
+        </span>
+        <span class="skinTableName">
+            Feathers the Animated Parrot
+        </span>
+        <span class="skinTableSource">
+            Swashbuckler Sheila Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            12 Mar 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 252**Jade the Snake**I snuck back to Sigil in one of Windfall's sackssss.</span></span>
         </span>
         <span class="skinTableName">
             Jade the Snake

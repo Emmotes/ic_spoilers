@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Kalix Champion Unlock Portrait](images/premiums/unlock_champion_158.png)<span class="itemTooltipContents">ID: 158**Kalix**<img src="images/premiums/unlock_champion_158.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Kalix Champion Unlock Portrait](images/premiums/unlock_champion_158.png)<span class="itemTooltipContents">ID: 158**Kalix (Seat 5)**<img src="images/premiums/unlock_champion_158.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2065**Feat**???: 2065</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Psionic Talent Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2065**Psionic Talent**I see into your mind. I sense your weakness. I know your strength.<code>buff_upgrade,80,16516,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2065</span>
+            <span style="margin-left:15px">Psionic Talent</span>
+            <span style="margin-left:15px">Kalix (80% Thri-kreen Telepathy)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -750,11 +751,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 250**Magical Animated Quill**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 250**Volo's Trusty Quill**If there is anything in the world worth knowing, I assure you, I do. ~ Volo</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Magical Animated Quill</span>
+            <span style="margin-left:15px">Volo's Trusty Quill</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -810,7 +811,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 527**Bane's Chosen Gale (Gale)**<img src="images/premiums/skin_527.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Bane's Chosen Gale Skin Portrait](images/premiums/skin_527.png)<span class="itemTooltipContents">ID: 527**Bane's Chosen Gale (Gale)**<img src="images/premiums/skin_527.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -819,12 +820,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2090**TBD Gale Feat**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Dark Academia Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2090**Dark Academia**If Mystra will not hear my pleas, I shall seek succor elsewhere.<code>buff_upgrade,80,14573</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Gale Feat</span>
-            <span style="margin-left:15px">Gale ()</span>
+            <span style="margin-left:15px">Dark Academia</span>
+            <span style="margin-left:15px">Gale (80% An Experienced Sage)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -890,21 +891,20 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 251**TBD Sheila Familiar**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 251**Feathers the Animated Parrot**Uni No! SQUAWK Uni No!</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">TBD Sheila Familiar</span>
+            <span style="margin-left:15px">Feathers the Animated Parrot</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2113**Feat**???: 2113</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor (10% All Champion Damage)</span>
+            <span style="margin-left:15px">???: 2113</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -960,12 +960,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2091**TBD Orkira Feat**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Immolation Feat Portrait](images/featicons/immolation.png)<span class="itemTooltipContents">ID: 2091**Immolation**Friends are like marshmallows, flammable and sweet.<code>immolation,1,5</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Orkira Feat</span>
-            <span style="margin-left:15px">Orkira ()</span>
+            <span style="margin-left:15px">Immolation</span>
+            <span style="margin-left:15px">Orkira (1s BUD per sec for 5s)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1031,12 +1031,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2092**TBD Sisaspia Feat**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Evolved Contagion Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2092**Evolved Contagion**Thisss isn't even itsss final form.<code>buff_upgrade,80,13251</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Sisaspia Feat</span>
-            <span style="margin-left:15px">Sisaspia ()</span>
+            <span style="margin-left:15px">Evolved Contagion</span>
+            <span style="margin-left:15px">Sisaspia (80% Symbiotic Infection)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1102,12 +1102,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2093**TBD Nrakk Feat**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Enlightened Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2093**Enlightened**Mind, heart, body, and soul in perfect balance, as all things should be.<code>buff_upgrades,80,13005,13006</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Nrakk Feat</span>
-            <span style="margin-left:15px">Nrakk ()</span>
+            <span style="margin-left:15px">Enlightened</span>
+            <span style="margin-left:15px">Nrakk (80% All Specialisations)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1164,12 +1164,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2107**TBD Blooshi Feat**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Nine Lives Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2107**Nine Lives**It's actually way more, I think. I just stopped counting.<code>buff_upgrade,80,7520</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Blooshi Feat</span>
-            <span style="margin-left:15px">Blooshi ()</span>
+            <span style="margin-left:15px">Nine Lives</span>
+            <span style="margin-left:15px">Blooshi (80% A Life Well Lived)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1217,7 +1217,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 252**Jade the Snake**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 252**Jade the Snake**I snuck back to Sigil in one of Windfall's sackssss.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1278,12 +1278,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2108**TBD Makos Feat**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Immolation Feat Portrait](images/featicons/immolation.png)<span class="itemTooltipContents">ID: 2108**Immolation**I call upon the Flames of Phlegethos!<code>immolation,1,5</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Makos Feat</span>
-            <span style="margin-left:15px">Makos ()</span>
+            <span style="margin-left:15px">Immolation</span>
+            <span style="margin-left:15px">Makos (1s BUD per sec for 5s)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
