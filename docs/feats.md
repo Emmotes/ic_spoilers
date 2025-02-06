@@ -37,10 +37,10 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span>20% All Specialisations</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum</span>
+            <span>1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>12 Feb 2025</span>
+            <span>12 Feb 2025<br>12 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -54,10 +54,10 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span>120% Self DPS</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum</span>
+            <span>1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>19 Feb 2025</span>
+            <span>19 Feb 2025<br>19 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -71,10 +71,10 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum</span>
+            <span>1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>19 Feb 2025</span>
+            <span>19 Feb 2025<br>19 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -88,10 +88,10 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span>40% Homebrew</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum</span>
+            <span>1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>26 Feb 2025</span>
+            <span>26 Feb 2025<br>26 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -105,10 +105,10 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span>80% Strength of the Luma</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum</span>
+            <span>1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>26 Feb 2025</span>
+            <span>26 Feb 2025<br>26 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -122,10 +122,10 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span>80% An Experienced Sage</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum</span>
+            <span>1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>05 Mar 2025</span>
+            <span>05 Mar 2025<br>05 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -139,10 +139,10 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span>1s BUD per sec for 5s</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum</span>
+            <span>1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>12 Mar 2025</span>
+            <span>12 Mar 2025<br>12 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -156,10 +156,10 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span>80% All Specialisations</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum</span>
+            <span>1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>19 Mar 2025</span>
+            <span>19 Mar 2025<br>19 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -173,10 +173,10 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span>80% Symbiotic Infection</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum</span>
+            <span>1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>19 Mar 2025</span>
+            <span>19 Mar 2025<br>19 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -190,10 +190,10 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span>80% A Life Well Lived</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum</span>
+            <span>1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>26 Mar 2025</span>
+            <span>26 Mar 2025<br>26 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -207,10 +207,10 @@ Feats that are listed as Free will be available immediately the moment they rele
             <span>1s BUD per sec for 5s</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum</span>
+            <span>1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>26 Mar 2025</span>
+            <span>26 Mar 2025<br>26 Jun 2025</span>
         </span>
     </span>
 </span>
