@@ -301,7 +301,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Tag Team** (Guess)
+**Ultimate Tag Team** (Guess)
 > When Beadle uses his ultimate ability in the same party as Grimm, Grimm's ultimate ability goes on cooldown and he gains one Tag Team stack. For each Tag Team stack Grimm has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals 200% more damage, stacking multiplicatively. Tag Team stacks cap at 10 and reset when Grimm uses his ultimate ability.
 <details><summary><em>Raw Data</em></summary>
 <p>

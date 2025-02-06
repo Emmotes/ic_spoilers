@@ -112,54 +112,6 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Tag Team** (Guess)
-> When Grimm uses his ultimate ability in the same party as Beadle, Beadle's ultimate ability goes on cooldown and he gains one Tag Team stack. For each Tag Team stack Beadle has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals 200% more damage, stacking multiplicatively. Tag Team stacks cap at 10 and reset when Beadle uses his ultimate ability.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 2245,
-    "flavour_text": "",
-    "description": {
-        "desc": "When Grimm uses his ultimate ability in the same party as Beadle, Beadle's ultimate ability goes on cooldown and he gains one Tag Team stack. For each Tag Team stack Beadle has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals $amount% more damage, stacking multiplicatively. Tag Team stacks cap at 10 and reset when Beadle uses his ultimate ability."
-    },
-    "effect_keys": [
-        {
-            "off_when_benched": false,
-            "effect_string": "ultimate_tag_team,200",
-            "source_hero_id": 108,
-            "target_hero_id": 161,
-            "stack_max": 10,
-            "cooldown_decrease": 5,
-            "buff_effect_key_index": 1,
-            "stat": "beadle_tag_team_stacks"
-        },
-        {
-            "effect_string": "do_nothing,200",
-            "stacks_on_trigger": "will_stack_manually",
-            "stacks_multiply": true,
-            "show_bonus": true,
-            "apply_manually": true
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "show_outgoing_description": true,
-        "show_incoming": false,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
 > If Beadle is in the formation, all of Grimm's equipment item levels are increased by Beadle's base average item level.
 <details><summary><em>Raw Data</em></summary>
@@ -310,6 +262,54 @@ Unknown.
         "uses": [
             "icon"
         ]
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Tag Team** (Guess)
+> When Grimm uses his ultimate ability in the same party as Beadle, Beadle's ultimate ability goes on cooldown and he gains one Tag Team stack. For each Tag Team stack Beadle has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals 200% more damage, stacking multiplicatively. Tag Team stacks cap at 10 and reset when Beadle uses his ultimate ability.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2245,
+    "flavour_text": "",
+    "description": {
+        "desc": "When Grimm uses his ultimate ability in the same party as Beadle, Beadle's ultimate ability goes on cooldown and he gains one Tag Team stack. For each Tag Team stack Beadle has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals $amount% more damage, stacking multiplicatively. Tag Team stacks cap at 10 and reset when Beadle uses his ultimate ability."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": false,
+            "effect_string": "ultimate_tag_team,200",
+            "source_hero_id": 108,
+            "target_hero_id": 161,
+            "stack_max": 10,
+            "cooldown_decrease": 5,
+            "buff_effect_key_index": 1,
+            "stat": "beadle_tag_team_stacks"
+        },
+        {
+            "effect_string": "do_nothing,200",
+            "stacks_on_trigger": "will_stack_manually",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "apply_manually": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "show_outgoing_description": true,
+        "show_incoming": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
