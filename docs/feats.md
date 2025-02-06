@@ -6,6 +6,8 @@ Feats that are upcoming.
 
 Feats that are listed as Free will be available immediately the moment they release. Feats with a cost of 50,000 Gems will usually also be available via real money through DLC packs or weekend chest sales. Gold chest feats of course can only come from regular Gold Chests.
 
+Feats that have already released in a premium pack and are in their exclusivity period will be shown on the [Exclusivity Dates](exclusivitydates.html) page.
+
 <span style="font-size:1.2em;">ⓘ</span> *Note: I filter out all feats that are obviously tests or unfinished - such as having a prohibitively high gem cost or excessive too-far-future release date.*
 
 <span class="featTableColumn">
