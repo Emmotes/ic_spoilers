@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/721.png">
-            <span class="weekendTooltipContents">ID: 721**Gold Heirloom Chest**Loot for: Kalix, Asharra, Makos, Gromma and Lae'zel<code>"for_crusaders":[158,6,9,16,128]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Ancestral**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    07 February 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Kalix
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kalix.png'">
-                        <span class="weekendTableChampionNameplate">Kalix</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/gromma.png'">
-                        <span class="weekendTableChampionNameplate">Gromma</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/laezel.png'">
-                        <span class="weekendTableChampionNameplate">Lae'zel</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/722.png">
             <span class="weekendTooltipContents">ID: 722**Gold Guiding Star Chest**Loot for: Ishi, Arkhan, Tyril, Thellora and Hew Maan<code>"for_crusaders":[31,12,10,139,75]</code></span>
         </span>
