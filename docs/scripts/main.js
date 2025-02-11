@@ -23,6 +23,7 @@ const patronSort = document.getElementById("patronSort");
 var devInsightsIndex = 0;
 var devInsightsTimer = devInsights[devInsightsIndex];
 var allExclusivesHidden = true;
+var allExclusiveFeatsHidden = false;
 
 rrm.map.set("Exclusivity Dates","Dates and Crap");
 rrm.map.set("Premium Packs and DLC", "Shop Cash Packs");
@@ -120,11 +121,9 @@ function updateModes(edit) {
 				if (path != "/ic_spoilers/" && path != "/" && !path.includes("index.html"))
 					continue
 			}
-			if (edit) {
-				for (const [key, value] of curr.map) {
+			if (edit)
+				for (const [key, value] of curr.map)
 					document.body.innerHTML = document.body.innerHTML.replaceAll(`${key}`,`${value}`);
-				}
-			}
 		}
 	}
 	let element = document.getElementById("modes");
@@ -134,18 +133,16 @@ function updateModes(edit) {
 function modesDetails(type) {
 	for (let i=0; i<allModes.length; i++) {
 		let curr = allModes[i];
-		if (curr.nick != type) {
+		if (curr.nick != type)
 			continue;
-		}
 		let element = document.getElementById(`${curr.nick}Content`);
 		let link = document.getElementById(`${curr.nick}Link`);
 		if (link.innerHTML == "[show]") {
 			let content = `<span class="modesContentRowHeader"><span class="modesCol1">Find</span><span class="modesCol2">Replace</span></span>`;
 			for (const [key,value] of curr.map) {
 				content += `<span class="modesContentRow"><span class="modesCol1">${key}</span><span class="modesCol2">${value}`
-				if (key == "D’hani" || key == "K’thriss" || key == "Lae’zel" || key == "Elminster") {
+				if (key == "D’hani" || key == "K’thriss" || key == "Lae’zel" || key == "Elminster")
 					content += ` (random ’ placement)`;
-				}
 				content += `</span></span>`;
 			}
 			element.innerHTML = content;
@@ -162,9 +159,8 @@ function modesDetails(type) {
 function toggleMode(type) {
 	for (let i=0; i<allModes.length; i++) {
 		let curr = allModes[i];
-		if (curr.nick != type) {
+		if (curr.nick != type)
 			continue;
-		}
 		let checked = document.getElementById(`${curr.nick}`).checked;
 		if (checked) {
 			localStorage[curr.storage] = 1;
@@ -204,17 +200,23 @@ function exclusiveToggleContent(id) {
 function exclusiveToggleAllContents() {
 	let eles = document.getElementsByClassName(`postSeasonTableRowShowHide`);
 	allExclusivesHidden = !allExclusivesHidden;
-	for (let ele of eles) {
+	for (let ele of eles)
 		ele.hidden = allExclusivesHidden;
-	}
 	let show=allExclusivesHidden?`show`:`hide`;
 	let hide=allExclusivesHidden?`hide`:`show`;
 	document.getElementById(`showHideAll`).innerHTML=`[${show} all contents]`;
 	eles = document.getElementsByClassName(`postSeasonTableShowContents`);
-	for (let ele of eles) {
+	for (let ele of eles)
 		if (ele.innerHTML==`[${hide} contents]`)
 			ele.innerHTML=`[${show} contents]`;
-	}
+}
+
+function exclusiveToggleAllFeats() {
+	let eles = document.getElementsByClassName(`featTableRow`);
+	allExclusiveFeatsHidden = !allExclusiveFeatsHidden;
+	for (let ele of eles)
+		ele.style.display = allExclusiveFeatsHidden?`none`:``;
+	document.getElementById(`showHideFeats`).innerHTML=`[${allExclusiveFeatsHidden?`show`:`hide`} all feats]`;
 }
 
 function displayTime(timeLeft) {
