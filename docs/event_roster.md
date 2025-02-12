@@ -239,15 +239,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 {:/nomarkdown}
 
-# Unknown
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-</span>
-
-{:/nomarkdown}
-
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
