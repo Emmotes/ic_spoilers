@@ -2,13 +2,15 @@
 
 # Apothecary / Notary System
 
-The presumed date for this system is either on 12 March 2025 with the release of Sheila. Though it could come out before then.
+The presumed date for this system on 12 March 2025 with the release of Sheila - though it could come out before then.
 
-Very little is known about this system at preset. We have a few references in the definitions - but most of what we "know" is from Dev Insights.
+Very little is known about this system at present. We have a few references in the definitions - but most of what we "know" is from Dev Insights.
 
 ## Currency
 
-We know from Sheila that will have its own unique currency because Sheila will scavenge it from bosses. We don't yet know how it will be attained otherwise though.
+We know from Sheila that will have its own unique currency called Potion Reagents because Sheila will scavenge them from bosses. We don't yet know how they'll be attained otherwise though.
+
+There could also be another currency because there's a text define called `legendary_vessels` (just like there's one for `potion_reagents`).
 
 ## Legendary Grade Potions
 
@@ -17,7 +19,7 @@ There'll be legendary potions from this system (not to be confused with legendar
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Giant's Strength  
 
-> Unknown effect.
+> 1500% All Champion Damage & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -26,12 +28,16 @@ There'll be legendary potions from this system (not to be confused with legendar
     "id": 2164,
     "name": "Legendary Potion of Giant's Strength",
     "description": "A transparent potion in which floats the sliver of a giant's fingernail.",
-    "effect": "",
-    "rarity": 0,
+    "effect": "effect_def,2264",
+    "rarity": 5,
     "duration": 0,
-    "graphic_id": 0,
+    "graphic_id": 1,
     "odds": 0,
-    "properties": "",
+    "properties": {
+        "inventory_graphic_id": 1,
+        "name_plural": "Legendary Potions of Giant's Strength",
+        "override_base_effect_key": "global_dps_multiplier_mult"
+    },
     "tags": ""
 }
 </pre>
@@ -41,7 +47,7 @@ There'll be legendary potions from this system (not to be confused with legendar
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Clairvoyance  
 
-> Unknown effect.
+> 500% Gold & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -50,12 +56,16 @@ There'll be legendary potions from this system (not to be confused with legendar
     "id": 2165,
     "name": "Legendary Potion of Clairvoyance",
     "description": "An eyeball bobs in this yellowish potion.",
-    "effect": "",
-    "rarity": 0,
+    "effect": "effect_def,2265",
+    "rarity": 5,
     "duration": 0,
-    "graphic_id": 0,
+    "graphic_id": 1,
     "odds": 0,
-    "properties": "",
+    "properties": {
+        "inventory_graphic_id": 1,
+        "name_plural": "Legendary Potions of Clairvoyance",
+        "override_base_effect_key": "gold_multiplier_mult"
+    },
     "tags": ""
 }
 </pre>
@@ -65,7 +75,7 @@ There'll be legendary potions from this system (not to be confused with legendar
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Heroism  
 
-> Unknown effect.
+> 400% Health & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -74,12 +84,16 @@ There'll be legendary potions from this system (not to be confused with legendar
     "id": 2166,
     "name": "Legendary Potion of Heroism",
     "description": "The blue liquid in this potion bubbles and steams as if boiling.",
-    "effect": "",
-    "rarity": 0,
+    "effect": "effect_def,2266",
+    "rarity": 5,
     "duration": 0,
-    "graphic_id": 0,
+    "graphic_id": 1,
     "odds": 0,
-    "properties": "",
+    "properties": {
+        "inventory_graphic_id": 1,
+        "name_plural": "Legendary Potions of Heroism",
+        "override_base_effect_key": "health_mult"
+    },
     "tags": ""
 }
 </pre>
@@ -89,7 +103,7 @@ There'll be legendary potions from this system (not to be confused with legendar
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Fire Breath Potion  
 
-> Unknown effect.
+> Click Damage Deals 900s of BUD & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -98,12 +112,16 @@ There'll be legendary potions from this system (not to be confused with legendar
     "id": 2167,
     "name": "Legendary Fire Breath Potion",
     "description": "The orange liquid in this vial flickers and smoke fills the top of the container.",
-    "effect": "",
-    "rarity": 0,
+    "effect": "effect_def,2267",
+    "rarity": 5,
     "duration": 0,
-    "graphic_id": 0,
+    "graphic_id": 1,
     "odds": 0,
-    "properties": "",
+    "properties": {
+        "inventory_graphic_id": 1,
+        "name_plural": "Legendary Fire Breath Potions",
+        "override_base_effect_key": "click_damage_seconds_global_dps"
+    },
     "tags": ""
 }
 </pre>
@@ -113,7 +131,7 @@ There'll be legendary potions from this system (not to be confused with legendar
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Speed  
 
-> Unknown effect.
+> Multiplies Game Speed by 3.25 & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -122,12 +140,16 @@ There'll be legendary potions from this system (not to be confused with legendar
     "id": 2168,
     "name": "Legendary Potion of Speed",
     "description": "This potion's yellow fluid is streaked with black and swirls on its own.",
-    "effect": "",
-    "rarity": 0,
+    "effect": "effect_def,2268",
+    "rarity": 5,
     "duration": 0,
-    "graphic_id": 0,
+    "graphic_id": 1,
     "odds": 0,
-    "properties": "",
+    "properties": {
+        "inventory_graphic_id": 1,
+        "name_plural": "Legendary Potions of Speed",
+        "override_base_effect_key": "time_scale"
+    },
     "tags": ""
 }
 </pre>
