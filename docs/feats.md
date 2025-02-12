@@ -30,13 +30,30 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Ishi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2089**Multiversal Allies (Ishi)**Ishi has friends in MANY places. Want to meet them?<code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span>20% All Champion Damage per Unique Species in Formation (Additive)</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Feb 2025<br>12 May 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Presto</span>
         </span>
         <span class="featTableIcon4">
-            ![Presto's Aplomb Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2078**Presto's Aplomb (Presto)**Growing up sure is scary, but I'll be brave.<code>buff_upgrades,20,13765,13766,13767</code></span>Presto's Aplomb
+            ![Presto's Aplomb Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2078**Presto's Aplomb (Presto)**Growing up sure is scary, but I'll be brave.<code>buff_upgrades,80,13765,13766,13767</code></span>Presto's Aplomb
         </span>
         <span class="featTableEffect">
-            <span>20% All Specialisations</span>
+            <span>80% All Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>1,680 Platinum<br>50,000 Gems</span>
@@ -213,6 +230,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span>26 Mar 2025<br>26 Jun 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Grimm</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Gloves Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2154**Gloves Off (Grimm)**Let's settle this, one on one. No potions, blades only, neutral ground. ~Grimm<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Gloves Off
+        </span>
+        <span class="featTableEffect">
+            <span>100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Apr 2025<br>02 Jul 2025</span>
         </span>
     </span>
 </span>
@@ -624,6 +658,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>100% All Champion Damage & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ishi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Enemy Enumeration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1577**Enemy Enumeration (Ishi)**Five stabs, six stabs, seven stabs, MORE!<code>buff_upgrade,80,16530</code></span>Enemy Enumeration
+        </span>
+        <span class="featTableEffect">
+            <span>80% Faster, Harder, Stronger</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

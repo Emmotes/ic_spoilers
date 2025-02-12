@@ -109,6 +109,159 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 254**Tackle the White Wolf**</span></span>
+        </span>
+        <span class="skinTableName">
+            Tackle the White Wolf
+        </span>
+        <span class="skinTableSource">
+            Frost Giant Grimm Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            02 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 255**Beacon the Giant Fire Beetle**</span></span>
+        </span>
+        <span class="skinTableName">
+            Beacon the Giant Fire Beetle
+        </span>
+        <span class="skinTableSource">
+            Beacon the Giant Fire Beetle Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            09 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 256**Wazzik the Madcap**</span></span>
+        </span>
+        <span class="skinTableName">
+            Wazzik the Madcap
+        </span>
+        <span class="skinTableSource">
+            Wazzik the Madcap Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            2,380p
+        </span>
+        <span class="skinTableDate">
+            23 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 257**Pepper the Baby Black Dragon**</span></span>
+        </span>
+        <span class="skinTableName">
+            Pepper the Baby Black Dragon
+        </span>
+        <span class="skinTableSource">
+            Pepper the Baby Black Dragon Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            30 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 258**Mango the Hippocamp**</span></span>
+        </span>
+        <span class="skinTableName">
+            Mango the Hippocamp
+        </span>
+        <span class="skinTableSource">
+            Tempest Noble Vlithryn Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            07 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 259**Chase the Spaniel**</span></span>
+        </span>
+        <span class="skinTableName">
+            Chase the Spaniel
+        </span>
+        <span class="skinTableSource">
+            Nomad Yorven Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            14 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Spark the Living Lightning Bolt Portrait](images/familiars/sparkthelivinglightningbolt.png)<span class="featTooltipContents">ID: 260**Spark the Living Lightning Bolt**<img src="images/familiars/sparkthelivinglightningbolt.gif" alt="Spark the Living Lightning Bolt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Spark the Living Lightning Bolt
+        </span>
+        <span class="skinTableSource">
+            Spark the Living Lightning Bolt Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            2,380p
+        </span>
+        <span class="skinTableDate">
+            14 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 261**Clawfoot the Dinosaur**</span></span>
+        </span>
+        <span class="skinTableName">
+            Clawfoot the Dinosaur
+        </span>
+        <span class="skinTableSource">
+            Clawfoot the Dinosaur Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            21 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 262**Virtue the Valenar Foal**</span></span>
+        </span>
+        <span class="skinTableName">
+            Virtue the Valenar Foal
+        </span>
+        <span class="skinTableSource">
+            Virtue the Valenar Foal Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            840p
+        </span>
+        <span class="skinTableDate">
+            28 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Clove the Badger Portrait](images/familiars/clovethebadger.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<img src="images/familiars/clovethebadger.gif" alt="Clove the Badger Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

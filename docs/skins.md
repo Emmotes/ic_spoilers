@@ -266,6 +266,40 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 540**Frost Giant Beadle (Y4E15)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Frost Giant Beadle
+        </span>
+        <span class="skinTableSource">
+            Frost Giant Beadle Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            02 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 541**Frost Giant Grimm (Grimm)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Frost Giant Grimm
+        </span>
+        <span class="skinTableSource">
+            Frost Giant Grimm Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            02 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Psychomancer Beadle Portrait](images/skin_portraits/psychomancerbeadle.png)<span class="featTooltipContents">ID: 534**Psychomancer Beadle (Y4E15)**<img src="images/skin_models/psychomancerbeadle.gif" alt="Psychomancer Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -368,6 +402,40 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 542**Helldusk The Dark Urge (Dark Urge)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Helldusk The Dark Urge
+        </span>
+        <span class="skinTableSource">
+            Helldusk The Dark Urge Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            09 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 543**Storm Giant Catti-brie (Catti-brie)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Storm Giant Catti-brie
+        </span>
+        <span class="skinTableSource">
+            Storm Giant Catti-brie Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            09 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Red Dragon Rider Lae'zel Portrait](images/skin_portraits/reddragonriderlaezel.png)<span class="featTooltipContents">ID: 503**Red Dragon Rider Lae'zel (Lae'zel)**<img src="images/skin_models/reddragonriderlaezel.gif" alt="Red Dragon Rider Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -381,6 +449,193 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             10 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 545**Eternal Flame Strix (Strix)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Eternal Flame Strix
+        </span>
+        <span class="skinTableSource">
+            Eternal Flame Strix Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            16 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 544**Thunder Lord Briv (Briv)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Thunder Lord Briv
+        </span>
+        <span class="skinTableSource">
+            Thunder Lord Briv Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            16 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 546**Champion of Avernus Reya (Reya)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Champion of Avernus Reya
+        </span>
+        <span class="skinTableSource">
+            Champion of Avernus Reya Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            23 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 548**Mind Flayer Halsin (Halsin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Mind Flayer Halsin
+        </span>
+        <span class="skinTableSource">
+            Mind Flayer Halsin Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            30 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 547**Mind Flayer Minthara (Minthara)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Mind Flayer Minthara
+        </span>
+        <span class="skinTableSource">
+            Mind Flayer Minthara Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            30 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 550**Tairnadal Jaheira (Jaheira)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Tairnadal Jaheira
+        </span>
+        <span class="skinTableSource">
+            Tairnadal Jaheira Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            07 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 549**Tempest Noble Vlithryn (Vlithryn)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Tempest Noble Vlithryn
+        </span>
+        <span class="skinTableSource">
+            Tempest Noble Vlithryn Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            07 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 552**Nomad Yorven (Yorven)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Nomad Yorven
+        </span>
+        <span class="skinTableSource">
+            Nomad Yorven Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            14 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 553**Valaes Tairn Melf (Melf)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Valaes Tairn Melf
+        </span>
+        <span class="skinTableSource">
+            Valaes Tairn Melf Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            14 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 555**Warforged Evelyn (Evelyn)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Warforged Evelyn
+        </span>
+        <span class="skinTableSource">
+            Warforged Evelyn Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            21 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 556**Prodigal Son Wyll (Wyll)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Prodigal Son Wyll
+        </span>
+        <span class="skinTableSource">
+            Prodigal Son Wyll Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            28 May 2025
         </span>
     </span>
 </span>
