@@ -84,10 +84,35 @@ These are the event champions that are upcoming and all the information we know 
                 Grimm
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Barbarian (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Barbarian</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Festival of Fools - 2 April 2025</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="vlithryn.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Vlithryn
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Triton Cleric of Awful Ones (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">The Great Modron March - 7 May 2025</span>
             </span>
         </span>
     </span>
@@ -127,6 +152,25 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Yorven Springpaw Portrait Icon](images/yorven/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Yorven Springpaw
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Harengon Barbarian / Druid</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">The Great Modron March - 14 May 2025 (Worst the Wait Augment (Guess)) (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
 </span>
 
 {::nomarkdown}
@@ -212,11 +256,14 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Grimm
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Barbarian (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Barbarian</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             Renework 💫
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
@@ -248,6 +295,55 @@ These are the upcoming new and reworked champions and where they'll be found.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+</span>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
+## The Great Modron March - 7 May 2025
+<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
+{::nomarkdown}
+<a href="vlithryn.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Vlithryn
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Triton Cleric of Awful Ones (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Yorven Springpaw Portrait Icon](images/yorven/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Yorven Springpaw
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Harengon Barbarian / Druid</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rework ♻️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
 </span>
 </div></div>
 
