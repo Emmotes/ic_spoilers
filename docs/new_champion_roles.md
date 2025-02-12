@@ -28,9 +28,12 @@ It has been given to the following champions:
 
 ## Breaker
 
-This is a role that will be given to champions that can make dealing with armoured or hits-based enemies easier or quicker. Either by breaking more segments per hit or by lowering the damage threshold for armoured enemies to take damage or even fast-repeating damage ultimates. That kind of thing.
+This is a role that has been given to champions that can make dealing with armoured or hits-based enemies easier or quicker.
 
-This is the least known about upcoming role. There's not even any data in the definitions for it yet. The only hints have been from Justin on the Dev Insights stream.
+It has been given to the following champions:
+
+|---|---|---|---|---|
+| Grimm |  |  |  |  |
 
 ## Positional (Guess)
 
