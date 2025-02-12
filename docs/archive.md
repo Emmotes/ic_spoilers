@@ -9,6 +9,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Emergence 9](archive/emergence_9.md)
 * [Eric](archive/eric.md)
 * [Halsin](archive/halsin.md)
+* [Ishi](archive/ishi.md)
 * [Kalix](archive/kalix.md)
 * [Kas](archive/kas.md)
 * [Mehen](archive/mehen.md)

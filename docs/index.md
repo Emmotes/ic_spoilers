@@ -102,31 +102,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="ishi.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Ishi Snaggletooth Portrait Icon](images/ishi/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Ishi Snaggletooth
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Kobold Fighter / Rogue</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Grand Revel - 12 February 2025 (Worst the Wait Augment)</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="beadle.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -164,39 +139,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 These are the upcoming new and reworked champions and where they'll be found.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Grand Revel - 5 February 2025
-<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="ishi.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Ishi Snaggletooth Portrait Icon](images/ishi/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Ishi Snaggletooth
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Kobold Fighter / Rogue</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-</div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Fleetswake - 5 March 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
