@@ -270,7 +270,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "beadle_share_the_glory,400,1,16722",
+            "effect_string": "beadle_share_the_glory,400,161,16722",
             "buff_effect_key_index": 1,
             "effect_scale_title": "Duplicated",
             "effect_scale_description": "Duplicated by"
@@ -321,7 +321,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_max": 10,
             "cooldown_decrease": 5,
             "buff_effect_key_index": 1,
-            "stat": "grimm_tag_team_stacks"
+            "stat": "grimm_tag_team_stacks",
+            "achievement_stat_name": "grimm_tag_team_max"
         },
         {
             "effect_string": "do_nothing,200",
