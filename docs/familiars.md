@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Meepo the Kobold Portrait](images/familiars/meepothekobold.png)<span class="featTooltipContents">ID: 247**Meepo the Kobold**Has anyone seen Calcryx?<img src="images/familiars/meepothekobold.gif" alt="Meepo the Kobold Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Meepo the Kobold
-        </span>
-        <span class="skinTableSource">
-            Meepo the Kobold Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            12 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Nub-ub the Mouse Portrait](images/familiars/nububthemouse.png)<span class="featTooltipContents">ID: 246**Nub-ub the Mouse**This simple mouse, often mistaken for the God Ubtao, is probably just a simple mouse.<img src="images/familiars/nububthemouse.gif" alt="Nub-ub the Mouse Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Nub-ub the Mouse
-        </span>
-        <span class="skinTableSource">
-            Dashing Ishi Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            12 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Krynn the Crystal Dragon Portrait](images/familiars/krynnthecrystaldragon.png)<span class="featTooltipContents">ID: 248**Krynn the Crystal Dragon**She only gets angry when you mention Takhisis.<img src="images/familiars/krynnthecrystaldragon.gif" alt="Krynn the Crystal Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dashing Ishi Portrait](images/skin_portraits/dashingishi.png)<span class="featTooltipContents">ID: 518**Dashing Ishi (Ishi)**<img src="images/skin_models/dashingishi.gif" alt="Dashing Ishi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dashing Ishi
-        </span>
-        <span class="skinTableSource">
-            Dashing Ishi Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            12 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Prom Night Presto Portrait](images/skin_portraits/promnightpresto.png)<span class="featTooltipContents">ID: 519**Prom Night Presto (Presto)**<img src="images/skin_models/promnightpresto.gif" alt="Prom Night Presto Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Prom Night Presto
-        </span>
-        <span class="skinTableSource">
-            Prom Night Presto Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            12 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Ballroom Vi Portrait](images/skin_portraits/ballroomvi.png)<span class="featTooltipContents">ID: 520**Ballroom Vi (Vi)**<img src="images/skin_models/ballroomvi.gif" alt="Ballroom Vi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
