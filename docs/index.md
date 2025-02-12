@@ -357,7 +357,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Alchemy/Notary System](apothecary_notary.md) - 12 March 2025 (Guess)
+* [Apothecary/Notary System](apothecary_notary.md) - 12 March 2025 (Guess)
 * Emergence 11 - 23 April 2025
 * [New Champion Roles](new_champion_roles.md) - ???
 
