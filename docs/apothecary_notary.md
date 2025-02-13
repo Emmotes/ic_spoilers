@@ -2,15 +2,15 @@
 
 # Apothecary / Notary System
 
-The presumed date for this system on 12 March 2025 with the release of Sheila - though it could come out before then.
+The presumed date for this system is on 12 March 2025 with the release of Sheila - though it could come out before then.
 
 Very little is known about this system at present. We have a few references in the definitions - but most of what we "know" is from Dev Insights.
 
 ## Currency
 
-We know from Sheila that will have its own unique currency called Potion Reagents because Sheila will scavenge them from bosses. We don't yet know how they'll be attained otherwise though.
+We know from Sheila that this system will have its own unique currency called Potion Reagents because Sheila will scavenge them from bosses. We don't yet know how they'll be attained otherwise though.
 
-There could also be another currency because there's a text define called `legendary_vessels` (just like there's one for `potion_reagents`).
+There could also be another currency because there's a text define called `legendary_vessels` (just like there's one for `potion_reagents`). The suspicion is that they will be required to make the Legendary potions below.
 
 ## Legendary Grade Potions
 
