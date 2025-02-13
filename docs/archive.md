@@ -5,8 +5,8 @@
 A list of recently archived spoilers. Note that I delete archives older than 6 months to avoid bloat.
 
 * [Bobby](archive/bobby.md)
-* [Emergence 10](archive/emergence_10.md)
 * [Emergence 9](archive/emergence_9.md)
+* [Emergence 10](archive/emergence_10.md)
 * [Eric](archive/eric.md)
 * [Halsin](archive/halsin.md)
 * [Ishi](archive/ishi.md)
