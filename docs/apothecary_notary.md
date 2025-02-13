@@ -19,6 +19,8 @@ There'll be legendary potions from this system (not to be confused with legendar
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Giant's Strength  
 
+A transparent potion in which floats the sliver of a giant's fingernail.
+
 > 1500% All Champion Damage & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
 <details><summary><em>Raw Data</em></summary>
@@ -46,6 +48,8 @@ There'll be legendary potions from this system (not to be confused with legendar
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Clairvoyance  
+
+An eyeball bobs in this yellowish potion.
 
 > 500% Gold & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
@@ -75,6 +79,8 @@ There'll be legendary potions from this system (not to be confused with legendar
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Heroism  
 
+The blue liquid in this potion bubbles and steams as if boiling.
+
 > 400% Health & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
 <details><summary><em>Raw Data</em></summary>
@@ -103,6 +109,8 @@ There'll be legendary potions from this system (not to be confused with legendar
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Fire Breath Potion  
 
+The orange liquid in this vial flickers and smoke fills the top of the container.
+
 > Click Damage Deals 900s of BUD & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
 <details><summary><em>Raw Data</em></summary>
@@ -130,6 +138,8 @@ There'll be legendary potions from this system (not to be confused with legendar
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Speed  
+
+This potion's yellow fluid is streaked with black and swirls on its own.
 
 > Multiplies Game Speed by 3.25 & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
