@@ -328,7 +328,7 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Yorven Springpaw
+                Yorven Springpaw (Guess)
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Harengon Barbarian / Druid</span>
