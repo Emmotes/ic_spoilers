@@ -174,7 +174,7 @@ We've been told a few things over the past few months/years about potential feat
 - We will be able to combine/split potions and potentially also contracts to increase/decrease their rarity. If this is true we could finally consolidate all our green bounty contracts up to epic for ease of use. We've been told that this will not require the currency item.
 - We will be able to convert potion types to other types. For example - Firebreath to Speed. We've been told this will require the currency item.
 - We will be able to purchase the contents of chests directly with gems - skipping the buying of chests and then the opening of said chests. Apparently this will also automatically convert any bounty contracts we would have gotten directly into tokens. We don't know how well this will play with the auto-spend when an event ends.
-- This system will not interact with legendary potions (not to be confused with legendary potions above).
+- This system will not interact with legendary potions (not to be confused with legendary potions).
 
 [Back to Top](#top)
 
