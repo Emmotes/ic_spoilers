@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/722.png">
-            <span class="weekendTooltipContents">ID: 722**Gold Guiding Star Chest**Loot for: Ishi, Arkhan, Tyril, Thellora and Hew Maan<code>"for_crusaders":[31,12,10,139,75]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Guiding Star**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    14 February 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Ishi
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/ishi.png'">
-                        <span class="weekendTableChampionNameplate">Ishi</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/thellora.png'">
-                        <span class="weekendTableChampionNameplate">Thellora</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hewmaan.png'">
-                        <span class="weekendTableChampionNameplate">Hew Maan</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/723.png">
             <span class="weekendTooltipContents">ID: 723**Gold Durge Chest**Loot for: Gale, Celeste, Delina, Karlach and Dark Urge<code>"for_crusaders":[147,2,8,143,146]</code></span>
         </span>
