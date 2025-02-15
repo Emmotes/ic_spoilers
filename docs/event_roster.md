@@ -212,6 +212,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="baeloth" style="background-image:url(images/portraits/baeloth.png)">Baeloth (4)</span>
 <span class="eventRosterChampion" id="viconia" style="background-image:url(images/portraits/viconia.png)">Viconia (5)</span>
 <span class="eventRosterChampion" id="rust" style="background-image:url(images/portraits/rust.png)">Rust (11)</span>
+<span class="eventRosterChampion" id="gazrick" style="background-image:url(images/portraits/gazrick.png)">Gazrick (7)</span>
 <span class="eventRosterChampion" id="imoen" style="background-image:url(images/portraits/imoen.png)">Imoen (11)</span>
 <span class="eventRosterChampion" id="wyll" style="background-image:url(images/portraits/wyll.png)">Wyll (12)</span>
 <span class="eventRosterChampion" id="eric" style="background-image:url(images/portraits/eric.png)">Eric (4)</span>
