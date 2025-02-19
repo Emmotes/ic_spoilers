@@ -38,7 +38,7 @@ nnm.map.set("Xerophon", "Cheatophon");
 nnm.map.set("K’thriss", ins("Kthriss",randInt(0,7),"’"));
 nnm.map.set("Lae’zel", ins("Laezel",randInt(0,6),"’"));
 nnm.map.set("D’hani", ins("Dhani",randInt(0,5),"’"));
-nnm.map.set("Elminster", ins("ElMinster",randInt(0,9),"’"));
+nnm.map.set("Elminster", ins("El Minster",randInt(0,10),"’"));
 nnm.map.set("Gromma", "Grandma");
 nnm.map.set("Warduke", "Warduck");
 nnm.map.set("Briv", "Skippy");
@@ -100,6 +100,7 @@ nnm.map.set("Potion of Clairvoyance", "Gold Pot");
 nnm.map.set("Potion of Fire Breath", "Fire Breath Pot");
 nnm.map.set("Potion of Heroism", "Health Pot");
 nnm.map.set("Potion", "Pot");
+nnm.map.set("potion", "pot");
 
 acm.map.set("<li><a href=\"/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)")
 acm.map.set("<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)")
