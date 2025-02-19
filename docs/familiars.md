@@ -19,7 +19,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             2,380p
         </span>
         <span class="skinTableDate">
-            26 Feb 2025
+            19 Feb 2025
         </span>
     </span>
     <span class="skinTableRow">
