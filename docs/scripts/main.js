@@ -71,6 +71,16 @@ nnm.map.set("Ulder Ravengard", "Otter");
 nnm.map.set("Ravengard", "Otter");
 nnm.map.set("Ulder", "Otter");
 nnm.map.set("Umberto", "Sir Bearington");
+nnm.map.set("Makos", "MacOS");
+nnm.map.set("Stoki", "Stooki");
+nnm.map.set("Krond", "Hammerman");
+nnm.map.set("BBEG", "Bartholemew Beelzebub Ezekiel Grubbe");
+nnm.map.set("Yorven", "Murderbunny");
+nnm.map.set("Krydle", "Kroodle");
+nnm.map.set("Ellywick", "Elly");
+nnm.map.set("Karlach", "Mama K");
+nnm.map.set("Shadowheart", "Shart");
+nnm.map.set("Dark Urge", "Durge");
 nnm.map.set("Pigment", "Pig Mint");
 nnm.map.set("pigment", "pig mint");
 nnm.map.set("egendaries", "egos");
@@ -83,9 +93,11 @@ nnm.map.set("Potion of Polish", "PoP");
 nnm.map.set("Golden Epic", "GE");
 nnm.map.set("Potion of Speed", "Speed Pot");
 nnm.map.set("Potion of Giant's Strength", "Damage Pot");
+nnm.map.set("Potion of Giant’s Strength", "Damage Pot");
 nnm.map.set("Potion of Clairvoyance", "Gold Pot");
 nnm.map.set("Potion of Fire Breath", "Fire Breath Pot");
 nnm.map.set("Potion of Heroism", "Health Pot");
+nnm.map.set("Potion", "Pot");
 
 acm.map.set("<li><a href=\"/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)")
 acm.map.set("<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)")
