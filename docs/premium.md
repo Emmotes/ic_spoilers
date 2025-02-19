@@ -237,7 +237,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 523**Dragonlance BBEG (BBEG)**</span></span>
+            <span class="tooltipHolder">![Dragonlance BBEG Skin Portrait](images/premiums/skin_523.png)<span class="itemTooltipContents">ID: 523**Dragonlance BBEG (BBEG)**<img src="images/premiums/skin_523.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -548,7 +548,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 251**Feathers the Animated Parrot**Uni No! SQUAWK Uni No!</span></span>
+            <span class="tooltipHolder">![Feathers the Animated Parrot Familiar Portrait](images/premiums/familiar_251.png)<span class="itemTooltipContents">ID: 251**Feathers the Animated Parrot**Uni No! SQUAWK Uni No!<img src="images/premiums/familiar_251.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -608,7 +608,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**</span></span>
+            <span class="tooltipHolder">![Swashbuckler Orkira Skin Portrait](images/premiums/skin_529.png)<span class="itemTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**<img src="images/premiums/skin_529.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -679,7 +679,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 530**Pirate Queen Sisaspia (Sisaspia)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 530**Pirate Queen Sisaspia (Sisaspia)**<img src="images/premiums/skin_530.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -750,7 +750,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**<img src="images/premiums/skin_531.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -812,7 +812,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**</span></span>
+            <span class="tooltipHolder">![Kittenlord Blooshi Skin Portrait](images/premiums/skin_538.png)<span class="itemTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**<img src="images/premiums/skin_538.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -926,7 +926,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 539**Lich Makos (Makos)**</span></span>
+            <span class="tooltipHolder">![Lich Makos Skin Portrait](images/premiums/skin_539.png)<span class="itemTooltipContents">ID: 539**Lich Makos (Makos)**<img src="images/premiums/skin_539.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

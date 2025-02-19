@@ -45,7 +45,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 523**Dragonlance BBEG (BBEG)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance BBEG Portrait](images/skin_portraits/dragonlancebbeg.png)<span class="featTooltipContents">ID: 523**Dragonlance BBEG (BBEG)**<img src="images/skin_models/dragonlancebbeg.gif" alt="Dragonlance BBEG Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragonlance BBEG
@@ -130,7 +130,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Swashbuckler Orkira Portrait](images/skin_portraits/swashbucklerorkira.png)<span class="featTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**<img src="images/skin_models/swashbucklerorkira.gif" alt="Swashbuckler Orkira Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Swashbuckler Orkira
@@ -164,7 +164,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**<img src="images/skin_models/piratelordnrakk.gif" alt="Pirate Lord Nrakk Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Pirate Lord Nrakk
@@ -181,7 +181,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 530**Pirate Queen Sisaspia (Sisaspia)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 530**Pirate Queen Sisaspia (Sisaspia)**<img src="images/skin_models/piratequeensisaspia.gif" alt="Pirate Queen Sisaspia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Pirate Queen Sisaspia
@@ -198,7 +198,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Kittenlord Blooshi Portrait](images/skin_portraits/kittenlordblooshi.png)<span class="featTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**<img src="images/skin_models/kittenlordblooshi.gif" alt="Kittenlord Blooshi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Kittenlord Blooshi
@@ -215,7 +215,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 539**Lich Makos (Makos)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Lich Makos Portrait](images/skin_portraits/lichmakos.png)<span class="featTooltipContents">ID: 539**Lich Makos (Makos)**<img src="images/skin_models/lichmakos.gif" alt="Lich Makos Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Lich Makos

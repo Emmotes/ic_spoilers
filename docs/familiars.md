@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 251**Feathers the Animated Parrot**Uni No! SQUAWK Uni No!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Feathers the Animated Parrot Portrait](images/familiars/featherstheanimatedparrot.png)<span class="featTooltipContents">ID: 251**Feathers the Animated Parrot**Uni No! SQUAWK Uni No!<img src="images/familiars/featherstheanimatedparrot.gif" alt="Feathers the Animated Parrot Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Feathers the Animated Parrot
