@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Krynn the Crystal Dragon Portrait](images/familiars/krynnthecrystaldragon.png)<span class="featTooltipContents">ID: 248**Krynn the Crystal Dragon**She only gets angry when you mention Takhisis.<img src="images/familiars/krynnthecrystaldragon.gif" alt="Krynn the Crystal Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Krynn the Crystal Dragon
-        </span>
-        <span class="skinTableSource">
-            Krynn the Crystal Dragon Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            2,380p
-        </span>
-        <span class="skinTableDate">
-            19 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 250**Volo's Trusty Quill**If there is anything in the world worth knowing, I assure you, I do. ~ Volo</span></span>
         </span>
         <span class="skinTableName">

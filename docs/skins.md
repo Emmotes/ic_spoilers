@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ballroom Vi Portrait](images/skin_portraits/ballroomvi.png)<span class="featTooltipContents">ID: 520**Ballroom Vi (Vi)**<img src="images/skin_models/ballroomvi.gif" alt="Ballroom Vi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Ballroom Vi
-        </span>
-        <span class="skinTableSource">
-            Ballroom Vi Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            19 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Formal Birdsong Portrait](images/skin_portraits/formalbirdsong.png)<span class="featTooltipContents">ID: 521**Formal Birdsong (Birdsong)**<img src="images/skin_models/formalbirdsong.gif" alt="Formal Birdsong Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Formal Birdsong
-        </span>
-        <span class="skinTableSource">
-            Formal Birdsong Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            19 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dragonlance BBEG Portrait](images/skin_portraits/dragonlancebbeg.png)<span class="featTooltipContents">ID: 523**Dragonlance BBEG (BBEG)**<img src="images/skin_models/dragonlancebbeg.gif" alt="Dragonlance BBEG Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
