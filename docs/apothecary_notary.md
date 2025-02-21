@@ -10,7 +10,7 @@ Very little is known about this system at present. We have a few references in t
 
 We know from Sheila that this system will have its own unique currency called Potion Reagents because Sheila will scavenge them from bosses. We don't yet know how they'll be attained otherwise though.
 
-There could also be another currency because there's a text define called `legendary_vessels` (just like there's one for `potion_reagents`). The suspicion is that they will be required to make the Legendary potions below.
+There is also another currency because there's a text define called `legendary_vessels` (just like there's one for `potion_reagents`). The suspicion is that they will be required to make the Legendary potions below.
 
 ## Legendary Grade Potions
 
@@ -19,7 +19,8 @@ There'll be legendary potions from this system (not to be confused with legendar
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Giant's Strength  
 
-A transparent potion in which floats the sliver of a giant's fingernail.
+A transparent potion in which floats the sliver of a giant's fingernail.  
+Duration: 1 Day
 
 > 1500% All Champion Damage & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
@@ -32,15 +33,20 @@ A transparent potion in which floats the sliver of a giant's fingernail.
     "description": "A transparent potion in which floats the sliver of a giant's fingernail.",
     "effect": "effect_def,2264",
     "rarity": 5,
-    "duration": 0,
-    "graphic_id": 1,
+    "duration": 86400,
+    "graphic_id": 26151,
     "odds": 0,
     "properties": {
-        "inventory_graphic_id": 1,
+        "inventory_graphic_id": 26152,
         "name_plural": "Legendary Potions of Giant's Strength",
         "override_base_effect_key": "global_dps_multiplier_mult"
     },
-    "tags": ""
+    "tags": [
+        "duration",
+        "potion",
+        "_dps"
+    ],
+    "inventory_order": "45"
 }
 </pre>
 </p>
@@ -49,7 +55,8 @@ A transparent potion in which floats the sliver of a giant's fingernail.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Clairvoyance  
 
-An eyeball bobs in this yellowish potion.
+An eyeball bobs in this yellowish potion.  
+Duration: 1 Day
 
 > 500% Gold & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
@@ -62,15 +69,20 @@ An eyeball bobs in this yellowish potion.
     "description": "An eyeball bobs in this yellowish potion.",
     "effect": "effect_def,2265",
     "rarity": 5,
-    "duration": 0,
-    "graphic_id": 1,
+    "duration": 86400,
+    "graphic_id": 26147,
     "odds": 0,
     "properties": {
-        "inventory_graphic_id": 1,
+        "inventory_graphic_id": 26148,
         "name_plural": "Legendary Potions of Clairvoyance",
         "override_base_effect_key": "gold_multiplier_mult"
     },
-    "tags": ""
+    "tags": [
+        "duration",
+        "potion",
+        "_gold"
+    ],
+    "inventory_order": "85"
 }
 </pre>
 </p>
@@ -79,7 +91,8 @@ An eyeball bobs in this yellowish potion.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Heroism  
 
-The blue liquid in this potion bubbles and steams as if boiling.
+The blue liquid in this potion bubbles and steams as if boiling.  
+Duration: 1 Day
 
 > 400% Health & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
@@ -92,15 +105,20 @@ The blue liquid in this potion bubbles and steams as if boiling.
     "description": "The blue liquid in this potion bubbles and steams as if boiling.",
     "effect": "effect_def,2266",
     "rarity": 5,
-    "duration": 0,
-    "graphic_id": 1,
+    "duration": 86400,
+    "graphic_id": 26153,
     "odds": 0,
     "properties": {
-        "inventory_graphic_id": 1,
+        "inventory_graphic_id": 26154,
         "name_plural": "Legendary Potions of Heroism",
         "override_base_effect_key": "health_mult"
     },
-    "tags": ""
+    "tags": [
+        "duration",
+        "potion",
+        "_health"
+    ],
+    "inventory_order": "165"
 }
 </pre>
 </p>
@@ -109,7 +127,8 @@ The blue liquid in this potion bubbles and steams as if boiling.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Fire Breath Potion  
 
-The orange liquid in this vial flickers and smoke fills the top of the container.
+The orange liquid in this vial flickers and smoke fills the top of the container.  
+Duration: 1 Day
 
 > Click Damage Deals 900s of BUD & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
 
@@ -122,15 +141,20 @@ The orange liquid in this vial flickers and smoke fills the top of the container
     "description": "The orange liquid in this vial flickers and smoke fills the top of the container.",
     "effect": "effect_def,2267",
     "rarity": 5,
-    "duration": 0,
-    "graphic_id": 1,
+    "duration": 86400,
+    "graphic_id": 26149,
     "odds": 0,
     "properties": {
-        "inventory_graphic_id": 1,
+        "inventory_graphic_id": 26150,
         "name_plural": "Legendary Fire Breath Potions",
         "override_base_effect_key": "click_damage_seconds_global_dps"
     },
-    "tags": ""
+    "tags": [
+        "duration",
+        "potion",
+        "_click_damage"
+    ],
+    "inventory_order": "405"
 }
 </pre>
 </p>
@@ -139,9 +163,10 @@ The orange liquid in this vial flickers and smoke fills the top of the container
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Speed  
 
-This potion's yellow fluid is streaked with black and swirls on its own.
+This potion's yellow fluid is streaked with black and swirls on its own.  
+Duration: 1 Day
 
-> Multiplies Game Speed by 3.25 & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
+> Multiplies Game Speed by 3.25 & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed & +5% to Max Game Speed Cap Per Active Speed Potion
 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -152,20 +177,41 @@ This potion's yellow fluid is streaked with black and swirls on its own.
     "description": "This potion's yellow fluid is streaked with black and swirls on its own.",
     "effect": "effect_def,2268",
     "rarity": 5,
-    "duration": 0,
-    "graphic_id": 1,
+    "duration": 86400,
+    "graphic_id": 26155,
     "odds": 0,
     "properties": {
-        "inventory_graphic_id": 1,
+        "inventory_graphic_id": 26156,
         "name_plural": "Legendary Potions of Speed",
         "override_base_effect_key": "time_scale"
     },
-    "tags": ""
+    "tags": [
+        "duration",
+        "potion",
+        "_speed"
+    ],
+    "inventory_order": "775"
 }
 </pre>
 </p>
 </details>
 </div></div>
+
+## Icons
+
+Some art assets just got added:
+
+### Currencies
+
+| Reagents | Legendary Vessels | Gold Chest | Silver Chest
+|---|---|---|---|
+| ![Apothecary Reagents Icon](images/apothecary_notary/reagents.png) | ![Legendary Vessels Icon](images/apothecary_notary/legendary_vessel.png) | ![Gold Chest for Gems Icon](images/apothecary_notary/gemchest_gold.png) | ![Silver Chest for Gems Icon](images/apothecary_notary/gemchest_silver.png) |
+
+### Legendary Potions
+
+| Strength | Clairvoyance | Heroism | Fire Breath | Speed |
+|---|---|---|---|---|
+| ![Legendary Potion of Giant's Strength Icon](images/apothecary_notary/leg_pot_str.png) | ![Legendary Potion of Clairvoyance Icon](images/apothecary_notary/leg_pot_gold.png) | ![Legendary Potion of Heroism Icon](images/apothecary_notary/leg_pot_hp.png) | ![Legendary Fire Breath Potion Icon](images/apothecary_notary/leg_pot_fb.png) | ![Legendary Potion of Speed Icon](images/apothecary_notary/leg_pot_spd.png) |
 
 ## Info From Dev Insights
 
@@ -175,6 +221,7 @@ We've been told a few things over the past few months/years about potential feat
 - We will be able to convert potion types to other types. For example - Firebreath to Speed. We've been told this will require the currency item.
 - We will be able to purchase the contents of chests directly with gems - skipping the buying of chests and then the opening of said chests. Apparently this will also automatically convert any bounty contracts we would have gotten directly into tokens. We don't know how well this will play with the auto-spend when an event ends.
 - This system will not interact with legendary potions (not to be confused with legendary potions).
+- We will get apothecary reagents by dismantling normal potions. We will then be able to use them to craft other potions. Apparently we'll be able to dismantle 7 day duration potions but not create them.
 
 [Back to Top](#top)
 
