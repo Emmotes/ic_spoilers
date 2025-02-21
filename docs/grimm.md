@@ -93,7 +93,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfo">
-            <span style="margin-left:8px;">DPS / Tanking</span>
+            <span style="margin-left:8px;">DPS / Tanking / Breaker</span>
         </span>
         <span class="champStatsTableStatHeader">
             <span style="margin-right:4px;">**Constitution**:</span>
