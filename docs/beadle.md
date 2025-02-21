@@ -94,7 +94,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
-    "properties": []
+    "properties": {
+        "show_in_owner_outgoing": true,
+        "effect_name": "Inseparable",
+        "use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -120,7 +124,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "targets": [
                 "self"
             ],
-            "use_computed_amount_for_description": true
+            "use_computed_amount_for_description": true,
+            "current_value_bonus_desc": "Total Bonus: $(bonus) Item Levels"
         },
         {
             "off_when_benched": false,
@@ -152,7 +157,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "show_outgoing_description": false,
+        "show_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -191,6 +196,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "type": "distance",
                     "distance": 2
                 }
+            ],
+            "amount_updated_listeners": [
+                "loot_changed",
+                "slot_changed"
             ]
         },
         {
@@ -204,8 +213,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 8183,
-    "large_graphic_id": 8188,
+    "graphic_id": 25984,
+    "large_graphic_id": 25975,
     "properties": {
         "is_formation_ability": true,
         "indexed_effect_properties": true,
@@ -236,14 +245,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "beadle_sticky_fingers,20",
             "graphic": 25993,
             "stun_time": 2,
-            "limit_per_enemy": 5
+            "limit_per_enemy": 5,
+            "override_key_desc": "Whenever Beadle attacks an enemy he causes it to immediately drop $amount% of the gold it would award on death. The enemy then stops and checks its pockets, stunning it for 2 seconds. This can only occur to each enemy 5 times."
         }
     ],
     "requirements": "",
-    "graphic_id": 8184,
-    "large_graphic_id": 8189,
+    "graphic_id": 25986,
+    "large_graphic_id": 25977,
     "properties": {
-        "show_outgoing_description": false,
+        "is_formation_ability": true,
+        "show_outgoing_description": true,
         "show_incoming": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -283,9 +294,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "apply_manually": true
         }
     ],
-    "requirements": "",
-    "graphic_id": 8185,
-    "large_graphic_id": 8190,
+    "requirements": [
+        {
+            "requirement": "hero_in_formation",
+            "target_hero_id": 161
+        }
+    ],
+    "graphic_id": 25985,
+    "large_graphic_id": 25976,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -322,6 +338,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "cooldown_decrease": 5,
             "buff_effect_key_index": 1,
             "stat": "grimm_tag_team_stacks",
+            "override_key_desc": "For each Tag Team stack Grimm has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals $amount% more damage, stacking multiplicatively",
             "achievement_stat_name": "grimm_tag_team_max"
         },
         {
@@ -373,13 +390,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "loot_changed",
                 "slot_changed"
-            ]
+            ],
+            "stacks_multiply": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
+        "is_formation_ability": true,
+        "show_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -411,13 +432,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "loot_changed",
                 "slot_changed"
-            ]
+            ],
+            "stacks_multiply": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
+        "is_formation_ability": true,
+        "show_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -450,13 +475,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "loot_changed",
                 "slot_changed"
-            ]
+            ],
+            "stacks_multiply": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
+        "is_formation_ability": true,
+        "show_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
