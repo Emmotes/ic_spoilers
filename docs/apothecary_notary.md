@@ -22,7 +22,7 @@ There'll be legendary potions from this system (not to be confused with legendar
 A transparent potion in which floats the sliver of a giant's fingernail.  
 Duration: 1 Day
 
-> 1500% All Champion Damage & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
+> 1500% All Champion Damage & +15% to All Basic Potions
 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -58,7 +58,7 @@ Duration: 1 Day
 An eyeball bobs in this yellowish potion.  
 Duration: 1 Day
 
-> 500% Gold & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
+> 500% Gold & +15% to All Basic Potions
 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -94,7 +94,7 @@ Duration: 1 Day
 The blue liquid in this potion bubbles and steams as if boiling.  
 Duration: 1 Day
 
-> 400% Health & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
+> 400% Health & +15% to All Basic Potions
 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -130,7 +130,7 @@ Duration: 1 Day
 The orange liquid in this vial flickers and smoke fills the top of the container.  
 Duration: 1 Day
 
-> Click Damage Deals 900s of BUD & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed
+> Click Damage Deals 900s of BUD & +15% to All Basic Potions
 
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -166,7 +166,7 @@ Duration: 1 Day
 This potion's yellow fluid is streaked with black and swirls on its own.  
 Duration: 1 Day
 
-> Multiplies Game Speed by 3.25 & +15% to Small Potion of Giant's Strength, Medium Potion of Giant's Strength, Large Potion of Giant's Strength, Huge Potion of Giant's Strength, Small Potion of Clairvoyance, Medium Potion of Clairvoyance, Large Potion of Clairvoyance, Huge Potion of Clairvoyance, Small Potion of Heroism, Medium Potion of Heroism, Large Potion of Heroism, Huge Potion of Heroism, Small Potion of Fire Breath, Medium Potion of Fire Breath, Large Potion of Fire Breath, Huge Potion of Fire Breath, Small Potion of Speed, Medium Potion of Speed, Large Potion of Speed, Huge Potion of Speed, Legendary Potion of Giant's Strength, Legendary Potion of Clairvoyance, Legendary Potion of Heroism, Legendary Fire Breath Potion and Legendary Potion of Speed & +5% to Max Game Speed Cap Per Active Speed Potion
+> Multiplies Game Speed by 3.25 & +15% to All Basic Potions & +5% to Max Game Speed Cap Per Active Speed Potion
 
 <details><summary><em>Raw Data</em></summary>
 <p>
