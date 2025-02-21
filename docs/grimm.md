@@ -21,7 +21,7 @@
 
 # Grimm
 
-Grimm’s immense strength and steadfast loyalty make him the perfect partner for Beadle’s clever schemes. A giant in both stature and courage, Grimm is as at home smashing through foes as he is keeping the Giant’s Bane Tavern running smoothly.
+Grimm's immense strength and steadfast loyalty make him the perfect partner for Beadle's clever schemes. A giant in both stature and courage, Grimm is as at home smashing through foes as he is keeping the Giant's Bane Tavern running smoothly.
 
 # Basic Information
 
@@ -192,12 +192,9 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/grimm/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Grimm" fill="#aaa" data-formationName="Grimm" data-campaignName="Festival of Fools" width="287" height="160"><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="165" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Grimm</text><text x="165" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Festival of Fools</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -312,7 +309,11 @@ Unknown.
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
-    "properties": []
+    "properties": {
+        "show_in_owner_outgoing": true,
+        "effect_name": "Inseparable",
+        "use_outgoing_description": true
+    }
 }
 </pre>
 </p>
@@ -349,7 +350,8 @@ Unknown.
             "targets": [
                 "self"
             ],
-            "use_computed_amount_for_description": true
+            "use_computed_amount_for_description": true,
+            "current_value_bonus_desc": "Total Bonus: $(bonus) Item Levels"
         },
         {
             "off_when_benched": false,
@@ -381,7 +383,7 @@ Unknown.
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "show_outgoing_description": false,
+        "show_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -393,8 +395,10 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Get Buff** (Level: 10)
-> Each time Grimm attacks an enemy his base attack cooldown is reduced by 0.2sec and he deals 25% more damage, stacking up to 25 times. Damage bonus stacks multiplicatively, while the base attack cooldown stacks additively. Stacks reset upon changing areas, unless Moving Right Along is triggered.
+![Get Buff Icon](images/grimm/icon_getbuff.png) **Get Buff** (Level: 10)
+> Each time Grimm attacks an enemy his base attack cooldown is reduced by 0.2 seconds and he deals 25% more damage, stacking up to 25 times. Damage bonus stacks multiplicatively, while the base attack cooldown stacks additively. Stacks reset upon changing areas, unless Moving Right Along is triggered.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -414,7 +418,7 @@ Unknown.
     "id": 2257,
     "flavour_text": "",
     "description": {
-        "desc": "Each time Grimm attacks an enemy his base attack cooldown is reduced by 0.2sec and he deals $amount% more damage, stacking up to 25 times. Damage bonus stacks multiplicatively, while the base attack cooldown stacks additively. Stacks reset upon changing areas, unless Moving Right Along is triggered."
+        "desc": "Each time Grimm attacks an enemy his base attack cooldown is reduced by 0.2 seconds and he deals $amount% more damage, stacking up to 25 times. Damage bonus stacks multiplicatively, while the base attack cooldown stacks additively. Stacks reset upon changing areas, unless Moving Right Along is triggered."
     },
     "effect_keys": [
         {
@@ -433,7 +437,7 @@ Unknown.
             "stacks_on_trigger": "owner_attack",
             "more_triggers": [
                 {
-                    "trigger": "post_area_changed",
+                    "trigger": "area_changed",
                     "action": {
                         "type": "reset"
                     }
@@ -457,13 +461,14 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25990,
+    "large_graphic_id": 25981,
     "properties": {
         "is_formation_ability": true,
+        "show_incoming": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 1
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -472,8 +477,8 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**TestUlt** (Level: 15)
-> .
+![One-on-One Icon](images/grimm/icon_oneonone.png) **One-on-One** (Level: 15)
+> Grimm leaps into the fray, brutally slashing the enemy with the most health and knocking back all other enemies in a small area. Afterwards, if you're not in a boss area, a Frost Giant spawns in revenge.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -486,13 +491,13 @@ Unknown.
     "effect": "effect_def,2255",
     "static_dps_mult": null,
     "default_enabled": 1,
-    "name": "TestUlt"
+    "name": "One-on-One"
 }
 {
     "id": 2255,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Grimm leaps into the fray, brutally slashing the enemy with the most health and knocking back all other enemies in a small area. Afterwards, if you're not in a boss area, a Frost Giant spawns in revenge."
     },
     "effect_keys": [
         {
@@ -510,7 +515,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Break Their Will** (Level: 20)
+![Break Their Will Icon](images/grimm/icon_breaktheirwill.png) **Break Their Will** (Level: 20)
 > Each time Grimm attacks an enemy and breaks at least one armor or segmented health, he breaks 1 more on all subsequent attacks, stacking additively up to 5 times. Stacks reset upon changing areas, unless Moving Right Along is triggered.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -556,20 +561,17 @@ Unknown.
             "show_stacks": true
         },
         {
-            "effect_string": "armor_break_add,0",
-            "amount_expr": "upgrade_amount(16736,0)"
-        },
-        {
-            "effect_string": "health_seg_break_add,0",
+            "effect_string": "increase_damage_against_monster_armor_and_hits,0",
             "amount_expr": "upgrade_amount(16736,0)"
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25989,
+    "large_graphic_id": 25980,
     "properties": {
         "is_formation_ability": true,
         "indexed_effect_properties": true,
+        "show_incoming": false,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
     }
@@ -580,7 +582,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Moving Right Along** (Level: 30)
+![Moving Right Along Icon](images/grimm/icon_movingrightalong.png) **Moving Right Along** (Level: 30)
 > If the party completes a new area within 15 seconds of entering it, Grimm's Get Buff and Break Their Will stacks do not reset upon entering the next area.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -617,8 +619,24 @@ Unknown.
             "more_triggers": [
                 {
                     "trigger": "post_area_changed",
+                    "only_from_highest_areas": 2,
+                    "on_area_change_backward": false,
+                    "on_area_change_same": false,
                     "action": {
                         "type": "reset"
+                    }
+                },
+                {
+                    "trigger": "post_area_changed",
+                    "on_area_change_forward": false,
+                    "action": {
+                        "type": "add_stack"
+                    }
+                },
+                {
+                    "trigger": "post_area_changed",
+                    "action": {
+                        "type": "reset_timer"
                     }
                 }
             ]
@@ -632,6 +650,13 @@ Unknown.
                         "trigger": "monster_health_segment_broken",
                         "action": {
                             "type": "add_stack"
+                        }
+                    },
+                    {
+                        "trigger": "area_changed",
+                        "on_area_change_forward": false,
+                        "action": {
+                            "type": "reset"
                         }
                     }
                 ]
@@ -661,7 +686,15 @@ Unknown.
             "effect_string": "change_upgrade_data,16735,1",
             "apply_manually": true,
             "data": {
-                "more_triggers": []
+                "more_triggers": [
+                    {
+                        "trigger": "area_changed",
+                        "on_area_change_forward": false,
+                        "action": {
+                            "type": "reset"
+                        }
+                    }
+                ]
             }
         },
         {
@@ -680,8 +713,8 @@ Unknown.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25991,
+    "large_graphic_id": 25982,
     "properties": {
         "is_formation_ability": false
     }
@@ -692,7 +725,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Barbarian's Protection** (Level: 40)
+![Barbarian's Protection Icon](images/grimm/icon_barbariansprotection.png) **Barbarian's Protection** (Level: 40)
 > Grimm increases the health of all other Champions by 25% of his max health and any healing effect on those Champions is increased by 25%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -728,6 +761,52 @@ Unknown.
             "targets": [
                 "all"
             ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 25988,
+    "large_graphic_id": 25979,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**FA1 Boast(Grimm)** (Level: 60)
+> Increase effect of Get Buff by 100%.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 16894,
+    "hero_id": 161,
+    "required_level": 60,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ability",
+    "effect": "effect_def,2272",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "FA1 Boast(Grimm)"
+}
+{
+    "id": 2272,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase effect of Get Buff by $amount%"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,16735"
         }
     ],
     "requirements": "",
@@ -779,6 +858,7 @@ Unknown.
             "cooldown_decrease": 5,
             "buff_effect_key_index": 1,
             "stat": "grimm_tag_team_stacks",
+            "override_key_desc": "For each Tag Team stack Grimm has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals $amount% more damage, stacking multiplicatively",
             "achievement_stat_name": "grimm_tag_team_max"
         },
         {
@@ -809,7 +889,7 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Giant Hunter** (Level: 50)
+![Giant Hunter Icon](images/grimm/icon_gianthunter.png) **Giant Hunter** (Level: 50)
 > Grimm gains the Hunter role, and Giants become his Favored Foe. Grimm deals 10000% more damage against his Favored Foe, and all boss enemies also count as Giants for the purposes of all abilities that care about such things.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -825,8 +905,8 @@ Unknown.
     "default_enabled": 1,
     "name": "Giant Hunter",
     "specialization_name": "Giant Hunter",
-    "specialization_description": "Giant Hunter",
-    "specialization_graphic_id": 1
+    "specialization_description": "The bigger they are, the harder they fall.",
+    "specialization_graphic_id": 25997
 }
 {
     "id": 2261,
@@ -871,7 +951,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Giant Taunter** (Level: 50)
+![Giant Taunter Icon](images/grimm/icon_gianttaunter.png) **Giant Taunter** (Level: 50)
 > Grimm taunts all enemies he attacks, causing them to switch targets and attack him. For each enemy that has attacked him in the current area, his damage is increased by 25%, stacking multiplicatively up to 100 times.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -887,8 +967,8 @@ Unknown.
     "default_enabled": 1,
     "name": "Giant Taunter",
     "specialization_name": "Giant Taunter",
-    "specialization_description": "Giant Taunter",
-    "specialization_graphic_id": 1
+    "specialization_description": "The only problem with taunting giants is that they sometimes hear you.",
+    "specialization_graphic_id": 25999
 }
 {
     "id": 2262,
@@ -909,7 +989,7 @@ Unknown.
                 }
             ],
             "stacks_multiply": true,
-            "stack_max": 100,
+            "max_stacks": 100,
             "show_bonus": true
         },
         {
@@ -935,8 +1015,8 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Giant Profits** (Level: 50)
-> Grimm gains the Gold Find role. Enemies that Grimm defeats drop amount% additional gold for each enemy he has defeated in the current area, stacking multiplicatively and capping at 20.
+![Giant Profits Icon](images/grimm/icon_giantprofits.png) **Giant Profits** (Level: 50)
+> Grimm gains the Gold Find role. Enemies that Grimm defeats drop 100% additional gold for each enemy he has defeated in the current area, stacking multiplicatively and capping at 20.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -951,14 +1031,14 @@ Unknown.
     "default_enabled": 1,
     "name": "Giant Profits",
     "specialization_name": "Giant Profits",
-    "specialization_description": "Giant Profits",
-    "specialization_graphic_id": 1
+    "specialization_description": "The Giant’s Bane Tavern wasn’t built on good intentions — it was built on giant treasure.",
+    "specialization_graphic_id": 25998
 }
 {
     "id": 2263,
     "flavour_text": "",
     "description": {
-        "desc": "Grimm gains the Gold Find role. Enemies that Grimm defeats drop amount% additional gold for each enemy he has defeated in the current area, stacking multiplicatively and capping at 20."
+        "desc": "Grimm gains the Gold Find role. Enemies that Grimm defeats drop $amount% additional gold for each enemy he has defeated in the current area, stacking multiplicatively and capping at 20."
     },
     "effect_keys": [
         {
@@ -970,7 +1050,7 @@ Unknown.
         },
         {
             "effect_string": "buff_upgrade,100,16892",
-            "stacks_on_trigger": "monster_killed",
+            "stacks_on_trigger": "owner_kill",
             "stacks_multiply": true,
             "more_triggers": [
                 {
@@ -980,7 +1060,7 @@ Unknown.
                     }
                 }
             ],
-            "stack_max": 20,
+            "max_stacks": 20,
             "show_bonus": true
         },
         {
@@ -1045,7 +1125,7 @@ Unknown.
             Memory of Trask
         </span>
         <span class="itemTableEffect">
-            <span>Get Buff</span>
+            <span>Get Buff (Prestack)</span>
         </span>
     </span>
     <span class="itemTableRow">
@@ -1092,7 +1172,7 @@ Unknown.
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1 tooltipHolder">![Dueling Boots Icon](images/grimm/8079.png)<span class="itemTooltipContents">ID: 3838**Dueling Boots**Beadle uses them when he wants to perform a dueling scene. ~Grimm<code>reduce_ultimate_cooldown,2<br>allow_ge:false</code></span></span><span class="itemTableIcon2 tooltipHolder">![Trash Boots Icon](images/grimm/8079.png)<span class="itemTooltipContents">ID: 3839**Trash Boots**Grimm uses them when he needs to take out the trash. ~Beadle<code>reduce_ultimate_cooldown,3<br>allow_ge:false</code></span></span><span class="itemTableIcon3 tooltipHolder">![Mithral Toed Boots Icon](images/grimm/8080.png)<span class="itemTooltipContents">ID: 3840**Mithral Toed Boots**It's all fun and games till Grimm tosses his cleaver across the room. ~Beadle<code>reduce_ultimate_cooldown,6<br>allow_ge:false</code></span></span><span class="itemTableIcon4 tooltipHolder">![Boots of the Giant Slayer Icon](images/grimm/8081.png)<span class="itemTooltipContents">ID: 3841**Boots of the Giant Slayer**They make me look awesome, right?! Can I borrow them? ~Beadle<code>reduce_ultimate_cooldown,15<br>allow_ge:false</code></span></span>
+            <span class="itemTableIcon1 tooltipHolder">![Dueling Boots Icon](images/grimm/8079.png)<span class="itemTooltipContents">ID: 3838**Dueling Boots**Beadle uses them when he wants to perform a dueling scene. ~Grimm<code>reduce_ultimate_cooldown,8<br>allow_ge:false</code></span></span><span class="itemTableIcon2 tooltipHolder">![Trash Boots Icon](images/grimm/8079.png)<span class="itemTooltipContents">ID: 3839**Trash Boots**Grimm uses them when he needs to take out the trash. ~Beadle<code>reduce_ultimate_cooldown,15<br>allow_ge:false</code></span></span><span class="itemTableIcon3 tooltipHolder">![Mithral Toed Boots Icon](images/grimm/8080.png)<span class="itemTooltipContents">ID: 3840**Mithral Toed Boots**It's all fun and games till Grimm tosses his cleaver across the room. ~Beadle<code>reduce_ultimate_cooldown,30<br>allow_ge:false</code></span></span><span class="itemTableIcon4 tooltipHolder">![Boots of the Giant Slayer Icon](images/grimm/8081.png)<span class="itemTooltipContents">ID: 3841**Boots of the Giant Slayer**They make me look awesome, right?! Can I borrow them? ~Beadle<code>reduce_ultimate_cooldown,75<br>allow_ge:false</code></span></span>
         </span>
         <span class="itemTableSlot">
             <span>6</span>
@@ -1244,7 +1324,7 @@ This list will only show feats that are going to be available on the release of 
             ![Warm Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2148**Warm Up (Grimm)**Let me make a few practice swings before we get down to business. ~Grimm<code>buff_upgrade,20,16735</code></span>Warm Up
         </span>
         <span class="featTableEffect">
-            <span>20% Get Buff</span>
+            <span>20% Get Buff (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>Free</span>
@@ -1255,7 +1335,7 @@ This list will only show feats that are going to be available on the release of 
             ![Fired Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2149**Fired Up (Grimm)**Start counting, Beadle. I want to know how many swings they can take. ~Grimm<code>buff_upgrade,40,16735</code></span>Fired Up
         </span>
         <span class="featTableEffect">
-            <span>40% Get Buff</span>
+            <span>40% Get Buff (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>Gold Chest</span>
@@ -1320,7 +1400,161 @@ This list will only show feats that are going to be available on the release of 
 
 # Legendaries
 
-Unknown.
+* Increases the damage of all Champions by 100%.
+* Increases the damage of all Champions by 20% for each Male Champion in the formation.
+* Increases the damage of all Champions by 30% for each Human Champion in the formation.
+* Increases the damage of all Champions with a DEX score of 11 or higher by 100%.
+* Increases the damage of all Champions with a CHA score of 13 or higher by 150%.
+* Increases the damage of all Chaotic Champions by 150%.
+
+<details><summary><em>DPS Applicable</em></summary>
+<p>
+<pre>
+        Arkhan: 5 / 6
+       Artemis: 5 / 6
+       Asharra: 5 / 6
+         Azaka: 5 / 6
+Beadle & Grimm: 6 / 6
+        Binwin: 4 / 6
+      Birdsong: 5 / 6
+   Black Viper: 6 / 6
+         Bobby: 5 / 6
+    Catti-brie: 6 / 6
+        D'hani: 5 / 6
+     Dark Urge: 6 / 6
+        Delina: 6 / 6
+       Dhadius: 5 / 6
+        Drizzt: 4 / 6
+       Farideh: 5 / 6
+           Fen: 6 / 6
+         Grimm: 6 / 6
+        Gromma: 4 / 6
+          Ishi: 6 / 6
+       Jaheira: 5 / 6
+       Jamilah: 5 / 6
+      Jarlaxle: 5 / 6
+           Jim: 6 / 6
+       Karlach: 5 / 6
+           Kas: 5 / 6
+          Kent: 5 / 6
+         Krond: 5 / 6
+          Krux: 4 / 6
+        Lucius: 5 / 6
+         Makos: 4 / 6
+         Minsc: 5 / 6
+         NERDS: 5 / 6
+        Nahara: 6 / 6
+         Nixie: 6 / 6
+        Orisha: 5 / 6
+      Prudence: 6 / 6
+         Rosie: 6 / 6
+         Strix: 6 / 6
+       Torogar: 5 / 6
+        Warden: 6 / 6
+       Warduke: 5 / 6
+          Wren: 5 / 6
+        Yorven: 5 / 6
+         Zorbu: 6 / 6
+</pre>
+</p>
+</details>
+<details><summary><em>Non-DPS Applicable</em></summary>
+<p>
+<pre>
+          Aeon: 4 / 6
+          Aila: 5 / 6
+       Alyndra: 4 / 6
+       Antrius: 6 / 6
+      Astarion: 4 / 6
+         Avren: 6 / 6
+          BBEG: 4 / 6
+       Baeloth: 6 / 6
+      Barrowin: 4 / 6
+        Beadle: 4 / 6
+          Brig: 6 / 6
+          Briv: 6 / 6
+       Bruenor: 3 / 6
+      Calliope: 6 / 6
+     Certainty: 5 / 6
+       Corazón: 6 / 6
+        Deekin: 5 / 6
+       Desmond: 6 / 6
+         Diana: 4 / 6
+           Dob: 6 / 6
+    Dragonbait: 5 / 6
+Dungeon Master: 5 / 6
+      Dynaheir: 4 / 6
+        Egbert: 6 / 6
+      Ellywick: 6 / 6
+          Eric: 4 / 6
+       Evandra: 5 / 6
+        Evelyn: 5 / 6
+     Ezmerelda: 6 / 6
+        Freely: 5 / 6
+          Gale: 4 / 6
+       Gazrick: 4 / 6
+        Halsin: 5 / 6
+       Havilar: 5 / 6
+      Hew Maan: 5 / 6
+         Hitch: 6 / 6
+         Imoen: 5 / 6
+      Jang Sao: 4 / 6
+      K'thriss: 6 / 6
+         Kalix: 4 / 6
+         Krull: 4 / 6
+       Lazaapz: 4 / 6
+         Mehen: 4 / 6
+          Melf: 4 / 6
+      Minthara: 5 / 6
+         Miria: 4 / 6
+        Môrgæn: 5 / 6
+        Nayeli: 5 / 6
+         Nerys: 5 / 6
+        Nordom: 4 / 6
+          Nova: 6 / 6
+         Nrakk: 4 / 6
+          Omin: 3 / 6
+        Orkira: 6 / 6
+       Paultin: 6 / 6
+      Penelope: 6 / 6
+         Pwent: 5 / 6
+        Qillek: 5 / 6
+     Ravengard: 5 / 6
+          Reya: 5 / 6
+          Rust: 5 / 6
+        Selise: 5 / 6
+        Sentry: 4 / 6
+     Sgt. Knox: 5 / 6
+   Shadowheart: 4 / 6
+         Shaka: 5 / 6
+       Shandie: 6 / 6
+      Sisaspia: 5 / 6
+         Spurt: 4 / 6
+         Stoki: 4 / 6
+   Strongheart: 5 / 6
+       Tatyana: 5 / 6
+      Thellora: 5 / 6
+        Turiel: 5 / 6
+         Tyril: 5 / 6
+       Ulkoria: 5 / 6
+       Umberto: 4 / 6
+         Uriah: 4 / 6
+     Valentine: 5 / 6
+            Vi: 4 / 6
+       Viconia: 5 / 6
+      Vin Ursa: 4 / 6
+        Virgil: 5 / 6
+       Vlahnya: 5 / 6
+      Voronika: 6 / 6
+        Walnut: 4 / 6
+       Wulfgar: 6 / 6
+          Wyll: 5 / 6
+        Xander: 5 / 6
+      Xerophon: 5 / 6
+</pre>
+</p>
+</details>
+<br />
 
 # Adventures and Variants
 
@@ -1329,15 +1563,15 @@ Unknown.
 > Save the village from a foolish prank gone wrong.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: TBD** (Complete Area 75)
+**Variant 1: Grimm Consequences** (Complete Area 75)
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: TBD** (Complete Area 125)
+**Variant 2: Grimm's Strength Test** (Complete Area 125)
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: TBD** (Complete Area 175)
+**Variant 3: Grimm's Icebreaker** (Complete Area 175)
 > 
 </div></div>
 
