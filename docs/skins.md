@@ -96,7 +96,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Swashbuckler Orkira Portrait](images/skin_portraits/swashbucklerorkira.png)<span class="featTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**<img src="images/skin_models/swashbucklerorkira.gif" alt="Swashbuckler Orkira Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Swashbuckler Orkira Portrait](images/skin_portraits/swashbucklerorkira.png)<span class="featTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/swashbucklerorkira.gif" alt="Swashbuckler Orkira Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/swashbucklerorkira-ultimate_pheonix.gif" alt="Swashbuckler Orkira Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Swashbuckler Orkira
@@ -130,7 +130,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**<img src="images/skin_models/piratelordnrakk.gif" alt="Pirate Lord Nrakk Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Pirate Lord Nrakk Portrait](images/skin_portraits/piratelordnrakk.png)<span class="featTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/piratelordnrakk.gif" alt="Pirate Lord Nrakk Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/piratelordnrakk-nrakk_charged.gif" alt="Pirate Lord Nrakk Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Pirate Lord Nrakk
@@ -147,7 +147,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 530**Pirate Queen Sisaspia (Sisaspia)**<img src="images/skin_models/piratequeensisaspia.gif" alt="Pirate Queen Sisaspia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Pirate Queen Sisaspia Portrait](images/skin_portraits/piratequeensisaspia.png)<span class="featTooltipContents">ID: 530**Pirate Queen Sisaspia (Sisaspia)**<img src="images/skin_models/piratequeensisaspia.gif" alt="Pirate Queen Sisaspia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Pirate Queen Sisaspia
@@ -164,7 +164,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Kittenlord Blooshi Portrait](images/skin_portraits/kittenlordblooshi.png)<span class="featTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**<img src="images/skin_models/kittenlordblooshi.gif" alt="Kittenlord Blooshi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Kittenlord Blooshi Portrait](images/skin_portraits/kittenlordblooshi.png)<span class="featTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/kittenlordblooshi.gif" alt="Kittenlord Blooshi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/kittenlordblooshi-spirit.gif" alt="Kittenlord Blooshi Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Kittenlord Blooshi
@@ -470,6 +470,23 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 551**Brigadier Evandra (Evandra)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Brigadier Evandra
+        </span>
+        <span class="skinTableSource">
+            Brigadier Evandra Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            07 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 550**Tairnadal Jaheira (Jaheira)**</span></span>
         </span>
         <span class="skinTableName">
@@ -534,6 +551,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             14 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 554**Lamplighter Nixie (Nixie)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Lamplighter Nixie
+        </span>
+        <span class="skinTableSource">
+            Lamplighter Nixie Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            21 May 2025
         </span>
     </span>
     <span class="skinTableRow">

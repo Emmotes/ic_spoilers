@@ -7,7 +7,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 250**Volo's Trusty Quill**If there is anything in the world worth knowing, I assure you, I do. ~ Volo</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Volo's Trusty Quill Portrait](images/familiars/volostrustyquill.png)<span class="featTooltipContents">ID: 250**Volo's Trusty Quill**If there is anything in the world worth knowing, I assure you, I do. ~ Volo<img src="images/familiars/volostrustyquill.gif" alt="Volo's Trusty Quill Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Volo's Trusty Quill
@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 252**Jade the Snake**I snuck back to Sigil in one of Windfall's sackssss.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Jade the Snake Portrait](images/familiars/jadethesnake.png)<span class="featTooltipContents">ID: 252**Jade the Snake**I snuck back to Sigil in one of Windfall's sackssss.<img src="images/familiars/jadethesnake.gif" alt="Jade the Snake Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Jade the Snake
@@ -58,7 +58,24 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 254**Tackle the White Wolf**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 253**Loot the Weasel**Has larceny ever looked this cute?</span></span>
+        </span>
+        <span class="skinTableName">
+            Loot the Weasel
+        </span>
+        <span class="skinTableSource">
+            Frost Giant Beadle Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            02 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 254**Tackle the White Wolf**A fierce protector with a healthy appetite.</span></span>
         </span>
         <span class="skinTableName">
             Tackle the White Wolf

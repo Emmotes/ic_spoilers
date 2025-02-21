@@ -181,6 +181,176 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>02 Apr 2025<br>02 Jul 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dark Urge</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Blazing Blood Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2129**Blazing Blood (Dark Urge)**The hells themselves will quake at your passing, milord!<code>buff_upgrade,80,14380</code></span>Blazing Blood
+        </span>
+        <span class="featTableEffect">
+            <span>80% Ceremorphosis (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Apr 2025<br>09 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Briv</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Thunder Step Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2131**Thunder Step (Briv)**Mine mighty footfalls shalt resoundeth throughout all the land!<code>todo<br>DevNote: NEW EFFECT! TECH REQUIRED! When Steelbones stacks convert to Sprint stacks upon reset, you gain 20% more Sprint stacks, rounded down</code></span>Thunder Step
+        </span>
+        <span class="featTableEffect">
+            <span>todo</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>16 Apr 2025<br>16 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Strix</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Giant Stench Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2132**Giant Stench (Strix)**Do you smell burning trash? Yeah? Okay, good.<code>buff_upgrade,40,12285</code></span>Giant Stench
+        </span>
+        <span class="featTableEffect">
+            <span>40% Aura of Unclean</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>16 Apr 2025<br>16 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Reya</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Zariel's Chosen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2133**Zariel's Chosen (Reya)**I am her mercy. I am her wrath. I am all that she was, is, and will be.<code>buff_upgrade,80,5457,0</code></span>Zariel's Chosen
+        </span>
+        <span class="featTableEffect">
+            <span>80% Echoes of Zariel</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Apr 2025<br>23 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Halsin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Verdant Vow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2135**Verdant Vow (Halsin)**I give my all to serve the Oak Father. No sacrifice is too great.<code>buff_upgrade,80,15962,0</code></span>Verdant Vow
+        </span>
+        <span class="featTableEffect">
+            <span>80% Archdruid of Emerald Grove (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025<br>30 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Evandra</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Regimented Fury Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2137**Regimented Fury (Evandra)**Classy, sassy, and about to kick your --<code>buff_upgrades,40,11299,11300,11301</code></span>Regimented Fury
+        </span>
+        <span class="featTableEffect">
+            <span>40% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>07 May 2025<br>07 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Jaheira</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Sylvan Calling Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2136**Sylvan Calling (Jaheira)**I'm getting in touch with my roots.<code>buff_upgrades,80,9714,9715,9716,9717</code></span>Sylvan Calling
+        </span>
+        <span class="featTableEffect">
+            <span>80% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>07 May 2025<br>07 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Melf</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2138**Prodigal Leader (Melf)**Rally to me, friends. We will survive this, and glory shall be ours.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>14 May 2025<br>14 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nixie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Burning Beauty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2139**Burning Beauty (Nixie)**Can't spell charm without harm!<code>buff_upgrades,40,10890,10891,10892</code></span>Burning Beauty
+        </span>
+        <span class="featTableEffect">
+            <span>40% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>21 May 2025<br>21 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Wyll</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Duke's Pride Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2141**Duke's Pride (Wyll)**He is our shield, as I am his blade. Together, we protect the people of Baldur's Gate.<code>buff_upgrade,40,13429</code></span>Duke's Pride
+        </span>
+        <span class="featTableEffect">
+            <span>40% Folk Hero (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>28 May 2025<br>28 Aug 2025</span>
+        </span>
+    </span>
 </span>
 
 # Placeholder Date Feats

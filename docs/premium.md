@@ -175,7 +175,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 250**Volo's Trusty Quill**If there is anything in the world worth knowing, I assure you, I do. ~ Volo</span></span>
+            <span class="tooltipHolder">![Volo's Trusty Quill Familiar Portrait](images/premiums/familiar_250.png)<span class="itemTooltipContents">ID: 250**Volo's Trusty Quill**If there is anything in the world worth knowing, I assure you, I do. ~ Volo<img src="images/premiums/familiar_250.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -375,7 +375,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Swashbuckler Orkira Skin Portrait](images/premiums/skin_529.png)<span class="itemTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**<img src="images/premiums/skin_529.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Swashbuckler Orkira Skin Portrait](images/premiums/skin_529.png)<span class="itemTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_529.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_529-ultimate_pheonix.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -446,7 +446,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 530**Pirate Queen Sisaspia (Sisaspia)**<img src="images/premiums/skin_530.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Pirate Queen Sisaspia Skin Portrait](images/premiums/skin_530.png)<span class="itemTooltipContents">ID: 530**Pirate Queen Sisaspia (Sisaspia)**<img src="images/premiums/skin_530.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -517,7 +517,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**<img src="images/premiums/skin_531.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Pirate Lord Nrakk Skin Portrait](images/premiums/skin_531.png)<span class="itemTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_531.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_531-nrakk_charged.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -579,7 +579,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Kittenlord Blooshi Skin Portrait](images/premiums/skin_538.png)<span class="itemTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**<img src="images/premiums/skin_538.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Kittenlord Blooshi Skin Portrait](images/premiums/skin_538.png)<span class="itemTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_538.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_538-spirit.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -641,7 +641,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 252**Jade the Snake**I snuck back to Sigil in one of Windfall's sackssss.</span></span>
+            <span class="tooltipHolder">![Jade the Snake Familiar Portrait](images/premiums/familiar_252.png)<span class="itemTooltipContents">ID: 252**Jade the Snake**I snuck back to Sigil in one of Windfall's sackssss.<img src="images/premiums/familiar_252.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -773,11 +773,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 253**TBD Beadle Familiar (Do not translate)**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 253**Loot the Weasel**Has larceny ever looked this cute?</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">TBD Beadle Familiar (Do not translate)</span>
+            <span style="margin-left:15px">Loot the Weasel</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -843,7 +843,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 254**Tackle the White Wolf**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 254**Tackle the White Wolf**A fierce protector with a healthy appetite.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -862,11 +862,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 655****Loot for: Grimm<code>"for_crusaders":[161]</code></span></span>
+            <span class="tooltipHolder">![Platinum Grimm Chest Chest Portrait](images/premiums/chests_655.png)<span class="itemTooltipContents">ID: 655**Platinum Grimm Chest**Loot for: Grimm<code>"for_crusaders":[161]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px"></span>
+            <span style="margin-left:15px">Platinum Grimm Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -888,7 +888,7 @@ Contents:
 ### Helldusk The Dark Urge Skin & Feat Pack - 1,680 Platinum  
 Date of release: 09 Apr 2025
 
-> Unlock The Dark Urge along with their exclusive Helldusk Skin & Feat!
+> Unlock The Dark Urge along with his exclusive Helldusk Skin & Feat!
 
 Contents:
 
@@ -913,12 +913,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2129**TBD The Dark Urge Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Blazing Blood Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2129**Blazing Blood**The hells themselves will quake at your passing, milord!<code>buff_upgrade,80,14380</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD The Dark Urge Feat (Do not translate)</span>
-            <span style="margin-left:15px">Dark Urge ()</span>
+            <span style="margin-left:15px">Blazing Blood</span>
+            <span style="margin-left:15px">Dark Urge (80% Ceremorphosis (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1117,12 +1117,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2131**TBD Briv Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Thunder Step Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2131**Thunder Step**Mine mighty footfalls shalt resoundeth throughout all the land!<code>todo<br>DevNote: NEW EFFECT! TECH REQUIRED! When Steelbones stacks convert to Sprint stacks upon reset, you gain 20% more Sprint stacks, rounded down</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Briv Feat (Do not translate)</span>
-            <span style="margin-left:15px">Briv ()</span>
+            <span style="margin-left:15px">Thunder Step</span>
+            <span style="margin-left:15px">Briv (todo)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1188,12 +1188,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2132**TBD Strix Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Giant Stench Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2132**Giant Stench**Do you smell burning trash? Yeah? Okay, good.<code>buff_upgrade,40,12285</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Strix Feat (Do not translate)</span>
-            <span style="margin-left:15px">Strix ()</span>
+            <span style="margin-left:15px">Giant Stench</span>
+            <span style="margin-left:15px">Strix (40% Aura of Unclean)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1250,12 +1250,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2133**TBD Reya Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Zariel's Chosen Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2133**Zariel's Chosen**I am her mercy. I am her wrath. I am all that she was, is, and will be.<code>buff_upgrade,80,5457,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Reya Feat (Do not translate)</span>
-            <span style="margin-left:15px">Reya ()</span>
+            <span style="margin-left:15px">Zariel's Chosen</span>
+            <span style="margin-left:15px">Reya (80% Echoes of Zariel)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1545,12 +1545,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2135**TBD Halsin Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Verdant Vow Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2135**Verdant Vow**I give my all to serve the Oak Father. No sacrifice is too great.<code>buff_upgrade,80,15962,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Halsin Feat (Do not translate)</span>
-            <span style="margin-left:15px">Halsin ()</span>
+            <span style="margin-left:15px">Verdant Vow</span>
+            <span style="margin-left:15px">Halsin (80% Archdruid of Emerald Grove (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1686,12 +1686,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2136**TBD Jaheira Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Sylvan Calling Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2136**Sylvan Calling**I'm getting in touch with my roots.<code>buff_upgrades,80,9714,9715,9716,9717</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Jaheira Feat (Do not translate)</span>
-            <span style="margin-left:15px">Jaheira ()</span>
+            <span style="margin-left:15px">Sylvan Calling</span>
+            <span style="margin-left:15px">Jaheira (80% All First Specialisations)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1721,6 +1721,77 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Jaheira Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 567</div>
+### Brigadier Evandra Skin & Feat Pack - 1,680 Platinum  
+Date of release: 07 May 2025
+
+> Unlock Evandra along with her exclusive Brigadier Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Evandra Champion Unlock Portrait](images/premiums/unlock_champion_124.png)<span class="itemTooltipContents">ID: 124**Evandra (Seat 5)**<img src="images/premiums/unlock_champion_124.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Evandra</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 551**Brigadier Evandra (Evandra)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Brigadier Evandra</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Regimented Fury Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2137**Regimented Fury**Classy, sassy, and about to kick your --<code>buff_upgrades,40,11299,11300,11301</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Regimented Fury</span>
+            <span style="margin-left:15px">Evandra (40% All Specialisations)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Evandra Chest Chest Portrait](images/premiums/chests_450.png)<span class="itemTooltipContents">ID: 450**Platinum Evandra Chest**Loot for: Evandra<code>"for_crusaders":[124]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Evandra Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1918,12 +1989,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2138**TBD Melf Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 2138**Prodigal Leader**Rally to me, friends. We will survive this, and glory shall be ours.<code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Melf Feat (Do not translate)</span>
-            <span style="margin-left:15px">Melf ()</span>
+            <span style="margin-left:15px">Prodigal Leader</span>
+            <span style="margin-left:15px">Melf (50% All Champion Damage)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1953,6 +2024,77 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Melf Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 571</div>
+### Lamplighter Nixie Skin & Feat Pack - 1,680 Platinum  
+Date of release: 21 May 2025
+
+> Unlock Nixie along with her exclusive Lamplighter Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Nixie Champion Unlock Portrait](images/premiums/unlock_champion_123.png)<span class="itemTooltipContents">ID: 123**Nixie (Seat 1)**<img src="images/premiums/unlock_champion_123.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Nixie</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 554**Lamplighter Nixie (Nixie)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Lamplighter Nixie</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Burning Beauty Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2139**Burning Beauty**Can't spell charm without harm!<code>buff_upgrades,40,10890,10891,10892</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Burning Beauty</span>
+            <span style="margin-left:15px">Nixie (40% All Specialisations)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Nixie Chest Chest Portrait](images/premiums/chests_448.png)<span class="itemTooltipContents">ID: 448**Platinum Nixie Chest**Loot for: Nixie<code>"for_crusaders":[123]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Nixie Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -2122,12 +2264,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2141**TBD Wyll Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Duke's Pride Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2141**Duke's Pride**He is our shield, as I am his blade. Together, we protect the people of Baldur's Gate.<code>buff_upgrade,40,13429</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Wyll Feat (Do not translate)</span>
-            <span style="margin-left:15px">Wyll ()</span>
+            <span style="margin-left:15px">Duke's Pride</span>
+            <span style="margin-left:15px">Wyll (40% Folk Hero (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
