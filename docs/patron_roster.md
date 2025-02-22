@@ -3198,39 +3198,39 @@ A list of all champions and their patron availability.
         <label class="cblabel"><input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="94,129,134,297,297,297,0,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="95,32,40,297,0,0,297,181">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="95,32,40,297,0,0,297,181">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="95,32,40,297,0,0,297,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="95,32,40,297,0,0,297,0">
         96
     </span>
-    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,181">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,181">
+    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,0">
         Desmond
     </span>
-    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,181">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="95,32,40,297,0,0,297,181">
+    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="95,32,40,297,0,0,297,0">
         4
     </span>
-    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,181">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,181">
+    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,0">
         <label class="cblabel"><input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,181">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,181">
+    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,0">
         <label class="cblabel"><input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,181">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,181">
+    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,0">
         <label class="cblabel"><input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,181">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,181">
+    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,0">
         <label class="cblabel"><input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,181">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,181">
-        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-02-21
+    <span class="patronRosterItem" data-sort="95,32,40,297,0,0,297,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="95,32,40,297,0,0,297,0">
+        <label class="cblabel"><input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="95,32,40,297,0,0,297,181">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="95,32,40,297,0,0,297,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="96,120,88,0,297,0,295,183">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="96,120,88,0,297,0,295,183">
         97
