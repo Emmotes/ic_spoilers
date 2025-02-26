@@ -141,28 +141,6 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-{::nomarkdown}
-<a href="windfall.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Windfall
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> </span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Liars' Night - 08 October 2025 (Worst the Wait Augment (Guess))</span>
-            </span>
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 </span>
 
 # New Evergreen Champion
@@ -516,36 +494,6 @@ These are the upcoming new and reworked champions and where they'll be found.
     </span>
 </span>
 </div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Liars' Night - 1 October 2025
-<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="windfall.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Windfall
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> </span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment (Guess)</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-</div></div>
 
 {::nomarkdown}
 
@@ -559,7 +507,6 @@ Miscellaneous spoilers with due dates.
 
 * [Apothecary/Notary System](apothecary_notary.md) - 12 March 2025 (Guess)
 * Emergence 11 - 23 April 2025
-* [New Champion Roles](new_champion_roles.md) - ???
 
 # Misc
 
