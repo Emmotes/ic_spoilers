@@ -7,7 +7,10 @@
 
 # Windfall
 
-???
+As a dedicated champion of Tiamat, Windfall has been granted phenomenal power by her master. Her skin glitters with patches of multicolored scales, and in combat, her blade sings with all five of the chromatic dragons' elements. Windfall's enchanted tailcoat shimmers with the colors of the Dragon Queen, and she uses this coat to dazzle patrons and enemies alike.  
+A performer at heart, Windfall is ostentatious and charismatic, making small talk with regular patrons and jovially welcoming new faces to the casino.
+
+[5e Tools Bestiary](https://5e.tools/bestiary/windfall-veor.html)
 
 # Basic Information
 
@@ -19,7 +22,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 23 Ap
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -27,7 +30,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 23 Ap
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Tiefling (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -35,7 +38,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 23 Ap
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Bard (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -43,7 +46,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 23 Ap
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -51,7 +54,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 23 Ap
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -59,7 +62,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 23 Ap
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Female (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -67,7 +70,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 23 Ap
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Chaotic Evil (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -75,34 +78,14 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 23 Ap
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">???</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
 </span>
 
 # Attacks
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Unknown**
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-</pre>
-</p>
-</details>
-</div></div>
+Unknown.
 
 # Abilities
 

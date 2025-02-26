@@ -160,7 +160,7 @@ The upcoming Evergreen champion we're aware of.
                 Windfall
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> </span>
+                <span class="indexChampionTableNoLink">Tiefling Bard (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Vecna 7 - 23 April 2025 (Guess)</span>
@@ -383,7 +383,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Windfall (Guess)
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> </span>
+                <span class="indexChampionTableNoLink">Tiefling Bard (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
