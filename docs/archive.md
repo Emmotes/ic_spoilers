@@ -14,6 +14,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Kas](archive/kas.md)
 * [Mehen](archive/mehen.md)
 * [Minthara](archive/minthara.md)
+* [New Champion Roles](archive/new_champion_roles.md)
 * [Rosie](archive/rosie.md)
 * [Sgt. Knox](archive/sgtknox.md)
 * [Stoki](archive/stoki.md)
