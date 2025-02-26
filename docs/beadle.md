@@ -125,7 +125,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "self"
             ],
             "use_computed_amount_for_description": true,
-            "current_value_bonus_desc": "Total Bonus: $(bonus) Item Levels"
+            "current_value_bonus_desc": "Total Bonus: $(bonus) Item Levels",
+            "amount_updated_listeners": [
+                "loot_changed",
+                "slot_changed"
+            ]
         },
         {
             "off_when_benched": false,
@@ -347,6 +351,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stacks_multiply": true,
             "show_bonus": true,
             "apply_manually": true
+        },
+        {
+            "effect_string": "stacks_data_binder_safe",
+            "index": 0,
+            "stat_name": "GrimmTagTeamStacks",
+            "is_instanced_stat": true,
+            "use_stat_defs": true
         }
     ],
     "requirements": "",
@@ -378,7 +389,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2248,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of In The Shadows is increased by $amount% for each piece of Epic or better equipment on Champions in the formation, stacking multiplicatively."
+        "desc": "The effect of In The Shadows is increased by $(not_buffed amount)% for each piece of Epic or better equipment on Champions in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -421,7 +432,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2249,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of In The Shadows is increased by $amount% for every item level on your formation's Champions' equipment, stacking multiplicatively. Each individual Champion can contribute at most 1,800 stacks."
+        "desc": "The effect of In The Shadows is increased by $(not_buffed amount)% for every item level on your formation's Champions' equipment, stacking multiplicatively. Each individual Champion can contribute at most 1,800 stacks."
     },
     "effect_keys": [
         {
@@ -463,7 +474,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2250,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of In The Shadows is increased by $amount% for each piece of Shiny or Golden equipment on Champions in the formation, stacking multiplicatively."
+        "desc": "The effect of In The Shadows is increased by $(not_buffed amount)% for each piece of Shiny or Golden equipment on Champions in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {

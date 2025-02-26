@@ -244,12 +244,12 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
 {
     "id": 842,
     "name": "One-on-One",
-    "description": "Grimm leaps into the fray, brutally slashing the enemy with the most health and knocking back all other enemies in a small area. Afterwards, if you're not in a boss area, a Frost Giant spawns in revenge.",
+    "description": "Grimm attacks the enemy with the most health and knocks back other enemies in a small area.",
     "long_description": "Grimm attacks the enemy with the most health and knocks back other enemies in a small area. In non boss areas, a Frost Giant spawns in revenge.",
     "graphic_id": 8182,
     "target": "highest_health",
     "num_targets": 1,
-    "aoe_radius": 200,
+    "aoe_radius": 500,
     "damage_modifier": 0.03,
     "cooldown": 300,
     "animations": [
@@ -541,10 +541,10 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     "effect_keys": [
         {
             "effect_string": "do_nothing,1",
-            "stacks_on_trigger": "monster_armor_segment_broken",
+            "stacks_on_trigger": "monster_armor_segment_broken_by_owner",
             "more_triggers": [
                 {
-                    "trigger": "monster_health_segment_broken",
+                    "trigger": "monster_health_segment_broken_by_owner",
                     "action": {
                         "type": "add_stack"
                     }
@@ -562,7 +562,8 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
         },
         {
             "effect_string": "increase_damage_against_monster_armor_and_hits,0",
-            "amount_expr": "upgrade_amount(16736,0)"
+            "amount_expr": "upgrade_amount(16736,0)",
+            "override_key_desc": "Each time Grimm attacks an enemy and breaks at least one armor or segmented health, he breaks 1 more on all subsequent attacks, stacking additively up to 5 times."
         }
     ],
     "requirements": "",
@@ -615,7 +616,10 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
                 1
             ],
             "max_stacks": 1,
-            "stacks_on_trigger": "on_timer,15",
+            "stacks_on_trigger": {
+                "trigger": "on_timer,15",
+                "real_time": true
+            },
             "more_triggers": [
                 {
                     "trigger": "post_area_changed",
@@ -647,7 +651,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
             "data": {
                 "more_triggers": [
                     {
-                        "trigger": "monster_health_segment_broken",
+                        "trigger": "monster_health_segment_broken_by_owner",
                         "action": {
                             "type": "add_stack"
                         }
@@ -668,7 +672,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
             "data": {
                 "more_triggers": [
                     {
-                        "trigger": "monster_health_segment_broken",
+                        "trigger": "monster_health_segment_broken_by_owner",
                         "action": {
                             "type": "add_stack"
                         }
@@ -716,7 +720,9 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     "graphic_id": 25991,
     "large_graphic_id": 25982,
     "properties": {
-        "is_formation_ability": false
+        "is_formation_ability": true,
+        "show_outgoing_description": true,
+        "show_incoming": false
     }
 }
 </pre>
@@ -867,6 +873,13 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
             "stacks_multiply": true,
             "show_bonus": true,
             "apply_manually": true
+        },
+        {
+            "effect_string": "stacks_data_binder_safe",
+            "index": 0,
+            "stat_name": "GrimmTagTeamStacks",
+            "is_instanced_stat": true,
+            "use_stat_defs": true
         }
     ],
     "requirements": "",
@@ -912,7 +925,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     "id": 2261,
     "flavour_text": "",
     "description": {
-        "desc": "Grimm gains the Hunter role, and Giants become his Favored Foe. Grimm deals $amount% more damage against his Favored Foe, and all boss enemies also count as Giants for the purposes of all abilities that care about such things"
+        "desc": "Grimm gains the Hunter role, and Giants become his Favored Foe. Grimm deals $(not_buffed amount)% more damage against his Favored Foe, and all boss enemies also count as Giants for the purposes of all abilities that care about such things"
     },
     "effect_keys": [
         {
@@ -974,12 +987,12 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     "id": 2262,
     "flavour_text": "",
     "description": {
-        "desc": "Grimm taunts all enemies he attacks, causing them to switch targets and attack him. For each enemy that has attacked him in the current area, his damage is increased by $amount%, stacking multiplicatively up to 100 times."
+        "desc": "Grimm taunts all enemies he attacks, causing them to switch targets and attack him. For each enemy that has attacked him in the current area, his damage is increased by $(not_buffed amount)%, stacking multiplicatively up to 100 times."
     },
     "effect_keys": [
         {
             "effect_string": "hero_dps_multiplier_mult,25",
-            "stacks_on_trigger": "hero_targeted_by_effect_attacked",
+            "stacks_on_trigger": "hero_attacked",
             "more_triggers": [
                 {
                     "trigger": "area_changed",
@@ -1031,14 +1044,14 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     "default_enabled": 1,
     "name": "Giant Profits",
     "specialization_name": "Giant Profits",
-    "specialization_description": "The Giant’s Bane Tavern wasn’t built on good intentions — it was built on giant treasure.",
+    "specialization_description": "The Giant's Bane Tavern wasn’t built on good intentions — it was built on giant treasure.",
     "specialization_graphic_id": 25998
 }
 {
     "id": 2263,
     "flavour_text": "",
     "description": {
-        "desc": "Grimm gains the Gold Find role. Enemies that Grimm defeats drop $amount% additional gold for each enemy he has defeated in the current area, stacking multiplicatively and capping at 20."
+        "desc": "Grimm gains the Gold Find role. Enemies that Grimm defeats drop $(not_buffed amount)% additional gold for each enemy he has defeated in the current area, stacking multiplicatively and capping at 20."
     },
     "effect_keys": [
         {
@@ -1563,15 +1576,15 @@ Dungeon Master: 5 / 6
 > Save the village from a foolish prank gone wrong.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Grimm Consequences** (Complete Area 75)
+![Grimm Consequences Icon](images/grimm/25962.png) **Variant 1: Grimm Consequences** (Complete Area 75)
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Grimm's Strength Test** (Complete Area 125)
+![Grimm's Strength Test Icon](images/grimm/25963.png) **Variant 2: Grimm's Strength Test** (Complete Area 125)
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Grimm's Icebreaker** (Complete Area 175)
+![Grimm's Icebreaker Icon](images/grimm/25964.png) **Variant 3: Grimm's Icebreaker** (Complete Area 175)
 > 
 </div></div>
 
