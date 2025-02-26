@@ -82,6 +82,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="antrius" style="background-image:url(images/portraits/antrius.png)">Antrius (4)</span>
 <span class="eventRosterChampion" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)</span>
 <span class="eventRosterChampion" id="ravengard" style="background-image:url(images/portraits/ravengard.png)">Ravengard (8)</span>
+<span class="eventRosterChampion" id="hank" style="background-image:url(images/general/unknown.png)">Hank</span>
 </span>
 
 {:/nomarkdown}
