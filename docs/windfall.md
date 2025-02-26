@@ -111,15 +111,12 @@ Unknown.
 
 Unknown.
 
+{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
-    <span class="championImagesRow">
-        <span class="championImagesChests">
-            ![Windfall Gold Chest Icon](images/windfall/chest_gold.png)Gold Chest Icon
-        </span>
-    </span>
 </span>
+{% endcomment %}
 
 [Back to Top](#top)
 
