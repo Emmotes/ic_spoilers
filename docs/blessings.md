@@ -4,7 +4,7 @@
 
 A list of upcoming blessings that we know of and their assumed source. The vast majority will come from [Content Drops](contentdrops.md) but some are occasionally added because CNE want to increase the number of tiers in old campaigns.
 
-## Vecna 5 - 26 February 2025 (Guess)
+## Vecna 7 - 23 April 2025 (Guess)
 
 <span class="blessingsTableColumn">
     <span class="blessingsTableRowHeader">
@@ -20,7 +20,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Local</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">Decreases the base attack cooldown of all non-Chaotic Champions by X seconds.</span>
+            <span style="margin-left: 8px;">Increases the favor earned by converting other favors to The Wizards Three Favor by X.</span>
         </span>
     </span>
     <span class="blessingsTableRow">
@@ -28,7 +28,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Local</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">Increases the damage of all Champions by X% for each Undead Champion in the formation, stacking additively.</span>
+            <span style="margin-left: 8px;">Increases the damage of Champions with a total ability score of 80 or higher by X.</span>
         </span>
     </span>
     <span class="blessingsTableRow">
@@ -36,7 +36,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Local</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">Increases the damage of each Champion by X% for each adjacent formation slot, stacking additively.</span>
+            <span style="margin-left: 8px;">Increases the damage of all Champions by X and Windfall by an additional X.</span>
         </span>
     </span>
     <span class="blessingsTableRow">
@@ -44,7 +44,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Global</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">Increases the damage of all Champions by X% for every piece of equipment of Legendary rarity across all Champions, stacking multiplicatively.</span>
+            <span style="margin-left: 8px;">Increases the damage of all Champions by 20% for each active potion on the current party, stacking multiplicatively.</span>
         </span>
     </span>
 </span>
