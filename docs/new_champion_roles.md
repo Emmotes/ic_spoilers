@@ -24,7 +24,14 @@ This is a role for champions that are able to slow stun snare or knockback.
 It has been given to the following champions:
 
 |---|---|---|---|---|
-| Eric |  |  |  |  |
+| Aila | Diana | Halsin | Mehen | Solaak |
+| Alyndra | Dob | Hew Maan | Miria | Torogar |
+| Avren | Donaar | Jaheira | Nixie | Valentine |
+| Baeloth | Drizzt | Jim | Nova | Vi |
+| Catti-brie | Egbert | K'thriss | Nrakk | Vlahnya |
+| Corazón | Eric | Kent | Penelope | Wren |
+| D'hani | Freely | Lazaapz | Presto | Wulfgar |
+| Desmond | Gazrick | Lucius | Selise | Yorven |
 
 ## Breaker
 
@@ -33,7 +40,8 @@ This is a role that has been given to champions that can make dealing with armou
 It has been given to the following champions:
 
 |---|---|---|---|---|
-| Grimm |  |  |  |  |
+| Binwin | Grimm | Lucius | Selise |  |
+| Gazrick | Hew Maan | Minthara | Wulfgar |  |
 
 ## Positional (Guess)
 
