@@ -228,6 +228,91 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 264**Midas the Baby Gold Dragon**I'm here to eat goblins and collect treasure, and I'm all out of goblins!</span></span>
+        </span>
+        <span class="skinTableName">
+            Midas the Baby Gold Dragon
+        </span>
+        <span class="skinTableSource">
+            Midas the Baby Gold Dragon Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            2,380p
+        </span>
+        <span class="skinTableDate">
+            04 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 263**Verdant the Baby Green Dragon**By the time you see him, it's too late!</span></span>
+        </span>
+        <span class="skinTableName">
+            Verdant the Baby Green Dragon
+        </span>
+        <span class="skinTableSource">
+            Dragonslayer Hank Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            04 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 265**Noctis the Baby Deep Dragon**She barters in secrets.</span></span>
+        </span>
+        <span class="skinTableName">
+            Noctis the Baby Deep Dragon
+        </span>
+        <span class="skinTableSource">
+            Dragon Rider Krond Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            11 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 266**Vendetta the Baby White Dragon**Don't even THINK about stepping near her tail!</span></span>
+        </span>
+        <span class="skinTableName">
+            Vendetta the Baby White Dragon
+        </span>
+        <span class="skinTableSource">
+            Vendetta the Baby White Dragon Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            11 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 267**Shimmer the Baby Silver Dragon**He might be small, but he can eat. Watch out for your turkey leg!</span></span>
+        </span>
+        <span class="skinTableName">
+            Shimmer the Baby Silver Dragon
+        </span>
+        <span class="skinTableSource">
+            Shimmer the Baby Silver Dragon Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            25 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Clove the Badger Portrait](images/familiars/clovethebadger.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<img src="images/familiars/clovethebadger.gif" alt="Clove the Badger Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

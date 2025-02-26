@@ -198,7 +198,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 540**Frost Giant Beadle (Y4E15)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 540**Frost Giant Beadle (B&G)**</span></span>
         </span>
         <span class="skinTableName">
             Frost Giant Beadle
@@ -602,6 +602,159 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             28 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 559**Dracolich Duke Ravengard (Ravengard)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dracolich Duke Ravengard
+        </span>
+        <span class="skinTableSource">
+            Dracolich Duke Ravengard Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            04 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 560**Dragonslayer Hank (Hank)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragonslayer Hank
+        </span>
+        <span class="skinTableSource">
+            Dragonslayer Hank Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            04 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 561**Dragon Rider Krond (Krond)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Rider Krond
+        </span>
+        <span class="skinTableSource">
+            Dragon Rider Krond Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            11 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 562**Reaper BBEG (BBEG)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Reaper BBEG
+        </span>
+        <span class="skinTableSource">
+            Reaper BBEG Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            11 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 565**Cosmic Dragon Nova (Nova)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Cosmic Dragon Nova
+        </span>
+        <span class="skinTableSource">
+            Cosmic Dragon Nova Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            18 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon King Dungeon Master
+        </span>
+        <span class="skinTableSource">
+            Dragon King Dungeon Master Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            18 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 564**Skypirate Antrius (Antrius)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Skypirate Antrius
+        </span>
+        <span class="skinTableSource">
+            Skypirate Antrius Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            18 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 566**Cataclysmic Kas (Kas)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Cataclysmic Kas
+        </span>
+        <span class="skinTableSource">
+            Cataclysmic Kas Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            25 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 567**Dragonskull Bobby (Bobby)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragonskull Bobby
+        </span>
+        <span class="skinTableSource">
+            Dragonskull Bobby Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            25 Jun 2025
         </span>
     </span>
 </span>
