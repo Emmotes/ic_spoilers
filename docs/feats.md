@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>BBEG</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Secret Stash Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2082**Secret Stash (BBEG)**I've hoarded an assortment of accursed concoctions just for this occasion.<code>buff_upgrade,40,11540</code></span>Secret Stash
-        </span>
-        <span class="featTableEffect">
-            <span>40% Homebrew</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>26 Feb 2025<br>26 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Thellora</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Ferocious Charge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2081**Ferocious Charge (Thellora)**With me! Overwhelm them with our combined might! Make them fear us!<code>buff_upgrade,80,12978</code></span>Ferocious Charge
-        </span>
-        <span class="featTableEffect">
-            <span>80% Strength of the Luma</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>26 Feb 2025<br>26 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Gale</span>
         </span>
         <span class="featTableIcon4">

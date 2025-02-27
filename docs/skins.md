@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance BBEG Portrait](images/skin_portraits/dragonlancebbeg.png)<span class="featTooltipContents">ID: 523**Dragonlance BBEG (BBEG)**<img src="images/skin_models/dragonlancebbeg.gif" alt="Dragonlance BBEG Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragonlance BBEG
-        </span>
-        <span class="skinTableSource">
-            Dragonlance BBEG Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            26 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance Thellora Portrait](images/skin_portraits/dragonlancethellora.png)<span class="featTooltipContents">ID: 522**Dragonlance Thellora (Thellora)**<img src="images/skin_models/dragonlancethellora.gif" alt="Dragonlance Thellora Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragonlance Thellora
-        </span>
-        <span class="skinTableSource">
-            Dragonlance Thellora Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            26 Feb 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Bane's Chosen Gale Portrait](images/skin_portraits/baneschosengale.png)<span class="featTooltipContents">ID: 527**Bane's Chosen Gale (Gale)**<img src="images/skin_models/baneschosengale.gif" alt="Bane's Chosen Gale Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
