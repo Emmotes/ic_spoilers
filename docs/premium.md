@@ -1045,12 +1045,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Giant Stench Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2132**Giant Stench**Do you smell burning trash? Yeah? Okay, good.<code>buff_upgrade,40,12285</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Giant Stench Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2132**Giant Stench**Do you smell burning trash? Yeah? Okay, good.<code>buff_upgrade,80,12285</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Giant Stench</span>
-            <span style="margin-left:15px">Strix (40% Aura of Unclean)</span>
+            <span style="margin-left:15px">Strix (80% Aura of Unclean)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1614,12 +1614,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Regimented Fury Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2137**Regimented Fury**Classy, sassy, and about to kick your --<code>buff_upgrades,40,11299,11300,11301</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Regimented Fury Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2137**Regimented Fury**Classy, sassy, and about to kick your --<code>buff_upgrades,80,11299,11300,11301</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Regimented Fury</span>
-            <span style="margin-left:15px">Evandra (40% All Specialisations)</span>
+            <span style="margin-left:15px">Evandra (80% All Specialisations)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1917,12 +1917,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Burning Beauty Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2139**Burning Beauty**Can't spell charm without harm!<code>buff_upgrades,40,10890,10891,10892</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Burning Beauty Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2139**Burning Beauty**Can't spell charm without harm!<code>buff_upgrades,80,10890,10891,10892</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Burning Beauty</span>
-            <span style="margin-left:15px">Nixie (40% All Specialisations)</span>
+            <span style="margin-left:15px">Nixie (80% All Specialisations)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -2121,12 +2121,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Duke's Pride Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2141**Duke's Pride**He is our shield, as I am his blade. Together, we protect the people of Baldur's Gate.<code>buff_upgrade,40,13429</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Duke's Pride Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2141**Duke's Pride**He is our shield, as I am his blade. Together, we protect the people of Baldur's Gate.<code>buff_upgrade,80,13429</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Duke's Pride</span>
-            <span style="margin-left:15px">Wyll (40% Folk Hero (Prestack))</span>
+            <span style="margin-left:15px">Wyll (80% Folk Hero (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">

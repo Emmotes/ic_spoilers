@@ -186,10 +186,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>Strix</span>
         </span>
         <span class="featTableIcon4">
-            ![Giant Stench Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2132**Giant Stench (Strix)**Do you smell burning trash? Yeah? Okay, good.<code>buff_upgrade,40,12285</code></span>Giant Stench
+            ![Giant Stench Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2132**Giant Stench (Strix)**Do you smell burning trash? Yeah? Okay, good.<code>buff_upgrade,80,12285</code></span>Giant Stench
         </span>
         <span class="featTableEffect">
-            <span>40% Aura of Unclean</span>
+            <span>80% Aura of Unclean</span>
         </span>
         <span class="featTableSource">
             <span>1,680 Platinum<br>50,000 Gems</span>
@@ -288,10 +288,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>Evandra</span>
         </span>
         <span class="featTableIcon4">
-            ![Regimented Fury Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2137**Regimented Fury (Evandra)**Classy, sassy, and about to kick your --<code>buff_upgrades,40,11299,11300,11301</code></span>Regimented Fury
+            ![Regimented Fury Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2137**Regimented Fury (Evandra)**Classy, sassy, and about to kick your --<code>buff_upgrades,80,11299,11300,11301</code></span>Regimented Fury
         </span>
         <span class="featTableEffect">
-            <span>40% All Specialisations</span>
+            <span>80% All Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>1,680 Platinum<br>50,000 Gems</span>
@@ -339,10 +339,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>Nixie</span>
         </span>
         <span class="featTableIcon4">
-            ![Burning Beauty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2139**Burning Beauty (Nixie)**Can't spell charm without harm!<code>buff_upgrades,40,10890,10891,10892</code></span>Burning Beauty
+            ![Burning Beauty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2139**Burning Beauty (Nixie)**Can't spell charm without harm!<code>buff_upgrades,80,10890,10891,10892</code></span>Burning Beauty
         </span>
         <span class="featTableEffect">
-            <span>40% All Specialisations</span>
+            <span>80% All Specialisations</span>
         </span>
         <span class="featTableSource">
             <span>1,680 Platinum<br>50,000 Gems</span>
@@ -356,10 +356,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>Wyll</span>
         </span>
         <span class="featTableIcon4">
-            ![Duke's Pride Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2141**Duke's Pride (Wyll)**He is our shield, as I am his blade. Together, we protect the people of Baldur's Gate.<code>buff_upgrade,40,13429</code></span>Duke's Pride
+            ![Duke's Pride Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2141**Duke's Pride (Wyll)**He is our shield, as I am his blade. Together, we protect the people of Baldur's Gate.<code>buff_upgrade,80,13429</code></span>Duke's Pride
         </span>
         <span class="featTableEffect">
-            <span>40% Folk Hero (Prestack)</span>
+            <span>80% Folk Hero (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span>1,680 Platinum<br>50,000 Gems</span>

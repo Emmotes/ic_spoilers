@@ -189,10 +189,10 @@ These are feats that were previously released in premium packs and are now sitti
             <span>BBEG</span>
         </span>
         <span class="featTableIcon4">
-            ![Secret Stash Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2082**Secret Stash (BBEG)**I've hoarded an assortment of accursed concoctions just for this occasion.<code>buff_upgrade,40,11540</code></span>Secret Stash
+            ![Secret Stash Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2082**Secret Stash (BBEG)**I've hoarded an assortment of accursed concoctions just for this occasion.<code>buff_upgrade,80,11540</code></span>Secret Stash
         </span>
         <span class="featTableEffect">
-            <span>40% Homebrew</span>
+            <span>80% Homebrew</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
