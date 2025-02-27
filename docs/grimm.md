@@ -1356,7 +1356,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon3">
-            ![Friend in Deed Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2150**Friend in Deed (Grimm)**Beadle! Need you over here! No, it can't wait! ~Grimm<code>buff_upgrade,40,16732</code></span>Friend in Deed
+            ![Friend in Deed Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2150**Friend in Deed (Grimm)**Beadle! Need you over here! No, it can't wait! ~Grimm<code>buff_upgrade,40,16732<br>buff_upgrade,40,16732,1</code></span>Friend in Deed
         </span>
         <span class="featTableEffect">
             <span>40% Ultimate Tag Team</span>
@@ -1367,7 +1367,7 @@ This list will only show feats that are going to be available on the release of 
     </span>
     <span class="featTableRow">
         <span class="featTableIcon4">
-            ![Beadle's Partner in Crime Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2151**Beadle's Partner in Crime (Grimm)**If you have a problem with him, you'll have to go through me. ~Grimm<code>buff_upgrade,80,16732</code></span>Beadle's Partner in Crime
+            ![Beadle's Partner in Crime Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2151**Beadle's Partner in Crime (Grimm)**If you have a problem with him, you'll have to go through me. ~Grimm<code>buff_upgrade,80,16732<br>buff_upgrade,80,16732,1</code></span>Beadle's Partner in Crime
         </span>
         <span class="featTableEffect">
             <span>80% Ultimate Tag Team</span>
