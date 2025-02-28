@@ -8,7 +8,7 @@ Very little is known about this system at present. We have a few references in t
 
 ## Currency
 
-We know from Sheila that this system will have its own unique currency called Potion Reagents because Sheila will scavenge them from bosses. We don't yet know how they'll be attained otherwise though.
+We know from Sheila that this system will have its own unique currency called Potion Reagents because Sheila will scavenge them from bosses. There's no data to tell us how they'll be attained otherwise - though Justin did mention it on DI recently - see the Info From Dev Insights list below.
 
 There is also another currency because there's a text define called `legendary_vessels` (just like there's one for `potion_reagents`). The suspicion is that they will be required to make the Legendary potions below.
 
