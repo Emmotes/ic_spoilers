@@ -691,7 +691,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 541**Frost Giant Grimm (Grimm)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 541**Frost Giant Grimm (Grimm)**<img src="images/premiums/skin_541.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -700,7 +700,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 254**Tackle the White Wolf**A fierce protector with a healthy appetite.</span></span>
+            <span class="tooltipHolder">![Tackle the White Wolf Familiar Portrait](images/premiums/familiar_254.png)<span class="itemTooltipContents">ID: 254**Tackle the White Wolf**A fierce protector with a healthy appetite.<img src="images/premiums/familiar_254.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -761,7 +761,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 542**Helldusk The Dark Urge (Dark Urge)**</span></span>
+            <span class="tooltipHolder">![Helldusk The Dark Urge Skin Portrait](images/premiums/skin_542.png)<span class="itemTooltipContents">ID: 542**Helldusk The Dark Urge (Dark Urge)**<img src="images/premiums/skin_542.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -823,7 +823,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 255**Beacon the Giant Fire Beetle**</span></span>
+            <span class="tooltipHolder">![Beacon the Giant Fire Beetle Familiar Portrait](images/premiums/familiar_255.png)<span class="itemTooltipContents">ID: 255**Beacon the Giant Fire Beetle**<img src="images/premiums/familiar_255.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -894,7 +894,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 543**Storm Giant Catti-brie (Catti-brie)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 543**Storm Giant Catti-brie (Catti-brie)**<img src="images/premiums/skin_543.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1160,7 +1160,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 256**Wazzik the Madcap**</span></span>
+            <span class="tooltipHolder">![Wazzik the Madcap Familiar Portrait](images/premiums/familiar_256.png)<span class="itemTooltipContents">ID: 256**Wazzik the Madcap**<img src="images/premiums/familiar_256.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

@@ -181,7 +181,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 541**Frost Giant Grimm (Grimm)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 541**Frost Giant Grimm (Grimm)**<img src="images/skin_models/frostgiantgrimm.gif" alt="Frost Giant Grimm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Frost Giant Grimm
@@ -300,7 +300,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 542**Helldusk The Dark Urge (Dark Urge)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Helldusk The Dark Urge Portrait](images/skin_portraits/hellduskthedarkurge.png)<span class="featTooltipContents">ID: 542**Helldusk The Dark Urge (Dark Urge)**<img src="images/skin_models/hellduskthedarkurge.gif" alt="Helldusk The Dark Urge Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Helldusk The Dark Urge
@@ -317,7 +317,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 543**Storm Giant Catti-brie (Catti-brie)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 543**Storm Giant Catti-brie (Catti-brie)**<img src="images/skin_models/stormgiantcattibrie.gif" alt="Storm Giant Catti-brie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Storm Giant Catti-brie

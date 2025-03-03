@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 254**Tackle the White Wolf**A fierce protector with a healthy appetite.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Tackle the White Wolf Portrait](images/familiars/tacklethewhitewolf.png)<span class="featTooltipContents">ID: 254**Tackle the White Wolf**A fierce protector with a healthy appetite.<img src="images/familiars/tacklethewhitewolf.gif" alt="Tackle the White Wolf Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Tackle the White Wolf
@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 255**Beacon the Giant Fire Beetle**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Beacon the Giant Fire Beetle Portrait](images/familiars/beaconthegiantfirebeetle.png)<span class="featTooltipContents">ID: 255**Beacon the Giant Fire Beetle**<img src="images/familiars/beaconthegiantfirebeetle.gif" alt="Beacon the Giant Fire Beetle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Beacon the Giant Fire Beetle
@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 256**Wazzik the Madcap**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Wazzik the Madcap Portrait](images/familiars/wazzikthemadcap.png)<span class="featTooltipContents">ID: 256**Wazzik the Madcap**<img src="images/familiars/wazzikthemadcap.gif" alt="Wazzik the Madcap Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Wazzik the Madcap
