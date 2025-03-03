@@ -1,9 +1,23 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Vlithryn](images/vlithryn/portrait.png)
+        </span>
+        <span>
+        Portrait
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model GIF of Vlithryn](images/vlithryn/model.gif)
+        </span>
+        <span>
+        Model
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 # Vlithryn
 
@@ -134,12 +148,23 @@ Unknown.
 > 
 </div></div>
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Vlithryn Console Portrait](images/vlithryn/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Vlithryn Gold Chest Icon](images/vlithryn/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Vlithryn Silver Chest Icon](images/vlithryn/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
