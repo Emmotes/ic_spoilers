@@ -61,7 +61,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)</span>
 <span class="eventRosterChampion" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)</span>
 <span class="eventRosterChampion" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)</span>
-<span class="eventRosterChampion" id="vlithryn" style="background-image:url(images/general/unknown.png)">Vlithryn</span>
+<span class="eventRosterChampion" id="vlithryn" style="background-image:url(images/portraits/vlithryn.png)">Vlithryn</span>
 </span>
 
 {:/nomarkdown}
