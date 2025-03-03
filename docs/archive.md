@@ -4,7 +4,6 @@
 
 A list of recently archived spoilers. Note that I delete archives older than 6 months to avoid bloat.
 
-* [Bobby](archive/bobby.md)
 * [Emergence 9](archive/emergence_9.md)
 * [Emergence 10](archive/emergence_10.md)
 * [Eric](archive/eric.md)
@@ -15,7 +14,6 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Mehen](archive/mehen.md)
 * [Minthara](archive/minthara.md)
 * [New Champion Roles](archive/new_champion_roles.md)
-* [Rosie](archive/rosie.md)
 * [Sgt. Knox](archive/sgtknox.md)
 * [Stoki](archive/stoki.md)
 * [Voronika](archive/voronika.md)
