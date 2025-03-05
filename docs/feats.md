@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Gale</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Dark Academia Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2090**Dark Academia (Gale)**If Mystra will not hear my pleas, I shall seek succor elsewhere.<code>buff_upgrade,80,14573</code></span>Dark Academia
-        </span>
-        <span class="featTableEffect">
-            <span>80% An Experienced Sage</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>05 Mar 2025<br>05 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Volo</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Volo's Expanded Expertise Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2098**Volo's Expanded Expertise (Volo)**I've had an epiphany! If I raise my voice, more willing ears might hear me!<code>change_upgrade_data,16550,0</code></span>Volo's Expanded Expertise
-        </span>
-        <span class="featTableEffect">
-            <span>+1 Column to Volo's Guide to Combat</span>
-        </span>
-        <span class="featTableSource">
-            <span>3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>05 Mar 2025<br>05 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Orkira</span>
         </span>
         <span class="featTableIcon4">
@@ -74,6 +40,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableSource">
             <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Mar 2025<br>12 Jun 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Sheila</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Heart of Gold Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2113**Heart of Gold (Sheila)**Well, I lost us a chance to get home, but gained a friend!<code>buff_upgrade,80,16538</code></span>Heart of Gold
+        </span>
+        <span class="featTableEffect">
+            <span>80% Kind Heart</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>12 Mar 2025<br>12 Jun 2025</span>

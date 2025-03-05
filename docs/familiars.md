@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Volo's Trusty Quill Portrait](images/familiars/volostrustyquill.png)<span class="featTooltipContents">ID: 250**Volo's Trusty Quill**If there is anything in the world worth knowing, I assure you, I do. ~ Volo<img src="images/familiars/volostrustyquill.gif" alt="Volo's Trusty Quill Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Volo's Trusty Quill
-        </span>
-        <span class="skinTableSource">
-            Privateer Volo Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            05 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Feathers the Animated Parrot Portrait](images/familiars/featherstheanimatedparrot.png)<span class="featTooltipContents">ID: 251**Feathers the Animated Parrot**Uni No! SQUAWK Uni No!<img src="images/familiars/featherstheanimatedparrot.gif" alt="Feathers the Animated Parrot Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

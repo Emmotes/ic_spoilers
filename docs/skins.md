@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Bane's Chosen Gale Portrait](images/skin_portraits/baneschosengale.png)<span class="featTooltipContents">ID: 527**Bane's Chosen Gale (Gale)**<img src="images/skin_models/baneschosengale.gif" alt="Bane's Chosen Gale Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Bane's Chosen Gale
-        </span>
-        <span class="skinTableSource">
-            Bane's Chosen Gale Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            05 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Privateer Volo Portrait](images/skin_portraits/privateervolo.png)<span class="featTooltipContents">ID: 526**Privateer Volo (Volo)**<img src="images/skin_models/privateervolo.gif" alt="Privateer Volo Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Privateer Volo
-        </span>
-        <span class="skinTableSource">
-            Privateer Volo Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            05 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Swashbuckler Orkira Portrait](images/skin_portraits/swashbucklerorkira.png)<span class="featTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/swashbucklerorkira.gif" alt="Swashbuckler Orkira Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/swashbucklerorkira-ultimate_pheonix.gif" alt="Swashbuckler Orkira Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">

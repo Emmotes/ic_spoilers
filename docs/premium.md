@@ -4,147 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 544</div>
-### Privateer Volo Theme Pack - 3,830 Platinum  
-Date of release: 05 Mar 2025
-
-> Unlock Volo along with an exclusive Privateer Skin & Familiar!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Volo Champion Unlock Portrait](images/premiums/unlock_champion_159.png)<span class="itemTooltipContents">ID: 159**Volo (Seat 9)**<img src="images/premiums/unlock_champion_159.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Volo</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Privateer Volo Skin Portrait](images/premiums/skin_526.png)<span class="itemTooltipContents">ID: 526**Privateer Volo (Volo)**<img src="images/premiums/skin_526.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Privateer Volo</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Volo's Trusty Quill Familiar Portrait](images/premiums/familiar_250.png)<span class="itemTooltipContents">ID: 250**Volo's Trusty Quill**If there is anything in the world worth knowing, I assure you, I do. ~ Volo<img src="images/premiums/familiar_250.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Volo's Trusty Quill</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Volo's Expanded Expertise Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2098**Volo's Expanded Expertise**I've had an epiphany! If I raise my voice, more willing ears might hear me!<code>change_upgrade_data,16550,0</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Volo's Expanded Expertise</span>
-            <span style="margin-left:15px">Volo (+1 Column to Volo's Guide to Combat)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Volo Chest Chest Portrait](images/premiums/chests_651.png)<span class="itemTooltipContents">ID: 651**Platinum Volo Chest**Loot for: Volo<code>"for_crusaders":[159]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Volo Chest</span>
-            <span style="margin-left:15px">x32 (Shinies x2)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Gem Hunter Buff Portrait](images/premiums/buff_1723.png)<span class="itemTooltipContents">ID: 1723**Potion of the Gem Hunter**Increases the gem drops from bosses by 50%<code>increase_boss_gems_percent,50</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Potion of the Gem Hunter</span>
-            <span style="margin-left:15px">x1</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 545</div>
-### Bane's Chosen Gale Skin & Feat Pack - 1,680 Platinum  
-Date of release: 05 Mar 2025
-
-> Unlock Gale along with his exclusive Bane's Chosen Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gale Champion Unlock Portrait](images/premiums/unlock_champion_147.png)<span class="itemTooltipContents">ID: 147**Gale (Seat 1)**<img src="images/premiums/unlock_champion_147.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Gale</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Bane's Chosen Gale Skin Portrait](images/premiums/skin_527.png)<span class="itemTooltipContents">ID: 527**Bane's Chosen Gale (Gale)**<img src="images/premiums/skin_527.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Bane's Chosen Gale</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Dark Academia Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2090**Dark Academia**If Mystra will not hear my pleas, I shall seek succor elsewhere.<code>buff_upgrade,80,14573</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Dark Academia</span>
-            <span style="margin-left:15px">Gale (80% An Experienced Sage)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Gale Chest Chest Portrait](images/premiums/chests_565.png)<span class="itemTooltipContents">ID: 565**Platinum Gale Chest**Loot for: Gale<code>"for_crusaders":[147]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Gale Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 546</div>
 ### Swashbuckler Sheila Theme Pack - 3,830 Platinum  
 Date of release: 12 Mar 2025
@@ -156,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Sheila Champion Unlock Portrait](images/premiums/unlock_champion_160.png)<span class="itemTooltipContents">ID: 160**Sheila**<img src="images/premiums/unlock_champion_160.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Sheila Champion Unlock Portrait](images/premiums/unlock_champion_160.png)<span class="itemTooltipContents">ID: 160**Sheila (Seat 7)**<img src="images/premiums/unlock_champion_160.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -183,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2113**Feat**???: 2113</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart of Gold Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2113**Heart of Gold**Well, I lost us a chance to get home, but gained a friend!<code>buff_upgrade,80,16538</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2113</span>
+            <span style="margin-left:15px">Heart of Gold</span>
+            <span style="margin-left:15px">Sheila (80% Kind Heart)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
