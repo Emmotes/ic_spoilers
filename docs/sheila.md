@@ -208,7 +208,7 @@ Sheila will be a new champion in the Fleetswake event on 12 March 2025 (guesstim
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "_scavenge_items,10",
+            "effect_string": "scavenge_items,10",
             "id": "sheila_potion_reagent_scavenger",
             "item_type": "potion_reagents",
             "initial_cap": 2500,
