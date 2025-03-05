@@ -16,6 +16,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [New Champion Roles](archive/new_champion_roles.md)
 * [Sgt. Knox](archive/sgtknox.md)
 * [Stoki](archive/stoki.md)
+* [Volothamp "Volo" Geddarm](archive/volo.md)
 * [Voronika](archive/voronika.md)
 
 [Back to Top](#top)

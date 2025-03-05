@@ -25,7 +25,7 @@ Volothamp "Volo" Geddarm is a flamboyant world traveler, self-proclaimed expert,
 
 # Basic Information
 
-Volothamp "Volo" Geddarm will be a new champion in the Fleetswake event on 5 March 2025.
+Volothamp "Volo" Geddarm will be a new champion in the Fleetswake event on 12 March 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
@@ -1034,7 +1034,7 @@ Upgrades:
     </span>
     <span class="itemTableRow">
         <span class="itemTableIcon">
-            <span class="itemTableIcon1 tooltipHolder">![Volo's Counterfeit Canvas Icon](images/volo/25657.png)<span class="itemTooltipContents">ID: 3778**Volo's Counterfeit Canvas**A far cry from the genuine article, but he is a handsome devil, is he not?<code>buff_upgrade,25,16551,1<br>allow_ge:false</code></span></span><span class="itemTableIcon2 tooltipHolder">![Volo's Perfect Portraiture Icon](images/volo/25657.png)<span class="itemTooltipContents">ID: 3779**Volo's Perfect Portraiture**Once stolen, but later returned. There is, perhaps, some honor among thieves.<code>buff_upgrade,87.5,16551,1<br>allow_ge:false</code></span></span><span class="itemTableIcon3 tooltipHolder">![Volo's Daring Deed Icon](images/volo/25658.png)<span class="itemTooltipContents">ID: 3780**Volo's Daring Deed**Shall I tell you of a remarkable and historic property in Waterdeep?<code>buff_upgrade,150,16551,1<br>allow_ge:false</code></span></span><span class="itemTableIcon4 tooltipHolder">![Volo's Ersatz Eye Icon](images/volo/25659.png)<span class="itemTooltipContents">ID: 3781**Volo's Ersatz Eye**Take this. A far superior relic than that old jelly you were chained to.<code>buff_upgrade,275,16551,1<br>allow_ge:false</code></span></span>
+            <span class="itemTableIcon1 tooltipHolder">![Volo's Counterfeit Canvas Icon](images/volo/25657.png)<span class="itemTooltipContents">ID: 3778**Volo's Counterfeit Canvas**A far cry from the genuine article, but he is a handsome devil, is he not?<code>buff_upgrade,25,16551,1<br>allow_ge:true</code></span></span><span class="itemTableIcon2 tooltipHolder">![Volo's Perfect Portraiture Icon](images/volo/25657.png)<span class="itemTooltipContents">ID: 3779**Volo's Perfect Portraiture**Once stolen, but later returned. There is, perhaps, some honor among thieves.<code>buff_upgrade,87.5,16551,1<br>allow_ge:true</code></span></span><span class="itemTableIcon3 tooltipHolder">![Volo's Daring Deed Icon](images/volo/25658.png)<span class="itemTooltipContents">ID: 3780**Volo's Daring Deed**Shall I tell you of a remarkable and historic property in Waterdeep?<code>buff_upgrade,150,16551,1<br>allow_ge:true</code></span></span><span class="itemTableIcon4 tooltipHolder">![Volo's Ersatz Eye Icon](images/volo/25659.png)<span class="itemTooltipContents">ID: 3781**Volo's Ersatz Eye**Take this. A far superior relic than that old jelly you were chained to.<code>buff_upgrade,275,16551,1<br>allow_ge:true</code></span></span><span class="itemTableGE">&nbsp;</span>
         </span>
         <span class="itemTableSlot">
             <span>3</span>
@@ -1225,7 +1225,7 @@ This list will only show feats that are going to be available on the release of 
             <span>+1 Column to Volo's Guide to Combat</span>
         </span>
         <span class="featTableSource">
-            <span>3,830 Platinum<br>50,000 Gems</span>
+            <span>50,000 Gems</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -1447,6 +1447,7 @@ Dungeon Master: 6 / 6
      Sgt. Knox: 5 / 6
    Shadowheart: 2 / 6
        Shandie: 4 / 6
+        Sheila: 4 / 6
       Sisaspia: 4 / 6
         Solaak: 5 / 6
          Spurt: 3 / 6
