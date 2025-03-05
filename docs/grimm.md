@@ -399,6 +399,16 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
 > Each time Grimm attacks an enemy his base attack cooldown is reduced by 0.2 seconds and he deals 25% more damage, stacking up to 25 times. Damage bonus stacks multiplicatively, while the base attack cooldown stacks additively. Stacks reset upon changing areas, unless Moving Right Along is triggered.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Upgrade Data</em></summary>
+<p>
+<pre>
+Upgrades:
+       70: 100%
+
+    Total Upgrade Bonus: 100%
+</pre>
+</p>
+</details>
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -470,6 +480,17 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
     }
+}
+{
+    "id": 16901,
+    "hero_id": 161,
+    "required_level": 70,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
 }
 </pre>
 </p>
@@ -562,8 +583,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
         },
         {
             "effect_string": "increase_damage_against_monster_armor_and_hits,0",
-            "amount_expr": "upgrade_amount(16736,0)",
-            "override_key_desc": "Each time Grimm attacks an enemy and breaks at least one armor or segmented health, he breaks 1 more on all subsequent attacks, stacking additively up to 5 times."
+            "amount_expr": "upgrade_amount(16736,0)"
         }
     ],
     "requirements": "",
@@ -573,6 +593,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
         "is_formation_ability": true,
         "indexed_effect_properties": true,
         "show_incoming": false,
+        "use_outgoing_description": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
     }
@@ -722,6 +743,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     "properties": {
         "is_formation_ability": true,
         "show_outgoing_description": true,
+        "use_outgoing_description": true,
         "show_incoming": false
     }
 }
@@ -786,53 +808,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**FA1 Boast(Grimm)** (Level: 60)
-> Increase effect of Get Buff by 100%.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 16894,
-    "hero_id": 161,
-    "required_level": 60,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ability",
-    "effect": "effect_def,2272",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "FA1 Boast(Grimm)"
-}
-{
-    "id": 2272,
-    "flavour_text": "",
-    "description": {
-        "desc": "Increase effect of Get Buff by $amount%"
-    },
-    "effect_keys": [
-        {
-            "effect_string": "buff_upgrade,100,16735"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Tag Team** (Level: 90)
+![Ultimate Tag Team Icon](images/grimm/icon_ultimatetagteam.png) **Ultimate Tag Team** (Level: 90)
 > When Beadle uses his ultimate ability in the same party as Grimm, Grimm's ultimate ability goes on cooldown and he gains one Tag Team stack. For each Tag Team stack Grimm has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals 200% more damage, stacking multiplicatively. Tag Team stacks cap at 10 and reset when Grimm uses his ultimate ability.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -879,12 +855,13 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
             "index": 0,
             "stat_name": "GrimmTagTeamStacks",
             "is_instanced_stat": true,
-            "use_stat_defs": true
+            "use_stat_defs": true,
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25992,
+    "large_graphic_id": 25983,
     "properties": {
         "is_formation_ability": true,
         "show_outgoing_description": true,
@@ -949,7 +926,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     ],
     "requirements": "",
     "graphic_id": 0,
-    "large_graphic_id": 0,
+    "large_graphic_id": 25997,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -992,7 +969,6 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     "effect_keys": [
         {
             "effect_string": "hero_dps_multiplier_mult,25",
-            "stacks_on_trigger": "hero_attacked",
             "more_triggers": [
                 {
                     "trigger": "area_changed",
@@ -1003,7 +979,12 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
             ],
             "stacks_multiply": true,
             "max_stacks": 100,
-            "show_bonus": true
+            "show_bonus": true,
+            "apply_manually": true
+        },
+        {
+            "effect_string": "grimm_giant_taunter",
+            "base_buff_index": 0
         },
         {
             "effect_string": "taunt,0",
@@ -1013,7 +994,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     ],
     "requirements": "",
     "graphic_id": 0,
-    "large_graphic_id": 0,
+    "large_graphic_id": 25999,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -1044,7 +1025,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     "default_enabled": 1,
     "name": "Giant Profits",
     "specialization_name": "Giant Profits",
-    "specialization_description": "The Giant's Bane Tavern wasn’t built on good intentions — it was built on giant treasure.",
+    "specialization_description": "The Giant's Bane Tavern wasn't built on good intentions — it was built on giant treasure.",
     "specialization_graphic_id": 25998
 }
 {
@@ -1055,14 +1036,16 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     },
     "effect_keys": [
         {
-            "effect_string": "add_monster_hit_effects,100",
-            "monster_effect": {
-                "effect_string": "chance_monster_extra_gold,$amount,100",
-                "one_per_hero": true
-            }
-        },
-        {
-            "effect_string": "buff_upgrade,100,16892",
+            "off_when_benched": false,
+            "effect_string": "hero_kills_gold_mult,100",
+            "targets": [
+                {
+                    "type": "heroes",
+                    "hero_ids": [
+                        161
+                    ]
+                }
+            ],
             "stacks_on_trigger": "owner_kill",
             "stacks_multiply": true,
             "more_triggers": [
@@ -1082,7 +1065,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
     ],
     "requirements": "",
     "graphic_id": 0,
-    "large_graphic_id": 0,
+    "large_graphic_id": 25998,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -1558,6 +1541,7 @@ Dungeon Master: 5 / 6
       Vin Ursa: 4 / 6
         Virgil: 5 / 6
        Vlahnya: 5 / 6
+          Volo: 6 / 6
       Voronika: 6 / 6
         Walnut: 4 / 6
        Wulfgar: 6 / 6
@@ -1572,20 +1556,27 @@ Dungeon Master: 5 / 6
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: A Fool's Errand (???)** (Complete Area 50)
+**Unlock Adventure: A Fool's Errand (Grimm)** (Complete Area 50)
 > Save the village from a foolish prank gone wrong.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Grimm Consequences Icon](images/grimm/25962.png) **Variant 1: Grimm Consequences** (Complete Area 75)
-> 
+> Grimm starts in the formation with his Get Buff and Moving Right Along abilities unlocked. (Slot 0) He can be moved, but not removed.  
+> All Champions' base attack cooldowns are increased by 2 seconds, but Grimm's Get Buff stack limit is increased by 15.  
+> Getting to Know Grimm: Grimm's Get Buff ability will let him attack faster. Use ways to complete areas in less than 15 seconds to have him maintain these fast attack stacks!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Grimm's Strength Test Icon](images/grimm/25963.png) **Variant 2: Grimm's Strength Test** (Complete Area 125)
-> 
+> Grimm starts in the formation. (Slot 0) He can be moved, but not removed.   
+> You may only use Champions with a Strength of 14 or higher.  
+> Getting to Know Grimm (& Beadle!): While Beadle wouldn't normally be eligible for this adventure due to his low Strength, he can still be added to the formation due to the two of them being Inseparable.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Grimm's Icebreaker Icon](images/grimm/25964.png) **Variant 3: Grimm's Icebreaker** (Complete Area 175)
-> 
+> Grimm starts in the formation with his Break Their Will ability unlocked. (Slot 0) He can be moved, but not removed.  
+> A Frost Giant spawns with each wave. They don't drop gold nor count towards quest progress. No other enemies can be damaged until all the Frost Giants are defeated.  
+> All Boss monsters have at least 25 armored health.  
+> Getting to know Grimm: Grimm can quickly defeat foes with armored or segmented health. Use him and other breakers to cut through these enemies!
 </div></div>
 
 # Other Champion Images

@@ -249,8 +249,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "beadle_sticky_fingers,20",
             "graphic": 25993,
             "stun_time": 2,
-            "limit_per_enemy": 5,
-            "override_key_desc": "Whenever Beadle attacks an enemy he causes it to immediately drop $amount% of the gold it would award on death. The enemy then stops and checks its pockets, stunning it for 2 seconds. This can only occur to each enemy 5 times."
+            "limit_per_enemy": 5
         }
     ],
     "requirements": "",
@@ -260,6 +259,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "is_formation_ability": true,
         "show_outgoing_description": true,
         "show_incoming": false,
+        "use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -312,7 +312,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "retain_on_slot_changed": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -357,12 +357,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "index": 0,
             "stat_name": "GrimmTagTeamStacks",
             "is_instanced_stat": true,
-            "use_stat_defs": true
+            "use_stat_defs": true,
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 25992,
+    "large_graphic_id": 25983,
     "properties": {
         "is_formation_ability": true,
         "show_outgoing_description": true,
@@ -408,7 +409,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": "",
     "graphic_id": 0,
-    "large_graphic_id": 0,
+    "large_graphic_id": 25994,
     "properties": {
         "is_formation_ability": true,
         "show_outgoing_description": true,
@@ -450,7 +451,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": "",
     "graphic_id": 0,
-    "large_graphic_id": 0,
+    "large_graphic_id": 25995,
     "properties": {
         "is_formation_ability": true,
         "show_outgoing_description": true,
@@ -493,7 +494,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": "",
     "graphic_id": 0,
-    "large_graphic_id": 0,
+    "large_graphic_id": 25996,
     "properties": {
         "is_formation_ability": true,
         "show_outgoing_description": true,
