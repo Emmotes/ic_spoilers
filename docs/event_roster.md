@@ -22,7 +22,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="dynaheir" style="background-image:url(images/portraits/dynaheir.png)">Dynaheir (3)</span>
 <span class="eventRosterChampion" id="gale" style="background-image:url(images/portraits/gale.png)">Gale (1)</span>
 <span class="eventRosterChampion" id="volo" style="background-image:url(images/portraits/volo.png)">Volo (9)</span>
-<span class="eventRosterChampion" id="sheila" style="background-image:url(images/portraits/sheila.png)">Sheila</span>
+<span class="eventRosterChampion" id="sheila" style="background-image:url(images/portraits/sheila.png)">Sheila (7)</span>
 </span>
 
 {:/nomarkdown}
