@@ -23,31 +23,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="volo.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Volothamp "Volo" Geddarm Portrait Icon](images/volo/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Volothamp "Volo" Geddarm
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Wizard</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Fleetswake - 5 March 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="sheila.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -59,7 +34,7 @@ These are the event champions that are upcoming and all the information we know 
                 Sheila
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Rogue of Saturday Morning Squad (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Rogue of Saturday Morning Squad</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Fleetswake - 12 March 2025 (Worst the Wait Augment (Guess))</span>
@@ -267,31 +242,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 ## Fleetswake - 5 March 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
-<a href="volo.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Volothamp "Volo" Geddarm Portrait Icon](images/volo/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Volothamp "Volo" Geddarm
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Wizard</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="sheila.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -303,7 +253,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Sheila
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Rogue of Saturday Morning Squad (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Rogue of Saturday Morning Squad</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment (Guess)</span>
