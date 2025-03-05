@@ -47,6 +47,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Volo</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Volo's Expanded Expertise Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2098**Volo's Expanded Expertise (Volo)**I've had an epiphany! If I raise my voice, more willing ears might hear me!<code>change_upgrade_data,16550,0</code></span>Volo's Expanded Expertise
+        </span>
+        <span class="featTableEffect">
+            <span>+1 Column to Volo's Guide to Combat</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>05 Mar 2025<br>05 Jun 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Orkira</span>
         </span>
         <span class="featTableIcon4">
@@ -166,13 +183,30 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Kas</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Soul Shroud Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2158**Soul Shroud (Kas)**I will take their lives. I shall drink their very souls. Their fate is sealed.<code>buff_upgrade,80,15619,1</code></span>Soul Shroud
+        </span>
+        <span class="featTableEffect">
+            <span>80% Born Into Evil</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>10 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Briv</span>
         </span>
         <span class="featTableIcon4">
-            ![Thunder Step Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2131**Thunder Step (Briv)**Mine mighty footfalls shalt resoundeth throughout all the land!<code>todo<br>DevNote: NEW EFFECT! TECH REQUIRED! When Steelbones stacks convert to Sprint stacks upon reset, you gain 20% more Sprint stacks, rounded down</code></span>Thunder Step
+            ![Thunder Step Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2131**Thunder Step (Briv)**Mine mighty footfalls shalt resoundeth throughout all the land!<code>steelbones_sprint_conversion_inc,20</code></span>Thunder Step
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>Gain 20% More Sprint Stacks When Converted from Steelbones</span>
         </span>
         <span class="featTableSource">
             <span>1,680 Platinum<br>50,000 Gems</span>

@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 253**Loot the Weasel**Has larceny ever looked this cute?</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Loot the Weasel Portrait](images/familiars/loottheweasel.png)<span class="featTooltipContents">ID: 253**Loot the Weasel**Has larceny ever looked this cute?<img src="images/familiars/loottheweasel.gif" alt="Loot the Weasel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Loot the Weasel
@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Beacon the Giant Fire Beetle Portrait](images/familiars/beaconthegiantfirebeetle.png)<span class="featTooltipContents">ID: 255**Beacon the Giant Fire Beetle**<img src="images/familiars/beaconthegiantfirebeetle.gif" alt="Beacon the Giant Fire Beetle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Beacon the Giant Fire Beetle Portrait](images/familiars/beaconthegiantfirebeetle.png)<span class="featTooltipContents">ID: 255**Beacon the Giant Fire Beetle**Let him skitter ahead. He caught a nest of intellect devourers last time!<img src="images/familiars/beaconthegiantfirebeetle.gif" alt="Beacon the Giant Fire Beetle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Beacon the Giant Fire Beetle
@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Wazzik the Madcap Portrait](images/familiars/wazzikthemadcap.png)<span class="featTooltipContents">ID: 256**Wazzik the Madcap**<img src="images/familiars/wazzikthemadcap.gif" alt="Wazzik the Madcap Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Wazzik the Madcap Portrait](images/familiars/wazzikthemadcap.png)<span class="featTooltipContents">ID: 256**Wazzik the Madcap**We ride!<img src="images/familiars/wazzikthemadcap.gif" alt="Wazzik the Madcap Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Wazzik the Madcap
@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 257**Pepper the Baby Black Dragon**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 257**Pepper the Baby Black Dragon**She hunts the others in her clutch, watch her pounce!</span></span>
         </span>
         <span class="skinTableName">
             Pepper the Baby Black Dragon

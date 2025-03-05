@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Volo Champion Unlock Portrait](images/premiums/unlock_champion_159.png)<span class="itemTooltipContents">ID: 159**Volo**<img src="images/premiums/unlock_champion_159.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Volo Champion Unlock Portrait](images/premiums/unlock_champion_159.png)<span class="itemTooltipContents">ID: 159**Volo (Seat 9)**<img src="images/premiums/unlock_champion_159.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2098**Feat**???: 2098</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Volo's Expanded Expertise Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2098**Volo's Expanded Expertise**I've had an epiphany! If I raise my voice, more willing ears might hear me!<code>change_upgrade_data,16550,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2098</span>
+            <span style="margin-left:15px">Volo's Expanded Expertise</span>
+            <span style="margin-left:15px">Volo (+1 Column to Volo's Guide to Combat)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -622,7 +623,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 540**Frost Giant Beadle (B&G)**<img src="images/premiums/skin_540.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Frost Giant Beadle Skin Portrait](images/premiums/skin_540.png)<span class="itemTooltipContents">ID: 540**Frost Giant Beadle (Y4E15)**<img src="images/premiums/skin_540.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -631,7 +632,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 253**Loot the Weasel**Has larceny ever looked this cute?</span></span>
+            <span class="tooltipHolder">![Loot the Weasel Familiar Portrait](images/premiums/familiar_253.png)<span class="itemTooltipContents">ID: 253**Loot the Weasel**Has larceny ever looked this cute?<img src="images/premiums/familiar_253.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -691,7 +692,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 541**Frost Giant Grimm (Grimm)**<img src="images/premiums/skin_541.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Frost Giant Grimm Skin Portrait](images/premiums/skin_541.png)<span class="itemTooltipContents">ID: 541**Frost Giant Grimm (Grimm)**<img src="images/premiums/skin_541.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -823,7 +824,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Beacon the Giant Fire Beetle Familiar Portrait](images/premiums/familiar_255.png)<span class="itemTooltipContents">ID: 255**Beacon the Giant Fire Beetle**<img src="images/premiums/familiar_255.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Beacon the Giant Fire Beetle Familiar Portrait](images/premiums/familiar_255.png)<span class="itemTooltipContents">ID: 255**Beacon the Giant Fire Beetle**Let him skitter ahead. He caught a nest of intellect devourers last time!<img src="images/premiums/familiar_255.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -894,7 +895,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 543**Storm Giant Catti-brie (Catti-brie)**<img src="images/premiums/skin_543.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Storm Giant Catti-brie Skin Portrait](images/premiums/skin_543.png)<span class="itemTooltipContents">ID: 543**Storm Giant Catti-brie (Catti-brie)**<img src="images/premiums/skin_543.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -974,12 +975,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Thunder Step Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2131**Thunder Step**Mine mighty footfalls shalt resoundeth throughout all the land!<code>todo<br>DevNote: NEW EFFECT! TECH REQUIRED! When Steelbones stacks convert to Sprint stacks upon reset, you gain 20% more Sprint stacks, rounded down</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Thunder Step Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2131**Thunder Step**Mine mighty footfalls shalt resoundeth throughout all the land!<code>steelbones_sprint_conversion_inc,20</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Thunder Step</span>
-            <span style="margin-left:15px">Briv (todo)</span>
+            <span style="margin-left:15px">Briv (Gain 20% More Sprint Stacks When Converted from Steelbones)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1160,7 +1161,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Wazzik the Madcap Familiar Portrait](images/premiums/familiar_256.png)<span class="itemTooltipContents">ID: 256**Wazzik the Madcap**<img src="images/premiums/familiar_256.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Wazzik the Madcap Familiar Portrait](images/premiums/familiar_256.png)<span class="itemTooltipContents">ID: 256**Wazzik the Madcap**We ride!<img src="images/premiums/familiar_256.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1322,7 +1323,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 257**Pepper the Baby Black Dragon**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 257**Pepper the Baby Black Dragon**She hunts the others in her clutch, watch her pounce!</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

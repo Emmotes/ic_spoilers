@@ -45,23 +45,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Tuxedo Kalix Portrait](images/skin_portraits/tuxedokalix.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**<img src="images/skin_models/tuxedokalix.gif" alt="Tuxedo Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Tuxedo Kalix
-        </span>
-        <span class="skinTableSource">
-            [Weekend](weekends.md) (Guess)
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            07 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Swashbuckler Orkira Portrait](images/skin_portraits/swashbucklerorkira.png)<span class="featTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/swashbucklerorkira.gif" alt="Swashbuckler Orkira Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/swashbucklerorkira-ultimate_pheonix.gif" alt="Swashbuckler Orkira Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
@@ -164,7 +147,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 540**Frost Giant Beadle (B&G)**<img src="images/skin_models/frostgiantbeadle.gif" alt="Frost Giant Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Frost Giant Beadle Portrait](images/skin_portraits/frostgiantbeadle.png)<span class="featTooltipContents">ID: 540**Frost Giant Beadle (Y4E15)**<img src="images/skin_models/frostgiantbeadle.gif" alt="Frost Giant Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Frost Giant Beadle
@@ -181,7 +164,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 541**Frost Giant Grimm (Grimm)**<img src="images/skin_models/frostgiantgrimm.gif" alt="Frost Giant Grimm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Frost Giant Grimm Portrait](images/skin_portraits/frostgiantgrimm.png)<span class="featTooltipContents">ID: 541**Frost Giant Grimm (Grimm)**<img src="images/skin_models/frostgiantgrimm.gif" alt="Frost Giant Grimm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Frost Giant Grimm
@@ -317,7 +300,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 543**Storm Giant Catti-brie (Catti-brie)**<img src="images/skin_models/stormgiantcattibrie.gif" alt="Storm Giant Catti-brie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Storm Giant Catti-brie Portrait](images/skin_portraits/stormgiantcattibrie.png)<span class="featTooltipContents">ID: 543**Storm Giant Catti-brie (Catti-brie)**<img src="images/skin_models/stormgiantcattibrie.gif" alt="Storm Giant Catti-brie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Storm Giant Catti-brie
@@ -334,10 +317,10 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Red Dragon Rider Lae'zel Portrait](images/skin_portraits/reddragonriderlaezel.png)<span class="featTooltipContents">ID: 503**Red Dragon Rider Lae'zel (Lae'zel)**<img src="images/skin_models/reddragonriderlaezel.gif" alt="Red Dragon Rider Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Tuxedo Kalix Portrait](images/skin_portraits/tuxedokalix.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**<img src="images/skin_models/tuxedokalix.gif" alt="Tuxedo Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Red Dragon Rider Lae'zel
+            Tuxedo Kalix
         </span>
         <span class="skinTableSource">
             ???
@@ -402,6 +385,40 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 558**Dragonlance Spurt (Spurt)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragonlance Spurt
+        </span>
+        <span class="skinTableSource">
+            Emergence 11
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            23 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 557**Highlord Miria (Miria)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Highlord Miria
+        </span>
+        <span class="skinTableSource">
+            Emergence 11
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            23 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 548**Mind Flayer Halsin (Halsin)**</span></span>
         </span>
         <span class="skinTableName">
@@ -446,6 +463,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableCost">
             1,680p
+        </span>
+        <span class="skinTableDate">
+            07 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Red Dragon Rider Lae'zel Portrait](images/skin_portraits/reddragonriderlaezel.png)<span class="featTooltipContents">ID: 503**Red Dragon Rider Lae'zel (Lae'zel)**<img src="images/skin_models/reddragonriderlaezel.gif" alt="Red Dragon Rider Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Red Dragon Rider Lae'zel
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
         </span>
         <span class="skinTableDate">
             07 May 2025

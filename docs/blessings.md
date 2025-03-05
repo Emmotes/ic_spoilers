@@ -28,7 +28,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Local</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">Increases the damage of Champions with a total ability score of 80 or higher by X.</span>
+            <span style="margin-left: 8px;">Increases the damage of Champions with a total ability score of 80 or higher by X%.</span>
         </span>
     </span>
     <span class="blessingsTableRow">
@@ -36,7 +36,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Local</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">Increases the damage of all Champions by X and Windfall by an additional X.</span>
+            <span style="margin-left: 8px;">Windfall by an additional X%.</span>
         </span>
     </span>
     <span class="blessingsTableRow">
