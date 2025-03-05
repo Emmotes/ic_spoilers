@@ -37,6 +37,7 @@ Duration: 1 Day
     "graphic_id": 26151,
     "odds": 0,
     "properties": {
+        "keep_on_reset": true,
         "inventory_graphic_id": 26152,
         "name_plural": "Legendary Potions of Giant's Strength",
         "override_base_effect_key": "global_dps_multiplier_mult"
@@ -73,6 +74,7 @@ Duration: 1 Day
     "graphic_id": 26147,
     "odds": 0,
     "properties": {
+        "keep_on_reset": true,
         "inventory_graphic_id": 26148,
         "name_plural": "Legendary Potions of Clairvoyance",
         "override_base_effect_key": "gold_multiplier_mult"
@@ -109,6 +111,7 @@ Duration: 1 Day
     "graphic_id": 26153,
     "odds": 0,
     "properties": {
+        "keep_on_reset": true,
         "inventory_graphic_id": 26154,
         "name_plural": "Legendary Potions of Heroism",
         "override_base_effect_key": "health_mult"
@@ -145,6 +148,7 @@ Duration: 1 Day
     "graphic_id": 26149,
     "odds": 0,
     "properties": {
+        "keep_on_reset": true,
         "inventory_graphic_id": 26150,
         "name_plural": "Legendary Fire Breath Potions",
         "override_base_effect_key": "click_damage_seconds_global_dps"
@@ -181,6 +185,7 @@ Duration: 1 Day
     "graphic_id": 26155,
     "odds": 0,
     "properties": {
+        "keep_on_reset": true,
         "inventory_graphic_id": 26156,
         "name_plural": "Legendary Potions of Speed",
         "override_base_effect_key": "time_scale"
