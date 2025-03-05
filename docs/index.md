@@ -27,14 +27,14 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Volo Portrait Icon](images/volo/portrait.png)
+            ![Volothamp "Volo" Geddarm Portrait Icon](images/volo/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Volo
+                Volothamp "Volo" Geddarm
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Wizard (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Wizard</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Fleetswake - 5 March 2025</span>
@@ -114,6 +114,9 @@ These are the event champions that are upcoming and all the information we know 
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">The Great Modron March - 7 May 2025</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
@@ -203,7 +206,10 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="yorven.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Yorven Springpaw Portrait Icon](images/yorven/portrait.png)
         </span>
@@ -215,13 +221,16 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Harengon Barbarian / Druid</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">The Great Modron March - 14 May 2025 (Worst the Wait Augment (Guess)) (Guess)</span>
+                <span class="indexChampionTableNoLink">The Great Modron March - 14 May 2025 (Worst the Wait Augment (Guess))</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
     <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
             ![Krond Portrait Icon](images/krond/portrait.png)
@@ -262,14 +271,14 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Volo Portrait Icon](images/volo/portrait.png)
+            ![Volothamp "Volo" Geddarm Portrait Icon](images/volo/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Volo
+                Volothamp "Volo" Geddarm
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Wizard (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Wizard</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
@@ -416,17 +425,23 @@ These are the upcoming new and reworked champions and where they'll be found.
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
         </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="yorven.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Yorven Springpaw Portrait Icon](images/yorven/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Yorven Springpaw (Guess)
+                Yorven Springpaw
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Harengon Barbarian / Druid</span>
@@ -442,6 +457,9 @@ These are the upcoming new and reworked champions and where they'll be found.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
@@ -506,7 +524,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 Miscellaneous spoilers with due dates.
 
 * [Apothecary/Notary System](apothecary_notary.md) - 12 March 2025 (Guess)
-* Emergence 11 - 23 April 2025
+* [Emergence 11](emergence_11.md) - 23 April 2025
 
 # Misc
 
