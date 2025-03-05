@@ -1524,6 +1524,7 @@ Dungeon Master: 5 / 6
    Shadowheart: 4 / 6
          Shaka: 5 / 6
        Shandie: 6 / 6
+        Sheila: 4 / 6
       Sisaspia: 5 / 6
          Spurt: 4 / 6
          Stoki: 4 / 6
