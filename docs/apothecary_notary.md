@@ -4,19 +4,31 @@
 
 The presumed date for this system is on 12 March 2025 with the release of Sheila - though it could come out before then.
 
-Very little is known about this system at present. We have a few references in the definitions - but most of what we "know" is from Dev Insights.
+Very little is known about this system at present. We have a few references in the definitions - but most of what we "know" is from Dev Insights - so take everything with a significant portion of salt.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: We have been told that the Notary system will not be released at the same time as the Apothecary system. It will release at an indeterminate time later.*
 
-## Currency
+## Apothecary
 
-We know from Sheila that this system will have its own unique currency called Potion Reagents because Sheila will scavenge them from bosses. There's no data to tell us how they'll be attained otherwise - though Justin did mention it on DI recently - see the Info From Dev Insights list below.
+This is a system that will allow dismantling potions and creating other potions with the reagents. I expect the primary use will be breaking down non-speed potions and using the materials to craft speed potions. The system will also add a higher tier of potion called legendary potions (not to be confused with legendary potions).
 
-There is also another currency because there's a text define called `legendary_vessels` (just like there's one for `potion_reagents`). The suspicion is that they will be required to make the Legendary potions below.
+## Notary
+
+This is a system that will allow converting contracts - primarily combining lower rarities into higher rarities - so that it's not so much of a chore to use bounty contracts every event. (50 large bounties contracts are equivalent to 800 smalls after all.)
+
+It will also let us buy the contents of gold and silver chests directly for gems - and any bounty contracts earned that way will apparently immediately convert into event tokens. This will save the need to buy chests and then open the chests.
+
+## Currencies
+
+The first of the currencies are Potion Reagents and we will get them from dismantling potions - as well as from Sheila due to her scavenger ability. The reagents are what will be used to craft potions.
+
+The second of the currencies are Legendary Vessels. The assumption is that they'll be used to craft the legendary potions (not to be confused with legendary potions). We know there'll be a premium bundle to buy these and there is data to potentially suggest that we could maybe get some via the Daily Platinum claim at least once a week. Possibly. We don't know if there'll be any other ways to get them via free-to-play.
 
 ## Legendary Grade Potions
 
-There'll be legendary potions from this system (not to be confused with legendary potions).
+There'll be Legendary potions from this system (not to be confused with legendary potions). They will be a tier higher than Huge and will last for one day (and will persist between adventures).
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: We've been told that the Apothecary/Notary systems will not interact in any way with the legendary potions (not to be confused with legendary potions) created with Scales of Tiamat in the Legendary Forge system.*
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ### Legendary Potion of Giant's Strength  
@@ -219,16 +231,6 @@ Some art assets just got added:
 | Strength | Clairvoyance | Heroism | Fire Breath | Speed |
 |---|---|---|---|---|
 | ![Legendary Potion of Giant's Strength Icon](images/apothecary_notary/leg_pot_str.png) | ![Legendary Potion of Clairvoyance Icon](images/apothecary_notary/leg_pot_gold.png) | ![Legendary Potion of Heroism Icon](images/apothecary_notary/leg_pot_hp.png) | ![Legendary Fire Breath Potion Icon](images/apothecary_notary/leg_pot_fb.png) | ![Legendary Potion of Speed Icon](images/apothecary_notary/leg_pot_spd.png) |
-
-## Info From Dev Insights
-
-We've been told a few things over the past few months/years about potential features for this system - so we don't really know which ones are still true or will be true when it releases. So - as ever - take this all with a significantly sized pile of salt.
-
-- We will be able to combine/split potions and potentially also contracts to increase/decrease their rarity. If this is true we could finally consolidate all our green bounty contracts up to epic for ease of use. We've been told that this will not require the currency item.
-- We will be able to convert potion types to other types. For example - Firebreath to Speed. We've been told this will require the currency item.
-- We will be able to purchase the contents of chests directly with gems - skipping the buying of chests and then the opening of said chests. Apparently this will also automatically convert any bounty contracts we would have gotten directly into tokens. We don't know how well this will play with the auto-spend when an event ends.
-- This system will not interact with legendary potions (not to be confused with legendary potions).
-- We will get apothecary reagents by dismantling normal potions. We will then be able to use them to craft other potions. Apparently we'll be able to dismantle 7 day duration potions but not create them.
 
 [Back to Top](#top)
 
