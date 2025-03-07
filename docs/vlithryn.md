@@ -233,7 +233,7 @@ Unknown.
     "id": 2280,
     "flavour_text": "",
     "description": {
-        "desc": "Every second, Vlithryn heals the most damaged Champion for $amount health. This amount is increased by $(not_buffed amount___2)% for each Tanking Champion in the formation."
+        "desc": "Every second, Vlithryn heals the most damaged Champion for $(not_buffed amount) health. This amount is increased by $(not_buffed amount___2)% for each Tanking Champion in the formation."
     },
     "effect_keys": [
         {
@@ -264,11 +264,106 @@ Unknown.
     "graphic_id": 26238,
     "large_graphic_id": 26231,
     "properties": {
+        "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
-        "show_bonus": true
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Pantheon of Blessings** (Guess)
+> Vlithryn increases the effect of Justice of the Depths by 10% for each Global Tier Blessing you have unlocked, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2281,
+    "flavour_text": "",
+    "description": {
+        "desc": "Vlithryn increases the effect of Justice of the Depths by $amount% for each Global Tier Blessing you have unlocked, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,10",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,16895",
+            "off_when_benched": true,
+            "amount_expr": "upgrade_amount(16897,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "num_global_blessings",
+            "amount_updated_listeners": [
+                "blessings_changed"
+            ],
+            "stacks_mulitply": true,
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 26241,
+    "large_graphic_id": 26234,
+    "properties": {
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Revivify** (Guess)
+> When a Champion is defeated, Vlithryn consumes a Revivify charge and screams in frustration, pushing back all enemies a short distance. She then casts Revivify and heals the defeated Champion, bringing them back to life at full health. Vlithryn's Revivify charges are equal to the number of Awful Ones in the formation and reset upon changing areas. The effect of Justice of the Depths is increased by 1000% for each Revivify charge used in the current area, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2282,
+    "flavour_text": "",
+    "description": {
+        "desc": "When a Champion is defeated, Vlithryn consumes a Revivify charge and screams in frustration, pushing back all enemies a short distance. She then casts Revivify and heals the defeated Champion, bringing them back to life at full health. Vlithryn's Revivify charges are equal to the number of Awful Ones in the formation and reset upon changing areas. The effect of Justice of the Depths is increased by $amount% for each Revivify charge used in the current area, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,1000,16895",
+            "manual_stacking": true,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "show_bonus": true
+        },
+        {
+            "effect_string": "vlithryn_revivify",
+            "off_when_benched": true,
+            "base_buff_index": 0,
+            "animation_play_time": 2,
+            "resurrection_priority": 1100,
+            "override_key_desc": "When a Champion is defeated, Vlithryn consumes a Revivify charge and screams in frustration, pushing back all enemies a short distance. She then casts Revivify and heals the defeated Champion, bringing them back to life at full health.",
+            "tag": "awfulones"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 26242,
+    "large_graphic_id": 26235,
+    "properties": {
+        "is_formation_ability": true,
+        "show_incoming": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -283,67 +378,26 @@ Unknown.
 <p>
 <pre>
 {
-    "id": 26239,
-    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y8/Icon_Formation_Vlithryn_DivineIntervention",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Pantheon of Blessings** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 26241,
-    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y8/Icon_Formation_Vlithryn_PantheonofBlessings",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Revivify** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 26242,
-    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y8/Icon_Formation_Vlithryn_Revivify",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2283,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "vlithryn_divine_intervention",
+            "persana_sequences": {
+                "idle": 1,
+                "walk": 2,
+                "special": 0
+            }
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true
     }
 }
 </pre>
