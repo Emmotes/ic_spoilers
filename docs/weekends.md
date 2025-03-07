@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/725.png">
-            <span class="weekendTooltipContents">ID: 725**Gold Distinguished Chest**Loot for: Volo, Asharra, Jarlaxle, Zorbu and Gale<code>"for_crusaders":[159,6,4,22,147]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Renown**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    07 March 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Volo
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/volo.png'">
-                        <span class="weekendTableChampionNameplate">Volo</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jarlaxle.png'">
-                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/zorbu.png'">
-                        <span class="weekendTableChampionNameplate">Zorbu</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/gale.png'">
-                        <span class="weekendTableChampionNameplate">Gale</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/726.png">
             <span class="weekendTooltipContents">ID: 726**Gold Commercial Chest**Loot for: Sheila, Celeste, Calliope, Eric and Bobby<code>"for_crusaders":[160,2,5,157,152]</code></span>
         </span>
