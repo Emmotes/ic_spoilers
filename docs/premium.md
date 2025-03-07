@@ -840,7 +840,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Thunder Step</span>
-            <span style="margin-left:15px">Briv (Gain 20% More Sprint Stacks When Converted from Steelbones)</span>
+            <span style="margin-left:15px">Briv (Gain 20% More Sprint Stacks When Converted from Steelbones (Round Down))</span>
         </span>
     </span>
     <span class="premiumsTableItem">

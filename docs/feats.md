@@ -189,7 +189,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             ![Thunder Step Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2131**Thunder Step (Briv)**Mine mighty footfalls shalt resoundeth throughout all the land!<code>steelbones_sprint_conversion_inc,20</code></span>Thunder Step
         </span>
         <span class="featTableEffect">
-            <span>Gain 20% More Sprint Stacks When Converted from Steelbones</span>
+            <span>Gain 20% More Sprint Stacks When Converted from Steelbones (Round Down)</span>
         </span>
         <span class="featTableSource">
             <span>1,680 Platinum<br>50,000 Gems</span>
