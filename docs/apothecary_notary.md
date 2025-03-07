@@ -6,6 +6,8 @@ The presumed date for this system is on 12 March 2025 with the release of Sheila
 
 Very little is known about this system at present. We have a few references in the definitions - but most of what we "know" is from Dev Insights.
 
+<span style="font-size:1.2em;">ⓘ</span> *Note: We have been told that the Notary system will not be released at the same time as the Apothecary system. It will release at an indeterminate time later.*
+
 ## Currency
 
 We know from Sheila that this system will have its own unique currency called Potion Reagents because Sheila will scavenge them from bosses. There's no data to tell us how they'll be attained otherwise - though Justin did mention it on DI recently - see the Info From Dev Insights list below.
