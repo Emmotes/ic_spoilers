@@ -373,7 +373,13 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Divine Intervention** (Guess)
-> Unknown effect.
+> Vlithryn gains one Dire Straits stack every time she effectively heals a Champion with Cleric Clinic. When she reaches 30 stacks, Persana appears and blesses her with the following:  
+>   
+> - Revivify immediately gains an additional charge  
+> - Justice of the Depths is increased by $(not_buffed amount__3)% for each Dire Straits stack, stacking multiplicatively  
+> - The healing amount of Cleric Clinic is increased by $(not_buffed amount__4)% for each Dire Straits stack, stacking additively.  
+>   
+> Dire Straits stacks continue to increase after Persana appears, up to a maximum of 100. Upon changing areas, all Dire Straits stacks reset and Persana disappears, taking his blessings with him.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -381,16 +387,56 @@ Unknown.
     "id": 2283,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Vlithryn gains one Dire Straits stack every time she effectively heals a Champion with Cleric Clinic. When she reaches 30 stacks, Persana appears and blesses her with the following:^^- Revivify immediately gains an additional charge^- Justice of the Depths is increased by $(not_buffed amount__3)% for each Dire Straits stack, stacking multiplicatively^- The healing amount of Cleric Clinic is increased by $(not_buffed amount__4)% for each Dire Straits stack, stacking additively.^^Dire Straits stacks continue to increase after Persana appears, up to a maximum of 100. Upon changing areas, all Dire Straits stacks reset and Persana disappears, taking his blessings with him."
     },
     "effect_keys": [
         {
+            "effect_string": "apply_effects_at_stacks",
+            "show_description": false,
+            "apply_effect_stack_amounts": [
+                0,
+                30,
+                30
+            ],
+            "max_stacks": 100,
+            "show_stacks": true,
+            "manual_stacking": true
+        },
+        {
             "effect_string": "vlithryn_divine_intervention",
+            "apply_manually": true,
             "persana_sequences": {
                 "idle": 1,
-                "walk": 2,
-                "special": 0
-            }
+                "walk": 2
+            },
+            "base_buff_index": 0,
+            "buff_effect_indices": [
+                2,
+                3
+            ],
+            "graphic_id": 26218,
+            "persana_stack_num": 30,
+            "max_stacks": 100
+        },
+        {
+            "effect_string": "buff_upgrade,10,16895",
+            "manual_stacking": true,
+            "apply_manually": true,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "stacks_mulitply": true,
+            "show_bonus": true
+        },
+        {
+            "effect_string": "buff_upgrade,10,16896",
+            "manual_stacking": true,
+            "apply_manually": true,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "stacks_mulitply": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -409,47 +455,44 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Help the Unfortunate** (Guess)
-> Unknown effect.
+> Vlithryn increases Justice of the Depths's damage bonus by 100% for every Champion in the formation with an INT score of 12 or lower, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 26245,
-    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y8/Icon_Specialization_Vlithryn_HelptheUnfortunate",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Spreading the Word** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 26246,
-    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y8/Icon_Specialization_Vlithryn_SpreadingtheWord",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2284,
+    "flavour_text": "",
+    "description": {
+        "desc": "Vlithryn increases Justice of the Depths's damage bonus by $(not_buffed amount)% for every Champion in the formation with an INT score of 12 or lower, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,16895",
+            "stack_title": "Affected Champions",
+            "amount_func": "mult",
+            "stack_func": "per_crusader",
+            "stack_func_data": {
+                "target_filters": [
+                    {
+                        "type": "stat",
+                        "stat": "int",
+                        "comparison": "<=",
+                        "value": 12
+                    }
+                ]
+            },
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true
     }
 }
 </pre>
@@ -459,22 +502,81 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Who Else Would Save Them** (Guess)
-> Unknown effect.
+> Vlithryn increases Justice of the Depths's damage bonus by 150% for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 26247,
-    "graphic": "Icons/Events/2018 GreatModronMarch/GreatModronMarch_Y8/Icon_Specialization_Vlithryn_WhoElseWouldSaveThem",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2285,
+    "flavour_text": "",
+    "description": {
+        "desc": "Vlithryn increases Justice of the Depths's damage bonus by $(not_buffed amount)% for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,150,16895",
+            "stack_title": "Affected Champions",
+            "amount_func": "mult",
+            "stack_func": "per_crusader",
+            "stack_func_data": {
+                "target_filters": [
+                    {
+                        "type": "stat",
+                        "stat": "total_ability_score",
+                        "comparison": "<=",
+                        "value": 78
+                    }
+                ]
+            },
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Spreading the Word** (Guess)
+> Vlithryn increases Justice of the Depths's damage bonus by 150% for each unique Species in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2286,
+    "flavour_text": "",
+    "description": {
+        "desc": "Vlithryn increases Justice of the Depths's damage bonus by $(not_buffed amount)% for each unique Species in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,150,16895",
+            "stacks_multiply": true,
+            "amount_func": "mult",
+            "stack_func": "per_unique_race",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true
     }
 }
 </pre>
