@@ -474,6 +474,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 Miscellaneous spoilers with due dates.
 
 * [Apothecary/Notary System](apothecary_notary.md) - 12 March 2025 (Guess)
+* [Festival of Fools (Guess) Augments](augments_16.md) - 2 April 2025 (Guess)
 * [Emergence 11](emergence_11.md) - 23 April 2025
 
 # Misc
