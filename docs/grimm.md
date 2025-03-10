@@ -395,7 +395,7 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Get Buff Icon](images/grimm/icon_getbuff.png) **Get Buff** (Level: 10)
+![Get Buff Icon](images/grimm/icon_getbuff.png) **Get Buff** (Level: 30)
 > Each time Grimm attacks an enemy his base attack cooldown is reduced by 0.2 seconds and he deals 25% more damage, stacking up to 25 times. Damage bonus stacks multiplicatively, while the base attack cooldown stacks additively. Stacks reset upon changing areas, unless Moving Right Along is triggered.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -403,9 +403,28 @@ Grimm will be a new champion in the Festival of Fools event on 2 April 2025.
 <p>
 <pre>
 Upgrades:
-       70: 100%
+      120: 100%
+      260: 100%
+      420: 100%
+      620: 100%
+      790: 100%
+      970: 100%
+    1,120: 100%
+    1,280: 100%
+    1,430: 100%
+    1,590: 100%
+    1,750: 100%
+    1,900: 100%
+    2,060: 100%
+    2,220: 100%
+    2,390: 100%
+    2,540: 100%
+    2,700: 100%
+    2,860: 100%
+    3,020: 100%
+    3,180: 100%
 
-    Total Upgrade Bonus: 100%
+    Total Upgrade Bonus: 1.05e08%
 </pre>
 </p>
 </details>
@@ -415,7 +434,7 @@ Upgrades:
 {
     "id": 16735,
     "hero_id": 161,
-    "required_level": 10,
+    "required_level": 30,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,2257",
@@ -484,7 +503,216 @@ Upgrades:
 {
     "id": 16901,
     "hero_id": 161,
-    "required_level": 70,
+    "required_level": 120,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16964,
+    "hero_id": 161,
+    "required_level": 260,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16965,
+    "hero_id": 161,
+    "required_level": 420,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16966,
+    "hero_id": 161,
+    "required_level": 620,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16967,
+    "hero_id": 161,
+    "required_level": 790,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16968,
+    "hero_id": 161,
+    "required_level": 970,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16969,
+    "hero_id": 161,
+    "required_level": 1120,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16970,
+    "hero_id": 161,
+    "required_level": 1280,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16971,
+    "hero_id": 161,
+    "required_level": 1430,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16972,
+    "hero_id": 161,
+    "required_level": 1590,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16973,
+    "hero_id": 161,
+    "required_level": 1750,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16974,
+    "hero_id": 161,
+    "required_level": 1900,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16975,
+    "hero_id": 161,
+    "required_level": 2060,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16976,
+    "hero_id": 161,
+    "required_level": 2220,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16977,
+    "hero_id": 161,
+    "required_level": 2390,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16978,
+    "hero_id": 161,
+    "required_level": 2540,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16979,
+    "hero_id": 161,
+    "required_level": 2700,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16980,
+    "hero_id": 161,
+    "required_level": 2860,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16981,
+    "hero_id": 161,
+    "required_level": 3020,
+    "required_upgrade_id": 0,
+    "upgrade_type": "upgrade_ability",
+    "effect": "buff_upgrade,100,16735",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": ""
+}
+{
+    "id": 16982,
+    "hero_id": 161,
+    "required_level": 3180,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
     "effect": "buff_upgrade,100,16735",
@@ -498,45 +726,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![One-on-One Icon](images/grimm/icon_oneonone.png) **One-on-One** (Level: 15)
-> Grimm leaps into the fray, brutally slashing the enemy with the most health and knocking back all other enemies in a small area. Afterwards, if you're not in a boss area, a Frost Giant spawns in revenge.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 16731,
-    "hero_id": 161,
-    "required_level": 15,
-    "required_upgrade_id": 0,
-    "upgrade_type": "unlock_ultimate",
-    "effect": "effect_def,2255",
-    "static_dps_mult": null,
-    "default_enabled": 1,
-    "name": "One-on-One"
-}
-{
-    "id": 2255,
-    "flavour_text": "",
-    "description": {
-        "desc": "Grimm leaps into the fray, brutally slashing the enemy with the most health and knocking back all other enemies in a small area. Afterwards, if you're not in a boss area, a Frost Giant spawns in revenge."
-    },
-    "effect_keys": [
-        {
-            "effect_string": "set_ultimate_attack,842"
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
-    "properties": []
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Break Their Will Icon](images/grimm/icon_breaktheirwill.png) **Break Their Will** (Level: 20)
+![Break Their Will Icon](images/grimm/icon_breaktheirwill.png) **Break Their Will** (Level: 70)
 > Each time Grimm attacks an enemy and breaks at least one armor or segmented health, he breaks 1 more on all subsequent attacks, stacking additively up to 5 times. Stacks reset upon changing areas, unless Moving Right Along is triggered.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -544,7 +734,7 @@ Upgrades:
 {
     "id": 16736,
     "hero_id": 161,
-    "required_level": 20,
+    "required_level": 70,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,2258",
@@ -604,7 +794,45 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Moving Right Along Icon](images/grimm/icon_movingrightalong.png) **Moving Right Along** (Level: 30)
+![One-on-One Icon](images/grimm/icon_oneonone.png) **One-on-One** (Level: 100)
+> Grimm leaps into the fray, brutally slashing the enemy with the most health and knocking back all other enemies in a small area. Afterwards, if you're not in a boss area, a Frost Giant spawns in revenge.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 16731,
+    "hero_id": 161,
+    "required_level": 100,
+    "required_upgrade_id": 0,
+    "upgrade_type": "unlock_ultimate",
+    "effect": "effect_def,2255",
+    "static_dps_mult": null,
+    "default_enabled": 1,
+    "name": "One-on-One"
+}
+{
+    "id": 2255,
+    "flavour_text": "",
+    "description": {
+        "desc": "Grimm leaps into the fray, brutally slashing the enemy with the most health and knocking back all other enemies in a small area. Afterwards, if you're not in a boss area, a Frost Giant spawns in revenge."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "set_ultimate_attack,842"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Moving Right Along Icon](images/grimm/icon_movingrightalong.png) **Moving Right Along** (Level: 140)
 > If the party completes a new area within 15 seconds of entering it, Grimm's Get Buff and Break Their Will stacks do not reset upon entering the next area.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -612,7 +840,7 @@ Upgrades:
 {
     "id": 16737,
     "hero_id": 161,
-    "required_level": 30,
+    "required_level": 140,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,2259",
@@ -753,7 +981,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Barbarian's Protection Icon](images/grimm/icon_barbariansprotection.png) **Barbarian's Protection** (Level: 40)
+![Barbarian's Protection Icon](images/grimm/icon_barbariansprotection.png) **Barbarian's Protection** (Level: 300)
 > Grimm increases the health of all other Champions by 25% of his max health and any healing effect on those Champions is increased by 25%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -761,7 +989,7 @@ Upgrades:
 {
     "id": 16738,
     "hero_id": 161,
-    "required_level": 40,
+    "required_level": 300,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,2260",
@@ -808,7 +1036,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Ultimate Tag Team Icon](images/grimm/icon_ultimatetagteam.png) **Ultimate Tag Team** (Level: 90)
+![Ultimate Tag Team Icon](images/grimm/icon_ultimatetagteam.png) **Ultimate Tag Team** (Level: 440)
 > When Beadle uses his ultimate ability in the same party as Grimm, Grimm's ultimate ability goes on cooldown and he gains one Tag Team stack. For each Tag Team stack Grimm has, his ultimate cooldown is reduced by 5 seconds, and his next ultimate attack deals 200% more damage, stacking multiplicatively. Tag Team stacks cap at 10 and reset when Grimm uses his ultimate ability.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -816,7 +1044,7 @@ Upgrades:
 {
     "id": 16732,
     "hero_id": 161,
-    "required_level": 90,
+    "required_level": 440,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,2254",
@@ -879,7 +1107,7 @@ Upgrades:
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Giant Hunter Icon](images/grimm/icon_gianthunter.png) **Giant Hunter** (Level: 50)
+![Giant Hunter Icon](images/grimm/icon_gianthunter.png) **Giant Hunter** (Level: 200)
 > Grimm gains the Hunter role, and Giants become his Favored Foe. Grimm deals 10000% more damage against his Favored Foe, and all boss enemies also count as Giants for the purposes of all abilities that care about such things.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -887,7 +1115,7 @@ Upgrades:
 {
     "id": 16890,
     "hero_id": 161,
-    "required_level": 50,
+    "required_level": 200,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,2261",
@@ -941,7 +1169,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Giant Taunter Icon](images/grimm/icon_gianttaunter.png) **Giant Taunter** (Level: 50)
+![Giant Taunter Icon](images/grimm/icon_gianttaunter.png) **Giant Taunter** (Level: 200)
 > Grimm taunts all enemies he attacks, causing them to switch targets and attack him. For each enemy that has attacked him in the current area, his damage is increased by 25%, stacking multiplicatively up to 100 times.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -949,7 +1177,7 @@ Upgrades:
 {
     "id": 16891,
     "hero_id": 161,
-    "required_level": 50,
+    "required_level": 200,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,2262",
@@ -1009,7 +1237,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Giant Profits Icon](images/grimm/icon_giantprofits.png) **Giant Profits** (Level: 50)
+![Giant Profits Icon](images/grimm/icon_giantprofits.png) **Giant Profits** (Level: 200)
 > Grimm gains the Gold Find role. Enemies that Grimm defeats drop 100% additional gold for each enemy he has defeated in the current area, stacking multiplicatively and capping at 20.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1017,7 +1245,7 @@ Upgrades:
 {
     "id": 16892,
     "hero_id": 161,
-    "required_level": 50,
+    "required_level": 200,
     "required_upgrade_id": 0,
     "upgrade_type": "unlock_ability",
     "effect": "effect_def,2263",
