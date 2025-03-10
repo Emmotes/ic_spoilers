@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Volo</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 2159**Illithid Tadpole (Volo)**I've simply the worst headache today. Bah! I'm certain it's nothing serious.<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span>Illithid Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Mar 2025<br>12 Jun 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Nrakk</span>
         </span>
         <span class="featTableIcon4">
