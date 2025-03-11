@@ -197,7 +197,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Y4E15
+                        Golden Epic for Beadle
                     </span>
                 </span>
                 <span class="weekendTableChampions">
