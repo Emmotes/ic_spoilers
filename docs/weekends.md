@@ -158,7 +158,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/general/unknown.png'">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/grimm.png'">
                         <span class="weekendTableChampionNameplate">Grimm</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
@@ -201,8 +201,8 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/general/unknown.png'">
-                        <span class="weekendTableChampionNameplate">Y4E15</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/beadle.png'">
+                        <span class="weekendTableChampionNameplate">Beadle</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
                         <span class="weekendTableChampionNameplate">Nayeli</span>
