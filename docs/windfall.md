@@ -28,7 +28,7 @@ A performer at heart, Windfall is ostentatious and charismatic, making small tal
 
 # Basic Information
 
-Windfall will be an upcoming Evergreen champion guesstimated to release on 23 April 2025 with the [Vecna 7 content drop](contentdrops.md#vecna-7---23-april-2025).
+Windfall will be an upcoming Evergreen champion guesstimated to release on 28 May 2025 with the [Vecna 8 content drop](contentdrops.md#vecna-8---28-may-2025).
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
@@ -111,7 +111,64 @@ Unknown.
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Casino I Drink Icon](images/windfall/26324.png)</span><span class="itemTableIcon2">![Casino I Drink Icon](images/windfall/26324.png)</span><span class="itemTableIcon3">![Casino I Drink Icon](images/windfall/26325.png)</span><span class="itemTableIcon4">![Casino I Drink Icon](images/windfall/26326.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Casino I Drink
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Casino Item Icon](images/windfall/26327.png)</span><span class="itemTableIcon2">![Casino Item Icon](images/windfall/26327.png)</span><span class="itemTableIcon3">![Casino Item Icon](images/windfall/26328.png)</span><span class="itemTableIcon4">![Casino Item Icon](images/windfall/26329.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Casino Item
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Cloak Icon](images/windfall/26330.png)</span><span class="itemTableIcon2">![Cloak Icon](images/windfall/26330.png)</span><span class="itemTableIcon3">![Cloak Icon](images/windfall/26331.png)</span><span class="itemTableIcon4">![Cloak Icon](images/windfall/26332.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Cloak
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Instrument Icon](images/windfall/26333.png)</span><span class="itemTableIcon2">![Instrument Icon](images/windfall/26333.png)</span><span class="itemTableIcon3">![Instrument Icon](images/windfall/26334.png)</span><span class="itemTableIcon4">![Instrument Icon](images/windfall/26335.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Instrument
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Tiamat Item Icon](images/windfall/26336.png)</span><span class="itemTableIcon2">![Tiamat Item Icon](images/windfall/26336.png)</span><span class="itemTableIcon3">![Tiamat Item Icon](images/windfall/26337.png)</span><span class="itemTableIcon4">![Tiamat Item Icon](images/windfall/26338.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Tiamat Item
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Weapons Icon](images/windfall/26339.png)</span><span class="itemTableIcon2">![Weapons Icon](images/windfall/26339.png)</span><span class="itemTableIcon3">![Weapons Icon](images/windfall/26340.png)</span><span class="itemTableIcon4">![Weapons Icon](images/windfall/26341.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Weapons
+        </span>
+    </span>
+</span>
 
 # Feats
 
