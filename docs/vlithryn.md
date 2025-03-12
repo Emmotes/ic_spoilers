@@ -136,19 +136,17 @@ Unknown.
     "animations": [
         {
             "type": "melee_attack",
-            "damage_frame": 3
+            "damage_frame": 3,
+            "effects_on_monsters": [
+                {
+                    "effect_string": "push_back_monster,5",
+                    "after_damage": true
+                }
+            ]
         }
     ],
     "tags": [
-        {
-            "type": "melee_attack",
-            "target_offset_x": -34,
-            "damage_frame": 2,
-            "jump_sound": 30,
-            "sound_frames": {
-                "2": 154
-            }
-        }
+        "melee"
     ],
     "damage_types": [
         "melee"
@@ -160,7 +158,55 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Call Lightning**
+**Base Attack: Blessed Mace** (Melee)
+> Vlithryn attacks a random enemy, dealing bud-based damage and knocking them back a short distance.  
+> Cooldown: 6s (Cap 1.5s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 845,
+    "name": "Blessed Mace",
+    "description": "Vlithryn attacks a random enemy, dealing bud-based damage and knocking them back a short distance.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 6,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 3,
+            "effects_on_monsters": [
+                {
+                    "effect_string": "push_back_monster,5",
+                    "after_damage": true
+                },
+                {
+                    "effect_string": "damage_monster_target_by_bud",
+                    "hit_monsters": true,
+                    "damage_mult": 3,
+                    "after_damage": true
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Call Lightning**
 > Vlithryn zaps the enemy with the most remaining Health, and then empowers her attack with lightning for 15 seconds, increasing her attack speed and adding BUD-based damage.  
 > Cooldown: 180s (Cap 45s)
 <details><summary><em>Raw Data</em></summary>
@@ -171,15 +217,25 @@ Unknown.
     "name": "Call Lightning",
     "description": "Vlithryn zaps the enemy with the most Health, then empowering her attacks for 15 seconds.",
     "long_description": "Vlithryn zaps the enemy with the most remaining Health, and then empowers her attack with lightning for 15 seconds, increasing her attack speed and adding BUD-based damage.",
-    "graphic_id": 0,
+    "graphic_id": 26249,
     "target": "highest_health",
     "num_targets": 1,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0.03,
     "cooldown": 180,
-    "animations": "",
-    "tags": "",
-    "damage_types": ""
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "vlithryn",
+            "animation_sequence_name": "ultimate"
+        }
+    ],
+    "tags": [
+        "ultimate"
+    ],
+    "damage_types": [
+        "magic"
+    ]
 }
 </pre>
 </p>
@@ -251,7 +307,8 @@ Unknown.
         {
             "effect_string": "buff_upgrade,0,16896",
             "amount_expr": "upgrade_amount(16896,1)",
-            "amount_func": "mult",
+            "amount_func": "add",
+            "stacks_multiply": false,
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`tanking`)",
             "amount_updated_listeners": [
@@ -343,12 +400,14 @@ Unknown.
             "amount_updated_listeners": [
                 "slot_changed"
             ],
+            "stacks_multiply": true,
             "show_bonus": true
         },
         {
             "effect_string": "vlithryn_revivify",
             "off_when_benched": true,
             "base_buff_index": 0,
+            "bonus_revivify_charges": 0,
             "animation_play_time": 2,
             "resurrection_priority": 1100,
             "override_key_desc": "When a Champion is defeated, Vlithryn consumes a Revivify charge and screams in frustration, pushing back all enemies a short distance. She then casts Revivify and heals the defeated Champion, bringing them back to life at full health.",
@@ -376,8 +435,8 @@ Unknown.
 > Vlithryn gains one Dire Straits stack every time she effectively heals a Champion with Cleric Clinic. When she reaches 30 stacks, Persana appears and blesses her with the following:  
 >   
 > - Revivify immediately gains an additional charge  
-> - Justice of the Depths is increased by $(not_buffed amount__3)% for each Dire Straits stack, stacking multiplicatively  
-> - The healing amount of Cleric Clinic is increased by $(not_buffed amount__4)% for each Dire Straits stack, stacking additively.  
+> - Justice of the Depths is increased by 10% for each Dire Straits stack, stacking multiplicatively  
+> - The healing amount of Cleric Clinic is increased by 10% for each Dire Straits stack, stacking additively.  
 >   
 > Dire Straits stacks continue to increase after Persana appears, up to a maximum of 100. Upon changing areas, all Dire Straits stacks reset and Persana disappears, taking his blessings with him.
 <details><summary><em>Raw Data</em></summary>
@@ -387,7 +446,7 @@ Unknown.
     "id": 2283,
     "flavour_text": "",
     "description": {
-        "desc": "Vlithryn gains one Dire Straits stack every time she effectively heals a Champion with Cleric Clinic. When she reaches 30 stacks, Persana appears and blesses her with the following:^^- Revivify immediately gains an additional charge^- Justice of the Depths is increased by $(not_buffed amount__3)% for each Dire Straits stack, stacking multiplicatively^- The healing amount of Cleric Clinic is increased by $(not_buffed amount__4)% for each Dire Straits stack, stacking additively.^^Dire Straits stacks continue to increase after Persana appears, up to a maximum of 100. Upon changing areas, all Dire Straits stacks reset and Persana disappears, taking his blessings with him."
+        "desc": "Vlithryn gains one Dire Straits stack every time she effectively heals a Champion with Cleric Clinic. When she reaches 30 stacks, Persana appears and blesses her with the following:^^- Revivify immediately gains an additional charge^- Justice of the Depths is increased by $(not_buffed amount___3)% for each Dire Straits stack, stacking multiplicatively^- The healing amount of Cleric Clinic is increased by $(not_buffed amount___4)% for each Dire Straits stack, stacking additively.^^Dire Straits stacks continue to increase after Persana appears, up to a maximum of 100. Upon changing areas, all Dire Straits stacks reset and Persana disappears, taking his blessings with him."
     },
     "effect_keys": [
         {
@@ -400,10 +459,12 @@ Unknown.
             ],
             "max_stacks": 100,
             "show_stacks": true,
-            "manual_stacking": true
+            "manual_stacking": true,
+            "stacks_mulitply": false
         },
         {
             "effect_string": "vlithryn_divine_intervention",
+            "override_key_desc": "Vlithryn calls for her deity Persana in areas where she effectively heals 30 times, letting her Revivify an additional time, and increase the potency of her main support bonus and healing amount.",
             "apply_manually": true,
             "persana_sequences": {
                 "idle": 1,
@@ -422,28 +483,32 @@ Unknown.
             "effect_string": "buff_upgrade,10,16895",
             "manual_stacking": true,
             "apply_manually": true,
+            "amount_func": "mult",
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "stacks_mulitply": true,
             "show_bonus": true
         },
         {
             "effect_string": "buff_upgrade,10,16896",
             "manual_stacking": true,
             "apply_manually": true,
+            "amount_func": "add",
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "stacks_mulitply": true,
             "show_bonus": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 26239,
+    "large_graphic_id": 26232,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "show_incoming": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 2
     }
 }
 </pre>
@@ -454,7 +519,7 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Help the Unfortunate** (Guess)
+**Who Else Would Save Them** (Guess)
 > Vlithryn increases Justice of the Depths's damage bonus by 100% for every Champion in the formation with an INT score of 12 or lower, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -468,7 +533,6 @@ Unknown.
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,100,16895",
-            "stack_title": "Affected Champions",
             "amount_func": "mult",
             "stack_func": "per_crusader",
             "stack_func_data": {
@@ -485,12 +549,13 @@ Unknown.
                 "slot_changed",
                 "feat_changed"
             ],
+            "stacks_multiply": true,
             "show_bonus": true
         }
     ],
     "requirements": "",
     "graphic_id": 0,
-    "large_graphic_id": 0,
+    "large_graphic_id": 26247,
     "properties": {
         "is_formation_ability": true
     }
@@ -501,7 +566,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Who Else Would Save Them** (Guess)
+**Help the Unfortunate** (Guess)
 > Vlithryn increases Justice of the Depths's damage bonus by 150% for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -515,7 +580,6 @@ Unknown.
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,150,16895",
-            "stack_title": "Affected Champions",
             "amount_func": "mult",
             "stack_func": "per_crusader",
             "stack_func_data": {
@@ -532,12 +596,13 @@ Unknown.
                 "slot_changed",
                 "feat_changed"
             ],
+            "stacks_multiply": true,
             "show_bonus": true
         }
     ],
     "requirements": "",
     "graphic_id": 0,
-    "large_graphic_id": 0,
+    "large_graphic_id": 26245,
     "properties": {
         "is_formation_ability": true
     }
@@ -574,7 +639,7 @@ Unknown.
     ],
     "requirements": "",
     "graphic_id": 0,
-    "large_graphic_id": 0,
+    "large_graphic_id": 26246,
     "properties": {
         "is_formation_ability": true
     }
@@ -660,15 +725,25 @@ Unknown.
 > Stop the Modron March from crushing Waterdeep under its mechanical heel.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: TBD** (Complete Area 75)
+![The Priestess of Persana Icon](images/vlithryn/26225.png) **Variant 1: The Priestess of Persana** (Complete Area 75)
+> Vlithryn starts in the formation. (Slot 6) She can't be moved or removed.  
+> Only Vlithryn and Champions in the columns in front of her can deal damage.  
+> Slots 0-5, and her 6  
+> Getting to Know Vlithryn: Vlithryn increases the damage of Champions in the columns in front of her. Place your damage-dealing Champions to take advantage of this!  
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: TBD** (Complete Area 125)
-> 
+![Less Talky-Talky, More Healy-Healy Icon](images/vlithryn/26226.png) **Variant 2: Less Talky-Talky, More Healy-Healy** (Complete Area 125)
+> Vlithryn starts in the formation with her Cleric Clinic ability unlocked. (Slot 9) She can be moved, but not removed.  
+> After area 10, a random Champion is engulfed in flames every 5 seconds, dealing 60% of their maximum health in damage. This damage is reduced by 10% for each potion of Heroism that is active on the party.  
+> Getting to Know Vlithryn: Vlithryn heals the most damaged member in the formation every second. Use her and other healers to get through the fire!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: TBD** (Complete Area 175)
+![ A Variety of Surface Dwellers Icon](images/vlithryn/26227.png) **Variant 3:  A Variety of Surface Dwellers** (Complete Area 175)
+> Vlithryn starts in the formation with her Spreading the Word specialization choice unlocked and selected. (Slot 9) She can be moved, but not removed.  
+> You can't use a Potion of Specialization on Vlithryn.  
+> Only one Champion of each species can be included in the formation at any time. Champions with multiple species count for all of their species.  
+> Getting to Know Vlithryn: Vlithryn wants to spread the word of Persana to all the surface dwellers. How many different species can you feature in your formation?   
 > 
 </div></div>
 
