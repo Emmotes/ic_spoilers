@@ -475,6 +475,7 @@ Miscellaneous spoilers with due dates.
 
 * [Festival of Fools (Guess) Augments](augments_16.md) - 2 April 2025 (Guess)
 * [Emergence 11](emergence_11.md) - 23 April 2025
+* [Notary System](notary.md) - Later (Allegedly)
 
 # Misc
 
