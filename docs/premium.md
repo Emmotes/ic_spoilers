@@ -1405,21 +1405,20 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2167**Feat**???: 2167</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor (10% All Champion Damage)</span>
+            <span style="margin-left:15px">???: 2167</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 657****Loot for: Vlithryn<code>"for_crusaders":[162]</code></span></span>
+            <span class="tooltipHolder">![Platinum Vlithryn Chest Chest Portrait](images/premiums/chests_657.png)<span class="itemTooltipContents">ID: 657**Platinum Vlithryn Chest**Loot for: Vlithryn<code>"for_crusaders":[162]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px"></span>
+            <span style="margin-left:15px">Platinum Vlithryn Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
