@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Swashbuckler Orkira Portrait](images/skin_portraits/swashbucklerorkira.png)<span class="featTooltipContents">ID: 529**Swashbuckler Orkira (Orkira)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/swashbucklerorkira.gif" alt="Swashbuckler Orkira Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/swashbucklerorkira-ultimate_pheonix.gif" alt="Swashbuckler Orkira Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Swashbuckler Orkira
-        </span>
-        <span class="skinTableSource">
-            Swashbuckler Orkira Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            12 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Swashbuckler Sheila Portrait](images/skin_portraits/swashbucklersheila.png)<span class="featTooltipContents">ID: 528**Swashbuckler Sheila (Sheila)**<img src="images/skin_models/swashbucklersheila.gif" alt="Swashbuckler Sheila Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Swashbuckler Sheila
-        </span>
-        <span class="skinTableSource">
-            Swashbuckler Sheila Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            12 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Pirate Lord Nrakk Portrait](images/skin_portraits/piratelordnrakk.png)<span class="featTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/piratelordnrakk.gif" alt="Pirate Lord Nrakk Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/piratelordnrakk-nrakk_charged.gif" alt="Pirate Lord Nrakk Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">

@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Feathers the Animated Parrot Portrait](images/familiars/featherstheanimatedparrot.png)<span class="featTooltipContents">ID: 251**Feathers the Animated Parrot**Uni No! SQUAWK Uni No!<img src="images/familiars/featherstheanimatedparrot.gif" alt="Feathers the Animated Parrot Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Feathers the Animated Parrot
-        </span>
-        <span class="skinTableSource">
-            Swashbuckler Sheila Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            12 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Volo's Guide to Ceremorphosis Portrait](images/familiars/volosguidetoceremorphosis.png)<span class="featTooltipContents">ID: 268**Volo's Guide to Ceremorphosis**There appears to be an amount of cosmetic damage.<img src="images/familiars/volosguidetoceremorphosis.gif" alt="Volo's Guide to Ceremorphosis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Volo's Guide to Ceremorphosis
-        </span>
-        <span class="skinTableSource">
-            Volo's Guide to Ceremorphosis Familiar & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            12 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Jade the Snake Portrait](images/familiars/jadethesnake.png)<span class="featTooltipContents">ID: 252**Jade the Snake**I snuck back to Sigil in one of Windfall's sackssss.<img src="images/familiars/jadethesnake.gif" alt="Jade the Snake Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
