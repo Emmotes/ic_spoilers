@@ -506,7 +506,7 @@ Upgrades:
     "required_level": 120,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -517,7 +517,7 @@ Upgrades:
     "required_level": 260,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -528,7 +528,7 @@ Upgrades:
     "required_level": 420,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -539,7 +539,7 @@ Upgrades:
     "required_level": 620,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -550,7 +550,7 @@ Upgrades:
     "required_level": 790,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -561,7 +561,7 @@ Upgrades:
     "required_level": 970,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -572,7 +572,7 @@ Upgrades:
     "required_level": 1120,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -583,7 +583,7 @@ Upgrades:
     "required_level": 1280,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -594,7 +594,7 @@ Upgrades:
     "required_level": 1430,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -605,7 +605,7 @@ Upgrades:
     "required_level": 1590,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -616,7 +616,7 @@ Upgrades:
     "required_level": 1750,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -627,7 +627,7 @@ Upgrades:
     "required_level": 1900,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -638,7 +638,7 @@ Upgrades:
     "required_level": 2060,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -649,7 +649,7 @@ Upgrades:
     "required_level": 2220,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -660,7 +660,7 @@ Upgrades:
     "required_level": 2390,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -671,7 +671,7 @@ Upgrades:
     "required_level": 2540,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -682,7 +682,7 @@ Upgrades:
     "required_level": 2700,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -693,7 +693,7 @@ Upgrades:
     "required_level": 2860,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -704,7 +704,7 @@ Upgrades:
     "required_level": 3020,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""
@@ -715,7 +715,7 @@ Upgrades:
     "required_level": 3180,
     "required_upgrade_id": 0,
     "upgrade_type": "upgrade_ability",
-    "effect": "buff_upgrade,100,16735",
+    "effect": "buff_upgrade,100,16735,1",
     "static_dps_mult": null,
     "default_enabled": 1,
     "name": ""

@@ -295,6 +295,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stacks_on_trigger": "will_stack_manually",
             "stacks_multiply": true,
             "show_bonus": true,
+            "stack_title": "In The Shadows buff stacks",
             "apply_manually": true
         }
     ],
