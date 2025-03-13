@@ -2,7 +2,7 @@
 
 # Notary System
 
-This system is supposedly "Very Close Now (ish)".
+This system's release - "It's very close...ish" (said Justin on a recent Dev Insights).
 
 Very little is known about this system at present. We have a few references in the definitions - but most of what we "know" is from Dev Insights - so take everything with a significant portion of salt.
 
