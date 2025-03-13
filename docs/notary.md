@@ -2,7 +2,7 @@
 
 # Notary System
 
-This system will release later (allegedly).
+This system is supposedly "Very Close Now (ish)".
 
 Very little is known about this system at present. We have a few references in the definitions - but most of what we "know" is from Dev Insights - so take everything with a significant portion of salt.
 
