@@ -963,7 +963,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Abundant Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1966**Abundant Strife (Minthara)**If somebody angers me, I hurt them. It teaches them not to anger me again.<code>minthara_increase_max_stacks,1</code></span>Abundant Strife
         </span>
         <span class="featTableEffect">
-            <span>+1 Soul Branding stacks</span>
+            <span>+1 max Soul Branding stacks</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -980,7 +980,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Unrelenting Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1967**Unrelenting Strife (Minthara)**If somebody causes me sorrow, I remove their ability to do so again.<code>minthara_increase_max_stacks,2</code></span>Unrelenting Strife
         </span>
         <span class="featTableEffect">
-            <span>+2 Soul Branding stacks</span>
+            <span>+2 max Soul Branding stacks</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
