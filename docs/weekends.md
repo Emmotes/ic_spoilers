@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/726.png">
-            <span class="weekendTooltipContents">ID: 726**Gold Commercial Chest**Loot for: Sheila, Celeste, Calliope, Eric and Bobby<code>"for_crusaders":[160,2,5,157,152]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **We'll Be Right Back**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    14 March 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Sheila
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/sheila.png'">
-                        <span class="weekendTableChampionNameplate">Sheila</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/eric.png'">
-                        <span class="weekendTableChampionNameplate">Eric</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bobby.png'">
-                        <span class="weekendTableChampionNameplate">Bobby</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/727.png">
             <span class="weekendTooltipContents">ID: 727**Gold Mist-Shrouded Chest**Loot for: Desmond, Nayeli, Tyril, Strix and Valentine<code>"for_crusaders":[96,3,10,23,103]</code></span>
         </span>
