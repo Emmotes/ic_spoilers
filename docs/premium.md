@@ -994,7 +994,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Unrelenting Strife</span>
-            <span style="margin-left:15px">Minthara (+2 Soul Branding stacks)</span>
+            <span style="margin-left:15px">Minthara (+2 max Soul Branding stacks)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
