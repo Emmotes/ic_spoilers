@@ -266,7 +266,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 545**Eternal Flame Strix (Strix)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Eternal Flame Strix Portrait](images/skin_portraits/eternalflamestrix.png)<span class="featTooltipContents">ID: 545**Eternal Flame Strix (Strix)**<img src="images/skin_models/eternalflamestrix.gif" alt="Eternal Flame Strix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Eternal Flame Strix
@@ -283,7 +283,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 544**Thunder Lord Briv (Briv)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 544**Thunder Lord Briv (Briv)**<img src="images/skin_models/thunderlordbriv.gif" alt="Thunder Lord Briv Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Thunder Lord Briv
@@ -300,7 +300,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 546**Champion of Avernus Reya (Reya)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Champion of Avernus Reya Portrait](images/skin_portraits/championofavernusreya.png)<span class="featTooltipContents">ID: 546**Champion of Avernus Reya (Reya)**<img src="images/skin_models/championofavernusreya.gif" alt="Champion of Avernus Reya Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Champion of Avernus Reya
@@ -334,7 +334,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 557**Highlord Miria (Miria)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Highlord Miria Portrait](images/skin_portraits/highlordmiria.png)<span class="featTooltipContents">ID: 557**Highlord Miria (Miria)**<img src="images/skin_models/highlordmiria.gif" alt="Highlord Miria Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Highlord Miria

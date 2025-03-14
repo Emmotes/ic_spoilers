@@ -685,7 +685,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 544**Thunder Lord Briv (Briv)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 544**Thunder Lord Briv (Briv)**<img src="images/premiums/skin_544.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -756,7 +756,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 545**Eternal Flame Strix (Strix)**</span></span>
+            <span class="tooltipHolder">![Eternal Flame Strix Skin Portrait](images/premiums/skin_545.png)<span class="itemTooltipContents">ID: 545**Eternal Flame Strix (Strix)**<img src="images/premiums/skin_545.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -818,7 +818,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 546**Champion of Avernus Reya (Reya)**</span></span>
+            <span class="tooltipHolder">![Champion of Avernus Reya Skin Portrait](images/premiums/skin_546.png)<span class="itemTooltipContents">ID: 546**Champion of Avernus Reya (Reya)**<img src="images/premiums/skin_546.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1042,7 +1042,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 257**Pepper the Baby Black Dragon**She hunts the others in her clutch, watch her pounce!</span></span>
+            <span class="tooltipHolder">![Pepper the Baby Black Dragon Familiar Portrait](images/premiums/familiar_257.png)<span class="itemTooltipContents">ID: 257**Pepper the Baby Black Dragon**She hunts the others in her clutch, watch her pounce!<img src="images/premiums/familiar_257.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 257**Pepper the Baby Black Dragon**She hunts the others in her clutch, watch her pounce!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Pepper the Baby Black Dragon Portrait](images/familiars/pepperthebabyblackdragon.png)<span class="featTooltipContents">ID: 257**Pepper the Baby Black Dragon**She hunts the others in her clutch, watch her pounce!<img src="images/familiars/pepperthebabyblackdragon.gif" alt="Pepper the Baby Black Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Pepper the Baby Black Dragon
