@@ -6,27 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Fleetswake - March
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="zorbu" style="background-image:url(images/portraits/zorbu.png)">Zorbu (12)</span>
-<span class="eventRosterChampion" id="nrakk" style="background-image:url(images/portraits/nrakk.png)">Nrakk (8)</span>
-<span class="eventRosterChampion" id="blackviper" style="background-image:url(images/portraits/blackviper.png)">Black Viper (7)</span>
-<span class="eventRosterChampion" id="sisaspia" style="background-image:url(images/portraits/sisaspia.png)">Sisaspia (1)</span>
-<span class="eventRosterChampion" id="orisha" style="background-image:url(images/portraits/orisha.png)">Orisha (11)</span>
-<span class="eventRosterChampion" id="orkira" style="background-image:url(images/portraits/orkira.png)">Orkira (1)</span>
-<span class="eventRosterChampion" id="desmond" style="background-image:url(images/portraits/desmond.png)">Desmond (4)</span>
-<span class="eventRosterChampion" id="solaak" style="background-image:url(images/portraits/solaak.png)">Solaak (2)</span>
-<span class="eventRosterChampion" id="dynaheir" style="background-image:url(images/portraits/dynaheir.png)">Dynaheir (3)</span>
-<span class="eventRosterChampion" id="gale" style="background-image:url(images/portraits/gale.png)">Gale (1)</span>
-<span class="eventRosterChampion" id="volo" style="background-image:url(images/portraits/volo.png)">Volo (9)</span>
-<span class="eventRosterChampion" id="sheila" style="background-image:url(images/portraits/sheila.png)">Sheila (7)</span>
-</span>
-
-{:/nomarkdown}
-
 # Festival of Fools - April
 
 {::nomarkdown}
@@ -237,6 +216,27 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="karlach" style="background-image:url(images/portraits/karlach.png)">Karlach (4)</span>
 <span class="eventRosterChampion" id="presto" style="background-image:url(images/portraits/presto.png)">Presto (2)</span>
 <span class="eventRosterChampion" id="kalix" style="background-image:url(images/portraits/kalix.png)">Kalix (5)</span>
+</span>
+
+{:/nomarkdown}
+
+# Fleetswake - March
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="zorbu" style="background-image:url(images/portraits/zorbu.png)">Zorbu (12)</span>
+<span class="eventRosterChampion" id="nrakk" style="background-image:url(images/portraits/nrakk.png)">Nrakk (8)</span>
+<span class="eventRosterChampion" id="blackviper" style="background-image:url(images/portraits/blackviper.png)">Black Viper (7)</span>
+<span class="eventRosterChampion" id="sisaspia" style="background-image:url(images/portraits/sisaspia.png)">Sisaspia (1)</span>
+<span class="eventRosterChampion" id="orisha" style="background-image:url(images/portraits/orisha.png)">Orisha (11)</span>
+<span class="eventRosterChampion" id="orkira" style="background-image:url(images/portraits/orkira.png)">Orkira (1)</span>
+<span class="eventRosterChampion" id="desmond" style="background-image:url(images/portraits/desmond.png)">Desmond (4)</span>
+<span class="eventRosterChampion" id="solaak" style="background-image:url(images/portraits/solaak.png)">Solaak (2)</span>
+<span class="eventRosterChampion" id="dynaheir" style="background-image:url(images/portraits/dynaheir.png)">Dynaheir (3)</span>
+<span class="eventRosterChampion" id="gale" style="background-image:url(images/portraits/gale.png)">Gale (1)</span>
+<span class="eventRosterChampion" id="volo" style="background-image:url(images/portraits/volo.png)">Volo (9)</span>
+<span class="eventRosterChampion" id="sheila" style="background-image:url(images/portraits/sheila.png)">Sheila (7)</span>
 </span>
 
 {:/nomarkdown}
