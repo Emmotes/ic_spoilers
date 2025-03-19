@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Nrakk</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Enlightened Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2093**Enlightened (Nrakk)**Mind, heart, body, and soul in perfect balance, as all things should be.<code>buff_upgrades,80,13005,13006</code></span>Enlightened
-        </span>
-        <span class="featTableEffect">
-            <span>80% All Specialisations</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>19 Mar 2025<br>19 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Sisaspia</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Evolved Contagion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2092**Evolved Contagion (Sisaspia)**Thisss isn't even itsss final form.<code>buff_upgrade,80,13251</code></span>Evolved Contagion
-        </span>
-        <span class="featTableEffect">
-            <span>80% Symbiotic Infection</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>19 Mar 2025<br>19 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Blooshi</span>
         </span>
         <span class="featTableIcon4">

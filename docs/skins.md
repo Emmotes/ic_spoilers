@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Pirate Lord Nrakk Portrait](images/skin_portraits/piratelordnrakk.png)<span class="featTooltipContents">ID: 531**Pirate Lord Nrakk (Nrakk)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/piratelordnrakk.gif" alt="Pirate Lord Nrakk Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/piratelordnrakk-nrakk_charged.gif" alt="Pirate Lord Nrakk Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Pirate Lord Nrakk
-        </span>
-        <span class="skinTableSource">
-            Pirate Lord Nrakk Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            19 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Pirate Queen Sisaspia Portrait](images/skin_portraits/piratequeensisaspia.png)<span class="featTooltipContents">ID: 530**Pirate Queen Sisaspia (Sisaspia)**<img src="images/skin_models/piratequeensisaspia.gif" alt="Pirate Queen Sisaspia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Pirate Queen Sisaspia
-        </span>
-        <span class="skinTableSource">
-            Pirate Queen Sisaspia Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            19 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Kittenlord Blooshi Portrait](images/skin_portraits/kittenlordblooshi.png)<span class="featTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/kittenlordblooshi.gif" alt="Kittenlord Blooshi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/kittenlordblooshi-spirit.gif" alt="Kittenlord Blooshi Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
