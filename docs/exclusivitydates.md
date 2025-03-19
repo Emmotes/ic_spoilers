@@ -303,6 +303,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span>12 Jun 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nrakk</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Enlightened Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2093**Enlightened (Nrakk)**Mind, heart, body, and soul in perfect balance, as all things should be.<code>buff_upgrades,80,13005,13006</code></span>Enlightened
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>19 Jun 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Sisaspia</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Evolved Contagion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2092**Evolved Contagion (Sisaspia)**Thisss isn't even itsss final form.<code>buff_upgrade,80,13251</code></span>Evolved Contagion
+        </span>
+        <span class="featTableEffect">
+            <span>80% Symbiotic Infection</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>19 Jun 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -419,8 +453,8 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableDate">
                 <span>19 December 2024</span>
             </span>
-            <span class="postSeasonTableDate">
-                <span>19 March 2025 (Guess)</span>
+            <span class="postSeasonTableDateLate">
+                <span>19 March 2025 (Guess) (Late)</span>
             </span>
         </span>
     </span>
