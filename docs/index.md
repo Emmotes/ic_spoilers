@@ -119,6 +119,9 @@ The upcoming Evergreen champion we're aware of.
                 <span class="indexChampionTableNoLink">Vecna 8 - 28 May 2025 (Guess)</span>
             </span>
         </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -348,6 +351,9 @@ These are the upcoming new and reworked champions and where they'll be found.
         <span class="indexChampionTableType indexChampionTableNoLink">
             Evergreen 🌲
         </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -417,6 +423,7 @@ Miscellaneous spoilers with due dates.
 
 * [Festival of Fools (Guess) Augments](augments_16.md) - 2 April 2025 (Guess)
 * [Emergence 11](emergence_11.md) - 23 April 2025
+* [Unknown Exclusive Giveaway](platform_giveaway_589.md) - 8 July 2025
 * [Notary System](notary.md) - "It's very close...ish"
 
 # Misc
