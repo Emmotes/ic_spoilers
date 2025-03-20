@@ -106,12 +106,9 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/vlithryn/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Vlithryn" fill="#aaa" data-formationName="Vlithryn" data-campaignName="The Great Modron March" width="389" height="140"><circle cx="175" cy="85" r="15"/><circle cx="135" cy="65" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="95" cy="85" r="15"/><circle cx="95" cy="125" r="15"/><circle cx="55" cy="25" r="15"/><circle cx="55" cy="105" r="15"/><circle cx="15" cy="85" r="15"/><circle cx="15" cy="125" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Vlithryn</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">The Great Modron March</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -215,7 +212,7 @@ Unknown.
 {
     "id": 844,
     "name": "Call Lightning",
-    "description": "Vlithryn zaps the enemy with the most Health, then empowering her attacks for 15 seconds.",
+    "description": "Vlithryn zaps the enemy with the most Health, empowering her attacks for 15 seconds.",
     "long_description": "Vlithryn zaps the enemy with the most remaining Health, and then empowers her attack with lightning for 15 seconds, increasing her attack speed and adding BUD-based damage.",
     "graphic_id": 26249,
     "target": "highest_health",
@@ -289,7 +286,7 @@ Unknown.
     "id": 2280,
     "flavour_text": "",
     "description": {
-        "desc": "Every second, Vlithryn heals the most damaged Champion for $(not_buffed amount) health. This amount is increased by $(not_buffed amount___2)% for each Tanking Champion in the formation."
+        "desc": "Every second, Vlithryn heals the most damaged Champion for $amount health. This amount is increased by $(not_buffed amount___2)% for each Tanking Champion in the formation."
     },
     "effect_keys": [
         {
@@ -397,6 +394,7 @@ Unknown.
         {
             "effect_string": "buff_upgrade,1000,16895",
             "manual_stacking": true,
+            "stack_title": "Revivify Charges Used",
             "amount_updated_listeners": [
                 "slot_changed"
             ],
@@ -405,13 +403,16 @@ Unknown.
         },
         {
             "effect_string": "vlithryn_revivify",
-            "off_when_benched": true,
+            "manual_stacking": true,
             "base_buff_index": 0,
             "bonus_revivify_charges": 0,
-            "animation_play_time": 2,
+            "scream_time": 0.5,
+            "pushback_distance": 15,
             "resurrection_priority": 1100,
             "override_key_desc": "When a Champion is defeated, Vlithryn consumes a Revivify charge and screams in frustration, pushing back all enemies a short distance. She then casts Revivify and heals the defeated Champion, bringing them back to life at full health.",
-            "tag": "awfulones"
+            "tag": "awfulones",
+            "stack_title": "Current Revivify Charges",
+            "show_stacks": true
         }
     ],
     "requirements": "",
@@ -483,6 +484,7 @@ Unknown.
             "effect_string": "buff_upgrade,10,16895",
             "manual_stacking": true,
             "apply_manually": true,
+            "total_title": "Total Justice of the Depths Bonus",
             "amount_func": "mult",
             "amount_updated_listeners": [
                 "slot_changed"
@@ -493,6 +495,7 @@ Unknown.
             "effect_string": "buff_upgrade,10,16896",
             "manual_stacking": true,
             "apply_manually": true,
+            "total_title": "Total Cleric Clinic Bonus",
             "amount_func": "add",
             "amount_updated_listeners": [
                 "slot_changed"
@@ -520,7 +523,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Who Else Would Save Them** (Guess)
-> Vlithryn increases Justice of the Depths's damage bonus by 100% for every Champion in the formation with an INT score of 12 or lower, stacking multiplicatively.
+> Vlithryn increases Justice of the Depths' damage bonus by 100% for every Champion in the formation with an INT score of 12 or lower, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -528,7 +531,7 @@ Unknown.
     "id": 2284,
     "flavour_text": "",
     "description": {
-        "desc": "Vlithryn increases Justice of the Depths's damage bonus by $(not_buffed amount)% for every Champion in the formation with an INT score of 12 or lower, stacking multiplicatively."
+        "desc": "Vlithryn increases Justice of the Depths' damage bonus by $(not_buffed amount)% for every Champion in the formation with an INT score of 12 or lower, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -547,7 +550,7 @@ Unknown.
             },
             "amount_updated_listeners": [
                 "slot_changed",
-                "feat_changed"
+                "ability_score_changed"
             ],
             "stacks_multiply": true,
             "show_bonus": true
@@ -557,7 +560,8 @@ Unknown.
     "graphic_id": 0,
     "large_graphic_id": 26247,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "INT -12 Champions: $num_stacks"
     }
 }
 </pre>
@@ -567,7 +571,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Help the Unfortunate** (Guess)
-> Vlithryn increases Justice of the Depths's damage bonus by 150% for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively.
+> Vlithryn increases Justice of the Depths' damage bonus by 150% for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -575,7 +579,7 @@ Unknown.
     "id": 2285,
     "flavour_text": "",
     "description": {
-        "desc": "Vlithryn increases Justice of the Depths's damage bonus by $(not_buffed amount)% for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively."
+        "desc": "Vlithryn increases Justice of the Depths' damage bonus by $(not_buffed amount)% for each Champion in the formation with a total ability score of 78 or lower, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -594,7 +598,7 @@ Unknown.
             },
             "amount_updated_listeners": [
                 "slot_changed",
-                "feat_changed"
+                "ability_score_changed"
             ],
             "stacks_multiply": true,
             "show_bonus": true
@@ -614,7 +618,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Spreading the Word** (Guess)
-> Vlithryn increases Justice of the Depths's damage bonus by 150% for each unique Species in the formation, stacking multiplicatively.
+> Vlithryn increases Justice of the Depths' damage bonus by 150% for each unique Species in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -622,7 +626,7 @@ Unknown.
     "id": 2286,
     "flavour_text": "",
     "description": {
-        "desc": "Vlithryn increases Justice of the Depths's damage bonus by $(not_buffed amount)% for each unique Species in the formation, stacking multiplicatively."
+        "desc": "Vlithryn increases Justice of the Depths' damage bonus by $(not_buffed amount)% for each unique Species in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -721,26 +725,25 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Mechanical Menace (???)** (Complete Area 50)
+**Unlock Adventure: The Mechanical Menace (Vlithryn)** (Complete Area 50)
 > Stop the Modron March from crushing Waterdeep under its mechanical heel.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![The Priestess of Persana Icon](images/vlithryn/26225.png) **Variant 1: The Priestess of Persana** (Complete Area 75)
-> Vlithryn starts in the formation. (Slot 6) She can't be moved or removed.  
+> Vlithryn starts in the formation. She can't be moved or removed.  
 > Only Vlithryn and Champions in the columns in front of her can deal damage.  
-> Slots 0-5, and her 6  
 > Getting to Know Vlithryn: Vlithryn increases the damage of Champions in the columns in front of her. Place your damage-dealing Champions to take advantage of this!  
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Less Talky-Talky, More Healy-Healy Icon](images/vlithryn/26226.png) **Variant 2: Less Talky-Talky, More Healy-Healy** (Complete Area 125)
-> Vlithryn starts in the formation with her Cleric Clinic ability unlocked. (Slot 9) She can be moved, but not removed.  
+> Vlithryn starts in the formation with her Cleric Clinic ability unlocked. She can be moved, but not removed.  
 > After area 10, a random Champion is engulfed in flames every 5 seconds, dealing 60% of their maximum health in damage. This damage is reduced by 10% for each potion of Heroism that is active on the party.  
 > Getting to Know Vlithryn: Vlithryn heals the most damaged member in the formation every second. Use her and other healers to get through the fire!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![ A Variety of Surface Dwellers Icon](images/vlithryn/26227.png) **Variant 3:  A Variety of Surface Dwellers** (Complete Area 175)
-> Vlithryn starts in the formation with her Spreading the Word specialization choice unlocked and selected. (Slot 9) She can be moved, but not removed.  
+> Vlithryn starts in the formation with her Spreading the Word specialization choice unlocked and selected. She can be moved, but not removed.  
 > You can't use a Potion of Specialization on Vlithryn.  
 > Only one Champion of each species can be included in the formation at any time. Champions with multiple species count for all of their species.  
 > Getting to Know Vlithryn: Vlithryn wants to spread the word of Persana to all the surface dwellers. How many different species can you feature in your formation?   
