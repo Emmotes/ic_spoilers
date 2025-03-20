@@ -334,7 +334,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Mind Flayer Halsin Portrait](images/skin_portraits/mindflayerhalsin.png)<span class="featTooltipContents">ID: 548**Mind Flayer Halsin (Halsin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mind Flayer Halsin Portrait](images/skin_portraits/mindflayerhalsin.png)<span class="featTooltipContents">ID: 548**Mind Flayer Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/mindflayerhalsin.gif" alt="Mind Flayer Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/mindflayerhalsin-bear.gif" alt="Mind Flayer Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Mind Flayer Halsin

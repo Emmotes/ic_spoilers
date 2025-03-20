@@ -971,7 +971,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Mind Flayer Halsin Skin Portrait](images/premiums/skin_548.png)<span class="itemTooltipContents">ID: 548**Mind Flayer Halsin (Halsin)**</span></span>
+            <span class="tooltipHolder">![Mind Flayer Halsin Skin Portrait](images/premiums/skin_548.png)<span class="itemTooltipContents">ID: 548**Mind Flayer Halsin (Halsin)**<img src="images/premiums/skin_548.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
