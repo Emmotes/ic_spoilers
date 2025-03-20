@@ -106,8 +106,8 @@ nnm.map.set("Potion of Heroism", "Health Pot");
 nnm.map.set("Potion", "Pot");
 nnm.map.set("potion", "pot");
 
-acm.map.set("<li><a href=\"/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)")
-acm.map.set("<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)")
+acm.map.set("<li><a href=\"/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)");
+acm.map.set("<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)");
 
 const allModes = [rrm, nnm, acm];
 
@@ -159,7 +159,7 @@ function modesDetails(type) {
 		if (link.innerHTML == "[show]") {
 			let content = `<span class="modesContentRowHeader"><span class="modesCol1">Find</span><span class="modesCol2">Replace</span></span>`;
 			for (const [key,value] of curr.map) {
-				content += `<span class="modesContentRow"><span class="modesCol1">${key}</span><span class="modesCol2">${value}`
+				content += `<span class="modesContentRow"><span class="modesCol1">${key}</span><span class="modesCol2">${value}`;
 				if (key == "D’hani" || key == "K’thriss" || key == "Lae’zel" || key == "Elminster")
 					content += ` (random ’ placement)`;
 				content += `</span></span>`;
