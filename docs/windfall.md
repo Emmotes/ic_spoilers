@@ -440,7 +440,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Dragon's Pride** (Guess)
+**The Long Game** (Guess)
 > Windfall increases the damage of all Champions in the column(s) with the most slots by 100%. If multiple columns are tied for the most slots, then each of them are affected.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -553,7 +553,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**The Long Game** (Guess)
+**Dragon's Pride** (Guess)
 > Windfall increases the effect of The Long Game by 20% for each adventure, variant, and Patron variant you have completed in the Vecna: Eve of Ruin campaign, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
