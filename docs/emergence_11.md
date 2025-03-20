@@ -33,7 +33,7 @@ We know the next Emergence event will be Dragons and that it will start on 23 Ap
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 558**Dragonlance Spurt (Spurt)**</span></span>
+            <span class="tooltipHolder">![Dragonlance Spurt Skin Portrait](images/emergence_11/skin_558.png)<span class="itemTooltipContents">ID: 558**Dragonlance Spurt (Spurt)**<img src="images/emergence_11/skin_558.gif" alt="Dragonlance Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
