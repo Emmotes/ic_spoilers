@@ -215,6 +215,23 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Death Giant Kas Portrait](images/skin_portraits/deathgiantkas.png)<span class="featTooltipContents">ID: 568**Death Giant Kas (Kas)**<img src="images/skin_models/deathgiantkas.gif" alt="Death Giant Kas Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Death Giant Kas
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            10 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Tuxedo Kalix Portrait](images/skin_portraits/tuxedokalix.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**<img src="images/skin_models/tuxedokalix.gif" alt="Tuxedo Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -249,7 +266,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 544**Thunder Lord Briv (Briv)**<img src="images/skin_models/thunderlordbriv.gif" alt="Thunder Lord Briv Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Thunder Lord Briv Portrait](images/skin_portraits/thunderlordbriv.png)<span class="featTooltipContents">ID: 544**Thunder Lord Briv (Briv)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/thunderlordbriv.gif" alt="Thunder Lord Briv Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/thunderlordbriv-armored.gif" alt="Thunder Lord Briv Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Thunder Lord Briv

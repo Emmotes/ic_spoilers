@@ -109,10 +109,10 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 258**Mango the Hippocamp**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 258**Mango the Hippocampus**</span></span>
         </span>
         <span class="skinTableName">
-            Mango the Hippocamp
+            Mango the Hippocampus
         </span>
         <span class="skinTableSource">
             Tempest Noble Vlithryn Theme Pack
