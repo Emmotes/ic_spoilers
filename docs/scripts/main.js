@@ -138,7 +138,7 @@ function updateModes(edit) {
 			if (curr == acm) {
 				let path = document.location.pathname;
 				if (path != "/ic_spoilers/" && path != "/" && !path.includes("index.html"))
-					continue
+					continue;
 			}
 			if (edit)
 				for (const [key, value] of curr.map)
