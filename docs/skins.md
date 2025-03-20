@@ -283,7 +283,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 558**Dragonlance Spurt (Spurt)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance Spurt Portrait](images/skin_portraits/dragonlancespurt.png)<span class="featTooltipContents">ID: 558**Dragonlance Spurt (Spurt)**<img src="images/skin_models/dragonlancespurt.gif" alt="Dragonlance Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragonlance Spurt
@@ -317,7 +317,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 548**Mind Flayer Halsin (Halsin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mind Flayer Halsin Portrait](images/skin_portraits/mindflayerhalsin.png)<span class="featTooltipContents">ID: 548**Mind Flayer Halsin (Halsin)**</span></span>
         </span>
         <span class="skinTableName">
             Mind Flayer Halsin
@@ -334,7 +334,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 547**Mind Flayer Minthara (Minthara)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mind Flayer Minthara Portrait](images/skin_portraits/mindflayerminthara.png)<span class="featTooltipContents">ID: 547**Mind Flayer Minthara (Minthara)**<img src="images/skin_models/mindflayerminthara.gif" alt="Mind Flayer Minthara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Mind Flayer Minthara
@@ -385,7 +385,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 550**Tairnadal Jaheira (Jaheira)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Tairnadal Jaheira Portrait](images/skin_portraits/tairnadaljaheira.png)<span class="featTooltipContents">ID: 550**Tairnadal Jaheira (Jaheira)**<img src="images/skin_models/tairnadaljaheira.gif" alt="Tairnadal Jaheira Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Tairnadal Jaheira
