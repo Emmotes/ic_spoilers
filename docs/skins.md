@@ -221,7 +221,7 @@ Please be aware that the developers recently removed most future skins from the 
             Death Giant Kas
         </span>
         <span class="skinTableSource">
-            ???
+            Feast of the Giants Celebration (Guess)
         </span>
         <span class="skinTableCost">
             ???

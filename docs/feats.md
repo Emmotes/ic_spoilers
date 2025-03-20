@@ -107,7 +107,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>80% Born Into Evil</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Feast of the Giants Giveaway</span>
         </span>
         <span class="featTableDate">
             <span>10 Apr 2025</span>
