@@ -60,7 +60,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support / Gold / Speed / Debuff / Control (Guess)</span>
+            <span style="margin-left:8px;">DPS / Support / Gold / Speed / Debuff / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -931,6 +931,11 @@ Unknown.
     <span class="championImagesRow">
         <span class="championImagesPortrait">
             ![Windfall Console Portrait](images/windfall/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Windfall Gold Chest Icon](images/windfall/chest_gold.png)Gold Chest Icon
         </span>
     </span>
 </span>
