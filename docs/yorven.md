@@ -145,6 +145,41 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate: Fey Wild Shape** (Guess)
+> Yorven Springpaw wild shapes into a shadow mastiff-like creature for 30 seconds. During this time his attack cooldown is reduced and his damage is increased.  
+> Cooldown: 220s (Cap 55s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 856,
+    "name": "Fey Wild Shape",
+    "description": "Yorven Springpaw wild shapes into a powerful shadow mastiff-like creature for 30 seconds.",
+    "long_description": "Yorven Springpaw wild shapes into a shadow mastiff-like creature for 30 seconds. During this time his attack cooldown is reduced and his damage is increased.",
+    "graphic_id": 12276,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0,
+    "cooldown": 220,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "yorven",
+            "no_damage_display": true
+        }
+    ],
+    "tags": [
+        "ultimate"
+    ],
+    "damage_types": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -251,7 +286,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "hero_dps_multiplier_mult,100",
-            "off_when_benched": true,
             "stacks_on_trigger": "will_manually_stack",
             "stack_title": "Blood Fury Stacks",
             "max_stacks": 25,
@@ -301,7 +335,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2307,
     "flavour_text": "",
     "description": {
-        "desc": "All Champions take 5 less damage from all attacks, and Rag Tag Team is increased by 100% more damage for each 1000 max health he has, stacking multiplicatively."
+        "desc": "All Champions take $amount less damage from all attacks, and Rag Tag Team is increased by $(amount___2)% more damage for each 1000 max health he has, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -310,7 +344,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "targets": [
                 "all"
             ],
-            "outgoing_buffs": false,
             "percent_values": false,
             "total_title": "Current Damage Reduction"
         },
@@ -322,6 +355,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "per_hero_expr": "health/1000",
             "per_hero_targets": [
                 "effect_key_slot"
+            ],
+            "amount_updated_listeners": [
+                "max_health_changed",
+                "feat_changed"
             ],
             "show_bonus": true
         }
@@ -520,6 +557,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff": {
                 "effect_string": "effect_def,2313"
             }
+        },
+        {
+            "effect_string": "add_hero_tags,0,debuff"
         }
     ],
     "requirements": "",
