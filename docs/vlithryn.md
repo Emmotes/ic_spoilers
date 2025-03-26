@@ -381,6 +381,8 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Revivify** (Guess)
 > When a Champion is defeated, Vlithryn consumes a Revivify charge and screams in frustration, pushing back all enemies a short distance. She then casts Revivify and heals the defeated Champion, bringing them back to life at full health. Vlithryn's Revivify charges are equal to the number of Awful Ones in the formation and reset upon changing areas. The effect of Justice of the Depths is increased by 1000% for each Revivify charge used in the current area, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -392,7 +394,12 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,1000,16895",
+            "effect_string": "pre_stack,1000",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,16895",
+            "amount_expr": "upgrade_amount(16898,0)",
             "manual_stacking": true,
             "stack_title": "Revivify Charges Used",
             "amount_updated_listeners": [
@@ -404,7 +411,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
         {
             "effect_string": "vlithryn_revivify",
             "manual_stacking": true,
-            "base_buff_index": 0,
+            "base_buff_index": 1,
             "bonus_revivify_charges": 0,
             "scream_time": 0.5,
             "pushback_distance": 15,
@@ -447,48 +454,33 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
     "id": 2283,
     "flavour_text": "",
     "description": {
-        "desc": "Vlithryn gains one Dire Straits stack every time she effectively heals a Champion with Cleric Clinic. When she reaches 30 stacks, Persana appears and blesses her with the following:^^- Revivify immediately gains an additional charge^- Justice of the Depths is increased by $(not_buffed amount___3)% for each Dire Straits stack, stacking multiplicatively^- The healing amount of Cleric Clinic is increased by $(not_buffed amount___4)% for each Dire Straits stack, stacking additively.^^Dire Straits stacks continue to increase after Persana appears, up to a maximum of 100. Upon changing areas, all Dire Straits stacks reset and Persana disappears, taking his blessings with him."
+        "desc": "Vlithryn gains one Dire Straits stack every time she effectively heals a Champion with Cleric Clinic. When she reaches 30 stacks, Persana appears and blesses her with the following:^^- Revivify immediately gains an additional charge^- Justice of the Depths is increased by $(not_buffed amount___2)% for each Dire Straits stack, stacking multiplicatively^- The healing amount of Cleric Clinic is increased by $(not_buffed amount___3)% for each Dire Straits stack, stacking additively.^^Dire Straits stacks continue to increase after Persana appears, up to a maximum of 100. Upon changing areas, all Dire Straits stacks reset and Persana disappears, taking his blessings with him."
     },
     "effect_keys": [
         {
-            "effect_string": "apply_effects_at_stacks",
-            "show_description": false,
-            "apply_effect_stack_amounts": [
-                0,
-                30,
-                30
-            ],
-            "max_stacks": 100,
-            "show_stacks": true,
-            "manual_stacking": true,
-            "stacks_mulitply": false
-        },
-        {
             "effect_string": "vlithryn_divine_intervention",
             "override_key_desc": "Vlithryn calls for her deity Persana in areas where she effectively heals 30 times, letting her Revivify an additional time, and increase the potency of her main support bonus and healing amount.",
-            "apply_manually": true,
             "persana_sequences": {
                 "idle": 1,
                 "walk": 2
             },
             "base_buff_index": 0,
             "buff_effect_indices": [
-                2,
-                3
+                1,
+                2
             ],
             "graphic_id": 26218,
             "persana_stack_num": 30,
-            "max_stacks": 100
+            "manual_stacking": true,
+            "max_stacks": 100,
+            "show_stacks": true
         },
         {
             "effect_string": "buff_upgrade,10,16895",
             "manual_stacking": true,
             "apply_manually": true,
             "total_title": "Total Justice of the Depths Bonus",
-            "amount_func": "mult",
-            "amount_updated_listeners": [
-                "slot_changed"
-            ],
+            "stacks_multiply": true,
             "show_bonus": true
         },
         {
@@ -496,10 +488,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
             "manual_stacking": true,
             "apply_manually": true,
             "total_title": "Total Cleric Clinic Bonus",
-            "amount_func": "add",
-            "amount_updated_listeners": [
-                "slot_changed"
-            ],
+            "stacks_multiply": false,
             "show_bonus": true
         }
     ],
@@ -511,7 +500,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
         "show_incoming": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 2
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -561,7 +550,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
     "large_graphic_id": 26247,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "INT -12 Champions: $num_stacks"
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
     }
 }
 </pre>
@@ -608,7 +597,8 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
     "graphic_id": 0,
     "large_graphic_id": 26245,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
     }
 }
 </pre>
@@ -645,7 +635,8 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
     "graphic_id": 0,
     "large_graphic_id": 26246,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
     }
 }
 </pre>
