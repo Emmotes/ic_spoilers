@@ -383,7 +383,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
     "description": "Windfall deals 1 ultimate hit to all enemies, stunning them before slowing them.",
     "long_description": "Windfall's blinding coat erupts in a scintillating flash, dealing 1 ultimate hit to all enemies, stunning and then slowing them.",
     "graphic_id": 26385,
-    "target": "front",
+    "target": "all",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
@@ -391,7 +391,28 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
     "animations": [
         {
             "type": "ultimate_attack",
-            "ultimate": "windfall"
+            "ultimate": "windfall",
+            "duration": 8,
+            "stun_duration": 3,
+            "animation_sequence_name": "ultimate",
+            "projectile_details": {
+                "chain_targets": 0,
+                "fixed_time_to_target": 0.2,
+                "follow_source": true,
+                "has_trail": false,
+                "hit_effect_graphic": "Effect_Windfall_Lightning_Hit",
+                "segment_graphics": [
+                    "Effect_WindfallChainLightningSegment1",
+                    "Effect_WindfallChainLightningSegment2",
+                    "Effect_WindfallChainLightningSegment3"
+                ]
+            },
+            "effects_on_monsters": [
+                {
+                    "effect_string": "monster_speed_reduce,50",
+                    "for_time": 6
+                }
+            ]
         }
     ],
     "tags": [
