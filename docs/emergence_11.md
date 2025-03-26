@@ -51,12 +51,12 @@ We know the next Emergence event will be Dragons and that it will start on 23 Ap
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Venom Harvester Feat Icon](images/emergence_11/feat_2155.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**Spurt make discovery! Wyvern tail VERY stingy!<code>todo<br>DevNote: NEW EFFECT! MAY BE NEW TECH? Buff the effect of FA3/Wa-spiration's Stingy effect by 80% (post-stack).</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Venom Harvester Feat Icon](images/emergence_11/feat_2155.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**Spurt make discovery! Wyvern tail VERY stingy!<code>buff_spurt_waspiration_effect,80,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Venom Harvester</span>
-            <span style="margin-left:15px">Spurt (todo)</span>
+            <span style="margin-left:15px">Spurt (+80% to Wa-spiration: Stingy)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
