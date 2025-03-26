@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 258**Mango the Hippocampus**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mango the Hippocampus Portrait](images/familiars/mangothehippocampus.png)<span class="featTooltipContents">ID: 258**Mango the Hippocampus**<img src="images/familiars/mangothehippocampus.gif" alt="Mango the Hippocampus Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Mango the Hippocampus
@@ -275,6 +275,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             25 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**</span></span>
+        </span>
+        <span class="skinTableName">
+            Verdigrin the Baby Copper Dragon
+        </span>
+        <span class="skinTableSource">
+            Beadle & Grimm Dragon Delves Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            08 Jul 2025
         </span>
     </span>
     <span class="skinTableRow">

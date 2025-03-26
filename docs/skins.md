@@ -300,7 +300,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance Spurt Portrait](images/skin_portraits/dragonlancespurt.png)<span class="featTooltipContents">ID: 558**Dragonlance Spurt (Spurt)**<img src="images/skin_models/dragonlancespurt.gif" alt="Dragonlance Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance Spurt Portrait](images/skin_portraits/dragonlancespurt.png)<span class="featTooltipContents">ID: 558**Dragonlance Spurt (Spurt)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/dragonlancespurt.gif" alt="Dragonlance Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/dragonlancespurt-spirit_graphic.gif" alt="Dragonlance Spurt Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Dragonlance Spurt

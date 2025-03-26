@@ -1051,7 +1051,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 258**Mango the Hippocampus**</span></span>
+            <span class="tooltipHolder">![Mango the Hippocampus Familiar Portrait](images/premiums/familiar_258.png)<span class="itemTooltipContents">ID: 258**Mango the Hippocampus**<img src="images/premiums/familiar_258.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -2695,11 +2695,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 269**TBD B&G Familiar (Do not translate)**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">TBD B&G Familiar (Do not translate)</span>
+            <span style="margin-left:15px">Verdigrin the Baby Copper Dragon</span>
         </span>
     </span>
     <span class="premiumsTableItem">

@@ -203,10 +203,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>Spurt</span>
         </span>
         <span class="featTableIcon4">
-            ![Venom Harvester Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**Spurt make discovery! Wyvern tail VERY stingy!<code>todo<br>DevNote: NEW EFFECT! MAY BE NEW TECH? Buff the effect of FA3/Wa-spiration's Stingy effect by 80% (post-stack).</code></span>Venom Harvester
+            ![Venom Harvester Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**Spurt make discovery! Wyvern tail VERY stingy!<code>buff_spurt_waspiration_effect,80,0</code></span>Venom Harvester
         </span>
         <span class="featTableEffect">
-            <span>todo</span>
+            <span>+80% to Wa-spiration: Stingy</span>
         </span>
         <span class="featTableSource">
             <span>Emergence 11</span>
