@@ -1130,7 +1130,7 @@ Upgrades:
     "id": 2261,
     "flavour_text": "",
     "description": {
-        "desc": "Grimm gains the Hunter role, and Giants become his Favored Foe. Grimm deals $amount% more damage against his Favored Foe, and all boss enemies also count as Giants for the purposes of all abilities that care about such things"
+        "desc": "Grimm gains the Hunter role, and Giants become his Favored Foe. Grimm deals $amount% more damage against his Favored Foe, and all boss enemies also count as Giants for the purposes of all abilities that care about such things."
     },
     "effect_keys": [
         {
