@@ -55,11 +55,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 269**TBD B&G Familiar (Do not translate)**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">TBD B&G Familiar (Do not translate)</span>
+            <span style="margin-left:15px">Verdigrin the Baby Copper Dragon</span>
         </span>
     </span>
     <span class="premiumsTableItem">
