@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Kittenlord Blooshi Portrait](images/skin_portraits/kittenlordblooshi.png)<span class="featTooltipContents">ID: 538**Kittenlord Blooshi (Blooshi)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/kittenlordblooshi.gif" alt="Kittenlord Blooshi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/kittenlordblooshi-spirit.gif" alt="Kittenlord Blooshi Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Kittenlord Blooshi
-        </span>
-        <span class="skinTableSource">
-            Kittenlord Blooshi Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            26 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Lich Makos Portrait](images/skin_portraits/lichmakos.png)<span class="featTooltipContents">ID: 539**Lich Makos (Makos)**<img src="images/skin_models/lichmakos.gif" alt="Lich Makos Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Lich Makos
-        </span>
-        <span class="skinTableSource">
-            Lich Makos Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            26 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Frost Giant Beadle Portrait](images/skin_portraits/frostgiantbeadle.png)<span class="featTooltipContents">ID: 540**Frost Giant Beadle (Y4E15)**<img src="images/skin_models/frostgiantbeadle.gif" alt="Frost Giant Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

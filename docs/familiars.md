@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Jade the Snake Portrait](images/familiars/jadethesnake.png)<span class="featTooltipContents">ID: 252**Jade the Snake**I snuck back to Sigil in one of Windfall's sackssss.<img src="images/familiars/jadethesnake.gif" alt="Jade the Snake Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Jade the Snake
-        </span>
-        <span class="skinTableSource">
-            Jade the Snake Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            26 Mar 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Loot the Weasel Portrait](images/familiars/loottheweasel.png)<span class="featTooltipContents">ID: 253**Loot the Weasel**Has larceny ever looked this cute?<img src="images/familiars/loottheweasel.gif" alt="Loot the Weasel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

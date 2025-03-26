@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Blooshi</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Nine Lives Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2107**Nine Lives (Blooshi)**It's actually way more, I think. I just stopped counting.<code>buff_upgrade,80,7520</code></span>Nine Lives
-        </span>
-        <span class="featTableEffect">
-            <span>80% A Life Well Lived</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>26 Mar 2025<br>26 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Makos</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2108**Immolation (Makos)**I call upon the Flames of Phlegethos!<code>immolation,1,5</code></span>Immolation
-        </span>
-        <span class="featTableEffect">
-            <span>1s BUD per sec for 5s</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>26 Mar 2025<br>26 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Grimm</span>
         </span>
         <span class="featTableIcon4">
