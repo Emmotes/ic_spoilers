@@ -1,9 +1,23 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Hank](images/hank/portrait.png)
+        </span>
+        <span>
+        Portrait
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model GIF of Hank](images/hank/model.gif)
+        </span>
+        <span>
+        Model
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 # Hank
 
@@ -134,12 +148,23 @@ Unknown.
 > 
 </div></div>
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Hank Console Portrait](images/hank/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Hank Gold Chest Icon](images/hank/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Hank Silver Chest Icon](images/hank/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
