@@ -512,20 +512,27 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Missing Lord (Beadle & Grimm)** (Complete Area 50)
+**Unlock Adventure: The Missing Lord (Beadle)** (Complete Area 50)
 > Search for the absent Open Lord of Waterdeep.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Arvaiss' Next Trap Icon](images/beadle/8192.png) **Variant 1: Arvaiss' Next Trap** (Complete Area 75)
-> Various creatures attack your formation, each with different abilities. See the buff icon for details.
+> Beadle starts in the formation. He can be moved, but not removed.  
+> Only Champions within 2 slots of Beadle can deal damage.  
+> Various creatures attack your formation, each with different abilities. See the buff icon for details.  
+> Getting to Know Beadle: Beadle's In The Shadows ability buffs the damage of Champions within two slots of him.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Showoffs Icon](images/beadle/8193.png) **Variant 2: Showoffs** (Complete Area 125)
-> Beadle & Grimm take up a slot in your formation. Only Champions with a STR of 18 or higher, DEX of 17 or higher, or INT of 16 or higher can be used.
+> Beadle takes up a slot in your formation. Only Champions with DEX of 14 or higher can be used.  
+> Getting to Know Beadle (& Grimm!): While Grimm wouldn't normally be eligible for this adventure due to his low Dexterity, he can still be added to the formation due to the two of them being Inseparable.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![A Contest, You Say? Icon](images/beadle/8194.png) **Variant 3: A Contest, You Say?** (Complete Area 175)
-> Enemies have 300% more health and attack twice as often. When a Champion kills an enemy, all Champions with that same attack type (melee, ranged, or magic) deal 2% less damage, and all Champions with other attack types deal 1% more damage.
+![The Best Treasure Icon](images/beadle/8194.png) **Variant 3: The Best Treasure** (Complete Area 175)
+> Beadle starts in the formation. He can be moved, but not removed.  
+> Other than Beadle & Grimm, you may only use Champions that have at least one piece of Epic rarity, Shiny, or Golden equipment.  
+> Enemies have 300% more health and attack twice as often.  
+> Getting to know Beadle: Beadle's specialization choice improves his buffs based on the gear your Champions have. Choose the best specialization for your formation!
 </div></div>
 
 # Formation
