@@ -81,7 +81,7 @@ We know the next Emergence event will be Dragons and that it will start on 23 Ap
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Icon](images/general/unknown.png)<span class="itemTooltipContents">ID: 734**Chromatic Dragon Emergence Chest**Loot for: Grimm, Grimm, Miria, Reya and Spurt<code>"for_crusaders":[64,161,121,86,43]</code></span></span>
+            <span class="tooltipHolder">![Unknown Chest Icon](images/general/unknown.png)<span class="itemTooltipContents">ID: 734**Chromatic Dragon Emergence Chest**Loot for: Beadle, Grimm, Miria, Reya and Spurt<code>"for_crusaders":[64,161,121,86,43]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
@@ -90,7 +90,7 @@ We know the next Emergence event will be Dragons and that it will start on 23 Ap
     </span>
 </span>
 
-The Chromatic Dragon Emergence Chest will contain loot for Grimm, Grimm, Miria, Reya and Spurt.
+The Chromatic Dragon Emergence Chest will contain loot for Beadle, Grimm, Miria, Reya and Spurt.
 
 {% comment %}
 # Emergence FAQ
