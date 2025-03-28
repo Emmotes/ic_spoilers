@@ -45,23 +45,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Psychomancer Beadle Portrait](images/skin_portraits/psychomancerbeadle.png)<span class="featTooltipContents">ID: 534**Psychomancer Beadle (Y4E15)**<img src="images/skin_models/psychomancerbeadle.gif" alt="Psychomancer Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Psychomancer Beadle
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            02 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Psychomancer Grimm Portrait](images/skin_portraits/psychomancergrimm.png)<span class="featTooltipContents">ID: 535**Psychomancer Grimm (Grimm)**<img src="images/skin_models/psychomancergrimm.gif" alt="Psychomancer Grimm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -79,44 +62,10 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Tavern Owner Beadle Portrait](images/skin_portraits/tavernownerbeadle.png)<span class="featTooltipContents">ID: 533**Tavern Owner Beadle (Y4E15)**<img src="images/skin_models/tavernownerbeadle.gif" alt="Tavern Owner Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Tavern Owner Beadle
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            02 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Tavern Owner Grimm Portrait](images/skin_portraits/tavernownergrimm.png)<span class="featTooltipContents">ID: 532**Tavern Owner Grimm (Grimm)**<img src="images/skin_models/tavernownergrimm.gif" alt="Tavern Owner Grimm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Tavern Owner Grimm
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            02 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Vampire Hunter Beadle Portrait](images/skin_portraits/vampirehunterbeadle.png)<span class="featTooltipContents">ID: 536**Vampire Hunter Beadle (Y4E15)**<img src="images/skin_models/vampirehunterbeadle.gif" alt="Vampire Hunter Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Vampire Hunter Beadle
         </span>
         <span class="skinTableSource">
             ???
