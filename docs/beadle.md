@@ -75,7 +75,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Inseparable** (Guess)
 > Beadle & Grimm are so inseparable that if either one qualifies for an adventure restriction based on their tags, ages, ability scores, etc., then both can be used.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -106,7 +106,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Brothers In Armors** (Guess)
 > If Grimm is in the formation, all of Beadle's equipment item levels are increased by Grimm's base average item level.
 <details><summary><em>Raw Data</em></summary>
 <p>
