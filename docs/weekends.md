@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/728.png">
-            <span class="weekendTooltipContents">ID: 728**Gold Forbidden Lore Chest**Loot for: Makos, Arkhan, Widdle, Shandie and Astarion<code>"for_crusaders":[9,12,91,47,129]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Forbidden Lore**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    28 March 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Astarion
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/astarion.png'">
-                        <span class="weekendTableChampionNameplate">Astarion</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/widdle.png'">
-                        <span class="weekendTableChampionNameplate">Widdle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/shandie.png'">
-                        <span class="weekendTableChampionNameplate">Shandie</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/730.png">
             <span class="weekendTooltipContents">ID: 730**Gold Sharp Chest**Loot for: Grimm, Bruenor, Arkhan, Birdsong and Karlach<code>"for_crusaders":[161,1,12,21,143]</code></span>
         </span>
