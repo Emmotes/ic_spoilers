@@ -1790,19 +1790,19 @@ Dungeon Master: 5 / 6
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Grimm Consequences Icon](images/grimm/25962.png) **Variant 1: Grimm Consequences** (Complete Area 75)
-> Grimm starts in the formation with his Get Buff and Moving Right Along abilities unlocked. (Slot 0) He can be moved, but not removed.  
+> Grimm starts in the formation with his Get Buff and Moving Right Along abilities unlocked. He can be moved, but not removed.  
 > All Champions' base attack cooldowns are increased by 2 seconds, but Grimm's Get Buff stack limit is increased by 15.  
 > Getting to Know Grimm: Grimm's Get Buff ability will let him attack faster. Use ways to complete areas in less than 15 seconds to have him maintain these fast attack stacks!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Grimm's Strength Test Icon](images/grimm/25963.png) **Variant 2: Grimm's Strength Test** (Complete Area 125)
-> Grimm starts in the formation. (Slot 0) He can be moved, but not removed.   
+> Grimm starts in the formation. He can be moved, but not removed.   
 > You may only use Champions with a Strength of 14 or higher.  
 > Getting to Know Grimm (& Beadle!): While Beadle wouldn't normally be eligible for this adventure due to his low Strength, he can still be added to the formation due to the two of them being Inseparable.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Grimm's Icebreaker Icon](images/grimm/25964.png) **Variant 3: Grimm's Icebreaker** (Complete Area 175)
-> Grimm starts in the formation with his Break Their Will ability unlocked. (Slot 0) He can be moved, but not removed.  
+> Grimm starts in the formation with his Break Their Will ability unlocked. He can be moved, but not removed.  
 > A Frost Giant spawns with each wave. They don't drop gold nor count towards quest progress. No other enemies can be damaged until all the Frost Giants are defeated.  
 > All Boss monsters have at least 25 armored health.  
 > Getting to know Grimm: Grimm can quickly defeat foes with armored or segmented health. Use him and other breakers to cut through these enemies!
