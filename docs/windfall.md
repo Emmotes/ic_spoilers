@@ -60,7 +60,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">DPS / Support / Gold / Speed / Debuff / Control (Guess)</span>
+            <span style="margin-left:8px;">DPS / Support / Gold / Debuff / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
