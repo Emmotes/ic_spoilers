@@ -11,7 +11,6 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Halsin](archive/halsin.md)
 * [Ishi](archive/ishi.md)
 * [Kalix](archive/kalix.md)
-* [Kas](archive/kas.md)
 * [Mehen](archive/mehen.md)
 * [Minthara](archive/minthara.md)
 * [New Champion Roles](archive/new_champion_roles.md)
