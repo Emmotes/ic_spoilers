@@ -1,8 +1,8 @@
 [Back to Main](index.md)
 
-# Festival of Fools (Guess) Augments
+# Festival of Fools Augments
 
-The assumed augments for the upcoming Festival of Fools event.
+The augments for the upcoming Festival of Fools event.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Auto-Blacksmith Augment Icon](images/augments/25026.png) **Auto-Blacksmith**
