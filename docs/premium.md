@@ -51,11 +51,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Beadle & Grimm Chest Chest Portrait](images/premiums/chests_187.png)<span class="itemTooltipContents">ID: 187**Platinum Beadle & Grimm Chest**Loot for: Beadle<code>"for_crusaders":[64]</code></span></span>
+            <span class="tooltipHolder">![Platinum Beadle Chest Chest Portrait](images/premiums/chests_187.png)<span class="itemTooltipContents">ID: 187**Platinum Beadle Chest**Loot for: Beadle<code>"for_crusaders":[64]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Beadle & Grimm Chest</span>
+            <span style="margin-left:15px">Platinum Beadle Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -2528,11 +2528,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Beadle & Grimm Chest Chest Portrait](images/premiums/chests_187.png)<span class="itemTooltipContents">ID: 187**Platinum Beadle & Grimm Chest**Loot for: Beadle<code>"for_crusaders":[64]</code></span></span>
+            <span class="tooltipHolder">![Platinum Beadle Chest Chest Portrait](images/premiums/chests_187.png)<span class="itemTooltipContents">ID: 187**Platinum Beadle Chest**Loot for: Beadle<code>"for_crusaders":[64]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Beadle & Grimm Chest</span>
+            <span style="margin-left:15px">Platinum Beadle Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
