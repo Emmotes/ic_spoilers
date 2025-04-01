@@ -5,7 +5,6 @@
 A list of recently archived spoilers. Note that I delete archives older than 6 months to avoid bloat.
 
 * [Apothecary / Notary System](archive/apothecary_notary.md)
-* [Emergence 9](archive/emergence_9.md)
 * [Emergence 10](archive/emergence_10.md)
 * [Eric](archive/eric.md)
 * [Halsin](archive/halsin.md)
@@ -18,7 +17,6 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Sheila](archive/sheila.md)
 * [Stoki](archive/stoki.md)
 * [Volothamp "Volo" Geddarm](archive/volo.md)
-* [Voronika](archive/voronika.md)
 
 [Back to Top](#top)
 
