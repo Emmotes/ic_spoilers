@@ -723,8 +723,7 @@ Unknown.
 ![The Priestess of Persana Icon](images/vlithryn/26225.png) **Variant 1: The Priestess of Persana** (Complete Area 75)
 > Vlithryn starts in the formation. She can't be moved or removed.  
 > Only Vlithryn and Champions in the columns in front of her can deal damage.  
-> Getting to Know Vlithryn: Vlithryn increases the damage of Champions in the columns in front of her. Place your damage-dealing Champions to take advantage of this!  
-> 
+> Getting to Know Vlithryn: Vlithryn increases the damage of Champions in the columns in front of her. Place your damage-dealing Champions to take advantage of this!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Less Talky-Talky, More Healy-Healy Icon](images/vlithryn/26226.png) **Variant 2: Less Talky-Talky, More Healy-Healy** (Complete Area 125)
@@ -733,12 +732,11 @@ Unknown.
 > Getting to Know Vlithryn: Vlithryn heals the most damaged member in the formation every second. Use her and other healers to get through the fire!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![ A Variety of Surface Dwellers Icon](images/vlithryn/26227.png) **Variant 3:  A Variety of Surface Dwellers** (Complete Area 175)
+![A Variety of Surface Dwellers Icon](images/vlithryn/26227.png) **Variant 3: A Variety of Surface Dwellers** (Complete Area 175)
 > Vlithryn starts in the formation with her Spreading the Word specialization choice unlocked and selected. She can be moved, but not removed.  
 > You can't use a Potion of Specialization on Vlithryn.  
 > Only one Champion of each species can be included in the formation at any time. Champions with multiple species count for all of their species.  
-> Getting to Know Vlithryn: Vlithryn wants to spread the word of Persana to all the surface dwellers. How many different species can you feature in your formation?   
-> 
+> Getting to Know Vlithryn: Vlithryn wants to spread the word of Persana to all the surface dwellers. How many different species can you feature in your formation?
 </div></div>
 
 # Other Champion Images
