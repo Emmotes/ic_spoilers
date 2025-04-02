@@ -17,7 +17,7 @@ Yorven Springpaw disappeared from the Feywild as a child after an encounter with
 
 # Changes
 
-Yorven will be a reworked champion in the The Great Modron March event on 14 May 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
+Yorven will be a reworked champion in the Festival of Fools event on 9 April 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
@@ -27,7 +27,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Ferocious Maul** (Guess)
-> Yorven leaps out at the nearest enemy, pinning it in place and attacking it once a second for 5 seconds  
+> Yorven leaps at the nearest enemy, rooting it in place and attacking it once every second for 5 seconds.  
 > Cooldown: 8s (Cap 2s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -36,9 +36,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 847,
     "name": "Ferocious Maul",
     "description": "Yorven leaps out at the nearest enemy, pinning it in place and attacking it once a second for 5 seconds",
-    "long_description": "",
+    "long_description": "Yorven leaps at the nearest enemy, rooting it in place and attacking it once every second for 5 seconds.",
     "graphic_id": 0,
-    "target": "",
+    "target": "front",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
@@ -335,7 +335,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2307,
     "flavour_text": "",
     "description": {
-        "desc": "All Champions take $amount less damage from all attacks, and Rag Tag Team is increased by $(amount___2)% more damage for each 1000 max health he has, stacking multiplicatively."
+        "desc": "All Champions take $amount less damage from all attacks, and Rag Tag Team is increased by $(not_buffed amount___2)% more damage for each 1000 max health he has, stacking multiplicatively."
     },
     "effect_keys": [
         {
