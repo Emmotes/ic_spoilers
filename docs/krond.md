@@ -17,7 +17,7 @@ Krond was born of a union between an academic human wizard and a mighty orc figh
 
 # Changes
 
-Krond will be a reworked champion in the The Great Modron March event on 14 May 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
+Krond will be a reworked champion in the Dragondown event on 11 June 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
