@@ -138,7 +138,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             ![Reaching Shadow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2125**Reaching Shadow (Beadle)**As the sun dips low, shadows loom large. That's when we strike. ~Beadle<code>change_upgrade_targets,16722<br>change_upgrade_targets,16722</code></span>Reaching Shadow
         </span>
         <span class="featTableEffect">
-            <span>???: [change_upgrade_targets,16722, Increases effect of $(upgrade_name id) to within three slots, change_upgrade_targets,16722] & ???: [change_upgrade_targets,16722, Increases effect of $(upgrade_name id) to within three slots, change_upgrade_targets,16722]</span>
+            <span>Changes In the Shadows to affect 3 slots away</span>
         </span>
         <span class="featTableSource">
             <span>Emergence 11</span>
