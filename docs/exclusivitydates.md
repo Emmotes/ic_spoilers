@@ -371,6 +371,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span>26 Jun 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Beadle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Show Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2128**Show Off (Beadle)**Sneak attacks are a bit easier when you can teleport! ~Beadle<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Show Off
+        </span>
+        <span class="featTableEffect">
+            <span>100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Grimm</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Gloves Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2154**Gloves Off (Grimm)**Let's settle this, one on one. No potions, blades only, neutral ground. ~Grimm<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Gloves Off
+        </span>
+        <span class="featTableEffect">
+            <span>100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Jul 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
