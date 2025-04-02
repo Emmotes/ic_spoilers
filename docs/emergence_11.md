@@ -42,11 +42,12 @@ We know the next Emergence event will be Dragons and that it will start on 23 Ap
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Reaching Shadow Feat Icon](images/emergence_11/feat_2125.png)<span class="featTooltipContents">ID: 2125**Reaching Shadow (Beadle)**As the sun dips low, shadows loom large. That's when we strike. ~Beadle<code>change_upgrade_targets,16722<br>change_upgrade_targets,16722</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Reaching Shadow</span>
+            <span style="margin-left:15px">Beadle (???: [change_upgrade_targets,16722, Increases effect of $(upgrade_name id) to within three slots, change_upgrade_targets,16722] & ???: [change_upgrade_targets,16722, Increases effect of $(upgrade_name id) to within three slots, change_upgrade_targets,16722])</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
