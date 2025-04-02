@@ -47,7 +47,7 @@ We know the next Emergence event will be Dragons and that it will start on 23 Ap
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Reaching Shadow</span>
-            <span style="margin-left:15px">Beadle (???: [change_upgrade_targets,16722, Increases effect of $(upgrade_name id) to within three slots, change_upgrade_targets,16722] & ???: [change_upgrade_targets,16722, Increases effect of $(upgrade_name id) to within three slots, change_upgrade_targets,16722])</span>
+            <span style="margin-left:15px">Beadle (Changes In the Shadows to affect 3 slots away)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
