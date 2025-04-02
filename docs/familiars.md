@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Loot the Weasel Portrait](images/familiars/loottheweasel.png)<span class="featTooltipContents">ID: 253**Loot the Weasel**Has larceny ever looked this cute?<img src="images/familiars/loottheweasel.gif" alt="Loot the Weasel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Loot the Weasel
-        </span>
-        <span class="skinTableSource">
-            Frost Giant Beadle Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            02 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Tackle the White Wolf Portrait](images/familiars/tacklethewhitewolf.png)<span class="featTooltipContents">ID: 254**Tackle the White Wolf**A fierce protector with a healthy appetite.<img src="images/familiars/tacklethewhitewolf.gif" alt="Tackle the White Wolf Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Tackle the White Wolf
-        </span>
-        <span class="skinTableSource">
-            Frost Giant Grimm Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            02 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Beacon the Giant Fire Beetle Portrait](images/familiars/beaconthegiantfirebeetle.png)<span class="featTooltipContents">ID: 255**Beacon the Giant Fire Beetle**Let him skitter ahead. He caught a nest of intellect devourers last time!<img src="images/familiars/beaconthegiantfirebeetle.gif" alt="Beacon the Giant Fire Beetle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

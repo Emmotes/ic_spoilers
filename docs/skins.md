@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Frost Giant Beadle Portrait](images/skin_portraits/frostgiantbeadle.png)<span class="featTooltipContents">ID: 540**Frost Giant Beadle (Beadle)**<img src="images/skin_models/frostgiantbeadle.gif" alt="Frost Giant Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Frost Giant Beadle
-        </span>
-        <span class="skinTableSource">
-            Frost Giant Beadle Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            02 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Frost Giant Grimm Portrait](images/skin_portraits/frostgiantgrimm.png)<span class="featTooltipContents">ID: 541**Frost Giant Grimm (Grimm)**<img src="images/skin_models/frostgiantgrimm.gif" alt="Frost Giant Grimm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Frost Giant Grimm
-        </span>
-        <span class="skinTableSource">
-            Frost Giant Grimm Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            02 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Helldusk The Dark Urge Portrait](images/skin_portraits/hellduskthedarkurge.png)<span class="featTooltipContents">ID: 542**Helldusk The Dark Urge (Dark Urge)**<img src="images/skin_models/hellduskthedarkurge.gif" alt="Helldusk The Dark Urge Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -300,7 +266,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 552**Nomad Yorven (Yorven)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Nomad Yorven Portrait](images/skin_portraits/nomadyorven.png)<span class="featTooltipContents">ID: 552**Nomad Yorven (Yorven)**</span></span>
         </span>
         <span class="skinTableName">
             Nomad Yorven
