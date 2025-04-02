@@ -6,26 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Festival of Fools - April
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="strix" style="background-image:url(images/portraits/strix.png)">Strix (11)</span>
-<span class="eventRosterChampion" id="cattibrie" style="background-image:url(images/portraits/cattibrie.png)">Catti-brie (7)</span>
-<span class="eventRosterChampion" id="rosie" style="background-image:url(images/portraits/rosie.png)">Rosie (10)</span>
-<span class="eventRosterChampion" id="aila" style="background-image:url(images/portraits/aila.png)">Aila (9)</span>
-<span class="eventRosterChampion" id="spurt" style="background-image:url(images/portraits/spurt.png)">Spurt (3)</span>
-<span class="eventRosterChampion" id="briv" style="background-image:url(images/portraits/briv.png)">Briv (5)</span>
-<span class="eventRosterChampion" id="alyndra" style="background-image:url(images/portraits/alyndra.png)">Alyndra (6)</span>
-<span class="eventRosterChampion" id="tatyana" style="background-image:url(images/portraits/tatyana.png)">Tatyana (8)</span>
-<span class="eventRosterChampion" id="miria" style="background-image:url(images/portraits/miria.png)">Miria (12)</span>
-<span class="eventRosterChampion" id="darkurge" style="background-image:url(images/portraits/darkurge.png)">Dark Urge (11)</span>
-<span class="eventRosterChampion" id="grimm" style="background-image:url(images/portraits/grimm.png)">Grimm (2)</span>
-</span>
-
-{:/nomarkdown}
-
 # The Great Modron March - May
 
 {::nomarkdown}
@@ -237,6 +217,26 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="gale" style="background-image:url(images/portraits/gale.png)">Gale (1)</span>
 <span class="eventRosterChampion" id="volo" style="background-image:url(images/portraits/volo.png)">Volo (9)</span>
 <span class="eventRosterChampion" id="sheila" style="background-image:url(images/portraits/sheila.png)">Sheila (7)</span>
+</span>
+
+{:/nomarkdown}
+
+# Festival of Fools - April
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="strix" style="background-image:url(images/portraits/strix.png)">Strix (11)</span>
+<span class="eventRosterChampion" id="cattibrie" style="background-image:url(images/portraits/cattibrie.png)">Catti-brie (7)</span>
+<span class="eventRosterChampion" id="rosie" style="background-image:url(images/portraits/rosie.png)">Rosie (10)</span>
+<span class="eventRosterChampion" id="aila" style="background-image:url(images/portraits/aila.png)">Aila (9)</span>
+<span class="eventRosterChampion" id="spurt" style="background-image:url(images/portraits/spurt.png)">Spurt (3)</span>
+<span class="eventRosterChampion" id="briv" style="background-image:url(images/portraits/briv.png)">Briv (5)</span>
+<span class="eventRosterChampion" id="alyndra" style="background-image:url(images/portraits/alyndra.png)">Alyndra (6)</span>
+<span class="eventRosterChampion" id="tatyana" style="background-image:url(images/portraits/tatyana.png)">Tatyana (8)</span>
+<span class="eventRosterChampion" id="miria" style="background-image:url(images/portraits/miria.png)">Miria (12)</span>
+<span class="eventRosterChampion" id="darkurge" style="background-image:url(images/portraits/darkurge.png)">Dark Urge (11)</span>
+<span class="eventRosterChampion" id="grimm" style="background-image:url(images/portraits/grimm.png)">Grimm (2)</span>
 </span>
 
 {:/nomarkdown}
