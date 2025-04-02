@@ -101,22 +101,22 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Red Dragon's Green** (Melee)
-> Windfall's attacks take on the aspect of a greedy red dragon.  
-> Cooldown: 5s (Cap 1.25s)
+> With the fury of a red dragon, Windfall prefers to attack enemies that drop gold.  
+> Cooldown: 2.75s (Cap 0.6875s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 846,
     "name": "Red Dragon's Greed",
-    "description": "Windfall's attacks take on the aspect of a greedy red dragon.",
+    "description": "With the fury of a red dragon, Windfall prefers to attack enemies that drop gold.",
     "long_description": "",
     "graphic_id": 0,
     "target": "avoid_filler_or_random",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 2.75,
     "animations": [
         {
             "type": "melee_attack",
@@ -142,22 +142,22 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Black Dragon's Corrosion** (Melee)
-> Windfall's attacks take on the aspect of a vile black dragon.  
-> Cooldown: 5s (Cap 1.25s)
+> With the malice of a black dragon, Windfall prefers to attack armored enemies.  
+> Cooldown: 2.75s (Cap 0.6875s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 848,
     "name": "Black Dragon's Corrosion",
-    "description": "Windfall's attacks take on the aspect of a vile black dragon.",
+    "description": "With the malice of a black dragon, Windfall prefers to attack armored enemies.",
     "long_description": "",
     "graphic_id": 0,
     "target": "armored_and_hits_or_random",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 2.75,
     "animations": [
         {
             "type": "melee_attack",
@@ -189,22 +189,22 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Green Dragon's Spite** (Melee)
-> Windfall's attacks take on the aspect of a noxious green dragon.  
-> Cooldown: 5s (Cap 1.25s)
+> With the guile of a green dragon, Windfall prefers to attack distant enemies.  
+> Cooldown: 2.75s (Cap 0.6875s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 849,
     "name": "Green Dragon's Spite",
-    "description": "Windfall's attacks take on the aspect of a noxious green dragon.",
+    "description": "With the guile of a green dragon, Windfall prefers to attack distant enemies.",
     "long_description": "",
     "graphic_id": 0,
     "target": "back",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 2.75,
     "animations": [
         {
             "type": "melee_attack",
@@ -230,22 +230,22 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: White Dragon's Chill** (Melee)
-> Windfall's attacks take on the aspect of a chilling white dragon.  
-> Cooldown: 5s (Cap 1.25s)
+> With the icy wrath of a white dragon, Windfall prefers to attack slow enemies.  
+> Cooldown: 2.75s (Cap 0.6875s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 852,
     "name": "White Dragon's Chill",
-    "description": "Windfall's attacks take on the aspect of a chilling white dragon.",
+    "description": "With the icy wrath of a white dragon, Windfall prefers to attack slow enemies.",
     "long_description": "",
     "graphic_id": 0,
     "target": "slowed_or_random",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 2.75,
     "animations": [
         {
             "type": "melee_attack",
@@ -271,22 +271,22 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Blue Dragon's Spark** (Melee)
-> Windfall's attacks take on the aspect of a shocking blue dragon.  
-> Cooldown: 5s (Cap 1.25s)
+> With the cunning of a blue dragon, Windfall prefers to attack stunned enemies.  
+> Cooldown: 2.75s (Cap 0.6875s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 853,
     "name": "Blue Dragon's Spark",
-    "description": "Windfall's attacks take on the aspect of a shocking blue dragon.",
+    "description": "With the cunning of a blue dragon, Windfall prefers to attack stunned enemies.",
     "long_description": "",
     "graphic_id": 0,
     "target": "stunned_or_random",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 2.75,
     "animations": [
         {
             "type": "melee_attack",
@@ -310,22 +310,22 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Blue Dragon's Spark** (Melee)
-> Windfall's attacks take on the aspect of a shocking blue dragon.  
-> Cooldown: 5s (Cap 1.25s)
+> With the cunning of a blue dragon, Windfall prefers to attack stunned enemies.  
+> Cooldown: 2.75s (Cap 0.6875s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 854,
     "name": "Blue Dragon's Spark",
-    "description": "Windfall's attacks take on the aspect of a shocking blue dragon.",
+    "description": "With the cunning of a blue dragon, Windfall prefers to attack stunned enemies.",
     "long_description": "",
     "graphic_id": 0,
     "target": "stunned_or_random",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 2.75,
     "animations": [
         {
             "type": "ranged_attack",
@@ -339,10 +339,9 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             "shoot_offset_x": 0,
             "shoot_offset_y": 0,
             "projectile_details": {
-                "speed": 10000,
-                "max_chain_distance": 600,
                 "chain_targets": 2,
-                "initial_projectile_graphic": "Effect_Windfall_Lightning_Segment1",
+                "fixed_time_to_target": 0.15,
+                "has_trail": false,
                 "hit_effect_graphic": "Effect_Windfall_Lightning_Hit",
                 "segment_graphics": [
                     "Effect_Windfall_Lightning_Segment1",
@@ -352,7 +351,51 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             },
             "bonus_damage_from": {
                 "type": "seconds_of_bud",
-                "amount": 5
+                "amount": 1,
+                "bud_override_upgrade_id": 17057,
+                "bud_override_index": 2
+            },
+            "force_count_for_bud": false
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Chromatic Rapier** (Melee)
+> Windfall attacks a random enemy for 1 hit.  
+> Cooldown: 2.75s (Cap 0.6875s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 857,
+    "name": "Chromatic Rapier",
+    "description": "Windfall attacks a random enemy for 1 hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 2.75,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -34,
+            "damage_frame": 2,
+            "jump_sound": 30,
+            "sound_frames": {
+                "2": 154
             }
         }
     ],
@@ -371,9 +414,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Stunning Scintillation**
 > Windfall's blinding coat erupts in a scintillating flash, dealing 1 ultimate hit to all enemies, stunning and then slowing them.  
-> Cooldown: 5s (Cap 1.25s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 220s (Cap 55s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -387,7 +428,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 220,
     "animations": [
         {
             "type": "ultimate_attack",
@@ -397,7 +438,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             "animation_sequence_name": "ultimate",
             "projectile_details": {
                 "chain_targets": 0,
-                "fixed_time_to_target": 0.2,
+                "fixed_time_to_target": 0.15,
                 "follow_source": true,
                 "has_trail": false,
                 "hit_effect_graphic": "Effect_Windfall_Lightning_Hit",
@@ -412,7 +453,8 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
                     "effect_string": "monster_speed_reduce,50",
                     "for_time": 6
                 }
-            ]
+            ],
+            "force_count_for_bud": false
         }
     ],
     "tags": [
@@ -441,18 +483,13 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
     "description": {
         "desc": "Windfall can be used in any Vecna: Eve of Ruin campaign adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions."
     },
-    "effect_keys": [
-        {
-            "effect_string": "do_nothing"
-        }
-    ],
+    "effect_keys": [],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false,
-        "owner_use_outgoing_description": true
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -483,8 +520,8 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 26379,
+    "large_graphic_id": 26376,
     "properties": {
         "is_formation_ability": true
     }
@@ -560,12 +597,14 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 26378,
+    "large_graphic_id": 26375,
     "properties": {
         "is_formation_ability": true,
         "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true
+        "per_effect_index_bonuses": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -583,25 +622,31 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
     "id": 2298,
     "flavour_text": "",
     "description": {
-        "desc": "Windfall increases the effect of The Long Game by $amount% for each adventure, variant, and Patron variant you have completed in the Vecna: Eve of Ruin campaign, stacking multiplicatively."
+        "desc": "Windfall increases the effect of The Long Game by $(not_buffed amount)% for each adventure, variant, and Patron variant you have completed in the Vecna: Eve of Ruin campaign, stacking multiplicatively."
     },
     "effect_keys": [
         {
+            "off_when_benched": true,
             "effect_string": "buff_upgrade,20,17053",
             "stacks_multiply": true,
+            "show_bonus": true,
+            "amount_func": "mult",
             "stack_func": "get_stat",
             "ided_stat_id": 31,
             "ided_stat_handler": "CompletedAdventuresVariantsAndPatronVariants",
             "use_computed_amount_for_description": true,
-            "skip_effect_key_desc": true,
-            "off_when_benched": true
+            "stack_title": "Vecna: Eve of Ruin Adventures Completed",
+            "amount_updated_listeners": [
+                "stat_changed,VecnaAdventuresCompleted"
+            ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 26377,
+    "large_graphic_id": 26374,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -632,20 +677,30 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             "pop_damage": true,
             "use_bud": true,
             "graphic": {
-                "active_graphic_id": 26386
+                "active_graphic_id": 26299,
+                "scale_y": 0.3
             }
         },
         {
             "effect_string": "do_nothing,3"
+        },
+        {
+            "effect_string": "expression_on_trigger,owner_attack_with_id",
+            "trigger_params": [
+                "846"
+            ],
+            "per_trigger_expr": "{AppendToSaveStat(`windfall_spec_0_attack`, false, trigger_count) NotifyStatChanged(`WindfallFiveHeadsOfTiamat`, false)}",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 26383,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true
+        "per_effect_index_bonuses": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -655,7 +710,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Blue Dragon** (Guess)
-> Windfall gains the Control role and she prefers to attack stunned enemies. Her normal attacks are charged with lightning, striking out at up to two other random enemies, dealing 5 seconds of BUD-based damage to them, and stunning all enemies damaged for 3 seconds.
+> Windfall gains the Control role and she prefers to attack stunned enemies. Her normal attacks are charged with lightning, striking out at up to two other random enemies, dealing $amount___3 seconds of BUD-based damage to them, and stunning all enemies damaged for 3 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -663,7 +718,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
     "id": 2300,
     "flavour_text": "",
     "description": {
-        "desc": "Windfall gains the Control role and she prefers to attack stunned enemies. Her normal attacks are charged with lightning, striking out at up to two other random enemies, dealing 5 seconds of BUD-based damage to them, and stunning all enemies damaged for 3 seconds."
+        "desc": "Windfall gains the Control role and she prefers to attack stunned enemies. Her normal attacks are charged with lightning, striking out at up to two other random enemies, dealing $amount___3 seconds of BUD-based damage to them, and stunning all enemies damaged for 3 seconds."
     },
     "effect_keys": [
         {
@@ -671,13 +726,28 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
         },
         {
             "effect_string": "change_base_attack,853"
+        },
+        {
+            "effect_string": "do_nothing,5"
+        },
+        {
+            "effect_string": "expression_on_trigger,owner_attack_with_id",
+            "trigger_params": [
+                "853"
+            ],
+            "per_trigger_expr": "{AppendToSaveStat(`windfall_spec_1_attack`, false, trigger_count) NotifyStatChanged(`WindfallFiveHeadsOfTiamat`, false)}",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 26381,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "owner_use_outgoing_description": true,
+        "default_bonus_index": 2
     }
 }
 </pre>
@@ -687,7 +757,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Green Dragon** (Guess)
-> Windfall prefers to attack the farthest target. Her normal attacks exude a small cloud of poisonous gas around the target for 10 seconds. Enemies in the gas cloud take 100 seconds of BUD-based damage every second while they are in the area.
+> Windfall prefers to attack the farthest target. Her normal attacks exude a small cloud of poisonous gas around the target for 10 seconds. Enemies in the gas cloud take 2 seconds of BUD-based damage every second while they are in the area.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -702,7 +772,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             "effect_string": "change_base_attack,849"
         },
         {
-            "effect_string": "add_monster_hit_effects,100",
+            "effect_string": "add_monster_hit_effects,2",
             "optional_attack_ids": [
                 849
             ],
@@ -714,7 +784,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
                 "duration": 10,
                 "area_effects": [
                     {
-                        "effect_string": "bud_dot,2",
+                        "effect_string": "bud_dot,$amount",
                         "tick_rate": 1,
                         "total_ticks": 9999,
                         "for_time": "10",
@@ -731,15 +801,24 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
                 "primary_graphics": [],
                 "density": 7
             }
+        },
+        {
+            "effect_string": "expression_on_trigger,owner_attack_with_id",
+            "trigger_params": [
+                "849"
+            ],
+            "per_trigger_expr": "{AppendToSaveStat(`windfall_spec_2_attack`, false, trigger_count) NotifyStatChanged(`WindfallFiveHeadsOfTiamat`, false)}",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 26382,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
+        "owner_use_outgoing_description": true,
         "default_bonus_index": 1
     }
 }
@@ -790,16 +869,24 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
                     "use_collection_source": true
                 }
             ]
+        },
+        {
+            "effect_string": "expression_on_trigger,owner_attack_with_id",
+            "trigger_params": [
+                "848"
+            ],
+            "per_trigger_expr": "{AppendToSaveStat(`windfall_spec_3_attack`, false, trigger_count) NotifyStatChanged(`WindfallFiveHeadsOfTiamat`, false)}",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 26380,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -817,7 +904,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
     "id": 2303,
     "flavour_text": "",
     "description": {
-        "desc": "Windfall gains the Control role and she prefers to attack slowed enemies. Her normal attacks create a medium cloud of icy air for 5 seconds around the target. Enemies in the cloud take 1 second of BUD-based damage every second while they are in the area and are slowed by 50%."
+        "desc": "Windfall gains the Control role and she prefers to attack slowed enemies. Her normal attacks create a medium cloud of icy air for 5 seconds around the target. Enemies in the cloud take $amount___3 second of BUD-based damage every second while they are in the area and are slowed by 50%."
     },
     "effect_keys": [
         {
@@ -827,7 +914,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             "effect_string": "change_base_attack,852"
         },
         {
-            "effect_string": "add_monster_hit_effects,100",
+            "effect_string": "add_monster_hit_effects,1",
             "optional_attack_ids": [
                 852
             ],
@@ -839,7 +926,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
                 "duration": 5,
                 "area_effects": [
                     {
-                        "effect_string": "bud_dot,1",
+                        "effect_string": "bud_dot,$amount",
                         "tick_rate": 1,
                         "total_ticks": 9999,
                         "for_time": "5",
@@ -856,16 +943,25 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
                 "primary_graphics": [],
                 "density": 10
             }
+        },
+        {
+            "effect_string": "expression_on_trigger,owner_attack_with_id",
+            "trigger_params": [
+                "852"
+            ],
+            "per_trigger_expr": "{AppendToSaveStat(`windfall_spec_4_attack`, false, trigger_count) NotifyStatChanged(`WindfallFiveHeadsOfTiamat`, false)}",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 26384,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 1
+        "owner_use_outgoing_description": true,
+        "default_bonus_index": 2
     }
 }
 </pre>
