@@ -727,7 +727,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 549**Tempest Noble Vlithryn (Vlithryn)**</span></span>
+            <span class="tooltipHolder">![Tempest Noble Vlithryn Skin Portrait](images/premiums/skin_549.png)<span class="itemTooltipContents">ID: 549**Tempest Noble Vlithryn (Vlithryn)**<img src="images/premiums/skin_549.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -867,7 +867,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 551**Brigadier Evandra (Evandra)**</span></span>
+            <span class="tooltipHolder">![Brigadier Evandra Skin Portrait](images/premiums/skin_551.png)<span class="itemTooltipContents">ID: 551**Brigadier Evandra (Evandra)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

@@ -198,7 +198,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 551**Brigadier Evandra (Evandra)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Brigadier Evandra Portrait](images/skin_portraits/brigadierevandra.png)<span class="featTooltipContents">ID: 551**Brigadier Evandra (Evandra)**</span></span>
         </span>
         <span class="skinTableName">
             Brigadier Evandra
@@ -249,7 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 549**Tempest Noble Vlithryn (Vlithryn)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Tempest Noble Vlithryn Portrait](images/skin_portraits/tempestnoblevlithryn.png)<span class="featTooltipContents">ID: 549**Tempest Noble Vlithryn (Vlithryn)**<img src="images/skin_models/tempestnoblevlithryn.gif" alt="Tempest Noble Vlithryn Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Tempest Noble Vlithryn
