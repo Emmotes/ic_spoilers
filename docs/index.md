@@ -23,31 +23,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="grimm.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Grimm Portrait Icon](images/grimm/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Grimm
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Barbarian</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Festival of Fools - 2 April 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="vlithryn.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -89,6 +64,9 @@ These are the event champions that are upcoming and all the information we know 
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Dragondown - 4 June 2025</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
 {::nomarkdown}
@@ -134,32 +112,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="beadle.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Beadle & Grimm Portrait Icon](images/beadle/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Beadle
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf Rogue / Wizard</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Festival of Fools - 2 April 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="yorven.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -174,7 +126,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Harengon Barbarian / Druid</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">The Great Modron March - 14 May 2025 (Worst the Wait Augment (Guess))</span>
+                <span class="indexChampionTableNoLink">Festival of Fools - 09 April 2025 (Worst the Wait Augment (Guess))</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -184,7 +136,10 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="krond.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Krond Portrait Icon](images/krond/portrait.png)
         </span>
@@ -196,7 +151,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Half-Orc Fighter</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dragondown - 11 June 2025 (Worst the Wait Augment (Guess)) (Guess)</span>
+                <span class="indexChampionTableNoLink">The Great Modron March - 14 May 2025 (Worst the Wait Augment (Guess))</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -204,6 +159,9 @@ A list of champions that will be seeing reworks in upcoming events.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -220,50 +178,27 @@ These are the upcoming new and reworked champions and where they'll be found.
 ## Festival of Fools - 2 April 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
-<a href="grimm.html">
+<a href="yorven.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Grimm Portrait Icon](images/grimm/portrait.png)
+            ![Yorven Springpaw Portrait Icon](images/yorven/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Grimm
+                Yorven Springpaw
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Barbarian</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Renework 💫
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
-<a href="beadle.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Beadle & Grimm Portrait Icon](images/beadle/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Beadle
+                <span class="indexChampionTableNoLink">Harengon Barbarian / Druid</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf Rogue / Wizard</span>
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             Rework ♻️
         </span>
         <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
@@ -301,18 +236,18 @@ These are the upcoming new and reworked champions and where they'll be found.
 </a>
 {:/nomarkdown}
 {::nomarkdown}
-<a href="yorven.html">
+<a href="krond.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Yorven Springpaw Portrait Icon](images/yorven/portrait.png)
+            ![Krond Portrait Icon](images/krond/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Yorven Springpaw
+                Krond
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Harengon Barbarian / Druid</span>
+                <span class="indexChampionTableNoLink">Half-Orc Fighter</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment (Guess)</span>
@@ -322,6 +257,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             Rework ♻️
         </span>
         <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
@@ -381,33 +317,13 @@ These are the upcoming new and reworked champions and where they'll be found.
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
         </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
-        <span class="indexChampionTableIcon">
-            ![Krond Portrait Icon](images/krond/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Krond (Guess)
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Half-Orc Fighter</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment (Guess)</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
 </span>
 </div></div>
 
@@ -421,7 +337,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Festival of Fools Augments](augments_16.md) - 2 April 2025
 * [Feast of the Giants Celebration](feastofthegiants.md) - 7 April 2025 (Guess)
 * [Emergence 11](emergence_11.md) - 23 April 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_589.md) - 8 July 2025
