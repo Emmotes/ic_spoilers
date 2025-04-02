@@ -24,7 +24,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Frost Giant Beadle Skin Portrait](images/premiums/skin_540.png)<span class="itemTooltipContents">ID: 540**Frost Giant Beadle (Y4E15)**<img src="images/premiums/skin_540.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Frost Giant Beadle Skin Portrait](images/premiums/skin_540.png)<span class="itemTooltipContents">ID: 540**Frost Giant Beadle (Beadle)**<img src="images/premiums/skin_540.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2128**Feat**???: 2128</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Show Off Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2128**Show Off**Sneak attacks are a bit easier when you can teleport! ~Beadle<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2128</span>
+            <span style="margin-left:15px">Show Off</span>
+            <span style="margin-left:15px">Beadle (100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -875,7 +876,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Mango the Hippocampus Familiar Portrait](images/premiums/familiar_258.png)<span class="itemTooltipContents">ID: 258**Mango the Hippocampus**<img src="images/premiums/familiar_258.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Mango the Hippocampus Familiar Portrait](images/premiums/familiar_258.png)<span class="itemTooltipContents">ID: 258**Mango the Hippocampus**Time to look my gift horse in the mouth! ~Vlithryn<img src="images/premiums/familiar_258.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1086,7 +1087,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 259**Chase the Spaniel**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 259**Chase the Spaniel**Your new best friend who will do anything for table scraps.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1095,12 +1096,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2019**Feat**???: 2019</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor (10% All Champion Damage)</span>
+            <span style="margin-left:15px">???: 2019</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1138,7 +1138,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Spark the Living Lightning Bolt Familiar Portrait](images/premiums/familiar_260.png)<span class="itemTooltipContents">ID: 260**Spark the Living Lightning Bolt**<img src="images/premiums/familiar_260.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Spark the Living Lightning Bolt Familiar Portrait](images/premiums/familiar_260.png)<span class="itemTooltipContents">ID: 260**Spark the Living Lightning Bolt**Hissszzzap!<img src="images/premiums/familiar_260.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1371,7 +1371,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 261**Clawfoot the Dinosaur**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 261**Clawfoot the Dinosaur**Beware its deadly cuddles.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1575,7 +1575,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 262**Virtue the Valenar Foal**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 262**Virtue the Valenar Foal**To be its chosen companion is a high honor.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -2519,7 +2519,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**Ready for a life full of wonder and possibility.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

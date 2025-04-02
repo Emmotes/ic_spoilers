@@ -30,6 +30,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Beadle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Show Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2128**Show Off (Beadle)**Sneak attacks are a bit easier when you can teleport! ~Beadle<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Show Off
+        </span>
+        <span class="featTableEffect">
+            <span>100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Apr 2025<br>02 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Grimm</span>
         </span>
         <span class="featTableIcon4">
@@ -111,6 +128,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span>16 Apr 2025<br>16 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Beadle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Reaching Shadow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2125**Reaching Shadow (Beadle)**As the sun dips low, shadows loom large. That's when we strike. ~Beadle<code>change_upgrade_targets,16722<br>change_upgrade_targets,16722</code></span>Reaching Shadow
+        </span>
+        <span class="featTableEffect">
+            <span>???: [change_upgrade_targets,16722, Increases effect of $(upgrade_name id) to within three slots, change_upgrade_targets,16722] & ???: [change_upgrade_targets,16722, Increases effect of $(upgrade_name id) to within three slots, change_upgrade_targets,16722]</span>
+        </span>
+        <span class="featTableSource">
+            <span>Emergence 11</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Apr 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -488,6 +522,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Beadle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Deeper Shadow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2126**Deeper Shadow (Beadle)**They still think they can trust their eyes. Poor sods. ~Beadle<code>buff_upgrade,80,16722,1</code></span>Deeper Shadow
+        </span>
+        <span class="featTableEffect">
+            <span>80% In The Shadows</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

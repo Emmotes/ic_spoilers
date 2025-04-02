@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Mango the Hippocampus Portrait](images/familiars/mangothehippocampus.png)<span class="featTooltipContents">ID: 258**Mango the Hippocampus**<img src="images/familiars/mangothehippocampus.gif" alt="Mango the Hippocampus Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mango the Hippocampus Portrait](images/familiars/mangothehippocampus.png)<span class="featTooltipContents">ID: 258**Mango the Hippocampus**Time to look my gift horse in the mouth! ~Vlithryn<img src="images/familiars/mangothehippocampus.gif" alt="Mango the Hippocampus Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Mango the Hippocampus
@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 259**Chase the Spaniel**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 259**Chase the Spaniel**Your new best friend who will do anything for table scraps.</span></span>
         </span>
         <span class="skinTableName">
             Chase the Spaniel
@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Spark the Living Lightning Bolt Portrait](images/familiars/sparkthelivinglightningbolt.png)<span class="featTooltipContents">ID: 260**Spark the Living Lightning Bolt**<img src="images/familiars/sparkthelivinglightningbolt.gif" alt="Spark the Living Lightning Bolt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Spark the Living Lightning Bolt Portrait](images/familiars/sparkthelivinglightningbolt.png)<span class="featTooltipContents">ID: 260**Spark the Living Lightning Bolt**Hissszzzap!<img src="images/familiars/sparkthelivinglightningbolt.gif" alt="Spark the Living Lightning Bolt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Spark the Living Lightning Bolt
@@ -143,7 +143,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 261**Clawfoot the Dinosaur**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 261**Clawfoot the Dinosaur**Beware its deadly cuddles.</span></span>
         </span>
         <span class="skinTableName">
             Clawfoot the Dinosaur
@@ -160,7 +160,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 262**Virtue the Valenar Foal**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 262**Virtue the Valenar Foal**To be its chosen companion is a high honor.</span></span>
         </span>
         <span class="skinTableName">
             Virtue the Valenar Foal
@@ -262,7 +262,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**Ready for a life full of wonder and possibility.</span></span>
         </span>
         <span class="skinTableName">
             Verdigrin the Baby Copper Dragon

@@ -51,7 +51,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/731.png">
-            <span class="weekendTooltipContents">ID: 731**Gold Corporate Synergy Chest**Loot for: Y4E15, Nayeli, Minsc, Kalix and Dark Urge<code>"for_crusaders":[108,3,7,158,146]</code></span>
+            <span class="weekendTooltipContents">ID: 731**Gold Corporate Synergy Chest**Loot for: Beadle, Nayeli, Minsc, Kalix and Dark Urge<code>"for_crusaders":[64,3,7,158,146]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
