@@ -59,7 +59,7 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Hunter / Control (Guess)</span>
+            <span style="margin-left:8px;">Support / Hunter / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
