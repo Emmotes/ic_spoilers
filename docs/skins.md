@@ -68,7 +68,7 @@ Please be aware that the developers recently removed most future skins from the 
             Tuxedo Kalix
         </span>
         <span class="skinTableSource">
-            ???
+            EGS Giveaway - Astarion's Champions of Renown Pack
         </span>
         <span class="skinTableCost">
             ???

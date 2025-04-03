@@ -24,6 +24,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Rumble the Angry Flumph Portrait](images/familiars/rumbletheangryflumph.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**A flumph glows faintly, reflecting its moods in its color. Crimson means anger. Beware the angry flumph!<img src="images/familiars/rumbletheangryflumph.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Rumble the Angry Flumph
+        </span>
+        <span class="skinTableSource">
+            EGS Giveaway - Astarion's Champions of Renown Pack
+        </span>
+        <span class="skinTableCost">
+            Free
+        </span>
+        <span class="skinTableDate">
+            10 Apr 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Wazzik the Madcap Portrait](images/familiars/wazzikthemadcap.png)<span class="featTooltipContents">ID: 256**Wazzik the Madcap**We ride!<img src="images/familiars/wazzikthemadcap.gif" alt="Wazzik the Madcap Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -249,23 +266,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableName">
             Clove the Badger
-        </span>
-        <span class="skinTableSource">
-            None
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Rumble the Angry Flumph Portrait](images/familiars/rumbletheangryflumph.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**A flumph glows faintly, reflecting its moods in its color. Crimson means anger. Beware the angry flumph!<img src="images/familiars/rumbletheangryflumph.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Rumble the Angry Flumph
         </span>
         <span class="skinTableSource">
             None
