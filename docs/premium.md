@@ -1098,7 +1098,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 553**Valaes Tairn Melf (Melf)**</span></span>
+            <span class="tooltipHolder">![Valaes Tairn Melf Skin Portrait](images/premiums/skin_553.png)<span class="itemTooltipContents">ID: 553**Valaes Tairn Melf (Melf)**<img src="images/premiums/skin_553.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1567,7 +1567,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 560**Dragonslayer Hank (Hank)**</span></span>
+            <span class="tooltipHolder">![Dragonslayer Hank Skin Portrait](images/premiums/skin_560.png)<span class="itemTooltipContents">ID: 560**Dragonslayer Hank (Hank)**<img src="images/premiums/skin_560.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

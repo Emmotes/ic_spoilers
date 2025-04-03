@@ -283,7 +283,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 553**Valaes Tairn Melf (Melf)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Valaes Tairn Melf Portrait](images/skin_portraits/valaestairnmelf.png)<span class="featTooltipContents">ID: 553**Valaes Tairn Melf (Melf)**<img src="images/skin_models/valaestairnmelf.gif" alt="Valaes Tairn Melf Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Valaes Tairn Melf
@@ -368,7 +368,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 560**Dragonslayer Hank (Hank)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragonslayer Hank Portrait](images/skin_portraits/dragonslayerhank.png)<span class="featTooltipContents">ID: 560**Dragonslayer Hank (Hank)**<img src="images/skin_models/dragonslayerhank.gif" alt="Dragonslayer Hank Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragonslayer Hank
