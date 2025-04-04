@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 261**Clawfoot the Dinosaur**Beware its deadly cuddles.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Clawfoot the Dinosaur Portrait](images/familiars/clawfootthedinosaur.png)<span class="featTooltipContents">ID: 261**Clawfoot the Dinosaur**Beware its deadly cuddles.<img src="images/familiars/clawfootthedinosaur.gif" alt="Clawfoot the Dinosaur Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Clawfoot the Dinosaur
@@ -245,7 +245,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**Ready for a life full of wonder and possibility.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Verdigrin the Baby Copper Dragon Portrait](images/familiars/verdigrinthebabycopperdragon.png)<span class="featTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**Ready for a life full of wonder and possibility.<img src="images/familiars/verdigrinthebabycopperdragon.gif" alt="Verdigrin the Baby Copper Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Verdigrin the Baby Copper Dragon

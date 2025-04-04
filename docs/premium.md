@@ -1231,7 +1231,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 261**Clawfoot the Dinosaur**Beware its deadly cuddles.</span></span>
+            <span class="tooltipHolder">![Clawfoot the Dinosaur Familiar Portrait](images/premiums/familiar_261.png)<span class="itemTooltipContents">ID: 261**Clawfoot the Dinosaur**Beware its deadly cuddles.<img src="images/premiums/familiar_261.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -2379,7 +2379,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**Ready for a life full of wonder and possibility.</span></span>
+            <span class="tooltipHolder">![Verdigrin the Baby Copper Dragon Familiar Portrait](images/premiums/familiar_269.png)<span class="itemTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**Ready for a life full of wonder and possibility.<img src="images/premiums/familiar_269.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
