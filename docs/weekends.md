@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/730.png">
-            <span class="weekendTooltipContents">ID: 730**Gold Sharp Chest**Loot for: Grimm, Bruenor, Arkhan, Birdsong and Karlach<code>"for_crusaders":[161,1,12,21,143]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Slice & Dice**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    04 April 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Grimm
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/grimm.png'">
-                        <span class="weekendTableChampionNameplate">Grimm</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/birdsong.png'">
-                        <span class="weekendTableChampionNameplate">Birdsong</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/karlach.png'">
-                        <span class="weekendTableChampionNameplate">Karlach</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/731.png">
             <span class="weekendTooltipContents">ID: 731**Gold Corporate Synergy Chest**Loot for: Beadle, Nayeli, Minsc, Kalix and Dark Urge<code>"for_crusaders":[64,3,7,158,146]</code></span>
         </span>
