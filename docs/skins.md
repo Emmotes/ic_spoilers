@@ -266,7 +266,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Nomad Yorven Portrait](images/skin_portraits/nomadyorven.png)<span class="featTooltipContents">ID: 552**Nomad Yorven (Yorven)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Nomad Yorven Portrait](images/skin_portraits/nomadyorven.png)<span class="featTooltipContents">ID: 552**Nomad Yorven (Yorven)**<img src="images/skin_models/nomadyorven.gif" alt="Nomad Yorven Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Nomad Yorven

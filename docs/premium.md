@@ -938,7 +938,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Nomad Yorven Skin Portrait](images/premiums/skin_552.png)<span class="itemTooltipContents">ID: 552**Nomad Yorven (Yorven)**</span></span>
+            <span class="tooltipHolder">![Nomad Yorven Skin Portrait](images/premiums/skin_552.png)<span class="itemTooltipContents">ID: 552**Nomad Yorven (Yorven)**<img src="images/premiums/skin_552.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
