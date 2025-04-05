@@ -1208,10 +1208,6 @@ input[type="checkbox"]:checked::before {
 	color: white;
 	padding: 5px;
 }
-
-
-
-
 .blessingsTableColumn {
 	display: flex;
 	flex-direction: column;
@@ -1246,4 +1242,37 @@ input[type="checkbox"]:checked::before {
 	background-color: var(--CodGrey);
 	border-left: 1px solid black;
 	padding: 5px 8px 5px 0;
+}
+.eventBuffsTooltipHolder {
+	position: relative;
+	cursor: pointer;
+}
+.eventBuffsTooltipHolder:hover .eventBuffsTooltipContents {
+	visibility: visible;
+}
+.eventBuffsTooltipContents {
+	visibility: hidden;
+	padding: 15px;
+	border: 1px solid black;
+	background-color: #101010;
+	width: max-content;
+	max-width: 350px;
+	font-size: 1.4em;
+	
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	flex-direction: column;
+	z-index: 1;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	transform: translate(-1px, 91px);
+	color: #f0e7d5;
+	pointer-events: none;
+	text-wrap-mode: wrap;
+	text-wrap-style: pretty;
+}
+.eventBuffsTooltipContents ol {
+	margin: 0 0 -5px -25px;
 }

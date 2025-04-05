@@ -11,16 +11,16 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="evelyn" style="background-image:url(images/portraits/evelyn.png)">Evelyn (6)</span>
-<span class="eventRosterChampion" id="qillek" style="background-image:url(images/portraits/qillek.png)">Qillek (5)</span>
-<span class="eventRosterChampion" id="krydle" style="background-image:url(images/portraits/krydle.png)">Krydle (2)</span>
-<span class="eventRosterChampion" id="jaheira" style="background-image:url(images/portraits/jaheira.png)">Jaheira (9)</span>
-<span class="eventRosterChampion" id="mehen" style="background-image:url(images/portraits/mehen.png)">Mehen (3)</span>
-<span class="eventRosterChampion" id="nordom" style="background-image:url(images/portraits/nordom.png)">Nordom (9)</span>
-<span class="eventRosterChampion" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)</span>
-<span class="eventRosterChampion" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)</span>
-<span class="eventRosterChampion" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)</span>
-<span class="eventRosterChampion" id="vlithryn" style="background-image:url(images/portraits/vlithryn.png)">Vlithryn</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="evelyn" style="background-image:url(images/portraits/evelyn.png)">Evelyn (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="qillek" style="background-image:url(images/portraits/qillek.png)">Qillek (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="krydle" style="background-image:url(images/portraits/krydle.png)">Krydle (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="jaheira" style="background-image:url(images/portraits/jaheira.png)">Jaheira (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="mehen" style="background-image:url(images/portraits/mehen.png)">Mehen (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Gruff</li><li>2400% Expose Weakness</li><li>6300% Grumpy</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="nordom" style="background-image:url(images/portraits/nordom.png)">Nordom (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="vlithryn" style="background-image:url(images/portraits/vlithryn.png)">Vlithryn<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 </span>
 
 {:/nomarkdown}
@@ -30,18 +30,18 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="binwin" style="background-image:url(images/portraits/binwin.png)">Binwin (3)</span>
-<span class="eventRosterChampion" id="korth" style="background-image:url(images/portraits/korth.png)">Korth (2)</span>
-<span class="eventRosterChampion" id="melf" style="background-image:url(images/portraits/melf.png)">Melf (12)</span>
-<span class="eventRosterChampion" id="nova" style="background-image:url(images/portraits/nova.png)">Nova (11)</span>
-<span class="eventRosterChampion" id="shaka" style="background-image:url(images/portraits/shaka.png)">Shaka (9)</span>
-<span class="eventRosterChampion" id="selise" style="background-image:url(images/portraits/selise.png)">Selise (12)</span>
-<span class="eventRosterChampion" id="dm" style="background-image:url(images/portraits/dm.png)">DM (6)</span>
-<span class="eventRosterChampion" id="merilwen" style="background-image:url(images/portraits/merilwen.png)">Merilwen (2)</span>
-<span class="eventRosterChampion" id="antrius" style="background-image:url(images/portraits/antrius.png)">Antrius (4)</span>
-<span class="eventRosterChampion" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)</span>
-<span class="eventRosterChampion" id="ravengard" style="background-image:url(images/portraits/ravengard.png)">Ravengard (8)</span>
-<span class="eventRosterChampion" id="hank" style="background-image:url(images/portraits/hank.png)">Hank</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="binwin" style="background-image:url(images/portraits/binwin.png)">Binwin (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="korth" style="background-image:url(images/portraits/korth.png)">Korth (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="melf" style="background-image:url(images/portraits/melf.png)">Melf (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="nova" style="background-image:url(images/portraits/nova.png)">Nova (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="shaka" style="background-image:url(images/portraits/shaka.png)">Shaka (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="selise" style="background-image:url(images/portraits/selise.png)">Selise (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="dm" style="background-image:url(images/portraits/dm.png)">DM (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="merilwen" style="background-image:url(images/portraits/merilwen.png)">Merilwen (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="antrius" style="background-image:url(images/portraits/antrius.png)">Antrius (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="ravengard" style="background-image:url(images/portraits/ravengard.png)">Ravengard (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="hank" style="background-image:url(images/portraits/hank.png)">Hank<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 </span>
 
 {:/nomarkdown}
@@ -51,16 +51,16 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="deekin" style="background-image:url(images/portraits/deekin.png)">Deekin (1)</span>
-<span class="eventRosterChampion" id="xander" style="background-image:url(images/portraits/xander.png)">Xander (5)</span>
-<span class="eventRosterChampion" id="walnut" style="background-image:url(images/portraits/walnut.png)">Walnut (8)</span>
-<span class="eventRosterChampion" id="freely" style="background-image:url(images/portraits/freely.png)">Freely (7)</span>
-<span class="eventRosterChampion" id="sgtknox" style="background-image:url(images/portraits/sgtknox.png)">Sgt. Knox (6)</span>
-<span class="eventRosterChampion" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)</span>
-<span class="eventRosterChampion" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">Strongheart (11)</span>
-<span class="eventRosterChampion" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)</span>
-<span class="eventRosterChampion" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon (10)</span>
-<span class="eventRosterChampion" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto (7)</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="deekin" style="background-image:url(images/portraits/deekin.png)">Deekin (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="xander" style="background-image:url(images/portraits/xander.png)">Xander (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Lucky Shot</li><li>400% All Champion Damage</li><li>2400% Streetwise</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="walnut" style="background-image:url(images/portraits/walnut.png)">Walnut (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="freely" style="background-image:url(images/portraits/freely.png)">Freely (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="sgtknox" style="background-image:url(images/portraits/sgtknox.png)">Sgt. Knox (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Master Defender</li><li>400% Squad Leader</li><li>2400% All Champion Damage</li><li>100% Rallying Cry (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>400% Who Am I?</li><li>2400% To Amuse or Avenge</li><li>6300% Self DPS</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">Strongheart (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>+100 to Base Crit Chance</li><li>400% Courage to Stand</li><li>2400% Justice Needs Champions</li><li>6300% Righteous Might (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Bounty Hunter</li><li>400% Vicious Vantage (Prestack)</li><li>2400% All First Specialisations</li><li>6300% All Second Specialisations</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Uncover Weakness (Prestack)</li><li>400% Inner Circle</li><li>2400% All Champion Damage</li><li>150% Challenge Accepted</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Detective's Entourage</li><li>2400% Ongoing Investigation</li><li>100% All First Specialisations (Prestack)</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -70,16 +70,16 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="ishi" style="background-image:url(images/portraits/ishi.png)">Ishi (4)</span>
-<span class="eventRosterChampion" id="shandie" style="background-image:url(images/portraits/shandie.png)">Shandie (6)</span>
-<span class="eventRosterChampion" id="jim" style="background-image:url(images/portraits/jim.png)">Jim (7)</span>
-<span class="eventRosterChampion" id="beadle" style="background-image:url(images/portraits/beadle.png)">Beadle (8)</span>
-<span class="eventRosterChampion" id="omin" style="background-image:url(images/portraits/omin.png)">Omin (3)</span>
-<span class="eventRosterChampion" id="ellywick" style="background-image:url(images/portraits/ellywick.png)">Ellywick (10)</span>
-<span class="eventRosterChampion" id="prudence" style="background-image:url(images/portraits/prudence.png)">Prudence (5)</span>
-<span class="eventRosterChampion" id="valentine" style="background-image:url(images/portraits/valentine.png)">Valentine (5)</span>
-<span class="eventRosterChampion" id="voronika" style="background-image:url(images/portraits/voronika.png)">Voronika (1)</span>
-<span class="eventRosterChampion" id="laezel" style="background-image:url(images/portraits/laezel.png)">Lae'zel (2)</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="ishi" style="background-image:url(images/portraits/ishi.png)">Ishi (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Let's Find Some Treasure</li><li>100% All Specialisations (Prestack)</li><li>2400% Self DPS</li><li>100% Monsters Are People Too!</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="shandie" style="background-image:url(images/portraits/shandie.png)">Shandie (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Explosive Arrow</li><li>2400% Agile Allies</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="jim" style="background-image:url(images/portraits/jim.png)">Jim (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Fan Club</li><li>2400% Magical Mystery Tour</li><li>6300% All Specialisations</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="beadle" style="background-image:url(images/portraits/beadle.png)">Beadle (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% In The Shadows</li><li>400% Sticky Fingers</li><li>2400% All Champion Damage</li><li>6300% All Specialisations</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="omin" style="background-image:url(images/portraits/omin.png)">Omin (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Adventuring Capital</li><li>400% Champion of Tymora</li><li>2400% All Champion Damage</li><li>6300% Well Funded</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="ellywick" style="background-image:url(images/portraits/ellywick.png)">Ellywick (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>50% The Deck of Many Things (Prestack)</li><li>400% Fortunate Soul</li><li>2400% Powerful Following</li><li>6300% Greatest Song In The Multiverse</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="prudence" style="background-image:url(images/portraits/prudence.png)">Prudence (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Glee</li><li>400% Delight</li><li>2400% Frustration</li><li>6300% Self DPS</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="valentine" style="background-image:url(images/portraits/valentine.png)">Valentine (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% A Life of Leisure</li><li>400% All Champion Damage</li><li>2400% Socialite</li><li>6300% Tregrum</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="voronika" style="background-image:url(images/portraits/voronika.png)">Voronika (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Calculating Guidance</li><li>2400% Ultimate Power</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="laezel" style="background-image:url(images/portraits/laezel.png)">Lae'zel (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Aberration Hunter</li><li>400% Lethal Coordination</li><li>2400% Ceremorphosis (Prestack)</li><li>6300% All Champion Damage</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -89,16 +89,16 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="stoki" style="background-image:url(images/portraits/stoki.png)">Stoki (4)</span>
-<span class="eventRosterChampion" id="wulfgar" style="background-image:url(images/portraits/wulfgar.png)">Wulfgar (10)</span>
-<span class="eventRosterChampion" id="farideh" style="background-image:url(images/portraits/farideh.png)">Farideh (7)</span>
-<span class="eventRosterChampion" id="pwent" style="background-image:url(images/portraits/pwent.png)">Pwent (5)</span>
-<span class="eventRosterChampion" id="torogar" style="background-image:url(images/portraits/torogar.png)">Torogar (10)</span>
-<span class="eventRosterChampion" id="corazon" style="background-image:url(images/portraits/corazon.png)">Corazón (8)</span>
-<span class="eventRosterChampion" id="dhani" style="background-image:url(images/portraits/dhani.png)">D'hani (1)</span>
-<span class="eventRosterChampion" id="egbert" style="background-image:url(images/portraits/egbert.png)">Egbert (7)</span>
-<span class="eventRosterChampion" id="certainty" style="background-image:url(images/portraits/certainty.png)">Certainty (5)</span>
-<span class="eventRosterChampion" id="bobby" style="background-image:url(images/portraits/bobby.png)">Bobby (12)</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="stoki" style="background-image:url(images/portraits/stoki.png)">Stoki (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Golden Palm</li><li>2400% Focused Strike</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="wulfgar" style="background-image:url(images/portraits/wulfgar.png)">Wulfgar (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Health</li><li>400% Clangeddin's Will</li><li>2400% Smash 'n Grab</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="farideh" style="background-image:url(images/portraits/farideh.png)">Farideh (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>400% Hellish Rebuke</li><li>2400% Pact Family</li><li>6300% Self DPS</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="pwent" style="background-image:url(images/portraits/pwent.png)">Pwent (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Can You SMELL That?</li><li>2400% Gutbuster Recruits</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="torogar" style="background-image:url(images/portraits/torogar.png)">Torogar (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Preach</li><li>2400% Dark Order Synergy</li><li>6300% Markings of a Zealot</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="corazon" style="background-image:url(images/portraits/corazon.png)">Corazón (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% G.O.A.T. Pirate</li><li>2400% Pirate's Code</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="dhani" style="background-image:url(images/portraits/dhani.png)">D'hani (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>400% Damage of Stroke of Green</li><li>2400% Paint Them Red</li><li>6300% Way of the Brush</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="egbert" style="background-image:url(images/portraits/egbert.png)">Egbert (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Health</li><li>400% Atone for the Past</li><li>2400% All Second Specialisations</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="certainty" style="background-image:url(images/portraits/certainty.png)">Certainty (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Secretarian's Advice</li><li>400% Reboot Expert</li><li>2400% Financing Rounds</li><li>6300% Employee Evaluations and Employee Evaluations</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="bobby" style="background-image:url(images/portraits/bobby.png)">Bobby (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>100% Charge Into Battle (Prestack)</li><li>2400% Uni, the Unicorn</li><li>6300% Now We're Talking</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -108,16 +108,16 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="krond" style="background-image:url(images/portraits/krond.png)">Krond (6)</span>
-<span class="eventRosterChampion" id="donaar" style="background-image:url(images/portraits/donaar.png)">Donaar (2)</span>
-<span class="eventRosterChampion" id="avren" style="background-image:url(images/portraits/avren.png)">Avren (11)</span>
-<span class="eventRosterChampion" id="ezmerelda" style="background-image:url(images/portraits/ezmerelda.png)">Ezmerelda (1)</span>
-<span class="eventRosterChampion" id="brig" style="background-image:url(images/portraits/brig.png)">Brig (3)</span>
-<span class="eventRosterChampion" id="dob" style="background-image:url(images/portraits/dob.png)">Dob (12)</span>
-<span class="eventRosterChampion" id="kent" style="background-image:url(images/portraits/kent.png)">Kent (4)</span>
-<span class="eventRosterChampion" id="astarion" style="background-image:url(images/portraits/astarion.png)">Astarion (10)</span>
-<span class="eventRosterChampion" id="thellora" style="background-image:url(images/portraits/thellora.png)">Thellora (1)</span>
-<span class="eventRosterChampion" id="kas" style="background-image:url(images/portraits/kas.png)">Kas (6)</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="krond" style="background-image:url(images/portraits/krond.png)">Krond (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>100% Survival of the Fittest</li><li>+2400% Damage to Krond's Cantrips</li><li>6300% Self DPS</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="donaar" style="background-image:url(images/portraits/donaar.png)">Donaar (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Aura of Vitality</li><li>2400% Lead By Example</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="avren" style="background-image:url(images/portraits/avren.png)">Avren (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Mirror Image</li><li>2400% Seeing Double</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="ezmerelda" style="background-image:url(images/portraits/ezmerelda.png)">Ezmerelda (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Preparation</li><li>2400% All Champion Damage</li><li>6300% Training Montage (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="brig" style="background-image:url(images/portraits/brig.png)">Brig (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Volume Up</li><li>2400% Hype</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="dob" style="background-image:url(images/portraits/dob.png)">Dob (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Busking</li><li>2400% Traveling Entertainer</li><li>6300% All Specialisations</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="kent" style="background-image:url(images/portraits/kent.png)">Kent (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Remembering the Old Days</li><li>2400% Tokens of the Departed</li><li>6300% EXTRA!</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="astarion" style="background-image:url(images/portraits/astarion.png)">Astarion (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Ceremorphosis (Prestack)</li><li>400% Generational Wealth</li><li>2400% Well Fed (Prestack)</li><li>6300% All First Specialisations</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="thellora" style="background-image:url(images/portraits/thellora.png)">Thellora (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Health</li><li>400% Paladin's Resolve</li><li>2400% Strength of the Luma</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="kas" style="background-image:url(images/portraits/kas.png)">Kas (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Born Into Evil</li><li>400% Life Drain</li><li>2400% Mortal Pawns</li><li>100% Spawn of Kas (Prestack)</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -127,16 +127,16 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="gromma" style="background-image:url(images/portraits/gromma.png)">Gromma (3)</span>
-<span class="eventRosterChampion" id="vlahnya" style="background-image:url(images/portraits/vlahnya.png)">Vlahnya (8)</span>
-<span class="eventRosterChampion" id="turiel" style="background-image:url(images/portraits/turiel.png)">Turiel (1)</span>
-<span class="eventRosterChampion" id="sentry" style="background-image:url(images/portraits/sentry.png)">Sentry (4)</span>
-<span class="eventRosterChampion" id="lazaapz" style="background-image:url(images/portraits/lazaapz.png)">Lazaapz (9)</span>
-<span class="eventRosterChampion" id="penelope" style="background-image:url(images/portraits/penelope.png)">Penelope (12)</span>
-<span class="eventRosterChampion" id="widdle" style="background-image:url(images/portraits/widdle.png)">Widdle (2)</span>
-<span class="eventRosterChampion" id="virgil" style="background-image:url(images/portraits/virgil.png)">Virgil (10)</span>
-<span class="eventRosterChampion" id="jangsao" style="background-image:url(images/portraits/jangsao.png)">Jang Sao (8)</span>
-<span class="eventRosterChampion" id="minthara" style="background-image:url(images/portraits/minthara.png)">Minthara (3)</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="gromma" style="background-image:url(images/portraits/gromma.png)">Gromma (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Grandmotherly Love</li><li>2400% All First Specialisations</li><li>100% Runnin' With The Youngin's (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="vlahnya" style="background-image:url(images/portraits/vlahnya.png)">Vlahnya (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Enthralling Performance</li><li>2400% Enthralling Performance</li><li>6300% Enthralling Performance</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="turiel" style="background-image:url(images/portraits/turiel.png)">Turiel (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Order's Demand</li><li>2400% Embodiment of the Law</li><li>6300% All Specialisations</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="sentry" style="background-image:url(images/portraits/sentry.png)">Sentry (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Guardian of Solwynn</li><li>2400% All Champion Damage</li><li>6300% Aerois Synergy</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="lazaapz" style="background-image:url(images/portraits/lazaapz.png)">Lazaapz (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Health</li><li>2400% Tiny Bulwark</li><li>6300% Fury of the Small</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="penelope" style="background-image:url(images/portraits/penelope.png)">Penelope (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Have You Met My Friends</li><li>2400% Chwinga Mask</li><li>100% All First Specialisations (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="widdle" style="background-image:url(images/portraits/widdle.png)">Widdle (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>100% Tasty Friends</li><li>400% Vampiric Gaze</li><li>2400% All Champion Damage</li><li>6300% Vampiric Gaze</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="virgil" style="background-image:url(images/portraits/virgil.png)">Virgil (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Weather Control</li><li>2400% Rapid Fire</li><li>6300% Storm Sorcerer</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="jangsao" style="background-image:url(images/portraits/jangsao.png)">Jang Sao (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Painter of Beauty</li><li>2400% The Mysterious Wanderer</li><li>6300% Star Collector</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="minthara" style="background-image:url(images/portraits/minthara.png)">Minthara (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Noble of Menzoberranzan</li><li>2400% All Champion Damage</li><li>100% Soul Branding (Prestack)</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -146,16 +146,16 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="dhadius" style="background-image:url(images/portraits/dhadius.png)">Dhadius (5)</span>
-<span class="eventRosterChampion" id="regis" style="background-image:url(images/portraits/regis.png)">Regis (2)</span>
-<span class="eventRosterChampion" id="warden" style="background-image:url(images/portraits/warden.png)">Warden (11)</span>
-<span class="eventRosterChampion" id="krull" style="background-image:url(images/portraits/krull.png)">Krull (6)</span>
-<span class="eventRosterChampion" id="lucius" style="background-image:url(images/portraits/lucius.png)">Lucius (7)</span>
-<span class="eventRosterChampion" id="talin" style="background-image:url(images/portraits/talin.png)">Talin (2)</span>
-<span class="eventRosterChampion" id="yorven" style="background-image:url(images/portraits/yorven.png)">Yorven (10)</span>
-<span class="eventRosterChampion" id="warduke" style="background-image:url(images/portraits/warduke.png)">Warduke (8)</span>
-<span class="eventRosterChampion" id="shadowheart" style="background-image:url(images/portraits/shadowheart.png)">Shadowheart (6)</span>
-<span class="eventRosterChampion" id="halsin" style="background-image:url(images/portraits/halsin.png)">Halsin (3)</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="dhadius" style="background-image:url(images/portraits/dhadius.png)">Dhadius (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Skill Empowerment</li><li>2400% Chromatic Wonder</li><li>100% All First Specialisations (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="regis" style="background-image:url(images/portraits/regis.png)">Regis (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% All First Specialisations</li><li>2400% All Second Specialisations</li><li>6300% Ruby Amplification</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="warden" style="background-image:url(images/portraits/warden.png)">Warden (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Cloak of Flies</li><li>400% All Champion Damage</li><li>100% Accursed Specter</li><li>6300% Hex</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="krull" style="background-image:url(images/portraits/krull.png)">Krull (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Draconic Plague</li><li>2400% Draconic Plague</li><li>6300% Arkhan's Army</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="lucius" style="background-image:url(images/portraits/lucius.png)">Lucius (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Arcane Chromat - Acid</li><li>2400% Arcane Chromat - Cold</li><li>6300% Aerois Synergy</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="talin" style="background-image:url(images/portraits/talin.png)">Talin (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Antagonist</li><li>2400% Scatter Tacks</li><li>6300% Spot Weakness</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="yorven" style="background-image:url(images/portraits/yorven.png)">Yorven (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Danger Sense</li><li>400% All Champion Damage</li><li>2400% Blood Fury Tattoo</li><li>6300% Infectious Fury</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="warduke" style="background-image:url(images/portraits/warduke.png)">Warduke (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% A Trained Killer</li><li>100% Drawn to Power</li><li>6300% All Specialisations</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="shadowheart" style="background-image:url(images/portraits/shadowheart.png)">Shadowheart (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Twilight Trickery</li><li>2400% All Champion Damage</li><li>100% Light In The Dark</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="halsin" style="background-image:url(images/portraits/halsin.png)">Halsin (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Nature's Revival</li><li>100% Archdruid of Emerald Grove</li><li>6300% All Champion Damage</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -165,17 +165,17 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="barrowin" style="background-image:url(images/portraits/barrowin.png)">Barrowin (10)</span>
-<span class="eventRosterChampion" id="nerys" style="background-image:url(images/portraits/nerys.png)">Nerys (12)</span>
-<span class="eventRosterChampion" id="artemis" style="background-image:url(images/portraits/artemis.png)">Artemis (3)</span>
-<span class="eventRosterChampion" id="morgaen" style="background-image:url(images/portraits/morgaen.png)">Môrgæn (9)</span>
-<span class="eventRosterChampion" id="baeloth" style="background-image:url(images/portraits/baeloth.png)">Baeloth (4)</span>
-<span class="eventRosterChampion" id="viconia" style="background-image:url(images/portraits/viconia.png)">Viconia (5)</span>
-<span class="eventRosterChampion" id="rust" style="background-image:url(images/portraits/rust.png)">Rust (11)</span>
-<span class="eventRosterChampion" id="gazrick" style="background-image:url(images/portraits/gazrick.png)">Gazrick (7)</span>
-<span class="eventRosterChampion" id="imoen" style="background-image:url(images/portraits/imoen.png)">Imoen (11)</span>
-<span class="eventRosterChampion" id="wyll" style="background-image:url(images/portraits/wyll.png)">Wyll (12)</span>
-<span class="eventRosterChampion" id="eric" style="background-image:url(images/portraits/eric.png)">Eric (4)</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="barrowin" style="background-image:url(images/portraits/barrowin.png)">Barrowin (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Healing Word</li><li>2400% Blessed Hammer</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="nerys" style="background-image:url(images/portraits/nerys.png)">Nerys (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Sanctify</li><li>400% War Healing</li><li>2400% Spiritual Weapon</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="artemis" style="background-image:url(images/portraits/artemis.png)">Artemis (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>100% Observance</li><li>2400% Jeweled Power</li><li>6300% Self DPS</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="morgaen" style="background-image:url(images/portraits/morgaen.png)">Môrgæn (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Paid Up Front</li><li>2400% Friends In Wealth</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="baeloth" style="background-image:url(images/portraits/baeloth.png)">Baeloth (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Morbid Excitement</li><li>2400% Paid Partially with Pain</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="viconia" style="background-image:url(images/portraits/viconia.png)">Viconia (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Cleric of Shar</li><li>400% Cure Medium Wounds</li><li>100% Animate Dead</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="rust" style="background-image:url(images/portraits/rust.png)">Rust (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Hello, Friends</li><li>400% Rust For Hire</li><li>2400% One Gold Piece</li><li>6300% Highest Bidder</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="gazrick" style="background-image:url(images/portraits/gazrick.png)">Gazrick (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Control Weather</li><li>400% Travelling Merchant</li><li>2400% All Champion Damage</li><li>6300% Frosty Friendship</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="imoen" style="background-image:url(images/portraits/imoen.png)">Imoen (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Optimism</li><li>400% Stoneskin</li><li>2400% Perseverance</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="wyll" style="background-image:url(images/portraits/wyll.png)">Wyll (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>100% Folk Hero (Prestack)</li><li>100% Ceremorphosis (Prestack)</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="eric" style="background-image:url(images/portraits/eric.png)">Eric (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Cavalier's Code</li><li>2400% All First Specialisations</li><li>100% All Second Specialisations (Prestack)</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -185,17 +185,17 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="birdsong" style="background-image:url(images/portraits/birdsong.png)">Birdsong (9)</span>
-<span class="eventRosterChampion" id="kthriss" style="background-image:url(images/portraits/kthriss.png)">K'thriss (1)</span>
-<span class="eventRosterChampion" id="paultin" style="background-image:url(images/portraits/paultin.png)">Paultin (4)</span>
-<span class="eventRosterChampion" id="havilar" style="background-image:url(images/portraits/havilar.png)">Havilar (10)</span>
-<span class="eventRosterChampion" id="hewmaan" style="background-image:url(images/portraits/hewmaan.png)">Hew Maan (8)</span>
-<span class="eventRosterChampion" id="vi" style="background-image:url(images/portraits/vi.png)">Vi (12)</span>
-<span class="eventRosterChampion" id="fen" style="background-image:url(images/portraits/fen.png)">Fen (6)</span>
-<span class="eventRosterChampion" id="uriah" style="background-image:url(images/portraits/uriah.png)">Uriah (9)</span>
-<span class="eventRosterChampion" id="karlach" style="background-image:url(images/portraits/karlach.png)">Karlach (4)</span>
-<span class="eventRosterChampion" id="presto" style="background-image:url(images/portraits/presto.png)">Presto (2)</span>
-<span class="eventRosterChampion" id="kalix" style="background-image:url(images/portraits/kalix.png)">Kalix (5)</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="birdsong" style="background-image:url(images/portraits/birdsong.png)">Birdsong (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Crescendo (Prestack)</li><li>400% All Champion Damage</li><li>2400% Song of Battle</li><li>6300% Chorus of the Lost</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="kthriss" style="background-image:url(images/portraits/kthriss.png)">K'thriss (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Gold</li><li>400% All Champion Damage</li><li>2400% Hoardsperson</li><li>6300% Unseen Encouragement</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="paultin" style="background-image:url(images/portraits/paultin.png)">Paultin (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Lucky</li><li>2400% Magical Secrets</li><li>6300% Stronger Together</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="havilar" style="background-image:url(images/portraits/havilar.png)">Havilar (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Health</li><li>2400% Leadership Summit</li><li>6300% Battlemaster</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="hewmaan" style="background-image:url(images/portraits/hewmaan.png)">Hew Maan (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Hello, Fellow Humans</li><li>2400% Carefully Balanced</li><li>6300% Hello, Fellow Humans</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="vi" style="background-image:url(images/portraits/vi.png)">Vi (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Catch and Release</li><li>2400% A Good Example</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="fen" style="background-image:url(images/portraits/fen.png)">Fen (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% I've Got You, Friends</li><li>400% All Champion Damage</li><li>2400% Mischievous, but Dangerous</li><li>6300% All Specialisations</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="uriah" style="background-image:url(images/portraits/uriah.png)">Uriah (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Ezra's Embrace</li><li>2400% Doomed in Darkon</li><li>6300% In the Grip of Azalin Rex</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="karlach" style="background-image:url(images/portraits/karlach.png)">Karlach (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Rage</li><li>400% All Champion Damage</li><li>2400% The Fury of Avernus</li><li>6300% An Experienced Gladiator</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="presto" style="background-image:url(images/portraits/presto.png)">Presto (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Hesitant Helper</li><li>2400% Hat of Many Spells (Prestack)</li><li>6300% All Specialisations</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="kalix" style="background-image:url(images/portraits/kalix.png)">Kalix (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Mindlink</li><li>2400% Chameleon Carapace</li><li>100% Unorthodox Alliance (Prestack)</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -205,18 +205,18 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="zorbu" style="background-image:url(images/portraits/zorbu.png)">Zorbu (12)</span>
-<span class="eventRosterChampion" id="nrakk" style="background-image:url(images/portraits/nrakk.png)">Nrakk (8)</span>
-<span class="eventRosterChampion" id="blackviper" style="background-image:url(images/portraits/blackviper.png)">Black Viper (7)</span>
-<span class="eventRosterChampion" id="sisaspia" style="background-image:url(images/portraits/sisaspia.png)">Sisaspia (1)</span>
-<span class="eventRosterChampion" id="orisha" style="background-image:url(images/portraits/orisha.png)">Orisha (11)</span>
-<span class="eventRosterChampion" id="orkira" style="background-image:url(images/portraits/orkira.png)">Orkira (1)</span>
-<span class="eventRosterChampion" id="desmond" style="background-image:url(images/portraits/desmond.png)">Desmond (4)</span>
-<span class="eventRosterChampion" id="solaak" style="background-image:url(images/portraits/solaak.png)">Solaak (2)</span>
-<span class="eventRosterChampion" id="dynaheir" style="background-image:url(images/portraits/dynaheir.png)">Dynaheir (3)</span>
-<span class="eventRosterChampion" id="gale" style="background-image:url(images/portraits/gale.png)">Gale (1)</span>
-<span class="eventRosterChampion" id="volo" style="background-image:url(images/portraits/volo.png)">Volo (9)</span>
-<span class="eventRosterChampion" id="sheila" style="background-image:url(images/portraits/sheila.png)">Sheila (7)</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="zorbu" style="background-image:url(images/portraits/zorbu.png)">Zorbu (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Focused Fury</li><li>2400% Hunter's Pack</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="nrakk" style="background-image:url(images/portraits/nrakk.png)">Nrakk (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Way of the Kensei</li><li>400% Ki Master (Prestack)</li><li>100% All Specialisations</li><li>6300% Stunning Strike</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="blackviper" style="background-image:url(images/portraits/blackviper.png)">Black Viper (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>400% Aura of Infamy</li><li>2400% Sneak Attack</li><li>6300% Self DPS</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="sisaspia" style="background-image:url(images/portraits/sisaspia.png)">Sisaspia (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Symbiotic Healing</li><li>2400% Halo of Spores</li><li>6300% Symbiotic Infection</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="orisha" style="background-image:url(images/portraits/orisha.png)">Orisha (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Flaming Wings</li><li>2400% Bardic Connection</li><li>6300% Diva Mode</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="orkira" style="background-image:url(images/portraits/orkira.png)">Orkira (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Lesser Restoration</li><li>2400% Elemental Fire</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="desmond" style="background-image:url(images/portraits/desmond.png)">Desmond (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Noble Heart</li><li>2400% Running with the Pack</li><li>100% Lament the Lost</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="solaak" style="background-image:url(images/portraits/solaak.png)">Solaak (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Compatriots</li><li>2400% Maneuvers</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="dynaheir" style="background-image:url(images/portraits/dynaheir.png)">Dynaheir (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% All Specialisations (Prestack)</li><li>2400% Defensive Position</li><li>6300% The Resolve of Rashemen</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="gale" style="background-image:url(images/portraits/gale.png)">Gale (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Archmage's Insight</li><li>400% All Second Specialisations (Prestack)</li><li>2400% An Experienced Sage</li><li>6300% Netherese Orb</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="volo" style="background-image:url(images/portraits/volo.png)">Volo (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Volo's Guide to Combat</li><li>2400% Volo's Guide to Monsters (Prestack)</li><li>100% All Specialisations (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="sheila" style="background-image:url(images/portraits/sheila.png)">Sheila (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Kind Heart</li><li>2400% All Second Specialisations</li><li>100% All First Specialisations (Prestack)</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -226,17 +226,17 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="strix" style="background-image:url(images/portraits/strix.png)">Strix (11)</span>
-<span class="eventRosterChampion" id="cattibrie" style="background-image:url(images/portraits/cattibrie.png)">Catti-brie (7)</span>
-<span class="eventRosterChampion" id="rosie" style="background-image:url(images/portraits/rosie.png)">Rosie (10)</span>
-<span class="eventRosterChampion" id="aila" style="background-image:url(images/portraits/aila.png)">Aila (9)</span>
-<span class="eventRosterChampion" id="spurt" style="background-image:url(images/portraits/spurt.png)">Spurt (3)</span>
-<span class="eventRosterChampion" id="briv" style="background-image:url(images/portraits/briv.png)">Briv (5)</span>
-<span class="eventRosterChampion" id="alyndra" style="background-image:url(images/portraits/alyndra.png)">Alyndra (6)</span>
-<span class="eventRosterChampion" id="tatyana" style="background-image:url(images/portraits/tatyana.png)">Tatyana (8)</span>
-<span class="eventRosterChampion" id="miria" style="background-image:url(images/portraits/miria.png)">Miria (12)</span>
-<span class="eventRosterChampion" id="darkurge" style="background-image:url(images/portraits/darkurge.png)">Dark Urge (11)</span>
-<span class="eventRosterChampion" id="grimm" style="background-image:url(images/portraits/grimm.png)">Grimm (2)</span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="strix" style="background-image:url(images/portraits/strix.png)">Strix (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Aura of Unclean</li><li>2400% Poor Hygiene</li><li>6300% Haunted</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="cattibrie" style="background-image:url(images/portraits/cattibrie.png)">Catti-brie (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>+20% Crit Chance</li><li>400% All Champion Damage</li><li>2400% Mark for Death</li><li>6300% Push Forward</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="rosie" style="background-image:url(images/portraits/rosie.png)">Rosie (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Timeless Body</li><li>2400% Sassy (Prestack)</li><li>6300% Self DPS</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="aila" style="background-image:url(images/portraits/aila.png)">Aila (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Storm Soul</li><li>2400% All Champion Damage</li><li>6300% Aerois Synergy</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="spurt" style="background-image:url(images/portraits/spurt.png)">Spurt (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>+60s Ultimate Cooldown</li><li>2400% Centipede Net</li><li>6300% Pack Tactics</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="briv" style="background-image:url(images/portraits/briv.png)">Briv (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Ultimate Damage</li><li>Unnatural Haste Uses 3.2% of Stacks per Jump Instead of 4%</li><li>2400% All Champion Damage</li><li>6300% Netherese Steel</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="alyndra" style="background-image:url(images/portraits/alyndra.png)">Alyndra (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Heroes of the Planes</li><li>400% Brows of Judgement</li><li>2400% All Champion Damage</li><li>6300% Portent</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="tatyana" style="background-image:url(images/portraits/tatyana.png)">Tatyana (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Faithful Friend</li><li>2400% Rising Fury</li><li>6300% Faithful Friend</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="miria" style="background-image:url(images/portraits/miria.png)">Miria (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Mage of High Sorcery</li><li>2400% Soul Cage</li><li>100% All Specialisations (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="darkurge" style="background-image:url(images/portraits/darkurge.png)">Dark Urge (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>400% The Urge</li><li>50% All Second Specialisations</li><li>100% Ceremorphosis (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="grimm" style="background-image:url(images/portraits/grimm.png)">Grimm (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>33% Get Buff (Prestack)</li><li>2400% All Specialisations</li><li>6300% Self DPS</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
