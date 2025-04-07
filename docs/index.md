@@ -332,7 +332,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Feast of the Giants Celebration](feastofthegiants.md) - 7 April 2025 (Guess)
+* [Feast of the Giants Celebration](feastofthegiants.md) - 10 April 2025 (Guess)
 * [Emergence 11](emergence_11.md) - 23 April 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_589.md) - 8 July 2025
 * [Notary System](notary.md) - "It's very close...ish"
