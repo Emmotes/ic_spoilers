@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Beacon the Giant Fire Beetle Portrait](images/familiars/beaconthegiantfirebeetle.png)<span class="featTooltipContents">ID: 255**Beacon the Giant Fire Beetle**Let him skitter ahead. He caught a nest of intellect devourers last time!<img src="images/familiars/beaconthegiantfirebeetle.gif" alt="Beacon the Giant Fire Beetle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Beacon the Giant Fire Beetle
-        </span>
-        <span class="skinTableSource">
-            Beacon the Giant Fire Beetle Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            09 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Rumble the Angry Flumph Portrait](images/familiars/rumbletheangryflumph.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**A flumph glows faintly, reflecting its moods in its color. Crimson means anger. Beware the angry flumph!<img src="images/familiars/rumbletheangryflumph.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

@@ -11,57 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Helldusk The Dark Urge Portrait](images/skin_portraits/hellduskthedarkurge.png)<span class="featTooltipContents">ID: 542**Helldusk The Dark Urge (Dark Urge)**<img src="images/skin_models/hellduskthedarkurge.gif" alt="Helldusk The Dark Urge Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Helldusk The Dark Urge
-        </span>
-        <span class="skinTableSource">
-            Helldusk The Dark Urge Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            09 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Storm Giant Catti-brie Portrait](images/skin_portraits/stormgiantcattibrie.png)<span class="featTooltipContents">ID: 543**Storm Giant Catti-brie (Catti-brie)**<img src="images/skin_models/stormgiantcattibrie.gif" alt="Storm Giant Catti-brie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Storm Giant Catti-brie
-        </span>
-        <span class="skinTableSource">
-            Storm Giant Catti-brie Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            09 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Death Giant Kas Portrait](images/skin_portraits/deathgiantkas.png)<span class="featTooltipContents">ID: 568**Death Giant Kas (Kas)**<img src="images/skin_models/deathgiantkas.gif" alt="Death Giant Kas Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Death Giant Kas
-        </span>
-        <span class="skinTableSource">
-            Feast of the Giants Celebration (Guess)
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            10 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Eternal Flame Strix Portrait](images/skin_portraits/eternalflamestrix.png)<span class="featTooltipContents">ID: 545**Eternal Flame Strix (Strix)**<img src="images/skin_models/eternalflamestrix.gif" alt="Eternal Flame Strix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -113,40 +62,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance Spurt Portrait](images/skin_portraits/dragonlancespurt.png)<span class="featTooltipContents">ID: 558**Dragonlance Spurt (Spurt)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/dragonlancespurt.gif" alt="Dragonlance Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/dragonlancespurt-spirit_graphic.gif" alt="Dragonlance Spurt Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragonlance Spurt
-        </span>
-        <span class="skinTableSource">
-            Emergence 11
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            23 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Highlord Miria Portrait](images/skin_portraits/highlordmiria.png)<span class="featTooltipContents">ID: 557**Highlord Miria (Miria)**<img src="images/skin_models/highlordmiria.gif" alt="Highlord Miria Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Highlord Miria
-        </span>
-        <span class="skinTableSource">
-            Emergence 11
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            23 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Mind Flayer Halsin Portrait](images/skin_portraits/mindflayerhalsin.png)<span class="featTooltipContents">ID: 548**Mind Flayer Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/mindflayerhalsin.gif" alt="Mind Flayer Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/mindflayerhalsin-bear.gif" alt="Mind Flayer Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
@@ -181,7 +96,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Brigadier Evandra Portrait](images/skin_portraits/brigadierevandra.png)<span class="featTooltipContents">ID: 551**Brigadier Evandra (Evandra)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/brigadierevandra.gif" alt="Brigadier Evandra Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/brigadierevandra-noarm_graphic.gif" alt="Brigadier Evandra Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/brigadierevandra-nosword_graphic.gif" alt="Brigadier Evandra Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/brigadierevandra-noarm_nosword_graphic.gif" alt="Brigadier Evandra Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Brigadier Evandra Portrait](images/skin_portraits/brigadierevandra.png)<span class="featTooltipContents">ID: 551**Brigadier Evandra (Evandra)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/brigadierevandra.gif" alt="Brigadier Evandra Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/brigadierevandra-noarm_graphic.gif" alt="Brigadier Evandra Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/brigadierevandra-noarm_nosword_graphic.gif" alt="Brigadier Evandra Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/brigadierevandra-nosword_graphic.gif" alt="Brigadier Evandra Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Brigadier Evandra

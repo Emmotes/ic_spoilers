@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Dark Urge</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Blazing Blood Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2129**Blazing Blood (Dark Urge)**The hells themselves will quake at your passing, milord!<code>buff_upgrade,80,14380</code></span>Blazing Blood
-        </span>
-        <span class="featTableEffect">
-            <span>80% Ceremorphosis (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>09 Apr 2025<br>09 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Kas</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Soul Shroud Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2158**Soul Shroud (Kas)**I will take their lives. I shall drink their very souls. Their fate is sealed.<code>buff_upgrade,80,15619,1</code></span>Soul Shroud
-        </span>
-        <span class="featTableEffect">
-            <span>80% Born Into Evil</span>
-        </span>
-        <span class="featTableSource">
-            <span>Feast of the Giants Giveaway</span>
-        </span>
-        <span class="featTableDate">
-            <span>10 Apr 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Briv</span>
         </span>
         <span class="featTableIcon4">
