@@ -764,6 +764,100 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
         </span>
     </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e11a" onclick="exclusiveToggleContent(`e11`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 11 Icon](images/general/e11.png)**Emergence 11** - Dragons
+            </span>
+        </span>
+        <span id="e11" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Venom Harvester Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**Spurt make discovery! Wyvern tail VERY stingy!<code>buff_spurt_waspiration_effect,80,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Venom Harvester</span>
+                        <span style="margin-left:15px">Spurt (+80% to Wa-spiration: Stingy)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Reaching Shadow Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2125**Reaching Shadow (Beadle)**As the sun dips low, shadows loom large. That's when we strike. ~Beadle<code>change_upgrade_targets,16722<br>change_upgrade_targets,16722</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Reaching Shadow</span>
+                        <span style="margin-left:15px">Beadle (Changes In the Shadows to affect 3 slots away)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heavily Armored Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2156**Heavily Armored (Miria)**You have no idea how much suffering a body can take.<code>health_mult,60</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Heavily Armored</span>
+                        <span style="margin-left:15px">Miria (60% Health)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2157**Weapon Master (Grimm)**Whether giants or dragons, all I need is one good swing.  ~Grimm<code>hero_dps_multiplier_mult,120</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Weapon Master</span>
+                        <span style="margin-left:15px">Grimm (120% Self DPS)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Dragonlance Spurt Skin Icon](images/exclusivities/skin_26421.png)<span class="featTooltipContents">ID: 558**Dragonlance Spurt (Spurt)**<img src="images/exclusivities/skin_26429.gif" alt="Dragonlance Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Dragonlance Spurt</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Highlord Miria Skin Icon](images/exclusivities/skin_26346.png)<span class="featTooltipContents">ID: 557**Highlord Miria (Miria)**<img src="images/exclusivities/skin_26352.gif" alt="Highlord Miria Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Highlord Miria</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>23 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>23 July 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>23 October 2025</span>
+            </span>
+        </span>
+    </span>
 </span>
 
 # Old Exclusive Special Events
