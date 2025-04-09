@@ -460,22 +460,48 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Eldritch Strike** (Guess)
-> Unknown.
+> Krond gains the Debuff role and enemies damaged by Krond take an additional 400% damage from all of his subsequent attacks, including any cantrip spells.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2334,
-    "graphic": "Backgrounds/Dungeon/DungeonCells_Near",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 6,
-    "export_params": {
-        "uses": [
-            "background"
-        ],
-        "compress": false
+    "flavour_text": "",
+    "description": {
+        "desc": "Krond gains the Debuff role and enemies damaged by Krond take an additional $amount% damage from all of his subsequent attacks, including any cantrip spells."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "krond_eldritch_strike,400",
+            "off_when_benched": true,
+            "debuffing_attack_ids": [
+                46,
+                50
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "increase_monster_damage_if_from_attacks,400,46,50",
+                    "active_graphic_id": 1401,
+                    "bottom": true,
+                    "use_collection_source": true
+                }
+            ]
+        },
+        {
+            "effect_string": "add_hero_tags,0,debuff",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 26501,
+    "large_graphic_id": 26501,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -485,22 +511,51 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Power Behind the Throne** (Guess)
-> Unknown.
+> Krond increases the effect of Unsung Alliance by 400% when he is not the formation's BUD-setting Champion.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2335,
-    "graphic": "Backgrounds/Dungeon/DungeonLibrary_Near",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 6,
-    "export_params": {
-        "uses": [
-            "background"
-        ],
-        "compress": false
+    "flavour_text": "",
+    "description": {
+        "desc": "Krond increases the effect of Unsung Alliance by $amount% when he is not the formation's BUD-setting Champion.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": {
+                        "conditions": [
+                            {
+                                "condition": "target_is_highest_hit_hero",
+                                "desc": "^^Active: {Yes}#00FF00"
+                            },
+                            {
+                                "desc": "^^Active: {No}#FF0000"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,400,17237",
+            "off_when_benched": true,
+            "amount_func": "if_not_bud_setting_champion",
+            "amount_updated_listeners": [
+                "bud_setter_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 26502,
+    "large_graphic_id": 26502,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -510,22 +565,29 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: War Magic** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2336,
-    "graphic": "Backgrounds/Dungeon/DungeonVaultTunnelEntrance_Near",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 6,
-    "export_params": {
-        "uses": [
-            "background"
-        ],
-        "compress": false
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 26506,
+    "large_graphic_id": 26506,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
