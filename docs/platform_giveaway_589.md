@@ -35,22 +35,20 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 569**???**</span></span>
+            <span class="tooltipHolder">![Dragon Hoard Beadle Skin Portrait](images/premiums/skin_569.png)<span class="itemTooltipContents">ID: 569**Dragon Hoard Beadle (Beadle)**<img src="images/premiums/skin_569.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">skin</span>
-            <span style="margin-left:15px">ID: 569</span>
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Dragon Hoard Beadle</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 570**???**</span></span>
+            <span class="tooltipHolder">![Dragon Slayer Grimm Skin Portrait](images/premiums/skin_570.png)<span class="itemTooltipContents">ID: 570**Dragon Slayer Grimm (Grimm)**<img src="images/premiums/skin_570.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">skin</span>
-            <span style="margin-left:15px">ID: 570</span>
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Dragon Slayer Grimm</span>
         </span>
     </span>
     <span class="premiumsTableItem">
