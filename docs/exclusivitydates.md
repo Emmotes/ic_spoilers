@@ -407,6 +407,23 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Catti-brie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Archer's Perception Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1355**Archer's Perception (Catti-brie)**I'll know them when I see them. Attack on my signal.<code>buff_upgrade,80,11308</code></span>Archer's Perception
+        </span>
+        <span class="featTableEffect">
+            <span>80% Mark for Death</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Dark Urge</span>
         </span>
         <span class="featTableIcon4">
