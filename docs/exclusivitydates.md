@@ -420,61 +420,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![EGS Giveaway Grymforge Karlach Party Pack Icon](images/general/egs.png)**EGS Giveaway** - Grymforge Karlach Party Pack
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart Ablaze Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2005**Heart Ablaze (Karlach)**I don't think I've ever felt more powerful.<code>buff_upgrade,80,13724</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Heart Ablaze</span>
-                        <span style="margin-left:15px">Karlach (80% Infernal Engine (Prestack))</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Grymforge Karlach Skin Icon](images/exclusivities/skin_25348.png)<span class="featTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<img src="images/exclusivities/skin_25354.gif" alt="Grymforge Karlach Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Grymforge Karlach</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>12 December 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>19 December 2024</span>
-            </span>
-            <span class="postSeasonTableDateLate">
-                <span>19 March 2025 (Guess) (Late)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="e9a" onclick="exclusiveToggleContent(`e9`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -599,13 +544,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Elegant Spring Giveaway Spring Celebration 2025 Icon](images/general/elegant spring.png)**Elegant Spring Giveaway** - Spring Celebration 2025
             </span>
         </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -654,13 +599,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![EGS Giveaway Astarion's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Astarion's Champions of Renown Pack
             </span>
         </span>
-        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
