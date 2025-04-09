@@ -8,6 +8,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Beadle](archive/beadle.md)
 * [Emergence 10](archive/emergence_10.md)
 * [Eric](archive/eric.md)
+* [Feast of the Giants Celebration](archive/feastofthegiants.md)
 * [Festival of Fools Augments](archive/augments_16.md)
 * [Grimm](archive/grimm.md)
 * [Halsin](archive/halsin.md)
