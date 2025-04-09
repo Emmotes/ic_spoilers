@@ -569,23 +569,6 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Catti-brie</span>
         </span>
         <span class="featTableIcon4">
-            ![Archer's Perception Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1355**Archer's Perception (Catti-brie)**I'll know them when I see them. Attack on my signal.<code>buff_upgrade,80,11308</code></span>Archer's Perception
-        </span>
-        <span class="featTableEffect">
-            <span>80% Mark for Death</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Catti-brie</span>
-        </span>
-        <span class="featTableIcon4">
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1333**Master's Precision (Catti-brie)**Aye, these arrows do go through most armor.<code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">

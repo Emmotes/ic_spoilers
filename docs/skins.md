@@ -62,23 +62,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Tuxedo Kalix Portrait](images/skin_portraits/tuxedokalix.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**<img src="images/skin_models/tuxedokalix.gif" alt="Tuxedo Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Tuxedo Kalix
-        </span>
-        <span class="skinTableSource">
-            EGS Giveaway - Astarion's Champions of Renown Pack
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            10 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Eternal Flame Strix Portrait](images/skin_portraits/eternalflamestrix.png)<span class="featTooltipContents">ID: 545**Eternal Flame Strix (Strix)**<img src="images/skin_models/eternalflamestrix.gif" alt="Eternal Flame Strix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -198,7 +181,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Brigadier Evandra Portrait](images/skin_portraits/brigadierevandra.png)<span class="featTooltipContents">ID: 551**Brigadier Evandra (Evandra)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Brigadier Evandra Portrait](images/skin_portraits/brigadierevandra.png)<span class="featTooltipContents">ID: 551**Brigadier Evandra (Evandra)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/brigadierevandra.gif" alt="Brigadier Evandra Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/brigadierevandra-noarm_graphic.gif" alt="Brigadier Evandra Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/brigadierevandra-nosword_graphic.gif" alt="Brigadier Evandra Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/brigadierevandra-noarm_nosword_graphic.gif" alt="Brigadier Evandra Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Brigadier Evandra
@@ -266,7 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Nomad Yorven Portrait](images/skin_portraits/nomadyorven.png)<span class="featTooltipContents">ID: 552**Nomad Yorven (Yorven)**<img src="images/skin_models/nomadyorven.gif" alt="Nomad Yorven Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Nomad Yorven Portrait](images/skin_portraits/nomadyorven.png)<span class="featTooltipContents">ID: 552**Nomad Yorven (Yorven)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/nomadyorven.gif" alt="Nomad Yorven Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/nomadyorven-shadow_mastiff.gif" alt="Nomad Yorven Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Nomad Yorven
@@ -500,6 +483,40 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             25 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Hoard Beadle Portrait](images/skin_portraits/dragonhoardbeadle.png)<span class="featTooltipContents">ID: 569**Dragon Hoard Beadle (Beadle)**<img src="images/skin_models/dragonhoardbeadle.gif" alt="Dragon Hoard Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Hoard Beadle
+        </span>
+        <span class="skinTableSource">
+            Beadle & Grimm Dragon Delves Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            08 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Slayer Grimm Portrait](images/skin_portraits/dragonslayergrimm.png)<span class="featTooltipContents">ID: 570**Dragon Slayer Grimm (Grimm)**<img src="images/skin_models/dragonslayergrimm.gif" alt="Dragon Slayer Grimm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Slayer Grimm
+        </span>
+        <span class="skinTableSource">
+            Beadle & Grimm Dragon Delves Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            08 Jul 2025
         </span>
     </span>
 </span>

@@ -867,7 +867,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Brigadier Evandra Skin Portrait](images/premiums/skin_551.png)<span class="itemTooltipContents">ID: 551**Brigadier Evandra (Evandra)**</span></span>
+            <span class="tooltipHolder">![Brigadier Evandra Skin Portrait](images/premiums/skin_551.png)<span class="itemTooltipContents">ID: 551**Brigadier Evandra (Evandra)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_551.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_551-noarm_graphic.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_551-nosword_graphic.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_551-noarm_nosword_graphic.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -938,7 +938,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Nomad Yorven Skin Portrait](images/premiums/skin_552.png)<span class="itemTooltipContents">ID: 552**Nomad Yorven (Yorven)**<img src="images/premiums/skin_552.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Nomad Yorven Skin Portrait](images/premiums/skin_552.png)<span class="itemTooltipContents">ID: 552**Nomad Yorven (Yorven)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_552.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_552-shadow_mastiff.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -947,7 +947,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 259**Chase the Spaniel**Your new best friend who will do anything for table scraps.</span></span>
+            <span class="tooltipHolder">![Chase the Spaniel Familiar Portrait](images/premiums/familiar_259.png)<span class="itemTooltipContents">ID: 259**Chase the Spaniel**Your new best friend who will do anything for table scraps.<img src="images/premiums/familiar_259.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1585,21 +1585,20 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2202**Feat**???: 2202</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor (10% All Champion Damage)</span>
+            <span style="margin-left:15px">???: 2202</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 659****Loot for: Hank<code>"for_crusaders":[163]</code></span></span>
+            <span class="tooltipHolder">![Platinum Hank Chest Chest Portrait](images/premiums/chests_659.png)<span class="itemTooltipContents">ID: 659**Platinum Hank Chest**Loot for: Hank<code>"for_crusaders":[163]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px"></span>
+            <span style="margin-left:15px">Platinum Hank Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -2359,22 +2358,20 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 569**???**</span></span>
+            <span class="tooltipHolder">![Dragon Hoard Beadle Skin Portrait](images/premiums/skin_569.png)<span class="itemTooltipContents">ID: 569**Dragon Hoard Beadle (Beadle)**<img src="images/premiums/skin_569.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">skin</span>
-            <span style="margin-left:15px">ID: 569</span>
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Dragon Hoard Beadle</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 570**???**</span></span>
+            <span class="tooltipHolder">![Dragon Slayer Grimm Skin Portrait](images/premiums/skin_570.png)<span class="itemTooltipContents">ID: 570**Dragon Slayer Grimm (Grimm)**<img src="images/premiums/skin_570.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">skin</span>
-            <span style="margin-left:15px">ID: 570</span>
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Dragon Slayer Grimm</span>
         </span>
     </span>
     <span class="premiumsTableItem">
