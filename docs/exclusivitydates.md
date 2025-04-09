@@ -405,6 +405,23 @@ These are feats that were previously released in premium packs and are now sitti
             <span>02 Jul 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dark Urge</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Blazing Blood Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2129**Blazing Blood (Dark Urge)**The hells themselves will quake at your passing, milord!<code>buff_upgrade,80,14380</code></span>Blazing Blood
+        </span>
+        <span class="featTableEffect">
+            <span>80% Ceremorphosis (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Jul 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -602,10 +619,65 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![EGS Giveaway Astarion's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Astarion's Champions of Renown Pack
+                ![Feast of the Giants Giveaway Feast of the Giants Icon](images/general/feast of the giants.png)**Feast of the Giants Giveaway** - Feast of the Giants
             </span>
         </span>
         <span id="g2" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Soul Shroud Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2158**Soul Shroud (Kas)**I will take their lives. I shall drink their very souls. Their fate is sealed.<code>buff_upgrade,80,15619,1</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Soul Shroud</span>
+                        <span style="margin-left:15px">Kas (80% Born Into Evil)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Death Giant Kas Skin Icon](images/exclusivities/skin_26345.png)<span class="featTooltipContents">ID: 568**Death Giant Kas (Kas)**<img src="images/exclusivities/skin_26349.gif" alt="Death Giant Kas Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Death Giant Kas</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>07 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>14 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>14 July 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![EGS Giveaway Astarion's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Astarion's Champions of Renown Pack
+            </span>
+        </span>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
