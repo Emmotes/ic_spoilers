@@ -327,7 +327,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Danger Sense** (Guess)
-> All Champions take 5 less damage from all attacks, and Rag Tag Team is increased by 100% more damage for each 1000 max health he has, stacking multiplicatively.
+> All Champions take 5 less damage from all attacks, and Rag Tag Team is increased by 500% each time Yorven's max health is doubled, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -335,7 +335,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2307,
     "flavour_text": "",
     "description": {
-        "desc": "All Champions take $amount less damage from all attacks, and Rag Tag Team is increased by $(not_buffed amount___2)% more damage for each 1000 max health he has, stacking multiplicatively."
+        "desc": "All Champions take $amount less damage from all attacks, and Rag Tag Team is increased by $(not_buffed amount___2)% each time Yorven's max health is doubled, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -348,11 +348,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "total_title": "Current Damage Reduction"
         },
         {
-            "effect_string": "buff_upgrade,100,17063,1",
+            "effect_string": "buff_upgrade,500,17063,1",
             "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "health/1000",
+            "health_divisor": 47,
+            "per_hero_expr": "floor(log(health/health_divisor)/log(2))",
             "per_hero_targets": [
                 "effect_key_slot"
             ],
@@ -506,7 +507,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2311,
     "flavour_text": "",
     "description": {
-        "desc": "Yorven's Rag Tag Team is increased by $amount% for each Blood Fury stack Yorven has."
+        "desc": "Yorven's Rag Tag Team is increased by $(not_buffed amount)% for each Blood Fury stack Yorven has."
     },
     "effect_keys": [
         {
@@ -548,7 +549,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2312,
     "flavour_text": "",
     "description": {
-        "desc": "Yorven gains the Debuff role and any enemy he has attacked takes $amount% additional damage from all Champions each time it attacks a member of the formation, stacking multiplicatively up to 25 times."
+        "desc": "Yorven gains the Debuff role and any enemy he has attacked takes $(not_buffed amount)% additional damage from all Champions each time it attacks a member of the formation, stacking multiplicatively up to 25 times."
     },
     "effect_keys": [
         {
