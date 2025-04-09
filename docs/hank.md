@@ -98,12 +98,9 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/hank/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Hank" fill="#aaa" data-formationName="Hank" data-campaignName="Dragondown" width="340" height="160"><circle cx="215" cy="45" r="15"/><circle cx="175" cy="65" r="15"/><circle cx="175" cy="105" r="15"/><circle cx="175" cy="145" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="145" r="15"/><text x="245" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Hank</text><text x="245" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Dragondown</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -211,6 +208,43 @@ Unknown.
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Arrows of Restraint**
+> Hank fires 5 arrows at random enemies, dealing 1 ultimate hit and stunning each of them.  
+> Cooldown: 300s (Cap 75s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 861,
+    "name": "Arrows of Restraint",
+    "description": "Hank attacks 5 random enemies, damaging and stunning each of them.",
+    "long_description": "Hank fires 5 arrows at random enemies, dealing 1 ultimate hit and stunning each of them.",
+    "graphic_id": 26507,
+    "target": "random",
+    "num_targets": 5,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 300,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "hank",
+            "animation_sequence_name": "ultimate"
+        }
+    ],
+    "tags": [
+        "ultimate"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -228,6 +262,7 @@ Unknown.
     "effect_keys": [
         {
             "effect_string": "hero_dps_multiplier_mult,100",
+            "off_when_benched": true,
             "targets": [
                 "adj"
             ]
@@ -284,7 +319,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Time Gate Piece Scavenger** (Guess)
-> Unknown effect.
+> Hank can help scavenge up to 25 additional Time Gate Pieces when killing bosses. While this cap is not reached, Hank has a 100% chance of scavenging 1 Time Gate Piece each time a boss is defeated. The cap increases by 1/3 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -292,11 +327,30 @@ Unknown.
     "id": 2322,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Hank can help scavenge up to $(current_scavenge_cap hank_time_gate_pieces_scavenger floor) additional Time Gate Pieces when killing bosses. While this cap is not reached, Hank has a $amount% chance of scavenging $amount_per_drop Time Gate Piece each time a boss is defeated. The cap increases by $cap_increase_per_day/$cap_divisor every day.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Time Gate Pieces Scavenged: $(stat_value hank_time_gate_pieces_collected 0 none) ($(stat_value hank_time_gate_pieces_collected_this_adventure 1 none) this adventure)"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,1"
+            "effect_string": "scavenge_items,100",
+            "off_when_benched": true,
+            "id": "hank_time_gate_pieces_scavenger",
+            "item_type": "time_gate_piece",
+            "initial_cap": 25,
+            "cap_increase_per_day": 1,
+            "cap_divisor": 3,
+            "start_date": "2025-04-3 12:00:00",
+            "total_collected_stat": "hank_time_gate_pieces_collected",
+            "adventure_collected_stat": "hank_time_gate_pieces_collected_this_adventure",
+            "upgrade_id": 17081,
+            "amount_per_drop": 1
         }
     ],
     "requirements": "",
@@ -317,7 +371,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Every Little Bit Helps** (Guess)
-> Unknown effect.
+> Hank increases the effect of Stalwart Encouragement by 10% for each item that has ever been collected by Scavenger abilities, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -325,11 +379,21 @@ Unknown.
     "id": 2323,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Hank increases the effect of Stalwart Encouragement by $(not_buffed amount)% for each item that has ever been collected by Scavenger abilities, stacking additively."
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,10,17079"
+            "effect_string": "buff_upgrade,10,17079",
+            "off_when_benched": true,
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "num_items_scavenged",
+            "amount_updated_listeners": [
+                "scavenge_changed"
+            ],
+            "stack_title": "Items Scavenged",
+            "stacks_mulitply": false,
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -341,6 +405,50 @@ Unknown.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Arrows of Restraint** (Guess)
+> Hank fires a flurry of five arrows, each at a random enemy, dealing 1 ultimate hit and stunning them for 8 seconds.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2337,
+    "flavour_text": "",
+    "description": {
+        "desc": "Hank fires a flurry of five arrows, each at a random enemy, dealing 1 ultimate hit and stunning them for 8 seconds"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hank_arrows_of_restraint",
+            "targets": 5,
+            "stun_time": 8,
+            "hit_effect": "stun,8,none,0,1509",
+            "projectile_details": {
+                "hash": "7d2285a51fcb458b32b02d796020b776",
+                "projectile_speed": 2000,
+                "projectile_graphic_id": 26469,
+                "projectile_hit_graphic_id": 26470
+            }
+        },
+        {
+            "effect_string": "set_ultimate_attack,861"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 26507,
+    "large_graphic_id": 26507,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "show_outgoing_desc_when_benched": false
     }
 }
 </pre>
@@ -371,6 +479,7 @@ Unknown.
         },
         {
             "effect_string": "buff_upgrade,0,17079",
+            "off_when_benched": true,
             "amount_expr": "upgrade_amount(17083,0)",
             "amount_func": "mult",
             "stack_func": "per_crusader",
@@ -430,6 +539,7 @@ Unknown.
         },
         {
             "effect_string": "buff_upgrade,0,17079",
+            "off_when_benched": true,
             "amount_expr": "upgrade_amount(17084,0)",
             "amount_func": "mult",
             "stack_func": "per_crusader",
@@ -487,6 +597,7 @@ Unknown.
         },
         {
             "effect_string": "add_hero_tags,0,saturdaymorningsquad",
+            "off_when_benched": true,
             "targets": [
                 {
                     "type": "heroes",
@@ -498,6 +609,7 @@ Unknown.
         },
         {
             "effect_string": "buff_upgrade,0,17079",
+            "off_when_benched": true,
             "amount_expr": "upgrade_amount(17085,0)",
             "amount_func": "mult",
             "stack_func": "per_crusader",
@@ -547,11 +659,13 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "buff_base_crit_chance_add,1",
+            "effect_string": "buff_base_crit_chance,1",
+            "off_when_benched": true,
             "targets": [
                 "all"
             ],
             "stacks_on_trigger": "monster_pushed_back",
+            "stacks_multiply": false,
             "max_stacks": 50,
             "more_triggers": [
                 {
@@ -562,14 +676,17 @@ Unknown.
                 }
             ],
             "stack_title": "Tactics Stacks",
+            "total_title": "Critical Hit Chance Bonus",
             "show_bonus": true
         },
         {
             "effect_string": "buff_base_crit_damage,10",
+            "off_when_benched": true,
             "targets": [
                 "all"
             ],
             "stacks_on_trigger": "monster_pushed_back",
+            "stacks_multiply": false,
             "max_stacks": 50,
             "more_triggers": [
                 {
@@ -578,7 +695,10 @@ Unknown.
                         "type": "reset"
                     }
                 }
-            ]
+            ],
+            "total_title": "Critical Hit Damage Bonus",
+            "stack_title": "Tactics Stacks",
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -599,7 +719,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Dragon Slayer** (Guess)
-> Hank gains the Hunter role and Dragons become Hank's Favored Foe. Each non-boss area wave has a 50% chance to spawn a Dragon enemy. When a Dragon enemy is slain, Hank increases the effect of Stalwart Encouragement by 100%, stacking multiplicatively up to 10 times. Non-boss waves in boss areas always spawn a dragon, and when a dragon is slain in a boss area, it provides 5 stacks.
+> Hank gains the Hunter role and Dragons become Hank's Favored Foe. Each non-boss area wave has a 50% chance to spawn a Dragon enemy. When a Dragon enemy is slain, Hank increases the effect of Stalwart Encouragement by 100%, stacking multiplicatively up to 10 times and reset when changing areas. Non-boss waves in boss areas always spawn a dragon, and when a dragon is slain in a boss area, it provides 5 stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -607,11 +727,12 @@ Unknown.
     "id": 2328,
     "flavour_text": "",
     "description": {
-        "desc": "Hank gains the Hunter role and Dragons become Hank's Favored Foe. Each non-boss area wave has a $(not_buffed amount___3)% chance to spawn a Dragon enemy. When a Dragon enemy is slain, Hank increases the effect of Stalwart Encouragement by $(not_buffed amount___2)%, stacking multiplicatively up to $max_stacks___2 times. Non-boss waves in boss areas always spawn a dragon, and when a dragon is slain in a boss area, it provides 5 stacks."
+        "desc": "Hank gains the Hunter role and Dragons become Hank's Favored Foe. Each non-boss area wave has a $(not_buffed amount___3)% chance to spawn a Dragon enemy. When a Dragon enemy is slain, Hank increases the effect of Stalwart Encouragement by $(not_buffed amount___2)%, stacking multiplicatively up to $max_stacks___2 times and reset when changing areas. Non-boss waves in boss areas always spawn a dragon, and when a dragon is slain in a boss area, it provides 5 stacks."
     },
     "effect_keys": [
         {
             "effect_string": "hank_dragon_slayer",
+            "off_when_benched": true,
             "base_buff_index": 1,
             "monster_ids": [
                 1450,
@@ -633,6 +754,7 @@ Unknown.
         },
         {
             "effect_string": "buff_upgrade,100,17079",
+            "off_when_benched": true,
             "stacks_on_trigger": "monster_killed_with_tag,dragon",
             "more_triggers": [
                 {
@@ -766,20 +888,30 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: Let Sleeping Dragons Lie (???)** (Complete Area 50)
+**Unlock Adventure: Let Sleeping Dragons Lie (Hank)** (Complete Area 50)
 > Attempt to calm down a very angry bronze dragon.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: TBD** (Complete Area 75)
-> 
+![Ranger! Icon](images/hank/26480.png) **Variant 1: Ranger!** (Complete Area 75)
+> Hank starts in the formation. He can be moved, but not removed.  
+> Only Hank and Champions next to him can deal damage.  
+> 1-2 Chromatic Wyrmlings spawn with each wave. They don't drop gold, nor count towards quest progress.  
+> Getting to Know Hank: Hank's main support ability increases the damage of Champions next to him. Place your damage dealers to take advantage of this!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: TBD** (Complete Area 125)
-> 
+![Quest of the Skeleton Warrior Icon](images/hank/26481.png) **Variant 2: Quest of the Skeleton Warrior** (Complete Area 125)
+> Hank starts in the formation. He can be moved, but not removed.  
+> Dekkion joins the formation as an escort. Champions next to him attack slower due to his unsettling appearance.  
+> You may only use Champions from the Saturday Morning Squad affiliation, Champions with a total ability score of 78 or lower, and/or Champions with a ranged attack.  
+> Getting to Know Hank: Hank's first set of specializations determines which Champions he works best with. Make the best choice for your formation!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: TBD** (Complete Area 175)
-> 
+![Can't Spell Scavenger without Venger Icon](images/hank/26482.png) **Variant 3: Can't Spell Scavenger without Venger** (Complete Area 175)
+> Hank starts in the formation. He can be moved, but not removed.   
+> You may only use Core Champions, Champions with the Speed role, or Champions from the Saturday Morning Squad affiliation (and Strongheart!)  
+> At the start of each Boss area, Venger arrives on his nightmare as an additional boss that must be defeated.  
+> Bosses immediately start to enrage upon spawning.  
+> Getting to Know Hank: Hank and the other Saturday Morning Squad Champions can all scavenge useful loot when completing boss areas. You might collect them faster with a few Speed Champions!
 </div></div>
 
 # Other Champion Images
