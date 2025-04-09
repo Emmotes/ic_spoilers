@@ -833,6 +833,26 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                         <span style="margin-left:15px">Highlord Miria</span>
                     </span>
                 </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Reya Slot 5](images/exclusivities/ge_10395.png)<span class="itemTooltipContents">ID: 2060**Broken Hellrider Sign (Reya)**I put it on the wall in Trollskull. A reminder of where I've been.<code>buff_upgrade,275,5458</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Celestial Champion</span>
+                        <span style="margin-left:15px">Reya (Slot 5)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Grimm Slot 5](images/exclusivities/ge_8087.png)<span class="itemTooltipContents">ID: 3837**Elegant Snow Cloak (Grimm)**Now THIS is a fashion statement! ~Grimm<code>buff_ultimate,275</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Ultimate Damage</span>
+                        <span style="margin-left:15px">Grimm (Slot 5)</span>
+                    </span>
+                </span>
             </span>
         </span>
         <span class="postSeasonTableRowInner">

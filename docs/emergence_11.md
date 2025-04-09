@@ -22,6 +22,26 @@ We know the next Emergence event will be Dragons and that it will start on 23 Ap
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Golden Epic Icon for Reya Slot 5](images/emergence_11/ge_2060.png)<span class="itemTooltipContents">ID: 2060**Broken Hellrider Sign (Reya)**I put it on the wall in Trollskull. A reminder of where I've been.<code>buff_upgrade,275,5458</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Celestial Champion</span>
+            <span style="margin-left:15px">Reya (Slot 5)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Golden Epic Icon for Grimm Slot 5](images/emergence_11/ge_3837.png)<span class="itemTooltipContents">ID: 3837**Elegant Snow Cloak (Grimm)**Now THIS is a fashion statement! ~Grimm<code>buff_ultimate,275</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Ultimate Damage</span>
+            <span style="margin-left:15px">Grimm (Slot 5)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
             <span class="tooltipHolder">![Highlord Miria Skin Portrait](images/emergence_11/skin_557.png)<span class="itemTooltipContents">ID: 557**Highlord Miria (Miria)**<img src="images/emergence_11/skin_557.gif" alt="Highlord Miria Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
