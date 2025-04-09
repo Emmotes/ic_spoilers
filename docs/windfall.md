@@ -293,7 +293,8 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             "damage_frame": 8,
             "stun_on_hit": 3,
             "return_to_formation": false,
-            "chain_attack_id": 854
+            "chain_attack_id": 854,
+            "chain_attack_can_target_same": false
         }
     ],
     "tags": [
@@ -309,7 +310,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Blue Dragon's Spark** (Melee)
+**Base Attack: Blue Dragon's Spark** (Magic)
 > With the cunning of a blue dragon, Windfall prefers to attack stunned enemies.  
 > Cooldown: 2.75s (Cap 0.6875s)
 <details><summary><em>Raw Data</em></summary>
@@ -324,12 +325,14 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
     "target": "stunned_or_random",
     "num_targets": 1,
     "aoe_radius": 0,
-    "damage_modifier": 1,
+    "damage_modifier": 0,
     "cooldown": 2.75,
     "animations": [
         {
             "type": "ranged_attack",
             "projectile": "chain_lightning",
+            "require_targets_to_start": false,
+            "jump_from_target": true,
             "shoot_frame": 1,
             "sound_frames": {
                 "1": 169
@@ -339,7 +342,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             "shoot_offset_x": 0,
             "shoot_offset_y": 0,
             "projectile_details": {
-                "chain_targets": 2,
+                "chain_targets": 1,
                 "fixed_time_to_target": 0.15,
                 "has_trail": false,
                 "hit_effect_graphic": "Effect_Windfall_Lightning_Hit",
@@ -359,10 +362,10 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
         }
     ],
     "tags": [
-        "melee"
+        "ranged"
     ],
     "damage_types": [
-        "melee"
+        "magic"
     ]
 }
 </pre>
@@ -632,6 +635,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             "show_bonus": true,
             "amount_func": "mult",
             "stack_func": "get_stat",
+            "stat": "VecnaAdventuresCompleted",
             "ided_stat_id": 31,
             "ided_stat_handler": "CompletedAdventuresVariantsAndPatronVariants",
             "use_computed_amount_for_description": true,
@@ -676,6 +680,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             "effect_string": "chance_attack_adds_dot,300,5,1,100,846",
             "pop_damage": true,
             "use_bud": true,
+            "fixed_damage": true,
             "graphic": {
                 "active_graphic_id": 26299,
                 "scale_y": 0.3
@@ -797,9 +802,9 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
                     "Effect_WyrmspeakerGreen_CloudKill1",
                     "Effect_WyrmspeakerGreen_CloudKill2"
                 ],
-                "debris_graphics": [],
-                "primary_graphics": [],
-                "density": 7
+                "density": 7,
+                "use_static_position": true,
+                "do_not_stack": true
             }
         },
         {
@@ -841,7 +846,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
     },
     "effect_keys": [
         {
-            "effect_string": "add_hero_tags,0,breaker"
+            "effect_string": "add_hero_tags,0,breaking"
         },
         {
             "effect_string": "change_base_attack,848"
@@ -920,7 +925,7 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
             ],
             "monster_effect": {
                 "effect_string": "ground_effect_area,$amount",
-                "area_key": "green_dragon_poison_clouds",
+                "area_key": "white_dragon_ice_clouds",
                 "drop_on_hero": true,
                 "radius": 150,
                 "duration": 5,
@@ -933,15 +938,19 @@ Windfall will be an upcoming Evergreen champion guesstimated to release on 28 Ma
                         "time_stack_type": "time_reset",
                         "use_collection_source": true,
                         "stack_across_effects": false
+                    },
+                    {
+                        "effect_string": "monster_speed_reduce,50",
+                        "use_collection_source": false
                     }
                 ],
                 "cloud_graphics": [
                     "Effect_FluffyCloud1",
                     "Effect_FluffyCloud2"
                 ],
-                "debris_graphics": [],
-                "primary_graphics": [],
-                "density": 10
+                "density": 10,
+                "use_static_position": true,
+                "do_not_stack": true
             }
         },
         {
