@@ -98,6 +98,7 @@ The upcoming Evergreen champion we're aware of.
             </span>
         </span>
         <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
@@ -254,6 +255,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             Evergreen 🌲
         </span>
         <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
