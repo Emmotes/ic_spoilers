@@ -633,6 +633,60 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![EGS Giveaway Astarion's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Astarion's Champions of Renown Pack
+            </span>
+        </span>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Tuxedo Kalix Skin Icon](images/exclusivities/skin_25911.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**<img src="images/exclusivities/skin_25922.gif" alt="Tuxedo Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Tuxedo Kalix</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Rumble the Angry Flumph Familiar Icon](images/exclusivities/fam_237.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**A flumph glows faintly, reflecting its moods in its color. Crimson means anger. Beware the angry flumph!<br><img src="images/exclusivities/fam_237.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Rumble the Angry Flumph</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>10 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>17 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>17 July 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -658,60 +712,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
                         <span style="margin-left:15px">Death Giant Kas</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>07 April 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>14 April 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>14 July 2025 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![EGS Giveaway Astarion's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Astarion's Champions of Renown Pack
-            </span>
-        </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Tuxedo Kalix Skin Icon](images/exclusivities/skin_25911.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**<img src="images/exclusivities/skin_25922.gif" alt="Tuxedo Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Tuxedo Kalix</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Rumble the Angry Flumph Familiar Icon](images/exclusivities/fam_237.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**A flumph glows faintly, reflecting its moods in its color. Crimson means anger. Beware the angry flumph!<br><img src="images/exclusivities/fam_237.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Rumble the Angry Flumph</span>
                     </span>
                 </span>
             </span>
