@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 262**Virtue the Valenar Foal**To be its chosen companion is a high honor.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Virtue the Valenar Foal Portrait](images/familiars/virtuethevalenarfoal.png)<span class="featTooltipContents">ID: 262**Virtue the Valenar Foal**To be its chosen companion is a high honor.<img src="images/familiars/virtuethevalenarfoal.gif" alt="Virtue the Valenar Foal Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Virtue the Valenar Foal
@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 264**Midas the Baby Gold Dragon**I'm here to eat goblins and collect treasure, and I'm all out of goblins!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Midas the Baby Gold Dragon Portrait](images/familiars/midasthebabygolddragon.png)<span class="featTooltipContents">ID: 264**Midas the Baby Gold Dragon**I'm here to eat goblins and collect treasure, and I'm all out of goblins!<img src="images/familiars/midasthebabygolddragon.gif" alt="Midas the Baby Gold Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Midas the Baby Gold Dragon
@@ -143,7 +143,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 263**Verdant the Baby Green Dragon**By the time you see him, it's too late!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Verdant the Baby Green Dragon Portrait](images/familiars/verdantthebabygreendragon.png)<span class="featTooltipContents">ID: 263**Verdant the Baby Green Dragon**By the time you see him, it's too late!<img src="images/familiars/verdantthebabygreendragon.gif" alt="Verdant the Baby Green Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Verdant the Baby Green Dragon
@@ -177,7 +177,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 266**Vendetta the Baby White Dragon**Don't even THINK about stepping near her tail!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Vendetta the Baby White Dragon Portrait](images/familiars/vendettathebabywhitedragon.png)<span class="featTooltipContents">ID: 266**Vendetta the Baby White Dragon**Don't even THINK about stepping near her tail!<img src="images/familiars/vendettathebabywhitedragon.gif" alt="Vendetta the Baby White Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Vendetta the Baby White Dragon
@@ -238,23 +238,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableCost">
             ???
-        </span>
-        <span class="skinTableDate">
-            ???
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Rumble the Angry Flumph Portrait](images/familiars/rumbletheangryflumph.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**A flumph glows faintly, reflecting its moods in its color. Crimson means anger. Beware the angry flumph!<img src="images/familiars/rumbletheangryflumph.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Rumble the Angry Flumph
-        </span>
-        <span class="skinTableSource">
-            EGS Giveaway - Astarion's Champions of Renown Pack
-        </span>
-        <span class="skinTableCost">
-            Free
         </span>
         <span class="skinTableDate">
             ???

@@ -1231,7 +1231,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 262**Virtue the Valenar Foal**To be its chosen companion is a high honor.</span></span>
+            <span class="tooltipHolder">![Virtue the Valenar Foal Familiar Portrait](images/premiums/familiar_262.png)<span class="itemTooltipContents">ID: 262**Virtue the Valenar Foal**To be its chosen companion is a high honor.<img src="images/premiums/familiar_262.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1372,7 +1372,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 263**Verdant the Baby Green Dragon**By the time you see him, it's too late!</span></span>
+            <span class="tooltipHolder">![Verdant the Baby Green Dragon Familiar Portrait](images/premiums/familiar_263.png)<span class="itemTooltipContents">ID: 263**Verdant the Baby Green Dragon**By the time you see him, it's too late!<img src="images/premiums/familiar_263.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1423,7 +1423,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 264**Midas the Baby Gold Dragon**I'm here to eat goblins and collect treasure, and I'm all out of goblins!</span></span>
+            <span class="tooltipHolder">![Midas the Baby Gold Dragon Familiar Portrait](images/premiums/familiar_264.png)<span class="itemTooltipContents">ID: 264**Midas the Baby Gold Dragon**I'm here to eat goblins and collect treasure, and I'm all out of goblins!<img src="images/premiums/familiar_264.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1655,7 +1655,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 266**Vendetta the Baby White Dragon**Don't even THINK about stepping near her tail!</span></span>
+            <span class="tooltipHolder">![Vendetta the Baby White Dragon Familiar Portrait](images/premiums/familiar_266.png)<span class="itemTooltipContents">ID: 266**Vendetta the Baby White Dragon**Don't even THINK about stepping near her tail!<img src="images/premiums/familiar_266.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
