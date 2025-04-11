@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/731.png">
-            <span class="weekendTooltipContents">ID: 731**Gold Corporate Synergy Chest**Loot for: Beadle, Nayeli, Minsc, Kalix and Dark Urge<code>"for_crusaders":[64,3,7,158,146]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Corporate Synergy**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    11 April 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Beadle
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/beadle.png'">
-                        <span class="weekendTableChampionNameplate">Beadle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kalix.png'">
-                        <span class="weekendTableChampionNameplate">Kalix</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/darkurge.png'">
-                        <span class="weekendTableChampionNameplate">Dark Urge</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/732.png">
             <span class="weekendTooltipContents">ID: 732**Gold Rivals Arrival Chest**Loot for: Gazrick, Jarlaxle, Asharra, Selise and Virgil<code>"for_crusaders":[98,4,6,81,115]</code></span>
         </span>
