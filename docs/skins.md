@@ -198,7 +198,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Lamplighter Nixie Portrait](images/skin_portraits/lamplighternixie.png)<span class="featTooltipContents">ID: 554**Lamplighter Nixie (Nixie)**<img src="images/skin_models/lamplighternixie.gif" alt="Lamplighter Nixie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Lamplighter Nixie Portrait](images/skin_portraits/lamplighternixie.png)<span class="featTooltipContents">ID: 554**Lamplighter Nixie (Nixie)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/lamplighternixie.gif" alt="Lamplighter Nixie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/lamplighternixie-blue.gif" alt="Lamplighter Nixie Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Lamplighter Nixie
