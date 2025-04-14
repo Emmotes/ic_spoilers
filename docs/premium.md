@@ -965,7 +965,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 554**Lamplighter Nixie (Nixie)**</span></span>
+            <span class="tooltipHolder">![Lamplighter Nixie Skin Portrait](images/premiums/skin_554.png)<span class="itemTooltipContents">ID: 554**Lamplighter Nixie (Nixie)**<img src="images/premiums/skin_554.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
