@@ -385,13 +385,13 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 567**Dragonskull Bobby (Bobby)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 567**Wind Duke Asharra (Bobby)**</span></span>
         </span>
         <span class="skinTableName">
-            Dragonskull Bobby
+            Wind Duke Asharra
         </span>
         <span class="skinTableSource">
-            Dragonskull Bobby Skin & Feat Pack
+            Wind Duke Asharra Skin & Feat Pack
         </span>
         <span class="skinTableCost">
             1,680p

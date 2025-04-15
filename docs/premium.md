@@ -1991,10 +1991,10 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 586</div>
-### Dragonskull Bobby Skin & Feat Pack - 1,680 Platinum  
+### Wind Duke Asharra Skin & Feat Pack - 1,680 Platinum  
 Date of release: 25 Jun 2025
 
-> Unlock Bobby along with his exclusive Dragonskull Skin & Feat!
+> Unlock Asharra along with her exclusive Wind Duke Skin & Feat!
 
 Contents:
 
@@ -2010,20 +2010,20 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 567**Dragonskull Bobby (Bobby)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 567**Wind Duke Asharra (Bobby)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Dragonskull Bobby</span>
+            <span style="margin-left:15px">Wind Duke Asharra</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2010**TBD Bobby Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2010**TBD Asharra Feat (Do not translate)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Bobby Feat (Do not translate)</span>
+            <span style="margin-left:15px">TBD Asharra Feat (Do not translate)</span>
             <span style="margin-left:15px">Bobby ()</span>
         </span>
     </span>
