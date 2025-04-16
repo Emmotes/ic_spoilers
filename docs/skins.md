@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Eternal Flame Strix Portrait](images/skin_portraits/eternalflamestrix.png)<span class="featTooltipContents">ID: 545**Eternal Flame Strix (Strix)**<img src="images/skin_models/eternalflamestrix.gif" alt="Eternal Flame Strix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Eternal Flame Strix
-        </span>
-        <span class="skinTableSource">
-            Eternal Flame Strix Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            16 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Thunder Lord Briv Portrait](images/skin_portraits/thunderlordbriv.png)<span class="featTooltipContents">ID: 544**Thunder Lord Briv (Briv)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/thunderlordbriv.gif" alt="Thunder Lord Briv Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/thunderlordbriv-armored.gif" alt="Thunder Lord Briv Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Thunder Lord Briv
-        </span>
-        <span class="skinTableSource">
-            Thunder Lord Briv Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            16 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Champion of Avernus Reya Portrait](images/skin_portraits/championofavernusreya.png)<span class="featTooltipContents">ID: 546**Champion of Avernus Reya (Reya)**<img src="images/skin_models/championofavernusreya.gif" alt="Champion of Avernus Reya Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
