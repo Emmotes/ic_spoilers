@@ -194,7 +194,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 267**Shimmer the Baby Silver Dragon**He might be small, but he can eat. Watch out for your turkey leg!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Shimmer the Baby Silver Dragon Portrait](images/familiars/shimmerthebabysilverdragon.png)<span class="featTooltipContents">ID: 267**Shimmer the Baby Silver Dragon**He might be small, but he can eat. Watch out for your turkey leg!<img src="images/familiars/shimmerthebabysilverdragon.gif" alt="Shimmer the Baby Silver Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Shimmer the Baby Silver Dragon
