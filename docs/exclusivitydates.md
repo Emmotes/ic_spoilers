@@ -8,6 +8,8 @@ A list of things that are currently or used to be in an exclusivity period.
 
 These are feats that were previously released in premium packs and are now sitting in an exclusivity period until they will be available again for gems.
 
+<span style="font-size:1.2em;">ⓘ</span> *Note: This list does *not* include feats from Emergences or giveaways. They have their own section below.*
+
 <span class="postSeasonTableColumn">
     <span class="postSeasonTableRow postSeasonTableRowShowHideAll" style="margin-top:-20px;margin-right:-9px">
         <a id="showHideFeats" onClick="exclusiveToggleAllFeats()" style="cursor:pointer">[hide all feats]</a>
