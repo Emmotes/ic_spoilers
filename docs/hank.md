@@ -578,7 +578,7 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unyielding Unity** (Guess)
-> Hank increases the damage bonus of Stalwart Encouragement by 200% for each member of the Saturday Morning Squad  in the formation, stacking multiplicatively. This also adds the Saturday Morning Squad affiliation to Dungeon Master.
+> Hank increases the damage bonus of Stalwart Encouragement by 200% for each member of the Saturday Morning Squad in the formation, stacking multiplicatively. This also adds the Saturday Morning Squad affiliation to Dungeon Master.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -588,7 +588,7 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
     "id": 2326,
     "flavour_text": "",
     "description": {
-        "desc": "Hank increases the damage bonus of Stalwart Encouragement by $amount% for each member of the Saturday Morning Squad  in the formation, stacking multiplicatively. This also adds the Saturday Morning Squad affiliation to Dungeon Master."
+        "desc": "Hank increases the damage bonus of Stalwart Encouragement by $amount% for each member of the Saturday Morning Squad in the formation, stacking multiplicatively. This also adds the Saturday Morning Squad affiliation to Dungeon Master."
     },
     "effect_keys": [
         {
@@ -659,7 +659,7 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
     },
     "effect_keys": [
         {
-            "effect_string": "buff_base_crit_chance,1",
+            "effect_string": "buff_base_crit_chance_add,1",
             "off_when_benched": true,
             "targets": [
                 "all"
@@ -680,7 +680,7 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
             "show_bonus": true
         },
         {
-            "effect_string": "buff_base_crit_damage,10",
+            "effect_string": "buff_base_crit_damage_add,10",
             "off_when_benched": true,
             "targets": [
                 "all"
