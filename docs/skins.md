@@ -11,23 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Champion of Avernus Reya Portrait](images/skin_portraits/championofavernusreya.png)<span class="featTooltipContents">ID: 546**Champion of Avernus Reya (Reya)**<img src="images/skin_models/championofavernusreya.gif" alt="Champion of Avernus Reya Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Champion of Avernus Reya
-        </span>
-        <span class="skinTableSource">
-            Champion of Avernus Reya Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            23 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Mind Flayer Halsin Portrait](images/skin_portraits/mindflayerhalsin.png)<span class="featTooltipContents">ID: 548**Mind Flayer Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/mindflayerhalsin.gif" alt="Mind Flayer Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/mindflayerhalsin-bear.gif" alt="Mind Flayer Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
