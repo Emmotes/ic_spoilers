@@ -166,6 +166,40 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Nixie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Burning Beauty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2139**Burning Beauty (Nixie)**Can't spell charm without harm!<code>buff_upgrades,80,10890,10891,10892</code></span>Burning Beauty
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>07 May 2025<br>07 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Evelyn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Under Pressure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1472**Under Pressure (Evelyn)**Uh oh -- more enemies! Everyone get behind me!<code>buff_upgrade,80,12207</code></span>Under Pressure
+        </span>
+        <span class="featTableEffect">
+            <span>80% Steadfast Might</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>14 May 2025<br>14 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Melf</span>
         </span>
         <span class="featTableIcon4">
@@ -183,23 +217,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Nixie</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Burning Beauty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2139**Burning Beauty (Nixie)**Can't spell charm without harm!<code>buff_upgrades,80,10890,10891,10892</code></span>Burning Beauty
-        </span>
-        <span class="featTableEffect">
-            <span>80% All Specialisations</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>21 May 2025<br>21 Aug 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Wyll</span>
         </span>
         <span class="featTableIcon4">
@@ -213,6 +230,261 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span>28 May 2025<br>28 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ravengard</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1823**Morale Boost (Ravengard)**This is what our soldiers needed - hope.<code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
+        </span>
+        <span class="featTableEffect">
+            <span>+20 Max Stacks to Critical Teamwork</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>04 Jun 2025<br>04 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>BBEG</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Undead Army Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2140**Undead Army (BBEG)**Death is not the end. Life begins after death. Live your afterlife to the fullest.<code>buff_upgrade,80,11542</code></span>Undead Army
+        </span>
+        <span class="featTableEffect">
+            <span>80% Sources of Corpses (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Jun 2025<br>11 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Antrius</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Sky Shanty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2130**Sky Shanty (Antrius)**Come on, sing! It will LIFT your spirits! Get it? Gods, I'm good.<code>buff_upgrade,80,10794,0</code></span>Sky Shanty
+        </span>
+        <span class="featTableEffect">
+            <span>80% Inspiring Song</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>18 Jun 2025<br>18 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>DM</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Young at Heart Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2134**Young at Heart (DM)**You are only as old as you feel, adventurers!<code>change_upgrade_data,7844,0</code></span>Young at Heart
+        </span>
+        <span class="featTableEffect">
+            <span>+5 Years Limit to Patience Young Ones</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>18 Jun 2025<br>18 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Asharra</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Teacher of Kir Sabal Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2010**Teacher of Kir Sabal (Asharra)**My ancestors watch over us. We must stand together now, for the fate of all.</span>Teacher of Kir Sabal
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>25 Jun 2025<br>25 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Kas</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cataclysmic Power Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1982**Cataclysmic Power (Kas)**I would burn this world to ash for the sake of my revenge.<code>buff_upgrade,80,15623,0<br>buff_upgrade,80,15624,0<br>buff_upgrade,80,15625,0</code></span>Cataclysmic Power
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>25 Jun 2025<br>25 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nahara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2221**Immolation (Nahara)**You will burn for this, and it will be by my hand.<code>immolation,1,5</code></span>Immolation
+        </span>
+        <span class="featTableEffect">
+            <span>1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Jul 2025<br>02 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Strongheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2220**Master's Precision (Strongheart)**Steel, strike true!<code>buff_base_crit_chance_add,20</code></span>Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span>+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Jul 2025<br>02 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prophesied Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 159**Prophesied Leader (Deekin)**Deekin lead you all to DOOM.<code>global_dps_multiplier_mult,50</code></span>Prophesied Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Jul 2025<br>09 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Aeon</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Clandestine Operation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2223**Clandestine Operation (Aeon)**They must never know what we do in the shadows.<code>buff_upgrade,80,15196,1</code></span>Clandestine Operation
+        </span>
+        <span class="featTableEffect">
+            <span>80% Inner Circle</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>16 Jul 2025<br>16 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Vin Ursa</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Orbital Ooze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2224**Orbital Ooze (Vin Ursa)**I'm a simple plasmoid making my way through wildspace.<code>buff_upgrades,80,12092,12093,12094</code></span>Orbital Ooze
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Second Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>16 Jul 2025<br>16 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Kas</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Discerning Taste Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2230**Discerning Taste (Kas)**Ah, such a rich vintage, with notes of fey. I must have more.<code>buff_upgrade,80,15621,0</code></span>Discerning Taste
+        </span>
+        <span class="featTableEffect">
+            <span>80% Life Drain</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Warduke</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Right Hand of Evil Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2225**Right Hand of Evil (Warduke)**I go where I'm told, and whatever I find there I destroy.<code>buff_upgrade,80,9618</code></span>Right Hand of Evil
+        </span>
+        <span class="featTableEffect">
+            <span>80% Drawn to Power</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Jul 2025<br>23 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Eric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Powerful Shove Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2035**Powerful Shove (Eric)**Let's keep a safe distance. Way over there sounds perfect.<code>buff_upgrade,80,16132,1</code></span>Powerful Shove
+        </span>
+        <span class="featTableEffect">
+            <span>80% Keep Away</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Jul 2025<br>30 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Omin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![To the Moon Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2226**To the Moon (Omin)**Finally! I knew diversifying my investments would eventually pay off.<code>buff_upgrade,80,12303</code></span>To the Moon
+        </span>
+        <span class="featTableEffect">
+            <span>80% Well Funded</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Jul 2025<br>30 Oct 2025</span>
         </span>
     </span>
 </span>
@@ -382,23 +654,6 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Eric</span>
         </span>
         <span class="featTableIcon4">
-            ![Powerful Shove Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2035**Powerful Shove (Eric)**Let's keep a safe distance. Way over there sounds perfect.<code>buff_upgrade,80,16132,1</code></span>Powerful Shove
-        </span>
-        <span class="featTableEffect">
-            <span>80% Keep Away</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Eric</span>
-        </span>
-        <span class="featTableIcon4">
             ![Preventive Intervention Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2033**Preventive Intervention (Eric)**There, I saved you. You're welcome. Now be more careful!<code>buff_upgrade,80,16130</code></span>Preventive Intervention
         </span>
         <span class="featTableEffect">
@@ -539,23 +794,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>40% Icingdeath</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Evelyn</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Under Pressure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1472**Under Pressure (Evelyn)**Uh oh -- more enemies! Everyone get behind me!<code>buff_upgrade,80,12207</code></span>Under Pressure
-        </span>
-        <span class="featTableEffect">
-            <span>80% Steadfast Might</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -925,23 +1163,6 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableChampion">
             <span>Ravengard</span>
         </span>
-        <span class="featTableIcon4">
-            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1823**Morale Boost (Ravengard)**This is what our soldiers needed - hope.<code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
-        </span>
-        <span class="featTableEffect">
-            <span>+20 Max Stacks to Critical Teamwork</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Ravengard</span>
-        </span>
         <span class="featTableIcon3">
             ![Spirit of Confidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1813**Spirit of Confidence (Ravengard)**One person can change the entire battle.<code>persist_effect_stacks,20,15030</code></span>Spirit of Confidence
         </span>
@@ -1212,23 +1433,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Asharra</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 33**Inspiring Leader (Asharra)**My people follow me. Will you?<code>global_dps_multiplier_mult,25</code></span>Inspiring Leader
-        </span>
-        <span class="featTableEffect">
-            <span>25% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>12,500 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Binwin</span>
         </span>
         <span class="featTableIcon4">
@@ -1270,23 +1474,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>120% Self DPS</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Deekin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prophesied Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 159**Prophesied Leader (Deekin)**Deekin lead you all to DOOM.<code>global_dps_multiplier_mult,50</code></span>Prophesied Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>

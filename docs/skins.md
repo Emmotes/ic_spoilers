@@ -79,6 +79,23 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Lamplighter Nixie Portrait](images/skin_portraits/lamplighternixie.png)<span class="featTooltipContents">ID: 554**Lamplighter Nixie (Nixie)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/lamplighternixie.gif" alt="Lamplighter Nixie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/lamplighternixie-blue.gif" alt="Lamplighter Nixie Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+        </span>
+        <span class="skinTableName">
+            Lamplighter Nixie
+        </span>
+        <span class="skinTableSource">
+            Lamplighter Nixie Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            07 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Red Dragon Rider Lae'zel Portrait](images/skin_portraits/reddragonriderlaezel.png)<span class="featTooltipContents">ID: 503**Red Dragon Rider Lae'zel (Lae'zel)**<img src="images/skin_models/reddragonriderlaezel.gif" alt="Red Dragon Rider Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -164,23 +181,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Lamplighter Nixie Portrait](images/skin_portraits/lamplighternixie.png)<span class="featTooltipContents">ID: 554**Lamplighter Nixie (Nixie)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/lamplighternixie.gif" alt="Lamplighter Nixie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/lamplighternixie-blue.gif" alt="Lamplighter Nixie Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Lamplighter Nixie
-        </span>
-        <span class="skinTableSource">
-            Lamplighter Nixie Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            21 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 555**Warforged Evelyn (Evelyn)**</span></span>
         </span>
         <span class="skinTableName">
@@ -193,7 +193,7 @@ Please be aware that the developers recently removed most future skins from the 
             1,680p
         </span>
         <span class="skinTableDate">
-            21 May 2025
+            14 May 2025
         </span>
     </span>
     <span class="skinTableRow">
@@ -351,7 +351,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 567**Wind Duke Asharra (Bobby)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 571**Wind Duke Asharra (Asharra)**</span></span>
         </span>
         <span class="skinTableName">
             Wind Duke Asharra
@@ -364,6 +364,40 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             25 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 573**Archeologist Strongheart (Strongheart)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Archeologist Strongheart
+        </span>
+        <span class="skinTableSource">
+            Archeologist Strongheart Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            02 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 572**Fortune Hunter Tess (Tess)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Fortune Hunter Tess
+        </span>
+        <span class="skinTableSource">
+            Fortune Hunter Tess Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            02 Jul 2025
         </span>
     </span>
     <span class="skinTableRow">
@@ -398,6 +432,91 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             08 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 575**Dungeoneer Deekin (Deekin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dungeoneer Deekin
+        </span>
+        <span class="skinTableSource">
+            Dungeoneer Deekin Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            09 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 576**Reincarnated K'thriss (K'thriss)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Reincarnated K'thriss
+        </span>
+        <span class="skinTableSource">
+            Reincarnated K'thriss Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            09 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 577**Gelatinous Cube Vin Ursa (Vin Ursa)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Gelatinous Cube Vin Ursa
+        </span>
+        <span class="skinTableSource">
+            Gelatinous Cube Vin Ursa Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            16 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 579**Chosen of Vecna Warduke (Warduke)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Chosen of Vecna Warduke
+        </span>
+        <span class="skinTableSource">
+            Chosen of Vecna Warduke Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            23 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 580**Fortune Hunter Eric (Eric)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Fortune Hunter Eric
+        </span>
+        <span class="skinTableSource">
+            Fortune Hunter Eric Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            30 Jul 2025
         </span>
     </span>
 </span>

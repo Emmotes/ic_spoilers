@@ -41,6 +41,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Clawfoot the Dinosaur Portrait](images/familiars/clawfootthedinosaur.png)<span class="featTooltipContents">ID: 261**Clawfoot the Dinosaur**Beware its deadly cuddles.<img src="images/familiars/clawfootthedinosaur.gif" alt="Clawfoot the Dinosaur Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Clawfoot the Dinosaur
+        </span>
+        <span class="skinTableSource">
+            Clawfoot the Dinosaur Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            07 May 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Mango the Hippocampus Portrait](images/familiars/mangothehippocampus.png)<span class="featTooltipContents">ID: 258**Mango the Hippocampus**Time to look my gift horse in the mouth! ~Vlithryn<img src="images/familiars/mangothehippocampus.gif" alt="Mango the Hippocampus Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -92,23 +109,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Clawfoot the Dinosaur Portrait](images/familiars/clawfootthedinosaur.png)<span class="featTooltipContents">ID: 261**Clawfoot the Dinosaur**Beware its deadly cuddles.<img src="images/familiars/clawfootthedinosaur.gif" alt="Clawfoot the Dinosaur Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Clawfoot the Dinosaur
-        </span>
-        <span class="skinTableSource">
-            Clawfoot the Dinosaur Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            21 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Virtue the Valenar Foal Portrait](images/familiars/virtuethevalenarfoal.png)<span class="featTooltipContents">ID: 262**Virtue the Valenar Foal**To be its chosen companion is a high honor.<img src="images/familiars/virtuethevalenarfoal.gif" alt="Virtue the Valenar Foal Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -126,16 +126,16 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Midas the Baby Gold Dragon Portrait](images/familiars/midasthebabygolddragon.png)<span class="featTooltipContents">ID: 264**Midas the Baby Gold Dragon**I'm here to eat goblins and collect treasure, and I'm all out of goblins!<img src="images/familiars/midasthebabygolddragon.gif" alt="Midas the Baby Gold Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Shimmer the Baby Silver Dragon Portrait](images/familiars/shimmerthebabysilverdragon.png)<span class="featTooltipContents">ID: 267**Shimmer the Baby Silver Dragon**He might be small, but he can eat. Watch out for your turkey leg!<img src="images/familiars/shimmerthebabysilverdragon.gif" alt="Shimmer the Baby Silver Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Midas the Baby Gold Dragon
+            Shimmer the Baby Silver Dragon
         </span>
         <span class="skinTableSource">
-            Midas the Baby Gold Dragon Familiar Pack
+            Shimmer the Baby Silver Dragon Familiar Pack
         </span>
         <span class="skinTableCost">
-            2,380p
+            1,680p
         </span>
         <span class="skinTableDate">
             04 Jun 2025
@@ -160,7 +160,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 265**Noctis the Baby Deep Dragon**She barters in secrets.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Noctis the Baby Deep Dragon Portrait](images/familiars/noctisthebabydeepdragon.png)<span class="featTooltipContents">ID: 265**Noctis the Baby Deep Dragon**She barters in secrets.<img src="images/familiars/noctisthebabydeepdragon.gif" alt="Noctis the Baby Deep Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Noctis the Baby Deep Dragon
@@ -194,19 +194,53 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Shimmer the Baby Silver Dragon Portrait](images/familiars/shimmerthebabysilverdragon.png)<span class="featTooltipContents">ID: 267**Shimmer the Baby Silver Dragon**He might be small, but he can eat. Watch out for your turkey leg!<img src="images/familiars/shimmerthebabysilverdragon.gif" alt="Shimmer the Baby Silver Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Rainbow Guardian Portrait](images/familiars/rainbowguardian.png)<span class="featTooltipContents">ID: 270**Rainbow Guardian**Directive: Protection.<img src="images/familiars/rainbowguardian.gif" alt="Rainbow Guardian Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Shimmer the Baby Silver Dragon
+            Rainbow Guardian
         </span>
         <span class="skinTableSource">
-            Shimmer the Baby Silver Dragon Familiar Pack
+            Rainbow Guardian Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            23 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 276**Goldie the Sprite**She valiantly defends the gold hoard of the dragon's lair in her forest.</span></span>
+        </span>
+        <span class="skinTableName">
+            Goldie the Sprite
+        </span>
+        <span class="skinTableSource">
+            Goldie the Sprite Familiar Pack
         </span>
         <span class="skinTableCost">
             1,680p
         </span>
         <span class="skinTableDate">
-            25 Jun 2025
+            30 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 271**Wormy the Baby Purple Worm**I'll bite your ankles until you die!</span></span>
+        </span>
+        <span class="skinTableName">
+            Wormy the Baby Purple Worm
+        </span>
+        <span class="skinTableSource">
+            Fortune Hunter Tess Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            02 Jul 2025
         </span>
     </span>
     <span class="skinTableRow">
@@ -224,6 +258,91 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             08 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 272**Chompers the Aurumvorax**Don't open the chest, or you'll learn why we named him Chompers…</span></span>
+        </span>
+        <span class="skinTableName">
+            Chompers the Aurumvorax
+        </span>
+        <span class="skinTableSource">
+            Chompers the Aurumvorax Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            840p
+        </span>
+        <span class="skinTableDate">
+            09 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 273**Ligotti the Tentacle Familiar**</span></span>
+        </span>
+        <span class="skinTableName">
+            Ligotti the Tentacle Familiar
+        </span>
+        <span class="skinTableSource">
+            Reincarnated K'thriss Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            09 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Midas the Baby Gold Dragon Portrait](images/familiars/midasthebabygolddragon.png)<span class="featTooltipContents">ID: 264**Midas the Baby Gold Dragon**I'm here to eat goblins and collect treasure, and I'm all out of goblins!<img src="images/familiars/midasthebabygolddragon.gif" alt="Midas the Baby Gold Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Midas the Baby Gold Dragon
+        </span>
+        <span class="skinTableSource">
+            Midas the Baby Gold Dragon Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            2,380p
+        </span>
+        <span class="skinTableDate">
+            16 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 274**Ursus the Bear**Exterminator of the noobs.</span></span>
+        </span>
+        <span class="skinTableName">
+            Ursus the Bear
+        </span>
+        <span class="skinTableSource">
+            Gelatinous Cube Vin Ursa Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            16 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Knick Knack the Pseudodragon Portrait](images/familiars/knickknackthepseudodragon.png)<span class="featTooltipContents">ID: 275**Knick Knack the Pseudodragon**Watch out, he collects EVERYTHING.<img src="images/familiars/knickknackthepseudodragon.gif" alt="Knick Knack the Pseudodragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Knick Knack the Pseudodragon
+        </span>
+        <span class="skinTableSource">
+            Knick Knack the Pseudodragon Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            2,380p
+        </span>
+        <span class="skinTableDate">
+            23 Jul 2025
         </span>
     </span>
     <span class="skinTableRow">
