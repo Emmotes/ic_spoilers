@@ -7,7 +7,9 @@
 
 # Tess
 
-I have no idea who this will be.
+Current assumption is that this will be Tess from `The Fallbacks: Bound for Ruin`. Not entirely sure yet though.
+
+[The Fallbacks - Fandom Name](https://forgottenrealms.fandom.com/wiki/The_Fallbacks:_Bound_for_Ruin)
 
 # Basic Information
 
@@ -35,7 +37,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Rogue (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -59,7 +61,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Female (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">

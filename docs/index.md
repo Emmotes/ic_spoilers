@@ -84,7 +84,7 @@ These are the event champions that are upcoming and all the information we know 
                 Tess
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">&nbsp;</span>
+                <span class="indexChampionTableNoLink"> Rogue (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 2 July 2025</span>
@@ -379,7 +379,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Tess
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">&nbsp;</span>
+                <span class="indexChampionTableNoLink"> Rogue (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
