@@ -441,6 +441,23 @@ These are feats that were previously released in premium packs and are now sitti
             <span>16 Jul 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Reya</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Zariel's Chosen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2133**Zariel's Chosen (Reya)**I am her mercy. I am her wrath. I am all that she was, is, and will be.<code>buff_upgrade,80,5457,0</code></span>Zariel's Chosen
+        </span>
+        <span class="featTableEffect">
+            <span>80% Echoes of Zariel</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Jul 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
