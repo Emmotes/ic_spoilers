@@ -353,10 +353,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "health_divisor": 47,
-            "per_hero_expr": "floor(log(health/health_divisor)/log(2))",
-            "per_hero_targets": [
-                "effect_key_slot"
-            ],
+            "post_process_expr": "floor(log(GetHeroHP(109)/health_divisor)/log(2))",
             "amount_updated_listeners": [
                 "max_health_changed",
                 "feat_changed"
@@ -571,7 +568,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
