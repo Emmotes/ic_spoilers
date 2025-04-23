@@ -55,6 +55,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "tags": [
+        "monster",
         "melee"
     ],
     "damage_types": [
@@ -209,7 +210,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2329,
     "flavour_text": "",
     "description": {
-        "desc": "Krond increases the damage of all Champions by $amount% for each Evil Champion in the formation, stacking multiplicatively."
+        "conditions": [
+            {
+                "condition": "feat_assigned 2213",
+                "desc": "Krond increases the damage of all Champions by $amount% for each Good Champion in the formation, stacking multiplicatively."
+            },
+            {
+                "desc": "Krond increases the damage of all Champions by $amount% for each Evil Champion in the formation, stacking multiplicatively."
+            }
+        ]
     },
     "effect_keys": [
         {
@@ -264,14 +273,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "conditions": [
             {
                 "condition": "upgrade_purchased 17238",
-                "desc": "Increase the effect of Unsung Alliance by $amount% for each point of STR over 16 on every Champion in the formation, stacking multiplicatively."
+                "desc": "Increase the effect of Unsung Alliance by $(not_buffed amount)% for each point of STR over 16 on every Champion in the formation, stacking multiplicatively."
             },
             {
                 "condition": "upgrade_purchased 17239",
-                "desc": "Increase the effect of Unsung Alliance by $amount% for each point of CON over 16 on every Champion in the formation, stacking multiplicatively."
+                "desc": "Increase the effect of Unsung Alliance by $(not_buffed amount)% for each point of CON over 16 on every Champion in the formation, stacking multiplicatively."
             },
             {
-                "desc": "Increase the effect of Unsung Alliance by $amount% for each point of INT over 16 on every Champion in the formation, stacking multiplicatively."
+                "desc": "Increase the effect of Unsung Alliance by $(not_buffed amount)% for each point of INT over 16 on every Champion in the formation, stacking multiplicatively."
             }
         ]
     },
@@ -475,12 +484,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "krond_eldritch_strike,400",
             "off_when_benched": true,
             "debuffing_attack_ids": [
-                46,
-                50
+                50,
+                862,
+                863,
+                864,
+                865
             ],
             "debuff_effects": [
                 {
-                    "effect_string": "increase_monster_damage_if_from_attacks,400,46,50",
+                    "effect_string": "increase_monster_damage_if_from_attacks,400,50,862,863,864,865",
                     "active_graphic_id": 1401,
                     "bottom": true,
                     "use_collection_source": true
@@ -565,7 +577,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: War Magic** (Guess)
-> 
+> Krond's Cantrip feats now deal BUD-based damage equal to 5 seconds of BUD-based damage for each 100% of Krond's base damage that they normally deal.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -573,12 +585,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2336,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Krond's Cantrip feats now deal BUD-based damage equal to $amount seconds of BUD-based damage for each $increase_threshold% of Krond's base damage that they normally deal."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing",
-            "off_when_benched": true
+            "effect_string": "just_an_amount,5",
+            "off_when_benched": true,
+            "increase_threshold": 100
         }
     ],
     "requirements": "",
