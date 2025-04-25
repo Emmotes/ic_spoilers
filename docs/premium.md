@@ -1852,7 +1852,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Champion Unlock Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 164**Tess**</span></span>
+            <span class="tooltipHolder">![Tess Champion Unlock Portrait](images/premiums/unlock_champion_164.png)<span class="itemTooltipContents">ID: 164**Tess**<img src="images/premiums/unlock_champion_164.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
