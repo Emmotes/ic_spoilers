@@ -1,15 +1,29 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Tess](images/tess/portrait.png)
+        </span>
+        <span>
+        Portrait
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model GIF of Tess](images/tess/model.gif)
+        </span>
+        <span>
+        Model
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 # Tess
 
-Current assumption is that this will be Tess from `The Fallbacks: Bound for Ruin`. Not entirely sure yet though.
+Tessalynde is an ambitious young rogue who dreams of leading Faerûn's foremost adventuring party. While the crew she’s gathered isn't the stuff of legend yet, she's confident her guidance can get them there.
 
-[The Fallbacks - Fandom Name](https://forgottenrealms.fandom.com/wiki/The_Fallbacks:_Bound_for_Ruin)
+[The Fallbacks: Bound for Ruin - Fandom Wiki](https://forgottenrealms.fandom.com/wiki/The_Fallbacks:_Bound_for_Ruin)
 
 # Basic Information
 
@@ -134,12 +148,23 @@ Unknown.
 > 
 </div></div>
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Tess Console Portrait](images/tess/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Tess Gold Chest Icon](images/tess/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Tess Silver Chest Icon](images/tess/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
