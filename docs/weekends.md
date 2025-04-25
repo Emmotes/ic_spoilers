@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/732.png">
-            <span class="weekendTooltipContents">ID: 732**Gold Rivals Arrival Chest**Loot for: Gazrick, Jarlaxle, Asharra, Selise and Virgil<code>"for_crusaders":[98,4,6,81,115]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **The Rivals Arrival**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    25 April 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Gazrick
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/gazrick.png'">
-                        <span class="weekendTableChampionNameplate">Gazrick</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jarlaxle.png'">
-                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/selise.png'">
-                        <span class="weekendTableChampionNameplate">Selise</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/virgil.png'">
-                        <span class="weekendTableChampionNameplate">Virgil</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/735.png">
             <span class="weekendTooltipContents">ID: 735**Gold Misunderstood Chest**Loot for: Thellora, Tyril, Minsc, Briv and Volo<code>"for_crusaders":[139,10,7,58,159]</code></span>
         </span>
