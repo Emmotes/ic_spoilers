@@ -368,6 +368,23 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 574**Fortune Hunter Nahara (Nahara)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Fortune Hunter Nahara
+        </span>
+        <span class="skinTableSource">
+            Fortune Hunter Nahara Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            02 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 572**Fortune Hunter Tess (Tess)**</span></span>
         </span>
         <span class="skinTableName">
@@ -449,6 +466,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             09 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 578**Dungeon Raider Aeon (Aeon)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dungeon Raider Aeon
+        </span>
+        <span class="skinTableSource">
+            Dungeon Raider Aeon Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            16 Jul 2025
         </span>
     </span>
     <span class="skinTableRow">
