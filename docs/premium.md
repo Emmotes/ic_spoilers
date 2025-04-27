@@ -1595,10 +1595,12 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 590</div>
-### Rainbow Guardian Familiar Pack - 0 Platinum ($5.99)  
+### Rainbow Guardian Familiar Pack - $5.99  
 Date of release: 23 Jun 2025
 
 > Collect your own Rainbow Guardian Familiar!
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: It appears that this pack will only be available for real money instead of Platinum.*
 
 Contents:
 
@@ -2054,7 +2056,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 589</div>
-### Beadle & Grimm Dragon Delves Pack - 0 Platinum  
+### Beadle & Grimm Dragon Delves Pack - Free  
 Date of release: 08 Jul 2025
 
 > 
