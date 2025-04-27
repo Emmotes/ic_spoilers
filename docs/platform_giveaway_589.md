@@ -5,7 +5,7 @@
 Contents of an upcoming Unknown exclusive platform giveaway have been spoiled.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 589</div>
-### Beadle & Grimm Dragon Delves Pack - 0 Platinum  
+### Beadle & Grimm Dragon Delves Pack - Free  
 Date of release: 08 July 2025
 
 > 
