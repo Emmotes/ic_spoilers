@@ -35,23 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Kent</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**We are stronger together.<code>effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span>20% All Champion Damage per Unique Species in Formation (Additive)</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>29 Apr 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Hew Maan</span>
         </span>
         <span class="featTableIcon4">
