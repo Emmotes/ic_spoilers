@@ -181,7 +181,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 556**Prodigal Son Wyll (Wyll)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Prodigal Son Wyll Portrait](images/skin_portraits/prodigalsonwyll.png)<span class="featTooltipContents">ID: 556**Prodigal Son Wyll (Wyll)**<img src="images/skin_models/prodigalsonwyll.gif" alt="Prodigal Son Wyll Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Prodigal Son Wyll
