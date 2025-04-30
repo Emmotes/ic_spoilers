@@ -109,6 +109,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Amber the Faerie Dragon Portrait](images/familiars/amberthefaeriedragon.png)<span class="featTooltipContents">ID: 277**Amber the Faerie Dragon**You're the one who woke the giant ants up, not me!<img src="images/familiars/amberthefaeriedragon.gif" alt="Amber the Faerie Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Amber the Faerie Dragon
+        </span>
+        <span class="skinTableSource">
+            Dungeon Master's Champions of Renown Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            04 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Shimmer the Baby Silver Dragon Portrait](images/familiars/shimmerthebabysilverdragon.png)<span class="featTooltipContents">ID: 267**Shimmer the Baby Silver Dragon**He might be small, but he can eat. Watch out for your turkey leg!<img src="images/familiars/shimmerthebabysilverdragon.gif" alt="Shimmer the Baby Silver Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -262,7 +279,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 273**Ligotti the Tentacle Familiar**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 273**Ligotti the Tentacle Familiar**What possible harm could one perpetually ravenous tentacle do?</span></span>
         </span>
         <span class="skinTableName">
             Ligotti the Tentacle Familiar
@@ -334,6 +351,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableName">
             Clove the Badger
+        </span>
+        <span class="skinTableSource">
+            None
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 278**Fetch the Flying Monkey**Slightly more clever and curious than common monkeys, they are also 100% more adorable!</span></span>
+        </span>
+        <span class="skinTableName">
+            Fetch the Flying Monkey
         </span>
         <span class="skinTableSource">
             None

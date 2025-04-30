@@ -47,6 +47,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unrelenting Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1967**Unrelenting Strife (Minthara)**If somebody causes me sorrow, I remove their ability to do so again.<code>minthara_increase_max_stacks,2</code></span>Unrelenting Strife
+        </span>
+        <span class="featTableEffect">
+            <span>+2 max Soul Branding stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025<br>30 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Evandra</span>
         </span>
         <span class="featTableIcon4">
@@ -183,6 +200,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Hitch</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2232**Prodigal Leader (Hitch)**You guys do your thing. I'll be supervising from over here.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Jun 2025<br>18 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Antrius</span>
         </span>
         <span class="featTableIcon4">
@@ -220,10 +254,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>Asharra</span>
         </span>
         <span class="featTableIcon4">
-            ![Teacher of Kir Sabal Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2010**Teacher of Kir Sabal (Asharra)**My ancestors watch over us. We must stand together now, for the fate of all.</span>Teacher of Kir Sabal
+            ![Teacher of Kir Sabal Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2010**Teacher of Kir Sabal (Asharra)**My ancestors watch over us. We must stand together now, for the fate of all.<code>buff_upgrade,80,2189,1<br>buff_upgrade,80,2189,2<br>add_hero_tags,0,druid</code></span>Teacher of Kir Sabal
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span>80% Paragon of Kir Sabal & Counts as Druid</span>
         </span>
         <span class="featTableSource">
             <span>1,680 Platinum<br>50,000 Gems</span>
@@ -981,23 +1015,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>+1 max Soul Branding stacks</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Unrelenting Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1967**Unrelenting Strife (Minthara)**If somebody causes me sorrow, I remove their ability to do so again.<code>minthara_increase_max_stacks,2</code></span>Unrelenting Strife
-        </span>
-        <span class="featTableEffect">
-            <span>+2 max Soul Branding stacks</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

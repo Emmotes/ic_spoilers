@@ -79,23 +79,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Red Dragon Rider Lae'zel Portrait](images/skin_portraits/reddragonriderlaezel.png)<span class="featTooltipContents">ID: 503**Red Dragon Rider Lae'zel (Lae'zel)**<img src="images/skin_models/reddragonriderlaezel.gif" alt="Red Dragon Rider Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Red Dragon Rider Lae'zel
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            07 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Tairnadal Jaheira Portrait](images/skin_portraits/tairnadaljaheira.png)<span class="featTooltipContents">ID: 550**Tairnadal Jaheira (Jaheira)**<img src="images/skin_models/tairnadaljaheira.gif" alt="Tairnadal Jaheira Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -164,7 +147,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 555**Warforged Evelyn (Evelyn)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Warforged Evelyn Portrait](images/skin_portraits/warforgedevelyn.png)<span class="featTooltipContents">ID: 555**Warforged Evelyn (Evelyn)**<img src="images/skin_models/warforgedevelyn.gif" alt="Warforged Evelyn Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Warforged Evelyn
@@ -232,7 +215,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 561**Dragon Rider Krond (Krond)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Rider Krond Portrait](images/skin_portraits/dragonriderkrond.png)<span class="featTooltipContents">ID: 561**Dragon Rider Krond (Krond)**<img src="images/skin_models/dragonriderkrond.gif" alt="Dragon Rider Krond Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragon Rider Krond
@@ -249,7 +232,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 562**Reaper BBEG (BBEG)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Reaper BBEG Portrait](images/skin_portraits/reaperbbeg.png)<span class="featTooltipContents">ID: 562**Reaper BBEG (BBEG)**<img src="images/skin_models/reaperbbeg.gif" alt="Reaper BBEG Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Reaper BBEG
@@ -534,6 +517,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             30 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Red Dragon Rider Lae'zel Portrait](images/skin_portraits/reddragonriderlaezel.png)<span class="featTooltipContents">ID: 503**Red Dragon Rider Lae'zel (Lae'zel)**<img src="images/skin_models/reddragonriderlaezel.gif" alt="Red Dragon Rider Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Red Dragon Rider Lae'zel
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            01 Jan 2032
         </span>
     </span>
 </span>
