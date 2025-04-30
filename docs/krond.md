@@ -262,7 +262,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Best of the Best** (Guess)
-> Increase the effect of Unsung Alliance by 10% for each point of INT over 16 on every Champion in the formation, stacking multiplicatively.
+> Krond increases the effect of Unsung Alliance by 10% for each point of INT over 16 on every Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -273,14 +273,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "conditions": [
             {
                 "condition": "upgrade_purchased 17238",
-                "desc": "Increase the effect of Unsung Alliance by $(not_buffed amount)% for each point of STR over 16 on every Champion in the formation, stacking multiplicatively."
+                "desc": "Krond increases the effect of Unsung Alliance by $(not_buffed amount)% for each point of STR over 16 on every Champion in the formation, stacking multiplicatively."
             },
             {
                 "condition": "upgrade_purchased 17239",
-                "desc": "Increase the effect of Unsung Alliance by $(not_buffed amount)% for each point of CON over 16 on every Champion in the formation, stacking multiplicatively."
+                "desc": "Krond increases the effect of Unsung Alliance by $(not_buffed amount)% for each point of CON over 16 on every Champion in the formation, stacking multiplicatively."
             },
             {
-                "desc": "Increase the effect of Unsung Alliance by $(not_buffed amount)% for each point of INT over 16 on every Champion in the formation, stacking multiplicatively."
+                "desc": "Krond increases the effect of Unsung Alliance by $(not_buffed amount)% for each point of INT over 16 on every Champion in the formation, stacking multiplicatively."
             }
         ]
     },
@@ -540,10 +540,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                         "conditions": [
                             {
                                 "condition": "target_is_highest_hit_hero",
-                                "desc": "^^Active: {Yes}#00FF00"
+                                "desc": "^^Active: {No}#FF0000"
                             },
                             {
-                                "desc": "^^Active: {No}#FF0000"
+                                "desc": "^^Active: {Yes}#00FF00"
                             }
                         ]
                     }
