@@ -84,11 +84,14 @@ These are the event champions that are upcoming and all the information we know 
                 Tess
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> Rogue (Guess)</span>
+                <span class="indexChampionTableNoLink"> Rogue of The Fallbacks (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 2 July 2025</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
 {::nomarkdown}
@@ -185,7 +188,10 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="kthriss.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![K'thriss Drow'b Portrait Icon](images/kthriss/portrait.png)
         </span>
@@ -197,13 +203,16 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Elf (Drow) Warlock of Acq Inc "C" Team</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Founders' Day - 09 July 2025 (Worst the Wait Augment (Guess)) (Guess)</span>
+                <span class="indexChampionTableNoLink">Founders' Day - 09 July 2025 (Worst the Wait Augment (Guess))</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -379,23 +388,29 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Tess
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> Rogue (Guess)</span>
+                <span class="indexChampionTableNoLink"> Rogue of The Fallbacks (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
         </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="kthriss.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![K'thriss Drow'b Portrait Icon](images/kthriss/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                K'thriss Drow'b (Guess)
+                K'thriss Drow'b
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Elf (Drow) Warlock of Acq Inc "C" Team</span>
@@ -411,6 +426,9 @@ These are the upcoming new and reworked champions and where they'll be found.
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 </div></div>
 
@@ -424,6 +442,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
+* [XBox Exclusive Giveaway](platform_giveaway_604.md) - 4 June 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_589.md) - 8 July 2025
 * Emergence 12 - 23 July 2025
 * [Notary System](notary.md) - "It's very close...ish"
