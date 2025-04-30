@@ -441,6 +441,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span>23 Jul 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Halsin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Verdant Vow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2135**Verdant Vow (Halsin)**I give my all to serve the Oak Father. No sacrifice is too great.<code>buff_upgrade,80,15962,0</code></span>Verdant Vow
+        </span>
+        <span class="featTableEffect">
+            <span>80% Archdruid of Emerald Grove (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unrelenting Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1967**Unrelenting Strife (Minthara)**If somebody causes me sorrow, I remove their ability to do so again.<code>minthara_increase_max_stacks,2</code></span>Unrelenting Strife
+        </span>
+        <span class="featTableEffect">
+            <span>+2 max Soul Branding stacks</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Jul 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -453,130 +487,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
 
 <span class="postSeasonTableColumn">
 <span class="postSeasonTableRow postSeasonTableRowShowHideAll"><a id="showHideAll" onClick="exclusiveToggleAllContents()" style="cursor:pointer">[show all contents]</a></span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="e9a" onclick="exclusiveToggleContent(`e9`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Emergence 9 Icon](images/general/e9.png)**Emergence 9** - Vampires
-            </span>
-        </span>
-        <span id="e9" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Strategic Stride Feat Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**Mine mighty legs could go farther, but there is wisdom in restraint.<code>cap_upgrade,25600,3452</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Strategic Stride</span>
-                        <span style="margin-left:15px">Briv (Cap Unnatural Haste at 9j)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Gem Feat Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<code>ellywick_gem_prioritized</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Gem</span>
-                        <span style="margin-left:15px">Ellywick (Always Draws at Least 1 Gems Card)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<code>add_hero_tags,0,undead<br>buff_upgrade,160,6905<br>appear_dead</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Make Undead</span>
-                        <span style="margin-left:15px">Widdle (Counts as Undead & 160% Vampiric Gaze)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400<br>appear_dead</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Make Undead</span>
-                        <span style="margin-left:15px">Nahara (Counts as Undead & 400% Self DPS)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1723**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<code>global_dps_multiplier_mult,50</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Prodigal Leader</span>
-                        <span style="margin-left:15px">Voronika (50% All Champion Damage)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Nosferatu Widdle Skin Icon](images/exclusivities/skin_24941.png)<span class="featTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**<img src="images/exclusivities/skin_24949.gif" alt="Nosferatu Widdle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Nosferatu Widdle</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Vampire Nahara Skin Icon](images/exclusivities/skin_24943.png)<span class="featTooltipContents">ID: 462**Vampire Nahara (Nahara)**<img src="images/exclusivities/skin_24947.gif" alt="Vampire Nahara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Vampire Nahara</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Krux Slot 2](images/exclusivities/ge_19864.png)<span class="itemTooltipContents">ID: 3225**Muskets of Precision (Krux)**Won these in a game at Infinity's. That celestial was not happy with me...<code>buff_upgrade,275,11653</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All Hands On Deck!</span>
-                        <span style="margin-left:15px">Krux (Slot 2)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Kas Slot 3](images/exclusivities/ge_24557.png)<span class="itemTooltipContents">ID: 3637**Eye of Vecna (Kas)**Sometimes I feel as if he can still see me through it...<code>buff_upgrade,100,15621,0</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Life Drain</span>
-                        <span style="margin-left:15px">Kas (Slot 3)</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>23 October 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>31 January 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>30 April 2025 (Guess)</span>
-            </span>
-        </span>
-    </span>
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
@@ -3151,6 +3061,130 @@ This is the list of recurring events that have had their exclusivity period end.
             </span>
             <span class="postSeasonTableDate">
                 <span>29 January 2025</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e9a" onclick="exclusiveToggleContent(`e9`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 9 Icon](images/general/e9.png)**Emergence 9** - Vampires
+            </span>
+        </span>
+        <span id="e9" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Strategic Stride Feat Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**Mine mighty legs could go farther, but there is wisdom in restraint.<code>cap_upgrade,25600,3452</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Strategic Stride</span>
+                        <span style="margin-left:15px">Briv (Cap Unnatural Haste at 9j)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Gem Feat Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<code>ellywick_gem_prioritized</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Gem</span>
+                        <span style="margin-left:15px">Ellywick (Always Draws at Least 1 Gems Card)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<code>add_hero_tags,0,undead<br>buff_upgrade,160,6905<br>appear_dead</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Make Undead</span>
+                        <span style="margin-left:15px">Widdle (Counts as Undead & 160% Vampiric Gaze)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400<br>appear_dead</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Make Undead</span>
+                        <span style="margin-left:15px">Nahara (Counts as Undead & 400% Self DPS)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1723**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<code>global_dps_multiplier_mult,50</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Prodigal Leader</span>
+                        <span style="margin-left:15px">Voronika (50% All Champion Damage)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Nosferatu Widdle Skin Icon](images/exclusivities/skin_24941.png)<span class="featTooltipContents">ID: 461**Nosferatu Widdle (Widdle)**<img src="images/exclusivities/skin_24949.gif" alt="Nosferatu Widdle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Nosferatu Widdle</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Vampire Nahara Skin Icon](images/exclusivities/skin_24943.png)<span class="featTooltipContents">ID: 462**Vampire Nahara (Nahara)**<img src="images/exclusivities/skin_24947.gif" alt="Vampire Nahara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Vampire Nahara</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Krux Slot 2](images/exclusivities/ge_19864.png)<span class="itemTooltipContents">ID: 3225**Muskets of Precision (Krux)**Won these in a game at Infinity's. That celestial was not happy with me...<code>buff_upgrade,275,11653</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">All Hands On Deck!</span>
+                        <span style="margin-left:15px">Krux (Slot 2)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Kas Slot 3](images/exclusivities/ge_24557.png)<span class="itemTooltipContents">ID: 3637**Eye of Vecna (Kas)**Sometimes I feel as if he can still see me through it...<code>buff_upgrade,100,15621,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Life Drain</span>
+                        <span style="margin-left:15px">Kas (Slot 3)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>23 October 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>31 January 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>30 April 2025</span>
             </span>
         </span>
     </span>
