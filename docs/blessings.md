@@ -20,7 +20,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Local</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">Increase the damage of all Champions who are of Standard Species by X%.</span>
+            <span style="margin-left: 8px;">Increases the damage of all Champions who are of Standard Species by X%.</span>
         </span>
     </span>
     <span class="blessingsTableRow">
@@ -28,7 +28,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Local</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">Increase the base health and healing received of all Champions by X%.</span>
+            <span style="margin-left: 8px;">Increases the base health and healing received of all Champions by X%.</span>
         </span>
     </span>
     <span class="blessingsTableRow">
@@ -36,7 +36,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Local</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">Increase the damage of all Champions by X% when you're on a patron variant in the Vecna campaign.</span>
+            <span style="margin-left: 8px;">Increases the damage of all Champions by X% when you're on a patron variant in the Vecna campaign.</span>
         </span>
     </span>
     <span class="blessingsTableRow">
@@ -44,7 +44,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Global</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">Increase the damage of all Champions by X% for each active Legendary potion on the current party, stacking multiplicatively.</span>
+            <span style="margin-left: 8px;">Increases the damage of all Champions by X% for each active Legendary potion on the current party, stacking multiplicatively.</span>
         </span>
     </span>
 </span>
