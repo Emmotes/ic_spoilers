@@ -223,7 +223,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/741.png">
-            <span class="weekendTooltipContents">ID: 741**Gold Commercial Chest**Loot for: Hank, Minsc, Celeste, Diana and Eric<code>"for_crusaders":[163,7,2,148,157]</code></span>
+            <span class="weekendTooltipContents">ID: 741**Gold Commercial Chest**Loot for: Eric, Minsc, Celeste, Diana and Hank<code>"for_crusaders":[157,7,2,148,163]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -240,12 +240,12 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Hank
+                        Golden Epic for Eric
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hank.png'">
-                        <span class="weekendTableChampionNameplate">Hank</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/eric.png'">
+                        <span class="weekendTableChampionNameplate">Eric</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
                         <span class="weekendTableChampionNameplate">Minsc</span>
@@ -256,8 +256,137 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
                         <span class="weekendTableChampionNameplate">Diana</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/eric.png'">
-                        <span class="weekendTableChampionNameplate">Eric</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hank.png'">
+                        <span class="weekendTableChampionNameplate">Hank</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+    </span>
+    <span class="weekendTableRow">
+        <span class="weekendTableIcon">
+            <img src="images/weekends/742.png">
+            <span class="weekendTooltipContents">ID: 742**Gold Distinguished Chest**Loot for: Asharra, Tyril, Artemis, Dark Urge and Merilwen<code>"for_crusaders":[6,10,54,146,101]</code></span>
+        </span>
+        <span class="weekendTableMain">
+            <span class="weekendTableTitleRow">
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    **Renown**
+                </span>
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    13 June 2025
+                </span>
+            </span>
+            <span class="weekendTableContentBlock">
+                <span class="weekendTableReward">
+                    <span class="weekendTableContents" style="padding-top:5px">
+                        Assumed Reward:
+                    </span>
+                    <span class="weekendTableContents">
+                        Golden Epic for Asharra
+                    </span>
+                </span>
+                <span class="weekendTableChampions">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
+                        <span class="weekendTableChampionNameplate">Asharra</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
+                        <span class="weekendTableChampionNameplate">Tyril</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/artemis.png'">
+                        <span class="weekendTableChampionNameplate">Artemis</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/darkurge.png'">
+                        <span class="weekendTableChampionNameplate">Dark Urge</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/merilwen.png'">
+                        <span class="weekendTableChampionNameplate">Merilwen</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+    </span>
+    <span class="weekendTableRow">
+        <span class="weekendTableIcon">
+            <img src="images/weekends/743.png">
+            <span class="weekendTooltipContents">ID: 743**Gold Cloaked Chest**Loot for: Nayeli, Makos, Karlach, Kalix and Selise<code>"for_crusaders":[3,9,143,158,81]</code></span>
+        </span>
+        <span class="weekendTableMain">
+            <span class="weekendTableTitleRow">
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    **Cloak & Dagger**
+                </span>
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    20 June 2025
+                </span>
+            </span>
+            <span class="weekendTableContentBlock">
+                <span class="weekendTableReward">
+                    <span class="weekendTableContents" style="padding-top:5px">
+                        Assumed Reward:
+                    </span>
+                    <span class="weekendTableContents">
+                        Golden Epic for Nayeli
+                    </span>
+                </span>
+                <span class="weekendTableChampions">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
+                        <span class="weekendTableChampionNameplate">Nayeli</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
+                        <span class="weekendTableChampionNameplate">Makos</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/karlach.png'">
+                        <span class="weekendTableChampionNameplate">Karlach</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kalix.png'">
+                        <span class="weekendTableChampionNameplate">Kalix</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/selise.png'">
+                        <span class="weekendTableChampionNameplate">Selise</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+    </span>
+    <span class="weekendTableRow">
+        <span class="weekendTableIcon">
+            <img src="images/weekends/744.png">
+            <span class="weekendTooltipContents">ID: 744**Gold Calamity Chest**Loot for: Calliope, Bruenor, Kas, Astarion and Antrius<code>"for_crusaders":[5,1,153,129,122]</code></span>
+        </span>
+        <span class="weekendTableMain">
+            <span class="weekendTableTitleRow">
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    **Calamity Company**
+                </span>
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    27 June 2025
+                </span>
+            </span>
+            <span class="weekendTableContentBlock">
+                <span class="weekendTableReward">
+                    <span class="weekendTableContents" style="padding-top:5px">
+                        Assumed Reward:
+                    </span>
+                    <span class="weekendTableContents">
+                        Golden Epic for Calliope
+                    </span>
+                </span>
+                <span class="weekendTableChampions">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
+                        <span class="weekendTableChampionNameplate">Calliope</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
+                        <span class="weekendTableChampionNameplate">Bruenor</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kas.png'">
+                        <span class="weekendTableChampionNameplate">Kas</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/astarion.png'">
+                        <span class="weekendTableChampionNameplate">Astarion</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/antrius.png'">
+                        <span class="weekendTableChampionNameplate">Antrius</span>
                     </span>
                 </span>
             </span>
