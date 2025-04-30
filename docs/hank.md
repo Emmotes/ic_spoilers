@@ -182,8 +182,9 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
             "hit_effects_only_on_direct_hit": true,
             "effects_on_monsters": [
                 {
-                    "effect_string": "push_back_monster,10",
+                    "effect_string": "push_back_monster,25",
                     "animation": "hit",
+                    "use_distance": true,
                     "after_damage": true
                 }
             ],
@@ -319,7 +320,7 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Time Gate Piece Scavenger** (Guess)
-> Hank can help scavenge up to 25 additional Time Gate Pieces when killing bosses. While this cap is not reached, Hank has a 100% chance of scavenging 1 Time Gate Piece each time a boss is defeated. The cap increases by 1/3 every day.
+> Hank can help scavenge up to 25 additional Time Gate Pieces when killing bosses. While this cap is not reached, Hank has a 1% chance of scavenging 1 Time Gate Piece each time a boss is defeated. The cap increases by 1/3 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -339,7 +340,7 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
     },
     "effect_keys": [
         {
-            "effect_string": "scavenge_items,100",
+            "effect_string": "scavenge_items,1",
             "off_when_benched": true,
             "id": "hank_time_gate_pieces_scavenger",
             "item_type": "time_gate_piece",
@@ -429,13 +430,19 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
             "effect_string": "hank_arrows_of_restraint",
             "targets": 5,
             "stun_time": 8,
-            "hit_effect": "stun,8,none,0,1509",
+            "stun_graphic": 1509,
             "projectile_details": {
                 "hash": "7d2285a51fcb458b32b02d796020b776",
-                "projectile_speed": 2000,
+                "projectile_speed": 3000,
                 "projectile_graphic_id": 26469,
                 "projectile_hit_graphic_id": 26470
             }
+        },
+        {
+            "effect_string": "push_back_monster,25",
+            "animation": "hit",
+            "use_distance": true,
+            "after_damage": true
         },
         {
             "effect_string": "set_ultimate_attack,861"
