@@ -473,6 +473,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
             "persana_stack_num": 30,
             "manual_stacking": true,
             "max_stacks": 100,
+            "stacks_lost_on_area_change": 25,
             "show_stacks": true
         },
         {
