@@ -240,12 +240,12 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Eric
+                        Golden Epic for Hank
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/eric.png'">
-                        <span class="weekendTableChampionNameplate">Eric</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hank.png'">
+                        <span class="weekendTableChampionNameplate">Hank</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
                         <span class="weekendTableChampionNameplate">Minsc</span>
@@ -256,8 +256,8 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
                         <span class="weekendTableChampionNameplate">Diana</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hank.png'">
-                        <span class="weekendTableChampionNameplate">Hank</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/eric.png'">
+                        <span class="weekendTableChampionNameplate">Eric</span>
                     </span>
                 </span>
             </span>
