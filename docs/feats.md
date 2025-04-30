@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Halsin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Verdant Vow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2135**Verdant Vow (Halsin)**I give my all to serve the Oak Father. No sacrifice is too great.<code>buff_upgrade,80,15962,0</code></span>Verdant Vow
-        </span>
-        <span class="featTableEffect">
-            <span>80% Archdruid of Emerald Grove (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>30 Apr 2025<br>30 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Unrelenting Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1967**Unrelenting Strife (Minthara)**If somebody causes me sorrow, I remove their ability to do so again.<code>minthara_increase_max_stacks,2</code></span>Unrelenting Strife
-        </span>
-        <span class="featTableEffect">
-            <span>+2 max Soul Branding stacks</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>30 Apr 2025<br>30 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Evandra</span>
         </span>
         <span class="featTableIcon4">

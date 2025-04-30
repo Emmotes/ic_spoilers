@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Pepper the Baby Black Dragon Portrait](images/familiars/pepperthebabyblackdragon.png)<span class="featTooltipContents">ID: 257**Pepper the Baby Black Dragon**She hunts the others in her clutch, watch her pounce!<img src="images/familiars/pepperthebabyblackdragon.gif" alt="Pepper the Baby Black Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Pepper the Baby Black Dragon
-        </span>
-        <span class="skinTableSource">
-            Pepper the Baby Black Dragon Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            30 Apr 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Clawfoot the Dinosaur Portrait](images/familiars/clawfootthedinosaur.png)<span class="featTooltipContents">ID: 261**Clawfoot the Dinosaur**Beware its deadly cuddles.<img src="images/familiars/clawfootthedinosaur.gif" alt="Clawfoot the Dinosaur Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
