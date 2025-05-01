@@ -215,7 +215,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 565**Cosmic Dragon Nova (Nova)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cosmic Dragon Nova Portrait](images/skin_portraits/cosmicdragonnova.png)<span class="featTooltipContents">ID: 565**Cosmic Dragon Nova (Nova)**</span></span>
         </span>
         <span class="skinTableName">
             Cosmic Dragon Nova

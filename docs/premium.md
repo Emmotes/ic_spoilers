@@ -1478,7 +1478,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 565**Cosmic Dragon Nova (Nova)**</span></span>
+            <span class="tooltipHolder">![Cosmic Dragon Nova Skin Portrait](images/premiums/skin_565.png)<span class="itemTooltipContents">ID: 565**Cosmic Dragon Nova (Nova)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
