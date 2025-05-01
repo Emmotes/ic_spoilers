@@ -17,6 +17,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Kalix](archive/kalix.md)
 * [Mehen](archive/mehen.md)
 * [New Champion Roles](archive/new_champion_roles.md)
+* [Notary System](archive/notary.md)
 * [Sheila](archive/sheila.md)
 * [Stoki](archive/stoki.md)
 * [Volothamp "Volo" Geddarm](archive/volo.md)
