@@ -1,8 +1,8 @@
 [Back to Main](index.md)
 
-# The Great Modron March (Guess) Augments
+# The Great Modron March Augments
 
-The assumed augments for the upcoming The Great Modron March event.
+The augments for the upcoming The Great Modron March event.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Free Rerolls Augment Icon](images/augments/26162.png) **Free Rerolls**
