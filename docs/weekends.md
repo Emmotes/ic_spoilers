@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/735.png">
-            <span class="weekendTooltipContents">ID: 735**Gold Misunderstood Chest**Loot for: Thellora, Tyril, Minsc, Briv and Volo<code>"for_crusaders":[139,10,7,58,159]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Misunderstood Heroes**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    02 May 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Thellora
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/thellora.png'">
-                        <span class="weekendTableChampionNameplate">Thellora</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/briv.png'">
-                        <span class="weekendTableChampionNameplate">Briv</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/volo.png'">
-                        <span class="weekendTableChampionNameplate">Volo</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/736.png">
             <span class="weekendTooltipContents">ID: 736**Gold Wave Chest**Loot for: Vlithryn, Asharra, Celeste, Nixie and BBEG<code>"for_crusaders":[162,6,2,123,125]</code></span>
         </span>
