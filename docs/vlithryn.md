@@ -43,7 +43,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">11</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -51,7 +51,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Triton (Guess)</span>
+            <span style="margin-left:8px;">Triton</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -59,7 +59,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Cleric (Guess)</span>
+            <span style="margin-left:8px;">Cleric</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -67,7 +67,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support / Healing / Control (Guess)</span>
+            <span style="margin-left:8px;">Support / Healing / Control</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -75,7 +75,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">50</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -83,7 +83,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Female (Guess)</span>
+            <span style="margin-left:8px;">Female</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -91,7 +91,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Lawful Good</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -99,7 +99,7 @@ Vlithryn will be a new champion in the The Great Modron March event on 7 May 202
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Awful Ones (Guess)</span>
+            <span style="margin-left:8px;">Awful Ones</span>
         </span>
     </span>
 </span>

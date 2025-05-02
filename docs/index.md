@@ -34,7 +34,7 @@ These are the event champions that are upcoming and all the information we know 
                 Vlithryn
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Triton Cleric of Awful Ones (Guess)</span>
+                <span class="indexChampionTableNoLink">Triton Cleric of Awful Ones</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">The Great Modron March - 7 May 2025</span>
@@ -240,7 +240,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Vlithryn
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Triton Cleric of Awful Ones (Guess)</span>
+                <span class="indexChampionTableNoLink">Triton Cleric of Awful Ones</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
