@@ -35,40 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Hew Maan</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Misdirection Icon](images/featicons/misdirection.png)<span class="featTooltipContents">ID: 2077**Misdirection (Hew Maan)**Zrang? Nope. Never heard of 'em. ~Zrang<code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span>Misdirection
-        </span>
-        <span class="featTableEffect">
-            <span>100% All Champion Damage & Enemies Will Attack Other Champions If Possible</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>05 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Kalix</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Psionic Talent Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2065**Psionic Talent (Kalix)**I see into your mind. I sense your weakness. I know your strength.<code>buff_upgrade,80,16516,0</code></span>Psionic Talent
-        </span>
-        <span class="featTableEffect">
-            <span>80% Thri-kreen Telepathy</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>05 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Ishi</span>
         </span>
         <span class="featTableIcon4">
