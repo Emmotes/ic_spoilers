@@ -184,7 +184,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Shadow Demon** (Guess)
-> Unlocks K'thriss' ultimate ability. When K'thriss uses his ultimate ability he summons a Shadow Demon that hovers behind him for 5 seconds. For its duration, the Shadow Demon has various effects based on how many coins K'thriss has gathered since the last time the Shadow Demon was summoned.
+> Unlocks K'thriss' ultimate ability. When K'thriss uses his ultimate ability he summons a Shadow Demon that hovers behind him for 30 seconds. For its duration, the Shadow Demon has various effects based on how many coins K'thriss has gathered since the last time the Shadow Demon was summoned.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -202,12 +202,20 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "kthriss_shadow_demon,100",
             "off_when_benched": true,
-            "duration": 5,
+            "duration": 30,
             "shadow_demon_graphic_id": 4780,
             "shadow_demon_offset": [
                 -60,
                 -2
             ]
+        },
+        {
+            "effect_string": "buff_upgrade,0,17324",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "monster_speed_reduce,90",
+            "apply_manually": true
         }
     ],
     "requirements": "",
