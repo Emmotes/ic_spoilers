@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Clawfoot the Dinosaur Portrait](images/familiars/clawfootthedinosaur.png)<span class="featTooltipContents">ID: 261**Clawfoot the Dinosaur**Beware its deadly cuddles.<img src="images/familiars/clawfootthedinosaur.gif" alt="Clawfoot the Dinosaur Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Clawfoot the Dinosaur
-        </span>
-        <span class="skinTableSource">
-            Clawfoot the Dinosaur Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            07 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Mango the Hippocampus Portrait](images/familiars/mangothehippocampus.png)<span class="featTooltipContents">ID: 258**Mango the Hippocampus**Time to look my gift horse in the mouth! ~Vlithryn<img src="images/familiars/mangothehippocampus.gif" alt="Mango the Hippocampus Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Mango the Hippocampus
-        </span>
-        <span class="skinTableSource">
-            Tempest Noble Vlithryn Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            07 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Chase the Spaniel Portrait](images/familiars/chasethespaniel.png)<span class="featTooltipContents">ID: 259**Chase the Spaniel**Your new best friend who will do anything for table scraps.<img src="images/familiars/chasethespaniel.gif" alt="Chase the Spaniel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
