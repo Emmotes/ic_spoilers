@@ -377,7 +377,7 @@ Unknown.
             ]
         },
         {
-            "effect_string": "hero_dps_multiplier_mult,0",
+            "effect_string": "hero_dps_multiplier_mult,100",
             "off_when_benched": true,
             "apply_manually": true,
             "amount_expr": "upgrade_amount(17315,0)",
@@ -391,7 +391,7 @@ Unknown.
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "show_incoming": false,
+        "show_incoming": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
@@ -583,7 +583,8 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 1
+        "default_bonus_index": 1,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
