@@ -498,6 +498,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Vlithryn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![External Screaming Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2169**External Screaming (Vlithryn)**You're literally dying! Of course I can spare the spell slot.<code>buff_upgrade,80,16898,0</code></span>External Screaming
+        </span>
+        <span class="featTableEffect">
+            <span>80% Revivify (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Rosie</span>
         </span>
         <span class="featTableIcon4">
