@@ -21,7 +21,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="vlithryn" style="background-image:url(images/portraits/vlithryn.png)">Vlithryn<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="vlithryn" style="background-image:url(images/portraits/vlithryn.png)">Vlithryn (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 </span>
 
 {:/nomarkdown}
@@ -81,6 +81,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="valentine" style="background-image:url(images/portraits/valentine.png)">Valentine (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% A Life of Leisure</li><li>400% All Champion Damage</li><li>2400% Socialite</li><li>6300% Tregrum</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="voronika" style="background-image:url(images/portraits/voronika.png)">Voronika (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Calculating Guidance</li><li>2400% Ultimate Power</li><li>6300% All Champion Damage</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="laezel" style="background-image:url(images/portraits/laezel.png)">Lae'zel (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Aberration Hunter</li><li>400% Lethal Coordination</li><li>2400% Ceremorphosis (Prestack)</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="baldric" style="background-image:url(images/general/unknown.png)">Baldric<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 </span>
 
 {:/nomarkdown}
