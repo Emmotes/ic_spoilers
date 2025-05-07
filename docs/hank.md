@@ -666,11 +666,8 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
     },
     "effect_keys": [
         {
-            "effect_string": "buff_base_crit_chance_add,1",
+            "effect_string": "global_buff_base_crit_chance_add,1",
             "off_when_benched": true,
-            "targets": [
-                "all"
-            ],
             "stacks_on_trigger": "monster_pushed_back",
             "stacks_multiply": false,
             "max_stacks": 50,
@@ -684,14 +681,14 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
             ],
             "stack_title": "Tactics Stacks",
             "total_title": "Critical Hit Chance Bonus",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
             "show_bonus": true
         },
         {
-            "effect_string": "buff_base_crit_damage_add,10",
+            "effect_string": "global_buff_base_crit_damage_add,10",
             "off_when_benched": true,
-            "targets": [
-                "all"
-            ],
             "stacks_on_trigger": "monster_pushed_back",
             "stacks_multiply": false,
             "max_stacks": 50,
@@ -705,6 +702,9 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
             ],
             "total_title": "Critical Hit Damage Bonus",
             "stack_title": "Tactics Stacks",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -716,7 +716,7 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
