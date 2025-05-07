@@ -110,7 +110,7 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Hand Crossbow** (Ranged)
 > Tess attacks the closest enemy for 1 hit.  
-> Cooldown: 3.5s (Cap 0.875s)
+> Cooldown: 4s (Cap 1s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -124,7 +124,7 @@ Unknown.
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 3.5,
+    "cooldown": 4,
     "animations": [
         {
             "type": "ranged_attack",
@@ -153,11 +153,212 @@ Unknown.
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Snack Attack** (Melee)
+> Unknown effect.  
+> Cooldown: 0s (Cap 0s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 871,
+    "name": "Snack Attack",
+    "description": "",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 0,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 3
+        }
+    ],
+    "tags": [
+        "melee",
+        "ignore_cooldown_override"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Disarm Trap** (Melee)
+> Tess dons her cat mask and moves up to the closest trap and disarms it.  
+> Cooldown: 4s (Cap 1s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 873,
+    "name": "Disarm Trap",
+    "description": "Tess dons her cat mask and moves up to the closest trap and disarms it.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0,
+    "cooldown": 4,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "no_damage_display": true
+        }
+    ],
+    "tags": [],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Sleeping Toxin** (Ranged)
+> Tess attacks the closest enemy for 1 hit with a chance to stun.  
+> Cooldown: 4s (Cap 1s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 874,
+    "name": "Sleeping Toxin",
+    "description": "Tess attacks the closest enemy for 1 hit with a chance to stun.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_offset_y": -60,
+            "shoot_frame": 8,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "67f52f8a67393eadfdc8ef2193442a04",
+                "target_offset_y": 0,
+                "projectile_speed": 1850,
+                "projectile_graphic_id": 26775
+            },
+            "stun_on_hit": 5,
+            "stun_chance": 20
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Call Uggie**
+> Tess calls Uggie to her side.  
+> Cooldown: 0s (Cap 0s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 872,
+    "name": "Call Uggie",
+    "description": "Tess calls Uggie to her side.",
+    "long_description": "Tess calls Uggie to her side.",
+    "graphic_id": 26837,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0,
+    "cooldown": 0,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "no_damage_display": true
+        }
+    ],
+    "tags": [
+        "ultimate",
+        "ignore_cooldown_override"
+    ],
+    "damage_types": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Deadly Dance**
+> Tess throws her dagger at the enemy with the most health for 1 ultimate hit, then teleports and deals another ultimate hit to all nearby foes.  
+> Cooldown: 360s (Cap 90s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 875,
+    "name": "Deadly Dance",
+    "description": "Tess attacks the enemy with the most health, then teleports and attacks all nearby foes.",
+    "long_description": "Tess throws her dagger at the enemy with the most health for 1 ultimate hit, then teleports and deals another ultimate hit to all nearby foes. ",
+    "graphic_id": 26838,
+    "target": "highest_health",
+    "num_targets": 1,
+    "aoe_radius": 250,
+    "damage_modifier": 0.03,
+    "cooldown": 360,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "tess",
+            "aoe_radius": 150,
+            "projectile_details": {
+                "hash": "cfefe0019c9bad171d8e039c8b7e80aa",
+                "target_offset_y": -10,
+                "shoot_offset_y": -150,
+                "projectile_speed": 1500,
+                "projectile_graphic_id": 26776,
+                "rotation_speed": 540,
+                "percent_height_offset": 2
+            },
+            "damage_frame": 8
+        }
+    ],
+    "tags": [
+        "ultimate"
+    ],
+    "damage_types": ""
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Uggie joins the party, starting next to Tess unless they're already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by $amount%.
+> Uggie joins the party, starting next to Tess unless they're already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -165,19 +366,21 @@ Unknown.
     "id": 2346,
     "flavour_text": "",
     "description": {
-        "desc": "Uggie joins the party, starting next to Tess unless they're already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by $amount%."
+        "desc": "Uggie joins the party, starting next to Tess unless they're already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by $(amount)%."
     },
     "effect_keys": [
         {
-            "effect_string": "uggie_handler",
+            "effect_string": "uggie_handler,100",
+            "off_when_benched": true,
             "uggie_effects": [
                 1
             ]
         },
         {
-            "effect_string": "hero_dps_multiplier_mult,100",
+            "effect_string": "hero_dps_multiplier_mult,0",
             "off_when_benched": true,
             "apply_manually": true,
+            "amount_expr": "upgrade_amount(17315,0)",
             "targets": [
                 "non_adj"
             ]
@@ -187,7 +390,12 @@ Unknown.
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "show_incoming": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -212,7 +420,7 @@ Unknown.
             "effect_string": "hero_dps_multiplier_mult,100",
             "off_when_benched": true,
             "targets": [
-                "prev_col"
+                "behind"
             ]
         }
     ],
@@ -246,14 +454,18 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,400,17315"
+            "effect_string": "unleash_uggie_contribution,400",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
     "graphic_id": 26827,
     "large_graphic_id": 26820,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -275,14 +487,19 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "tess_snack_attack_handler,5"
+            "effect_string": "tess_snack_attack_handler,5",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
     "graphic_id": 26825,
     "large_graphic_id": 26816,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "show_incoming": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -305,6 +522,7 @@ Unknown.
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,100,17316",
+            "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_unique_role",
             "amount_updated_listeners": [
@@ -345,14 +563,59 @@ Unknown.
     "effect_keys": [
         {
             "effect_string": "tess_trap_expert_handler",
+            "off_when_benched": true,
             "chance": 5
+        },
+        {
+            "effect_string": "buff_upgrade,10,17316",
+            "off_when_benched": true,
+            "stacks_multiply": false,
+            "stacks_on_trigger": "will_manually_stack",
+            "stack_title": "Traps Disarmed",
+            "show_bonus": true
         }
     ],
     "requirements": "",
     "graphic_id": 26826,
     "large_graphic_id": 26817,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Deadly Dance** (Guess)
+> Tess throws one of her teleportation daggers at the enemy with the most health, dealing 1 ultimate hit. She then teleports behind that enemy, and stabs a bunch of times, dealing 1 ultimate hit to all targets within melee range, including the original target. She then returns to her place in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2362,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tess throws one of her teleportation daggers at the enemy with the most health, dealing 1 ultimate hit. She then teleports behind that enemy, and stabs a bunch of times, dealing 1 ultimate hit to all targets within melee range, including the original target. She then returns to her place in the formation."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "set_ultimate_attack,875"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 26838,
+    "large_graphic_id": 26838,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "show_outgoing_desc_when_benched": false
     }
 }
 </pre>
@@ -611,20 +874,30 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: Let Sleeping Dragons Lie (???)** (Complete Area 50)
-> Attempt to calm down a very angry bronze dragon.
+**Unlock Adventure: Party Crashers (Tess)** (Complete Area 50)
+> Save Waterdeep from the chaos of a Founders' Day gone awry.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: TBD** (Complete Area 75)
+![The Deck of Many Intellect Devourers Icon](images/tess/26806.png) **Variant 1: The Deck of Many Intellect Devourers** (Complete Area 75)
+> Tess starts in the formation. She can't be moved or removed.  
+> Only Tess and Champions buffed by both her and Uggie can deal damage.  
+> 1-2 Intellect Devourers (MonIDs: 567-569) spawn with each wave. They don't drop gold nor count towards quest progress.  
+> Getting to Know Tess and Uggie: Tess increases the damage of Champions in the columns behind her, while Uggie increases the damage of Champions not next to Uggie. Place your damage dealers to take advantage of both buffs!  
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: TBD** (Complete Area 125)
-> 
+![Tess's Treasure Seekers Icon](images/tess/26807.png) **Variant 2: Tess's Treasure Seekers** (Complete Area 125)
+> Tess starts in the formation. She can be moved but not removed.  
+> After area 10, Gold Find is reduced by 50% for each Champion role NOT present in the formation, stacking multiplicatively. At area 400, this increases to 99% for each missing role.  
+> Getting to Know Tess: Tess has a plan for every contingency, and she prefers to work with a well-rounded team that features different roles, such as Support, Healing, and Gold Find. Build a formation with the most diverse roles for the best results!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: TBD** (Complete Area 175)
-> 
+![The Leader They Deserve Icon](images/tess/26808.png) **Variant 3: The Leader They Deserve** (Complete Area 175)
+> Tess starts in the formation. She can be moved, but not removed.  
+> You may only use Champions that are Rogues, have ranged attacks, are Unaffiliated, or belong to The Fallbacks affiliation.  
+> The Zhentarim and Purple Wormlings are fighting each other! One of each spawn with each wave, their speed is increased by 200%, and they don't drop gold nor count towards quest progress.  
+> Whenever you kill Zhentarim or Purple Wormlings, that side gets weaker while the other side gets stronger.  
+> Getting to know Tess: Build a formation that makes the best use of your specialization choice for Tess!
 </div></div>
 
 # Other Champion Images
