@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2167**Feat**???: 2167</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Making Waves Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2167**Making Waves**A tidal wave? It's a bit much.<code>buff_upgrade,80,16897,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2167</span>
+            <span style="margin-left:15px">Making Waves</span>
+            <span style="margin-left:15px">Vlithryn (80% Pantheon of Blessings (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1658,7 +1659,7 @@ Contents:
 ### Wind Duke Asharra Skin & Feat Pack - 1,680 Platinum  
 Date of release: 25 Jun 2025
 
-> Unlock Asharra along with her exclusive Wind Duke Skin & Feat!
+> Collect an exclusive Wind Duke Skin & Feat for Asharra!
 
 Contents:
 
@@ -1826,7 +1827,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 661****Loot for: Tess<code>"for_crusaders":[164]</code></span></span>
+            <span class="tooltipHolder">![ Chest Portrait](images/premiums/chests_661.png)<span class="itemTooltipContents">ID: 661****Loot for: Tess<code>"for_crusaders":[164]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
@@ -2731,6 +2732,117 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Eric Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 603</div>
+### Ascended Best Friends Forever Pack - 3,360 Platinum  
+Date of release: 06 Aug 2025
+
+> Unlock Omin and Jim along with their exclusive Ascended Skins & Feats!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Jim Champion Unlock Portrait](images/premiums/unlock_champion_48.png)<span class="itemTooltipContents">ID: 48**Jim (Seat 7)**<img src="images/premiums/unlock_champion_48.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Jim</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Omin Champion Unlock Portrait](images/premiums/unlock_champion_65.png)<span class="itemTooltipContents">ID: 65**Omin (Seat 3)**<img src="images/premiums/unlock_champion_65.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Omin</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 581**???**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**???**</span>
+            <span style="margin-left:15px">skin</span>
+            <span style="margin-left:15px">ID: 581</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 584**???**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**???**</span>
+            <span style="margin-left:15px">skin</span>
+            <span style="margin-left:15px">ID: 584</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2009**TBD Jim Feat (Do not translate)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD Jim Feat (Do not translate)</span>
+            <span style="margin-left:15px">Jim ()</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![To the Moon Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2226**To the Moon**Finally! I knew diversifying my investments would eventually pay off.<code>buff_upgrade,80,12303</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">To the Moon</span>
+            <span style="margin-left:15px">Omin (80% Well Funded)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Jim Chest Chest Portrait](images/premiums/chests_106.png)<span class="itemTooltipContents">ID: 106**Platinum Jim Chest**Loot for: Jim<code>"for_crusaders":[48]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Jim Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Omin Chest Chest Portrait](images/premiums/chests_189.png)<span class="itemTooltipContents">ID: 189**Platinum Omin Chest**Loot for: Omin<code>"for_crusaders":[65]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Omin Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>

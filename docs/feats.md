@@ -81,6 +81,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Vlithryn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Making Waves Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2167**Making Waves (Vlithryn)**A tidal wave? It's a bit much.<code>buff_upgrade,80,16897,0</code></span>Making Waves
+        </span>
+        <span class="featTableEffect">
+            <span>80% Pantheon of Blessings (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>07 May 2025<br>07 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Evelyn</span>
         </span>
         <span class="featTableIcon4">
@@ -396,10 +413,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>80% Well Funded</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
+            <span>3,360 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>30 Jul 2025<br>30 Oct 2025</span>
+            <span>06 Aug 2025<br>06 Nov 2025</span>
         </span>
     </span>
 </span>

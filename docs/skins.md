@@ -487,10 +487,10 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Red Dragon Rider Lae'zel Portrait](images/skin_portraits/reddragonriderlaezel.png)<span class="featTooltipContents">ID: 503**Red Dragon Rider Lae'zel (Lae'zel)**<img src="images/skin_models/reddragonriderlaezel.gif" alt="Red Dragon Rider Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Chosen of Vlaakith Lae'zel Portrait](images/skin_portraits/chosenofvlaakithlaezel.png)<span class="featTooltipContents">ID: 503**Chosen of Vlaakith Lae'zel (Lae'zel)**<img src="images/skin_models/chosenofvlaakithlaezel.gif" alt="Chosen of Vlaakith Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Red Dragon Rider Lae'zel
+            Chosen of Vlaakith Lae'zel
         </span>
         <span class="skinTableSource">
             ???
@@ -499,7 +499,7 @@ Please be aware that the developers recently removed most future skins from the 
             ???
         </span>
         <span class="skinTableDate">
-            01 Jan 2032
+            13 Aug 2025
         </span>
     </span>
 </span>
