@@ -23,31 +23,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="vlithryn.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Vlithryn Portrait Icon](images/vlithryn/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Vlithryn
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Triton Cleric of Awful Ones</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">The Great Modron March - 7 May 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="hank.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -175,7 +150,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Harengon Barbarian / Druid</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">The Great Modron March - 14 May 2025 (Worst the Wait Augment (Guess))</span>
+                <span class="indexChampionTableNoLink">The Great Modron March - 14 May 2025 (Worst the Wait Augment)</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -200,7 +175,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Half-Orc Fighter</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dragondown - 11 June 2025 (Worst the Wait Augment (Guess))</span>
+                <span class="indexChampionTableNoLink">Dragondown - 11 June 2025 (Worst the Wait Augment)</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -252,31 +227,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 ## The Great Modron March - 7 May 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
-<a href="vlithryn.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Vlithryn Portrait Icon](images/vlithryn/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Vlithryn
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Triton Cleric of Awful Ones</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="yorven.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -291,7 +241,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 <span class="indexChampionTableNoLink">Harengon Barbarian / Druid</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment (Guess)</span>
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
@@ -380,7 +330,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 <span class="indexChampionTableNoLink">Half-Orc Fighter</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment (Guess)</span>
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
