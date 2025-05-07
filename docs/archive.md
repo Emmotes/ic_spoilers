@@ -20,6 +20,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Notary System](archive/notary.md)
 * [Sheila](archive/sheila.md)
 * [Stoki](archive/stoki.md)
+* [Vlithryn](archive/vlithryn.md)
 * [Volothamp "Volo" Geddarm](archive/volo.md)
 
 [Back to Top](#top)
