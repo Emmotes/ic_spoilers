@@ -13,7 +13,7 @@ Baldric, a cleric who refuses to tie himself to a single deity when he can trade
 
 # Basic Information
 
-Baldric will be a new champion in the Ahghairon's Day event on 13 August 2025 (guesstimated a week after event start potentially due to the Worst the Wait event augment).
+Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">

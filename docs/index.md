@@ -88,7 +88,7 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink"> Cleric of The Fallbacks (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Ahghairon's Day - 13 August 2025 (Worst the Wait Augment (Guess))</span>
+                <span class="indexChampionTableNoLink">Ahghairon's Day - 6 August 2025</span>
             </span>
         </span>
     </span>
@@ -421,9 +421,6 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink"> Cleric of The Fallbacks (Guess)</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
