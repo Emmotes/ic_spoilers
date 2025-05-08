@@ -6,26 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# The Great Modron March - May
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="evelyn" style="background-image:url(images/portraits/evelyn.png)">Evelyn (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Divine Prayer</li><li>400% Channel Divinity</li><li>2400% Steadfast Might</li><li>6300% Conduit of the Light</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="qillek" style="background-image:url(images/portraits/qillek.png)">Qillek (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Prayer of Healing</li><li>400% Slow Sanctions</li><li>2400% Bless</li><li>6300% Aerois Synergy</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="melf" style="background-image:url(images/portraits/melf.png)">Melf (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>100% Melf's Speedy Supplement</li><li>2400% Melf's Adaptive Support Spell</li><li>6300% Melf's Righteous Determination</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="krydle" style="background-image:url(images/portraits/krydle.png)">Krydle (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% From The Shadows</li><li>2400% All Champion Damage</li><li>6300% Charismatic Leader</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="jaheira" style="background-image:url(images/portraits/jaheira.png)">Jaheira (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>400% All Champion Damage</li><li>2400% All First Specialisations</li><li>6300% Persistent Focus</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="mehen" style="background-image:url(images/portraits/mehen.png)">Mehen (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Gruff</li><li>2400% Expose Weakness</li><li>6300% Grumpy</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="nordom" style="background-image:url(images/portraits/nordom.png)">Nordom (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Modron Core Toolbox</li><li>400% Form Orderly Ranks</li><li>2400% All Champion Damage</li><li>6300% Rule of Law</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Blazing Charisma</li><li>2400% All Specialisations</li><li>6300% Gigantic Growth</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Freedom's Fury</li><li>400% Find the Secret Stash</li><li>2400% All Champion Damage</li><li>40% All Specialisations</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% All Champion Damage</li><li>2400% All First Specialisations</li><li>100% All Second Specialisations (Prestack)</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="vlithryn" style="background-image:url(images/portraits/vlithryn.png)">Vlithryn (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Cleric Clinic</li><li>2400% Justice of the Depths</li><li>100% Pantheon of Blessings (Prestack)</li></ol></span></span>
-</span>
-
-{:/nomarkdown}
-
 # Dragondown - June
 
 {::nomarkdown}
@@ -239,6 +219,26 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="miria" style="background-image:url(images/portraits/miria.png)">Miria (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Mage of High Sorcery</li><li>2400% Soul Cage</li><li>100% All Specialisations (Prestack)</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="darkurge" style="background-image:url(images/portraits/darkurge.png)">Dark Urge (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>400% The Urge</li><li>50% All Second Specialisations</li><li>100% Ceremorphosis (Prestack)</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="grimm" style="background-image:url(images/portraits/grimm.png)">Grimm (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>33% Get Buff (Prestack)</li><li>2400% All Specialisations</li><li>6300% Self DPS</li></ol></span></span>
+</span>
+
+{:/nomarkdown}
+
+# The Great Modron March - May
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="evelyn" style="background-image:url(images/portraits/evelyn.png)">Evelyn (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Divine Prayer</li><li>400% Channel Divinity</li><li>2400% Steadfast Might</li><li>6300% Conduit of the Light</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="qillek" style="background-image:url(images/portraits/qillek.png)">Qillek (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Prayer of Healing</li><li>400% Slow Sanctions</li><li>2400% Bless</li><li>6300% Aerois Synergy</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="melf" style="background-image:url(images/portraits/melf.png)">Melf (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>100% Melf's Speedy Supplement</li><li>2400% Melf's Adaptive Support Spell</li><li>6300% Melf's Righteous Determination</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="krydle" style="background-image:url(images/portraits/krydle.png)">Krydle (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% From The Shadows</li><li>2400% All Champion Damage</li><li>6300% Charismatic Leader</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="jaheira" style="background-image:url(images/portraits/jaheira.png)">Jaheira (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Self DPS</li><li>400% All Champion Damage</li><li>2400% All First Specialisations</li><li>6300% Persistent Focus</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="mehen" style="background-image:url(images/portraits/mehen.png)">Mehen (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Gruff</li><li>2400% Expose Weakness</li><li>6300% Grumpy</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="nordom" style="background-image:url(images/portraits/nordom.png)">Nordom (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Modron Core Toolbox</li><li>400% Form Orderly Ranks</li><li>2400% All Champion Damage</li><li>6300% Rule of Law</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Blazing Charisma</li><li>2400% All Specialisations</li><li>6300% Gigantic Growth</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Freedom's Fury</li><li>400% Find the Secret Stash</li><li>2400% All Champion Damage</li><li>40% All Specialisations</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% All Champion Damage</li><li>2400% All First Specialisations</li><li>100% All Second Specialisations (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="vlithryn" style="background-image:url(images/portraits/vlithryn.png)">Vlithryn (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Cleric Clinic</li><li>2400% Justice of the Depths</li><li>100% Pantheon of Blessings (Prestack)</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
