@@ -449,7 +449,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 559**Dracolich Duke Ravengard (Ravengard)**</span></span>
+            <span class="tooltipHolder">![Dracolich Duke Ravengard Skin Portrait](images/premiums/skin_559.png)<span class="itemTooltipContents">ID: 559**Dracolich Duke Ravengard (Ravengard)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
