@@ -117,7 +117,7 @@ The upcoming Evergreen champion we're aware of.
                 <span class="indexChampionTableNoLink">Tiefling Bard (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Vecna 8 - 28 May 2025 (Guess)</span>
+                <span class="indexChampionTableNoLink">Vecna 8 - 28 May 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -257,7 +257,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 </span>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Vecna 8 Content Drop - 28 May 2025 (Guess)
+## Vecna 8 Content Drop - 28 May 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
 <a href="windfall.html">
@@ -268,7 +268,7 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Windfall (Guess)
+                Windfall
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Tiefling Bard (Guess)</span>

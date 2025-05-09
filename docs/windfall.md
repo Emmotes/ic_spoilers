@@ -28,7 +28,7 @@ A performer at heart, Windfall is ostentatious and charismatic, making small tal
 
 # Basic Information
 
-Windfall will be an upcoming Evergreen champion guesstimated to release on 28 May 2025 with the [Vecna 8 content drop](contentdrops.md#vecna-8---28-may-2025).
+Windfall will be an upcoming Evergreen champion set to release on 28 May 2025 with the [Vecna 8 content drop](contentdrops.md#vecna-8---28-may-2025).
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
