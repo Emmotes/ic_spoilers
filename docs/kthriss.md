@@ -277,8 +277,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+# Specialisations
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Velvet Touch** (Guess)
+**Specialisation: Velvet Touch** (Guess)
 > The effect of Unseen Encouragement is increased by 400% for each slot away from K'thriss an affected Champion is, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -314,7 +316,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ligottis Minions** (Guess)
+**Specialisation: Ligottis Minions** (Guess)
 > The effect of Unseen Encouragement and the gold find bonus of Hoardsperson are increased by 100% for each C-Team, Acquisitions Incorporated, or Wafflecrew Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -366,8 +368,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 </div></div>
-
-# Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: The Unknowable Ur** (Guess)
