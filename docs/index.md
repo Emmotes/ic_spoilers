@@ -201,7 +201,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Elf (Drow) Warlock of Acq Inc "C" Team</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Founders' Day - 09 July 2025 (Worst the Wait Augment (Guess))</span>
+                <span class="indexChampionTableNoLink">Founders' Day - 09 July 2025 (Worst the Wait Augment)</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -390,7 +390,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 <span class="indexChampionTableNoLink">Elf (Drow) Warlock of Acq Inc "C" Team</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment (Guess)</span>
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
