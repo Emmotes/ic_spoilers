@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/736.png">
-            <span class="weekendTooltipContents">ID: 736**Gold Wave Chest**Loot for: Vlithryn, Asharra, Celeste, Nixie and BBEG<code>"for_crusaders":[162,6,2,123,125]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Ocean Waves**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    09 May 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Vlithryn
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/vlithryn.png'">
-                        <span class="weekendTableChampionNameplate">Vlithryn</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nixie.png'">
-                        <span class="weekendTableChampionNameplate">Nixie</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bbeg.png'">
-                        <span class="weekendTableChampionNameplate">BBEG</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/737.png">
             <span class="weekendTooltipContents">ID: 737**Gold Feywild Ball Chest**Loot for: Yorven, Arkhan, Bruenor, Lae'zel and Hew Maan<code>"for_crusaders":[92,12,1,128,75]</code></span>
         </span>
