@@ -377,10 +377,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
-# Specialisations
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Down the Rabbit Hole** (Guess)
+**Down the Rabbit Hole** (Guess)
 > Yorven increases the effect of Rag Tag Team by 20% for each adventure, variant, and Patron variant you have completed in the Wild Beyond the Witchlight campaign, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -423,6 +421,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 </div></div>
+
+# Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Hunger for Blood** (Guess)
