@@ -35,40 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Ishi</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2089**Multiversal Allies (Ishi)**Ishi has friends in MANY places. Want to meet them?<code>effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span>20% All Champion Damage per Unique Species in Formation (Additive)</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>12 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Presto</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Presto's Aplomb Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2078**Presto's Aplomb (Presto)**Growing up sure is scary, but I'll be brave.<code>buff_upgrades,80,13765,13766,13767</code></span>Presto's Aplomb
-        </span>
-        <span class="featTableEffect">
-            <span>80% All Specialisations</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>12 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Birdsong</span>
         </span>
         <span class="featTableIcon4">
@@ -527,65 +493,10 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![Elegant Spring Giveaway Spring Celebration 2025 Icon](images/general/elegant spring.png)**Elegant Spring Giveaway** - Spring Celebration 2025
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Taunt Feat Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Taunt</span>
-                        <span style="margin-left:15px">Minthara (100% All Champion Damage & 50% Taunt)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Myrkul's Chosen Minthara Skin Icon](images/exclusivities/skin_25912.png)<span class="featTooltipContents">ID: 524**Myrkul's Chosen Minthara (Minthara)**<img src="images/exclusivities/skin_25923.gif" alt="Myrkul's Chosen Minthara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Myrkul's Chosen Minthara</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>05 February 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>12 February 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>12 May 2025 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
                 ![EGS Giveaway Astarion's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Astarion's Champions of Renown Pack
             </span>
         </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -633,13 +544,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Feast of the Giants Giveaway Feast of the Giants Icon](images/general/feast of the giants.png)**Feast of the Giants Giveaway** - Feast of the Giants
             </span>
         </span>
-        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
