@@ -960,6 +960,23 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Minthara</span>
         </span>
         <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span>100% All Champion Damage & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
             ![Vengeful Assurance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1970**Vengeful Assurance (Minthara)**They will fall. It is simply a matter of patience.<code>buff_upgrade,100,15945,2</code></span>Vengeful Assurance
         </span>
         <span class="featTableEffect">
