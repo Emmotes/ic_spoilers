@@ -14,7 +14,15 @@
             ![Model GIF of Tess](images/tess/model.gif)
         </span>
         <span>
-        Model
+        Base Model
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Alternate Model GIF of Tess: Uggie](images/tess/model-Uggie.gif)
+        </span>
+        <span>
+        Uggie Model
         </span>
     </span>
 </span>
