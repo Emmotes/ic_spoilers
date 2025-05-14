@@ -192,7 +192,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2357,
     "flavour_text": "",
     "description": {
-        "desc": "Unlocks K'thriss' ultimate ability. When K'thriss uses his ultimate ability he summons a Shadow Demon that hovers behind him for $duration___2 seconds. For its duration, the Shadow Demon has various effects based on how many coins K'thriss has gathered since the last time the Shadow Demon was summoned."
+        "desc": "Unlocks K'thriss' ultimate ability. When K'thriss uses his ultimate ability he summons a Shadow Demon that hovers behind him for $duration___2 seconds. For its duration, the Shadow Demon has various effects based on how many coins K'thriss has gathered since the last time the Shadow Demon was summoned.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^$kthriss_shadow_demon_desc"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -207,14 +215,46 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "shadow_demon_offset": [
                 -60,
                 -2
-            ]
+            ],
+            "monster_slow_amount": 50,
+            "base_bud_damage_amount": 3,
+            "effects": [
+                {
+                    "coin_threshold": 10,
+                    "base_effect_mult": 5,
+                    "desc_text_key": "kthriss_shadow_demon_desc_2"
+                },
+                {
+                    "coin_threshold": 50,
+                    "add_monster_slow": true,
+                    "desc_text_key": "kthriss_shadow_demon_desc_3"
+                },
+                {
+                    "coin_threshold": 100,
+                    "add_bud_damage": true,
+                    "desc_text_key": "kthriss_shadow_demon_desc_4"
+                },
+                {
+                    "coin_threshold": 250,
+                    "base_effect_mult": 3,
+                    "bud_damage_mult": 3,
+                    "desc_text_key": "kthriss_shadow_demon_desc_5"
+                },
+                {
+                    "coin_threshold": 1000,
+                    "base_effect_mult": 5,
+                    "bud_damage_mult": 5,
+                    "desc_text_key": "kthriss_shadow_demon_desc_6"
+                }
+            ],
+            "overlay_y": -13
         },
         {
             "effect_string": "buff_upgrade,0,17324",
             "apply_manually": true
         },
         {
-            "effect_string": "monster_speed_reduce,90",
+            "effect_string": "monster_speed_reduce,0",
             "apply_manually": true
         }
     ],
@@ -360,7 +400,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
         "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
     }
 }
