@@ -64,6 +64,40 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span>100% All Champion Damage & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>14 May 2025<br>14 May 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Yorven</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Motley Crew Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2019**Motley Crew (Yorven)**With friends like these, I'll never be lost again.<code>buff_upgrade,80,17063</code></span>Motley Crew
+        </span>
+        <span class="featTableEffect">
+            <span>80% Rag Tag Team (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>14 May 2025<br>14 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Wyll</span>
         </span>
         <span class="featTableIcon4">
@@ -166,23 +200,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Asharra</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Teacher of Kir Sabal Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2010**Teacher of Kir Sabal (Asharra)**My ancestors watch over us. We must stand together now, for the fate of all.<code>buff_upgrade,80,2189,1<br>buff_upgrade,80,2189,2<br>add_hero_tags,0,druid</code></span>Teacher of Kir Sabal
-        </span>
-        <span class="featTableEffect">
-            <span>80% Paragon of Kir Sabal & Counts as Druid</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>25 Jun 2025<br>25 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Kas</span>
         </span>
         <span class="featTableIcon4">
@@ -268,23 +285,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Vin Ursa</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Orbital Ooze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2224**Orbital Ooze (Vin Ursa)**I'm a simple plasmoid making my way through wildspace.<code>buff_upgrades,80,12092,12093,12094</code></span>Orbital Ooze
-        </span>
-        <span class="featTableEffect">
-            <span>80% All Second Specialisations</span>
-        </span>
-        <span class="featTableSource">
-            <span>3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>16 Jul 2025<br>16 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Kas</span>
         </span>
         <span class="featTableIcon4">
@@ -332,23 +332,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span>30 Jul 2025<br>30 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Omin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![To the Moon Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2226**To the Moon (Omin)**Finally! I knew diversifying my investments would eventually pay off.<code>buff_upgrade,80,12303</code></span>To the Moon
-        </span>
-        <span class="featTableEffect">
-            <span>80% Well Funded</span>
-        </span>
-        <span class="featTableSource">
-            <span>3,360 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>06 Aug 2025<br>06 Nov 2025</span>
         </span>
     </span>
 </span>
@@ -556,6 +539,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Asharra</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Teacher of Kir Sabal Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2010**Teacher of Kir Sabal (Asharra)**My ancestors watch over us. We must stand together now, for the fate of all.<code>buff_upgrade,80,2189,1<br>buff_upgrade,80,2189,2<br>add_hero_tags,0,druid</code></span>Teacher of Kir Sabal
+        </span>
+        <span class="featTableEffect">
+            <span>80% Paragon of Kir Sabal & Counts as Druid</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -960,23 +960,6 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Minthara</span>
         </span>
         <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
-        </span>
-        <span class="featTableEffect">
-            <span>100% All Champion Damage & 50% Taunt</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Minthara</span>
-        </span>
-        <span class="featTableIcon4">
             ![Vengeful Assurance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1970**Vengeful Assurance (Minthara)**They will fall. It is simply a matter of patience.<code>buff_upgrade,100,15945,2</code></span>Vengeful Assurance
         </span>
         <span class="featTableEffect">
@@ -1015,6 +998,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>80% Oath of Vengeance</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Omin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![To the Moon Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2226**To the Moon (Omin)**Finally! I knew diversifying my investments would eventually pay off.<code>buff_upgrade,80,12303</code></span>To the Moon
+        </span>
+        <span class="featTableEffect">
+            <span>80% Well Funded</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -1265,6 +1265,23 @@ These are the feats that have been filtered out of the list above due to having 
         <span class="featTableChampion">
             <span>Vin Ursa</span>
         </span>
+        <span class="featTableIcon4">
+            ![Orbital Ooze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2224**Orbital Ooze (Vin Ursa)**I'm a simple plasmoid making my way through wildspace.<code>buff_upgrades,80,12092,12093,12094</code></span>Orbital Ooze
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Second Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Vin Ursa</span>
+        </span>
         <span class="featTableIcon3">
             ![This is the Way Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1404**This is the Way (Vin Ursa)**We can do this one of two ways...<code>buff_upgrades,40,12090,12091</code></span>This is the Way
         </span>
@@ -1304,6 +1321,40 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Yorven</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Bloodmiser Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2022**Bloodmiser (Yorven)**Not enough. It's never enough.<code>change_upgrade_data,17064,0<br>change_upgrade_data,17064,1<br>change_upgrade_data,17072</code></span>Bloodmiser
+        </span>
+        <span class="featTableEffect">
+            <span>+30 Max Stacks to Yorven's Blood Fury</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Yorven</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Eldritch Mutation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2178**Eldritch Mutation (Yorven)**It feeds on my anger. See now how much it has grown.<code>do_nothing,0</code></span>Eldritch Mutation
+        </span>
+        <span class="featTableEffect">
+            <span>do_nothing</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

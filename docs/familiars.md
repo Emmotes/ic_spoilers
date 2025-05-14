@@ -262,23 +262,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 274**Ursus the Bear**Exterminator of the noobs.</span></span>
-        </span>
-        <span class="skinTableName">
-            Ursus the Bear
-        </span>
-        <span class="skinTableSource">
-            Gelatinous Cube Vin Ursa Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            16 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Knick Knack the Pseudodragon Portrait](images/familiars/knickknackthepseudodragon.png)<span class="featTooltipContents">ID: 275**Knick Knack the Pseudodragon**Watch out, he collects EVERYTHING.<img src="images/familiars/knickknackthepseudodragon.gif" alt="Knick Knack the Pseudodragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -300,23 +283,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableName">
             Clove the Badger
-        </span>
-        <span class="skinTableSource">
-            None
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 278**Fetch the Flying Monkey**Slightly more clever and curious than common monkeys, they are also 100% more adorable!</span></span>
-        </span>
-        <span class="skinTableName">
-            Fetch the Flying Monkey
         </span>
         <span class="skinTableSource">
             None

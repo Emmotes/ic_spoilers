@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2019**Feat**???: 2019</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Motley Crew Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2019**Motley Crew**With friends like these, I'll never be lost again.<code>buff_upgrade,80,17063</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2019</span>
+            <span style="margin-left:15px">Motley Crew</span>
+            <span style="margin-left:15px">Yorven (80% Rag Tag Team (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -859,7 +860,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Reaper BBEG Skin Portrait](images/premiums/skin_562.png)<span class="itemTooltipContents">ID: 562**Reaper BBEG (BBEG)**<img src="images/premiums/skin_562.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Reaper BBEG Skin Portrait](images/premiums/skin_562.png)<span class="itemTooltipContents">ID: 562**Reaper BBEG (BBEG)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_562.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_562-zombie.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1134,7 +1135,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Cosmic Dragon Nova Skin Portrait](images/premiums/skin_565.png)<span class="itemTooltipContents">ID: 565**Cosmic Dragon Nova (Nova)**</span></span>
+            <span class="tooltipHolder">![Cosmic Dragon Nova Skin Portrait](images/premiums/skin_565.png)<span class="itemTooltipContents">ID: 565**Cosmic Dragon Nova (Nova)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_565.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_565-sword.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1303,68 +1304,6 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Kas Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 586</div>
-### Wind Duke Asharra Skin & Feat Pack - 1,680 Platinum  
-Date of release: 25 Jun 2025
-
-> Collect an exclusive Wind Duke Skin & Feat for Asharra!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 571**Wind Duke Asharra (Asharra)**</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Wind Duke Asharra</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Teacher of Kir Sabal Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2010**Teacher of Kir Sabal**My ancestors watch over us. We must stand together now, for the fate of all.<code>buff_upgrade,80,2189,1<br>buff_upgrade,80,2189,2<br>add_hero_tags,0,druid</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Teacher of Kir Sabal</span>
-            <span style="margin-left:15px">Asharra (80% Paragon of Kir Sabal & Counts as Druid)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Asharra Chest Chest Portrait](images/premiums/chests_466.png)<span class="itemTooltipContents">ID: 466**Platinum Asharra Chest**Loot for: Asharra<code>"for_crusaders":[6]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Asharra Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -2020,76 +1959,6 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 597</div>
-### Gelatinous Cube Vin Ursa Theme Pack - 3,830 Platinum  
-Date of release: 16 Jul 2025
-
-> Unlock Vin Ursa along with an exclusive Gelatinous Cube Skin & Familiar!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Vin Ursa Champion Unlock Portrait](images/premiums/unlock_champion_127.png)<span class="itemTooltipContents">ID: 127**Vin Ursa (Seat 7)**<img src="images/premiums/unlock_champion_127.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Vin Ursa</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 577**Gelatinous Cube Vin Ursa (Vin Ursa)**</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Gelatinous Cube Vin Ursa</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 274**Ursus the Bear**Exterminator of the noobs.</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Ursus the Bear</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Orbital Ooze Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2224**Orbital Ooze**I'm a simple plasmoid making my way through wildspace.<code>buff_upgrades,80,12092,12093,12094</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Orbital Ooze</span>
-            <span style="margin-left:15px">Vin Ursa (80% All Second Specialisations)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Vin Ursa Chest Chest Portrait](images/premiums/chests_456.png)<span class="itemTooltipContents">ID: 456**Platinum Vin Ursa Chest**Loot for: Vin Ursa<code>"for_crusaders":[127]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Vin Ursa Chest</span>
-            <span style="margin-left:15px">x32 (Shinies x2)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Gem Hunter Buff Portrait](images/premiums/buff_1723.png)<span class="itemTooltipContents">ID: 1723**Potion of the Gem Hunter**Increases the gem drops from bosses by 50%<code>increase_boss_gems_percent,50</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Potion of the Gem Hunter</span>
-            <span style="margin-left:15px">x1</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 598</div>
 ### Dungeon Raider Aeon Skin & Feat Pack - 1,680 Platinum  
 Date of release: 16 Jul 2025
@@ -2387,117 +2256,6 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Eric Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 603</div>
-### Ascended Best Friends Forever Pack - 3,360 Platinum  
-Date of release: 06 Aug 2025
-
-> Unlock Omin and Jim along with their exclusive Ascended Skins & Feats!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Jim Champion Unlock Portrait](images/premiums/unlock_champion_48.png)<span class="itemTooltipContents">ID: 48**Jim (Seat 7)**<img src="images/premiums/unlock_champion_48.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Jim</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Omin Champion Unlock Portrait](images/premiums/unlock_champion_65.png)<span class="itemTooltipContents">ID: 65**Omin (Seat 3)**<img src="images/premiums/unlock_champion_65.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Omin</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 581**???**</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">skin</span>
-            <span style="margin-left:15px">ID: 581</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 584**???**</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">skin</span>
-            <span style="margin-left:15px">ID: 584</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2009**TBD Jim Feat (Do not translate)**</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Jim Feat (Do not translate)</span>
-            <span style="margin-left:15px">Jim ()</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![To the Moon Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2226**To the Moon**Finally! I knew diversifying my investments would eventually pay off.<code>buff_upgrade,80,12303</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">To the Moon</span>
-            <span style="margin-left:15px">Omin (80% Well Funded)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Jim Chest Chest Portrait](images/premiums/chests_106.png)<span class="itemTooltipContents">ID: 106**Platinum Jim Chest**Loot for: Jim<code>"for_crusaders":[48]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Jim Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Omin Chest Chest Portrait](images/premiums/chests_189.png)<span class="itemTooltipContents">ID: 189**Platinum Omin Chest**Loot for: Omin<code>"for_crusaders":[65]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Omin Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>

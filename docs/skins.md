@@ -130,7 +130,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Reaper BBEG Portrait](images/skin_portraits/reaperbbeg.png)<span class="featTooltipContents">ID: 562**Reaper BBEG (BBEG)**<img src="images/skin_models/reaperbbeg.gif" alt="Reaper BBEG Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Reaper BBEG Portrait](images/skin_portraits/reaperbbeg.png)<span class="featTooltipContents">ID: 562**Reaper BBEG (BBEG)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/reaperbbeg.gif" alt="Reaper BBEG Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/reaperbbeg-zombie.gif" alt="Reaper BBEG Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Reaper BBEG
@@ -147,7 +147,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cosmic Dragon Nova Portrait](images/skin_portraits/cosmicdragonnova.png)<span class="featTooltipContents">ID: 565**Cosmic Dragon Nova (Nova)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cosmic Dragon Nova Portrait](images/skin_portraits/cosmicdragonnova.png)<span class="featTooltipContents">ID: 565**Cosmic Dragon Nova (Nova)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/cosmicdragonnova.gif" alt="Cosmic Dragon Nova Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/cosmicdragonnova-sword.gif" alt="Cosmic Dragon Nova Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Cosmic Dragon Nova
@@ -205,23 +205,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableSource">
             Cataclysmic Kas Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            25 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 571**Wind Duke Asharra (Asharra)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Wind Duke Asharra
-        </span>
-        <span class="skinTableSource">
-            Wind Duke Asharra Skin & Feat Pack
         </span>
         <span class="skinTableCost">
             1,680p
@@ -368,23 +351,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 577**Gelatinous Cube Vin Ursa (Vin Ursa)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Gelatinous Cube Vin Ursa
-        </span>
-        <span class="skinTableSource">
-            Gelatinous Cube Vin Ursa Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            16 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 579**Chosen of Vecna Warduke (Warduke)**</span></span>
         </span>
         <span class="skinTableName">
@@ -431,7 +397,7 @@ Please be aware that the developers recently removed most future skins from the 
             ???
         </span>
         <span class="skinTableDate">
-            13 Aug 2025
+            06 Aug 2025
         </span>
     </span>
 </span>
