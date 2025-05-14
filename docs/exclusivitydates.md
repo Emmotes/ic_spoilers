@@ -475,6 +475,57 @@ These are feats that were previously released in premium packs and are now sitti
             <span>07 Aug 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Evelyn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Under Pressure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1472**Under Pressure (Evelyn)**Uh oh -- more enemies! Everyone get behind me!<code>buff_upgrade,80,12207</code></span>Under Pressure
+        </span>
+        <span class="featTableEffect">
+            <span>80% Steadfast Might</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>14 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Melf</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2138**Prodigal Leader (Melf)**Rally to me, friends. We will survive this, and glory shall be ours.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>14 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Yorven</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Motley Crew Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2019**Motley Crew (Yorven)**With friends like these, I'll never be lost again.<code>buff_upgrade,80,17063</code></span>Motley Crew
+        </span>
+        <span class="featTableEffect">
+            <span>80% Rag Tag Team (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>14 Aug 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
