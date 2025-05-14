@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chase the Spaniel Portrait](images/familiars/chasethespaniel.png)<span class="featTooltipContents">ID: 259**Chase the Spaniel**Your new best friend who will do anything for table scraps.<img src="images/familiars/chasethespaniel.gif" alt="Chase the Spaniel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Chase the Spaniel
-        </span>
-        <span class="skinTableSource">
-            Nomad Yorven Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            14 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Spark the Living Lightning Bolt Portrait](images/familiars/sparkthelivinglightningbolt.png)<span class="featTooltipContents">ID: 260**Spark the Living Lightning Bolt**Hissszzzap!<img src="images/familiars/sparkthelivinglightningbolt.gif" alt="Spark the Living Lightning Bolt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Spark the Living Lightning Bolt
-        </span>
-        <span class="skinTableSource">
-            Spark the Living Lightning Bolt Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            2,380p
-        </span>
-        <span class="skinTableDate">
-            14 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Virtue the Valenar Foal Portrait](images/familiars/virtuethevalenarfoal.png)<span class="featTooltipContents">ID: 262**Virtue the Valenar Foal**To be its chosen companion is a high honor.<img src="images/familiars/virtuethevalenarfoal.gif" alt="Virtue the Valenar Foal Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

@@ -11,57 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Nomad Yorven Portrait](images/skin_portraits/nomadyorven.png)<span class="featTooltipContents">ID: 552**Nomad Yorven (Yorven)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/nomadyorven.gif" alt="Nomad Yorven Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/nomadyorven-shadow_mastiff.gif" alt="Nomad Yorven Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Nomad Yorven
-        </span>
-        <span class="skinTableSource">
-            Nomad Yorven Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            14 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Valaes Tairn Melf Portrait](images/skin_portraits/valaestairnmelf.png)<span class="featTooltipContents">ID: 553**Valaes Tairn Melf (Melf)**<img src="images/skin_models/valaestairnmelf.gif" alt="Valaes Tairn Melf Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Valaes Tairn Melf
-        </span>
-        <span class="skinTableSource">
-            Valaes Tairn Melf Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            14 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Warforged Evelyn Portrait](images/skin_portraits/warforgedevelyn.png)<span class="featTooltipContents">ID: 555**Warforged Evelyn (Evelyn)**<img src="images/skin_models/warforgedevelyn.gif" alt="Warforged Evelyn Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Warforged Evelyn
-        </span>
-        <span class="skinTableSource">
-            Warforged Evelyn Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            14 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Prodigal Son Wyll Portrait](images/skin_portraits/prodigalsonwyll.png)<span class="featTooltipContents">ID: 556**Prodigal Son Wyll (Wyll)**<img src="images/skin_models/prodigalsonwyll.gif" alt="Prodigal Son Wyll Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
