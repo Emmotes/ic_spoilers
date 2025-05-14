@@ -118,10 +118,9 @@ Unknown.
             ]
         },
         {
-            "effect_string": "hero_dps_multiplier_mult,0",
+            "effect_string": "hero_dps_multiplier_mult,100",
             "off_when_benched": true,
             "apply_manually": true,
-            "amount_expr": "upgrade_amount(17470,0)",
             "targets": [
                 "non_adj"
             ]
