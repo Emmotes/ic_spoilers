@@ -106,12 +106,9 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/tess/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Tess" fill="#aaa" data-formationName="Tess" data-campaignName="Dragondown" width="300" height="160"><circle cx="175" cy="105" r="15"/><circle cx="175" cy="145" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="15" cy="105" r="15"/><circle cx="15" cy="145" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Tess</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Dragondown</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -302,7 +299,7 @@ Unknown.
     "cooldown": 0,
     "animations": [
         {
-            "type": "ultimate_attack",
+            "type": "call_uggie_ultimate",
             "no_damage_display": true
         }
     ],
@@ -353,9 +350,49 @@ Unknown.
         }
     ],
     "tags": [
+        "ranged",
+        "melee",
         "ultimate"
     ],
     "damage_types": ""
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: United Strike (Deadly Dance)**
+> Tess directs all the Fallbacks to attack with their ultimate attack, including her own Deadly Dance.  
+> Cooldown: 360s (Cap 90s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 877,
+    "name": "United Strike (Deadly Dance)",
+    "description": "Tess directs all the Fallbacks to make their ultimate attack.",
+    "long_description": "Tess directs all the Fallbacks to attack with their ultimate attack, including her own Deadly Dance.",
+    "graphic_id": 26839,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 360,
+    "animations": [
+        {
+            "type": "united_strike_ultimate"
+        }
+    ],
+    "tags": [
+        "ranged",
+        "melee",
+        "ultimate"
+    ],
+    "damage_types": [
+        "ranged",
+        "melee"
+    ]
 }
 </pre>
 </p>
@@ -379,6 +416,7 @@ Unknown.
     "effect_keys": [
         {
             "effect_string": "uggie_handler,100",
+            "skip_effect_key_desc": true,
             "off_when_benched": true,
             "uggie_effects": [
                 1
@@ -386,7 +424,6 @@ Unknown.
         },
         {
             "effect_string": "hero_dps_multiplier_mult,100",
-            "off_when_benched": true,
             "apply_manually": true,
             "amount_expr": "upgrade_amount(17315,0)",
             "targets": [
@@ -505,6 +542,7 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "show_incoming": false,
+        "use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -890,7 +928,7 @@ Unknown.
 ![The Deck of Many Intellect Devourers Icon](images/tess/26806.png) **Variant 1: The Deck of Many Intellect Devourers** (Complete Area 75)
 > Tess starts in the formation. She can't be moved or removed.  
 > Only Tess and Champions buffed by both her and Uggie can deal damage.  
-> 1-2 Intellect Devourers (MonIDs: 567-569) spawn with each wave. They don't drop gold nor count towards quest progress.  
+> 1-2 Intellect Devourers spawn with each wave. They don't drop gold nor count towards quest progress.  
 > Getting to Know Tess and Uggie: Tess increases the damage of Champions in the columns behind her, while Uggie increases the damage of Champions not next to Uggie. Place your damage dealers to take advantage of both buffs!  
 > 
 </div></div>
