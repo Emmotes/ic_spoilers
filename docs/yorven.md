@@ -353,7 +353,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "health_divisor": 47,
-            "post_process_expr": "floor(log(GetHeroHP(109)/health_divisor)/log(2))",
+            "post_process_expr": "floor(log(GetHeroHP(92)/health_divisor)/log(2))",
             "amount_updated_listeners": [
                 "max_health_changed",
                 "feat_changed"
