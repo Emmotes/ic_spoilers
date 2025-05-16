@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/colours.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -24,7 +23,9 @@
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="msapplication-config" content="/ic_spoilers/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
-    {% include head-custom.html %}
+	<meta name="theme-color" content="#353535">
+	<meta name="msapplication-navbutton-color" content="#353535">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   </head>
   <body onload="init()">
     <div class="wrapper">
@@ -40,7 +41,7 @@
 		  <br />
 		  View the <a href="{{ site.github.owner_url }}/ic_spoilers/commits/main">Changelog</a></span>
           <span class="credits right">
-		    Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a>
+		    Hosted on GitHub Pages &mdash; Theme by mattgraham
 		    <span id="modes">&nbsp;</span>
 		    <span id="ditimer" style="color:#f0e7d5;font-size:1.1em">&nbsp;</span>
 		  </span>
