@@ -35,40 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Birdsong</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2080**Weapon Master (Birdsong)**Take away my blades and I'll show you what these claws can do.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
-        </span>
-        <span class="featTableEffect">
-            <span>120% Self DPS</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>19 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Vi</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2079**Prodigal Leader (Vi)**When you look this good, people will do just about anything for you.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>19 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>BBEG</span>
         </span>
         <span class="featTableIcon4">
