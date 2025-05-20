@@ -1,9 +1,23 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Baldric](images/baldric/portrait.png)
+        </span>
+        <span>
+        Portrait
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model GIF of Baldric](images/baldric/model.gif)
+        </span>
+        <span>
+        Model
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 # Baldric
 
@@ -178,12 +192,23 @@ Unknown.
 > 
 </div></div>
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Baldric Console Portrait](images/baldric/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Baldric Gold Chest Icon](images/baldric/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Baldric Silver Chest Icon](images/baldric/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
