@@ -100,7 +100,7 @@ Windfall will be an upcoming Evergreen champion set to release on 28 May 2025 wi
 # Attacks
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Red Dragon's Green** (Melee)
+**Base Attack: Red Dragon's Greed** (Melee)
 > With the fury of a red dragon, Windfall prefers to attack enemies that drop gold.  
 > Cooldown: 2.75s (Cap 0.6875s)
 <details><summary><em>Raw Data</em></summary>
