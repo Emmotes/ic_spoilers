@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/738.png">
-            <span class="weekendTooltipContents">ID: 738**Gold FIREBALL Chest**Loot for: Nixie, Nayeli, Makos, Antrius and Evandra<code>"for_crusaders":[123,3,9,122,124]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **FIREBALL**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    23 May 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Nixie
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nixie.png'">
-                        <span class="weekendTableChampionNameplate">Nixie</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/antrius.png'">
-                        <span class="weekendTableChampionNameplate">Antrius</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/evandra.png'">
-                        <span class="weekendTableChampionNameplate">Evandra</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/739.png">
             <span class="weekendTooltipContents">ID: 739**Gold Star-Filled Chest**Loot for: Jang Sao, Jarlaxle, Calliope, Sheila and Miria<code>"for_crusaders":[140,4,5,160,121]</code></span>
         </span>
