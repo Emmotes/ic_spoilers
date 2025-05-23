@@ -60,7 +60,7 @@ Windfall will be an upcoming Evergreen champion set to release on 28 May 2025 wi
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">DPS / Support / Gold / Debuff / Control (Guess)</span>
+            <span style="margin-left:8px;">DPS / Support / Gold / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -98,6 +98,47 @@ Windfall will be an upcoming Evergreen champion set to release on 28 May 2025 wi
 </span>
 
 # Attacks
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Chromatic Rapier** (Melee)
+> Windfall attacks a random enemy for 1 hit.  
+> Cooldown: 2.75s (Cap 0.6875s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 857,
+    "name": "Chromatic Rapier",
+    "description": "Windfall attacks a random enemy for 1 hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 2.75,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -34,
+            "damage_frame": 2,
+            "jump_sound": 30,
+            "sound_frames": {
+                "2": 154
+            }
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Red Dragon's Greed** (Melee)
@@ -374,47 +415,6 @@ Windfall will be an upcoming Evergreen champion set to release on 28 May 2025 wi
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Chromatic Rapier** (Melee)
-> Windfall attacks a random enemy for 1 hit.  
-> Cooldown: 2.75s (Cap 0.6875s)
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 857,
-    "name": "Chromatic Rapier",
-    "description": "Windfall attacks a random enemy for 1 hit.",
-    "long_description": "",
-    "graphic_id": 0,
-    "target": "random",
-    "num_targets": 1,
-    "aoe_radius": 0,
-    "damage_modifier": 1,
-    "cooldown": 2.75,
-    "animations": [
-        {
-            "type": "melee_attack",
-            "target_offset_x": -34,
-            "damage_frame": 2,
-            "jump_sound": 30,
-            "sound_frames": {
-                "2": 154
-            }
-        }
-    ],
-    "tags": [
-        "melee"
-    ],
-    "damage_types": [
-        "melee"
-    ]
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Stunning Scintillation**
 > Windfall's blinding coat erupts in a scintillating flash, dealing 1 ultimate hit to all enemies, stunning and then slowing them.  
 > Cooldown: 220s (Cap 55s)
@@ -475,7 +475,7 @@ Windfall will be an upcoming Evergreen champion set to release on 28 May 2025 wi
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Proprietor of the Red Belvedere** (Guess)
 > Windfall can be used in any Vecna: Eve of Ruin campaign adventure or variant, even if she would not normally be available to be used due to variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
