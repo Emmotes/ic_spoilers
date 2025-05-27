@@ -334,10 +334,10 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chosen of Vlaakith Lae'zel Portrait](images/skin_portraits/chosenofvlaakithlaezel.png)<span class="featTooltipContents">ID: 503**Chosen of Vlaakith Lae'zel (Lae'zel)**<img src="images/skin_models/chosenofvlaakithlaezel.gif" alt="Chosen of Vlaakith Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Kith'rak Lae'zel Portrait](images/skin_portraits/kithraklaezel.png)<span class="featTooltipContents">ID: 503**Kith'rak Lae'zel (Lae'zel)**<img src="images/skin_models/kithraklaezel.gif" alt="Kith'rak Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Chosen of Vlaakith Lae'zel
+            Kith'rak Lae'zel
         </span>
         <span class="skinTableSource">
             ???
