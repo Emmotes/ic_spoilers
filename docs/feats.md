@@ -1269,7 +1269,7 @@ These are the feats that have been filtered out of the list above due to having 
             ![Bloodmiser Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2022**Bloodmiser (Yorven)**Not enough. It's never enough.<code>change_upgrade_data,17064,0<br>change_upgrade_data,17064,1<br>change_upgrade_data,17072</code></span>Bloodmiser
         </span>
         <span class="featTableEffect">
-            <span>+30 Max Stacks to Yorven's Blood Fury</span>
+            <span>Sets Yorven's Blood Fury Max Stacks to 30</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
