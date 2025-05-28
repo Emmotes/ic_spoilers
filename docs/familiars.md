@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Virtue the Valenar Foal Portrait](images/familiars/virtuethevalenarfoal.png)<span class="featTooltipContents">ID: 262**Virtue the Valenar Foal**To be its chosen companion is a high honor.<img src="images/familiars/virtuethevalenarfoal.gif" alt="Virtue the Valenar Foal Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Virtue the Valenar Foal
-        </span>
-        <span class="skinTableSource">
-            Virtue the Valenar Foal Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            28 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Amber the Faerie Dragon Portrait](images/familiars/amberthefaeriedragon.png)<span class="featTooltipContents">ID: 277**Amber the Faerie Dragon**You're the one who woke the giant ants up, not me!<img src="images/familiars/amberthefaeriedragon.gif" alt="Amber the Faerie Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

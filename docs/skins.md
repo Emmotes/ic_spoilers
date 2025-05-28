@@ -11,23 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Prodigal Son Wyll Portrait](images/skin_portraits/prodigalsonwyll.png)<span class="featTooltipContents">ID: 556**Prodigal Son Wyll (Wyll)**<img src="images/skin_models/prodigalsonwyll.gif" alt="Prodigal Son Wyll Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Prodigal Son Wyll
-        </span>
-        <span class="skinTableSource">
-            Prodigal Son Wyll Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            28 May 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dracolich Duke Ravengard Portrait](images/skin_portraits/dracolichdukeravengard.png)<span class="featTooltipContents">ID: 559**Dracolich Duke Ravengard (Ravengard)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/dracolichdukeravengard.gif" alt="Dracolich Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/dracolichdukeravengard-enflamed.gif" alt="Dracolich Duke Ravengard Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
