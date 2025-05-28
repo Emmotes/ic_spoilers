@@ -141,7 +141,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
             "projectile_details": {
                 "hash": "67f52f8a67393eadfdc8ef2193442a04",
                 "target_offset_y": 0,
-                "projectile_speed": 1850,
+                "projectile_speed": 2250,
                 "projectile_graphic_id": 26775
             }
         }
@@ -329,7 +329,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
     "graphic_id": 26838,
     "target": "highest_health",
     "num_targets": 1,
-    "aoe_radius": 250,
+    "aoe_radius": 150,
     "damage_modifier": 0.03,
     "cooldown": 360,
     "animations": [
@@ -337,13 +337,13 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
             "type": "ultimate_attack",
             "ultimate": "tess",
             "aoe_radius": 150,
+            "shoot_offset_y": -35,
             "projectile_details": {
                 "hash": "cfefe0019c9bad171d8e039c8b7e80aa",
                 "target_offset_y": -10,
-                "shoot_offset_y": -150,
                 "projectile_speed": 1500,
                 "projectile_graphic_id": 26776,
-                "rotation_speed": 540,
+                "rotation_speed": 720,
                 "percent_height_offset": 2
             },
             "damage_frame": 8
@@ -416,27 +416,23 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
     "effect_keys": [
         {
             "effect_string": "uggie_handler,100",
-            "skip_effect_key_desc": true,
             "off_when_benched": true,
-            "uggie_effects": [
-                1
-            ]
+            "uggie_roaming_disable_index": 1,
+            "uggie_priority": 5,
+            "use_computed_amount_for_description": true
         },
         {
-            "effect_string": "hero_dps_multiplier_mult,100",
-            "apply_manually": true,
-            "amount_expr": "upgrade_amount(17315,0)",
-            "targets": [
-                "non_adj"
-            ]
+            "effect_string": "disallow_roaming_familiar_ult_trigger",
+            "apply_manually": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 26837,
+    "large_graphic_id": 26837,
     "properties": {
         "is_formation_ability": true,
-        "show_incoming": true,
+        "show_incoming": false,
+        "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
@@ -563,7 +559,15 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
     "id": 2350,
     "flavour_text": "",
     "description": {
-        "desc": "Tess increases the effect of Lead The Way by $(not_buffed amount)% for each different role in the formation, stacking multiplicatively."
+        "desc": "Tess increases the effect of Lead The Way by $(not_buffed amount)% for each different role in the formation, stacking multiplicatively.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Roles In Formation: $(roles)"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -571,10 +575,11 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
             "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_unique_role",
+            "stack_title": "Unique Roles",
+            "show_bonus": true,
             "amount_updated_listeners": [
                 "slot_changed",
-                "upgrade_unlocked",
-                "feat_changed"
+                "hero_tags_changed"
             ]
         }
     ],
@@ -604,7 +609,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
     "id": 2351,
     "flavour_text": "",
     "description": {
-        "desc": "There's a $chance% chance when an enemy dies that they drop a Trap that Tess immediately spots. During Tess's next attack, rather than attacking, she leaps out and disarms the Trap before it can harm any of her friends. For each Trap disarmed in this way, Lead The Way is increased by 10%, stacking additively. Stacks persist through resets."
+        "desc": "There's a $chance% chance when an enemy dies that they drop a Trap that Tess immediately spots. During Tess's next attack, rather than attacking, she leaps out and disarms the Trap before it can harm any of her friends. For each Trap disarmed in this way, Lead The Way is increased by $(not_buffed amount___2)%, stacking additively. Stacks persist through resets."
     },
     "effect_keys": [
         {
@@ -619,6 +624,10 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
             "stacks_on_trigger": "will_manually_stack",
             "stack_title": "Traps Disarmed",
             "show_bonus": true
+        },
+        {
+            "effect_string": "change_base_attack,873",
+            "apply_manually": true
         }
     ],
     "requirements": "",
@@ -701,10 +710,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
                 "target_filters": [
                     {
                         "type": "tags",
-                        "tags": [
-                            "fallbacks",
-                            "unaffiliated"
-                        ]
+                        "tags": "fallbacks|unaffiliated"
                     }
                 ]
             },
@@ -819,9 +825,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
                 "target_filters": [
                     {
                         "type": "tags",
-                        "tags": [
-                            "rogue"
-                        ]
+                        "tags": "rogue"
                     }
                 ]
             },
