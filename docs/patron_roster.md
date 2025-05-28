@@ -5010,7 +5010,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="149,142,52,305,305,305,305,300">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="149,142,52,305,305,305,305,300">
-        <label class="cblabel"><input type="checkbox" disabled checked>Until 2029-03-25
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2028-05-27
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="149,142,52,305,305,305,305,300">&nbsp;</span>
 </span><br>
