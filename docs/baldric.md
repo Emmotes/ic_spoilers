@@ -59,7 +59,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support (Guess)</span>
+            <span style="margin-left:8px;">Support / Healing / Gold / Debuff / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -107,7 +107,196 @@ Unknown.
 
 # Attacks
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Two-Handed Mace** (Melee)
+> Baldric attacks the closest enemy, dealing 1 hit.  
+> Cooldown: 4.75s (Cap 1.1875s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 879,
+    "name": "Two-Handed Mace",
+    "description": "Baldric attacks the closest enemy, dealing 1 hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.75,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 3
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Two-Handed Mace** (Magic)
+> Baldric attacks the closest enemy, dealing BUD-based damage.  
+> Cooldown: 4.75s (Cap 1.1875s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 882,
+    "name": "Two-Handed Mace",
+    "description": "Baldric attacks the closest enemy, dealing BUD-based damage.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.75,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 3,
+            "effects_on_monsters": [
+                {
+                    "effect_string": "damage_monster_target_by_bud",
+                    "hit_monsters": true,
+                    "damage_mult": 3,
+                    "after_damage": true
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "magic"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Call Uggie**
+> Baldric calls Uggie to his side.  
+> Cooldown: 0s (Cap 0s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 878,
+    "name": "Call Uggie",
+    "description": "Baldric calls Uggie to his side.",
+    "long_description": "Baldric calls Uggie to his side.",
+    "graphic_id": 26837,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0,
+    "cooldown": 0,
+    "animations": [
+        {
+            "type": "call_uggie_ultimate",
+            "no_damage_display": true
+        }
+    ],
+    "tags": [
+        "ultimate",
+        "ignore_cooldown_override"
+    ],
+    "damage_types": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Faith Aflame**
+> Baldric's mace ignites with radiant light, preventing Champions from being stunned and empowering his attacks for the duration it is aflame  
+> Cooldown: 360s (Cap 90s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 880,
+    "name": "Faith Aflame",
+    "description": "Baldric prevents Champions from being stunned and he empowers his attacks for a short duration.",
+    "long_description": "Baldric's mace ignites with radiant light, preventing Champions from being stunned and empowering his attacks for the duration it is aflame",
+    "graphic_id": 27023,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 360,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "baldric",
+            "animation_sequence_name": "ultimate"
+        }
+    ],
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "damage_types": [
+        "ultimate"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: United Strike (Faith Aflame)**
+> Baldric directs all the Fallbacks to attack with their ultimate attack, including his own Faith Aflame.  
+> Cooldown: 360s (Cap 90s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 881,
+    "name": "United Strike (Faith Aflame)",
+    "description": "Baldric directs all the Fallbacks to make their ultimate attack.",
+    "long_description": "Baldric directs all the Fallbacks to attack with their ultimate attack, including his own Faith Aflame.",
+    "graphic_id": 26834,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 360,
+    "animations": [
+        {
+            "type": "united_strike_ultimate"
+        }
+    ],
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "damage_types": [
+        "ultimate"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Abilities
 
@@ -127,17 +316,14 @@ Unknown.
         {
             "effect_string": "uggie_handler,100",
             "off_when_benched": true,
-            "uggie_effects": [
-                1
-            ]
+            "uggie_roaming_disable_index": 1,
+            "uggie_priority": 1,
+            "united_strike_ult_id": 881,
+            "use_computed_amount_for_description": true
         },
         {
-            "effect_string": "hero_dps_multiplier_mult,100",
-            "off_when_benched": true,
-            "apply_manually": true,
-            "targets": [
-                "non_adj"
-            ]
+            "effect_string": "disallow_roaming_familiar_ult_trigger",
+            "apply_manually": true
         }
     ],
     "requirements": "",
@@ -146,6 +332,7 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "show_incoming": false,
+        "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
@@ -157,13 +344,480 @@ Unknown.
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Bargaining Power** (Guess)
+> Baldric's bargaining partners are Fallbacks Champions and/or Champions with Charisma of 15 or higher. Baldric increases the damage of his bargaining partners by 100% for each bargaining partner in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2379,
+    "flavour_text": "",
+    "description": {
+        "desc": "Baldric's bargaining partners are Fallbacks Champions and/or Champions with Charisma of 15 or higher. Baldric increases the damage of his bargaining partners by $(not_buffed amount)% for each bargaining partner in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "off_when_benched": true,
+            "amount_expr": "upgrade_amount(17472,0)",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "GetStat(`cha`) >= 15 || HasTag(`fallbacks`) || ((GetUpgradeUnlocked(17492) || GetUpgradeUnlocked(17497) || GetUpgradeUnlocked(17507) || GetUpgradeUnlocked(17512) || GetUpgradeUnlocked(17517)) && HasTag(`dwarf`)) || ((GetUpgradeUnlocked(17493) || GetUpgradeUnlocked(17498) || GetUpgradeUnlocked(17503) || GetUpgradeUnlocked(17513) || GetUpgradeUnlocked(17518)) && HasTag(`gold`)) || ((GetUpgradeUnlocked(17494) || GetUpgradeUnlocked(17499) || GetUpgradeUnlocked(17504) || GetUpgradeUnlocked(17509) || GetUpgradeUnlocked(17519)) && has_base_attack_dmg_type_magic) || ((GetUpgradeUnlocked(17495) || GetUpgradeUnlocked(17499) || GetUpgradeUnlocked(17505) || GetUpgradeUnlocked(17510) || GetUpgradeUnlocked(17515)) && HasTag(`healing`))"
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27005,
+    "large_graphic_id": 26998,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Undeniable Uggie** (Guess)
+> Uggie's buff is increased by 400% when Baldric is in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2380,
+    "flavour_text": "",
+    "description": {
+        "desc": "Uggie's buff is increased by $amount% when Baldric is in the formation."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "unleash_uggie_contribution,400",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27009,
+    "large_graphic_id": 27002,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Healing Word** (Guess)
+> Baldric heals the Champions in all the columns in front of him for 20 health per second.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2381,
+    "flavour_text": "",
+    "description": {
+        "desc": "Baldric heals the Champions in all the columns in front of him for $amount health per second."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "heal,20",
+            "off_when_benched": true,
+            "targets": [
+                "ahead"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27007,
+    "large_graphic_id": 27000,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Shield of Faith** (Guess)
+> When Uggie is with Baldric, any Champion that is being targeted by Baldric's Healing Word can't take more than 33% of their max health in one hit.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2382,
+    "flavour_text": "",
+    "description": {
+        "desc": "When Uggie is with Baldric, any Champion that is being targeted by Baldric's Healing Word can't take more than 33% of their max health in one hit."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "baldric_shield_of_filth_handler",
+            "buff_index": 1
+        },
+        {
+            "effect_string": "max_health_percent_per_hit,33",
+            "off_when_benched": true,
+            "apply_manually": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "not_affected_by_upgrade",
+                    "upgrade_id": 17476
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27008,
+    "large_graphic_id": 27001,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Healing Lantern** (Guess)
+> When any Champion drops to or below 50% of their maximum health, Baldric lights his lantern for the rest of the current area and all healing received by Champions in the formation is increased by 100% for each Healing Champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2383,
+    "flavour_text": "",
+    "description": {
+        "desc": "When any Champion drops to or below 50% of their maximum health, Baldric lights his lantern for the rest of the current area and all healing received by Champions in the formation is increased by 100% for each Healing Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "baldric_healing_lantern_handler",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "healing_mult, 100",
+            "off_when_benched": true,
+            "apply_manually": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27006,
+    "large_graphic_id": 26999,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Bargain: Eldath** (Guess)
+> Baldric increases the pre-stack bonus of Bargaining Power by 50%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2384,
+    "flavour_text": "",
+    "description": {
+        "desc": "Baldric increases the pre-stack bonus of Bargaining Power by 50%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,50,17472,0",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Bargain: Moradin** (Guess)
+> You may use any Dwarf Champion in the current adventure, even if the Patron, Variant, or other restrictions would say otherwise. Additionally, Dwarf Champions also count as Baldric's bargaining partners.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2385,
+    "flavour_text": "",
+    "description": {
+        "desc": "You may use any Dwarf Champion in the current adventure, even if the Patron, Variant, or other restrictions would say otherwise. Additionally, Dwarf Champions also count as Baldric's bargaining partners."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "force_allow_hero_by_tag,dwarf",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Bargain: Tymora** (Guess)
+> Baldric gains the Gold Find role and increases the party's gold find by 100% for each bargaining partner, stacking multiplicatively. Additionally, Champions with the Gold Find role also count as Baldric's bargaining partners.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2386,
+    "flavour_text": "",
+    "description": {
+        "desc": "Baldric gains the Gold Find role and increases the party's gold find by 100% for each bargaining partner, stacking multiplicatively. Additionally, Champions with the Gold Find role also count as Baldric's bargaining partners."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "add_hero_tags,0,gold"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Bargain: Mystra** (Guess)
+> Baldric's base attack also deals 5 seconds of BUD-based damage and counts as a magic attack. Additionally, Champions with a magic base attack also count as Baldric's bargaining partners.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2387,
+    "flavour_text": "",
+    "description": {
+        "desc": "Baldric's base attack also deals 5 seconds of BUD-based damage and counts as a magic attack. Additionally, Champions with a magic base attack also count as Baldric's bargaining partners."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_base_attack,882"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Bargain: Tyr** (Guess)
+> Baldric increases the effect of Healing Word by 100%. Additionally, Champions with the Healing role also count as Baldric's bargaining partners.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2388,
+    "flavour_text": "",
+    "description": {
+        "desc": "Baldric increases the effect of Healing Word by 100%. Additionally, Champions with the Healing role also count as Baldric's bargaining partners."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,17476,0",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Dark Bargain** (Guess)
+> Baldric increases the pre-stack bonus of Bargaining Power by an additional 50%, but the effect of Healing Word is reduced by 99%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2389,
+    "flavour_text": "",
+    "description": {
+        "desc": "Baldric increases the pre-stack bonus of Bargaining Power by an additional 50%, but the effect of Healing Word is reduced by 99%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,50,17472,0",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "debuff_upgrade,99,17476",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Clothes Icon](images/baldric/26956.png)</span><span class="itemTableIcon2">![Clothes Icon](images/baldric/26956.png)</span><span class="itemTableIcon3">![Clothes Icon](images/baldric/26957.png)</span><span class="itemTableIcon4">![Clothes Icon](images/baldric/26958.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Clothes
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Fallbacks Links Icon](images/baldric/26959.png)</span><span class="itemTableIcon2">![Fallbacks Links Icon](images/baldric/26959.png)</span><span class="itemTableIcon3">![Fallbacks Links Icon](images/baldric/26960.png)</span><span class="itemTableIcon4">![Fallbacks Links Icon](images/baldric/26961.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Fallbacks Links
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Helmet Icon](images/baldric/26962.png)</span><span class="itemTableIcon2">![Helmet Icon](images/baldric/26962.png)</span><span class="itemTableIcon3">![Helmet Icon](images/baldric/26963.png)</span><span class="itemTableIcon4">![Helmet Icon](images/baldric/26964.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Helmet
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Holy Symbol Ribbon Icon](images/baldric/26965.png)</span><span class="itemTableIcon2">![Holy Symbol Ribbon Icon](images/baldric/26965.png)</span><span class="itemTableIcon3">![Holy Symbol Ribbon Icon](images/baldric/26966.png)</span><span class="itemTableIcon4">![Holy Symbol Ribbon Icon](images/baldric/26967.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Holy Symbol Ribbon
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Lantern Icon](images/baldric/26968.png)</span><span class="itemTableIcon2">![Lantern Icon](images/baldric/26968.png)</span><span class="itemTableIcon3">![Lantern Icon](images/baldric/26969.png)</span><span class="itemTableIcon4">![Lantern Icon](images/baldric/26970.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Lantern
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Mace Icon](images/baldric/26971.png)</span><span class="itemTableIcon2">![Mace Icon](images/baldric/26971.png)</span><span class="itemTableIcon3">![Mace Icon](images/baldric/26972.png)</span><span class="itemTableIcon4">![Mace Icon](images/baldric/26973.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Mace
+        </span>
+    </span>
+</span>
 
 # Feats
 
