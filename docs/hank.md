@@ -320,7 +320,7 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Time Gate Piece Scavenger** (Guess)
-> Hank can help scavenge up to 25 additional Time Gate Pieces when killing bosses. While this cap is not reached, Hank has a 1% chance of scavenging 1 Time Gate Piece each time a boss is defeated. The cap increases by 1/3 every day.
+> Hank can help scavenge up to 5 additional Time Gate Pieces when killing bosses. While this cap is not reached, Hank has a 1% chance of scavenging 1 Time Gate Piece each time a boss is defeated. The cap increases by 1/3 every day.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -344,10 +344,10 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
             "off_when_benched": true,
             "id": "hank_time_gate_pieces_scavenger",
             "item_type": "time_gate_piece",
-            "initial_cap": 25,
+            "initial_cap": 5,
             "cap_increase_per_day": 1,
             "cap_divisor": 3,
-            "start_date": "2025-04-3 12:00:00",
+            "start_date": "2025-05-28 12:00:00",
             "total_collected_stat": "hank_time_gate_pieces_collected",
             "adventure_collected_stat": "hank_time_gate_pieces_collected_this_adventure",
             "upgrade_id": 17081,
