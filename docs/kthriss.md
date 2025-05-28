@@ -278,7 +278,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Efficient Bookkeeping** (Guess)
-> K'thriss uses his creative accounting skills to skim a little bit off the gold you spend to level up Champions and uses it to empower his abilities. For each order of magnitude of gold spent leveling up other Champions, increase the effect of Unseen Encouragement by 50%, stacking multiplicatively.
+> K'thriss uses his creative accounting skills to skim a little bit off the gold you spend to level up Champions and uses it to empower his abilities. For each order of magnitude of gold spent leveling up other Champions, he increases the effect of Unseen Encouragement by 50%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -286,7 +286,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2358,
     "flavour_text": "",
     "description": {
-        "desc": "K'thriss uses his creative accounting skills to skim a little bit off the gold you spend to level up Champions and uses it to empower his abilities. For each order of magnitude of gold spent leveling up other Champions, increase the effect of Unseen Encouragement by $(not_buffed amount)%, stacking multiplicatively."
+        "desc": "K'thriss uses his creative accounting skills to skim a little bit off the gold you spend to level up Champions and uses it to empower his abilities. For each order of magnitude of gold spent leveling up other Champions, he increases the effect of Unseen Encouragement by $(not_buffed amount)%, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -329,7 +329,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2359,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of Unseen Encouragement is increased by $amount% for each slot away from K'thriss an affected Champion is, stacking multiplicatively."
+        "desc": "The effect of Unseen Encouragement is increased by $(not_buffed amount)% for each slot away from K'thriss an affected Champion is, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -365,7 +365,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2360,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of Unseen Encouragement and the gold find bonus of Hoardsperson are increased by $amount% for each C-Team, Acquisitions Incorporated, or Wafflecrew Champion in the formation, stacking multiplicatively."
+        "desc": "The effect of Unseen Encouragement and the gold find bonus of Hoardsperson are increased by $(not_buffed amount)% for each C-Team, Acquisitions Incorporated, or Wafflecrew Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -410,7 +410,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: The Unknowable Ur** (Guess)
-> The effect of Unseen Encouragement is increased by 100000%. This amount is reduced by 50% for each enemy defeated in the current area, applying multiplicatively up to 10 enemies.
+> The effect of Unseen Encouragement is increased by 100000%. This amount is reduced by 50% for each enemy defeated in the current area, applying multiplicatively for up to 10 enemies.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -418,7 +418,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2361,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of Unseen Encouragement is increased by $amount%. This amount is reduced by $per_enemy_reduction% for each enemy defeated in the current area, applying multiplicatively up to $max_reductions enemies.",
+        "desc": "The effect of Unseen Encouragement is increased by $amount%. This amount is reduced by $per_enemy_reduction% for each enemy defeated in the current area, applying multiplicatively for up to $max_reductions enemies.",
         "post": {
             "conditions": [
                 {
