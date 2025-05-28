@@ -28,7 +28,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dracolich Duke Ravengard Portrait](images/skin_portraits/dracolichdukeravengard.png)<span class="featTooltipContents">ID: 559**Dracolich Duke Ravengard (Ravengard)**<img src="images/skin_models/dracolichdukeravengard.gif" alt="Dracolich Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dracolich Duke Ravengard Portrait](images/skin_portraits/dracolichdukeravengard.png)<span class="featTooltipContents">ID: 559**Dracolich Duke Ravengard (Ravengard)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/dracolichdukeravengard.gif" alt="Dracolich Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/dracolichdukeravengard-enflamed.gif" alt="Dracolich Duke Ravengard Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Dracolich Duke Ravengard
@@ -58,6 +58,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             04 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Knight Hitch Portrait](images/skin_portraits/dragonknighthitch.png)<span class="featTooltipContents">ID: 582**Dragon Knight Hitch (Hitch)**<img src="images/skin_models/dragonknighthitch.gif" alt="Dragon Knight Hitch Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Knight Hitch
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            11 Jun 2025
         </span>
     </span>
     <span class="skinTableRow">
@@ -160,6 +177,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             25 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Dragonskull Bobby Portrait](images/skin_portraits/dragonskullbobby.png)<span class="featTooltipContents">ID: 567**Dragonskull Bobby (Bobby)**<img src="images/skin_models/dragonskullbobby.gif" alt="Dragonskull Bobby Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Dragonskull Bobby
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            26 Jun 2025
         </span>
     </span>
     <span class="skinTableRow">
@@ -334,19 +368,121 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 585**Ascended Baldric (Baldric)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Ascended Baldric
+        </span>
+        <span class="skinTableSource">
+            Ascended Baldric Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            06 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Kith'rak Lae'zel Portrait](images/skin_portraits/kithraklaezel.png)<span class="featTooltipContents">ID: 503**Kith'rak Lae'zel (Lae'zel)**<img src="images/skin_models/kithraklaezel.gif" alt="Kith'rak Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Kith'rak Lae'zel
         </span>
         <span class="skinTableSource">
-            ???
+            Kith'rak Lae'zel Skin & Feat Pack
         </span>
         <span class="skinTableCost">
-            ???
+            1,680p
         </span>
         <span class="skinTableDate">
             06 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 589**Arborean Hunter Shandie (Shandie)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Arborean Hunter Shandie
+        </span>
+        <span class="skinTableSource">
+            Arborean Hunter Shandie Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            13 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 586**Seven Heavens Lazaapz (Lazaapz)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Seven Heavens Lazaapz
+        </span>
+        <span class="skinTableSource">
+            Seven Heavens Lazaapz Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            13 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 588**Blind Justice Ishi (Ishi)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Blind Justice Ishi
+        </span>
+        <span class="skinTableSource">
+            Blind Justice Ishi Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            20 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 591**Solar Scion Drizzt (Drizzt)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Solar Scion Drizzt
+        </span>
+        <span class="skinTableSource">
+            Solar Scion Drizzt Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            27 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 590**Weave Anchor Volo (Volo)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Weave Anchor Volo
+        </span>
+        <span class="skinTableSource">
+            Weave Anchor Volo Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            27 Aug 2025
         </span>
     </span>
 </span>

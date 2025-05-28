@@ -245,6 +245,74 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 280**Quandary the Sphinx of Wonder**Mystifying even to themselves.</span></span>
+        </span>
+        <span class="skinTableName">
+            Quandary the Sphinx of Wonder
+        </span>
+        <span class="skinTableSource">
+            Quandary the Sphinx of Wonder Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            06 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 279**Uggie the Otyugh**Loves giving hugs and eating trash.</span></span>
+        </span>
+        <span class="skinTableName">
+            Uggie the Otyugh
+        </span>
+        <span class="skinTableSource">
+            Ascended Baldric Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            06 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Aurelia the Clockwork Hollyphant Portrait](images/familiars/aureliatheclockworkhollyphant.png)<span class="featTooltipContents">ID: 281**Aurelia the Clockwork Hollyphant**Made by Mechanus' finest artificers.<img src="images/familiars/aureliatheclockworkhollyphant.gif" alt="Aurelia the Clockwork Hollyphant Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Aurelia the Clockwork Hollyphant
+        </span>
+        <span class="skinTableSource">
+            Seven Heavens Lazaapz Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            13 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 282**Radiance the Pegasus Familiar**From the skies of the Seven Heavens.</span></span>
+        </span>
+        <span class="skinTableName">
+            Radiance the Pegasus Familiar
+        </span>
+        <span class="skinTableSource">
+            Weave Anchor Volo Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            27 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Clove the Badger Portrait](images/familiars/clovethebadger.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<img src="images/familiars/clovethebadger.gif" alt="Clove the Badger Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

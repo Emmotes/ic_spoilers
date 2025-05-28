@@ -226,10 +226,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>80% Life Drain</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Emergence 12</span>
         </span>
         <span class="featTableDate">
-            <span>23 Jul 2025</span>
+            <span>23 Jul 2025<br>Unknown</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -247,6 +247,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span>23 Jul 2025<br>23 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Windfall</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2229**Weapon Master (Windfall)**I've lost count of the number of lives I've taken with this blade.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
+        </span>
+        <span class="featTableEffect">
+            <span>120% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>Emergence 12</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Jul 2025<br>Unknown</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -471,6 +488,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Windfall</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tiamat's Chosen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2190**Tiamat's Chosen (Windfall)**It is done, my queen. I'm going back to hell for a drink and a spa day.<code>buff_upgrade,80,17055</code></span>Tiamat's Chosen
+        </span>
+        <span class="featTableEffect">
+            <span>80% Dragon's Pride</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
