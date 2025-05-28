@@ -23,6 +23,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [The Great Modron March Augments](archive/augments_26.md)
 * [Vlithryn](archive/vlithryn.md)
 * [Volothamp "Volo" Geddarm](archive/volo.md)
+* [Windfall](archive/windfall.md)
 * [Yorven](archive/yorven.md)
 
 [Back to Top](#top)

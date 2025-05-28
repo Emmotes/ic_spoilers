@@ -101,39 +101,6 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
 </span>
 
-# New Evergreen Champion
-
-The upcoming Evergreen champion we're aware of.
-
-<span class="indexChampionTableColumn">
-{::nomarkdown}
-<a href="windfall.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Windfall Portrait Icon](images/windfall/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Windfall
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Tiefling Bard</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Vecna 8 - 28 May 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-
 # Reworked Champions
 
 A list of champions that will be seeing reworks in upcoming events.
@@ -227,37 +194,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 These are the upcoming new and reworked champions and where they'll be found.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Vecna 8 Content Drop - 28 May 2025
-<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="windfall.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Windfall Portrait Icon](images/windfall/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Windfall
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Tiefling Bard</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Evergreen 🌲
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-</div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Dragondown - 4 June 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
