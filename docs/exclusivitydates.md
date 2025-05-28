@@ -458,6 +458,23 @@ These are feats that were previously released in premium packs and are now sitti
             <span>14 Aug 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Wyll</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Duke's Pride Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2141**Duke's Pride (Wyll)**He is our shield, as I am his blade. Together, we protect the people of Baldur's Gate.<code>buff_upgrade,80,13429</code></span>Duke's Pride
+        </span>
+        <span class="featTableEffect">
+            <span>80% Folk Hero (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>28 Aug 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
