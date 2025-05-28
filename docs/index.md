@@ -91,6 +91,10 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Ahghairon's Day - 6 August 2025</span>
             </span>
         </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -114,7 +118,7 @@ The upcoming Evergreen champion we're aware of.
                 Windfall
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Tiefling Bard (Guess)</span>
+                <span class="indexChampionTableNoLink">Tiefling Bard</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Vecna 8 - 28 May 2025</span>
@@ -186,6 +190,31 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="lazaapz.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Lazaapz Portrait Icon](images/lazaapz/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Lazaapz
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Goblin Artificer</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Ahghairon's Day - 13 August 2025 (Worst the Wait Augment)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -213,7 +242,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Windfall
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Tiefling Bard (Guess)</span>
+                <span class="indexChampionTableNoLink">Tiefling Bard</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
@@ -367,6 +396,38 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="lazaapz.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Lazaapz Portrait Icon](images/lazaapz/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Lazaapz
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Goblin Artificer</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait Augment</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rework ♻️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
