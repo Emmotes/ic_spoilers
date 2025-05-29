@@ -17,7 +17,7 @@ Born in The Cogs beneath Sharn's Lower City, Lazaapz's remarkable intellect elev
 
 # Changes
 
-Lazaapz will be a reworked champion in the Ahghairon's Day event on 13 August 2025 (expected a week after event start due to the Worst the Wait event augment).
+Lazaapz will be a reworked champion in the Ahghairon's Day event on 13 August 2025 (expected a week after event start due to Worst the Wait).
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
@@ -157,7 +157,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Artificier Infusion** (Guess)
-> 
+> Lazaapz infuses the equipment of other Champions in the formation with her Artificer powers. Infused equipment has its item level increased by 125. The equipment slot that is affected is equal to each Champions' exact distance from Lazaapz, so for example adjacent Champions (1 slot away) have their slot 1 equipment infused, while Champions 2 slots away have their slot 2 equipment infused, and so on.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -165,12 +165,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2397,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Lazaapz infuses the equipment of other Champions in the formation with her Artificer powers. Infused equipment has its item level increased by $amount. The equipment slot that is affected is equal to each Champions' exact distance from Lazaapz, so for example adjacent Champions (1 slot away) have their slot 1 equipment infused, while Champions 2 slots away have their slot 2 equipment infused, and so on."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing",
-            "off_when_benched": true
+            "effect_string": "add_base_item_levels_to_slot,125",
+            "off_when_benched": true,
+            "targets": [
+                "other"
+            ],
+            "slot_expr": ""
         }
     ],
     "requirements": "",
