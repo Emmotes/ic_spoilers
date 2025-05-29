@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 271**Wormy the Baby Purple Worm**I'll bite your ankles until you die!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Wormy the Baby Purple Worm Portrait](images/familiars/wormythebabypurpleworm.png)<span class="featTooltipContents">ID: 271**Wormy the Baby Purple Worm**I'll bite your ankles until you die!<img src="images/familiars/wormythebabypurpleworm.gif" alt="Wormy the Baby Purple Worm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Wormy the Baby Purple Worm
