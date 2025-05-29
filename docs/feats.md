@@ -73,10 +73,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span>Summer Spectacular</span>
         </span>
         <span class="featTableDate">
-            <span>11 Jun 2025<br>18 Sept 2025</span>
+            <span>11 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">

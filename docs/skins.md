@@ -51,10 +51,10 @@ Please be aware that the developers recently removed most future skins from the 
             Dragon Knight Hitch
         </span>
         <span class="skinTableSource">
-            ???
+            Summer Spectacular Giveaway - Summer Spectacular
         </span>
         <span class="skinTableCost">
-            ???
+            Free
         </span>
         <span class="skinTableDate">
             11 Jun 2025
@@ -317,6 +317,23 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 581**Chosen of Vecna Blooshi (Blooshi)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Chosen of Vecna Blooshi
+        </span>
+        <span class="skinTableSource">
+            Emergence 12
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            23 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 579**Chosen of Vecna Warduke (Warduke)**</span></span>
         </span>
         <span class="skinTableName">
@@ -327,6 +344,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableCost">
             1,680p
+        </span>
+        <span class="skinTableDate">
+            23 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 584**Gentleman Jarlaxle (Jarlaxle)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Gentleman Jarlaxle
+        </span>
+        <span class="skinTableSource">
+            Emergence 12
+        </span>
+        <span class="skinTableCost">
+            ???
         </span>
         <span class="skinTableDate">
             23 Jul 2025
