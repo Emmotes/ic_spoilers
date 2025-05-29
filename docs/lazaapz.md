@@ -232,21 +232,29 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Fury of the Brawl** (Guess)
-> Unknown.
+> Lazaapz's posse now also includes Champions with a melee base attack and is buffed by 100% (post-stack).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2399,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Icon_Banner",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": "Lazaapz's posse now also includes Champions with a melee base attack and is buffed by $amount% (post-stack)."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,17479",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 27018,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -256,21 +264,29 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Fury of the Cabal** (Guess)
-> Unknown.
+> Lazaapz's posse now also includes Evil Champions and is buffed by 150% (post-stack).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2400,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Icon_Blessings",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": "Lazaapz's posse now also includes Evil Champions and is buffed by $amount% (post-stack)."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,150,17479",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 27019,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -280,21 +296,29 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Fury of the Stall** (Guess)
-> Unknown.
+> Lazaapz's posse now also includes Champions with the Control role and is buffed by 150% (post-stack).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2401,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Icon_BlessingsTab",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": "Lazaapz's posse now also includes Champions with the Control role and is buffed by $amount% (post-stack)."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,150,17479",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 27020,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -304,21 +328,29 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Guardian** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2402,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Icon_Currency",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 27021,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -328,21 +360,29 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Infiltrator** (Guess)
-> Unknown.
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 2403,
-    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Icon_DivineFavor",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ]
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 27022,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
