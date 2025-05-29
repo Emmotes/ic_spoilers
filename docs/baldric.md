@@ -318,6 +318,7 @@ Unknown.
             "off_when_benched": true,
             "uggie_roaming_disable_index": 1,
             "uggie_priority": 1,
+            "call_uggie_ult_id": 883,
             "united_strike_ult_id": 881,
             "use_computed_amount_for_description": true
         },
