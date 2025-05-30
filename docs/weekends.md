@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/739.png">
-            <span class="weekendTooltipContents">ID: 739**Gold Star-Filled Chest**Loot for: Jang Sao, Jarlaxle, Calliope, Sheila and Miria<code>"for_crusaders":[140,4,5,160,121]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Stargazing**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    30 May 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Jang Sao
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jangsao.png'">
-                        <span class="weekendTableChampionNameplate">Jang Sao</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jarlaxle.png'">
-                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/sheila.png'">
-                        <span class="weekendTableChampionNameplate">Sheila</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/miria.png'">
-                        <span class="weekendTableChampionNameplate">Miria</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/741.png">
             <span class="weekendTooltipContents">ID: 741**Gold Commercial Chest**Loot for: Eric, Minsc, Celeste, Diana and Hank<code>"for_crusaders":[157,7,2,148,163]</code></span>
         </span>
