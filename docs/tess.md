@@ -354,7 +354,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
         "melee",
         "ultimate"
     ],
-    "damage_types": ""
+    "damage_types": []
 }
 </pre>
 </p>
