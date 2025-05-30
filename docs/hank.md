@@ -726,7 +726,7 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Dragon Slayer** (Guess)
-> Hank gains the Hunter role and Dragons become Hank's Favored Foe. Each non-boss area wave has a 50% chance to spawn a Dragon enemy. When a Dragon enemy is slain, Hank increases the effect of Stalwart Encouragement by 100%, stacking multiplicatively up to 10 times and reset when changing areas. Non-boss waves in boss areas always spawn a dragon, and when a dragon is slain in a boss area, it provides 5 stacks.
+> Hank gains the Hunter role with Dragons as his Favored Foe. Non-boss waves spawn a Dragon 50% of the time. Stalwart Encouragement’s effect is increased by 100% for each Dragon defeated in the current area, stacking multiplicatively up to 10 times. In boss areas, non-boss waves always spawn a dragon, and defeated dragons provide 5 stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -734,7 +734,7 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
     "id": 2328,
     "flavour_text": "",
     "description": {
-        "desc": "Hank gains the Hunter role and Dragons become Hank's Favored Foe. Each non-boss area wave has a $(not_buffed amount___3)% chance to spawn a Dragon enemy. When a Dragon enemy is slain, Hank increases the effect of Stalwart Encouragement by $(not_buffed amount___2)%, stacking multiplicatively up to $max_stacks___2 times and reset when changing areas. Non-boss waves in boss areas always spawn a dragon, and when a dragon is slain in a boss area, it provides 5 stacks."
+        "desc": "Hank gains the Hunter role with Dragons as his Favored Foe. Non-boss waves spawn a Dragon $(not_buffed amount___3)% of the time. Stalwart Encouragement’s effect is increased by $(not_buffed amount___2)% for each Dragon defeated in the current area, stacking multiplicatively up to $max_stacks___2 times. In boss areas, non-boss waves always spawn a dragon, and defeated dragons provide 5 stacks."
     },
     "effect_keys": [
         {
