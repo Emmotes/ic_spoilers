@@ -188,43 +188,6 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Call Uggie**
-> Baldric calls Uggie to his side.  
-> Cooldown: 0s (Cap 0s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 878,
-    "name": "Call Uggie",
-    "description": "Baldric calls Uggie to his side.",
-    "long_description": "Baldric calls Uggie to his side.",
-    "graphic_id": 26837,
-    "target": "none",
-    "num_targets": 0,
-    "aoe_radius": 0,
-    "damage_modifier": 0,
-    "cooldown": 0,
-    "animations": [
-        {
-            "type": "call_uggie_ultimate",
-            "no_damage_display": true
-        }
-    ],
-    "tags": [
-        "ultimate",
-        "ignore_cooldown_override"
-    ],
-    "damage_types": []
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Faith Aflame**
 > Baldric's mace ignites with radiant light, preventing Champions from being stunned and empowering his attacks for the duration it is aflame  
 > Cooldown: 360s (Cap 90s)
@@ -292,6 +255,80 @@ Unknown.
     "damage_types": [
         "ultimate"
     ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Call Uggie**
+> Baldric calls Uggie to his side.  
+> Cooldown: 0s (Cap 0s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 878,
+    "name": "Call Uggie",
+    "description": "Baldric calls Uggie to his side.",
+    "long_description": "Baldric calls Uggie to his side.",
+    "graphic_id": 26837,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0,
+    "cooldown": 0,
+    "animations": [
+        {
+            "type": "call_uggie_ultimate",
+            "no_damage_display": true
+        }
+    ],
+    "tags": [
+        "ultimate",
+        "ignore_cooldown_override"
+    ],
+    "damage_types": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Call Uggie**
+> Baldric calls Uggie to her side.  
+> Cooldown: 0s (Cap 0s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 883,
+    "name": "Call Uggie",
+    "description": "Baldric calls Uggie to her side.",
+    "long_description": "Baldric calls Uggie to her side.",
+    "graphic_id": 26837,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0,
+    "cooldown": 0,
+    "animations": [
+        {
+            "type": "call_uggie_ultimate",
+            "no_damage_display": true
+        }
+    ],
+    "tags": [
+        "ultimate",
+        "ignore_cooldown_override"
+    ],
+    "damage_types": []
 }
 </pre>
 </p>
@@ -554,7 +591,7 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Bargain: Eldath** (Guess)
+**Bargain: Tyr** (Guess)
 > Baldric increases the pre-stack bonus of Bargaining Power by 50%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -688,7 +725,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Bargain: Tyr** (Guess)
+**Bargain: Eldath** (Guess)
 > Baldric increases the effect of Healing Word by 100%. Additionally, Champions with the Healing role also count as Baldric's bargaining partners.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -722,7 +759,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Dark Bargain** (Guess)
+**Dark Bargain: Tyr** (Guess)
 > Baldric increases the pre-stack bonus of Bargaining Power by an additional 50%, but the effect of Healing Word is reduced by 99%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -741,6 +778,177 @@ Unknown.
         {
             "effect_string": "debuff_upgrade,99,17476",
             "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Dark Bargain: Moradin** (Guess)
+> The damage of Dwarf Champions is increased by 100% for each Dwarf in the formation, stacking multiplicatively, but you may only have one of each non-Dwarf species in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2390,
+    "flavour_text": "",
+    "description": {
+        "desc": "The damage of Dwarf Champions is increased by 100% for each Dwarf in the formation, stacking multiplicatively, but you may only have one of each non-Dwarf species in the formation."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasTag(`dwarf`)"
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Dark Bargain: Tymora** (Guess)
+> Bosses have a 10% chance to drop twice as many gems, but non boss area quest requirements are increased by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2391,
+    "flavour_text": "",
+    "description": {
+        "desc": "Bosses have a 10% chance to drop twice as many gems, but non boss area quest requirements are increased by 100%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Dark Bargain: Mystra** (Guess)
+> All Champions with magic base attacks deal an additional 5 seconds of BUD-based damage with each attack, but all Champions without a magic base attack no longer deal any damage with their base attacks.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2392,
+    "flavour_text": "",
+    "description": {
+        "desc": "All Champions with magic base attacks deal an additional 5 seconds of BUD-based damage with each attack, but all Champions without a magic base attack no longer deal any damage with their base attacks."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "base_attack_deal_bonus_damage,5",
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "has_base_attack_dmg_type_magic"
+                }
+            ]
+        },
+        {
+            "effect_string": "hero_dps_multiplier_reduce,100",
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "!has_base_attack_dmg_type_magic"
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Dark Bargain: Eldath** (Guess)
+> Champions are immune to damage for 15 seconds after the first instance of damage that they would take in every area (including that damage), but take 100% additional damage from all sources after that.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2393,
+    "flavour_text": "",
+    "description": {
+        "desc": "Champions are immune to damage for 15 seconds after the first instance of damage that they would take in every area (including that damage), but take 100% additional damage from all sources after that."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "baldric_dark_bargain_eldath_handler",
+            "duration": 15,
+            "immunity_effect_index": 1
+        },
+        {
+            "effect_string": "damage_reduction,100",
+            "apply_manually": true
         }
     ],
     "requirements": "",
