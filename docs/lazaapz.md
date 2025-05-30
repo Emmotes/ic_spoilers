@@ -174,7 +174,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "targets": [
                 "other"
             ],
-            "slot_expr": ""
+            "slot_expr": "distance_from_source"
         }
     ],
     "requirements": "",
