@@ -386,7 +386,7 @@ Miscellaneous spoilers with due dates.
 * [XBox Exclusive Giveaway](platform_giveaway_604.md) - 4 June 2025
 * Summer Spectacular (See Exclusivity Dates) - 11 June 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_589.md) - 8 July 2025
-* Emergence 12 - 23 July 2025
+* [Emergence 12](emergence_12.md) - 23 July 2025
 
 # Misc
 
