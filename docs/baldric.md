@@ -502,7 +502,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Shield of Faith** (Guess)
+**Shield of Filth** (Guess)
 > When Uggie is with Baldric, any Champion that is being targeted by Baldric's Healing Word can't take more than 33% of their max health in one hit.
 <details><summary><em>Raw Data</em></summary>
 <p>
