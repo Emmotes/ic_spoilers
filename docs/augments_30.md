@@ -5,12 +5,6 @@
 The augments for the upcoming Dragondown event.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
- **Boon Enhancements**
-
-> An additional boon buff at each level increases global damage based on the number of Pigments on Champions in the formation, stacking additively.  
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Auto-Blacksmith Augment Icon](images/augments/25026.png) **Auto-Blacksmith**
 
 > Event Champions whose recruitment adventure or variants you complete gain common rarity equipment in all slots, if they don't already have better.  
@@ -27,6 +21,12 @@ The augments for the upcoming Dragondown event.
 ![Golden Offers Augment Icon](images/augments/26163.png) **Golden Offers**
 
 > One of your weekly offers will be Golden during this event. Golden offers provide an additional 10% discount! The Golden tag persists when an offer is rerolled.  
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Boon Enhancements Augment Icon](images/augments/24139.png) **Boon Enhancements**
+
+> An additional boon buff at each level increases global damage for each Pigment applied to the Champions in your formation.  
 </div></div>
 
 [Back to Top](#top)
