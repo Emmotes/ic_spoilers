@@ -1572,7 +1572,7 @@ This list will only show feats that are going to be available on the release of 
             ![Foe Slayer Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2202**Foe Slayer (Hank)**This bow isn't just for show, you know. Go ahead. Make my day.<code>change_upgrade_data,17087,1</code></span>Foe Slayer
         </span>
         <span class="featTableEffect">
-            <span>17087% All Specialisations</span>
+            <span>Dragon Slayer Stacks From Any Favoured Foe Kill</span>
         </span>
         <span class="featTableSource">
             <span>3,830 Platinum<br>50,000 Gems</span>
