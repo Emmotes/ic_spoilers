@@ -6,7 +6,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 
 Please be aware that the developers recently removed most future skins from the defines to stop Jim from being able to select them with his Wand of Wonder. This means that getting the upcoming skins has become a lot trickier for me - and so this page might not be as accurate as it once was.
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: The skin portraits have tooltips which can include an animated model. Skin models can sometimes exist even when the portrait does not.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: The skin portraits have tooltips which can include an animated model. Skin models can sometimes exist even when the portrait does not. A ❌ indicates a skin with a portrait but no model - while a ✔️ indicates a skin with a model but no portrait.*
 
 <span class="skinTableColumn">
     <span class="skinTableRow">
@@ -113,7 +113,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon King Dungeon Master Portrait](images/skin_portraits/dragonkingdungeonmaster.png)<span class="featTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon King Dungeon Master Portrait](images/skin_portraits/dragonkingdungeonmaster.png)<span class="featTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
         </span>
         <span class="skinTableName">
             Dragon King Dungeon Master
@@ -130,7 +130,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 564**Skypirate Antrius (Antrius)**<img src="images/skin_models/skypirateantrius.gif" alt="Skypirate Antrius Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 564**Skypirate Antrius (Antrius)**<img src="images/skin_models/skypirateantrius.gif" alt="Skypirate Antrius Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
             Skypirate Antrius
