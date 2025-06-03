@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Heroic Presto Skin Portrait](images/skin_portraits/heroicpresto.png.png)<span class="itemTooltipContents">ID: 583**Heroic Presto (Presto)**<img src="images/skin_portraits/heroicpresto.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Heroic Presto Skin Portrait](images/skin_portraits/heroicpresto.png)<span class="itemTooltipContents">ID: 583**Heroic Presto (Presto)**<img src="images/skin_models/heroicpresto.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
