@@ -113,7 +113,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon King Dungeon Master Portrait](images/skin_portraits/dragonkingdungeonmaster.png)<span class="featTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**</span></span>
         </span>
         <span class="skinTableName">
             Dragon King Dungeon Master
