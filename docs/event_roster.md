@@ -21,7 +21,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="antrius" style="background-image:url(images/portraits/antrius.png)">Antrius (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="ravengard" style="background-image:url(images/portraits/ravengard.png)">Ravengard (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="hank" style="background-image:url(images/portraits/hank.png)">Hank<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="hank" style="background-image:url(images/portraits/hank.png)">Hank (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 </span>
 
 {:/nomarkdown}
