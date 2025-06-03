@@ -66,7 +66,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unseen Encouragement** (Guess)
-> K'thriss' unseen servant, Velvet, increases the damage of Champions not adjacent to K'thriss by 100% for each affected Champion, stacking multiplicatively. .
+> K'thriss' unseen servant, Velvet, increases the damage of Champions not adjacent to K'thriss by 100% for each affected Champion, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -74,7 +74,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2355,
     "flavour_text": "",
     "description": {
-        "desc": "K'thriss' unseen servant, Velvet, increases the damage of Champions not adjacent to K'thriss by $amount% for each affected Champion, stacking multiplicatively. "
+        "desc": "K'thriss' unseen servant, Velvet, increases the damage of Champions not adjacent to K'thriss by $amount% for each affected Champion, stacking multiplicatively."
     },
     "effect_keys": [
         {
