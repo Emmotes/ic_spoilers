@@ -93,7 +93,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Power Armour** (Guess)
-> 
+> Lazaapz has a set of Artificer Power Armor. She starts each area with 100 stacks of Power Armor. Damage taken by Lazaapz is decreased by a percentage equal to her current Power Armor stacks, but the armor consumes 1 stack of Power Armor each time she would take damage. Can not be decreased below 0.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -101,12 +101,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2395,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Lazaapz has a set of Artificer Power Armor. She starts each area with $amount stacks of Power Armor. Damage taken by Lazaapz is decreased by a percentage equal to her current Power Armor stacks, but the armor consumes 1 stack of Power Armor each time she would take damage. Can not be decreased below 0."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing",
-            "off_when_benched": true
+            "effect_string": "max_power_armour_stacks,100"
+        },
+        {
+            "effect_string": "damage_reduction,1",
+            "manual_stacking": true
+        },
+        {
+            "effect_string": "lazaapz_power_armour_v2"
         }
     ],
     "requirements": "",
@@ -115,7 +121,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "retain_on_slot_changed": true,
+        "show_outgoing_desc_when_benched": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -174,7 +185,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "targets": [
                 "other"
             ],
-            "slot_expr": "distance_from_source"
+            "slot_expr": "distance_from_source",
+            "retarget_when_any_hero_slot_changed": true,
+            "override_key_desc": "Increases the item level of $target's slot $target_distance_from_source equipment by $amount"
         }
     ],
     "requirements": "",
