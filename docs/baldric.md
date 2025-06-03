@@ -403,6 +403,10 @@ Unknown.
             "effect_string": "hero_dps_multiplier_mult,100",
             "off_when_benched": true,
             "amount_expr": "upgrade_amount(17472,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "0",
+            "post_process_expr": "num_targets",
             "targets": [
                 "all"
             ],
@@ -411,7 +415,14 @@ Unknown.
                     "type": "hero_expr",
                     "hero_expr": "GetStat(`cha`) >= 15 || HasTag(`fallbacks`) || ((GetUpgradeUnlocked(17492) || GetUpgradeUnlocked(17497) || GetUpgradeUnlocked(17507) || GetUpgradeUnlocked(17512) || GetUpgradeUnlocked(17517)) && HasTag(`dwarf`)) || ((GetUpgradeUnlocked(17493) || GetUpgradeUnlocked(17498) || GetUpgradeUnlocked(17503) || GetUpgradeUnlocked(17513) || GetUpgradeUnlocked(17518)) && HasTag(`gold`)) || ((GetUpgradeUnlocked(17494) || GetUpgradeUnlocked(17499) || GetUpgradeUnlocked(17504) || GetUpgradeUnlocked(17509) || GetUpgradeUnlocked(17519)) && has_base_attack_dmg_type_magic) || ((GetUpgradeUnlocked(17495) || GetUpgradeUnlocked(17499) || GetUpgradeUnlocked(17505) || GetUpgradeUnlocked(17510) || GetUpgradeUnlocked(17515)) && HasTag(`healing`))"
                 }
-            ]
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "stack_title": "Bargaining Partners",
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
@@ -511,7 +522,7 @@ Unknown.
     "id": 2382,
     "flavour_text": "",
     "description": {
-        "desc": "When Uggie is with Baldric, any Champion that is being targeted by Baldric's Healing Word can't take more than 33% of their max health in one hit."
+        "desc": "When Uggie is with Baldric, any Champion that is being targeted by Baldric's Healing Word can't take more than $(amount___2)% of their max health in one hit."
     },
     "effect_keys": [
         {
@@ -559,16 +570,24 @@ Unknown.
     "id": 2383,
     "flavour_text": "",
     "description": {
-        "desc": "When any Champion drops to or below 50% of their maximum health, Baldric lights his lantern for the rest of the current area and all healing received by Champions in the formation is increased by 100% for each Healing Champion in the formation, stacking multiplicatively."
+        "desc": "When any Champion drops to or below $health_percent% of their maximum health, Baldric lights his lantern for the rest of the current area and all healing received by Champions in the formation is increased by $(not_buffed amount___2)% for each Healing Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "effect_string": "baldric_healing_lantern_handler",
+            "health_percent": 50,
             "off_when_benched": true
         },
         {
-            "effect_string": "healing_mult, 100",
-            "off_when_benched": true,
+            "effect_string": "healing_mult,100",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`healing`)",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "apply_manually": true
         }
     ],
@@ -600,7 +619,7 @@ Unknown.
     "id": 2384,
     "flavour_text": "",
     "description": {
-        "desc": "Baldric increases the pre-stack bonus of Bargaining Power by 50%."
+        "desc": "Baldric increases the pre-stack bonus of Bargaining Power by $(not_buffed amount)%."
     },
     "effect_keys": [
         {
@@ -673,6 +692,19 @@ Unknown.
     "effect_keys": [
         {
             "effect_string": "add_hero_tags,0,gold"
+        },
+        {
+            "effect_string": "gold_multiplier_mult,100",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "0",
+            "post_process_expr": "GetUpgradeStacks(17472,1)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed",
+                "upgrade_unlocked"
+            ],
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -734,7 +766,7 @@ Unknown.
     "id": 2388,
     "flavour_text": "",
     "description": {
-        "desc": "Baldric increases the effect of Healing Word by 100%. Additionally, Champions with the Healing role also count as Baldric's bargaining partners."
+        "desc": "Baldric increases the effect of Healing Word by $(not_buffed amount)%. Additionally, Champions with the Healing role also count as Baldric's bargaining partners."
     },
     "effect_keys": [
         {
@@ -768,7 +800,7 @@ Unknown.
     "id": 2389,
     "flavour_text": "",
     "description": {
-        "desc": "Baldric increases the pre-stack bonus of Bargaining Power by an additional 50%, but the effect of Healing Word is reduced by 99%."
+        "desc": "Baldric increases the pre-stack bonus of Bargaining Power by an additional $(not_buffed amount)%, but the effect of Healing Word is reduced by $(amount___2)%."
     },
     "effect_keys": [
         {
@@ -806,7 +838,7 @@ Unknown.
     "id": 2390,
     "flavour_text": "",
     "description": {
-        "desc": "The damage of Dwarf Champions is increased by 100% for each Dwarf in the formation, stacking multiplicatively, but you may only have one of each non-Dwarf species in the formation."
+        "desc": "The damage of Dwarf Champions is increased by $(not_buffed amount)% for each Dwarf in the formation, stacking multiplicatively, but you may only have one of each non-Dwarf species in the formation."
     },
     "effect_keys": [
         {
@@ -821,6 +853,9 @@ Unknown.
                     "hero_expr": "HasTag(`dwarf`)"
                 }
             ]
+        },
+        {
+            "effect_string": "limit_formation_by_species_handler"
         }
     ],
     "requirements": "",
@@ -938,16 +973,27 @@ Unknown.
     "id": 2393,
     "flavour_text": "",
     "description": {
-        "desc": "Champions are immune to damage for 15 seconds after the first instance of damage that they would take in every area (including that damage), but take 100% additional damage from all sources after that."
+        "desc": "Champions are immune to damage for $duration seconds after the first instance of damage that they would take in every area (including that damage), but take $(amount___3)% additional damage from all sources after that."
     },
     "effect_keys": [
         {
             "effect_string": "baldric_dark_bargain_eldath_handler",
             "duration": 15,
-            "immunity_effect_index": 1
+            "immunity_effect_index": 1,
+            "damage_effect_index": 2
         },
         {
             "effect_string": "damage_reduction,100",
+            "targets": [
+                "all"
+            ],
+            "apply_manually": true
+        },
+        {
+            "effect_string": "damage_increase,100",
+            "targets": [
+                "all"
+            ],
             "apply_manually": true
         }
     ],
@@ -959,6 +1005,7 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true,
         "default_bonus_index": 0
     }
 }
