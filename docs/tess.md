@@ -325,7 +325,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
     "id": 875,
     "name": "Deadly Dance",
     "description": "Tess attacks the enemy with the most health, then teleports and attacks all nearby foes.",
-    "long_description": "Tess throws her dagger at the enemy with the most health for 1 ultimate hit, then teleports and deals another ultimate hit to all nearby foes. ",
+    "long_description": "Tess throws her dagger at the enemy with the most health for 1 ultimate hit, then teleports and deals another ultimate hit to all nearby foes.",
     "graphic_id": 26838,
     "target": "highest_health",
     "num_targets": 1,
@@ -933,8 +933,7 @@ Unknown.
 > Tess starts in the formation. She can't be moved or removed.  
 > Only Tess and Champions buffed by both her and Uggie can deal damage.  
 > 1-2 Intellect Devourers spawn with each wave. They don't drop gold nor count towards quest progress.  
-> Getting to Know Tess and Uggie: Tess increases the damage of Champions in the columns behind her, while Uggie increases the damage of Champions not next to Uggie. Place your damage dealers to take advantage of both buffs!  
-> 
+> Getting to Know Tess and Uggie: Tess increases the damage of Champions in the columns behind her, while Uggie increases the damage of Champions not next to Uggie. Place your damage dealers to take advantage of both buffs!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Tess's Treasure Seekers Icon](images/tess/26807.png) **Variant 2: Tess's Treasure Seekers** (Complete Area 125)
