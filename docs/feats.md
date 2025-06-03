@@ -30,6 +30,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Hank</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Foe Slayer Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2202**Foe Slayer (Hank)**This bow isn't just for show, you know. Go ahead. Make my day.<code>change_upgrade_data,17087,1</code></span>Foe Slayer
+        </span>
+        <span class="featTableEffect">
+            <span>17087% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>04 Jun 2025<br>04 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Ravengard</span>
         </span>
         <span class="featTableIcon4">
@@ -607,23 +624,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>+120% Crit Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Drizzt</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Death on Both Sides Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1303**Death on Both Sides (Drizzt)**You will die by either Guenhwyvar's fangs or my blade.<code>buff_upgrade,40,632</code></span>Death on Both Sides
-        </span>
-        <span class="featTableEffect">
-            <span>40% Icingdeath</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

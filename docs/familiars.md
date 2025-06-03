@@ -160,7 +160,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 272**Chompers the Aurumvorax**Don't open the chest, or you'll learn why we named him Chompers…</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Chompers the Aurumvorax Portrait](images/familiars/chomperstheaurumvorax.png)<span class="featTooltipContents">ID: 272**Chompers the Aurumvorax**Don't open the chest, or you'll learn why we named him Chompers…<img src="images/familiars/chomperstheaurumvorax.gif" alt="Chompers the Aurumvorax Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Chompers the Aurumvorax

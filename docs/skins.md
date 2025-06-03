@@ -79,6 +79,23 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Heroic Presto Portrait](images/skin_portraits/heroicpresto.png)<span class="featTooltipContents">ID: 583**Heroic Presto (Presto)**<img src="images/skin_models/heroicpresto.gif" alt="Heroic Presto Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Heroic Presto
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            11 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Reaper BBEG Portrait](images/skin_portraits/reaperbbeg.png)<span class="featTooltipContents">ID: 562**Reaper BBEG (BBEG)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/reaperbbeg.gif" alt="Reaper BBEG Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/reaperbbeg-zombie.gif" alt="Reaper BBEG Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
@@ -130,7 +147,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 564**Skypirate Antrius (Antrius)**<img src="images/skin_models/skypirateantrius.gif" alt="Skypirate Antrius Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Skypirate Antrius Portrait](images/skin_portraits/skypirateantrius.png)<span class="featTooltipContents">ID: 564**Skypirate Antrius (Antrius)**<img src="images/skin_models/skypirateantrius.gif" alt="Skypirate Antrius Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Skypirate Antrius
@@ -266,7 +283,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 575**Dungeoneer Deekin (Deekin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 575**Dungeoneer Deekin (Deekin)**<img src="images/skin_models/dungeoneerdeekin.gif" alt="Dungeoneer Deekin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
             Dungeoneer Deekin

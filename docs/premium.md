@@ -113,11 +113,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2202**Feat**???: 2202</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Foe Slayer Feat Portrait](images/featicons/favoredfoe.png)<span class="itemTooltipContents">ID: 2202**Foe Slayer**This bow isn't just for show, you know. Go ahead. Make my day.<code>change_upgrade_data,17087,1</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2202</span>
+            <span style="margin-left:15px">Foe Slayer</span>
+            <span style="margin-left:15px">Hank (17087% All Specialisations)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -638,7 +639,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 564**Skypirate Antrius (Antrius)**<img src="images/premiums/skin_564.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Skypirate Antrius Skin Portrait](images/premiums/skin_564.png)<span class="itemTooltipContents">ID: 564**Skypirate Antrius (Antrius)**<img src="images/premiums/skin_564.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1259,7 +1260,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 272**Chompers the Aurumvorax**Don't open the chest, or you'll learn why we named him Chompers…</span></span>
+            <span class="tooltipHolder">![Chompers the Aurumvorax Familiar Portrait](images/premiums/familiar_272.png)<span class="itemTooltipContents">ID: 272**Chompers the Aurumvorax**Don't open the chest, or you'll learn why we named him Chompers…<img src="images/premiums/familiar_272.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1320,7 +1321,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 575**Dungeoneer Deekin (Deekin)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 575**Dungeoneer Deekin (Deekin)**<img src="images/premiums/skin_575.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
