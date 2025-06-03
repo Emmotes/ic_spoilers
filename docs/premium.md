@@ -118,7 +118,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Foe Slayer</span>
-            <span style="margin-left:15px">Hank (17087% All Specialisations)</span>
+            <span style="margin-left:15px">Hank (Dragon Slayer Stacks From Any Favoured Foe Kill)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
