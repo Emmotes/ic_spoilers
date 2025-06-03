@@ -85,7 +85,7 @@ Please be aware that the developers recently removed most future skins from the 
             Heroic Presto
         </span>
         <span class="skinTableSource">
-            Steam Platform Giveaway
+            Steam Exclusive Giveaway
         </span>
         <span class="skinTableCost">
             ???
