@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dracolich Duke Ravengard Portrait](images/skin_portraits/dracolichdukeravengard.png)<span class="featTooltipContents">ID: 559**Dracolich Duke Ravengard (Ravengard)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/dracolichdukeravengard.gif" alt="Dracolich Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/dracolichdukeravengard-enflamed.gif" alt="Dracolich Duke Ravengard Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Dracolich Duke Ravengard
-        </span>
-        <span class="skinTableSource">
-            Dracolich Duke Ravengard Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            04 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragonslayer Hank Portrait](images/skin_portraits/dragonslayerhank.png)<span class="featTooltipContents">ID: 560**Dragonslayer Hank (Hank)**<img src="images/skin_models/dragonslayerhank.gif" alt="Dragonslayer Hank Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragonslayer Hank
-        </span>
-        <span class="skinTableSource">
-            Dragonslayer Hank Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            04 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dragon Knight Hitch Portrait](images/skin_portraits/dragonknighthitch.png)<span class="featTooltipContents">ID: 582**Dragon Knight Hitch (Hitch)**<img src="images/skin_models/dragonknighthitch.gif" alt="Dragon Knight Hitch Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

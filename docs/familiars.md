@@ -7,57 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Amber the Faerie Dragon Portrait](images/familiars/amberthefaeriedragon.png)<span class="featTooltipContents">ID: 277**Amber the Faerie Dragon**You're the one who woke the giant ants up, not me!<img src="images/familiars/amberthefaeriedragon.gif" alt="Amber the Faerie Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Amber the Faerie Dragon
-        </span>
-        <span class="skinTableSource">
-            Dungeon Master's Champions of Renown Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            04 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Shimmer the Baby Silver Dragon Portrait](images/familiars/shimmerthebabysilverdragon.png)<span class="featTooltipContents">ID: 267**Shimmer the Baby Silver Dragon**He might be small, but he can eat. Watch out for your turkey leg!<img src="images/familiars/shimmerthebabysilverdragon.gif" alt="Shimmer the Baby Silver Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Shimmer the Baby Silver Dragon
-        </span>
-        <span class="skinTableSource">
-            Shimmer the Baby Silver Dragon Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            04 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Verdant the Baby Green Dragon Portrait](images/familiars/verdantthebabygreendragon.png)<span class="featTooltipContents">ID: 263**Verdant the Baby Green Dragon**By the time you see him, it's too late!<img src="images/familiars/verdantthebabygreendragon.gif" alt="Verdant the Baby Green Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Verdant the Baby Green Dragon
-        </span>
-        <span class="skinTableSource">
-            Dragonslayer Hank Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            04 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Noctis the Baby Deep Dragon Portrait](images/familiars/noctisthebabydeepdragon.png)<span class="featTooltipContents">ID: 265**Noctis the Baby Deep Dragon**She barters in secrets.<img src="images/familiars/noctisthebabydeepdragon.gif" alt="Noctis the Baby Deep Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
