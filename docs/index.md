@@ -23,31 +23,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="hank.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Hank Portrait Icon](images/hank/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Hank
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Ranger of Saturday Morning Squad</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dragondown - 4 June 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="tess.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -197,31 +172,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Dragondown - 4 June 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="hank.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Hank Portrait Icon](images/hank/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Hank
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Ranger of Saturday Morning Squad</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 {::nomarkdown}
 <a href="krond.html">
 {:/nomarkdown}
@@ -383,7 +333,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 Miscellaneous spoilers with due dates.
 
 * [Dragondown Augments](augments_30.md) - 4 June 2025
-* [XBox Exclusive Giveaway](platform_giveaway_604.md) - 4 June 2025
 * [Steam Exclusive Giveaway](giveaway_steam_1749661200.md) - 11 June 2025
 * Summer Spectacular (See Exclusivity Dates) - 11 June 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_589.md) - 8 July 2025

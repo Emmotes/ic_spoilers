@@ -11,6 +11,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Feast of the Giants Celebration](archive/feastofthegiants.md)
 * [Festival of Fools Augments](archive/augments_16.md)
 * [Grimm](archive/grimm.md)
+* [Hank](archive/hank.md)
 * [Ishi](archive/ishi.md)
 * [Kalix](archive/kalix.md)
 * [Mehen](archive/mehen.md)
