@@ -312,6 +312,32 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Krond can equip a single Cantrip Feat at a time, adding that spell to his base attack. Krond's Cantrips are Fire Bolt, Shocking Grasp, and Thunderclap, with each getting stronger Feat versions at Rare and eventually Epic. When you acquire the stronger versions of the Feats, they will replace the lower-level versions.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2406,
+    "flavour_text": "",
+    "description": {
+        "desc": "Krond can equip a single Cantrip Feat at a time, adding that spell to his base attack. Krond's Cantrips are Fire Bolt, Shocking Grasp, and Thunderclap, with each getting stronger Feat versions at Rare and eventually Epic. When you acquire the stronger versions of the Feats, they will replace the lower-level versions."
+    },
+    "effect_keys": [],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
