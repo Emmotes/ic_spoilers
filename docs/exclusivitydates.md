@@ -475,6 +475,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span>28 Aug 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Hank</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Foe Slayer Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2202**Foe Slayer (Hank)**This bow isn't just for show, you know. Go ahead. Make my day.<code>change_upgrade_data,17087,1</code></span>Foe Slayer
+        </span>
+        <span class="featTableEffect">
+            <span>Dragon Slayer Stacks From Any Favoured Foe Kill</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>04 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ravengard</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1823**Morale Boost (Ravengard)**This is what our soldiers needed - hope.<code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
+        </span>
+        <span class="featTableEffect">
+            <span>+20 Max Stacks to Critical Teamwork</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>04 Sept 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
