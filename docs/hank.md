@@ -328,10 +328,11 @@ Hank will be a new champion in the Dragondown event on 4 June 2025.
         }
     ],
     "tags": [
-        "ultimate"
+        "ultimate",
+        "ranged"
     ],
     "damage_types": [
-        "melee"
+        "ranged"
     ]
 }
 </pre>
