@@ -96,7 +96,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon King Dungeon Master Portrait](images/skin_portraits/dragonkingdungeonmaster.png)<span class="featTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon King Dungeon Master Portrait](images/skin_portraits/dragonkingdungeonmaster.png)<span class="featTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**<img src="images/skin_models/dragonkingdungeonmaster.gif" alt="Dragon King Dungeon Master Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragon King Dungeon Master

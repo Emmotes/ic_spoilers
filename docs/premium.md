@@ -226,7 +226,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Dragon King Dungeon Master Skin Portrait](images/premiums/skin_563.png)<span class="itemTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**</span></span>
+            <span class="tooltipHolder">![Dragon King Dungeon Master Skin Portrait](images/premiums/skin_563.png)<span class="itemTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**<img src="images/premiums/skin_563.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
