@@ -332,7 +332,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Dragondown Augments](augments_30.md) - 4 June 2025
 * [Steam Exclusive Giveaway](giveaway_steam_1749661200.md) - 11 June 2025
 * Summer Spectacular (See Exclusivity Dates) - 11 June 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_589.md) - 8 July 2025

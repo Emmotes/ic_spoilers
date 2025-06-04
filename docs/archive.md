@@ -6,6 +6,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 
 * [Apothecary / Notary System](archive/apothecary_notary.md)
 * [Beadle](archive/beadle.md)
+* [Dragondown Augments](archive/augments_30.md)
 * [Emergence 10](archive/emergence_10.md)
 * [Emergence 11](archive/emergence_11.md)
 * [Feast of the Giants Celebration](archive/feastofthegiants.md)
