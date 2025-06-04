@@ -101,11 +101,20 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2395,
     "flavour_text": "",
     "description": {
-        "desc": "Lazaapz has a set of Artificer Power Armor. She starts each area with $amount stacks of Power Armor. Damage taken by Lazaapz is decreased by a percentage equal to her current Power Armor stacks, but the armor consumes 1 stack of Power Armor each time she would take damage. Can not be decreased below 0."
+        "desc": "Lazaapz has a set of Artificer Power Armor. She starts each area with $lazaapz_max_power_armour_stacks stacks of Power Armor. Damage taken by Lazaapz is decreased by a percentage equal to her current Power Armor stacks, but the armor consumes 1 stack of Power Armor each time she would take damage. Can not be decreased below 0.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^$lazaapz_power_armour_desc"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
-            "effect_string": "max_power_armour_stacks,100"
+            "effect_string": "max_power_armour_stacks,100",
+            "show_bonus": false
         },
         {
             "effect_string": "damage_reduction,1",
@@ -125,8 +134,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "retain_on_slot_changed": true,
         "show_outgoing_desc_when_benched": false,
         "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -357,7 +365,20 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing",
+            "effect_string": "add_hero_tags,0,debuff",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade_add_flat_amount,25,17480,0",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "change_base_attack,326",
+            "off_when_benched": true,
+            "apply_manually": true
+        },
+        {
+            "effect_string": "lazaapz_guardian",
             "off_when_benched": true
         }
     ],
@@ -377,7 +398,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Infiltrator** (Guess)
-> 
+> The effect of Fury of the Small is increased by 5% for each missing stack of Power Armor, stacking multiplicatively, and when an enemy is defeated Lazaapz regains one stack of Power Armor. Can not go over her maximum stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -385,12 +406,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2403,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "The effect of Fury of the Small is increased by $(not_buffed amount)% for each missing stack of Power Armor, stacking multiplicatively, and when an enemy is defeated Lazaapz regains one stack of Power Armor. Can not go over her maximum stacks."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing",
-            "off_when_benched": true
+            "effect_string": "buff_upgrade,5,17479",
+            "off_when_benched": true,
+            "amount_func": "mult",
+            "stack_func": "per_lazaapz_missing_power_armour",
+            "amount_updated_listeners": [
+                "lazaapz_power_armour_changed"
+            ],
+            "show_bonus": true
         }
     ],
     "requirements": "",
