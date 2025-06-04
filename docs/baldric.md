@@ -532,6 +532,7 @@ Unknown.
         {
             "effect_string": "max_health_percent_per_hit,33",
             "off_when_benched": true,
+            "use_computed_amount_for_description": true,
             "apply_manually": true,
             "targets": [
                 "all"
@@ -541,6 +542,9 @@ Unknown.
                     "type": "not_affected_by_upgrade",
                     "upgrade_id": 17476
                 }
+            ],
+            "amount_updated_listeners": [
+                "feat_changed"
             ]
         }
     ],
@@ -552,7 +556,7 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -855,7 +859,12 @@ Unknown.
             ]
         },
         {
-            "effect_string": "limit_formation_by_species_handler"
+            "effect_string": "limit_formation_by_tags_handler",
+            "num_per_tag": 1,
+            "tag_category": 1,
+            "exclude_tags": [
+                "dwarf"
+            ]
         }
     ],
     "requirements": "",
@@ -876,7 +885,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Dark Bargain: Tymora** (Guess)
-> Bosses have a 10% chance to drop twice as many gems, but non boss area quest requirements are increased by 100%.
+> Bosses have a 10 chance to drop twice as many gems, but non boss area quest requirements are increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -884,11 +893,23 @@ Unknown.
     "id": 2391,
     "flavour_text": "",
     "description": {
-        "desc": "Bosses have a 10% chance to drop twice as many gems, but non boss area quest requirements are increased by 100%."
+        "desc": "Bosses have a $amount chance to drop twice as many gems, but non boss area quest requirements are increased by 100%."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "chance_effect_on_area_change,10",
+            "only_boss_areas": true,
+            "only_highest_area": true,
+            "effect_chance_indices": [
+                1
+            ]
+        },
+        {
+            "effect_string": "increase_boss_gems_percent,100",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "quest_requirements_mult,2"
         }
     ],
     "requirements": "",
