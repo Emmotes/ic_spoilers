@@ -197,12 +197,12 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Jamilah
+                        Golden Epic for Tess
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jamilah.png'">
-                        <span class="weekendTableChampionNameplate">Jamilah</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tess.png'">
+                        <span class="weekendTableChampionNameplate">Tess</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
                         <span class="weekendTableChampionNameplate">Makos</span>
@@ -213,8 +213,8 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/melf.png'">
                         <span class="weekendTableChampionNameplate">Melf</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tess.png'">
-                        <span class="weekendTableChampionNameplate">Tess</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jamilah.png'">
+                        <span class="weekendTableChampionNameplate">Jamilah</span>
                     </span>
                 </span>
             </span>
@@ -240,12 +240,12 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Hitch
+                        Golden Epic for K'thriss
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hitch.png'">
-                        <span class="weekendTableChampionNameplate">Hitch</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kthriss.png'">
+                        <span class="weekendTableChampionNameplate">K'thriss</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
                         <span class="weekendTableChampionNameplate">Calliope</span>
@@ -256,8 +256,8 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/bobby.png'">
                         <span class="weekendTableChampionNameplate">Bobby</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kthriss.png'">
-                        <span class="weekendTableChampionNameplate">K'thriss</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hitch.png'">
+                        <span class="weekendTableChampionNameplate">Hitch</span>
                     </span>
                 </span>
             </span>
