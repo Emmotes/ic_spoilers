@@ -713,6 +713,51 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![XBox Giveaway Dungeon Master's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Dungeon Master's Champions of Renown Pack
+            </span>
+        </span>
+        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Amber the Faerie Dragon Familiar Icon](images/exclusivities/fam_277.png)<span class="featTooltipContents">ID: 277**Amber the Faerie Dragon**You're the one who woke the giant ants up, not me!<br><img src="images/exclusivities/fam_277.gif" alt="Amber the Faerie Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Amber the Faerie Dragon</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>04 June 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>11 June 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>11 September 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -768,13 +813,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                <a id="g5a" onclick="exclusiveToggleContent(`g5`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Steam Giveaway Briv's Champions of Renown Pack Icon](images/general/steam.png)**Steam Giveaway** - Briv's Champions of Renown Pack
             </span>
         </span>
-        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+        <span id="g5" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
