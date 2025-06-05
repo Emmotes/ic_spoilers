@@ -768,6 +768,60 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Steam Giveaway Briv's Champions of Renown Pack Icon](images/general/steam.png)**Steam Giveaway** - Briv's Champions of Renown Pack
+            </span>
+        </span>
+        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Heroic Presto Skin Icon](images/exclusivities/skin_27029.png)<span class="featTooltipContents">ID: 583**Heroic Presto (Presto)**<img src="images/exclusivities/skin_27026.gif" alt="Heroic Presto Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Heroic Presto</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Clove the Badger Familiar Icon](images/exclusivities/fam_249.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<br><img src="images/exclusivities/fam_249.gif" alt="Clove the Badger Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Clove the Badger</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>11 June 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>18 June 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>18 September 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="e11a" onclick="exclusiveToggleContent(`e11`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
