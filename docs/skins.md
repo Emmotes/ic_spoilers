@@ -249,7 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 575**Dungeoneer Deekin (Deekin)**<img src="images/skin_models/dungeoneerdeekin.gif" alt="Dungeoneer Deekin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dungeoneer Deekin Portrait](images/skin_portraits/dungeoneerdeekin.png)<span class="featTooltipContents">ID: 575**Dungeoneer Deekin (Deekin)**<img src="images/skin_models/dungeoneerdeekin.gif" alt="Dungeoneer Deekin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dungeoneer Deekin
