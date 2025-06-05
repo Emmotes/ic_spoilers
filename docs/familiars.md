@@ -7,6 +7,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Clove the Badger Portrait](images/familiars/clovethebadger.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<img src="images/familiars/clovethebadger.gif" alt="Clove the Badger Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Clove the Badger
+        </span>
+        <span class="skinTableSource">
+            Steam Giveaway - Briv's Champions of Renown Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            11 Jun 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Noctis the Baby Deep Dragon Portrait](images/familiars/noctisthebabydeepdragon.png)<span class="featTooltipContents">ID: 265**Noctis the Baby Deep Dragon**She barters in secrets.<img src="images/familiars/noctisthebabydeepdragon.gif" alt="Noctis the Baby Deep Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -241,23 +258,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             27 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Clove the Badger Portrait](images/familiars/clovethebadger.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<img src="images/familiars/clovethebadger.gif" alt="Clove the Badger Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Clove the Badger
-        </span>
-        <span class="skinTableSource">
-            None
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
         </span>
     </span>
 </span>

@@ -51,7 +51,7 @@ Please be aware that the developers recently removed most future skins from the 
             Heroic Presto
         </span>
         <span class="skinTableSource">
-            Steam Exclusive Giveaway
+            Steam Giveaway - Briv's Champions of Renown Pack
         </span>
         <span class="skinTableCost">
             ???
