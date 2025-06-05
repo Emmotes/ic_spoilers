@@ -22,6 +22,15 @@ Contents:
             <span style="margin-left:15px">Heroic Presto</span>
         </span>
     </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Clove the Badger Familiar Portrait](images/familiars/clovethebadger.png)<span class="itemTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<img src="images/familiars/clovethebadger.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Clove the Badger</span>
+        </span>
+    </span>
 </span>
 </div></div>
 
