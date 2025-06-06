@@ -260,6 +260,40 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             27 Aug 2025
         </span>
     </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 283**Animated Silver Sword**</span></span>
+        </span>
+        <span class="skinTableName">
+            Animated Silver Sword
+        </span>
+        <span class="skinTableSource">
+            None
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 278**Professor Griff**</span></span>
+        </span>
+        <span class="skinTableName">
+            Professor Griff
+        </span>
+        <span class="skinTableSource">
+            None
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
