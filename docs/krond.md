@@ -27,7 +27,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: War Magic** (Guess)
-> Krond leaps out and attacks the front-most target with his bonded warhammer. If you have a cantrip feat equipped, he then casts the given cantrip.  
+> Krond leaps out and attacks the front-most target with his bonded warhammer. If you have a Cantrip Feat equipped, he then casts the given Cantrip.  
 > Cooldown: 5.25s (Cap 1.3125s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -35,7 +35,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "id": 862,
     "name": "War Magic",
-    "description": "Krond leaps out and attacks the front-most target with his bonded warhammer. If you have a cantrip feat equipped, he then casts the given cantrip.",
+    "description": "Krond leaps out and attacks the front-most target with his bonded warhammer. If you have a Cantrip Feat equipped, he then casts the given Cantrip.",
     "long_description": "",
     "graphic_id": 0,
     "target": "front",
@@ -495,7 +495,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Eldritch Strike** (Guess)
-> Krond gains the Debuff role and enemies damaged by Krond take an additional 400% damage from all of his subsequent attacks, including any cantrip spells.
+> Krond gains the Debuff role and enemies damaged by Krond take an additional 400% damage from all of his subsequent attacks, including any Cantrip spells.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -503,7 +503,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2334,
     "flavour_text": "",
     "description": {
-        "desc": "Krond gains the Debuff role and enemies damaged by Krond take an additional $amount% damage from all of his subsequent attacks, including any cantrip spells."
+        "desc": "Krond gains the Debuff role and enemies damaged by Krond take an additional $amount% damage from all of his subsequent attacks, including any Cantrip spells."
     },
     "effect_keys": [
         {
@@ -603,7 +603,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: War Magic** (Guess)
-> Krond's Cantrip feats now deal BUD-based damage equal to 5 seconds of BUD-based damage for each 100% of Krond's base damage that they normally deal.
+> Krond's Cantrip Feats now deal damage equal to 5 seconds of BUD-based damage for each 100% of Krond's base damage that they normally deal.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -611,7 +611,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2336,
     "flavour_text": "",
     "description": {
-        "desc": "Krond's Cantrip feats now deal BUD-based damage equal to $amount seconds of BUD-based damage for each $increase_threshold% of Krond's base damage that they normally deal."
+        "desc": "Krond's Cantrip Feats now deal damage equal to $amount seconds of BUD-based damage for each $increase_threshold% of Krond's base damage that they normally deal."
     },
     "effect_keys": [
         {
