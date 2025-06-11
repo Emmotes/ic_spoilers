@@ -15,6 +15,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Hank](archive/hank.md)
 * [Ishi](archive/ishi.md)
 * [Kalix](archive/kalix.md)
+* [Krond](archive/krond.md)
 * [Mehen](archive/mehen.md)
 * [New Champion Roles](archive/new_champion_roles.md)
 * [Notary System](archive/notary.md)
