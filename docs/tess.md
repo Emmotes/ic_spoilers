@@ -278,11 +278,9 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Call Uggie**
+**Base Attack: Call Uggie**
 > Tess calls Uggie to her side.  
 > Cooldown: 0s (Cap 0s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -304,7 +302,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
         }
     ],
     "tags": [
-        "ultimate",
+        "ignore_familiar",
         "ignore_cooldown_override"
     ],
     "damage_types": []
@@ -362,7 +360,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: United Strike (Deadly Dance)**
+**Base Attack: United Strike (Deadly Dance)** (Ranged and Melee)
 > Tess directs all the Fallbacks to attack with their ultimate attack, including her own Deadly Dance.  
 > Cooldown: 360s (Cap 90s)
 <details><summary><em>Raw Data</em></summary>
@@ -386,8 +384,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
     ],
     "tags": [
         "ranged",
-        "melee",
-        "ultimate"
+        "melee"
     ],
     "damage_types": [
         "ranged",
