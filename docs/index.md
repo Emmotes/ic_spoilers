@@ -425,6 +425,7 @@ Miscellaneous spoilers with due dates.
 * Summer Spectacular (See Exclusivity Dates) - 11 June 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_589.md) - 8 July 2025
 * [Emergence 12](emergence_12.md) - 23 July 2025
+* [New Campaign: Tales of the Champions](campaign_tales.md) - 27 August 2025 (Guess)
 
 # Misc
 
