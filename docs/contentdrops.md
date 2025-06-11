@@ -387,7 +387,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Tales 1 - 27 August 2025
 
-<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md) and contain a new evergreen champion.
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
