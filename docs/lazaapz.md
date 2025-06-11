@@ -23,6 +23,206 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
+# Attacks
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Stunning Gauntlet** (Guess)
+> Lazaapz attacks and stuns the nearest enemy. Every fifth attack, she uses her Grappling Fist to pull an enemy closer to her instead.  
+> Cooldown: 4.5s (Cap 1.125s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 888,
+    "name": "Stunning Gauntlet",
+    "description": "Lazaapz attacks and stuns the nearest enemy. Every fifth attack, she uses her Grappling Fist to pull an enemy closer to her instead.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.5,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "stun_on_hit": 0.5,
+            "stun_graphic": 1509,
+            "stun_chance": 100,
+            "power_up_sequence": {
+                "start_frame": 0,
+                "end_frame": 1
+            },
+            "sequences": [
+                {
+                    "start_frame": 1,
+                    "end_frame": 11,
+                    "damage_frame": 3
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Repair Mode** (Guess)
+> Lazaapz is currently repairing her armor and will not attack until she is finished.  
+> Cooldown: 4.5s (Cap 1.125s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 889,
+    "name": "Repair Mode",
+    "description": "Lazaapz is currently repairing her armor and will not attack until she is finished.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0,
+    "cooldown": 4.5,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "no_damage_display": true,
+            "no_jump": true,
+            "no_cooldown_display": true
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Gauntlet Launcher** (Guess)
+>   
+> Cooldown: 4.5s (Cap 1.125s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 890,
+    "name": "Gauntlet Launcher",
+    "description": "",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "back",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 0,
+    "cooldown": 4.5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "animation_sequence_name": "attack_b",
+            "shoot_offset_x": 62,
+            "shoot_offset_y": -15,
+            "shoot_frame": 10,
+            "hold_shoot_frame": true,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "bonus_damage_from": {
+                "type": "seconds_of_bud",
+                "amount": 15,
+                "bud_override_upgrade_id": 17487,
+                "bud_override_index": 4
+            },
+            "force_count_for_bud": false,
+            "projectile_details": {
+                "hash": "669349bf350cfaad7ed8d982a6d531a8",
+                "target_offset_y": -60,
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 8610,
+                "projectile_graphic_skin_property": "closed_fist_graphic_id",
+                "tween_func": "quad_in",
+                "hit_monsters_moved_through": true,
+                "push_monsters_moved_through": true,
+                "move_across_entire_screen": true,
+                "line_thickness": 200,
+                "trail": {
+                    "show_t": 0,
+                    "particle_graphic_ids": [
+                        692,
+                        694,
+                        695
+                    ],
+                    "initial_rotation": 180,
+                    "match_projectile_rotation": true,
+                    "lifespan": 0.3,
+                    "spawn_rate": 150,
+                    "spawn_shape_scale": {
+                        "x": 10,
+                        "y": 10
+                    },
+                    "initial_velocity": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "velocity_jitter": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "rotation_jitter": 10,
+                    "alpha_lerp": {
+                        "0": 0,
+                        "0.1": 1,
+                        "1": 0
+                    },
+                    "scale_lerp": {
+                        "0": {
+                            "x": 0.45,
+                            "y": 0.45
+                        },
+                        "0.5": {
+                            "x": 0.45,
+                            "y": 0.45
+                        },
+                        "1": {
+                            "x": 0.17,
+                            "y": 0.17
+                        }
+                    },
+                    "tint_lerp": {
+                        "0": "#FFFFFF",
+                        "0.3": "#FFFFFF",
+                        "1": "#444444"
+                    }
+                }
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -144,7 +344,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Contigency Plan** (Guess)
-> 
+> When Lazaapz's Power Armor stacks reach 0, her armor sends out a massive shockwave, dealing 120 seconds of BUD damage to all enemies and pushing them back to the far side of the screen. Lazaapz then drops her shield and retreats to behind the formation, her armor shuts down, and she begins to repair it, taking 10 seconds for each time the armor has shut down in the current area (including this time). Upon finishing her work, she leaps back to her original location, knocking back any enemies that she encounters on her way, grabbing her shield, and refilling her Power Armor stacks to full.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -152,12 +352,20 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2396,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "When Lazaapz's Power Armor stacks reach 0, her armor sends out a massive shockwave, dealing $amount seconds of BUD damage to all enemies and pushing them back to the far side of the screen. Lazaapz then drops her shield and retreats to behind the formation, her armor shuts down, and she begins to repair it, taking $repair_time seconds for each time the armor has shut down in the current area (including this time). Upon finishing her work, she leaps back to her original location, knocking back any enemies that she encounters on her way, grabbing her shield, and refilling her Power Armor stacks to full."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing",
-            "off_when_benched": true
+            "effect_string": "lazaapz_contigency_plan,120",
+            "repair_time": 10,
+            "push_amount": 1000,
+            "shockwave_graphic": 26953,
+            "shield_graphic": 26955,
+            "repair_pos": [
+                90,
+                400
+            ],
+            "jump_height": 150
         }
     ],
     "requirements": "",
@@ -166,7 +374,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "retain_on_slot_changed": true,
+        "show_outgoing_desc_when_benched": false
     }
 }
 </pre>
@@ -353,7 +563,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Guardian** (Guess)
-> 
+> Lazaapz gains the Debuff role. Power Armor's max stacks are additively increased by 25. Whenever her Power Armor stacks loses a multiple of 25 Lazaapz engages her Gauntlet Launcher, blasting her armor's gauntlet through all enemies in a line. The gauntlet deals 15 seconds of BUD damage to each enemy, knocks them back and to the side, and causes them to take 1000% extra damage from all sources until defeated. The debuff stacks multiplicatively for each Gauntlet Launcher an enemy is hit by, up to a max of 5 stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -361,25 +571,39 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2402,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Lazaapz gains the Debuff role. Power Armor's max stacks are additively increased by $amount___2. Whenever her Power Armor stacks loses a multiple of $frequency___4 Lazaapz engages her Gauntlet Launcher, blasting her armor's gauntlet through all enemies in a line. The gauntlet deals $amount___5 seconds of BUD damage to each enemy, knocks them back and to the side, and causes them to take $(not_buffed amount___4)% extra damage from all sources until defeated. The debuff stacks multiplicatively for each Gauntlet Launcher an enemy is hit by, up to a max of 5 stacks."
     },
     "effect_keys": [
         {
-            "effect_string": "add_hero_tags,0,debuff",
-            "off_when_benched": true
+            "effect_string": "add_hero_tags,0,debuff"
         },
         {
-            "effect_string": "buff_upgrade_add_flat_amount,25,17480,0",
-            "off_when_benched": true
+            "effect_string": "buff_upgrade_add_flat_amount,25,17480,0"
         },
         {
-            "effect_string": "change_base_attack,326",
-            "off_when_benched": true,
+            "effect_string": "change_base_attack,890",
             "apply_manually": true
         },
         {
-            "effect_string": "lazaapz_guardian",
-            "off_when_benched": true
+            "effect_string": "lazaapz_guardian,1000",
+            "frequency": 25,
+            "debuffing_attack_ids": [
+                890
+            ],
+            "debuff_before_damage": true,
+            "debuff_effects": [
+                {
+                    "effect_string": "increase_monster_damage,1000",
+                    "manual_stacking": true,
+                    "max_stacks": 5,
+                    "stacks_multiply": true,
+                    "use_collection_source": true,
+                    "stacks_on_reapply": true
+                }
+            ]
+        },
+        {
+            "effect_string": "launcher_bud_damage,15"
         }
     ],
     "requirements": "",
@@ -388,7 +612,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "retain_on_slot_changed": true,
+        "show_outgoing_desc_when_benched": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 3
     }
 }
 </pre>
