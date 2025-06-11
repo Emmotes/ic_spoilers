@@ -223,7 +223,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             ![Cantrip: Ascendant Shocking Grasp Icon](images/featicons/krondshockinggrasp.png)<span class="featTooltipContents">ID: 2218**Cantrip: Ascendant Shocking Grasp (Krond)**Few can survive the lightning strike of a rampaging kraken. I did. Let's see how you fare.<code>krond_shocking_grasp,1600,4<br>change_base_attack,864<br>add_hero_tags,0,control</code></span>Cantrip: Ascendant Shocking Grasp
         </span>
         <span class="featTableEffect">
-            <span>+1600% to Krond's Base Attack and Stuns (Adds Control role) & Counts as Control</span>
+            <span>+1600% to Krond's Base Attack and Stuns & Counts as Control</span>
         </span>
         <span class="featTableSource">
             <span>Emergence 12</span>
