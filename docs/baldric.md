@@ -98,12 +98,9 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/baldric/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Baldric" fill="#aaa" data-formationName="Baldric" data-campaignName="Founders' Day" width="312" height="160"><circle cx="175" cy="65" r="15"/><circle cx="175" cy="105" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Baldric</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Founders' Day</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -226,7 +223,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: United Strike (Faith Aflame)**
+**Base Attack: United Strike (Faith Aflame)** (Ultimate)
 > Baldric directs all the Fallbacks to attack with their ultimate attack, including his own Faith Aflame.  
 > Cooldown: 360s (Cap 90s)
 <details><summary><em>Raw Data</em></summary>
@@ -249,8 +246,7 @@ Unknown.
         }
     ],
     "tags": [
-        "melee",
-        "ultimate"
+        "melee"
     ],
     "damage_types": [
         "ultimate"
@@ -262,11 +258,9 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Call Uggie**
+**Base Attack: Call Uggie**
 > Baldric calls Uggie to his side.  
 > Cooldown: 0s (Cap 0s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -288,7 +282,7 @@ Unknown.
         }
     ],
     "tags": [
-        "ultimate",
+        "ignore_familiar",
         "ignore_cooldown_override"
     ],
     "damage_types": []
@@ -299,19 +293,17 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Call Uggie**
-> Baldric calls Uggie to her side.  
+**Base Attack: Call Uggie**
+> Baldric calls Uggie to his side.  
 > Cooldown: 0s (Cap 0s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 883,
     "name": "Call Uggie",
-    "description": "Baldric calls Uggie to her side.",
-    "long_description": "Baldric calls Uggie to her side.",
+    "description": "Baldric calls Uggie to his side.",
+    "long_description": "Baldric calls Uggie to his side.",
     "graphic_id": 26837,
     "target": "none",
     "num_targets": 0,
@@ -325,8 +317,8 @@ Unknown.
         }
     ],
     "tags": [
-        "ultimate",
-        "ignore_cooldown_override"
+        "ignore_cooldown_override",
+        "ignore_familiar"
     ],
     "damage_types": []
 }
@@ -392,7 +384,7 @@ Unknown.
     "id": 2379,
     "flavour_text": "",
     "description": {
-        "desc": "Baldric's bargaining partners are Fallbacks Champions and/or Champions with Charisma of 15 or higher. Baldric increases the damage of his bargaining partners by $(not_buffed amount)% for each bargaining partner in the formation, stacking multiplicatively."
+        "desc": "Baldric's bargaining partners are Fallbacks Champions and/or Champions with Charisma of 15 or higher. Baldric increases the damage of his bargaining partners by $(amount)% for each bargaining partner in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -407,6 +399,7 @@ Unknown.
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "0",
             "post_process_expr": "num_targets",
+            "target_source": true,
             "targets": [
                 "all"
             ],
@@ -539,7 +532,7 @@ Unknown.
             ],
             "filter_targets": [
                 {
-                    "type": "not_affected_by_upgrade",
+                    "type": "affected_by_upgrade",
                     "upgrade_id": 17476
                 }
             ],
@@ -663,6 +656,16 @@ Unknown.
         {
             "effect_string": "force_allow_hero_by_tag,dwarf",
             "off_when_benched": true
+        },
+        {
+            "effect_string": "do_nothing,0",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`dwarf`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -673,7 +676,8 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Dwarf Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -709,6 +713,16 @@ Unknown.
                 "upgrade_unlocked"
             ],
             "show_bonus": true
+        },
+        {
+            "effect_string": "do_nothing,0",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`gold`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -719,7 +733,8 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Gold Find Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -742,6 +757,16 @@ Unknown.
     "effect_keys": [
         {
             "effect_string": "change_base_attack,882"
+        },
+        {
+            "effect_string": "do_nothing,0",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasAttackDamageType(`magic`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -752,7 +777,8 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Magic Attacking Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -776,6 +802,16 @@ Unknown.
         {
             "effect_string": "buff_upgrade,100,17476,0",
             "off_when_benched": true
+        },
+        {
+            "effect_string": "do_nothing,0",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`healing`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -786,7 +822,8 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Healing Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -865,6 +902,16 @@ Unknown.
             "exclude_tags": [
                 "dwarf"
             ]
+        },
+        {
+            "effect_string": "do_nothing,0",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`dwarf`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -875,7 +922,8 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Dwarf Champions: $num_stacks___3"
     }
 }
 </pre>
@@ -909,7 +957,17 @@ Unknown.
             "apply_manually": true
         },
         {
-            "effect_string": "quest_requirements_mult,2"
+            "effect_string": "chance_increase_quest_requirement,100,100"
+        },
+        {
+            "effect_string": "do_nothing,0",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`gold`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -920,7 +978,8 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Gold Find Champions: $num_stacks___4"
     }
 }
 </pre>
@@ -966,6 +1025,16 @@ Unknown.
                     "hero_expr": "!has_base_attack_dmg_type_magic"
                 }
             ]
+        },
+        {
+            "effect_string": "do_nothing,0",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasAttackDamageType(`magic`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -976,7 +1045,8 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Magic Attacking Champions: $num_stacks___3"
     }
 }
 </pre>
@@ -1016,6 +1086,16 @@ Unknown.
                 "all"
             ],
             "apply_manually": true
+        },
+        {
+            "effect_string": "do_nothing,0",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`healing`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -1027,7 +1107,8 @@ Unknown.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "retain_on_slot_changed": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Healing Champions: $num_stacks___4"
     }
 }
 </pre>
@@ -1108,19 +1189,25 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unlock Adventure: The Missing Lord (Baldric)** (Complete Area 50)
-> Save Waterdeep from the chaos of a Founders' Day gone awry.
+> Search for the absent Open Lord of Waterdeep.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: TBD** (Complete Area 75)
-> 
+![High Stakes Negotiators Icon](images/baldric/26992.png) **Variant 1: High Stakes Negotiators** (Complete Area 75)
+> Baldric starts in the formation. He can be moved, but not removed.  
+> Only Champions who have a Charisma of 15 or higher and are not next to Uggie can deal damage  
+> Fallbacks Champions can always deal damage, regardless of their position or CharismaGetting to know Baldric and Uggie: Baldric's main buff primarily targets Champions with a high Charisma, and Uggie's buff targets Champions that aren't next to her. Choose and place your primary damage dealer carefully!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: TBD** (Complete Area 125)
-> 
+![The Tavern Keepers Icon](images/baldric/26993.png) **Variant 2: The Tavern Keepers** (Complete Area 125)
+> Baldric starts in the formation with his Healing Word ability unlocked. He can be moved, but not removed.  
+> A thrown mug hits a random Champion every second, dealing 5% of their max health in damage. After area 125, this increases to 10%. After area 350, this increases to 25%; and after area 800, this increases to 50%.  
+> Getting to know Baldric: Baldric heals Champions that are in front of him in the formation, and his lantern boosts all healing abilities when a Champion is heavily wounded. Use him and other healing Champions to get through this variant!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: TBD** (Complete Area 175)
-> 
+![A God for Every Occasion Icon](images/baldric/26994.png) **Variant 3: A God for Every Occasion** (Complete Area 175)
+> Baldric starts in the formation with his Bargaining Power ability unlocked. He can be moved, but not removed.  
+> You may only use Champions that count as one of Baldric's bargaining partners.  
+> Getting to know Baldric: Baldric doesn't follow a single deity, but instead bargains with multiple deities for spells and favors. You can use his specializations to access additional Champions for this variant!
 </div></div>
 
 # Other Champion Images
