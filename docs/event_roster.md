@@ -81,6 +81,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="egbert" style="background-image:url(images/portraits/egbert.png)">Egbert (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Health</li><li>400% Atone for the Past</li><li>2400% All Second Specialisations</li><li>6300% All Champion Damage</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="certainty" style="background-image:url(images/portraits/certainty.png)">Certainty (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Secretarian's Advice</li><li>400% Reboot Expert</li><li>2400% Financing Rounds</li><li>6300% Employee Evaluations and Employee Evaluations</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="bobby" style="background-image:url(images/portraits/bobby.png)">Bobby (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>100% Charge Into Battle (Prestack)</li><li>2400% Uni, the Unicorn</li><li>6300% Now We're Talking</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="cazrin" style="background-image:url(images/general/unknown.png)">Cazrin<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 </span>
 
 {:/nomarkdown}
