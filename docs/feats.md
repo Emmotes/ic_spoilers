@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Krond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cantrip: Ascendant Thunderclap Icon](images/featicons/krondthunderclap.png)<span class="featTooltipContents">ID: 2217**Cantrip: Ascendant Thunderclap (Krond)**I survived the thunderous bellow of the legendary tarrasque. Now I wield that ruin for my own.<code>krond_thunderclap,400<br>change_base_attack,863</code></span>Cantrip: Ascendant Thunderclap
+        </span>
+        <span class="featTableEffect">
+            <span>+400% to Krond's Base Attack and Does AOE</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Jun 2025<br>11 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Antrius</span>
         </span>
         <span class="featTableIcon4">
@@ -200,6 +217,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Krond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cantrip: Ascendant Shocking Grasp Icon](images/featicons/krondshockinggrasp.png)<span class="featTooltipContents">ID: 2218**Cantrip: Ascendant Shocking Grasp (Krond)**Few can survive the lightning strike of a rampaging kraken. I did. Let's see how you fare.<code>krond_shocking_grasp,1600,4<br>change_base_attack,864<br>add_hero_tags,0,control</code></span>Cantrip: Ascendant Shocking Grasp
+        </span>
+        <span class="featTableEffect">
+            <span>+1600% to Krond's Base Attack and Stuns (Adds Control role) & Counts as Control</span>
+        </span>
+        <span class="featTableSource">
+            <span>Emergence 12</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Jul 2025<br>Unknown</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Warduke</span>
         </span>
         <span class="featTableIcon4">
@@ -247,6 +281,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span>30 Jul 2025<br>30 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ishi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Enemy Enumeration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1577**Enemy Enumeration (Ishi)**Five stabs, six stabs, seven stabs, MORE!<code>buff_upgrade,80,16530</code></span>Enemy Enumeration
+        </span>
+        <span class="featTableEffect">
+            <span>80% Faster, Harder, Stronger</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>20 Aug 2025<br>20 Nov 2025</span>
         </span>
     </span>
 </span>
@@ -668,23 +719,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Ishi</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Enemy Enumeration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1577**Enemy Enumeration (Ishi)**Five stabs, six stabs, seven stabs, MORE!<code>buff_upgrade,80,16530</code></span>Enemy Enumeration
-        </span>
-        <span class="featTableEffect">
-            <span>80% Faster, Harder, Stronger</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Jarlaxle</span>
         </span>
         <span class="featTableIcon3">
@@ -726,6 +760,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span>+120% Crit Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Krond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cantrip: Ascendant Fire Bolt Icon](images/featicons/krondfirebolt.png)<span class="featTooltipContents">ID: 2219**Cantrip: Ascendant Fire Bolt (Krond)**An ancient red dragon was among my finest masters. I slew her and took her flame for my own.<code>krond_fire_bolt,300,5<br>change_base_attack,865</code></span>Cantrip: Ascendant Fire Bolt
+        </span>
+        <span class="featTableEffect">
+            <span>Krond's Base Attack Shoots 5 Fire Bolts that do 300% Damage</span>
         </span>
         <span class="featTableSource">
             <span>???</span>

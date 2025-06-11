@@ -96,7 +96,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon King Dungeon Master Portrait](images/skin_portraits/dragonkingdungeonmaster.png)<span class="featTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**<img src="images/skin_models/dragonkingdungeonmaster.gif" alt="Dragon King Dungeon Master Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon King Dungeon Master Portrait](images/skin_portraits/dragonkingdungeonmaster.png)<span class="featTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/dragonkingdungeonmaster.gif" alt="Dragon King Dungeon Master Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/dragonkingdungeonmaster-swap.gif" alt="Dragon King Dungeon Master Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Dragon King Dungeon Master
@@ -483,6 +483,108 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             27 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 596** (???: 0)**</span></span>
+        </span>
+        <span class="skinTableName">
+            &nbsp;
+        </span>
+        <span class="skinTableSource">
+            Founder's Pack VIII
+        </span>
+        <span class="skinTableCost">
+            3,360p
+        </span>
+        <span class="skinTableDate">
+            03 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 595**Heroic Bobby (Bobby)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Heroic Bobby
+        </span>
+        <span class="skinTableSource">
+            Heroic Bobby Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            03 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 594**Mythic Cazrin (Cazrin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Mythic Cazrin
+        </span>
+        <span class="skinTableSource">
+            Mythic Cazrin Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            03 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 597**Legendkeeper Alyndra (Alyndra)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Legendkeeper Alyndra
+        </span>
+        <span class="skinTableSource">
+            Legendkeeper Alyndra Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            10 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 598**Mythic Torogar (Torogar)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Mythic Torogar
+        </span>
+        <span class="skinTableSource">
+            Mythic Torogar Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            10 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 600**Berserker Wulfgar (Wulfgar)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Berserker Wulfgar
+        </span>
+        <span class="skinTableSource">
+            Berserker Wulfgar Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            17 Sept 2025
         </span>
     </span>
 </span>

@@ -262,36 +262,53 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 283**Animated Silver Sword**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 284**Keeper the Spellbook**Little secret keepers.</span></span>
         </span>
         <span class="skinTableName">
-            Animated Silver Sword
+            Keeper the Spellbook
         </span>
         <span class="skinTableSource">
-            None
+            Mythic Cazrin Theme Pack
         </span>
         <span class="skinTableCost">
-            ???
+            3,830p
         </span>
         <span class="skinTableDate">
-            ???
+            03 Sept 2025
         </span>
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 278**Professor Griff**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 278**Professor Griff**The judgiest judge to ever judge.</span></span>
         </span>
         <span class="skinTableName">
             Professor Griff
         </span>
         <span class="skinTableSource">
-            None
+            Legendkeeper Alyndra Theme Pack
         </span>
         <span class="skinTableCost">
-            ???
+            3,830p
         </span>
         <span class="skinTableDate">
-            ???
+            10 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 283**Animated Silver Sword**A gift. A burden. The sacred blade of shadow's bane.</span></span>
+        </span>
+        <span class="skinTableName">
+            Animated Silver Sword
+        </span>
+        <span class="skinTableSource">
+            Silver Sword of Gith Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            840p
+        </span>
+        <span class="skinTableDate">
+            24 Sept 2025
         </span>
     </span>
 </span>
