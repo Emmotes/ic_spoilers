@@ -62,11 +62,12 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Cantrip: Ascendant Shocking Grasp Feat Icon](images/emergence_12/feat_2218.png)<span class="featTooltipContents">ID: 2218**Cantrip: Ascendant Shocking Grasp (Krond)**Few can survive the lightning strike of a rampaging kraken. I did. Let's see how you fare.<code>krond_shocking_grasp,1600,4<br>change_base_attack,864<br>add_hero_tags,0,control</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Ascendant Shocking Grasp</span>
+            <span style="margin-left:15px">Cantrip: Ascendant Shocking Grasp</span>
+            <span style="margin-left:15px">Krond (+1600% to Krond's Base Attack and Stuns & Counts as Control)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
