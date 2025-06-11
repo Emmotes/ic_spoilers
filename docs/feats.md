@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>BBEG</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Undead Army Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2140**Undead Army (BBEG)**Death is not the end. Life begins after death. Live your afterlife to the fullest.<code>buff_upgrade,80,11542</code></span>Undead Army
-        </span>
-        <span class="featTableEffect">
-            <span>80% Sources of Corpses (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>11 Jun 2025<br>11 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Hitch</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2232**Prodigal Leader (Hitch)**You guys do your thing. I'll be supervising from over here.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>Summer Spectacular</span>
-        </span>
-        <span class="featTableDate">
-            <span>11 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Krond</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Cantrip: Ascendant Thunderclap Icon](images/featicons/krondthunderclap.png)<span class="featTooltipContents">ID: 2217**Cantrip: Ascendant Thunderclap (Krond)**I survived the thunderous bellow of the legendary tarrasque. Now I wield that ruin for my own.<code>krond_thunderclap,400<br>change_base_attack,863</code></span>Cantrip: Ascendant Thunderclap
-        </span>
-        <span class="featTableEffect">
-            <span>+400% to Krond's Base Attack and Does AOE</span>
-        </span>
-        <span class="featTableSource">
-            <span>3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>11 Jun 2025<br>11 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Antrius</span>
         </span>
         <span class="featTableIcon4">

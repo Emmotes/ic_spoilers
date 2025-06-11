@@ -475,6 +475,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span>04 Sept 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>BBEG</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Undead Army Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2140**Undead Army (BBEG)**Death is not the end. Life begins after death. Live your afterlife to the fullest.<code>buff_upgrade,80,11542</code></span>Undead Army
+        </span>
+        <span class="featTableEffect">
+            <span>80% Sources of Corpses (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Krond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cantrip: Ascendant Thunderclap Icon](images/featicons/krondthunderclap.png)<span class="featTooltipContents">ID: 2217**Cantrip: Ascendant Thunderclap (Krond)**I survived the thunderous bellow of the legendary tarrasque. Now I wield that ruin for my own.<code>krond_thunderclap,400<br>change_base_attack,863</code></span>Cantrip: Ascendant Thunderclap
+        </span>
+        <span class="featTableEffect">
+            <span>+400% to Krond's Base Attack and Does AOE</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>11 Sept 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events

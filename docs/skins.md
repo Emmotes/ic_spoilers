@@ -11,57 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon Knight Hitch Portrait](images/skin_portraits/dragonknighthitch.png)<span class="featTooltipContents">ID: 582**Dragon Knight Hitch (Hitch)**<img src="images/skin_models/dragonknighthitch.gif" alt="Dragon Knight Hitch Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragon Knight Hitch
-        </span>
-        <span class="skinTableSource">
-            Summer Spectacular Giveaway - Summer Spectacular
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            11 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon Rider Krond Portrait](images/skin_portraits/dragonriderkrond.png)<span class="featTooltipContents">ID: 561**Dragon Rider Krond (Krond)**<img src="images/skin_models/dragonriderkrond.gif" alt="Dragon Rider Krond Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragon Rider Krond
-        </span>
-        <span class="skinTableSource">
-            Dragon Rider Krond Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            11 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Reaper BBEG Portrait](images/skin_portraits/reaperbbeg.png)<span class="featTooltipContents">ID: 562**Reaper BBEG (BBEG)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/reaperbbeg.gif" alt="Reaper BBEG Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/reaperbbeg-zombie.gif" alt="Reaper BBEG Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Reaper BBEG
-        </span>
-        <span class="skinTableSource">
-            Reaper BBEG Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            11 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Cosmic Dragon Nova Portrait](images/skin_portraits/cosmicdragonnova.png)<span class="featTooltipContents">ID: 565**Cosmic Dragon Nova (Nova)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/cosmicdragonnova.gif" alt="Cosmic Dragon Nova Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/cosmicdragonnova-sword.gif" alt="Cosmic Dragon Nova Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">

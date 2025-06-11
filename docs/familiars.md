@@ -7,57 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Clove the Badger Portrait](images/familiars/clovethebadger.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<img src="images/familiars/clovethebadger.gif" alt="Clove the Badger Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Clove the Badger
-        </span>
-        <span class="skinTableSource">
-            Steam Giveaway - Briv's Champions of Renown Pack
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            11 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Noctis the Baby Deep Dragon Portrait](images/familiars/noctisthebabydeepdragon.png)<span class="featTooltipContents">ID: 265**Noctis the Baby Deep Dragon**She barters in secrets.<img src="images/familiars/noctisthebabydeepdragon.gif" alt="Noctis the Baby Deep Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Noctis the Baby Deep Dragon
-        </span>
-        <span class="skinTableSource">
-            Dragon Rider Krond Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            11 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Vendetta the Baby White Dragon Portrait](images/familiars/vendettathebabywhitedragon.png)<span class="featTooltipContents">ID: 266**Vendetta the Baby White Dragon**Don't even THINK about stepping near her tail!<img src="images/familiars/vendettathebabywhitedragon.gif" alt="Vendetta the Baby White Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Vendetta the Baby White Dragon
-        </span>
-        <span class="skinTableSource">
-            Vendetta the Baby White Dragon Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            11 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Rainbow Guardian Portrait](images/familiars/rainbowguardian.png)<span class="featTooltipContents">ID: 270**Rainbow Guardian**Directive: Protection.<img src="images/familiars/rainbowguardian.gif" alt="Rainbow Guardian Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -309,6 +258,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             24 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Clove the Badger Portrait](images/familiars/clovethebadger.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<img src="images/familiars/clovethebadger.gif" alt="Clove the Badger Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Clove the Badger
+        </span>
+        <span class="skinTableSource">
+            Steam Giveaway - Briv's Champions of Renown Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
         </span>
     </span>
 </span>
