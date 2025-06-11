@@ -516,34 +516,6 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
             <span style="margin-left: 8px;">Variant #3</span>
         </span>
     </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Tales: An Aquired Taste (Adventure)](images/contentdrop_portraits/tales_anaquiredtaste_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">An Aquired Taste</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Tales: The Ties That Bind (Adventure)](images/contentdrop_portraits/tales_thetiesthatbind_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Ties That Bind</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
 </span>
 
 <br />
