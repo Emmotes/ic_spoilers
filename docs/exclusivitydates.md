@@ -35,57 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Orkira</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2091**Immolation (Orkira)**Friends are like marshmallows, flammable and sweet.<code>immolation,1,5</code></span>Immolation
-        </span>
-        <span class="featTableEffect">
-            <span>1s BUD per sec for 5s</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>12 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Sheila</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Heart of Gold Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2113**Heart of Gold (Sheila)**Well, I lost us a chance to get home, but gained a friend!<code>buff_upgrade,80,16538</code></span>Heart of Gold
-        </span>
-        <span class="featTableEffect">
-            <span>80% Kind Heart</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>12 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Volo</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 2159**Illithid Tadpole (Volo)**I've simply the worst headache today. Bah! I'm certain it's nothing serious.<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span>Illithid Tadpole
-        </span>
-        <span class="featTableEffect">
-            <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>12 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Nrakk</span>
         </span>
         <span class="featTableIcon4">
