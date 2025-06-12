@@ -85,10 +85,10 @@ Please be aware that the developers recently removed most future skins from the 
             Dragonskull Bobby
         </span>
         <span class="skinTableSource">
-            ???
+            Newsletter
         </span>
         <span class="skinTableCost">
-            ???
+            Free
         </span>
         <span class="skinTableDate">
             26 Jun 2025
