@@ -419,23 +419,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 596** (???: 0)**</span></span>
-        </span>
-        <span class="skinTableName">
-            &nbsp;
-        </span>
-        <span class="skinTableSource">
-            Founder's Pack VIII
-        </span>
-        <span class="skinTableCost">
-            3,360p
-        </span>
-        <span class="skinTableDate">
-            03 Sept 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 595**Heroic Bobby (Bobby)**</span></span>
         </span>
         <span class="skinTableName">

@@ -2083,11 +2083,12 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![ Skin Portrait](images/premiums/skin_596.png)<span class="itemTooltipContents">ID: 596** (???: 0)**</span></span>
+            <span class="tooltipHolder">![??? Portrait](images/premiums/skin_596.png)<span class="itemTooltipContents">ID: 596**???**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px"></span>
+            <span style="margin-left:5px">**???**</span>
+            <span style="margin-left:15px">skin</span>
+            <span style="margin-left:15px">ID: 596</span>
         </span>
     </span>
     <span class="premiumsTableItem">
