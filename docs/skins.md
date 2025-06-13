@@ -113,7 +113,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 574**Fortune Hunter Nahara (Nahara)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Fortune Hunter Nahara Portrait](images/skin_portraits/fortunehunternahara.png)<span class="featTooltipContents">ID: 574**Fortune Hunter Nahara (Nahara)**<img src="images/skin_models/fortunehunternahara.gif" alt="Fortune Hunter Nahara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Fortune Hunter Nahara
