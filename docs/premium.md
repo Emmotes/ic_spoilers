@@ -493,7 +493,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 573**Archeologist Strongheart (Strongheart)**</span></span>
+            <span class="tooltipHolder">![Archeologist Strongheart Skin Portrait](images/premiums/skin_573.png)<span class="itemTooltipContents">ID: 573**Archeologist Strongheart (Strongheart)**<img src="images/premiums/skin_573.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -848,7 +848,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 576**Reincarnated K'thriss (K'thriss)**</span></span>
+            <span class="tooltipHolder">![Reincarnated K'thriss Skin Portrait](images/premiums/skin_576.png)<span class="itemTooltipContents">ID: 576**Reincarnated K'thriss (K'thriss)**<img src="images/premiums/skin_576.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1241,7 +1241,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 580**Fortune Hunter Eric (Eric)**</span></span>
+            <span class="tooltipHolder">![Fortune Hunter Eric Skin Portrait](images/premiums/skin_580.png)<span class="itemTooltipContents">ID: 580**Fortune Hunter Eric (Eric)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1942,7 +1942,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Champion Unlock Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 166**Cazrin**</span></span>
+            <span class="tooltipHolder">![Cazrin Champion Unlock Portrait](images/premiums/unlock_champion_166.png)<span class="itemTooltipContents">ID: 166**Cazrin**<img src="images/premiums/unlock_champion_166.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>

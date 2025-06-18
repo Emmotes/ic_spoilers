@@ -96,7 +96,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 573**Archeologist Strongheart (Strongheart)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Archeologist Strongheart Portrait](images/skin_portraits/archeologiststrongheart.png)<span class="featTooltipContents">ID: 573**Archeologist Strongheart (Strongheart)**<img src="images/skin_models/archeologiststrongheart.gif" alt="Archeologist Strongheart Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Archeologist Strongheart
@@ -198,7 +198,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 576**Reincarnated K'thriss (K'thriss)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Reincarnated K'thriss Portrait](images/skin_portraits/reincarnatedkthriss.png)<span class="featTooltipContents">ID: 576**Reincarnated K'thriss (K'thriss)**<img src="images/skin_models/reincarnatedkthriss.gif" alt="Reincarnated K'thriss Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Reincarnated K'thriss
@@ -283,7 +283,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 580**Fortune Hunter Eric (Eric)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Fortune Hunter Eric Portrait](images/skin_portraits/fortunehuntereric.png)<span class="featTooltipContents">ID: 580**Fortune Hunter Eric (Eric)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
         </span>
         <span class="skinTableName">
             Fortune Hunter Eric
