@@ -283,7 +283,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Fortune Hunter Eric Portrait](images/skin_portraits/fortunehuntereric.png)<span class="featTooltipContents">ID: 580**Fortune Hunter Eric (Eric)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Fortune Hunter Eric Portrait](images/skin_portraits/fortunehuntereric.png)<span class="featTooltipContents">ID: 580**Fortune Hunter Eric (Eric)**<img src="images/skin_models/fortunehuntereric.gif" alt="Fortune Hunter Eric Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Fortune Hunter Eric

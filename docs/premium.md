@@ -1241,7 +1241,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Fortune Hunter Eric Skin Portrait](images/premiums/skin_580.png)<span class="itemTooltipContents">ID: 580**Fortune Hunter Eric (Eric)**</span></span>
+            <span class="tooltipHolder">![Fortune Hunter Eric Skin Portrait](images/premiums/skin_580.png)<span class="itemTooltipContents">ID: 580**Fortune Hunter Eric (Eric)**<img src="images/premiums/skin_580.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
