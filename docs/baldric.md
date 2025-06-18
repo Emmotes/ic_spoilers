@@ -43,7 +43,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Dwarf (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">

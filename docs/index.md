@@ -34,7 +34,7 @@ These are the event champions that are upcoming and all the information we know 
                 Tess
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> Rogue of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Elf Rogue of The Fallbacks (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 2 July 2025</span>
@@ -60,7 +60,7 @@ These are the event champions that are upcoming and all the information we know 
                 Baldric
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> Cleric of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Dwarf Cleric of The Fallbacks (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Ahghairon's Day - 6 August 2025</span>
@@ -86,7 +86,7 @@ These are the event champions that are upcoming and all the information we know 
                 Cazrin
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> Wizard of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Wizard of The Fallbacks (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Highharvestide - 3 September 2025</span>
@@ -199,7 +199,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Tess
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> Rogue of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Elf Rogue of The Fallbacks (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
@@ -258,7 +258,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Baldric
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> Cleric of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Dwarf Cleric of The Fallbacks (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
@@ -317,7 +317,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Cazrin
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink"> Wizard of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Wizard of The Fallbacks (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">

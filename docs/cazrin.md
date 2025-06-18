@@ -43,7 +43,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Human (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">

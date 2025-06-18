@@ -51,7 +51,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Elf (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
