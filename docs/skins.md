@@ -11,57 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cosmic Dragon Nova Portrait](images/skin_portraits/cosmicdragonnova.png)<span class="featTooltipContents">ID: 565**Cosmic Dragon Nova (Nova)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/cosmicdragonnova.gif" alt="Cosmic Dragon Nova Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/cosmicdragonnova-sword.gif" alt="Cosmic Dragon Nova Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Cosmic Dragon Nova
-        </span>
-        <span class="skinTableSource">
-            Cosmic Dragon Nova Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            18 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon King Dungeon Master Portrait](images/skin_portraits/dragonkingdungeonmaster.png)<span class="featTooltipContents">ID: 563**Dragon King Dungeon Master (DM)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/dragonkingdungeonmaster.gif" alt="Dragon King Dungeon Master Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/dragonkingdungeonmaster-swap.gif" alt="Dragon King Dungeon Master Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragon King Dungeon Master
-        </span>
-        <span class="skinTableSource">
-            Dragon King Dungeon Master Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            18 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Skypirate Antrius Portrait](images/skin_portraits/skypirateantrius.png)<span class="featTooltipContents">ID: 564**Skypirate Antrius (Antrius)**<img src="images/skin_models/skypirateantrius.gif" alt="Skypirate Antrius Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Skypirate Antrius
-        </span>
-        <span class="skinTableSource">
-            Skypirate Antrius Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            18 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Cataclysmic Kas Portrait](images/skin_portraits/cataclysmickas.png)<span class="featTooltipContents">ID: 566**Cataclysmic Kas (Kas)**<img src="images/skin_models/cataclysmickas.gif" alt="Cataclysmic Kas Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -130,7 +79,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 572**Fortune Hunter Tess (Tess)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Fortune Hunter Tess Portrait](images/skin_portraits/fortunehuntertess.png)<span class="featTooltipContents">ID: 572**Fortune Hunter Tess (Tess)**<img src="images/skin_models/fortunehuntertess.gif" alt="Fortune Hunter Tess Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Fortune Hunter Tess

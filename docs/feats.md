@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Antrius</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Sky Shanty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2130**Sky Shanty (Antrius)**Come on, sing! It will LIFT your spirits! Get it? Gods, I'm good.<code>buff_upgrade,80,10794,0</code></span>Sky Shanty
-        </span>
-        <span class="featTableEffect">
-            <span>80% Inspiring Song</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>18 Jun 2025<br>18 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>DM</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Young at Heart Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2134**Young at Heart (DM)**You are only as old as you feel, adventurers!<code>change_upgrade_data,7844,0</code></span>Young at Heart
-        </span>
-        <span class="featTableEffect">
-            <span>+5 Years Limit to Patience Young Ones</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>18 Jun 2025<br>18 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Kas</span>
         </span>
         <span class="featTableIcon4">
