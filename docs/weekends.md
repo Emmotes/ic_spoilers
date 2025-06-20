@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/743.png">
-            <span class="weekendTooltipContents">ID: 743**Gold Cloaked Chest**Loot for: Nayeli, Makos, Karlach, Kalix and Selise<code>"for_crusaders":[3,9,143,158,81]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Cloak & Dagger**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    20 June 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Nayeli
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/karlach.png'">
-                        <span class="weekendTableChampionNameplate">Karlach</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kalix.png'">
-                        <span class="weekendTableChampionNameplate">Kalix</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/selise.png'">
-                        <span class="weekendTableChampionNameplate">Selise</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/744.png">
             <span class="weekendTooltipContents">ID: 744**Gold Calamity Chest**Loot for: Calliope, Bruenor, Kas, Astarion and Antrius<code>"for_crusaders":[5,1,153,129,122]</code></span>
         </span>
