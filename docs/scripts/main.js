@@ -231,7 +231,7 @@ function exclusiveToggleAllContents() {
 }
 
 function exclusiveToggleAllFeats() {
-	let eles = document.getElementsByClassName(`featTableRow`);
+	let eles = document.querySelectorAll(`span[id="exclusiveFeats"] > .featTableRow`);
 	allExclusiveFeatsHidden = !allExclusiveFeatsHidden;
 	for (let ele of eles)
 		ele.style.display = allExclusiveFeatsHidden?`none`:``;

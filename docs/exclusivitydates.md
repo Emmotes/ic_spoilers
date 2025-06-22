@@ -15,7 +15,7 @@ These are feats that were previously released in premium packs and are now sitti
         <a id="showHideFeats" onClick="exclusiveToggleAllFeats()" style="cursor:pointer">[hide all feats]</a>
     </span>
 </span>
-<span class="featTableColumn">
+<span class="featTableColumn" id="exclusiveFeats">
     <span class="featTableRowHeader">
         <span class="featTableChampion">
             <span>**Champion**</span>
