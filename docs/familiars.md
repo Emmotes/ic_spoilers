@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Rainbow Guardian Portrait](images/familiars/rainbowguardian.png)<span class="featTooltipContents">ID: 270**Rainbow Guardian**Directive: Protection.<img src="images/familiars/rainbowguardian.gif" alt="Rainbow Guardian Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Rainbow Guardian
-        </span>
-        <span class="skinTableSource">
-            Rainbow Guardian Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            23 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 276**Goldie the Sprite**She valiantly defends the gold hoard of the dragon's lair in her forest.</span></span>
         </span>
         <span class="skinTableName">
