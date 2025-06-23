@@ -133,12 +133,23 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Cazrin Console Portrait](images/cazrin/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Cazrin Gold Chest Icon](images/cazrin/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Cazrin Silver Chest Icon](images/cazrin/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
