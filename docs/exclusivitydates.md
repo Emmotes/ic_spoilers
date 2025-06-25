@@ -449,7 +449,7 @@ These are feats that were previously released in premium packs and are now sitti
             ![Young at Heart Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2134**Young at Heart (DM)**You are only as old as you feel, adventurers!<code>change_upgrade_data,7844,0</code></span>Young at Heart
         </span>
         <span class="featTableEffect">
-            <span>+5 Years Limit to Patience Young Ones</span>
+            <span>+10 Years Limit to Patience Young Ones</span>
         </span>
         <span class="featTableSource">
             <span>50,000 Gems</span>
