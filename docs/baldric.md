@@ -166,7 +166,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
                 {
                     "effect_string": "damage_monster_target_by_bud",
                     "hit_monsters": true,
-                    "damage_mult": 3,
+                    "damage_mult": 5,
                     "after_damage": true
                 }
             ]
@@ -269,7 +269,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
     "name": "Call Uggie",
     "description": "Baldric calls Uggie to his side.",
     "long_description": "Baldric calls Uggie to his side.",
-    "graphic_id": 26837,
+    "graphic_id": 27101,
     "target": "none",
     "num_targets": 0,
     "aoe_radius": 0,
@@ -304,7 +304,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
     "name": "Call Uggie",
     "description": "Baldric calls Uggie to his side.",
     "long_description": "Baldric calls Uggie to his side.",
-    "graphic_id": 26837,
+    "graphic_id": 27101,
     "target": "none",
     "num_targets": 0,
     "aoe_radius": 0,
@@ -346,14 +346,31 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
             "effect_string": "uggie_handler,100",
             "off_when_benched": true,
             "uggie_roaming_disable_index": 1,
+            "post_united_strike_effect_indices": [
+                2
+            ],
             "uggie_priority": 1,
             "call_uggie_ult_id": 883,
             "united_strike_ult_id": 881,
+            "uggie_buff_effect_id": 2366,
             "use_computed_amount_for_description": true
         },
         {
             "effect_string": "disallow_roaming_familiar_ult_trigger",
             "apply_manually": true
+        },
+        {
+            "effect_string": "buff_ultimate,100",
+            "apply_manually": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasTag(`fallbacks`)"
+                }
+            ]
         }
     ],
     "requirements": "",
@@ -376,7 +393,9 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Bargaining Power** (Guess)
-> Baldric's bargaining partners are Fallbacks Champions and/or Champions with Charisma of 15 or higher. Baldric increases the damage of his bargaining partners by 100% for each bargaining partner in the formation, stacking multiplicatively.
+> Baldric's bargaining partners are Fallbacks Champions and/or Champions with Charisma of 15 or higher. Baldric increases the damage of his bargaining partners by 100% for each bargaining partner in the formation, stacking multiplicatively.  
+>   
+> Baldric's bargaining partners also include: `$baldric_bargaining_partners`.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -384,11 +403,33 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
     "id": 2379,
     "flavour_text": "",
     "description": {
-        "desc": "Baldric's bargaining partners are Fallbacks Champions and/or Champions with Charisma of 15 or higher. Baldric increases the damage of his bargaining partners by $(amount)% for each bargaining partner in the formation, stacking multiplicatively."
+        "desc": "Baldric's bargaining partners are Fallbacks Champions and/or Champions with Charisma of 15 or higher. Baldric increases the damage of his bargaining partners by $(amount)% for each bargaining partner in the formation, stacking multiplicatively.^^Baldric's bargaining partners also include: $baldric_bargaining_partners"
     },
     "effect_keys": [
         {
             "effect_string": "pre_stack,100",
+            "retarget_when_upgrade_purchased_ids": [
+                17492,
+                17497,
+                17507,
+                17512,
+                17517,
+                17493,
+                17498,
+                17503,
+                17513,
+                17518,
+                17494,
+                17499,
+                17504,
+                17509,
+                17519,
+                17495,
+                17499,
+                17505,
+                17510,
+                17515
+            ],
             "skip_effect_key_desc": true
         },
         {
@@ -397,8 +438,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
             "amount_expr": "upgrade_amount(17472,0)",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "0",
-            "post_process_expr": "num_targets",
+            "per_hero_expr": "GetStat(`cha`) >= 15 || HasTag(`fallbacks`) || ((GetUpgradeUnlocked(17492) || GetUpgradeUnlocked(17497) || GetUpgradeUnlocked(17507) || GetUpgradeUnlocked(17512) || GetUpgradeUnlocked(17517)) && HasTag(`dwarf`)) || ((GetUpgradeUnlocked(17493) || GetUpgradeUnlocked(17498) || GetUpgradeUnlocked(17503) || GetUpgradeUnlocked(17513) || GetUpgradeUnlocked(17518)) && HasTag(`gold`)) || ((GetUpgradeUnlocked(17494) || GetUpgradeUnlocked(17499) || GetUpgradeUnlocked(17504) || GetUpgradeUnlocked(17509) || GetUpgradeUnlocked(17519)) && has_base_attack_dmg_type_magic) || ((GetUpgradeUnlocked(17495) || GetUpgradeUnlocked(17500) || GetUpgradeUnlocked(17505) || GetUpgradeUnlocked(17510) || GetUpgradeUnlocked(17515)) && HasTag(`healing`))",
             "target_source": true,
             "targets": [
                 "all"
@@ -406,7 +446,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
             "filter_targets": [
                 {
                     "type": "hero_expr",
-                    "hero_expr": "GetStat(`cha`) >= 15 || HasTag(`fallbacks`) || ((GetUpgradeUnlocked(17492) || GetUpgradeUnlocked(17497) || GetUpgradeUnlocked(17507) || GetUpgradeUnlocked(17512) || GetUpgradeUnlocked(17517)) && HasTag(`dwarf`)) || ((GetUpgradeUnlocked(17493) || GetUpgradeUnlocked(17498) || GetUpgradeUnlocked(17503) || GetUpgradeUnlocked(17513) || GetUpgradeUnlocked(17518)) && HasTag(`gold`)) || ((GetUpgradeUnlocked(17494) || GetUpgradeUnlocked(17499) || GetUpgradeUnlocked(17504) || GetUpgradeUnlocked(17509) || GetUpgradeUnlocked(17519)) && has_base_attack_dmg_type_magic) || ((GetUpgradeUnlocked(17495) || GetUpgradeUnlocked(17499) || GetUpgradeUnlocked(17505) || GetUpgradeUnlocked(17510) || GetUpgradeUnlocked(17515)) && HasTag(`healing`))"
+                    "hero_expr": "GetStat(`cha`) >= 15 || HasTag(`fallbacks`) || ((GetUpgradeUnlocked(17492) || GetUpgradeUnlocked(17497) || GetUpgradeUnlocked(17507) || GetUpgradeUnlocked(17512) || GetUpgradeUnlocked(17517)) && HasTag(`dwarf`)) || ((GetUpgradeUnlocked(17493) || GetUpgradeUnlocked(17498) || GetUpgradeUnlocked(17503) || GetUpgradeUnlocked(17513) || GetUpgradeUnlocked(17518)) && HasTag(`gold`)) || ((GetUpgradeUnlocked(17494) || GetUpgradeUnlocked(17499) || GetUpgradeUnlocked(17504) || GetUpgradeUnlocked(17509) || GetUpgradeUnlocked(17519)) && has_base_attack_dmg_type_magic) || ((GetUpgradeUnlocked(17495) || GetUpgradeUnlocked(17500) || GetUpgradeUnlocked(17505) || GetUpgradeUnlocked(17510) || GetUpgradeUnlocked(17515)) && HasTag(`healing`))"
                 }
             ],
             "amount_updated_listeners": [
@@ -580,6 +620,9 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`healing`)",
+            "targets": [
+                "all"
+            ],
             "show_bonus": true,
             "amount_updated_listeners": [
                 "slot_changed",
@@ -596,7 +639,8 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 1
+        "default_bonus_index": 1,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -734,7 +778,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Gold Find Champions: $num_stacks___2"
+        "spec_option_post_apply_info": "Gold Find Champions: $num_stacks___3"
     }
 }
 </pre>
@@ -893,7 +937,17 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
                     "type": "hero_expr",
                     "hero_expr": "HasTag(`dwarf`)"
                 }
-            ]
+            ],
+            "stack_func": "per_hero_attribute",
+            "amount_func": "mult",
+            "per_hero_expr": "HasTag(`dwarf`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "use_computed_amount_for_description": true,
+            "stack_title": "Dwarves in Formation",
+            "show_bonus": true
         },
         {
             "effect_string": "limit_formation_by_tags_handler",
@@ -933,7 +987,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Dark Bargain: Tymora** (Guess)
-> Bosses have a 10 chance to drop twice as many gems, but non boss area quest requirements are increased by 100%.
+> Bosses have a 10% chance to drop twice as many gems, but non boss area quest requirements are increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -941,7 +995,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
     "id": 2391,
     "flavour_text": "",
     "description": {
-        "desc": "Bosses have a $amount chance to drop twice as many gems, but non boss area quest requirements are increased by 100%."
+        "desc": "Bosses have a $amount% chance to drop twice as many gems, but non boss area quest requirements are increased by 100%."
     },
     "effect_keys": [
         {
@@ -1011,7 +1065,10 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
                     "type": "hero_expr",
                     "hero_expr": "has_base_attack_dmg_type_magic"
                 }
-            ]
+            ],
+            "immediately_after_damage": true,
+            "buff_targets_instead_of_owner": true,
+            "override_key_desc": "$(target)'s base attack deals an additional $seconds_of_bud seconds of BUD-based damage with each attack"
         },
         {
             "effect_string": "hero_dps_multiplier_reduce,100",
@@ -1024,6 +1081,11 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
                     "type": "hero_expr",
                     "hero_expr": "!has_base_attack_dmg_type_magic"
                 }
+            ],
+            "slot_change_updates_targets": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "attack_changed"
             ]
         },
         {
@@ -1195,7 +1257,8 @@ Unknown.
 ![High Stakes Negotiators Icon](images/baldric/26992.png) **Variant 1: High Stakes Negotiators** (Complete Area 75)
 > Baldric starts in the formation. He can be moved, but not removed.  
 > Only Champions who have a Charisma of 15 or higher and are not next to Uggie can deal damage  
-> Fallbacks Champions can always deal damage, regardless of their position or CharismaGetting to know Baldric and Uggie: Baldric's main buff primarily targets Champions with a high Charisma, and Uggie's buff targets Champions that aren't next to her. Choose and place your primary damage dealer carefully!
+> Fallbacks Champions can always deal damage, regardless of their position or Charisma  
+> Getting to know Baldric and Uggie: Baldric's main buff primarily targets Champions with a high Charisma, and Uggie's buff targets Champions that aren't next to her. Choose and place your primary damage dealer carefully!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![The Tavern Keepers Icon](images/baldric/26993.png) **Variant 2: The Tavern Keepers** (Complete Area 125)
