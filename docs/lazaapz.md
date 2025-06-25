@@ -224,45 +224,31 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Flash of Genius** (Guess)
-> Cazrin fires 2 magic missiles at random enemies, preferring different targets if possible  
-> Cooldown: 4.5s (Cap 1.125s)
+**Ultimate: Flash of Genius** (Guess)
+> For a short duration, Lazaapz increases her equipment buff and deals ultimate damage with her attacks.  
+> Cooldown: 120s (Cap 30s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 891,
-    "name": "Magic Missile",
-    "description": "Cazrin fires 2 magic missiles at random enemies, preferring different targets if possible",
-    "long_description": "",
-    "graphic_id": 27105,
-    "target": "random",
-    "num_targets": 2,
+    "id": 895,
+    "name": "Flash of Genius",
+    "description": "For a short duration, Lazaapz increases her equipment buff and deals ultimate damage.",
+    "long_description": "For a short duration, Lazaapz increases her equipment buff and deals ultimate damage with her attacks.",
+    "graphic_id": 27024,
+    "target": "none",
+    "num_targets": 0,
     "aoe_radius": 0,
-    "damage_modifier": 1,
-    "cooldown": 4.5,
+    "damage_modifier": 0,
+    "cooldown": 120,
     "animations": [
         {
-            "type": "ranged_attack",
-            "projectile": "magic_missile",
-            "shoot_frame": 10,
-            "shoot_offset_x": 55,
-            "shoot_offset_y": -155,
-            "projectile_delay": 0.1,
-            "projectile_count": 2,
-            "shoot_sound": 149,
-            "hit_sound": 133,
-            "projectile_details": {
-                "projectile_graphic_id": 27105,
-                "impact_offset_y": -45,
-                "trail_tint": "#c999c3",
-                "impact_tint": "#c999c3"
-            }
+            "type": "lazaapz_ultimate_v2",
+            "no_damage_display": true
         }
     ],
     "tags": [
-        "ranged",
-        "multitarget"
+        "ultimate"
     ],
     "damage_types": [
         "magic"
