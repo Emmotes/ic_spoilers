@@ -200,6 +200,40 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Lae'zel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Queen's Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2222**Queen's Blade (Lae'zel)**Vlaakith gha'g shkath zai!<code>buff_upgrade,80,12114</code></span>Queen's Blade
+        </span>
+        <span class="featTableEffect">
+            <span>80% Ceremorphosis (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>06 Aug 2025<br>06 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Shandie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![True Shot Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2248**True Shot (Shandie)**I never miss.<code>buff_upgrades,80,9730,9731,9732</code></span>True Shot
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>13 Aug 2025<br>13 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Ishi</span>
         </span>
         <span class="featTableIcon4">
@@ -213,6 +247,40 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span>20 Aug 2025<br>20 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Drizzt</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Eternal Companions Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2250**Eternal Companions (Drizzt)**I am truly blessed to know them as dear friends.<code>buff_upgrade,80,11514</code></span>Eternal Companions
+        </span>
+        <span class="featTableEffect">
+            <span>80% Companions of the Hall</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>27 Aug 2025<br>27 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Volo</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unknown Power Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2249**Unknown Power (Volo)**You ask why Elminster is so concerned with my wellbeing? He's a true fan, of course! Why else?<code>buff_upgrade,80,16554,0<br>buff_upgrade,80,16555,0<br>buff_upgrade,80,16556,0</code></span>Unknown Power
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Specialisations (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>27 Aug 2025<br>27 Nov 2025</span>
         </span>
     </span>
 </span>

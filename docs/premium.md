@@ -1063,12 +1063,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2275**Feat**???: 2275</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor (10% All Champion Damage)</span>
+            <span style="margin-left:15px">???: 2275</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1186,12 +1185,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2222**TBD Lae'zel Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Queen's Blade Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2222**Queen's Blade**Vlaakith gha'g shkath zai!<code>buff_upgrade,80,12114</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Lae'zel Feat (Do not translate)</span>
-            <span style="margin-left:15px">Lae'zel ()</span>
+            <span style="margin-left:15px">Queen's Blade</span>
+            <span style="margin-left:15px">Lae'zel (80% Ceremorphosis (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1266,12 +1265,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2278**Feat**???: 2278</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor (10% All Champion Damage)</span>
+            <span style="margin-left:15px">???: 2278</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1327,12 +1325,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2248**TBD Shandie Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![True Shot Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2248**True Shot**I never miss.<code>buff_upgrades,80,9730,9731,9732</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Shandie Feat (Do not translate)</span>
-            <span style="margin-left:15px">Shandie ()</span>
+            <span style="margin-left:15px">True Shot</span>
+            <span style="margin-left:15px">Shandie (80% All Specialisations)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1560,12 +1558,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2249**TBD Volo Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Power Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2249**Unknown Power**You ask why Elminster is so concerned with my wellbeing? He's a true fan, of course! Why else?<code>buff_upgrade,80,16554,0<br>buff_upgrade,80,16555,0<br>buff_upgrade,80,16556,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Volo Feat (Do not translate)</span>
-            <span style="margin-left:15px">Volo ()</span>
+            <span style="margin-left:15px">Unknown Power</span>
+            <span style="margin-left:15px">Volo (80% All Specialisations (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1622,12 +1620,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2250**TBD Drizzt Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Eternal Companions Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2250**Eternal Companions**I am truly blessed to know them as dear friends.<code>buff_upgrade,80,11514</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Drizzt Feat (Do not translate)</span>
-            <span style="margin-left:15px">Drizzt ()</span>
+            <span style="margin-left:15px">Eternal Companions</span>
+            <span style="margin-left:15px">Drizzt (80% Companions of the Hall)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1712,11 +1710,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 665****Loot for: Cazrin<code>"for_crusaders":[166]</code></span></span>
+            <span class="tooltipHolder">![Platinum Cazrin Chest Chest Portrait](images/premiums/chests_665.png)<span class="itemTooltipContents">ID: 665**Platinum Cazrin Chest**Loot for: Cazrin<code>"for_crusaders":[166]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px"></span>
+            <span style="margin-left:15px">Platinum Cazrin Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -2131,6 +2129,77 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Wulfgar Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 618</div>
+### Nightmare D'hani Skin & Feat Pack - 1,680 Platinum  
+Date of release: 17 Sept 2025
+
+> Collect an exclusive Nightmare Skin & Feat for D'hani!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![D'hani Champion Unlock Portrait](images/premiums/unlock_champion_89.png)<span class="itemTooltipContents">ID: 89**D'hani (Seat 1)**<img src="images/premiums/unlock_champion_89.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">D'hani</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 601**Nightmare D'hani (D'hani)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Nightmare D'hani</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2262**TBD D'hani Feat (Do not translate)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD D'hani Feat (Do not translate)</span>
+            <span style="margin-left:15px">D'hani ()</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum D'hani Chest Chest Portrait](images/premiums/chests_335.png)<span class="itemTooltipContents">ID: 335**Platinum D'hani Chest**Loot for: D'hani<code>"for_crusaders":[89]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum D'hani Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>

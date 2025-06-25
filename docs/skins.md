@@ -451,6 +451,23 @@ Please be aware that the developers recently removed most future skins from the 
             17 Sept 2025
         </span>
     </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 601**Nightmare D'hani (D'hani)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Nightmare D'hani
+        </span>
+        <span class="skinTableSource">
+            Nightmare D'hani Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            17 Sept 2025
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
