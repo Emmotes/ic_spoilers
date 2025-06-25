@@ -92,6 +92,9 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Highharvestide - 3 September 2025</span>
             </span>
         </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -153,7 +156,10 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="alyndra.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Alyndra Sarrbarand Portrait Icon](images/alyndra/portrait.png)
         </span>
@@ -165,13 +171,16 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Elf (High) Wizard / Cleric of Heroes of the Planes</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Highharvestide - 10 September 2025 (Worst the Wait) (Guess)</span>
+                <span class="indexChampionTableNoLink">Highharvestide - 10 September 2025 (Worst the Wait)</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -323,17 +332,23 @@ These are the upcoming new and reworked champions and where they'll be found.
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
         </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="alyndra.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Alyndra Sarrbarand Portrait Icon](images/alyndra/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Alyndra Sarrbarand (Guess)
+                Alyndra Sarrbarand
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Elf (High) Wizard / Cleric of Heroes of the Planes</span>
@@ -349,6 +364,9 @@ These are the upcoming new and reworked champions and where they'll be found.
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 </div></div>
 
@@ -362,6 +380,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
+* [Founders' Day Augments](augments_37.md) - 2 July 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_589.md) - 8 July 2025
 * [Emergence 12](emergence_12.md) - 23 July 2025
 * [New Campaign: Tales of the Champions](campaign_tales.md) - 27 August 2025 (Guess)
