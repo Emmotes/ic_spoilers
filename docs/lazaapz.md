@@ -223,6 +223,56 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Flash of Genius** (Guess)
+> Cazrin fires 2 magic missiles at random enemies, preferring different targets if possible  
+> Cooldown: 4.5s (Cap 1.125s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 891,
+    "name": "Magic Missile",
+    "description": "Cazrin fires 2 magic missiles at random enemies, preferring different targets if possible",
+    "long_description": "",
+    "graphic_id": 27105,
+    "target": "random",
+    "num_targets": 2,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "magic_missile",
+            "shoot_frame": 10,
+            "shoot_offset_x": 55,
+            "shoot_offset_y": -155,
+            "projectile_delay": 0.1,
+            "projectile_count": 2,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "projectile_graphic_id": 27105,
+                "impact_offset_y": -45,
+                "trail_tint": "#c999c3",
+                "impact_tint": "#c999c3"
+            }
+        }
+    ],
+    "tags": [
+        "ranged",
+        "multitarget"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -259,13 +309,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "filter_targets": [
                 {
                     "type": "hero_expr",
-                    "hero_expr": "HasTag(`dwarf`) || HasTag(`gnome`) || HasTag(`goblin`) || HasTag(`halfling`) || HasTag(`kobold`) || HasTag(`plasmoid`) || HasTag(`fairy`) || (GetUpgradeUnlocked(17484) && HasAttackDamageType(`melee`)) || (GetUpgradeUnlocked(17485) && HasTag(`evil`)) || (GetUpgradeUnlocked(17486) && HasTag(`control`))"
+                    "hero_expr": "HasTag(`dwarf`) || HasTag(`gnome`) || HasTag(`goblin`) || HasTag(`halfling`) || HasTag(`kobold`) || HasTag(`plasmoid`) || HasTag(`fairy`) || HasTag(`fakesmallrace`) || (GetUpgradeUnlocked(17484) && HasAttackDamageType(`melee`)) || (GetUpgradeUnlocked(17485) && HasTag(`evil`)) || (GetUpgradeUnlocked(17486) && HasTag(`control`))"
                 }
             ],
             "formation_arrows_for_effected_only": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`dwarf`) || HasTag(`gnome`) || HasTag(`goblin`) || HasTag(`halfling`) || HasTag(`kobold`) || HasTag(`plasmoid`) || HasTag(`fairy`) || (GetUpgradeUnlocked(17484) && HasAttackDamageType(`melee`)) || (GetUpgradeUnlocked(17485) && HasTag(`evil`)) || (GetUpgradeUnlocked(17486) && HasTag(`control`))",
+            "per_hero_expr": "HasTag(`dwarf`) || HasTag(`gnome`) || HasTag(`goblin`) || HasTag(`halfling`) || HasTag(`kobold`) || HasTag(`plasmoid`) || HasTag(`fairy`) || HasTag(`fakesmallrace`) || (GetUpgradeUnlocked(17484) && HasAttackDamageType(`melee`)) || (GetUpgradeUnlocked(17485) && HasTag(`evil`)) || (GetUpgradeUnlocked(17486) && HasTag(`control`))",
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed",
@@ -352,20 +402,26 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2396,
     "flavour_text": "",
     "description": {
-        "desc": "When Lazaapz's Power Armor stacks reach 0, her armor sends out a massive shockwave, dealing $amount seconds of BUD damage to all enemies and pushing them back to the far side of the screen. Lazaapz then drops her shield and retreats to behind the formation, her armor shuts down, and she begins to repair it, taking $repair_time seconds for each time the armor has shut down in the current area (including this time). Upon finishing her work, she leaps back to her original location, knocking back any enemies that she encounters on her way, grabbing her shield, and refilling her Power Armor stacks to full."
+        "desc": "When Lazaapz's Power Armor stacks reach 0, her armor sends out a massive shockwave, dealing $amount___2 seconds of BUD damage to all enemies and pushing them back to the far side of the screen. Lazaapz then drops her shield and retreats to behind the formation, her armor shuts down, and she begins to repair it, taking $repair_time___2 seconds for each time the armor has shut down in the current area (including this time). Upon finishing her work, she leaps back to her original location, knocking back any enemies that she encounters on her way, grabbing her shield, and refilling her Power Armor stacks to full."
     },
     "effect_keys": [
         {
-            "effect_string": "lazaapz_contigency_plan,120",
+            "effect_string": "change_base_attack,889",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "lazaapz_contingency_plan,120",
             "repair_time": 10,
             "push_amount": 1000,
             "shockwave_graphic": 26953,
             "shield_graphic": 26955,
+            "drone_graphic": 26981,
             "repair_pos": [
-                90,
-                400
+                50,
+                536
             ],
-            "jump_height": 150
+            "gem_glow_graphic": 27130,
+            "gem_glow_offset_x": -9
         }
     ],
     "requirements": "",
@@ -376,7 +432,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
         "retain_on_slot_changed": true,
-        "show_outgoing_desc_when_benched": false
+        "show_outgoing_desc_when_benched": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -679,7 +738,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Short Force Leader Icon](images/lazaapz/8645.png) **Variant 3: Short Force Leader** (Complete Area 175)
-> A roving band of Ogres have joined the enemies waves during this adventure! Let's show 'em what Lazaapz and her crew can do! Lazaapz starts in the formation. She cannot be moved, removed, or swapped. All Champions in the two columns behind Lazaapz count as a small Champion for the purposes of Lazaapz' Fury of the Small. All enemies have their damage and movement speed increased by 100% for each Ogre Battering Ram on screen (additive).
+> A roving band of Ogres have joined the enemies waves during this adventure! Let's show 'em what Lazaapz and her crew can do!  
+> Lazaapz starts in the formation. She cannot be moved, removed, or swapped. All enemies have their damage and movement speed increased by 100% for each Ogre Battering Ram on screen (additive). Champions in the two columns behind Lazaapz become part of her posse. Everyone's smaller than an ogre, right?
 </div></div>
 
 # Formation
