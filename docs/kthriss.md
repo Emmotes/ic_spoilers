@@ -89,12 +89,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "non_adj"
             ],
             "amount_func": "mult",
-            "stack_func": "per_hero_attribute",
-            "per_hero_targets": [
-                "non_adj"
+            "stack_func": "per_upgrade_targets",
+            "stack_func_data": {
+                "upgrade_id": 17324,
+                "upgrade_index": 1,
+                "only_slots_with_heroes": true
+            },
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked"
             ],
-            "per_hero_expr": "0",
-            "post_process_expr": "num_targets",
             "show_bonus": true,
             "use_computed_amount_for_description": true,
             "include_hero_specific_multipliers_for_bonus": false
@@ -278,7 +282,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Efficient Bookkeeping** (Guess)
-> K'thriss uses his creative accounting skills to skim a little bit off the gold you spend to level up Champions and uses it to empower his abilities. For each order of magnitude of gold spent leveling up other Champions, he increases the effect of Unseen Encouragement by 50%, stacking multiplicatively.
+> K'thriss uses his creative accounting skills to skim a little bit off the gold you spend to level up Champions and uses it to empower his abilities. For each order of magnitude of gold spent leveling up other Champions, he increases the effect of Unseen Encouragement by 25%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -290,7 +294,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,50,17324",
+            "effect_string": "buff_upgrade,25,17324",
             "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "get_stat",
