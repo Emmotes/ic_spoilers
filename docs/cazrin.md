@@ -613,21 +613,13 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **In Search of Knowledge** (Guess)
 > In Search of Knowledge — Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure:  
->   
 >  - 10+ Books (area 50/20+): Cazrin fires an additional Magic Missile with her base attack.  
->   
 >  - 40+ Books (area 200/70+): Increase the effect of Sunny Disposition by 50% for each Book she has collected in the current adventure, stacking multiplicatively.  
->   
 >  - 80+ Books (area 400/135+): Cazrin fires an additional Magic Missile with her base attack.   
->   
 >  - 120+ Books (area 600/200+): When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.  
->   
 >  - 160+ Books (area 800/270+): Increase the effect of Unctuous Uggie by 50% for each Book Cazrin has collected in the current adventure, stacking additively.  
->   
 >  - 200+ Books (area 1000/335+): Support Champions affected by Mage Armor have a 50% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.  
->   
 >  - Mage Armor's damage prevention is increased to $(amount___7)%.  
->   
 >  - For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by 50%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
