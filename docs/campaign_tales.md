@@ -4,11 +4,19 @@
 
 A new campaign was recently added to the defines: `Tales of the Champions`. The guesstimated date of release is 27 August 2025 as per the [Content Drops](contentdrops.md) page. This is about one-to-two months after the `Dragon Delves Anthology` book this campaign is assumedly based on.
 
-<!--
-# Reduced Gold
+# Tutorial
 
-The campaign formation currently has the exact same reduced gold effect that Fortune's Wheel has. It's even using the exact same values for `gold_reduction_ratio` and `gold_reduction_per_area` that FW does.
--->
+The new formation appears to force Bruenor into the middle space in the middle column of the formation. There is also a game rule define called `tales_tutorial`.
+
+I'm not sure what this means for the campaign yet.
+
+# Favour
+
+The current name for the favour for this campaign is `Red Knight`.
+
+| Logo | Outline | Tab |
+|---|---|---|
+| ![Tales of the Champions Favour Logo](images/campaign_tales/favour.png) | ![Tales of the Champions Favour Outline Logo](images/campaign_tales/favour_outline.png) | ![Tales of the Champions Favour Tab Logo](images/campaign_tales/favour_tab.png) |
 
 ## Icons and Logos
 
@@ -18,15 +26,7 @@ The campaign formation currently has the exact same reduced gold effect that For
 
 ## Formation
 
-<span class="formationBorder">
-![Tales of the Champions Formation](images/campaign_tales/formation.png)
-</span>
-
-<!--
-## Map
-
-![Tales of the Champions Map](images/campaign_tales/map.png)
--->
+<span class="formationBorder">![Tales of the Champions Formation](images/campaign_tales/formation.png)</span>
 
 [Back to Top](#top)
 
