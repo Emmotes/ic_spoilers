@@ -11,23 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cataclysmic Kas Portrait](images/skin_portraits/cataclysmickas.png)<span class="featTooltipContents">ID: 566**Cataclysmic Kas (Kas)**<img src="images/skin_models/cataclysmickas.gif" alt="Cataclysmic Kas Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cataclysmic Kas
-        </span>
-        <span class="skinTableSource">
-            Cataclysmic Kas Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            25 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dragonskull Bobby Portrait](images/skin_portraits/dragonskullbobby.png)<span class="featTooltipContents">ID: 567**Dragonskull Bobby (Bobby)**<img src="images/skin_models/dragonskullbobby.gif" alt="Dragonskull Bobby Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
