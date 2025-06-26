@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 276**Goldie the Sprite**She valiantly defends the gold hoard of the dragon's lair in her forest.</span></span>
+            <span class="tooltipHolder">![Goldie the Sprite Familiar Portrait](images/premiums/familiar_276.png)<span class="itemTooltipContents">ID: 276**Goldie the Sprite**She valiantly defends the gold hoard of the dragon's lair in her forest.<img src="images/premiums/familiar_276.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -974,7 +974,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 585**Ascended Baldric (Baldric)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 585**Ascended Baldric (Baldric)**<img src="images/premiums/skin_585.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -983,7 +983,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 279**Uggie the Otyugh**Loves giving hugs and eating trash.</span></span>
+            <span class="tooltipHolder">![Uggie the Otyugh Familiar Portrait](images/premiums/familiar_279.png)<span class="itemTooltipContents">ID: 279**Uggie the Otyugh**Loves giving hugs and eating trash.<img src="images/premiums/familiar_279.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

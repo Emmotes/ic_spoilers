@@ -7,7 +7,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 276**Goldie the Sprite**She valiantly defends the gold hoard of the dragon's lair in her forest.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Goldie the Sprite Portrait](images/familiars/goldiethesprite.png)<span class="featTooltipContents">ID: 276**Goldie the Sprite**She valiantly defends the gold hoard of the dragon's lair in her forest.<img src="images/familiars/goldiethesprite.gif" alt="Goldie the Sprite Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Goldie the Sprite
@@ -143,7 +143,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 279**Uggie the Otyugh**Loves giving hugs and eating trash.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Uggie the Otyugh Portrait](images/familiars/uggietheotyugh.png)<span class="featTooltipContents">ID: 279**Uggie the Otyugh**Loves giving hugs and eating trash.<img src="images/familiars/uggietheotyugh.gif" alt="Uggie the Otyugh Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Uggie the Otyugh
