@@ -11,23 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragonskull Bobby Portrait](images/skin_portraits/dragonskullbobby.png)<span class="featTooltipContents">ID: 567**Dragonskull Bobby (Bobby)**<img src="images/skin_models/dragonskullbobby.gif" alt="Dragonskull Bobby Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragonskull Bobby
-        </span>
-        <span class="skinTableSource">
-            Newsletter
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            26 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Archeologist Strongheart Portrait](images/skin_portraits/archeologiststrongheart.png)<span class="featTooltipContents">ID: 573**Archeologist Strongheart (Strongheart)**<img src="images/skin_models/archeologiststrongheart.gif" alt="Archeologist Strongheart Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
