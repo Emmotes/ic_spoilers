@@ -6,9 +6,7 @@ A new campaign was recently added to the defines: `Tales of the Champions`. The 
 
 # Tutorial
 
-The new formation appears to force Bruenor into the middle space in the middle column of the formation. There is also a game rule define called `tales_tutorial`.
-
-I'm not sure what this means for the campaign yet.
+There is a game rule define called `tales_tutorial`. I'm not sure what this means for the campaign yet.
 
 # Favour
 
