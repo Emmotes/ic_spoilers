@@ -400,7 +400,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Uggie joins the party, starting next to Tess unless they're already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by 100%.
+> Uggie joins the party, starting next to Tess unless she's already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -408,7 +408,7 @@ Tess will be a new champion in the Founders' Day event on 2 July 2025.
     "id": 2346,
     "flavour_text": "",
     "description": {
-        "desc": "Uggie joins the party, starting next to Tess unless they're already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by $(amount)%."
+        "desc": "Uggie joins the party, starting next to Tess unless she's already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by $(amount)%."
     },
     "effect_keys": [
         {
