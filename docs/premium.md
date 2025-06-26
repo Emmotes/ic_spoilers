@@ -519,7 +519,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 273**Ligotti the Tentacle Familiar**What possible harm could one perpetually ravenous tentacle do?</span></span>
+            <span class="tooltipHolder">![Ligotti the Tentacle Familiar Familiar Portrait](images/premiums/familiar_273.png)<span class="itemTooltipContents">ID: 273**Ligotti the Tentacle Familiar**What possible harm could one perpetually ravenous tentacle do?<img src="images/premiums/familiar_273.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -741,7 +741,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 579**Chosen of Vecna Warduke (Warduke)**</span></span>
+            <span class="tooltipHolder">![Chosen of Vecna Warduke Skin Portrait](images/premiums/skin_579.png)<span class="itemTooltipContents">ID: 579**Chosen of Vecna Warduke (Warduke)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -974,7 +974,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 585**Ascended Baldric (Baldric)**<img src="images/premiums/skin_585.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Ascended Baldric Skin Portrait](images/premiums/skin_585.png)<span class="itemTooltipContents">ID: 585**Ascended Baldric (Baldric)**<img src="images/premiums/skin_585.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
