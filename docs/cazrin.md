@@ -98,12 +98,9 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/cazrin/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Cazrin" fill="#aaa" data-formationName="Cazrin" data-campaignName="Ahghairon's Day" width="324" height="140"><circle cx="175" cy="25" r="15"/><circle cx="175" cy="65" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Cazrin</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Ahghairon's Day</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -1032,7 +1029,32 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unlock Adventure: The Bandit's Harvest (Cazrin)** (Complete Area 50)
+> Bandits are attempting to pilfer the harvest during Highharvestide and must be stopped.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Time For Tea Icon](images/cazrin/27177.png) **Variant 1: Time For Tea** (Complete Area 75)
+> Cazrin starts in the formation with her Sunny Disposition ability unlocked. She can't be moved or removed.  
+> Only Cazrin and Champions buffed by both her and Uggie can deal damage.  
+> 1-2 Animated Tea Set constructs spawn with each wave. They don't drop gold nor count towards quest progress.  
+> Getting to Know Cazrin and Uggie: Cazrin increases the damage of Champions in her column and the columns ahead of her, while Uggie increases the damage of Champions not next to Uggie. Will you focus on Cazrin being your damage dealer, or another Champion?
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![The Company of the Tavern Icon](images/cazrin/27178.png) **Variant 2: The Company of the Tavern** (Complete Area 125)
+> Cazrin starts in the formation. She can be moved but not removed.  
+> Starting in area 11, a thrown mug hits a random Champion every second, dealing 25% of their max health in damage. This does not happen for the first 5 seconds of every area.  
+> Two revelers join the formation. They are so distracting that Champions next to them deal no damage with their base attacks.  
+> Getting to Know Cazrin: Cazrin protects herself with Mage Armor when the formation is under attack. She extends her protection to the whole formation after she recovers enough books.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![ In Shambles Icon](images/cazrin/27179.png) **Variant 3:  In Shambles** (Complete Area 175)
+> Cazrin starts in the formation. She can be moved but not removed.  
+> You may only use Good Champions, Champions with a Melee or Ranged attack, or Fallbacks Champions.  
+> Starting in area 11, a thrown rock hits a random Champion every second, dealing 25% of their max health in damage and stunning them for 3 seconds. This does not happen for the first 5 seconds of every area.  
+> At the start of each boss area, a Shambling Mound spawns as an additional boss. It must also be defeated to progress.  
+> Getting to Know Cazrin: Cazrin's first specialization choice determines which Champions she works best with, and her second choice determines if her Support or Damage Dealing capabilities are buffed when Uggie is assigned to her.
+</div></div>
 
 # Other Champion Images
 
