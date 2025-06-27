@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Goldie the Sprite Portrait](images/familiars/goldiethesprite.png)<span class="featTooltipContents">ID: 276**Goldie the Sprite**She valiantly defends the gold hoard of the dragon's lair in her forest.<img src="images/familiars/goldiethesprite.gif" alt="Goldie the Sprite Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Goldie the Sprite
-        </span>
-        <span class="skinTableSource">
-            Goldie the Sprite Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            30 Jun 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Wormy the Baby Purple Worm Portrait](images/familiars/wormythebabypurpleworm.png)<span class="featTooltipContents">ID: 271**Wormy the Baby Purple Worm**I'll bite your ankles until you die!<img src="images/familiars/wormythebabypurpleworm.gif" alt="Wormy the Baby Purple Worm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -122,6 +105,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             23 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Goldie the Sprite Portrait](images/familiars/goldiethesprite.png)<span class="featTooltipContents">ID: 276**Goldie the Sprite**She valiantly defends the gold hoard of the dragon's lair in her forest.<img src="images/familiars/goldiethesprite.gif" alt="Goldie the Sprite Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Goldie the Sprite
+        </span>
+        <span class="skinTableSource">
+            Goldie the Sprite Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            30 Jul 2025
         </span>
     </span>
     <span class="skinTableRow">
