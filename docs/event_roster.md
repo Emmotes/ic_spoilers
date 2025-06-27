@@ -6,26 +6,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Dragondown - June
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="binwin" style="background-image:url(images/portraits/binwin.png)">Binwin (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Extra Damage</li><li>2400% Tallest in Faerûn</li><li>6300% All Champion Damage</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="korth" style="background-image:url(images/portraits/korth.png)">Korth (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Rapid Training</li><li>400% Lizardfolk Tactics</li><li>2400% Fighting Spirit</li><li>6300% Calculated</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="nova" style="background-image:url(images/portraits/nova.png)">Nova (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Curiosity</li><li>2400% The Crew</li><li>6300% Aerois Synergy</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="shaka" style="background-image:url(images/portraits/shaka.png)">Shaka (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Riddling Rivals (Prestack)</li><li>400% A Celestial Puzzle (Prestack)</li><li>2400% Celestial Resistance</li><li>6300% Feast or Famine (Prestack)</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="selise" style="background-image:url(images/portraits/selise.png)">Selise (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Divine Sense</li><li>2400% Vow of Vengeance</li><li>6300% Rivalry's Insight</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="dm" style="background-image:url(images/portraits/dm.png)">DM (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Patience, Young Ones!</li><li>400% Words of Encouragement</li><li>2400% All Champion Damage</li><li>6300% Patience, Young Ones!</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="merilwen" style="background-image:url(images/portraits/merilwen.png)">Merilwen (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% A Neutral Party</li><li>2400% Punishing Puns</li><li>6300% Liquidity</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="antrius" style="background-image:url(images/portraits/antrius.png)">Antrius (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Can't be De-Feat-ed</li><li>400% Inspiring Song</li><li>100% Suave and Sophisticated (Prestack)</li><li>6300% Inspiring Song</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Evil Overlord</li><li>400% Homebrew</li><li>2400% Rise, My Minions!</li><li>100% Sources of Corpses (Prestack)</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="ravengard" style="background-image:url(images/portraits/ravengard.png)">Ravengard (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Marshal of the Flaming Fist</li><li>2400% Critical Teamwork</li><li>100% Position of Power</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="hank" style="background-image:url(images/portraits/hank.png)">Hank (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Stalwart Encouragement</li><li>400% All Second Specialisations</li><li>2400% Every Little Bit Helps</li><li>100% All First Specialisations (Prestack)</li></ol></span></span>
-</span>
-
-{:/nomarkdown}
-
 # Founders' Day - July
 
 {::nomarkdown}
@@ -240,6 +220,26 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Freedom's Fury</li><li>400% Find the Secret Stash</li><li>2400% All Champion Damage</li><li>40% All Specialisations</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% All Champion Damage</li><li>2400% All First Specialisations</li><li>100% All Second Specialisations (Prestack)</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="vlithryn" style="background-image:url(images/portraits/vlithryn.png)">Vlithryn (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Cleric Clinic</li><li>2400% Justice of the Depths</li><li>100% Pantheon of Blessings (Prestack)</li></ol></span></span>
+</span>
+
+{:/nomarkdown}
+
+# Dragondown - June
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="binwin" style="background-image:url(images/portraits/binwin.png)">Binwin (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Extra Damage</li><li>2400% Tallest in Faerûn</li><li>6300% All Champion Damage</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="korth" style="background-image:url(images/portraits/korth.png)">Korth (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Rapid Training</li><li>400% Lizardfolk Tactics</li><li>2400% Fighting Spirit</li><li>6300% Calculated</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="nova" style="background-image:url(images/portraits/nova.png)">Nova (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Curiosity</li><li>2400% The Crew</li><li>6300% Aerois Synergy</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="shaka" style="background-image:url(images/portraits/shaka.png)">Shaka (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Riddling Rivals (Prestack)</li><li>400% A Celestial Puzzle (Prestack)</li><li>2400% Celestial Resistance</li><li>6300% Feast or Famine (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="selise" style="background-image:url(images/portraits/selise.png)">Selise (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Divine Sense</li><li>2400% Vow of Vengeance</li><li>6300% Rivalry's Insight</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="dm" style="background-image:url(images/portraits/dm.png)">DM (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Patience, Young Ones!</li><li>400% Words of Encouragement</li><li>2400% All Champion Damage</li><li>6300% Patience, Young Ones!</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="merilwen" style="background-image:url(images/portraits/merilwen.png)">Merilwen (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% A Neutral Party</li><li>2400% Punishing Puns</li><li>6300% Liquidity</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="antrius" style="background-image:url(images/portraits/antrius.png)">Antrius (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Can't be De-Feat-ed</li><li>400% Inspiring Song</li><li>100% Suave and Sophisticated (Prestack)</li><li>6300% Inspiring Song</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="bbeg" style="background-image:url(images/portraits/bbeg.png)">BBEG (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Evil Overlord</li><li>400% Homebrew</li><li>2400% Rise, My Minions!</li><li>100% Sources of Corpses (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="ravengard" style="background-image:url(images/portraits/ravengard.png)">Ravengard (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Marshal of the Flaming Fist</li><li>2400% Critical Teamwork</li><li>100% Position of Power</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="hank" style="background-image:url(images/portraits/hank.png)">Hank (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Stalwart Encouragement</li><li>400% All Second Specialisations</li><li>2400% Every Little Bit Helps</li><li>100% All First Specialisations (Prestack)</li></ol></span></span>
 </span>
 
 {:/nomarkdown}
