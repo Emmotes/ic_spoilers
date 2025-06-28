@@ -608,7 +608,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 578**Dungeon Raider Aeon (Aeon)**</span></span>
+            <span class="tooltipHolder">![Dungeon Raider Aeon Skin Portrait](images/premiums/skin_578.png)<span class="itemTooltipContents">ID: 578**Dungeon Raider Aeon (Aeon)**<img src="images/premiums/skin_578.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

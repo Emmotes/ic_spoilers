@@ -130,7 +130,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 578**Dungeon Raider Aeon (Aeon)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dungeon Raider Aeon Portrait](images/skin_portraits/dungeonraideraeon.png)<span class="featTooltipContents">ID: 578**Dungeon Raider Aeon (Aeon)**<img src="images/skin_models/dungeonraideraeon.gif" alt="Dungeon Raider Aeon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dungeon Raider Aeon
@@ -181,7 +181,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 584**Gentleman Jarlaxle (Jarlaxle)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 584**Gentleman Jarlaxle (Jarlaxle)**<img src="images/skin_models/gentlemanjarlaxle.gif" alt="Gentleman Jarlaxle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
             Gentleman Jarlaxle
