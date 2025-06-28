@@ -53,7 +53,7 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 584**Gentleman Jarlaxle (Jarlaxle)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 584**Gentleman Jarlaxle (Jarlaxle)**<img src="images/emergence_12/skin_584.gif" alt="Gentleman Jarlaxle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
