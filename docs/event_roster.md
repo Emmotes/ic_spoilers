@@ -21,7 +21,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Bounty Hunter</li><li>400% Vicious Vantage (Prestack)</li><li>2400% All First Specialisations</li><li>6300% All Second Specialisations</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Uncover Weakness (Prestack)</li><li>400% Inner Circle</li><li>2400% All Champion Damage</li><li>150% Challenge Accepted</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Detective's Entourage</li><li>2400% Ongoing Investigation</li><li>100% All First Specialisations (Prestack)</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="tess" style="background-image:url(images/portraits/tess.png)">Tess<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="tess" style="background-image:url(images/portraits/tess.png)">Tess (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 </span>
 
 {:/nomarkdown}
