@@ -35,40 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Beadle</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Show Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2128**Show Off (Beadle)**Sneak attacks are a bit easier when you can teleport! ~Beadle<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Show Off
-        </span>
-        <span class="featTableEffect">
-            <span>100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>02 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Grimm</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Gloves Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2154**Gloves Off (Grimm)**Let's settle this, one on one. No potions, blades only, neutral ground. ~Grimm<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Gloves Off
-        </span>
-        <span class="featTableEffect">
-            <span>100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>02 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Catti-brie</span>
         </span>
         <span class="featTableIcon4">
@@ -439,6 +405,57 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span>25 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nahara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2221**Immolation (Nahara)**You will burn for this, and it will be by my hand.<code>immolation,1,5</code></span>Immolation
+        </span>
+        <span class="featTableEffect">
+            <span>1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Strongheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2220**Master's Precision (Strongheart)**Steel, strike true!<code>buff_base_crit_chance_add,20</code></span>Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span>+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Tess</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Sleeping Toxin Icon](images/featicons/tesssleeppoison.png)<span class="featTooltipContents">ID: 2246**Sleeping Toxin (Tess)**Careful. One poke from that and it's lights out.<code>add_hero_tags,0,control<br>global_dps_multiplier_mult,100<br>change_base_attack,874</code></span>Sleeping Toxin
+        </span>
+        <span class="featTableEffect">
+            <span>Counts as Control & 100% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Oct 2025</span>
         </span>
     </span>
 </span>
