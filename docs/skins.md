@@ -11,57 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Archeologist Strongheart Portrait](images/skin_portraits/archeologiststrongheart.png)<span class="featTooltipContents">ID: 573**Archeologist Strongheart (Strongheart)**<img src="images/skin_models/archeologiststrongheart.gif" alt="Archeologist Strongheart Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Archeologist Strongheart
-        </span>
-        <span class="skinTableSource">
-            Archeologist Strongheart Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            02 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Fortune Hunter Nahara Portrait](images/skin_portraits/fortunehunternahara.png)<span class="featTooltipContents">ID: 574**Fortune Hunter Nahara (Nahara)**<img src="images/skin_models/fortunehunternahara.gif" alt="Fortune Hunter Nahara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Fortune Hunter Nahara
-        </span>
-        <span class="skinTableSource">
-            Fortune Hunter Nahara Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            02 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Fortune Hunter Tess Portrait](images/skin_portraits/fortunehuntertess.png)<span class="featTooltipContents">ID: 572**Fortune Hunter Tess (Tess)**<img src="images/skin_models/fortunehuntertess.gif" alt="Fortune Hunter Tess Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Fortune Hunter Tess
-        </span>
-        <span class="skinTableSource">
-            Fortune Hunter Tess Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            02 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dragon Hoard Beadle Portrait](images/skin_portraits/dragonhoardbeadle.png)<span class="featTooltipContents">ID: 569**Dragon Hoard Beadle (Beadle)**<img src="images/skin_models/dragonhoardbeadle.gif" alt="Dragon Hoard Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

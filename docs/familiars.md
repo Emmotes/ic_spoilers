@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Wormy the Baby Purple Worm Portrait](images/familiars/wormythebabypurpleworm.png)<span class="featTooltipContents">ID: 271**Wormy the Baby Purple Worm**I'll bite your ankles until you die!<img src="images/familiars/wormythebabypurpleworm.gif" alt="Wormy the Baby Purple Worm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Wormy the Baby Purple Worm
-        </span>
-        <span class="skinTableSource">
-            Fortune Hunter Tess Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            02 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Verdigrin the Baby Copper Dragon Portrait](images/familiars/verdigrinthebabycopperdragon.png)<span class="featTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**Ready for a life full of wonder and possibility.<img src="images/familiars/verdigrinthebabycopperdragon.gif" alt="Verdigrin the Baby Copper Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

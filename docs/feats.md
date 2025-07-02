@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Nahara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2221**Immolation (Nahara)**You will burn for this, and it will be by my hand.<code>immolation,1,5</code></span>Immolation
-        </span>
-        <span class="featTableEffect">
-            <span>1s BUD per sec for 5s</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>02 Jul 2025<br>02 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Strongheart</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2220**Master's Precision (Strongheart)**Steel, strike true!<code>buff_base_crit_chance_add,20</code></span>Master's Precision
-        </span>
-        <span class="featTableEffect">
-            <span>+20% Crit Chance</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>02 Jul 2025<br>02 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Tess</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Sleeping Toxin Icon](images/featicons/tesssleeppoison.png)<span class="featTooltipContents">ID: 2246**Sleeping Toxin (Tess)**Careful. One poke from that and it's lights out.<code>add_hero_tags,0,control<br>global_dps_multiplier_mult,100<br>change_base_attack,874</code></span>Sleeping Toxin
-        </span>
-        <span class="featTableEffect">
-            <span>Counts as Control & 100% All Champion Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>02 Jul 2025<br>02 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Deekin</span>
         </span>
         <span class="featTableIcon4">
