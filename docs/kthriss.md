@@ -282,7 +282,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Efficient Bookkeeping** (Guess)
-> K'thriss uses his creative accounting skills to skim a little bit off the gold you spend to level up Champions and uses it to empower his abilities. For each order of magnitude of gold spent leveling up other Champions, he increases the effect of Unseen Encouragement by 25%, stacking multiplicatively.
+> K'thriss uses his creative accounting skills to skim a little bit off the gold you spend to level up Champions and uses it to empower his abilities. For each order of magnitude of gold spent leveling up other Champions, he increases the effect of Unseen Encouragement by 15%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -294,7 +294,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,25,17324",
+            "effect_string": "buff_upgrade,15,17324",
             "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "get_stat",
@@ -483,7 +483,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Formation
 
 <span class="formationBorder">
-    <svg xmlns="http://www.w3.org/2000/svg" id="K'thriss" fill="#aaa" data-formationName="K'thriss" data-campaignName="Grand Revel" width="262" height="160"><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="25" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><circle cx="15" cy="145" r="15"/><text x="165" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">K'thriss</text><text x="165" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Grand Revel</text></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" id="K'thriss" fill="#aaa" data-formationName="K'thriss" data-campaignName="Founders' Day" width="272" height="160"><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="25" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><circle cx="15" cy="145" r="15"/><text x="165" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">K'thriss</text><text x="165" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Founders' Day</text></svg>
 </span>
 
 [Back to Top](#top)
