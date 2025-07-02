@@ -26,6 +26,279 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> When Alyndra is in the formation, all Champions from the Heroes of the Planes affiliation may be used, even if a Patron, Variant, or other restriction would say otherwise.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2430,
+    "flavour_text": "",
+    "description": {
+        "desc": "When Alyndra is in the formation, all Champions from the Heroes of the Planes affiliation may be used, even if a Patron, Variant, or other restriction would say otherwise."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Portent** (Guess)
+> Alyndra glances into the future. The next two unique Champions to use their ultimate abilities gain the Portent buff for 40 seconds, which increases their base damage by 1000% and reduces their base attack cooldown by 0.5 sec. If an affected Champion uses their ultimate ability again before the Portent buff expires, their Portent buff duration is refreshed.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2437,
+    "flavour_text": "",
+    "description": {
+        "desc": "Alyndra glances into the future. The next two unique Champions to use their ultimate abilities gain the Portent buff for 40 seconds, which increases their base damage by 1000% and reduces their base attack cooldown by 0.5 sec. If an affected Champion uses their ultimate ability again before the Portent buff expires, their Portent buff duration is refreshed."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "alyndra_portent_v2,200",
+            "portent_time": 40,
+            "portent_number": 2,
+            "applied_effect_id_to_portented": 2439,
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "set_ultimate_attack,2"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Circle of Divination** (Guess)
+> Alyndra increases the damage of adjacent Champions by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2431,
+    "flavour_text": "",
+    "description": {
+        "desc": "Alyndra increases the damage of adjacent Champions by $amount%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "off_when_benched": true,
+            "targets": [
+                "adj"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> For each Champion in the formation affected by Portent, Alyndra's Circle of Divination is increased by 100%, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2432,
+    "flavour_text": "",
+    "description": {
+        "desc": "For each Champion in the formation affected by Portent, Alyndra's Circle of Divination is increased by 100%, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Griff, Alyndra's owl companion, sits on Alyndra's shoulder and judges enemies as they spawn. They have a 25% chance to judge normal enemies as unworthy, and a 100% chance to judge bosses as unworthy. For each unworthy normal enemy that spawns, Circle of Divination is increased by 20%, stacking multiplicatively. If a boss has spawned in the current area, Circle of Divination is increased by an additional 1000%. Griff can judge up to 100 normal enemies per area, and the stacks reset when changing areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2433,
+    "flavour_text": "",
+    "description": {
+        "desc": "Griff, Alyndra's owl companion, sits on Alyndra's shoulder and judges enemies as they spawn. They have a 25% chance to judge normal enemies as unworthy, and a 100% chance to judge bosses as unworthy. For each unworthy normal enemy that spawns, Circle of Divination is increased by 20%, stacking multiplicatively. If a boss has spawned in the current area, Circle of Divination is increased by an additional 1000%. Griff can judge up to 100 normal enemies per area, and the stacks reset when changing areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+# Specialisations
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Portent now applies to the next 3 Champions to use their ultimate abilities instead of 2, and the effect is increased by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2434,
+    "flavour_text": "",
+    "description": {
+        "desc": "Portent now applies to the next 3 Champions to use their ultimate abilities instead of 2, and the effect is increased by 100%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> Doubles Griff's chance to judge enemies as unworthy with Brows of Judgement, increases the buff by 100%, and when changing areas, half of the stacks persist.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2435,
+    "flavour_text": "",
+    "description": {
+        "desc": "Doubles Griff's chance to judge enemies as unworthy with Brows of Judgement, increases the buff by 100%, and when changing areas, half of the stacks persist."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Unknown** (Guess)
+> If Portent is applied to a Champion under the effect of certain Heroes of the Planes Champions' abilities, those effects are increased in power.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2436,
+    "flavour_text": "",
+    "description": {
+        "desc": "If Portent is applied to a Champion under the effect of certain Heroes of the Planes Champions' abilities, those effects are increased in power"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Circle of Divination** (Guess)
 > Unknown.
 <details><summary><em>Raw Data</em></summary>
@@ -72,8 +345,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </p>
 </details>
 </div></div>
-
-# Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Heroes of the Planes** (Guess)
