@@ -27,21 +27,20 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Tess Portrait Icon](images/tess/portrait.png)
+            ![Tessalynde 'Tess' Halendria Portrait Icon](images/tess/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Tess
+                Tessalynde 'Tess' Halendria
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf Rogue of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Elf (Wood) Rogue of The Fallbacks</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 2 July 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
             ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
@@ -201,21 +200,20 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Tess Portrait Icon](images/tess/portrait.png)
+            ![Tessalynde 'Tess' Halendria Portrait Icon](images/tess/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Tess
+                Tessalynde 'Tess' Halendria
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf Rogue of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Elf (Wood) Rogue of The Fallbacks</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
         </span>
         <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
             ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
