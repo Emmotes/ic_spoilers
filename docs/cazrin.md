@@ -278,8 +278,8 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "ultimate": "cazrin",
             "projectile_data": {
                 "type": "ranged_attack",
-                "shoot_offset_y": -165,
-                "shoot_offset_x": 150,
+                "shoot_offset_y": -215,
+                "shoot_offset_x": 165,
                 "shoot_frame": 29,
                 "shoot_sound": 149,
                 "hit_sound": 133,
@@ -379,7 +379,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Uggie joins the party, starting next to Cazrin unless they're already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by 100%.
+> Uggie joins the party, starting next to Cazrin unless she's already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -387,7 +387,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
     "id": 2412,
     "flavour_text": "",
     "description": {
-        "desc": "Uggie joins the party, starting next to Cazrin unless they're already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by $amount%."
+        "desc": "Uggie joins the party, starting next to Cazrin unless she's already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by $amount%."
     },
     "effect_keys": [
         {
@@ -426,7 +426,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Library of Lore** (Guess)
-> Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a 10% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by 5, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by 10% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by 10%.
+> Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a 10% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by 5, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by 10% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by 100%.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -436,12 +436,12 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
     "id": 2413,
     "flavour_text": "",
     "description": {
-        "desc": "Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a 10% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by $per_order_order_of_magnitude, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by $chance% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by $(amount___3)%."
+        "desc": "Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a $chance% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by $max_book_divisor, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by $(amount___2)% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by $(amount___4)%."
     },
     "effect_keys": [
         {
             "effect_string": "library_of_lore_handler,1",
-            "per_order_order_of_magnitude": 5,
+            "max_book_divisor": 5,
             "chance": 10,
             "off_when_benched": true
         },
@@ -455,7 +455,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "amount_expr": "upgrade_amount(17673,1)",
             "stacks_multiply": false,
             "stacks_on_trigger": "will_manually_stack",
-            "stack_title": "Books Collected:",
+            "stack_title": "Books Collected",
             "show_bonus": true
         },
         {
@@ -533,7 +533,8 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
     "effect_keys": [
         {
             "effect_string": "unleash_uggie_contribution,400",
-            "off_when_benched": true
+            "off_when_benched": true,
+            "show_bonus": false
         }
     ],
     "requirements": "",
@@ -609,15 +610,15 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **In Search of Knowledge** (Guess)
-> In Search of Knowledge — Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure:  
+> In Search of Knowledge - Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure:  
 >  - 10+ Books (area 50/20+): Cazrin fires an additional Magic Missile with her base attack.  
 >  - 40+ Books (area 200/70+): Increase the effect of Sunny Disposition by 50% for each Book she has collected in the current adventure, stacking multiplicatively.  
 >  - 80+ Books (area 400/135+): Cazrin fires an additional Magic Missile with her base attack.   
 >  - 120+ Books (area 600/200+): When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.  
 >  - 160+ Books (area 800/270+): Increase the effect of Unctuous Uggie by 50% for each Book Cazrin has collected in the current adventure, stacking additively.  
 >  - 200+ Books (area 1000/335+): Support Champions affected by Mage Armor have a 50% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.  
->  - Mage Armor's damage prevention is increased to $(amount___7)%.  
->  - For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by 50%, stacking multiplicatively.
+>  - 240+ Books (area 1200/400+): Mage Armor's damage prevention is increased to 50%.  
+>  - 300+ Books (area 1500/500+): For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by 50%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -625,7 +626,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
     "id": 2417,
     "flavour_text": "",
     "description": {
-        "desc": "In Search of Knowledge — Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure:^^ - 10+ Books (area 50/20+): Cazrin fires an additional Magic Missile with her base attack.^^ - 40+ Books (area 200/70+): Increase the effect of Sunny Disposition by $(amount___2)% for each Book she has collected in the current adventure, stacking multiplicatively.^^ - 80+ Books (area 400/135+): Cazrin fires an additional Magic Missile with her base attack. ^^ - 120+ Books (area 600/200+): When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.^^ - 160+ Books (area 800/270+): Increase the effect of Unctuous Uggie by $(amount___5)% for each Book Cazrin has collected in the current adventure, stacking additively.^^ - 200+ Books (area 1000/335+): Support Champions affected by Mage Armor have a $(amount___6)% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.^^ - Mage Armor's damage prevention is increased to $(amount___7)%.^^ - For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by $(amount___8)%, stacking multiplicatively."
+        "desc": "In Search of Knowledge - Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure:^^ - 10+ Books (area 50/20+): Cazrin fires an additional Magic Missile with her base attack.^^ - 40+ Books (area 200/70+): Increase the effect of Sunny Disposition by $(amount___3)% for each Book she has collected in the current adventure, stacking multiplicatively.^^ - 80+ Books (area 400/135+): Cazrin fires an additional Magic Missile with her base attack. ^^ - 120+ Books (area 600/200+): When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.^^ - 160+ Books (area 800/270+): Increase the effect of Unctuous Uggie by $(amount___6)% for each Book Cazrin has collected in the current adventure, stacking additively.^^ - 200+ Books (area 1000/335+): Support Champions affected by Mage Armor have a $(amount___7)% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.^^ - 240+ Books (area 1200/400+): Mage Armor's damage prevention is increased to $(amount_desc___8)%.^^ - 300+ Books (area 1500/500+): For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by $(amount___9)%, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -650,7 +651,8 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
                 "stat_changed,cazrin_books_collected_this_adventure",
                 "slot_changed"
             ],
-            "show_bonus": true
+            "stack_title": "Books Collected This Adventure",
+            "show_stacks": true
         },
         {
             "effect_string": "change_base_attack,896",
@@ -682,24 +684,32 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "apply_manually": true
         },
         {
-            "effect_string": "buff_upgrade,1,17675",
-            "stacks_from_amount_func": "get_stat",
+            "effect_string": "buff_upgrade_add_then_mult,1,17675",
+            "amount_func": "add",
+            "stack_func": "get_stat",
+            "stacks_multiply": false,
             "instance_stat": true,
             "stat": "cazrin_books_collected_this_adventure",
             "amount_updated_listeners": [
-                "stat_changed,cazrin_books_collected_this_adventure"
+                "stat_changed,cazrin_books_collected_this_adventure",
+                "slot_changed"
             ],
             "apply_manually": true
         },
         {
-            "effect_string": "do_nothing,0",
+            "effect_string": "add_monster_hit_effects,5",
+            "chance": 40,
+            "monster_effect": {
+                "effect_string": "ki_explosion,$amount,1,1"
+            },
+            "after_damage": true,
             "targets": [
                 "all"
             ],
             "filter_targets": [
                 {
-                    "type": "hero_expr",
-                    "hero_expr": "!HasTag(`support`)"
+                    "type": "by_tags",
+                    "tags": "support"
                 },
                 {
                     "type": "affected_by_upgrade",
@@ -713,6 +723,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "data": {
                 "amount": 50
             },
+            "amount_desc": 50,
             "apply_manually": true
         },
         {
@@ -779,7 +790,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -825,7 +836,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -843,7 +854,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
     "id": 2420,
     "flavour_text": "",
     "description": {
-        "desc": "Whenever a boss drops a Book, Cazrin collects $amount Books. The maximum number of Books she can collect during this adventure is tripled, but In Search of Knowledge's per Book damage boost to Sunny Disposition is reduced from 5% to $(amount___2)%. "
+        "desc": "Whenever a boss drops a Book, Cazrin collects $amount_desc Books. The maximum number of Books she can collect during this adventure is tripled, but In Search of Knowledge's per Book damage boost to Sunny Disposition is reduced from 5% to $(amount_desc___2)%. "
     },
     "effect_keys": [
         {
@@ -851,14 +862,16 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "off_when_benched": true,
             "data": {
                 "amount": 3
-            }
+            },
+            "amount_desc": 3
         },
         {
             "effect_string": "change_upgrade_data,17677,2",
             "off_when_benched": true,
             "data": {
                 "amount": 1.65
-            }
+            },
+            "amount_desc": 1.65
         }
     ],
     "requirements": "",
@@ -921,7 +934,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Smell Mastery** (Guess)
-> When Uggie is with Cazrin, In Search of Knowledge's per-Book bonus for Sunny Disposition is increased by $amount%.
+> When Uggie is with Cazrin, In Search of Knowledge's per-Book bonus for Sunny Disposition is increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -929,7 +942,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
     "id": 2422,
     "flavour_text": "",
     "description": {
-        "desc": "When Uggie is with Cazrin, In Search of Knowledge's per-Book bonus for Sunny Disposition is increased by $amount%."
+        "desc": "When Uggie is with Cazrin, In Search of Knowledge's per-Book bonus for Sunny Disposition is increased by $amount___2%."
     },
     "effect_keys": [
         {
