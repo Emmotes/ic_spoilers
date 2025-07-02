@@ -38,7 +38,7 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
-            <span style="margin-left:15px"></span>
+            <span style="margin-left:15px">Trap Expert</span>
             <span style="margin-left:15px">Tess (Slot 4)</span>
         </span>
     </span>
@@ -97,6 +97,7 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Prodigal Leader</span>
+            <span style="margin-left:15px">Tess (50% All Champion Damage)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
