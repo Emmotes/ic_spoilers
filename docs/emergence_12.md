@@ -34,7 +34,7 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Golden Epic](images/general/unknown.png)
+            <span class="tooltipHolder">![Golden Epic Icon for Tess Slot 4](images/emergence_12/ge_3905.png)<span class="itemTooltipContents">ID: 3905**Trapfinder's Friend (Tess)**No trap is safe from me.<code>buff_upgrade,275,17320</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
@@ -92,7 +92,7 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/emergence_12/feat_2231.png)<span class="featTooltipContents">ID: 2231**Prodigal Leader (Tess)**I'm not always the best leader, but I truly believe that we're stronger together.<code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
