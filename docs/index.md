@@ -23,31 +23,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="tess.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Tessalynde 'Tess' Halendria Portrait Icon](images/tess/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Tessalynde 'Tess' Halendria
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf (Wood) Rogue of The Fallbacks</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Founders' Day - 2 July 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="baldric.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -195,31 +170,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Founders' Day - 2 July 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="tess.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Tessalynde 'Tess' Halendria Portrait Icon](images/tess/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Tessalynde 'Tess' Halendria
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf (Wood) Rogue of The Fallbacks</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 {::nomarkdown}
 <a href="kthriss.html">
 {:/nomarkdown}

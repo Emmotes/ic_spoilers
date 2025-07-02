@@ -19,6 +19,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Notary System](archive/notary.md)
 * [Sheila](archive/sheila.md)
 * [Steam Exclusive Giveaway](archive/giveaway_steam_1749661200.md)
+* [Tessalynde 'Tess' Halendria](archive/tess.md)
 * [The Great Modron March Augments](archive/augments_26.md)
 * [Vlithryn](archive/vlithryn.md)
 * [Volothamp "Volo" Geddarm](archive/volo.md)
