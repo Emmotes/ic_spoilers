@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Tess Champion Unlock Portrait](images/premiums/unlock_champion_164.png)<span class="itemTooltipContents">ID: 164**Tess**<img src="images/premiums/unlock_champion_164.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Tess Champion Unlock Portrait](images/premiums/unlock_champion_164.png)<span class="itemTooltipContents">ID: 164**Tess (Seat 8)**<img src="images/premiums/unlock_champion_164.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2246**Feat**???: 2246</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Sleeping Toxin Feat Portrait](images/featicons/tesssleeppoison.png)<span class="itemTooltipContents">ID: 2246**Sleeping Toxin**Careful. One poke from that and it's lights out.<code>add_hero_tags,0,control<br>global_dps_multiplier_mult,100<br>change_base_attack,874</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2246</span>
+            <span style="margin-left:15px">Sleeping Toxin</span>
+            <span style="margin-left:15px">Tess (Counts as Control & 100% All Champion Damage)</span>
         </span>
     </span>
     <span class="premiumsTableItem">

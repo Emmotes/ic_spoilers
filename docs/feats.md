@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Tess</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Sleeping Toxin Icon](images/featicons/tesssleeppoison.png)<span class="featTooltipContents">ID: 2246**Sleeping Toxin (Tess)**Careful. One poke from that and it's lights out.<code>add_hero_tags,0,control<br>global_dps_multiplier_mult,100<br>change_base_attack,874</code></span>Sleeping Toxin
+        </span>
+        <span class="featTableEffect">
+            <span>Counts as Control & 100% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Jul 2025<br>02 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Deekin</span>
         </span>
         <span class="featTableIcon4">
@@ -122,6 +139,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableEffect">
             <span>+1600% to Krond's Base Attack and Stuns & Counts as Control</span>
+        </span>
+        <span class="featTableSource">
+            <span>Emergence 12</span>
+        </span>
+        <span class="featTableDate">
+            <span>23 Jul 2025<br>Unknown</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Tess</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2231**Prodigal Leader (Tess)**I'm not always the best leader, but I truly believe that we're stronger together.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
             <span>Emergence 12</span>
@@ -234,6 +268,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Catti-brie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1333**Master's Precision (Catti-brie)**Aye, these arrows do go through most armor.<code>buff_base_crit_chance_add,20</code></span>Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span>+20% Crit Chance</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>27 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Drizzt</span>
         </span>
         <span class="featTableIcon4">
@@ -247,6 +298,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span>27 Aug 2025<br>27 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ezmerelda</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Monster Tracker Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1579**Monster Tracker (Ezmerelda)**If I've fought it - I can track it.<code>buff_upgrade_effect_stacks_trigger_add,2,15039,1</code></span>Monster Tracker
+        </span>
+        <span class="featTableEffect">
+            <span>+2 Stacks to Threat Tracking When Triggered</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>27 Aug 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -586,44 +654,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span>Catti-brie</span>
         </span>
         <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1333**Master's Precision (Catti-brie)**Aye, these arrows do go through most armor.<code>buff_base_crit_chance_add,20</code></span>Master's Precision
-        </span>
-        <span class="featTableEffect">
-            <span>+20% Crit Chance</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Catti-brie</span>
-        </span>
-        <span class="featTableIcon4">
             ![Obliterating Blast Icon](images/featicons/critdamageincrease.png)<span class="featTooltipContents">ID: 1335**Obliterating Blast (Catti-brie)**It's not just that I hit ye; it's how many times I hit ye.<code>buff_base_crit_damage,120</code></span>Obliterating Blast
         </span>
         <span class="featTableEffect">
             <span>+120% Crit Damage</span>
-        </span>
-        <span class="featTableSource">
-            <span>???</span>
-        </span>
-        <span class="featTableDate">
-            <span>01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Ezmerelda</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Monster Tracker Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1579**Monster Tracker (Ezmerelda)**If I've fought it - I can track it.<code>buff_upgrade_effect_stacks_trigger_add,2,15039,1</code></span>Monster Tracker
-        </span>
-        <span class="featTableEffect">
-            <span>+2 Stacks to Threat Tracking When Triggered</span>
         </span>
         <span class="featTableSource">
             <span>???</span>
@@ -1514,6 +1548,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>17 Mar 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Tess</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2247**Deadly Toxin (Tess)**If there's a problem, this should solve it.<code>do_nothing</code></span>Deadly Toxin
+        </span>
+        <span class="featTableEffect">
+            <span>do_nothing</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Jul 2032</span>
         </span>
     </span>
     <span class="featTableRow">
