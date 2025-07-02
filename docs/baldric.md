@@ -141,7 +141,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Two-Handed Mace** (Magic)
+**Base Attack: Two-Handed Mace** (Magic and Melee)
 > Baldric attacks the closest enemy, dealing BUD-based damage.  
 > Cooldown: 4.75s (Cap 1.1875s)
 <details><summary><em>Raw Data</em></summary>
@@ -173,10 +173,12 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
         }
     ],
     "tags": [
-        "magic"
+        "magic",
+        "melee"
     ],
     "damage_types": [
-        "magic"
+        "magic",
+        "melee"
     ]
 }
 </pre>
