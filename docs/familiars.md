@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 280**Quandary the Sphinx of Wonder**Mystifying even to themselves.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Quandary the Sphinx of Wonder Portrait](images/familiars/quandarythesphinxofwonder.png)<span class="featTooltipContents">ID: 280**Quandary the Sphinx of Wonder**Mystifying even to themselves.<img src="images/familiars/quandarythesphinxofwonder.gif" alt="Quandary the Sphinx of Wonder Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Quandary the Sphinx of Wonder

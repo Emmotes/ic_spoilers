@@ -680,7 +680,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Chosen of Vecna Warduke Skin Portrait](images/premiums/skin_579.png)<span class="itemTooltipContents">ID: 579**Chosen of Vecna Warduke (Warduke)**</span></span>
+            <span class="tooltipHolder">![Chosen of Vecna Warduke Skin Portrait](images/premiums/skin_579.png)<span class="itemTooltipContents">ID: 579**Chosen of Vecna Warduke (Warduke)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_579.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_579-flame_tongue.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1035,7 +1035,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 280**Quandary the Sphinx of Wonder**Mystifying even to themselves.</span></span>
+            <span class="tooltipHolder">![Quandary the Sphinx of Wonder Familiar Portrait](images/premiums/familiar_280.png)<span class="itemTooltipContents">ID: 280**Quandary the Sphinx of Wonder**Mystifying even to themselves.<img src="images/premiums/familiar_280.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
