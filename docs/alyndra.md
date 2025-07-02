@@ -26,7 +26,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**I See Some Friends** (Guess)
 > When Alyndra is in the formation, all Champions from the Heroes of the Planes affiliation may be used, even if a Patron, Variant, or other restriction would say otherwise.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -132,7 +132,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**I Have Foreseen This** (Guess)
 > For each Champion in the formation affected by Portent, Alyndra's Circle of Divination is increased by 100%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -165,7 +165,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Brows of Judgement** (Guess)
 > Griff, Alyndra's owl companion, sits on Alyndra's shoulder and judges enemies as they spawn. They have a 25% chance to judge normal enemies as unworthy, and a 100% chance to judge bosses as unworthy. For each unworthy normal enemy that spawns, Circle of Divination is increased by 20%, stacking multiplicatively. If a boss has spawned in the current area, Circle of Divination is increased by an additional 1000%. Griff can judge up to 100 normal enemies per area, and the stacks reset when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -200,7 +200,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Expansive Vision** (Guess)
 > Portent now applies to the next 3 Champions to use their ultimate abilities instead of 2, and the effect is increased by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -233,7 +233,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Extra Judgy** (Guess)
 > Doubles Griff's chance to judge enemies as unworthy with Brows of Judgement, increases the buff by 100%, and when changing areas, half of the stacks persist.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -266,7 +266,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
+**Specialisation: Heroes of the Planes** (Guess)
 > If Portent is applied to a Champion under the effect of certain Heroes of the Planes Champions' abilities, those effects are increased in power.
 <details><summary><em>Raw Data</em></summary>
 <p>
