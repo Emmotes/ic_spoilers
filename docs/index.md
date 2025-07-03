@@ -328,7 +328,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Founders' Day Augments](augments_37.md) - 2 July 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_589.md) - 8 July 2025
 * [Emergence 12](emergence_12.md) - 23 July 2025
 * [New Campaign: Tales of the Champions](campaign_tales.md) - 27 August 2025 (Guess)
