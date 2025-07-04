@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/745.png">
-            <span class="weekendTooltipContents">ID: 745**Gold Revelry Chest**Loot for: Jamilah, Makos, Widdle, Melf and Tess<code>"for_crusaders":[11,9,91,59,164]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Heroes Parade**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    04 July 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Tess
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tess.png'">
-                        <span class="weekendTableChampionNameplate">Tess</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/widdle.png'">
-                        <span class="weekendTableChampionNameplate">Widdle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/melf.png'">
-                        <span class="weekendTableChampionNameplate">Melf</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jamilah.png'">
-                        <span class="weekendTableChampionNameplate">Jamilah</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/746.png">
             <span class="weekendTooltipContents">ID: 746**Gold Rising Darkness Chest**Loot for: Hitch, Calliope, Lae'zel, Bobby and K'thriss<code>"for_crusaders":[13,5,128,152,38]</code></span>
         </span>
@@ -68,12 +25,12 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for K'thriss
+                        Golden Epic
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kthriss.png'">
-                        <span class="weekendTableChampionNameplate">K'thriss</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hitch.png'">
+                        <span class="weekendTableChampionNameplate">Hitch</span>
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
                         <span class="weekendTableChampionNameplate">Calliope</span>
@@ -84,8 +41,8 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/bobby.png'">
                         <span class="weekendTableChampionNameplate">Bobby</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hitch.png'">
-                        <span class="weekendTableChampionNameplate">Hitch</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kthriss.png'">
+                        <span class="weekendTableChampionNameplate">K'thriss</span>
                     </span>
                 </span>
             </span>
@@ -111,7 +68,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Bruenor
+                        Golden Epic
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -154,7 +111,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Minsc
+                        Golden Epic
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -197,7 +154,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Asharra
+                        Golden Epic
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -240,7 +197,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Celeste
+                        Golden Epic
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -283,7 +240,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Minsc
+                        Golden Epic
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -326,7 +283,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Arkhan
+                        Golden Epic
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -369,7 +326,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Bruenor
+                        Golden Epic
                     </span>
                 </span>
                 <span class="weekendTableChampions">
