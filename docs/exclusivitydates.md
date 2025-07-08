@@ -961,6 +961,69 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
         </span>
     </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g6a" onclick="exclusiveToggleContent(`g6`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![B&G's Dragon Delves DM Vault Giveaway B&G Dragon Delves Pack Icon](images/general/b&g's dragon delves dm vault.png)**B&G's Dragon Delves DM Vault Preorder Bonus** - B&G Dragon Delves Pack
+            </span>
+        </span>
+        <span id="g6" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Dragon Hoard Beadle Skin Icon](images/exclusivities/skin_26557.png)<span class="featTooltipContents">ID: 569**Dragon Hoard Beadle (Beadle)**<img src="images/exclusivities/skin_26551.gif" alt="Dragon Hoard Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Dragon Hoard Beadle</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Dragon Slayer Grimm Skin Icon](images/exclusivities/skin_26558.png)<span class="featTooltipContents">ID: 570**Dragon Slayer Grimm (Grimm)**<img src="images/exclusivities/skin_26554.gif" alt="Dragon Slayer Grimm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Dragon Slayer Grimm</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Verdigrin the Baby Copper Dragon Familiar Icon](images/exclusivities/fam_269.png)<span class="featTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**Ready for a life full of wonder and possibility.<br><img src="images/exclusivities/fam_269.gif" alt="Verdigrin the Baby Copper Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Verdigrin the Baby Copper Dragon</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>08 July 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>01 August 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>01 November 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
 </span>
 
 # Old Exclusive Special Events
