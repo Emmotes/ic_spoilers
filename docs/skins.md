@@ -349,40 +349,6 @@ Please be aware that the developers recently removed most future skins from the 
             17 Sept 2025
         </span>
     </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 569**Dragon Hoard Beadle (Beadle)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Dragon Hoard Beadle
-        </span>
-        <span class="skinTableSource">
-            Beadle & Grimm Dragon Delves Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            01 Jan 2032
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 570**Dragon Slayer Grimm (Grimm)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Dragon Slayer Grimm
-        </span>
-        <span class="skinTableSource">
-            Beadle & Grimm Dragon Delves Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            01 Jan 2032
-        </span>
-    </span>
 </span>
 
 [Back to Top](#top)
