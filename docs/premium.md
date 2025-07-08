@@ -944,7 +944,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 589**Arborean Hunter Shandie (Shandie)**</span></span>
+            <span class="tooltipHolder">![Arborean Hunter Shandie Skin Portrait](images/premiums/skin_589.png)<span class="itemTooltipContents">ID: 589**Arborean Hunter Shandie (Shandie)**<img src="images/premiums/skin_589.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1015,7 +1015,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 588**Blind Justice Ishi (Ishi)**</span></span>
+            <span class="tooltipHolder">![Blind Justice Ishi Skin Portrait](images/premiums/skin_588.png)<span class="itemTooltipContents">ID: 588**Blind Justice Ishi (Ishi)**<img src="images/premiums/skin_588.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

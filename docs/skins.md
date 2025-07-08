@@ -164,7 +164,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 589**Arborean Hunter Shandie (Shandie)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Arborean Hunter Shandie Portrait](images/skin_portraits/arboreanhuntershandie.png)<span class="featTooltipContents">ID: 589**Arborean Hunter Shandie (Shandie)**<img src="images/skin_models/arboreanhuntershandie.gif" alt="Arborean Hunter Shandie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Arborean Hunter Shandie
@@ -198,7 +198,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 588**Blind Justice Ishi (Ishi)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Blind Justice Ishi Portrait](images/skin_portraits/blindjusticeishi.png)<span class="featTooltipContents">ID: 588**Blind Justice Ishi (Ishi)**<img src="images/skin_models/blindjusticeishi.gif" alt="Blind Justice Ishi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Blind Justice Ishi
