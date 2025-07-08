@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon Hoard Beadle Portrait](images/skin_portraits/dragonhoardbeadle.png)<span class="featTooltipContents">ID: 569**Dragon Hoard Beadle (Beadle)**<img src="images/skin_models/dragonhoardbeadle.gif" alt="Dragon Hoard Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragon Hoard Beadle
-        </span>
-        <span class="skinTableSource">
-            Beadle & Grimm Dragon Delves Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            08 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon Slayer Grimm Portrait](images/skin_portraits/dragonslayergrimm.png)<span class="featTooltipContents">ID: 570**Dragon Slayer Grimm (Grimm)**<img src="images/skin_models/dragonslayergrimm.gif" alt="Dragon Slayer Grimm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragon Slayer Grimm
-        </span>
-        <span class="skinTableSource">
-            Beadle & Grimm Dragon Delves Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            08 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dungeoneer Deekin Portrait](images/skin_portraits/dungeoneerdeekin.png)<span class="featTooltipContents">ID: 575**Dungeoneer Deekin (Deekin)**<img src="images/skin_models/dungeoneerdeekin.gif" alt="Dungeoneer Deekin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
