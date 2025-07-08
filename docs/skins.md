@@ -11,6 +11,23 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Dungeon Raider Aeon Portrait](images/skin_portraits/dungeonraideraeon.png)<span class="featTooltipContents">ID: 578**Dungeon Raider Aeon (Aeon)**<img src="images/skin_models/dungeonraideraeon.gif" alt="Dungeon Raider Aeon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Dungeon Raider Aeon
+        </span>
+        <span class="skinTableSource">
+            Dungeon Raider Aeon Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            09 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dungeoneer Deekin Portrait](images/skin_portraits/dungeoneerdeekin.png)<span class="featTooltipContents">ID: 575**Dungeoneer Deekin (Deekin)**<img src="images/skin_models/dungeoneerdeekin.gif" alt="Dungeoneer Deekin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -41,23 +58,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             09 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dungeon Raider Aeon Portrait](images/skin_portraits/dungeonraideraeon.png)<span class="featTooltipContents">ID: 578**Dungeon Raider Aeon (Aeon)**<img src="images/skin_models/dungeonraideraeon.gif" alt="Dungeon Raider Aeon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dungeon Raider Aeon
-        </span>
-        <span class="skinTableSource">
-            Dungeon Raider Aeon Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            16 Jul 2025
         </span>
     </span>
     <span class="skinTableRow">
@@ -147,6 +147,23 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Blind Justice Ishi Portrait](images/skin_portraits/blindjusticeishi.png)<span class="featTooltipContents">ID: 588**Blind Justice Ishi (Ishi)**<img src="images/skin_models/blindjusticeishi.gif" alt="Blind Justice Ishi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Blind Justice Ishi
+        </span>
+        <span class="skinTableSource">
+            Blind Justice Ishi Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            06 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Kith'rak Lae'zel Portrait](images/skin_portraits/kithraklaezel.png)<span class="featTooltipContents">ID: 503**Kith'rak Lae'zel (Lae'zel)**<img src="images/skin_models/kithraklaezel.gif" alt="Kith'rak Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -194,23 +211,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             13 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Blind Justice Ishi Portrait](images/skin_portraits/blindjusticeishi.png)<span class="featTooltipContents">ID: 588**Blind Justice Ishi (Ishi)**<img src="images/skin_models/blindjusticeishi.gif" alt="Blind Justice Ishi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Blind Justice Ishi
-        </span>
-        <span class="skinTableSource">
-            Blind Justice Ishi Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            20 Aug 2025
         </span>
     </span>
     <span class="skinTableRow">
@@ -347,6 +347,40 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             17 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 569**Dragon Hoard Beadle (Beadle)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Hoard Beadle
+        </span>
+        <span class="skinTableSource">
+            Beadle & Grimm Dragon Delves Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            01 Jan 2032
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 570**Dragon Slayer Grimm (Grimm)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Slayer Grimm
+        </span>
+        <span class="skinTableSource">
+            Beadle & Grimm Dragon Delves Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            01 Jan 2032
         </span>
     </span>
 </span>
