@@ -329,7 +329,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 Miscellaneous spoilers with due dates.
 
 * [Emergence 12](emergence_12.md) - 23 July 2025
-* [New Campaign: Tales of the Champions](campaign_tales.md) - 27 August 2025 (Guess)
+* [New Campaign: Tales of the Champions](campaign_tales.md) - 27 August 2025
 
 # Misc
 
