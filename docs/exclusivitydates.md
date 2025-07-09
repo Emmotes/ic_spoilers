@@ -35,40 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Catti-brie</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Archer's Perception Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1355**Archer's Perception (Catti-brie)**I'll know them when I see them. Attack on my signal.<code>buff_upgrade,80,11308</code></span>Archer's Perception
-        </span>
-        <span class="featTableEffect">
-            <span>80% Mark for Death</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>09 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span>Dark Urge</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Blazing Blood Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2129**Blazing Blood (Dark Urge)**The hells themselves will quake at your passing, milord!<code>buff_upgrade,80,14380</code></span>Blazing Blood
-        </span>
-        <span class="featTableEffect">
-            <span>80% Ceremorphosis (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>09 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Briv</span>
         </span>
         <span class="featTableIcon4">
@@ -456,6 +422,57 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span>02 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Aeon</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Clandestine Operation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2223**Clandestine Operation (Aeon)**They must never know what we do in the shadows.<code>buff_upgrade,80,15196,1</code></span>Clandestine Operation
+        </span>
+        <span class="featTableEffect">
+            <span>80% Inner Circle</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 159**Prodigal Leader (Deekin)**Deekin lead you all to DOOM.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>K'thriss</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Reincarnation Icon](images/featicons/kthrissreincarnated.png)<span class="featTooltipContents">ID: 2259**Reincarnation (K'thriss)**What was once the me within is now the me without.<code>global_dps_multiplier_mult,100<br>set_age,80<br>add_hero_tags,0,non_binary</code></span>Reincarnation
+        </span>
+        <span class="featTableEffect">
+            <span>100% All Champion Damage & Sets age to 80 & Counts as Nonbinary</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Oct 2025</span>
         </span>
     </span>
 </span>
