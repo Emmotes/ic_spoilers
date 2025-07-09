@@ -397,7 +397,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Heroes of the Planes** (Guess)
-> If Portent is applied to a Champion under the effect of certain Heroes of the Planes Champions' abilities, those effects are increased in power.
+> If Portent is applied to a Champion under the effect of certain Heroes of the Planes Champions' abilities, those effects are increased in power.  
+> - Avren: Mirror Image effects on the Portented Champion is increased by 200%  
+> - Freely: Unlucky For Them increased by 200% for each Portented Champion affected by Luck of Yondalla (stacking multiplicatively)  
+> - Penelope: Chwinga Mask: Tools for the Job Charm increased by 200% for each Portented Champion affected by Chwinga Mask (stacking multiplicatively)  
+> - Briv: Netherese Steel effects on the Portented Champion is increased by 200%  
+> - Orkira: Elemental Fire increased by 200% for each Portented Champion affected by Lesser Restoration (stacking multiplicatively)  
+> - Widdle: Vampiric Gaze effects on the Portented Champion is increased by 200%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
