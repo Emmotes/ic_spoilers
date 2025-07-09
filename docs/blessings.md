@@ -44,7 +44,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Global</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">.</span>
+            <span style="margin-left: 8px;">Increases the damage of all Champions by X%.</span>
         </span>
     </span>
 </span>
