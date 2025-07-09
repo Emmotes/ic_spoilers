@@ -7,57 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chompers the Aurumvorax Portrait](images/familiars/chomperstheaurumvorax.png)<span class="featTooltipContents">ID: 272**Chompers the Aurumvorax**Don't open the chest, or you'll learn why we named him Chompers…<img src="images/familiars/chomperstheaurumvorax.gif" alt="Chompers the Aurumvorax Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Chompers the Aurumvorax
-        </span>
-        <span class="skinTableSource">
-            Chompers the Aurumvorax Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            09 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ligotti the Tentacle Portrait](images/familiars/ligottithetentacle.png)<span class="featTooltipContents">ID: 273**Ligotti the Tentacle**What possible harm could one perpetually ravenous tentacle do?<img src="images/familiars/ligottithetentacle.gif" alt="Ligotti the Tentacle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Ligotti the Tentacle
-        </span>
-        <span class="skinTableSource">
-            Reincarnated K'thriss Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            09 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Midas the Baby Gold Dragon Portrait](images/familiars/midasthebabygolddragon.png)<span class="featTooltipContents">ID: 264**Midas the Baby Gold Dragon**I'm here to eat goblins and collect treasure, and I'm all out of goblins!<img src="images/familiars/midasthebabygolddragon.gif" alt="Midas the Baby Gold Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Midas the Baby Gold Dragon
-        </span>
-        <span class="skinTableSource">
-            Midas the Baby Gold Dragon Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            2,380p
-        </span>
-        <span class="skinTableDate">
-            09 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Knick Knack the Pseudodragon Portrait](images/familiars/knickknackthepseudodragon.png)<span class="featTooltipContents">ID: 275**Knick Knack the Pseudodragon**Watch out, he collects EVERYTHING.<img src="images/familiars/knickknackthepseudodragon.gif" alt="Knick Knack the Pseudodragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

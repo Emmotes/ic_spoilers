@@ -11,57 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dungeon Raider Aeon Portrait](images/skin_portraits/dungeonraideraeon.png)<span class="featTooltipContents">ID: 578**Dungeon Raider Aeon (Aeon)**<img src="images/skin_models/dungeonraideraeon.gif" alt="Dungeon Raider Aeon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dungeon Raider Aeon
-        </span>
-        <span class="skinTableSource">
-            Dungeon Raider Aeon Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            09 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dungeoneer Deekin Portrait](images/skin_portraits/dungeoneerdeekin.png)<span class="featTooltipContents">ID: 575**Dungeoneer Deekin (Deekin)**<img src="images/skin_models/dungeoneerdeekin.gif" alt="Dungeoneer Deekin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dungeoneer Deekin
-        </span>
-        <span class="skinTableSource">
-            Dungeoneer Deekin Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            09 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Reincarnated K'thriss Portrait](images/skin_portraits/reincarnatedkthriss.png)<span class="featTooltipContents">ID: 576**Reincarnated K'thriss (K'thriss)**<img src="images/skin_models/reincarnatedkthriss.gif" alt="Reincarnated K'thriss Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Reincarnated K'thriss
-        </span>
-        <span class="skinTableSource">
-            Reincarnated K'thriss Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            09 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Chosen of Vecna Blooshi Portrait](images/skin_portraits/chosenofvecnablooshi.png)<span class="featTooltipContents">ID: 581**Chosen of Vecna Blooshi (Blooshi)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/chosenofvecnablooshi.gif" alt="Chosen of Vecna Blooshi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chosenofvecnablooshi-spirit.gif" alt="Chosen of Vecna Blooshi Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
