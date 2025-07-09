@@ -608,7 +608,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Guardian** (Guess)
-> Lazaapz gains the Debuff role. Power Armor's max stacks are additively increased by 25. Whenever her Power Armor stacks loses a multiple of 25 Lazaapz engages her Gauntlet Launcher, blasting her armor's gauntlet through all enemies in a line. The gauntlet deals 15 seconds of BUD damage to each enemy, knocks them back and to the side, and causes them to take 1000% extra damage from all sources until defeated. The debuff stacks multiplicatively for each Gauntlet Launcher an enemy is hit by, up to a max of 5 stacks.
+> Lazaapz gains the Debuff role and increases Power Armor's max stacks by 25. Lazaapz fires her gauntlet in a line each time she loses 25 Power Armor stacks. Enemies hit take 15 seconds of BUD damage, gain a debuff, and are knocked back. The debuff causes enemies to take 1000% extra damage from all sources, and stacks multiplicatively up to 5 times.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -616,7 +616,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2402,
     "flavour_text": "",
     "description": {
-        "desc": "Lazaapz gains the Debuff role. Power Armor's max stacks are additively increased by $amount___2. Whenever her Power Armor stacks loses a multiple of $frequency___4 Lazaapz engages her Gauntlet Launcher, blasting her armor's gauntlet through all enemies in a line. The gauntlet deals $amount___5 seconds of BUD damage to each enemy, knocks them back and to the side, and causes them to take $(not_buffed amount___4)% extra damage from all sources until defeated. The debuff stacks multiplicatively for each Gauntlet Launcher an enemy is hit by, up to a max of 5 stacks."
+        "desc": "Lazaapz gains the Debuff role and increases Power Armor's max stacks by $amount___2. Lazaapz fires her gauntlet in a line each time she loses $frequency___4 Power Armor stacks. Enemies hit take $amount___5 seconds of BUD damage, gain a debuff, and are knocked back. The debuff causes enemies to take $(not_buffed amount___4)% extra damage from all sources, and stacks multiplicatively up to 5 times."
     },
     "effect_keys": [
         {
@@ -672,7 +672,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Infiltrator** (Guess)
-> The effect of Fury of the Small is increased by 5% for each missing stack of Power Armor, stacking multiplicatively, and when an enemy is defeated Lazaapz regains one stack of Power Armor. Can not go over her maximum stacks.
+> The effect of Fury of the Small is increased by 5% for each missing stack of Power Armor, stacking multiplicatively, and when an enemy is defeated Lazaapz regains one stack of Power Armor. She cannot exceed her maximum stacks this way.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -680,7 +680,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2403,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of Fury of the Small is increased by $(not_buffed amount)% for each missing stack of Power Armor, stacking multiplicatively, and when an enemy is defeated Lazaapz regains one stack of Power Armor. Can not go over her maximum stacks."
+        "desc": "The effect of Fury of the Small is increased by $(not_buffed amount)% for each missing stack of Power Armor, stacking multiplicatively, and when an enemy is defeated Lazaapz regains one stack of Power Armor. She cannot exceed her maximum stacks this way."
     },
     "effect_keys": [
         {
