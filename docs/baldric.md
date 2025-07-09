@@ -617,6 +617,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
         },
         {
             "effect_string": "healing_mult,100",
+            "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`healing`)",
