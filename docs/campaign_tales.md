@@ -10,6 +10,8 @@ This campaign will allow you to unlock some event champions by completing advent
 
 > Tales of the Champions is a special Campaign where you can unlock Event Champions outside Events and Time Gates. Each one-shot adventure unlocks the featured Champion (if you don't own them) and has three Adventure Variants containing unique rewards available from the start.
 
+Based on the icons in th [Content Drops](contentdrops.md) page - the first four featured champions appear to be Ezmerelda, Catti-brie, Melf and Lae'zel.
+
 # Tutorial
 
 There is a game rule define called `tales_tutorial`. I'm not sure what this means for the campaign yet.
