@@ -14,6 +14,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Grimm](archive/grimm.md)
 * [Hank](archive/hank.md)
 * [Ishi](archive/ishi.md)
+* [K'thriss](archive/kthriss.md)
 * [Kalix](archive/kalix.md)
 * [Krond](archive/krond.md)
 * [New Champion Roles](archive/new_champion_roles.md)
