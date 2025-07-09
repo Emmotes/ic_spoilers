@@ -30,10 +30,27 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Aeon</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Clandestine Operation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2223**Clandestine Operation (Aeon)**They must never know what we do in the shadows.<code>buff_upgrade,80,15196,1</code></span>Clandestine Operation
+        </span>
+        <span class="featTableEffect">
+            <span>80% Inner Circle</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Jul 2025<br>09 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Deekin</span>
         </span>
         <span class="featTableIcon4">
-            ![Prophesied Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 159**Prophesied Leader (Deekin)**Deekin lead you all to DOOM.<code>global_dps_multiplier_mult,50</code></span>Prophesied Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 159**Prodigal Leader (Deekin)**Deekin lead you all to DOOM.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
             <span>50% All Champion Damage</span>
@@ -47,19 +64,19 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Aeon</span>
+            <span>K'thriss</span>
         </span>
         <span class="featTableIcon4">
-            ![Clandestine Operation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2223**Clandestine Operation (Aeon)**They must never know what we do in the shadows.<code>buff_upgrade,80,15196,1</code></span>Clandestine Operation
+            ![Reincarnation Icon](images/featicons/kthrissreincarnated.png)<span class="featTooltipContents">ID: 2259**Reincarnation (K'thriss)**What was once the me within is now the me without.<code>global_dps_multiplier_mult,100<br>set_age,80<br>add_hero_tags,0,non_binary</code></span>Reincarnation
         </span>
         <span class="featTableEffect">
-            <span>80% Inner Circle</span>
+            <span>100% All Champion Damage & Sets age to 80 & Counts as Nonbinary</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
+            <span>3,830 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>16 Jul 2025<br>16 Oct 2025</span>
+            <span>09 Jul 2025<br>09 Oct 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -166,6 +183,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span>Ishi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Enemy Enumeration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1577**Enemy Enumeration (Ishi)**Five stabs, six stabs, seven stabs, MORE!<code>buff_upgrade,80,16530</code></span>Enemy Enumeration
+        </span>
+        <span class="featTableEffect">
+            <span>80% Faster, Harder, Stronger</span>
+        </span>
+        <span class="featTableSource">
+            <span>1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>06 Aug 2025<br>06 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span>Lae'zel</span>
         </span>
         <span class="featTableIcon4">
@@ -200,23 +234,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Ishi</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Enemy Enumeration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1577**Enemy Enumeration (Ishi)**Five stabs, six stabs, seven stabs, MORE!<code>buff_upgrade,80,16530</code></span>Enemy Enumeration
-        </span>
-        <span class="featTableEffect">
-            <span>80% Faster, Harder, Stronger</span>
-        </span>
-        <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span>20 Aug 2025<br>20 Nov 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span>Catti-brie</span>
         </span>
         <span class="featTableIcon4">
@@ -226,7 +243,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>+20% Crit Chance</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Tales</span>
         </span>
         <span class="featTableDate">
             <span>27 Aug 2025</span>
@@ -260,7 +277,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>+2 Stacks to Threat Tracking When Triggered</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span>Tales</span>
         </span>
         <span class="featTableDate">
             <span>27 Aug 2025</span>
@@ -281,6 +298,40 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span>27 Aug 2025<br>27 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Lae'zel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2228**Master's Precision (Lae'zel)**A blade is only as sharp as the one who wields it.</span>Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>24 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Melf</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Heroic Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2295**Heroic Legacy (Melf)**With every step, every breath, I strive to create a better world for all.</span>Heroic Legacy
+        </span>
+        <span class="featTableEffect">
+            <span>&nbsp;</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>24 Sept 2025</span>
         </span>
     </span>
 </span>
@@ -409,6 +460,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span>10 Nov 2030</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>K'thriss</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Arcane Acquisition Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2258**Arcane Acquisition (K'thriss)**Accounting can be mysterious at times, but it is also important.<code>buff_upgrade,100,17325,0</code></span>Arcane Acquisition
+        </span>
+        <span class="featTableEffect">
+            <span>100% Hoardsperson</span>
+        </span>
+        <span class="featTableSource">
+            <span>???</span>
+        </span>
+        <span class="featTableDate">
+            <span>01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">

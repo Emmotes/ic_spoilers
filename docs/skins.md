@@ -96,7 +96,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 584**Gentleman Jarlaxle (Jarlaxle)**<img src="images/skin_models/gentlemanjarlaxle.gif" alt="Gentleman Jarlaxle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Gentleman Jarlaxle Portrait](images/skin_portraits/gentlemanjarlaxle.png)<span class="featTooltipContents">ID: 584**Gentleman Jarlaxle (Jarlaxle)**<img src="images/skin_models/gentlemanjarlaxle.gif" alt="Gentleman Jarlaxle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Gentleman Jarlaxle
@@ -198,7 +198,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 586**Seven Heavens Lazaapz (Lazaapz)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 586**Seven Heavens Lazaapz (Lazaapz)**<img src="images/skin_models/sevenheavenslazaapz.gif" alt="Seven Heavens Lazaapz Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
             Seven Heavens Lazaapz
@@ -279,6 +279,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             03 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 599**Divine Certainty (Certainty)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Divine Certainty
+        </span>
+        <span class="skinTableSource">
+            Divine Certainty Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            10 Sept 2025
         </span>
     </span>
     <span class="skinTableRow">
