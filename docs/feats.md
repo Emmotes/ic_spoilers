@@ -76,7 +76,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>Emergence 12</span>
         </span>
         <span class="featTableDate">
-            <span>23 Jul 2025<br>Unknown</span>
+            <span>23 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -93,7 +93,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>Emergence 12</span>
         </span>
         <span class="featTableDate">
-            <span>23 Jul 2025<br>Unknown</span>
+            <span>23 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -110,7 +110,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>Emergence 12</span>
         </span>
         <span class="featTableDate">
-            <span>23 Jul 2025<br>Unknown</span>
+            <span>23 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -144,7 +144,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span>Emergence 12</span>
         </span>
         <span class="featTableDate">
-            <span>23 Jul 2025<br>Unknown</span>
+            <span>23 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
