@@ -106,7 +106,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": "",
     "graphic_id": 4740,
-    "large_graphic_id": 0,
+    "large_graphic_id": 4740,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -172,7 +172,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": "",
     "graphic_id": 4739,
-    "large_graphic_id": 0,
+    "large_graphic_id": 4739,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -346,7 +346,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 4742,
     "large_graphic_id": 4742,
     "properties": {
         "is_formation_ability": true,
@@ -397,7 +397,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 26829,
     "large_graphic_id": 26829,
     "properties": {
         "is_formation_ability": true,
@@ -443,7 +443,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
+    "graphic_id": 26828,
     "large_graphic_id": 26828,
     "properties": {
         "is_formation_ability": true,
@@ -469,7 +469,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Velvet's Midwinter Adventure Icon](images/kthriss/4744.png) **Variant 1: Velvet's Midwinter Adventure** (Complete Area 75)
-> K'thriss and his unseen servant Velvet take up slots in the formation and cannot be moved or swapped out. Velvet is overzealous in their task and reduces your gold find by 50%, but stacks K'thriss' Hoardsperson ability faster (once unlocked). Velvet also causes those adjacent to them to receive K'thriss's Unseen Encouragement.
+> K'thriss starts in the formation. He can't be moved or removed.  
+> K'thriss's unseen servant Velvet joins the formation.  
+> Only Champions not next to K'thriss can deal damage.  
+> Getting to Know K'thriss: K'thriss increases the damage of Champions not next to him. Place your damage dealers to best take advantage of this!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Truth Beyond Knowing Icon](images/kthriss/4745.png) **Variant 2: Truth Beyond Knowing** (Complete Area 125)
