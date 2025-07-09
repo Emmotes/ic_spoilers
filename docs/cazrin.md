@@ -571,6 +571,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "off_when_benched": true,
             "show_description": false,
             "apply_effect_stack_amounts": [
+                1,
                 1
             ],
             "max_stacks": 1,
@@ -588,6 +589,24 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "effect_string": "damage_reduction,25",
             "targets": [
                 "self_slot"
+            ],
+            "apply_manually": true
+        },
+        {
+            "effect_string": "animation_synced_overlay_on_stat",
+            "stat": "cazrin_books_collected_this_adventure",
+            "instanced": true,
+            "stat_keys": [
+                0,
+                120
+            ],
+            "graphics": [
+                "mage_armor_graphic_id",
+                "empowered_mage_armor_graphic_id"
+            ],
+            "default_graphic_ids": [
+                27351,
+                27352
             ],
             "apply_manually": true
         }
@@ -638,6 +657,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
                 40,
                 80,
                 120,
+                120,
                 160,
                 200,
                 240,
@@ -680,6 +700,13 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
                 "targets": [
                     "all"
                 ]
+            },
+            "apply_manually": true
+        },
+        {
+            "effect_string": "change_upgrade_data,17676,2",
+            "data": {
+                "graphic_id": 27352
             },
             "apply_manually": true
         },
