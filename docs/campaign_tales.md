@@ -4,6 +4,12 @@
 
 A new campaign was recently added to the defines: `Tales of the Champions`. The confirmed date of release is 27 August 2025 from a [Reddit Q&A](https://www.reddit.com/r/idlechampions/comments/1lq1490/reddit_qa_258_with_exec_producer_chris/) and showon on the [Content Drops](contentdrops.md) page. This is about one-to-two months after the `Dragon Delves Anthology` book this campaign is assumedly based on.
 
+# Unlock Champions
+
+This campaign will allow you to unlock some event champions by completing adventures. This info is based on a text define called `campaign_13_header_text`:
+
+> Tales of the Champions is a special Campaign where you can unlock Event Champions outside Events and Time Gates. Each one-shot adventure unlocks the featured Champion (if you don't own them) and has three Adventure Variants containing unique rewards available from the start.
+
 # Tutorial
 
 There is a game rule define called `tales_tutorial`. I'm not sure what this means for the campaign yet.
