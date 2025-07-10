@@ -95,7 +95,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Goblin Artificer</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Ahghairon's Day - 13 August 2025 (Worst the Wait)</span>
+                <span class="indexChampionTableNoLink">Ahghairon's Day - Delayed until 13 August 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -120,7 +120,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Elf (High) Wizard / Cleric of Heroes of the Planes</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Highharvestide - 10 September 2025 (Worst the Wait)</span>
+                <span class="indexChampionTableNoLink">Highharvestide - Delayed until 10 September 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -186,7 +186,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 <span class="indexChampionTableNoLink">Goblin Artificer</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait</span>
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 13 August 2025</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
@@ -244,7 +244,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 <span class="indexChampionTableNoLink">Elf (High) Wizard / Cleric of Heroes of the Planes</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed 1 week due to the Worst the Wait</span>
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 10 September 2025</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
