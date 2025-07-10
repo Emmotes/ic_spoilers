@@ -17,7 +17,7 @@ Born in The Cogs beneath Sharn's Lower City, Lazaapz's remarkable intellect elev
 
 # Changes
 
-Lazaapz will be a reworked champion in the Ahghairon's Day event on 13 August 2025 (expected a week after event start due to Worst the Wait).
+Lazaapz will be a reworked champion in the Ahghairon's Day event and delayed until 13 August 2025.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
