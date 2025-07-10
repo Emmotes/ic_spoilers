@@ -17,7 +17,7 @@ Alyndra Alexandria Garanahil Sarrbarand is known by many names: Lorekeeper of Ri
 
 # Changes
 
-Alyndra will be a reworked champion in the Highharvestide event on 10 September 2025 (expected a week after event start due to Worst the Wait).
+Alyndra will be a reworked champion in the Highharvestide event and delayed until 10 September 2025.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
