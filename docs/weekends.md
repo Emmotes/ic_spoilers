@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/746.png">
-            <span class="weekendTooltipContents">ID: 746**Gold Rising Darkness Chest**Loot for: Hitch, Calliope, Lae'zel, Bobby and K'thriss<code>"for_crusaders":[13,5,128,152,38]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Darkness Rises**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    11 July 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hitch.png'">
-                        <span class="weekendTableChampionNameplate">Hitch</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/laezel.png'">
-                        <span class="weekendTableChampionNameplate">Lae'zel</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bobby.png'">
-                        <span class="weekendTableChampionNameplate">Bobby</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kthriss.png'">
-                        <span class="weekendTableChampionNameplate">K'thriss</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/747.png">
             <span class="weekendTooltipContents">ID: 747**Gold Certificate Chest**Loot for: Bruenor, Tyril, Karlach, Beadle and Umberto<code>"for_crusaders":[1,10,143,64,151]</code></span>
         </span>
