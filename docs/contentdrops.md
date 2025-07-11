@@ -443,8 +443,6 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Tales 2 - 24 September 2025
 
-<span style="font-size:1.2em;">ⓘ</span> This content drop might contain a new evergreen champion.
-
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
         <span class="contentDropsTableIcons">
