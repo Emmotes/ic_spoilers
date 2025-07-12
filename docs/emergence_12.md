@@ -62,42 +62,42 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Cantrip: Ascendant Shocking Grasp Feat Icon](images/emergence_12/feat_2218.png)<span class="featTooltipContents">ID: 2218**Cantrip: Ascendant Shocking Grasp (Krond)**Few can survive the lightning strike of a rampaging kraken. I did. Let's see how you fare.<code>krond_shocking_grasp,1600,4<br>change_base_attack,864<br>add_hero_tags,0,control</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Cantrip: Ascendant Shocking Grasp Feat Icon](images/emergence_12/feat_2218.png)<span class="featTooltipContents">ID: 2218**Cantrip: Ascendant Shocking Grasp (Krond)**Few can survive the lightning strike of a rampaging kraken. I did. Let's see how you fare.<br><br>Krond gains the Control role and his base attack deals additional 1600% damage to the main target, and the target is stunned for 4 seconds.<code>krond_shocking_grasp,1600,4<br>change_base_attack,864<br>add_hero_tags,0,control</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Cantrip: Ascendant Shocking Grasp</span>
-            <span style="margin-left:15px">Krond (Krond gains the Control role and his base attack deals additional 1600% damage to the main target, and the target is stunned for 4 seconds.)</span>
+            <span style="margin-left:15px">Krond</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/emergence_12/feat_2229.png)<span class="featTooltipContents">ID: 2229**Weapon Master (Windfall)**I've lost count of the number of lives I've taken with this blade.<code>hero_dps_multiplier_mult,120</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/emergence_12/feat_2229.png)<span class="featTooltipContents">ID: 2229**Weapon Master (Windfall)**I've lost count of the number of lives I've taken with this blade.<br><br>Increases the damage of Windfall by 120%.<code>hero_dps_multiplier_mult,120</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Weapon Master</span>
-            <span style="margin-left:15px">Windfall (Increases the damage of Windfall by 120%.)</span>
+            <span style="margin-left:15px">Windfall</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Discerning Taste Feat Icon](images/emergence_12/feat_2230.png)<span class="featTooltipContents">ID: 2230**Discerning Taste (Kas)**Ah, such a rich vintage, with notes of fey. I must have more.<code>buff_upgrade,80,15621,0</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Discerning Taste Feat Icon](images/emergence_12/feat_2230.png)<span class="featTooltipContents">ID: 2230**Discerning Taste (Kas)**Ah, such a rich vintage, with notes of fey. I must have more.<br><br>Increases the effect of Kas' Life Drain ability by 80%.<code>buff_upgrade,80,15621,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Discerning Taste</span>
-            <span style="margin-left:15px">Kas (Increases the effect of Kas' Life Drain ability by 80%.)</span>
+            <span style="margin-left:15px">Kas</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/emergence_12/feat_2231.png)<span class="featTooltipContents">ID: 2231**Prodigal Leader (Tess)**I'm not always the best leader, but I truly believe that we're stronger together.<code>global_dps_multiplier_mult,50</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/emergence_12/feat_2231.png)<span class="featTooltipContents">ID: 2231**Prodigal Leader (Tess)**I'm not always the best leader, but I truly believe that we're stronger together.<br><br>All Champions damage +50%.<code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Prodigal Leader</span>
-            <span style="margin-left:15px">Tess (All Champions damage +50%.)</span>
+            <span style="margin-left:15px">Tess</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">

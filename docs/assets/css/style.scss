@@ -33,19 +33,19 @@ section #title .credits.right {
 	text-align: right;
 }
 code{
-    padding: 0px;
-    border-radius: 0px;
+	padding: 0px;
+	border-radius: 0px;
 }
 .featTableColumn {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    align-items: flex-start;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	align-items: flex-start;
 	font-size: 0.9em;
 }
 .featTableRow,.featTableRowHeader {
-    display: flex;
-    flex-wrap: nowrap;
+	display: flex;
+	flex-wrap: nowrap;
 	margin: 2px;
 	background-color: var(--Onyx);
 	border: 1px solid black;
@@ -99,8 +99,10 @@ code{
 }
 .featTableIcon0 img,.featTableIcon1 img,.featTableIcon2 img,.featTableIcon3 img,.featTableIcon4 img,.featTableIcon5 img {
 	margin: 5px;
-	width: 40px;
-	height: 40px;
+	min-width: 40px;
+	min-height: 40px;
+	max-width: 40px;
+	max-height: 40px;
 	object-fit: contain;
 }
 .featTableIcon0 img,.featTableIcon0:hover .featTooltipContents {
@@ -130,7 +132,7 @@ code{
 	border: 1px solid black;
 	background-color: var(--Sooty);
 	width: max-content;
-	max-width: 800px;
+	max-width: 600px;
 	
 	display: flex;
 	justify-content: center;
@@ -143,6 +145,7 @@ code{
 	transform: translate(100px, 10px);
 	color: var(--Eggshell);
 	pointer-events: none;
+	text-wrap-style: pretty;
 }
 .itemTooltipContents code,.featTooltipContents code {
 	margin-top: 10px;
@@ -151,11 +154,11 @@ code{
 	padding: 5px;
 }
 .skinTableColumn {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: flex-start;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: flex-start;
 	margin: 1px;
 	width: 850px;
 	font-size: 0.9em;
@@ -163,11 +166,11 @@ code{
 	margin-bottom: 1px;
 }
 .skinTableRow,.skinTableRowHeader {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: stretch;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
 	height: max-content;
 	margin: 2px;
 	background-color: var(--Onyx);
@@ -268,11 +271,11 @@ code{
 	text-wrap: auto;
 }
 .itemTableColumn {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: flex-start;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: flex-start;
 	margin: 1px;
 	width: 850px;
 	font-size: 0.9em;
@@ -280,11 +283,11 @@ code{
 	margin-bottom: 1px;
 }
 .itemTableRow,.itemTableRowHeader {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
 	height: 70px;
 	margin: 2px;
 	background-color: var(--Onyx);
@@ -402,11 +405,11 @@ code{
 	pointer-events: none;
 }
 .champStatsTableColumn {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: flex-start;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: flex-start;
 	margin: 1px;
 	width: 850px;
 	font-size: 0.9em;
@@ -414,11 +417,11 @@ code{
 	margin-bottom: 1px;
 }
 .champStatsTableRow {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
 	height: 25px;
 	background-color: var(--Onyx);
 	border: 1px solid black;
