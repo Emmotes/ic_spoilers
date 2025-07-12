@@ -67,7 +67,7 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Cantrip: Ascendant Shocking Grasp</span>
-            <span style="margin-left:15px">Krond (+1600% to Krond's Base Attack and Stuns & Counts as Control)</span>
+            <span style="margin-left:15px">Krond (Krond gains the Control role and his base attack deals additional 1600% damage to the main target, and the target is stunned for 4 seconds.)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
@@ -77,7 +77,7 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Weapon Master</span>
-            <span style="margin-left:15px">Windfall (120% Self DPS)</span>
+            <span style="margin-left:15px">Windfall (Increases the damage of Windfall by 120%.)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
@@ -87,7 +87,7 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Discerning Taste</span>
-            <span style="margin-left:15px">Kas (80% Life Drain)</span>
+            <span style="margin-left:15px">Kas (Increases the effect of Kas' Life Drain ability by 80%.)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
@@ -97,7 +97,7 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Prodigal Leader</span>
-            <span style="margin-left:15px">Tess (50% All Champion Damage)</span>
+            <span style="margin-left:15px">Tess (All Champions damage +50%.)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">

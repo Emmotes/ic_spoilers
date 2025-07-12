@@ -38,7 +38,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Right Hand of Evil</span>
-            <span style="margin-left:15px">Warduke (80% Drawn to Power)</span>
+            <span style="margin-left:15px">Warduke (Increases the effect of Warduke's Drawn to Power ability by 80%.)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -200,7 +200,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Powerful Shove</span>
-            <span style="margin-left:15px">Eric (80% Keep Away)</span>
+            <span style="margin-left:15px">Eric (Increases the knockback effect of Eric's Keep Away ability by 80%.)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -464,7 +464,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Queen's Blade</span>
-            <span style="margin-left:15px">Lae'zel (80% Ceremorphosis (Prestack))</span>
+            <span style="margin-left:15px">Lae'zel (Increases the effect of Lae'zel's Ceremorphosis ability by 80%. (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -535,7 +535,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Enemy Enumeration</span>
-            <span style="margin-left:15px">Ishi (80% Faster, Harder, Stronger)</span>
+            <span style="margin-left:15px">Ishi (Increases the effect of Ishi's Faster, Harder, Stronger ability by 80%.)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -675,7 +675,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">True Shot</span>
-            <span style="margin-left:15px">Shandie (80% All Specialisations)</span>
+            <span style="margin-left:15px">Shandie (Increases the effect of Shandie's specializations by 80%.)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -837,7 +837,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Unknown Power</span>
-            <span style="margin-left:15px">Volo (80% All Specialisations (Prestack))</span>
+            <span style="margin-left:15px">Volo (Increases the base effect of Volo's specializations by 80%. (Prestack))</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -899,7 +899,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Eternal Companions</span>
-            <span style="margin-left:15px">Drizzt (80% Companions of the Hall)</span>
+            <span style="margin-left:15px">Drizzt (Increases the bonus damage of Drizzt's Companions of the Hall ability by 80%.)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1039,7 +1039,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">TBD Bobby Feat (Do not translate)</span>
-            <span style="margin-left:15px">Bobby ()</span>
+            <span style="margin-left:15px">Bobby (???)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1240,7 +1240,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor (10% All Champion Damage)</span>
+            <span style="margin-left:15px">Bruenor (All Champions damage +10%.)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1301,7 +1301,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">TBD Torogar Feat (Do not translate)</span>
-            <span style="margin-left:15px">Torogar ()</span>
+            <span style="margin-left:15px">Torogar (???)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1372,7 +1372,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">TBD Certainty Feat (Do not translate)</span>
-            <span style="margin-left:15px">Certainty ()</span>
+            <span style="margin-left:15px">Certainty (???)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1443,7 +1443,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">TBD Wulfgar Feat (Do not translate)</span>
-            <span style="margin-left:15px">Wulfgar ()</span>
+            <span style="margin-left:15px">Wulfgar (???)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1514,7 +1514,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">TBD D'hani Feat (Do not translate)</span>
-            <span style="margin-left:15px">D'hani ()</span>
+            <span style="margin-left:15px">D'hani (???)</span>
         </span>
     </span>
     <span class="premiumsTableItem">

@@ -40,25 +40,16 @@ code{
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
-    justify-content: flex-start;
     align-items: flex-start;
-	margin: 1px;
-	width: 850px;
 	font-size: 0.9em;
-	margin-top: 1px;
-	margin-bottom: 1px;
 }
 .featTableRow,.featTableRowHeader {
     display: flex;
-    flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;
-	height: 49px;
 	margin: 2px;
 	background-color: var(--Onyx);
 	border: 1px solid black;
-	text-wrap: balance;
+	text-wrap: pretty;
 }
 .featTableRowHeader {
 	border-bottom: 4px ridge black;
@@ -70,19 +61,14 @@ code{
 }
 .featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5,.featTableChampion,.featTableSource,.featTableDate {
 	display: flex;
-	justify-content: flex-start;
 	align-items: center;
 	width: 226px;
-	height: 100%;
-	margin: 0px;
-}
-.featTableChampion {
-	border-right: 1px solid black;
-	background-color: var(--EerieBlack);
 }
 .featTableChampion {
 	width: 92px;
 	padding-left: 8px;
+	border-right: 1px solid black;
+	background-color: var(--EerieBlack);
 }
 .featTableSource {
 	width: 104px;
@@ -90,26 +76,22 @@ code{
 }
 .featTableDate {
 	width: 82px;
-	padding-left: 8px;
-	text-align: right;
-}
-.featTableDate {
+	padding-right: 8px;
 	justify-content: flex-end;
 	border-left: 1px solid black;
 	background-color: var(--EerieBlack);
-	padding-right: 8px;
 }
 .featTableEffect {
 	display: flex;
-	justify-content: flex-start;
 	align-items: center;
-	width: 299px;
-	height: 100%;
-	margin: 0px;
+	width: 300px;
 	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	border-right: 1px solid black;
-	padding: 0 1px 0 8px;
+	padding: 0 8px;
+}
+.featTableInner {
+	padding: 8px 0;
 }
 .featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5 {
 	position: relative;
@@ -283,6 +265,7 @@ code{
 	border: 1px solid black;
 	border-radius: 0px;
 	background-color: var(--Lead);
+	text-wrap: auto;
 }
 .itemTableColumn {
     display: flex;
@@ -321,7 +304,6 @@ code{
 	justify-content: flex-start;
 	align-items: center;
 	width: 280px;
-	height: 100%;
 	margin: 2px;
 	padding-top: 4px;
 	font-size: 1.1em;

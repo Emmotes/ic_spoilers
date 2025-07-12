@@ -13,274 +13,274 @@ Feats that have already released in a premium pack and are in their exclusivity 
 <span class="featTableColumn">
     <span class="featTableRowHeader">
         <span class="featTableChampion">
-            <span>**Champion**</span>
+            <span class="featTableInner">**Champion**</span>
         </span>
         <span class="featTableIcon1">
             <span style="margin-left:8px;">**Feat**</span>
         </span>
         <span class="featTableEffect">
-            <span>**Effect**</span>
+            <span class="featTableInner">**Effect**</span>
         </span>
         <span class="featTableSource">
-            <span>**Source**</span>
+            <span class="featTableInner">**Source**</span>
         </span>
         <span class="featTableDate">
-            <span>**Date**</span>
+            <span class="featTableInner">**Date**</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Kas</span>
+            <span class="featTableInner">Kas</span>
         </span>
         <span class="featTableIcon4">
             ![Discerning Taste Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2230**Discerning Taste (Kas)**Ah, such a rich vintage, with notes of fey. I must have more.<code>buff_upgrade,80,15621,0</code></span>Discerning Taste
         </span>
         <span class="featTableEffect">
-            <span>80% Life Drain</span>
+            <span class="featTableInner">Increases the effect of Kas' Life Drain ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 12</span>
+            <span class="featTableInner">Emergence 12</span>
         </span>
         <span class="featTableDate">
-            <span>23 Jul 2025</span>
+            <span class="featTableInner">23 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Krond</span>
+            <span class="featTableInner">Krond</span>
         </span>
         <span class="featTableIcon4">
             ![Cantrip: Ascendant Shocking Grasp Icon](images/featicons/krondshockinggrasp.png)<span class="featTooltipContents">ID: 2218**Cantrip: Ascendant Shocking Grasp (Krond)**Few can survive the lightning strike of a rampaging kraken. I did. Let's see how you fare.<code>krond_shocking_grasp,1600,4<br>change_base_attack,864<br>add_hero_tags,0,control</code></span>Cantrip: Ascendant Shocking Grasp
         </span>
         <span class="featTableEffect">
-            <span>+1600% to Krond's Base Attack and Stuns & Counts as Control</span>
+            <span class="featTableInner">Krond gains the Control role and his base attack deals additional 1600% damage to the main target, and the target is stunned for 4 seconds.</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 12</span>
+            <span class="featTableInner">Emergence 12</span>
         </span>
         <span class="featTableDate">
-            <span>23 Jul 2025</span>
+            <span class="featTableInner">23 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Tess</span>
+            <span class="featTableInner">Tess</span>
         </span>
         <span class="featTableIcon4">
             ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2231**Prodigal Leader (Tess)**I'm not always the best leader, but I truly believe that we're stronger together.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
+            <span class="featTableInner">All Champions damage +50%.</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 12</span>
+            <span class="featTableInner">Emergence 12</span>
         </span>
         <span class="featTableDate">
-            <span>23 Jul 2025</span>
+            <span class="featTableInner">23 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Warduke</span>
+            <span class="featTableInner">Warduke</span>
         </span>
         <span class="featTableIcon4">
             ![Right Hand of Evil Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2225**Right Hand of Evil (Warduke)**I go where I'm told, and whatever I find there I destroy.<code>buff_upgrade,80,9618</code></span>Right Hand of Evil
         </span>
         <span class="featTableEffect">
-            <span>80% Drawn to Power</span>
+            <span class="featTableInner">Increases the effect of Warduke's Drawn to Power ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>23 Jul 2025<br>23 Oct 2025</span>
+            <span class="featTableInner">23 Jul 2025<br>23 Oct 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Windfall</span>
+            <span class="featTableInner">Windfall</span>
         </span>
         <span class="featTableIcon4">
             ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2229**Weapon Master (Windfall)**I've lost count of the number of lives I've taken with this blade.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
         </span>
         <span class="featTableEffect">
-            <span>120% Self DPS</span>
+            <span class="featTableInner">Increases the damage of Windfall by 120%.</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 12</span>
+            <span class="featTableInner">Emergence 12</span>
         </span>
         <span class="featTableDate">
-            <span>23 Jul 2025</span>
+            <span class="featTableInner">23 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Eric</span>
+            <span class="featTableInner">Eric</span>
         </span>
         <span class="featTableIcon4">
             ![Powerful Shove Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2035**Powerful Shove (Eric)**Let's keep a safe distance. Way over there sounds perfect.<code>buff_upgrade,80,16132,1</code></span>Powerful Shove
         </span>
         <span class="featTableEffect">
-            <span>80% Keep Away</span>
+            <span class="featTableInner">Increases the knockback effect of Eric's Keep Away ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>30 Jul 2025<br>30 Oct 2025</span>
+            <span class="featTableInner">30 Jul 2025<br>30 Oct 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Ishi</span>
+            <span class="featTableInner">Ishi</span>
         </span>
         <span class="featTableIcon4">
             ![Enemy Enumeration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1577**Enemy Enumeration (Ishi)**Five stabs, six stabs, seven stabs, MORE!<code>buff_upgrade,80,16530</code></span>Enemy Enumeration
         </span>
         <span class="featTableEffect">
-            <span>80% Faster, Harder, Stronger</span>
+            <span class="featTableInner">Increases the effect of Ishi's Faster, Harder, Stronger ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>06 Aug 2025<br>06 Nov 2025</span>
+            <span class="featTableInner">06 Aug 2025<br>06 Nov 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Lae'zel</span>
+            <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon4">
             ![Queen's Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2222**Queen's Blade (Lae'zel)**Vlaakith gha'g shkath zai!<code>buff_upgrade,80,12114</code></span>Queen's Blade
         </span>
         <span class="featTableEffect">
-            <span>80% Ceremorphosis (Prestack)</span>
+            <span class="featTableInner">Increases the effect of Lae'zel's Ceremorphosis ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>06 Aug 2025<br>06 Nov 2025</span>
+            <span class="featTableInner">06 Aug 2025<br>06 Nov 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Shandie</span>
+            <span class="featTableInner">Shandie</span>
         </span>
         <span class="featTableIcon4">
             ![True Shot Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2248**True Shot (Shandie)**I never miss.<code>buff_upgrades,80,9730,9731,9732</code></span>True Shot
         </span>
         <span class="featTableEffect">
-            <span>80% All Specialisations</span>
+            <span class="featTableInner">Increases the effect of Shandie's specializations by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>13 Aug 2025<br>13 Nov 2025</span>
+            <span class="featTableInner">13 Aug 2025<br>13 Nov 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Catti-brie</span>
+            <span class="featTableInner">Catti-brie</span>
         </span>
         <span class="featTableIcon4">
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1333**Master's Precision (Catti-brie)**Aye, these arrows do go through most armor.<code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
-            <span>+20% Crit Chance</span>
+            <span class="featTableInner">Additively increases the Crit Chance of Catti-brie by 20%.</span>
         </span>
         <span class="featTableSource">
-            <span>Tales</span>
+            <span class="featTableInner">Campaign: Tales of the Champions</span>
         </span>
         <span class="featTableDate">
-            <span>27 Aug 2025</span>
+            <span class="featTableInner">27 Aug 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Drizzt</span>
+            <span class="featTableInner">Drizzt</span>
         </span>
         <span class="featTableIcon4">
             ![Eternal Companions Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2250**Eternal Companions (Drizzt)**I am truly blessed to know them as dear friends.<code>buff_upgrade,80,11514</code></span>Eternal Companions
         </span>
         <span class="featTableEffect">
-            <span>80% Companions of the Hall</span>
+            <span class="featTableInner">Increases the bonus damage of Drizzt's Companions of the Hall ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>27 Aug 2025<br>27 Nov 2025</span>
+            <span class="featTableInner">27 Aug 2025<br>27 Nov 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Ezmerelda</span>
+            <span class="featTableInner">Ezmerelda</span>
         </span>
         <span class="featTableIcon4">
             ![Monster Tracker Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1579**Monster Tracker (Ezmerelda)**If I've fought it - I can track it.<code>buff_upgrade_effect_stacks_trigger_add,2,15039,1</code></span>Monster Tracker
         </span>
         <span class="featTableEffect">
-            <span>+2 Stacks to Threat Tracking When Triggered</span>
+            <span class="featTableInner">Threat Tracking gains two extra stacks for each favored foe killed.</span>
         </span>
         <span class="featTableSource">
-            <span>Tales</span>
+            <span class="featTableInner">Campaign: Tales of the Champions</span>
         </span>
         <span class="featTableDate">
-            <span>27 Aug 2025</span>
+            <span class="featTableInner">27 Aug 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Volo</span>
+            <span class="featTableInner">Volo</span>
         </span>
         <span class="featTableIcon4">
             ![Unknown Power Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2249**Unknown Power (Volo)**You ask why Elminster is so concerned with my wellbeing? He's a true fan, of course! Why else?<code>buff_upgrade,80,16554,0<br>buff_upgrade,80,16555,0<br>buff_upgrade,80,16556,0</code></span>Unknown Power
         </span>
         <span class="featTableEffect">
-            <span>80% All Specialisations (Prestack)</span>
+            <span class="featTableInner">Increases the base effect of Volo's specializations by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
-            <span>1,680 Platinum<br>50,000 Gems</span>
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>27 Aug 2025<br>27 Nov 2025</span>
+            <span class="featTableInner">27 Aug 2025<br>27 Nov 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Lae'zel</span>
+            <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon4">
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2228**Master's Precision (Lae'zel)**A blade is only as sharp as the one who wields it.</span>Master's Precision
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>24 Sept 2025</span>
+            <span class="featTableInner">24 Sept 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Melf</span>
+            <span class="featTableInner">Melf</span>
         </span>
         <span class="featTableIcon4">
             ![Heroic Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2295**Heroic Legacy (Melf)**With every step, every breath, I strive to create a better world for all.</span>Heroic Legacy
         </span>
         <span class="featTableEffect">
-            <span>&nbsp;</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>24 Sept 2025</span>
+            <span class="featTableInner">24 Sept 2025</span>
         </span>
     </span>
 </span>
@@ -294,1260 +294,1260 @@ These are the feats that have been filtered out of the list above due to having 
 <span class="featTableColumn">
     <span class="featTableRowHeader">
         <span class="featTableChampion">
-            <span>**Champion**</span>
+            <span class="featTableInner">**Champion**</span>
         </span>
         <span class="featTableIcon1">
             <span style="margin-left:8px;">**Feat**</span>
         </span>
         <span class="featTableEffect">
-            <span>**Effect**</span>
+            <span class="featTableInner">**Effect**</span>
         </span>
         <span class="featTableSource">
-            <span>**Source**</span>
+            <span class="featTableInner">**Source**</span>
         </span>
         <span class="featTableDate">
-            <span>**Date**</span>
+            <span class="featTableInner">**Date**</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Diana</span>
+            <span class="featTableInner">Diana</span>
         </span>
         <span class="featTableIcon4">
             ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1776**Entertainer (Diana)**Sure, Presto can do ACTUAL magic; but go ahead, pick a card.<code>increase_ability_score,cha,2</code></span>Entertainer
         </span>
         <span class="featTableEffect">
-            <span>Stat: +2 Charisma</span>
+            <span class="featTableInner">Increases the Charisma score of Diana by 2.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2030</span>
+            <span class="featTableInner">01 Jan 2030</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Diana</span>
+            <span class="featTableInner">Diana</span>
         </span>
         <span class="featTableIcon4">
             ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1774**Tenacious (Diana)**Don't count me out yet!<code>increase_ability_score,con,2</code></span>Tenacious
         </span>
         <span class="featTableEffect">
-            <span>Stat: +2 Constitution</span>
+            <span class="featTableInner">Increases the Constitution score of Diana by 2.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2030</span>
+            <span class="featTableInner">01 Jan 2030</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>D'hani</span>
+            <span class="featTableInner">D'hani</span>
         </span>
         <span class="featTableIcon4">
             ![Buff Blue Paint Chance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1618**Buff Blue Paint Chance (D'hani)**<code>buff_upgrade,80,13715,0</code></span>Buff Blue Paint Chance
         </span>
         <span class="featTableEffect">
-            <span>80% Chance to Apply Blotch of Blue</span>
+            <span class="featTableInner">Increase the chance of applying a Blotch of Blue by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>10 Nov 2030</span>
+            <span class="featTableInner">10 Nov 2030</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>D'hani</span>
+            <span class="featTableInner">D'hani</span>
         </span>
         <span class="featTableIcon4">
             ![Buff Blue Stun Duration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1619**Buff Blue Stun Duration (D'hani)**<code>buff_upgrade,80,13715,1</code></span>Buff Blue Stun Duration
         </span>
         <span class="featTableEffect">
-            <span>80% Stun Duration of Blotch of Blue</span>
+            <span class="featTableInner">Increase the stun duration of Blotch of Blue by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>10 Nov 2030</span>
+            <span class="featTableInner">10 Nov 2030</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>D'hani</span>
+            <span class="featTableInner">D'hani</span>
         </span>
         <span class="featTableIcon4">
             ![Buff Green AOE damage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1617**Buff Green AOE damage (D'hani)**<code>buff_upgrade,80,13714,1</code></span>Buff Green AOE damage
         </span>
         <span class="featTableEffect">
-            <span>80% Damage of Stroke of Green</span>
+            <span class="featTableInner">Increase the AOE damage dealt by Stroke of Green by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>10 Nov 2030</span>
+            <span class="featTableInner">10 Nov 2030</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>D'hani</span>
+            <span class="featTableInner">D'hani</span>
         </span>
         <span class="featTableIcon4">
             ![Buff Yellow Gold Buff Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1615**Buff Yellow Gold Buff (D'hani)**<code>buff_upgrade,80,13713,1</code></span>Buff Yellow Gold Buff
         </span>
         <span class="featTableEffect">
-            <span>80% Gold Find from Splash of Yellow</span>
+            <span class="featTableInner">Increase the gold gained from Splash of Yellow by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>10 Nov 2030</span>
+            <span class="featTableInner">10 Nov 2030</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>K'thriss</span>
+            <span class="featTableInner">K'thriss</span>
         </span>
         <span class="featTableIcon4">
             ![Arcane Acquisition Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2258**Arcane Acquisition (K'thriss)**Accounting can be mysterious at times, but it is also important.<code>buff_upgrade,100,17325,0</code></span>Arcane Acquisition
         </span>
         <span class="featTableEffect">
-            <span>100% Hoardsperson</span>
+            <span class="featTableInner">Increases the drop chance of coins from K'thriss' Hoardsperson ability by 100%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Mehen</span>
+            <span class="featTableInner">Mehen</span>
         </span>
         <span class="featTableIcon4">
             ![Exploit Weakness Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2052**Exploit Weakness (Mehen)**The moment they slip, you strike. If you miss, that's your problem.<code>change_upgrade_data,16149,0</code></span>Exploit Weakness
         </span>
         <span class="featTableEffect">
-            <span>+80% Duration Expose Weakness</span>
+            <span class="featTableInner">Increases the duration of Mehen's Expose Weakness ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Vlithryn</span>
+            <span class="featTableInner">Vlithryn</span>
         </span>
         <span class="featTableIcon4">
             ![External Screaming Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2169**External Screaming (Vlithryn)**You're literally dying! Of course I can spare the spell slot.<code>buff_upgrade,80,16898,0</code></span>External Screaming
         </span>
         <span class="featTableEffect">
-            <span>80% Revivify (Prestack)</span>
+            <span class="featTableInner">Increases the effect of Vlithryn's Revivify ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Rosie</span>
+            <span class="featTableInner">Rosie</span>
         </span>
         <span class="featTableIcon4">
             ![Way of the Shadow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1918**Way of the Shadow (Rosie)**The Way of the Shadow knows!<code>reduce_upgrade_every_num_attacks,1,15608</code></span>Way of the Shadow
         </span>
         <span class="featTableEffect">
-            <span>-1 Attack Req for Shadow Arts</span>
+            <span class="featTableInner">Reduces the number of attacks required to trigger Rosie's Shadow Arts by 1.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Eric</span>
+            <span class="featTableInner">Eric</span>
         </span>
         <span class="featTableIcon4">
             ![Preventive Intervention Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2033**Preventive Intervention (Eric)**There, I saved you. You're welcome. Now be more careful!<code>buff_upgrade,80,16130</code></span>Preventive Intervention
         </span>
         <span class="featTableEffect">
-            <span>80% Shield of the Cavalier</span>
+            <span class="featTableInner">Increases the temporary health effect of Eric's Shield of the Cavalier ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Mehen</span>
+            <span class="featTableInner">Mehen</span>
         </span>
         <span class="featTableIcon4">
             ![Scorched Earth Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2055**Scorched Earth (Mehen)**Sometimes you just have to burn everything in your way.<code>immolation,1,5</code></span>Scorched Earth
         </span>
         <span class="featTableEffect">
-            <span>1s BUD per sec for 5s</span>
+            <span class="featTableInner">Mehen's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Windfall</span>
+            <span class="featTableInner">Windfall</span>
         </span>
         <span class="featTableIcon4">
             ![Tiamat's Chosen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2190**Tiamat's Chosen (Windfall)**It is done, my queen. I'm going back to hell for a drink and a spa day.<code>buff_upgrade,80,17055</code></span>Tiamat's Chosen
         </span>
         <span class="featTableEffect">
-            <span>80% Dragon's Pride</span>
+            <span class="featTableInner">Increases the effect of Windfall's Dragon's Pride ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Asharra</span>
+            <span class="featTableInner">Asharra</span>
         </span>
         <span class="featTableIcon4">
             ![Teacher of Kir Sabal Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2010**Teacher of Kir Sabal (Asharra)**My ancestors watch over us. We must stand together now, for the fate of all.<code>buff_upgrade,80,2189,1<br>buff_upgrade,80,2189,2<br>add_hero_tags,0,druid</code></span>Teacher of Kir Sabal
         </span>
         <span class="featTableEffect">
-            <span>80% Paragon of Kir Sabal & Counts as Druid</span>
+            <span class="featTableInner">Increases the effect of both bonuses in Asharra's Paragon of Kir Sabal upgrade by 80%. Asharra also counts as a Druid.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Beadle</span>
+            <span class="featTableInner">Beadle</span>
         </span>
         <span class="featTableIcon4">
             ![Deeper Shadow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2126**Deeper Shadow (Beadle)**They still think they can trust their eyes. Poor sods. ~Beadle<code>buff_upgrade,80,16722,1</code></span>Deeper Shadow
         </span>
         <span class="featTableEffect">
-            <span>80% In The Shadows</span>
+            <span class="featTableInner">Increases In The Shadows Miss Chance by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Bobby</span>
+            <span class="featTableInner">Bobby</span>
         </span>
         <span class="featTableIcon4">
             ![Growing Pains Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1915**Growing Pains (Bobby)**I may be short now - but I'm not done growing!<code>increase_ability_score,con,2</code></span>Growing Pains
         </span>
         <span class="featTableEffect">
-            <span>Stat: +2 Constitution</span>
+            <span class="featTableInner">Increases the Constitution score of Bobby by 2.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Bruenor</span>
+            <span class="featTableInner">Bruenor</span>
         </span>
         <span class="featTableIcon3">
             ![Hall of the Mountain King Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1300**Hall of the Mountain King (Bruenor)**'Tis an honor ta fight alongside ya.<code>add_mithral_hall_stacks,1</code></span>Hall of the Mountain King
         </span>
         <span class="featTableEffect">
-            <span>+1 Mithral Hall Stacks</span>
+            <span class="featTableInner">Additively increases Bruenor's Mithral Hall Stacks contribution by 1.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Bruenor</span>
+            <span class="featTableInner">Bruenor</span>
         </span>
         <span class="featTableIcon4">
             ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1191**Prodigal Leader (Bruenor)**Off yer rump and get back out there!<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
+            <span class="featTableInner">All Champions damage +50%.</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Catti-brie</span>
+            <span class="featTableInner">Catti-brie</span>
         </span>
         <span class="featTableIcon4">
             ![Obliterating Blast Icon](images/featicons/critdamageincrease.png)<span class="featTooltipContents">ID: 1335**Obliterating Blast (Catti-brie)**It's not just that I hit ye; it's how many times I hit ye.<code>buff_base_crit_damage,120</code></span>Obliterating Blast
         </span>
         <span class="featTableEffect">
-            <span>+120% Crit Damage</span>
+            <span class="featTableInner">Increases the Crit Damage of Catti-brie by 120%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Gromma</span>
+            <span class="featTableInner">Gromma</span>
         </span>
         <span class="featTableIcon4">
             ![Rite of Passage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1757**Rite of Passage (Gromma)**Look how far you've come - you're nearly as old as I am!<code>change_upgrade_data,14874,1</code></span>Rite of Passage
         </span>
         <span class="featTableEffect">
-            <span>+80% to Base Stacking Bonus of Grandmotherly Love</span>
+            <span class="featTableInner">Increases the base value of Grandmotherly Love's stacking bonus by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Gromma</span>
+            <span class="featTableInner">Gromma</span>
         </span>
         <span class="featTableIcon4">
             ![Still Spry Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1759**Still Spry (Gromma)**Just need to stretch a bit, and then I'll win this race.<code>buff_upgrade,80,14876,0</code></span>Still Spry
         </span>
         <span class="featTableEffect">
-            <span>80% Runnin' With The Youngin's (Prestack)</span>
+            <span class="featTableInner">Increases the effect of Gromma's Runnin' With The Youngin's ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Gromma</span>
+            <span class="featTableInner">Gromma</span>
         </span>
         <span class="featTableIcon4">
             ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1761**Taunt (Gromma)**Judge me not by my age - I'll still whoop your butt!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
         </span>
         <span class="featTableEffect">
-            <span>100% All Champion Damage & 50% Taunt</span>
+            <span class="featTableInner">All Champions damage +100%. Gromma's attacks have a 50% chance to taunt enemies.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Jarlaxle</span>
+            <span class="featTableInner">Jarlaxle</span>
         </span>
         <span class="featTableIcon3">
             ![Durable Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1312**Durable (Jarlaxle)**It's going to take a lot more than that to defeat me!<code>increase_ability_score,con,1</code></span>Durable
         </span>
         <span class="featTableEffect">
-            <span>Stat: +1 Constitution</span>
+            <span class="featTableInner">Increases the Constitution score of Jarlaxle by 1.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Jarlaxle</span>
+            <span class="featTableInner">Jarlaxle</span>
         </span>
         <span class="featTableIcon4">
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1308**Master's Precision (Jarlaxle)**These looks could kill -- and they have.<code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
-            <span>+20% Crit Chance</span>
+            <span class="featTableInner">Additively increases the Crit Chance of Jarlaxle by 20%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Jarlaxle</span>
+            <span class="featTableInner">Jarlaxle</span>
         </span>
         <span class="featTableIcon4">
             ![Obliterating Blast Icon](images/featicons/critdamageincrease.png)<span class="featTooltipContents">ID: 1310**Obliterating Blast (Jarlaxle)**No cleric can help you now.<code>buff_base_crit_damage,120</code></span>Obliterating Blast
         </span>
         <span class="featTableEffect">
-            <span>+120% Crit Damage</span>
+            <span class="featTableInner">Increases the Crit Damage of Jarlaxle by 120%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Krond</span>
+            <span class="featTableInner">Krond</span>
         </span>
         <span class="featTableIcon4">
             ![Cantrip: Ascendant Fire Bolt Icon](images/featicons/krondfirebolt.png)<span class="featTooltipContents">ID: 2219**Cantrip: Ascendant Fire Bolt (Krond)**An ancient red dragon was among my finest masters. I slew her and took her flame for my own.<code>krond_fire_bolt,300,5<br>change_base_attack,865</code></span>Cantrip: Ascendant Fire Bolt
         </span>
         <span class="featTableEffect">
-            <span>Krond's Base Attack Shoots 5 Fire Bolts that do 300% Damage</span>
+            <span class="featTableInner">Krond's base attacks shoot out 5 fire bolts, each dealing 300% of its base damage to up to five other random enemies.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Krux</span>
+            <span class="featTableInner">Krux</span>
         </span>
         <span class="featTableIcon4">
             ![Bigger Boat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1369**Bigger Boat (Krux)**Welcome to the crew!<code>change_upgrade_data,11653</code></span>Bigger Boat
         </span>
         <span class="featTableEffect">
-            <span>All Hands on Deck +2nd Rear Column</span>
+            <span class="featTableInner">Increases the number of columns buffed by All Hands On Deck! by additionally targeting the column second from the back.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Krux</span>
+            <span class="featTableInner">Krux</span>
         </span>
         <span class="featTableIcon4">
             ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1375**Entertainer (Krux)**Ho oh! I'm a fiend with a bagpipe!<code>increase_ability_score,cha,2</code></span>Entertainer
         </span>
         <span class="featTableEffect">
-            <span>Stat: +2 Charisma</span>
+            <span class="featTableInner">Increases the Charisma score of Krux by 2.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Krux</span>
+            <span class="featTableInner">Krux</span>
         </span>
         <span class="featTableIcon4">
             ![Keen Eye Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1371**Keen Eye (Krux)**Few can hide from my spyglass.<code>buff_upgrade,80,11656</code></span>Keen Eye
         </span>
         <span class="featTableEffect">
-            <span>80% Starfarer's Spyglass</span>
+            <span class="featTableInner">Increases the effect of Krux's Starfarer's Spyglass ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Krux</span>
+            <span class="featTableInner">Krux</span>
         </span>
         <span class="featTableIcon4">
             ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1376**Scholar (Krux)**There's quite a bit of time in Wildspace for reading.<code>increase_ability_score,int,2</code></span>Scholar
         </span>
         <span class="featTableEffect">
-            <span>Stat: +2 Intelligence</span>
+            <span class="featTableInner">Increases the Intelligence score of Krux by 2.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Krux</span>
+            <span class="featTableInner">Krux</span>
         </span>
         <span class="featTableIcon4">
             ![Seahippo Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1372**Seahippo (Krux)**I've sailed more of the astral sea than most can imagine.<code>buff_upgrade,80,11657</code></span>Seahippo
         </span>
         <span class="featTableEffect">
-            <span>80% An Experienced Sailor</span>
+            <span class="featTableInner">Increases the effect of Krux's An Experienced Sailor ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Lae'zel</span>
+            <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon4">
             ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1419**Scholar (Lae'zel)**Knowledge of your enemy is as useful as the weapon in your hand.<code>increase_ability_score,int,2</code></span>Scholar
         </span>
         <span class="featTableEffect">
-            <span>Stat: +2 Intelligence</span>
+            <span class="featTableInner">Increases the Intelligence score of Lae'zel by 2.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Mehen</span>
+            <span class="featTableInner">Mehen</span>
         </span>
         <span class="featTableIcon4">
             ![Draconic Glare Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1782**Draconic Glare (Mehen)**You don't scare easily, do you? I can fix that.<code>change_upgrade_data,16147,0</code></span>Draconic Glare
         </span>
         <span class="featTableEffect">
-            <span>+80% Duration Intimidating Presence</span>
+            <span class="featTableInner">Increases the duration of Mehen's Intimidating Presence ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Minthara</span>
+            <span class="featTableInner">Minthara</span>
         </span>
         <span class="featTableIcon3">
             ![Abundant Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1966**Abundant Strife (Minthara)**If somebody angers me, I hurt them. It teaches them not to anger me again.<code>minthara_increase_max_stacks,1</code></span>Abundant Strife
         </span>
         <span class="featTableEffect">
-            <span>+1 max Soul Branding stacks</span>
+            <span class="featTableInner">Increases the maximum number of Soul Branding stacks by 1.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Minthara</span>
+            <span class="featTableInner">Minthara</span>
         </span>
         <span class="featTableIcon4">
             ![Vengeful Assurance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1970**Vengeful Assurance (Minthara)**They will fall. It is simply a matter of patience.<code>buff_upgrade,100,15945,2</code></span>Vengeful Assurance
         </span>
         <span class="featTableEffect">
-            <span>100% Oath of Vengeance</span>
+            <span class="featTableInner">The Piercing component of Minthara's Oath of Vengeance ability removes an extra piece of armor or health.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Minthara</span>
+            <span class="featTableInner">Minthara</span>
         </span>
         <span class="featTableIcon4">
             ![Vengeful Composure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1969**Vengeful Composure (Minthara)**Our foes will be reduced to nothing in time.<code>change_upgrade_data,15945,2</code></span>Vengeful Composure
         </span>
         <span class="featTableEffect">
-            <span>Oath of Vengence Piercing Component Only Needs 1 Soul Branding Stack</span>
+            <span class="featTableInner">The Piercing component of Minthara's Oath of Vengeance ability only requires 1 Soul Branding stack to trigger.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Minthara</span>
+            <span class="featTableInner">Minthara</span>
         </span>
         <span class="featTableIcon4">
             ![Vengeful Promise Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1968**Vengeful Promise (Minthara)**Now there is freedom. Soon there will be vengeance.<code>buff_upgrade,80,15945,1</code></span>Vengeful Promise
         </span>
         <span class="featTableEffect">
-            <span>80% Oath of Vengeance</span>
+            <span class="featTableInner">Increases the health bonus of the Unyielding component of Minthara's Oath of Vengeance ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Omin</span>
+            <span class="featTableInner">Omin</span>
         </span>
         <span class="featTableIcon4">
             ![To the Moon Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2226**To the Moon (Omin)**Finally! I knew diversifying my investments would eventually pay off.<code>buff_upgrade,80,12303</code></span>To the Moon
         </span>
         <span class="featTableEffect">
-            <span>80% Well Funded</span>
+            <span class="featTableInner">Increases the effect of Omin's Well Funded ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Pwent</span>
+            <span class="featTableInner">Pwent</span>
         </span>
         <span class="featTableIcon4">
             ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1358**Vicious Damage (Pwent)**Tear them apart!<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span>Vicious Damage
         </span>
         <span class="featTableEffect">
-            <span>400% Self DPS & Prevent Healing for 10s</span>
+            <span class="featTableInner">Increases the damage of Pwent by 400%. Pwent's attacks prevent the target from healing for 10 seconds.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Ravengard</span>
+            <span class="featTableInner">Ravengard</span>
         </span>
         <span class="featTableIcon3">
             ![Spirit of Confidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1813**Spirit of Confidence (Ravengard)**One person can change the entire battle.<code>persist_effect_stacks,20,15030</code></span>Spirit of Confidence
         </span>
         <span class="featTableEffect">
-            <span>20% of Critical Teamwork Stacks Persist When Reset</span>
+            <span class="featTableInner">Ravengard's Critical Teamwork keeps 20% of its stacks when they would be reset.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Regis</span>
+            <span class="featTableInner">Regis</span>
         </span>
         <span class="featTableIcon4">
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1352**Master's Precision (Regis)**This mace isn't just decoration!<code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
-            <span>+20% Crit Chance</span>
+            <span class="featTableInner">Additively increases the Crit Chance of Regis by 20%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Shadowheart</span>
+            <span class="featTableInner">Shadowheart</span>
         </span>
         <span class="featTableIcon4">
             ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1981**Prodigal Leader (Shadowheart)**Pain was my teacher. Let's share what I've learned.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
+            <span class="featTableInner">All Champions damage +50%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Stoki</span>
+            <span class="featTableInner">Stoki</span>
         </span>
         <span class="featTableIcon4">
             ![Bursting Blow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2014**Bursting Blow (Stoki)**Release the energy when the moment is right. Patience...<code>change_upgrade_data,16054,5</code></span>Bursting Blow
         </span>
         <span class="featTableEffect">
-            <span>+80% BUD of Building Focus Explosion</span>
+            <span class="featTableInner">Increases the BUD damage of Stoki's Building Focus - Explosion ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Stoki</span>
+            <span class="featTableInner">Stoki</span>
         </span>
         <span class="featTableIcon4">
             ![Crane Strike Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1244**Crane Strike (Stoki)**A precise blow to the right area can paralyze a foe.<code>buff_upgrade,80,16054,4</code></span>Crane Strike
         </span>
         <span class="featTableEffect">
-            <span>80% Building Focus</span>
+            <span class="featTableInner">Increases the stun chance of Stoki's Building Focus - Overflow ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Stoki</span>
+            <span class="featTableInner">Stoki</span>
         </span>
         <span class="featTableIcon3">
             ![Focus Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1239**Focus Up (Stoki)**Don't lose sight of what lies ahead.<code>change_upgrade_data,16052,5</code></span>Focus Up
         </span>
         <span class="featTableEffect">
-            <span>Focus Points Are Only Reduced by 33% On Changing Areas</span>
+            <span class="featTableInner">Stoki's Focus Points are only reduced by 33% when changing areas.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Stoki</span>
+            <span class="featTableInner">Stoki</span>
         </span>
         <span class="featTableIcon4">
             ![Viper's Sting Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2013**Viper's Sting (Stoki)**Twist the wrist just so to prolong the numbing effect.<code>change_upgrade_data,16054,4</code></span>Viper's Sting
         </span>
         <span class="featTableEffect">
-            <span>+80% BUD of Building Focus Explosion</span>
+            <span class="featTableInner">Increases the stun duration of Stoki's Building Focus - Overflow ability by 1 second.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Umberto</span>
+            <span class="featTableInner">Umberto</span>
         </span>
         <span class="featTableIcon4">
             ![Long Story Short Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1851**Long Story Short (Umberto)**And that is how they THOUGHT they got away with it!<code>buff_upgrade_effect_stacks_max_mult,50,15050</code></span>Long Story Short
         </span>
         <span class="featTableEffect">
-            <span>50% Ongoing Investigation Stacks</span>
+            <span class="featTableInner">Increases the maximum number of Ongoing Investigation's Clue Stacks by 50%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Umberto</span>
+            <span class="featTableInner">Umberto</span>
         </span>
         <span class="featTableIcon4">
             ![Now It's a Party Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1847**Now It's a Party (Umberto)**Errr, there are a lot of you now...<code>change_upgrade_targets,15048</code></span>Now It's a Party
         </span>
         <span class="featTableEffect">
-            <span>Detective's Entourage also buffs Umberto's column</span>
+            <span class="featTableInner">Changes Detective's Entourage to additionally affect Umberto's column.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Umberto</span>
+            <span class="featTableInner">Umberto</span>
         </span>
         <span class="featTableIcon4">
             ![Queen's Orders Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1849**Queen's Orders (Umberto)**When the bees come together, nothing can stop them.<code>buff_upgrade,80,15049,1</code></span>Queen's Orders
         </span>
         <span class="featTableEffect">
-            <span>80% Beehive Barrage</span>
+            <span class="featTableInner">Increases the maximum amount of bees that can swarm an enemy by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Umberto</span>
+            <span class="featTableInner">Umberto</span>
         </span>
         <span class="featTableIcon4">
             ![Sting Operation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1850**Sting Operation (Umberto)**Your best course of action is to RUN!<code>buff_upgrade,80,15049</code></span>Sting Operation
         </span>
         <span class="featTableEffect">
-            <span>80% Beehive Barrage</span>
+            <span class="featTableInner">Increases the spawn rate of Umberto's bees by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Uriah</span>
+            <span class="featTableInner">Uriah</span>
         </span>
         <span class="featTableIcon4">
             ![A Vow Unbroken Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1065**A Vow Unbroken (Uriah)**Beside Nahara, one could say I am a braver man.<code>increase_ability_score,con,2</code></span>A Vow Unbroken
         </span>
         <span class="featTableEffect">
-            <span>Stat: +2 Constitution</span>
+            <span class="featTableInner">Increases the Constitution score of Uriah by 2.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Vin Ursa</span>
+            <span class="featTableInner">Vin Ursa</span>
         </span>
         <span class="featTableIcon3">
             ![It's Just Business Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1405**It's Just Business (Vin Ursa)**And sometimes business is personal.<code>buff_upgrades,40,12092,12093,12094</code></span>It's Just Business
         </span>
         <span class="featTableEffect">
-            <span>40% All Second Specialisations</span>
+            <span class="featTableInner">Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 40%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Vin Ursa</span>
+            <span class="featTableInner">Vin Ursa</span>
         </span>
         <span class="featTableIcon4">
             ![Orbital Ooze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2224**Orbital Ooze (Vin Ursa)**I'm a simple plasmoid making my way through wildspace.<code>buff_upgrades,80,12092,12093,12094</code></span>Orbital Ooze
         </span>
         <span class="featTableEffect">
-            <span>80% All Second Specialisations</span>
+            <span class="featTableInner">Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Vin Ursa</span>
+            <span class="featTableInner">Vin Ursa</span>
         </span>
         <span class="featTableIcon3">
             ![This is the Way Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1404**This is the Way (Vin Ursa)**We can do this one of two ways...<code>buff_upgrades,40,12090,12091</code></span>This is the Way
         </span>
         <span class="featTableEffect">
-            <span>40% All First Specialisations</span>
+            <span class="featTableInner">Increases the effect of Vin Ursa's Front Deck and Rear Deck by 40%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Wulfgar</span>
+            <span class="featTableInner">Wulfgar</span>
         </span>
         <span class="featTableIcon3">
             ![Battle Expertise Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1329**Battle Expertise (Wulfgar)**My warhammer has a skill for finding weak points in armor.<code>buff_base_crit_chance_add,10</code></span>Battle Expertise
         </span>
         <span class="featTableEffect">
-            <span>+10% Crit Chance</span>
+            <span class="featTableInner">Additively increases the Crit Chance of Wulfgar by 10%.</span>
         </span>
         <span class="featTableSource">
-            <span>Gold Chest</span>
+            <span class="featTableInner">Gold Chest</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Wulfgar</span>
+            <span class="featTableInner">Wulfgar</span>
         </span>
         <span class="featTableIcon4">
             ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1330**Master's Precision (Wulfgar)**Rage will fuel my warhammer!<code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
-            <span>+20% Crit Chance</span>
+            <span class="featTableInner">Additively increases the Crit Chance of Wulfgar by 20%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Yorven</span>
+            <span class="featTableInner">Yorven</span>
         </span>
         <span class="featTableIcon4">
             ![Bloodmiser Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2022**Bloodmiser (Yorven)**Not enough. It's never enough.<code>change_upgrade_data,17064,0<br>change_upgrade_data,17064,1<br>change_upgrade_data,17072</code></span>Bloodmiser
         </span>
         <span class="featTableEffect">
-            <span>Sets Yorven's Blood Fury Max Stacks to 30</span>
+            <span class="featTableInner">Increases Yorven's Blood Fury Stacks max to 30.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Yorven</span>
+            <span class="featTableInner">Yorven</span>
         </span>
         <span class="featTableIcon4">
             ![Eldritch Mutation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2178**Eldritch Mutation (Yorven)**It feeds on my anger. See now how much it has grown.<code>do_nothing,0</code></span>Eldritch Mutation
         </span>
         <span class="featTableEffect">
-            <span>do_nothing</span>
+            <span class="featTableInner">Increases the number of tendrils summoned by Yorven's Eldritch Claw Tattoo by 1.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Binwin</span>
+            <span class="featTableInner">Binwin</span>
         </span>
         <span class="featTableIcon4">
             ![Above the Crowd Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 155**Above the Crowd (Binwin)**You know I'm actually quite tall, for a dwarf.<code>buff_upgrade,80,1131</code></span>Above the Crowd
         </span>
         <span class="featTableEffect">
-            <span>80% Tallest in Faerûn</span>
+            <span class="featTableInner">Increases the effect of Binwin's Tallest in Faerûn ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Binwin</span>
+            <span class="featTableInner">Binwin</span>
         </span>
         <span class="featTableIcon3">
             ![Grappler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 152**Grappler (Binwin)**You don't want to get too close to an angry dwarf.<code>hero_dps_multiplier_mult,60</code></span>Grappler
         </span>
         <span class="featTableEffect">
-            <span>60% Self DPS</span>
+            <span class="featTableInner">Increases the damage of Binwin by 60%.</span>
         </span>
         <span class="featTableSource">
-            <span>12,500 Gems</span>
+            <span class="featTableInner">12,500 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Black Viper</span>
+            <span class="featTableInner">Black Viper</span>
         </span>
         <span class="featTableIcon4">
             ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 221**Weapon Master (Black Viper)**You would expect such skill from someone like me.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
         </span>
         <span class="featTableEffect">
-            <span>120% Self DPS</span>
+            <span class="featTableInner">Increases the damage of Black Viper by 120%.</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Donaar</span>
+            <span class="featTableInner">Donaar</span>
         </span>
         <span class="featTableIcon3">
             ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 189**Inspiring Leader (Donaar)**A decision has been made, now let's execute it!<code>global_dps_multiplier_mult,25</code></span>Inspiring Leader
         </span>
         <span class="featTableEffect">
-            <span>25% All Champion Damage</span>
+            <span class="featTableInner">All Champions damage +25%.</span>
         </span>
         <span class="featTableSource">
-            <span>12,500 Gems</span>
+            <span class="featTableInner">12,500 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Ezmerelda</span>
+            <span class="featTableInner">Ezmerelda</span>
         </span>
         <span class="featTableIcon3">
             ![Ravenloft's Rival Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1818**Ravenloft's Rival (Ezmerelda)**We will save this land by killing the devil of Ravenloft!<code>buff_upgrades,40,15041,15042,15043</code></span>Ravenloft's Rival
         </span>
         <span class="featTableEffect">
-            <span>40% All Specialisations</span>
+            <span class="featTableInner">Increases the effect of Ezmerelda's We've Trained For This, Vampire Hunter and The Devil You Know by 40%.</span>
         </span>
         <span class="featTableSource">
-            <span>12,500 Gems</span>
+            <span class="featTableInner">12,500 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Jarlaxle</span>
+            <span class="featTableInner">Jarlaxle</span>
         </span>
         <span class="featTableIcon3">
             ![Grappler Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 21**Grappler (Jarlaxle)**Get close and you'll feel my blade!<code>hero_dps_multiplier_mult,60</code></span>Grappler
         </span>
         <span class="featTableEffect">
-            <span>60% Self DPS</span>
+            <span class="featTableInner">Increases the damage of Jarlaxle by 60%.</span>
         </span>
         <span class="featTableSource">
-            <span>12,500 Gems</span>
+            <span class="featTableInner">12,500 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Krull</span>
+            <span class="featTableInner">Krull</span>
         </span>
         <span class="featTableIcon4">
             ![Fortune's Favor Icon](images/featicons/goldfind.png)<span class="featTooltipContents">ID: 310**Fortune's Favor (Krull)**What's that behind your ear? It's a blade. Keep your wits about you.<code>gold_multiplier_mult,50</code></span>Fortune's Favor
         </span>
         <span class="featTableEffect">
-            <span>50% Gold</span>
+            <span class="featTableInner">Gold Found +50%.</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Krull</span>
+            <span class="featTableInner">Krull</span>
         </span>
         <span class="featTableIcon4">
             ![Richly Deserved Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 312**Richly Deserved (Krull)**They had it coming.<code>buff_upgrade,80,3210,1</code></span>Richly Deserved
         </span>
         <span class="featTableEffect">
-            <span>80% Draconic Plague</span>
+            <span class="featTableInner">Increases the effect of Plague: Pilfer by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Minsc</span>
+            <span class="featTableInner">Minsc</span>
         </span>
         <span class="featTableIcon4">
             ![Superior Actor Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 270**Superior Actor (Minsc)**Acting? Yes! Minsc is world's greatest actor!<code>increase_ability_score,cha,2</code></span>Superior Actor
         </span>
         <span class="featTableEffect">
-            <span>Stat: +2 Charisma</span>
+            <span class="featTableInner">Increases the Charisma score of Minsc by 2.</span>
         </span>
         <span class="featTableSource">
-            <span>12,500 Gems</span>
+            <span class="featTableInner">12,500 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Nayeli</span>
+            <span class="featTableInner">Nayeli</span>
         </span>
         <span class="featTableIcon3">
             ![Resilient Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 17**Resilient (Nayeli)**Nothing can take down this champion.<code>health_mult,30</code></span>Resilient
         </span>
         <span class="featTableEffect">
-            <span>30% Health</span>
+            <span class="featTableInner">Increases the health of Nayeli by 30%.</span>
         </span>
         <span class="featTableSource">
-            <span>12,500 Gems</span>
+            <span class="featTableInner">12,500 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Tyril</span>
+            <span class="featTableInner">Tyril</span>
         </span>
         <span class="featTableIcon4">
             ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 54**Prodigal Leader (Tyril)**From fleeing apprentice to leader... an improvement, for sure.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span>50% All Champion Damage</span>
+            <span class="featTableInner">All Champions damage +50%.</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>01 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Gazrick</span>
+            <span class="featTableInner">Gazrick</span>
         </span>
         <span class="featTableIcon4">
             ![Moving Shop Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1657**Moving Shop (Gazrick)**Part of the fun is never knowing where you will set up next!<code>buff_upgrade,80,7535</code></span>Moving Shop
         </span>
         <span class="featTableEffect">
-            <span>80% Travelling Merchant</span>
+            <span class="featTableInner">Increases the effect of Gazrick's Travelling Merchant ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>03 Jan 2032</span>
+            <span class="featTableInner">03 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Alyndra</span>
+            <span class="featTableInner">Alyndra</span>
         </span>
         <span class="featTableIcon4">
             ![I Did My Homework Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 514**I Did My Homework (Alyndra)**... unlike some people.<code>buff_upgrade,80,5379,0</code></span>I Did My Homework
         </span>
         <span class="featTableEffect">
-            <span>80% Brows of Judgement</span>
+            <span class="featTableInner">Increases the effect of Alyndra's Brows of Judgement ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>17 Mar 2032</span>
+            <span class="featTableInner">17 Mar 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Tess</span>
+            <span class="featTableInner">Tess</span>
         </span>
         <span class="featTableIcon4">
             ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2247**Deadly Toxin (Tess)**If there's a problem, this should solve it.<code>do_nothing</code></span>Deadly Toxin
         </span>
         <span class="featTableEffect">
-            <span>do_nothing</span>
+            <span class="featTableInner">do_nothing</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>02 Jul 2032</span>
+            <span class="featTableInner">02 Jul 2032</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span>Warden</span>
+            <span class="featTableInner">Warden</span>
         </span>
         <span class="featTableIcon3">
             ![Phantasmal Curse Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1525**Phantasmal Curse (Warden)**One touch of these specters will curse your soul for eternity.<code>increase_warden_specter_max,1</code></span>Phantasmal Curse
         </span>
         <span class="featTableEffect">
-            <span>+1 Max Spectres</span>
+            <span class="featTableInner">Increases the max number of Accursed Specters by 1.</span>
         </span>
         <span class="featTableSource">
-            <span>???</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span>22 Nov 2033</span>
+            <span class="featTableInner">22 Nov 2033</span>
         </span>
     </span>
 </span>
