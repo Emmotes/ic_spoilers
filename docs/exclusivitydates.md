@@ -86,23 +86,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Halsin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Verdant Vow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2135**Verdant Vow (Halsin)**I give my all to serve the Oak Father. No sacrifice is too great.<br><br><span style="color:var(--Flavescent)">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span><code>buff_upgrade,80,15962,0</code></span>Verdant Vow
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">30 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Minthara</span>
         </span>
         <span class="featTableIcon4">
@@ -120,30 +103,30 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Evandra</span>
+            <span class="featTableInner">Halsin</span>
         </span>
         <span class="featTableIcon4">
-            ![Regimented Fury Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2137**Regimented Fury (Evandra)**Classy, sassy, and about to kick your --<br><br><span style="color:var(--Flavescent)">Increases the effect of Evandra's Powerful Allies, Fighting Force and Carnival Crew by 80%.</span><code>buff_upgrades,80,11299,11300,11301</code></span>Regimented Fury
+            ![Verdant Vow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2135**Verdant Vow (Halsin)**I give my all to serve the Oak Father. No sacrifice is too great.<br><br><span style="color:var(--Flavescent)">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span><code>buff_upgrade,80,15962,0</code></span>Verdant Vow
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Evandra's Powerful Allies, Fighting Force and Carnival Crew by 80%.</span>
+            <span class="featTableInner">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">07 Aug 2025</span>
+            <span class="featTableInner">30 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Jaheira</span>
+            <span class="featTableInner">Vlithryn</span>
         </span>
         <span class="featTableIcon4">
-            ![Sylvan Calling Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2136**Sylvan Calling (Jaheira)**I'm getting in touch with my roots.<br><br><span style="color:var(--Flavescent)">Increase the effect of Jaheira's Class Act ability by 80%.</span><code>buff_upgrades,80,9714,9715,9716,9717</code></span>Sylvan Calling
+            ![Making Waves Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2167**Making Waves (Vlithryn)**A tidal wave? It's a bit much.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vlithryn's Pantheon of Blessings ability by 80%. (Prestack)</span><code>buff_upgrade,80,16897,0</code></span>Making Waves
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increase the effect of Jaheira's Class Act ability by 80%.</span>
+            <span class="featTableInner">Increases the effect of Vlithryn's Pantheon of Blessings ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
@@ -171,13 +154,13 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Vlithryn</span>
+            <span class="featTableInner">Jaheira</span>
         </span>
         <span class="featTableIcon4">
-            ![Making Waves Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2167**Making Waves (Vlithryn)**A tidal wave? It's a bit much.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vlithryn's Pantheon of Blessings ability by 80%. (Prestack)</span><code>buff_upgrade,80,16897,0</code></span>Making Waves
+            ![Sylvan Calling Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2136**Sylvan Calling (Jaheira)**I'm getting in touch with my roots.<br><br><span style="color:var(--Flavescent)">Increase the effect of Jaheira's Class Act ability by 80%.</span><code>buff_upgrades,80,9714,9715,9716,9717</code></span>Sylvan Calling
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Vlithryn's Pantheon of Blessings ability by 80%. (Prestack)</span>
+            <span class="featTableInner">Increase the effect of Jaheira's Class Act ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
@@ -188,13 +171,30 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Evelyn</span>
+            <span class="featTableInner">Evandra</span>
         </span>
         <span class="featTableIcon4">
-            ![Under Pressure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1472**Under Pressure (Evelyn)**Uh oh -- more enemies! Everyone get behind me!<br><br><span style="color:var(--Flavescent)">Increases the effect of Evelyn's Steadfast Might ability by 80%.</span><code>buff_upgrade,80,12207</code></span>Under Pressure
+            ![Regimented Fury Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2137**Regimented Fury (Evandra)**Classy, sassy, and about to kick your --<br><br><span style="color:var(--Flavescent)">Increases the effect of Evandra's Powerful Allies, Fighting Force and Carnival Crew by 80%.</span><code>buff_upgrades,80,11299,11300,11301</code></span>Regimented Fury
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Evelyn's Steadfast Might ability by 80%.</span>
+            <span class="featTableInner">Increases the effect of Evandra's Powerful Allies, Fighting Force and Carnival Crew by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">07 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Yorven</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Motley Crew Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2019**Motley Crew (Yorven)**With friends like these, I'll never be lost again.<br><br><span style="color:var(--Flavescent)">Increases the effect of Yorven's Rag Tag Team ability by 80%. (Prestack)</span><code>buff_upgrade,80,17063</code></span>Motley Crew
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Yorven's Rag Tag Team ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
@@ -222,13 +222,13 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Yorven</span>
+            <span class="featTableInner">Evelyn</span>
         </span>
         <span class="featTableIcon4">
-            ![Motley Crew Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2019**Motley Crew (Yorven)**With friends like these, I'll never be lost again.<br><br><span style="color:var(--Flavescent)">Increases the effect of Yorven's Rag Tag Team ability by 80%. (Prestack)</span><code>buff_upgrade,80,17063</code></span>Motley Crew
+            ![Under Pressure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1472**Under Pressure (Evelyn)**Uh oh -- more enemies! Everyone get behind me!<br><br><span style="color:var(--Flavescent)">Increases the effect of Evelyn's Steadfast Might ability by 80%.</span><code>buff_upgrade,80,12207</code></span>Under Pressure
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Yorven's Rag Tag Team ability by 80%. (Prestack)</span>
+            <span class="featTableInner">Increases the effect of Evelyn's Steadfast Might ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
@@ -256,23 +256,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Hank</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Foe Slayer Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2202**Foe Slayer (Hank)**This bow isn't just for show, you know. Go ahead. Make my day.<br><br><span style="color:var(--Flavescent)">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span><code>change_upgrade_data,17087,1</code></span>Foe Slayer
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Ravengard</span>
         </span>
         <span class="featTableIcon4">
@@ -290,19 +273,19 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">BBEG</span>
+            <span class="featTableInner">Hank</span>
         </span>
         <span class="featTableIcon4">
-            ![Undead Army Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2140**Undead Army (BBEG)**Death is not the end. Life begins after death. Live your afterlife to the fullest.<br><br><span style="color:var(--Flavescent)">Increases the effect of BBEG's Sources of Corpses ability by 80%. (Prestack)</span><code>buff_upgrade,80,11542</code></span>Undead Army
+            ![Foe Slayer Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2202**Foe Slayer (Hank)**This bow isn't just for show, you know. Go ahead. Make my day.<br><br><span style="color:var(--Flavescent)">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span><code>change_upgrade_data,17087,1</code></span>Foe Slayer
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of BBEG's Sources of Corpses ability by 80%. (Prestack)</span>
+            <span class="featTableInner">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">11 Sept 2025</span>
+            <span class="featTableInner">04 Sept 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -314,6 +297,23 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Krond's base attack deals 400% of its damage as area damage to all nearby enemies.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">BBEG</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Undead Army Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2140**Undead Army (BBEG)**Death is not the end. Life begins after death. Live your afterlife to the fullest.<br><br><span style="color:var(--Flavescent)">Increases the effect of BBEG's Sources of Corpses ability by 80%. (Prestack)</span><code>buff_upgrade,80,11542</code></span>Undead Army
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of BBEG's Sources of Corpses ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
@@ -392,23 +392,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Strongheart</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2220**Master's Precision (Strongheart)**Steel, strike true!<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Strongheart by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Additively increases the Crit Chance of Strongheart by 20%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">02 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Tess</span>
         </span>
         <span class="featTableIcon4">
@@ -426,19 +409,19 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Aeon</span>
+            <span class="featTableInner">Strongheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Clandestine Operation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2223**Clandestine Operation (Aeon)**They must never know what we do in the shadows.<br><br><span style="color:var(--Flavescent)">Increases the effect of Aeon's Inner Circle ability by 80%.</span><code>buff_upgrade,80,15196,1</code></span>Clandestine Operation
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2220**Master's Precision (Strongheart)**Steel, strike true!<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Strongheart by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Aeon's Inner Circle ability by 80%.</span>
+            <span class="featTableInner">Additively increases the Crit Chance of Strongheart by 20%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">09 Oct 2025</span>
+            <span class="featTableInner">02 Oct 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -450,6 +433,23 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">09 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Aeon</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Clandestine Operation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2223**Clandestine Operation (Aeon)**They must never know what we do in the shadows.<br><br><span style="color:var(--Flavescent)">Increases the effect of Aeon's Inner Circle ability by 80%.</span><code>buff_upgrade,80,15196,1</code></span>Clandestine Operation
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Aeon's Inner Circle ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
