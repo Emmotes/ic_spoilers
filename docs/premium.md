@@ -33,7 +33,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Right Hand of Evil Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2225**Right Hand of Evil**I go where I'm told, and whatever I find there I destroy.<br><br>Increases the effect of Warduke's Drawn to Power ability by 80%.<code>buff_upgrade,80,9618</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Right Hand of Evil Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2225**Right Hand of Evil**I go where I'm told, and whatever I find there I destroy.<br><br><span style="color:var(--Flavescent)">Increases the effect of Warduke's Drawn to Power ability by 80%.</span><code>buff_upgrade,80,9618</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -195,7 +195,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Powerful Shove Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2035**Powerful Shove**Let's keep a safe distance. Way over there sounds perfect.<br><br>Increases the knockback effect of Eric's Keep Away ability by 80%.<code>buff_upgrade,80,16132,1</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Powerful Shove Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2035**Powerful Shove**Let's keep a safe distance. Way over there sounds perfect.<br><br><span style="color:var(--Flavescent)">Increases the knockback effect of Eric's Keep Away ability by 80%.</span><code>buff_upgrade,80,16132,1</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -459,7 +459,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Queen's Blade Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2222**Queen's Blade**Vlaakith gha'g shkath zai!<br><br>Increases the effect of Lae'zel's Ceremorphosis ability by 80%. (Prestack)<code>buff_upgrade,80,12114</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Queen's Blade Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2222**Queen's Blade**Vlaakith gha'g shkath zai!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lae'zel's Ceremorphosis ability by 80%. (Prestack)</span><code>buff_upgrade,80,12114</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -530,7 +530,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Enemy Enumeration Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 1577**Enemy Enumeration**Five stabs, six stabs, seven stabs, MORE!<br><br>Increases the effect of Ishi's Faster, Harder, Stronger ability by 80%.<code>buff_upgrade,80,16530</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Enemy Enumeration Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 1577**Enemy Enumeration**Five stabs, six stabs, seven stabs, MORE!<br><br><span style="color:var(--Flavescent)">Increases the effect of Ishi's Faster, Harder, Stronger ability by 80%.</span><code>buff_upgrade,80,16530</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -670,7 +670,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![True Shot Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2248**True Shot**I never miss.<br><br>Increases the effect of Shandie's specializations by 80%.<code>buff_upgrades,80,9730,9731,9732</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![True Shot Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2248**True Shot**I never miss.<br><br><span style="color:var(--Flavescent)">Increases the effect of Shandie's specializations by 80%.</span><code>buff_upgrades,80,9730,9731,9732</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -832,7 +832,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Power Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2249**Unknown Power**You ask why Elminster is so concerned with my wellbeing? He's a true fan, of course! Why else?<br><br>Increases the base effect of Volo's specializations by 80%. (Prestack)<code>buff_upgrade,80,16554,0<br>buff_upgrade,80,16555,0<br>buff_upgrade,80,16556,0</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Power Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2249**Unknown Power**You ask why Elminster is so concerned with my wellbeing? He's a true fan, of course! Why else?<br><br><span style="color:var(--Flavescent)">Increases the base effect of Volo's specializations by 80%. (Prestack)</span><code>buff_upgrade,80,16554,0<br>buff_upgrade,80,16555,0<br>buff_upgrade,80,16556,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -894,7 +894,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Eternal Companions Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2250**Eternal Companions**I am truly blessed to know them as dear friends.<br><br>Increases the bonus damage of Drizzt's Companions of the Hall ability by 80%.<code>buff_upgrade,80,11514</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Eternal Companions Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2250**Eternal Companions**I am truly blessed to know them as dear friends.<br><br><span style="color:var(--Flavescent)">Increases the bonus damage of Drizzt's Companions of the Hall ability by 80%.</span><code>buff_upgrade,80,11514</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1235,7 +1235,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br>All Champions damage +10%.<code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
