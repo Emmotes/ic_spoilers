@@ -35,40 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Briv</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Thunder Step Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2131**Thunder Step (Briv)**Mine mighty footfalls shalt resoundeth throughout all the land!<br><br><span style="color:var(--Flavescent)">When Steelbones stacks convert to Sprint stacks upon reset, you gain 20% more Sprint stacks, rounded down.</span><code>steelbones_sprint_conversion_inc,20</code></span>Thunder Step
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">When Steelbones stacks convert to Sprint stacks upon reset, you gain 20% more Sprint stacks, rounded down.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">16 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Strix</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Giant Stench Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2132**Giant Stench (Strix)**Do you smell burning trash? Yeah? Okay, good.<br><br><span style="color:var(--Flavescent)">Increases the effect of Strix's Aura of Unclean ability by 80%.</span><code>buff_upgrade,80,12285</code></span>Giant Stench
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Strix's Aura of Unclean ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">16 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Reya</span>
         </span>
         <span class="featTableIcon4">
