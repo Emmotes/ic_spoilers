@@ -273,22 +273,17 @@ code{
 .itemTableColumn {
 	display: flex;
 	flex-direction: column;
-	flex-wrap: nowrap;
-	justify-content: flex-start;
 	align-items: flex-start;
 	margin: 1px;
-	width: 850px;
 	font-size: 0.9em;
-	margin-top: 1px;
-	margin-bottom: 1px;
+	text-wrap-style: pretty;
 }
 .itemTableRow,.itemTableRowHeader {
 	display: flex;
 	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: center;
-	align-items: center;
-	height: 70px;
+	align-items: stretch;
+	min-height: 70px;
+	height: min-content;
 	margin: 2px;
 	background-color: var(--Onyx);
 	border: 1px solid black;
@@ -296,7 +291,7 @@ code{
 .itemTableRowHeader {
 	border-bottom: 4px ridge black;
 	font-size: 1.1em;
-	height: 44px;
+	min-height: 44px;
 }
 .itemTableRow:hover {
 	border: 1px solid var(--Flavescent);
@@ -304,13 +299,11 @@ code{
 }
 .itemTableIcon {
 	display: flex;
-	justify-content: flex-start;
+	justify-content: center;
 	align-items: center;
-	width: 280px;
-	margin: 2px;
-	padding-top: 4px;
+	width: 265px;
 	font-size: 1.1em;
-	margin-right: 2px;
+	padding: 0 1px;
 }
 .itemTableIcon img {
 	margin: 5px;
@@ -319,8 +312,7 @@ code{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 45px;
-	height: 100%;
+	width: 40px;
 	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	border-right: 1px solid black;
@@ -329,11 +321,11 @@ code{
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
-	height: 100%;
 }
 .itemTableName,.itemTableNameSmall {
-	width: 190px;
+	width: 180px;
 	margin-left: 8px;
+	padding-right: 8px;
 }
 .itemTableNameSmall {
 	background-color: var(--EerieBlack);
@@ -345,17 +337,17 @@ code{
 	background-color: var(--EerieBlack);
 	border-left: 1px solid black;
 	width: 326px;
-	height: 100%;
-	padding-left: 8px;
+	padding: 0 8px;
 }
 .itemTableIcon1,.itemTableIcon2,.itemTableIcon3,.itemTableIcon4,.itemTableIcon5 {
 	position: relative;
-	display: inline-block;
 	cursor: pointer;
 	color: var(--TangerineYellow);
+	display: flex;
+	align-items: center;
 }
 .itemTableIcon1 img,.itemTableIcon2 img,.itemTableIcon3 img,.itemTableIcon4 img,.itemTableIcon5 img {
-	margin: 4px;
+	margin: 1px;
 	width: 60px;
 	height: 60px;
 	object-fit: contain;
@@ -377,9 +369,9 @@ code{
 }
 .itemTableGE {
 	width: 3px;
-	height: 80%;
 	background-color: var(--Saffron);
-	margin-top: -4px;
+	height: 60%;
+	margin-left: 2px;
 }
 .itemTableIcon1:hover .itemTooltipContents,.itemTableIcon2:hover .itemTooltipContents,.itemTableIcon3:hover .itemTooltipContents,.itemTableIcon4:hover .itemTooltipContents,.itemTableIcon5:hover .itemTooltipContents {
 	visibility: visible;

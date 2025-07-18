@@ -569,21 +569,21 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Xerophon Slot 1](images/exclusivities/ge_12098.png)<span class="itemTooltipContents">ID: 2500**Blade of the Ages (Xerophon)**A reminder of a time and place I've left behind. I doubt Ythyrn's dead will mind.<code>global_dps_multiplier_mult,230</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Xerophon Slot 1](images/exclusivities/ge_12098.png)<span class="itemTooltipContents">ID: 2500**Blade of the Ages (Xerophon)**A reminder of a time and place I've left behind. I doubt Ythyrn's dead will mind.<br><br><span style="color:var(--Flavescent)">All Champions damage +230%.</span><code>global_dps_multiplier_mult,230</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All Champion Damage</span>
+                        <span style="margin-left:15px">Blade of the Ages</span>
                         <span style="margin-left:15px">Xerophon (Slot 1)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Eric Slot 2](images/exclusivities/ge_25230.png)<span class="itemTooltipContents">ID: 3729**Cavalier's Breastplate (Eric)**Not even Tiamat can melt this metal!<code>health_mult,100</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Eric Slot 2](images/exclusivities/ge_25230.png)<span class="itemTooltipContents">ID: 3729**Cavalier's Breastplate (Eric)**Not even Tiamat can melt this metal!<br><br><span style="color:var(--Flavescent)">Increases the health of Eric by 100%.</span><code>health_mult,100</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Health</span>
+                        <span style="margin-left:15px">Cavalier's Breastplate</span>
                         <span style="margin-left:15px">Eric (Slot 2)</span>
                     </span>
                 </span>
@@ -837,21 +837,21 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Reya Slot 5](images/exclusivities/ge_10395.png)<span class="itemTooltipContents">ID: 2060**Broken Hellrider Sign (Reya)**I put it on the wall in Trollskull. A reminder of where I've been.<code>buff_upgrade,275,5458</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Reya Slot 5](images/exclusivities/ge_10395.png)<span class="itemTooltipContents">ID: 2060**Broken Hellrider Sign (Reya)**I put it on the wall in Trollskull. A reminder of where I've been.<br><br><span style="color:var(--Flavescent)">Increases the effect of Reya's Celestial Champion ability by 275%.</span><code>buff_upgrade,275,5458</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Celestial Champion</span>
+                        <span style="margin-left:15px">Broken Hellrider Sign</span>
                         <span style="margin-left:15px">Reya (Slot 5)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Grimm Slot 5](images/exclusivities/ge_8087.png)<span class="itemTooltipContents">ID: 3837**Elegant Snow Cloak (Grimm)**Now THIS is a fashion statement! ~Grimm<code>buff_ultimate,275</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Grimm Slot 5](images/exclusivities/ge_8087.png)<span class="itemTooltipContents">ID: 3837**Elegant Snow Cloak (Grimm)**Now THIS is a fashion statement! ~Grimm<br><br><span style="color:var(--Flavescent)">Buffs Grimm's Ultimate Attack Damage by 275%.</span><code>buff_ultimate,275</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Ultimate Damage</span>
+                        <span style="margin-left:15px">Elegant Snow Cloak</span>
                         <span style="margin-left:15px">Grimm (Slot 5)</span>
                     </span>
                 </span>
@@ -1209,11 +1209,11 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Krydle Slot 3](images/exclusivities/ge_7549.png)<span class="itemTooltipContents">ID: 1428**Cloak of The Blades (Krydle)**I ran with them for a while. It... didn't end well.<code>buff_upgrade,275,9629,0</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Krydle Slot 3](images/exclusivities/ge_7549.png)<span class="itemTooltipContents">ID: 1428**Cloak of The Blades (Krydle)**I ran with them for a while. It... didn't end well.<br><br><span style="color:var(--Flavescent)">Increases the effect of Krydle's From The Shadows ability by 275%.</span><code>buff_upgrade,275,9629,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">From The Shadows</span>
+                        <span style="margin-left:15px">Cloak of The Blades</span>
                         <span style="margin-left:15px">Krydle (Slot 3)</span>
                     </span>
                 </span>
@@ -1312,11 +1312,11 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Miria Slot 2](images/exclusivities/ge_18273.png)<span class="itemTooltipContents">ID: 2889**High Sorcery Robes (Miria)**A mark of the respect and station I deserve.<code>buff_upgrade,275,10665</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Miria Slot 2](images/exclusivities/ge_18273.png)<span class="itemTooltipContents">ID: 2889**High Sorcery Robes (Miria)**A mark of the respect and station I deserve.<br><br><span style="color:var(--Flavescent)">Increases the effect of Miria's Mage of High Sorcery ability by 275%.</span><code>buff_upgrade,275,10665</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Mage of High Sorcery</span>
+                        <span style="margin-left:15px">High Sorcery Robes</span>
                         <span style="margin-left:15px">Miria (Slot 2)</span>
                     </span>
                 </span>
@@ -1585,21 +1585,21 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Dragonbait Slot 1](images/exclusivities/ge_6926.png)<span class="itemTooltipContents">ID: 1588**The Lost Friend (Dragonbait)**Dragonbait carries a drawing of Artus Cimber.<code>global_dps_multiplier_mult,230</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Dragonbait Slot 1](images/exclusivities/ge_6926.png)<span class="itemTooltipContents">ID: 1588**The Lost Friend (Dragonbait)**Dragonbait carries a drawing of Artus Cimber.<br><br><span style="color:var(--Flavescent)">All Champions damage +230%.</span><code>global_dps_multiplier_mult,230</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All Champion Damage</span>
+                        <span style="margin-left:15px">The Lost Friend</span>
                         <span style="margin-left:15px">Dragonbait (Slot 1)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Evandra Slot 2](images/exclusivities/ge_19248.png)<span class="itemTooltipContents">ID: 2961**Armor of Victory (Evandra)**Won this at a jousting tourney. No thanks to Dargle-bark.<code>health_mult,100</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Evandra Slot 2](images/exclusivities/ge_19248.png)<span class="itemTooltipContents">ID: 2961**Armor of Victory (Evandra)**Won this at a jousting tourney. No thanks to Dargle-bark.<br><br><span style="color:var(--Flavescent)">Increases the health of Evandra by 100%.</span><code>health_mult,100</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Health</span>
+                        <span style="margin-left:15px">Armor of Victory</span>
                         <span style="margin-left:15px">Evandra (Slot 2)</span>
                     </span>
                 </span>
@@ -1786,11 +1786,11 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Pwent Slot 4](images/exclusivities/ge_6387.png)<span class="itemTooltipContents">ID: 1192**Helm of Clangeddin's Wrath (Pwent)**When a dwarf enters tha bloodrage, stand clear.<code>buff_upgrade,275,11494</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Pwent Slot 4](images/exclusivities/ge_6387.png)<span class="itemTooltipContents">ID: 1192**Helm of Clangeddin's Wrath (Pwent)**When a dwarf enters tha bloodrage, stand clear.<br><br><span style="color:var(--Flavescent)">Increases the effect of Pwent's Gutbuster Recruits ability by 275%.</span><code>buff_upgrade,275,11494</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Gutbuster Recruits</span>
+                        <span style="margin-left:15px">Helm of Clangeddin's Wrath</span>
                         <span style="margin-left:15px">Pwent (Slot 4)</span>
                     </span>
                 </span>
@@ -1888,21 +1888,21 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Blooshi Slot 2](images/exclusivities/ge_13387.png)<span class="itemTooltipContents">ID: 2528**Endless Patron (Blooshi)**Whoever he is, I like the powers he gives me!<code>buff_upgrade,275,7518</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Blooshi Slot 2](images/exclusivities/ge_13387.png)<span class="itemTooltipContents">ID: 2528**Endless Patron (Blooshi)**Whoever he is, I like the powers he gives me!<br><br><span style="color:var(--Flavescent)">Increases the effect of Blooshi's Soul Gatherer ability by 275%.</span><code>buff_upgrade,275,7518</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Soul Gatherer</span>
+                        <span style="margin-left:15px">Endless Patron</span>
                         <span style="margin-left:15px">Blooshi (Slot 2)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Lae'zel Slot 3](images/exclusivities/ge_20257.png)<span class="itemTooltipContents">ID: 3061**Token of Vlaakith (Lae'zel)**The engraving on the back reads: 'Vlaakith'ka sivim hrath krash'ht'<code>buff_upgrade,275,12114</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Lae'zel Slot 3](images/exclusivities/ge_20257.png)<span class="itemTooltipContents">ID: 3061**Token of Vlaakith (Lae'zel)**The engraving on the back reads: 'Vlaakith'ka sivim hrath krash'ht'<br><br><span style="color:var(--Flavescent)">Increases the effect of Lae'zel's Ceremorphosis ability by 275%.</span><code>buff_upgrade,275,12114</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Ceremorphosis (Prestack)</span>
+                        <span style="margin-left:15px">Token of Vlaakith</span>
                         <span style="margin-left:15px">Lae'zel (Slot 3)</span>
                     </span>
                 </span>
@@ -2089,11 +2089,11 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Vi Slot 2](images/exclusivities/ge_13181.png)<span class="itemTooltipContents">ID: 2216**Glamourous Neckwear (Vi)**I get this out for special occasions.<code>buff_upgrade,275,12312</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Vi Slot 2](images/exclusivities/ge_13181.png)<span class="itemTooltipContents">ID: 2216**Glamourous Neckwear (Vi)**I get this out for special occasions.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vi's A Good Example ability by 275%.</span><code>buff_upgrade,275,12312</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">A Good Example</span>
+                        <span style="margin-left:15px">Glamourous Neckwear</span>
                         <span style="margin-left:15px">Vi (Slot 2)</span>
                     </span>
                 </span>
@@ -2211,21 +2211,21 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Sisaspia Slot 5](images/exclusivities/ge_7224.png)<span class="itemTooltipContents">ID: 1364**Scimitar of Dendar (Sisaspia)**The Night Serpent waits...<code>buff_ultimate,275</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Sisaspia Slot 5](images/exclusivities/ge_7224.png)<span class="itemTooltipContents">ID: 1364**Scimitar of Dendar (Sisaspia)**The Night Serpent waits...<br><br><span style="color:var(--Flavescent)">Buffs Sisaspia's Ultimate Attack Damage by 275%.</span><code>buff_ultimate,275</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Ultimate Damage</span>
+                        <span style="margin-left:15px">Scimitar of Dendar</span>
                         <span style="margin-left:15px">Sisaspia (Slot 5)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)<span class="itemTooltipContents">ID: 3333**Lunation (Jang Sao)**All of time and space, within your imagination<code>buff_upgrades,275,13261,13262</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)<span class="itemTooltipContents">ID: 3333**Lunation (Jang Sao)**All of time and space, within your imagination<br><br><span style="color:var(--Flavescent)">Increases the effect of Jang Sao's Wisdom of the Ages and Speed of Shooting Stars by 275%.</span><code>buff_upgrades,275,13261,13262</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All First Specialisations (Prestack)</span>
+                        <span style="margin-left:15px">Lunation</span>
                         <span style="margin-left:15px">Jang Sao (Slot 5)</span>
                     </span>
                 </span>
@@ -2412,11 +2412,11 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Nrakk Slot 1](images/exclusivities/ge_2711.png)<span class="itemTooltipContents">ID: 556**Kensei Naginata of Illithid Slaying (Nrakk)**The force of this Naginata disrupts the Illithid's psionic field.<code>global_dps_multiplier_mult,230</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Nrakk Slot 1](images/exclusivities/ge_2711.png)<span class="itemTooltipContents">ID: 556**Kensei Naginata of Illithid Slaying (Nrakk)**The force of this Naginata disrupts the Illithid's psionic field.<br><br><span style="color:var(--Flavescent)">All Champions damage +230%.</span><code>global_dps_multiplier_mult,230</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All Champion Damage</span>
+                        <span style="margin-left:15px">Kensei Naginata of Illithid Slaying</span>
                         <span style="margin-left:15px">Nrakk (Slot 1)</span>
                     </span>
                 </span>
@@ -2534,21 +2534,21 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Virgil Slot 5](images/exclusivities/ge_16585.png)<span class="itemTooltipContents">ID: 2757**Thrilling Memoirs (Virgil)**All our adventures together are contained in this book. Well...most of them.<code>buff_upgrade,100,9605</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Virgil Slot 5](images/exclusivities/ge_16585.png)<span class="itemTooltipContents">ID: 2757**Thrilling Memoirs (Virgil)**All our adventures together are contained in this book. Well...most of them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Virgil's Rapid Fire ability by 100%.</span><code>buff_upgrade,100,9605</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Rapid Fire</span>
+                        <span style="margin-left:15px">Thrilling Memoirs</span>
                         <span style="margin-left:15px">Virgil (Slot 5)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Karlach Slot 2](images/exclusivities/ge_21844.png)<span class="itemTooltipContents">ID: 3393**Helldusk Armour (Karlach)**I CAN FLY NOW?!<code>health_mult,100</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Karlach Slot 2](images/exclusivities/ge_21844.png)<span class="itemTooltipContents">ID: 3393**Helldusk Armour (Karlach)**I CAN FLY NOW?!<br><br><span style="color:var(--Flavescent)">Increases the health of Karlach by 100%.</span><code>health_mult,100</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Health</span>
+                        <span style="margin-left:15px">Helldusk Armour</span>
                         <span style="margin-left:15px">Karlach (Slot 2)</span>
                     </span>
                 </span>
@@ -2735,11 +2735,11 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Shaka Slot 5](images/exclusivities/ge_10342.png)<span class="itemTooltipContents">ID: 1892**Locket of the Rivals (Shaka)**It holds an image of my family.<code>buff_upgrade,275,13418</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Shaka Slot 5](images/exclusivities/ge_10342.png)<span class="itemTooltipContents">ID: 1892**Locket of the Rivals (Shaka)**It holds an image of my family.<br><br><span style="color:var(--Flavescent)">Increases the effect of Shaka's Feast or Famine ability by 275%.</span><code>buff_upgrade,275,13418</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Feast or Famine (Prestack)</span>
+                        <span style="margin-left:15px">Locket of the Rivals</span>
                         <span style="margin-left:15px">Shaka (Slot 5)</span>
                     </span>
                 </span>
@@ -2857,21 +2857,21 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for NERDS Slot 1](images/exclusivities/ge_11614.png)<span class="itemTooltipContents">ID: 2476**Ornamental Weaponry (NERDS)**Fighters are masters of weaponry and martial skill.<code>buff_upgrade,275,6139</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for NERDS Slot 1](images/exclusivities/ge_11614.png)<span class="itemTooltipContents">ID: 2476**Ornamental Weaponry (NERDS)**Fighters are masters of weaponry and martial skill.<br><br><span style="color:var(--Flavescent)">Increases the effect of NERDS's Fighter ability by 275%.</span><code>buff_upgrade,275,6139</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Fighter</span>
+                        <span style="margin-left:15px">Ornamental Weaponry</span>
                         <span style="margin-left:15px">NERDS (Slot 1)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Dynaheir Slot 5](images/exclusivities/ge_22299.png)<span class="itemTooltipContents">ID: 3453**Old Empires Fire Wine (Dynaheir)**The decanter is for Minsc. The glass is all I require.<code>buff_upgrades,100,13879,13880,13881</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Dynaheir Slot 5](images/exclusivities/ge_22299.png)<span class="itemTooltipContents">ID: 3453**Old Empires Fire Wine (Dynaheir)**The decanter is for Minsc. The glass is all I require.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dynaheir's specializations by 100%.</span><code>buff_upgrades,100,13879,13880,13881</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All Specialisations (Prestack)</span>
+                        <span style="margin-left:15px">Old Empires Fire Wine</span>
                         <span style="margin-left:15px">Dynaheir (Slot 5)</span>
                     </span>
                 </span>
@@ -2971,21 +2971,21 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Azaka Slot 3](images/exclusivities/ge_3601.png)<span class="itemTooltipContents">ID: 708**Magical Coin Pack (Azaka)**It always has more room!<code>buff_upgrade,275,1233</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Azaka Slot 3](images/exclusivities/ge_3601.png)<span class="itemTooltipContents">ID: 708**Magical Coin Pack (Azaka)**It always has more room!<br><br><span style="color:var(--Flavescent)">Increases the effect of Azaka's Guiding Hand ability by 275%.</span><code>buff_upgrade,275,1233</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Guiding Hand</span>
+                        <span style="margin-left:15px">Magical Coin Pack</span>
                         <span style="margin-left:15px">Azaka (Slot 3)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Diana Slot 5](images/exclusivities/ge_23230.png)<span class="itemTooltipContents">ID: 3525**Weavebound Staff (Diana)**Dungeon Master told me the Weave itself flows through this...<code>buff_ultimate,275</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Diana Slot 5](images/exclusivities/ge_23230.png)<span class="itemTooltipContents">ID: 3525**Weavebound Staff (Diana)**Dungeon Master told me the Weave itself flows through this...<br><br><span style="color:var(--Flavescent)">Buffs Diana's Ultimate Attack Damage by 275%.</span><code>buff_ultimate,275</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Ultimate Damage</span>
+                        <span style="margin-left:15px">Weavebound Staff</span>
                         <span style="margin-left:15px">Diana (Slot 5)</span>
                     </span>
                 </span>
@@ -3085,21 +3085,21 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Ulkoria Slot 2](images/exclusivities/ge_8327.png)<span class="itemTooltipContents">ID: 1616**Volo's Guide to the Weave (Ulkoria)**I'm writing a review for the Sentinel, nothing more.<code>global_dps_multiplier_mult,230</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Ulkoria Slot 2](images/exclusivities/ge_8327.png)<span class="itemTooltipContents">ID: 1616**Volo's Guide to the Weave (Ulkoria)**I'm writing a review for the Sentinel, nothing more.<br><br><span style="color:var(--Flavescent)">All Champions damage +230%.</span><code>global_dps_multiplier_mult,230</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All Champion Damage</span>
+                        <span style="margin-left:15px">Volo's Guide to the Weave</span>
                         <span style="margin-left:15px">Ulkoria (Slot 2)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Aeon Slot 3](images/exclusivities/ge_23720.png)<span class="itemTooltipContents">ID: 3565**Bigby's Beneficent Bracelet (Aeon)**A recent gift from back home. Somewhere I haven't been in a long, long time.<code>buff_upgrade,275,15197,0</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Aeon Slot 3](images/exclusivities/ge_23720.png)<span class="itemTooltipContents">ID: 3565**Bigby's Beneficent Bracelet (Aeon)**A recent gift from back home. Somewhere I haven't been in a long, long time.<br><br><span style="color:var(--Flavescent)">Increases the effect of Aeon's Uncover Weakness ability by 275%.</span><code>buff_upgrade,275,15197,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Uncover Weakness (Prestack)</span>
+                        <span style="margin-left:15px">Bigby's Beneficent Bracelet</span>
                         <span style="margin-left:15px">Aeon (Slot 3)</span>
                     </span>
                 </span>
@@ -3209,21 +3209,21 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Krux Slot 2](images/exclusivities/ge_19864.png)<span class="itemTooltipContents">ID: 3225**Muskets of Precision (Krux)**Won these in a game at Infinity's. That celestial was not happy with me...<code>buff_upgrade,275,11653</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Krux Slot 2](images/exclusivities/ge_19864.png)<span class="itemTooltipContents">ID: 3225**Muskets of Precision (Krux)**Won these in a game at Infinity's. That celestial was not happy with me...<br><br><span style="color:var(--Flavescent)">Increases the effect of Krux's All Hands On Deck! ability by 275%.</span><code>buff_upgrade,275,11653</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">All Hands On Deck!</span>
+                        <span style="margin-left:15px">Muskets of Precision</span>
                         <span style="margin-left:15px">Krux (Slot 2)</span>
                     </span>
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Kas Slot 3](images/exclusivities/ge_24557.png)<span class="itemTooltipContents">ID: 3637**Eye of Vecna (Kas)**Sometimes I feel as if he can still see me through it...<code>buff_upgrade,100,15621,0</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Kas Slot 3](images/exclusivities/ge_24557.png)<span class="itemTooltipContents">ID: 3637**Eye of Vecna (Kas)**Sometimes I feel as if he can still see me through it...<br><br><span style="color:var(--Flavescent)">Increases the effect of Kas' Life Drain ability by 100%.</span><code>buff_upgrade,100,15621,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Life Drain</span>
+                        <span style="margin-left:15px">Eye of Vecna</span>
                         <span style="margin-left:15px">Kas (Slot 3)</span>
                     </span>
                 </span>

@@ -24,21 +24,21 @@ We know the next Emergence event will be Vecnas and that it will start on 23 Jul
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Golden Epic Icon for Blooshi Slot 4](images/emergence_12/ge_2536.png)<span class="itemTooltipContents">ID: 2536**Fork of Regicide (Blooshi)**Everyone knows a fork is the best assassination tool. Good size for eyes.<code>buff_upgrade,275,7520</code></span></span>
+            <span class="tooltipHolder">![Golden Epic Icon for Blooshi Slot 4](images/emergence_12/ge_2536.png)<span class="itemTooltipContents">ID: 2536**Fork of Regicide (Blooshi)**Everyone knows a fork is the best assassination tool. Good size for eyes.<br><br><span style="color:var(--Flavescent)">Increases the effect of Blooshi's A Life Well Lived ability by 275%.</span><code>buff_upgrade,275,7520</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
-            <span style="margin-left:15px">A Life Well Lived</span>
+            <span style="margin-left:15px">Fork of Regicide</span>
             <span style="margin-left:15px">Blooshi (Slot 4)</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Golden Epic Icon for Tess Slot 4](images/emergence_12/ge_3905.png)<span class="itemTooltipContents">ID: 3905**Trapfinder's Friend (Tess)**No trap is safe from me.<code>buff_upgrade,275,17320</code></span></span>
+            <span class="tooltipHolder">![Golden Epic Icon for Tess Slot 4](images/emergence_12/ge_3905.png)<span class="itemTooltipContents">ID: 3905**Trapfinder's Friend (Tess)**No trap is safe from me.<br><br><span style="color:var(--Flavescent)">Increases the effect of Tess's Trap Expert ability by 275%.</span><code>buff_upgrade,275,17320</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
-            <span style="margin-left:15px">Trap Expert</span>
+            <span style="margin-left:15px">Trapfinder's Friend</span>
             <span style="margin-left:15px">Tess (Slot 4)</span>
         </span>
     </span>
