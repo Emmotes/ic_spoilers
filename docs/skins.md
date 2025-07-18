@@ -11,23 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chosen of Vecna Blooshi Portrait](images/skin_portraits/chosenofvecnablooshi.png)<span class="featTooltipContents">ID: 581**Chosen of Vecna Blooshi (Blooshi)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/chosenofvecnablooshi.gif" alt="Chosen of Vecna Blooshi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chosenofvecnablooshi-spirit.gif" alt="Chosen of Vecna Blooshi Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Chosen of Vecna Blooshi
-        </span>
-        <span class="skinTableSource">
-            Emergence 12
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            23 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Chosen of Vecna Warduke Portrait](images/skin_portraits/chosenofvecnawarduke.png)<span class="featTooltipContents">ID: 579**Chosen of Vecna Warduke (Warduke)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/chosenofvecnawarduke.gif" alt="Chosen of Vecna Warduke Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chosenofvecnawarduke-flame_tongue.gif" alt="Chosen of Vecna Warduke Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
@@ -38,6 +21,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableCost">
             1,680p
+        </span>
+        <span class="skinTableDate">
+            23 Jul 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Chosen of Vecna Blooshi Portrait](images/skin_portraits/chosenofvecnablooshi.png)<span class="featTooltipContents">ID: 581**Chosen of Vecna Blooshi (Blooshi)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/chosenofvecnablooshi.gif" alt="Chosen of Vecna Blooshi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chosenofvecnablooshi-spirit.gif" alt="Chosen of Vecna Blooshi Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+        </span>
+        <span class="skinTableName">
+            Chosen of Vecna Blooshi
+        </span>
+        <span class="skinTableSource">
+            Emergence 12
+        </span>
+        <span class="skinTableCost">
+            ???
         </span>
         <span class="skinTableDate">
             23 Jul 2025
