@@ -3429,39 +3429,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="101,87,27,0,307,310,307,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="102,131,53,307,309,307,307,193">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="102,131,53,307,309,307,307,193">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="102,131,53,307,309,307,307,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="102,131,53,307,309,307,307,0">
         103
     </span>
-    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,193">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,193">
+    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,0">
         Valentine
     </span>
-    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,193">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="102,131,53,307,309,307,307,193">
+    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="102,131,53,307,309,307,307,0">
         5
     </span>
-    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,193">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,193">
+    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,0">
         <input type="checkbox" disabled checked><label class="cblabel">w/ Feats</label>
     </span>
-    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,193">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,193">
+    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,193">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,193">
+    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,0">
         <input type="checkbox" disabled checked><label class="cblabel">w/ Feats</label>
     </span>
-    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,193">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,193">
+    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,0">
         <input type="checkbox" disabled checked><label class="cblabel">w/ Feats</label>
     </span>
-    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,193">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,193">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2025-07-19</label>
+    <span class="patronRosterItem" data-sort="102,131,53,307,309,307,307,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="102,131,53,307,309,307,307,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="102,131,53,307,309,307,307,193">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="102,131,53,307,309,307,307,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="103,139,0,309,309,307,309,275">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="103,139,0,309,309,307,309,275">
         104
