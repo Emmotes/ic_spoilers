@@ -2,7 +2,7 @@
 
 # New Campaign - Tales of the Champions
 
-A new campaign was recently added to the defines: `Tales of the Champions`. The confirmed date of release is 27 August 2025 from a [Reddit Q&A](https://www.reddit.com/r/idlechampions/comments/1lq1490/reddit_qa_258_with_exec_producer_chris/) and shown on the [Content Drops](contentdrops.md) page. This is about one-to-two months after the `Dragon Delves Anthology` book this campaign is assumedly based on.
+A new campaign was recently added to the defines: `Tales of the Champions`. The confirmed date of release is 27 August 2025 from a [Reddit Q&A](https://www.reddit.com/r/idlechampions/comments/1lq1490/reddit_qa_258_with_exec_producer_chris/) and shown on the [Content Drops](contentdrops.md) page.
 
 # Unlock Champions
 
