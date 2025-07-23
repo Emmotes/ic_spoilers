@@ -142,10 +142,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "shoot_sound": 149,
             "hit_sound": 133,
             "bonus_damage_from": {
-                "type": "seconds_of_bud",
-                "amount": 15,
-                "bud_override_upgrade_id": 17487,
-                "bud_override_index": 4
+                "type": "lazaapz_gauntlet_launcher_bud"
             },
             "force_count_for_bud": false,
             "projectile_details": {
@@ -446,7 +443,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "add_base_item_levels_to_slot,125",
             "off_when_benched": true,
             "targets": [
-                "other"
+                {
+                    "type": "distance",
+                    "distance": 6
+                }
             ],
             "slot_expr": "distance_from_source",
             "retarget_when_any_hero_slot_changed": true,
@@ -526,6 +526,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "buff_upgrade,100,17479",
             "off_when_benched": true
+        },
+        {
+            "effect_string": "i_want_stacks",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasAttackDamageType(`melee`)"
         }
     ],
     "requirements": "",
@@ -534,7 +539,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -558,6 +567,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "buff_upgrade,150,17479",
             "off_when_benched": true
+        },
+        {
+            "effect_string": "i_want_stacks",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`evil`)"
         }
     ],
     "requirements": "",
@@ -566,7 +580,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -590,6 +608,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "buff_upgrade,150,17479",
             "off_when_benched": true
+        },
+        {
+            "effect_string": "i_want_stacks",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`control`)"
         }
     ],
     "requirements": "",
@@ -598,7 +621,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -616,7 +643,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2402,
     "flavour_text": "",
     "description": {
-        "desc": "Lazaapz gains the Debuff role and increases Power Armor's max stacks by $amount___2. Lazaapz fires her gauntlet in a line each time she loses $frequency___4 Power Armor stacks. Enemies hit take $amount___5 seconds of BUD damage, gain a debuff, and are knocked back. The debuff causes enemies to take $(not_buffed amount___4)% extra damage from all sources, and stacks multiplicatively up to 5 times."
+        "desc": "Lazaapz gains the Debuff role and increases Power Armor's max stacks by $amount___2. Lazaapz fires her gauntlet in a line each time she loses $frequency___4 Power Armor stacks. Enemies hit take $seconds_of_bud___4 seconds of BUD damage, gain a debuff, and are knocked back. The debuff causes enemies to take $(not_buffed amount___4)% extra damage from all sources, and stacks multiplicatively up to 5 times."
     },
     "effect_keys": [
         {
@@ -632,6 +659,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "lazaapz_guardian,1000",
             "frequency": 25,
+            "seconds_of_bud": 15,
             "debuffing_attack_ids": [
                 890
             ],
@@ -646,9 +674,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "stacks_on_reapply": true
                 }
             ]
-        },
-        {
-            "effect_string": "launcher_bud_damage,15"
         }
     ],
     "requirements": "",
@@ -731,7 +756,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Formation
 
 <span class="formationBorder">
-    <svg xmlns="http://www.w3.org/2000/svg" id="Lazaapz" fill="#aaa" data-formationName="Lazaapz" data-campaignName="Feast of the Moon" width="378" height="160"><circle cx="215" cy="85" r="15"/><circle cx="175" cy="65" r="15"/><circle cx="175" cy="105" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="15" cy="65" r="15"/><text x="245" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Lazaapz</text><text x="245" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Feast of the Moon</text></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" id="Lazaapz" fill="#aaa" data-formationName="Lazaapz" data-campaignName="Ahghairon's Day" width="364" height="160"><circle cx="215" cy="85" r="15"/><circle cx="175" cy="65" r="15"/><circle cx="175" cy="105" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="15" cy="65" r="15"/><text x="245" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Lazaapz</text><text x="245" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Ahghairon's Day</text></svg>
 </span>
 
 [Back to Top](#top)
