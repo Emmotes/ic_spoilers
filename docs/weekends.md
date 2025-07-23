@@ -263,6 +263,178 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
             </span>
         </span>
     </span>
+    <span class="weekendTableRow">
+        <span class="weekendTableIcon">
+            <img src="images/weekends/757.png">
+            <span class="weekendTooltipContents">ID: 757**Gold Forbidden Lore Chest**Loot for: Asharra, Minsc, Tess, Baldric and Cazrin<code>"for_crusaders":[6,7,164,165,166]</code></span>
+        </span>
+        <span class="weekendTableMain">
+            <span class="weekendTableTitleRow">
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    **Forbidden Lore**
+                </span>
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    05 September 2025
+                </span>
+            </span>
+            <span class="weekendTableContentBlock">
+                <span class="weekendTableReward">
+                    <span class="weekendTableContents" style="padding-top:5px">
+                        Assumed Reward:
+                    </span>
+                    <span class="weekendTableContents">
+                        Golden Epic
+                    </span>
+                </span>
+                <span class="weekendTableChampions">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
+                        <span class="weekendTableChampionNameplate">Asharra</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
+                        <span class="weekendTableChampionNameplate">Minsc</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tess.png'">
+                        <span class="weekendTableChampionNameplate">Tess</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/baldric.png'">
+                        <span class="weekendTableChampionNameplate">Baldric</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/cazrin.png'">
+                        <span class="weekendTableChampionNameplate">Cazrin</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+    </span>
+    <span class="weekendTableRow">
+        <span class="weekendTableIcon">
+            <img src="images/weekends/758.png">
+            <span class="weekendTooltipContents">ID: 758**Gold Boldness Chest**Loot for: Makos, Jarlaxle, Briv, Widdle and Alyndra<code>"for_crusaders":[9,4,58,91,77]</code></span>
+        </span>
+        <span class="weekendTableMain">
+            <span class="weekendTableTitleRow">
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    **Brave & Bold**
+                </span>
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    12 September 2025
+                </span>
+            </span>
+            <span class="weekendTableContentBlock">
+                <span class="weekendTableReward">
+                    <span class="weekendTableContents" style="padding-top:5px">
+                        Assumed Reward:
+                    </span>
+                    <span class="weekendTableContents">
+                        Golden Epic
+                    </span>
+                </span>
+                <span class="weekendTableChampions">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
+                        <span class="weekendTableChampionNameplate">Makos</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jarlaxle.png'">
+                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/briv.png'">
+                        <span class="weekendTableChampionNameplate">Briv</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/widdle.png'">
+                        <span class="weekendTableChampionNameplate">Widdle</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/alyndra.png'">
+                        <span class="weekendTableChampionNameplate">Alyndra</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+    </span>
+    <span class="weekendTableRow">
+        <span class="weekendTableIcon">
+            <img src="images/weekends/759.png">
+            <span class="weekendTooltipContents">ID: 759**Gold Commercial Chest**Loot for: Calliope, Celeste, Diana, Hank and Bobby<code>"for_crusaders":[5,2,148,163,152]</code></span>
+        </span>
+        <span class="weekendTableMain">
+            <span class="weekendTableTitleRow">
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    **We'll Be Right Back**
+                </span>
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    19 September 2025
+                </span>
+            </span>
+            <span class="weekendTableContentBlock">
+                <span class="weekendTableReward">
+                    <span class="weekendTableContents" style="padding-top:5px">
+                        Assumed Reward:
+                    </span>
+                    <span class="weekendTableContents">
+                        Golden Epic
+                    </span>
+                </span>
+                <span class="weekendTableChampions">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
+                        <span class="weekendTableChampionNameplate">Calliope</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
+                        <span class="weekendTableChampionNameplate">Celeste</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
+                        <span class="weekendTableChampionNameplate">Diana</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hank.png'">
+                        <span class="weekendTableChampionNameplate">Hank</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bobby.png'">
+                        <span class="weekendTableChampionNameplate">Bobby</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+    </span>
+    <span class="weekendTableRow">
+        <span class="weekendTableIcon">
+            <img src="images/weekends/760.png">
+            <span class="weekendTooltipContents">ID: 760**Gold Rising Darkness Chest**Loot for: Bruenor, Tyril, Lae'zel, Karlach and Melf<code>"for_crusaders":[1,10,128,143,59]</code></span>
+        </span>
+        <span class="weekendTableMain">
+            <span class="weekendTableTitleRow">
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    **Darkness Rises**
+                </span>
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    26 September 2025
+                </span>
+            </span>
+            <span class="weekendTableContentBlock">
+                <span class="weekendTableReward">
+                    <span class="weekendTableContents" style="padding-top:5px">
+                        Assumed Reward:
+                    </span>
+                    <span class="weekendTableContents">
+                        Golden Epic
+                    </span>
+                </span>
+                <span class="weekendTableChampions">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
+                        <span class="weekendTableChampionNameplate">Bruenor</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
+                        <span class="weekendTableChampionNameplate">Tyril</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/laezel.png'">
+                        <span class="weekendTableChampionNameplate">Lae'zel</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/karlach.png'">
+                        <span class="weekendTableChampionNameplate">Karlach</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/melf.png'">
+                        <span class="weekendTableChampionNameplate">Melf</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
