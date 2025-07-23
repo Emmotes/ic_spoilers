@@ -99,7 +99,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 # Formation
 
 <span class="formationBorder">
-    <svg xmlns="http://www.w3.org/2000/svg" id="Cazrin" fill="#aaa" data-formationName="Cazrin" data-campaignName="Ahghairon's Day" width="324" height="140"><circle cx="175" cy="25" r="15"/><circle cx="175" cy="65" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Cazrin</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Ahghairon's Day</text></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" id="Cazrin" fill="#aaa" data-formationName="Cazrin" data-campaignName="Highharvestide" width="319" height="140"><circle cx="175" cy="25" r="15"/><circle cx="175" cy="65" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Cazrin</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Highharvestide</text></svg>
 </span>
 
 # Attacks
@@ -286,7 +286,10 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
                 "projectile_details": {
                     "hash": "7081d5ba41d98b53cc07844a3a0a219d",
                     "projectile_speed": 1500,
-                    "projectile_graphic_id": 27104
+                    "projectile_graphic_id": 27104,
+                    "impact_graphic_id": 27466,
+                    "smoke_graphic_id": 446,
+                    "explosion_graphic_id": 27465
                 }
             },
             "damage_frame": 8
@@ -634,10 +637,10 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 >  - 40+ Books (area 200/70+): Increase the effect of Sunny Disposition by 5% for each Book she has collected in the current adventure, stacking multiplicatively.  
 >  - 80+ Books (area 400/135+): Cazrin fires an additional Magic Missile with her base attack.   
 >  - 120+ Books (area 600/200+): When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.  
->  - 160+ Books (area 800/270+): Increase the effect of Unctuous Uggie by 17676% for each Book Cazrin has collected in the current adventure, stacking additively.  
->  - 200+ Books (area 1000/335+): Support Champions affected by Mage Armor have a 1% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.  
->  - 240+ Books (area 1200/400+): Mage Armor's damage prevention is increased to 5%.  
->  - 300+ Books (area 1500/500+): For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by 17676%, stacking multiplicatively.
+>  - 160+ Books (area 800/270+): Increase the effect of Unctuous Uggie by 1% for each Book Cazrin has collected in the current adventure, stacking additively.  
+>  - 200+ Books (area 1000/335+): Support Champions affected by Mage Armor have a 40% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.  
+>  - 240+ Books (area 1200/400+): Mage Armor's damage prevention is increased to 50%.  
+>  - 300+ Books (area 1500/500+): For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by 400%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -645,7 +648,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
     "id": 2417,
     "flavour_text": "",
     "description": {
-        "desc": "In Search of Knowledge - Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure:^^ - 10+ Books (area 50/20+): Cazrin fires an additional Magic Missile with her base attack.^^ - 40+ Books (area 200/70+): Increase the effect of Sunny Disposition by $(amount___3)% for each Book she has collected in the current adventure, stacking multiplicatively.^^ - 80+ Books (area 400/135+): Cazrin fires an additional Magic Missile with her base attack. ^^ - 120+ Books (area 600/200+): When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.^^ - 160+ Books (area 800/270+): Increase the effect of Unctuous Uggie by $(amount___6)% for each Book Cazrin has collected in the current adventure, stacking additively.^^ - 200+ Books (area 1000/335+): Support Champions affected by Mage Armor have a $(amount___7)% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.^^ - 240+ Books (area 1200/400+): Mage Armor's damage prevention is increased to $(amount_desc___8)%.^^ - 300+ Books (area 1500/500+): For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by $(amount___9)%, stacking multiplicatively."
+        "desc": "In Search of Knowledge - Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure:^^ - 10+ Books (area 50/20+): Cazrin fires an additional Magic Missile with her base attack.^^ - 40+ Books (area 200/70+): Increase the effect of Sunny Disposition by $(amount___3)% for each Book she has collected in the current adventure, stacking multiplicatively.^^ - 80+ Books (area 400/135+): Cazrin fires an additional Magic Missile with her base attack. ^^ - 120+ Books (area 600/200+): When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.^^ - 160+ Books (area 800/270+): Increase the effect of Unctuous Uggie by $(amount___7)% for each Book Cazrin has collected in the current adventure, stacking additively.^^ - 200+ Books (area 1000/335+): Support Champions affected by Mage Armor have a $(chance___8)% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.^^ - 240+ Books (area 1200/400+): Mage Armor's damage prevention is increased to $(amount_desc___9)%.^^ - 300+ Books (area 1500/500+): For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by $(amount___10)%, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -881,7 +884,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
     "id": 2420,
     "flavour_text": "",
     "description": {
-        "desc": "Whenever a boss drops a Book, Cazrin collects $amount_desc Books. The maximum number of Books she can collect during this adventure is tripled, but In Search of Knowledge's per Book damage boost to Sunny Disposition is reduced from 5% to $(amount_desc___2)%. "
+        "desc": "Whenever a boss drops a Book, Cazrin collects $amount_desc Books. The maximum number of Books she can collect during this adventure is tripled, but In Search of Knowledge's per Book damage boost to Sunny Disposition is reduced from 5% to $(amount_desc___2)%."
     },
     "effect_keys": [
         {
@@ -1088,12 +1091,16 @@ Unknown.
 > Getting to Know Cazrin: Cazrin protects herself with Mage Armor when the formation is under attack. She extends her protection to the whole formation after she recovers enough books.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![ In Shambles Icon](images/cazrin/27179.png) **Variant 3:  In Shambles** (Complete Area 175)
+![In Shambles Icon](images/cazrin/27179.png) **Variant 3: In Shambles** (Complete Area 175)
 > Cazrin starts in the formation. She can be moved but not removed.  
 > You may only use Good Champions, Champions with a Melee or Ranged attack, or Fallbacks Champions.  
 > Starting in area 11, a thrown rock hits a random Champion every second, dealing 25% of their max health in damage and stunning them for 3 seconds. This does not happen for the first 5 seconds of every area.  
 > At the start of each boss area, a Shambling Mound spawns as an additional boss. It must also be defeated to progress.  
 > Getting to Know Cazrin: Cazrin's first specialization choice determines which Champions she works best with, and her second choice determines if her Support or Damage Dealing capabilities are buffed when Uggie is assigned to her.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![The Bandit's Harvest (Cazrin) Icon](images/cazrin/1650.png) **Variant 4: The Bandit's Harvest (Cazrin)** ($timegateobjective)
+> No restrictions
 </div></div>
 
 # Other Champion Images
