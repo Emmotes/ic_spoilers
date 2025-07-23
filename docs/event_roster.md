@@ -81,6 +81,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="astarion" style="background-image:url(images/portraits/astarion.png)">Astarion (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Ceremorphosis (Prestack)</li><li>400% Generational Wealth</li><li>2400% Well Fed (Prestack)</li><li>6300% All First Specialisations</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="thellora" style="background-image:url(images/portraits/thellora.png)">Thellora (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Health</li><li>400% Paladin's Resolve</li><li>2400% Strength of the Luma</li><li>6300% All Champion Damage</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="kas" style="background-image:url(images/portraits/kas.png)">Kas (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Born Into Evil</li><li>400% Life Drain</li><li>2400% Mortal Pawns</li><li>100% Spawn of Kas (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="kingofshadows" style="background-image:url(images/general/unknown.png)">King of Shadows<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 </span>
 
 {:/nomarkdown}
