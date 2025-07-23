@@ -73,6 +73,33 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="kingofshadows.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                King of Shadows
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Construct of Lawful Evil (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Liars' Night - 1 October 2025</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Reworked Champions
@@ -121,6 +148,31 @@ A list of champions that will be seeing reworks in upcoming events.
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Highharvestide - Delayed until 10 September 2025</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="farideh.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Farideh Portrait Icon](images/farideh/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Farideh
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Tiefling Warlock of Brimstone Angels</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Liars' Night - Delayed until 08 October 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -259,6 +311,66 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
 </span>
 </div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
+## Liars' Night - 1 October 2025
+<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
+{::nomarkdown}
+<a href="kingofshadows.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                King of Shadows
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Construct of Lawful Evil (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="farideh.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Farideh Portrait Icon](images/farideh/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Farideh
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Tiefling Warlock of Brimstone Angels</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 08 October 2025</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rework ♻️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+</span>
+</div></div>
 
 {::nomarkdown}
 
@@ -270,7 +382,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Emergence 12](emergence_12.md) - 23 July 2025
 * [New Campaign: Tales of the Champions](campaign_tales.md) - 27 August 2025
 
 # Misc
