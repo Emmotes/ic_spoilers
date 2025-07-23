@@ -99,7 +99,7 @@ Baldric will be a new champion in the Ahghairon's Day event on 6 August 2025.
 # Formation
 
 <span class="formationBorder">
-    <svg xmlns="http://www.w3.org/2000/svg" id="Baldric" fill="#aaa" data-formationName="Baldric" data-campaignName="Founders' Day" width="312" height="160"><circle cx="175" cy="65" r="15"/><circle cx="175" cy="105" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Baldric</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Founders' Day</text></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" id="Baldric" fill="#aaa" data-formationName="Baldric" data-campaignName="Ahghairon's Day" width="324" height="160"><circle cx="175" cy="65" r="15"/><circle cx="175" cy="105" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Baldric</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Ahghairon's Day</text></svg>
 </span>
 
 # Attacks
@@ -1251,8 +1251,8 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Missing Lord (Baldric)** (Complete Area 50)
-> Search for the absent Open Lord of Waterdeep.
+**Unlock Adventure: Reclaiming the Past (Baldric)** (Complete Area 50)
+> Help Laeral Silverhand track down a retired Open Lord.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![High Stakes Negotiators Icon](images/baldric/26992.png) **Variant 1: High Stakes Negotiators** (Complete Area 75)
