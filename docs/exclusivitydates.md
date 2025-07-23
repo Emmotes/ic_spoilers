@@ -456,51 +456,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![EGS Giveaway Astarion's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Astarion's Champions of Renown Pack
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Rumble the Angry Flumph Familiar Icon](images/exclusivities/fam_237.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**A flumph glows faintly, reflecting its moods in its color. Crimson means anger. Beware the angry flumph!<br><img src="images/exclusivities/fam_237.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Rumble the Angry Flumph</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>10 April 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>17 April 2025</span>
-            </span>
-            <span class="postSeasonTableDateLate">
-                <span>17 July 2025 (Guess) (Late)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="e10a" onclick="exclusiveToggleContent(`e10`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -615,13 +570,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![XBox Giveaway Dungeon Master's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Dungeon Master's Champions of Renown Pack
             </span>
         </span>
-        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -660,13 +615,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Summer Spectacular Giveaway Summer Spectacular Icon](images/general/summer spectacular.png)**Summer Spectacular Giveaway** - Summer Spectacular
             </span>
         </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -715,13 +670,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Steam Giveaway Briv's Champions of Renown Pack Icon](images/general/steam.png)**Steam Giveaway** - Briv's Champions of Renown Pack
             </span>
         </span>
-        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -883,13 +838,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g5a" onclick="exclusiveToggleContent(`g5`)">
+                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![B&G's Dragon Delves DM Vault Giveaway B&G Dragon Delves Pack Icon](images/general/b&g's dragon delves dm vault.png)**B&G's Dragon Delves DM Vault Preorder Bonus** - B&G Dragon Delves Pack
             </span>
         </span>
-        <span id="g5" class="postSeasonTableRowShowHide" hidden>
+        <span id="g4" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
