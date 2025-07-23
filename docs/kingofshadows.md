@@ -75,7 +75,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Lawful Evil (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -83,7 +83,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Lawful Evil (Guess)</span>
+            <span style="margin-left:8px;">Unknown</span>
         </span>
     </span>
 </span>
