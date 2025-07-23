@@ -285,7 +285,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Phase One: The Watcher** (Guess)
 > When you complete an area with the King of Shadows leading the formation from the front, he updates his current Toughness and Brutality stacks to the completed area number. When the King of Shadows is defeated for the first time, he immediately returns to full health, his Toughness stacks no longer update, and he enters Phase Two. When the King of Shadows is defeated for the second time, he immediately returns to full health, his Brutality stacks no longer update, and he enters Phase Three. His size increases by 25% each time he enters a new phase. Other abilities grant additional buffs upon gaining these new phases.  
 >  Toughness Stacks: 25  
 >  Brutality Stacks: 25.
@@ -420,7 +420,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**The Warden** (Guess)
+**Phase Two: The Warden** (Guess)
 > After the King of Shadows enters Phase Two (see Phase One: The Watcher ability), his health is increased by 1% for each Toughness stack he collected, stacking additively. He also increases the health of all other Champions by 25% of his max health, and healing effects on all Champions are increased by 25%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -494,7 +494,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**The Warrior** (Guess)
+**Phase Three: The Warrior** (Guess)
 > After the King of Shadows enters Phase Three (see Phase One: The Watcher ability), his damage is increased by 5% for each Brutality stack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
