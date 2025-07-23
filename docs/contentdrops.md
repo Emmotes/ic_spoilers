@@ -518,13 +518,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Tales: Friendsofa Feather (Adventure)](images/contentdrop_portraits/tales_friendsofafeather_0.png)
+            ![Tales: Friends of a Feather (Adventure)](images/contentdrop_portraits/tales_friendsofafeather_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Friendsofa Feather</span>
+            <span style="margin-left: 8px;">Friends of a Feather</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Adventure</span>
@@ -532,13 +532,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Friendsofa Feather (Variant 1)](images/contentdrop_portraits/tales_friendsofafeather_1.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Friends of a Feather (Variant 1)](images/contentdrop_portraits/tales_friendsofafeather_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Friendsofa Feather</span>
+            <span style="margin-left: 8px;">Friends of a Feather</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #1</span>
@@ -546,13 +546,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Friendsofa Feather (Variant 2)](images/contentdrop_portraits/tales_friendsofafeather_2.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Friends of a Feather (Variant 2)](images/contentdrop_portraits/tales_friendsofafeather_2.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Friendsofa Feather</span>
+            <span style="margin-left: 8px;">Friends of a Feather</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #2</span>
@@ -560,13 +560,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Friendsofa Feather (Variant 3)](images/contentdrop_portraits/tales_friendsofafeather_3.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Friends of a Feather (Variant 3)](images/contentdrop_portraits/tales_friendsofafeather_3.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Friendsofa Feather</span>
+            <span style="margin-left: 8px;">Friends of a Feather</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #3</span>
