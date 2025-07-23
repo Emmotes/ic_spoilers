@@ -158,6 +158,74 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             24 Sept 2025
         </span>
     </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 285**Ebrath the Illefarn Mastiff**Guardian's Best Friend.</span></span>
+        </span>
+        <span class="skinTableName">
+            Ebrath the Illefarn Mastiff
+        </span>
+        <span class="skinTableSource">
+            King of Shadows Origin Theme Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            01 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Ausir the White Raven Portrait](images/familiars/ausirthewhiteraven.png)<span class="featTooltipContents">ID: 286**Ausir the White Raven**The bright messenger of a dark lady.<img src="images/familiars/ausirthewhiteraven.gif" alt="Ausir the White Raven Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Ausir the White Raven
+        </span>
+        <span class="skinTableSource">
+            Darklord Farideh Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            08 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 287**Umbra the Shadow Dragon**Beware her dark breath weapon - you will rise in her service after death.</span></span>
+        </span>
+        <span class="skinTableName">
+            Umbra the Shadow Dragon
+        </span>
+        <span class="skinTableSource">
+            Umbra the Shadow Dragon Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            22 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 288**Form of the Slayer**A form for Bhaal's chosen…</span></span>
+        </span>
+        <span class="skinTableName">
+            Form of the Slayer
+        </span>
+        <span class="skinTableSource">
+            Dark Urge Slayer Familiar & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            29 Oct 2025
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)

@@ -1382,23 +1382,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Ezmerelda</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Ravenloft's Rival Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1818**Ravenloft's Rival (Ezmerelda)**We will save this land by killing the devil of Ravenloft!<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's We've Trained For This, Vampire Hunter and The Devil You Know by 40%.</span><code>buff_upgrades,40,15041,15042,15043</code></span>Ravenloft's Rival
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Ezmerelda's We've Trained For This, Vampire Hunter and The Devil You Know by 40%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">12,500 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Black Viper</span>
         </span>
         <span class="featTableIcon4">

@@ -147,7 +147,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 586**Seven Heavens Lazaapz (Lazaapz)**<img src="images/skin_models/sevenheavenslazaapz.gif" alt="Seven Heavens Lazaapz Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Seven Heavens Lazaapz Portrait](images/skin_portraits/sevenheavenslazaapz.png)<span class="featTooltipContents">ID: 586**Seven Heavens Lazaapz (Lazaapz)**<img src="images/skin_models/sevenheavenslazaapz.gif" alt="Seven Heavens Lazaapz Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Seven Heavens Lazaapz
@@ -164,7 +164,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 591**Solar Scion Drizzt (Drizzt)**<img src="images/skin_models/solarsciondrizzt.gif" alt="Solar Scion Drizzt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Solar Scion Drizzt Portrait](images/skin_portraits/solarsciondrizzt.png)<span class="featTooltipContents">ID: 591**Solar Scion Drizzt (Drizzt)**<img src="images/skin_models/solarsciondrizzt.gif" alt="Solar Scion Drizzt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Solar Scion Drizzt
@@ -313,6 +313,125 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             17 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 606**Eminent Astarion (Astarion)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Eminent Astarion
+        </span>
+        <span class="skinTableSource">
+            Eminent Astarion Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            01 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 605**King of Shadows Origin (Windfall)**</span></span>
+        </span>
+        <span class="skinTableName">
+            King of Shadows Origin
+        </span>
+        <span class="skinTableSource">
+            King of Shadows Origin Theme Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            01 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 608**Darklord Farideh (Farideh)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Darklord Farideh
+        </span>
+        <span class="skinTableSource">
+            Darklord Farideh Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            08 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 609**Lord of Undeath Kas (Kas)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Lord of Undeath Kas
+        </span>
+        <span class="skinTableSource">
+            Lord of Undeath Kas Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            08 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 610**Shadowfell Ezmerelda (Ezmerelda)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Shadowfell Ezmerelda
+        </span>
+        <span class="skinTableSource">
+            Shadowfell Ezmerelda Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            08 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 612**Nightwalker Krond (Krond)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Nightwalker Krond
+        </span>
+        <span class="skinTableSource">
+            Nightwalker Krond Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            15 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Shadow-Cursed Halsin
+        </span>
+        <span class="skinTableSource">
+            Shadow-Cursed Halsin Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            29 Oct 2025
         </span>
     </span>
 </span>
