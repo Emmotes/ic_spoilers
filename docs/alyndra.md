@@ -113,7 +113,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "off_when_benched": true,
+            "effect_string": "force_allow_hero",
+            "hero_ids": [
+                78,
+                91,
+                58,
+                63,
+                51,
+                71
+            ]
         }
     ],
     "requirements": "",
