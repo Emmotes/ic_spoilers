@@ -13,9 +13,9 @@
 
 # King of Shadows
 
-The King of Shadows (originally known only as the Guardian) was a dark creature who was both born of the Illefarn empire, as well as the reason for its destruction.
+The King of Shadows is an ancient and powerful being featured in the NWN 2 official campaign. He is not a pre-existing Forgotten Realms character but one created specifically for NWN2.
 
-[Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/King_of_Shadows)
+[NWN2 Fandom Wiki](https://nwn2.fandom.com/wiki/King_of_Shadows)
 
 # Basic Information
 
@@ -35,7 +35,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Construct (Guess)</span>
+            <span style="margin-left:8px;">Outsider (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -75,7 +75,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Lawful Evil (Guess)</span>
+            <span style="margin-left:8px;">Neutral Evil (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
