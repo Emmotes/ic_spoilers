@@ -794,7 +794,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 594**Mythic Cazrin (Cazrin)**</span></span>
+            <span class="tooltipHolder">![Mythic Cazrin Skin Portrait](images/premiums/skin_594.png)<span class="itemTooltipContents">ID: 594**Mythic Cazrin (Cazrin)**<img src="images/premiums/skin_594.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1453,20 +1453,20 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Windfall Champion Unlock Portrait](images/premiums/unlock_champion_167.png)<span class="itemTooltipContents">ID: 167**Windfall (Seat 5)**<img src="images/premiums/unlock_champion_167.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Unknown Champion Unlock Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 168**King of Shadows**<img src="images/premiums/unlock_champion_168.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Windfall</span>
+            <span style="margin-left:15px">King of Shadows</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 605**King of Shadows Origin (Windfall)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 605**Guardian of Illefarn (Windfall)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">King of Shadows Origin</span>
+            <span style="margin-left:15px">Guardian of Illefarn</span>
         </span>
     </span>
     <span class="premiumsTableItem">

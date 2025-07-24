@@ -164,7 +164,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 594**Mythic Cazrin (Cazrin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mythic Cazrin Portrait](images/skin_portraits/mythiccazrin.png)<span class="featTooltipContents">ID: 594**Mythic Cazrin (Cazrin)**<img src="images/skin_models/mythiccazrin.gif" alt="Mythic Cazrin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Mythic Cazrin
@@ -283,10 +283,10 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 605**King of Shadows Origin (Windfall)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn (Windfall)**</span></span>
         </span>
         <span class="skinTableName">
-            King of Shadows Origin
+            Guardian of Illefarn
         </span>
         <span class="skinTableSource">
             King of Shadows Origin Theme Pack
