@@ -1977,7 +1977,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Lae'zel Slot 3](images/exclusivities/ge_20257.png)<span class="itemTooltipContents">ID: 3061**Token of Vlaakith (Lae'zel)**The engraving on the back reads: 'Vlaakith'ka sivim hrath krash'ht'<br><br><span style="color:var(--Flavescent)">Increases the effect of Lae'zel's Ceremorphosis ability by 275%.</span><code>buff_upgrade,275,12114</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Lae'zel Slot 3](images/exclusivities/ge_20257.png)<span class="itemTooltipContents">ID: 3061**Token of Vlaakith (Lae'zel)**The engraving on the back reads: 'Vlaakith'ka sivim hrath krash'ht'<br><br><span style="color:var(--Flavescent)">Increases the effect of Lae'zel's Ceremorphosis ability by 275%. (Prestack)</span><code>buff_upgrade,275,12114</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -2300,7 +2300,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)<span class="itemTooltipContents">ID: 3333**Lunation (Jang Sao)**All of time and space, within your imagination<br><br><span style="color:var(--Flavescent)">Increases the effect of Jang Sao's Wisdom of the Ages and Speed of Shooting Stars by 275%.</span><code>buff_upgrades,275,13261,13262</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)<span class="itemTooltipContents">ID: 3333**Lunation (Jang Sao)**All of time and space, within your imagination<br><br><span style="color:var(--Flavescent)">Increases the effect of Jang Sao's Wisdom of the Ages and Speed of Shooting Stars by 275%. (Prestack)</span><code>buff_upgrades,275,13261,13262</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -2814,7 +2814,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Shaka Slot 5](images/exclusivities/ge_10342.png)<span class="itemTooltipContents">ID: 1892**Locket of the Rivals (Shaka)**It holds an image of my family.<br><br><span style="color:var(--Flavescent)">Increases the effect of Shaka's Feast or Famine ability by 275%.</span><code>buff_upgrade,275,13418</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Shaka Slot 5](images/exclusivities/ge_10342.png)<span class="itemTooltipContents">ID: 1892**Locket of the Rivals (Shaka)**It holds an image of my family.<br><br><span style="color:var(--Flavescent)">Increases the effect of Shaka's Feast or Famine ability by 275%. (Prestack)</span><code>buff_upgrade,275,13418</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -2946,7 +2946,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Dynaheir Slot 5](images/exclusivities/ge_22299.png)<span class="itemTooltipContents">ID: 3453**Old Empires Fire Wine (Dynaheir)**The decanter is for Minsc. The glass is all I require.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dynaheir's specializations by 100%.</span><code>buff_upgrades,100,13879,13880,13881</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Dynaheir Slot 5](images/exclusivities/ge_22299.png)<span class="itemTooltipContents">ID: 3453**Old Empires Fire Wine (Dynaheir)**The decanter is for Minsc. The glass is all I require.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dynaheir's specializations by 100%. (Prestack)</span><code>buff_upgrades,100,13879,13880,13881</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
@@ -3174,7 +3174,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Aeon Slot 3](images/exclusivities/ge_23720.png)<span class="itemTooltipContents">ID: 3565**Bigby's Beneficent Bracelet (Aeon)**A recent gift from back home. Somewhere I haven't been in a long, long time.<br><br><span style="color:var(--Flavescent)">Increases the effect of Aeon's Uncover Weakness ability by 275%.</span><code>buff_upgrade,275,15197,0</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Aeon Slot 3](images/exclusivities/ge_23720.png)<span class="itemTooltipContents">ID: 3565**Bigby's Beneficent Bracelet (Aeon)**A recent gift from back home. Somewhere I haven't been in a long, long time.<br><br><span style="color:var(--Flavescent)">Increases the effect of Aeon's Uncover Weakness ability by 275%. (Prestack)</span><code>buff_upgrade,275,15197,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
