@@ -109,6 +109,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 274**Lily the Tree Frog**</span></span>
+        </span>
+        <span class="skinTableName">
+            Lily the Tree Frog
+        </span>
+        <span class="skinTableSource">
+            Founder's Pack VIII
+        </span>
+        <span class="skinTableCost">
+            3,360p
+        </span>
+        <span class="skinTableDate">
+            03 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 278**Professor Griff**The judgiest judge to ever judge.</span></span>
         </span>
         <span class="skinTableName">

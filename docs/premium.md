@@ -935,11 +935,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 274**TBD (Do not translate)**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 274**Lily the Tree Frog**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">TBD (Do not translate)</span>
+            <span style="margin-left:15px">Lily the Tree Frog</span>
         </span>
     </span>
     <span class="premiumsTableItem">
