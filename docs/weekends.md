@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/748.png">
-            <span class="weekendTooltipContents">ID: 748**Gold Corrupted Chest**Loot for: Minsc, Hew Maan, Briv, Dark Urge and Celeste<code>"for_crusaders":[7,75,58,146,2]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Vecna's Orders**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    25 July 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hewmaan.png'">
-                        <span class="weekendTableChampionNameplate">Hew Maan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/briv.png'">
-                        <span class="weekendTableChampionNameplate">Briv</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/darkurge.png'">
-                        <span class="weekendTableChampionNameplate">Dark Urge</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/749.png">
             <span class="weekendTooltipContents">ID: 749**Gold Dazzling Chest**Loot for: Asharra, Nayeli, Rust, Donaar and Egbert<code>"for_crusaders":[6,3,94,34,113]</code></span>
         </span>
