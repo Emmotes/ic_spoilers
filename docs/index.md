@@ -384,6 +384,7 @@ Miscellaneous spoilers with due dates.
 
 * [Ahghairon's Day Augments](augments_39.md) - 6 August 2025
 * [New Campaign: Tales of the Champions](campaign_tales.md) - 27 August 2025
+* Emergence 13 - 22 October 2025
 
 # Misc
 
