@@ -439,7 +439,15 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
     "id": 2413,
     "flavour_text": "",
     "description": {
-        "desc": "Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a $chance% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by $max_book_divisor, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by $(amount___2)% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by $(amount___4)%."
+        "desc": "Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a $chance% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by $max_book_divisor, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by $(amount___2)% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by $(amount___4)%.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Books Collected This Adventure: $(stat_value cazrin_books_collected_this_adventure 1 none) (max $cazrin_library_of_lore_max_books)"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -632,15 +640,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **In Search of Knowledge** (Guess)
-> In Search of Knowledge - Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure:  
->  - 10+ Books (area 50/20+): Cazrin fires an additional Magic Missile with her base attack.  
->  - 40+ Books (area 200/70+): Increase the effect of Sunny Disposition by 5% for each Book she has collected in the current adventure, stacking multiplicatively.  
->  - 80+ Books (area 400/135+): Cazrin fires an additional Magic Missile with her base attack.   
->  - 120+ Books (area 600/200+): When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.  
->  - 160+ Books (area 800/270+): Increase the effect of Unctuous Uggie by 1% for each Book Cazrin has collected in the current adventure, stacking additively.  
->  - 200+ Books (area 1000/335+): Support Champions affected by Mage Armor have a 40% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.  
->  - 240+ Books (area 1200/400+): Mage Armor's damage prevention is increased to 50%.  
->  - 300+ Books (area 1500/500+): For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by 400%, stacking multiplicatively.
+> Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -648,7 +648,15 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
     "id": 2417,
     "flavour_text": "",
     "description": {
-        "desc": "In Search of Knowledge - Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure:^^ - 10+ Books (area 50/20+): Cazrin fires an additional Magic Missile with her base attack.^^ - 40+ Books (area 200/70+): Increase the effect of Sunny Disposition by $(amount___3)% for each Book she has collected in the current adventure, stacking multiplicatively.^^ - 80+ Books (area 400/135+): Cazrin fires an additional Magic Missile with her base attack. ^^ - 120+ Books (area 600/200+): When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.^^ - 160+ Books (area 800/270+): Increase the effect of Unctuous Uggie by $(amount___7)% for each Book Cazrin has collected in the current adventure, stacking additively.^^ - 200+ Books (area 1000/335+): Support Champions affected by Mage Armor have a $(chance___8)% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.^^ - 240+ Books (area 1200/400+): Mage Armor's damage prevention is increased to $(amount_desc___9)%.^^ - 300+ Books (area 1500/500+): For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by $(amount___10)%, stacking multiplicatively."
+        "desc": "Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": ":^^ - 10+ Books: Cazrin fires an additional Magic Missile with her base attack.^^ - 40+ Books: Increase the effect of Sunny Disposition by $(amount___3)% for each Book she has collected in the current adventure, stacking multiplicatively.^^ - 80+ Books: Cazrin fires an additional Magic Missile with her base attack. ^^ - 120+ Books: When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.^^ - 160+ Books: Increase the effect of Unctuous Uggie by $(amount___7)% for each Book Cazrin has collected in the current adventure, stacking additively.^^ - 200+ Books: Support Champions affected by Mage Armor have a $(chance___8)% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.^^ - 240+ Books: Mage Armor's damage prevention is increased to $(amount_desc___9)%.^^ - 300+ Books: For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by $(amount___10)%, stacking multiplicatively."
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
