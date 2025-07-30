@@ -439,120 +439,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="e10a" onclick="exclusiveToggleContent(`e10`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Emergence 10 Icon](images/general/e10.png)**Emergence 10** - Constructs
-            </span>
-        </span>
-        <span id="e10" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Shar's Veil Feat Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<br><br><span style="color:var(--Flavescent)">Changes Hero Alignment to Lawful Evil for Shadowheart.</span><code>change_hero_alignment_tag,lawful,evil</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Shar's Veil</span>
-                        <span style="margin-left:15px">Shadowheart</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2012**Tenacious (Bobby)**Heroes never say die!<br><br><span style="color:var(--Flavescent)">Increases the Constitution score of Bobby by 2.</span><code>increase_ability_score,con,2</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Tenacious</span>
-                        <span style="margin-left:15px">Bobby</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2011**Weapon Master (Kas)**I've practiced the blade for centuries. You are nothing before me.<br><br><span style="color:var(--Flavescent)">Increases the damage of Kas by 120%.</span><code>hero_dps_multiplier_mult,120</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Weapon Master</span>
-                        <span style="margin-left:15px">Kas</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prolonged Push Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2034**Prolonged Push (Eric)**You guys handle the fighting. I'll stay back here and hold them off!<br><br><span style="color:var(--Flavescent)">Increases the duration of Eric's Keep Away ability by 80%.</span><code>buff_upgrade,80,16132,0</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Prolonged Push</span>
-                        <span style="margin-left:15px">Eric</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Modron Ellywick Skin Icon](images/exclusivities/skin_25882.png)<span class="featTooltipContents">ID: 514**Modron Ellywick (Ellywick)**<img src="images/exclusivities/skin_25888.gif" alt="Modron Ellywick Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Modron Ellywick</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Modron Vin Ursa Skin Icon](images/exclusivities/skin_25883.png)<span class="featTooltipContents">ID: 515**Modron Vin Ursa (Vin Ursa)**<img src="images/exclusivities/skin_25889.gif" alt="Modron Vin Ursa Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Modron Vin Ursa</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Xerophon Slot 1](images/exclusivities/ge_12098.png)<span class="itemTooltipContents">ID: 2500**Blade of the Ages (Xerophon)**A reminder of a time and place I've left behind. I doubt Ythyrn's dead will mind.<br><br><span style="color:var(--Flavescent)">All Champions damage +230%.</span><code>global_dps_multiplier_mult,230</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Blade of the Ages</span>
-                        <span style="margin-left:15px">Xerophon (Slot 1)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Eric Slot 2](images/exclusivities/ge_25230.png)<span class="itemTooltipContents">ID: 3729**Cavalier's Breastplate (Eric)**Not even Tiamat can melt this metal!<br><br><span style="color:var(--Flavescent)">Increases the health of Eric by 100%.</span><code>health_mult,100</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Cavalier's Breastplate</span>
-                        <span style="margin-left:15px">Eric (Slot 2)</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>22 January 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>02 May 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>02 August 2025 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -3357,6 +3243,120 @@ This is the list of recurring events that have had their exclusivity period end.
             </span>
             <span class="postSeasonTableDate">
                 <span>30 April 2025</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e10a" onclick="exclusiveToggleContent(`e10`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 10 Icon](images/general/e10.png)**Emergence 10** - Constructs
+            </span>
+        </span>
+        <span id="e10" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Shar's Veil Feat Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<br><br><span style="color:var(--Flavescent)">Changes Hero Alignment to Lawful Evil for Shadowheart.</span><code>change_hero_alignment_tag,lawful,evil</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Shar's Veil</span>
+                        <span style="margin-left:15px">Shadowheart</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2012**Tenacious (Bobby)**Heroes never say die!<br><br><span style="color:var(--Flavescent)">Increases the Constitution score of Bobby by 2.</span><code>increase_ability_score,con,2</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Tenacious</span>
+                        <span style="margin-left:15px">Bobby</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2011**Weapon Master (Kas)**I've practiced the blade for centuries. You are nothing before me.<br><br><span style="color:var(--Flavescent)">Increases the damage of Kas by 120%.</span><code>hero_dps_multiplier_mult,120</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Weapon Master</span>
+                        <span style="margin-left:15px">Kas</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prolonged Push Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2034**Prolonged Push (Eric)**You guys handle the fighting. I'll stay back here and hold them off!<br><br><span style="color:var(--Flavescent)">Increases the duration of Eric's Keep Away ability by 80%.</span><code>buff_upgrade,80,16132,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Prolonged Push</span>
+                        <span style="margin-left:15px">Eric</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Modron Ellywick Skin Icon](images/exclusivities/skin_25882.png)<span class="featTooltipContents">ID: 514**Modron Ellywick (Ellywick)**<img src="images/exclusivities/skin_25888.gif" alt="Modron Ellywick Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Modron Ellywick</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Modron Vin Ursa Skin Icon](images/exclusivities/skin_25883.png)<span class="featTooltipContents">ID: 515**Modron Vin Ursa (Vin Ursa)**<img src="images/exclusivities/skin_25889.gif" alt="Modron Vin Ursa Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Modron Vin Ursa</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Xerophon Slot 1](images/exclusivities/ge_12098.png)<span class="itemTooltipContents">ID: 2500**Blade of the Ages (Xerophon)**A reminder of a time and place I've left behind. I doubt Ythyrn's dead will mind.<br><br><span style="color:var(--Flavescent)">All Champions damage +230%.</span><code>global_dps_multiplier_mult,230</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Blade of the Ages</span>
+                        <span style="margin-left:15px">Xerophon (Slot 1)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Eric Slot 2](images/exclusivities/ge_25230.png)<span class="itemTooltipContents">ID: 3729**Cavalier's Breastplate (Eric)**Not even Tiamat can melt this metal!<br><br><span style="color:var(--Flavescent)">Increases the health of Eric by 100%.</span><code>health_mult,100</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Cavalier's Breastplate</span>
+                        <span style="margin-left:15px">Eric (Slot 2)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>22 January 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>02 May 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>30 July 2025</span>
             </span>
         </span>
     </span>
