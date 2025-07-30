@@ -114,7 +114,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Gauntlet Launcher** (Guess)
->   
+> Lazaapz blasts her armor's gauntlet through all enemies in a line, dealing BUD-based damage and knocking them away.  
 > Cooldown: 4.5s (Cap 1.125s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -122,7 +122,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "id": 890,
     "name": "Gauntlet Launcher",
-    "description": "",
+    "description": "Lazaapz blasts her armor's gauntlet through all enemies in a line, dealing BUD-based damage and knocking them away.",
     "long_description": "",
     "graphic_id": 0,
     "target": "back",
@@ -326,7 +326,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Power Armour** (Guess)
-> Lazaapz has a set of Artificer Power Armor. She starts each area with 100 stacks of Power Armor. Damage taken by Lazaapz is decreased by a percentage equal to her current Power Armor stacks, but the armor consumes 1 stack of Power Armor each time she would take damage. Can not be decreased below 0.
+> Lazaapz has a set of Artificer Power Armor. She starts each area with 1 stacks of Power Armor. Damage taken by Lazaapz is decreased by a percentage equal to her current Power Armor stacks, but the armor consumes 1 stack of Power Armor each time she would take damage. Can not be decreased below 0.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -346,15 +346,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "max_power_armour_stacks,100",
-            "show_bonus": false
-        },
-        {
             "effect_string": "damage_reduction,1",
             "manual_stacking": true
         },
         {
-            "effect_string": "lazaapz_power_armour_v2"
+            "effect_string": "lazaapz_power_armour_v2",
+            "base_max_stacks": 100
         }
     ],
     "requirements": "",
@@ -365,9 +362,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
         "retain_on_slot_changed": true,
-        "show_outgoing_desc_when_benched": false,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true
+        "show_outgoing_desc_when_benched": false
     }
 }
 </pre>
@@ -443,14 +438,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "add_base_item_levels_to_slot,125",
             "off_when_benched": true,
             "targets": [
-                {
-                    "type": "distance",
-                    "distance": 6
-                }
+                "other"
             ],
             "slot_expr": "distance_from_source",
             "retarget_when_any_hero_slot_changed": true,
-            "override_key_desc": "Increases the item level of $target's slot $target_distance_from_source equipment by $amount"
+            "override_key_desc": "$lazaapz_artificer_infusion_key_desc"
         }
     ],
     "requirements": "",
@@ -650,7 +642,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "add_hero_tags,0,debuff"
         },
         {
-            "effect_string": "buff_upgrade_add_flat_amount,25,17480,0"
+            "effect_string": "add_max_power_armour_stacks,25"
         },
         {
             "effect_string": "change_base_attack,890",
