@@ -241,7 +241,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
         "ultimate"
     ],
     "damage_types": [
-        "ultimate"
+        "ranged"
     ]
 }
 </pre>
