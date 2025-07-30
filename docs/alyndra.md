@@ -114,22 +114,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "force_allow_hero",
-            "hero_ids": [
-                78,
-                91,
-                58,
-                63,
-                51,
-                71
-            ]
+            "effect_string": "force_allow_hero_by_tag",
+            "tag": "planes"
         }
     ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "show_incoming": false
     }
 }
 </pre>
@@ -139,7 +133,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Portent** (Guess)
-> Alyndra glances into the future. The next two unique Champions to use their ultimate abilities gain the Portent buff for 40 seconds, which increases their base damage by 1000% and reduces their base attack cooldown by 0.5 sec. If an affected Champion uses their ultimate ability again before the Portent buff expires, their Portent buff duration is refreshed.
+> Alyndra glances into the future. The next 2 unique Champions to use their ultimate abilities gain the Portent buff for 40 seconds, which increases their base damage by 1000% and reduces their base attack cooldown by 0.5 sec. If an affected Champion uses their ultimate ability again before the Portent buff expires, their Portent buff duration is refreshed.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -147,7 +141,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2437,
     "flavour_text": "",
     "description": {
-        "desc": "Alyndra glances into the future. The next two unique Champions to use their ultimate abilities gain the Portent buff for $portent_time seconds, which increases their base damage by $amount% and reduces their base attack cooldown by 0.5 sec. If an affected Champion uses their ultimate ability again before the Portent buff expires, their Portent buff duration is refreshed."
+        "desc": "Alyndra glances into the future. The next $portent_number unique Champions to use their ultimate abilities gain the Portent buff for $portent_time seconds, which increases their base damage by $amount% and reduces their base attack cooldown by 0.5 sec. If an affected Champion uses their ultimate ability again before the Portent buff expires, their Portent buff duration is refreshed."
     },
     "effect_keys": [
         {
