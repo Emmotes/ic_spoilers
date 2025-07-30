@@ -158,7 +158,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the Constitution score of Diana by 2.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Anniversary</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">03 Sept 2025</span>

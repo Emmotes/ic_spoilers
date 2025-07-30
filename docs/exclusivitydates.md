@@ -884,6 +884,52 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g5a" onclick="exclusiveToggleContent(`g5`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Anniversary Giveaway 8th Anniversary Celebration Icon](images/general/anniversary.png)**Anniversary Giveaway** - 8th Anniversary Celebration
+            </span>
+        </span>
+        <span id="g5" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1774**Tenacious (Diana)**Don't count me out yet!<br><br><span style="color:var(--Flavescent)">Increases the Constitution score of Diana by 2.</span><code>increase_ability_score,con,2</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Tenacious</span>
+                        <span style="margin-left:15px">Diana</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>03 September 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>10 September 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>10 December 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="e12a" onclick="exclusiveToggleContent(`e12`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
