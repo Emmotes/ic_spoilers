@@ -4,139 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 601</div>
-### Fortune Hunter Eric Skin & Feat Pack - 1,680 Platinum  
-Date of release: 30 Jul 2025
-
-> Unlock Eric along with his exclusive Fortune Hunter Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Eric Champion Unlock Portrait](images/premiums/unlock_champion_157.png)<span class="itemTooltipContents">ID: 157**Eric (Seat 4)**<img src="images/premiums/unlock_champion_157.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Eric</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Fortune Hunter Eric Skin Portrait](images/premiums/skin_580.png)<span class="itemTooltipContents">ID: 580**Fortune Hunter Eric (Eric)**<img src="images/premiums/skin_580.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Fortune Hunter Eric</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Powerful Shove Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2035**Powerful Shove**Let's keep a safe distance. Way over there sounds perfect.<br><br><span style="color:var(--Flavescent)">Increases the knockback effect of Eric's Keep Away ability by 80%.</span><code>buff_upgrade,80,16132,1</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Powerful Shove</span>
-            <span style="margin-left:15px">Eric</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Eric Chest Chest Portrait](images/premiums/chests_647.png)<span class="itemTooltipContents">ID: 647**Platinum Eric Chest**Loot for: Eric<code>"for_crusaders":[157]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Eric Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 602</div>
-### Goldie the Sprite Familiar Pack - 1,680 Platinum  
-Date of release: 30 Jul 2025
-
-> Collect your own Goldie the Sprite Familiar!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Goldie the Sprite Familiar Portrait](images/premiums/familiar_276.png)<span class="itemTooltipContents">ID: 276**Goldie the Sprite**She valiantly defends the gold hoard of the dragon's lair in her forest.<img src="images/premiums/familiar_276.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Goldie the Sprite</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Giant's Strength Buff Portrait](images/premiums/buff_4.png)<span class="itemTooltipContents">ID: 4**Huge Potion of Giant's Strength**A transparent potion in which floats the sliver of a giant's fingernail.<code>global_dps_multiplier_mult,900</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Huge Potion of Giant's Strength</span>
-            <span style="margin-left:15px">x4</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Clairvoyance Buff Portrait](images/premiums/buff_8.png)<span class="itemTooltipContents">ID: 8**Huge Potion of Clairvoyance**Three eyeballs bob in this yellowish potion.<code>gold_multiplier_mult,400</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Huge Potion of Clairvoyance</span>
-            <span style="margin-left:15px">x4</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of Polish Buff Portrait](images/premiums/buff_36.png)<span class="itemTooltipContents">ID: 36**Potion of Polish**This shiny, silver liquid clings to the edge of the bottle in an unusual way.<code>shiny_loot,1</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Potion of Polish</span>
-            <span style="margin-left:15px">x1</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Huge Potion of Speed</span>
-            <span style="margin-left:15px">x4</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 605</div>
 ### Ascended Baldric Theme Pack - 3,830 Platinum  
 Date of release: 06 Aug 2025
@@ -774,6 +641,108 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 632</div>
+### 6x Choose Your Champion Starter Pack - $49.99  
+Date of release: 27 Aug 2025
+
+> Unlock SIX Champions of your choice with gear & Platinum Chests for them and an exclusive familiar to help you!
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: It appears that this pack will only be available for real money instead of Platinum.*
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 289**Wingston the Pigeon**Look at him strutting around!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Wingston the Pigeon</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Portrait](images/premiums/hard_currency_25106.png)<span class="itemTooltipContents">**Platinum**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Platinum**</span>
+            <span style="margin-left:15px">x3,833</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Gem Hunter Buff Portrait](images/premiums/buff_1723.png)<span class="itemTooltipContents">ID: 1723**Potion of the Gem Hunter**Increases the gem drops from bosses by 50%<code>increase_boss_gems_percent,50</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of the Gem Hunter</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Marvelous Support Pigment Buff Portrait](images/premiums/buff_1904.png)<span class="itemTooltipContents">ID: 1904**Marvelous Support Pigment**Adds a Champion-tag-based effect to an epic or higher equipment item of your choice!<code>legendary_apply_pigment,1</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Marvelous Support Pigment</span>
+            <span style="margin-left:15px">x3</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Marvelous DPS Pigment Buff Portrait](images/premiums/buff_1905.png)<span class="itemTooltipContents">ID: 1905**Marvelous DPS Pigment**Adds a Champion-tag-based effect to an epic or higher equipment item of your choice!<code>legendary_apply_pigment,2</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Marvelous DPS Pigment</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Marvelous Healing Pigment Buff Portrait](images/premiums/buff_1906.png)<span class="itemTooltipContents">ID: 1906**Marvelous Healing Pigment**Adds a Champion-tag-based effect to an epic or higher equipment item of your choice!<code>legendary_apply_pigment,3</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Marvelous Healing Pigment</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Marvelous Tanking Pigment Buff Portrait](images/premiums/buff_1907.png)<span class="itemTooltipContents">ID: 1907**Marvelous Tanking Pigment**Adds a Champion-tag-based effect to an epic or higher equipment item of your choice!<code>legendary_apply_pigment,4</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Marvelous Tanking Pigment</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Scroll of Champion Summoning Buff Portrait](images/premiums/buff_2143.png)<span class="itemTooltipContents">ID: 2143**Scroll of Champion Summoning**Using this scroll allows you to unlock any Event Champion. For that Champion, you will collect full uncommon gear, 6 Platinum Chests, and a Golden Epic if you haven't already collected it!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Scroll of Champion Summoning</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Gems Portrait](images/premiums/award_gems_707.png)<span class="itemTooltipContents">**Gems**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Gems**</span>
+            <span style="margin-left:15px">x50,000</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 586</div>
 ### Mythic Cazrin Theme Pack - 3,830 Platinum  
 Date of release: 03 Sept 2025
@@ -803,7 +772,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 284**Keeper the Spellbook**Little secret keepers.</span></span>
+            <span class="tooltipHolder">![Keeper the Spellbook Familiar Portrait](images/premiums/familiar_284.png)<span class="itemTooltipContents">ID: 284**Keeper the Spellbook**Little secret keepers.<img src="images/premiums/familiar_284.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -872,11 +841,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2227**TBD Bobby Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Master's Precision Feat Portrait](images/featicons/critchanceincrease.png)<span class="itemTooltipContents">ID: 2227**Master's Precision**You wanna guess how many baddies I've bashed with this club?<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Bobby by 20%.</span><code>buff_base_crit_chance_add,20</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Bobby Feat (Do not translate)</span>
+            <span style="margin-left:15px">Master's Precision</span>
             <span style="margin-left:15px">Bobby</span>
         </span>
     </span>
@@ -915,10 +884,12 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 603</div>
-### Founder's Pack VIII - 3,360 Platinum  
+### Founder's Pack VIII - $29.99  
 Date of release: 03 Sept 2025
 
 > Get an INCREDIBLE deal to gear up and start your adventures in the Forgotten Realms quickly!
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: It appears that this pack will only be available for real money instead of Platinum.*
 
 Contents:
 
@@ -935,7 +906,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 274**Lily the Tree Frog**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 274**Lily the Tree Frog**She's just hopping around.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -959,7 +930,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Buff**</span>
             <span style="margin-left:15px">Huge Potion of Giant's Strength</span>
-            <span style="margin-left:15px">x2</span>
+            <span style="margin-left:15px">x10</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -969,7 +940,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Buff**</span>
             <span style="margin-left:15px">Huge Potion of Clairvoyance</span>
-            <span style="margin-left:15px">x2</span>
+            <span style="margin-left:15px">x10</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -979,7 +950,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Buff**</span>
             <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x2</span>
+            <span style="margin-left:15px">x10</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -989,7 +960,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Buff**</span>
             <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x2</span>
+            <span style="margin-left:15px">x10</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -999,7 +970,17 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Buff**</span>
             <span style="margin-left:15px">Huge Potion of Fire Breath</span>
-            <span style="margin-left:15px">x2</span>
+            <span style="margin-left:15px">x10</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x10</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1009,7 +990,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Buff**</span>
             <span style="margin-left:15px">Potion of the Gem Hunter</span>
-            <span style="margin-left:15px">x1</span>
+            <span style="margin-left:15px">x3</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1019,7 +1000,7 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Buff**</span>
             <span style="margin-left:15px">Epic Golden Potion</span>
-            <span style="margin-left:15px">x1</span>
+            <span style="margin-left:15px">x2</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1028,7 +1009,16 @@ Contents:
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Gems**</span>
-            <span style="margin-left:15px">x5,000</span>
+            <span style="margin-left:15px">x50,000</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Portrait](images/premiums/hard_currency_25106.png)<span class="itemTooltipContents">**Platinum**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Platinum**</span>
+            <span style="margin-left:15px">x2,600</span>
         </span>
     </span>
 </span>
@@ -1133,11 +1123,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2009**TBD Torogar Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Primal Rage Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2009**Primal Rage**I am a conqueror, in her unholy name.<br><br><span style="color:var(--Flavescent)">Increases the effect of Torogar's Preach ability by 80%.</span><code>buff_upgrade,80,4489</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Torogar Feat (Do not translate)</span>
+            <span style="margin-left:15px">Primal Rage</span>
             <span style="margin-left:15px">Torogar</span>
         </span>
     </span>
@@ -1204,11 +1194,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2260**TBD Certainty Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Angel Investor Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2260**Angel Investor**Good enough. I believe in your potential.<br><br><span style="color:var(--Flavescent)">Increases the effect of Certainty's Employee Evaluations ability by 80%.</span><code>buff_upgrade,80,12509</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Certainty Feat (Do not translate)</span>
+            <span style="margin-left:15px">Angel Investor</span>
             <span style="margin-left:15px">Certainty</span>
         </span>
     </span>
@@ -1275,11 +1265,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2261**TBD Wulfgar Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Master's Precision Feat Portrait](images/featicons/critchanceincrease.png)<span class="itemTooltipContents">ID: 1330**Master's Precision**Rage will fuel my warhammer!<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Wulfgar by 20%.</span><code>buff_base_crit_chance_add,20</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Wulfgar Feat (Do not translate)</span>
+            <span style="margin-left:15px">Master's Precision</span>
             <span style="margin-left:15px">Wulfgar</span>
         </span>
     </span>
@@ -1346,11 +1336,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2262**TBD D'hani Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Verdure Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 1617**Vicious Verdure**Imagine a dark green. Now, darker. Darker. Keep going.<br><br><span style="color:var(--Flavescent)">Increase the AOE damage dealt by Stroke of Green by 80%.</span><code>buff_upgrade,80,13714,1</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD D'hani Feat (Do not translate)</span>
+            <span style="margin-left:15px">Vicious Verdure</span>
             <span style="margin-left:15px">D'hani</span>
         </span>
     </span>
@@ -1489,12 +1479,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2317**Feat**???: 2317</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">???: 2317</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1550,11 +1539,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2296**TBD Astarion Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Exquisite Taste Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2296**Exquisite Taste**Straight from the neck is preferred, but goblets are used in mortal company.<br><br><span style="color:var(--Flavescent)">Increases the effect of Astarion's Well Fed ability by 80%. (Prestack)</span><code>buff_upgrade,80,12491</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Astarion Feat (Do not translate)</span>
+            <span style="margin-left:15px">Exquisite Taste</span>
             <span style="margin-left:15px">Astarion</span>
         </span>
     </span>
@@ -1691,11 +1680,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2298**TBD Kas Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Federates Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2298**Federates**Only a handful of mortals may say that they've earned my esteem.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kas' Mortal Pawns ability by 80%.</span><code>buff_upgrade,80,15620,2</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Kas Feat (Do not translate)</span>
+            <span style="margin-left:15px">Federates</span>
             <span style="margin-left:15px">Kas</span>
         </span>
     </span>
@@ -1762,11 +1751,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2299**TBD Ezmerelda Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Lethal Study Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2299**Lethal Study**Every creature has a weak spot. Watch and learn.<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's Training Montage ability by 80%. (Prestack)</span><code>buff_upgrade,80,15037,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Ezmerelda Feat (Do not translate)</span>
+            <span style="margin-left:15px">Lethal Study</span>
             <span style="margin-left:15px">Ezmerelda</span>
         </span>
     </span>
@@ -1833,11 +1822,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2301**TBD Krond Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Kindred Spirits Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2301**Kindred Spirits**Whatever our cause, we fight for it together.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,17237,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Krond Feat (Do not translate)</span>
+            <span style="margin-left:15px">Kindred Spirits</span>
             <span style="margin-left:15px">Krond</span>
         </span>
     </span>
@@ -1966,11 +1955,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2302**TBD Halsin Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 2302**Prodigal Leader**Even those who defile nature inevitably return to it, in the end.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Halsin Feat (Do not translate)</span>
+            <span style="margin-left:15px">Prodigal Leader</span>
             <span style="margin-left:15px">Halsin</span>
         </span>
     </span>
@@ -2028,11 +2017,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2303**TBD The Dark Urge Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Blood Moon Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2303**Blood Moon**Time for the final act.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dark Urge's The Urge ability by 80%.</span><code>buff_upgrade,80,14379</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD The Dark Urge Feat (Do not translate)</span>
+            <span style="margin-left:15px">Blood Moon</span>
             <span style="margin-left:15px">Dark Urge</span>
         </span>
     </span>

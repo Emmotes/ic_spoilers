@@ -11,23 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Fortune Hunter Eric Portrait](images/skin_portraits/fortunehuntereric.png)<span class="featTooltipContents">ID: 580**Fortune Hunter Eric (Eric)**<img src="images/skin_models/fortunehuntereric.gif" alt="Fortune Hunter Eric Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Fortune Hunter Eric
-        </span>
-        <span class="skinTableSource">
-            Fortune Hunter Eric Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            30 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Ascended Baldric Portrait](images/skin_portraits/ascendedbaldric.png)<span class="featTooltipContents">ID: 585**Ascended Baldric (Baldric)**<img src="images/skin_models/ascendedbaldric.gif" alt="Ascended Baldric Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -109,6 +92,40 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             13 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empyrean Ezmerelda Portrait](images/skin_portraits/empyreanezmerelda.png)<span class="featTooltipContents">ID: 593**Empyrean Ezmerelda (Ezmerelda)**<img src="images/skin_models/empyreanezmerelda.gif" alt="Empyrean Ezmerelda Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Empyrean Ezmerelda
+        </span>
+        <span class="skinTableSource">
+            Adventure: ???: 1820
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            27 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Solar Scion Catti-brie Portrait](images/skin_portraits/solarscioncattibrie.png)<span class="featTooltipContents">ID: 592**Solar Scion Catti-brie (Catti-brie)**<img src="images/skin_models/solarscioncattibrie.gif" alt="Solar Scion Catti-brie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Solar Scion Catti-brie
+        </span>
+        <span class="skinTableSource">
+            Adventure: ???: 1825
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            27 Aug 2025
         </span>
     </span>
     <span class="skinTableRow">

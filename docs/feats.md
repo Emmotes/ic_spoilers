@@ -30,23 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Eric</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Powerful Shove Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2035**Powerful Shove (Eric)**Let's keep a safe distance. Way over there sounds perfect.<br><br><span style="color:var(--Flavescent)">Increases the knockback effect of Eric's Keep Away ability by 80%.</span><code>buff_upgrade,80,16132,1</code></span>Powerful Shove
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the knockback effect of Eric's Keep Away ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">30 Jul 2025<br>30 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Ishi</span>
         </span>
         <span class="featTableIcon4">
@@ -166,10 +149,112 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1774**Tenacious (Diana)**Don't count me out yet!<br><br><span style="color:var(--Flavescent)">Increases the Constitution score of Diana by 2.</span><code>increase_ability_score,con,2</code></span>Tenacious
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Constitution score of Diana by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2227**Master's Precision (Bobby)**You wanna guess how many baddies I've bashed with this club?<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Bobby by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Additively increases the Crit Chance of Bobby by 20%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Sept 2025<br>03 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Torogar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Primal Rage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2009**Primal Rage (Torogar)**I am a conqueror, in her unholy name.<br><br><span style="color:var(--Flavescent)">Increases the effect of Torogar's Preach ability by 80%.</span><code>buff_upgrade,80,4489</code></span>Primal Rage
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Torogar's Preach ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">10 Sept 2025<br>10 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Certainty</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Angel Investor Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2260**Angel Investor (Certainty)**Good enough. I believe in your potential.<br><br><span style="color:var(--Flavescent)">Increases the effect of Certainty's Employee Evaluations ability by 80%.</span><code>buff_upgrade,80,12509</code></span>Angel Investor
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Certainty's Employee Evaluations ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">10 Sept 2025<br>10 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Wulfgar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1330**Master's Precision (Wulfgar)**Rage will fuel my warhammer!<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Wulfgar by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Additively increases the Crit Chance of Wulfgar by 20%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">17 Sept 2025<br>17 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">D'hani</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vicious Verdure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1617**Vicious Verdure (D'hani)**Imagine a dark green. Now, darker. Darker. Keep going.<br><br><span style="color:var(--Flavescent)">Increase the AOE damage dealt by Stroke of Green by 80%.</span><code>buff_upgrade,80,13714,1</code></span>Vicious Verdure
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increase the AOE damage dealt by Stroke of Green by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">17 Sept 2025<br>17 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Melf</span>
         </span>
         <span class="featTableIcon4">
-            ![Heroic Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2295**Heroic Legacy (Melf)**With every step, every breath, I strive to create a better world for all.</span>Heroic Legacy
+            ![Heroic Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2295**Heroic Legacy (Melf)**With every step, every breath, I strive to create a better world for all.<code>todo<br>DevNote: Buff All Specs (Epic) - new effect... tech to do</code></span>Heroic Legacy
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -196,6 +281,261 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">24 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Astarion</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Exquisite Taste Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2296**Exquisite Taste (Astarion)**Straight from the neck is preferred, but goblets are used in mortal company.<br><br><span style="color:var(--Flavescent)">Increases the effect of Astarion's Well Fed ability by 80%. (Prestack)</span><code>buff_upgrade,80,12491</code></span>Exquisite Taste
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Astarion's Well Fed ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2025<br>01 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Thellora</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Stampede Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2297**Stampede (Thellora)**Altogether now! The bards shall sing of our charge!<br><br><span style="color:var(--Flavescent)">Increases the effect of Thellora's Defender of the Meek, Vanguard of the Quick and Callessa's Blessed by 80%. (Prestack)</span><code>buff_upgrades,80,12982,12983,12984</code></span>Stampede
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Thellora's Defender of the Meek, Vanguard of the Quick and Callessa's Blessed by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2025<br>01 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Ezmerelda</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Lethal Study Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2299**Lethal Study (Ezmerelda)**Every creature has a weak spot. Watch and learn.<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's Training Montage ability by 80%. (Prestack)</span><code>buff_upgrade,80,15037,0</code></span>Lethal Study
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Ezmerelda's Training Montage ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">08 Oct 2025<br>08 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kas</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Federates Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2298**Federates (Kas)**Only a handful of mortals may say that they've earned my esteem.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kas' Mortal Pawns ability by 80%.</span><code>buff_upgrade,80,15620,2</code></span>Federates
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Kas' Mortal Pawns ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">08 Oct 2025<br>08 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Avren</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2300**Multiversal Allies (Avren)**I've got friends in weird places.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Oct 2025<br>15 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Krond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Kindred Spirits Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2301**Kindred Spirits (Krond)**Whatever our cause, we fight for it together.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,17237,0</code></span>Kindred Spirits
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Oct 2025<br>15 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Dynaheir</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Hathran Command Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2304**Hathran Command (Dynaheir)**Do as I bid, and my power shall be thine.<code>todo<br>DevNote: Buff Spec 1/Circle Magic CON increase - new effect... tech to do</code></span>Hathran Command
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Shandie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tabaxi Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 2261**Tabaxi Glitch (Shandie)**I don't have friends. I've got clowder.<code>todo<br>DevNote: Shandie counts as a Tabaxi and increase the effect of Agile Allies by 20% for each unique race in the formation, stacking additively.</code></span>Tabaxi Glitch
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kalix</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Death's Shadow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2262**Death's Shadow (Kalix)**I am their end. I am inevitable.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kalix's Chameleon Carapace ability by 80%.</span><code>buff_upgrade,80,16519,0</code></span>Death's Shadow
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Kalix's Chameleon Carapace ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Tess</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tess Family Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2327**Tess Family (Tess)**We'll always be together, won't we, girl?<br><br><span style="color:var(--Flavescent)">Increases the effect of Tess's Unleash Uggie ability by 80%.</span><code>buff_upgrade,80,17317</code></span>Tess Family
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Tess's Unleash Uggie ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Strongheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![One for All Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2305**One for All (Strongheart)**To save people - no matter the cost - is what makes someone a hero!<br><br><span style="color:var(--Flavescent)">Increases the effect of Strongheart's Courage to Stand ability by 80%.</span><code>buff_upgrade,80,11738</code></span>One for All
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Strongheart's Courage to Stand ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Strongheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2306**Resolute (Strongheart)**My courage shall never waver!<code>todo<br>DevNote: Stun Immunity - new effect... tech to do</code></span>Resolute
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Blooshi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guardian of the Feywild Icon](images/featicons/shrivelledhand3.png)<span class="featTooltipContents">ID: 2329**Guardian of the Feywild (Blooshi)**I'm back home! And I'm, like, WAY more powerful now! Check this out!<code>todo<br>DevNote: Blooshi may be used in any The Wild Beyond the Witchlight adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict her.</code></span>Guardian of the Feywild
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Halsin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2302**Prodigal Leader (Halsin)**Even those who defile nature inevitably return to it, in the end.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Oct 2025<br>29 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Dark Urge</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Blood Moon Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2303**Blood Moon (Dark Urge)**Time for the final act.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dark Urge's The Urge ability by 80%.</span><code>buff_upgrade,80,14379</code></span>Blood Moon
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Dark Urge's The Urge ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Oct 2025<br>29 Jan 2026</span>
         </span>
     </span>
 </span>
@@ -229,23 +569,6 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Diana</span>
         </span>
         <span class="featTableIcon4">
-            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1774**Tenacious (Diana)**Don't count me out yet!<br><br><span style="color:var(--Flavescent)">Increases the Constitution score of Diana by 2.</span><code>increase_ability_score,con,2</code></span>Tenacious
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the Constitution score of Diana by 2.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2030</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Diana</span>
-        </span>
-        <span class="featTableIcon4">
             ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1776**Entertainer (Diana)**Sure, Presto can do ACTUAL magic; but go ahead, pick a card.<br><br><span style="color:var(--Flavescent)">Increases the Charisma score of Diana by 2.</span><code>increase_ability_score,cha,2</code></span>Entertainer
         </span>
         <span class="featTableEffect">
@@ -267,23 +590,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increase the gold gained from Splash of Yellow by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Nov 2030</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">D'hani</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Buff Green AOE damage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1617**Buff Green AOE damage (D'hani)**<br><br><span style="color:var(--Flavescent)">Increase the AOE damage dealt by Stroke of Green by 80%.</span><code>buff_upgrade,80,13714,1</code></span>Buff Green AOE damage
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increase the AOE damage dealt by Stroke of Green by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
@@ -590,23 +896,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the number of columns buffed by All Hands On Deck! by additionally targeting the column second from the back.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Wulfgar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1330**Master's Precision (Wulfgar)**Rage will fuel my warhammer!<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Wulfgar by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Additively increases the Crit Chance of Wulfgar by 20%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

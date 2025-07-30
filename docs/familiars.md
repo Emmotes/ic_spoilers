@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Goldie the Sprite Portrait](images/familiars/goldiethesprite.png)<span class="featTooltipContents">ID: 276**Goldie the Sprite**She valiantly defends the gold hoard of the dragon's lair in her forest.<img src="images/familiars/goldiethesprite.gif" alt="Goldie the Sprite Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Goldie the Sprite
-        </span>
-        <span class="skinTableSource">
-            Goldie the Sprite Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            30 Jul 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Quandary the Sphinx of Wonder Portrait](images/familiars/quandarythesphinxofwonder.png)<span class="featTooltipContents">ID: 280**Quandary the Sphinx of Wonder**Mystifying even to themselves.<img src="images/familiars/quandarythesphinxofwonder.gif" alt="Quandary the Sphinx of Wonder Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -92,7 +75,24 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 284**Keeper the Spellbook**Little secret keepers.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 289**Wingston the Pigeon**Look at him strutting around!</span></span>
+        </span>
+        <span class="skinTableName">
+            Wingston the Pigeon
+        </span>
+        <span class="skinTableSource">
+            6x Choose Your Champion Starter Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            27 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Keeper the Spellbook Portrait](images/familiars/keeperthespellbook.png)<span class="featTooltipContents">ID: 284**Keeper the Spellbook**Little secret keepers.<img src="images/familiars/keeperthespellbook.gif" alt="Keeper the Spellbook Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Keeper the Spellbook
@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 274**Lily the Tree Frog**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 274**Lily the Tree Frog**She's just hopping around.</span></span>
         </span>
         <span class="skinTableName">
             Lily the Tree Frog
@@ -118,7 +118,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Founder's Pack VIII
         </span>
         <span class="skinTableCost">
-            3,360p
+            0p
         </span>
         <span class="skinTableDate">
             03 Sept 2025
