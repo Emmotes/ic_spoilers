@@ -366,7 +366,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2435,
     "flavour_text": "",
     "description": {
-        "desc": "Doubles Griff's chance to judge enemies as unworthy with Brows of Judgement, increases the buff by $amount%, and when changing areas, half of the stacks persist."
+        "desc": "Doubles Griff's chance to judge enemies as unworthy with Brows of Judgement, increases the buff by $amount___2%, and when changing areas, half of the stacks persist."
     },
     "effect_keys": [
         {
