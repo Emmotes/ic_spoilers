@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/749.png">
-            <span class="weekendTooltipContents">ID: 749**Gold Dazzling Chest**Loot for: Asharra, Nayeli, Rust, Donaar and Egbert<code>"for_crusaders":[6,3,94,34,113]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Dazzling**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    01 August 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/rust.png'">
-                        <span class="weekendTableChampionNameplate">Rust</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/donaar.png'">
-                        <span class="weekendTableChampionNameplate">Donaar</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/egbert.png'">
-                        <span class="weekendTableChampionNameplate">Egbert</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/751.png">
             <span class="weekendTooltipContents">ID: 751**Gold Amulet Encrusted Chest**Loot for: Celeste, Jarlaxle, Hank, Strongheart and Baldric<code>"for_crusaders":[2,4,163,126,165]</code></span>
         </span>
