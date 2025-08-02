@@ -283,16 +283,16 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 606**Eminent Astarion (Astarion)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn King of Shadows (King of Shadows)**</span></span>
         </span>
         <span class="skinTableName">
-            Eminent Astarion
+            Guardian of Illefarn King of Shadows
         </span>
         <span class="skinTableSource">
-            Eminent Astarion Skin & Feat Pack
+            King of Shadows Origin Theme Pack
         </span>
         <span class="skinTableCost">
-            1,680p
+            0p
         </span>
         <span class="skinTableDate">
             01 Oct 2025
@@ -300,16 +300,16 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn (King of Shadows)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 606**Raven Queen Astarion (Astarion)**</span></span>
         </span>
         <span class="skinTableName">
-            Guardian of Illefarn
+            Raven Queen Astarion
         </span>
         <span class="skinTableSource">
-            King of Shadows Origin Theme Pack
+            Raven Queen Astarion Skin & Feat Pack
         </span>
         <span class="skinTableCost">
-            0p
+            1,680p
         </span>
         <span class="skinTableDate">
             01 Oct 2025

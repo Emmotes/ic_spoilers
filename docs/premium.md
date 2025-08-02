@@ -1452,11 +1452,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 605**Guardian of Illefarn (King of Shadows)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 605**Guardian of Illefarn King of Shadows (King of Shadows)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Guardian of Illefarn</span>
+            <span style="margin-left:15px">Guardian of Illefarn King of Shadows</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1511,10 +1511,10 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 622</div>
-### Eminent Astarion Skin & Feat Pack - 1,680 Platinum  
+### Raven Queen Astarion Skin & Feat Pack - 1,680 Platinum  
 Date of release: 01 Oct 2025
 
-> Unlock Astarion along with his exclusive Eminent Skin & Feat!
+> Unlock Astarion along with his exclusive Raven Queen Skin & Feat!
 
 Contents:
 
@@ -1530,11 +1530,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 606**Eminent Astarion (Astarion)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 606**Raven Queen Astarion (Astarion)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Eminent Astarion</span>
+            <span style="margin-left:15px">Raven Queen Astarion</span>
         </span>
     </span>
     <span class="premiumsTableItem">
