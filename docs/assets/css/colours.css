@@ -1,31 +1,76 @@
-
 :root {
 	/* colour names from: https://www.color-name.com/ */
 	/* or https://colors.artyclick.com/color-name-finder/ */
 	/* or https://chir.ag/projects/name-that-color/ */
 	/* or https://colornamer.robertcooper.me/ */
 	--AlienArmpit: #7BDF00;
+	--Arsenic: #434343;
 	--Black: #000000;
+	--Blackout: #222222;
 	--Boulder: #767676;
 	--Bouquet: #AA7594;
+	--CarminePink: #EE2B2B;
+	--Carrot: #FF8929;
 	--Cascara: #F04735;
+	--Charade: #1c1c26;
+	--ChineseBlack: #121217;
+	--Chocolate: #330000;
 	--CodGrey: #1A1A1A;
 	--Concrete: #F2F2F2;
+	--CrystalBell: #EFEFEF;
+	--DarkGunmetal: #22222E;
+	--DrWhite: #FAFAFA;
+	--Eagle: #BBBBAA;
 	--EerieBlack: #1c1c1c;
 	--Eggshell: #F0E7D5;
+	--Emperor: #555555;
+	--Fire: #AA4400;
 	--Flavescent: #FFEB9B;
+	--GordonsGreen: #0B1509;
+	--GoshawkGrey: #444444;
+	--Gunmetal: #2D2D3D;
+	--Gunpowder: #3B3B50;
 	--HeavyMetal: #181918;
+	--HunterGreen: #0F4900;
+	--LanguidLavender: #D7CDD9;
 	--Lead: #202020;
+	--Licorice: #150915;
+	--MamaAfrica: #551111;
 	--Maroon: #770000;
+	--Marshland: #020402;
+	--MeskiBlack: #200F1E;
+	--MidnightMoss: #060B05;
+	--MountbattenPink: #8E7895;
 	--Nero: #252525;
 	--OffBlack: #313131;
+	--OldMauve: #592940;
 	--Onyx: #101010;
+	--PastelGreen: #70E065;
+	--PurpleSky: #60537E;
+	--RavensCoat: #040204;
+	--RedOrange: #FF3333;
+	--RedOxide: #720000;
+	--RiverStyx: #191921;
 	--Saffron: #FBBA37;
+	--Sand: #F0C080;
+	--ScreaminGreen: #55FF55;
+	--SentimentalPink: #F6EDF8;
+	--Shark: #1F212A;
+	--ShipGrey: #38384A;
 	--Silver: #CCCCCC;
+	--Soap: #DDCCEE;
 	--Sooty: #141414;
+	--Spangle: #E3DAE5;
+	--SuperSilver: #EEEEEE;
 	--TangerineYellow: #FFCC00;
+	--ThamarBlack: #191919;
+	--TheEnd: #2A2A2A;
+	--ToxicGreen: #53E236;
 	--UltramarineBlue: #2955FF;
+	--VampireBlack: #0B050B;
 	--Violet: #8408EF;
+	--White: #FFFFFF;
 	--WhitecapFoam: #DEE3DE;
 	--Wolfram: #B6B6B6;
+	--Woodsmoke: #0B0B0E;
 }

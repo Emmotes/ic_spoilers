@@ -48,11 +48,11 @@ code{
 	flex-wrap: nowrap;
 	margin: 2px;
 	background-color: var(--Onyx);
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	text-wrap: pretty;
 }
 .featTableRowHeader {
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	font-size: 1.1em;
 }
 .featTableRow:hover {
@@ -67,7 +67,7 @@ code{
 .featTableChampion {
 	width: 92px;
 	padding-left: 8px;
-	border-right: 1px solid black;
+	border-right: 1px solid var(--Black);
 	background-color: var(--EerieBlack);
 }
 .featTableSource {
@@ -78,7 +78,7 @@ code{
 	width: 82px;
 	padding-right: 8px;
 	justify-content: flex-end;
-	border-left: 1px solid black;
+	border-left: 1px solid var(--Black);
 	background-color: var(--EerieBlack);
 }
 .featTableEffect {
@@ -86,8 +86,8 @@ code{
 	align-items: center;
 	width: 300px;
 	background-color: var(--EerieBlack);
-	border-left: 1px solid black;
-	border-right: 1px solid black;
+	border-left: 1px solid var(--Black);
+	border-right: 1px solid var(--Black);
 	padding: 0 8px;
 }
 .featTableInner {
@@ -129,7 +129,7 @@ code{
 .featTooltipContents {
 	visibility: hidden;
 	padding: 15px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--Sooty);
 	width: max-content;
 	max-width: 600px;
@@ -150,7 +150,7 @@ code{
 .itemTooltipContents code,.featTooltipContents code {
 	margin-top: 10px;
 	font-size: 0.9em;
-	color: white;
+	color: var(--White);
 	padding: 5px;
 }
 .skinTableColumn {
@@ -174,10 +174,10 @@ code{
 	height: max-content;
 	margin: 2px;
 	background-color: var(--Onyx);
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 }
 .skinTableRowHeader {
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	font-size: 1.1em;
 }
 .skinTableRow:hover {
@@ -220,8 +220,8 @@ code{
 	padding: 0 8px;
 	text-wrap: pretty;
 	background-color: var(--EerieBlack);
-	border-left: 1px solid black;
-	border-right: 1px solid black;
+	border-left: 1px solid var(--Black);
+	border-right: 1px solid var(--Black);
 }
 .skinTableCost,.skinTableDate {
 	display: flex;
@@ -232,12 +232,12 @@ code{
 }
 .skinTableDate {
 	background-color: var(--EerieBlack);
-	border-left: 1px solid black;
+	border-left: 1px solid var(--Black);
 	width: 90px;
 }
 .abilityBorder {
 	background-color: var(--CodGrey);
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	max-width: 848px;
 	min-width: 348px;
 	margin: 4px;
@@ -265,7 +265,7 @@ code{
 	margin: 5px;
 	padding-right: 5px;
 	box-shadow: none;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	border-radius: 0px;
 	background-color: var(--Lead);
 	text-wrap: auto;
@@ -286,10 +286,10 @@ code{
 	height: min-content;
 	margin: 2px;
 	background-color: var(--Onyx);
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 }
 .itemTableRowHeader {
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	font-size: 1.1em;
 	min-height: 44px;
 }
@@ -314,8 +314,8 @@ code{
 	align-items: center;
 	width: 40px;
 	background-color: var(--EerieBlack);
-	border-left: 1px solid black;
-	border-right: 1px solid black;
+	border-left: 1px solid var(--Black);
+	border-right: 1px solid var(--Black);
 }
 .itemTableName,.itemTableType,.itemTableNameSmall,.itemTableEffect {
 	display: flex;
@@ -329,13 +329,13 @@ code{
 }
 .itemTableNameSmall {
 	background-color: var(--EerieBlack);
-	border-left: 1px solid black;
+	border-left: 1px solid var(--Black);
 	margin-left: 0px;
 	padding-left: 8px;
 }
 .itemTableEffect {
 	background-color: var(--EerieBlack);
-	border-left: 1px solid black;
+	border-left: 1px solid var(--Black);
 	width: 326px;
 	padding: 0 8px;
 }
@@ -379,7 +379,7 @@ code{
 .itemTooltipContents {
 	visibility: hidden;
 	padding: 15px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--Sooty);
 	width: max-content;
 	max-width: 500px;
@@ -416,7 +416,7 @@ code{
 	align-items: center;
 	height: 25px;
 	background-color: var(--Onyx);
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	margin: 2px;
 }
 .champStatsTableInfoHeader {
@@ -436,10 +436,10 @@ code{
 	height: 100%;
 	margin: 0px;
 	background-color: var(--EerieBlack);
-	border-left: 1px solid black;
+	border-left: 1px solid var(--Black);
 }
 .champStatsTableInfo {
-	border-right: 1px solid black;
+	border-right: 1px solid var(--Black);
 }
 .champStatsTableStatHeader,.champStatsTableStats,.champStatsTableStatsHeader,.champStatsTableTrials,.champStatsTableTrialsHeader,.champStatsTablePatrons,.champStatsTablePatronsHeader {
 	display: flex;
@@ -459,8 +459,8 @@ code{
 .champStatsTableStats,.champStatsTableStatsHeader {
 	width: 90px;
 	background-color: var(--EerieBlack);
-	border-left: 1px solid black;
-	border-right: 1px solid black;
+	border-left: 1px solid var(--Black);
+	border-right: 1px solid var(--Black);
 }
 .champStatsTableTrials,.champStatsTableTrialsHeader {
 	width: 115px;
@@ -468,7 +468,7 @@ code{
 .champStatsTablePatrons,.champStatsTablePatronsHeader {
 	width: 115px;
 	background-color: var(--EerieBlack);
-	border-left: 1px solid black;
+	border-left: 1px solid var(--Black);
 }
 .indexChampionTableColumn {
 	display: flex;
@@ -484,7 +484,7 @@ code{
 	flex-direction: row;
 	justify-content: flex-start;
 	align-items: center;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	height: 90px;
 	background-color: var(--Onyx);
 	position: relative;
@@ -544,7 +544,7 @@ code{
 	height: fit-content;
 	width: fit-content;
 	padding: 20px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--CodGrey);
 }
 .championImagesColumn {
@@ -569,7 +569,7 @@ code{
 	height: fit-content;
 	padding: 20px;
 	padding-bottom: 10px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--HeavyMetal);
 	margin: 5px;
 }
@@ -599,10 +599,10 @@ code{
 	height: 76px;
 	background-color: var(--Onyx);
 	margin: 5px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 }
 .contentDropsTableRowHeader {
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	height: 44px;
 }
 .contentDropsTableRow:hover {
@@ -626,8 +626,8 @@ code{
 	width: 348px;
 	text-wrap: pretty;
 	background-color: var(--CodGrey);
-	border-right: 1px solid black;
-	border-left: 1px solid black;
+	border-right: 1px solid var(--Black);
+	border-left: 1px solid var(--Black);
 }
 .contentDropsTableType {
 	width: 110px;
@@ -651,7 +651,7 @@ code{
 	width: 260px;
 	padding: 5px;
 	margin: 5px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--CodGrey);
 }
 .emergenceShopTableTextColumn {
@@ -719,7 +719,7 @@ code{
 	font-size: 0.9em;
 	padding: 4px;
 	margin: 4px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--CodGrey);
 }
 .postSeasonTableRowContentsItem {
@@ -728,7 +728,7 @@ code{
 	width: 251px;
 	padding: 5px;
 	margin: 5px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--Nero);
 }
 .postSeasonTableRowContentsItem img {
@@ -746,14 +746,14 @@ code{
 	width: 100px;
 	flex-grow: 1;
 	background-color: var(--Onyx);
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	margin-left: 2px;
 	margin-right: 2px;
 }
 .postSeasonTableTitle {
 	justify-content: flex-start;
 	font-size: 1.4em;
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	position: relative;
 }
 .postSeasonTableShowContents {
@@ -802,7 +802,7 @@ code{
 	width: fit-content;
 	padding: 20px;
 	margin: 5px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--HeavyMetal);
 }
 .championPortraitsImage {
@@ -834,7 +834,7 @@ code{
 	margin-left: 10px;
 	font-size: 1.2em;
 	border: 2px solid var(--Maroon);
-	outline: 2px solid black;
+	outline: 2px solid var(--Black);
 	background-color: var(--Onyx);
 	position:relative;
 }
@@ -869,7 +869,7 @@ code{
 	display: flex;
 	flex-direction: column;
 	width: 100%;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--Onyx);
 	padding: 8px;
 	margin: 4px;
@@ -904,7 +904,7 @@ code{
 	padding: 5px 0px 0px 5px;
 }
 .modesContentRowHeader {
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	font-size: 1.1em;
 }
 .modesCol1,.modesCol2 {
@@ -957,7 +957,7 @@ input[type="checkbox"]:checked::before {
 .formationTooltipContents {
 	visibility: hidden;
 	padding: 15px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--CodGrey);
 	width: max-content;
 	
@@ -984,7 +984,7 @@ input[type="checkbox"]:checked::before {
 	width: 75px;
 	height: 88px;
 	margin: 1px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	align-items: flex-end;
 	justify-content: center;
 	font-size: 0.7em;
@@ -1009,7 +1009,7 @@ input[type="checkbox"]:checked::before {
 	align-items: center;
 	border-width: 1px 0;
 	border-style: solid;
-	border-color: black;
+	border-color: var(--Black);
 	background-color: var(--CodGrey);
 }
 .patronRosterItem input[type="checkbox"] {
@@ -1022,10 +1022,10 @@ input[type="checkbox"]:checked::before {
 	justify-content: flex-end;
 }
 .patronRosterBorderLeft {
-	border-left: 1px solid black;
+	border-left: 1px solid var(--Black);
 }
 .patronRosterBorderRight {
-	border-right: 1px solid black;
+	border-right: 1px solid var(--Black);
 }
 .fullsizeImage {
 	width: auto;
@@ -1049,7 +1049,7 @@ input[type="checkbox"]:checked::before {
 	width: 250px;
 	padding: 5px;
 	margin: 5px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--Sooty);
 }
 .premiumsTableItem img {
@@ -1081,7 +1081,7 @@ input[type="checkbox"]:checked::before {
 .weekendTableRow {
 	display: flex;
 	flex-direction: row;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--CodGrey);
 	padding: 5px;
 	margin-bottom: 15px;
@@ -1146,7 +1146,7 @@ input[type="checkbox"]:checked::before {
 	max-width: 75px;
 	height: 88px;
 	margin: 1px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	align-items: flex-end;
 	justify-content: center;
 	font-size: 0.7em;
@@ -1164,7 +1164,7 @@ input[type="checkbox"]:checked::before {
 .weekendTooltipContents {
 	visibility: hidden;
 	padding: 15px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--CodGrey);
 	width: max-content;
 	
@@ -1182,7 +1182,7 @@ input[type="checkbox"]:checked::before {
 .weekendTooltipContents code {
 	margin-top: 10px;
 	font-size: 0.9em;
-	color: white;
+	color: var(--White);
 	padding: 5px;
 }
 .blessingsTableColumn {
@@ -1197,10 +1197,10 @@ input[type="checkbox"]:checked::before {
 	height: fit-content;
 	background-color: var(--Onyx);
 	margin: 5px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 }
 .blessingsTableRowHeader {
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	height: 30px;
 }
 .blessingsTableRow:hover {
@@ -1217,7 +1217,7 @@ input[type="checkbox"]:checked::before {
 	width: 699px;
 	text-wrap: pretty;
 	background-color: var(--CodGrey);
-	border-left: 1px solid black;
+	border-left: 1px solid var(--Black);
 	padding: 5px 8px 5px 0;
 }
 .eventBuffsTooltipHolder {
@@ -1230,8 +1230,8 @@ input[type="checkbox"]:checked::before {
 .eventBuffsTooltipContents {
 	visibility: hidden;
 	padding: 15px;
-	border: 1px solid black;
-	background-color: #101010;
+	border: 1px solid var(--Black);
+	background-color: var(--Onyx);
 	width: max-content;
 	max-width: 500px;
 	font-size: 1.4em;
@@ -1245,7 +1245,7 @@ input[type="checkbox"]:checked::before {
 	left: 0px;
 	top: 0px;
 	transform: translate(-1px, 91px);
-	color: #f0e7d5;
+	color: var(--Eggshell);
 	pointer-events: none;
 	text-wrap-mode: wrap;
 	text-wrap-style: pretty;
