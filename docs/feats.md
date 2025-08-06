@@ -362,24 +362,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the effect of Baldric's Healing Lantern ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">22 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Dynaheir</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Hathran Command Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2304**Hathran Command (Dynaheir)**Do as I bid, and my power shall be thine.<br><br><span style="color:var(--Flavescent)">Increases the CON buff of Dynaheir's Circle Magic specialization by 1.</span><code>change_upgrade_data,13879,1</code></span>Hathran Command
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the CON buff of Dynaheir's Circle Magic specialization by 1.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 13</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">22 Oct 2025</span>
@@ -396,7 +379,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Shandie also counts as a Tabaxi and increases the effect of Agile Allies by 20% for each unique species in the formation, stacking additively.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 13</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">22 Oct 2025</span>
@@ -413,7 +396,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the effect of Kalix's Chameleon Carapace ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 13</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">22 Oct 2025</span>
@@ -428,6 +411,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Tess's Unleash Uggie ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 13</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Dynaheir</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Hathran Command Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2304**Hathran Command (Dynaheir)**Do as I bid, and my power shall be thine.<br><br><span style="color:var(--Flavescent)">Increases the CON buff of Dynaheir's Circle Magic specialization by 1.</span><code>change_upgrade_data,13879,1</code></span>Hathran Command
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the CON buff of Dynaheir's Circle Magic specialization by 1.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
