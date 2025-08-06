@@ -27,21 +27,20 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Baldric Portrait Icon](images/baldric/portrait.png)
+            ![Baldric Goodhand Portrait Icon](images/baldric/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Baldric
+                Baldric Goodhand
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf Cleric of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Dwarf Cleric of The Fallbacks</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Ahghairon's Day - 6 August 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
@@ -95,6 +94,32 @@ These are the event champions that are upcoming and all the information we know 
             ![Magic Attack Icon](images/general/icon_magic.png)
             ![Melee Attack Icon](images/general/icon_melee.png)
             ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="skylla.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Skylla Portrait Icon](images/skylla/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Skylla
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Warlock (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Feast of the Moon - 5 November 2025</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
@@ -182,6 +207,31 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="havilar.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Havilar Portrait Icon](images/havilar/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Havilar
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Tiefling Fighter of Brimstone Angels</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Feast of the Moon - Delayed until 12 November 2025</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -202,21 +252,20 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Baldric Portrait Icon](images/baldric/portrait.png)
+            ![Baldric Goodhand Portrait Icon](images/baldric/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Baldric
+                Baldric Goodhand
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf Cleric of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Dwarf Cleric of The Fallbacks</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
         </span>
         <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
@@ -364,6 +413,65 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+</span>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
+## Feast of the Moon - 5 November 2025
+<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
+{::nomarkdown}
+<a href="skylla.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Skylla Portrait Icon](images/skylla/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Skylla
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Warlock (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="havilar.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Havilar Portrait Icon](images/havilar/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Havilar
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Tiefling Fighter of Brimstone Angels</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 12 November 2025</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rework ♻️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
