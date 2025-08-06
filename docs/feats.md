@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Ishi</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Enemy Enumeration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1577**Enemy Enumeration (Ishi)**Five stabs, six stabs, seven stabs, MORE!<br><br><span style="color:var(--Flavescent)">Increases the effect of Ishi's Faster, Harder, Stronger ability by 80%.</span><code>buff_upgrade,80,16530</code></span>Enemy Enumeration
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Ishi's Faster, Harder, Stronger ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">06 Aug 2025<br>06 Nov 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Lae'zel</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Queen's Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2222**Queen's Blade (Lae'zel)**Vlaakith gha'g shkath zai!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lae'zel's Ceremorphosis ability by 80%. (Prestack)</span><code>buff_upgrade,80,12114</code></span>Queen's Blade
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Lae'zel's Ceremorphosis ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">06 Aug 2025<br>06 Nov 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Baldric</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2275**Resolute (Baldric)**That all you've got? Come try to impress me when you get a little older.<br><br><span style="color:var(--Flavescent)">Grants Baldric immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Grants Baldric immunity to stun effects.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">06 Aug 2025<br>06 Nov 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Shandie</span>
         </span>
         <span class="featTableIcon4">

@@ -11,57 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ascended Baldric Portrait](images/skin_portraits/ascendedbaldric.png)<span class="featTooltipContents">ID: 585**Ascended Baldric (Baldric)**<img src="images/skin_models/ascendedbaldric.gif" alt="Ascended Baldric Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Ascended Baldric
-        </span>
-        <span class="skinTableSource">
-            Ascended Baldric Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            06 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Blind Justice Ishi Portrait](images/skin_portraits/blindjusticeishi.png)<span class="featTooltipContents">ID: 588**Blind Justice Ishi (Ishi)**<img src="images/skin_models/blindjusticeishi.gif" alt="Blind Justice Ishi Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Blind Justice Ishi
-        </span>
-        <span class="skinTableSource">
-            Blind Justice Ishi Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            06 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Kith'rak Lae'zel Portrait](images/skin_portraits/kithraklaezel.png)<span class="featTooltipContents">ID: 503**Kith'rak Lae'zel (Lae'zel)**<img src="images/skin_models/kithraklaezel.gif" alt="Kith'rak Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Kith'rak Lae'zel
-        </span>
-        <span class="skinTableSource">
-            Kith'rak Lae'zel Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            06 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Arborean Hunter Shandie Portrait](images/skin_portraits/arboreanhuntershandie.png)<span class="featTooltipContents">ID: 589**Arborean Hunter Shandie (Shandie)**<img src="images/skin_models/arboreanhuntershandie.gif" alt="Arborean Hunter Shandie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

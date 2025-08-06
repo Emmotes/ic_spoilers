@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Quandary the Sphinx of Wonder Portrait](images/familiars/quandarythesphinxofwonder.png)<span class="featTooltipContents">ID: 280**Quandary the Sphinx of Wonder**Mystifying even to themselves.<img src="images/familiars/quandarythesphinxofwonder.gif" alt="Quandary the Sphinx of Wonder Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Quandary the Sphinx of Wonder
-        </span>
-        <span class="skinTableSource">
-            Quandary the Sphinx of Wonder Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            06 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Uggie the Otyugh Portrait](images/familiars/uggietheotyugh.png)<span class="featTooltipContents">ID: 279**Uggie the Otyugh**Loves giving hugs and eating trash.<img src="images/familiars/uggietheotyugh.gif" alt="Uggie the Otyugh Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Uggie the Otyugh
-        </span>
-        <span class="skinTableSource">
-            Ascended Baldric Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            06 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Aurelia the Clockwork Hollyphant Portrait](images/familiars/aureliatheclockworkhollyphant.png)<span class="featTooltipContents">ID: 281**Aurelia the Clockwork Hollyphant**Made by Mechanus' finest artificers.<img src="images/familiars/aureliatheclockworkhollyphant.gif" alt="Aurelia the Clockwork Hollyphant Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
