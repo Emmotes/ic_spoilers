@@ -123,6 +123,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "retain_on_slot_changed": true,
         "show_incoming": false
     }
 }
@@ -298,6 +300,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 10011,
     "properties": {
         "is_formation_ability": true,
+        "retain_on_slot_changed": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
