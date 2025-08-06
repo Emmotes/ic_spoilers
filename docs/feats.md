@@ -226,7 +226,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the effect of Melf's Bonus Adaption, Extra Supplements and Absolute Righteousness by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Tales of the Champions</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">24 Sept 2025</span>
@@ -243,7 +243,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">???</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Tales of the Champions</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">24 Sept 2025</span>
