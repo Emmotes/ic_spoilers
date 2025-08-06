@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Baldric Champion Unlock Portrait](images/premiums/unlock_champion_165.png)<span class="itemTooltipContents">ID: 165**Baldric**<img src="images/premiums/unlock_champion_165.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Baldric Champion Unlock Portrait](images/premiums/unlock_champion_165.png)<span class="itemTooltipContents">ID: 165**Baldric (Seat 12)**<img src="images/premiums/unlock_champion_165.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2275**Feat**???: 2275</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Resolute Feat Portrait](images/featicons/stunimmunity.png)<span class="itemTooltipContents">ID: 2275**Resolute**That all you've got? Come try to impress me when you get a little older.<br><br><span style="color:var(--Flavescent)">Grants Baldric immunity to stun effects.</span><code>hero_stun_immunity</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2275</span>
+            <span style="margin-left:15px">Resolute</span>
+            <span style="margin-left:15px">Baldric</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -428,11 +429,11 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Radiance the Pegasus Familiar Familiar Portrait](images/premiums/familiar_282.png)<span class="itemTooltipContents">ID: 282**Radiance the Pegasus Familiar**From the skies of the Seven Heavens.<img src="images/premiums/familiar_282.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Radiance the Pegasus Familiar Portrait](images/premiums/familiar_282.png)<span class="itemTooltipContents">ID: 282**Radiance the Pegasus**From the skies of the Seven Heavens.<img src="images/premiums/familiar_282.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Radiance the Pegasus Familiar</span>
+            <span style="margin-left:15px">Radiance the Pegasus</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -654,7 +655,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 289**Wingston the Pigeon**Look at him strutting around!</span></span>
+            <span class="tooltipHolder">![Wingston the Pigeon Familiar Portrait](images/premiums/familiar_289.png)<span class="itemTooltipContents">ID: 289**Wingston the Pigeon**Look at him strutting around!<img src="images/premiums/familiar_289.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -896,12 +897,11 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 596**???**</span></span>
+            <span class="tooltipHolder">![Mythic Nayeli Skin Portrait](images/premiums/skin_596.png)<span class="itemTooltipContents">ID: 596**Mythic Nayeli (Nayeli)**<img src="images/premiums/skin_596.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">skin</span>
-            <span style="margin-left:15px">ID: 596</span>
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Mythic Nayeli</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1786,6 +1786,77 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Ezmerelda Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 627</div>
+### Avren in a Jar Skin & Feat Pack - 1,680 Platinum  
+Date of release: 15 Oct 2025
+
+> Unlock Avren along with his exclusive Avren in a Jar Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Avren Champion Unlock Portrait](images/premiums/unlock_champion_51.png)<span class="itemTooltipContents">ID: 51**Avren (Seat 11)**<img src="images/premiums/unlock_champion_51.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Avren</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 611**Avren in a Jar (Avren)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Avren in a Jar</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2300**Multiversal Allies**I've got friends in weird places.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Multiversal Allies</span>
+            <span style="margin-left:15px">Avren</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Avren Chest Chest Portrait](images/premiums/chests_161.png)<span class="itemTooltipContents">ID: 161**Platinum Avren Chest**Loot for: Avren<code>"for_crusaders":[51]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Avren Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>

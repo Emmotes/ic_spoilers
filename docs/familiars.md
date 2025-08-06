@@ -58,10 +58,10 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Radiance the Pegasus Familiar Portrait](images/familiars/radiancethepegasusfamiliar.png)<span class="featTooltipContents">ID: 282**Radiance the Pegasus Familiar**From the skies of the Seven Heavens.<img src="images/familiars/radiancethepegasusfamiliar.gif" alt="Radiance the Pegasus Familiar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Radiance the Pegasus Portrait](images/familiars/radiancethepegasus.png)<span class="featTooltipContents">ID: 282**Radiance the Pegasus**From the skies of the Seven Heavens.<img src="images/familiars/radiancethepegasus.gif" alt="Radiance the Pegasus Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Radiance the Pegasus Familiar
+            Radiance the Pegasus
         </span>
         <span class="skinTableSource">
             Radiance the Pegasus Familiar Pack
@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 289**Wingston the Pigeon**Look at him strutting around!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Wingston the Pigeon Portrait](images/familiars/wingstonthepigeon.png)<span class="featTooltipContents">ID: 289**Wingston the Pigeon**Look at him strutting around!<img src="images/familiars/wingstonthepigeon.gif" alt="Wingston the Pigeon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Wingston the Pigeon

@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Baldric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2275**Resolute (Baldric)**That all you've got? Come try to impress me when you get a little older.<br><br><span style="color:var(--Flavescent)">Grants Baldric immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Grants Baldric immunity to stun effects.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">06 Aug 2025<br>06 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Shandie</span>
         </span>
         <span class="featTableIcon4">
@@ -254,10 +271,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Melf</span>
         </span>
         <span class="featTableIcon4">
-            ![Heroic Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2295**Heroic Legacy (Melf)**With every step, every breath, I strive to create a better world for all.<code>todo<br>DevNote: Buff All Specs (Epic) - new effect... tech to do</code></span>Heroic Legacy
+            ![Heroic Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2295**Heroic Legacy (Melf)**With every step, every breath, I strive to create a better world for all.<br><br><span style="color:var(--Flavescent)">Increases the effect of Melf's Bonus Adaption, Extra Supplements and Absolute Righteousness by 80%.</span><code>buff_upgrades,80,3513,3514,3515</code></span>Heroic Legacy
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Melf's Bonus Adaption, Extra Supplements and Absolute Righteousness by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -387,13 +404,30 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Baldric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Lightbringer Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2328**Lightbringer (Baldric)**Looks like there's still life in you yet.<br><br><span style="color:var(--Flavescent)">Increases the effect of Baldric's Healing Lantern ability by 80%.</span><code>buff_upgrade,80,17478</code></span>Lightbringer
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Baldric's Healing Lantern ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Dynaheir</span>
         </span>
         <span class="featTableIcon4">
-            ![Hathran Command Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2304**Hathran Command (Dynaheir)**Do as I bid, and my power shall be thine.<code>todo<br>DevNote: Buff Spec 1/Circle Magic CON increase - new effect... tech to do</code></span>Hathran Command
+            ![Hathran Command Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2304**Hathran Command (Dynaheir)**Do as I bid, and my power shall be thine.<br><br><span style="color:var(--Flavescent)">Increases the CON buff of Dynaheir's Circle Magic specialization by 1.</span><code>change_upgrade_data,13879,1</code></span>Hathran Command
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the CON buff of Dynaheir's Circle Magic specialization by 1.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -407,10 +441,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Shandie</span>
         </span>
         <span class="featTableIcon4">
-            ![Tabaxi Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 2261**Tabaxi Glitch (Shandie)**I don't have friends. I've got clowder.<code>todo<br>DevNote: Shandie counts as a Tabaxi and increase the effect of Agile Allies by 20% for each unique race in the formation, stacking additively.</code></span>Tabaxi Glitch
+            ![Tabaxi Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 2261**Tabaxi Glitch (Shandie)**I don't have friends. I've got clowder.<br><br><span style="color:var(--Flavescent)">Shandie also counts as a Tabaxi and increases the effect of Agile Allies by 20% for each unique species in the formation, stacking additively.</span><code>add_hero_tags,0,tabaxi<br>buff_upgrade,20,9727</code></span>Tabaxi Glitch
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Shandie also counts as a Tabaxi and increases the effect of Agile Allies by 20% for each unique species in the formation, stacking additively.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -475,10 +509,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Strongheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2306**Resolute (Strongheart)**My courage shall never waver!<code>todo<br>DevNote: Stun Immunity - new effect... tech to do</code></span>Resolute
+            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2306**Resolute (Strongheart)**My courage shall never waver!<br><br><span style="color:var(--Flavescent)">Grants Strongheart immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Grants Strongheart immunity to stun effects.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

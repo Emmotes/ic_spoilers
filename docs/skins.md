@@ -164,6 +164,40 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Heroic Diana Portrait](images/skin_portraits/heroicdiana.png)<span class="featTooltipContents">ID: 602**Heroic Diana (Diana)**<img src="images/skin_models/heroicdiana.gif" alt="Heroic Diana Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Heroic Diana
+        </span>
+        <span class="skinTableSource">
+            Anniversary Giveaway - 8th Anniversary Celebration
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            03 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Mythic Nayeli Portrait](images/skin_portraits/mythicnayeli.png)<span class="featTooltipContents">ID: 596**Mythic Nayeli (Nayeli)**<img src="images/skin_models/mythicnayeli.gif" alt="Mythic Nayeli Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Mythic Nayeli
+        </span>
+        <span class="skinTableSource">
+            Founder's Pack VIII
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            03 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 595**Heroic Bobby (Bobby)**</span></span>
         </span>
         <span class="skinTableName">
@@ -364,6 +398,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             08 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 611**Avren in a Jar (Avren)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Avren in a Jar
+        </span>
+        <span class="skinTableSource">
+            Avren in a Jar Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            15 Oct 2025
         </span>
     </span>
     <span class="skinTableRow">
