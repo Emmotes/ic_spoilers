@@ -430,7 +430,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the CON buff of Dynaheir's Circle Magic specialization by 1.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Tales of the Champions</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">22 Oct 2025</span>
@@ -447,7 +447,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the effect of Strongheart's Courage to Stand ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Tales of the Champions</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">22 Oct 2025</span>
@@ -464,7 +464,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Grants Strongheart immunity to stun effects.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Tales of the Champions</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">22 Oct 2025</span>
@@ -481,7 +481,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">???</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Witchlight Cap Variant</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">29 Oct 2025</span>
