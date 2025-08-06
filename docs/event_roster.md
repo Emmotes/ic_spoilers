@@ -21,7 +21,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="valentine" style="background-image:url(images/portraits/valentine.png)">Valentine (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% A Life of Leisure</li><li>400% All Champion Damage</li><li>2400% Socialite</li><li>6300% Tregrum</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="voronika" style="background-image:url(images/portraits/voronika.png)">Voronika (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Calculating Guidance</li><li>2400% Ultimate Power</li><li>6300% All Champion Damage</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="laezel" style="background-image:url(images/portraits/laezel.png)">Lae'zel (2)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% Aberration Hunter</li><li>400% Lethal Coordination</li><li>2400% Ceremorphosis (Prestack)</li><li>6300% All Champion Damage</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="baldric" style="background-image:url(images/portraits/baldric.png)">Baldric<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="baldric" style="background-image:url(images/portraits/baldric.png)">Baldric (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 </span>
 
 {:/nomarkdown}
@@ -81,6 +81,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="virgil" style="background-image:url(images/portraits/virgil.png)">Virgil (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Weather Control</li><li>2400% Rapid Fire</li><li>6300% Storm Sorcerer</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="jangsao" style="background-image:url(images/portraits/jangsao.png)">Jang Sao (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Painter of Beauty</li><li>2400% The Mysterious Wanderer</li><li>6300% Star Collector</li></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="minthara" style="background-image:url(images/portraits/minthara.png)">Minthara (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>200% All Champion Damage</li><li>400% Noble of Menzoberranzan</li><li>2400% All Champion Damage</li><li>100% Soul Branding (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="skylla" style="background-image:url(images/portraits/skylla.png)">Skylla<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.</span></span>
 </span>
 
 {:/nomarkdown}
