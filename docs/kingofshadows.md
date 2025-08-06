@@ -353,14 +353,12 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             "effect_string": "buff_upgrade,100,17757",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "health_divisor": 50,
-            "post_process_expr": "log(GetHeroHP(168)/health_divisor)/log(2)",
+            "post_process_expr": "log(GetHeroHP(168)/GetHeroBaseHP(168))/log(2)",
             "amount_updated_listeners": [
                 "max_health_changed",
                 "feat_changed"
             ],
-            "show_stacks": true,
-            "show_bonuse": true
+            "show_bonus": true
         }
     ],
     "requirements": "",
