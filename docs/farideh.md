@@ -45,12 +45,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "cooldown": 450,
     "animations": [
         {
-            "type": "farideh_ultimate",
-            "tooltip_damage_override": "farideh_ult",
-            "farideh_effect": {
-                "effect_string": "farideh_ultimate,100",
-                "for_time": 15
-            }
+            "type": "ultimate_attack",
+            "ultimate": "farideh_v2",
+            "animation_sequence_name": "ultimate",
+            "no_damage_display": true
         }
     ],
     "tags": [
@@ -88,29 +86,20 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "all"
             ],
             "projectile": "hellish_rebuke",
-            "damage_over_time": {
-                "percent": 0,
-                "time": 5,
-                "tick_time": 1,
-                "damage_is_additional": false,
-                "pop_damage": false,
-                "graphic": {
-                    "active_graphic_id": 27523,
-                    "active_graphic_y": -50,
-                    "overlay_play_mode": "always",
-                    "active_graphic_fixed_sequence": 0
-                }
-            },
             "add_monster_hit_effect": {
                 "effect_string": "farideh_hellish_rebuked,100",
+                "active_graphic_id": 27523,
+                "active_graphic_y": -50,
+                "overlay_play_mode": "always",
+                "override_disable_flashing_effects": true,
                 "for_time": 5
             },
             "broadcast_trigger": "farideh_hellish_rebuke_trigger"
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 4095,
+    "large_graphic_id": 4094,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -163,8 +152,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 4097,
+    "large_graphic_id": 4096,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -208,8 +197,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 4099,
+    "large_graphic_id": 4098,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -238,10 +227,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,500,17837,1",
+            "off_when_benched": true,
             "total_additional_stacks_desc": 10
         },
         {
             "effect_string": "buff_upgrade_max_stacks_add,2,17836",
+            "off_when_benched": true,
             "stacks_on_trigger": "on_broadcast_stacks,havilar_imp_sacrifice_trigger",
             "more_triggers": [
                 {
@@ -263,8 +254,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "target_hero_id": 56
         }
     ],
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 27632,
+    "large_graphic_id": 27631,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -295,15 +286,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "change_upgrade_data,17837,1",
+            "off_when_benched": true,
             "data": {
                 "per_hero_expr": "HasTag(`tiefling`) || HasTag(`dragonborn`)"
             }
         },
         {
-            "effect_string": "buff_upgrade,400,17837,1"
+            "effect_string": "buff_upgrade,400,17837,1",
+            "off_when_benched": true
         },
         {
             "effect_string": "change_upgrade_data,17836,1",
+            "off_when_benched": true,
             "targets": [
                 "all"
             ],
@@ -368,12 +362,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "increase_damage_against_monster,100",
+            "off_when_benched": true,
             "monster_has_effect_key": "farideh_hellish_rebuked",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "stack_threshold": 10,
-            "post_process_expr": "max(0, GetUpgradeStacks(17836, 1) - stack_threshold)",
-            "off_when_benched": true
+            "post_process_expr": "max(0, GetUpgradeStacks(17836, 1) - stack_threshold)"
         }
     ],
     "requirements": "",
@@ -384,7 +378,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -394,7 +388,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Pact with Lorcan** (Guess)
-> Farideh gains the Hunter role, Fiends become her favored foe, and the effect of Hellish Rebuke is increased by 200% on all Fiends. By sheer dumb luck, each wave of enemies in non-boss areas has a 50% chance to spawn 1-2 Fiends, and all bosses now count as demonic Fiends for the purposes of all abilities that care about such things.
+> Farideh gains the Hunter role, Fiends become her favored foe, and the effect of Hellish Rebuke is increased by 200% on all Fiends. By sheer dumb luck, each wave of enemies in non-boss areas has a 33% chance to spawn 1-2 Fiends, and all bosses now count as demonic Fiends for the purposes of all abilities that care about such things.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -409,24 +403,26 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "add_hero_tags,0,hunter"
         },
         {
-            "effect_string": "favored_foe,fiend"
+            "effect_string": "favored_foe,fiend",
+            "off_when_benched": true
         },
         {
-            "effect_string": "buff_upgrade,200,17835"
+            "effect_string": "buff_upgrade,200,17835",
+            "off_when_benched": true
         },
         {
-            "effect_string": "spawn_additional_monsters,50",
+            "effect_string": "spawn_additional_monsters,33",
             "off_when_benched": true,
             "monster_ids": [
-                778,
-                779,
+                738,
+                739,
                 740,
                 1101,
                 1102,
                 1103,
-                1109,
-                1110,
-                1111
+                1009,
+                1010,
+                1011
             ],
             "spawn_count_range": [
                 1,
@@ -444,7 +440,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 2
     }
 }
 </pre>
