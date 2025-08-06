@@ -788,6 +788,15 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                         <span style="margin-left:15px">Diana</span>
                     </span>
                 </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Heroic Diana Skin Icon](images/exclusivities/skin_27614.png)<span class="featTooltipContents">ID: 602**Heroic Diana (Diana)**<img src="images/exclusivities/skin_27617.gif" alt="Heroic Diana Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Heroic Diana</span>
+                    </span>
+                </span>
             </span>
         </span>
         <span class="postSeasonTableRowInner">
