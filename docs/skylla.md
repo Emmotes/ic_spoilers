@@ -158,7 +158,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Whispers** (Guess)
+**Whispers of Baba Yaga** (Guess)
 > Skylla increases the damage of all Champions in the column in front of her by 100% for each Champion affected by this ability, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
