@@ -4,6 +4,7 @@
 
 A list of recently archived spoilers. Note that I delete archives older than 6 months to avoid bloat.
 
+* [Ahghairon's Day Augments](archive/augments_39.md)
 * [Apothecary / Notary System](archive/apothecary_notary.md)
 * [Baldric Goodhand](archive/baldric.md)
 * [Beadle](archive/beadle.md)
