@@ -641,6 +641,14 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **In Search of Knowledge** (Guess)
 > Cazrin's attacks and abilities gain additional effects based on the number of Books that she has collected in the current adventure.
+- 10+ Books Cazrin fires an additional Magic Missile with her base attack.
+ - 40+ Books Increase the effect of Sunny Disposition by 5% for each Book she has collected in the current adventure, stacking multiplicatively.
+ - 80+ Books Cazrin fires an additional Magic Missile with her base attack. 
+ - 120+ Books When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.
+ - 160+ Books Increase the effect of Unctuous Uggie by 1% for each Book Cazrin has collected in the current adventure, stacking additively.
+ - 200+ Books Support Champions affected by Mage Armor have a 40% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.
+ - 240+ Books Mage Armor's damage prevention is increased to 50%.
+ - 300+ Books For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by 400%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
