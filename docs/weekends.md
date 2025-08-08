@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/751.png">
-            <span class="weekendTooltipContents">ID: 751**Gold Amulet Encrusted Chest**Loot for: Celeste, Jarlaxle, Hank, Strongheart and Baldric<code>"for_crusaders":[2,4,163,126,165]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Encrusted Accessories**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    08 August 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jarlaxle.png'">
-                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hank.png'">
-                        <span class="weekendTableChampionNameplate">Hank</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/strongheart.png'">
-                        <span class="weekendTableChampionNameplate">Strongheart</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/baldric.png'">
-                        <span class="weekendTableChampionNameplate">Baldric</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/752.png">
             <span class="weekendTooltipContents">ID: 752**Gold Misunderstood Chest**Loot for: Minsc, Tyril, Kalix, Artemis and Lazaapz<code>"for_crusaders":[7,10,158,54,66]</code></span>
         </span>
