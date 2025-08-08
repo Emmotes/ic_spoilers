@@ -379,7 +379,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Shadow Plague** (Guess)
-> The King of Shadow damages all adjacent Champions for 4% of their max health each second, as long as the Champions has at least 20% of their max health remaining. Each time The King of Shadows successfully deals damage in this manner, he gains a Shadow Plague stack. Each Shadow Plague stack increases his own max health by 4%, stacking additively. Stacks cap at 250 and reset when changing areas.
+> The King of Shadows damages all adjacent Champions for 4% of their max health each second, as long as the Champions have at least 20% of their max health remaining. Each time The King of Shadows successfully deals damage in this manner, he gains a Shadow Plague stack. Each Shadow Plague stack increases his own max health by 4%, stacking additively. Stacks cap at 250 and reset when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -387,7 +387,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2449,
     "flavour_text": "",
     "description": {
-        "desc": "The King of Shadow damages all adjacent Champions for $damage_percent% of their max health each second, as long as the Champions has at least $health_min_percent% of their max health remaining. Each time The King of Shadows successfully deals damage in this manner, he gains a Shadow Plague stack. Each Shadow Plague stack increases his own max health by $(amount___2)%, stacking additively. Stacks cap at $(max_stacks___2) and reset when changing areas"
+        "desc": "The King of Shadows damages all adjacent Champions for $damage_percent% of their max health each second, as long as the Champions have at least $health_min_percent% of their max health remaining. Each time The King of Shadows successfully deals damage in this manner, he gains a Shadow Plague stack. Each Shadow Plague stack increases his own max health by $(amount___2)%, stacking additively. Stacks cap at $(max_stacks___2) and reset when changing areas"
     },
     "effect_keys": [
         {
@@ -399,7 +399,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             "health_min_percent": 20,
             "damage_percent": 4,
             "health_buff_index": 1,
-            "override_key_desc": "$target takes $damage_percent% of their max health each second, as long as the Champions has at least $health_min_percent%"
+            "override_key_desc": "$target takes $damage_percent% of their max health each second, as long as the Champions have at least $health_min_percent%"
         },
         {
             "effect_string": "health_mult,4",
@@ -607,7 +607,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Master of Pawns** (Guess)
-> Increase the effect of Power of the King by 100%.
+> Increases the effect of Power of the King by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -615,7 +615,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2453,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of Power of the King by $amount%."
+        "desc": "Increases the effect of Power of the King by $amount%."
     },
     "effect_keys": [
         {
@@ -641,7 +641,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Shadow Unleashed** (Guess)
-> Increase the effect of Phase Three: The Warrior by 1000%.
+> Increases the effect of Phase Three: The Warrior by 1000%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -649,7 +649,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2454,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of Phase Three: The Warrior by $amount%."
+        "desc": "Increases the effect of Phase Three: The Warrior by $amount%."
     },
     "effect_keys": [
         {
@@ -675,7 +675,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Legacy of Illfarn** (Guess)
-> Increase the effect of Power of the King by 100% for each Elf, Dwarf, Half-Elf, and/or Human Champion in the formation, stacking multiplicatively.
+> Increases the effect of Power of the King by 100% for each Elf, Dwarf, Half-Elf, and/or Human Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -683,7 +683,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2455,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of Power of the King by $amount% for each Elf, Dwarf, Half-Elf, and/or Human Champion in the formation, stacking multiplicatively."
+        "desc": "Increases the effect of Power of the King by $amount% for each Elf, Dwarf, Half-Elf, and/or Human Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -714,7 +714,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Embrace the Shadow** (Guess)
-> Increase the effect of Power of the King by 200% for each Evil Champion in the formation, stacking multiplicatively.
+> Increases the effect of Power of the King by 200% for each Evil Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -722,7 +722,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2456,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of Power of the King by $amount% for each Evil Champion in the formation, stacking multiplicatively."
+        "desc": "Increases the effect of Power of the King by $amount% for each Evil Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -753,7 +753,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Rite of Survival** (Guess)
-> Increase the effect of Power of the King by 300% for each Champion with the Healing role, stacking multiplicatively. Additionally, Shadow Plague no longer has a minimum health at which Champions will not be damaged, and the Shadow Plague stack cap is doubled.
+> Increases the effect of Power of the King by 300% for each Champion with the Healing role, stacking multiplicatively. Additionally, Shadow Plague no longer has a minimum health at which Champions will not be damaged, and the Shadow Plague stack cap is doubled.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -761,7 +761,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2457,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of Power of the King by $amount% for each Champion with the Healing role, stacking multiplicatively. Additionally, Shadow Plague no longer has a minimum health at which Champions will not be damaged, and the Shadow Plague stack cap is doubled."
+        "desc": "Increases the effect of Power of the King by $amount% for each Champion with the Healing role, stacking multiplicatively. Additionally, Shadow Plague no longer has a minimum health at which Champions will not be damaged, and the Shadow Plague stack cap is doubled."
     },
     "effect_keys": [
         {
@@ -880,10 +880,10 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![There's a New Boss in Town Icon](images/kingofshadows/27515.png) **Variant 1: There's a New Boss in Town** (Complete Area 75)
 > The King of Shadows starts in the formation. He can't be moved or removed.  
-> Only the King of Shadow and Champions in the two columns behind him can deal damage.  
+> Only the King of Shadows and Champions in the two columns behind him can deal damage.  
 > All boss enemies deal 100% additional damage.  
 > A Mad Wizard has a 50% chance to spawn in the second wave of each non-boss area. No other enemies can be damaged while the Mad Wizard is alive.  
-> Getting to Know The King of Shadows: The King of Shadow's main support ability increases his damage and the damage of Champions in the two columns behind him.
+> Getting to Know The King of Shadows: The King of Shadows main support ability increases his damage and the damage of Champions in the two columns behind him.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Shadows of the Past Icon](images/kingofshadows/27516.png) **Variant 2: Shadows of the Past** (Complete Area 125)
