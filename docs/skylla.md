@@ -433,7 +433,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Blue Fire** (Guess)
+**Purple Fire** (Guess)
 > Skylla gains the Breaker role and her Faerie Fire turns violet. Enemies affected by Faerie Fire lose an additional armor or segmented health piece when they are attacked and at least 1 segment was broken.
 <details><summary><em>Raw Data</em></summary>
 <p>
