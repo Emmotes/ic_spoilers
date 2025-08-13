@@ -17,6 +17,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Hank](archive/hank.md)
 * [K'thriss](archive/kthriss.md)
 * [Krond](archive/krond.md)
+* [Lazaapz](archive/lazaapz.md)
 * [Notary System](archive/notary.md)
 * [Sheila](archive/sheila.md)
 * [Steam Exclusive Giveaway](archive/giveaway_steam_1749661200.md)

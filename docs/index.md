@@ -108,31 +108,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="lazaapz.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Lazaapz Portrait Icon](images/lazaapz/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Lazaapz
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Goblin Artificer</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Ahghairon's Day - Delayed until 13 August 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="alyndra.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -219,39 +194,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 These are the upcoming new and reworked champions and where they'll be found.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Ahghairon's Day - 6 August 2025
-<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="lazaapz.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Lazaapz Portrait Icon](images/lazaapz/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Lazaapz
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Goblin Artificer</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 13 August 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-</div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Highharvestide - 3 September 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
