@@ -897,7 +897,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**In the Library** (Guess)
+**Lost In the Library** (Guess)
 > Whenever a boss drops a Book, Cazrin collects 3 Books. The maximum number of Books she can collect during this adventure is tripled, but In Search of Knowledge's per Book damage boost to Sunny Disposition is reduced from 5% to 1.65%.
 <details><summary><em>Raw Data</em></summary>
 <p>
