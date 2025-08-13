@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2278**Feat**???: 2278</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Taunt Feat Portrait](images/featicons/taunt.png)<span class="itemTooltipContents">ID: 2278**Taunt**HEY, YOU! YEAH, YOU! YOU LOOK STUPID!<br><br><span style="color:var(--Flavescent)">All Champions damage +100%. Lazaapz's attacks have a 50% chance to taunt enemies.</span><code>global_dps_multiplier_mult,100<br>taunt,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2278</span>
+            <span style="margin-left:15px">Taunt</span>
+            <span style="margin-left:15px">Lazaapz</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -632,7 +633,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 274**Lily the Tree Frog**She's just hopping around.</span></span>
+            <span class="tooltipHolder">![Lily the Tree Frog Familiar Portrait](images/premiums/familiar_274.png)<span class="itemTooltipContents">ID: 274**Lily the Tree Frog**She's just hopping around.<img src="images/premiums/familiar_274.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

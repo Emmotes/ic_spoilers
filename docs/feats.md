@@ -47,6 +47,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Lazaapz</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 2278**Taunt (Lazaapz)**HEY, YOU! YEAH, YOU! YOU LOOK STUPID!<br><br><span style="color:var(--Flavescent)">All Champions damage +100%. Lazaapz's attacks have a 50% chance to taunt enemies.</span><code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +100%. Lazaapz's attacks have a 50% chance to taunt enemies.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">13 Aug 2025<br>13 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Ezmerelda</span>
         </span>
         <span class="featTableIcon4">
@@ -521,6 +538,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">29 Oct 2025<br>29 Jan 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Hank</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2349**Prodigal Leader (Hank)**</span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">26 Nov 2025</span>
+        </span>
+    </span>
 </span>
 
 # Placeholder Date Feats
@@ -726,6 +760,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Windfall's Dragon's Pride ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lazaapz</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Emergency Protocol Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1947**Emergency Protocol (Lazaapz)**If I'm going down, I'm taking all of you with me!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lazaapz's Contingency Plan ability by 100%.</span><code>buff_upgrade,100,17481</code></span>Emergency Protocol
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Lazaapz's Contingency Plan ability by 100%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

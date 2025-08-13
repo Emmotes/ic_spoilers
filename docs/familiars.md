@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 274**Lily the Tree Frog**She's just hopping around.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Lily the Tree Frog Portrait](images/familiars/lilythetreefrog.png)<span class="featTooltipContents">ID: 274**Lily the Tree Frog**She's just hopping around.<img src="images/familiars/lilythetreefrog.gif" alt="Lily the Tree Frog Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Lily the Tree Frog
