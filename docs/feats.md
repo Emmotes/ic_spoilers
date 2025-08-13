@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Shandie</span>
-        </span>
-        <span class="featTableIcon4">
-            ![True Shot Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2248**True Shot (Shandie)**I never miss.<br><br><span style="color:var(--Flavescent)">Increases the effect of Shandie's specializations by 80%.</span><code>buff_upgrades,80,9730,9731,9732</code></span>True Shot
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Shandie's specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">13 Aug 2025<br>13 Nov 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Lazaapz</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 2278**Taunt (Lazaapz)**HEY, YOU! YEAH, YOU! YOU LOOK STUPID!<br><br><span style="color:var(--Flavescent)">All Champions damage +100%. Lazaapz's attacks have a 50% chance to taunt enemies.</span><code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +100%. Lazaapz's attacks have a 50% chance to taunt enemies.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">13 Aug 2025<br>13 Nov 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Ezmerelda</span>
         </span>
         <span class="featTableIcon4">

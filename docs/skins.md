@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Arborean Hunter Shandie Portrait](images/skin_portraits/arboreanhuntershandie.png)<span class="featTooltipContents">ID: 589**Arborean Hunter Shandie (Shandie)**<img src="images/skin_models/arboreanhuntershandie.gif" alt="Arborean Hunter Shandie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Arborean Hunter Shandie
-        </span>
-        <span class="skinTableSource">
-            Arborean Hunter Shandie Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            13 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Seven Heavens Lazaapz Portrait](images/skin_portraits/sevenheavenslazaapz.png)<span class="featTooltipContents">ID: 586**Seven Heavens Lazaapz (Lazaapz)**<img src="images/skin_models/sevenheavenslazaapz.gif" alt="Seven Heavens Lazaapz Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Seven Heavens Lazaapz
-        </span>
-        <span class="skinTableSource">
-            Seven Heavens Lazaapz Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            13 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empyrean Ezmerelda Portrait](images/skin_portraits/empyreanezmerelda.png)<span class="featTooltipContents">ID: 593**Empyrean Ezmerelda (Ezmerelda)**<img src="images/skin_models/empyreanezmerelda.gif" alt="Empyrean Ezmerelda Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

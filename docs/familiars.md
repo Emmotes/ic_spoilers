@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Aurelia the Clockwork Hollyphant Portrait](images/familiars/aureliatheclockworkhollyphant.png)<span class="featTooltipContents">ID: 281**Aurelia the Clockwork Hollyphant**Made by Mechanus' finest artificers.<img src="images/familiars/aureliatheclockworkhollyphant.gif" alt="Aurelia the Clockwork Hollyphant Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Aurelia the Clockwork Hollyphant
-        </span>
-        <span class="skinTableSource">
-            Seven Heavens Lazaapz Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            13 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Radiance the Pegasus Portrait](images/familiars/radiancethepegasus.png)<span class="featTooltipContents">ID: 282**Radiance the Pegasus**From the skies of the Seven Heavens.<img src="images/familiars/radiancethepegasus.gif" alt="Radiance the Pegasus Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Radiance the Pegasus
-        </span>
-        <span class="skinTableSource">
-            Radiance the Pegasus Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            2,380p
-        </span>
-        <span class="skinTableDate">
-            13 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Wingston the Pigeon Portrait](images/familiars/wingstonthepigeon.png)<span class="featTooltipContents">ID: 289**Wingston the Pigeon**Look at him strutting around!<img src="images/familiars/wingstonthepigeon.gif" alt="Wingston the Pigeon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
