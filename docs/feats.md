@@ -1314,6 +1314,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Lazaapz</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guardian Mk. II Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2276**Guardian Mk. II (Lazaapz)**The Mark Two has a shortened delay between launches. More BOOMS, faster!<br><br><span style="color:var(--Flavescent)">Increases the frequency of Lazaapz's Gauntlet Launcher from her Guardian Specialization by 5.</span><code>change_upgrade_data,17487,3</code></span>Guardian Mk. II
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the frequency of Lazaapz's Gauntlet Launcher from her Guardian Specialization by 5.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Omin</span>
         </span>
         <span class="featTableIcon4">
@@ -1372,6 +1389,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the Intelligence score of Krux by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lazaapz</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guardian Mk. III Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2277**Guardian Mk. III (Lazaapz)**The Mark Three was a breakthrough in breaking through things. BIGGER BOOMS!<br><br><span style="color:var(--Flavescent)">Increases the BUD damage of Lazaapz's Gauntlet Launcher from her Guardian Specialization by 100%.</span><code>change_upgrade_data,17487,3</code></span>Guardian Mk. III
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the BUD damage of Lazaapz's Gauntlet Launcher from her Guardian Specialization by 100%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
