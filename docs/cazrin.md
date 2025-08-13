@@ -661,7 +661,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "conditions": [
                 {
                     "condition": "not static_desc",
-                    "desc": ":^^ - 10+ Books: Cazrin fires an additional Magic Missile with her base attack.^^ - 40+ Books: Increase the effect of Sunny Disposition by $(amount___3)% for each Book she has collected in the current adventure, stacking multiplicatively.^^ - 80+ Books: Cazrin fires an additional Magic Missile with her base attack. ^^ - 120+ Books: When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.^^ - 160+ Books: Increase the effect of Unctuous Uggie by $(amount___7)% for each Book Cazrin has collected in the current adventure, stacking additively.^^ - 200+ Books: Support Champions affected by Mage Armor have a $(chance___8)% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.^^ - 240+ Books: Mage Armor's damage prevention is increased to $(amount_desc___9)%.^^ - 300+ Books: For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by $(amount___10)%, stacking multiplicatively."
+                    "desc": ":^^ - 10+ Books: Cazrin fires an additional Magic Missile with her base attack.^^ - 40+ Books: Increase the effect of Sunny Disposition by $(amount___10)% for each Book she has collected in the current adventure, stacking multiplicatively.^^ - 80+ Books: Cazrin fires an additional Magic Missile with her base attack. ^^ - 120+ Books: When triggered, Mage Armor is now cast on all Champions in the formation instead of just Cazrin.^^ - 160+ Books: Increase the effect of Unctuous Uggie by $(amount___6)% for each Book Cazrin has collected in the current adventure, stacking additively.^^ - 200+ Books: Support Champions affected by Mage Armor have a $(chance___7)% chance to deal an additional 5 seconds of BUD damage with each normal attack hit.^^ - 240+ Books: Mage Armor's damage prevention is increased to $(amount_desc___8)%.^^ - 300+ Books: For each Tanking Champion affected by Mage Armor, the effect of Sunny Disposition is increased by $(amount___9)%, stacking multiplicatively."
                 }
             ]
         }
@@ -676,11 +676,11 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
                 40,
                 80,
                 120,
-                120,
                 160,
                 200,
                 240,
-                300
+                300,
+                0
             ],
             "stacks_on_trigger": "will_stack_manually",
             "stacks_from_amount_func": "get_stat",
@@ -699,6 +699,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
         },
         {
             "effect_string": "buff_upgrade,5,17674",
+            "amount_expr": "upgrade_amount(17677,9)",
             "stacks_from_amount_func": "get_stat",
             "stacks_multiply": true,
             "instance_stat": true,
@@ -719,13 +720,6 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
                 "targets": [
                     "all"
                 ]
-            },
-            "apply_manually": true
-        },
-        {
-            "effect_string": "change_upgrade_data,17676,2",
-            "data": {
-                "graphic_id": 27352
             },
             "apply_manually": true
         },
@@ -776,8 +770,12 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "effect_string": "buff_upgrade,400,17674",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`tanking`)",
+            "per_hero_expr": "HasTag(`tanking`) && HasEffect(2416)",
             "apply_manually": true
+        },
+        {
+            "effect_string": "pre_stack,5",
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
@@ -824,6 +822,10 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`fallbacks`) || has_base_attack_dmg_type_melee || has_base_attack_dmg_type_ranged",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -870,6 +872,10 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`fallbacks`) || HasTag(`good`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -912,7 +918,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "amount_desc": 3
         },
         {
-            "effect_string": "change_upgrade_data,17677,2",
+            "effect_string": "change_upgrade_data,17677,9",
             "off_when_benched": true,
             "data": {
                 "amount": 1.65
@@ -997,7 +1003,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "spec_effect_index": 1
         },
         {
-            "effect_string": "buff_upgrade,100,17677,2",
+            "effect_string": "buff_upgrade,100,17677,9",
             "apply_manually": true
         }
     ],
