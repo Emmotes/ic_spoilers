@@ -35,57 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Yorven</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Motley Crew Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2019**Motley Crew (Yorven)**With friends like these, I'll never be lost again.<br><br><span style="color:var(--Flavescent)">Increases the effect of Yorven's Rag Tag Team ability by 80%. (Prestack)</span><code>buff_upgrade,80,17063</code></span>Motley Crew
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Yorven's Rag Tag Team ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">14 Aug 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Melf</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2138**Prodigal Leader (Melf)**Rally to me, friends. We will survive this, and glory shall be ours.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">14 Aug 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Evelyn</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Under Pressure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1472**Under Pressure (Evelyn)**Uh oh -- more enemies! Everyone get behind me!<br><br><span style="color:var(--Flavescent)">Increases the effect of Evelyn's Steadfast Might ability by 80%.</span><code>buff_upgrade,80,12207</code></span>Under Pressure
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Evelyn's Steadfast Might ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">14 Aug 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Wyll</span>
         </span>
         <span class="featTableIcon4">
