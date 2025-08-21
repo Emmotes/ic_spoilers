@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 278**Professor Griff**The judgiest judge to ever judge.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Professor Griff Portrait](images/familiars/professorgriff.png)<span class="featTooltipContents">ID: 278**Professor Griff**The judgiest judge to ever judge.<img src="images/familiars/professorgriff.gif" alt="Professor Griff Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Professor Griff

@@ -113,7 +113,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 595**Heroic Bobby (Bobby)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Heroic Bobby Portrait](images/skin_portraits/heroicbobby.png)<span class="featTooltipContents">ID: 595**Heroic Bobby (Bobby)**<img src="images/skin_models/heroicbobby.gif" alt="Heroic Bobby Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Heroic Bobby
@@ -181,7 +181,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 598**Mythic Torogar (Torogar)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mythic Torogar Portrait](images/skin_portraits/mythictorogar.png)<span class="featTooltipContents">ID: 598**Mythic Torogar (Torogar)**<img src="images/skin_models/mythictorogar.gif" alt="Mythic Torogar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Mythic Torogar
@@ -215,7 +215,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 601**Nightmare D'hani (D'hani)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Nightmare D'hani Portrait](images/skin_portraits/nightmaredhani.png)<span class="featTooltipContents">ID: 601**Nightmare D'hani (D'hani)**<img src="images/skin_models/nightmaredhani.gif" alt="Nightmare D'hani Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Nightmare D'hani

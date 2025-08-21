@@ -328,7 +328,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 595**Heroic Bobby (Bobby)**</span></span>
+            <span class="tooltipHolder">![Heroic Bobby Skin Portrait](images/premiums/skin_595.png)<span class="itemTooltipContents">ID: 595**Heroic Bobby (Bobby)**<img src="images/premiums/skin_595.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -549,7 +549,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 278**Professor Griff**The judgiest judge to ever judge.</span></span>
+            <span class="tooltipHolder">![Professor Griff Familiar Portrait](images/premiums/familiar_278.png)<span class="itemTooltipContents">ID: 278**Professor Griff**The judgiest judge to ever judge.<img src="images/premiums/familiar_278.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -609,7 +609,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 598**Mythic Torogar (Torogar)**</span></span>
+            <span class="tooltipHolder">![Mythic Torogar Skin Portrait](images/premiums/skin_598.png)<span class="itemTooltipContents">ID: 598**Mythic Torogar (Torogar)**<img src="images/premiums/skin_598.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -822,7 +822,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 601**Nightmare D'hani (D'hani)**</span></span>
+            <span class="tooltipHolder">![Nightmare D'hani Skin Portrait](images/premiums/skin_601.png)<span class="itemTooltipContents">ID: 601**Nightmare D'hani (D'hani)**<img src="images/premiums/skin_601.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
