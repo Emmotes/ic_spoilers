@@ -429,7 +429,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Library of Lore** (Guess)
-> Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a 10% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by 5, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by 10% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by 100%.
+> Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a 10% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by 5, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by 10% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by $(amount___5)%.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -439,7 +439,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
     "id": 2413,
     "flavour_text": "",
     "description": {
-        "desc": "Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a $chance% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by $max_book_divisor, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by $(amount___2)% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by $(amount___4)%.",
+        "desc": "Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a $chance% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by $max_book_divisor, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by $(amount___2)% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by $(amount___5)%.",
         "post": {
             "conditions": [
                 {
