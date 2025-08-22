@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/753.png">
-            <span class="weekendTooltipContents">ID: 753**Gold Koshmarr Chest**Loot for: Arkhan, Calliope, Shandie, Valentine and Voronika<code>"for_crusaders":[12,5,47,103,104]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Darklord Rising**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    22 August 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/shandie.png'">
-                        <span class="weekendTableChampionNameplate">Shandie</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/valentine.png'">
-                        <span class="weekendTableChampionNameplate">Valentine</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/voronika.png'">
-                        <span class="weekendTableChampionNameplate">Voronika</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/754.png">
             <span class="weekendTooltipContents">ID: 754**Gold Toolbox Chest**Loot for: Bruenor, Nayeli, Baldric, Dungeon Master and Tess<code>"for_crusaders":[1,3,165,99,164]</code></span>
         </span>
