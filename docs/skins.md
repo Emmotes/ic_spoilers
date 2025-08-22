@@ -266,6 +266,23 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 607**Raven Queen Thellora (Thellora)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Raven Queen Thellora
+        </span>
+        <span class="skinTableSource">
+            Raven Queen Thellora Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            01 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 608**Darklord Farideh (Farideh)**</span></span>
         </span>
         <span class="skinTableName">
