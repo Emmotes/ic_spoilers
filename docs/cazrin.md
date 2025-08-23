@@ -429,7 +429,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Library of Lore** (Guess)
-> Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a 10% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by 5, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by 10% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by $(amount___5)%.
+> Whenever a boss is defeated for the first time in an adventure, it drops a Book that Cazrin collects. Subsequent kills of the same boss have a 100% chance of dropping an additional Book. The maximum number of Books that can be collected during a single adventure is the highest area reached divided by 5, rounded down. Cazrin keeps track of both the number of Books she has collected in the current adventure, as well as the size of her Library, which is the number of Books she has collected across all adventures. Cazrin's damage is increased by 10% for each book in her Library, stacking additively. Each time her Library reaches a new order of magnitude, the base buff is multiplicatively increased by 100%.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -453,7 +453,7 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
         {
             "effect_string": "library_of_lore_handler,1",
             "max_book_divisor": 5,
-            "chance": 10,
+            "chance": 100,
             "off_when_benched": true
         },
         {
@@ -467,13 +467,19 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "stacks_multiply": false,
             "stacks_on_trigger": "will_manually_stack",
             "stack_title": "Books Collected",
+            "show_stacks": true,
             "show_bonus": true
         },
         {
             "effect_string": "buff_upgrade,100,17673,1",
+            "amount_expr": "upgrade_amount(17673,4)",
             "stacks_multiply": true,
             "stacks_on_trigger": "will_manually_stack",
             "apply_manually": true
+        },
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
@@ -770,7 +776,13 @@ Cazrin will be a new champion in the Highharvestide event on 3 September 2025.
             "effect_string": "buff_upgrade,400,17674",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`tanking`) && HasEffect(2416)",
+            "per_hero_expr": "HasTag(`tanking`) && HasEffectByID(2416) && GetUpgradeUnlocked(17676)",
+            "amount_updated_listeners": [
+                "stacks_changed"
+            ],
+            "changing_stack_upgade_ids": [
+                17676
+            ],
             "apply_manually": true
         },
         {
