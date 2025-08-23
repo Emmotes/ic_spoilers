@@ -27,7 +27,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Infernal Aspect** (Guess)
-> Farideh taps into her infernal bloodline, berserking enemies and damaging them.  
+> Farideh taps into her infernal bloodline, causing enemies to move faster and attack more often, but deal less damage, while also damaging them  
 > Cooldown: 450s (Cap 112.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -35,8 +35,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "id": 903,
     "name": "Infernal Aspect",
-    "description": "Farideh taps into her infernal bloodline, causing enemies to move faster and attack more often, but deal less damage, while also damaging them",
-    "long_description": "Farideh taps into her infernal bloodline, berserking enemies and damaging them.",
+    "description": "Farideh taps into her infernal bloodline, berserking enemies and damaging them.",
+    "long_description": "Farideh taps into her infernal bloodline, causing enemies to move faster and attack more often, but deal less damage, while also damaging them",
     "graphic_id": 4109,
     "target": "none",
     "num_targets": 1,
@@ -117,8 +117,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Chosen of Asmodeus** (Guess)
 > Whenever Farideh's Hellish Rebuke triggers, Farideh's damage is increased by 100%. This stacks multiplicatively up to 25 times, and the stacks reset when changing areas.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -159,7 +157,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -193,6 +191,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`tiefling`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -214,7 +216,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Increase the post-stack effect of Pact Family by 500% when Havilar is in the formation. Additionally, whenever Havilar sacrifices her Imps, the stack cap of Chosen of Asmodeus is increased by 2, stacking up to 5 times (10 additional stacks total).
+> Increases the post-stack effect of Pact Family by 500% when Havilar is in the formation. Additionally, whenever Havilar sacrifices her Imps, the stack cap of Chosen of Asmodeus is increased by 2, stacking up to 5 times (10 additional stacks total).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -222,16 +224,40 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2465,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the post-stack effect of Pact Family by $(not_buffed amount)% when Havilar is in the formation. Additionally, whenever Havilar sacrifices her Imps, the stack cap of Chosen of Asmodeus is increased by $(not_buffed amount___2), stacking up to $max_stacks___2 times ($total_additional_stacks_desc additional stacks total)."
+        "desc": "Increases the post-stack effect of Pact Family by $(not_buffed amount)% when Havilar is in the formation. Additionally, whenever Havilar sacrifices her Imps, the stack cap of Chosen of Asmodeus is increased by $(not_buffed amount___2), stacking up to $max_stacks___2 times ($total_additional_stacks_desc additional stacks total).",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": {
+                        "conditions": [
+                            {
+                                "condition": "hero_in_formation 56",
+                                "desc": "^^Post-Stack Buff of Pact Family Active: {Yes}#00FF00"
+                            },
+                            {
+                                "desc": "^^Post-Stack Buff of Pact Family Active: {No}#FF0000"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,500,17837,1",
+            "stack_func": "per_hero_attribute",
+            "amount_func": "mult",
+            "per_hero_expr": "hero_id == 56",
             "off_when_benched": true,
-            "total_additional_stacks_desc": 10
+            "total_additional_stacks_desc": 10,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
         },
         {
-            "effect_string": "buff_upgrade_max_stacks_add,2,17836",
+            "effect_string": "buff_upgrade_effect_stacks_max_add,2,17836",
             "off_when_benched": true,
             "stacks_on_trigger": "on_broadcast_stacks,havilar_imp_sacrifice_trigger",
             "more_triggers": [
@@ -248,12 +274,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "current_value_bonus_desc": "Total Bonus: $(bonus) Additional Stacks Cap"
         }
     ],
-    "requirements": [
-        {
-            "requirement": "hero_in_formation",
-            "target_hero_id": 56
-        }
-    ],
+    "requirements": "",
     "graphic_id": 27632,
     "large_graphic_id": 27631,
     "properties": {
