@@ -220,10 +220,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2228**Master's Precision (Lae'zel)**A blade is only as sharp as the one who wields it.</span>Master's Precision
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2228**Master's Precision (Lae'zel)**A blade is only as sharp as the one who wields it.<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Lae'zel by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Additively increases the Crit Chance of Lae'zel by 20%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Tales of the Champions</span>
@@ -458,10 +458,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Blooshi</span>
         </span>
         <span class="featTableIcon4">
-            ![Guardian of the Feywild Icon](images/featicons/shrivelledhand3.png)<span class="featTooltipContents">ID: 2329**Guardian of the Feywild (Blooshi)**I'm back home! And I'm, like, WAY more powerful now! Check this out!<code>todo<br>DevNote: Blooshi may be used in any The Wild Beyond the Witchlight adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict her.</code></span>Guardian of the Feywild
+            ![Guardian of the Feywild Icon](images/featicons/shrivelledhand3.png)<span class="featTooltipContents">ID: 2329**Guardian of the Feywild (Blooshi)**I'm back home! And I'm, like, WAY more powerful now! Check this out!<br><br><span style="color:var(--Flavescent)">Blooshi may be used in any The Wild Beyond the Witchlight adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict her.</span><code>force_allow_hero</code></span>Guardian of the Feywild
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Blooshi may be used in any The Wild Beyond the Witchlight adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict her.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Witchlight Cap Variant</span>
@@ -509,10 +509,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Hank</span>
         </span>
         <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2349**Prodigal Leader (Hank)**</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2349**Prodigal Leader (Hank)**<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">All Champions damage +50%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

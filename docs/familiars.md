@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 283**Animated Silver Sword**A gift. A burden. The sacred blade of shadow's bane.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Animated Silver Sword Portrait](images/familiars/animatedsilversword.png)<span class="featTooltipContents">ID: 283**Animated Silver Sword**A gift. A burden. The sacred blade of shadow's bane.<img src="images/familiars/animatedsilversword.gif" alt="Animated Silver Sword Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Animated Silver Sword
@@ -156,6 +156,125 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             29 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 290**Snug the Spectator**Surprisingly snuggly for a Spectator.</span></span>
+        </span>
+        <span class="skinTableName">
+            Snug the Spectator
+        </span>
+        <span class="skinTableSource">
+            Snug the Spectator Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            03 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 291**Spite the Sprite**A sprite as spiteful as their master is frightful.</span></span>
+        </span>
+        <span class="skinTableName">
+            Spite the Sprite
+        </span>
+        <span class="skinTableSource">
+            Action Figure Skylla Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            05 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 293**Shellby The Sea Otter**Longtime ally of Gromma - easily distracted by pretty things.</span></span>
+        </span>
+        <span class="skinTableName">
+            Shellby The Sea Otter
+        </span>
+        <span class="skinTableSource">
+            Gromma's Sea Otter Guide Familiar & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            19 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Owlsworth the Snowy Owl Portrait](images/familiars/owlsworththesnowyowl.png)<span class="featTooltipContents">ID: 295**Owlsworth the Snowy Owl**Most fear Owlsworth. One didn’t. He doesn't come back now.<img src="images/familiars/owlsworththesnowyowl.gif" alt="Owlsworth the Snowy Owl Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Owlsworth the Snowy Owl
+        </span>
+        <span class="skinTableSource">
+            Owlsworth the Snowy Owl Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            03 Dec 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Cog the Clockwork Modron Portrait](images/familiars/cogtheclockworkmodron.png)<span class="featTooltipContents">ID: 296**Cog the Clockwork Modron**Craftsmanship even Primus would be impressed by.<img src="images/familiars/cogtheclockworkmodron.gif" alt="Cog the Clockwork Modron Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Cog the Clockwork Modron
+        </span>
+        <span class="skinTableSource">
+            Cozy Nordom Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            10 Dec 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 297**Hug the Rug of Smothering**Full-bodied snuggles, whether you want them or not.</span></span>
+        </span>
+        <span class="skinTableName">
+            Hug the Rug of Smothering
+        </span>
+        <span class="skinTableSource">
+            Hug the Rug of Smothering Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            2,380p
+        </span>
+        <span class="skinTableDate">
+            10 Dec 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 298**Fixer the Automaton**</span></span>
+        </span>
+        <span class="skinTableName">
+            Fixer the Automaton
+        </span>
+        <span class="skinTableSource">
+            Fixer the Automaton Familiar & Lazaapz Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            30 Dec 2025
         </span>
     </span>
 </span>
