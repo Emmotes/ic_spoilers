@@ -261,7 +261,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> The King of Shadows is Undead and counts as'dead' for the purposes of effects that care about dead Champions (Desmond), but 'alive' for all other purposes.
+> The King of Shadows is Undead and counts as 'dead' for the purposes of effects that care about dead Champions, but 'alive' for all other purposes.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -269,7 +269,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2446,
     "flavour_text": "",
     "description": {
-        "desc": "The King of Shadows is Undead and counts as'dead' for the purposes of effects that care about dead Champions (Desmond), but 'alive' for all other purposes."
+        "desc": "The King of Shadows is Undead and counts as 'dead' for the purposes of effects that care about dead Champions, but 'alive' for all other purposes."
     },
     "effect_keys": [
         {
@@ -294,9 +294,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Phase One: The Watcher** (Guess)
-> When you complete an area with the King of Shadows leading the formation from the front, he updates his current Toughness and Brutality stacks to the completed area number. When the King of Shadows is defeated for the first time, he immediately returns to full health, his Toughness stacks no longer update, and he enters Phase Two. When the King of Shadows is defeated for the second time, he immediately returns to full health, his Brutality stacks no longer update, and he enters Phase Three. His size increases by 25% each time he enters a new phase. Other abilities grant additional buffs upon gaining these new phases.  
->  Toughness Stacks: 25  
->  Brutality Stacks: 25.
+> When you complete an area with the King of Shadows leading the formation from the front, he updates his current Toughness and Brutality stacks to the completed area number. When the King of Shadows is defeated for the first time, he immediately returns to full health, his Toughness stacks no longer update, and he enters Phase Two. When the King of Shadows is defeated for the second time, he immediately returns to full health, his Brutality stacks no longer update, and he enters Phase Three. His size increases by 25% each time he enters a new phase. Other abilities grant additional buffs upon gaining these new phases.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -304,7 +302,15 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2447,
     "flavour_text": "",
     "description": {
-        "desc": "When you complete an area with the King of Shadows leading the formation from the front, he updates his current Toughness and Brutality stacks to the completed area number. When the King of Shadows is defeated for the first time, he immediately returns to full health, his Toughness stacks no longer update, and he enters Phase Two. When the King of Shadows is defeated for the second time, he immediately returns to full health, his Brutality stacks no longer update, and he enters Phase Three. His size increases by $amount% each time he enters a new phase. Other abilities grant additional buffs upon gaining these new phases.^^ Toughness Stacks: $(stat_value kos_toughness_stacks 1 none)^^ Brutality Stacks: $(stat_value kos_brutality_stacks 1 none)"
+        "desc": "When you complete an area with the King of Shadows leading the formation from the front, he updates his current Toughness and Brutality stacks to the completed area number. When the King of Shadows is defeated for the first time, he immediately returns to full health, his Toughness stacks no longer update, and he enters Phase Two. When the King of Shadows is defeated for the second time, he immediately returns to full health, his Brutality stacks no longer update, and he enters Phase Three. His size increases by $amount% each time he enters a new phase. Other abilities grant additional buffs upon gaining these new phases.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^ Toughness Stacks: $(stat_value kos_toughness_stacks 1 none)^^ Brutality Stacks: $(stat_value kos_brutality_stacks 1 none)"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -330,7 +336,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Power of the King** (Guess)
-> The King of Shadows increases the damage of himself and Champions in the two columns behind him by 100%. This is increased by 100% each time the King of Shadows max health is doubled, stacking multiplicatively.
+> The King of Shadows increases the damage of himself and Champions in the two columns behind him by 100%. This is increased by 100% each time the King of Shadows' max health is doubled, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -338,17 +344,9 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2448,
     "flavour_text": "",
     "description": {
-        "desc": "The King of Shadows increases the damage of himself and Champions in the two columns behind him by $(not_buffed amount)%. This is increased by $(amount___2)% each time the King of Shadows max health is doubled, stacking multiplicatively."
+        "desc": "The King of Shadows increases the damage of himself and Champions in the two columns behind him by $king_of_shadows_power_king%. This is increased by $(not_buffed amount)% each time the King of Shadows' max health is doubled, stacking multiplicatively."
     },
     "effect_keys": [
-        {
-            "effect_string": "hero_dps_multiplier_mult,100",
-            "off_when_benched": true,
-            "targets": [
-                "col_and_back_2"
-            ],
-            "show_bonus": true
-        },
         {
             "effect_string": "buff_upgrade,100,17757",
             "amount_func": "mult",
@@ -356,6 +354,19 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             "post_process_expr": "log(GetHeroHP(168)/GetHeroBaseHP(168))/log(2)",
             "amount_updated_listeners": [
                 "max_health_changed",
+                "feat_changed"
+            ],
+            "total_title": "Base Buff Bonus",
+            "show_bonus": true
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "off_when_benched": true,
+            "targets": [
+                "prev_two_col"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
                 "feat_changed"
             ],
             "show_bonus": true
@@ -369,7 +380,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -399,7 +410,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             "health_min_percent": 20,
             "damage_percent": 4,
             "health_buff_index": 1,
-            "override_key_desc": "$target takes $damage_percent% of their max health each second, as long as the Champions have at least $health_min_percent%"
+            "override_key_desc": "$target takes $damage_percent% of their max health each second, as long as $target has at least $health_min_percent% of their max health remaining"
         },
         {
             "effect_string": "health_mult,4",
@@ -414,6 +425,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "large_graphic_id": 27496,
     "properties": {
         "is_formation_ability": true,
+        "retain_on_slot_changed": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -427,7 +439,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Phase Two: The Warden** (Guess)
-> After the King of Shadows enters Phase Two (see Phase One: The Watcher ability), his health is increased by 1% for each Toughness stack he collected, stacking additively. He also increases the health of all other Champions by 25% of his max health, and healing effects on all Champions are increased by 25%.
+> After the King of Shadows enters Phase Two, his health is increased by 1% for each Toughness stack he collected, stacking additively. He also increases the health of all other Champions by 25% of his max health, and healing effects on all Champions are increased by 25%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -435,7 +447,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2450,
     "flavour_text": "",
     "description": {
-        "desc": "After the King of Shadows enters Phase Two (see Phase One: The Watcher ability), his health is increased by $(amount___2)% for each Toughness stack he collected, stacking additively. He also increases the health of all other Champions by $(amount___3)% of his max health, and healing effects on all Champions are increased by $(amount___4)%."
+        "desc": "After the King of Shadows enters Phase Two, his health is increased by $(amount___2)% for each Toughness stack he collected, stacking additively. He also increases the health of all other Champions by $(amount___3)% of his max health, and healing effects on all Champions are increased by $(amount___4)%."
     },
     "effect_keys": [
         {
@@ -501,7 +513,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Phase Three: The Warrior** (Guess)
-> After the King of Shadows enters Phase Three (see Phase One: The Watcher ability), his damage is increased by 5% for each Brutality stack, stacking multiplicatively.
+> After the King of Shadows enters Phase Three, his damage is increased by 5% for each Brutality stack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -509,7 +521,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2451,
     "flavour_text": "",
     "description": {
-        "desc": "After the King of Shadows enters Phase Three (see Phase One: The Watcher ability), his damage is increased by $(amount___2)% for each Brutality stack, stacking multiplicatively."
+        "desc": "After the King of Shadows enters Phase Three, his damage is increased by $(not_buffed amount___2)% for each Brutality stack, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -538,7 +550,9 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
                 "stat_changed,kos_brutality_stacks",
                 "slot_changed"
             ],
-            "apply_manually": true
+            "apply_manually": true,
+            "stacks_multiply": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -559,7 +573,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Shadow Reavers** (Guess)
-> After the King of Shadows enters Phase Two (see Phase One: The Watcher ability), he summons a Shadow Reaver each time he uses his ultimate. An additional Shadow Reaver is summoned for every 500 Toughness stacks he has. Each Shadow Reaver attacks a random enemy once every 5 seconds dealing 5 seconds of BUD-based damage. The Shadow Reavers last for 1 second plus 0.1 seconds for each Toughness stack he has. Using his ultimate again before the Shadow Reavers expire causes their duration to be refreshed to max.
+> After the King of Shadows enters Phase Two, he summons a Shadow Reaver each time he uses his ultimate. An additional Shadow Reaver is summoned for every 500 Toughness stacks he has. Each Shadow Reaver attacks a random enemy once every 5 seconds dealing 5 seconds of BUD-based damage. The Shadow Reavers last for 1 second plus 0.1 seconds for each Toughness stack he has. Using his ultimate again before the Shadow Reavers expire causes their duration to be refreshed to max.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -567,7 +581,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2452,
     "flavour_text": "",
     "description": {
-        "desc": "After the King of Shadows enters Phase Two (see Phase One: The Watcher ability), he summons a Shadow Reaver each time he uses his ultimate. An additional Shadow Reaver is summoned for every $reaver_per_toughness Toughness stacks he has. Each Shadow Reaver attacks a random enemy once every $attack_cooldown seconds dealing $seconds_of_bud seconds of BUD-based damage. The Shadow Reavers last for $base_duration second plus $duration_per_toughness seconds for each Toughness stack he has. Using his ultimate again before the Shadow Reavers expire causes their duration to be refreshed to max."
+        "desc": "After the King of Shadows enters Phase Two, he summons a Shadow Reaver each time he uses his ultimate. An additional Shadow Reaver is summoned for every $reaver_per_toughness Toughness stacks he has. Each Shadow Reaver attacks a random enemy once every $attack_cooldown seconds dealing $seconds_of_bud seconds of BUD-based damage. The Shadow Reavers last for $base_duration second plus $duration_per_toughness seconds for each Toughness stack he has. Using his ultimate again before the Shadow Reavers expire causes their duration to be refreshed to max."
     },
     "effect_keys": [
         {
@@ -692,6 +706,10 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`elf`) || HasTag(`half-elf`) || HasTag(`dwarf`) || HasTag(`human`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -704,7 +722,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Evil Champions: $num_stacks"
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
     }
 }
 </pre>
@@ -731,6 +749,10 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`evil`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -743,7 +765,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
+        "spec_option_post_apply_info": "Evil Champions: $num_stacks"
     }
 }
 </pre>
@@ -770,6 +792,10 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`healing`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "show_bonus": true
         },
         {
