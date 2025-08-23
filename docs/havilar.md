@@ -27,7 +27,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate: Infernal Aspect** (Guess)
-> Farideh taps into her infernal bloodline, berserking enemies and damaging them.  
+> Farideh taps into her infernal bloodline, causing enemies to move faster and attack more often, but deal less damage, while also damaging them  
 > Cooldown: 450s (Cap 112.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -35,8 +35,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 {
     "id": 903,
     "name": "Infernal Aspect",
-    "description": "Farideh taps into her infernal bloodline, causing enemies to move faster and attack more often, but deal less damage, while also damaging them",
-    "long_description": "Farideh taps into her infernal bloodline, berserking enemies and damaging them.",
+    "description": "Farideh taps into her infernal bloodline, berserking enemies and damaging them.",
+    "long_description": "Farideh taps into her infernal bloodline, causing enemies to move faster and attack more often, but deal less damage, while also damaging them",
     "graphic_id": 4109,
     "target": "none",
     "num_targets": 1,
@@ -67,23 +67,231 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Mott** (Guess)
-> Unknown.
+**Leadership Summit** (Guess)
+> Havilar increases the damage of all Champions in the 2 columns behind her by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 27666,
-    "graphic": "Icons/Events/2017FeastOfTheMoon/Y9/Icon_Formation_Havilar_Mott",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2495,
+    "flavour_text": "",
+    "description": {
+        "desc": "Havilar increases the damage of all Champions in the 2 columns behind her by 400%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,400",
+            "off_when_benched": true,
+            "targets": [
+                "prev_two_col"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Fiendish Resolve** (Guess)
+> When any Fiend enemies are on-screen, Havilar focuses less on her own attacks and more on buffing her party.. Her base attack cooldown is doubled, but the effect of Leadership Summit is increased by 100% for each Fiend that has appeared in the current area, stacking multiplicatively and capping at 25. Demon bosses count 15 times.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2496,
+    "flavour_text": "",
+    "description": {
+        "desc": "When any Fiend enemies are on-screen, Havilar focuses less on her own attacks and more on buffing her party.. Her base attack cooldown is doubled, but the effect of Leadership Summit is increased by 100% for each Fiend that has appeared in the current area, stacking multiplicatively and capping at 25. Demon bosses count 15 times."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "base_attack_speed_decrease_if_tagged_monster,50,fiend"
+        },
+        {
+            "effect_string": "buff_upgrade_if_tagged_monster,100,18036,fiend",
+            "stacks_on_trigger": "monster_spawned_with_tag,fiend",
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                }
+            ],
+            "max_stacks": 25,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "monster_spawned",
+                "monster_tags_changed"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Mott** (Guess)
+> Havilar gains Mot as her first Imp companion. Havilar's Imps attack random enemies with Fire of Asmodeus every 4.3 seconds. Mot increases the effect of Leadership Summit by 100% for each Tiefling Champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2497,
+    "flavour_text": "",
+    "description": {
+        "desc": "Havilar gains Mot as her first Imp companion. Havilar's Imps attack random enemies with Fire of Asmodeus every 4.3 seconds. Mot increases the effect of Leadership Summit by 100% for each Tiefling Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Infernal Fortitude** (Guess)
+> Havilar increases the health of all other Champions by %amount% of her max health, and healing effects on all Champions are increased by 25%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2498,
+    "flavour_text": "",
+    "description": {
+        "desc": "Havilar increases the health of all other Champions by %amount% of her max health, and healing effects on all Champions are increased by $amount___2%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "increase_health_by_source_percent,25",
+            "targets": [
+                "other"
+            ],
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "healing_add_mult,25",
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Champions affected by Havilar's Leadership Summit gain the Control role (if they didn't already have it) and have a 25% chance for enemies they attack to go berserk for 8 seconds. Berserked enemies move 50% faster, attack twice as often, but deal 90% less damage.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2499,
+    "flavour_text": "",
+    "description": {
+        "desc": "Champions affected by Havilar's Leadership Summit gain the Control role (if they didn't already have it) and have a 25% chance for enemies they attack to go berserk for 8 seconds. Berserked enemies move 50% faster, attack twice as often, but deal 90% less damage."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Increase the effect of Leadership Summit by 500% when Farideh is in the formation. Additionally, whenever Farideh's Hellish Rebuke is triggered, Havilar heals for up to 2.5% of her maximum health. This can trigger at most 400 times in a single area.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2500,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increase the effect of Leadership Summit by $amount% when Farideh is in the formation. Additionally, whenever Farideh's Hellish Rebuke is triggered, Havilar heals for up to 2.5% of her maximum health. This can trigger at most 400 times in a single area."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,500,18036"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -93,22 +301,63 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Speed Demon** (Guess)
-> Unknown.
+> Demon enemies have a 50% chance of dropping two quest items or counting for two kills when killed.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 27666,
-    "graphic": "Icons/Events/2017FeastOfTheMoon/Y9/Icon_Formation_Havilar_Mott",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2501,
+    "flavour_text": "",
+    "description": {
+        "desc": "Demon enemies have a 50% chance of dropping two quest items or counting for two kills when killed."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unlock Ultimate** (Guess)
+> The Imp that isn't Mot flings itself at a random enemy and explodes, dealing massive damage in a large area and increasing the Imp's buffs by 400% for 60 seconds. The imp's buffs do not go away when it is sacrificed, and the Imp is automatically resummoned next to Havilar after 20 seconds.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2505,
+    "flavour_text": "",
+    "description": {
+        "desc": "The Imp that isn't Mot flings itself at a random enemy and explodes, dealing massive damage in a large area and increasing the Imp's buffs by 400% for 60 seconds. The imp's buffs do not go away when it is sacrificed, and the Imp is automatically resummoned next to Havilar after 20 seconds."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -119,48 +368,31 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Bosh** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 27671,
-    "graphic": "Icons/Events/2017FeastOfTheMoon/Y9/Icon_Specialization_Havilar_Bosh",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Dembo** (Guess)
-> Unknown.
+> Havilar gains Dembo as an Imp companion. Dembo increases the effect of Leadership Summit by 200% and if Mehen is in the formation, he gains 2 additional Grumpy stacks (he doesn't like Dembo).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 27672,
-    "graphic": "Icons/Events/2017FeastOfTheMoon/Y9/Icon_Specialization_Havilar_Dembo",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2502,
+    "flavour_text": "",
+    "description": {
+        "desc": "Havilar gains Dembo as an Imp companion. Dembo increases the effect of Leadership Summit by 200% and if Mehen is in the formation, he gains 2 additional Grumpy stacks (he doesn't like Dembo)."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -170,22 +402,63 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Ola** (Guess)
-> Unknown.
+> Havilar gains Olla as an Imp companion. Olla increases the effect of Leadership Summit by 10% for each unique enemy Havilar has tanked in the current area, stacking multiplicatively and capping at 100. Additionally, when Havilar or either of her Imps attack an enemy, the enemy is taunted to attack Havilar.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 27673,
-    "graphic": "Icons/Events/2017FeastOfTheMoon/Y9/Icon_Specialization_Havilar_Ola",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2503,
+    "flavour_text": "",
+    "description": {
+        "desc": "Havilar gains Olla as an Imp companion. Olla increases the effect of Leadership Summit by 10% for each unique enemy Havilar has tanked in the current area, stacking multiplicatively and capping at 100. Additionally, when Havilar or either of her Imps attack an enemy, the enemy is taunted to attack Havilar."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Bosh** (Guess)
+> Havilar gains Bosh as an Imp companion. Bosh increases the effect of Leadership Summit by 50% for each enemy or boss enrage stack active, stacking multiplicatively up to 100 stacks, and also increases Havilar's maximum health by 50%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2504,
+    "flavour_text": "",
+    "description": {
+        "desc": "Havilar gains Bosh as an Imp companion. Bosh increases the effect of Leadership Summit by 50% for each enemy or boss enrage stack active, stacking multiplicatively up to 100 stacks, and also increases Havilar's maximum health by 50%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
