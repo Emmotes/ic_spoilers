@@ -23,47 +23,6 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
-# Attacks
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate: Infernal Aspect** (Guess)
-> Farideh taps into her infernal bloodline, causing enemies to move faster and attack more often, but deal less damage, while also damaging them  
-> Cooldown: 450s (Cap 112.5s)
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 903,
-    "name": "Infernal Aspect",
-    "description": "Farideh taps into her infernal bloodline, berserking enemies and damaging them.",
-    "long_description": "Farideh taps into her infernal bloodline, causing enemies to move faster and attack more often, but deal less damage, while also damaging them",
-    "graphic_id": 4109,
-    "target": "none",
-    "num_targets": 1,
-    "aoe_radius": 0,
-    "damage_modifier": 0.03,
-    "cooldown": 450,
-    "animations": [
-        {
-            "type": "ultimate_attack",
-            "ultimate": "farideh_v2",
-            "animation_sequence_name": "ultimate",
-            "no_damage_display": true
-        }
-    ],
-    "tags": [
-        "magic",
-        "ultimate"
-    ],
-    "damage_types": [
-        "magic"
-    ]
-}
-</pre>
-</p>
-</details>
-</div></div>
-
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
