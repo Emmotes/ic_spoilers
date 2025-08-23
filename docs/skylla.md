@@ -59,7 +59,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support / Debuff (Guess)</span>
+            <span style="margin-left:8px;">Support / Debuff / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -201,14 +201,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
                 25594,
                 25595
             ],
-            "projectile_id": 25592,
-            "effects_on_monsters": [
-                {
-                    "effect_string": "monster_crit_hit_chance,40",
-                    "hit_monsters": true,
-                    "after_damage": true
-                }
-            ]
+            "projectile_id": 25592
         }
     ],
     "tags": [
@@ -265,14 +258,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
                 27710,
                 27711
             ],
-            "projectile_id": 27708,
-            "effects_on_monsters": [
-                {
-                    "effect_string": "increase_damage_on_armor_and_hits,1",
-                    "hit_monsters": true,
-                    "after_damage": true
-                }
-            ]
+            "projectile_id": 27708
         }
     ],
     "tags": [
@@ -281,6 +267,44 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     ],
     "damage_types": [
         "melee",
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Hypnotic Pattern**
+> Skylla casts Hypnotic Pattern, making enemies take additional BUD-based damage from attacks for the duration. Additionally, enemies are stunned until they take damage.  
+> Cooldown: 200s (Cap 50s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 908,
+    "name": "Hypnotic Pattern",
+    "description": "Skylla casts Hypnotic Pattern, making enemies take more damage from attacks and briefly stunning them.",
+    "long_description": "Skylla casts Hypnotic Pattern, making enemies take additional BUD-based damage from attacks for the duration. Additionally, enemies are stunned until they take damage.",
+    "graphic_id": 27680,
+    "target": "none",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 200,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "skylla",
+            "animation_sequence_name": "ultimate"
+        }
+    ],
+    "tags": [
+        "magic",
+        "ultimate"
+    ],
+    "damage_types": [
         "magic"
     ]
 }
@@ -316,9 +340,12 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             "stacks_multiply": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasEffect(2474) && hero_id != 169",
+            "per_hero_expr": "HasEffectByID(2474) && hero_id != 169",
             "targets": [
                 "next_col"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed"
             ],
             "show_bonus": true
         }
@@ -354,6 +381,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "effect_keys": [
         {
             "effect_string": "skylla_faerie_fire_handler",
+            "off_when_benched": true,
             "faerie_fire_effect_key": "skylla_faerie_fire",
             "debuffing_attack_ids": [
                 904,
@@ -368,7 +396,8 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             "particle_names": [
                 "Particle_Skylla_FaerieFireGreen1",
                 "Particle_Skylla_FaerieFireGreen2"
-            ]
+            ],
+            "tint_color": 0
         },
         {
             "effect_string": "increase_damage_against_monster,100",
@@ -410,7 +439,6 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             "stacks_on_trigger": "monster_killed_with_effect_key,skylla_faerie_fire",
             "stacks_multiply": false,
             "stack_title": "Shimmer Stacks",
-            "show_stacks": true,
             "show_bonus": true
         }
     ],
@@ -446,7 +474,17 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "skylla_witch_switch_handler",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,100,17845,1",
+            "off_when_benched": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "as_int(hero_id != 169) * (as_int(abs(GetStat(`str`) - GetStat(`cha`)) >= 4) + as_int(abs(GetStat(`dex`) - GetStat(`int`)) >= 4) + as_int(abs(GetStat(`con`) - GetStat(`wis`)) >= 4))",
+            "stacks_multiply": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -455,9 +493,11 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "spec_option_post_apply_info": "Potential Stacks: $num_stacks___2",
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -480,9 +520,14 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,100,17845",
+            "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`evil`)",
+            "amount_updated_listeners": [
+                "hero_tags_changed",
+                "slot_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -522,6 +567,10 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             "stacks_on_trigger": "debuff_applied",
             "stacks_multiply": true,
             "max_stacks": 50,
+            "amount_updated_listeners": [
+                "hero_tags_changed",
+                "slot_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -555,7 +604,8 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,17851"
+            "effect_string": "buff_upgrade,100,17851",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -589,6 +639,24 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "effect_keys": [
         {
             "effect_string": "change_base_attack,906"
+        },
+        {
+            "effect_string": "change_upgrade_data,17846",
+            "data": {
+                "particle_names": [
+                    "Particle_Skylla_FaerieFireBlue1",
+                    "Particle_Skylla_FaerieFireBlue2"
+                ],
+                "tint_color": 1,
+                "debuff_effects": [
+                    {
+                        "effect_string": "skylla_faerie_fire"
+                    },
+                    {
+                        "effect_string": "monster_crit_hit_chance,40"
+                    }
+                ]
+            }
         }
     ],
     "requirements": "",
@@ -622,6 +690,24 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "effect_keys": [
         {
             "effect_string": "change_base_attack,907"
+        },
+        {
+            "effect_string": "change_upgrade_data,17846",
+            "data": {
+                "particle_names": [
+                    "Particle_Skylla_FaerieFirePurple1",
+                    "Particle_Skylla_FaerieFirePurple2"
+                ],
+                "tint_color": 2,
+                "debuff_effects": [
+                    {
+                        "effect_string": "skylla_faerie_fire"
+                    },
+                    {
+                        "effect_string": "increase_damage_on_armor_and_hits,1"
+                    }
+                ]
+            }
         },
         {
             "effect_string": "add_hero_tags,0,breaking"
@@ -719,16 +805,23 @@ Unknown.
 > Pay respects to the heroes of olde during the Feast of the Moon.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Variant 1** (Complete Area 75)
-> 
+![Whispers of the Warlock Icon](images/skylla/27654.png) **Variant 1: Whispers of the Warlock** (Complete Area 75)
+> Skylla starts in the formation with her Whispers of Baba Yaga ability unlocked. She can be moved, but not removed.  
+> Only Skylla and Champions affected by her Whispers of Baba Yaga ability can deal damage.  
+> <b>Getting to Know Skylla:</b> Skylla increases the damage of Champions in the column in front of her, and her buff grows stronger the more Champions it affects. Put her behind the longest column buffing your best damage dealer!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Variant 2** (Complete Area 125)
-> 
+![Nocturli Icon](images/skylla/27655.png) **Variant 2: Nocturli** (Complete Area 125)
+> Skylla starts in the formation. She can be moved, but not removed.  
+> After area 50, enemies without a Debuff on them take only 1 damage from normal attacks.  
+> Two animated constructs join the formation. Champions next to these constructs attack 1 second faster.  
+> <b>Getting to Know Skylla:</b> When Skylla attacks and fails to defeat her enemy, she casts Faerie Fire on it, making it easier to damage with subsequent attacks. Use her and other debuff Champions to get through these resistant foes!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Variant 3** (Complete Area 175)
-> 
+![Twist of Fate Icon](images/skylla/27656.png) **Variant 3: Twist of Fate** (Complete Area 175)
+> Skylla starts in the formation. She can be moved, but not removed.  
+> You may only use Debuff Champions, Evil Champions, or Champions with large differences in the ability scores that Skylla switches.  
+> <b>Getting to Know Skylla:</b> One of Skylla's specialization choices swaps the ability scores of Champions in the formation, and increases her buff when the ability scores differ by a  large number. You might find some interesting interactions with Champions that care about ability score thresholds!
 </div></div>
 
 # Other Champion Images
