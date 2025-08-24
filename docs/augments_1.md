@@ -12,6 +12,12 @@ The augments for the upcoming Highharvestide event.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![Worth Waiting For Augment Icon](images/augments/24623.png) **Worth Waiting For**
+
+> Completing tier 2+ variants for the reworked Champion and Champions in the flex slots unlocked with Time Gate Pieces or Boon Levels awards double Chests.  
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Platinum Benefits Augment Icon](images/augments/27736.png) **Platinum Benefits**
 
 > To celebrate the 8th anniversary of Idle Champions, this event's Extra Benefits include Platinum in addition to Scales of Tiamat! You'll get 5 Platinum for every event variant of tier 2 or above that you have completed, and 10 Platinum for each Boon XP you've obtained.  
