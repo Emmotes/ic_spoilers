@@ -232,7 +232,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn King of Shadows (King of Shadows)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Guardian of Illefarn King of Shadows Portrait](images/skin_portraits/guardianofillefarnkingofshadows.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn King of Shadows (King of Shadows)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
         </span>
         <span class="skinTableName">
             Guardian of Illefarn King of Shadows
@@ -249,7 +249,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 606**Raven Queen Astarion (Astarion)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Raven Queen Astarion Portrait](images/skin_portraits/ravenqueenastarion.png)<span class="featTooltipContents">ID: 606**Raven Queen Astarion (Astarion)**<img src="images/skin_models/ravenqueenastarion.gif" alt="Raven Queen Astarion Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Raven Queen Astarion
