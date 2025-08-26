@@ -232,7 +232,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Guardian of Illefarn King of Shadows Portrait](images/skin_portraits/guardianofillefarnkingofshadows.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn King of Shadows (King of Shadows)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Guardian of Illefarn King of Shadows Portrait](images/skin_portraits/guardianofillefarnkingofshadows.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn King of Shadows (King of Shadows)**<img src="images/skin_models/guardianofillefarnkingofshadows.gif" alt="Guardian of Illefarn King of Shadows Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Guardian of Illefarn King of Shadows
