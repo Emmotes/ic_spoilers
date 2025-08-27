@@ -390,6 +390,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">13 Nov 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Drizzt</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Eternal Companions Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2250**Eternal Companions (Drizzt)**I am truly blessed to know them as dear friends.<br><br><span style="color:var(--Flavescent)">Increases the bonus damage of Drizzt's Companions of the Hall ability by 80%.</span><code>buff_upgrade,80,11514</code></span>Eternal Companions
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the bonus damage of Drizzt's Companions of the Hall ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">27 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Volo</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unknown Power Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2249**Unknown Power (Volo)**You ask why Elminster is so concerned with my wellbeing? He's a true fan, of course! Why else?<br><br><span style="color:var(--Flavescent)">Increases the base effect of Volo's specializations by 80%. (Prestack)</span><code>buff_upgrade,80,16554,0<br>buff_upgrade,80,16555,0<br>buff_upgrade,80,16556,0</code></span>Unknown Power
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the base effect of Volo's specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">27 Nov 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
