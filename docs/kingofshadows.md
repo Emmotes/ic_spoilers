@@ -315,6 +315,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "effect_keys": [
         {
             "effect_string": "king_of_shadows_phases,25",
+            "pre_kill_priority": 1080,
             "off_when_benched": true
         }
     ],
@@ -363,7 +364,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             "effect_string": "hero_dps_multiplier_mult,100",
             "off_when_benched": true,
             "targets": [
-                "prev_two_col"
+                "self_and_prev_two_col"
             ],
             "amount_updated_listeners": [
                 "slot_changed",
@@ -479,6 +480,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
                 "slot_changed"
             ],
             "stacks_multiply": false,
+            "show_bonus": true,
             "apply_manually": true
         },
         {
@@ -487,10 +489,12 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
             "targets": [
                 "other"
             ],
+            "show_bonus": true,
             "apply_manually": true
         },
         {
             "effect_string": "global_healing_mult,25",
+            "show_bonus": true,
             "apply_manually": true
         }
     ],
@@ -500,7 +504,6 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "retain_on_slot_changed": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 1
