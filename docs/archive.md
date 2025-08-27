@@ -18,6 +18,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [K'thriss](archive/kthriss.md)
 * [Krond](archive/krond.md)
 * [Lazaapz](archive/lazaapz.md)
+* [New Campaign - Tales of the Champions](archive/campaign_tales.md)
 * [Notary System](archive/notary.md)
 * [Sheila](archive/sheila.md)
 * [Steam Exclusive Giveaway](archive/giveaway_steam_1749661200.md)
