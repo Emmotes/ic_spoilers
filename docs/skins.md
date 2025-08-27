@@ -11,6 +11,40 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empyrean Ezmerelda Portrait](images/skin_portraits/empyreanezmerelda.png)<span class="featTooltipContents">ID: 593**Empyrean Ezmerelda (Ezmerelda)**<img src="images/skin_models/empyreanezmerelda.gif" alt="Empyrean Ezmerelda Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Empyrean Ezmerelda
+        </span>
+        <span class="skinTableSource">
+            Adventure: Breaker Breaker
+        </span>
+        <span class="skinTableCost">
+            Free
+        </span>
+        <span class="skinTableDate">
+            27 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Solar Scion Catti-brie Portrait](images/skin_portraits/solarscioncattibrie.png)<span class="featTooltipContents">ID: 592**Solar Scion Catti-brie (Catti-brie)**<img src="images/skin_models/solarscioncattibrie.gif" alt="Solar Scion Catti-brie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Solar Scion Catti-brie
+        </span>
+        <span class="skinTableSource">
+            Adventure: The Fodder That Fights
+        </span>
+        <span class="skinTableCost">
+            Free
+        </span>
+        <span class="skinTableDate">
+            27 Aug 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Solar Scion Drizzt Portrait](images/skin_portraits/solarsciondrizzt.png)<span class="featTooltipContents">ID: 591**Solar Scion Drizzt (Drizzt)**<img src="images/skin_models/solarsciondrizzt.gif" alt="Solar Scion Drizzt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -55,6 +89,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableCost">
             ???
+        </span>
+        <span class="skinTableDate">
+            03 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 600**Berserker Wulfgar (Wulfgar)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Berserker Wulfgar
+        </span>
+        <span class="skinTableSource">
+            Berserker Wulfgar Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
         </span>
         <span class="skinTableDate">
             03 Sept 2025
@@ -164,23 +215,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 600**Berserker Wulfgar (Wulfgar)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Berserker Wulfgar
-        </span>
-        <span class="skinTableSource">
-            Berserker Wulfgar Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            17 Sept 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Nightmare D'hani Portrait](images/skin_portraits/nightmaredhani.png)<span class="featTooltipContents">ID: 601**Nightmare D'hani (D'hani)**<img src="images/skin_models/nightmaredhani.gif" alt="Nightmare D'hani Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -193,21 +227,55 @@ Please be aware that the developers recently removed most future skins from the 
             1,680p
         </span>
         <span class="skinTableDate">
-            17 Sept 2025
+            10 Sept 2025
         </span>
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Guardian of Illefarn King of Shadows Portrait](images/skin_portraits/guardianofillefarnkingofshadows.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn King of Shadows (King of Shadows)**<img src="images/skin_models/guardianofillefarnkingofshadows.gif" alt="Guardian of Illefarn King of Shadows Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 611**Avren in a Jar (Avren)**</span></span>
         </span>
         <span class="skinTableName">
-            Guardian of Illefarn King of Shadows
+            Avren in a Jar
+        </span>
+        <span class="skinTableSource">
+            Avren in a Jar Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            01 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Guardian of Illefarn Portrait](images/skin_portraits/guardianofillefarn.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn (King of Shadows)**<img src="images/skin_models/guardianofillefarn.gif" alt="Guardian of Illefarn Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Guardian of Illefarn
         </span>
         <span class="skinTableSource">
             King of Shadows Origin Theme Pack
         </span>
         <span class="skinTableCost">
             0p
+        </span>
+        <span class="skinTableDate">
+            01 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 612**Nightwalker Krond (Krond)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Nightwalker Krond
+        </span>
+        <span class="skinTableSource">
+            Nightwalker Krond Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
         </span>
         <span class="skinTableDate">
             01 Oct 2025
@@ -300,40 +368,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 611**Avren in a Jar (Avren)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Avren in a Jar
-        </span>
-        <span class="skinTableSource">
-            Avren in a Jar Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            15 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 612**Nightwalker Krond (Krond)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Nightwalker Krond
-        </span>
-        <span class="skinTableSource">
-            Nightwalker Krond Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            15 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**</span></span>
         </span>
         <span class="skinTableName">
@@ -402,6 +436,40 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Star Blight Jang Sao
+        </span>
+        <span class="skinTableSource">
+            Star Blight Jang Sao Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            05 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 623**Dark Pact Virgil (Virgil)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dark Pact Virgil
+        </span>
+        <span class="skinTableSource">
+            Dark Pact Virgil Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            12 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 620**Turiel the Fallen (Turiel)**</span></span>
         </span>
         <span class="skinTableName">
@@ -412,6 +480,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableCost">
             1,680p
+        </span>
+        <span class="skinTableDate">
+            12 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 619**Twice Cursed Havilar (Havilar)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Twice Cursed Havilar
+        </span>
+        <span class="skinTableSource">
+            Twice Cursed Havilar Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
         </span>
         <span class="skinTableDate">
             12 Nov 2025

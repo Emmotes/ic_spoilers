@@ -115,6 +115,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Wulfgar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1330**Master's Precision (Wulfgar)**Rage will fuel my warhammer!<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Wulfgar by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Additively increases the Crit Chance of Wulfgar by 20%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Sept 2025<br>03 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Bobby</span>
         </span>
         <span class="featTableIcon4">
@@ -166,23 +183,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Wulfgar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1330**Master's Precision (Wulfgar)**Rage will fuel my warhammer!<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Wulfgar by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Additively increases the Crit Chance of Wulfgar by 20%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">17 Sept 2025<br>17 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">D'hani</span>
         </span>
         <span class="featTableIcon4">
@@ -195,7 +195,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">17 Sept 2025<br>17 Dec 2025</span>
+            <span class="featTableInner">10 Sept 2025<br>10 Dec 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -234,6 +234,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Avren</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2300**Multiversal Allies (Avren)**I've got friends in weird places.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2025<br>01 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Astarion</span>
         </span>
         <span class="featTableIcon4">
@@ -258,6 +275,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Thellora's Defender of the Meek, Vanguard of the Quick and Callessa's Blessed by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2025<br>01 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Krond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Kindred Spirits Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2301**Kindred Spirits (Krond)**Whatever our cause, we fight for it together.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,17237,0</code></span>Kindred Spirits
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -298,40 +332,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">08 Oct 2025<br>08 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Avren</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2300**Multiversal Allies (Avren)**I've got friends in weird places.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Oct 2025<br>15 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Krond</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Kindred Spirits Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2301**Kindred Spirits (Krond)**Whatever our cause, we fight for it together.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,17237,0</code></span>Kindred Spirits
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Oct 2025<br>15 Jan 2026</span>
         </span>
     </span>
     <span class="featTableRow">

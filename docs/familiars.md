@@ -177,6 +177,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 293**Shellby The Sea Otter**Longtime ally of Gromma - easily distracted by pretty things.</span></span>
+        </span>
+        <span class="skinTableName">
+            Shellby The Sea Otter
+        </span>
+        <span class="skinTableSource">
+            Gromma's Sea Otter Guide Familiar & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            05 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 291**Spite the Sprite**A sprite as spiteful as their master is frightful.</span></span>
         </span>
         <span class="skinTableName">
@@ -194,19 +211,19 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 293**Shellby The Sea Otter**Longtime ally of Gromma - easily distracted by pretty things.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 292**Lefty the Crawling Claw**</span></span>
         </span>
         <span class="skinTableName">
-            Shellby The Sea Otter
+            Lefty the Crawling Claw
         </span>
         <span class="skinTableSource">
-            Gromma's Sea Otter Guide Familiar & Feat Pack
+            Twice Cursed Havilar Theme Pack
         </span>
         <span class="skinTableCost">
-            1,680p
+            3,830p
         </span>
         <span class="skinTableDate">
-            19 Nov 2025
+            12 Nov 2025
         </span>
     </span>
     <span class="skinTableRow">
