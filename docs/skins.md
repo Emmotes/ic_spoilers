@@ -11,40 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empyrean Ezmerelda Portrait](images/skin_portraits/empyreanezmerelda.png)<span class="featTooltipContents">ID: 593**Empyrean Ezmerelda (Ezmerelda)**<img src="images/skin_models/empyreanezmerelda.gif" alt="Empyrean Ezmerelda Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Empyrean Ezmerelda
-        </span>
-        <span class="skinTableSource">
-            Adventure: ???: 1820
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            27 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Solar Scion Catti-brie Portrait](images/skin_portraits/solarscioncattibrie.png)<span class="featTooltipContents">ID: 592**Solar Scion Catti-brie (Catti-brie)**<img src="images/skin_models/solarscioncattibrie.gif" alt="Solar Scion Catti-brie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Solar Scion Catti-brie
-        </span>
-        <span class="skinTableSource">
-            Adventure: ???: 1825
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            27 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Solar Scion Drizzt Portrait](images/skin_portraits/solarsciondrizzt.png)<span class="featTooltipContents">ID: 591**Solar Scion Drizzt (Drizzt)**<img src="images/skin_models/solarsciondrizzt.gif" alt="Solar Scion Drizzt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
