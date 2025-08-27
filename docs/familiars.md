@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Wingston the Pigeon Portrait](images/familiars/wingstonthepigeon.png)<span class="featTooltipContents">ID: 289**Wingston the Pigeon**Look at him strutting around!<img src="images/familiars/wingstonthepigeon.gif" alt="Wingston the Pigeon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Wingston the Pigeon
-        </span>
-        <span class="skinTableSource">
-            6x Choose Your Champion Starter Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            27 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Keeper the Spellbook Portrait](images/familiars/keeperthespellbook.png)<span class="featTooltipContents">ID: 284**Keeper the Spellbook**Little secret keepers.<img src="images/familiars/keeperthespellbook.gif" alt="Keeper the Spellbook Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

@@ -11,74 +11,6 @@ Please be aware that the developers recently removed most future skins from the 
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empyrean Ezmerelda Portrait](images/skin_portraits/empyreanezmerelda.png)<span class="featTooltipContents">ID: 593**Empyrean Ezmerelda (Ezmerelda)**<img src="images/skin_models/empyreanezmerelda.gif" alt="Empyrean Ezmerelda Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Empyrean Ezmerelda
-        </span>
-        <span class="skinTableSource">
-            Adventure: Breaker Breaker
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            27 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Solar Scion Catti-brie Portrait](images/skin_portraits/solarscioncattibrie.png)<span class="featTooltipContents">ID: 592**Solar Scion Catti-brie (Catti-brie)**<img src="images/skin_models/solarscioncattibrie.gif" alt="Solar Scion Catti-brie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Solar Scion Catti-brie
-        </span>
-        <span class="skinTableSource">
-            Adventure: The Fodder That Fights
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            27 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Solar Scion Drizzt Portrait](images/skin_portraits/solarsciondrizzt.png)<span class="featTooltipContents">ID: 591**Solar Scion Drizzt (Drizzt)**<img src="images/skin_models/solarsciondrizzt.gif" alt="Solar Scion Drizzt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Solar Scion Drizzt
-        </span>
-        <span class="skinTableSource">
-            Solar Scion Drizzt Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            27 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Weave Anchor Volo Portrait](images/skin_portraits/weaveanchorvolo.png)<span class="featTooltipContents">ID: 590**Weave Anchor Volo (Volo)**<img src="images/skin_models/weaveanchorvolo.gif" alt="Weave Anchor Volo Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Weave Anchor Volo
-        </span>
-        <span class="skinTableSource">
-            Weave Anchor Volo Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            27 Aug 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Heroic Diana Portrait](images/skin_portraits/heroicdiana.png)<span class="featTooltipContents">ID: 602**Heroic Diana (Diana)**<img src="images/skin_models/heroicdiana.gif" alt="Heroic Diana Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -96,7 +28,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 600**Berserker Wulfgar (Wulfgar)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Berserker Wulfgar Portrait](images/skin_portraits/berserkerwulfgar.png)<span class="featTooltipContents">ID: 600**Berserker Wulfgar (Wulfgar)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
         </span>
         <span class="skinTableName">
             Berserker Wulfgar
