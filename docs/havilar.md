@@ -23,6 +23,55 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
+# Attacks
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Fire of Asmodeus** (Guess)
+> Each summoned Imp attacks a random enemy with a fireball, dealing 4.3 seconds of BUD-based damage in a small area. If one of the Imps has been sacrificed, only the remaining Imp attacks.  
+> Cooldown: 4.3s (Cap 1.075s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 909,
+    "name": "Fire of Asmodeus",
+    "description": "Each summoned Imp attacks a random enemy with a fireball, dealing a large amount of area damage.",
+    "long_description": "Each summoned Imp attacks a random enemy with a fireball, dealing 4.3 seconds of BUD-based damage in a small area. If one of the Imps has been sacrificed, only the remaining Imp attacks.",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.3,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile_graphic_id": 1,
+            "projectile": "fireball",
+            "projectile_details": {
+                "screen_shake": false
+            },
+            "shoot_frame": 14,
+            "sound_frames": {
+                "1": 153
+            },
+            "hit_sound": 142,
+            "shoot_offset_x": 40,
+            "shoot_offset_y": 0
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -43,8 +92,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "targets": [
                 "prev_two_col"
-            ],
-            "show_bonus": true
+            ]
         }
     ],
     "requirements": "",
@@ -77,25 +125,23 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "base_attack_speed_decrease_if_tagged_monster,50,fiend"
+            "effect_string": "havilar_fiendish_vigor",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "base_attack_speed_decrease_if_tagged_monster,50,fiend",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
         },
         {
             "effect_string": "buff_upgrade_if_tagged_monster,100,18036,fiend",
-            "stacks_on_trigger": "monster_spawned_with_tag,fiend",
-            "more_triggers": [
-                {
-                    "trigger": "area_changed",
-                    "action": {
-                        "type": "reset"
-                    }
-                }
-            ],
+            "off_when_benched": true,
+            "stacks_on_trigger": "will_stack_manually",
+            "stacks_multiply": true,
             "max_stacks": 25,
-            "amount_updated_listeners": [
-                "slot_changed",
-                "monster_spawned",
-                "monster_tags_changed"
-            ],
             "show_bonus": true
         }
     ],
@@ -206,7 +252,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "add_hero_tags,0,control",
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "affected_by_upgrade",
+                    "upgrade_id": 18036
+                }
+            ]
+        },
+        {
+            "effect_string": "havilar_battle_master_handler_v2",
+            "berserk_effect": {
+                "effect_string": "effect_def,2472",
+                "for_time": 8
+            }
         }
     ],
     "requirements": "",
@@ -239,7 +302,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,500,18036"
+            "effect_string": "buff_upgrade,500,18036",
+            "stack_func": "per_hero_attribute",
+            "amount_func": "mult",
+            "per_hero_expr": "hero_id == 33",
+            "off_when_benched": true,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -260,7 +330,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Speed Demon** (Guess)
-> Demon enemies have a 50% chance of dropping two quest items or counting for two kills when killed.
+> Fiend enemies have a 50% chance of dropping two quest items or counting for two kills when killed.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -268,11 +338,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2501,
     "flavour_text": "",
     "description": {
-        "desc": "Demon enemies have a 50% chance of dropping two quest items or counting for two kills when killed."
+        "desc": "Fiend enemies have a $amount% chance of dropping two quest items or counting for two kills when killed."
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "chance_multiply_tagged_monster_quest_rewards,50,2,fiend"
         }
     ],
     "requirements": "",
