@@ -131,12 +131,15 @@ Unknown.
 > 
 </div></div>
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Lark Console Portrait](images/lark/console.png)Console Portrait
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
