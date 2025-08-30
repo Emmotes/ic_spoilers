@@ -6,6 +6,8 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Tales 2 - 24 September 2025
 
+This Tales drop will allow unlocking Melf and Lae'zel.
+
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
         <span class="contentDropsTableIcons">
@@ -136,6 +138,8 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 </span>
 
 ## Tales 3 - 22 October 2025
+
+This Tales drop will allow unlocking Strongheart and Dynaheir.
 
 <span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
 
@@ -498,6 +502,8 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 </span>
 
 ## Tales 4 - 26 November 2025
+
+This Tales drop will allow unlocking Havilar and Hank.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
