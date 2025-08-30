@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/754.png">
-            <span class="weekendTooltipContents">ID: 754**Gold Toolbox Chest**Loot for: Bruenor, Nayeli, Baldric, Dungeon Master and Tess<code>"for_crusaders":[1,3,165,99,164]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Tools of the Trade**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    29 August 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/baldric.png'">
-                        <span class="weekendTableChampionNameplate">Baldric</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/dm.png'">
-                        <span class="weekendTableChampionNameplate">DM</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tess.png'">
-                        <span class="weekendTableChampionNameplate">Tess</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/757.png">
             <span class="weekendTooltipContents">ID: 757**Gold Forbidden Lore Chest**Loot for: Asharra, Minsc, Tess, Baldric and Cazrin<code>"for_crusaders":[6,7,164,165,166]</code></span>
         </span>
