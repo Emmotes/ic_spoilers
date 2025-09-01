@@ -5,7 +5,6 @@
 A list of recently archived spoilers. Note that I delete archives older than 6 months to avoid bloat.
 
 * [Ahghairon's Day Augments](archive/augments_39.md)
-* [Apothecary / Notary System](archive/apothecary_notary.md)
 * [Baldric Goodhand](archive/baldric.md)
 * [Beadle](archive/beadle.md)
 * [Dragondown Augments](archive/augments_30.md)
@@ -20,12 +19,10 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Lazaapz](archive/lazaapz.md)
 * [New Campaign - Tales of the Champions](archive/campaign_tales.md)
 * [Notary System](archive/notary.md)
-* [Sheila](archive/sheila.md)
 * [Steam Exclusive Giveaway](archive/giveaway_steam_1749661200.md)
 * [Tessalynde 'Tess' Halendria](archive/tess.md)
 * [The Great Modron March Augments](archive/augments_26.md)
 * [Vlithryn](archive/vlithryn.md)
-* [Volothamp "Volo" Geddarm](archive/volo.md)
 * [Windfall](archive/windfall.md)
 * [Yorven](archive/yorven.md)
 
