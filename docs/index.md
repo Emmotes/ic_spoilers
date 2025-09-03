@@ -27,14 +27,14 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Cazrin Portrait Icon](images/cazrin/portrait.png)
+            ![Cazrin Varaith Portrait Icon](images/cazrin/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Cazrin
+                Cazrin Varaith
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Wizard of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Wizard of The Fallbacks</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Highharvestide - 3 September 2025</span>
@@ -243,14 +243,14 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Cazrin Portrait Icon](images/cazrin/portrait.png)
+            ![Cazrin Varaith Portrait Icon](images/cazrin/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Cazrin
+                Cazrin Varaith
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Wizard of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Wizard of The Fallbacks</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
