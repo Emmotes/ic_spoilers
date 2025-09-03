@@ -81,6 +81,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Cazrin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Forbidden Magic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2290**Forbidden Magic (Cazrin)**Knowledge should be shared by everyone, not hoarded by dragons.<br><br><span style="color:var(--Flavescent)">Increases the effect of Cazrin's Self Taught and Ancestor's Shadow by 80%. (Prestack)</span><code>buff_upgrades,80,17678,17679</code></span>Forbidden Magic
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Cazrin's Self Taught and Ancestor's Shadow by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Sept 2025<br>03 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Torogar</span>
         </span>
         <span class="featTableIcon4">
@@ -166,23 +183,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Avren</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2300**Multiversal Allies (Avren)**I've got friends in weird places.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Oct 2025<br>01 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Astarion</span>
         </span>
         <span class="featTableIcon4">
@@ -207,23 +207,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Thellora's Defender of the Meek, Vanguard of the Quick and Callessa's Blessed by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Oct 2025<br>01 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Krond</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Kindred Spirits Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2301**Kindred Spirits (Krond)**Whatever our cause, we fight for it together.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,17237,0</code></span>Kindred Spirits
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -264,6 +247,40 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">08 Oct 2025<br>08 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Avren</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2300**Multiversal Allies (Avren)**I've got friends in weird places.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Oct 2025<br>15 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Krond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Kindred Spirits Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2301**Kindred Spirits (Krond)**Whatever our cause, we fight for it together.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,17237,0</code></span>Kindred Spirits
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Oct 2025<br>15 Jan 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -434,6 +451,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">29 Oct 2025<br>29 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Gromma</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Rite of Passage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1757**Rite of Passage (Gromma)**Look how far you've come - you're nearly as old as I am!<br><br><span style="color:var(--Flavescent)">Increases the base value of Grandmotherly Love's stacking bonus by 80%.</span><code>change_upgrade_data,14874,1</code></span>Rite of Passage
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the base value of Grandmotherly Love's stacking bonus by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">19 Nov 2025<br>19 Feb 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -1389,23 +1423,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the number of tendrils summoned by Yorven's Eldritch Claw Tattoo by 1.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Gromma</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Rite of Passage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1757**Rite of Passage (Gromma)**Look how far you've come - you're nearly as old as I am!<br><br><span style="color:var(--Flavescent)">Increases the base value of Grandmotherly Love's stacking bonus by 80%.</span><code>change_upgrade_data,14874,1</code></span>Rite of Passage
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the base value of Grandmotherly Love's stacking bonus by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

@@ -28,7 +28,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Berserker Wulfgar Portrait](images/skin_portraits/berserkerwulfgar.png)<span class="featTooltipContents">ID: 600**Berserker Wulfgar (Wulfgar)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Berserker Wulfgar Portrait](images/skin_portraits/berserkerwulfgar.png)<span class="featTooltipContents">ID: 600**Berserker Wulfgar (Wulfgar)**<img src="images/skin_models/berserkerwulfgar.gif" alt="Berserker Wulfgar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Berserker Wulfgar
@@ -164,19 +164,19 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 611**Avren in a Jar (Avren)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Prince Brightflame Portrait](images/skin_portraits/princebrightflame.png)<span class="featTooltipContents">ID: 603**Prince Brightflame (Melf)**<img src="images/skin_models/princebrightflame.gif" alt="Prince Brightflame Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Avren in a Jar
+            Prince Brightflame
         </span>
         <span class="skinTableSource">
-            Avren in a Jar Skin & Feat Pack
+            Adventure: An Acidic Welcome
         </span>
         <span class="skinTableCost">
-            1,680p
+            Free
         </span>
         <span class="skinTableDate">
-            01 Oct 2025
+            24 Sept 2025
         </span>
     </span>
     <span class="skinTableRow">
@@ -191,23 +191,6 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableCost">
             0p
-        </span>
-        <span class="skinTableDate">
-            01 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 612**Nightwalker Krond (Krond)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Nightwalker Krond
-        </span>
-        <span class="skinTableSource">
-            Nightwalker Krond Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
         </span>
         <span class="skinTableDate">
             01 Oct 2025
@@ -300,6 +283,40 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 611**Avren in a Jar (Avren)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Avren in a Jar
+        </span>
+        <span class="skinTableSource">
+            Avren in a Jar Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            15 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 612**Nightwalker Krond (Krond)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Nightwalker Krond
+        </span>
+        <span class="skinTableSource">
+            Nightwalker Krond Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            15 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**</span></span>
         </span>
         <span class="skinTableName">
@@ -368,40 +385,6 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Star Blight Jang Sao
-        </span>
-        <span class="skinTableSource">
-            Star Blight Jang Sao Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            05 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 623**Dark Pact Virgil (Virgil)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Dark Pact Virgil
-        </span>
-        <span class="skinTableSource">
-            Dark Pact Virgil Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            12 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 620**Turiel the Fallen (Turiel)**</span></span>
         </span>
         <span class="skinTableName">
@@ -449,6 +432,40 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             12 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 623**Dark Pact Virgil (Virgil)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dark Pact Virgil
+        </span>
+        <span class="skinTableSource">
+            Dark Pact Virgil Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            19 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Star Blight Jang Sao
+        </span>
+        <span class="skinTableSource">
+            Star Blight Jang Sao Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            19 Nov 2025
         </span>
     </span>
     <span class="skinTableRow">

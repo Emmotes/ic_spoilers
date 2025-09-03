@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Cazrin Champion Unlock Portrait](images/premiums/unlock_champion_166.png)<span class="itemTooltipContents">ID: 166**Cazrin**<img src="images/premiums/unlock_champion_166.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Cazrin Champion Unlock Portrait](images/premiums/unlock_champion_166.png)<span class="itemTooltipContents">ID: 166**Cazrin (Seat 10)**<img src="images/premiums/unlock_champion_166.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2290**Feat**???: 2290</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Forbidden Magic Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2290**Forbidden Magic**Knowledge should be shared by everyone, not hoarded by dragons.<br><br><span style="color:var(--Flavescent)">Increases the effect of Cazrin's Self Taught and Ancestor's Shadow by 80%. (Prestack)</span><code>buff_upgrades,80,17678,17679</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2290</span>
+            <span style="margin-left:15px">Forbidden Magic</span>
+            <span style="margin-left:15px">Cazrin</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -305,7 +306,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Berserker Wulfgar Skin Portrait](images/premiums/skin_600.png)<span class="itemTooltipContents">ID: 600**Berserker Wulfgar (Wulfgar)**</span></span>
+            <span class="tooltipHolder">![Berserker Wulfgar Skin Portrait](images/premiums/skin_600.png)<span class="itemTooltipContents">ID: 600**Berserker Wulfgar (Wulfgar)**<img src="images/premiums/skin_600.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -912,148 +913,6 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 627</div>
-### Avren in a Jar Skin & Feat Pack - 1,680 Platinum  
-Date of release: 01 Oct 2025
-
-> Unlock Avren along with his exclusive Avren in a Jar Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Avren Champion Unlock Portrait](images/premiums/unlock_champion_51.png)<span class="itemTooltipContents">ID: 51**Avren (Seat 11)**<img src="images/premiums/unlock_champion_51.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Avren</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 611**Avren in a Jar (Avren)**</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Avren in a Jar</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2300**Multiversal Allies**I've got friends in weird places.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Multiversal Allies</span>
-            <span style="margin-left:15px">Avren</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Avren Chest Chest Portrait](images/premiums/chests_161.png)<span class="itemTooltipContents">ID: 161**Platinum Avren Chest**Loot for: Avren<code>"for_crusaders":[51]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Avren Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 628</div>
-### Nightwalker Krond Skin & Feat Pack - 1,680 Platinum  
-Date of release: 01 Oct 2025
-
-> Unlock Krond along with his exclusive Nightwalker Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Krond Champion Unlock Portrait](images/premiums/unlock_champion_15.png)<span class="itemTooltipContents">ID: 15**Krond (Seat 6)**<img src="images/premiums/unlock_champion_15.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Krond</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 612**Nightwalker Krond (Krond)**</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Nightwalker Krond</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Kindred Spirits Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2301**Kindred Spirits**Whatever our cause, we fight for it together.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,17237,0</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Kindred Spirits</span>
-            <span style="margin-left:15px">Krond</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Krond Chest Chest Portrait](images/premiums/chests_6.png)<span class="itemTooltipContents">ID: 6**Platinum Krond Chest**Loot for: Krond<code>"for_crusaders":[15]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Krond Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 624</div>
 ### Darklord Farideh Theme Pack - 3,830 Platinum  
 Date of release: 08 Oct 2025
@@ -1258,6 +1117,148 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Ezmerelda Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 627</div>
+### Avren in a Jar Skin & Feat Pack - 1,680 Platinum  
+Date of release: 15 Oct 2025
+
+> Unlock Avren along with his exclusive Avren in a Jar Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Avren Champion Unlock Portrait](images/premiums/unlock_champion_51.png)<span class="itemTooltipContents">ID: 51**Avren (Seat 11)**<img src="images/premiums/unlock_champion_51.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Avren</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 611**Avren in a Jar (Avren)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Avren in a Jar</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2300**Multiversal Allies**I've got friends in weird places.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Multiversal Allies</span>
+            <span style="margin-left:15px">Avren</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Avren Chest Chest Portrait](images/premiums/chests_161.png)<span class="itemTooltipContents">ID: 161**Platinum Avren Chest**Loot for: Avren<code>"for_crusaders":[51]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Avren Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 628</div>
+### Nightwalker Krond Skin & Feat Pack - 1,680 Platinum  
+Date of release: 15 Oct 2025
+
+> Unlock Krond along with his exclusive Nightwalker Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Krond Champion Unlock Portrait](images/premiums/unlock_champion_15.png)<span class="itemTooltipContents">ID: 15**Krond (Seat 6)**<img src="images/premiums/unlock_champion_15.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Krond</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 612**Nightwalker Krond (Krond)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Nightwalker Krond</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Kindred Spirits Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2301**Kindred Spirits**Whatever our cause, we fight for it together.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,17237,0</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Kindred Spirits</span>
+            <span style="margin-left:15px">Krond</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Krond Chest Chest Portrait](images/premiums/chests_6.png)<span class="itemTooltipContents">ID: 6**Platinum Krond Chest**Loot for: Krond<code>"for_crusaders":[15]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Krond Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1725,139 +1726,6 @@ Contents:
 </div></div>
 
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 640</div>
-### Gromma's Sea Otter Guide Familiar & Feat Pack - 1,680 Platinum  
-Date of release: 05 Nov 2025
-
-> Collect a Feat for Gromma along with an exclusive Gromma-themed familiar!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 293**Shellby The Sea Otter**Longtime ally of Gromma - easily distracted by pretty things.</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Shellby The Sea Otter</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2354**TBD Gromma Feat (Do not translate)**</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Gromma Feat (Do not translate)</span>
-            <span style="margin-left:15px">Gromma</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of Polish Buff Portrait](images/premiums/buff_36.png)<span class="itemTooltipContents">ID: 36**Potion of Polish**This shiny, silver liquid clings to the edge of the bottle in an unusual way.<code>shiny_loot,1</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Potion of Polish</span>
-            <span style="margin-left:15px">x1</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Huge Potion of Speed</span>
-            <span style="margin-left:15px">x2</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Hunter Buff Portrait](images/premiums/buff_1712.png)<span class="itemTooltipContents">ID: 1712**Potion of the Hunter**Increase Global Damage by 100%<code>global_dps_multiplier_mult,100</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Potion of the Hunter</span>
-            <span style="margin-left:15px">x1</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 641</div>
-### Star Blight Jang Sao Skin & Feat Pack - 1,680 Platinum  
-Date of release: 05 Nov 2025
-
-> Unlock Jang Sao along with her exclusive Star Blight Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Jang Sao Champion Unlock Portrait](images/premiums/unlock_champion_140.png)<span class="itemTooltipContents">ID: 140**Jang Sao (Seat 8)**<img src="images/premiums/unlock_champion_140.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Jang Sao</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Star Blight Jang Sao</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2355**TBD Jang Sao Feat (Do not translate)**</span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Jang Sao Feat (Do not translate)</span>
-            <span style="margin-left:15px">Jang Sao</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Jang Sao Chest Chest Portrait](images/premiums/chests_551.png)<span class="itemTooltipContents">ID: 551**Platinum Jang Sao Chest**Loot for: Jang Sao<code>"for_crusaders":[140]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Jang Sao Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 637</div>
 ### Twice Cursed Havilar Theme Pack - 3,830 Platinum  
 Date of release: 12 Nov 2025
@@ -2070,9 +1938,142 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 640</div>
+### Gromma's Sea Otter Guide Familiar & Feat Pack - 1,680 Platinum  
+Date of release: 19 Nov 2025
+
+> Collect a Feat for Gromma along with an exclusive Gromma-themed familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 293**Shellby The Sea Otter**Longtime ally of Gromma - easily distracted by pretty things.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Shellby The Sea Otter</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Rite of Passage Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 1757**Rite of Passage**Look how far you've come - you're nearly as old as I am!<br><br><span style="color:var(--Flavescent)">Increases the base value of Grandmotherly Love's stacking bonus by 80%.</span><code>change_upgrade_data,14874,1</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Rite of Passage</span>
+            <span style="margin-left:15px">Gromma</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of Polish Buff Portrait](images/premiums/buff_36.png)<span class="itemTooltipContents">ID: 36**Potion of Polish**This shiny, silver liquid clings to the edge of the bottle in an unusual way.<code>shiny_loot,1</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of Polish</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Hunter Buff Portrait](images/premiums/buff_1712.png)<span class="itemTooltipContents">ID: 1712**Potion of the Hunter**Increase Global Damage by 100%<code>global_dps_multiplier_mult,100</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of the Hunter</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 641</div>
+### Star Blight Jang Sao Skin & Feat Pack - 1,680 Platinum  
+Date of release: 19 Nov 2025
+
+> Unlock Jang Sao along with her exclusive Star Blight Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Jang Sao Champion Unlock Portrait](images/premiums/unlock_champion_140.png)<span class="itemTooltipContents">ID: 140**Jang Sao (Seat 8)**<img src="images/premiums/unlock_champion_140.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Jang Sao</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Star Blight Jang Sao</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2355**TBD Jang Sao Feat (Do not translate)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD Jang Sao Feat (Do not translate)</span>
+            <span style="margin-left:15px">Jang Sao</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Jang Sao Chest Chest Portrait](images/premiums/chests_551.png)<span class="itemTooltipContents">ID: 551**Platinum Jang Sao Chest**Loot for: Jang Sao<code>"for_crusaders":[140]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Jang Sao Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 642</div>
 ### Dark Pact Virgil Skin & Feat Pack - 1,680 Platinum  
-Date of release: 12 Nov 2025
+Date of release: 19 Nov 2025
 
 > Unlock Virgil along with his exclusive Dark Pact Skin & Feat!
 
