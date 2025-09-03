@@ -76,12 +76,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2462,
     "flavour_text": "",
     "description": {
-        "desc": "Enemies that attack any Champion in the formation trigger Farideh's Hellish Rebuke. The enemy is surrounded by green flames for $seconds_worth_of_bud seconds and immediately takes $seconds_worth_of_bud seconds worth of BUD damage."
+        "desc": "Enemies that attack any Champion in the formation trigger Farideh's Hellish Rebuke. The enemy is surrounded by green flames for $berserk_time seconds and immediately takes $amount seconds worth of BUD damage."
     },
     "effect_keys": [
         {
-            "effect_string": "return_bud_damage_when_hit,5",
+            "effect_string": "deal_bud_damage_when_hit,5",
             "off_when_benched": true,
+            "berserk_time": 5,
             "targets": [
                 "all"
             ],
@@ -140,7 +141,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 {
                     "trigger": "area_changed",
                     "action": {
-                        "type": "reset"
+                        "type": "reduce_percent_down",
+                        "percent": 100
                     }
                 }
             ],
@@ -215,7 +217,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Sister, Sister** (Guess)
 > Increases the post-stack effect of Pact Family by 500% when Havilar is in the formation. Additionally, whenever Havilar sacrifices her Imps, the stack cap of Chosen of Asmodeus is increased by 2, stacking up to 5 times (10 additional stacks total).
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -224,7 +226,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2465,
     "flavour_text": "",
     "description": {
-        "desc": "Increases the post-stack effect of Pact Family by $(not_buffed amount)% when Havilar is in the formation. Additionally, whenever Havilar sacrifices her Imps, the stack cap of Chosen of Asmodeus is increased by $(not_buffed amount___2), stacking up to $max_stacks___2 times ($total_additional_stacks_desc additional stacks total).",
+        "desc": "Increases the post-stack effect of Pact Family by $(amount)% when Havilar is in the formation. Additionally, whenever Havilar sacrifices her Imps, the stack cap of Chosen of Asmodeus is increased by $(not_buffed amount___2), stacking up to $max_stacks___2 times ($total_additional_stacks_desc additional stacks total).",
         "post": {
             "conditions": [
                 {
@@ -309,7 +311,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "change_upgrade_data,17837,1",
             "off_when_benched": true,
             "data": {
-                "per_hero_expr": "HasTag(`tiefling`) || HasTag(`dragonborn`)"
+                "per_hero_expr": "as_int(HasTag(`tiefling`)) + as_int(HasTag(`dragonborn`))"
             }
         },
         {
@@ -333,7 +335,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     {
                         "trigger": "area_changed",
                         "action": {
-                            "type": "reduce_percent",
+                            "type": "reduce_percent_down",
                             "percent": 50
                         }
                     }
@@ -417,7 +419,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2468,
     "flavour_text": "",
     "description": {
-        "desc": "Farideh gains the Hunter role, Fiends become her favored foe, and the effect of Hellish Rebuke is increased by $(not_buffed amount___3)% on all Fiends. By sheer dumb luck, each wave of enemies in non-boss areas has a $(not_buffed amount___4)% chance to spawn 1-2 Fiends, and all bosses now count as demonic Fiends for the purposes of all abilities that care about such things."
+        "desc": "Farideh gains the Hunter role, Fiends become her favored foe, and the effect of Hellish Rebuke is increased by $(amount___3)% on all Fiends. By sheer dumb luck, each wave of enemies in non-boss areas has a $(not_buffed amount___4)% chance to spawn $(spawn_min___4)-$(spawn_max___4) Fiends, and all bosses now count as demonic Fiends for the purposes of all abilities that care about such things."
     },
     "effect_keys": [
         {
@@ -428,8 +430,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true
         },
         {
-            "effect_string": "buff_upgrade,200,17835",
-            "off_when_benched": true
+            "effect_string": "buff_return_damage_on_tag,200",
+            "targets": [
+                "all"
+            ],
+            "effect_id": 2462,
+            "tag": "fiend"
         },
         {
             "effect_string": "spawn_additional_monsters,33",
@@ -449,8 +455,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 1,
                 2
             ],
+            "spawn_min": 1,
+            "spawn_max": 2,
             "non_boss_areas": true,
             "boss_areas": false
+        },
+        {
+            "effect_string": "monster_add_tags,0,1,fiend"
         }
     ],
     "requirements": "",
