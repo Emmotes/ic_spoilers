@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Keeper the Spellbook Portrait](images/familiars/keeperthespellbook.png)<span class="featTooltipContents">ID: 284**Keeper the Spellbook**Little secret keepers.<img src="images/familiars/keeperthespellbook.gif" alt="Keeper the Spellbook Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Keeper the Spellbook
-        </span>
-        <span class="skinTableSource">
-            Mythic Cazrin Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            03 Sept 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Lily the Tree Frog Portrait](images/familiars/lilythetreefrog.png)<span class="featTooltipContents">ID: 274**Lily the Tree Frog**She's just hopping around.<img src="images/familiars/lilythetreefrog.gif" alt="Lily the Tree Frog Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Lily the Tree Frog
-        </span>
-        <span class="skinTableSource">
-            Founder's Pack VIII
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            03 Sept 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Professor Griff Portrait](images/familiars/professorgriff.png)<span class="featTooltipContents">ID: 278**Professor Griff**The judgiest judge to ever judge.<img src="images/familiars/professorgriff.gif" alt="Professor Griff Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
