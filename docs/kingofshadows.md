@@ -427,6 +427,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "properties": {
         "is_formation_ability": true,
         "retain_on_slot_changed": true,
+        "is_buff_incoming_formation_abilities_target": false,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -693,6 +694,8 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Legacy of Illfarn** (Guess)
 > Increases the effect of Power of the King by 100% for each Elf, Dwarf, Half-Elf, and/or Human Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -704,8 +707,13 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,17757",
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,17757",
             "off_when_benched": true,
+            "amount_expr": "upgrade_amount(17764,0)",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`elf`) || HasTag(`half-elf`) || HasTag(`dwarf`) || HasTag(`human`)",
@@ -725,7 +733,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -736,6 +744,8 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Embrace the Shadow** (Guess)
 > Increases the effect of Power of the King by 200% for each Evil Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -747,8 +757,13 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,200,17757",
+            "effect_string": "pre_stack,200",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,17757",
             "off_when_benched": true,
+            "amount_expr": "upgrade_amount(17765,0)",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`evil`)",
@@ -768,7 +783,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Evil Champions: $num_stacks"
+        "spec_option_post_apply_info": "Evil Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -779,6 +794,8 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Rite of Survival** (Guess)
 > Increases the effect of Power of the King by 300% for each Champion with the Healing role, stacking multiplicatively. Additionally, Shadow Plague no longer has a minimum health at which Champions will not be damaged, and the Shadow Plague stack cap is doubled.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -790,8 +807,13 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,300,17757",
+            "effect_string": "pre_stack,300",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,17757",
             "off_when_benched": true,
+            "amount_expr": "upgrade_amount(17766,0)",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`healing`)",
@@ -823,7 +845,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Healing Champions: $num_stacks"
+        "spec_option_post_apply_info": "Healing Champions: $num_stacks___2"
     }
 }
 </pre>
