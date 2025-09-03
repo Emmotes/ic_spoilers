@@ -440,6 +440,13 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             "stacks_multiply": false,
             "stack_title": "Shimmer Stacks",
             "show_bonus": true
+        },
+        {
+            "effect_string": "stacks_data_binder_safe",
+            "index": 0,
+            "stat_name": "skylla_shimmer_stacks",
+            "is_instanced_stat": true,
+            "use_stat_defs": true
         }
     ],
     "requirements": "",
@@ -634,11 +641,12 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "id": 2481,
     "flavour_text": "",
     "description": {
-        "desc": "Skylla's Faerie Fire turns blue. Champions attacking enemies affected by Faerie Fire have a 40% additional chance to deal a critical hit."
+        "desc": "Skylla's Faerie Fire turns blue. Champions attacking enemies affected by Faerie Fire have a $crit_hit_chance_desc% additional chance to deal a critical hit."
     },
     "effect_keys": [
         {
-            "effect_string": "change_base_attack,906"
+            "effect_string": "change_base_attack,906",
+            "crit_hit_chance_desc": 40
         },
         {
             "effect_string": "change_upgrade_data,17846",
