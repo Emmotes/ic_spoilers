@@ -472,8 +472,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* Anniversary Celebration - 3 September 2025
-* [Highharvestide Augments](augments_1.md) - 3 September 2025
 * Emergence 13 - 22 October 2025
 
 # Misc

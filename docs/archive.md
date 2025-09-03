@@ -14,6 +14,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Founders' Day Augments](archive/augments_37.md)
 * [Grimm](archive/grimm.md)
 * [Hank](archive/hank.md)
+* [Highharvestide Augments](archive/augments_1.md)
 * [K'thriss](archive/kthriss.md)
 * [Krond](archive/krond.md)
 * [Lazaapz](archive/lazaapz.md)
