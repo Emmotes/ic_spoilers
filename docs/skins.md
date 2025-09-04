@@ -130,7 +130,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 607**Raven Queen Thellora (Thellora)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Raven Queen Thellora Portrait](images/skin_portraits/ravenqueenthellora.png)<span class="featTooltipContents">ID: 607**Raven Queen Thellora (Thellora)**<img src="images/skin_models/ravenqueenthellora.gif" alt="Raven Queen Thellora Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Raven Queen Thellora
