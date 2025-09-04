@@ -35,40 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Ravengard</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1823**Morale Boost (Ravengard)**This is what our soldiers needed - hope.<br><br><span style="color:var(--Flavescent)">Increases the max stacks of Ravengard's Critical Teamwork by 20.</span><code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the max stacks of Ravengard's Critical Teamwork by 20.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Hank</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Foe Slayer Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2202**Foe Slayer (Hank)**This bow isn't just for show, you know. Go ahead. Make my day.<br><br><span style="color:var(--Flavescent)">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span><code>change_upgrade_data,17087,1</code></span>Foe Slayer
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Krond</span>
         </span>
         <span class="featTableIcon4">
