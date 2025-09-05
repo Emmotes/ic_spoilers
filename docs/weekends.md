@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/757.png">
-            <span class="weekendTooltipContents">ID: 757**Gold Forbidden Lore Chest**Loot for: Asharra, Minsc, Tess, Baldric and Cazrin<code>"for_crusaders":[6,7,164,165,166]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Forbidden Lore**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    05 September 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tess.png'">
-                        <span class="weekendTableChampionNameplate">Tess</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/baldric.png'">
-                        <span class="weekendTableChampionNameplate">Baldric</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/cazrin.png'">
-                        <span class="weekendTableChampionNameplate">Cazrin</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/758.png">
             <span class="weekendTooltipContents">ID: 758**Gold Boldness Chest**Loot for: Makos, Jarlaxle, Briv, Widdle and Alyndra<code>"for_crusaders":[9,4,58,91,77]</code></span>
         </span>
