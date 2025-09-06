@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 285**Ebrath the Illefarn Mastiff**Guardian's Best Friend.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Ebrath the Illefarn Mastiff Portrait](images/familiars/ebraththeillefarnmastiff.png)<span class="featTooltipContents">ID: 285**Ebrath the Illefarn Mastiff**Guardian's Best Friend.<img src="images/familiars/ebraththeillefarnmastiff.gif" alt="Ebrath the Illefarn Mastiff Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Ebrath the Illefarn Mastiff

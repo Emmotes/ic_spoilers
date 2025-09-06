@@ -369,7 +369,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 285**Ebrath the Illefarn Mastiff**Guardian's Best Friend.</span></span>
+            <span class="tooltipHolder">![Ebrath the Illefarn Mastiff Familiar Portrait](images/premiums/familiar_285.png)<span class="itemTooltipContents">ID: 285**Ebrath the Illefarn Mastiff**Guardian's Best Friend.<img src="images/premiums/familiar_285.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
