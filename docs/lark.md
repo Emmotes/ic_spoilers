@@ -3,10 +3,18 @@
 <span class="championPortraitsRow">
     <span class="championPortraitsColumn">
         <span class="championPortraitsImage">
+            ![PC Portrait for Lark](images/lark/portrait.png)
+        </span>
+        <span>
+            Portrait
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
             ![Model GIF of Lark](images/lark/model.gif)
         </span>
         <span>
-        Model
+            Model
         </span>
     </span>
 </span>
