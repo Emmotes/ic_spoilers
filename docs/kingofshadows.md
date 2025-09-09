@@ -6,7 +6,7 @@
             ![PC Portrait for King of Shadows](images/kingofshadows/portrait.png)
         </span>
         <span>
-        Portrait
+            Portrait
         </span>
     </span>
     <span class="championPortraitsColumn">
@@ -14,7 +14,7 @@
             ![Model GIF of King of Shadows](images/kingofshadows/model.gif)
         </span>
         <span>
-        Model
+            Model
         </span>
     </span>
 </span>

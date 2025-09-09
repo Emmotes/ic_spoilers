@@ -6,7 +6,7 @@
             ![PC Portrait for Farideh](images/farideh/portrait.png)
         </span>
         <span>
-        Portrait
+            Portrait
         </span>
     </span>
 </span>

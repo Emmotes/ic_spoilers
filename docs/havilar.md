@@ -6,7 +6,7 @@
             ![PC Portrait for Havilar](images/havilar/portrait.png)
         </span>
         <span>
-        Portrait
+            Portrait
         </span>
     </span>
 </span>

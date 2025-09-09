@@ -6,7 +6,7 @@
             ![PC Portrait for Alyndra](images/alyndra/portrait.png)
         </span>
         <span>
-        Portrait
+            Portrait
         </span>
     </span>
 </span>
