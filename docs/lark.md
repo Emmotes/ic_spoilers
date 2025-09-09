@@ -1,9 +1,15 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model GIF of Lark](images/lark/model.gif)
+        </span>
+        <span>
+        Model
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 # Lark
 
