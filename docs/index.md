@@ -388,8 +388,8 @@ Miscellaneous spoilers with due dates.
 
 * [Liars' Night Augments](augments_2.md) - 1 October 2025
 * [Emergence 13](emergence_13.md) - 22 October 2025
-* Winterfest Celebration - 3 December 2025
 * [Emergence 14](emergence_14.md) - 24 December 2025
+* [Lawful Modron Core](lawful_modron_core.md) - ???
 
 # Misc
 
