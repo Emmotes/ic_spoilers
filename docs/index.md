@@ -93,6 +93,11 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Simril - 3 December 2025</span>
             </span>
         </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -104,31 +109,6 @@ These are the event champions that are upcoming and all the information we know 
 A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
-{::nomarkdown}
-<a href="alyndra.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Alyndra Sarrbarand Portrait Icon](images/alyndra/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Alyndra Sarrbarand
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf (High) Wizard / Cleric of Heroes of the Planes</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Highharvestide - Delayed until 10 September 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 {::nomarkdown}
 <a href="farideh.html">
 {:/nomarkdown}
@@ -179,7 +159,10 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="nordom.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Nordom Whistleklik Portrait Icon](images/nordom/portrait.png)
         </span>
@@ -191,13 +174,16 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Modron Fighter</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Simril - Delayed until 10 December 2025 (Guess)</span>
+                <span class="indexChampionTableNoLink">Simril - Delayed until 10 December 2025</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
             ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -210,39 +196,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 These are the upcoming new and reworked champions and where they'll be found.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Highharvestide - 3 September 2025
-<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="alyndra.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Alyndra Sarrbarand Portrait Icon](images/alyndra/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Alyndra Sarrbarand
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf (High) Wizard / Cleric of Heroes of the Planes</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 10 September 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-</div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Liars' Night - 1 October 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
@@ -383,17 +336,25 @@ These are the upcoming new and reworked champions and where they'll be found.
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
         </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+            ![Melee Attack Icon](images/general/icon_melee.png)
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="nordom.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Nordom Whistleklik Portrait Icon](images/nordom/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Nordom Whistleklik (Guess)
+                Nordom Whistleklik
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Modron Fighter</span>
@@ -409,6 +370,9 @@ These are the upcoming new and reworked champions and where they'll be found.
             ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 </div></div>
 
@@ -422,6 +386,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
+* [Liars' Night Augments](augments_2.md) - 1 October 2025
 * [Emergence 13](emergence_13.md) - 22 October 2025
 * Winterfest Celebration - 3 December 2025
 * [Emergence 14](emergence_14.md) - 24 December 2025

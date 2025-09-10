@@ -5,6 +5,7 @@
 A list of recently archived spoilers. Note that I delete archives older than 6 months to avoid bloat.
 
 * [Ahghairon's Day Augments](archive/augments_39.md)
+* [Alyndra](archive/alyndra.md)
 * [Baldric Goodhand](archive/baldric.md)
 * [Beadle](archive/beadle.md)
 * [Cazrin Varaith](archive/cazrin.md)
