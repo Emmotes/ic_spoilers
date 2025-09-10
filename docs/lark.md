@@ -59,7 +59,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Support / Debuff (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -104,19 +104,674 @@ Lark will be a new champion in the Simril event on 3 December 2025.
 
 # Attacks
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Vicious Mockery** (Magic)
+> Lark attacks a random enemy, dealing 1 hit. Lark prefers to attack enemies he hasn't attacked yet.  
+> Cooldown: 4s (Cap 1s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 912,
+    "name": "Vicious Mockery",
+    "description": "Lark mocks a random enemy for one hit.",
+    "long_description": "Lark attacks a random enemy, dealing 1 hit. Lark prefers to attack enemies he hasn't attacked yet.",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "target_offset_x": -34,
+            "damage_frame": 2,
+            "jump_sound": 30,
+            "sound_frames": {
+                "2": 154
+            }
+        }
+    ],
+    "tags": [
+        "magic"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Last Resort** (Ranged)
+> Lark fires his Crossbow at the closest enemy, dealing 1 hit and deals 5 seconds of BUD based damage.  
+> Cooldown: 4s (Cap 1s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 913,
+    "name": "Last Resort",
+    "description": "Lark fires his crossbow at the closest target, dealing 5 seconds of BUD-based damage.",
+    "long_description": "Lark fires his Crossbow at the closest enemy, dealing 1 hit and deals 5 seconds of BUD based damage.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "generic",
+            "shoot_frame": 13,
+            "shoot_offset_x": 50,
+            "shoot_offset_y": 0,
+            "projectile_count": 1,
+            "projectile_details": {
+                "projectile_speed": 2400,
+                "has_trail": false,
+                "extend_line": false,
+                "projectile_graphic_id": 27872
+            },
+            "animation_sequence_name": "attack_b"
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Uggie's Bite** (Melee)
+> Uggie leaps out and bites a random enemy, dealing 1 hit. Uggie will prioritize enemies she hasn't attacked yet.  
+> Cooldown: 0s (Cap 0s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 914,
+    "name": "Uggie's Bite",
+    "description": "Uggie protects her persons by biting a scary monster.",
+    "long_description": "Uggie leaps out and bites a random enemy, dealing 1 hit. Uggie will prioritize enemies she hasn't attacked yet.",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 0,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 3
+        }
+    ],
+    "tags": [
+        "melee",
+        "ignore_cooldown_override"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Enthrall**
+> Lark's powerful performance deals 1 ultimate hit to all enemies and charms them, making them more susceptible to additional damage.  
+> Cooldown: 360s (Cap 90s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 917,
+    "name": "Enthrall",
+    "description": "Lark delivers 1 ultimate hit to enemies and makes them vulnerable to additional damage.",
+    "long_description": "Lark's powerful performance deals 1 ultimate hit to all enemies and charms them, making them more susceptible to additional damage.",
+    "graphic_id": 1,
+    "target": "all",
+    "num_targets": 1,
+    "aoe_radius": 150,
+    "damage_modifier": 0.03,
+    "cooldown": 360,
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "lark",
+            "damage_frame": 8,
+            "animation_sequence_name": "ultimate"
+        }
+    ],
+    "tags": [
+        "magic"
+    ],
+    "damage_types": []
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: United Strike (Enthrall)** (Ultimate)
+> Lark directs all the Fallbacks to attack with their ultimate attack, including his own Enthrall.  
+> Cooldown: 360s (Cap 90s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 916,
+    "name": "United Strike (Enthrall)",
+    "description": "Lark directs all the Fallbacks to make their ultimate attack.",
+    "long_description": "Lark directs all the Fallbacks to attack with their ultimate attack, including his own Enthrall.",
+    "graphic_id": 26836,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 360,
+    "animations": [
+        {
+            "type": "united_strike_ultimate"
+        }
+    ],
+    "tags": [
+        "magic"
+    ],
+    "damage_types": [
+        "ultimate"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Call Uggie**
+> Lark calls Uggie to her side.  
+> Cooldown: 0s (Cap 0s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 915,
+    "name": "Call Uggie",
+    "description": "Lark calls Uggie to her side.",
+    "long_description": "Lark calls Uggie to her side.",
+    "graphic_id": 27103,
+    "target": "none",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0,
+    "cooldown": 0,
+    "animations": [
+        {
+            "type": "call_uggie_ultimate",
+            "no_damage_display": true
+        }
+    ],
+    "tags": [
+        "ignore_familiar",
+        "ignore_cooldown_override"
+    ],
+    "damage_types": []
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Abilities
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Bardic Perspiration** (Guess)
+> Uggie joins the party, starting next to Lark unless she's already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2506,
+    "flavour_text": "",
+    "description": {
+        "desc": "Uggie joins the party, starting next to Lark unless she's already in the formation next to another Fallbacks Champion. Uggie increases the damage of all non-adjacent Champions by $amount%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "uggie_handler,100",
+            "off_when_benched": true,
+            "uggie_roaming_disable_index": 1,
+            "uggie_priority": 2,
+            "uggie_buff_effect_id": 2366,
+            "uggie_apply_lark_debuff": true,
+            "call_uggie_ult_id": 915,
+            "united_strike_ult_id": 916,
+            "use_computed_amount_for_description": true,
+            "attack_id": 914
+        },
+        {
+            "effect_string": "disallow_roaming_familiar_ult_trigger",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "uggie_attack_handler,4",
+            "off_when_benched": true,
+            "apply_manually": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27103,
+    "large_graphic_id": 27103,
+    "properties": {
+        "is_formation_ability": true,
+        "show_incoming": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Devil May Care** (Guess)
+> Lark increases the damage of all Champions that aren't in the first or last column by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2507,
+    "flavour_text": "",
+    "description": {
+        "desc": "Lark increases the damage of all Champions that aren't in the first or last column by $amount%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "middle_columns"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27829,
+    "large_graphic_id": 27823,
+    "properties": {
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Uptempo Uggie** (Guess)
+> Uggie's buff is increased by 400% when Lark is in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2508,
+    "flavour_text": "",
+    "description": {
+        "desc": "Uggie's buff is increased by $amount% when Lark is in the formation."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "unleash_uggie_contribution,400",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Rapt Audience** (Guess)
+> When Lark attacks an enemy and does not defeat it, the enemy gains the Charmed debuff. Charmed enemies take 100% additional damage for each Charmed debuff that Lark has applied in the current area, stacking multiplicatively and capping at 10 stacks. If Lark attacks an enemy he has already Charmed, it still increments his Charmed count for the area. Once Lark applies his maximum number of Charmed stacks in an area, he switches over to use his crossbow, named Last Resort.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2509,
+    "flavour_text": "",
+    "description": {
+        "desc": "When Lark attacks an enemy and does not defeat it, the enemy gains the Charmed debuff. Charmed enemies take $amount___2% additional damage for each Charmed debuff that Lark has applied in the current area, stacking multiplicatively and capping at $max_stacks stacks. If Lark attacks an enemy he has already Charmed, it still increments his Charmed count for the area. Once Lark applies his maximum number of Charmed stacks in an area, he switches over to use his crossbow, named Last Resort."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "lark_charmed_counter,100",
+            "max_stacks": 10,
+            "initial_max_stacks": 10,
+            "ultimate_max_stacks": 20,
+            "stacks_multiply": true,
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                },
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset_max_stacks"
+                    }
+                },
+                {
+                    "trigger": "owner_attack_no_kill",
+                    "action": {
+                        "type": "add_stack"
+                    }
+                }
+            ],
+            "show_bonus": true
+        },
+        {
+            "effect_string": "lark_charmed_debuff,100",
+            "lark_weapon_swap_index": 2,
+            "off_when_benched": true,
+            "debuffing_attack_ids": [
+                912,
+                913,
+                914
+            ],
+            "debuff_effects": [
+                {
+                    "effect_string": "increase_monster_damage,100",
+                    "active_graphic_id": 27873,
+                    "active_graphic_y": -120,
+                    "stack_func": "upgrade_stacks",
+                    "stack_func_data": {
+                        "upgrade_id": 18054,
+                        "upgrade_index": 0
+                    },
+                    "use_collection_source": true
+                }
+            ]
+        },
+        {
+            "effect_string": "change_base_attack,913",
+            "off_when_benched": true,
+            "apply_manually": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27830,
+    "large_graphic_id": 27824,
+    "properties": {
+        "is_formation_ability": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Band of Misfits** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 27832,
+    "graphic": "Icons/Events/2017Simril/Simril_Y9/Icon_Specialization_Lark_BandofMisfits",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "specialization_icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Centre of Attention** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 27833,
+    "graphic": "Icons/Events/2017Simril/Simril_Y9/Icon_Specialization_Lark_CentreofAttention",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "specialization_icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Path of Nightmares** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 27834,
+    "graphic": "Icons/Events/2017Simril/Simril_Y9/Icon_Specialization_Lark_PathofNightmares",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "specialization_icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Band of Misfits** (Guess)
+> Lark increases the damage of Devil May Care by 100% for each unique class in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2511,
+    "flavour_text": "",
+    "description": {
+        "desc": "Lark increases the damage of Devil May Care by $amount% for each unique class in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,18051",
+            "stack_func": "per_unique_class",
+            "amount_func": "mult"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27832,
+    "large_graphic_id": 27832,
+    "properties": {
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Centre of Attention** (Guess)
+> Lark increases the damage of Devil May Care by 175% for each Fallback Champion and/or Champion with a Charisma score of 13 or lower in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2512,
+    "flavour_text": "",
+    "description": {
+        "desc": "Lark increases the damage of Devil May Care by $amount% for each Fallback Champion and/or Champion with a Charisma score of 13 or lower in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,175,18051",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "GetStat(`cha`) <= 13 || HasTag(`fallbacks`)",
+            "amount_func": "mult"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27833,
+    "large_graphic_id": 27833,
+    "properties": {
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Path of Nightmares** (Guess)
+> Lark increases the damage of Devil May Care by 175% for each Tiefling and/or Evil Champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2514,
+    "flavour_text": "",
+    "description": {
+        "desc": "Lark increases the damage of Devil May Care by $amount% for each Tiefling and/or Evil Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,175,18051",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`tiefling`) || HasTag(`evil`)",
+            "amount_func": "mult"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27834,
+    "large_graphic_id": 27834,
+    "properties": {
+        "is_formation_ability": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon" style="justify-content:flex-start">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Accessories Icon](images/lark/27851.png)</span><span class="itemTableIcon2">![Accessories Icon](images/lark/27851.png)</span><span class="itemTableIcon3">![Accessories Icon](images/lark/27852.png)</span><span class="itemTableIcon4">![Accessories Icon](images/lark/27853.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Accessories
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Clothing Icon](images/lark/27854.png)</span><span class="itemTableIcon2">![Clothing Icon](images/lark/27854.png)</span><span class="itemTableIcon3">![Clothing Icon](images/lark/27855.png)</span><span class="itemTableIcon4">![Clothing Icon](images/lark/27856.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Clothing
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Drinks Icon](images/lark/27857.png)</span><span class="itemTableIcon2">![Drinks Icon](images/lark/27857.png)</span><span class="itemTableIcon3">![Drinks Icon](images/lark/27858.png)</span><span class="itemTableIcon4">![Drinks Icon](images/lark/27859.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Drinks
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Instruments Icon](images/lark/27860.png)</span><span class="itemTableIcon2">![Instruments Icon](images/lark/27860.png)</span><span class="itemTableIcon3">![Instruments Icon](images/lark/27861.png)</span><span class="itemTableIcon4">![Instruments Icon](images/lark/27862.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Instruments
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Other Rewards Icon](images/lark/27863.png)</span><span class="itemTableIcon2">![Other Rewards Icon](images/lark/27863.png)</span><span class="itemTableIcon3">![Other Rewards Icon](images/lark/27864.png)</span><span class="itemTableIcon4">![Other Rewards Icon](images/lark/27865.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Other Rewards
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Weapons Icon](images/lark/27866.png)</span><span class="itemTableIcon2">![Weapons Icon](images/lark/27866.png)</span><span class="itemTableIcon3">![Weapons Icon](images/lark/27867.png)</span><span class="itemTableIcon4">![Weapons Icon](images/lark/27868.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Weapons
+        </span>
+    </span>
+</span>
 
 # Feats
 
