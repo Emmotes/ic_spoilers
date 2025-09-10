@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Professor Griff Portrait](images/familiars/professorgriff.png)<span class="featTooltipContents">ID: 278**Professor Griff**The judgiest judge to ever judge.<img src="images/familiars/professorgriff.gif" alt="Professor Griff Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Professor Griff
-        </span>
-        <span class="skinTableSource">
-            Legendkeeper Alyndra Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            10 Sept 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Animated Silver Sword Portrait](images/familiars/animatedsilversword.png)<span class="featTooltipContents">ID: 283**Animated Silver Sword**A gift. A burden. The sacred blade of shadow's bane.<img src="images/familiars/animatedsilversword.gif" alt="Animated Silver Sword Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

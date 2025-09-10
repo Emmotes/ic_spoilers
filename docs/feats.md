@@ -30,74 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Torogar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Primal Rage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2009**Primal Rage (Torogar)**I am a conqueror, in her unholy name.<br><br><span style="color:var(--Flavescent)">Increases the effect of Torogar's Preach ability by 80%.</span><code>buff_upgrade,80,4489</code></span>Primal Rage
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Torogar's Preach ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Sept 2025<br>10 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Certainty</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Angel Investor Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2260**Angel Investor (Certainty)**Good enough. I believe in your potential.<br><br><span style="color:var(--Flavescent)">Increases the effect of Certainty's Employee Evaluations ability by 80%.</span><code>buff_upgrade,80,12509</code></span>Angel Investor
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Certainty's Employee Evaluations ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Sept 2025<br>10 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">D'hani</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vicious Verdure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1617**Vicious Verdure (D'hani)**Imagine a dark green. Now, darker. Darker. Keep going.<br><br><span style="color:var(--Flavescent)">Increase the AOE damage dealt by Stroke of Green by 80%.</span><code>buff_upgrade,80,13714,1</code></span>Vicious Verdure
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increase the AOE damage dealt by Stroke of Green by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Sept 2025<br>10 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Alyndra</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Discard the Veil Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1587**Discard the Veil (Alyndra)**Perhaps there is no past, no future. There is only the infinite now.<br><br><span style="color:var(--Flavescent)">Increases the effect of Alyndra's I Have Foreseen This ability by 80%. (Prestack)</span><code>buff_upgrade,80,17747</code></span>Discard the Veil
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Alyndra's I Have Foreseen This ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Sept 2025<br>10 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Melf</span>
         </span>
         <span class="featTableIcon4">
@@ -957,23 +889,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Alyndra</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Enhanced Divination Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1973**Enhanced Divination (Alyndra)**Sometimes my visions are stronger. So much to do...<br><br><span style="color:var(--Flavescent)">Increases the effect of Alyndra's Portent ability by 80%.</span><code>buff_upgrade,80,17752,0</code></span>Enhanced Divination
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Alyndra's Portent ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Jarlaxle</span>
         </span>
         <span class="featTableIcon4">
@@ -1079,10 +994,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Alyndra</span>
         </span>
         <span class="featTableIcon4">
-            ![Extended Divination Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1974**Extended Divination (Alyndra)**Sometimes my visions are longer. So much to see...<br><br><span style="color:var(--Flavescent)">Sets Portent to last for 50 seconds.</span><code>change_upgrade_data,17752,0</code></span>Extended Divination
+            ![Enhanced Divination Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1973**Enhanced Divination (Alyndra)**Sometimes my visions are stronger. So much to do...<br><br><span style="color:var(--Flavescent)">Increases the effect of Alyndra's Portent ability by 80%.</span><code>buff_upgrade,80,17752,0</code></span>Enhanced Divination
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Sets Portent to last for 50 seconds.</span>
+            <span class="featTableInner">Increases the effect of Alyndra's Portent ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1181,10 +1096,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Alyndra</span>
         </span>
         <span class="featTableIcon4">
-            ![Heavy Lifter Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2292**Heavy Lifter (Alyndra)**To know the future is a heavy burden, but I shall bear it.<br><br><span style="color:var(--Flavescent)">Increases the Strength score of Alyndra by 2.</span><code>increase_ability_score,str,2</code></span>Heavy Lifter
+            ![Extended Divination Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1974**Extended Divination (Alyndra)**Sometimes my visions are longer. So much to see...<br><br><span style="color:var(--Flavescent)">Sets Portent to last for 50 seconds.</span><code>change_upgrade_data,17752,0</code></span>Extended Divination
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the Strength score of Alyndra by 2.</span>
+            <span class="featTableInner">Sets Portent to last for 50 seconds.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1249,10 +1164,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Alyndra</span>
         </span>
         <span class="featTableIcon4">
-            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2293**Entertainer (Alyndra)**I have at times plied my trade for simple coin.<br><br><span style="color:var(--Flavescent)">Increases the Charisma score of Alyndra by 2.</span><code>increase_ability_score,cha,2</code></span>Entertainer
+            ![Heavy Lifter Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2292**Heavy Lifter (Alyndra)**To know the future is a heavy burden, but I shall bear it.<br><br><span style="color:var(--Flavescent)">Increases the Strength score of Alyndra by 2.</span><code>increase_ability_score,str,2</code></span>Heavy Lifter
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the Charisma score of Alyndra by 2.</span>
+            <span class="featTableInner">Increases the Strength score of Alyndra by 2.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1355,6 +1270,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Alyndra</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2293**Entertainer (Alyndra)**I have at times plied my trade for simple coin.<br><br><span style="color:var(--Flavescent)">Increases the Charisma score of Alyndra by 2.</span><code>increase_ability_score,cha,2</code></span>Entertainer
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Charisma score of Alyndra by 2.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1491,23 +1423,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Alyndra</span>
-        </span>
-        <span class="featTableIcon4">
-            ![I Did My Homework Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 514**I Did My Homework (Alyndra)**... unlike some people.<br><br><span style="color:var(--Flavescent)">Increases the effect of Alyndra's $(upgrade_name id) ability by 80%.</span><code>buff_upgrade,80,5379,0</code></span>I Did My Homework
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Alyndra's $(upgrade_name id) ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
