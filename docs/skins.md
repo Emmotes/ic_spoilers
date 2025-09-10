@@ -96,6 +96,23 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Knight of the Comet Lae'zel Portrait](images/skin_portraits/knightofthecometlaezel.png)<span class="featTooltipContents">ID: 604**Knight of the Comet Lae'zel (Lae'zel)**<img src="images/skin_models/knightofthecometlaezel.gif" alt="Knight of the Comet Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Knight of the Comet Lae'zel
+        </span>
+        <span class="skinTableSource">
+            Adventure: For Victory
+        </span>
+        <span class="skinTableCost">
+            Free
+        </span>
+        <span class="skinTableDate">
+            24 Sept 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Guardian of Illefarn Portrait](images/skin_portraits/guardianofillefarn.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn (King of Shadows)**<img src="images/skin_models/guardianofillefarn.gif" alt="Guardian of Illefarn Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -164,7 +181,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 609**Lord of Undeath Kas (Kas)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Lord of Undeath Kas Portrait](images/skin_portraits/lordofundeathkas.png)<span class="featTooltipContents">ID: 609**Lord of Undeath Kas (Kas)**<img src="images/skin_models/lordofundeathkas.gif" alt="Lord of Undeath Kas Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Lord of Undeath Kas
@@ -398,6 +415,23 @@ Please be aware that the developers recently removed most future skins from the 
         </span>
         <span class="skinTableDate">
             26 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 633**Cozy Lark (Lark)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Cozy Lark
+        </span>
+        <span class="skinTableSource">
+            Cozy Lark Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            03 Dec 2025
         </span>
     </span>
     <span class="skinTableRow">

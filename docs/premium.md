@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1587**Feat**???: 1587</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Discard the Veil Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 1587**Discard the Veil**Perhaps there is no past, no future. There is only the infinite now.<br><br><span style="color:var(--Flavescent)">Increases the effect of Alyndra's I Have Foreseen This ability by 80%. (Prestack)</span><code>buff_upgrade,80,17747</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 1587</span>
+            <span style="margin-left:15px">Discard the Veil</span>
+            <span style="margin-left:15px">Alyndra</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -378,11 +379,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Beholder Sketch Skin Familiar Skin Portrait](images/premiums/familiar_skin_12.png)<span class="itemTooltipContents">ID: 12**Beholder Sketch Skin**<img src="images/premiums/familiar_skin_12.gif" alt="Familiar Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Shadow Mastiff Skin Familiar Skin Portrait](images/premiums/familiar_skin_14.png)<span class="itemTooltipContents">ID: 14**Shadow Mastiff Skin**<img src="images/premiums/familiar_skin_14.gif" alt="Familiar Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar Skin**</span>
-            <span style="margin-left:15px">Beholder Sketch Skin</span>
+            <span style="margin-left:15px">Shadow Mastiff Skin</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -649,7 +650,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 609**Lord of Undeath Kas (Kas)**</span></span>
+            <span class="tooltipHolder">![Lord of Undeath Kas Skin Portrait](images/premiums/skin_609.png)<span class="itemTooltipContents">ID: 609**Lord of Undeath Kas (Kas)**<img src="images/premiums/skin_609.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1860,6 +1861,76 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 644</div>
+### Cozy Lark Theme Pack - 3,830 Platinum  
+Date of release: 03 Dec 2025
+
+> Unlock Lark along with an exclusive Cozy Skin & Familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Lark Champion Unlock Portrait](images/premiums/unlock_champion_170.png)<span class="itemTooltipContents">ID: 170**Lark**<img src="images/premiums/unlock_champion_170.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Lark</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 633**Cozy Lark (Lark)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Cozy Lark</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 294**Lerk the Lark**No idea where he got that hat from, but he has good taste!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Lerk the Lark</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Lark Chest Chest Portrait](images/premiums/chests_769.png)<span class="itemTooltipContents">ID: 769**Platinum Lark Chest**Loot for: Lark<code>"for_crusaders":[170]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Lark Chest</span>
+            <span style="margin-left:15px">x32 (Shinies x2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Gem Hunter Buff Portrait](images/premiums/buff_1723.png)<span class="itemTooltipContents">ID: 1723**Potion of the Gem Hunter**Increases the gem drops from bosses by 50%<code>increase_boss_gems_percent,50</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of the Gem Hunter</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 645</div>
 ### Cozy Regis Skin & Feat Pack - 1,680 Platinum  
 Date of release: 03 Dec 2025
@@ -2638,7 +2709,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 298**Fixer the Automaton**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 298**Fixer the Automaton**Quicker she says. Always quicker!</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
