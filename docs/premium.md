@@ -1909,7 +1909,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Lark Chest Chest Portrait](images/premiums/chests_769.png)<span class="itemTooltipContents">ID: 769**Platinum Lark Chest**Loot for: Lark<code>"for_crusaders":[170]</code></span></span>
+            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 769**Platinum Lark Chest**Loot for: Lark<code>"for_crusaders":[170]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
