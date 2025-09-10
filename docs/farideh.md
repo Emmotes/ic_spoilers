@@ -68,7 +68,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Hellish Rebuke** (Guess)
-> Enemies that attack any Champion in the formation trigger Farideh's Hellish Rebuke. The enemy is surrounded by green flames for 5 seconds and immediately takes 5 seconds worth of BUD damage.
+> Enemies that attack any Champion in the formation trigger Farideh's Hellish Rebuke. The enemy is surrounded by green flames for 5 seconds and immediately takes 0.5 seconds worth of BUD damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -80,7 +80,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "deal_bud_damage_when_hit,5",
+            "effect_string": "deal_bud_damage_when_hit,0.5",
             "off_when_benched": true,
             "berserk_time": 5,
             "targets": [
