@@ -1713,39 +1713,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="49,103,53,313,313,0,0,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="50,8,129,0,313,313,311,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="50,8,129,0,313,313,311,312">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="50,8,129,0,313,313,311,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="50,8,129,0,313,313,311,0">
         51
     </span>
-    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,312">
+    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,0">
         Avren
     </span>
-    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="50,8,129,0,313,313,311,312">
+    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="50,8,129,0,313,313,311,0">
         11
     </span>
-    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,312">
+    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,312">
+    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,312">
+    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,312">
+    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,0">
         <input type="checkbox" disabled checked><label class="cblabel">w/ Feats</label>
     </span>
-    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,312">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="50,8,129,0,313,313,311,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="50,8,129,0,313,313,311,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="50,8,129,0,313,313,311,312">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="50,8,129,0,313,313,311,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="51,111,41,313,313,0,313,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="51,111,41,313,313,0,313,0">
         52
@@ -1944,39 +1944,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="56,117,0,313,313,313,313,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="57,21,53,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="57,21,53,313,313,312,313,312">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="57,21,53,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="57,21,53,313,313,0,313,0">
         58
     </span>
-    <span class="patronRosterItem" data-sort="57,21,53,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,312,313,312">
+    <span class="patronRosterItem" data-sort="57,21,53,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,0,313,0">
         Briv
     </span>
-    <span class="patronRosterItem" data-sort="57,21,53,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="57,21,53,313,313,312,313,312">
+    <span class="patronRosterItem" data-sort="57,21,53,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="57,21,53,313,313,0,313,0">
         5
     </span>
-    <span class="patronRosterItem" data-sort="57,21,53,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,312,313,312">
+    <span class="patronRosterItem" data-sort="57,21,53,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,0,313,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="57,21,53,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,312,313,312">
+    <span class="patronRosterItem" data-sort="57,21,53,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,0,313,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="57,21,53,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,312,313,312">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="57,21,53,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,0,313,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="57,21,53,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,312,313,312">
+    <span class="patronRosterItem" data-sort="57,21,53,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,0,313,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="57,21,53,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,312,313,312">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="57,21,53,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="57,21,53,313,313,0,313,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="57,21,53,313,313,312,313,312">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="57,21,53,313,313,0,313,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="58,82,141,313,313,313,0,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="58,82,141,313,313,313,0,0">
         59
@@ -2109,39 +2109,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="61,94,129,313,313,313,0,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="62,50,78,313,312,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="62,50,78,313,312,312,313,312">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="62,50,78,313,0,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="62,50,78,313,0,0,313,0">
         63
     </span>
-    <span class="patronRosterItem" data-sort="62,50,78,313,312,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,312,312,313,312">
+    <span class="patronRosterItem" data-sort="62,50,78,313,0,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,0,0,313,0">
         Freely
     </span>
-    <span class="patronRosterItem" data-sort="62,50,78,313,312,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="62,50,78,313,312,312,313,312">
+    <span class="patronRosterItem" data-sort="62,50,78,313,0,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="62,50,78,313,0,0,313,0">
         7
     </span>
-    <span class="patronRosterItem" data-sort="62,50,78,313,312,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,312,312,313,312">
+    <span class="patronRosterItem" data-sort="62,50,78,313,0,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,0,0,313,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="62,50,78,313,312,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,312,312,313,312">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="62,50,78,313,0,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,0,0,313,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="62,50,78,313,312,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,312,312,313,312">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="62,50,78,313,0,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,0,0,313,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="62,50,78,313,312,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,312,312,313,312">
+    <span class="patronRosterItem" data-sort="62,50,78,313,0,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,0,0,313,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="62,50,78,313,312,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,312,312,313,312">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="62,50,78,313,0,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="62,50,78,313,0,0,313,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="62,50,78,313,312,312,313,312">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="62,50,78,313,0,0,313,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="63,14,91,312,312,313,312,290">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="63,14,91,312,312,313,312,290">
         64
@@ -2373,39 +2373,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled checked><label class="cblabel">Until 2027-06-05</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="69,47,0,313,313,313,313,257">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="70,100,141,313,313,312,313,251">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="70,100,141,313,313,312,313,251">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="70,100,141,313,313,0,313,251">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="70,100,141,313,313,0,313,251">
         71
     </span>
-    <span class="patronRosterItem" data-sort="70,100,141,313,313,312,313,251">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,312,313,251">
+    <span class="patronRosterItem" data-sort="70,100,141,313,313,0,313,251">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,0,313,251">
         Penelope
     </span>
-    <span class="patronRosterItem" data-sort="70,100,141,313,313,312,313,251">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="70,100,141,313,313,312,313,251">
+    <span class="patronRosterItem" data-sort="70,100,141,313,313,0,313,251">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="70,100,141,313,313,0,313,251">
         12
     </span>
-    <span class="patronRosterItem" data-sort="70,100,141,313,313,312,313,251">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,312,313,251">
+    <span class="patronRosterItem" data-sort="70,100,141,313,313,0,313,251">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,0,313,251">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="70,100,141,313,313,312,313,251">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,312,313,251">
+    <span class="patronRosterItem" data-sort="70,100,141,313,313,0,313,251">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,0,313,251">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="70,100,141,313,313,312,313,251">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,312,313,251">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="70,100,141,313,313,0,313,251">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,0,313,251">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="70,100,141,313,313,312,313,251">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,312,313,251">
+    <span class="patronRosterItem" data-sort="70,100,141,313,313,0,313,251">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,0,313,251">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="70,100,141,313,313,312,313,251">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,312,313,251">
+    <span class="patronRosterItem" data-sort="70,100,141,313,313,0,313,251">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="70,100,141,313,313,0,313,251">
         <input type="checkbox" disabled checked><label class="cblabel">Until 2027-04-03</label>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="70,100,141,313,313,312,313,251">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="70,100,141,313,313,0,313,251">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="71,79,78,0,311,311,313,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="71,79,78,0,311,311,313,0">
         72
@@ -2604,39 +2604,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled checked><label class="cblabel">Until 2028-09-09</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="76,2,66,0,313,313,0,309">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="77,98,0,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="77,98,0,313,313,312,313,312">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="77,98,0,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="77,98,0,313,313,0,313,0">
         78
     </span>
-    <span class="patronRosterItem" data-sort="77,98,0,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,312,313,312">
+    <span class="patronRosterItem" data-sort="77,98,0,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,0,313,0">
         Orkira
     </span>
-    <span class="patronRosterItem" data-sort="77,98,0,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="77,98,0,313,313,312,313,312">
+    <span class="patronRosterItem" data-sort="77,98,0,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="77,98,0,313,313,0,313,0">
         1
     </span>
-    <span class="patronRosterItem" data-sort="77,98,0,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,312,313,312">
+    <span class="patronRosterItem" data-sort="77,98,0,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,0,313,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="77,98,0,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,312,313,312">
+    <span class="patronRosterItem" data-sort="77,98,0,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,0,313,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="77,98,0,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,312,313,312">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="77,98,0,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,0,313,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="77,98,0,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,312,313,312">
+    <span class="patronRosterItem" data-sort="77,98,0,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,0,313,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="77,98,0,313,313,312,313,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,312,313,312">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="77,98,0,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="77,98,0,313,313,0,313,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="77,98,0,313,313,312,313,312">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="77,98,0,313,313,0,313,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="78,114,104,313,313,313,313,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="78,114,104,313,313,313,313,0">
         79
@@ -3033,39 +3033,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="89,20,27,313,0,311,313,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="90,145,14,0,312,313,0,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="90,145,14,0,312,313,0,312">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="90,145,14,0,311,313,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="90,145,14,0,311,313,0,0">
         91
     </span>
-    <span class="patronRosterItem" data-sort="90,145,14,0,312,313,0,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,312,313,0,312">
+    <span class="patronRosterItem" data-sort="90,145,14,0,311,313,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,311,313,0,0">
         Widdle
     </span>
-    <span class="patronRosterItem" data-sort="90,145,14,0,312,313,0,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="90,145,14,0,312,313,0,312">
+    <span class="patronRosterItem" data-sort="90,145,14,0,311,313,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="90,145,14,0,311,313,0,0">
         2
     </span>
-    <span class="patronRosterItem" data-sort="90,145,14,0,312,313,0,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,312,313,0,312">
+    <span class="patronRosterItem" data-sort="90,145,14,0,311,313,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,311,313,0,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="90,145,14,0,312,313,0,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,312,313,0,312">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="90,145,14,0,311,313,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,311,313,0,0">
+        <input type="checkbox" disabled checked><label class="cblabel">w/ Feats</label>
     </span>
-    <span class="patronRosterItem" data-sort="90,145,14,0,312,313,0,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,312,313,0,312">
+    <span class="patronRosterItem" data-sort="90,145,14,0,311,313,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,311,313,0,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="90,145,14,0,312,313,0,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,312,313,0,312">
+    <span class="patronRosterItem" data-sort="90,145,14,0,311,313,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,311,313,0,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="90,145,14,0,312,313,0,312">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,312,313,0,312">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="90,145,14,0,311,313,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="90,145,14,0,311,313,0,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="90,145,14,0,312,313,0,312">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="90,145,14,0,311,313,0,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="91,152,116,0,313,0,311,295">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="91,152,116,0,313,0,311,295">
         92
