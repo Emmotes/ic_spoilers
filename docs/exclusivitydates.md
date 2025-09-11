@@ -35,40 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Krond</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Cantrip: Ascendant Thunderclap Icon](images/featicons/krondthunderclap.png)<span class="featTooltipContents">ID: 2217**Cantrip: Ascendant Thunderclap (Krond)**I survived the thunderous bellow of the legendary tarrasque. Now I wield that ruin for my own.<br><br><span style="color:var(--Flavescent)">Krond's base attack deals 400% of its damage as area damage to all nearby enemies.</span><code>krond_thunderclap,400<br>change_base_attack,863</code></span>Cantrip: Ascendant Thunderclap
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Krond's base attack deals 400% of its damage as area damage to all nearby enemies.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">11 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">BBEG</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Undead Army Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2140**Undead Army (BBEG)**Death is not the end. Life begins after death. Live your afterlife to the fullest.<br><br><span style="color:var(--Flavescent)">Increases the effect of BBEG's Sources of Corpses ability by 80%. (Prestack)</span><code>buff_upgrade,80,11542</code></span>Undead Army
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of BBEG's Sources of Corpses ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">11 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Antrius</span>
         </span>
         <span class="featTableIcon4">
@@ -544,8 +510,8 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableDate">
                 <span>11 June 2025</span>
             </span>
-            <span class="postSeasonTableDate">
-                <span>11 September 2025 (Guess)</span>
+            <span class="postSeasonTableDateLate">
+                <span>11 September 2025 (Guess) (Late)</span>
             </span>
         </span>
     </span>
