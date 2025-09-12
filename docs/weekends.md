@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/758.png">
-            <span class="weekendTooltipContents">ID: 758**Gold Boldness Chest**Loot for: Makos, Jarlaxle, Briv, Widdle and Alyndra<code>"for_crusaders":[9,4,58,91,77]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Brave & Bold**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    12 September 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jarlaxle.png'">
-                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/briv.png'">
-                        <span class="weekendTableChampionNameplate">Briv</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/widdle.png'">
-                        <span class="weekendTableChampionNameplate">Widdle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/alyndra.png'">
-                        <span class="weekendTableChampionNameplate">Alyndra</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/759.png">
             <span class="weekendTooltipContents">ID: 759**Gold Commercial Chest**Loot for: Calliope, Celeste, Diana, Hank and Bobby<code>"for_crusaders":[5,2,148,163,152]</code></span>
         </span>
