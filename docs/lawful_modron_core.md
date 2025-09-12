@@ -1,3 +1,5 @@
+[Back to Main](index.md)
+
 # Lawful Modron Core
 
 Right now the only information we have about this is its icon.
@@ -7,3 +9,7 @@ Right now the only information we have about this is its icon.
 | Icon | Name |
 |---|---|
 | ![Lawful Modron Core Icon](images/lawful_modron_core/icon.png) | `Icons/Icon_ModronCore_Lawful` |
+
+[Back to Top](#top)
+
+*Last Modified: {{ site.time }}*
