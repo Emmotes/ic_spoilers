@@ -96,7 +96,7 @@ Please be aware that the developers recently removed most future skins from the 
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 608**Darklord Farideh (Farideh)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 608**Darklord Farideh (Farideh)**<img src="images/skin_models/darklordfarideh.gif" alt="Darklord Farideh Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
             Darklord Farideh
