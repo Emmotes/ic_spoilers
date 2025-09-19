@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/759.png">
-            <span class="weekendTooltipContents">ID: 759**Gold Commercial Chest**Loot for: Calliope, Celeste, Diana, Hank and Bobby<code>"for_crusaders":[5,2,148,163,152]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **We'll Be Right Back**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    19 September 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
-                        <span class="weekendTableChampionNameplate">Diana</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hank.png'">
-                        <span class="weekendTableChampionNameplate">Hank</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bobby.png'">
-                        <span class="weekendTableChampionNameplate">Bobby</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/760.png">
             <span class="weekendTooltipContents">ID: 760**Gold Rising Darkness Chest**Loot for: Bruenor, Tyril, Lae'zel, Karlach and Melf<code>"for_crusaders":[1,10,128,143,59]</code></span>
         </span>
