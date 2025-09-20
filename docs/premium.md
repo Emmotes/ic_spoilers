@@ -580,7 +580,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 612**Nightwalker Krond (Krond)**</span></span>
+            <span class="tooltipHolder">![Nightwalker Krond Skin Portrait](images/premiums/skin_612.png)<span class="itemTooltipContents">ID: 612**Nightwalker Krond (Krond)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
