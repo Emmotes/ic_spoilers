@@ -40,7 +40,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "target": "random",
     "num_targets": 1,
-    "aoe_radius": 0,
+    "aoe_radius": 150,
     "damage_modifier": 1,
     "cooldown": 4.3,
     "animations": [
@@ -155,7 +155,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Fiendish Resolve** (Guess)
-> When any Fiend enemies are on-screen, Havilar focuses less on her own attacks and more on buffing her party. Her base attack cooldown is doubled, but the effect of Leadership Summit is increased by 100% for each Fiend that has appeared in the current area, stacking multiplicatively and capping at 25. Demon bosses count 15 times.
+> When any Fiend enemies are on-screen, Havilar focuses less on her own attacks and more on buffing her party. Her base attack cooldown is doubled, but the effect of Leadership Summit is increased by 100% for each Fiend that has appeared in the current area, stacking multiplicatively and capping at 25. Fiend bosses count 15 times.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -165,7 +165,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2496,
     "flavour_text": "",
     "description": {
-        "desc": "When any Fiend enemies are on-screen, Havilar focuses less on her own attacks and more on buffing her party. Her base attack cooldown is doubled, but the effect of Leadership Summit is increased by $amount___3% for each Fiend that has appeared in the current area, stacking multiplicatively and capping at $max_stacks___4. Demon bosses count 15 times."
+        "desc": "When any Fiend enemies are on-screen, Havilar focuses less on her own attacks and more on buffing her party. Her base attack cooldown is doubled, but the effect of Leadership Summit is increased by $amount___3% for each Fiend that has appeared in the current area, stacking multiplicatively and capping at $max_stacks___4. Fiend bosses count 15 times."
     },
     "effect_keys": [
         {
@@ -200,7 +200,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 2
+        "default_bonus_index": 2,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -312,7 +313,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2499,
     "flavour_text": "",
     "description": {
-        "desc": "Champions affected by Havilar's Leadership Summit gain the Control role (if they didn't already have it) and have a $amount___2% chance for enemies they attack to go berserk for $for_time___2 seconds. Berserked enemies move 50% faster, attack twice as often, but deal 90% less damage."
+        "desc": "Champions affected by Havilar's Leadership Summit gain the Control role (if they didn't already have it) and have a $amount___2% chance for enemies they attack to go berserk for $berserk_time___2 seconds. Berserked enemies move 50% faster, attack twice as often, but deal 90% less damage."
     },
     "effect_keys": [
         {
@@ -326,11 +327,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "type": "affected_by_upgrade",
                     "upgrade_id": 18036
                 }
-            ]
+            ],
+            "override_key_desc": "Adds the Control role and enemies hit by $target have a $(active_upgrade_value 18040,1)% chance to go berserk"
         },
         {
             "effect_string": "havilar_battle_master_handler_v2,25",
-            "for_time": 8,
+            "berserk_time": 8,
             "berserk_effect": {
                 "effect_string": "effect_def,2472"
             }
@@ -344,7 +346,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 1
+        "default_bonus_index": 1,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -517,7 +520,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "post_process_expr": "2",
             "amount_updated_listeners": [
                 "slot_changed"
-            ]
+            ],
+            "condition_description": "Havilar has Dembo as an Imp companion (+2 stacks)",
+            "index": 11
         }
     ],
     "requirements": "",
@@ -529,7 +534,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "retain_on_slot_changed": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 2
+        "default_bonus_index": 2,
+        "show_incoming": false
     }
 }
 </pre>
@@ -547,7 +553,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2503,
     "flavour_text": "",
     "description": {
-        "desc": "Havilar gains Olla as an Imp companion. Olla increases the effect of Leadership Summit by $amount___3% for each unique enemy Havilar has tanked in the current area, stacking multiplicatively and capping at 100. Additionally, when Havilar or either of her Imps attack an enemy, the enemy is taunted to attack Havilar."
+        "desc": "Havilar gains Olla as an Imp companion. Olla increases the effect of Leadership Summit by $(not_buffed amount___3)% for each unique enemy Havilar has tanked in the current area, stacking multiplicatively and capping at $max_stacks___3. Additionally, when Havilar or either of her Imps attack an enemy, the enemy is taunted to attack Havilar."
     },
     "effect_keys": [
         {
@@ -574,7 +580,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "havilar_olla_tanking_handler",
-            "max_stacks": 100,
             "buff_index": 2
         }
     ],
@@ -605,7 +610,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2504,
     "flavour_text": "",
     "description": {
-        "desc": "Havilar gains Bosh as an Imp companion. Bosh increases the effect of Leadership Summit by $amount___3% for each enemy or boss enrage stack active, stacking multiplicatively up to $max_stacks___3 stacks, and also increases Havilar's maximum health by $amount___4%."
+        "desc": "Havilar gains Bosh as an Imp companion. Bosh increases the effect of Leadership Summit by $amount___3% for each enemy or boss enrage stack active, stacking multiplicatively up to $stack_func_cap___3 stacks, and also increases Havilar's maximum health by $amount___4%."
     },
     "effect_keys": [
         {
@@ -623,12 +628,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "buff_upgrade,50,18036",
             "off_when_benched": true,
             "amount_func": "mult",
-            "stack_func": "monsters_on_screen",
-            "post_process_expr": "input + boss_enrage_stacks",
-            "max_stacks": 100,
+            "stack_func": "per_max_monster_power_boost_stacks",
+            "stack_func_cap": 100,
             "amount_updated_listeners": [
-                "enrage_stacks_changed",
-                "monster_spawned"
+                "enrage_stacks_changed"
             ],
             "show_bonus": true
         },
