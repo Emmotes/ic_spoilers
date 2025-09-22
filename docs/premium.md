@@ -580,7 +580,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Nightwalker Krond Skin Portrait](images/premiums/skin_612.png)<span class="itemTooltipContents">ID: 612**Nightwalker Krond (Krond)**</span></span>
+            <span class="tooltipHolder">![Nightwalker Krond Skin Portrait](images/premiums/skin_612.png)<span class="itemTooltipContents">ID: 612**Nightwalker Krond (Krond)**<img src="images/premiums/skin_612.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -978,11 +978,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2350**TBD Sentry Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Taunt Feat Portrait](images/featicons/taunt.png)<span class="itemTooltipContents">ID: 2350**Taunt**Foes assail me, but my shield echoes my will: unyielding, unbroken.<br><br><span style="color:var(--Flavescent)">All Champions damage +100%. Sentry's attacks have a 50% chance to taunt enemies.</span><code>global_dps_multiplier_mult,100<br>taunt,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Sentry Feat (Do not translate)</span>
+            <span style="margin-left:15px">Taunt</span>
             <span style="margin-left:15px">Sentry</span>
         </span>
     </span>
@@ -1049,11 +1049,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2351**TBD Widdle Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Entertainer Feat Portrait](images/featicons/attributeboostx2.png)<span class="itemTooltipContents">ID: 2351**Entertainer**Do you have any idea how difficult it is to keep Darklords entertained?<br><br><span style="color:var(--Flavescent)">Increases the Charisma score of Widdle by 2.</span><code>increase_ability_score,cha,2</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Widdle Feat (Do not translate)</span>
+            <span style="margin-left:15px">Entertainer</span>
             <span style="margin-left:15px">Widdle</span>
         </span>
     </span>
@@ -1120,7 +1120,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 292**Lefty the Crawling Claw**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 292**Lefty the Crawling Claw**Undeath wrecks your cuticles--you have to stay on top of that.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1190,11 +1190,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2352**TBD Turiel Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Axiomatic Embrace Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2352**Axiomatic Embrace**Good may be corrupted, but law is ineffable by definition.<code>todo<br>DevNote: Note: We haven't buffed the ability before, so we need an effect for it. We also need to ensure it buffs the pre-stack value.</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Turiel Feat (Do not translate)</span>
+            <span style="margin-left:15px">Axiomatic Embrace</span>
             <span style="margin-left:15px">Turiel</span>
         </span>
     </span>
@@ -1261,11 +1261,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2353**TBD Minthara Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Intense Strife Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2353**Intense Strife**You think yourself broken? Defeated? I've only just begun.<br><br><span style="color:var(--Flavescent)">Increases the effect of Minthara's Soul Branding ability by 80%. (Prestack)</span><code>buff_upgrade,80,15944,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Minthara Feat (Do not translate)</span>
+            <span style="margin-left:15px">Intense Strife</span>
             <span style="margin-left:15px">Minthara</span>
         </span>
     </span>
@@ -1394,11 +1394,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2355**TBD Jang Sao Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Eternity and Infinity Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2355**Eternity and Infinity**Nothing can be bolder. Nothing can be vaster.<br><br><span style="color:var(--Flavescent)">Increases the effect of Jang Sao's Wisdom of the Ages and Speed of Shooting Stars by 80%. (Prestack)</span><code>buff_upgrades,80,13261,13262</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Jang Sao Feat (Do not translate)</span>
+            <span style="margin-left:15px">Eternity and Infinity</span>
             <span style="margin-left:15px">Jang Sao</span>
         </span>
     </span>
@@ -1465,11 +1465,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2356**TBD Virgil Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2356**Standard Affair**We're all in this together! ...No, Kent, I'm not singing.<code>todo<br>DevNote: Increase damage of all Champions by 20% for each standard species in the formation, stacking additively.Need an effect string for this</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Virgil Feat (Do not translate)</span>
+            <span style="margin-left:15px">Standard Affair</span>
             <span style="margin-left:15px">Virgil</span>
         </span>
     </span>
@@ -1536,11 +1536,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2357**TBD Sheila Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Best Friends Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2357**Best Friends**I trust my friends, and they trust me! We'll always be together!<br><br><span style="color:var(--Flavescent)">Increases the effect of Sheila's Meekly Meeting, Youthful Allies and A Rosy Outlook by 80%. (Prestack)</span><code>buff_upgrades,80,16541,16542,16543</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Sheila Feat (Do not translate)</span>
+            <span style="margin-left:15px">Best Friends</span>
             <span style="margin-left:15px">Sheila</span>
         </span>
     </span>
@@ -1626,7 +1626,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 769**Platinum Lark Chest**Loot for: Lark<code>"for_crusaders":[170]</code></span></span>
+            <span class="tooltipHolder">![Platinum Lark Chest Chest Portrait](images/premiums/chests_769.png)<span class="itemTooltipContents">ID: 769**Platinum Lark Chest**Loot for: Lark<code>"for_crusaders":[170]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
@@ -1677,11 +1677,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2358**TBD Regis Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2358**Standard Affair**I could teach you a thing or two about underestimating common folk.<code>todo<br>DevNote: Increase damage of all Champions by 20% for each standard species in the formation, stacking additively.Need an effect string for this</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Regis Feat (Do not translate)</span>
+            <span style="margin-left:15px">Standard Affair</span>
             <span style="margin-left:15px">Regis</span>
         </span>
     </span>
@@ -1748,11 +1748,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2359**TBD Shadowheart Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1981**Prodigal Leader**Pain was my teacher. Let's share what I've learned.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Shadowheart Feat (Do not translate)</span>
+            <span style="margin-left:15px">Prodigal Leader</span>
             <span style="margin-left:15px">Shadowheart</span>
         </span>
     </span>
@@ -1881,11 +1881,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2360**TBD Yorven Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Too Late Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2360**Too Late**The longer I fight, the angrier I get.<br><br><span style="color:var(--Flavescent)">Increases the effect of Yorven's Down The Rabbit Hole ability by 80%.</span><code>buff_upgrade,80,17066</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Yorven Feat (Do not translate)</span>
+            <span style="margin-left:15px">Too Late</span>
             <span style="margin-left:15px">Yorven</span>
         </span>
     </span>
@@ -2022,11 +2022,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2361**TBD Halsin Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2361**Multiversal Allies**To serve and protect nature is a common bond that transcends all borders.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Halsin Feat (Do not translate)</span>
+            <span style="margin-left:15px">Multiversal Allies</span>
             <span style="margin-left:15px">Halsin</span>
         </span>
     </span>
@@ -2184,11 +2184,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2362**TBD Warduke Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Blazing Blade Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2362**Blazing Blade**I don't WANT to think about tactics. I want to HIT things with my SWORD!<br><br><span style="color:var(--Flavescent)">Increases the effect of Warduke's A Trained Killer ability by 80%.</span><code>buff_upgrade,80,9615</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Warduke Feat (Do not translate)</span>
+            <span style="margin-left:15px">Blazing Blade</span>
             <span style="margin-left:15px">Warduke</span>
         </span>
     </span>
@@ -2373,11 +2373,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2363**TBD Vin Ursa Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Orbital Ooze Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2224**Orbital Ooze**I'm a simple plasmoid making my way through wildspace.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 80%.</span><code>buff_upgrades,80,12092,12093,12094</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Vin Ursa Feat (Do not translate)</span>
+            <span style="margin-left:15px">Orbital Ooze</span>
             <span style="margin-left:15px">Vin Ursa</span>
         </span>
     </span>
@@ -2435,11 +2435,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2364**TBD Lazaapz Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Inexhaustible Fury Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2364**Inexhaustible Fury**Let's GO! I feel GREAT! I could break stuff all DAY!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lazaapz's first set of Specializations by 80%.</span><code>buff_upgrades,80,17484,17485,17486</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Lazaapz Feat (Do not translate)</span>
+            <span style="margin-left:15px">Inexhaustible Fury</span>
             <span style="margin-left:15px">Lazaapz</span>
         </span>
     </span>

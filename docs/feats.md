@@ -33,10 +33,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Melf</span>
         </span>
         <span class="featTableIcon4">
-            ![Heroic Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2295**Heroic Legacy (Melf)**With every step, every breath, I strive to create a better world for all.<br><br><span style="color:var(--Flavescent)">Increases the effect of Melf's Bonus Adaption, Extra Supplements and Absolute Righteousness by 80%.</span><code>buff_upgrades,80,3513,3514,3515</code></span>Heroic Legacy
+            ![Heroic Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2295**Heroic Legacy (Melf)**With every step, every breath, I strive to create a better world for all.<br><br><span style="color:var(--Flavescent)">Increases the effect of Melf's Specializations by 80%.</span><code>buff_upgrades,80,3513,3514,3515</code></span>Heroic Legacy
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Melf's Bonus Adaption, Extra Supplements and Absolute Righteousness by 80%.</span>
+            <span class="featTableInner">Increases the effect of Melf's Specializations by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Tales of the Champions</span>
@@ -336,6 +336,108 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Widdle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2351**Entertainer (Widdle)**Do you have any idea how difficult it is to keep Darklords entertained?<br><br><span style="color:var(--Flavescent)">Increases the Charisma score of Widdle by 2.</span><code>increase_ability_score,cha,2</code></span>Entertainer
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Charisma score of Widdle by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">05 Nov 2025<br>05 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Sentry</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 2350**Taunt (Sentry)**Foes assail me, but my shield echoes my will: unyielding, unbroken.<br><br><span style="color:var(--Flavescent)">All Champions damage +100%. Sentry's attacks have a 50% chance to taunt enemies.</span><code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +100%. Sentry's attacks have a 50% chance to taunt enemies.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">05 Nov 2025<br>05 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Turiel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Axiomatic Embrace Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2352**Axiomatic Embrace (Turiel)**Good may be corrupted, but law is ineffable by definition.<code>todo<br>DevNote: Note: We haven't buffed the ability before, so we need an effect for it. We also need to ensure it buffs the pre-stack value.</code></span>Axiomatic Embrace
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">12 Nov 2025<br>12 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Intense Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2353**Intense Strife (Minthara)**You think yourself broken? Defeated? I've only just begun.<br><br><span style="color:var(--Flavescent)">Increases the effect of Minthara's Soul Branding ability by 80%. (Prestack)</span><code>buff_upgrade,80,15944,0</code></span>Intense Strife
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Minthara's Soul Branding ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">12 Nov 2025<br>12 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Jang Sao</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Eternity and Infinity Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2355**Eternity and Infinity (Jang Sao)**Nothing can be bolder. Nothing can be vaster.<br><br><span style="color:var(--Flavescent)">Increases the effect of Jang Sao's Wisdom of the Ages and Speed of Shooting Stars by 80%. (Prestack)</span><code>buff_upgrades,80,13261,13262</code></span>Eternity and Infinity
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Jang Sao's Wisdom of the Ages and Speed of Shooting Stars by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">19 Nov 2025<br>19 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Virgil</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2356**Standard Affair (Virgil)**We're all in this together! ...No, Kent, I'm not singing.<code>todo<br>DevNote: Increase damage of all Champions by 20% for each standard species in the formation, stacking additively.Need an effect string for this</code></span>Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">19 Nov 2025<br>19 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Gromma</span>
         </span>
         <span class="featTableIcon4">
@@ -356,16 +458,237 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Hank</span>
         </span>
         <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2349**Prodigal Leader (Hank)**<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2349**Prodigal Leader (Hank)**I won't leave a single one of my friends behind!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">All Champions damage +50%.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Tales of the Champions</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">26 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Sheila</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Best Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2357**Best Friends (Sheila)**I trust my friends, and they trust me! We'll always be together!<br><br><span style="color:var(--Flavescent)">Increases the effect of Sheila's Meekly Meeting, Youthful Allies and A Rosy Outlook by 80%. (Prestack)</span><code>buff_upgrades,80,16541,16542,16543</code></span>Best Friends
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Sheila's Meekly Meeting, Youthful Allies and A Rosy Outlook by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">26 Nov 2025<br>26 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Shadowheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1981**Prodigal Leader (Shadowheart)**Pain was my teacher. Let's share what I've learned.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Dec 2025<br>03 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Regis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2358**Standard Affair (Regis)**I could teach you a thing or two about underestimating common folk.<code>todo<br>DevNote: Increase damage of all Champions by 20% for each standard species in the formation, stacking additively.Need an effect string for this</code></span>Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Dec 2025<br>03 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Yorven</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Too Late Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2360**Too Late (Yorven)**The longer I fight, the angrier I get.<br><br><span style="color:var(--Flavescent)">Increases the effect of Yorven's Down The Rabbit Hole ability by 80%.</span><code>buff_upgrade,80,17066</code></span>Too Late
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Yorven's Down The Rabbit Hole ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Dec 2025<br>03 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Halsin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2361**Multiversal Allies (Halsin)**To serve and protect nature is a common bond that transcends all borders.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">10 Dec 2025<br>10 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Warduke</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Blazing Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2362**Blazing Blade (Warduke)**I don't WANT to think about tactics. I want to HIT things with my SWORD!<br><br><span style="color:var(--Flavescent)">Increases the effect of Warduke's A Trained Killer ability by 80%.</span><code>buff_upgrade,80,9615</code></span>Blazing Blade
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Warduke's A Trained Killer ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">10 Dec 2025<br>10 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kas</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2375**Resolute (Kas)**I've lost touch with my true self for too long. No more.<code>todo<br>DevNote: Stun Immunity</code></span>Resolute
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Calliope</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2398**Scholar (Calliope)**Why didn't anyone tell me books could be so freaking exciting!?<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Calliope by 2.</span><code>increase_ability_score,int,2</code></span>Scholar
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Intelligence score of Calliope by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 14</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">24 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Windfall</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Drifter Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2399**Drifter (Windfall)**I'll leave you crying every day once I'm gone. Not sorry.<br><br><span style="color:var(--Flavescent)">Increases the effect of Windfall's The Long Game ability by 80%.</span><code>buff_upgrade,80,17053</code></span>Drifter
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Windfall's The Long Game ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 14</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">24 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vengeful Composure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1969**Vengeful Composure (Minthara)**Our foes will be reduced to nothing in time.<br><br><span style="color:var(--Flavescent)">The Piercing component of Minthara's Oath of Vengeance ability only requires 1 Soul Branding stack to trigger.</span><code>change_upgrade_data,15945,2</code></span>Vengeful Composure
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">The Piercing component of Minthara's Oath of Vengeance ability only requires 1 Soul Branding stack to trigger.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 14</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">24 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Beadle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2400**Prodigal Leader (Beadle)**He may be small, but he has the heart of a dragon. ~Grimm<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 14</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">24 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Vin Ursa</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Orbital Ooze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2224**Orbital Ooze (Vin Ursa)**I'm a simple plasmoid making my way through wildspace.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 80%.</span><code>buff_upgrades,80,12092,12093,12094</code></span>Orbital Ooze
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Dec 2025<br>30 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lazaapz</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Inexhaustible Fury Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2364**Inexhaustible Fury (Lazaapz)**Let's GO! I feel GREAT! I could break stuff all DAY!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lazaapz's first set of Specializations by 80%.</span><code>buff_upgrades,80,17484,17485,17486</code></span>Inexhaustible Fury
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Lazaapz's first set of Specializations by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Dec 2025<br>30 Mar 2026</span>
         </span>
     </span>
 </span>
@@ -804,23 +1127,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Shadowheart</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1981**Prodigal Leader (Shadowheart)**Pain was my teacher. Let's share what I've learned.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Uriah</span>
         </span>
         <span class="featTableIcon4">
@@ -1042,23 +1348,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vengeful Composure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1969**Vengeful Composure (Minthara)**Our foes will be reduced to nothing in time.<br><br><span style="color:var(--Flavescent)">The Piercing component of Minthara's Oath of Vengeance ability only requires 1 Soul Branding stack to trigger.</span><code>change_upgrade_data,15945,2</code></span>Vengeful Composure
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">The Piercing component of Minthara's Oath of Vengeance ability only requires 1 Soul Branding stack to trigger.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Regis</span>
         </span>
         <span class="featTableIcon4">
@@ -1253,23 +1542,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the spawn rate of Umberto's bees by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Vin Ursa</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Orbital Ooze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2224**Orbital Ooze (Vin Ursa)**I'm a simple plasmoid making my way through wildspace.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 80%.</span><code>buff_upgrades,80,12092,12093,12094</code></span>Orbital Ooze
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

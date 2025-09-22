@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 292**Lefty the Crawling Claw**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 292**Lefty the Crawling Claw**Undeath wrecks your cuticles--you have to stay on top of that.</span></span>
         </span>
         <span class="skinTableName">
             Lefty the Crawling Claw
