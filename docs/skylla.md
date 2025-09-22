@@ -318,8 +318,6 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Whispers of Baba Yaga** (Guess)
 > Skylla increases the damage of all Champions in the column in front of her by 100% for each Champion affected by this ability, stacking multiplicatively.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -347,7 +345,8 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "show_bonus": true
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
@@ -358,7 +357,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -376,11 +375,11 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "id": 2475,
     "flavour_text": "",
     "description": {
-        "desc": "When Skylla attacks an enemy but doesn't defeat it, she casts Faerie Fire on it. Champions deal $(amount___2)% additional damage to enemies affected by Faerie Fire."
+        "desc": "When Skylla attacks an enemy but doesn't defeat it, she casts Faerie Fire on it. Champions deal $amount% additional damage to enemies affected by Faerie Fire."
     },
     "effect_keys": [
         {
-            "effect_string": "skylla_faerie_fire_handler",
+            "effect_string": "skylla_faerie_fire_handler,100",
             "off_when_benched": true,
             "faerie_fire_effect_key": "skylla_faerie_fire",
             "debuffing_attack_ids": [
@@ -390,7 +389,12 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             ],
             "debuff_effects": [
                 {
-                    "effect_string": "skylla_faerie_fire"
+                    "effect_string": "increase_monster_damage,100",
+                    "use_collection_source": true
+                },
+                {
+                    "effect_string": "skylla_faerie_fire",
+                    "force_is_debuff": false
                 }
             ],
             "particle_names": [
@@ -400,8 +404,12 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             "tint_color": 0
         },
         {
-            "effect_string": "increase_damage_against_monster,100",
-            "monster_has_effect_key": "skylla_faerie_fire"
+            "effect_string": "expression_on_trigger,monster_killed_with_effect_key",
+            "trigger_params": [
+                "skylla_faerie_fire"
+            ],
+            "per_trigger_expr": "AppendToSaveStat(`skylla_enemies_affected_by_faerie_fire`, false, trigger_count)",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -410,9 +418,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 1
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -469,7 +475,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Witches Switch** (Guess)
-> Most formation abilities featuring ability score thresholds now target Champions who do not meet the thresholds, instead of those that do, and the effect of Whispers of Baba Yaga is increased by 200% for each such ability, stacking multiplicatively.
+> Other Champions in the party have their ability scores switched: STR with CHA, DEX with INT, and CON with WIS. The effect of Whispers of Baba Yaga is increased by 100% each time the difference between the switched scores is 5 or more, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -477,7 +483,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "id": 2477,
     "flavour_text": "",
     "description": {
-        "desc": "Most formation abilities featuring ability score thresholds now target Champions who do not meet the thresholds, instead of those that do, and the effect of Whispers of Baba Yaga is increased by 200% for each such ability, stacking multiplicatively."
+        "desc": "Other Champions in the party have their ability scores switched: STR with CHA, DEX with INT, and CON with WIS. The effect of Whispers of Baba Yaga is increased by 100% each time the difference between the switched scores is 5 or more, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -489,9 +495,12 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "as_int(hero_id != 169) * (as_int(abs(GetStat(`str`) - GetStat(`cha`)) >= 4) + as_int(abs(GetStat(`dex`) - GetStat(`int`)) >= 4) + as_int(abs(GetStat(`con`) - GetStat(`wis`)) >= 4))",
+            "per_hero_expr": "as_int(hero_id != 169) * (as_int(abs(GetStat(`str`) - GetStat(`cha`)) > 4) + as_int(abs(GetStat(`dex`) - GetStat(`int`)) > 4) + as_int(abs(GetStat(`con`) - GetStat(`wis`)) > 4))",
             "stacks_multiply": true,
-            "show_bonus": true
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
         }
     ],
     "requirements": "",
@@ -557,7 +566,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Wthering Ward** (Guess)
-> Increase the effect of Whispers of Baba Yaga by 33% for each debuff that has been applied to an enemy in the current area, stacking multiplicatively and capping at 50.
+> Increases the effect of Whispers of Baba Yaga by 33% for each debuff that has been applied to an enemy in the current area, stacking multiplicatively and capping at 50.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -565,19 +574,23 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "id": 2479,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of Whispers of Baba Yaga by $(not_buffed amount)% for each debuff that has been applied to an enemy in the current area, stacking multiplicatively and capping at $max_stacks."
+        "desc": "Increases the effect of Whispers of Baba Yaga by $(not_buffed amount)% for each debuff that has been applied to an enemy in the current area, stacking multiplicatively and capping at $max_stacks."
     },
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,33,17845,1",
             "off_when_benched": true,
             "stacks_on_trigger": "debuff_applied",
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                }
+            ],
             "stacks_multiply": true,
             "max_stacks": 50,
-            "amount_updated_listeners": [
-                "hero_tags_changed",
-                "slot_changed"
-            ],
             "show_bonus": true
         }
     ],
@@ -586,10 +599,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "large_graphic_id": 27679,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -611,7 +621,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,17851",
+            "effect_string": "buff_upgrade,100,17846",
             "off_when_benched": true
         }
     ],
@@ -620,10 +630,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
     "large_graphic_id": 27675,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -658,10 +665,16 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
                 "tint_color": 1,
                 "debuff_effects": [
                     {
-                        "effect_string": "skylla_faerie_fire"
+                        "effect_string": "increase_monster_damage,100",
+                        "use_collection_source": true
                     },
                     {
-                        "effect_string": "monster_crit_hit_chance,40"
+                        "effect_string": "skylla_faerie_fire",
+                        "force_is_debuff": false
+                    },
+                    {
+                        "effect_string": "buff_incoming_crit_chance_add,40",
+                        "force_is_debuff": false
                     }
                 ]
             }
@@ -709,10 +722,16 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
                 "tint_color": 2,
                 "debuff_effects": [
                     {
-                        "effect_string": "skylla_faerie_fire"
+                        "effect_string": "increase_monster_damage,100",
+                        "use_collection_source": true
                     },
                     {
-                        "effect_string": "increase_damage_on_armor_and_hits,1"
+                        "effect_string": "skylla_faerie_fire",
+                        "force_is_debuff": false
+                    },
+                    {
+                        "effect_string": "increase_damage_on_armor_and_hits,1",
+                        "force_is_debuff": false
                     }
                 ]
             }
