@@ -245,11 +245,11 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
         }
     ],
     "tags": [
-        "ranged",
+        "magic",
         "ultimate"
     ],
     "damage_types": [
-        "ranged"
+        "magic"
     ]
 }
 </pre>
@@ -345,11 +345,13 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2448,
     "flavour_text": "",
     "description": {
-        "desc": "The King of Shadows increases the damage of himself and Champions in the two columns behind him by $king_of_shadows_power_king%. This is increased by $(not_buffed amount)% each time the King of Shadows' max health is doubled, stacking multiplicatively."
+        "desc": "The King of Shadows increases the damage of himself and Champions in the two columns behind him by $king_of_shadows_power_king%. This is increased by $(amount___3)% each time the King of Shadows' max health is doubled, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,100,17757",
+            "amount_expr": "upgrade_amount(17757,2)",
+            "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "post_process_expr": "log(GetHeroHP(168)/GetHeroBaseHP(168))/log(2)",
@@ -371,6 +373,9 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
                 "feat_changed"
             ],
             "show_bonus": true
+        },
+        {
+            "effect_string": "pre_stack,100"
         }
     ],
     "requirements": "",
@@ -399,7 +404,7 @@ King of Shadows will be a new champion in the Liars' Night event on 1 October 20
     "id": 2449,
     "flavour_text": "",
     "description": {
-        "desc": "The King of Shadows damages all adjacent Champions for $damage_percent% of their max health each second, as long as the Champions have at least $health_min_percent% of their max health remaining. Each time The King of Shadows successfully deals damage in this manner, he gains a Shadow Plague stack. Each Shadow Plague stack increases his own max health by $(amount___2)%, stacking additively. Stacks cap at $(max_stacks___2) and reset when changing areas"
+        "desc": "The King of Shadows damages all adjacent Champions for $damage_percent% of their max health each second, as long as the Champions have at least $health_min_percent% of their max health remaining. Each time The King of Shadows successfully deals damage in this manner, he gains a Shadow Plague stack. Each Shadow Plague stack increases his own max health by $(amount___2)%, stacking additively. Stacks cap at $(max_stacks___2) and reset when changing areas."
     },
     "effect_keys": [
         {
