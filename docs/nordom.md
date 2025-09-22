@@ -80,6 +80,296 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Gear Spirits** (Guess)
+> Two gear spirits have taken the form of crossbows, which Nordom fires simultaneously at the closest two enemies. If only one enemy remains, he'll instead hit it twice.  
+> Cooldown: 7s (Cap 1.75s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 513,
+    "name": "Gear Spirits",
+    "description": "Nordom simultaneously fires two crossbows at the closest two enemies.",
+    "long_description": "Two gear spirits have taken the form of crossbows, which Nordom fires simultaneously at the closest two enemies. If only one enemy remains, he'll instead hit it twice.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 2,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 7,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "generic",
+            "shoot_frame": 8,
+            "per_projectile_shoot_offsets": [
+                {
+                    "shoot_offset_x": 30,
+                    "shoot_offset_y": 25
+                },
+                {
+                    "shoot_offset_x": 60,
+                    "shoot_offset_y": 20
+                }
+            ],
+            "projectile_multi_hits": true,
+            "projectile_count": 2,
+            "projectile_details": {
+                "projectile_speed": 2400,
+                "has_trail": false,
+                "extend_line": true,
+                "projectile_graphic_id": 14204
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Gear Spirits** (Guess)
+> Two gear spirits have taken the form of crossbows, which Nordom fires simultaneously at the closest two enemies. If only one enemy remains, he'll instead hit it twice. Piercing Bolts - Causes enemies to take additional damage after being hit.  
+> Cooldown: 7s (Cap 1.75s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 920,
+    "name": "Gear Spirits - Piercing Bolts",
+    "description": "Nordom simultaneously fires two crossbows at the closest two enemies. Piercing Bolts - Causes enemies to take additional damage after being hit.",
+    "long_description": "Two gear spirits have taken the form of crossbows, which Nordom fires simultaneously at the closest two enemies. If only one enemy remains, he'll instead hit it twice. Piercing Bolts - Causes enemies to take additional damage after being hit.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 2,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 7,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "generic",
+            "shoot_frame": 8,
+            "per_projectile_shoot_offsets": [
+                {
+                    "shoot_offset_x": 30,
+                    "shoot_offset_y": 25
+                },
+                {
+                    "shoot_offset_x": 60,
+                    "shoot_offset_y": 20
+                }
+            ],
+            "projectile_multi_hits": true,
+            "projectile_count": 2,
+            "projectile_details": {
+                "projectile_speed": 2400,
+                "has_trail": false,
+                "extend_line": true,
+                "projectile_graphic_id": 14204
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Gear Spirits - Piercing Bolts** (Guess)
+> Two gear spirits have taken the form of crossbows, which Nordom fires simultaneously at the closest two enemies. If only one enemy remains, he'll instead hit it twice. Piercing Bolts - Causes enemies to take additional damage after being hit.  
+> Cooldown: 7s (Cap 1.75s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 922,
+    "name": "Gear Spirits - Piercing Bolts",
+    "description": "Nordom simultaneously fires two crossbows at the closest two enemies. Piercing Bolts - Causes enemies to take additional damage after being hit.",
+    "long_description": "Two gear spirits have taken the form of crossbows, which Nordom fires simultaneously at the closest two enemies. If only one enemy remains, he'll instead hit it twice. Piercing Bolts - Causes enemies to take additional damage after being hit.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 2,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 7,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "generic",
+            "shoot_frame": 8,
+            "per_projectile_shoot_offsets": [
+                {
+                    "shoot_offset_x": 30,
+                    "shoot_offset_y": 25
+                },
+                {
+                    "shoot_offset_x": 60,
+                    "shoot_offset_y": 20
+                }
+            ],
+            "projectile_multi_hits": true,
+            "projectile_count": 2,
+            "projectile_details": {
+                "projectile_speed": 2400,
+                "has_trail": false,
+                "extend_line": true,
+                "projectile_graphic_id": 14204
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Gear Spirits - Explosive Bolts** (Guess)
+> Two gear spirits have taken the form of crossbows, which Nordom fires simultaneously at the closest two enemies. If only one enemy remains, he'll instead hit it twice. Explosive Bolts - Knocks enemies back.  
+> Cooldown: 7s (Cap 1.75s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 921,
+    "name": "Gear Spirits - Explosive Bolts",
+    "description": "Nordom simultaneously fires two crossbows at the closest two enemies. Explosive Bolts - Knocks enemies back.",
+    "long_description": "Two gear spirits have taken the form of crossbows, which Nordom fires simultaneously at the closest two enemies. If only one enemy remains, he'll instead hit it twice. Explosive Bolts - Knocks enemies back.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 2,
+    "aoe_radius": 150,
+    "damage_modifier": 1,
+    "cooldown": 7,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "generic",
+            "shoot_frame": 8,
+            "per_projectile_shoot_offsets": [
+                {
+                    "shoot_offset_x": 30,
+                    "shoot_offset_y": 25
+                },
+                {
+                    "shoot_offset_x": 60,
+                    "shoot_offset_y": 20
+                }
+            ],
+            "projectile_multi_hits": true,
+            "projectile_count": 2,
+            "projectile_details": {
+                "projectile_speed": 2400,
+                "has_trail": false,
+                "extend_line": true,
+                "projectile_graphic_id": 14204,
+                "projectile_hit_graphic_id": 750
+            },
+            "effects_on_monsters": [
+                {
+                    "effect_string": "push_back_monster,10",
+                    "animation": "hit",
+                    "after_damage": true
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Gear Spirits - Explosive Bolts** (Guess)
+> Two gear spirits have taken the form of crossbows, which Nordom fires simultaneously at the closest two enemies. If only one enemy remains, he'll instead hit it twice. Explosive Bolts - Knocks enemies back.  
+> Cooldown: 7s (Cap 1.75s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 923,
+    "name": "Gear Spirits - Explosive Bolts",
+    "description": "Nordom simultaneously fires two crossbows at the closest two enemies. Explosive Bolts - Knocks enemies back.",
+    "long_description": "Two gear spirits have taken the form of crossbows, which Nordom fires simultaneously at the closest two enemies. If only one enemy remains, he'll instead hit it twice. Explosive Bolts - Knocks enemies back.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 2,
+    "aoe_radius": 150,
+    "damage_modifier": 1,
+    "cooldown": 7,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "generic",
+            "shoot_frame": 8,
+            "per_projectile_shoot_offsets": [
+                {
+                    "shoot_offset_x": 30,
+                    "shoot_offset_y": 25
+                },
+                {
+                    "shoot_offset_x": 60,
+                    "shoot_offset_y": 20
+                }
+            ],
+            "projectile_multi_hits": true,
+            "projectile_count": 2,
+            "projectile_details": {
+                "projectile_speed": 2400,
+                "has_trail": false,
+                "extend_line": true,
+                "projectile_graphic_id": 14204
+            },
+            "effects_on_monsters": [
+                {
+                    "effect_string": "push_back_monster,10",
+                    "animation": "hit",
+                    "after_damage": true
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -118,7 +408,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Rule of Law** (Guess)
-> Nordom increases the effect of Form Orderly Ranks by 100% for each Lawful Champion in the formation, stacking multiplicatively.
+> Nordom increases the effect of Form Orderly Ranks and potentially augments his own abilities depending on which Modron Core you have assigned to the current adventuring party. Buffs stack multiplicatively.  
+> Modest Core100: 100% for each unique species in the formation.  
+> Strong Core100: 100% for each Champion with a total ability score of 78 or higher in the formation.  
+> Fast Core100: 100% for each Speed Champion in the formation.  
+> Magic Core100: 100% for each Champion with a magic base attack in the formation, and Nordom's crossbows count as Ranged/Magic attacks.  
+> Aerois Core100: 300% for each Heroes of Aerois Champion in the formation, and Nordom gains the Heroes of Aerois affiliation.  
+> Unaffiliated Core100: 100% for each unaffiliated Champion in the formation.  
+> Dexterous Core100: 100% for each Champion with a Dexterity of 15 or higher in the formation.  
+> Lawful Core or No Core$(nordom_modron_core_active -1): 100% for each Lawful Champion in the formation.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -126,16 +426,34 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2513,
     "flavour_text": "",
     "description": {
-        "desc": "$(source_hero) increases the effect of Form Orderly Ranks by $(not_buffed amount)% for each Lawful Champion in the formation, stacking multiplicatively."
+        "conditions": [
+            {
+                "condition": "static_desc",
+                "desc": "Nordom increases the effect of Form Orderly Ranks and potentially augments his own abilities depending on which Modron Core you have assigned to the current adventuring party. Buffs stack multiplicatively."
+            },
+            {
+                "desc": "Nordom increases the effect of Form Orderly Ranks and potentially augments his own abilities depending on which Modron Core you have assigned to the current adventuring party. Buffs stack multiplicatively.^^Modest Core$(nordom_modron_core_active 1): $(amount)% for each unique species in the formation.^Strong Core$(nordom_modron_core_active 2): $(amount)% for each Champion with a total ability score of 78 or higher in the formation.^Fast Core$(nordom_modron_core_active 3): $(amount)% for each Speed Champion in the formation.^Magic Core$(nordom_modron_core_active 4): $(amount)% for each Champion with a magic base attack in the formation, and Nordom's crossbows count as Ranged/Magic attacks.^Aerois Core$(nordom_modron_core_active 5): $(amount___2)% for each Heroes of Aerois Champion in the formation, and Nordom gains the Heroes of Aerois affiliation.^Unaffiliated Core$(nordom_modron_core_active 6): $(amount)% for each unaffiliated Champion in the formation.^Dexterous Core$(nordom_modron_core_active 7): $(amount)% for each Champion with a Dexterity of 15 or higher in the formation.^Lawful Core or No Core$(nordom_modron_core_active -1): $(amount)% for each Lawful Champion in the formation."
+            }
+        ]
     },
     "effect_keys": [
         {
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "effect_string": "pre_stack,300"
+        },
+        {
             "effect_string": "buff_upgrade_per_unique_race,100,18058",
+            "amount_expr": "upgrade_amount(18059,0)",
             "off_when_benched": true,
-            "apply_manually": true
+            "apply_manually": true,
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         },
         {
             "effect_string": "buff_upgrade,100,18058",
+            "amount_expr": "upgrade_amount(18059,0)",
             "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_crusader",
@@ -149,15 +467,21 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     }
                 ]
             },
-            "apply_manually": true
+            "apply_manually": true,
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         },
         {
             "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,18058,speed",
+            "amount_expr": "upgrade_amount(18059,0)",
             "off_when_benched": true,
-            "apply_manually": true
+            "apply_manually": true,
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         },
         {
             "effect_string": "buff_upgrade,100,18058",
+            "amount_expr": "upgrade_amount(18059,0)",
             "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_crusader",
@@ -168,20 +492,28 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 }
             ],
             "show_bonus": true,
-            "apply_manually": true
+            "apply_manually": true,
+            "use_computed_amount_for_description": true
         },
         {
             "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,300,18058,aerois",
+            "amount_expr": "upgrade_amount(18059,1)",
             "off_when_benched": true,
-            "apply_manually": true
+            "apply_manually": true,
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         },
         {
             "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,18058,unaffiliated",
+            "amount_expr": "upgrade_amount(18059,0)",
             "off_when_benched": true,
-            "apply_manually": true
+            "apply_manually": true,
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         },
         {
             "effect_string": "buff_upgrade,100,18058",
+            "amount_expr": "upgrade_amount(18059,0)",
             "off_when_benched": true,
             "stacks_multiply": true,
             "amount_func": "mult",
@@ -200,17 +532,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "slot_changed"
             ],
             "show_bonus": true,
-            "apply_manually": true
+            "apply_manually": true,
+            "use_computed_amount_for_description": true
         },
         {
             "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,18058,lawful",
+            "amount_expr": "upgrade_amount(18059,0)",
             "off_when_benched": true,
-            "apply_manually": true
-        },
-        {
-            "effect_string": "change_base_attack,911",
-            "off_when_benched": true,
-            "apply_manually": true
+            "apply_manually": true,
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         },
         {
             "effect_string": "add_affiliations_to_heroes",
@@ -225,16 +556,91 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "nordom_core_programming_buff",
-            "off_when_benched": true
-        },
-        {
-            "effect_string": "nordom_great_modron_puzzle_buff",
-            "off_when_benched": true
+            "off_when_benched": true,
+            "effect_keys_by_core_id": {
+                "-1": [
+                    9
+                ],
+                "1": [
+                    2
+                ],
+                "2": [
+                    3
+                ],
+                "3": [
+                    4
+                ],
+                "4": [
+                    5
+                ],
+                "5": [
+                    6,
+                    11
+                ],
+                "6": [
+                    7
+                ],
+                "7": [
+                    8
+                ],
+                "8": [
+                    9
+                ]
+            }
         }
     ],
     "requirements": "",
-    "graphic_id": 14239,
-    "large_graphic_id": 14236,
+    "graphic_id": 27846,
+    "large_graphic_id": 27826,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**The Great Modron Puzzle** (Guess)
+> Nordom gains Pipe Puzzle stacks based on the status of the outputs in all active Modron Cores you have equipped across all parties. The effect of Form Orderly Ranks is increased by 25% for each Pipe Puzzle stack, stacking multiplicatively. You gain Pipe Puzzle stacks for having:.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2518,
+    "flavour_text": "",
+    "description": {
+        "conditions": [
+            {
+                "condition": "static_desc",
+                "desc": " Nordom gains Pipe Puzzle stacks based on the status of the outputs in all active Modron Cores you have equipped across all parties. The effect of Form Orderly Ranks is increased by 25% for each Pipe Puzzle stack, stacking multiplicatively."
+            },
+            {
+                "desc": " Nordom gains Pipe Puzzle stacks based on the status of the outputs in all active Modron Cores you have equipped across all parties. The effect of Form Orderly Ranks is increased by 25% for each Pipe Puzzle stack, stacking multiplicatively. You gain Pipe Puzzle stacks for having:^$(nordom_powered_outputs_count)"
+            }
+        ]
+    },
+    "effect_keys": [
+        {
+            "effect_string": "nordom_great_modron_puzzle_buff",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,25,18058",
+            "off_when_benched": true,
+            "stacks_on_trigger": "will_stack_manually",
+            "show_bonus": true,
+            "stacks_multiply": true,
+            "stack_title": "Pipe Puzzle Stacks"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 27847,
+    "large_graphic_id": 27827,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -247,49 +653,51 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Core Programming** (Guess)
-> Unknown.
+> Nordom increases the effect of Form Orderly Ranks by 33% for each BASE adventure you have completed in the Grand Tour campaign, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 27846,
-    "graphic": "Icons/Events/2017Simril/Simril_Y9/Icon_Formation_Nordom_CoreProgramming",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "export_animation": true,
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**The Great Modron Puzzle** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 27847,
-    "graphic": "Icons/Events/2017Simril/Simril_Y9/Icon_Formation_Nordom_TheGreatModronPuzzle",
-    "v": 3,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "export_animation": true,
-        "quantize": true
+    "id": 2519,
+    "flavour_text": "",
+    "description": {
+        "desc": "Nordom increases the effect of Form Orderly Ranks by $amount% for each BASE adventure you have completed in the Grand Tour campaign, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrades,33,18058",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_ids",
+                    "hero_ids": [
+                        111
+                    ]
+                }
+            ],
+            "stacks_multiply": true,
+            "amount_func": "mult",
+            "stack_func": "get_stat",
+            "stat": "GrandTourBaseAdventuresCompleted",
+            "ided_stat_id": 1,
+            "ided_stat_handler": "CompletedBaseAdventures",
+            "use_computed_amount_for_description": true,
+            "amount_updated_listeners": [
+                "stat_changed,GrandTourBaseAdventuresCompleted"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "spec_option_post_apply_info": "Grand Tour Adventures Completed: $num_stacks"
     }
 }
 </pre>
@@ -300,23 +708,30 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: BASIC Functionality** (Guess)
-> Unknown.
+**Specialisation: Modron Core Toolbox** (Guess)
+> Nordom increases the amount of experience gained on the Modron Core attached to his adventuring party when completing new areas by 20%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 27835,
-    "graphic": "Icons/Events/2017Simril/Simril_Y9/Icon_Specialization_Nordom_BASICFunctionality",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2520,
+    "flavour_text": "",
+    "description": {
+        "desc": "Nordom increases the amount of experience gained on the Modron Core attached to his adventuring party when completing new areas by $amount%"
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "nordom_modron_xp_buff,20"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "spec_option_post_apply_info": "$active_effect_key_handler_custom_spec_hint"
     }
 }
 </pre>
@@ -326,22 +741,47 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Core Competency** (Guess)
-> Unknown.
+> Nordom gains Core Competency stacks based on the total level of all of your modron cores. The effect of Form Orderly Ranks is increased by 25% for each Core Competency stack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 27836,
-    "graphic": "Icons/Events/2017Simril/Simril_Y9/Icon_Specialization_Nordom_CoreCompetency",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2521,
+    "flavour_text": "",
+    "description": {
+        "desc": "Nordom gains Core Competency stacks based on the total level of all of your modron cores. The effect of Form Orderly Ranks is increased by $(nordom_core_competency_bonus)% for each Core Competency stack, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,25",
+            "use_computed_amount_for_description": true,
+            "show_bonus": false
+        },
+        {
+            "effect_string": "buff_upgrade,0,18058",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "stacks_multiply": true,
+            "amount_expr": "upgrade_amount(18168,0)",
+            "stack_func": "per_modron_core_level",
+            "stack_title": "Core Competency Stacks",
+            "amount_func": "mult",
+            "use_computed_amount_for_description": true
+        },
+        {
+            "effect_string": "nordom_core_competency_buff"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1,
+        "spec_option_post_apply_info": "$active_effect_key_handler_custom_spec_hint___3"
     }
 }
 </pre>
@@ -350,23 +790,77 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Modron Core Toolbox** (Guess)
-> Unknown.
+**Specialisation: BASIC Functionality** (Guess)
+> 
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 27837,
-    "graphic": "Icons/Events/2017Simril/Simril_Y9/Icon_Specialization_Nordom_ModronCoreToolbox",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2522,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_base_attack,513",
+            "off_when_benched": true,
+            "apply_manually": true,
+            "description": ""
+        },
+        {
+            "effect_string": "change_base_attack,920",
+            "off_when_benched": true,
+            "apply_manually": true,
+            "description": ""
+        },
+        {
+            "effect_string": "change_base_attack,921",
+            "off_when_benched": true,
+            "apply_manually": true,
+            "description": ""
+        },
+        {
+            "effect_string": "change_base_attack,911",
+            "off_when_benched": true,
+            "apply_manually": true,
+            "description": ""
+        },
+        {
+            "effect_string": "change_base_attack,922",
+            "off_when_benched": true,
+            "apply_manually": true,
+            "description": ""
+        },
+        {
+            "effect_string": "change_base_attack,923",
+            "off_when_benched": true,
+            "apply_manually": true,
+            "description": ""
+        },
+        {
+            "effect_string": "nordom_attack_change",
+            "debuffing_attack_ids": [
+                920,
+                922
+            ],
+            "debuff_before_damage": true,
+            "debuff_effects": [
+                {
+                    "effect_string": "increase_monster_damage,400",
+                    "active_graphic_id": 14490,
+                    "active_graphic_y": -60
+                }
+            ],
+            "off_when_benched": true,
+            "description": ""
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "show_incoming": false
     }
 }
 </pre>
