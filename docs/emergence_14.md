@@ -24,7 +24,7 @@ We know the next Emergence event will be Winter Beasts and that it will start on
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Vengeful Composure Feat Icon](images/emergence_14/feat_1969.png)<span class="featTooltipContents">ID: 1969**Vengeful Composure (Minthara)**Our foes will be reduced to nothing in time.<br><br><span style="color:var(--Flavescent)">The Piercing component of Minthara's Oath of Vengeance ability only requires 1 Soul Branding stack to trigger.</span><code>change_upgrade_data,15945,2</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -34,7 +34,7 @@ We know the next Emergence event will be Winter Beasts and that it will start on
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Scholar Feat Icon](images/emergence_14/feat_2398.png)<span class="featTooltipContents">ID: 2398**Scholar (Calliope)**Why didn't anyone tell me books could be so freaking exciting!?<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Calliope by 2.</span><code>increase_ability_score,int,2</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -44,7 +44,7 @@ We know the next Emergence event will be Winter Beasts and that it will start on
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Drifter Feat Icon](images/emergence_14/feat_2399.png)<span class="featTooltipContents">ID: 2399**Drifter (Windfall)**I'll leave you crying every day once I'm gone. Not sorry.<br><br><span style="color:var(--Flavescent)">Increases the effect of Windfall's The Long Game ability by 80%.</span><code>buff_upgrade,80,17053</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -54,7 +54,7 @@ We know the next Emergence event will be Winter Beasts and that it will start on
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/emergence_14/feat_2400.png)<span class="featTooltipContents">ID: 2400**Prodigal Leader (Beadle)**He may be small, but he has the heart of a dragon. ~Grimm<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
