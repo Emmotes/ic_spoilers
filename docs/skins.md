@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Prince Brightflame Portrait](images/skin_portraits/princebrightflame.png)<span class="featTooltipContents">ID: 603**Prince Brightflame (Melf)**<img src="images/skin_models/princebrightflame.gif" alt="Prince Brightflame Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Prince Brightflame
-        </span>
-        <span class="skinTableSource">
-            Adventure: An Acidic Welcome
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            24 Sept 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Knight of the Comet Lae'zel Portrait](images/skin_portraits/knightofthecometlaezel.png)<span class="featTooltipContents">ID: 604**Knight of the Comet Lae'zel (Lae'zel)**<img src="images/skin_models/knightofthecometlaezel.gif" alt="Knight of the Comet Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Knight of the Comet Lae'zel
-        </span>
-        <span class="skinTableSource">
-            Adventure: For Victory
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            24 Sept 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Guardian of Illefarn Portrait](images/skin_portraits/guardianofillefarn.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn (King of Shadows)**<img src="images/skin_models/guardianofillefarn.gif" alt="Guardian of Illefarn Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
