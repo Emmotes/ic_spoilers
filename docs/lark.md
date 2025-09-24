@@ -59,7 +59,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support / Debuff (Guess)</span>
+            <span style="margin-left:8px;">Support / Speed / Debuff (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
