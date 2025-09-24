@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Animated Silver Sword Portrait](images/familiars/animatedsilversword.png)<span class="featTooltipContents">ID: 283**Animated Silver Sword**A gift. A burden. The sacred blade of shadow's bane.<img src="images/familiars/animatedsilversword.gif" alt="Animated Silver Sword Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Animated Silver Sword
-        </span>
-        <span class="skinTableSource">
-            Silver Sword of Gith Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            24 Sept 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Ebrath the Illefarn Mastiff Portrait](images/familiars/ebraththeillefarnmastiff.png)<span class="featTooltipContents">ID: 285**Ebrath the Illefarn Mastiff**Guardian's Best Friend.<img src="images/familiars/ebraththeillefarnmastiff.gif" alt="Ebrath the Illefarn Mastiff Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

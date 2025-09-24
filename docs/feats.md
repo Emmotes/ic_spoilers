@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Melf</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Heroic Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2295**Heroic Legacy (Melf)**With every step, every breath, I strive to create a better world for all.<br><br><span style="color:var(--Flavescent)">Increases the effect of Melf's Specializations by 80%.</span><code>buff_upgrades,80,3513,3514,3515</code></span>Heroic Legacy
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Melf's Specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">24 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Lae'zel</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2228**Master's Precision (Lae'zel)**A blade is only as sharp as the one who wields it.<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Lae'zel by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Additively increases the Crit Chance of Lae'zel by 20%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">24 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Astarion</span>
         </span>
         <span class="featTableIcon4">
