@@ -34,7 +34,7 @@ These are the event champions that are upcoming and all the information we know 
                 King of Shadows
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Outsider (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Barbarian / Warlock</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Liars' Night - 1 October 2025</span>
@@ -211,7 +211,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 King of Shadows
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Outsider (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Barbarian / Warlock</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">

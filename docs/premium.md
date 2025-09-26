@@ -17,7 +17,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![King of Shadows Champion Unlock Portrait](images/premiums/unlock_champion_168.png)<span class="itemTooltipContents">ID: 168**King of Shadows**<img src="images/premiums/unlock_champion_168.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![King of Shadows Champion Unlock Portrait](images/premiums/unlock_champion_168.png)<span class="itemTooltipContents">ID: 168**King of Shadows (Seat 9)**<img src="images/premiums/unlock_champion_168.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
