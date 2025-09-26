@@ -94,7 +94,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 610**Shadowfell Ezmerelda (Ezmerelda)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Shadowfell Ezmerelda Portrait](images/skin_portraits/shadowfellezmerelda.png)<span class="featTooltipContents">ID: 610**Shadowfell Ezmerelda (Ezmerelda)**<img src="images/skin_models/shadowfellezmerelda.gif" alt="Shadowfell Ezmerelda Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Shadowfell Ezmerelda
