@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/760.png">
-            <span class="weekendTooltipContents">ID: 760**Gold Rising Darkness Chest**Loot for: Bruenor, Tyril, Lae'zel, Karlach and Melf<code>"for_crusaders":[1,10,128,143,59]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Darkness Rises**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    26 September 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/laezel.png'">
-                        <span class="weekendTableChampionNameplate">Lae'zel</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/karlach.png'">
-                        <span class="weekendTableChampionNameplate">Karlach</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/melf.png'">
-                        <span class="weekendTableChampionNameplate">Melf</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/763.png">
             <span class="weekendTooltipContents">ID: 763**Gold Lockpick Chest**Loot for: Calliope, Hitch, Dark Urge, Kas and King of Shadows<code>"for_crusaders":[5,13,146,153,168]</code></span>
         </span>
@@ -68,7 +25,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic
+                        Golden Epic for King of Shadows
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -111,7 +68,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic
+                        Golden Epic for Farideh
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -154,7 +111,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic
+                        Golden Epic for Torogar
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -197,7 +154,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic
+                        Golden Epic for Dynaheir
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -240,7 +197,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic
+                        Golden Epic for Strongheart
                     </span>
                 </span>
                 <span class="weekendTableChampions">
