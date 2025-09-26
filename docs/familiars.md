@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 288**Form of the Slayer**A form for Bhaal's chosen…</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Form of the Slayer Portrait](images/familiars/formoftheslayer.png)<span class="featTooltipContents">ID: 288**Form of the Slayer**A form for Bhaal's chosen…<img src="images/familiars/formoftheslayer.gif" alt="Form of the Slayer Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Form of the Slayer
