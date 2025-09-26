@@ -35,23 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Kas</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Cataclysmic Power Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1982**Cataclysmic Power (Kas)**I would burn this world to ash for the sake of my revenge.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kas' Kas the Bloody Handed, Kas the Betrayer, and Kas the Destroyer specializations by 80%.</span><code>buff_upgrade,80,15623,0<br>buff_upgrade,80,15624,0<br>buff_upgrade,80,15625,0</code></span>Cataclysmic Power
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Kas' Kas the Bloody Handed, Kas the Betrayer, and Kas the Destroyer specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">25 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Nahara</span>
         </span>
         <span class="featTableIcon4">
