@@ -3561,39 +3561,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="105,18,14,313,313,313,313,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="106,42,78,313,313,0,313,196">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="106,42,78,313,313,0,313,196">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="106,42,78,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="106,42,78,313,313,0,313,0">
         113
     </span>
-    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,196">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,196">
+    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,0">
         Egbert
     </span>
-    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,196">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="106,42,78,313,313,0,313,196">
+    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="106,42,78,313,313,0,313,0">
         7
     </span>
-    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,196">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,196">
+    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,196">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,196">
+    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,196">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,196">
+    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,196">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,196">
+    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,196">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,196">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2025-09-27</label>
+    <span class="patronRosterItem" data-sort="106,42,78,313,313,0,313,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="106,42,78,313,313,0,313,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="106,42,78,313,313,0,313,196">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="106,42,78,313,313,0,313,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="107,71,41,313,313,313,310,198">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="107,71,41,313,313,313,310,198">
         114
