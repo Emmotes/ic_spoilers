@@ -636,7 +636,7 @@ This Tales drop will allow unlocking Kas and Nordom.
     </span>
 </span>
 
-## Mixed 12 Variants - 31 December 2025
+## Mixed 12 Variants - 30 December 2025
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
