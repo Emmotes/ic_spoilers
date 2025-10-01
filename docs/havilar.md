@@ -610,7 +610,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2504,
     "flavour_text": "",
     "description": {
-        "desc": "Havilar gains Bosh as an Imp companion. Bosh increases the effect of Leadership Summit by $amount___3% for each enemy or boss enrage stack active, stacking multiplicatively up to $stack_func_cap___3 stacks, and also increases Havilar's maximum health by $amount___4%."
+        "desc": "Havilar gains Bosh as an Imp companion. Bosh increases the effect of Leadership Summit by $(not_buffed amount___3)% for each enemy or boss enrage stack active, stacking multiplicatively up to $stack_func_cap___3 stacks, and also increases Havilar's maximum health by $amount___4%."
     },
     "effect_keys": [
         {
