@@ -23,11 +23,11 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="kingofshadows.html">
+<a href="kos.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![King of Shadows Portrait Icon](images/kingofshadows/portrait.png)
+            ![King of Shadows Portrait Icon](images/kos/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
@@ -43,7 +43,6 @@ These are the event champions that are upcoming and all the information we know 
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
             ![Melee Attack Icon](images/general/icon_melee.png)
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
 {::nomarkdown}
@@ -200,11 +199,11 @@ These are the upcoming new and reworked champions and where they'll be found.
 ## Liars' Night - 1 October 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
-<a href="kingofshadows.html">
+<a href="kos.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![King of Shadows Portrait Icon](images/kingofshadows/portrait.png)
+            ![King of Shadows Portrait Icon](images/kos/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
@@ -220,7 +219,6 @@ These are the upcoming new and reworked champions and where they'll be found.
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
             ![Melee Attack Icon](images/general/icon_melee.png)
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
 {::nomarkdown}
