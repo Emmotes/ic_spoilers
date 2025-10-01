@@ -13,6 +13,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Hank](archive/hank.md)
 * [Highharvestide Augments](archive/augments_1.md)
 * [K'thriss](archive/kthriss.md)
+* [King of Shadows](archive/kos.md)
 * [Krond](archive/krond.md)
 * [Lazaapz](archive/lazaapz.md)
 * [New Campaign - Tales of the Champions](archive/campaign_tales.md)
