@@ -41,7 +41,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/kas.png'">
                         <span class="weekendTableChampionNameplate">Kas</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/general/unknown.png'">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kos.png'">
                         <span class="weekendTableChampionNameplate">KoS</span>
                     </span>
                 </span>
