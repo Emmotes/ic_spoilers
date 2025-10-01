@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Guardian of Illefarn Portrait](images/skin_portraits/guardianofillefarn.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn (KoS)**<img src="images/skin_models/guardianofillefarn.gif" alt="Guardian of Illefarn Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Guardian of Illefarn
-        </span>
-        <span class="skinTableSource">
-            King of Shadows Origin Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            01 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Raven Queen Astarion Portrait](images/skin_portraits/ravenqueenastarion.png)<span class="featTooltipContents">ID: 606**Raven Queen Astarion (Astarion)**<img src="images/skin_models/ravenqueenastarion.gif" alt="Raven Queen Astarion Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Raven Queen Astarion
-        </span>
-        <span class="skinTableSource">
-            Raven Queen Astarion Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            01 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Raven Queen Thellora Portrait](images/skin_portraits/ravenqueenthellora.png)<span class="featTooltipContents">ID: 607**Raven Queen Thellora (Thellora)**<img src="images/skin_models/ravenqueenthellora.gif" alt="Raven Queen Thellora Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Raven Queen Thellora
-        </span>
-        <span class="skinTableSource">
-            Raven Queen Thellora Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            01 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Darklord Farideh Portrait](images/skin_portraits/darklordfarideh.png)<span class="featTooltipContents">ID: 608**Darklord Farideh (Farideh)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/darklordfarideh.gif" alt="Darklord Farideh Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/darklordfarideh-flames.gif" alt="Darklord Farideh Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
