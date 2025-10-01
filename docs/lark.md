@@ -178,7 +178,13 @@ Lark will be a new champion in the Simril event on 3 December 2025.
                 "extend_line": false,
                 "projectile_graphic_id": 27872
             },
-            "animation_sequence": 4
+            "animation_sequence": 4,
+            "effect_on_monsters": {
+                "effect_string": "damage_monster_target_by_bud",
+                "hit_monsters": true,
+                "damage_mult": 5,
+                "after_damage": true
+            }
         }
     ],
     "tags": [
@@ -194,7 +200,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Base Attack: Last Resort** (Ranged)
+**Base Attack: Fake Last Resort** (Ranged)
 > Lark fires his Crossbow at the closest enemy, dealing 1 hit and deals 5 seconds of BUD based damage.  
 > Cooldown: 4s (Cap 1s)
 <details><summary><em>Raw Data</em></summary>
@@ -202,7 +208,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
 <pre>
 {
     "id": 919,
-    "name": "Last Resort",
+    "name": "Fake Last Resort",
     "description": "Lark fires his crossbow at the closest target, dealing 5 seconds of BUD-based damage.",
     "long_description": "Lark fires his Crossbow at the closest enemy, dealing 1 hit and deals 5 seconds of BUD based damage.",
     "graphic_id": 0,
@@ -319,7 +325,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     "name": "Enthrall",
     "description": "Lark delivers 1 ultimate hit to enemies and makes them vulnerable to additional damage.",
     "long_description": "Lark's powerful performance deals 1 ultimate hit to all enemies and charms them, making them more susceptible to additional damage.",
-    "graphic_id": 1,
+    "graphic_id": 27921,
     "target": "all",
     "num_targets": 0,
     "aoe_radius": 0,
@@ -493,7 +499,9 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     "large_graphic_id": 27823,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -593,12 +601,12 @@ Lark will be a new champion in the Simril event on 3 December 2025.
                     "effect_string": "increase_monster_damage,100",
                     "active_graphic_id": 27873,
                     "active_graphic_y": -120,
-                    "stack_func": "upgrade_stacks",
-                    "stack_func_data": {
+                    "stack_func_d": "upgrade_stacks",
+                    "stack_func_data_d": {
                         "upgrade_id": 18054,
                         "upgrade_index": 0
                     },
-                    "use_collection_source": true
+                    "amount_expr": "upgrade_amount(18054,0)"
                 }
             ]
         },
@@ -646,7 +654,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             "lark_fake_attack_index": 2
         },
         {
-            "effect_string": "uggie_attack_handler",
+            "effect_string": "uggie_attack_handler,100",
             "off_when_benched": true,
             "uggie_attack_on_start": false
         },
@@ -694,7 +702,11 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             "off_when_benched": true,
             "stack_func": "per_unique_class",
             "amount_func": "mult",
-            "amount_expr": "upgrade_amount(18055,0)"
+            "amount_expr": "upgrade_amount(18055,0)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked"
+            ]
         }
     ],
     "requirements": "",
@@ -735,7 +747,11 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "GetStat(`cha`) <= 13 || HasTag(`fallbacks`)",
             "amount_func": "mult",
-            "amount_expr": "upgrade_amount(18056,0)"
+            "amount_expr": "upgrade_amount(18056,0)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked"
+            ]
         }
     ],
     "requirements": "",
@@ -776,7 +792,11 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`tiefling`) || HasTag(`evil`)",
             "amount_func": "mult",
-            "amount_expr": "upgrade_amount(18057,0)"
+            "amount_expr": "upgrade_amount(18057,0)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked"
+            ]
         }
     ],
     "requirements": "",
@@ -873,15 +893,13 @@ Unknown.
 > Lark starts in the formation with his Devil May Care ability unlocked. He can be moved, but not removed.  
 > Only Lark and Champions buffed by both him and Uggie can deal damage.  
 > 1-2 Unruly fans spawn with each wave. They don't drop gold nor count towards quest progress.   
-> <b>Getting to Know Lark and Uggie:</b> Lark increases the damage of Champions in the middle columns, while Uggie increases the damage of Champions not next to her. Position your damage dealers to take advantage of both buffs!  
-> 
+> <b>Getting to Know Lark and Uggie:</b> Lark increases the damage of Champions in the middle columns, while Uggie increases the damage of Champions not next to her. Position your damage dealers to take advantage of both buffs!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Variant 2: Fortune's Fool** (Complete Area 125)
 > Lark starts in the formation. He can be moved, but not removed.  
 > Starting in area 51, enemies that don't have an active debuff reduce all normal attack damage to just 1 point of damage.  
-> <b>Getting to Know Lark:</b> When Lark attacks an enemy and does not defeat it, he applies a debuff making it more susceptible to damage in the future. Use him and other debuff Champions to get through these resistant foes!  
-> 
+> <b>Getting to Know Lark:</b> When Lark attacks an enemy and does not defeat it, he applies a debuff making it more susceptible to damage in the future. Use him and other debuff Champions to get through these resistant foes!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Variant 3: All Together Now** (Complete Area 175)
