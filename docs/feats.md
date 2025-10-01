@@ -152,10 +152,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">KoS</span>
         </span>
         <span class="featTableIcon4">
-            ![Dark Zealot Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2326**Dark Zealot (KoS)**The light of the empire fades... I am what remains...<br><br><span style="color:var(--Flavescent)">Increases the effect of Shadows's Phase Three: The Warrior ability by 80%.</span><code>buff_upgrade,80,17760</code></span>Dark Zealot
+            ![Dark Zealot Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2326**Dark Zealot (KoS)**The light of the empire fades... I am what remains...<br><br><span style="color:var(--Flavescent)">Increases the effect of King of Shadows's Phase Three: The Warrior ability by 80%.</span><code>buff_upgrade,80,17760</code></span>Dark Zealot
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Shadows's Phase Three: The Warrior ability by 80%.</span>
+            <span class="featTableInner">Increases the effect of King of Shadows's Phase Three: The Warrior ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Emergence 13</span>
