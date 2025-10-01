@@ -407,6 +407,57 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">10 Dec 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">KoS</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tragic Devotion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2317**Tragic Devotion (KoS)**You need not die... You need not be cleansed...<br><br><span style="color:var(--Flavescent)">Increases the effect of King of Shadows' Power of the King ability whenever his max health is doubled by 10% (pre-stack). (Prestack)</span><code>buff_upgrade,10,17757,2</code></span>Tragic Devotion
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of King of Shadows' Power of the King ability whenever his max health is doubled by 10% (pre-stack). (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Astarion</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Exquisite Taste Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2296**Exquisite Taste (Astarion)**Straight from the neck is preferred, but goblets are used in mortal company.<br><br><span style="color:var(--Flavescent)">Increases the effect of Astarion's Well Fed ability by 80%. (Prestack)</span><code>buff_upgrade,80,12491</code></span>Exquisite Taste
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Astarion's Well Fed ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Thellora</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Stampede Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2297**Stampede (Thellora)**Altogether now! The bards shall sing of our charge!<br><br><span style="color:var(--Flavescent)">Increases the effect of Thellora's Defender of the Meek, Vanguard of the Quick and Callessa's Blessed by 80%. (Prestack)</span><code>buff_upgrades,80,12982,12983,12984</code></span>Stampede
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Thellora's Defender of the Meek, Vanguard of the Quick and Callessa's Blessed by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -927,7 +978,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Dark Zealot Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2326**Dark Zealot (KoS)**The light of the empire fades... I am what remains...<br><br><span style="color:var(--Flavescent)">Increases the effect of Shadows's Phase Three: The Warrior ability by 80%.</span><code>buff_upgrade,80,17760</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Dark Zealot Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2326**Dark Zealot (KoS)**The light of the empire fades... I am what remains...<br><br><span style="color:var(--Flavescent)">Increases the effect of King of Shadows's Phase Three: The Warrior ability by 80%.</span><code>buff_upgrade,80,17760</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -966,7 +1017,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for KoS Slot 2](images/exclusivities/ge_27471.png)<span class="itemTooltipContents">ID: 3993**Accursed Harness (KoS)**I will protect their legacy at all costs.<br><br><span style="color:var(--Flavescent)">Increases the effect of Shadows's Phase Two: The Warden ability by 275%.</span><code>buff_upgrade,275,17759</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for KoS Slot 2](images/exclusivities/ge_27471.png)<span class="itemTooltipContents">ID: 3993**Accursed Harness (KoS)**I will protect their legacy at all costs.<br><br><span style="color:var(--Flavescent)">Increases the effect of King of Shadows's Phase Two: The Warden ability by 275%.</span><code>buff_upgrade,275,17759</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
