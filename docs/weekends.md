@@ -8,7 +8,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/763.png">
-            <span class="weekendTooltipContents">ID: 763**Gold Lockpick Chest**Loot for: Calliope, Hitch, Dark Urge, Kas and Shadows<code>"for_crusaders":[5,13,146,153,168]</code></span>
+            <span class="weekendTooltipContents">ID: 763**Gold Lockpick Chest**Loot for: Calliope, Hitch, Dark Urge, Kas and King of Shadows<code>"for_crusaders":[5,13,146,153,168]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
