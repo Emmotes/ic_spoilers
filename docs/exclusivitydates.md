@@ -874,6 +874,131 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
         </span>
     </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e13a" onclick="exclusiveToggleContent(`e13`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 13 Icon](images/general/e13.png)**Emergence 13** - Shadar-kai
+            </span>
+        </span>
+        <span id="e13" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Tabaxi Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 2261**Tabaxi Glitch (Shandie)**I don't have friends. I've got clowder.<br><br><span style="color:var(--Flavescent)">Shandie also counts as a Tabaxi and increases the effect of Agile Allies by 20% for each unique species in the formation, stacking additively.</span><code>add_hero_tags,0,tabaxi<br>buff_upgrade,20,9727</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Tabaxi Glitch</span>
+                        <span style="margin-left:15px">Shandie</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Death's Shadow Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2262**Death's Shadow (Kalix)**I am their end. I am inevitable.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kalix's Chameleon Carapace ability by 80%.</span><code>buff_upgrade,80,16519,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Death's Shadow</span>
+                        <span style="margin-left:15px">Kalix</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Tess Family Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2327**Tess Family (Tess)**We'll always be together, won't we, girl?<br><br><span style="color:var(--Flavescent)">Increases the effect of Tess's Unleash Uggie ability by 80%.</span><code>buff_upgrade,80,17317</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Tess Family</span>
+                        <span style="margin-left:15px">Tess</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Lightbringer Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2328**Lightbringer (Baldric)**Looks like there's still life in you yet.<br><br><span style="color:var(--Flavescent)">Increases the effect of Baldric's Healing Lantern ability by 80%.</span><code>buff_upgrade,80,17478</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Lightbringer</span>
+                        <span style="margin-left:15px">Baldric</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Dark Zealot Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2326**Dark Zealot (KoS)**The light of the empire fades... I am what remains...<br><br><span style="color:var(--Flavescent)">Increases the effect of Shadows's Phase Three: The Warrior ability by 80%.</span><code>buff_upgrade,80,17760</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Dark Zealot</span>
+                        <span style="margin-left:15px">KoS</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Shadowfell Kalix Skin Icon](images/exclusivities/skin_27947.png)<span class="featTooltipContents">ID: 614**Shadowfell Kalix (Kalix)**<img src="images/exclusivities/skin_27948.gif" alt="Shadowfell Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Shadowfell Kalix</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for NERDS Slot 2](images/exclusivities/ge_11622.png)<span class="itemTooltipContents">ID: 2480**+1 Bow of Owlbear Slaying (NERDS)**After perfectly stalking their foe, it ends with a surprise attack!<br><br><span style="color:var(--Flavescent)">Increases the effect of NERDS's Ranger ability by 275%.</span><code>buff_upgrade,275,6140</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">+1 Bow of Owlbear Slaying</span>
+                        <span style="margin-left:15px">NERDS (Slot 2)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Wren Slot 2](images/exclusivities/ge_24066.png)<span class="itemTooltipContents">ID: 3681**Ring of Spell Turning (Wren)**They told me I couldn't block spells, but nothing about returning them!<br><br><span style="color:var(--Flavescent)">Increases the effect of Wren's Hero's Call ability by 275%.</span><code>buff_upgrade,275,15208</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Ring of Spell Turning</span>
+                        <span style="margin-left:15px">Wren (Slot 2)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for KoS Slot 2](images/exclusivities/ge_27471.png)<span class="itemTooltipContents">ID: 3993**Accursed Harness (KoS)**I will protect their legacy at all costs.<br><br><span style="color:var(--Flavescent)">Increases the effect of Shadows's Phase Two: The Warden ability by 275%.</span><code>buff_upgrade,275,17759</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Accursed Harness</span>
+                        <span style="margin-left:15px">KoS (Slot 2)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>22 October 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>02 January 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>02 April 2026</span>
+            </span>
+        </span>
+    </span>
 </span>
 
 # Old Exclusive Special Events
