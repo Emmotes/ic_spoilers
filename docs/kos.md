@@ -867,7 +867,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Cradle of Rime** (Level: 110)
+![Cradle of Rime Icon](images/kos/icon_cradleofrime.png) **Cradle of Rime** (Level: 110)
 > The King of Shadows attacks all enemies with an explosion of magical cold and necrotic energies, dealing ultimate damage and slowing their movement by 50% for 30 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
