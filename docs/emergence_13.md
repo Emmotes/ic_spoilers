@@ -42,7 +42,7 @@ We know the next Emergence event will be Shadar-kai and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Golden Epic Icon for KoS Slot 2](images/emergence_13/ge_3993.png)<span class="itemTooltipContents">ID: 3993**Accursed Harness (KoS)**I will protect their legacy at all costs.<br><br><span style="color:var(--Flavescent)">Increases the effect of Shadows's Phase Two: The Warden ability by 275%.</span><code>buff_upgrade,275,17759</code></span></span>
+            <span class="tooltipHolder">![Golden Epic Icon for KoS Slot 2](images/emergence_13/ge_3993.png)<span class="itemTooltipContents">ID: 3993**Accursed Harness (KoS)**I will protect their legacy at all costs.<br><br><span style="color:var(--Flavescent)">Increases the effect of King of Shadows's Phase Two: The Warden ability by 275%.</span><code>buff_upgrade,275,17759</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
@@ -81,7 +81,7 @@ We know the next Emergence event will be Shadar-kai and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Dark Zealot Feat Icon](images/emergence_13/feat_2326.png)<span class="featTooltipContents">ID: 2326**Dark Zealot (KoS)**The light of the empire fades... I am what remains...<br><br><span style="color:var(--Flavescent)">Increases the effect of Shadows's Phase Three: The Warrior ability by 80%.</span><code>buff_upgrade,80,17760</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Dark Zealot Feat Icon](images/emergence_13/feat_2326.png)<span class="featTooltipContents">ID: 2326**Dark Zealot (KoS)**The light of the empire fades... I am what remains...<br><br><span style="color:var(--Flavescent)">Increases the effect of King of Shadows's Phase Three: The Warrior ability by 80%.</span><code>buff_upgrade,80,17760</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -111,7 +111,7 @@ We know the next Emergence event will be Shadar-kai and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Shadowfell Emergence Chest Icon](images/emergence_13/chest_770.png)<span class="itemTooltipContents">ID: 770**Shadowfell Emergence Chest**Loot for: Shandie, Wren, Kalix, Tess, Baldric and Shadows<code>"for_crusaders":[47,155,158,164,165,168]</code></span></span>
+            <span class="tooltipHolder">![Shadowfell Emergence Chest Icon](images/emergence_13/chest_770.png)<span class="itemTooltipContents">ID: 770**Shadowfell Emergence Chest**Loot for: Shandie, Wren, Kalix, Tess, Baldric and King of Shadows<code>"for_crusaders":[47,155,158,164,165,168]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
@@ -120,7 +120,7 @@ We know the next Emergence event will be Shadar-kai and that it will start on 22
     </span>
 </span>
 
-The Shadowfell Emergence Chest will contain loot for Shandie, Wren, Kalix, Tess, Baldric and Shadows.
+The Shadowfell Emergence Chest will contain loot for Shandie, Wren, Kalix, Tess, Baldric and King of Shadows.
 
 {% comment %}
 # Emergence FAQ
