@@ -16,7 +16,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             King of Shadows Origin Theme Pack
         </span>
         <span class="skinTableCost">
-            0p
+            3,830p
         </span>
         <span class="skinTableDate">
             01 Oct 2025
@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 287**Umbra the Shadow Dragon**Beware her dark breath weapon - you will rise in her service after death.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Umbra the Shadow Dragon Portrait](images/familiars/umbratheshadowdragon.png)<span class="featTooltipContents">ID: 287**Umbra the Shadow Dragon**Beware her dark breath weapon - you will rise in her service after death.<img src="images/familiars/umbratheshadowdragon.gif" alt="Umbra the Shadow Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Umbra the Shadow Dragon
@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 290**Snug the Spectator**Surprisingly snuggly for a Spectator.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Snug the Spectator Portrait](images/familiars/snugthespectator.png)<span class="featTooltipContents">ID: 290**Snug the Spectator**Surprisingly snuggly for a Spectator.<img src="images/familiars/snugthespectator.gif" alt="Snug the Spectator Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Snug the Spectator
@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 291**Spite the Sprite**A sprite as spiteful as their master is frightful.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Spite the Sprite Portrait](images/familiars/spitethesprite.png)<span class="featTooltipContents">ID: 291**Spite the Sprite**A sprite as spiteful as their master is frightful.<img src="images/familiars/spitethesprite.gif" alt="Spite the Sprite Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Spite the Sprite

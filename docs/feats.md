@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">KoS</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tragic Devotion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2317**Tragic Devotion (KoS)**You need not die... You need not be cleansed...<br><br><span style="color:var(--Flavescent)">Increases the effect of King of Shadows' Power of the King ability whenever his max health is doubled by 10% (pre-stack). (Prestack)</span><code>buff_upgrade,10,17757,2</code></span>Tragic Devotion
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of King of Shadows' Power of the King ability whenever his max health is doubled by 10% (pre-stack). (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2025<br>01 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Ezmerelda</span>
         </span>
         <span class="featTableIcon4">
@@ -173,6 +190,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Kalix's Chameleon Carapace ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 13</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">KoS</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dark Zealot Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2326**Dark Zealot (KoS)**The light of the empire fades... I am what remains...<br><br><span style="color:var(--Flavescent)">Increases the effect of Shadows's Phase Three: The Warrior ability by 80%.</span><code>buff_upgrade,80,17760</code></span>Dark Zealot
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Shadows's Phase Three: The Warrior ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Emergence 13</span>
@@ -339,10 +373,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Turiel</span>
         </span>
         <span class="featTableIcon4">
-            ![Axiomatic Embrace Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2352**Axiomatic Embrace (Turiel)**Good may be corrupted, but law is ineffable by definition.<code>todo<br>DevNote: Note: We haven't buffed the ability before, so we need an effect for it. We also need to ensure it buffs the pre-stack value.</code></span>Axiomatic Embrace
+            ![Axiomatic Embrace Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2352**Axiomatic Embrace (Turiel)**Good may be corrupted, but law is ineffable by definition.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Lawful Mission ability by 80%. (Prestack)</span><code>buff_upgrade,80,10661,0</code></span>Axiomatic Embrace
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Turiel's Lawful Mission ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -390,10 +424,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Virgil</span>
         </span>
         <span class="featTableIcon4">
-            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2356**Standard Affair (Virgil)**We're all in this together! ...No, Kent, I'm not singing.<code>todo<br>DevNote: Increase damage of all Champions by 20% for each standard species in the formation, stacking additively.Need an effect string for this</code></span>Standard Affair
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2356**Standard Affair (Virgil)**We're all in this together! ...No, Kent, I'm not singing.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2527</code></span>Standard Affair
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -475,10 +509,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Regis</span>
         </span>
         <span class="featTableIcon4">
-            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2358**Standard Affair (Regis)**I could teach you a thing or two about underestimating common folk.<code>todo<br>DevNote: Increase damage of all Champions by 20% for each standard species in the formation, stacking additively.Need an effect string for this</code></span>Standard Affair
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2358**Standard Affair (Regis)**I could teach you a thing or two about underestimating common folk.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2527</code></span>Standard Affair
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -543,10 +577,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Kas</span>
         </span>
         <span class="featTableIcon4">
-            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2375**Resolute (Kas)**I've lost touch with my true self for too long. No more.<code>todo<br>DevNote: Stun Immunity</code></span>Resolute
+            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2375**Resolute (Kas)**I've lost touch with my true self for too long. No more.<br><br><span style="color:var(--Flavescent)">Grants Kas immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Grants Kas immunity to stun effects.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Tales of the Champions</span>

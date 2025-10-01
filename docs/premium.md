@@ -5,28 +5,26 @@
 Upcoming real-money shop items.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 621</div>
-### King of Shadows Origin Theme Pack - $27.99  
+### King of Shadows Origin Theme Pack - 3,830 Platinum  
 Date of release: 01 Oct 2025
 
 > Unlock King of Shadows along with an exclusive Guardian of Illefarn Skin, Familiar & Familiar Skin!
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: It appears that this pack will only be available for real money instead of Platinum.*
 
 Contents:
 
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![King of Shadows Champion Unlock Portrait](images/premiums/unlock_champion_168.png)<span class="itemTooltipContents">ID: 168**King of Shadows (Seat 9)**<img src="images/premiums/unlock_champion_168.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Shadows Champion Unlock Portrait](images/premiums/unlock_champion_168.png)<span class="itemTooltipContents">ID: 168**Shadows (Seat 9)**<img src="images/premiums/unlock_champion_168.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">King of Shadows</span>
+            <span style="margin-left:15px">Shadows</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Guardian of Illefarn Skin Portrait](images/premiums/skin_605.png)<span class="itemTooltipContents">ID: 605**Guardian of Illefarn (King of Shadows)**<img src="images/premiums/skin_605.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Guardian of Illefarn Skin Portrait](images/premiums/skin_605.png)<span class="itemTooltipContents">ID: 605**Guardian of Illefarn (KoS)**<img src="images/premiums/skin_605.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -53,16 +51,17 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2317**Feat**???: 2317</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Tragic Devotion Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2317**Tragic Devotion**You need not die... You need not be cleansed...<br><br><span style="color:var(--Flavescent)">Increases the effect of King of Shadows' Power of the King ability whenever his max health is doubled by 10% (pre-stack). (Prestack)</span><code>buff_upgrade,10,17757,2</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2317</span>
+            <span style="margin-left:15px">Tragic Devotion</span>
+            <span style="margin-left:15px">KoS</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum King of Shadows Chest Chest Portrait](images/premiums/chests_756.png)<span class="itemTooltipContents">ID: 756**Platinum King of Shadows Chest**Loot for: King of Shadows<code>"for_crusaders":[168]</code></span></span>
+            <span class="tooltipHolder">![Platinum King of Shadows Chest Chest Portrait](images/premiums/chests_756.png)<span class="itemTooltipContents">ID: 756**Platinum King of Shadows Chest**Loot for: Shadows<code>"for_crusaders":[168]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
@@ -246,7 +245,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 608**Darklord Farideh (Farideh)**<img src="images/premiums/skin_608.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Darklord Farideh Skin Portrait](images/premiums/skin_608.png)<span class="itemTooltipContents">ID: 608**Darklord Farideh (Farideh)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_608.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_608-flames.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -457,7 +456,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 611**Avren in a Jar (Avren)**<img src="images/premiums/skin_611.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Avren in a Jar Skin Portrait](images/premiums/skin_611.png)<span class="itemTooltipContents">ID: 611**Avren in a Jar (Avren)**<img src="images/premiums/skin_611.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -590,7 +589,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 287**Umbra the Shadow Dragon**Beware her dark breath weapon - you will rise in her service after death.</span></span>
+            <span class="tooltipHolder">![Umbra the Shadow Dragon Familiar Portrait](images/premiums/familiar_287.png)<span class="itemTooltipContents">ID: 287**Umbra the Shadow Dragon**Beware her dark breath weapon - you will rise in her service after death.<img src="images/premiums/familiar_287.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -787,7 +786,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 290**Snug the Spectator**Surprisingly snuggly for a Spectator.</span></span>
+            <span class="tooltipHolder">![Snug the Spectator Familiar Portrait](images/premiums/familiar_290.png)<span class="itemTooltipContents">ID: 290**Snug the Spectator**Surprisingly snuggly for a Spectator.<img src="images/premiums/familiar_290.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -857,7 +856,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 291**Spite the Sprite**A sprite as spiteful as their master is frightful.</span></span>
+            <span class="tooltipHolder">![Spite the Sprite Familiar Portrait](images/premiums/familiar_291.png)<span class="itemTooltipContents">ID: 291**Spite the Sprite**A sprite as spiteful as their master is frightful.<img src="images/premiums/familiar_291.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1077,12 +1076,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2367**Feat**???: 2367</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">???: 2367</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1138,7 +1136,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Axiomatic Embrace Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2352**Axiomatic Embrace**Good may be corrupted, but law is ineffable by definition.<code>todo<br>DevNote: Note: We haven't buffed the ability before, so we need an effect for it. We also need to ensure it buffs the pre-stack value.</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Axiomatic Embrace Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2352**Axiomatic Embrace**Good may be corrupted, but law is ineffable by definition.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Lawful Mission ability by 80%. (Prestack)</span><code>buff_upgrade,80,10661,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1413,7 +1411,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2356**Standard Affair**We're all in this together! ...No, Kent, I'm not singing.<code>todo<br>DevNote: Increase damage of all Champions by 20% for each standard species in the formation, stacking additively.Need an effect string for this</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2356**Standard Affair**We're all in this together! ...No, Kent, I'm not singing.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2527</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1625,7 +1623,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2358**Standard Affair**I could teach you a thing or two about underestimating common folk.<code>todo<br>DevNote: Increase damage of all Champions by 20% for each standard species in the formation, stacking additively.Need an effect string for this</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2358**Standard Affair**I could teach you a thing or two about underestimating common folk.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2527</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>

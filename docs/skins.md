@@ -9,7 +9,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Guardian of Illefarn Portrait](images/skin_portraits/guardianofillefarn.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn (King of Shadows)**<img src="images/skin_models/guardianofillefarn.gif" alt="Guardian of Illefarn Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Guardian of Illefarn Portrait](images/skin_portraits/guardianofillefarn.png)<span class="featTooltipContents">ID: 605**Guardian of Illefarn (KoS)**<img src="images/skin_models/guardianofillefarn.gif" alt="Guardian of Illefarn Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Guardian of Illefarn
@@ -18,7 +18,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             King of Shadows Origin Theme Pack
         </span>
         <span class="skinTableCost">
-            0p
+            3,830p
         </span>
         <span class="skinTableDate">
             01 Oct 2025
@@ -60,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 608**Darklord Farideh (Farideh)**<img src="images/skin_models/darklordfarideh.gif" alt="Darklord Farideh Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Darklord Farideh Portrait](images/skin_portraits/darklordfarideh.png)<span class="featTooltipContents">ID: 608**Darklord Farideh (Farideh)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/darklordfarideh.gif" alt="Darklord Farideh Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/darklordfarideh-flames.gif" alt="Darklord Farideh Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Darklord Farideh
@@ -111,7 +111,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 611**Avren in a Jar (Avren)**<img src="images/skin_models/avreninajar.gif" alt="Avren in a Jar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Avren in a Jar Portrait](images/skin_portraits/avreninajar.png)<span class="featTooltipContents">ID: 611**Avren in a Jar (Avren)**<img src="images/skin_models/avreninajar.gif" alt="Avren in a Jar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Avren in a Jar
@@ -141,6 +141,40 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             15 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Wychlaran Dynaheir Portrait](images/skin_portraits/wychlarandynaheir.png)<span class="featTooltipContents">ID: 613**Wychlaran Dynaheir (Dynaheir)**<img src="images/skin_models/wychlarandynaheir.gif" alt="Wychlaran Dynaheir Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Wychlaran Dynaheir
+        </span>
+        <span class="skinTableSource">
+            Adventure: Nom Nom Nom
+        </span>
+        <span class="skinTableCost">
+            Free
+        </span>
+        <span class="skinTableDate">
+            22 Oct 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Shadowfell Kalix Portrait](images/skin_portraits/shadowfellkalix.png)<span class="featTooltipContents">ID: 614**Shadowfell Kalix (Kalix)**<img src="images/skin_models/shadowfellkalix.gif" alt="Shadowfell Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Shadowfell Kalix
+        </span>
+        <span class="skinTableSource">
+            Emergence 13
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            22 Oct 2025
         </span>
     </span>
     <span class="skinTableRow">
