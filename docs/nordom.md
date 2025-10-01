@@ -449,7 +449,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "apply_manually": true,
             "show_bonus": true,
-            "use_computed_amount_for_description": true
+            "use_computed_amount_for_description": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed",
+                "feat_changed"
+            ]
         },
         {
             "effect_string": "buff_upgrade,100,18058",
@@ -469,7 +474,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             },
             "apply_manually": true,
             "show_bonus": true,
-            "use_computed_amount_for_description": true
+            "use_computed_amount_for_description": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed",
+                "feat_changed"
+            ]
         },
         {
             "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,18058,speed",
@@ -477,7 +487,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "apply_manually": true,
             "show_bonus": true,
-            "use_computed_amount_for_description": true
+            "use_computed_amount_for_description": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed",
+                "feat_changed"
+            ]
         },
         {
             "effect_string": "buff_upgrade,100,18058",
@@ -493,7 +508,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "show_bonus": true,
             "apply_manually": true,
-            "use_computed_amount_for_description": true
+            "use_computed_amount_for_description": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed",
+                "feat_changed"
+            ]
         },
         {
             "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,300,18058,aerois",
@@ -501,7 +521,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "apply_manually": true,
             "show_bonus": true,
-            "use_computed_amount_for_description": true
+            "use_computed_amount_for_description": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed",
+                "feat_changed"
+            ]
         },
         {
             "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,18058,unaffiliated",
@@ -509,7 +534,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "apply_manually": true,
             "show_bonus": true,
-            "use_computed_amount_for_description": true
+            "use_computed_amount_for_description": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed",
+                "feat_changed"
+            ]
         },
         {
             "effect_string": "buff_upgrade,100,18058",
@@ -529,7 +559,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 ]
             },
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "hero_tags_changed",
+                "feat_changed"
             ],
             "show_bonus": true,
             "apply_manually": true,
@@ -541,7 +573,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "apply_manually": true,
             "show_bonus": true,
-            "use_computed_amount_for_description": true
+            "use_computed_amount_for_description": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed",
+                "feat_changed"
+            ]
         },
         {
             "effect_string": "add_affiliations_to_heroes",
@@ -575,7 +612,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 ],
                 "5": [
                     6,
-                    11
+                    10
                 ],
                 "6": [
                     7
@@ -617,10 +654,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "conditions": [
             {
                 "condition": "static_desc",
-                "desc": " Nordom gains Pipe Puzzle stacks based on the status of the outputs in all active Modron Cores you have equipped across all parties. The effect of Form Orderly Ranks is increased by 25% for each Pipe Puzzle stack, stacking multiplicatively."
+                "desc": "Nordom gains Pipe Puzzle stacks based on the status of the outputs in all active Modron Cores you have equipped across all parties. The effect of Form Orderly Ranks is increased by 25% for each Pipe Puzzle stack, stacking multiplicatively."
             },
             {
-                "desc": " Nordom gains Pipe Puzzle stacks based on the status of the outputs in all active Modron Cores you have equipped across all parties. The effect of Form Orderly Ranks is increased by 25% for each Pipe Puzzle stack, stacking multiplicatively. You gain Pipe Puzzle stacks for having:^$(nordom_powered_outputs_count)"
+                "desc": "Nordom gains Pipe Puzzle stacks based on the status of the outputs in all active Modron Cores you have equipped across all parties. The effect of Form Orderly Ranks is increased by 25% for each Pipe Puzzle stack, stacking multiplicatively. You gain Pipe Puzzle stacks for having:^$(nordom_powered_outputs_count)"
             }
         ]
     },
@@ -665,30 +702,20 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
+            "effect_string": "buff_upgrade,33,18058",
             "off_when_benched": true,
-            "effect_string": "buff_upgrades,33,18058",
-            "targets": [
-                "all"
-            ],
-            "filter_targets": [
-                {
-                    "type": "hero_ids",
-                    "hero_ids": [
-                        111
-                    ]
-                }
-            ],
             "stacks_multiply": true,
             "amount_func": "mult",
             "stack_func": "get_stat",
+            "instance_stat": true,
             "stat": "GrandTourBaseAdventuresCompleted",
             "ided_stat_id": 1,
             "ided_stat_handler": "CompletedBaseAdventures",
             "use_computed_amount_for_description": true,
+            "show_bonus": true,
             "amount_updated_listeners": [
                 "stat_changed,GrandTourBaseAdventuresCompleted"
-            ],
-            "show_bonus": true
+            ]
         }
     ],
     "requirements": "",
@@ -696,7 +723,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "formation_circle_icon": false,
         "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true,
         "spec_option_post_apply_info": "Grand Tour Adventures Completed: $num_stacks"
     }
 }
