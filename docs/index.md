@@ -332,7 +332,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Liars' Night Augments](augments_2.md) - 1 October 2025
 * [Emergence 13](emergence_13.md) - 22 October 2025
 * [Emergence 14](emergence_14.md) - 24 December 2025
 * EGS Giveaway - EGS Idle Champions Web Store Promo - ???
