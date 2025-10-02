@@ -334,7 +334,6 @@ Miscellaneous spoilers with due dates.
 
 * [Emergence 13](emergence_13.md) - 22 October 2025
 * [Emergence 14](emergence_14.md) - 24 December 2025
-* EGS Giveaway - EGS Idle Champions Web Store Promo - ???
 * [Lawful Modron Core](lawful_modron_core.md) - ???
 
 # Misc
