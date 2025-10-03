@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/763.png">
-            <span class="weekendTooltipContents">ID: 763**Gold Lockpick Chest**Loot for: Calliope, Hitch, Dark Urge, Kas and King of Shadows<code>"for_crusaders":[5,13,146,153,168]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Mind the Traps**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    03 October 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for KoS
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hitch.png'">
-                        <span class="weekendTableChampionNameplate">Hitch</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/darkurge.png'">
-                        <span class="weekendTableChampionNameplate">Dark Urge</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kas.png'">
-                        <span class="weekendTableChampionNameplate">Kas</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kos.png'">
-                        <span class="weekendTableChampionNameplate">KoS</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/764.png">
             <span class="weekendTooltipContents">ID: 764**Gold Persistence Chest**Loot for: Delina, Asharra, Havilar, Mehen and Farideh<code>"for_crusaders":[8,6,56,80,33]</code></span>
         </span>
