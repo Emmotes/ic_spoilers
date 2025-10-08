@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Farideh</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Blessing of Asmodeus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2174**Blessing of Asmodeus (Farideh)**I didn't ask for this power, but it's mine now. I'll use it for good.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's Chosen of Asmodeus ability by 80%. (Prestack)</span><code>buff_upgrade,80,17836,0</code></span>Blessing of Asmodeus
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Farideh's Chosen of Asmodeus ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">08 Oct 2025<br>08 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Avren</span>
         </span>
         <span class="featTableIcon4">
@@ -838,6 +855,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Farideh</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Touch of Nessus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2179**Touch of Nessus (Farideh)**When I close my eyes, I see it. That terrible place...<br><br><span style="color:var(--Flavescent)">Increases Farideh's Chosen of Asmodeus max stacks to 30.</span><code>change_upgrade_data,17836,1</code></span>Touch of Nessus
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases Farideh's Chosen of Asmodeus max stacks to 30.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Windfall</span>
         </span>
         <span class="featTableIcon4">
@@ -1576,6 +1610,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the Constitution score of Bobby by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Farideh</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Hell Unleashed Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2335**Hell Unleashed (Farideh)**Here they come! Get ready!<br><br><span style="color:var(--Flavescent)">Increases Farideh's Pact with Lorcan's number of fiends spawned to 3-4.</span><code>change_upgrade_data,17841,3</code></span>Hell Unleashed
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases Farideh's Pact with Lorcan's number of fiends spawned to 3-4.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

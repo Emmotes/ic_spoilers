@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2174**Feat**???: 2174</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Blessing of Asmodeus Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2174**Blessing of Asmodeus**I didn't ask for this power, but it's mine now. I'll use it for good.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's Chosen of Asmodeus ability by 80%. (Prestack)</span><code>buff_upgrade,80,17836,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2174</span>
+            <span style="margin-left:15px">Blessing of Asmodeus</span>
+            <span style="margin-left:15px">Farideh</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -439,7 +440,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Shadow-Cursed Halsin Skin Portrait](images/premiums/skin_615.png)<span class="itemTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**</span></span>
+            <span class="tooltipHolder">![Shadow-Cursed Halsin Skin Portrait](images/premiums/skin_615.png)<span class="itemTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**<img src="images/premiums/skin_615.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
