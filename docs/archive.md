@@ -9,6 +9,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Baldric Goodhand](archive/baldric.md)
 * [Cazrin Varaith](archive/cazrin.md)
 * [Dragondown Augments](archive/augments_30.md)
+* [Farideh](archive/farideh.md)
 * [Founders' Day Augments](archive/augments_37.md)
 * [Hank](archive/hank.md)
 * [Highharvestide Augments](archive/augments_1.md)
