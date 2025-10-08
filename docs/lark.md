@@ -124,14 +124,12 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     "cooldown": 4,
     "animations": [
         {
-            "type": "melee_attack",
-            "target_offset_x": -34,
-            "damage_frame": 2,
-            "jump_sound": 30,
-            "animation_sequence_name": "attack",
-            "sound_frames": {
-                "2": 154
-            }
+            "type": "ranged_attack",
+            "projectile_graphic_id": 1,
+            "projectile": "song_of_pain",
+            "shoot_frame": 9,
+            "hit_sound": 133,
+            "shoot_sound": 159
         }
     ],
     "tags": [
@@ -168,9 +166,9 @@ Lark will be a new champion in the Simril event on 3 December 2025.
         {
             "type": "ranged_attack",
             "projectile": "generic",
-            "shoot_frame": 13,
-            "shoot_offset_x": 50,
-            "shoot_offset_y": 0,
+            "shoot_frame": 17,
+            "shoot_offset_x": 100,
+            "shoot_offset_y": -47,
             "projectile_count": 1,
             "projectile_details": {
                 "projectile_speed": 2400,
@@ -342,8 +340,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
         "ultimate"
     ],
     "damage_types": [
-        "magic",
-        "ultimate"
+        "magic"
     ]
 }
 </pre>
@@ -379,8 +376,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
         "ultimate"
     ],
     "damage_types": [
-        "magic",
-        "ultimate"
+        "magic"
     ]
 }
 </pre>
@@ -390,7 +386,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Call Uggie**
-> Lark calls Uggie to her side.  
+> Lark calls Uggie to his side.  
 > Cooldown: 0s (Cap 0s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -398,8 +394,8 @@ Lark will be a new champion in the Simril event on 3 December 2025.
 {
     "id": 915,
     "name": "Call Uggie",
-    "description": "Lark calls Uggie to her side.",
-    "long_description": "Lark calls Uggie to her side.",
+    "description": "Lark calls Uggie to his side.",
+    "long_description": "Lark calls Uggie to his side.",
     "graphic_id": 27103,
     "target": "none",
     "num_targets": 0,
@@ -647,7 +643,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     "effect_keys": [
         {
             "effect_string": "lark_bardic_perspiration,1.0",
-            "lark_bp_trigger_threshold": 0.5,
+            "lark_bp_trigger_threshold": 5,
             "uggie_attack_effect_index": 1,
             "monster_spawn_cap": 15,
             "off_when_benched": true,
@@ -706,7 +702,8 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             "amount_updated_listeners": [
                 "slot_changed",
                 "upgrade_unlocked"
-            ]
+            ],
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -750,8 +747,11 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             "amount_expr": "upgrade_amount(18056,0)",
             "amount_updated_listeners": [
                 "slot_changed",
-                "upgrade_unlocked"
-            ]
+                "upgrade_unlocked",
+                "feat_changed",
+                "loot_changed"
+            ],
+            "show_bonus": true
         }
     ],
     "requirements": "",
