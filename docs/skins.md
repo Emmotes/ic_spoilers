@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Darklord Farideh Portrait](images/skin_portraits/darklordfarideh.png)<span class="featTooltipContents">ID: 608**Darklord Farideh (Farideh)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/darklordfarideh.gif" alt="Darklord Farideh Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/darklordfarideh-flames.gif" alt="Darklord Farideh Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Darklord Farideh
-        </span>
-        <span class="skinTableSource">
-            Darklord Farideh Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            08 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Lord of Undeath Kas Portrait](images/skin_portraits/lordofundeathkas.png)<span class="featTooltipContents">ID: 609**Lord of Undeath Kas (Kas)**<img src="images/skin_models/lordofundeathkas.gif" alt="Lord of Undeath Kas Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Lord of Undeath Kas
-        </span>
-        <span class="skinTableSource">
-            Lord of Undeath Kas Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            08 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Shadowfell Ezmerelda Portrait](images/skin_portraits/shadowfellezmerelda.png)<span class="featTooltipContents">ID: 610**Shadowfell Ezmerelda (Ezmerelda)**<img src="images/skin_models/shadowfellezmerelda.gif" alt="Shadowfell Ezmerelda Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Shadowfell Ezmerelda
-        </span>
-        <span class="skinTableSource">
-            Shadowfell Ezmerelda Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            08 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Avren in a Jar Portrait](images/skin_portraits/avreninajar.png)<span class="featTooltipContents">ID: 611**Avren in a Jar (Avren)**<img src="images/skin_models/avreninajar.gif" alt="Avren in a Jar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

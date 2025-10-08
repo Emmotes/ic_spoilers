@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ausir the White Raven Portrait](images/familiars/ausirthewhiteraven.png)<span class="featTooltipContents">ID: 286**Ausir the White Raven**The bright messenger of a dark lady.<img src="images/familiars/ausirthewhiteraven.gif" alt="Ausir the White Raven Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Ausir the White Raven
-        </span>
-        <span class="skinTableSource">
-            Darklord Farideh Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            08 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Umbra the Shadow Dragon Portrait](images/familiars/umbratheshadowdragon.png)<span class="featTooltipContents">ID: 287**Umbra the Shadow Dragon**Beware her dark breath weapon - you will rise in her service after death.<img src="images/familiars/umbratheshadowdragon.gif" alt="Umbra the Shadow Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
