@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Shadow-Cursed Halsin Portrait](images/skin_portraits/shadowcursedhalsin.png)<span class="featTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
         </span>
         <span class="skinTableName">
             Shadow-Cursed Halsin

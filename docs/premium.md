@@ -439,7 +439,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**</span></span>
+            <span class="tooltipHolder">![Shadow-Cursed Halsin Skin Portrait](images/premiums/skin_615.png)<span class="itemTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
