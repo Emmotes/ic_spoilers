@@ -127,6 +127,14 @@ Unknown.
             ![Anson Console Portrait](images/anson/console.png)Console Portrait
         </span>
     </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Anson Gold Chest Icon](images/anson/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Anson Silver Chest Icon](images/anson/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
