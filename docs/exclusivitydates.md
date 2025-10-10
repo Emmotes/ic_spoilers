@@ -35,57 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Deekin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 159**Prodigal Leader (Deekin)**Deekin lead you all to DOOM.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">09 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Aeon</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Clandestine Operation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2223**Clandestine Operation (Aeon)**They must never know what we do in the shadows.<br><br><span style="color:var(--Flavescent)">Increases the effect of Aeon's Inner Circle ability by 80%.</span><code>buff_upgrade,80,15196,1</code></span>Clandestine Operation
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Aeon's Inner Circle ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">09 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">K'thriss</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Reincarnation Icon](images/featicons/kthrissreincarnated.png)<span class="featTooltipContents">ID: 2259**Reincarnation (K'thriss)**What was once the me within is now the me without.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 100%, sets K'thriss' gender to Nonbinary, and sets K'thriss' age to 80.</span><code>global_dps_multiplier_mult,100<br>set_age,80<br>add_hero_tags,0,non_binary</code></span>Reincarnation
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 100%, sets K'thriss' gender to Nonbinary, and sets K'thriss' age to 80.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">09 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Warduke</span>
         </span>
         <span class="featTableIcon4">
