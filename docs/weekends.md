@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/764.png">
-            <span class="weekendTooltipContents">ID: 764**Gold Persistence Chest**Loot for: Delina, Asharra, Havilar, Mehen and Farideh<code>"for_crusaders":[8,6,56,80,33]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Persistence**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    10 October 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Farideh
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/delina.png'">
-                        <span class="weekendTableChampionNameplate">Delina</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/havilar.png'">
-                        <span class="weekendTableChampionNameplate">Havilar</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/mehen.png'">
-                        <span class="weekendTableChampionNameplate">Mehen</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/farideh.png'">
-                        <span class="weekendTableChampionNameplate">Farideh</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/765.png">
             <span class="weekendTooltipContents">ID: 765**Gold Reckless Chest**Loot for: Arkhan, Bruenor, Krull, Hew Maan and Torogar<code>"for_crusaders":[12,1,53,75,69]</code></span>
         </span>
