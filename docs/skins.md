@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 619**Twice Cursed Havilar (Havilar)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Twice Cursed Havilar Portrait](images/skin_portraits/twicecursedhavilar.png)<span class="featTooltipContents">ID: 619**Twice Cursed Havilar (Havilar)**<img src="images/skin_models/twicecursedhavilar.gif" alt="Twice Cursed Havilar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Twice Cursed Havilar
