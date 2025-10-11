@@ -823,8 +823,12 @@ This Tales drop will allow unlocking Kas and Nordom.
     </span>
 </span>
 
-<br />
-This page was made with the help of Randramb.
+## Tales 6 - 28 January 2026
+
+This Tales drop will allow unlocking Ravengard and Spurt.
+
+- No adventures or variants detected yet.
+
 
 [Back to Top](#top)
 
