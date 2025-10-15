@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Avren in a Jar Portrait](images/skin_portraits/avreninajar.png)<span class="featTooltipContents">ID: 611**Avren in a Jar (Avren)**<img src="images/skin_models/avreninajar.gif" alt="Avren in a Jar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Avren in a Jar
-        </span>
-        <span class="skinTableSource">
-            Avren in a Jar Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            15 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Nightwalker Krond Portrait](images/skin_portraits/nightwalkerkrond.png)<span class="featTooltipContents">ID: 612**Nightwalker Krond (Krond)**<img src="images/skin_models/nightwalkerkrond.gif" alt="Nightwalker Krond Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Nightwalker Krond
-        </span>
-        <span class="skinTableSource">
-            Nightwalker Krond Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            15 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Wychlaran Dynaheir Portrait](images/skin_portraits/wychlarandynaheir.png)<span class="featTooltipContents">ID: 613**Wychlaran Dynaheir (Dynaheir)**<img src="images/skin_models/wychlarandynaheir.gif" alt="Wychlaran Dynaheir Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

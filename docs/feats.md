@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Avren</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2300**Multiversal Allies (Avren)**I've got friends in weird places.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Oct 2025<br>15 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Krond</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Kindred Spirits Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2301**Kindred Spirits (Krond)**Whatever our cause, we fight for it together.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,17237,0</code></span>Kindred Spirits
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the base effect of Krond's Unsung Alliance ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Oct 2025<br>15 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Baldric</span>
         </span>
         <span class="featTableIcon4">
