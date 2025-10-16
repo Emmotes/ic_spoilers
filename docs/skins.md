@@ -60,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 616**Action Figure Skylla (Skylla)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Action Figure Skylla Portrait](images/skin_portraits/actionfigureskylla.png)<span class="featTooltipContents">ID: 616**Action Figure Skylla (Skylla)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
         </span>
         <span class="skinTableName">
             Action Figure Skylla
