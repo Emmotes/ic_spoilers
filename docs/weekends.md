@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/765.png">
-            <span class="weekendTooltipContents">ID: 765**Gold Reckless Chest**Loot for: Arkhan, Bruenor, Krull, Hew Maan and Torogar<code>"for_crusaders":[12,1,53,75,69]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Young and the Reckless**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    17 October 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Torogar
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/krull.png'">
-                        <span class="weekendTableChampionNameplate">Krull</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hewmaan.png'">
-                        <span class="weekendTableChampionNameplate">Hew Maan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/torogar.png'">
-                        <span class="weekendTableChampionNameplate">Torogar</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/766.png">
             <span class="weekendTooltipContents">ID: 766**Gold Wave Chest**Loot for: Minsc, Jarlaxle, Jaheira, Imoen and Dynaheir<code>"for_crusaders":[7,4,61,117,145]</code></span>
         </span>
