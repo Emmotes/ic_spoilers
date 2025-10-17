@@ -304,7 +304,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Battle Master** (Guess)
 > Champions affected by Havilar's Leadership Summit gain the Control role (if they didn't already have it) and have a 25% chance for enemies they attack to go berserk for 8 seconds. Berserked enemies move 50% faster, attack twice as often, but deal 90% less damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -356,7 +356,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Sister, Sister** (Guess)
 > Increase the effect of Leadership Summit by 500% when Farideh is in the formation. Additionally, whenever Farideh's Hellish Rebuke is triggered, Havilar heals for up to 2.5% of her maximum health. This can trigger at most 400 times in a single area.
 <details><summary><em>Raw Data</em></summary>
 <p>
