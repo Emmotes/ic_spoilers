@@ -630,7 +630,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Bardic Perspiration** (Guess)
-> When Uggie is with Lark, and at least 50% of the area's quest requirements are met, Lark sprints off to the next area, leaving the formation (and Uggie) behind. When the formation catches up to him, Lark has already antagonized several enemies, spawning 1.0 [enemy/enemies] in the next area before the formation even arrives.
+> When Uggie is with Lark, and at least 50% of the area's quest requirements are met, Lark sprints off to the next area, leaving the formation (and Uggie) behind. When the formation catches up to him, Lark has already antagonized several enemies, spawning 1.0 1.0enemies1.01.0enemy1.0 in the next area before the formation even arrives.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -638,7 +638,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     "id": 2517,
     "flavour_text": "",
     "description": {
-        "desc": "When Uggie is with Lark, and at least 50% of the area's quest requirements are met, Lark sprints off to the next area, leaving the formation (and Uggie) behind. When the formation catches up to him, Lark has already antagonized several enemies, spawning $lark_bardic_amount [enemy/enemies] in the next area before the formation even arrives."
+        "desc": "When Uggie is with Lark, and at least 50% of the area's quest requirements are met, Lark sprints off to the next area, leaving the formation (and Uggie) behind. When the formation catches up to him, Lark has already antagonized several enemies, spawning $lark_bardic_amount $(if has_bonus)enemies$(fi)$(if not has_bonus)enemy$(fi) in the next area before the formation even arrives."
     },
     "effect_keys": [
         {
