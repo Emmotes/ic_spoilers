@@ -22,16 +22,6 @@ We know the next Emergence event will be Shadar-kai and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Golden Epic Icon for NERDS Slot 2](images/emergence_13/ge_2480.png)<span class="itemTooltipContents">ID: 2480**+1 Bow of Owlbear Slaying (NERDS)**After perfectly stalking their foe, it ends with a surprise attack!<br><br><span style="color:var(--Flavescent)">Increases the effect of NERDS's Ranger ability by 275%.</span><code>buff_upgrade,275,6140</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Golden Epic**</span>
-            <span style="margin-left:15px">+1 Bow of Owlbear Slaying</span>
-            <span style="margin-left:15px">NERDS (Slot 2)</span>
-        </span>
-    </span>
-    <span class="emergenceShopTableItem">
-        <span class="emergenceShopTableIcon">
             <span class="tooltipHolder">![Golden Epic Icon for Wren Slot 2](images/emergence_13/ge_3681.png)<span class="itemTooltipContents">ID: 3681**Ring of Spell Turning (Wren)**They told me I couldn't block spells, but nothing about returning them!<br><br><span style="color:var(--Flavescent)">Increases the effect of Wren's Hero's Call ability by 275%.</span><code>buff_upgrade,275,15208</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
