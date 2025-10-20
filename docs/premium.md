@@ -342,7 +342,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 617**Entropic Sentry (Sentry)**</span></span>
+            <span class="tooltipHolder">![Entropic Sentry Skin Portrait](images/premiums/skin_617.png)<span class="itemTooltipContents">ID: 617**Entropic Sentry (Sentry)**<img src="images/premiums/skin_617.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -828,7 +828,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 623**Dark Pact Virgil (Virgil)**</span></span>
+            <span class="tooltipHolder">![Dark Pact Virgil Skin Portrait](images/premiums/skin_623.png)<span class="itemTooltipContents">ID: 623**Dark Pact Virgil (Virgil)**<img src="images/premiums/skin_623.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -979,7 +979,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 294**Lerk the Lark**No idea where he got that hat from, but he has good taste!</span></span>
+            <span class="tooltipHolder">![Lerk the Lark Familiar Portrait](images/premiums/familiar_294.png)<span class="itemTooltipContents">ID: 294**Lerk the Lark**No idea where he got that hat from, but he has good taste!<img src="images/premiums/familiar_294.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

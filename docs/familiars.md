@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 294**Lerk the Lark**No idea where he got that hat from, but he has good taste!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Lerk the Lark Portrait](images/familiars/lerkthelark.png)<span class="featTooltipContents">ID: 294**Lerk the Lark**No idea where he got that hat from, but he has good taste!<img src="images/familiars/lerkthelark.gif" alt="Lerk the Lark Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Lerk the Lark

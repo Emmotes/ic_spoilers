@@ -77,7 +77,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 617**Entropic Sentry (Sentry)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Entropic Sentry Portrait](images/skin_portraits/entropicsentry.png)<span class="featTooltipContents">ID: 617**Entropic Sentry (Sentry)**<img src="images/skin_models/entropicsentry.gif" alt="Entropic Sentry Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Entropic Sentry
@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 623**Dark Pact Virgil (Virgil)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dark Pact Virgil Portrait](images/skin_portraits/darkpactvirgil.png)<span class="featTooltipContents">ID: 623**Dark Pact Virgil (Virgil)**<img src="images/skin_models/darkpactvirgil.gif" alt="Dark Pact Virgil Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dark Pact Virgil
