@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Shadowfell Kalix Portrait](images/skin_portraits/shadowfellkalix.png)<span class="featTooltipContents">ID: 614**Shadowfell Kalix (Kalix)**<img src="images/skin_models/shadowfellkalix.gif" alt="Shadowfell Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Shadowfell Kalix
-        </span>
-        <span class="skinTableSource">
-            Emergence 13
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            22 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Shadow-Cursed Halsin Portrait](images/skin_portraits/shadowcursedhalsin.png)<span class="featTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/shadowcursedhalsin.gif" alt="Shadow-Cursed Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/shadowcursedhalsin-bear.gif" alt="Shadow-Cursed Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">

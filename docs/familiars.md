@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Umbra the Shadow Dragon Portrait](images/familiars/umbratheshadowdragon.png)<span class="featTooltipContents">ID: 287**Umbra the Shadow Dragon**Beware her dark breath weapon - you will rise in her service after death.<img src="images/familiars/umbratheshadowdragon.gif" alt="Umbra the Shadow Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Umbra the Shadow Dragon
-        </span>
-        <span class="skinTableSource">
-            Avatar of Mask Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            22 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Form of the Slayer Portrait](images/familiars/formoftheslayer.png)<span class="featTooltipContents">ID: 288**Form of the Slayer**A form for Bhaal's chosen…<img src="images/familiars/formoftheslayer.gif" alt="Form of the Slayer Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
