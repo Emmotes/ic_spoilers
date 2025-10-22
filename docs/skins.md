@@ -26,7 +26,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Shadow-Cursed Halsin Portrait](images/skin_portraits/shadowcursedhalsin.png)<span class="featTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**<img src="images/skin_models/shadowcursedhalsin.gif" alt="Shadow-Cursed Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Shadow-Cursed Halsin Portrait](images/skin_portraits/shadowcursedhalsin.png)<span class="featTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/shadowcursedhalsin.gif" alt="Shadow-Cursed Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/shadowcursedhalsin-bear.gif" alt="Shadow-Cursed Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Shadow-Cursed Halsin
@@ -43,7 +43,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Action Figure Skylla Portrait](images/skin_portraits/actionfigureskylla.png)<span class="featTooltipContents">ID: 616**Action Figure Skylla (Skylla)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Action Figure Skylla Portrait](images/skin_portraits/actionfigureskylla.png)<span class="featTooltipContents">ID: 616**Action Figure Skylla (Skylla)**<img src="images/skin_models/actionfigureskylla.gif" alt="Action Figure Skylla Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Action Figure Skylla
@@ -94,7 +94,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 620**Turiel the Fallen (Turiel)**<img src="images/skin_models/turielthefallen.gif" alt="Turiel the Fallen Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Turiel the Fallen Portrait](images/skin_portraits/turielthefallen.png)<span class="featTooltipContents">ID: 620**Turiel the Fallen (Turiel)**<img src="images/skin_models/turielthefallen.gif" alt="Turiel the Fallen Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Turiel the Fallen

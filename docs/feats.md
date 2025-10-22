@@ -1637,23 +1637,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Donaar</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Inspiring Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 189**Inspiring Leader (Donaar)**A decision has been made, now let's execute it!<br><br><span style="color:var(--Flavescent)">All Champions damage +25%.</span><code>global_dps_multiplier_mult,25</code></span>Inspiring Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +25%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">12,500 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Jarlaxle</span>
         </span>
         <span class="featTableIcon3">

@@ -93,6 +93,9 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">Wintershield - 7 January 2026</span>
             </span>
         </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -149,6 +152,31 @@ A list of champions that will be seeing reworks in upcoming events.
         </span>
         <span class="indexChampionTableAttack">
             ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="binwin.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Binwin Bronzebottom Portrait Icon](images/binwin/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Binwin Bronzebottom
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Dwarf (Mountain) Fighter / Barbarian</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Wintershield - Delayed until 14 January 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
@@ -306,6 +334,37 @@ These are the upcoming new and reworked champions and where they'll be found.
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
         </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="binwin.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Binwin Bronzebottom Portrait Icon](images/binwin/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Binwin Bronzebottom
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Dwarf (Mountain) Fighter / Barbarian</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 14 January 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rework ♻️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -323,6 +382,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
+* [Feast of the Moon Augments](augments_3.md) - 5 November 2025
 * [Emergence 14](emergence_14.md) - 24 December 2025
 * [Lawful Modron Core](lawful_modron_core.md) - ???
 
