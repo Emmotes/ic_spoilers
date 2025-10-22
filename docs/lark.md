@@ -285,16 +285,15 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     "description": "Uggie protects her persons by biting a scary monster.",
     "long_description": "Uggie leaps out and bites a random enemy, dealing 1 hit. Uggie will prioritize enemies she hasn't attacked yet.",
     "graphic_id": 0,
-    "target": "none",
+    "target": "dummy",
     "num_targets": 0,
     "aoe_radius": 0,
-    "damage_modifier": 0,
+    "damage_modifier": 1,
     "cooldown": 4,
     "animations": [
         {
             "type": "dummy_attack",
-            "no_damage_display": true,
-            "no_cooldown_display": true,
+            "no_damage_display_disabled": true,
             "animation_sequence_name": "none",
             "COMMENT READ ME": "READ NOTE ENTRY"
         }
@@ -349,7 +348,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: United Strike (Enthrall)**
+**Base Attack: United Strike (Enthrall)** (Magic)
 > Lark directs all the Fallbacks to attack with their ultimate attack, including his own Enthrall.  
 > Cooldown: 360s (Cap 90s)
 <details><summary><em>Raw Data</em></summary>
@@ -372,8 +371,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
         }
     ],
     "tags": [
-        "magic",
-        "ultimate"
+        "magic"
     ],
     "damage_types": [
         "magic"
@@ -438,6 +436,10 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             "effect_string": "uggie_handler,100",
             "off_when_benched": true,
             "uggie_roaming_disable_index": 1,
+            "post_united_strike_effect_indices": [
+                2,
+                3
+            ],
             "uggie_priority": 2,
             "uggie_buff_effect_id": 2366,
             "uggie_apply_lark_debuff": true,
@@ -449,6 +451,19 @@ Lark will be a new champion in the Simril event on 3 December 2025.
         {
             "effect_string": "disallow_roaming_familiar_ult_trigger",
             "apply_manually": true
+        },
+        {
+            "effect_string": "buff_ultimate,100",
+            "apply_manually": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasTag(`fallbacks`)"
+                }
+            ]
         }
     ],
     "requirements": "",
@@ -488,6 +503,14 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             "targets": [
                 "middle_columns"
             ]
+        },
+        {
+            "effect_string": "do_nothing_devil_may_care",
+            "off_when_benched": true,
+            "targets": [
+                "middle_columns"
+            ],
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
@@ -643,14 +666,14 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     "effect_keys": [
         {
             "effect_string": "lark_bardic_perspiration,1.0",
-            "lark_bp_trigger_threshold": 5,
+            "lark_bp_trigger_threshold": 0.5,
             "uggie_attack_effect_index": 1,
             "monster_spawn_cap": 15,
             "off_when_benched": true,
             "lark_fake_attack_index": 2
         },
         {
-            "effect_string": "uggie_attack_handler,100",
+            "effect_string": "uggie_attack_handler,1",
             "off_when_benched": true,
             "uggie_attack_on_start": false
         },
@@ -691,7 +714,8 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack,100"
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
         },
         {
             "effect_string": "buff_upgrade,100,18051",
@@ -712,6 +736,9 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
         "spec_option_post_apply_info": "Unique Classes: $num_stacks___2"
     }
 }
@@ -736,7 +763,8 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack,175"
+            "effect_string": "pre_stack,175",
+            "skip_effect_key_desc": true
         },
         {
             "effect_string": "buff_upgrade,175,18051",
@@ -760,6 +788,9 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
         "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
@@ -770,7 +801,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Path of Nightmares** (Guess)
-> Lark increases the damage of Devil May Care by 175% for each Tiefling and/or Evil Champion in the formation, stacking multiplicatively.
+> Lark increases the damage of Devil May Care by 150% for each Tiefling and/or Evil Champion in the formation, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -784,10 +815,11 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack,175"
+            "effect_string": "pre_stack,150",
+            "skip_effect_key_desc": true
         },
         {
-            "effect_string": "buff_upgrade,175,18051",
+            "effect_string": "buff_upgrade,150,18051",
             "off_when_benched": true,
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`tiefling`) || HasTag(`evil`)",
@@ -795,8 +827,11 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             "amount_expr": "upgrade_amount(18057,0)",
             "amount_updated_listeners": [
                 "slot_changed",
-                "upgrade_unlocked"
-            ]
+                "upgrade_unlocked",
+                "feat_changed",
+                "loot_changed"
+            ],
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -805,6 +840,9 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
         "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
@@ -889,20 +927,20 @@ Unknown.
 > Simril is ruined! Someone has pilfered the food supplies!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: No Autographs** (Complete Area 75)
+![No Autographs Icon](images/lark/1650.png) **Variant 1: No Autographs** (Complete Area 75)
 > Lark starts in the formation with his Devil May Care ability unlocked. He can be moved, but not removed.  
 > Only Lark and Champions buffed by both him and Uggie can deal damage.  
 > 1-2 Unruly fans spawn with each wave. They don't drop gold nor count towards quest progress.   
 > <b>Getting to Know Lark and Uggie:</b> Lark increases the damage of Champions in the middle columns, while Uggie increases the damage of Champions not next to her. Position your damage dealers to take advantage of both buffs!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Fortune's Fool** (Complete Area 125)
+![Fortune's Fool Icon](images/lark/1650.png) **Variant 2: Fortune's Fool** (Complete Area 125)
 > Lark starts in the formation. He can be moved, but not removed.  
 > Starting in area 51, enemies that don't have an active debuff reduce all normal attack damage to just 1 point of damage.  
 > <b>Getting to Know Lark:</b> When Lark attacks an enemy and does not defeat it, he applies a debuff making it more susceptible to damage in the future. Use him and other debuff Champions to get through these resistant foes!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: All Together Now** (Complete Area 175)
+![All Together Now Icon](images/lark/1650.png) **Variant 3: All Together Now** (Complete Area 175)
 > Lark starts in the formation. He can be moved, but not removed.  
 > You may only use Champions who are Fallbacks, Tieflings, Evil, multi-classed, or have a Charisma of 13 or lower.  
 > Two backup musicians join the formation. They just get in the way.  
