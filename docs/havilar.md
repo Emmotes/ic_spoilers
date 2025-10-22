@@ -513,8 +513,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "filter_targets": [
                 {
-                    "type": "by_expr",
-                    "expr": "hero_id == 80"
+                    "type": "hero_expr",
+                    "hero_expr": "hero_id == 80"
                 }
             ],
             "post_process_expr": "2",
@@ -522,7 +522,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "slot_changed"
             ],
             "condition_description": "Havilar has Dembo as an Imp companion (+2 stacks)",
-            "index": 11
+            "index": 13
         }
     ],
     "requirements": "",
@@ -602,7 +602,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Bosh** (Guess)
-> Havilar gains Bosh as an Imp companion. Bosh increases the effect of Leadership Summit by 50% for each enemy or boss enrage stack active, stacking multiplicatively up to 100 stacks, and also increases Havilar's maximum health by 50%.
+> Havilar gains Bosh as an Imp companion. Bosh increases the effect of Leadership Summit by 50% for each enemy or boss enrage stack active, stacking multiplicatively up to 50 stacks, and also increases Havilar's maximum health by 50%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -629,7 +629,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_max_monster_power_boost_stacks",
-            "stack_func_cap": 100,
+            "stack_func_cap": 50,
             "amount_updated_listeners": [
                 "enrage_stacks_changed"
             ],
