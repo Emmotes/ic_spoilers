@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Wychlaran Dynaheir Portrait](images/skin_portraits/wychlarandynaheir.png)<span class="featTooltipContents">ID: 613**Wychlaran Dynaheir (Dynaheir)**<img src="images/skin_models/wychlarandynaheir.gif" alt="Wychlaran Dynaheir Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Wychlaran Dynaheir
-        </span>
-        <span class="skinTableSource">
-            Adventure: Nom Nom Nom
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            22 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Shadowfell Kalix Portrait](images/skin_portraits/shadowfellkalix.png)<span class="featTooltipContents">ID: 614**Shadowfell Kalix (Kalix)**<img src="images/skin_models/shadowfellkalix.gif" alt="Shadowfell Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
