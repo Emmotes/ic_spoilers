@@ -338,7 +338,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             "stacks_multiply": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasEffectByID(2474) && hero_id != 169",
+            "per_hero_expr": "HasEffectByID(2474)",
             "targets": [
                 "next_col"
             ],
