@@ -859,7 +859,7 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Merry Map Misadventure (Anson)** (Complete Area 50)
+![The Merry Map Misadventure (Anson) Icon](images/anson/1874.png) **Unlock Adventure: The Merry Map Misadventure (Anson)** (Complete Area 50)
 > Help a poor map find its way home for the holidays.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
