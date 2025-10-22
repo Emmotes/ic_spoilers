@@ -923,7 +923,7 @@ Unknown.
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Simril Spoilsport (Lark)** (Complete Area 50)
+![The Simril Spoilsport (Lark) Icon](images/lark/1650.png) **Unlock Adventure: The Simril Spoilsport (Lark)** (Complete Area 50)
 > Simril is ruined! Someone has pilfered the food supplies!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
