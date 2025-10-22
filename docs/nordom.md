@@ -69,9 +69,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "tags": [
-        "ranged"
+        "ranged",
+        "magic"
     ],
     "damage_types": [
+        "ranged",
         "magic"
     ]
 }
@@ -234,9 +236,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "tags": [
-        "ranged"
+        "ranged",
+        "magic"
     ],
     "damage_types": [
+        "ranged",
         "magic"
     ]
 }
@@ -359,9 +363,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "tags": [
-        "ranged"
+        "ranged",
+        "magic"
     ],
     "damage_types": [
+        "ranged",
         "magic"
     ]
 }
@@ -477,8 +483,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "use_computed_amount_for_description": true,
             "amount_updated_listeners": [
                 "slot_changed",
-                "hero_tags_changed",
-                "feat_changed"
+                "feat_changed",
+                "ability_score_changed"
             ]
         },
         {
@@ -512,7 +518,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed",
-                "feat_changed"
+                "feat_changed",
+                "attack_changed"
             ]
         },
         {
@@ -561,7 +568,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed",
-                "feat_changed"
+                "feat_changed",
+                "ability_score_changed"
             ],
             "show_bonus": true,
             "apply_manually": true,
