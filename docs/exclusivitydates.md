@@ -35,23 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Warduke</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Right Hand of Evil Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2225**Right Hand of Evil (Warduke)**I go where I'm told, and whatever I find there I destroy.<br><br><span style="color:var(--Flavescent)">Increases the effect of Warduke's Drawn to Power ability by 80%.</span><code>buff_upgrade,80,9618</code></span>Right Hand of Evil
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Warduke's Drawn to Power ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">23 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Eric</span>
         </span>
         <span class="featTableIcon4">
