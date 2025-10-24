@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/766.png">
-            <span class="weekendTooltipContents">ID: 766**Gold Wave Chest**Loot for: Minsc, Jarlaxle, Jaheira, Imoen and Dynaheir<code>"for_crusaders":[7,4,61,117,145]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Ocean Waves**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    24 October 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Dynaheir
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jarlaxle.png'">
-                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jaheira.png'">
-                        <span class="weekendTableChampionNameplate">Jaheira</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/imoen.png'">
-                        <span class="weekendTableChampionNameplate">Imoen</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/dynaheir.png'">
-                        <span class="weekendTableChampionNameplate">Dynaheir</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/767.png">
             <span class="weekendTooltipContents">ID: 767**Gold Accessory Chest**Loot for: Celeste, Makos, Warduke, Ellywick and Strongheart<code>"for_crusaders":[2,9,116,83,126]</code></span>
         </span>
