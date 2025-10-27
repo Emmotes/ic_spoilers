@@ -351,7 +351,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 618**Hemomancer Widdle (Widdle)**</span></span>
+            <span class="tooltipHolder">![Hemomancer Widdle Skin Portrait](images/premiums/skin_618.png)<span class="itemTooltipContents">ID: 618**Hemomancer Widdle (Widdle)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

@@ -60,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 618**Hemomancer Widdle (Widdle)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Hemomancer Widdle Portrait](images/skin_portraits/hemomancerwiddle.png)<span class="featTooltipContents">ID: 618**Hemomancer Widdle (Widdle)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
         </span>
         <span class="skinTableName">
             Hemomancer Widdle
