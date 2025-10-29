@@ -141,6 +141,42 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Broken Blade** (Melee)
+> Anson attacks the closest enemy and deals one hit.  
+> Cooldown: 4s (Cap 1s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 930,
+    "name": "Broken Blade",
+    "description": "Anson attacks the closest enemy, dealing 1 hit.",
+    "long_description": "Anson attacks the closest enemy and deals one hit.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 2
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Uggie's Bite** (Melee)
 > Uggie leaps out and bites a random enemy, dealing 1 hit. Uggie will prioritize enemies she hasn't attacked yet.  
 > Cooldown: 0s (Cap 0s)
@@ -198,7 +234,32 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
     "animations": [
         {
             "type": "ultimate_attack",
-            "ultimate": "anson"
+            "attack_seq": "ultimate",
+            "alternate_charge_sequence": "special",
+            "refresh_damage_targets_pre_jump": true,
+            "ultimate": "anson",
+            "power_up_sequence": {
+                "start_frame": 0,
+                "end_frame": 21
+            },
+            "sequences": [
+                {
+                    "start_frame": 22,
+                    "end_frame": 62,
+                    "damage_frame": 30,
+                    "target_offset_x": -70,
+                    "visual_effect_frames": {
+                        "hit": {
+                            "effect": "animated_clip",
+                            "graphic_id": 28092,
+                            "offset_x": 0,
+                            "offset_y": -20,
+                            "scale": 3,
+                            "sort_offset": -9999
+                        }
+                    }
+                }
+            ]
         }
     ],
     "tags": [
@@ -575,7 +636,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
     "id": 2552,
     "flavour_text": "",
     "description": {
-        "desc": "When Anson uses his Storm Crash ultimate ability, Anson's sword ignites in lightning for 45 seconds. For the duration, Anson's attacks deal an additional 5 seconds of BUD-based damage, damage him for damage equal to 1% of his Maximum Health, and increase the maximum stacks of Combat Trance's Meditation by 1, up to a maximum of 25 additional maximum stacks. The increase to the maximum stacks resets when changing areas."
+        "desc": "When Anson uses his Storm Crash ultimate ability, Anson's sword ignites in lightning for 45 seconds. For the duration, Anson's attacks deal an additional $(seconds_of_bud) seconds of BUD-based damage, damage him for damage equal to $(damage_percent)% of his Maximum Health, and increase the maximum stacks of Combat Trance's Meditation by $(stacks_per_attack), up to a maximum of $max_stacks___3 additional maximum stacks. The increase to the maximum stacks resets when changing areas."
     },
     "effect_keys": [
         {
@@ -583,6 +644,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
             "duration": 45,
             "seconds_of_bud": 5,
             "damage_percent": 1,
+            "stacks_per_attack": 1,
             "buff_indicies": [
                 1,
                 2
@@ -594,14 +656,16 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
         },
         {
             "effect_string": "animation_synced_overlay,28091",
+            "skin_property_prefix": "erratic_energy_overlay",
             "apply_manually": true
         },
         {
             "effect_string": "add_max_combat_trance_stacks,1",
             "stacks_on_trigger": "will_stack_manually",
+            "stacks_per_attack": 1,
             "max_stacks": 25,
             "stacks_multiply": false,
-            "show_bonus": true,
+            "show_stacks": true,
             "apply_manually": true
         }
     ],
@@ -610,6 +674,49 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
     "large_graphic_id": 28041,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Get Behind Me!** (Guess)
+> Anson taunts enemies to attack him when he attacks, and when he successfully taunts an enemy his max Meditation stacks are increased by 1, up to a max of 25. The max stack increase resets when changing areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2559,
+    "flavour_text": "",
+    "description": {
+        "desc": "Anson taunts enemies to attack him when he attacks, and when he successfully taunts an enemy his max Meditation stacks are increased by 1, up to a max of 25. The max stack increase resets when changing areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "anson_taunt",
+            "buff_index": 1
+        },
+        {
+            "effect_string": "add_max_combat_trance_stacks,1",
+            "stacks_on_trigger": "will_stack_manually",
+            "stacks_per_attack": 1,
+            "max_stacks": 25,
+            "stacks_multiply": false,
+            "show_stacks": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "effect_name": "Get Behind Me!",
+        "show_in_owner_outgoing": true,
         "owner_use_outgoing_description": true
     }
 }
