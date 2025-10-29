@@ -13,7 +13,7 @@
 
 # Nordom
 
-Modrons are the embodiment of law and order, marching in lockstep through the planes. But when Nordom Whistlklik was separated from his fellow modrons, the essence of chaos infected this rogue quadrone. Now with his crossbow-shaped gear spirits in hand, he works to fit his complex new outlook into his logical-if quirky-understanding of the planes.
+Modrons are the embodiment of law and order, marching in lockstep through the planes. But when Nordom Whistleklik was separated from his fellow modrons, the essence of chaos infected this rogue quadrone. Now with his crossbow-shaped gear spirits in hand, he works to fit his complex new outlook into his logical-if quirky-understanding of the planes.
 
 # Changes
 
@@ -800,9 +800,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "show_bonus": true,
             "stacks_multiply": true,
             "amount_expr": "upgrade_amount(18168,0)",
-            "stack_func": "per_modron_core_level",
+            "stacks_on_trigger": "will_stack_manually",
             "stack_title": "Core Competency Stacks",
-            "amount_func": "mult",
             "use_computed_amount_for_description": true
         },
         {
@@ -897,7 +896,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
-        "show_incoming": false
+        "show_incoming": false,
+        "formation_circle_icon": false
     }
 }
 </pre>
