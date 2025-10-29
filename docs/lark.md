@@ -285,7 +285,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
     "description": "Uggie protects her persons by biting a scary monster.",
     "long_description": "Uggie leaps out and bites a random enemy, dealing 1 hit. Uggie will prioritize enemies she hasn't attacked yet.",
     "graphic_id": 0,
-    "target": "dummy",
+    "target": "none",
     "num_targets": 0,
     "aoe_radius": 0,
     "damage_modifier": 1,
@@ -295,6 +295,7 @@ Lark will be a new champion in the Simril event on 3 December 2025.
             "type": "dummy_attack",
             "no_damage_display_disabled": true,
             "animation_sequence_name": "none",
+            "require_targets_to_start": true,
             "COMMENT READ ME": "READ NOTE ENTRY"
         }
     ],
