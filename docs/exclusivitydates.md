@@ -424,6 +424,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">15 Jan 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Halsin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2302**Prodigal Leader (Halsin)**Even those who defile nature inevitably return to it, in the end.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Dark Urge</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Blood Moon Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2303**Blood Moon (Dark Urge)**Time for the final act.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dark Urge's The Urge ability by 80%.</span><code>buff_upgrade,80,14379</code></span>Blood Moon
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Dark Urge's The Urge ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jan 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -532,120 +566,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
             <span class="postSeasonTableDateLate">
                 <span>18 September 2025 (Guess) (Late)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="e11a" onclick="exclusiveToggleContent(`e11`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Emergence 11 Icon](images/general/e11.png)**Emergence 11** - Dragons
-            </span>
-        </span>
-        <span id="e11" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Venom Harvester Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**Spurt make discovery! Wyvern tail VERY stingy!<br><br><span style="color:var(--Flavescent)">Increases the effect of Spurt's Wa-spiration: Stingy ability by 80%.</span><code>buff_spurt_waspiration_effect,80,0</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Venom Harvester</span>
-                        <span style="margin-left:15px">Spurt</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Reaching Shadow Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2125**Reaching Shadow (Beadle)**As the sun dips low, shadows loom large. That's when we strike. ~Beadle<br><br><span style="color:var(--Flavescent)">Increases effect of In The Shadows to within three slots.</span><code>change_upgrade_targets,16722<br>change_upgrade_targets,16722</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Reaching Shadow</span>
-                        <span style="margin-left:15px">Beadle</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heavily Armored Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2156**Heavily Armored (Miria)**You have no idea how much suffering a body can take.<br><br><span style="color:var(--Flavescent)">Increases the health of Miria by 60%.</span><code>health_mult,60</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Heavily Armored</span>
-                        <span style="margin-left:15px">Miria</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2157**Weapon Master (Grimm)**Whether giants or dragons, all I need is one good swing.  ~Grimm<br><br><span style="color:var(--Flavescent)">Increases the damage of Grimm by 120%.</span><code>hero_dps_multiplier_mult,120</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Weapon Master</span>
-                        <span style="margin-left:15px">Grimm</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Dragonlance Spurt Skin Icon](images/exclusivities/skin_26421.png)<span class="featTooltipContents">ID: 558**Dragonlance Spurt (Spurt)**<img src="images/exclusivities/skin_26429.gif" alt="Dragonlance Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Dragonlance Spurt</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Highlord Miria Skin Icon](images/exclusivities/skin_26346.png)<span class="featTooltipContents">ID: 557**Highlord Miria (Miria)**<img src="images/exclusivities/skin_26352.gif" alt="Highlord Miria Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Highlord Miria</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Reya Slot 5](images/exclusivities/ge_10395.png)<span class="itemTooltipContents">ID: 2060**Broken Hellrider Sign (Reya)**I put it on the wall in Trollskull. A reminder of where I've been.<br><br><span style="color:var(--Flavescent)">Increases the effect of Reya's Celestial Champion ability by 275%.</span><code>buff_upgrade,275,5458</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Broken Hellrider Sign</span>
-                        <span style="margin-left:15px">Reya (Slot 5)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Grimm Slot 5](images/exclusivities/ge_8087.png)<span class="itemTooltipContents">ID: 3837**Elegant Snow Cloak (Grimm)**Now THIS is a fashion statement! ~Grimm<br><br><span style="color:var(--Flavescent)">Buffs Grimm's Ultimate Attack Damage by 275%.</span><code>buff_ultimate,275</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Elegant Snow Cloak</span>
-                        <span style="margin-left:15px">Grimm (Slot 5)</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>23 April 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 August 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 November 2025 (Guess)</span>
             </span>
         </span>
     </span>
@@ -3471,6 +3391,120 @@ This is the list of recurring events that have had their exclusivity period end.
             </span>
             <span class="postSeasonTableDate">
                 <span>30 July 2025</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e11a" onclick="exclusiveToggleContent(`e11`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 11 Icon](images/general/e11.png)**Emergence 11** - Dragons
+            </span>
+        </span>
+        <span id="e11" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Venom Harvester Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**Spurt make discovery! Wyvern tail VERY stingy!<br><br><span style="color:var(--Flavescent)">Increases the effect of Spurt's Wa-spiration: Stingy ability by 80%.</span><code>buff_spurt_waspiration_effect,80,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Venom Harvester</span>
+                        <span style="margin-left:15px">Spurt</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Reaching Shadow Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2125**Reaching Shadow (Beadle)**As the sun dips low, shadows loom large. That's when we strike. ~Beadle<br><br><span style="color:var(--Flavescent)">Increases effect of In The Shadows to within three slots.</span><code>change_upgrade_targets,16722<br>change_upgrade_targets,16722</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Reaching Shadow</span>
+                        <span style="margin-left:15px">Beadle</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heavily Armored Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2156**Heavily Armored (Miria)**You have no idea how much suffering a body can take.<br><br><span style="color:var(--Flavescent)">Increases the health of Miria by 60%.</span><code>health_mult,60</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Heavily Armored</span>
+                        <span style="margin-left:15px">Miria</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2157**Weapon Master (Grimm)**Whether giants or dragons, all I need is one good swing.  ~Grimm<br><br><span style="color:var(--Flavescent)">Increases the damage of Grimm by 120%.</span><code>hero_dps_multiplier_mult,120</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Weapon Master</span>
+                        <span style="margin-left:15px">Grimm</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Dragonlance Spurt Skin Icon](images/exclusivities/skin_26421.png)<span class="featTooltipContents">ID: 558**Dragonlance Spurt (Spurt)**<img src="images/exclusivities/skin_26429.gif" alt="Dragonlance Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Dragonlance Spurt</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Highlord Miria Skin Icon](images/exclusivities/skin_26346.png)<span class="featTooltipContents">ID: 557**Highlord Miria (Miria)**<img src="images/exclusivities/skin_26352.gif" alt="Highlord Miria Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Highlord Miria</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Reya Slot 5](images/exclusivities/ge_10395.png)<span class="itemTooltipContents">ID: 2060**Broken Hellrider Sign (Reya)**I put it on the wall in Trollskull. A reminder of where I've been.<br><br><span style="color:var(--Flavescent)">Increases the effect of Reya's Celestial Champion ability by 275%.</span><code>buff_upgrade,275,5458</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Broken Hellrider Sign</span>
+                        <span style="margin-left:15px">Reya (Slot 5)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Grimm Slot 5](images/exclusivities/ge_8087.png)<span class="itemTooltipContents">ID: 3837**Elegant Snow Cloak (Grimm)**Now THIS is a fashion statement! ~Grimm<br><br><span style="color:var(--Flavescent)">Buffs Grimm's Ultimate Attack Damage by 275%.</span><code>buff_ultimate,275</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Elegant Snow Cloak</span>
+                        <span style="margin-left:15px">Grimm (Slot 5)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>23 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>01 August 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>01 November 2025 (Guess)</span>
             </span>
         </span>
     </span>
