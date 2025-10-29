@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Shadow-Cursed Halsin Portrait](images/skin_portraits/shadowcursedhalsin.png)<span class="featTooltipContents">ID: 615**Shadow-Cursed Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/shadowcursedhalsin.gif" alt="Shadow-Cursed Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/shadowcursedhalsin-bear.gif" alt="Shadow-Cursed Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Shadow-Cursed Halsin
-        </span>
-        <span class="skinTableSource">
-            Shadow-Cursed Halsin Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            29 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Action Figure Skylla Portrait](images/skin_portraits/actionfigureskylla.png)<span class="featTooltipContents">ID: 616**Action Figure Skylla (Skylla)**<img src="images/skin_models/actionfigureskylla.gif" alt="Action Figure Skylla Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

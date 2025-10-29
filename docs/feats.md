@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Blooshi</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Guardian of the Feywild Icon](images/featicons/shrivelledhand3.png)<span class="featTooltipContents">ID: 2329**Guardian of the Feywild (Blooshi)**I'm back home! And I'm, like, WAY more powerful now! Check this out!<br><br><span style="color:var(--Flavescent)">Blooshi may be used in any The Wild Beyond the Witchlight adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict her.</span><code>force_allow_hero</code></span>Guardian of the Feywild
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Blooshi may be used in any The Wild Beyond the Witchlight adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict her.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Witchlight Cap Variant</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">29 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Halsin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2302**Prodigal Leader (Halsin)**Even those who defile nature inevitably return to it, in the end.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">29 Oct 2025<br>29 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Dark Urge</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Blood Moon Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2303**Blood Moon (Dark Urge)**Time for the final act.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dark Urge's The Urge ability by 80%.</span><code>buff_upgrade,80,14379</code></span>Blood Moon
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Dark Urge's The Urge ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">29 Oct 2025<br>29 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Widdle</span>
         </span>
         <span class="featTableIcon4">

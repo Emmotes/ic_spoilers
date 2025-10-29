@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Form of the Slayer Portrait](images/familiars/formoftheslayer.png)<span class="featTooltipContents">ID: 288**Form of the Slayer**A form for Bhaal's chosen…<img src="images/familiars/formoftheslayer.gif" alt="Form of the Slayer Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Form of the Slayer
-        </span>
-        <span class="skinTableSource">
-            Dark Urge Slayer Familiar & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            29 Oct 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Snug the Spectator Portrait](images/familiars/snugthespectator.png)<span class="featTooltipContents">ID: 290**Snug the Spectator**Surprisingly snuggly for a Spectator.<img src="images/familiars/snugthespectator.gif" alt="Snug the Spectator Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
