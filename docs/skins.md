@@ -60,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Hemomancer Widdle Portrait](images/skin_portraits/hemomancerwiddle.png)<span class="featTooltipContents">ID: 618**Hemomancer Widdle (Widdle)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Hemomancer Widdle Portrait](images/skin_portraits/hemomancerwiddle.png)<span class="featTooltipContents">ID: 618**Hemomancer Widdle (Widdle)**<img src="images/skin_models/hemomancerwiddle.gif" alt="Hemomancer Widdle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Hemomancer Widdle
@@ -158,6 +158,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             19 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Trickster Hank Portrait](images/skin_portraits/tricksterhank.png)<span class="featTooltipContents">ID: 637**Trickster Hank (Hank)**<img src="images/skin_models/tricksterhank.gif" alt="Trickster Hank Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Trickster Hank
+        </span>
+        <span class="skinTableSource">
+            Adventure: Crossover Episode
+        </span>
+        <span class="skinTableCost">
+            Free
+        </span>
+        <span class="skinTableDate">
+            26 Nov 2025
         </span>
     </span>
     <span class="skinTableRow">
@@ -294,6 +311,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             10 Dec 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 638**Cozy Dark Urge (Dark Urge)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Cozy Dark Urge
+        </span>
+        <span class="skinTableSource">
+            Cozy Dark Urge Party Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            11 Dec 2025
         </span>
     </span>
     <span class="skinTableRow">
