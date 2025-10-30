@@ -383,7 +383,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 Miscellaneous spoilers with due dates.
 
 * [Feast of the Moon Augments](augments_3.md) - 5 November 2025
-* EGS Giveaway - Nixie's Champions of Renown Bundle Pack - 6 November 2025
+* EGS Exclusive Giveaway - 6 November 2025
 * [XBox Exclusive Giveaway](platform_giveaway_656.md) - 3 December 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_657.md) - 11 December 2025
 * [Emergence 14](emergence_14.md) - 24 December 2025
