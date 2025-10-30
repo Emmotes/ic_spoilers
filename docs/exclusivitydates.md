@@ -859,13 +859,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g6a" onclick="exclusiveToggleContent(`g6`)">
+                <a id="g7a" onclick="exclusiveToggleContent(`g7`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![EGS Giveaway Nixie's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Nixie's Champions of Renown Pack
             </span>
         </span>
-        <span id="g6" class="postSeasonTableRowShowHide" hidden>
+        <span id="g7" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -898,6 +898,51 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
             <span class="postSeasonTableDate">
                 <span>13 February 2026 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g6a" onclick="exclusiveToggleContent(`g6`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![XBox Giveaway Jang Sao's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Jang Sao's Champions of Renown Pack
+            </span>
+        </span>
+        <span id="g6" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Striker the Blood Hawk Familiar Icon](images/exclusivities/fam_300.png)<span class="featTooltipContents">ID: 300**Striker the Blood Hawk**Beware the screech of Striker!<br><img src="images/exclusivities/fam_300.gif" alt="Striker the Blood Hawk Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Striker the Blood Hawk</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>03 December 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>10 December 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>10 March 2026 (Guess)</span>
             </span>
         </span>
     </span>
