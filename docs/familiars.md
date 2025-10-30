@@ -41,6 +41,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Sting the Scorpion Portrait](images/familiars/stingthescorpion.png)<span class="featTooltipContents">ID: 299**Sting the Scorpion**It's all fun and games till Sting skitters out!<img src="images/familiars/stingthescorpion.gif" alt="Sting the Scorpion Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Sting the Scorpion
+        </span>
+        <span class="skinTableSource">
+            EGS Giveaway - Nixie's Champions of Renown Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            06 Nov 2025
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Lefty the Crawling Claw Portrait](images/familiars/leftythecrawlingclaw.png)<span class="featTooltipContents">ID: 292**Lefty the Crawling Claw**Undeath wrecks your cuticles--you have to stay on top of that.<img src="images/familiars/leftythecrawlingclaw.gif" alt="Lefty the Crawling Claw Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -173,23 +190,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             30 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sting the Scorpion Portrait](images/familiars/stingthescorpion.png)<span class="featTooltipContents">ID: 299**Sting the Scorpion**It's all fun and games till Sting skitters out!<img src="images/familiars/stingthescorpion.gif" alt="Sting the Scorpion Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Sting the Scorpion
-        </span>
-        <span class="skinTableSource">
-            None
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
         </span>
     </span>
 </span>
