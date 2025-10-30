@@ -132,7 +132,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Striker the Blood Hawk
         </span>
         <span class="skinTableSource">
-            Jang Sao's Champions of Renown Pack
+            XBox Giveaway - Jang Sao's Champions of Renown Pack
         </span>
         <span class="skinTableCost">
             0p
