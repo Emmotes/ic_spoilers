@@ -859,6 +859,51 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g6a" onclick="exclusiveToggleContent(`g6`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![EGS Giveaway Nixie's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Nixie's Champions of Renown Pack
+            </span>
+        </span>
+        <span id="g6" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Sting the Scorpion Familiar Icon](images/exclusivities/fam_299.png)<span class="featTooltipContents">ID: 299**Sting the Scorpion**It's all fun and games till Sting skitters out!<br><img src="images/exclusivities/fam_299.gif" alt="Sting the Scorpion Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Sting the Scorpion</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>06 November 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>13 November 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>13 February 2026 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="e13a" onclick="exclusiveToggleContent(`e13`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
