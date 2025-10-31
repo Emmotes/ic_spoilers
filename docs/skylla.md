@@ -35,7 +35,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">4</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -43,7 +43,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Human (Guess)</span>
+            <span style="margin-left:8px;">Human</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -51,7 +51,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Warlock (Guess)</span>
+            <span style="margin-left:8px;">Warlock</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -59,7 +59,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support / Debuff / Control (Guess)</span>
+            <span style="margin-left:8px;">Support / Debuff</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -67,7 +67,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">32</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -75,7 +75,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Female (Guess)</span>
+            <span style="margin-left:8px;">Female</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -83,7 +83,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Chaotic Evil</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -91,7 +91,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">-</span>
         </span>
     </span>
 </span>

@@ -34,7 +34,7 @@ These are the event champions that are upcoming and all the information we know 
                 Skylla
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Warlock (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Warlock</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Feast of the Moon - 5 November 2025</span>
@@ -209,7 +209,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Skylla
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Warlock (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Warlock</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
