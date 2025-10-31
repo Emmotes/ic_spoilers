@@ -220,7 +220,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Eldritch Staff** (Melee and Magic)
-> Skylla attacks a random enemy with her staff for one hit, and zaps another random enemy for 1 hit.  
+> Skylla attacks a random enemy with her staff for 1 hit, and zaps another random enemy for 1 hit.  
 > Cooldown: 4.5s (Cap 1.125s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -228,7 +228,7 @@ Skylla will be a new champion in the Feast of the Moon event on 5 November 2025.
 {
     "id": 907,
     "name": "Eldritch Staff",
-    "description": "Skylla attacks a random enemy with her staff for one hit, and zaps another random enemy for 1 hit.",
+    "description": "Skylla attacks a random enemy with her staff for 1 hit, and zaps another random enemy for 1 hit.",
     "long_description": "",
     "graphic_id": 0,
     "target": "random",
