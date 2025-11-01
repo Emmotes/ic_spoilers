@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/767.png">
-            <span class="weekendTooltipContents">ID: 767**Gold Accessory Chest**Loot for: Celeste, Makos, Warduke, Ellywick and Strongheart<code>"for_crusaders":[2,9,116,83,126]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Figures of Action**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    31 October 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Strongheart
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/warduke.png'">
-                        <span class="weekendTableChampionNameplate">Warduke</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/ellywick.png'">
-                        <span class="weekendTableChampionNameplate">Ellywick</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/strongheart.png'">
-                        <span class="weekendTableChampionNameplate">Strongheart</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/771.png">
             <span class="weekendTooltipContents">ID: 771**Gold All Star Chest**Loot for: Minsc, Asharra, Widdle, Kalix and Skylla<code>"for_crusaders":[7,6,91,158,169]</code></span>
         </span>
