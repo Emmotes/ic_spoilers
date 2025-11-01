@@ -565,24 +565,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Dragon Hoard Beadle Skin Icon](images/exclusivities/skin_26557.png)<span class="featTooltipContents">ID: 569**Dragon Hoard Beadle (Beadle)**<img src="images/exclusivities/skin_26551.gif" alt="Dragon Hoard Beadle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Dragon Hoard Beadle</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Dragon Slayer Grimm Skin Icon](images/exclusivities/skin_26558.png)<span class="featTooltipContents">ID: 570**Dragon Slayer Grimm (Grimm)**<img src="images/exclusivities/skin_26554.gif" alt="Dragon Slayer Grimm Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Dragon Slayer Grimm</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
                         <span class="tooltipHolder">![Verdigrin the Baby Copper Dragon Familiar Icon](images/exclusivities/fam_269.png)<span class="featTooltipContents">ID: 269**Verdigrin the Baby Copper Dragon**Ready for a life full of wonder and possibility.<br><img src="images/exclusivities/fam_269.gif" alt="Verdigrin the Baby Copper Dragon Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
@@ -610,8 +592,8 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableDate">
                 <span>01 August 2025</span>
             </span>
-            <span class="postSeasonTableDate">
-                <span>01 November 2025 (Guess)</span>
+            <span class="postSeasonTableDateLate">
+                <span>01 November 2025 (Guess) (Late)</span>
             </span>
         </span>
     </span>
