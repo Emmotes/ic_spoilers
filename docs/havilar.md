@@ -114,7 +114,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Leadership Summit** (Guess)
-> Havilar increases the damage of all Champions in the 2 columns behind her by 400%.
+> Havilar increases the damage of herself and all Champions in the 2 columns behind her by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -122,7 +122,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2495,
     "flavour_text": "",
     "description": {
-        "desc": "Havilar increases the damage of all Champions in the 2 columns behind her by $amount%."
+        "desc": "Havilar increases the damage of herself and all Champions in the 2 columns behind her by $amount%."
     },
     "effect_keys": [
         {
@@ -211,7 +211,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Mott** (Guess)
-> Havilar gains Mot as her first Imp companion. Havilar's Imps attack random enemies with Fire of Asmodeus every 4.3 seconds. Mot increases the effect of Leadership Summit by 100% for each Tiefling Champion in the formation, stacking multiplicatively.
+> Havilar gains Mot as her first Imp companion. Havilar's Imps attack random enemies with Fire of Asmodeus every 4.3 seconds. Mot increases the effect of Leadership Summit by 100% for each Tiefling or Dragonborn Champion in the formation, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -221,7 +221,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2497,
     "flavour_text": "",
     "description": {
-        "desc": "Havilar gains Mot as her first Imp companion. Havilar's Imps attack random enemies with Fire of Asmodeus every 4.3 seconds. Mot increases the effect of Leadership Summit by $amount___2% for each Tiefling Champion in the formation, stacking multiplicatively."
+        "desc": "Havilar gains Mot as her first Imp companion. Havilar's Imps attack random enemies with Fire of Asmodeus every 4.3 seconds. Mot increases the effect of Leadership Summit by $amount___2% for each Tiefling or Dragonborn Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
