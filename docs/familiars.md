@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Snug the Spectator Portrait](images/familiars/snugthespectator.png)<span class="featTooltipContents">ID: 290**Snug the Spectator**Surprisingly snuggly for a Spectator.<img src="images/familiars/snugthespectator.gif" alt="Snug the Spectator Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Snug the Spectator
-        </span>
-        <span class="skinTableSource">
-            Snug the Spectator Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            03 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Spite the Sprite Portrait](images/familiars/spitethesprite.png)<span class="featTooltipContents">ID: 291**Spite the Sprite**A sprite as spiteful as their master is frightful.<img src="images/familiars/spitethesprite.gif" alt="Spite the Sprite Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
