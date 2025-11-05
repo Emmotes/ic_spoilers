@@ -860,7 +860,7 @@ Upgrades:
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Hypnotic Pattern** (Level: 170)
+![Hypnotic Pattern Icon](images/skylla/icon_hypnoticpattern.png) **Hypnotic Pattern** (Level: 170)
 > Skylla creates a twisting pattern of colors above the enemies for 15 seconds. All enemies take 5 seconds of BUD-based damage when hit by any Champion for the duration. Additionally, all enemies, including any that spawn, are Stunned for the duration or until they take damage, whichever is shorter.
 <details><summary><em>Raw Data</em></summary>
 <p>
