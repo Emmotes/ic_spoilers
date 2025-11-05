@@ -129,7 +129,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "hero_dps_multiplier_mult,400",
             "off_when_benched": true,
             "targets": [
-                "prev_two_col"
+                "self_and_prev_two_col"
             ],
             "amount_updated_listeners": [
                 "slot_changed",
@@ -239,7 +239,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_expr": "upgrade_amount(18038,1)",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`tiefling`)",
+            "per_hero_expr": "HasTag(`tiefling`) || HasTag(`dragonborn`)",
             "show_bonus": true
         }
     ],
